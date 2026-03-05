@@ -1,0 +1,10 @@
+[package]
+name = "geo_engine"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rstar = "0.12"
+rkyv = "0.8.15"
+rkyv_derive = "0.8.15"
+memmap2 = "0.9.10"
