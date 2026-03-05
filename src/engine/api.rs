@@ -6,8 +6,8 @@ use crate::engine::error::GeoEngineError;
 use crate::engine::model::Country;
 use crate::engine::{index::SpatialIndex, lookup::find_country, runtime::GeoEngine};
 
-const COUNTRY_DB_PATH: &str = "geo.db";
-const STATE_DB_PATH: &str = "state_in.db";
+const BUNDLED_COUNTRY_DB: &[u8] = include_bytes!("../../geo.db");
+const BUNDLED_STATE_DB: &[u8] = include_bytes!("../../state_in.db");
 
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct Region {
@@ -22,7 +22,12 @@ pub struct LookupResult {
 }
 
 pub fn lookup(lat: f32, lon: f32) -> Result<LookupResult, GeoEngineError> {
-    lookup_with_paths(lat, lon, Path::new(COUNTRY_DB_PATH), Path::new(STATE_DB_PATH))
+    lookup_with_engines(
+        lat,
+        lon,
+        GeoEngine::from_static_bytes(BUNDLED_COUNTRY_DB),
+        GeoEngine::from_static_bytes(BUNDLED_STATE_DB),
+    )
 }
 
 pub fn lookup_with_paths(
@@ -32,6 +37,24 @@ pub fn lookup_with_paths(
     state_db_path: &Path,
 ) -> Result<LookupResult, GeoEngineError> {
     let engine = GeoEngine::open(country_db_path)?;
+    let state_engine = GeoEngine::open(state_db_path).map_err(|err| match err {
+        GeoEngineError::DatabaseOpen { source, .. } | GeoEngineError::DatabaseMap { source, .. } => {
+            GeoEngineError::StateDatabaseUnavailable {
+                path: PathBuf::from(state_db_path),
+                source,
+            }
+        }
+        other => other,
+    })?;
+    lookup_with_engines(lat, lon, engine, state_engine)
+}
+
+fn lookup_with_engines(
+    lat: f32,
+    lon: f32,
+    engine: GeoEngine,
+    state_engine: GeoEngine,
+) -> Result<LookupResult, GeoEngineError> {
     let index = SpatialIndex::build(engine.countries());
     let country = find_country(lat, lon, &index)?;
     let country_region = region_from_archived(&country.name, &country.iso2);
@@ -42,16 +65,6 @@ pub fn lookup_with_paths(
             state: None,
         });
     }
-
-    let state_engine = GeoEngine::open(state_db_path).map_err(|err| match err {
-        GeoEngineError::DatabaseOpen { source, .. } | GeoEngineError::DatabaseMap { source, .. } => {
-            GeoEngineError::StateDatabaseUnavailable {
-                path: PathBuf::from(state_db_path),
-                source,
-            }
-        }
-        other => other,
-    })?;
 
     let state_index = SpatialIndex::build(state_engine.countries());
     let state = find_country(lat, lon, &state_index).map_err(|err| match err {

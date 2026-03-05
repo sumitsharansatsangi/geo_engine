@@ -9,7 +9,12 @@ use super::error::GeoEngineError;
 use super::model::{Country, GeoDB};
 
 pub struct GeoEngine {
-    mmap: Mmap,
+    storage: Storage,
+}
+
+enum Storage {
+    Mmap(Mmap),
+    Static(&'static [u8]),
 }
 
 impl GeoEngine {
@@ -26,11 +31,23 @@ impl GeoEngine {
             source,
         })?;
 
-        Ok(Self { mmap })
+        Ok(Self {
+            storage: Storage::Mmap(mmap),
+        })
+    }
+
+    pub fn from_static_bytes(bytes: &'static [u8]) -> Self {
+        Self {
+            storage: Storage::Static(bytes),
+        }
     }
 
     pub fn countries(&self) -> &Archived<Vec<Country>> {
-        let db: &Archived<GeoDB> = unsafe { rkyv::access_unchecked(&self.mmap) };
+        let bytes: &[u8] = match &self.storage {
+            Storage::Mmap(mmap) => &mmap[..],
+            Storage::Static(bytes) => bytes,
+        };
+        let db: &Archived<GeoDB> = unsafe { rkyv::access_unchecked(bytes) };
         &db.countries
     }
 }
