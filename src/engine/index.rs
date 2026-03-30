@@ -1,5 +1,5 @@
-use rstar::{AABB, RTree, RTreeObject};
 use rkyv::Archived;
+use rstar::{AABB, RTree, RTreeObject};
 
 use crate::engine::model::Country;
 
@@ -19,7 +19,6 @@ impl<'a> RTreeObject for CountryBBox<'a> {
     }
 }
 
-
 pub struct SpatialIndex<'a> {
     tree: RTree<CountryBBox<'a>>,
 }
@@ -36,9 +35,7 @@ impl<'a> SpatialIndex<'a> {
         Self { tree }
     }
 
-    pub fn candidates(&self, lat: f32, lon: f32)
-        -> Vec<&'a Archived<Country>>
-    {
+    pub fn candidates(&self, lat: f32, lon: f32) -> Vec<&'a Archived<Country>> {
         let point = [lon, lat];
         let envelope = AABB::from_point(point);
 

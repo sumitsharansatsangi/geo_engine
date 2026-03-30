@@ -8,6 +8,9 @@ fn main() {
             if let Some(state) = result.state {
                 println!("State: {} ({})", state.name, state.iso2);
             }
+            if let Some(district) = result.district {
+                println!("District: {} ({})", district.name, district.iso2);
+            }
         }
         Err(err) => {
             eprintln!("Lookup failed: {}", err);

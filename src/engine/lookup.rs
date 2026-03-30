@@ -1,8 +1,8 @@
 use rkyv::Archived;
 
 use super::error::GeoEngineError;
-use super::model::Country;
 use super::index::SpatialIndex;
+use super::model::Country;
 use super::polygon::point_in_ring;
 
 pub fn find_country<'a>(

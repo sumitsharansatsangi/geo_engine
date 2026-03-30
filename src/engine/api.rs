@@ -6,8 +6,26 @@ use crate::engine::error::GeoEngineError;
 use crate::engine::model::Country;
 use crate::engine::{index::SpatialIndex, lookup::find_country, runtime::GeoEngine};
 
-const BUNDLED_COUNTRY_DB: &[u8] = include_bytes!("../../geo.db");
-const BUNDLED_STATE_DB: &[u8] = include_bytes!("../../state_in.db");
+macro_rules! include_bytes_aligned {
+    ($align_ty:ty, $path:literal) => {{
+        #[repr(C)]
+        struct AlignedAs<Align, Bytes: ?Sized> {
+            _align: [Align; 0],
+            bytes: Bytes,
+        }
+
+        static ALIGNED: &AlignedAs<$align_ty, [u8]> = &AlignedAs {
+            _align: [],
+            bytes: *include_bytes!($path),
+        };
+
+        &ALIGNED.bytes
+    }};
+}
+
+static BUNDLED_COUNTRY_DB: &[u8] = include_bytes_aligned!(u32, "../../geo.db");
+static BUNDLED_STATE_DB: &[u8] = include_bytes_aligned!(u32, "../../state_in.db");
+static BUNDLED_DISTRICT_DB: &[u8] = include_bytes_aligned!(u32, "../../district_in.db");
 
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct Region {
@@ -19,6 +37,7 @@ pub struct Region {
 pub struct LookupResult {
     pub country: Region,
     pub state: Option<Region>,
+    pub district: Option<Region>,
 }
 
 pub fn lookup(lat: f32, lon: f32) -> Result<LookupResult, GeoEngineError> {
@@ -27,6 +46,7 @@ pub fn lookup(lat: f32, lon: f32) -> Result<LookupResult, GeoEngineError> {
         lon,
         GeoEngine::from_static_bytes(BUNDLED_COUNTRY_DB),
         GeoEngine::from_static_bytes(BUNDLED_STATE_DB),
+        Some(GeoEngine::from_static_bytes(BUNDLED_DISTRICT_DB)),
     )
 }
 
@@ -36,17 +56,42 @@ pub fn lookup_with_paths(
     country_db_path: &Path,
     state_db_path: &Path,
 ) -> Result<LookupResult, GeoEngineError> {
+    lookup_with_district_path(lat, lon, country_db_path, state_db_path, None)
+}
+
+pub fn lookup_with_district_path(
+    lat: f32,
+    lon: f32,
+    country_db_path: &Path,
+    state_db_path: &Path,
+    district_db_path: Option<&Path>,
+) -> Result<LookupResult, GeoEngineError> {
     let engine = GeoEngine::open(country_db_path)?;
     let state_engine = GeoEngine::open(state_db_path).map_err(|err| match err {
-        GeoEngineError::DatabaseOpen { source, .. } | GeoEngineError::DatabaseMap { source, .. } => {
-            GeoEngineError::StateDatabaseUnavailable {
-                path: PathBuf::from(state_db_path),
-                source,
-            }
-        }
+        GeoEngineError::DatabaseOpen { source, .. }
+        | GeoEngineError::DatabaseMap { source, .. } => GeoEngineError::StateDatabaseUnavailable {
+            path: PathBuf::from(state_db_path),
+            source,
+        },
         other => other,
     })?;
-    lookup_with_engines(lat, lon, engine, state_engine)
+    let district_engine =
+        district_db_path
+            .map(GeoEngine::open)
+            .transpose()
+            .map_err(|err| match err {
+                GeoEngineError::DatabaseOpen { source, .. }
+                | GeoEngineError::DatabaseMap { source, .. } => {
+                    GeoEngineError::DistrictDatabaseUnavailable {
+                        path: PathBuf::from(
+                            district_db_path.expect("district path should be available"),
+                        ),
+                        source,
+                    }
+                }
+                other => other,
+            })?;
+    lookup_with_engines(lat, lon, engine, state_engine, district_engine)
 }
 
 fn lookup_with_engines(
@@ -54,6 +99,7 @@ fn lookup_with_engines(
     lon: f32,
     engine: GeoEngine,
     state_engine: GeoEngine,
+    district_engine: Option<GeoEngine>,
 ) -> Result<LookupResult, GeoEngineError> {
     let index = SpatialIndex::build(engine.countries());
     let country = find_country(lat, lon, &index)?;
@@ -63,6 +109,7 @@ fn lookup_with_engines(
         return Ok(LookupResult {
             country: country_region,
             state: None,
+            district: None,
         });
     }
 
@@ -72,9 +119,21 @@ fn lookup_with_engines(
         other => other,
     })?;
 
+    let district = district_engine
+        .map(|engine| {
+            let district_index = SpatialIndex::build(engine.countries());
+            match find_country(lat, lon, &district_index) {
+                Ok(district) => Ok(Some(region_from_archived(&district.name, &district.iso2))),
+                Err(GeoEngineError::CountryNotFound { .. }) => Ok(None),
+                Err(other) => Err(other),
+            }
+        })
+        .transpose()?;
+
     Ok(LookupResult {
         country: country_region,
         state: Some(region_from_archived(&state.name, &state.iso2)),
+        district: district.flatten(),
     })
 }
 
