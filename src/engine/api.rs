@@ -25,7 +25,6 @@ macro_rules! include_bytes_aligned {
 
 static BUNDLED_COUNTRY_DB: &[u8] = include_bytes_aligned!(u32, "../../geo.db");
 static BUNDLED_STATE_DB: &[u8] = include_bytes_aligned!(u32, "../../state_in.db");
-static BUNDLED_DISTRICT_DB: &[u8] = include_bytes_aligned!(u32, "../../district_in.db");
 
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct Region {
@@ -41,12 +40,31 @@ pub struct LookupResult {
 }
 
 pub fn lookup(lat: f32, lon: f32) -> Result<LookupResult, GeoEngineError> {
+    let district_db_path = Path::new("district_in.db");
+    if !district_db_path.exists() {
+        panic!(
+            "❌ district_in.db missing\n\
+            👉 Run: cargo run --bin build_district_db\n\
+            👉 Expected location: {:?}",
+            district_db_path
+        );
+    }
+
+    let district_engine = GeoEngine::open(district_db_path).map_err(|err| match err {
+        GeoEngineError::DatabaseOpen { source, .. }
+        | GeoEngineError::DatabaseMap { source, .. } => GeoEngineError::DistrictDatabaseUnavailable {
+            path: PathBuf::from(district_db_path),
+            source,
+        },
+        other => other,
+    })?;
+
     lookup_with_engines(
         lat,
         lon,
         GeoEngine::from_static_bytes(BUNDLED_COUNTRY_DB),
         GeoEngine::from_static_bytes(BUNDLED_STATE_DB),
-        Some(GeoEngine::from_static_bytes(BUNDLED_DISTRICT_DB)),
+        Some(district_engine),
     )
 }
 

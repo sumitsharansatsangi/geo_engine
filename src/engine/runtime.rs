@@ -4,6 +4,7 @@ use std::path::Path;
 use std::path::PathBuf;
 
 use rkyv::Archived;
+use rkyv::util::AlignedVec;
 
 use super::error::GeoEngineError;
 use super::model::{Country, GeoDB};
@@ -15,6 +16,7 @@ pub struct GeoEngine {
 enum Storage {
     Mmap(Mmap),
     Static(&'static [u8]),
+    Owned(AlignedVec),
 }
 
 impl GeoEngine {
@@ -31,6 +33,20 @@ impl GeoEngine {
             source,
         })?;
 
+        if is_zstd(&mmap[..]) {
+            let decoded = zstd::stream::decode_all(&mmap[..]).map_err(|source| {
+                GeoEngineError::DatabaseMap {
+                    path: PathBuf::from(path_ref),
+                    source,
+                }
+            })?;
+            let mut aligned = AlignedVec::with_capacity(decoded.len());
+            aligned.extend_from_slice(&decoded);
+            return Ok(Self {
+                storage: Storage::Owned(aligned),
+            });
+        }
+
         Ok(Self {
             storage: Storage::Mmap(mmap),
         })
@@ -46,8 +62,14 @@ impl GeoEngine {
         let bytes: &[u8] = match &self.storage {
             Storage::Mmap(mmap) => &mmap[..],
             Storage::Static(bytes) => bytes,
+            Storage::Owned(bytes) => bytes,
         };
-        let db: &Archived<GeoDB> = unsafe { rkyv::access_unchecked(bytes) };
+        let db: &Archived<GeoDB> = rkyv::access::<Archived<GeoDB>, rkyv::rancor::Error>(bytes)
+            .unwrap_or_else(|_| unsafe { rkyv::access_unchecked(bytes) });
         &db.countries
     }
+}
+
+fn is_zstd(bytes: &[u8]) -> bool {
+    bytes.len() >= 4 && bytes[0..4] == [0x28, 0xB5, 0x2F, 0xFD]
 }

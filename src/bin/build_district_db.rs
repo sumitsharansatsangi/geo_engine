@@ -1,4 +1,5 @@
 use std::collections::BTreeMap;
+use std::env;
 use std::error::Error;
 use std::f64::consts::{FRAC_PI_2, FRAC_PI_4};
 use std::fs;
@@ -34,7 +35,7 @@ struct ShapeRecord {
 #[derive(Debug)]
 struct DistrictFeature {
     name: String,
-    iso2: [u8; 2],
+    code: [u8; 2],
     polygons: Vec<Vec<(f32, f32)>>,
     bbox: [f32; 4],
 }
@@ -113,8 +114,8 @@ impl LambertConformalConic {
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
-    let shp_path = "/Users/amitsharan/Downloads/91/DISTRICT_BOUNDARY.shp";
-    let dbf_path = "/Users/amitsharan/Downloads/91/DISTRICT_BOUNDARY.dbf";
+    let shp_path = "/Users/amitsharan/Downloads/DISTRICT_BOUNDARY/DISTRICT_BOUNDARY.shp";
+    let dbf_path = "/Users/amitsharan/Downloads/DISTRICT_BOUNDARY/DISTRICT_BOUNDARY.dbf";
     let output_path = "/Users/amitsharan/rustProject/geo_engine/district_in.db";
 
     let dbf_records = read_dbf_records(Path::new(dbf_path))?;
@@ -122,7 +123,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 
     if dbf_records.len() != shape_records.len() {
         return Err(format!(
-            "shape/attribute count mismatch: {} shapes vs {} rows",
+            "shape/attribute mismatch: {} vs {}",
             shape_records.len(),
             dbf_records.len()
         )
@@ -130,7 +131,18 @@ fn main() -> Result<(), Box<dyn Error>> {
     }
 
     let projector = LambertConformalConic::india_lcc();
+    let simplify_tolerance_m = env::var("DISTRICT_SIMPLIFY_TOLERANCE_M")
+        .ok()
+        .and_then(|v| v.parse::<f64>().ok())
+        .unwrap_or(20.0);
+    let min_vertex_spacing_m = env::var("DISTRICT_MIN_VERTEX_SPACING_M")
+        .ok()
+        .and_then(|v| v.parse::<f64>().ok())
+        .unwrap_or(1.5);
+
     let mut districts: BTreeMap<(String, String), DistrictFeature> = BTreeMap::new();
+    let mut total_input_vertices = 0usize;
+    let mut total_output_vertices = 0usize;
 
     for (record, shape) in dbf_records.into_iter().zip(shape_records) {
         if record.district.is_empty()
@@ -149,23 +161,30 @@ fn main() -> Result<(), Box<dyn Error>> {
             .entry((record.state.clone(), record.district.clone()))
             .or_insert_with(|| DistrictFeature {
                 name: record.district.clone(),
-                iso2: short_code(&record.district),
+                code: short_code(&record.district),
                 polygons: Vec::new(),
                 bbox: [f32::INFINITY, f32::INFINITY, f32::NEG_INFINITY, f32::NEG_INFINITY],
             });
 
         for ring in polygons.drain(..) {
+            total_input_vertices += ring.len();
+            let ring = simplify_ring(ring, simplify_tolerance_m, min_vertex_spacing_m);
+            total_output_vertices += ring.len();
             let mut transformed = Vec::with_capacity(ring.len());
+
             for (x, y) in ring {
                 let (lon, lat) = projector.inverse(x, y);
                 let lon = lon as f32;
                 let lat = lat as f32;
+
                 entry.bbox[0] = entry.bbox[0].min(lon);
                 entry.bbox[1] = entry.bbox[1].min(lat);
                 entry.bbox[2] = entry.bbox[2].max(lon);
                 entry.bbox[3] = entry.bbox[3].max(lat);
+
                 transformed.push((lon, lat));
             }
+
             if transformed.len() >= 3 {
                 entry.polygons.push(transformed);
             }
@@ -174,20 +193,45 @@ fn main() -> Result<(), Box<dyn Error>> {
 
     let countries = districts
         .into_values()
-        .filter(|district| !district.polygons.is_empty())
-        .map(|district| Country {
-            name: district.name,
-            iso2: district.iso2,
-            bbox: district.bbox,
-            polygons: district.polygons,
+        .filter(|d| !d.polygons.is_empty())
+        .map(|d| Country {
+            name: d.name,
+            iso2: d.code,
+            bbox: d.bbox,
+            polygons: d.polygons,
         })
         .collect();
 
     let db = GeoDB { countries };
     let bytes = to_bytes::<RkyvError>(&db)?;
-    fs::write(output_path, &bytes)?;
+    let compressed = zstd::stream::encode_all(&bytes[..], 12)?;
+    let output_bytes = if compressed.len() < bytes.len() {
+        compressed
+    } else {
+        bytes.to_vec()
+    };
+    fs::write(output_path, &output_bytes)?;
 
-    println!("wrote {output_path}");
+    println!("✅ wrote {output_path}");
+    println!(
+        "ℹ️ vertex reduction: {} -> {} ({:.1}% kept)",
+        total_input_vertices,
+        total_output_vertices,
+        if total_input_vertices == 0 {
+            0.0
+        } else {
+            (total_output_vertices as f64 / total_input_vertices as f64) * 100.0
+        }
+    );
+    println!(
+        "ℹ️ simplification config: DISTRICT_SIMPLIFY_TOLERANCE_M={}, DISTRICT_MIN_VERTEX_SPACING_M={}",
+        simplify_tolerance_m, min_vertex_spacing_m
+    );
+    println!(
+        "ℹ️ serialized size: raw={} bytes, written={} bytes",
+        bytes.len(),
+        output_bytes.len()
+    );
     Ok(())
 }
 
@@ -223,14 +267,20 @@ fn read_dbf_records(path: &Path) -> Result<Vec<DbfRecord>, Box<dyn Error>> {
         offset = header_len;
     }
 
-    let state_idx = fields
-        .iter()
-        .position(|(name, _)| name == "STATE_UT")
-        .ok_or_else(|| io::Error::new(io::ErrorKind::InvalidData, "missing STATE_UT field"))?;
-    let district_idx = fields
-        .iter()
-        .position(|(name, _)| name == "DISTRICT")
-        .ok_or_else(|| io::Error::new(io::ErrorKind::InvalidData, "missing DISTRICT field"))?;
+    let state_idx = find_field_index(&fields, &["STATE_UT", "STATE", "ST_NM", "STATE_NAME"]);
+    let district_idx = find_field_index(
+        &fields,
+        &["DISTRICT", "DIST_NAME", "DISTRICT_NM", "DIST_NAME_1"],
+    );
+    let fid_idx = find_field_index(&fields, &["FID", "OBJECTID", "ID"]);
+
+    if district_idx.is_none() && fid_idx.is_none() {
+        return Err(io::Error::new(
+            io::ErrorKind::InvalidData,
+            "missing district field (expected DISTRICT or FID fallback)",
+        )
+        .into());
+    }
 
     let mut records = Vec::with_capacity(record_count);
     for _ in 0..record_count {
@@ -248,6 +298,7 @@ fn read_dbf_records(path: &Path) -> Result<Vec<DbfRecord>, Box<dyn Error>> {
         let mut field_offset = 1usize;
         let mut state = String::new();
         let mut district = String::new();
+        let mut fid = String::new();
 
         for (index, (_, length)) in fields.iter().enumerate() {
             let end = field_offset + *length;
@@ -260,12 +311,21 @@ fn read_dbf_records(path: &Path) -> Result<Vec<DbfRecord>, Box<dyn Error>> {
             }
 
             let value = decode_dbf_string(&record[field_offset..end]);
-            if index == state_idx {
+            if Some(index) == state_idx {
                 state = value;
-            } else if index == district_idx {
+            } else if Some(index) == district_idx {
                 district = value;
+            } else if Some(index) == fid_idx {
+                fid = value;
             }
             field_offset = end;
+        }
+
+        if state.is_empty() {
+            state = "UNKNOWN".to_string();
+        }
+        if district.is_empty() && !fid.is_empty() {
+            district = format!("DISTRICT_{fid}");
         }
 
         records.push(DbfRecord { state, district });
@@ -392,6 +452,14 @@ fn decode_dbf_string(bytes: &[u8]) -> String {
         .to_string()
 }
 
+fn find_field_index(fields: &[(String, usize)], candidates: &[&str]) -> Option<usize> {
+    fields.iter().position(|(name, _)| {
+        candidates
+            .iter()
+            .any(|candidate| name.eq_ignore_ascii_case(candidate))
+    })
+}
+
 fn short_code(name: &str) -> [u8; 2] {
     let mut code = [b' '; 2];
     let mut chars = name
@@ -407,6 +475,81 @@ fn short_code(name: &str) -> [u8; 2] {
     }
 
     code
+}
+
+fn simplify_ring(
+    mut ring: Vec<(f64, f64)>,
+    simplify_tolerance_m: f64,
+    min_vertex_spacing_m: f64,
+) -> Vec<(f64, f64)> {
+    if ring.len() < 4 {
+        return ring;
+    }
+
+    // Many shapefile rings repeat the first point at the end.
+    if squared_distance(*ring.first().expect("non-empty"), *ring.last().expect("non-empty"))
+        <= min_vertex_spacing_m * min_vertex_spacing_m
+    {
+        ring.pop();
+    }
+
+    if ring.len() < 4 {
+        return ring;
+    }
+
+    let mut deduped = Vec::with_capacity(ring.len());
+    deduped.push(ring[0]);
+    for point in ring.into_iter().skip(1) {
+        if squared_distance(*deduped.last().expect("non-empty"), point)
+            > min_vertex_spacing_m * min_vertex_spacing_m
+        {
+            deduped.push(point);
+        }
+    }
+
+    if deduped.len() < 4 || simplify_tolerance_m <= 0.0 {
+        return deduped;
+    }
+
+    let mut kept = Vec::with_capacity(deduped.len());
+    let n = deduped.len();
+    let tol_sq = simplify_tolerance_m * simplify_tolerance_m;
+    for i in 0..n {
+        let prev = deduped[(i + n - 1) % n];
+        let curr = deduped[i];
+        let next = deduped[(i + 1) % n];
+        if point_segment_distance_sq(curr, prev, next) > tol_sq {
+            kept.push(curr);
+        }
+    }
+
+    if kept.len() >= 3 { kept } else { deduped }
+}
+
+fn squared_distance(a: (f64, f64), b: (f64, f64)) -> f64 {
+    let dx = a.0 - b.0;
+    let dy = a.1 - b.1;
+    dx * dx + dy * dy
+}
+
+fn point_segment_distance_sq(p: (f64, f64), a: (f64, f64), b: (f64, f64)) -> f64 {
+    let abx = b.0 - a.0;
+    let aby = b.1 - a.1;
+    let apx = p.0 - a.0;
+    let apy = p.1 - a.1;
+    let ab_len_sq = abx * abx + aby * aby;
+
+    if ab_len_sq == 0.0 {
+        return squared_distance(p, a);
+    }
+
+    let t = (apx * abx + apy * aby) / ab_len_sq;
+    let t = t.clamp(0.0, 1.0);
+    let cx = a.0 + t * abx;
+    let cy = a.1 + t * aby;
+    let dx = p.0 - cx;
+    let dy = p.1 - cy;
+    dx * dx + dy * dy
 }
 
 fn read_u16_le(bytes: &[u8], offset: usize) -> Result<u16, io::Error> {
