@@ -15,7 +15,6 @@ pub struct GeoEngine {
 
 enum Storage {
     Mmap(Mmap),
-    Static(&'static [u8]),
     Owned(AlignedVec),
 }
 
@@ -52,16 +51,9 @@ impl GeoEngine {
         })
     }
 
-    pub fn from_static_bytes(bytes: &'static [u8]) -> Self {
-        Self {
-            storage: Storage::Static(bytes),
-        }
-    }
-
     pub fn countries(&self) -> &Archived<Vec<Country>> {
         let bytes: &[u8] = match &self.storage {
             Storage::Mmap(mmap) => &mmap[..],
-            Storage::Static(bytes) => bytes,
             Storage::Owned(bytes) => bytes,
         };
         let db: &Archived<GeoDB> = rkyv::access::<Archived<GeoDB>, rkyv::rancor::Error>(bytes)
