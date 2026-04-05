@@ -7,6 +7,5 @@ default-run = "geo_engine"
 [dependencies]
 rstar = "0.12"
 rkyv = "0.8.15"
-rkyv_derive = "0.8.15"
 memmap2 = "0.9.10"
 zstd = "0.13"
