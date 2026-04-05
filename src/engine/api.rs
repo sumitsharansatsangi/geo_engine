@@ -1,3 +1,4 @@
+use std::io;
 use std::path::{Path, PathBuf};
 
 use rkyv::{Archived, string::ArchivedString};
@@ -40,6 +41,17 @@ pub struct LookupResult {
 }
 
 pub fn lookup(lat: f32, lon: f32) -> Result<LookupResult, GeoEngineError> {
+    let country_engine = GeoEngine::from_static_bytes(BUNDLED_COUNTRY_DB);
+    let country = lookup_country(lat, lon, &country_engine)?;
+
+    if !country.is_india {
+        return Ok(LookupResult {
+            country: country.region,
+            state: None,
+            district: None,
+        });
+    }
+
     let district_db_path = Path::new("district_in.db");
     if !district_db_path.exists() {
         panic!(
@@ -59,11 +71,11 @@ pub fn lookup(lat: f32, lon: f32) -> Result<LookupResult, GeoEngineError> {
         other => other,
     })?;
 
-    lookup_with_engines(
+    lookup_india_with_engines(
         lat,
         lon,
-        GeoEngine::from_static_bytes(BUNDLED_COUNTRY_DB),
-        GeoEngine::from_static_bytes(BUNDLED_STATE_DB),
+        country.region,
+        Some(GeoEngine::from_static_bytes(BUNDLED_STATE_DB)),
         Some(district_engine),
     )
 }
@@ -72,7 +84,7 @@ pub fn lookup_with_paths(
     lat: f32,
     lon: f32,
     country_db_path: &Path,
-    state_db_path: &Path,
+    state_db_path: Option<&Path>,
 ) -> Result<LookupResult, GeoEngineError> {
     lookup_with_district_path(lat, lon, country_db_path, state_db_path, None)
 }
@@ -81,18 +93,21 @@ pub fn lookup_with_district_path(
     lat: f32,
     lon: f32,
     country_db_path: &Path,
-    state_db_path: &Path,
+    state_db_path: Option<&Path>,
     district_db_path: Option<&Path>,
 ) -> Result<LookupResult, GeoEngineError> {
     let engine = GeoEngine::open(country_db_path)?;
-    let state_engine = GeoEngine::open(state_db_path).map_err(|err| match err {
-        GeoEngineError::DatabaseOpen { source, .. }
-        | GeoEngineError::DatabaseMap { source, .. } => GeoEngineError::StateDatabaseUnavailable {
-            path: PathBuf::from(state_db_path),
-            source,
-        },
-        other => other,
-    })?;
+    let country = lookup_country(lat, lon, &engine)?;
+
+    if !country.is_india {
+        return Ok(LookupResult {
+            country: country.region,
+            state: None,
+            district: None,
+        });
+    }
+
+    let state_engine = open_state_engine(state_db_path.ok_or_else(missing_state_database_error)?)?;
     let district_engine =
         district_db_path
             .map(GeoEngine::open)
@@ -109,27 +124,24 @@ pub fn lookup_with_district_path(
                 }
                 other => other,
             })?;
-    lookup_with_engines(lat, lon, engine, state_engine, district_engine)
+
+    lookup_india_with_engines(lat, lon, country.region, Some(state_engine), district_engine)
 }
 
-fn lookup_with_engines(
+fn lookup_india_with_engines(
     lat: f32,
     lon: f32,
-    engine: GeoEngine,
-    state_engine: GeoEngine,
+    country: Region,
+    state_engine: Option<GeoEngine>,
     district_engine: Option<GeoEngine>,
 ) -> Result<LookupResult, GeoEngineError> {
-    let index = SpatialIndex::build(engine.countries());
-    let country = find_country(lat, lon, &index)?;
-    let country_region = region_from_archived(&country.name, &country.iso2);
-
-    if !is_india(country) {
-        return Ok(LookupResult {
-            country: country_region,
-            state: None,
-            district: None,
-        });
-    }
+    let state_engine = state_engine.ok_or_else(|| GeoEngineError::StateDatabaseUnavailable {
+        path: PathBuf::from("<not provided>"),
+        source: io::Error::new(
+            io::ErrorKind::NotFound,
+            "state lookup required but state database was not provided",
+        ),
+    })?;
 
     let state_index = SpatialIndex::build(state_engine.countries());
     let state = find_country(lat, lon, &state_index).map_err(|err| match err {
@@ -149,9 +161,44 @@ fn lookup_with_engines(
         .transpose()?;
 
     Ok(LookupResult {
-        country: country_region,
+        country,
         state: Some(region_from_archived(&state.name, &state.iso2)),
         district: district.flatten(),
+    })
+}
+
+fn open_state_engine(state_db_path: &Path) -> Result<GeoEngine, GeoEngineError> {
+    GeoEngine::open(state_db_path).map_err(|err| match err {
+        GeoEngineError::DatabaseOpen { source, .. }
+        | GeoEngineError::DatabaseMap { source, .. } => GeoEngineError::StateDatabaseUnavailable {
+            path: PathBuf::from(state_db_path),
+            source,
+        },
+        other => other,
+    })
+}
+
+fn missing_state_database_error() -> GeoEngineError {
+    GeoEngineError::StateDatabaseUnavailable {
+        path: PathBuf::from("<not provided>"),
+        source: io::Error::new(
+            io::ErrorKind::NotFound,
+            "state lookup required but state database was not provided",
+        ),
+    }
+}
+
+struct CountryLookup {
+    region: Region,
+    is_india: bool,
+}
+
+fn lookup_country(lat: f32, lon: f32, engine: &GeoEngine) -> Result<CountryLookup, GeoEngineError> {
+    let index = SpatialIndex::build(engine.countries());
+    let country = find_country(lat, lon, &index)?;
+    Ok(CountryLookup {
+        region: region_from_archived(&country.name, &country.iso2),
+        is_india: is_india(country),
     })
 }
 
