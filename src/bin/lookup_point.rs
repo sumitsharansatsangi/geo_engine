@@ -23,6 +23,11 @@ fn main() {
             if let Some(district) = result.district {
                 println!("District: {} ({})", district.name, district.iso2);
             }
+
+            match geo_engine::lookup_place(lat, lon) {
+                Ok(place) => println!("Place: {place}"),
+                Err(err) => eprintln!("Place format failed: {err}"),
+            }
         }
         Err(err) => {
             eprintln!("Lookup failed: {err}");

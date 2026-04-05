@@ -1,6 +1,6 @@
 use std::path::PathBuf;
 
-use geo_engine::{GeoEngineError, lookup, lookup_with_district_path, lookup_with_paths};
+use geo_engine::{GeoEngineError, lookup, lookup_place, lookup_with_district_path, lookup_with_paths};
 
 fn db_paths() -> (PathBuf, PathBuf, PathBuf) {
     let root = PathBuf::from(env!("CARGO_MANIFEST_DIR"));
@@ -204,4 +204,10 @@ fn lookup_with_paths_requires_state_db_for_india_points() {
         }
         other => panic!("unexpected error: {other}"),
     }
+}
+
+#[test]
+fn lookup_place_formats_district_state_country() {
+    let place = lookup_place(25.5941, 85.1376).expect("bundled lookup should format place string");
+    assert_eq!(place, "Patna, Bihar, India");
 }

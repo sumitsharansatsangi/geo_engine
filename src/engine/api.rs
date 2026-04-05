@@ -40,6 +40,11 @@ pub struct LookupResult {
     pub district: Option<Region>,
 }
 
+pub fn lookup_place(lat: f32, lon: f32) -> Result<String, GeoEngineError> {
+    let result = lookup(lat, lon)?;
+    Ok(format_place(&result))
+}
+
 pub fn lookup(lat: f32, lon: f32) -> Result<LookupResult, GeoEngineError> {
     let country_engine = GeoEngine::from_static_bytes(BUNDLED_COUNTRY_DB);
     let country = lookup_country(lat, lon, &country_engine)?;
@@ -212,4 +217,16 @@ fn region_from_archived(name: &ArchivedString, iso2: &Archived<[u8; 2]>) -> Regi
 fn is_india(country: &Archived<Country>) -> bool {
     (country.iso2[0] == b'I' && country.iso2[1] == b'N')
         || country.name.as_str().eq_ignore_ascii_case("india")
+}
+
+fn format_place(result: &LookupResult) -> String {
+    let mut parts: Vec<&str> = Vec::with_capacity(3);
+    if let Some(district) = result.district.as_ref() {
+        parts.push(district.name.as_str());
+    }
+    if let Some(state) = result.state.as_ref() {
+        parts.push(state.name.as_str());
+    }
+    parts.push(result.country.name.as_str());
+    parts.join(", ")
 }

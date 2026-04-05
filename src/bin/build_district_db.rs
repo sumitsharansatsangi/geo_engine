@@ -114,12 +114,15 @@ impl LambertConformalConic {
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
-    let shp_path = "/Users/amitsharan/Downloads/DISTRICT_BOUNDARY/DISTRICT_BOUNDARY.shp";
-    let dbf_path = "/Users/amitsharan/Downloads/DISTRICT_BOUNDARY/DISTRICT_BOUNDARY.dbf";
-    let output_path = "/Users/amitsharan/rustProject/geo_engine/district_in.db";
+    let shp_path = env::var("DISTRICT_SHP_PATH")
+        .unwrap_or_else(|_| "/Users/amitsharan/Downloads/91/DISTRICT_BOUNDARY.shp".to_string());
+    let dbf_path = env::var("DISTRICT_DBF_PATH")
+        .unwrap_or_else(|_| "/Users/amitsharan/Downloads/91/DISTRICT_BOUNDARY.dbf".to_string());
+    let output_path = env::var("DISTRICT_OUTPUT_PATH")
+        .unwrap_or_else(|_| "/Users/amitsharan/rustProject/geo_engine/district_in.db".to_string());
 
-    let dbf_records = read_dbf_records(Path::new(dbf_path))?;
-    let shape_records = read_shape_records(Path::new(shp_path))?;
+    let dbf_records = read_dbf_records(Path::new(&dbf_path))?;
+    let shape_records = read_shape_records(Path::new(&shp_path))?;
 
     if dbf_records.len() != shape_records.len() {
         return Err(format!(
@@ -219,7 +222,7 @@ fn main() -> Result<(), Box<dyn Error>> {
     } else {
         bytes.to_vec()
     };
-    fs::write(output_path, &output_bytes)?;
+    fs::write(&output_path, &output_bytes)?;
 
     println!("✅ wrote {output_path}");
     println!(
