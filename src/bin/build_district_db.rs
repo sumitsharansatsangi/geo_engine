@@ -139,6 +139,15 @@ fn main() -> Result<(), Box<dyn Error>> {
         .ok()
         .and_then(|v| v.parse::<f64>().ok())
         .unwrap_or(1.5);
+    let coordinate_precision_dp = env::var("DISTRICT_COORD_PRECISION_DP")
+        .ok()
+        .and_then(|v| v.parse::<u32>().ok())
+        .unwrap_or(4);
+    let coordinate_scale = 10f32.powi(coordinate_precision_dp.min(7) as i32);
+    let zstd_level = env::var("DISTRICT_ZSTD_LEVEL")
+        .ok()
+        .and_then(|v| v.parse::<i32>().ok())
+        .unwrap_or(19);
 
     let mut districts: BTreeMap<(String, String), DistrictFeature> = BTreeMap::new();
     let mut total_input_vertices = 0usize;
@@ -174,8 +183,8 @@ fn main() -> Result<(), Box<dyn Error>> {
 
             for (x, y) in ring {
                 let (lon, lat) = projector.inverse(x, y);
-                let lon = lon as f32;
-                let lat = lat as f32;
+                let lon = quantize_coord(lon as f32, coordinate_scale);
+                let lat = quantize_coord(lat as f32, coordinate_scale);
 
                 entry.bbox[0] = entry.bbox[0].min(lon);
                 entry.bbox[1] = entry.bbox[1].min(lat);
@@ -204,7 +213,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 
     let db = GeoDB { countries };
     let bytes = to_bytes::<RkyvError>(&db)?;
-    let compressed = zstd::stream::encode_all(&bytes[..], 12)?;
+    let compressed = zstd::stream::encode_all(&bytes[..], zstd_level)?;
     let output_bytes = if compressed.len() < bytes.len() {
         compressed
     } else {
@@ -228,11 +237,20 @@ fn main() -> Result<(), Box<dyn Error>> {
         simplify_tolerance_m, min_vertex_spacing_m
     );
     println!(
+        "ℹ️ storage config: DISTRICT_COORD_PRECISION_DP={}, DISTRICT_ZSTD_LEVEL={}",
+        coordinate_precision_dp.min(7),
+        zstd_level
+    );
+    println!(
         "ℹ️ serialized size: raw={} bytes, written={} bytes",
         bytes.len(),
         output_bytes.len()
     );
     Ok(())
+}
+
+fn quantize_coord(value: f32, scale: f32) -> f32 {
+    (value * scale).round() / scale
 }
 
 fn read_dbf_records(path: &Path) -> Result<Vec<DbfRecord>, Box<dyn Error>> {
