@@ -12,7 +12,7 @@ use crate::engine::{index::SpatialIndex, lookup::find_country, runtime::GeoEngin
 
 static GLOBAL_ENGINES: OnceLock<EngineSet> = OnceLock::new();
 const GITHUB_RAW_BASE_URL: &str =
-    "https://raw.githubusercontent.com/sumitsharansatsangi/geo_engine/main";
+    "https://raw.githubusercontent.com/sumitsharansatsangi/geo_engine/refs/heads/main";
 
 struct EngineSet {
     country: GeoEngine,

@@ -62,7 +62,7 @@ Use when DB files may be missing locally:
 
 Default remote base URL:
 
-- `https://raw.githubusercontent.com/sumitsharansatsangi/geo_engine/main`
+- `https://raw.githubusercontent.com/sumitsharansatsangi/geo_engine/refs/heads/main`
 
 Override with env var:
 
