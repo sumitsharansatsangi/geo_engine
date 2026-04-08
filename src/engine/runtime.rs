@@ -3,8 +3,8 @@ use std::fs::File;
 use std::path::Path;
 use std::path::PathBuf;
 
-use rkyv::Archived;
 use rkyv::util::AlignedVec;
+use rkyv::Archived;
 
 use super::error::GeoEngineError;
 use super::model::{Country, GeoDB};

@@ -1,5 +1,5 @@
 use rkyv::Archived;
-use rstar::{AABB, RTree, RTreeObject};
+use rstar::{RTree, RTreeObject, AABB};
 
 use crate::engine::model::Country;
 

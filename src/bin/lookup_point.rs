@@ -6,19 +6,21 @@ fn main() {
     let mut args = env::args().skip(1);
     let lat = parse_coord(args.next(), "latitude");
     let lon = parse_coord(args.next(), "longitude");
+    let geo_path = args.next().unwrap_or_else(|| {
+        print_usage_and_exit("missing geo.db path");
+    });
+    let subdistrict_path = args.next().unwrap_or_else(|| {
+        print_usage_and_exit("missing subdistrict.db path");
+    });
 
     if args.next().is_some() {
         print_usage_and_exit("received too many arguments");
     }
 
-    let country_db = Path::new("geo.db");
-    let subdistrict_db = Path::new("subdistrict.db");
-    if let Err(err) = geo_engine::init_databases(country_db, subdistrict_db) {
-        eprintln!("Initialization failed: {err}");
-        process::exit(1);
-    }
+    let geo_db = Path::new(&geo_path);
+    let subdistrict_db = Path::new(&subdistrict_path);
 
-    match geo_engine::lookup(lat, lon) {
+    match geo_engine::lookup_with_subdistrict_path(lat, lon, geo_db, Some(subdistrict_db)) {
         Ok(result) => {
             println!("Latitude: {lat}");
             println!("Longitude: {lon}");
@@ -34,11 +36,6 @@ fn main() {
 
             if let Some(subdistrict) = result.subdistrict {
                 println!("Subdistrict: {} ({})", subdistrict.name, subdistrict.iso2);
-            }
-
-            match geo_engine::lookup_place(lat, lon) {
-                Ok(place) => println!("Place: {place}"),
-                Err(err) => eprintln!("Place format failed: {err}"),
             }
         }
         Err(err) => {
@@ -60,6 +57,6 @@ fn parse_coord(value: Option<String>, label: &str) -> f32 {
 
 fn print_usage_and_exit(message: &str) -> ! {
     eprintln!("{message}");
-    eprintln!("Usage: cargo run --bin lookup_point -- <latitude> <longitude>");
+    eprintln!("Usage: cargo run --bin lookup_point -- <latitude> <longitude> <geo.db path> <subdistrict.db path>");
     process::exit(2);
 }
