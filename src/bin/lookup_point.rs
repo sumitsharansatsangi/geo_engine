@@ -57,6 +57,8 @@ fn parse_coord(value: Option<String>, label: &str) -> f32 {
 
 fn print_usage_and_exit(message: &str) -> ! {
     eprintln!("{message}");
-    eprintln!("Usage: cargo run --bin lookup_point -- <latitude> <longitude> <geo.db path> <subdistrict.db path>");
+    eprintln!(
+        "Usage: cargo run --bin lookup_point -- <latitude> <longitude> <geo.db path> <subdistrict.db path>"
+    );
     process::exit(2);
 }

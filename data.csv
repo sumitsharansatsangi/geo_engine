@@ -1,0 +1,2389 @@
+lang_code,language_name,district_uni_code,district_name,usage_type,major_religion
+anp,Angika,IN-BR-BGP,Bhagalpur,primary,Hinduism
+hi,Hindi,IN-BR-BGP,Bhagalpur,administrative,Hinduism
+ur,Urdu,IN-BR-BGP,Bhagalpur,major,Hinduism
+
+anp,Angika,IN-BR-BKA,Banka,primary,Hinduism
+hi,Hindi,IN-BR-BKA,Banka,administrative,Hinduism
+
+anp,Angika,IN-BR-MGR,Munger,primary,Hinduism
+hi,Hindi,IN-BR-MGR,Munger,administrative,Hinduism
+
+anp,Angika,IN-BR-LKR,Lakhisarai,primary,Hinduism
+hi,Hindi,IN-BR-LKR,Lakhisarai,administrative,Hinduism
+
+anp,Angika,IN-BR-BGS,Begusarai,primary,Hinduism
+hi,Hindi,IN-BR-BGS,Begusarai,administrative,Hinduism
+ur,Urdu,IN-BR-BGS,Begusarai,major,Hinduism
+
+anp,Angika,IN-BR-KHG,Khagaria,primary,Hinduism
+hi,Hindi,IN-BR-KHG,Khagaria,administrative,Hinduism
+
+anp,Angika,IN-BR-PRN,Purnia,major,Hinduism
+hi,Hindi,IN-BR-PRN,Purnia,administrative,Hinduism
+ur,Urdu,IN-BR-PRN,Purnia,major,Hinduism
+
+anp,Angika,IN-BR-KAT,Katihar,major,Islam
+hi,Hindi,IN-BR-KAT,Katihar,administrative,Islam
+ur,Urdu,IN-BR-KAT,Katihar,major,Islam
+bn,Bengali,IN-BR-KAT,Katihar,minor,Islam
+
+anp,Angika,IN-BR-MDP,Madhepura,major,Hinduism
+hi,Hindi,IN-BR-MDP,Madhepura,administrative,Hinduism
+
+mai,Maithili,IN-BR-MDB,Madhubani,primary,Hinduism
+hi,Hindi,IN-BR-MDB,Madhubani,administrative,Hinduism
+ur,Urdu,IN-BR-MDB,Madhubani,major,Hinduism
+
+mai,Maithili,IN-BR-DBG,Darbhanga,primary,Hinduism
+hi,Hindi,IN-BR-DBG,Darbhanga,administrative,Hinduism
+ur,Urdu,IN-BR-DBG,Darbhanga,major,Hinduism
+
+mai,Maithili,IN-BR-STM,Sitamarhi,primary,Hinduism
+hi,Hindi,IN-BR-STM,Sitamarhi,administrative,Hinduism
+ur,Urdu,IN-BR-STM,Sitamarhi,major,Hinduism
+
+mai,Maithili,IN-BR-SHR,Sheohar,primary,Hinduism
+hi,Hindi,IN-BR-SHR,Sheohar,administrative,Hinduism
+
+mai,Maithili,IN-BR-SUP,Supaul,primary,Hinduism
+hi,Hindi,IN-BR-SUP,Supaul,administrative,Hinduism
+
+mai,Maithili,IN-BR-SHS,Saharsa,primary,Hinduism
+hi,Hindi,IN-BR-SHS,Saharsa,administrative,Hinduism
+
+mai,Maithili,IN-BR-VSL,Vaishali,major,Hinduism
+hi,Hindi,IN-BR-VSL,Vaishali,administrative,Hinduism
+ur,Urdu,IN-BR-VSL,Vaishali,major,Hinduism
+
+mai,Maithili,IN-BR-SMP,Samastipur,major,Hinduism
+hi,Hindi,IN-BR-SMP,Samastipur,administrative,Hinduism
+ur,Urdu,IN-BR-SMP,Samastipur,major,Hinduism
+
+mai,Maithili,IN-BR-ARI,Araria,major,Islam
+hi,Hindi,IN-BR-ARI,Araria,administrative,Islam
+ur,Urdu,IN-BR-ARI,Araria,major,Islam
+
+mai,Maithili,IN-BR-KSG,Kishanganj,major,Islam
+hi,Hindi,IN-BR-KSG,Kishanganj,administrative,Islam
+ur,Urdu,IN-BR-KSG,Kishanganj,major,Islam
+bn,Bengali,IN-BR-KSG,Kishanganj,major,Islam
+
+mag,Magahi,IN-BR-GYA,Gaya,primary,Hinduism
+hi,Hindi,IN-BR-GYA,Gaya,administrative,Hinduism
+ur,Urdu,IN-BR-GYA,Gaya,major,Hinduism
+
+mag,Magahi,IN-BR-NLD,Nalanda,primary,Hinduism
+hi,Hindi,IN-BR-NLD,Nalanda,administrative,Hinduism
+
+mag,Magahi,IN-BR-NWD,Nawada,primary,Hinduism
+hi,Hindi,IN-BR-NWD,Nawada,administrative,Hinduism
+
+mag,Magahi,IN-BR-KMR,Kaimur (Bhabua),major,Hinduism
+hi,Hindi,IN-BR-KMR,Kaimur (Bhabua),administrative,Hinduism
+
+mag,Magahi,IN-BR-AUR,Aurangabad,primary,Hinduism
+hi,Hindi,IN-BR-AUR,Aurangabad,administrative,Hinduism
+
+mag,Magahi,IN-BR-ARW,Arwal,primary,Hinduism
+hi,Hindi,IN-BR-ARW,Arwal,administrative,Hinduism
+
+mag,Magahi,IN-BR-SKP,Sheikhpura,primary,Hinduism
+hi,Hindi,IN-BR-SKP,Sheikhpura,administrative,Hinduism
+
+mag,Magahi,IN-BR-PAT,Patna,major,Hinduism
+hi,Hindi,IN-BR-PAT,Patna,administrative,Hinduism
+ur,Urdu,IN-BR-PAT,Patna,major,Hinduism
+
+bho,Bhojpuri,IN-BR-PCH,Pashchim Champaran,primary,Hinduism
+hi,Hindi,IN-BR-PCH,Pashchim Champaran,administrative,Hinduism
+ur,Urdu,IN-BR-PCH,Pashchim Champaran,major,Hinduism
+
+bho,Bhojpuri,IN-BR-ECH,Purbi Champaran,primary,Hinduism
+hi,Hindi,IN-BR-ECH,Purbi Champaran,administrative,Hinduism
+ur,Urdu,IN-BR-ECH,Purbi Champaran,major,Hinduism
+
+bho,Bhojpuri,IN-BR-GOP,Gopalganj,primary,Hinduism
+hi,Hindi,IN-BR-GOP,Gopalganj,administrative,Hinduism
+
+bho,Bhojpuri,IN-BR-SIW,Siwan,primary,Hinduism
+hi,Hindi,IN-BR-SIW,Siwan,administrative,Hinduism
+ur,Urdu,IN-BR-SIW,Siwan,major,Hinduism
+
+bho,Bhojpuri,IN-BR-SRN,Saran,primary,Hinduism
+hi,Hindi,IN-BR-SRN,Saran,administrative,Hinduism
+ur,Urdu,IN-BR-SRN,Saran,major,Hinduism
+
+bho,Bhojpuri,IN-BR-BHP,Bhojpur,primary,Hinduism
+hi,Hindi,IN-BR-BHP,Bhojpur,administrative,Hinduism
+
+bho,Bhojpuri,IN-BR-BXR,Buxar,primary,Hinduism
+hi,Hindi,IN-BR-BXR,Buxar,administrative,Hinduism
+
+bho,Bhojpuri,IN-BR-RHT,Rohtas,primary,Hinduism
+hi,Hindi,IN-BR-RHT,Rohtas,administrative,Hinduism
+
+bho,Bhojpuri,IN-BR-KMR,Kaimur (Bhabua),major,Hinduism
+hi,Hindi,IN-BR-KMR,Kaimur (Bhabua),administrative,Hinduism
+
+bho,Bhojpuri,IN-BR-MZP,Muzaffarpur,major,Hinduism
+hi,Hindi,IN-BR-MZP,Muzaffarpur,administrative,Hinduism
+ur,Urdu,IN-BR-MZP,Muzaffarpur,major,Hinduism
+
+bho,Bhojpuri,IN-BR-JMU,Jamui,major,Hinduism
+hi,Hindi,IN-BR-JMU,Jamui,administrative,Hinduism
+
+kru,Kurukh (Oraon),IN-JH-RNC,Ranchi,major,Hinduism
+hoc,Ho,IN-JH-RNC,Ranchi,minor,Hinduism
+hi,Hindi,IN-JH-RNC,Ranchi,administrative,Hinduism
+nag,Nagpuri,IN-JH-RNC,Ranchi,primary,Hinduism
+
+sat,Santali,IN-JH-DMK,Dumka,primary,Hinduism
+hi,Hindi,IN-JH-DMK,Dumka,administrative,Hinduism
+bn,Bengali,IN-JH-DMK,Dumka,major,Hinduism
+
+sat,Santali,IN-JH-PKR,Pakur,primary,Islam
+hi,Hindi,IN-JH-PKR,Pakur,administrative,Islam
+bn,Bengali,IN-JH-PKR,Pakur,major,Islam
+
+sat,Santali,IN-JH-GDD,Godda,major,Hinduism
+hi,Hindi,IN-JH-GDD,Godda,administrative,Hinduism
+bn,Bengali,IN-JH-GDD,Godda,major,Hinduism
+
+sat,Santali,IN-JH-SHG,Sahebganj,primary,Islam
+hi,Hindi,IN-JH-SHG,Sahebganj,administrative,Islam
+bn,Bengali,IN-JH-SHG,Sahebganj,major,Islam
+sat,Santali,IN-JH-JMT,Jamtara,primary,Hinduism
+hi,Hindi,IN-JH-JMT,Jamtara,administrative,Hinduism
+bn,Bengali,IN-JH-JMT,Jamtara,major,Hinduism
+
+hoc,Ho,IN-JH-WSB,West Singhbhum,primary,Hinduism
+hi,Hindi,IN-JH-WSB,West Singhbhum,administrative,Hinduism
+sat,Santali,IN-JH-WSB,West Singhbhum,major,Hinduism
+
+hoc,Ho,IN-JH-ESB,East Singhbum,major,Hinduism
+sat,Santali,IN-JH-ESB,East Singhbum,major,Hinduism
+hi,Hindi,IN-JH-ESB,East Singhbum,administrative,Hinduism
+bn,Bengali,IN-JH-ESB,East Singhbum,minor,Hinduism
+
+hoc,Ho,IN-JH-SRK,Saraikela Kharsawan,primary,Hinduism
+sat,Santali,IN-JH-SRK,Saraikela Kharsawan,major,Hinduism
+hi,Hindi,IN-JH-SRK,Saraikela Kharsawan,administrative,Hinduism
+
+kru,Kurukh (Oraon),IN-JH-GML,Gumla,primary,Christianity
+hi,Hindi,IN-JH-GML,Gumla,administrative,Christianity
+nag,Nagpuri,IN-JH-GML,Gumla,major,Christianity
+
+kru,Kurukh (Oraon),IN-JH-LHD,Lohardaga,primary,Christianity
+hi,Hindi,IN-JH-LHD,Lohardaga,administrative,Christianity
+nag,Nagpuri,IN-JH-LHD,Lohardaga,major,Christianity
+
+kru,Kurukh (Oraon),IN-JH-SMD,Simdega,primary,Christianity
+hi,Hindi,IN-JH-SMD,Simdega,administrative,Christianity
+
+nag,Nagpuri,IN-JH-KHT,Khunti,primary,Christianity
+kru,Kurukh (Oraon),IN-JH-KHT,Khunti,major,Christianity
+hi,Hindi,IN-JH-KHT,Khunti,administrative,Christianity
+
+hi,Hindi,IN-JH-BKR,Bokaro,administrative,Hinduism
+kha,Kharia,IN-JH-BKR,Bokaro,minor,Hinduism
+mag,Magahi,IN-JH-BKR,Bokaro,major,Hinduism
+
+hi,Hindi,IN-JH-DHB,Dhanbad,administrative,Hinduism
+bn,Bengali,IN-JH-DHB,Dhanbad,major,Hinduism
+mag,Magahi,IN-JH-DHB,Dhanbad,major,Hinduism
+
+hi,Hindi,IN-JH-GRD,Giridih,administrative,Hinduism
+mag,Magahi,IN-JH-GRD,Giridih,primary,Hinduism
+
+hi,Hindi,IN-JH-KDM,Koderma,administrative,Hinduism
+mag,Magahi,IN-JH-KDM,Koderma,primary,Hinduism
+
+hi,Hindi,IN-JH-HZB,Hazaribagh,administrative,Hinduism
+mag,Magahi,IN-JH-HZB,Hazaribagh,primary,Hinduism
+
+hi,Hindi,IN-JH-RMG,Ramgarh,administrative,Hinduism
+mag,Magahi,IN-JH-RMG,Ramgarh,major,Hinduism
+
+hi,Hindi,IN-JH-CHT,Chatra,administrative,Hinduism
+mag,Magahi,IN-JH-CHT,Chatra,primary,Hinduism
+
+hi,Hindi,IN-JH-PLM,Palamu,administrative,Hinduism
+bho,Bhojpuri,IN-JH-PLM,Palamu,primary,Hinduism
+
+hi,Hindi,IN-JH-GRW,Garhwa,administrative,Hinduism
+bho,Bhojpuri,IN-JH-GRW,Garhwa,primary,Hinduism
+
+hi,Hindi,IN-JH-LTH,Latehar,administrative,Hinduism
+bho,Bhojpuri,IN-JH-LTH,Latehar,major,Hinduism
+kru,Kurukh (Oraon),IN-JH-LTH,Latehar,major,Hinduism
+
+hi,Hindi,IN-JH-DGR,Deoghar,administrative,Hinduism
+ang,Angika,IN-JH-DGR,Deoghar,primary,Hinduism
+
+hi,Hindi,IN-UP-LKO,Lucknow,administrative,Hinduism
+ur,Urdu,IN-UP-LKO,Lucknow,major,Hinduism
+awa,Awadhi,IN-UP-LKO,Lucknow,primary,Hinduism
+
+hi,Hindi,IN-UP-AYD,Ayodhya,administrative,Hinduism
+awa,Awadhi,IN-UP-AYD,Ayodhya,primary,Hinduism
+
+hi,Hindi,IN-UP-BRW,Barabanki,administrative,Hinduism
+awa,Awadhi,IN-UP-BRW,Barabanki,primary,Hinduism
+
+hi,Hindi,IN-UP-SUL,Sultanpur,administrative,Hinduism
+awa,Awadhi,IN-UP-SUL,Sultanpur,primary,Hinduism
+
+hi,Hindi,IN-UP-AMT,Amethi,administrative,Hinduism
+awa,Awadhi,IN-UP-AMT,Amethi,primary,Hinduism
+
+hi,Hindi,IN-UP-RBL,Raebareli,administrative,Hinduism
+awa,Awadhi,IN-UP-RBL,Raebareli,primary,Hinduism
+
+hi,Hindi,IN-UP-PRT,Pratapgarh,administrative,Hinduism
+awa,Awadhi,IN-UP-PRT,Pratapgarh,primary,Hinduism
+
+hi,Hindi,IN-UP-JNP,Jaunpur,administrative,Hinduism
+bho,Bhojpuri,IN-UP-JNP,Jaunpur,primary,Hinduism
+
+hi,Hindi,IN-UP-AZM,Azamgarh,administrative,Hinduism
+bho,Bhojpuri,IN-UP-AZM,Azamgarh,primary,Hinduism
+
+hi,Hindi,IN-UP-MAU,Mau,administrative,Hinduism
+bho,Bhojpuri,IN-UP-MAU,Mau,primary,Hinduism
+
+hi,Hindi,IN-UP-BLR,Ballia,administrative,Hinduism
+bho,Bhojpuri,IN-UP-BLR,Ballia,primary,Hinduism
+
+hi,Hindi,IN-UP-GZP,Ghazipur,administrative,Hinduism
+bho,Bhojpuri,IN-UP-GZP,Ghazipur,primary,Hinduism
+
+hi,Hindi,IN-UP-VNS,Varanasi,administrative,Hinduism
+bho,Bhojpuri,IN-UP-VNS,Varanasi,major,Hinduism
+awa,Awadhi,IN-UP-VNS,Varanasi,major,Hinduism
+
+hi,Hindi,IN-UP-MRZ,Mirzapur,administrative,Hinduism
+bfq,Bagheli,IN-UP-MRZ,Mirzapur,primary,Hinduism
+
+hi,Hindi,IN-UP-SNB,Sonbhadra,administrative,Hinduism
+bfq,Bagheli,IN-UP-SNB,Sonbhadra,primary,Hinduism
+
+hi,Hindi,IN-UP-ALH,Aligarh,administrative,Hinduism
+bra,Braj,IN-UP-ALH,Aligarh,primary,Hinduism
+
+hi,Hindi,IN-UP-MTR,Mathura,administrative,Hinduism
+bra,Braj,IN-UP-MTR,Mathura,primary,Hinduism
+
+hi,Hindi,IN-UP-AGR,Agra,administrative,Hinduism
+bra,Braj,IN-UP-AGR,Agra,primary,Hinduism
+
+hi,Hindi,IN-UP-FBD,Firozabad,administrative,Hinduism
+bra,Braj,IN-UP-FBD,Firozabad,primary,Hinduism
+
+hi,Hindi,IN-UP-ETW,Etawah,administrative,Hinduism
+kfy,Kannauji,IN-UP-ETW,Etawah,primary,Hinduism
+
+hi,Hindi,IN-UP-KNN,Kannauj,administrative,Hinduism
+kfy,Kannauji,IN-UP-KNN,Kannauj,primary,Hinduism
+
+hi,Hindi,IN-UP-KNP,Kanpur Nagar,administrative,Hinduism
+kfy,Kannauji,IN-UP-KNP,Kanpur Nagar,primary,Hinduism
+
+hi,Hindi,IN-UP-BND,Banda,administrative,Hinduism
+bns,Bundeli,IN-UP-BND,Banda,primary,Hinduism
+
+hi,Hindi,IN-UP-CHT,Chitrakoot,administrative,Hinduism
+bns,Bundeli,IN-UP-CHT,Chitrakoot,primary,Hinduism
+
+hi,Hindi,IN-UP-JHS,Jhansi,administrative,Hinduism
+bns,Bundeli,IN-UP-JHS,Jhansi,primary,Hinduism
+
+hi,Hindi,IN-UP-LLT,Lalitpur,administrative,Hinduism
+bns,Bundeli,IN-UP-LLT,Lalitpur,primary,Hinduism
+
+hi,Hindi,IN-UP-GKP,Gorakhpur,administrative,Hinduism
+bho,Bhojpuri,IN-UP-GKP,Gorakhpur,primary,Hinduism
+
+hi,Hindi,IN-UP-DVR,Deoria,administrative,Hinduism
+bho,Bhojpuri,IN-UP-DVR,Deoria,primary,Hinduism
+
+hi,Hindi,IN-UP-KSN,Kushinagar,administrative,Hinduism
+bho,Bhojpuri,IN-UP-KSN,Kushinagar,primary,Hinduism
+
+hi,Hindi,IN-UP-BST,Basti,administrative,Hinduism
+awa,Awadhi,IN-UP-BST,Basti,primary,Hinduism
+
+hi,Hindi,IN-UP-GND,Gonda,administrative,Hinduism
+awa,Awadhi,IN-UP-GND,Gonda,primary,Hinduism
+
+hi,Hindi,IN-UP-BHR,Bahraich,administrative,Hinduism
+awa,Awadhi,IN-UP-BHR,Bahraich,primary,Hinduism
+
+hi,Hindi,IN-UP-SHR,Shravasti,administrative,Hinduism
+awa,Awadhi,IN-UP-SHR,Shravasti,primary,Hinduism
+
+hi,Hindi,IN-UP-SHP,Saharanpur,administrative,Hinduism
+hi,Hindi,IN-UP-SHP,Saharanpur,primary,Hinduism
+
+hi,Hindi,IN-UP-MRT,Meerut,administrative,Hinduism
+hi,Hindi,IN-UP-MRT,Meerut,primary,Hinduism
+
+hi,Hindi,IN-UP-GZB,Ghaziabad,administrative,Hinduism
+hi,Hindi,IN-UP-GZB,Ghaziabad,primary,Hinduism
+
+hi,Hindi,IN-UP-NDA,Noida (Gautam Buddha Nagar),administrative,Hinduism
+hi,Hindi,IN-UP-NDA,Noida (Gautam Buddha Nagar),primary,Hinduism
+
+kfy,Kumaoni,IN-UK-ALM,Almora,primary,Hinduism
+hi,Hindi,IN-UK-ALM,Almora,administrative,Hinduism
+
+kfy,Kumaoni,IN-UK-BGW,Bageshwar,primary,Hinduism
+hi,Hindi,IN-UK-BGW,Bageshwar,administrative,Hinduism
+
+kfy,Kumaoni,IN-UK-CMT,Champawat,primary,Hinduism
+hi,Hindi,IN-UK-CMT,Champawat,administrative,Hinduism
+
+kfy,Kumaoni,IN-UK-PIT,Pithoragarh,primary,Hinduism
+hi,Hindi,IN-UK-PIT,Pithoragarh,administrative,Hinduism
+
+kfy,Kumaoni,IN-UK-NNL,Nainital,major,Hinduism
+hi,Hindi,IN-UK-NNL,Nainital,administrative,Hinduism
+
+kfy,Kumaoni,IN-UK-USN,Udham Singh Nagar,major,Hinduism
+hi,Hindi,IN-UK-USN,Udham Singh Nagar,administrative,Hinduism
+pa,Punjabi,IN-UK-USN,Udham Singh Nagar,major,Hinduism
+ur,Urdu,IN-UK-USN,Udham Singh Nagar,major,Hinduism
+
+gbm,Garhwali,IN-UK-CML,Chamoli,primary,Hinduism
+hi,Hindi,IN-UK-CML,Chamoli,administrative,Hinduism
+
+gbm,Garhwali,IN-UK-PGR,Pauri Garhwal,primary,Hinduism
+hi,Hindi,IN-UK-PGR,Pauri Garhwal,administrative,Hinduism
+
+gbm,Garhwali,IN-UK-RDP,Rudraprayag,primary,Hinduism
+hi,Hindi,IN-UK-RDP,Rudraprayag,administrative,Hinduism
+
+gbm,Garhwali,IN-UK-TRG,Tehri Garhwal,primary,Hinduism
+hi,Hindi,IN-UK-TRG,Tehri Garhwal,administrative,Hinduism
+
+gbm,Garhwali,IN-UK-UTS,Uttarkashi,primary,Hinduism
+hi,Hindi,IN-UK-UTS,Uttarkashi,administrative,Hinduism
+
+gbm,Garhwali,IN-UK-DDN,Dehradun,major,Hinduism
+hi,Hindi,IN-UK-DDN,Dehradun,administrative,Hinduism
+ur,Urdu,IN-UK-DDN,Dehradun,major,Hinduism
+pa,Punjabi,IN-UK-DDN,Dehradun,major,Hinduism
+
+gbm,Garhwali,IN-UK-HRW,Haridwar,major,Hinduism
+hi,Hindi,IN-UK-HRW,Haridwar,administrative,Hinduism
+ur,Urdu,IN-UK-HRW,Haridwar,major,Hinduism
+
+bn,Bengali,IN-WB-KOL,Kolkata,primary,Hinduism
+hi,Hindi,IN-WB-KOL,Kolkata,major,Hinduism
+ur,Urdu,IN-WB-KOL,Kolkata,major,Hinduism
+en,English,IN-WB-KOL,Kolkata,administrative,Hinduism
+
+bn,Bengali,IN-WB-N24,North 24 Parganas,primary,Hinduism
+hi,Hindi,IN-WB-N24,North 24 Parganas,major,Hinduism
+ur,Urdu,IN-WB-N24,North 24 Parganas,major,Hinduism
+
+bn,Bengali,IN-WB-S24,South 24 Parganas,primary,Hinduism
+hi,Hindi,IN-WB-S24,South 24 Parganas,major,Hinduism
+
+bn,Bengali,IN-WB-HWR,Howrah,primary,Hinduism
+hi,Hindi,IN-WB-HWR,Howrah,major,Hinduism
+ur,Urdu,IN-WB-HWR,Howrah,major,Hinduism
+
+bn,Bengali,IN-WB-HGL,Hooghly,primary,Hinduism
+hi,Hindi,IN-WB-HGL,Hooghly,major,Hinduism
+
+bn,Bengali,IN-WB-EBN,East Bardhaman,primary,Hinduism
+hi,Hindi,IN-WB-EBN,East Bardhaman,major,Hinduism
+
+bn,Bengali,IN-WB-WBN,West Bardhaman,primary,Hinduism
+hi,Hindi,IN-WB-WBN,West Bardhaman,major,Hinduism
+
+bn,Bengali,IN-WB-BRB,Birbhum,primary,Hinduism
+san,Santali,IN-WB-BRB,Birbhum,major,Hinduism
+hi,Hindi,IN-WB-BRB,Birbhum,minor,Hinduism
+
+bn,Bengali,IN-WB-BKU,Bankura,primary,Hinduism
+san,Santali,IN-WB-BKU,Bankura,major,Hinduism
+
+bn,Bengali,IN-WB-PRL,Purulia,major,Hinduism
+san,Santali,IN-WB-PRL,Purulia,primary,Hinduism
+hi,Hindi,IN-WB-PRL,Purulia,minor,Hinduism
+
+bn,Bengali,IN-WB-EMD,East Medinipur,primary,Hinduism
+hi,Hindi,IN-WB-EMD,East Medinipur,minor,Hinduism
+
+bn,Bengali,IN-WB-WMD,West Medinipur,primary,Hinduism
+san,Santali,IN-WB-WMD,West Medinipur,major,Hinduism
+
+bn,Bengali,IN-WB-NAD,Nadia,primary,Hinduism
+hi,Hindi,IN-WB-NAD,Nadia,major,Hinduism
+
+bn,Bengali,IN-WB-MSD,Murshidabad,primary,Islam
+ur,Urdu,IN-WB-MSD,Murshidabad,major,Islam
+
+bn,Bengali,IN-WB-MLD,Malda,primary,Islam
+ur,Urdu,IN-WB-MLD,Malda,major,Islam
+hi,Hindi,IN-WB-MLD,Malda,minor,Islam
+
+bn,Bengali,IN-WB-SDP,South Dinajpur,primary,Hinduism
+hi,Hindi,IN-WB-SDP,South Dinajpur,minor,Hinduism
+
+bn,Bengali,IN-WB-NDP,North Dinajpur,primary,Islam
+ur,Urdu,IN-WB-NDP,North Dinajpur,major,Islam
+hi,Hindi,IN-WB-NDP,North Dinajpur,minor,Islam
+
+bn,Bengali,IN-WB-CBR,Cooch Behar,primary,Hinduism
+raj,Rajbanshi,IN-WB-CBR,Cooch Behar,major,Hinduism
+
+bn,Bengali,IN-WB-ALD,Alipurduar,major,Hinduism
+raj,Rajbanshi,IN-WB-ALD,Alipurduar,primary,Hinduism
+
+bn,Bengali,IN-WB-JPG,Jalpaiguri,major,Hinduism
+raj,Rajbanshi,IN-WB-JPG,Jalpaiguri,primary,Hinduism
+
+ne,Nepali,IN-WB-DRJ,Darjeeling,primary,Hinduism
+bn,Bengali,IN-WB-DRJ,Darjeeling,major,Hinduism
+hi,Hindi,IN-WB-DRJ,Darjeeling,major,Hinduism
+
+ne,Nepali,IN-WB-KPG,Kalimpong,primary,Hinduism
+bn,Bengali,IN-WB-KPG,Kalimpong,major,Hinduism
+
+bn,Bengali,IN-TR-WTP,West Tripura,primary,Hinduism
+hi,Hindi,IN-TR-WTP,West Tripura,major,Hinduism
+trp,Kokborok,IN-TR-WTP,West Tripura,major,Hinduism
+en,English,IN-TR-WTP,West Tripura,administrative,Hinduism
+
+bn,Bengali,IN-TR-STP,South Tripura,primary,Hinduism
+trp,Kokborok,IN-TR-STP,South Tripura,major,Hinduism
+hi,Hindi,IN-TR-STP,South Tripura,minor,Hinduism
+
+bn,Bengali,IN-TR-NTP,North Tripura,primary,Hinduism
+trp,Kokborok,IN-TR-NTP,North Tripura,major,Hinduism
+hi,Hindi,IN-TR-NTP,North Tripura,minor,Hinduism
+
+bn,Bengali,IN-TR-DLI,Dhalai,major,Hinduism
+trp,Kokborok,IN-TR-DLI,Dhalai,primary,Hinduism
+bn,Bengali,IN-TR-DLI,Dhalai,major,Hinduism
+hi,Hindi,IN-TR-DLI,Dhalai,minor,Hinduism
+
+bn,Bengali,IN-TR-KHW,Khowai,primary,Hinduism
+trp,Kokborok,IN-TR-KHW,Khowai,major,Hinduism
+
+bn,Bengali,IN-TR-SPJ,Sepahijala,primary,Hinduism
+trp,Kokborok,IN-TR-SPJ,Sepahijala,major,Hinduism
+
+bn,Bengali,IN-TR-GMT,Gomati,primary,Hinduism
+trp,Kokborok,IN-TR-GMT,Gomati,major,Hinduism
+
+bn,Bengali,IN-TR-UNK,Unakoti,primary,Hinduism
+trp,Kokborok,IN-TR-UNK,Unakoti,major,Hinduism
+
+gu,Gujarati,IN-DH-DMN,Daman,primary,Hinduism
+hi,Hindi,IN-DH-DMN,Daman,major,Hinduism
+kok,Konkani,IN-DH-DMN,Daman,major,Hinduism
+en,English,IN-DH-DMN,Daman,administrative,Hinduism
+
+gu,Gujarati,IN-DH-DIU,Diu,primary,Hinduism
+kok,Konkani,IN-DH-DIU,Diu,major,Hinduism
+hi,Hindi,IN-DH-DIU,Diu,major,Hinduism
+en,English,IN-DH-DIU,Diu,administrative,Hinduism
+
+var,Varli (Warli),IN-DH-DNH,Dadra And Nagar Haveli,primary,Hinduism
+gu,Gujarati,IN-DH-DNH,Dadra And Nagar Haveli,major,Hinduism
+hi,Hindi,IN-DH-DNH,Dadra And Nagar Haveli,major,Hinduism
+kok,Konkani,IN-DH-DNH,Dadra And Nagar Haveli,minor,Hinduism
+en,English,IN-DH-DNH,Dadra And Nagar Haveli,administrative,Hinduism
+
+te,Telugu,IN-TS-HYD,Hyderabad,major,Islam
+ur,Urdu,IN-TS-HYD,Hyderabad,primary,Islam
+hi,Hindi,IN-TS-HYD,Hyderabad,major,Islam
+en,English,IN-TS-HYD,Hyderabad,administrative,Islam
+
+te,Telugu,IN-TS-RRD,Ranga Reddy,primary,Hinduism
+hi,Hindi,IN-TS-RRD,Ranga Reddy,major,Hinduism
+ur,Urdu,IN-TS-RRD,Ranga Reddy,major,Hinduism
+
+te,Telugu,IN-TS-MCG,Medchal Malkajgiri,primary,Hinduism
+hi,Hindi,IN-TS-MCG,Medchal Malkajgiri,major,Hinduism
+ur,Urdu,IN-TS-MCG,Medchal Malkajgiri,major,Hinduism
+
+te,Telugu,IN-TS-MDK,Medak,primary,Hinduism
+hi,Hindi,IN-TS-MDK,Medak,minor,Hinduism
+
+te,Telugu,IN-TS-SGD,Sangareddy,primary,Hinduism
+hi,Hindi,IN-TS-SGD,Sangareddy,minor,Hinduism
+
+te,Telugu,IN-TS-VKB,Vikarabad,primary,Hinduism
+hi,Hindi,IN-TS-VKB,Vikarabad,minor,Hinduism
+
+te,Telugu,IN-TS-NGD,Nalgonda,primary,Hinduism
+hi,Hindi,IN-TS-NGD,Nalgonda,minor,Hinduism
+
+te,Telugu,IN-TS-SYP,Suryapet,primary,Hinduism
+hi,Hindi,IN-TS-SYP,Suryapet,minor,Hinduism
+
+te,Telugu,IN-TS-YBG,Yadadri Bhuvanagiri,primary,Hinduism
+hi,Hindi,IN-TS-YBG,Yadadri Bhuvanagiri,minor,Hinduism
+
+te,Telugu,IN-TS-KRM,Karimnagar,primary,Hinduism
+hi,Hindi,IN-TS-KRM,Karimnagar,minor,Hinduism
+
+te,Telugu,IN-TS-JGL,Jagitial,primary,Hinduism
+hi,Hindi,IN-TS-JGL,Jagitial,minor,Hinduism
+
+te,Telugu,IN-TS-PDP,Peddapalli,primary,Hinduism
+hi,Hindi,IN-TS-PDP,Peddapalli,minor,Hinduism
+
+te,Telugu,IN-TS-RSL,Rajanna Sircilla,primary,Hinduism
+hi,Hindi,IN-TS-RSL,Rajanna Sircilla,minor,Hinduism
+
+te,Telugu,IN-TS-NZB,Nizamabad,primary,Hinduism
+hi,Hindi,IN-TS-NZB,Nizamabad,minor,Hinduism
+mr,Marathi,IN-TS-NZB,Nizamabad,major,Hinduism
+
+te,Telugu,IN-TS-KMD,Kamareddy,primary,Hinduism
+mr,Marathi,IN-TS-KMD,Kamareddy,major,Hinduism
+hi,Hindi,IN-TS-KMD,Kamareddy,minor,Hinduism
+
+te,Telugu,IN-TS-ADB,Adilabad,major,Hinduism
+mr,Marathi,IN-TS-ADB,Adilabad,major,Hinduism
+gon,Gondi,IN-TS-ADB,Adilabad,primary,Hinduism
+
+te,Telugu,IN-TS-NML,Nirmal,major,Hinduism
+mr,Marathi,IN-TS-NML,Nirmal,major,Hinduism
+gon,Gondi,IN-TS-NML,Nirmal,primary,Hinduism
+
+te,Telugu,IN-TS-KBA,Kumuram Bheem Asifabad,major,Hinduism
+gon,Gondi,IN-TS-KBA,Kumuram Bheem Asifabad,primary,Hinduism
+
+te,Telugu,IN-TS-MCL,Mancherial,primary,Hinduism
+hi,Hindi,IN-TS-MCL,Mancherial,minor,Hinduism
+
+te,Telugu,IN-TS-WGL,Warangal,primary,Hinduism
+hi,Hindi,IN-TS-WGL,Warangal,minor,Hinduism
+
+te,Telugu,IN-TS-HNK,Hanumakonda,primary,Hinduism
+hi,Hindi,IN-TS-HNK,Hanumakonda,minor,Hinduism
+
+te,Telugu,IN-TS-JGN,Jangoan,primary,Hinduism
+hi,Hindi,IN-TS-JGN,Jangoan,minor,Hinduism
+
+te,Telugu,IN-TS-JSB,Jayashankar Bhupalapally,primary,Hinduism
+gon,Gondi,IN-TS-JSB,Jayashankar Bhupalapally,major,Hinduism
+
+te,Telugu,IN-TS-MBB,Mahabubabad,primary,Hinduism
+hi,Hindi,IN-TS-MBB,Mahabubabad,minor,Hinduism
+
+te,Telugu,IN-TS-MLG,Mulugu,major,Hinduism
+gon,Gondi,IN-TS-MLG,Mulugu,primary,Hinduism
+
+te,Telugu,IN-TS-KHM,Khammam,primary,Hinduism
+hi,Hindi,IN-TS-KHM,Khammam,minor,Hinduism
+te,Telugu,IN-TS-BKD,Bhadradri Kothagudem,primary,Hinduism
+gon,Gondi,IN-TS-BKD,Bhadradri Kothagudem,major,Hinduism
+
+te,Telugu,IN-TS-MBN,Mahabubnagar,primary,Hinduism
+hi,Hindi,IN-TS-MBN,Mahabubnagar,minor,Hinduism
+
+te,Telugu,IN-TS-WNP,Wanaparthy,primary,Hinduism
+hi,Hindi,IN-TS-WNP,Wanaparthy,minor,Hinduism
+
+te,Telugu,IN-TS-NKR,Nagarkurnool,primary,Hinduism
+hi,Hindi,IN-TS-NKR,Nagarkurnool,minor,Hinduism
+
+te,Telugu,IN-TS-JGD,Jogulamba Gadwal,primary,Hinduism
+kn,Kannada,IN-TS-JGD,Jogulamba Gadwal,major,Hinduism
+
+te,Telugu,IN-TS-NPT,Narayanpet,primary,Hinduism
+kn,Kannada,IN-TS-NPT,Narayanpet,major,Hinduism
+
+ta,Tamil,IN-TN-CHN,Chennai,primary,Hinduism
+te,Telugu,IN-TN-CHN,Chennai,major,Hinduism
+hi,Hindi,IN-TN-CHN,Chennai,major,Hinduism
+en,English,IN-TN-CHN,Chennai,administrative,Hinduism
+
+ta,Tamil,IN-TN-CBE,Coimbatore,primary,Hinduism
+kn,Kannada,IN-TN-CBE,Coimbatore,major,Hinduism
+ml,Malayalam,IN-TN-CBE,Coimbatore,major,Hinduism
+
+ta,Tamil,IN-TN-TRP,Tiruppur,primary,Hinduism
+kn,Kannada,IN-TN-TRP,Tiruppur,major,Hinduism
+
+ta,Tamil,IN-TN-NLG,The Nilgiris,major,Hinduism
+kn,Kannada,IN-TN-NLG,The Nilgiris,major,Hinduism
+ml,Malayalam,IN-TN-NLG,The Nilgiris,major,Hinduism
+
+ta,Tamil,IN-TN-NLG,The Nilgiris,administrative,Hinduism
+
+ta,Tamil,IN-TN-SLM,Salem,primary,Hinduism
+kn,Kannada,IN-TN-SLM,Salem,minor,Hinduism
+
+ta,Tamil,IN-TN-NMK,Namakkal,primary,Hinduism
+
+ta,Tamil,IN-TN-ERD,Erode,primary,Hinduism
+kn,Kannada,IN-TN-ERD,Erode,minor,Hinduism
+
+ta,Tamil,IN-TN-DMP,Dharmapuri,primary,Hinduism
+kn,Kannada,IN-TN-DMP,Dharmapuri,minor,Hinduism
+
+ta,Tamil,IN-TN-KGI,Krishnagiri,primary,Hinduism
+kn,Kannada,IN-TN-KGI,Krishnagiri,major,Hinduism
+te,Telugu,IN-TN-KGI,Krishnagiri,major,Hinduism
+
+ta,Tamil,IN-TN-VLR,Vellore,primary,Hinduism
+te,Telugu,IN-TN-VLR,Vellore,major,Hinduism
+
+ta,Tamil,IN-TN-RNP,Ranipet,primary,Hinduism
+te,Telugu,IN-TN-RNP,Ranipet,major,Hinduism
+
+ta,Tamil,IN-TN-TPR,Tirupathur,primary,Hinduism
+te,Telugu,IN-TN-TPR,Tirupathur,major,Hinduism
+
+ta,Tamil,IN-TN-KCP,Kancheepuram,primary,Hinduism
+te,Telugu,IN-TN-KCP,Kancheepuram,major,Hinduism
+
+ta,Tamil,IN-TN-CGP,Chengalpattu,primary,Hinduism
+te,Telugu,IN-TN-CGP,Chengalpattu,major,Hinduism
+
+ta,Tamil,IN-TN-TVL,Thiruvallur,primary,Hinduism
+te,Telugu,IN-TN-TVL,Thiruvallur,major,Hinduism
+
+ta,Tamil,IN-TN-TAM,Tiruvannamalai,primary,Hinduism
+te,Telugu,IN-TN-TAM,Tiruvannamalai,major,Hinduism
+
+ta,Tamil,IN-TN-VPM,Viluppuram,primary,Hinduism
+
+ta,Tamil,IN-TN-KLK,Kallakurichi,primary,Hinduism
+
+ta,Tamil,IN-TN-CDL,Cuddalore,primary,Hinduism
+
+ta,Tamil,IN-TN-MYL,Mayiladuthurai,primary,Hinduism
+
+ta,Tamil,IN-TN-NGT,Nagapattinam,primary,Hinduism
+
+ta,Tamil,IN-TN-TVR,Thiruvarur,primary,Hinduism
+
+ta,Tamil,IN-TN-TJV,Thanjavur,primary,Hinduism
+
+ta,Tamil,IN-TN-TRC,Tiruchirappalli,primary,Hinduism
+te,Telugu,IN-TN-TRC,Tiruchirappalli,major,Hinduism
+
+ta,Tamil,IN-TN-PBL,Perambalur,primary,Hinduism
+
+ta,Tamil,IN-TN-ARL,Ariyalur,primary,Hinduism
+
+ta,Tamil,IN-TN-PDK,Pudukkottai,primary,Hinduism
+
+ta,Tamil,IN-TN-MDU,Madurai,primary,Hinduism
+te,Telugu,IN-TN-MDU,Madurai,major,Hinduism
+
+ta,Tamil,IN-TN-TNI,Theni,primary,Hinduism
+ml,Malayalam,IN-TN-TNI,Theni,major,Hinduism
+
+ta,Tamil,IN-TN-DGL,Dindigul,primary,Hinduism
+
+ta,Tamil,IN-TN-SVG,Sivaganga,primary,Hinduism
+
+ta,Tamil,IN-TN-RPM,Ramanathapuram,primary,Hinduism
+
+ta,Tamil,IN-TN-VRN,Virudhunagar,primary,Hinduism
+
+ta,Tamil,IN-TN-TNV,Tirunelveli,primary,Hinduism
+
+ta,Tamil,IN-TN-TKS,Tenkasi,primary,Hinduism
+
+ta,Tamil,IN-TN-TTK,Thoothukkudi,primary,Hinduism
+
+ta,Tamil,IN-TN-KKM,Kanniyakumari,primary,Hinduism
+ml,Malayalam,IN-TN-KKM,Kanniyakumari,major,Hinduism
+
+ne,Nepali,IN-SK-GTK,Gangtok,primary,Buddhism
+hi,Hindi,IN-SK-GTK,Gangtok,major,Buddhism
+en,English,IN-SK-GTK,Gangtok,administrative,Buddhism
+lep,Lepcha,IN-SK-GTK,Gangtok,major,Buddhism
+lif,Limbu,IN-SK-GTK,Gangtok,major,Buddhism
+sot,Sikkimese (Bhutia),IN-SK-GTK,Gangtok,major,Buddhism
+
+ne,Nepali,IN-SK-MGN,Mangan,major,Buddhism
+sot,Sikkimese (Bhutia),IN-SK-MGN,Mangan,primary,Buddhism
+lep,Lepcha,IN-SK-MGN,Mangan,major,Buddhism
+hi,Hindi,IN-SK-MGN,Mangan,minor,Buddhism
+
+ne,Nepali,IN-SK-NCI,Namchi,primary,Hinduism
+lif,Limbu,IN-SK-NCI,Namchi,major,Hinduism
+lep,Lepcha,IN-SK-NCI,Namchi,major,Hinduism
+hi,Hindi,IN-SK-NCI,Namchi,minor,Hinduism
+
+ne,Nepali,IN-SK-GYL,Gyalshing,primary,Buddhism
+lif,Limbu,IN-SK-GYL,Gyalshing,major,Buddhism
+lep,Lepcha,IN-SK-GYL,Gyalshing,major,Buddhism
+hi,Hindi,IN-SK-GYL,Gyalshing,minor,Buddhism
+
+ne,Nepali,IN-SK-PKY,Pakyong,primary,Buddhism
+lep,Lepcha,IN-SK-PKY,Pakyong,major,Buddhism
+lif,Limbu,IN-SK-PKY,Pakyong,major,Buddhism
+hi,Hindi,IN-SK-PKY,Pakyong,minor,Buddhism
+
+ne,Nepali,IN-SK-SEG,Soreng,primary,Buddhism
+lif,Limbu,IN-SK-SEG,Soreng,major,Buddhism
+lep,Lepcha,IN-SK-SEG,Soreng,major,Buddhism
+hi,Hindi,IN-SK-SEG,Soreng,minor,Buddhism
+
+rjs,Rajasthani,IN-RJ-AJM,Ajmer,primary,Hinduism
+hi,Hindi,IN-RJ-AJM,Ajmer,administrative,Hinduism
+
+rjs,Rajasthani,IN-RJ-ALW,Alwar,primary,Hinduism
+hi,Hindi,IN-RJ-ALW,Alwar,administrative,Hinduism
+
+wag,Wagdi,IN-RJ-BNS,Banswara,primary,Hinduism
+hi,Hindi,IN-RJ-BNS,Banswara,administrative,Hinduism
+bhb,Bhil,IN-RJ-BNS,Banswara,major,Hinduism
+
+had,Hadoti,IN-RJ-BRN,Baran,primary,Hinduism
+hi,Hindi,IN-RJ-BRN,Baran,administrative,Hinduism
+
+mar,Marwari,IN-RJ-BMR,Barmer,primary,Hinduism
+hi,Hindi,IN-RJ-BMR,Barmer,administrative,Hinduism
+
+bra,Braj,IN-RJ-BHR,Bharatpur,primary,Hinduism
+hi,Hindi,IN-RJ-BHR,Bharatpur,administrative,Hinduism
+
+rjs,Rajasthani,IN-RJ-BHL,Bhilwara,primary,Hinduism
+hi,Hindi,IN-RJ-BHL,Bhilwara,administrative,Hinduism
+
+mar,Marwari,IN-RJ-BKN,Bikaner,primary,Hinduism
+hi,Hindi,IN-RJ-BKN,Bikaner,administrative,Hinduism
+
+had,Hadoti,IN-RJ-BNI,Bundi,primary,Hinduism
+hi,Hindi,IN-RJ-BNI,Bundi,administrative,Hinduism
+
+mew,Mewari,IN-RJ-CGH,Chittorgarh,primary,Hinduism
+hi,Hindi,IN-RJ-CGH,Chittorgarh,administrative,Hinduism
+
+bag,Bagri,IN-RJ-CRU,Churu,primary,Hinduism
+hi,Hindi,IN-RJ-CRU,Churu,administrative,Hinduism
+
+dhd,Dhundhari,IN-RJ-DSA,Dausa,primary,Hinduism
+hi,Hindi,IN-RJ-DSA,Dausa,administrative,Hinduism
+
+bra,Braj,IN-RJ-DHP,Dholpur,primary,Hinduism
+hi,Hindi,IN-RJ-DHP,Dholpur,administrative,Hinduism
+
+wag,Wagdi,IN-RJ-DPR,Dungarpur,primary,Hinduism
+bhb,Bhil,IN-RJ-DPR,Dungarpur,major,Hinduism
+hi,Hindi,IN-RJ-DPR,Dungarpur,administrative,Hinduism
+
+bag,Bagri,IN-RJ-GNG,Ganganagar,primary,Hinduism
+pa,Punjabi,IN-RJ-GNG,Ganganagar,major,Hinduism
+hi,Hindi,IN-RJ-GNG,Ganganagar,administrative,Hinduism
+
+bag,Bagri,IN-RJ-HNM,Hanumangarh,primary,Hinduism
+pa,Punjabi,IN-RJ-HNM,Hanumangarh,major,Hinduism
+hi,Hindi,IN-RJ-HNM,Hanumangarh,administrative,Hinduism
+
+dhd,Dhundhari,IN-RJ-JPR,Jaipur,primary,Hinduism
+hi,Hindi,IN-RJ-JPR,Jaipur,administrative,Hinduism
+
+mar,Marwari,IN-RJ-JSM,Jaisalmer,primary,Hinduism
+hi,Hindi,IN-RJ-JSM,Jaisalmer,administrative,Hinduism
+
+mar,Marwari,IN-RJ-JLR,Jalore,primary,Hinduism
+hi,Hindi,IN-RJ-JLR,Jalore,administrative,Hinduism
+gu,Gujarati,IN-RJ-JLR,Jalore,major,Hinduism
+
+had,Hadoti,IN-RJ-JHW,Jhalawar,primary,Hinduism
+hi,Hindi,IN-RJ-JHW,Jhalawar,administrative,Hinduism
+
+she,Shekhawati,IN-RJ-JJN,Jhunjhunu,primary,Hinduism
+hi,Hindi,IN-RJ-JJN,Jhunjhunu,administrative,Hinduism
+
+mar,Marwari,IN-RJ-JDP,Jodhpur,primary,Hinduism
+hi,Hindi,IN-RJ-JDP,Jodhpur,administrative,Hinduism
+
+dhd,Dhundhari,IN-RJ-KRL,Karauli,primary,Hinduism
+hi,Hindi,IN-RJ-KRL,Karauli,administrative,Hinduism
+
+had,Hadoti,IN-RJ-KOT,Kota,primary,Hinduism
+hi,Hindi,IN-RJ-KOT,Kota,administrative,Hinduism
+
+mar,Marwari,IN-RJ-NAU,Nagaur,primary,Hinduism
+hi,Hindi,IN-RJ-NAU,Nagaur,administrative,Hinduism
+
+mar,Marwari,IN-RJ-PAL,Pali,primary,Hinduism
+hi,Hindi,IN-RJ-PAL,Pali,administrative,Hinduism
+
+mew,Mewari,IN-RJ-RJS,Rajsamand,primary,Hinduism
+hi,Hindi,IN-RJ-RJS,Rajsamand,administrative,Hinduism
+
+had,Hadoti,IN-RJ-SWM,Sawai Madhopur,primary,Hinduism
+hi,Hindi,IN-RJ-SWM,Sawai Madhopur,administrative,Hinduism
+
+she,Shekhawati,IN-RJ-SKR,Sikar,primary,Hinduism
+hi,Hindi,IN-RJ-SKR,Sikar,administrative,Hinduism
+
+mar,Marwari,IN-RJ-SRH,Sirohi,primary,Hinduism
+gu,Gujarati,IN-RJ-SRH,Sirohi,major,Hinduism
+hi,Hindi,IN-RJ-SRH,Sirohi,administrative,Hinduism
+
+dhd,Dhundhari,IN-RJ-TOK,Tonk,primary,Hinduism
+hi,Hindi,IN-RJ-TOK,Tonk,administrative,Hinduism
+
+mew,Mewari,IN-RJ-UDR,Udaipur,primary,Hinduism
+bhb,Bhil,IN-RJ-UDR,Udaipur,major,Hinduism
+hi,Hindi,IN-RJ-UDR,Udaipur,administrative,Hinduism
+
+wag,Wagdi,IN-RJ-PTG,Pratapgarh,primary,Hinduism
+bhb,Bhil,IN-RJ-PTG,Pratapgarh,major,Hinduism
+hi,Hindi,IN-RJ-PTG,Pratapgarh,administrative,Hinduism
+
+bra,Braj,IN-RJ-DEG,Deeg,primary,Hinduism
+hi,Hindi,IN-RJ-DEG,Deeg,administrative,Hinduism
+
+mar,Marwari,IN-RJ-DDK,Didwana-Kuchaman,primary,Hinduism
+hi,Hindi,IN-RJ-DDK,Didwana-Kuchaman,administrative,Hinduism
+
+mew,Mewati,IN-RJ-BRT,Khairthal-Tijara,primary,Islam
+hi,Hindi,IN-RJ-BRT,Khairthal-Tijara,administrative,Islam
+
+mar,Marwari,IN-RJ-PHD,Phalodi,primary,Hinduism
+hi,Hindi,IN-RJ-PHD,Phalodi,administrative,Hinduism
+
+rjs,Rajasthani,IN-RJ-BWR,Beawar,primary,Hinduism
+hi,Hindi,IN-RJ-BWR,Beawar,administrative,Hinduism
+
+mar,Marwari,IN-RJ-BLT,Balotra,primary,Hinduism
+hi,Hindi,IN-RJ-BLT,Balotra,administrative,Hinduism
+
+mew,Mewari,IN-RJ-SLB,Salumbar,primary,Hinduism
+bhb,Bhil,IN-RJ-SLB,Salumbar,major,Hinduism
+hi,Hindi,IN-RJ-SLB,Salumbar,administrative,Hinduism
+
+dhd,Dhundhari,IN-RJ-KPB,Kotputli-Behror,primary,Hinduism
+hi,Hindi,IN-RJ-KPB,Kotputli-Behror,administrative,Hinduism
+
+pa,Punjabi,IN-PB-AMR,Amritsar,primary,Sikhism
+hi,Hindi,IN-PB-AMR,Amritsar,major,Sikhism
+en,English,IN-PB-AMR,Amritsar,administrative,Sikhism
+
+pa,Punjabi,IN-PB-BTI,Bathinda,primary,Sikhism
+hi,Hindi,IN-PB-BTI,Bathinda,major,Sikhism
+
+pa,Punjabi,IN-PB-FDK,Faridkot,primary,Sikhism
+hi,Hindi,IN-PB-FDK,Faridkot,major,Sikhism
+
+pa,Punjabi,IN-PB-FGS,Fatehgarh Sahib,primary,Sikhism
+hi,Hindi,IN-PB-FGS,Fatehgarh Sahib,major,Sikhism
+
+pa,Punjabi,IN-PB-FZR,Ferozepur,primary,Sikhism
+hi,Hindi,IN-PB-FZR,Ferozepur,major,Sikhism
+
+pa,Punjabi,IN-PB-GSP,Gurdaspur,primary,Sikhism
+hi,Hindi,IN-PB-GSP,Gurdaspur,major,Sikhism
+
+pa,Punjabi,IN-PB-PTH,Pathankot,primary,Hinduism
+hi,Hindi,IN-PB-PTH,Pathankot,major,Hinduism
+dog,Dogri,IN-PB-PTH,Pathankot,major,Hinduism
+
+pa,Punjabi,IN-PB-HSP,Hoshiarpur,primary,Sikhism
+hi,Hindi,IN-PB-HSP,Hoshiarpur,major,Sikhism
+
+pa,Punjabi,IN-PB-JAL,Jalandhar,primary,Sikhism
+hi,Hindi,IN-PB-JAL,Jalandhar,major,Sikhism
+
+pa,Punjabi,IN-PB-KPR,Kapurthala,primary,Sikhism
+hi,Hindi,IN-PB-KPR,Kapurthala,major,Sikhism
+
+pa,Punjabi,IN-PB-LDH,Ludhiana,primary,Sikhism
+hi,Hindi,IN-PB-LDH,Ludhiana,major,Sikhism
+
+pa,Punjabi,IN-PB-MNS,Mansa,primary,Sikhism
+hi,Hindi,IN-PB-MNS,Mansa,major,Sikhism
+
+pa,Punjabi,IN-PB-MOG,Moga,primary,Sikhism
+hi,Hindi,IN-PB-MOG,Moga,major,Sikhism
+
+pa,Punjabi,IN-PB-MKS,Sri Muktsar Sahib,primary,Sikhism
+hi,Hindi,IN-PB-MKS,Sri Muktsar Sahib,major,Sikhism
+
+pa,Punjabi,IN-PB-SBS,Shaheed Bhagat Singh Nagar,primary,Sikhism
+hi,Hindi,IN-PB-SBS,Shaheed Bhagat Singh Nagar,major,Sikhism
+
+pa,Punjabi,IN-PB-PTL,Patiala,primary,Sikhism
+hi,Hindi,IN-PB-PTL,Patiala,major,Sikhism
+
+pa,Punjabi,IN-PB-RPN,Rupnagar,primary,Sikhism
+hi,Hindi,IN-PB-RPN,Rupnagar,major,Sikhism
+
+pa,Punjabi,IN-PB-SGU,Sangrur,primary,Sikhism
+hi,Hindi,IN-PB-SGU,Sangrur,major,Sikhism
+
+pa,Punjabi,IN-PB-BNL,Barnala,primary,Sikhism
+hi,Hindi,IN-PB-BNL,Barnala,major,Sikhism
+
+pa,Punjabi,IN-PB-SAS,SAS Nagar (Mohali),primary,Sikhism
+hi,Hindi,IN-PB-SAS,SAS Nagar (Mohali),major,Sikhism
+en,English,IN-PB-SAS,SAS Nagar (Mohali),administrative,Sikhism
+
+pa,Punjabi,IN-PB-TTN,Tarn Taran,primary,Sikhism
+hi,Hindi,IN-PB-TTN,Tarn Taran,major,Sikhism
+
+pa,Punjabi,IN-PB-FZK,Fazilka,primary,Sikhism
+hi,Hindi,IN-PB-FZK,Fazilka,major,Sikhism
+
+pa,Punjabi,IN-PB-MLR,Malerkotla,primary,Islam
+ur,Urdu,IN-PB-MLR,Malerkotla,major,Islam
+hi,Hindi,IN-PB-MLR,Malerkotla,major,Islam
+
+ta,Tamil,IN-PY-PDY,Puducherry,primary,Hinduism
+te,Telugu,IN-PY-PDY,Puducherry,major,Hinduism
+hi,Hindi,IN-PY-PDY,Puducherry,major,Hinduism
+en,English,IN-PY-PDY,Puducherry,administrative,Hinduism
+fr,French,IN-PY-PDY,Puducherry,minor,Hinduism
+
+ta,Tamil,IN-PY-KKL,Karaikal,primary,Hinduism
+te,Telugu,IN-PY-KKL,Karaikal,major,Hinduism
+hi,Hindi,IN-PY-KKL,Karaikal,minor,Hinduism
+en,English,IN-PY-KKL,Karaikal,administrative,Hinduism
+
+ml,Malayalam,IN-PY-MHE,Mahe,primary,Islam
+ta,Tamil,IN-PY-MHE,Mahe,major,Islam
+hi,Hindi,IN-PY-MHE,Mahe,minor,Islam
+en,English,IN-PY-MHE,Mahe,administrative,Islam
+
+te,Telugu,IN-PY-YNM,Yanam,primary,Hinduism
+ta,Tamil,IN-PY-YNM,Yanam,major,Hinduism
+hi,Hindi,IN-PY-YNM,Yanam,minor,Hinduism
+en,English,IN-PY-YNM,Yanam,administrative,Hinduism
+
+or,Odia,IN-OD-ANL,Angul,primary,Hinduism
+hi,Hindi,IN-OD-ANL,Angul,major,Hinduism
+en,English,IN-OD-ANL,Angul,administrative,Hinduism
+
+or,Odia,IN-OD-BOL,Balangir,primary,Hinduism
+kos,Kosli (Sambalpuri),IN-OD-BOL,Balangir,major,Hinduism
+hi,Hindi,IN-OD-BOL,Balangir,minor,Hinduism
+
+or,Odia,IN-OD-BLS,Balasore,primary,Hinduism
+bn,Bengali,IN-OD-BLS,Balasore,major,Hinduism
+hi,Hindi,IN-OD-BLS,Balasore,minor,Hinduism
+
+or,Odia,IN-OD-BGH,Bargarh,primary,Hinduism
+kos,Kosli (Sambalpuri),IN-OD-BGH,Bargarh,major,Hinduism
+
+or,Odia,IN-OD-BDK,Bhadrak,primary,Hinduism
+bn,Bengali,IN-OD-BDK,Bhadrak,major,Hinduism
+
+or,Odia,IN-OD-BDH,Boudh,primary,Hinduism
+kos,Kosli (Sambalpuri),IN-OD-BDH,Boudh,major,Hinduism
+
+or,Odia,IN-OD-CTK,Cuttack,primary,Hinduism
+hi,Hindi,IN-OD-CTK,Cuttack,major,Hinduism
+en,English,IN-OD-CTK,Cuttack,administrative,Hinduism
+
+or,Odia,IN-OD-DGH,Deogarh,primary,Hinduism
+kos,Kosli (Sambalpuri),IN-OD-DGH,Deogarh,major,Hinduism
+
+or,Odia,IN-OD-DNK,Dhenkanal,primary,Hinduism
+
+or,Odia,IN-OD-GJP,Gajapati,major,Hinduism
+tel,Telugu,IN-OD-GJP,Gajapati,primary,Hinduism
+sao,Sora,IN-OD-GJP,Gajapati,tribal,Hinduism
+
+or,Odia,IN-OD-GJM,Ganjam,primary,Hinduism
+tel,Telugu,IN-OD-GJM,Ganjam,major,Hinduism
+
+or,Odia,IN-OD-JGP,Jagatsinghapur,primary,Hinduism
+
+or,Odia,IN-OD-JJP,Jajpur,primary,Hinduism
+
+or,Odia,IN-OD-JSG,Jharsuguda,primary,Hinduism
+kos,Kosli (Sambalpuri),IN-OD-JSG,Jharsuguda,major,Hinduism
+
+or,Odia,IN-OD-KLH,Kalahandi,major,Hinduism
+kos,Kosli (Sambalpuri),IN-OD-KLH,Kalahandi,primary,Hinduism
+gon,Gondi,IN-OD-KLH,Kalahandi,tribal,Hinduism
+
+or,Odia,IN-OD-KDL,Kandhamal,major,Hinduism
+kui,Kui,IN-OD-KDL,Kandhamal,primary,Hinduism
+hi,Hindi,IN-OD-KDL,Kandhamal,minor,Hinduism
+
+or,Odia,IN-OD-KDP,Kendrapara,primary,Hinduism
+
+or,Odia,IN-OD-KNJ,Keonjhar,major,Hinduism
+ho,Ho,IN-OD-KNJ,Keonjhar,major,Hinduism
+mun,Munda,IN-OD-KNJ,Keonjhar,tribal,Hinduism
+
+or,Odia,IN-OD-KDA,Khordha,primary,Hinduism
+hi,Hindi,IN-OD-KDA,Khordha,major,Hinduism
+en,English,IN-OD-KDA,Khordha,administrative,Hinduism
+
+or,Odia,IN-OD-KPT,Koraput,major,Hinduism
+des,Desia,IN-OD-KPT,Koraput,primary,Hinduism
+gon,Gondi,IN-OD-KPT,Koraput,tribal,Hinduism
+
+or,Odia,IN-OD-MLK,Malkangiri,major,Hinduism
+tel,Telugu,IN-OD-MLK,Malkangiri,major,Hinduism
+des,Desia,IN-OD-MLK,Malkangiri,primary,Hinduism
+
+or,Odia,IN-OD-MBJ,Mayurbhanj,major,Hinduism
+san,Santali,IN-OD-MBJ,Mayurbhanj,primary,Hinduism
+ho,Ho,IN-OD-MBJ,Mayurbhanj,major,Hinduism
+
+or,Odia,IN-OD-NBR,Nabarangpur,major,Hinduism
+des,Desia,IN-OD-NBR,Nabarangpur,primary,Hinduism
+
+or,Odia,IN-OD-NYG,Nayagarh,primary,Hinduism
+
+or,Odia,IN-OD-NPD,Nuapada,major,Hinduism
+kos,Kosli (Sambalpuri),IN-OD-NPD,Nuapada,primary,Hinduism
+chh,Chhattisgarhi,IN-OD-NPD,Nuapada,major,Hinduism
+
+or,Odia,IN-OD-PUR,Puri,primary,Hinduism
+hi,Hindi,IN-OD-PUR,Puri,major,Hinduism
+
+or,Odia,IN-OD-RYG,Rayagada,major,Hinduism
+des,Desia,IN-OD-RYG,Rayagada,primary,Hinduism
+sao,Sora,IN-OD-RYG,Rayagada,tribal,Hinduism
+
+or,Odia,IN-OD-SBP,Sambalpur,primary,Hinduism
+kos,Kosli (Sambalpuri),IN-OD-SBP,Sambalpur,major,Hinduism
+
+or,Odia,IN-OD-SBN,Subarnapur,primary,Hinduism
+kos,Kosli (Sambalpuri),IN-OD-SBN,Subarnapur,major,Hinduism
+
+or,Odia,IN-OD-SDG,Sundargarh,major,Hinduism
+san,Santali,IN-OD-SDG,Sundargarh,primary,Hinduism
+kur,Kurukh,IN-OD-SDG,Sundargarh,major,Hinduism
+
+nag,Nagamese,IN-NL-DMR,Dimapur,primary,Christianity
+hi,Hindi,IN-NL-DMR,Dimapur,major,Christianity
+en,English,IN-NL-DMR,Dimapur,administrative,Christianity
+ao,Ao,IN-NL-DMR,Dimapur,major,Christianity
+
+ang,Angami,IN-NL-KOH,Kohima,primary,Christianity
+nag,Nagamese,IN-NL-KOH,Kohima,major,Christianity
+en,English,IN-NL-KOH,Kohima,administrative,Christianity
+
+ao,Ao,IN-NL-MOK,Mokokchung,primary,Christianity
+nag,Nagamese,IN-NL-MOK,Mokokchung,major,Christianity
+en,English,IN-NL-MOK,Mokokchung,administrative,Christianity
+
+khi,Konyak,IN-NL-MON,Mon,primary,Christianity
+nag,Nagamese,IN-NL-MON,Mon,major,Christianity
+en,English,IN-NL-MON,Mon,administrative,Christianity
+
+cha,Chakhesang,IN-NL-PHK,Phek,primary,Christianity
+nag,Nagamese,IN-NL-PHK,Phek,major,Christianity
+en,English,IN-NL-PHK,Phek,administrative,Christianity
+
+yan,Yimkhiung,IN-NL-TNS,Tuensang,primary,Christianity
+nag,Nagamese,IN-NL-TNS,Tuensang,major,Christianity
+en,English,IN-NL-TNS,Tuensang,administrative,Christianity
+
+lot,Lotha,IN-NL-WOK,Wokha,primary,Christianity
+nag,Nagamese,IN-NL-WOK,Wokha,major,Christianity
+en,English,IN-NL-WOK,Wokha,administrative,Christianity
+
+sum,Sumi,IN-NL-ZNH,Zunheboto,primary,Christianity
+nag,Nagamese,IN-NL-ZNH,Zunheboto,major,Christianity
+en,English,IN-NL-ZNH,Zunheboto,administrative,Christianity
+
+zme,Zeme,IN-NL-PEN,Peren,primary,Christianity
+nag,Nagamese,IN-NL-PEN,Peren,major,Christianity
+en,English,IN-NL-PEN,Peren,administrative,Christianity
+
+sao,Sangtam,IN-NL-KIP,Kiphire,primary,Christianity
+nag,Nagamese,IN-NL-KIP,Kiphire,major,Christianity
+en,English,IN-NL-KIP,Kiphire,administrative,Christianity
+
+phom,Phom,IN-NL-LLG,Longleng,primary,Christianity
+nag,Nagamese,IN-NL-LLG,Longleng,major,Christianity
+en,English,IN-NL-LLG,Longleng,administrative,Christianity
+
+yan,Yimkhiung,IN-NL-NKL,Noklak,primary,Christianity
+nag,Nagamese,IN-NL-NKL,Noklak,major,Christianity
+en,English,IN-NL-NKL,Noklak,administrative,Christianity
+
+ang,Angami,IN-NL-TSM,Tseminyu,primary,Christianity
+nag,Nagamese,IN-NL-TSM,Tseminyu,major,Christianity
+en,English,IN-NL-TSM,Tseminyu,administrative,Christianity
+
+nag,Nagamese,IN-NL-CMK,Chumoukedima,primary,Christianity
+hi,Hindi,IN-NL-CMK,Chumoukedima,major,Christianity
+en,English,IN-NL-CMK,Chumoukedima,administrative,Christianity
+
+nag,Nagamese,IN-NL-NLN,Niuland,primary,Christianity
+hi,Hindi,IN-NL-NLN,Niuland,major,Christianity
+en,English,IN-NL-NLN,Niuland,administrative,Christianity
+
+sao,Sangtam,IN-NL-SMT,Shamator,primary,Christianity
+nag,Nagamese,IN-NL-SMT,Shamator,major,Christianity
+en,English,IN-NL-SMT,Shamator,administrative,Christianity
+
+cha,Chakhesang,IN-NL-MEL,Meluri,primary,Christianity
+nag,Nagamese,IN-NL-MEL,Meluri,major,Christianity
+en,English,IN-NL-MEL,Meluri,administrative,Christianity
+
+lus,Mizo (Lushai),IN-MZ-AIZ,Aizawl,primary,Christianity
+en,English,IN-MZ-AIZ,Aizawl,administrative,Christianity
+hi,Hindi,IN-MZ-AIZ,Aizawl,major,Christianity
+
+lus,Mizo (Lushai),IN-MZ-CMP,Champhai,primary,Christianity
+en,English,IN-MZ-CMP,Champhai,administrative,Christianity
+mru,Mara,IN-MZ-CMP,Champhai,major,Christianity
+
+lus,Mizo (Lushai),IN-MZ-KLS,Kolasib,primary,Christianity
+bn,Bengali,IN-MZ-KLS,Kolasib,major,Christianity
+en,English,IN-MZ-KLS,Kolasib,administrative,Christianity
+
+lai,Lai (Pawi),IN-MZ-LWT,Lawngtlai,primary,Christianity
+lus,Mizo (Lushai),IN-MZ-LWT,Lawngtlai,major,Christianity
+en,English,IN-MZ-LWT,Lawngtlai,administrative,Christianity
+
+lus,Mizo (Lushai),IN-MZ-LGL,Lunglei,primary,Christianity
+lai,Lai (Pawi),IN-MZ-LGL,Lunglei,major,Christianity
+en,English,IN-MZ-LGL,Lunglei,administrative,Christianity
+
+lus,Mizo (Lushai),IN-MZ-MMT,Mamit,primary,Christianity
+bn,Bengali,IN-MZ-MMT,Mamit,major,Christianity
+en,English,IN-MZ-MMT,Mamit,administrative,Christianity
+
+mru,Mara,IN-MZ-SIA,Siaha,primary,Christianity
+lus,Mizo (Lushai),IN-MZ-SIA,Siaha,major,Christianity
+en,English,IN-MZ-SIA,Siaha,administrative,Christianity
+
+lus,Mizo (Lushai),IN-MZ-SRC,Serchhip,primary,Christianity
+en,English,IN-MZ-SRC,Serchhip,administrative,Christianity
+
+lus,Mizo (Lushai),IN-MZ-HNH,Hnahthial,primary,Christianity
+en,English,IN-MZ-HNH,Hnahthial,administrative,Christianity
+
+lus,Mizo (Lushai),IN-MZ-STL,Saitual,primary,Christianity
+en,English,IN-MZ-STL,Saitual,administrative,Christianity
+
+lus,Mizo (Lushai),IN-MZ-KHZ,Khawzawl,primary,Christianity
+en,English,IN-MZ-KHZ,Khawzawl,administrative,Christianity
+
+grt,Garo,IN-ML-EGH,East Garo Hills,primary,Christianity
+en,English,IN-ML-EGH,East Garo Hills,administrative,Christianity
+hi,Hindi,IN-ML-EGH,East Garo Hills,major,Christianity
+
+kha,Khasi,IN-ML-EKH,East Khasi Hills,primary,Christianity
+en,English,IN-ML-EKH,East Khasi Hills,administrative,Christianity
+hi,Hindi,IN-ML-EKH,East Khasi Hills,major,Christianity
+
+kha,Khasi,IN-ML-WJH,West Jaintia Hills,major,Christianity
+pnb,Pnar (Jaintia),IN-ML-WJH,West Jaintia Hills,primary,Christianity
+en,English,IN-ML-WJH,West Jaintia Hills,administrative,Christianity
+
+kha,Khasi,IN-ML-RIB,Ri Bhoi,primary,Christianity
+en,English,IN-ML-RIB,Ri Bhoi,administrative,Christianity
+hi,Hindi,IN-ML-RIB,Ri Bhoi,major,Christianity
+
+grt,Garo,IN-ML-SGH,South Garo Hills,primary,Christianity
+en,English,IN-ML-SGH,South Garo Hills,administrative,Christianity
+hi,Hindi,IN-ML-SGH,South Garo Hills,major,Christianity
+
+grt,Garo,IN-ML-WGH,West Garo Hills,primary,Christianity
+en,English,IN-ML-WGH,West Garo Hills,administrative,Christianity
+hi,Hindi,IN-ML-WGH,West Garo Hills,major,Christianity
+
+kha,Khasi,IN-ML-WKH,West Khasi Hills,primary,Christianity
+en,English,IN-ML-WKH,West Khasi Hills,administrative,Christianity
+hi,Hindi,IN-ML-WKH,West Khasi Hills,major,Christianity
+
+grt,Garo,IN-ML-NGH,North Garo Hills,primary,Christianity
+en,English,IN-ML-NGH,North Garo Hills,administrative,Christianity
+hi,Hindi,IN-ML-NGH,North Garo Hills,major,Christianity
+
+pnb,Pnar (Jaintia),IN-ML-EJH,East Jaintia Hills,primary,Christianity
+kha,Khasi,IN-ML-EJH,East Jaintia Hills,major,Christianity
+en,English,IN-ML-EJH,East Jaintia Hills,administrative,Christianity
+
+kha,Khasi,IN-ML-SWK,South West Khasi Hills,primary,Christianity
+en,English,IN-ML-SWK,South West Khasi Hills,administrative,Christianity
+hi,Hindi,IN-ML-SWK,South West Khasi Hills,major,Christianity
+
+grt,Garo,IN-ML-SWG,South West Garo Hills,primary,Christianity
+en,English,IN-ML-SWG,South West Garo Hills,administrative,Christianity
+hi,Hindi,IN-ML-SWG,South West Garo Hills,major,Christianity
+
+kha,Khasi,IN-ML-EWK,Eastern West Khasi Hills,primary,Christianity
+en,English,IN-ML-EWK,Eastern West Khasi Hills,administrative,Christianity
+hi,Hindi,IN-ML-EWK,Eastern West Khasi Hills,major,Christianity
+
+mni,Meiteilon (Manipuri),IN-MN-BSN,Bishnupur,primary,Hinduism
+en,English,IN-MN-BSN,Bishnupur,administrative,Hinduism
+hi,Hindi,IN-MN-BSN,Bishnupur,major,Hinduism
+
+ctd,Chothe,IN-MN-CNL,Chandel,primary,Christianity
+mni,Meiteilon (Manipuri),IN-MN-CNL,Chandel,major,Christianity
+en,English,IN-MN-CNL,Chandel,administrative,Christianity
+
+lus,Paite (Zomi),IN-MN-CCP,Churachandpur,primary,Christianity
+mni,Meiteilon (Manipuri),IN-MN-CCP,Churachandpur,major,Christianity
+en,English,IN-MN-CCP,Churachandpur,administrative,Christianity
+
+mni,Meiteilon (Manipuri),IN-MN-IME,Imphal East,primary,Hinduism
+en,English,IN-MN-IME,Imphal East,administrative,Hinduism
+hi,Hindi,IN-MN-IME,Imphal East,major,Hinduism
+
+mni,Meiteilon (Manipuri),IN-MN-IMW,Imphal West,primary,Hinduism
+en,English,IN-MN-IMW,Imphal West,administrative,Hinduism
+hi,Hindi,IN-MN-IMW,Imphal West,major,Hinduism
+
+mao,Mao Naga,IN-MN-SPT,Senapati,primary,Christianity
+mni,Meiteilon (Manipuri),IN-MN-SPT,Senapati,major,Christianity
+en,English,IN-MN-SPT,Senapati,administrative,Christianity
+
+zme,Zeme Naga,IN-MN-TMG,Tamenglong,primary,Christianity
+mni,Meiteilon (Manipuri),IN-MN-TMG,Tamenglong,major,Christianity
+en,English,IN-MN-TMG,Tamenglong,administrative,Christianity
+
+mni,Meiteilon (Manipuri),IN-MN-TBL,Thoubal,primary,Hinduism
+en,English,IN-MN-TBL,Thoubal,administrative,Hinduism
+hi,Hindi,IN-MN-TBL,Thoubal,major,Hinduism
+
+tng,Tangkhul,IN-MN-UKL,Ukhrul,primary,Christianity
+mni,Meiteilon (Manipuri),IN-MN-UKL,Ukhrul,major,Christianity
+en,English,IN-MN-UKL,Ukhrul,administrative,Christianity
+
+mni,Meiteilon (Manipuri),IN-MN-KKC,Kakching,primary,Hinduism
+en,English,IN-MN-KKC,Kakching,administrative,Hinduism
+
+thd,Thadou,IN-MN-KPI,Kangpokpi,primary,Christianity
+mni,Meiteilon (Manipuri),IN-MN-KPI,Kangpokpi,major,Christianity
+en,English,IN-MN-KPI,Kangpokpi,administrative,Christianity
+
+bn,Bengali,IN-MN-JRM,Jiribam,primary,Hinduism
+mni,Meiteilon (Manipuri),IN-MN-JRM,Jiribam,major,Hinduism
+en,English,IN-MN-JRM,Jiribam,administrative,Hinduism
+
+zme,Zeme Naga,IN-MN-NNY,Noney,primary,Christianity
+mni,Meiteilon (Manipuri),IN-MN-NNY,Noney,major,Christianity
+en,English,IN-MN-NNY,Noney,administrative,Christianity
+
+lus,Paite (Zomi),IN-MN-PHZ,Pherzawl,primary,Christianity
+mni,Meiteilon (Manipuri),IN-MN-PHZ,Pherzawl,major,Christianity
+en,English,IN-MN-PHZ,Pherzawl,administrative,Christianity
+
+ctd,Chothe,IN-MN-TNP,Tengnoupal,primary,Christianity
+mni,Meiteilon (Manipuri),IN-MN-TNP,Tengnoupal,major,Christianity
+en,English,IN-MN-TNP,Tengnoupal,administrative,Christianity
+
+tng,Tangkhul,IN-MN-KMJ,Kamjong,primary,Christianity
+mni,Meiteilon (Manipuri),IN-MN-KMJ,Kamjong,major,Christianity
+en,English,IN-MN-KMJ,Kamjong,administrative,Christianity
+
+mr,Marathi,IN-MH-AHN,Ahilyanagar,primary,Hinduism
+hi,Hindi,IN-MH-AHN,Ahilyanagar,major,Hinduism
+en,English,IN-MH-AHN,Ahilyanagar,administrative,Hinduism
+
+mr,Marathi,IN-MH-AKL,Akola,primary,Hinduism
+hi,Hindi,IN-MH-AKL,Akola,major,Hinduism
+
+mr,Marathi,IN-MH-AMV,Amravati,primary,Hinduism
+hi,Hindi,IN-MH-AMV,Amravati,major,Hinduism
+
+mr,Marathi,IN-MH-CSB,Chhatrapati Sambhajinagar,primary,Hinduism
+ur,Urdu,IN-MH-CSB,Chhatrapati Sambhajinagar,major,Hinduism
+hi,Hindi,IN-MH-CSB,Chhatrapati Sambhajinagar,major,Hinduism
+
+mr,Marathi,IN-MH-BED,Beed,primary,Hinduism
+hi,Hindi,IN-MH-BED,Beed,major,Hinduism
+
+mr,Marathi,IN-MH-BHN,Bhandara,primary,Hinduism
+hi,Hindi,IN-MH-BHN,Bhandara,major,Hinduism
+
+mr,Marathi,IN-MH-BLN,Buldhana,primary,Hinduism
+hi,Hindi,IN-MH-BLN,Buldhana,major,Hinduism
+
+mr,Marathi,IN-MH-CDP,Chandrapur,primary,Hinduism
+gon,Gondi,IN-MH-CDP,Chandrapur,tribal,Hinduism
+hi,Hindi,IN-MH-CDP,Chandrapur,major,Hinduism
+
+mr,Marathi,IN-MH-DHL,Dhule,primary,Hinduism
+bhb,Bhili,IN-MH-DHL,Dhule,major,Hinduism
+
+mr,Marathi,IN-MH-GDC,Gadchiroli,major,Hinduism
+gon,Gondi,IN-MH-GDC,Gadchiroli,primary,Hinduism
+mda,Madia,IN-MH-GDC,Gadchiroli,tribal,Hinduism
+
+mr,Marathi,IN-MH-GND,Gondia,primary,Hinduism
+hi,Hindi,IN-MH-GND,Gondia,major,Hinduism
+
+mr,Marathi,IN-MH-HGI,Hingoli,primary,Hinduism
+hi,Hindi,IN-MH-HGI,Hingoli,major,Hinduism
+
+mr,Marathi,IN-MH-JLG,Jalgaon,primary,Hinduism
+ahk,Ahirani,IN-MH-JLG,Jalgaon,major,Hinduism
+
+mr,Marathi,IN-MH-JLN,Jalna,primary,Hinduism
+hi,Hindi,IN-MH-JLN,Jalna,major,Hinduism
+
+mr,Marathi,IN-MH-KLP,Kolhapur,primary,Hinduism
+kn,Kannada,IN-MH-KLP,Kolhapur,major,Hinduism
+
+mr,Marathi,IN-MH-LTR,Latur,primary,Hinduism
+kn,Kannada,IN-MH-LTR,Latur,major,Hinduism
+
+mr,Marathi,IN-MH-MUM,Mumbai,primary,Hinduism
+hi,Hindi,IN-MH-MUM,Mumbai,major,Hinduism
+gu,Gujarati,IN-MH-MUM,Mumbai,major,Hinduism
+en,English,IN-MH-MUM,Mumbai,administrative,Hinduism
+
+mr,Marathi,IN-MH-MSB,Mumbai Suburban,primary,Hinduism
+hi,Hindi,IN-MH-MSB,Mumbai Suburban,major,Hinduism
+gu,Gujarati,IN-MH-MSB,Mumbai Suburban,major,Hinduism
+
+mr,Marathi,IN-MH-NGR,Nagpur,primary,Hinduism
+hi,Hindi,IN-MH-NGR,Nagpur,major,Hinduism
+
+mr,Marathi,IN-MH-NND,Nanded,primary,Hinduism
+te,Telugu,IN-MH-NND,Nanded,major,Hinduism
+hi,Hindi,IN-MH-NND,Nanded,major,Hinduism
+
+mr,Marathi,IN-MH-NDB,Nandurbar,major,Hinduism
+bhb,Bhili,IN-MH-NDB,Nandurbar,primary,Hinduism
+
+mr,Marathi,IN-MH-NSK,Nashik,primary,Hinduism
+ahk,Ahirani,IN-MH-NSK,Nashik,major,Hinduism
+
+mr,Marathi,IN-MH-DHV,Dharashiv,primary,Hinduism
+kn,Kannada,IN-MH-DHV,Dharashiv,major,Hinduism
+
+mr,Marathi,IN-MH-PBN,Parbhani,primary,Hinduism
+hi,Hindi,IN-MH-PBN,Parbhani,major,Hinduism
+
+mr,Marathi,IN-MH-PUN,Pune,primary,Hinduism
+hi,Hindi,IN-MH-PUN,Pune,major,Hinduism
+en,English,IN-MH-PUN,Pune,administrative,Hinduism
+
+mr,Marathi,IN-MH-RGD,Raigad,primary,Hinduism
+kok,Konkani,IN-MH-RGD,Raigad,major,Hinduism
+
+mr,Marathi,IN-MH-RTN,Ratnagiri,primary,Hinduism
+kok,Konkani,IN-MH-RTN,Ratnagiri,major,Hinduism
+
+mr,Marathi,IN-MH-SGL,Sangli,primary,Hinduism
+kn,Kannada,IN-MH-SGL,Sangli,major,Hinduism
+
+mr,Marathi,IN-MH-STR,Satara,primary,Hinduism
+
+mr,Marathi,IN-MH-SND,Sindhudurg,primary,Hinduism
+kok,Konkani,IN-MH-SND,Sindhudurg,major,Hinduism
+
+mr,Marathi,IN-MH-SLP,Solapur,primary,Hinduism
+kn,Kannada,IN-MH-SLP,Solapur,major,Hinduism
+
+mr,Marathi,IN-MH-THN,Thane,primary,Hinduism
+hi,Hindi,IN-MH-THN,Thane,major,Hinduism
+
+mr,Marathi,IN-MH-WRD,Wardha,primary,Hinduism
+hi,Hindi,IN-MH-WRD,Wardha,major,Hinduism
+
+mr,Marathi,IN-MH-WSM,Washim,primary,Hinduism
+
+mr,Marathi,IN-MH-YTL,Yavatmal,primary,Hinduism
+gon,Gondi,IN-MH-YTL,Yavatmal,tribal,Hinduism
+
+mr,Marathi,IN-MH-PLG,Palghar,major,Hinduism
+war,Warli,IN-MH-PLG,Palghar,primary,Hinduism
+
+hi,Hindi,IN-MP-ANP,Anuppur,primary,Hinduism
+bag,Bagheli,IN-MP-ANP,Anuppur,major,Hinduism
+
+hi,Hindi,IN-MP-ASK,Ashoknagar,primary,Hinduism
+bho,Bhojpuri/Bundeli,IN-MP-ASK,Ashoknagar,major,Hinduism
+
+hi,Hindi,IN-MP-BGT,Balaghat,major,Hinduism
+gon,Gondi,IN-MP-BGT,Balaghat,primary,Hinduism
+
+hi,Hindi,IN-MP-BRW,Barwani,major,Hinduism
+bhb,Bhili,IN-MP-BRW,Barwani,primary,Hinduism
+
+hi,Hindi,IN-MP-BTL,Betul,major,Hinduism
+kor,Korku,IN-MP-BTL,Betul,primary,Hinduism
+
+hi,Hindi,IN-MP-BHD,Bhind,primary,Hinduism
+bra,Braj,IN-MP-BHD,Bhind,major,Hinduism
+
+hi,Hindi,IN-MP-BPL,Bhopal,primary,Hinduism
+ur,Urdu,IN-MP-BPL,Bhopal,major,Hinduism
+en,English,IN-MP-BPL,Bhopal,administrative,Hinduism
+
+hi,Hindi,IN-MP-BUP,Burhanpur,primary,Hinduism
+mr,Marathi,IN-MP-BUP,Burhanpur,major,Hinduism
+
+hi,Hindi,IN-MP-CHP,Chhatarpur,primary,Hinduism
+bnd,Bundeli,IN-MP-CHP,Chhatarpur,major,Hinduism
+
+hi,Hindi,IN-MP-CHW,Chhindwara,major,Hinduism
+gon,Gondi,IN-MP-CHW,Chhindwara,primary,Hinduism
+
+hi,Hindi,IN-MP-DMH,Damoh,primary,Hinduism
+bnd,Bundeli,IN-MP-DMH,Damoh,major,Hinduism
+
+hi,Hindi,IN-MP-DAT,Datia,primary,Hinduism
+bra,Braj,IN-MP-DAT,Datia,major,Hinduism
+
+hi,Hindi,IN-MP-DWS,Dewas,primary,Hinduism
+mal,Malvi,IN-MP-DWS,Dewas,major,Hinduism
+
+hi,Hindi,IN-MP-DHR,Dhar,major,Hinduism
+bhb,Bhili,IN-MP-DHR,Dhar,primary,Hinduism
+
+hi,Hindi,IN-MP-DND,Dindori,major,Hinduism
+gon,Gondi,IN-MP-DND,Dindori,primary,Hinduism
+
+hi,Hindi,IN-MP-KNW,Khandwa,primary,Hinduism
+mr,Marathi,IN-MP-KNW,Khandwa,major,Hinduism
+
+hi,Hindi,IN-MP-GNA,Guna,primary,Hinduism
+bnd,Bundeli,IN-MP-GNA,Guna,major,Hinduism
+
+hi,Hindi,IN-MP-GWL,Gwalior,primary,Hinduism
+bra,Braj,IN-MP-GWL,Gwalior,major,Hinduism
+
+hi,Hindi,IN-MP-HRD,Harda,primary,Hinduism
+
+hi,Hindi,IN-MP-NRM,Narmadapuram,primary,Hinduism
+
+hi,Hindi,IN-MP-IDR,Indore,primary,Hinduism
+mal,Malvi,IN-MP-IDR,Indore,major,Hinduism
+
+hi,Hindi,IN-MP-JBP,Jabalpur,primary,Hinduism
+bag,Bagheli,IN-MP-JBP,Jabalpur,major,Hinduism
+
+hi,Hindi,IN-MP-JHB,Jhabua,major,Hinduism
+bhb,Bhili,IN-MP-JHB,Jhabua,primary,Hinduism
+
+hi,Hindi,IN-MP-KTN,Katni,primary,Hinduism
+bag,Bagheli,IN-MP-KTN,Katni,major,Hinduism
+
+hi,Hindi,IN-MP-KHR,Khargone,major,Hinduism
+nim,Nimadi,IN-MP-KHR,Khargone,primary,Hinduism
+
+hi,Hindi,IN-MP-MDL,Mandla,major,Hinduism
+gon,Gondi,IN-MP-MDL,Mandla,primary,Hinduism
+
+hi,Hindi,IN-MP-MDS,Mandsaur,primary,Hinduism
+mal,Malvi,IN-MP-MDS,Mandsaur,major,Hinduism
+
+hi,Hindi,IN-MP-MRN,Morena,primary,Hinduism
+bra,Braj,IN-MP-MRN,Morena,major,Hinduism
+
+hi,Hindi,IN-MP-NSP,Narsimhapur,primary,Hinduism
+
+hi,Hindi,IN-MP-NMC,Neemuch,primary,Hinduism
+mal,Malvi,IN-MP-NMC,Neemuch,major,Hinduism
+
+hi,Hindi,IN-MP-PNA,Panna,primary,Hinduism
+bnd,Bundeli,IN-MP-PNA,Panna,major,Hinduism
+
+hi,Hindi,IN-MP-RSN,Raisen,primary,Hinduism
+
+hi,Hindi,IN-MP-RJG,Rajgarh,primary,Hinduism
+mal,Malvi,IN-MP-RJG,Rajgarh,major,Hinduism
+
+hi,Hindi,IN-MP-RTL,Ratlam,primary,Hinduism
+mal,Malvi,IN-MP-RTL,Ratlam,major,Hinduism
+
+hi,Hindi,IN-MP-REW,Rewa,major,Hinduism
+bag,Bagheli,IN-MP-REW,Rewa,primary,Hinduism
+
+hi,Hindi,IN-MP-SGR,Sagar,primary,Hinduism
+bnd,Bundeli,IN-MP-SGR,Sagar,major,Hinduism
+
+hi,Hindi,IN-MP-STN,Satna,major,Hinduism
+bag,Bagheli,IN-MP-STN,Satna,primary,Hinduism
+
+hi,Hindi,IN-MP-SOR,Sehore,primary,Hinduism
+
+hi,Hindi,IN-MP-SON,Seoni,major,Hinduism
+gon,Gondi,IN-MP-SON,Seoni,primary,Hinduism
+
+hi,Hindi,IN-MP-SHL,Shahdol,major,Hinduism
+bag,Bagheli,IN-MP-SHL,Shahdol,primary,Hinduism
+
+hi,Hindi,IN-MP-SJP,Shajapur,primary,Hinduism
+mal,Malvi,IN-MP-SJP,Shajapur,major,Hinduism
+
+hi,Hindi,IN-MP-SOP,Sheopur,primary,Hinduism
+
+hi,Hindi,IN-MP-SVP,Shivpuri,primary,Hinduism
+bnd,Bundeli,IN-MP-SVP,Shivpuri,major,Hinduism
+
+hi,Hindi,IN-MP-SDH,Sidhi,major,Hinduism
+bag,Bagheli,IN-MP-SDH,Sidhi,primary,Hinduism
+
+hi,Hindi,IN-MP-TKG,Tikamgarh,primary,Hinduism
+bnd,Bundeli,IN-MP-TKG,Tikamgarh,major,Hinduism
+
+hi,Hindi,IN-MP-UJN,Ujjain,primary,Hinduism
+mal,Malvi,IN-MP-UJN,Ujjain,major,Hinduism
+
+hi,Hindi,IN-MP-UMA,Umaria,major,Hinduism
+bag,Bagheli,IN-MP-UMA,Umaria,primary,Hinduism
+
+hi,Hindi,IN-MP-VDS,Vidisha,primary,Hinduism
+
+hi,Hindi,IN-MP-SRL,Singrauli,major,Hinduism
+bag,Bagheli,IN-MP-SRL,Singrauli,primary,Hinduism
+
+hi,Hindi,IN-MP-ALR,Alirajpur,major,Hinduism
+bhb,Bhili,IN-MP-ALR,Alirajpur,primary,Hinduism
+
+hi,Hindi,IN-MP-AGM,Agar-Malwa,primary,Hinduism
+mal,Malvi,IN-MP-AGM,Agar-Malwa,major,Hinduism
+
+hi,Hindi,IN-MP-NWR,Niwari,primary,Hinduism
+bnd,Bundeli,IN-MP-NWR,Niwari,major,Hinduism
+
+hi,Hindi,IN-MP-MGJ,Mauganj,primary,Hinduism
+bag,Bagheli,IN-MP-MGJ,Mauganj,major,Hinduism
+
+hi,Hindi,IN-MP-MHR,Maihar,primary,Hinduism
+bag,Bagheli,IN-MP-MHR,Maihar,major,Hinduism
+
+hi,Hindi,IN-MP-PDN,Pandhurna,primary,Hinduism
+mr,Marathi,IN-MP-PDN,Pandhurna,major,Hinduism
+
+ml,Malayalam,IN-LD-LKD,Lakshadweep District,primary,Islam
+div,Divehi (Mahl),IN-LD-LKD,Lakshadweep District,major,Islam
+hi,Hindi,IN-LD-LKD,Lakshadweep District,major,Islam
+en,English,IN-LD-LKD,Lakshadweep District,administrative,Islam
+ar,Arabic,IN-LD-LKD,Lakshadweep District,minor,Islam
+
+bal,Balti,IN-LA-KRG,Kargil,primary,Islam
+ur,Urdu,IN-LA-KRG,Kargil,major,Islam
+lad,Ladakhi,IN-LA-KRG,Kargil,major,Islam
+hi,Hindi,IN-LA-KRG,Kargil,major,Islam
+en,English,IN-LA-KRG,Kargil,administrative,Islam
+
+lad,Ladakhi,IN-LA-LEH,Leh Ladakh,primary,Buddhism
+bod,Tibetan,IN-LA-LEH,Leh Ladakh,major,Buddhism
+hi,Hindi,IN-LA-LEH,Leh Ladakh,major,Buddhism
+en,English,IN-LA-LEH,Leh Ladakh,administrative,Buddhism
+
+ml,Malayalam,IN-KL-ALP,Alappuzha,primary,Hinduism
+en,English,IN-KL-ALP,Alappuzha,administrative,Hinduism
+hi,Hindi,IN-KL-ALP,Alappuzha,major,Hinduism
+
+ml,Malayalam,IN-KL-ERN,Ernakulam,primary,Hinduism
+en,English,IN-KL-ERN,Ernakulam,administrative,Hinduism
+ta,Tamil,IN-KL-ERN,Ernakulam,major,Hinduism
+hi,Hindi,IN-KL-ERN,Ernakulam,major,Hinduism
+
+ml,Malayalam,IN-KL-IDK,Idukki,primary,Hinduism
+ta,Tamil,IN-KL-IDK,Idukki,major,Hinduism
+kur,Kurumba,IN-KL-IDK,Idukki,tribal,Hinduism
+
+ml,Malayalam,IN-KL-KNR,Kannur,primary,Hinduism
+en,English,IN-KL-KNR,Kannur,administrative,Hinduism
+hi,Hindi,IN-KL-KNR,Kannur,major,Hinduism
+
+ml,Malayalam,IN-KL-KSD,Kasaragod,primary,Islam
+kn,Kannada,IN-KL-KSD,Kasaragod,major,Islam
+tcy,Tulu,IN-KL-KSD,Kasaragod,major,Islam
+
+ml,Malayalam,IN-KL-KLM,Kollam,primary,Hinduism
+en,English,IN-KL-KLM,Kollam,administrative,Hinduism
+
+ml,Malayalam,IN-KL-KTM,Kottayam,primary,Christianity
+en,English,IN-KL-KTM,Kottayam,administrative,Christianity
+
+ml,Malayalam,IN-KL-KZD,Kozhikode,primary,Islam
+en,English,IN-KL-KZD,Kozhikode,administrative,Islam
+hi,Hindi,IN-KL-KZD,Kozhikode,major,Islam
+
+ml,Malayalam,IN-KL-MLP,Malappuram,primary,Islam
+ar,Arabic,IN-KL-MLP,Malappuram,minor,Islam
+
+ml,Malayalam,IN-KL-PKD,Palakkad,primary,Hinduism
+ta,Tamil,IN-KL-PKD,Palakkad,major,Hinduism
+irx,Irula,IN-KL-PKD,Palakkad,tribal,Hinduism
+
+ml,Malayalam,IN-KL-PTA,Pathanamthitta,primary,Christianity
+en,English,IN-KL-PTA,Pathanamthitta,administrative,Christianity
+
+ml,Malayalam,IN-KL-TVM,Thiruvananthapuram,primary,Hinduism
+ta,Tamil,IN-KL-TVM,Thiruvananthapuram,major,Hinduism
+en,English,IN-KL-TVM,Thiruvananthapuram,administrative,Hinduism
+
+ml,Malayalam,IN-KL-TSR,Thrissur,primary,Hinduism
+en,English,IN-KL-TSR,Thrissur,administrative,Hinduism
+
+ml,Malayalam,IN-KL-WYD,Wayanad,major,Hinduism
+kur,Kurumba,IN-KL-WYD,Wayanad,primary,Hinduism
+irx,Irula,IN-KL-WYD,Wayanad,tribal,Hinduism
+
+kn,Kannada,IN-KA-BKT,Bagalkote,primary,Hinduism
+mr,Marathi,IN-KA-BKT,Bagalkote,major,Hinduism
+hi,Hindi,IN-KA-BKT,Bagalkote,minor,Hinduism
+
+kn,Kannada,IN-KA-BGU,Bengaluru Urban,primary,Hinduism
+ta,Tamil,IN-KA-BGU,Bengaluru Urban,major,Hinduism
+te,Telugu,IN-KA-BGU,Bengaluru Urban,major,Hinduism
+hi,Hindi,IN-KA-BGU,Bengaluru Urban,major,Hinduism
+en,English,IN-KA-BGU,Bengaluru Urban,administrative,Hinduism
+
+kn,Kannada,IN-KA-BGR,Bengaluru Rural,primary,Hinduism
+te,Telugu,IN-KA-BGR,Bengaluru Rural,major,Hinduism
+ta,Tamil,IN-KA-BGR,Bengaluru Rural,major,Hinduism
+
+kn,Kannada,IN-KA-BLG,Belagavi,primary,Hinduism
+mr,Marathi,IN-KA-BLG,Belagavi,major,Hinduism
+
+kn,Kannada,IN-KA-BLR,Ballari,primary,Hinduism
+te,Telugu,IN-KA-BLR,Ballari,major,Hinduism
+
+kn,Kannada,IN-KA-BDR,Bidar,primary,Hinduism
+ur,Urdu,IN-KA-BDR,Bidar,major,Hinduism
+mr,Marathi,IN-KA-BDR,Bidar,major,Hinduism
+
+kn,Kannada,IN-KA-VJP,Vijayapura,primary,Hinduism
+ur,Urdu,IN-KA-VJP,Vijayapura,major,Hinduism
+
+kn,Kannada,IN-KA-CMN,Chamarajanagar,primary,Hinduism
+ta,Tamil,IN-KA-CMN,Chamarajanagar,major,Hinduism
+
+kn,Kannada,IN-KA-CKM,Chikkamagaluru,primary,Hinduism
+tcy,Tulu,IN-KA-CKM,Chikkamagaluru,minor,Hinduism
+
+kn,Kannada,IN-KA-CTD,Chitradurga,primary,Hinduism
+
+kn,Kannada,IN-KA-DKN,Dakshina Kannada,primary,Hinduism
+tcy,Tulu,IN-KA-DKN,Dakshina Kannada,major,Hinduism
+kok,Konkani,IN-KA-DKN,Dakshina Kannada,major,Hinduism
+
+kn,Kannada,IN-KA-DVG,Davanagere,primary,Hinduism
+
+kn,Kannada,IN-KA-DWD,Dharwad,primary,Hinduism
+mr,Marathi,IN-KA-DWD,Dharwad,major,Hinduism
+
+kn,Kannada,IN-KA-GDG,Gadag,primary,Hinduism
+
+kn,Kannada,IN-KA-KLB,Kalaburagi,primary,Hinduism
+ur,Urdu,IN-KA-KLB,Kalaburagi,major,Hinduism
+
+kn,Kannada,IN-KA-HSN,Hassan,primary,Hinduism
+
+kn,Kannada,IN-KA-HVR,Haveri,primary,Hinduism
+
+kn,Kannada,IN-KA-KDG,Kodagu,primary,Hinduism
+kod,Kodava,IN-KA-KDG,Kodagu,major,Hinduism
+
+kn,Kannada,IN-KA-KLR,Kolar,primary,Hinduism
+te,Telugu,IN-KA-KLR,Kolar,major,Hinduism
+ta,Tamil,IN-KA-KLR,Kolar,major,Hinduism
+
+kn,Kannada,IN-KA-KPL,Koppal,primary,Hinduism
+
+kn,Kannada,IN-KA-MDY,Mandya,primary,Hinduism
+
+kn,Kannada,IN-KA-MYS,Mysuru,primary,Hinduism
+ta,Tamil,IN-KA-MYS,Mysuru,major,Hinduism
+
+kn,Kannada,IN-KA-RCR,Raichur,primary,Hinduism
+te,Telugu,IN-KA-RCR,Raichur,major,Hinduism
+
+kn,Kannada,IN-KA-SMG,Shivamogga,primary,Hinduism
+
+kn,Kannada,IN-KA-TMK,Tumakuru,primary,Hinduism
+
+kn,Kannada,IN-KA-UDP,Udupi,primary,Hinduism
+tcy,Tulu,IN-KA-UDP,Udupi,major,Hinduism
+kok,Konkani,IN-KA-UDP,Udupi,major,Hinduism
+
+kn,Kannada,IN-KA-UTK,Uttara Kannada,primary,Hinduism
+kok,Konkani,IN-KA-UTK,Uttara Kannada,major,Hinduism
+mr,Marathi,IN-KA-UTK,Uttara Kannada,major,Hinduism
+
+kn,Kannada,IN-KA-CKB,Chikkaballapura,primary,Hinduism
+te,Telugu,IN-KA-CKB,Chikkaballapura,major,Hinduism
+
+kn,Kannada,IN-KA-RNG,Ramanagara,primary,Hinduism
+
+kn,Kannada,IN-KA-YDG,Yadgir,primary,Hinduism
+ur,Urdu,IN-KA-YDG,Yadgir,major,Hinduism
+
+kn,Kannada,IN-KA-VJN,Vijayanagara,primary,Hinduism
+te,Telugu,IN-KA-VJN,Vijayanagara,major,Hinduism
+
+ks,Kashmiri,IN-JK-ANG,Anantnag,primary,Islam
+ur,Urdu,IN-JK-ANG,Anantnag,administrative,Islam
+hi,Hindi,IN-JK-ANG,Anantnag,major,Islam
+
+ks,Kashmiri,IN-JK-BDG,Budgam,primary,Islam
+ur,Urdu,IN-JK-BDG,Budgam,administrative,Islam
+
+ks,Kashmiri,IN-JK-BAR,Baramulla,primary,Islam
+ur,Urdu,IN-JK-BAR,Baramulla,administrative,Islam
+
+doi,Dogri,IN-JK-DOD,Doda,primary,Hinduism
+hi,Hindi,IN-JK-DOD,Doda,major,Hinduism
+
+doi,Dogri,IN-JK-JAM,Jammu,primary,Hinduism
+hi,Hindi,IN-JK-JAM,Jammu,major,Hinduism
+ur,Urdu,IN-JK-JAM,Jammu,administrative,Hinduism
+
+doi,Dogri,IN-JK-KTH,Kathua,primary,Hinduism
+hi,Hindi,IN-JK-KTH,Kathua,major,Hinduism
+
+ks,Kashmiri,IN-JK-KUP,Kupwara,primary,Islam
+ur,Urdu,IN-JK-KUP,Kupwara,administrative,Islam
+
+phr,Pahari,IN-JK-PNC,Poonch,primary,Islam
+ur,Urdu,IN-JK-PNC,Poonch,major,Islam
+
+ks,Kashmiri,IN-JK-PUL,Pulwama,primary,Islam
+ur,Urdu,IN-JK-PUL,Pulwama,administrative,Islam
+
+phr,Pahari,IN-JK-RJR,Rajouri,primary,Islam
+doi,Dogri,IN-JK-RJR,Rajouri,major,Islam
+
+ks,Kashmiri,IN-JK-SNR,Srinagar,primary,Islam
+ur,Urdu,IN-JK-SNR,Srinagar,administrative,Islam
+hi,Hindi,IN-JK-SNR,Srinagar,major,Islam
+
+doi,Dogri,IN-JK-UDH,Udhampur,primary,Hinduism
+hi,Hindi,IN-JK-UDH,Udhampur,major,Hinduism
+
+doi,Dogri,IN-JK-KSW,Kishtwar,primary,Hinduism
+hi,Hindi,IN-JK-KSW,Kishtwar,major,Hinduism
+
+doi,Dogri,IN-JK-RBN,Ramban,primary,Hinduism
+hi,Hindi,IN-JK-RBN,Ramban,major,Hinduism
+
+ks,Kashmiri,IN-JK-KLG,Kulgam,primary,Islam
+ur,Urdu,IN-JK-KLG,Kulgam,administrative,Islam
+
+ks,Kashmiri,IN-JK-BNP,Bandipora,primary,Islam
+ur,Urdu,IN-JK-BNP,Bandipora,administrative,Islam
+
+doi,Dogri,IN-JK-SMB,Samba,primary,Hinduism
+hi,Hindi,IN-JK-SMB,Samba,major,Hinduism
+
+ks,Kashmiri,IN-JK-SHP,Shopian,primary,Islam
+ur,Urdu,IN-JK-SHP,Shopian,administrative,Islam
+
+ks,Kashmiri,IN-JK-GNB,Ganderbal,primary,Islam
+ur,Urdu,IN-JK-GNB,Ganderbal,administrative,Islam
+
+doi,Dogri,IN-JK-RES,Reasi,primary,Hinduism
+hi,Hindi,IN-JK-RES,Reasi,major,Hinduism
+
+him,Himachali (Pahari),IN-HP-BLP,Bilaspur,primary,Hinduism
+hi,Hindi,IN-HP-BLP,Bilaspur,administrative,Hinduism
+
+him,Himachali (Pahari),IN-HP-CMB,Chamba,primary,Hinduism
+hi,Hindi,IN-HP-CMB,Chamba,administrative,Hinduism
+doi,Dogri,IN-HP-CMB,Chamba,major,Hinduism
+
+him,Himachali (Pahari),IN-HP-HMR,Hamirpur,primary,Hinduism
+hi,Hindi,IN-HP-HMR,Hamirpur,administrative,Hinduism
+
+him,Himachali (Pahari),IN-HP-KNG,Kangra,primary,Hinduism
+hi,Hindi,IN-HP-KNG,Kangra,administrative,Hinduism
+pan,Punjabi,IN-HP-KNG,Kangra,major,Hinduism
+
+kin,Kinnauri,IN-HP-KNN,Kinnaur,primary,Buddhism
+bod,Tibetan,IN-HP-KNN,Kinnaur,major,Buddhism
+hi,Hindi,IN-HP-KNN,Kinnaur,administrative,Buddhism
+
+him,Himachali (Pahari),IN-HP-KLU,Kullu,primary,Hinduism
+hi,Hindi,IN-HP-KLU,Kullu,administrative,Hinduism
+
+bod,Tibetan,IN-HP-LAS,Lahaul And Spiti,primary,Buddhism
+lad,Ladakhi,IN-HP-LAS,Lahaul And Spiti,major,Buddhism
+hi,Hindi,IN-HP-LAS,Lahaul And Spiti,administrative,Buddhism
+
+him,Himachali (Pahari),IN-HP-MND,Mandi,primary,Hinduism
+hi,Hindi,IN-HP-MND,Mandi,administrative,Hinduism
+
+him,Himachali (Pahari),IN-HP-SML,Shimla,primary,Hinduism
+hi,Hindi,IN-HP-SML,Shimla,administrative,Hinduism
+en,English,IN-HP-SML,Shimla,major,Hinduism
+
+him,Himachali (Pahari),IN-HP-SMR,Sirmaur,primary,Hinduism
+hi,Hindi,IN-HP-SMR,Sirmaur,administrative,Hinduism
+har,Haryanvi,IN-HP-SMR,Sirmaur,major,Hinduism
+
+him,Himachali (Pahari),IN-HP-SLN,Solan,primary,Hinduism
+hi,Hindi,IN-HP-SLN,Solan,administrative,Hinduism
+pan,Punjabi,IN-HP-SLN,Solan,major,Hinduism
+
+him,Himachali (Pahari),IN-HP-UNA,Una,primary,Hinduism
+pan,Punjabi,IN-HP-UNA,Una,major,Hinduism
+hi,Hindi,IN-HP-UNA,Una,administrative,Hinduism
+
+har,Haryanvi,IN-HR-AMB,Ambala,primary,Hinduism
+hi,Hindi,IN-HR-AMB,Ambala,administrative,Hinduism
+pan,Punjabi,IN-HR-AMB,Ambala,major,Hinduism
+
+har,Haryanvi,IN-HR-BHW,Bhiwani,primary,Hinduism
+hi,Hindi,IN-HR-BHW,Bhiwani,administrative,Hinduism
+
+har,Haryanvi,IN-HR-FRD,Faridabad,primary,Hinduism
+hi,Hindi,IN-HR-FRD,Faridabad,major,Hinduism
+en,English,IN-HR-FRD,Faridabad,administrative,Hinduism
+
+har,Haryanvi,IN-HR-FTB,Fatehabad,primary,Hinduism
+hi,Hindi,IN-HR-FTB,Fatehabad,administrative,Hinduism
+pan,Punjabi,IN-HR-FTB,Fatehabad,major,Hinduism
+
+har,Haryanvi,IN-HR-GRG,Gurugram,primary,Hinduism
+hi,Hindi,IN-HR-GRG,Gurugram,major,Hinduism
+en,English,IN-HR-GRG,Gurugram,administrative,Hinduism
+
+har,Haryanvi,IN-HR-HSR,Hisar,primary,Hinduism
+hi,Hindi,IN-HR-HSR,Hisar,administrative,Hinduism
+
+har,Haryanvi,IN-HR-JHJ,Jhajjar,primary,Hinduism
+hi,Hindi,IN-HR-JHJ,Jhajjar,administrative,Hinduism
+
+har,Haryanvi,IN-HR-JND,Jind,primary,Hinduism
+hi,Hindi,IN-HR-JND,Jind,administrative,Hinduism
+
+har,Haryanvi,IN-HR-KTL,Kaithal,primary,Hinduism
+hi,Hindi,IN-HR-KTL,Kaithal,administrative,Hinduism
+
+har,Haryanvi,IN-HR-KRN,Karnal,primary,Hinduism
+hi,Hindi,IN-HR-KRN,Karnal,administrative,Hinduism
+pan,Punjabi,IN-HR-KRN,Karnal,major,Hinduism
+
+har,Haryanvi,IN-HR-KRK,Kurukshetra,primary,Hinduism
+hi,Hindi,IN-HR-KRK,Kurukshetra,administrative,Hinduism
+
+har,Haryanvi,IN-HR-MHD,Mahendragarh,primary,Hinduism
+hi,Hindi,IN-HR-MHD,Mahendragarh,administrative,Hinduism
+
+har,Haryanvi,IN-HR-PNK,Panchkula,primary,Hinduism
+hi,Hindi,IN-HR-PNK,Panchkula,administrative,Hinduism
+pan,Punjabi,IN-HR-PNK,Panchkula,major,Hinduism
+
+har,Haryanvi,IN-HR-PNP,Panipat,primary,Hinduism
+hi,Hindi,IN-HR-PNP,Panipat,administrative,Hinduism
+
+har,Haryanvi,IN-HR-RWR,Rewari,primary,Hinduism
+hi,Hindi,IN-HR-RWR,Rewari,administrative,Hinduism
+
+har,Haryanvi,IN-HR-RTK,Rohtak,primary,Hinduism
+hi,Hindi,IN-HR-RTK,Rohtak,administrative,Hinduism
+
+har,Haryanvi,IN-HR-SRS,Sirsa,primary,Hinduism
+hi,Hindi,IN-HR-SRS,Sirsa,administrative,Hinduism
+pan,Punjabi,IN-HR-SRS,Sirsa,major,Hinduism
+
+har,Haryanvi,IN-HR-SNI,Sonipat,primary,Hinduism
+hi,Hindi,IN-HR-SNI,Sonipat,administrative,Hinduism
+
+har,Haryanvi,IN-HR-YMN,Yamunanagar,primary,Hinduism
+hi,Hindi,IN-HR-YMN,Yamunanagar,administrative,Hinduism
+pan,Punjabi,IN-HR-YMN,Yamunanagar,major,Hinduism
+
+mew,Mewati,IN-HR-NUH,Nuh,primary,Islam
+hi,Hindi,IN-HR-NUH,Nuh,major,Islam
+ur,Urdu,IN-HR-NUH,Nuh,major,Islam
+
+har,Haryanvi,IN-HR-PLW,Palwal,primary,Hinduism
+hi,Hindi,IN-HR-PLW,Palwal,administrative,Hinduism
+
+har,Haryanvi,IN-HR-CKD,Charkhi Dadri,primary,Hinduism
+hi,Hindi,IN-HR-CKD,Charkhi Dadri,administrative,Hinduism
+
+gu,Gujarati,IN-GJ-AMD,Ahmedabad,primary,Hinduism
+hi,Hindi,IN-GJ-AMD,Ahmedabad,major,Hinduism
+en,English,IN-GJ-AMD,Ahmedabad,administrative,Hinduism
+
+gu,Gujarati,IN-GJ-AML,Amreli,primary,Hinduism
+
+gu,Gujarati,IN-GJ-AND,Anand,primary,Hinduism
+
+gu,Gujarati,IN-GJ-BNK,Banas Kantha,primary,Hinduism
+raj,Rajasthani,IN-GJ-BNK,Banas Kantha,major,Hinduism
+
+gu,Gujarati,IN-GJ-BRC,Bharuch,primary,Hinduism
+bhb,Bhili,IN-GJ-BRC,Bharuch,major,Hinduism
+
+gu,Gujarati,IN-GJ-BHV,Bhavnagar,primary,Hinduism
+
+bhb,Bhili,IN-GJ-DNG,Dangs,primary,Hinduism
+gu,Gujarati,IN-GJ-DNG,Dangs,major,Hinduism
+
+bhb,Bhili,IN-GJ-DHD,Dahod,primary,Hinduism
+gu,Gujarati,IN-GJ-DHD,Dahod,major,Hinduism
+
+gu,Gujarati,IN-GJ-GNR,Gandhinagar,primary,Hinduism
+hi,Hindi,IN-GJ-GNR,Gandhinagar,major,Hinduism
+
+gu,Gujarati,IN-GJ-JMN,Jamnagar,primary,Hinduism
+
+gu,Gujarati,IN-GJ-JGH,Junagadh,primary,Hinduism
+
+kut,Kutchi,IN-GJ-KCH,Kachchh,primary,Hinduism
+gu,Gujarati,IN-GJ-KCH,Kachchh,major,Hinduism
+
+gu,Gujarati,IN-GJ-KHD,Kheda,primary,Hinduism
+
+gu,Gujarati,IN-GJ-MSN,Mahesana,primary,Hinduism
+
+gu,Gujarati,IN-GJ-NAR,Narmada,major,Hinduism
+bhb,Bhili,IN-GJ-NAR,Narmada,primary,Hinduism
+
+gu,Gujarati,IN-GJ-NVS,Navsari,primary,Hinduism
+
+gu,Gujarati,IN-GJ-PMH,Panch Mahals,major,Hinduism
+bhb,Bhili,IN-GJ-PMH,Panch Mahals,primary,Hinduism
+
+gu,Gujarati,IN-GJ-PTN,Patan,primary,Hinduism
+
+gu,Gujarati,IN-GJ-PRB,Porbandar,primary,Hinduism
+
+gu,Gujarati,IN-GJ-RJK,Rajkot,primary,Hinduism
+
+gu,Gujarati,IN-GJ-SBK,Sabar Kantha,primary,Hinduism
+bhb,Bhili,IN-GJ-SBK,Sabar Kantha,major,Hinduism
+
+gu,Gujarati,IN-GJ-SRT,Surat,primary,Hinduism
+hi,Hindi,IN-GJ-SRT,Surat,major,Hinduism
+
+gu,Gujarati,IN-GJ-SDN,Surendranagar,primary,Hinduism
+
+gu,Gujarati,IN-GJ-VDR,Vadodara,primary,Hinduism
+bhb,Bhili,IN-GJ-VDR,Vadodara,major,Hinduism
+
+gu,Gujarati,IN-GJ-VLS,Valsad,primary,Hinduism
+bhb,Bhili,IN-GJ-VLS,Valsad,major,Hinduism
+
+gu,Gujarati,IN-GJ-TAP,Tapi,major,Hinduism
+bhb,Bhili,IN-GJ-TAP,Tapi,primary,Hinduism
+
+gu,Gujarati,IN-GJ-CUD,Chhota Udepur,major,Hinduism
+bhb,Bhili,IN-GJ-CUD,Chhota Udepur,primary,Hinduism
+
+gu,Gujarati,IN-GJ-MSG,Mahisagar,primary,Hinduism
+bhb,Bhili,IN-GJ-MSG,Mahisagar,major,Hinduism
+
+gu,Gujarati,IN-GJ-ARV,Arvalli,primary,Hinduism
+bhb,Bhili,IN-GJ-ARV,Arvalli,major,Hinduism
+
+gu,Gujarati,IN-GJ-MRB,Morbi,primary,Hinduism
+
+gu,Gujarati,IN-GJ-DBD,Devbhumi Dwarka,primary,Hinduism
+
+gu,Gujarati,IN-GJ-GSM,Gir Somnath,primary,Hinduism
+
+gu,Gujarati,IN-GJ-BOT,Botad,primary,Hinduism
+
+gu,Gujarati,IN-GJ-VTD,Vav-Tharad,primary,Hinduism
+raj,Rajasthani,IN-GJ-VTD,Vav-Tharad,major,Hinduism
+
+kok,Konkani,IN-GA-NGA,North Goa,primary,Christianity
+mr,Marathi,IN-GA-NGA,North Goa,major,Christianity
+en,English,IN-GA-NGA,North Goa,administrative,Christianity
+hi,Hindi,IN-GA-NGA,North Goa,major,Christianity
+por,Portuguese,IN-GA-NGA,North Goa,minor,Christianity
+
+kok,Konkani,IN-GA-SGA,South Goa,primary,Christianity
+mr,Marathi,IN-GA-SGA,South Goa,major,Christianity
+en,English,IN-GA-SGA,South Goa,administrative,Christianity
+hi,Hindi,IN-GA-SGA,South Goa,major,Christianity
+kan,Kannada,IN-GA-SGA,South Goa,minor,Christianity
+
+hi,Hindi,IN-DL-CEN,Central,primary,Hinduism
+en,English,IN-DL-CEN,Central,administrative,Hinduism
+ur,Urdu,IN-DL-CEN,Central,major,Hinduism
+pan,Punjabi,IN-DL-CEN,Central,major,Hinduism
+
+hi,Hindi,IN-DL-EAS,East,primary,Hinduism
+en,English,IN-DL-EAS,East,administrative,Hinduism
+pan,Punjabi,IN-DL-EAS,East,major,Hinduism
+bho,Bhojpuri,IN-DL-EAS,East,major,Hinduism
+
+hi,Hindi,IN-DL-NDL,New Delhi,primary,Hinduism
+en,English,IN-DL-NDL,New Delhi,administrative,Hinduism
+pan,Punjabi,IN-DL-NDL,New Delhi,major,Hinduism
+
+hi,Hindi,IN-DL-NOR,North,primary,Hinduism
+en,English,IN-DL-NOR,North,administrative,Hinduism
+pan,Punjabi,IN-DL-NOR,North,major,Hinduism
+
+hi,Hindi,IN-DL-NEA,North East,primary,Hinduism
+ur,Urdu,IN-DL-NEA,North East,major,Hinduism
+bho,Bhojpuri,IN-DL-NEA,North East,major,Hinduism
+
+hi,Hindi,IN-DL-NWE,North West,primary,Hinduism
+pan,Punjabi,IN-DL-NWE,North West,major,Hinduism
+en,English,IN-DL-NWE,North West,administrative,Hinduism
+
+hi,Hindi,IN-DL-SOU,South,primary,Hinduism
+en,English,IN-DL-SOU,South,administrative,Hinduism
+pan,Punjabi,IN-DL-SOU,South,major,Hinduism
+
+hi,Hindi,IN-DL-SWE,South West,primary,Hinduism
+pan,Punjabi,IN-DL-SWE,South West,major,Hinduism
+en,English,IN-DL-SWE,South West,administrative,Hinduism
+
+hi,Hindi,IN-DL-WES,West,primary,Hinduism
+pan,Punjabi,IN-DL-WES,West,major,Hinduism
+en,English,IN-DL-WES,West,administrative,Hinduism
+
+hi,Hindi,IN-DL-SEA,South East,primary,Hinduism
+en,English,IN-DL-SEA,South East,administrative,Hinduism
+ur,Urdu,IN-DL-SEA,South East,major,Hinduism
+
+hi,Hindi,IN-DL-SHD,Shahdara,primary,Hinduism
+ur,Urdu,IN-DL-SHD,Shahdara,major,Hinduism
+bho,Bhojpuri,IN-DL-SHD,Shahdara,major,Hinduism
+
+hne,Chhattisgarhi,IN-CG-BST,Bastar,major,Hinduism
+gon,Gondi,IN-CG-BST,Bastar,primary,Hinduism
+hi,Hindi,IN-CG-BST,Bastar,administrative,Hinduism
+
+hne,Chhattisgarhi,IN-CG-BSP,Bilaspur,primary,Hinduism
+hi,Hindi,IN-CG-BSP,Bilaspur,administrative,Hinduism
+
+gon,Gondi,IN-CG-DNW,Dakshin Bastar Dantewada,primary,Hinduism
+hne,Chhattisgarhi,IN-CG-DNW,Dakshin Bastar Dantewada,major,Hinduism
+
+hne,Chhattisgarhi,IN-CG-DMT,Dhamtari,primary,Hinduism
+hi,Hindi,IN-CG-DMT,Dhamtari,administrative,Hinduism
+
+hne,Chhattisgarhi,IN-CG-DUG,Durg,primary,Hinduism
+hi,Hindi,IN-CG-DUG,Durg,administrative,Hinduism
+
+hne,Chhattisgarhi,IN-CG-JGC,Janjgir-Champa,primary,Hinduism
+hi,Hindi,IN-CG-JGC,Janjgir-Champa,administrative,Hinduism
+
+hne,Chhattisgarhi,IN-CG-JSP,Jashpur,major,Hinduism
+kur,Kurukh (Oraon),IN-CG-JSP,Jashpur,primary,Hinduism
+hi,Hindi,IN-CG-JSP,Jashpur,administrative,Hinduism
+
+gon,Gondi,IN-CG-KNK,Uttar Bastar Kanker,primary,Hinduism
+hne,Chhattisgarhi,IN-CG-KNK,Uttar Bastar Kanker,major,Hinduism
+
+hne,Chhattisgarhi,IN-CG-KBD,Kabeerdham,primary,Hinduism
+hi,Hindi,IN-CG-KBD,Kabeerdham,administrative,Hinduism
+
+hne,Chhattisgarhi,IN-CG-KRB,Korba,major,Hinduism
+kor,Korwa,IN-CG-KRB,Korba,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-KOR,Korea,major,Hinduism
+kor,Korwa,IN-CG-KOR,Korea,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-MSM,Mahasamund,primary,Hinduism
+hi,Hindi,IN-CG-MSM,Mahasamund,administrative,Hinduism
+
+hne,Chhattisgarhi,IN-CG-RGR,Raigarh,primary,Hinduism
+hi,Hindi,IN-CG-RGR,Raigarh,administrative,Hinduism
+
+hne,Chhattisgarhi,IN-CG-RPR,Raipur,primary,Hinduism
+hi,Hindi,IN-CG-RPR,Raipur,administrative,Hinduism
+en,English,IN-CG-RPR,Raipur,major,Hinduism
+
+hne,Chhattisgarhi,IN-CG-RNJ,Rajnandgaon,primary,Hinduism
+hi,Hindi,IN-CG-RNJ,Rajnandgaon,administrative,Hinduism
+
+hne,Chhattisgarhi,IN-CG-SRG,Surguja,major,Hinduism
+kur,Kurukh (Oraon),IN-CG-SRG,Surguja,primary,Hinduism
+
+gon,Gondi,IN-CG-BJP,Bijapur,primary,Hinduism
+hne,Chhattisgarhi,IN-CG-BJP,Bijapur,major,Hinduism
+
+gon,Gondi,IN-CG-NRP,Narayanpur,primary,Hinduism
+hne,Chhattisgarhi,IN-CG-NRP,Narayanpur,major,Hinduism
+
+gon,Gondi,IN-CG-SKA,Sukma,primary,Hinduism
+
+gon,Gondi,IN-CG-KGN,Kondagaon,primary,Hinduism
+hne,Chhattisgarhi,IN-CG-KGN,Kondagaon,major,Hinduism
+
+hne,Chhattisgarhi,IN-CG-BLB,Balodabazar-Bhatapara,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-GRB,Gariyaband,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-BLD,Balod,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-MNG,Mungeli,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-SRJ,Surajpur,major,Hinduism
+kur,Kurukh (Oraon),IN-CG-SRJ,Surajpur,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-BRG,Balrampur-Ramanujganj,major,Hinduism
+kor,Korwa,IN-CG-BRG,Balrampur-Ramanujganj,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-BMT,Bemetara,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-GPM,Gaurela-Pendra-Marwahi,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-KCG,Khairagarh-Chhuikhadan-Gandai,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-MCB,Manendragarh-Chirmiri-Bharatpur,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-MMA,Mohla-Manpur-Ambagarh Chouki,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-SKT,Sakti,primary,Hinduism
+
+hne,Chhattisgarhi,IN-CG-SBL,Sarangarh-Bilaigarh,primary,Hinduism
+
+asm,Assamese,IN-AS-BRP,Barpeta,primary,Islam
+ben,Bengali,IN-AS-BRP,Barpeta,major,Islam
+hi,Hindi,IN-AS-BRP,Barpeta,administrative,Islam
+
+asm,Assamese,IN-AS-BNG,Bongaigaon,primary,Hinduism
+bod,Bodo,IN-AS-BNG,Bongaigaon,major,Hinduism
+
+ben,Bengali,IN-AS-CHR,Cachar,primary,Hinduism
+asm,Assamese,IN-AS-CHR,Cachar,major,Hinduism
+hi,Hindi,IN-AS-CHR,Cachar,administrative,Hinduism
+
+asm,Assamese,IN-AS-DRG,Darrang,primary,Islam
+bod,Bodo,IN-AS-DRG,Darrang,major,Islam
+
+asm,Assamese,IN-AS-DMJ,Dhemaji,primary,Hinduism
+mis,Mising,IN-AS-DMJ,Dhemaji,major,Hinduism
+
+ben,Bengali,IN-AS-DBR,Dhubri,primary,Islam
+asm,Assamese,IN-AS-DBR,Dhubri,major,Islam
+
+asm,Assamese,IN-AS-DIB,Dibrugarh,primary,Hinduism
+hi,Hindi,IN-AS-DIB,Dibrugarh,major,Hinduism
+
+asm,Assamese,IN-AS-GLP,Goalpara,primary,Islam
+ben,Bengali,IN-AS-GLP,Goalpara,major,Islam
+
+asm,Assamese,IN-AS-GLG,Golaghat,primary,Hinduism
+
+ben,Bengali,IN-AS-HLK,Hailakandi,primary,Islam
+asm,Assamese,IN-AS-HLK,Hailakandi,major,Islam
+
+asm,Assamese,IN-AS-JHT,Jorhat,primary,Hinduism
+
+asm,Assamese,IN-AS-KAM,Kamrup,primary,Hinduism
+bod,Bodo,IN-AS-KAM,Kamrup,major,Hinduism
+
+kfr,Karbi,IN-AS-KAN,Karbi Anglong,primary,Christianity
+asm,Assamese,IN-AS-KAN,Karbi Anglong,major,Christianity
+
+ben,Bengali,IN-AS-SRB,Sribhumi,primary,Hinduism
+asm,Assamese,IN-AS-SRB,Sribhumi,major,Hinduism
+
+bod,Bodo,IN-AS-KOK,Kokrajhar,primary,Hinduism
+asm,Assamese,IN-AS-KOK,Kokrajhar,major,Hinduism
+
+asm,Assamese,IN-AS-LKP,Lakhimpur,primary,Hinduism
+mis,Mising,IN-AS-LKP,Lakhimpur,major,Hinduism
+
+asm,Assamese,IN-AS-MRG,Marigaon,primary,Islam
+bod,Bodo,IN-AS-MRG,Marigaon,major,Islam
+
+asm,Assamese,IN-AS-NGN,Nagaon,primary,Islam
+ben,Bengali,IN-AS-NGN,Nagaon,major,Islam
+
+asm,Assamese,IN-AS-NLB,Nalbari,primary,Hinduism
+bod,Bodo,IN-AS-NLB,Nalbari,major,Hinduism
+
+dim,Dimasa,IN-AS-DSO,Dima Hasao,primary,Christianity
+asm,Assamese,IN-AS-DSO,Dima Hasao,major,Christianity
+
+asm,Assamese,IN-AS-SIV,Sivasagar,primary,Hinduism
+
+asm,Assamese,IN-AS-SNP,Sonitpur,primary,Hinduism
+bod,Bodo,IN-AS-SNP,Sonitpur,major,Hinduism
+
+asm,Assamese,IN-AS-TNK,Tinsukia,primary,Hinduism
+
+bod,Bodo,IN-AS-CRG,Chirang,primary,Hinduism
+asm,Assamese,IN-AS-CRG,Chirang,major,Hinduism
+
+bod,Bodo,IN-AS-BKS,Baksa,primary,Hinduism
+asm,Assamese,IN-AS-BKS,Baksa,major,Hinduism
+
+bod,Bodo,IN-AS-UDG,Udalguri,primary,Hinduism
+asm,Assamese,IN-AS-UDG,Udalguri,major,Hinduism
+
+asm,Assamese,IN-AS-KMT,Kamrup Metro,primary,Hinduism
+hi,Hindi,IN-AS-KMT,Kamrup Metro,major,Hinduism
+en,English,IN-AS-KMT,Kamrup Metro,administrative,Hinduism
+
+asm,Assamese,IN-AS-BSW,Biswanath,primary,Hinduism
+
+asm,Assamese,IN-AS-MJL,Majuli,primary,Hinduism
+mis,Mising,IN-AS-MJL,Majuli,major,Hinduism
+
+ben,Bengali,IN-AS-SSM,South Salmara Mancachar,primary,Islam
+asm,Assamese,IN-AS-SSM,South Salmara Mancachar,major,Islam
+
+asm,Assamese,IN-AS-CRD,Charaideo,primary,Hinduism
+
+asm,Assamese,IN-AS-HOJ,Hojai,primary,Islam
+ben,Bengali,IN-AS-HOJ,Hojai,major,Islam
+
+kfr,Karbi,IN-AS-WKA,West Karbi Anglong,primary,Christianity
+asm,Assamese,IN-AS-WKA,West Karbi Anglong,major,Christianity
+
+asm,Assamese,IN-AS-BJL,Bajali,primary,Hinduism
+
+bod,Bodo,IN-AS-TMP,Tamulpur,primary,Hinduism
+asm,Assamese,IN-AS-TMP,Tamulpur,major,Hinduism
+
+noj,Nocte,IN-AR-CHG,Changlang,primary,Christianity
+tai,Tai Khamti,IN-AR-CHG,Changlang,major,Christianity
+hi,Hindi,IN-AR-CHG,Changlang,administrative,Christianity
+
+idu,Idu Mishmi,IN-AR-DIV,Dibang Valley,primary,Indigenous
+hi,Hindi,IN-AR-DIV,Dibang Valley,administrative,Indigenous
+
+nyi,Nyishi,IN-AR-EKM,East Kameng,primary,Indigenous
+hi,Hindi,IN-AR-EKM,East Kameng,administrative,Indigenous
+
+adi,Adi,IN-AR-ESG,East Siang,primary,Indigenous
+hi,Hindi,IN-AR-ESG,East Siang,administrative,Indigenous
+
+nyi,Nyishi,IN-AR-KKY,Kurung Kumey,primary,Indigenous
+hi,Hindi,IN-AR-KKY,Kurung Kumey,administrative,Indigenous
+
+mis,Mishmi,IN-AR-LOH,Lohit,primary,Buddhism
+tai,Tai Khamti,IN-AR-LOH,Lohit,major,Buddhism
+
+idu,Idu Mishmi,IN-AR-LDV,Lower Dibang Valley,primary,Indigenous
+hi,Hindi,IN-AR-LDV,Lower Dibang Valley,administrative,Indigenous
+
+nyi,Nyishi,IN-AR-LSU,Lower Subansiri,primary,Indigenous
+hi,Hindi,IN-AR-LSU,Lower Subansiri,administrative,Indigenous
+
+nyi,Nyishi,IN-AR-PPR,Papum Pare,primary,Indigenous
+hi,Hindi,IN-AR-PPR,Papum Pare,major,Indigenous
+en,English,IN-AR-PPR,Papum Pare,administrative,Indigenous
+
+bod,Tibetan (Monpa),IN-AR-TAW,Tawang,primary,Buddhism
+hi,Hindi,IN-AR-TAW,Tawang,administrative,Buddhism
+
+noj,Nocte,IN-AR-TIR,Tirap,primary,Christianity
+wan,Wancho,IN-AR-TIR,Tirap,major,Christianity
+
+adi,Adi,IN-AR-USG,Upper Siang,primary,Indigenous
+hi,Hindi,IN-AR-USG,Upper Siang,administrative,Indigenous
+
+tag,Tagin,IN-AR-USU,Upper Subansiri,primary,Indigenous
+hi,Hindi,IN-AR-USU,Upper Subansiri,administrative,Indigenous
+
+bod,Tibetan (Monpa),IN-AR-WKM,West Kameng,primary,Buddhism
+nyi,Nyishi,IN-AR-WKM,West Kameng,major,Buddhism
+
+adi,Adi,IN-AR-WSG,West Siang,primary,Indigenous
+hi,Hindi,IN-AR-WSG,West Siang,administrative,Indigenous
+
+mis,Mishmi,IN-AR-ANJ,Anjaw,primary,Buddhism
+hi,Hindi,IN-AR-ANJ,Anjaw,administrative,Buddhism
+
+wan,Wancho,IN-AR-LDG,Longding,primary,Christianity
+noj,Nocte,IN-AR-LDG,Longding,major,Christianity
+
+nyi,Nyishi,IN-AR-KRD,Kra Daadi,primary,Indigenous
+
+tai,Tai Khamti,IN-AR-NMS,Namsai,primary,Buddhism
+hi,Hindi,IN-AR-NMS,Namsai,major,Buddhism
+
+adi,Adi,IN-AR-SNG,Siang,primary,Indigenous
+
+nyi,Nyishi,IN-AR-KML,Kamle,primary,Indigenous
+
+adi,Adi,IN-AR-LSG,Lower Siang,primary,Indigenous
+
+nyi,Nyishi,IN-AR-PKS,Pakke Kessang,primary,Indigenous
+
+adi,Adi,IN-AR-LEP,Leparada,primary,Indigenous
+
+adi,Adi,IN-AR-SYM,Shi Yomi,primary,Indigenous
+
+nyi,Nyishi,IN-AR-KYP,Keyi Panyor,primary,Indigenous
+
+bod,Sherdukpen,IN-AR-BIC,Bichom,primary,Buddhism
+
+te,Telugu,IN-AP-ATP,Ananthapuramu,primary,Hinduism
+kn,Kannada,IN-AP-ATP,Ananthapuramu,major,Hinduism
+hi,Hindi,IN-AP-ATP,Ananthapuramu,administrative,Hinduism
+
+te,Telugu,IN-AP-CTR,Chittoor,primary,Hinduism
+ta,Tamil,IN-AP-CTR,Chittoor,major,Hinduism
+
+te,Telugu,IN-AP-YSR,Y.S.R. Kadapa,primary,Hinduism
+
+te,Telugu,IN-AP-EGD,East Godavari,primary,Hinduism
+
+te,Telugu,IN-AP-GTR,Guntur,primary,Hinduism
+
+te,Telugu,IN-AP-KNA,Krishna,primary,Hinduism
+
+te,Telugu,IN-AP-KNL,Kurnool,primary,Hinduism
+kn,Kannada,IN-AP-KNL,Kurnool,major,Hinduism
+
+te,Telugu,IN-AP-NLR,Sri Potti Sriramulu Nellore,primary,Hinduism
+ta,Tamil,IN-AP-NLR,Sri Potti Sriramulu Nellore,major,Hinduism
+
+te,Telugu,IN-AP-PKM,Prakasam,primary,Hinduism
+
+te,Telugu,IN-AP-SKM,Srikakulam,primary,Hinduism
+ory,Odia,IN-AP-SKM,Srikakulam,major,Hinduism
+
+te,Telugu,IN-AP-VSP,Visakhapatnam,primary,Hinduism
+hi,Hindi,IN-AP-VSP,Visakhapatnam,major,Hinduism
+
+te,Telugu,IN-AP-VZM,Vizianagaram,primary,Hinduism
+ory,Odia,IN-AP-VZM,Vizianagaram,major,Hinduism
+
+te,Telugu,IN-AP-WGD,West Godavari,primary,Hinduism
+
+te,Telugu,IN-AP-PVM,Parvathipuram Manyam,major,Hinduism
+kui,Kui,IN-AP-PVM,Parvathipuram Manyam,primary,Hinduism
+
+te,Telugu,IN-AP-AKP,Anakapalli,primary,Hinduism
+
+te,Telugu,IN-AP-ASR,Alluri Sitharama Raju,major,Hinduism
+kui,Kui,IN-AP-ASR,Alluri Sitharama Raju,primary,Hinduism
+
+te,Telugu,IN-AP-KKD,Kakinada,primary,Hinduism
+
+te,Telugu,IN-AP-KNM,Dr. B.R. Ambedkar Konaseema,primary,Hinduism
+
+te,Telugu,IN-AP-ELR,Eluru,primary,Hinduism
+
+te,Telugu,IN-AP-NTR,NTR,primary,Hinduism
+
+te,Telugu,IN-AP-BPT,Bapatla,primary,Hinduism
+
+te,Telugu,IN-AP-PLN,Palnadu,primary,Hinduism
+
+te,Telugu,IN-AP-TPT,Tirupati,primary,Hinduism
+ta,Tamil,IN-AP-TPT,Tirupati,major,Hinduism
+
+te,Telugu,IN-AP-ANN,Annamayya,primary,Hinduism
+
+te,Telugu,IN-AP-SSS,Sri Sathya Sai,primary,Hinduism
+kn,Kannada,IN-AP-SSS,Sri Sathya Sai,major,Hinduism
+
+te,Telugu,IN-AP-NDY,Nandyal,primary,Hinduism
+
+hi,Hindi,IN-AN-SAN,South Andamans,primary,Hinduism
+ben,Bengali,IN-AN-SAN,South Andamans,major,Hinduism
+ta,Tamil,IN-AN-SAN,South Andamans,major,Hinduism
+te,Telugu,IN-AN-SAN,South Andamans,major,Hinduism
+en,English,IN-AN-SAN,South Andamans,administrative,Hinduism
+
+nia,Nicobarese,IN-AN-NIC,Nicobars,primary,Christianity
+hi,Hindi,IN-AN-NIC,Nicobars,major,Christianity
+en,English,IN-AN-NIC,Nicobars,administrative,Christianity
+
+hi,Hindi,IN-AN-NMA,North And Middle Andaman,primary,Hinduism
+ben,Bengali,IN-AN-NMA,North And Middle Andaman,major,Hinduism
+ta,Tamil,IN-AN-NMA,North And Middle Andaman,major,Hinduism
+te,Telugu,IN-AN-NMA,North And Middle Andaman,major,Hinduism
+en,English,IN-AN-NMA,North And Middle Andaman,administrative,Hinduism

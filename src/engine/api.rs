@@ -1,7 +1,9 @@
 use std::path::{Path, PathBuf};
+use std::sync::OnceLock;
 
-use rkyv::{string::ArchivedString, Archived};
+use rkyv::{Archived, string::ArchivedString};
 
+use crate::district_data::DistrictLanguage;
 use crate::engine::error::GeoEngineError;
 use crate::engine::model::Country;
 use crate::engine::{index::SpatialIndex, lookup::find_country, runtime::GeoEngine};
@@ -18,7 +20,41 @@ pub struct LookupResult {
     pub state: Option<Region>,
     pub district: Option<Region>,
     pub subdistrict: Option<Region>,
+    pub demographics: Option<DistrictDemographics>,
 }
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct SubdistrictMatch {
+    pub subdistrict: Region,
+    pub district: Region,
+    pub state: Region,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct DistrictDemographics {
+    pub major_religion: String,
+    pub languages: Vec<DistrictLanguage>,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct AddressDetails {
+    pub full_address: String,
+    pub country: Region,
+    pub state: Option<Region>,
+    pub district: Option<Region>,
+    pub subdistrict: Option<Region>,
+    pub major_religion: Option<String>,
+    pub languages: Vec<DistrictLanguage>,
+}
+
+pub struct InitializedGeoEngine {
+    country_db_path: PathBuf,
+    country_engine: GeoEngine,
+    subdistrict_engine: Option<GeoEngine>,
+    subdistrict_db_path: PathBuf,
+}
+
+static DEFAULT_ENGINE: OnceLock<InitializedGeoEngine> = OnceLock::new();
 
 pub fn lookup_with_subdistrict_path(
     lat: f32,
@@ -26,22 +62,199 @@ pub fn lookup_with_subdistrict_path(
     country_db_path: &Path,
     subdistrict_db_path: Option<&Path>,
 ) -> Result<LookupResult, GeoEngineError> {
-    let engine = GeoEngine::open(country_db_path)?;
-    let country = lookup_country(lat, lon, &engine)?;
+    let engine = InitializedGeoEngine::open(country_db_path, subdistrict_db_path)?;
+    engine.lookup(lat, lon)
+}
 
-    if !country.is_india {
-        return Ok(LookupResult {
-            country: country.region,
-            state: None,
-            district: None,
-            subdistrict: None,
+pub fn initialize_default_engine(
+    country_db_path: &Path,
+    subdistrict_db_path: Option<&Path>,
+) -> Result<&'static InitializedGeoEngine, GeoEngineError> {
+    InitializedGeoEngine::initialize_default(country_db_path, subdistrict_db_path)
+}
+
+pub fn default_engine() -> Result<&'static InitializedGeoEngine, GeoEngineError> {
+    InitializedGeoEngine::default()
+}
+
+pub fn lookup_with_default_engine(lat: f32, lon: f32) -> Result<LookupResult, GeoEngineError> {
+    default_engine()?.lookup(lat, lon)
+}
+
+pub fn lookup_address_details_with_default_engine(
+    lat: f32,
+    lon: f32,
+) -> Result<AddressDetails, GeoEngineError> {
+    default_engine()?.lookup_address_details(lat, lon)
+}
+
+pub fn lookup_address_details_with_subdistrict_path(
+    lat: f32,
+    lon: f32,
+    country_db_path: &Path,
+    subdistrict_db_path: Option<&Path>,
+) -> Result<AddressDetails, GeoEngineError> {
+    let engine = InitializedGeoEngine::open(country_db_path, subdistrict_db_path)?;
+    engine.lookup_address_details(lat, lon)
+}
+
+pub fn search_subdistricts_by_name(
+    query: &str,
+    subdistrict_db_path: &Path,
+) -> Result<Vec<SubdistrictMatch>, GeoEngineError> {
+    let normalized_query = query.trim();
+    if normalized_query.is_empty() {
+        return Ok(Vec::new());
+    }
+
+    let engine = open_subdistrict_engine(subdistrict_db_path)?;
+    let query_lower = normalized_query.to_lowercase();
+    let mut matches = Vec::new();
+
+    for feature in engine.countries().iter() {
+        let Some(metadata) = parse_subdistrict_payload(feature.name.as_str()) else {
+            continue;
+        };
+
+        if !metadata
+            .subdistrict_name
+            .to_lowercase()
+            .contains(&query_lower)
+        {
+            continue;
+        }
+
+        matches.push(SubdistrictMatch {
+            subdistrict: Region {
+                name: metadata.subdistrict_name,
+                iso2: metadata.subdistrict_code,
+            },
+            district: Region {
+                name: metadata.district_name,
+                iso2: metadata.district_code,
+            },
+            state: Region {
+                name: metadata.state_name,
+                iso2: metadata.state_code,
+            },
         });
     }
 
-    let resolved_subdistrict_path = resolve_subdistrict_path(country_db_path, subdistrict_db_path);
-    let subdistrict_engine = open_subdistrict_engine(&resolved_subdistrict_path)?;
+    matches.sort_by(|left, right| {
+        left.subdistrict
+            .name
+            .cmp(&right.subdistrict.name)
+            .then_with(|| left.district.name.cmp(&right.district.name))
+            .then_with(|| left.state.name.cmp(&right.state.name))
+    });
 
-    lookup_india_with_subdistrict_engine(lat, lon, country.region, &subdistrict_engine)
+    Ok(matches)
+}
+
+impl InitializedGeoEngine {
+    pub fn open(
+        country_db_path: &Path,
+        subdistrict_db_path: Option<&Path>,
+    ) -> Result<Self, GeoEngineError> {
+        let country_engine = GeoEngine::open(country_db_path)?;
+        let resolved_subdistrict_path =
+            resolve_subdistrict_path(country_db_path, subdistrict_db_path);
+        let subdistrict_engine = if resolved_subdistrict_path.exists() {
+            Some(open_subdistrict_engine(&resolved_subdistrict_path)?)
+        } else {
+            None
+        };
+
+        Ok(Self {
+            country_db_path: country_db_path.to_path_buf(),
+            country_engine,
+            subdistrict_engine,
+            subdistrict_db_path: resolved_subdistrict_path,
+        })
+    }
+
+    pub fn initialize_default(
+        country_db_path: &Path,
+        subdistrict_db_path: Option<&Path>,
+    ) -> Result<&'static Self, GeoEngineError> {
+        let requested_country_path = country_db_path.to_path_buf();
+        let requested_subdistrict_path =
+            resolve_subdistrict_path(country_db_path, subdistrict_db_path);
+
+        if let Some(engine) = DEFAULT_ENGINE.get() {
+            return ensure_matching_default_engine(
+                engine,
+                &requested_country_path,
+                &requested_subdistrict_path,
+            );
+        }
+
+        let new_engine = Self::open(country_db_path, subdistrict_db_path)?;
+        let _ = DEFAULT_ENGINE.set(new_engine);
+        let engine = DEFAULT_ENGINE
+            .get()
+            .expect("default engine should be available after initialization");
+
+        ensure_matching_default_engine(engine, &requested_country_path, &requested_subdistrict_path)
+    }
+
+    pub fn default() -> Result<&'static Self, GeoEngineError> {
+        DEFAULT_ENGINE
+            .get()
+            .ok_or(GeoEngineError::EngineNotInitialized)
+    }
+
+    pub fn lookup(&self, lat: f32, lon: f32) -> Result<LookupResult, GeoEngineError> {
+        let country = lookup_country(lat, lon, &self.country_engine)?;
+
+        if !country.is_india {
+            return Ok(LookupResult {
+                country: country.region,
+                state: None,
+                district: None,
+                subdistrict: None,
+                demographics: None,
+            });
+        }
+
+        let Some(subdistrict_engine) = self.subdistrict_engine.as_ref() else {
+            return Err(GeoEngineError::DistrictDatabaseUnavailable {
+                path: self.subdistrict_db_path.clone(),
+                source: std::io::Error::new(
+                    std::io::ErrorKind::NotFound,
+                    "subdistrict database not initialized",
+                ),
+            });
+        };
+
+        lookup_india_with_subdistrict_engine(lat, lon, country.region, subdistrict_engine)
+    }
+
+    pub fn lookup_address_details(
+        &self,
+        lat: f32,
+        lon: f32,
+    ) -> Result<AddressDetails, GeoEngineError> {
+        let result = self.lookup(lat, lon)?;
+        Ok(address_details_from_lookup(result))
+    }
+}
+
+fn ensure_matching_default_engine<'a>(
+    engine: &'a InitializedGeoEngine,
+    requested_country_path: &Path,
+    requested_subdistrict_path: &Path,
+) -> Result<&'a InitializedGeoEngine, GeoEngineError> {
+    if engine.country_db_path == requested_country_path
+        && engine.subdistrict_db_path == requested_subdistrict_path
+    {
+        return Ok(engine);
+    }
+
+    Err(GeoEngineError::EngineAlreadyInitialized {
+        country_path: engine.country_db_path.clone(),
+        subdistrict_path: engine.subdistrict_db_path.clone(),
+    })
 }
 
 fn lookup_india_with_subdistrict_engine(
@@ -75,6 +288,7 @@ fn lookup_india_with_subdistrict_engine(
                 name: metadata.subdistrict_name,
                 iso2: metadata.subdistrict_code,
             }),
+            demographics: metadata.demographics,
         });
     }
 
@@ -83,7 +297,33 @@ fn lookup_india_with_subdistrict_engine(
         state: None,
         district: None,
         subdistrict: subdistrict_match,
+        demographics: None,
     })
+}
+
+fn address_details_from_lookup(result: LookupResult) -> AddressDetails {
+    let full_address = format_full_address(
+        result.subdistrict.as_ref(),
+        result.district.as_ref(),
+        result.state.as_ref(),
+        Some(&result.country),
+    );
+
+    AddressDetails {
+        full_address,
+        country: result.country,
+        state: result.state,
+        district: result.district,
+        subdistrict: result.subdistrict,
+        major_religion: result
+            .demographics
+            .as_ref()
+            .map(|demographics| demographics.major_religion.clone()),
+        languages: result
+            .demographics
+            .map(|demographics| demographics.languages)
+            .unwrap_or_default(),
+    }
 }
 
 fn open_subdistrict_engine(subdistrict_db_path: &Path) -> Result<GeoEngine, GeoEngineError> {
@@ -142,11 +382,12 @@ struct SubdistrictMetadata {
     subdistrict_code: String,
     district_code: String,
     state_code: String,
+    demographics: Option<DistrictDemographics>,
 }
 
 fn parse_subdistrict_payload(payload: &str) -> Option<SubdistrictMetadata> {
     let parts: Vec<&str> = payload.split("||").collect();
-    if parts.len() != 6 {
+    if parts.len() != 6 && parts.len() != 8 {
         return None;
     }
 
@@ -157,7 +398,73 @@ fn parse_subdistrict_payload(payload: &str) -> Option<SubdistrictMetadata> {
         subdistrict_code: parts[3].trim().to_string(),
         district_code: parts[4].trim().to_string(),
         state_code: parts[5].trim().to_string(),
+        demographics: parse_embedded_demographics(&parts),
     })
+}
+
+fn parse_embedded_demographics(parts: &[&str]) -> Option<DistrictDemographics> {
+    if parts.len() < 8 {
+        return None;
+    }
+
+    let major_religion = parts[6].trim().to_string();
+    let languages = parse_embedded_languages(parts[7].trim());
+    if major_religion.is_empty() && languages.is_empty() {
+        return None;
+    }
+
+    Some(DistrictDemographics {
+        major_religion,
+        languages,
+    })
+}
+
+fn parse_embedded_languages(raw: &str) -> Vec<DistrictLanguage> {
+    if raw.is_empty() {
+        return Vec::new();
+    }
+
+    raw.split("##")
+        .filter_map(|entry| {
+            let mut parts = entry.split("~~");
+            let name = parts.next()?.trim();
+            let usage_type = parts.next()?.trim();
+            let code = parts.next()?.trim();
+            if name.is_empty() {
+                return None;
+            }
+
+            Some(DistrictLanguage {
+                code: code.to_string(),
+                name: name.to_string(),
+                usage_type: usage_type.to_string(),
+            })
+        })
+        .collect()
+}
+
+fn format_full_address(
+    subdistrict: Option<&Region>,
+    district: Option<&Region>,
+    state: Option<&Region>,
+    country: Option<&Region>,
+) -> String {
+    let mut parts = Vec::new();
+
+    if let Some(region) = subdistrict {
+        parts.push(region.name.as_str());
+    }
+    if let Some(region) = district {
+        parts.push(region.name.as_str());
+    }
+    if let Some(region) = state {
+        parts.push(region.name.as_str());
+    }
+    if let Some(region) = country {
+        parts.push(region.name.as_str());
+    }
+
+    parts.join(", ")
 }
 
 fn normalize_name(name: &str) -> String {

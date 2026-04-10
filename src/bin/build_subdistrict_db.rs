@@ -6,6 +6,7 @@ use std::fs;
 use std::io;
 use std::path::Path;
 
+use geo_engine::{DistrictProfile, find_district_profile, load_district_profiles};
 use rkyv::{Archive, Deserialize, Serialize, rancor::Error as RkyvError, to_bytes};
 
 #[derive(Archive, Serialize, Deserialize, Debug)]
@@ -102,9 +103,8 @@ impl LambertConformalConic {
         let mut phi = FRAC_PI_2 - 2.0 * t_val.atan();
         for _ in 0..10 {
             let esin = self.e * phi.sin();
-            let next = FRAC_PI_2
-                - 2.0
-                    * (t_val * ((1.0 - esin) / (1.0 + esin)).powf(self.e / 2.0)).atan();
+            let next =
+                FRAC_PI_2 - 2.0 * (t_val * ((1.0 - esin) / (1.0 + esin)).powf(self.e / 2.0)).atan();
             if (next - phi).abs() < 1e-12 {
                 phi = next;
                 break;
@@ -118,17 +118,31 @@ impl LambertConformalConic {
 }
 
 pub fn run() -> Result<(), Box<dyn Error>> {
-    let shp_path = env::var("SUBDISTRICT_SHP_PATH").unwrap_or_else(|_| {
-        "/Users/amitsharan/Downloads/91/SUBDISTRICT_BOUNDARY.shp".to_string()
-    });
-    let dbf_path = env::var("SUBDISTRICT_DBF_PATH").unwrap_or_else(|_| {
-        "/Users/amitsharan/Downloads/91/SUBDISTRICT_BOUNDARY.dbf".to_string()
-    });
+    let shp_path = env::var("SUBDISTRICT_SHP_PATH")
+        .unwrap_or_else(|_| "/Users/amitsharan/Downloads/91/SUBDISTRICT_BOUNDARY.shp".to_string());
+    let dbf_path = env::var("SUBDISTRICT_DBF_PATH")
+        .unwrap_or_else(|_| "/Users/amitsharan/Downloads/91/SUBDISTRICT_BOUNDARY.dbf".to_string());
     let output_path = env::var("SUBDISTRICT_OUTPUT_PATH")
         .unwrap_or_else(|_| "/Users/amitsharan/rustProject/geo_engine/subdistrict.db".to_string());
+    let data_csv_path = env::var("DISTRICT_DATA_CSV_PATH")
+        .or_else(|_| env::var("DATA_CSV_PATH"))
+        .unwrap_or_else(|_| "data.csv".to_string());
 
     let dbf_records = read_dbf_records(Path::new(&dbf_path))?;
     let shape_records = read_shape_records(Path::new(&shp_path))?;
+    let district_profiles = match load_district_profiles(Path::new(&data_csv_path)) {
+        Ok(profiles) => {
+            println!("ℹ️ loaded district demographics from {data_csv_path}");
+            Some(profiles)
+        }
+        Err(err) if err.kind() == io::ErrorKind::NotFound => {
+            println!(
+                "ℹ️ no district demographics CSV found at {data_csv_path}; continuing without it"
+            );
+            None
+        }
+        Err(err) => return Err(err.into()),
+    };
 
     if dbf_records.len() != shape_records.len() {
         return Err(format!(
@@ -184,17 +198,28 @@ pub fn run() -> Result<(), Box<dyn Error>> {
                 record.subdistrict.clone(),
             ))
             .or_insert_with(|| SubdistrictFeature {
-                name: encode_subdistrict_payload(
-                    &record.subdistrict,
-                    &record.district,
-                    &record.state,
-                    &record.subdistrict_code,
-                    &record.district_code,
-                    &record.state_code,
-                ),
+                name: {
+                    let demographics = district_profiles.as_ref().and_then(|profiles| {
+                        find_district_profile(profiles, &record.district_code, &record.district)
+                    });
+                    encode_subdistrict_payload(
+                        &record.subdistrict,
+                        &record.district,
+                        &record.state,
+                        &record.subdistrict_code,
+                        &record.district_code,
+                        &record.state_code,
+                        demographics,
+                    )
+                },
                 code: short_code(&record.subdistrict),
                 polygons: Vec::new(),
-                bbox: [f32::INFINITY, f32::INFINITY, f32::NEG_INFINITY, f32::NEG_INFINITY],
+                bbox: [
+                    f32::INFINITY,
+                    f32::INFINITY,
+                    f32::NEG_INFINITY,
+                    f32::NEG_INFINITY,
+                ],
             });
 
         for ring in polygons.drain(..) {
@@ -315,12 +340,7 @@ fn read_dbf_records(path: &Path) -> Result<Vec<DbfRecord>, Box<dyn Error>> {
     let state_idx = find_field_index(&fields, &["STATE_UT", "STATE", "ST_NM", "STATE_NAME"]);
     let district_idx = find_field_index(
         &fields,
-        &[
-            "DISTRICT",
-            "DIST_NAME",
-            "DISTRICT_NM",
-            "DIST_NAME_1",
-        ],
+        &["DISTRICT", "DIST_NAME", "DISTRICT_NM", "DIST_NAME_1"],
     );
     let subdistrict_idx = find_field_index(
         &fields,
@@ -428,7 +448,9 @@ fn read_shape_records(path: &Path) -> Result<Vec<ShapeRecord>, Box<dyn Error>> {
 
     let shape_type = read_i32_le(&bytes, 32)?;
     if shape_type != 5 && shape_type != 15 {
-        return Err(format!("unsupported shape type {shape_type}, expected polygon/polygonz").into());
+        return Err(
+            format!("unsupported shape type {shape_type}, expected polygon/polygonz").into(),
+        );
     }
 
     let mut offset = 100usize;
@@ -564,7 +586,9 @@ fn short_code(name: &str) -> [u8; 2] {
 }
 
 fn short_code_str(name: &str) -> String {
-    String::from_utf8_lossy(&short_code(name)).trim().to_string()
+    String::from_utf8_lossy(&short_code(name))
+        .trim()
+        .to_string()
 }
 
 fn encode_subdistrict_payload(
@@ -574,20 +598,46 @@ fn encode_subdistrict_payload(
     subdistrict_code: &str,
     district_code: &str,
     state_code: &str,
+    demographics: Option<&DistrictProfile>,
 ) -> String {
-    format!(
-        "{}||{}||{}||{}||{}||{}",
+    let mut fields = vec![
         sanitize_field(subdistrict),
         sanitize_field(district),
         sanitize_field(state),
         sanitize_field(subdistrict_code),
         sanitize_field(district_code),
-        sanitize_field(state_code)
-    )
+        sanitize_field(state_code),
+    ];
+
+    if let Some(profile) = demographics {
+        fields.push(sanitize_field(&profile.major_religion));
+        fields.push(encode_languages(profile));
+    }
+
+    fields.join("||")
 }
 
 fn sanitize_field(value: &str) -> String {
-    value.replace("||", "|")
+    value
+        .replace("||", "|")
+        .replace("##", "#")
+        .replace("~~", "~")
+}
+
+fn encode_languages(profile: &DistrictProfile) -> String {
+    profile
+        .languages
+        .iter()
+        .map(|language| {
+            format!(
+                "{}~~{}~~{}",
+                sanitize_field(&language.name),
+                sanitize_field(&language.usage_type),
+                sanitize_field(&language.code)
+            )
+        })
+        .collect::<Vec<String>>()
+        .join("##")
 }
 
 fn simplify_ring(
@@ -600,8 +650,10 @@ fn simplify_ring(
     }
 
     // Many shapefile rings repeat the first point at the end.
-    if squared_distance(*ring.first().expect("non-empty"), *ring.last().expect("non-empty"))
-        <= min_vertex_spacing_m * min_vertex_spacing_m
+    if squared_distance(
+        *ring.first().expect("non-empty"),
+        *ring.last().expect("non-empty"),
+    ) <= min_vertex_spacing_m * min_vertex_spacing_m
     {
         ring.pop();
     }
