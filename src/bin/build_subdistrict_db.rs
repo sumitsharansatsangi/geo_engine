@@ -610,6 +610,7 @@ fn encode_subdistrict_payload(
     ];
 
     if let Some(profile) = demographics {
+        fields.push(sanitize_field(&profile.district_uni_code));
         fields.push(sanitize_field(&profile.major_religion));
         fields.push(encode_languages(profile));
     }

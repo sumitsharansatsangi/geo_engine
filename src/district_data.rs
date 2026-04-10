@@ -6,6 +6,7 @@ use std::path::Path;
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct DistrictLanguage {
     pub code: String,
+    pub language_code: String,
     pub name: String,
     pub usage_type: String,
 }
@@ -13,6 +14,7 @@ pub struct DistrictLanguage {
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct DistrictProfile {
     pub district_code: String,
+    pub district_uni_code: String,
     pub district_name: String,
     pub major_religion: String,
     pub languages: Vec<DistrictLanguage>,
@@ -44,6 +46,7 @@ pub fn load_district_profiles(path: &Path) -> Result<HashMap<String, DistrictPro
             .entry(district_code.clone())
             .or_insert_with(|| DistrictProfile {
                 district_code: district_code.clone(),
+                district_uni_code: district_code.clone(),
                 district_name: district_name.clone(),
                 major_religion: major_religion.clone(),
                 languages: Vec::new(),
@@ -55,6 +58,7 @@ pub fn load_district_profiles(path: &Path) -> Result<HashMap<String, DistrictPro
 
         profile.languages.push(DistrictLanguage {
             code: parts[0].to_string(),
+            language_code: parts[0].to_string(),
             name: parts[1].to_string(),
             usage_type: parts[4].to_string(),
         });

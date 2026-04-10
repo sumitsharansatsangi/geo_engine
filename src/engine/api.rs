@@ -1,5 +1,4 @@
 use std::path::{Path, PathBuf};
-use std::sync::OnceLock;
 
 use rkyv::{Archived, string::ArchivedString};
 
@@ -32,6 +31,7 @@ pub struct SubdistrictMatch {
 
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct DistrictDemographics {
+    pub district_uni_code: String,
     pub major_religion: String,
     pub languages: Vec<DistrictLanguage>,
 }
@@ -42,19 +42,17 @@ pub struct AddressDetails {
     pub country: Region,
     pub state: Option<Region>,
     pub district: Option<Region>,
+    pub district_uni_code: Option<String>,
     pub subdistrict: Option<Region>,
     pub major_religion: Option<String>,
     pub languages: Vec<DistrictLanguage>,
 }
 
 pub struct InitializedGeoEngine {
-    country_db_path: PathBuf,
     country_engine: GeoEngine,
     subdistrict_engine: Option<GeoEngine>,
     subdistrict_db_path: PathBuf,
 }
-
-static DEFAULT_ENGINE: OnceLock<InitializedGeoEngine> = OnceLock::new();
 
 pub fn lookup_with_subdistrict_path(
     lat: f32,
@@ -64,28 +62,6 @@ pub fn lookup_with_subdistrict_path(
 ) -> Result<LookupResult, GeoEngineError> {
     let engine = InitializedGeoEngine::open(country_db_path, subdistrict_db_path)?;
     engine.lookup(lat, lon)
-}
-
-pub fn initialize_default_engine(
-    country_db_path: &Path,
-    subdistrict_db_path: Option<&Path>,
-) -> Result<&'static InitializedGeoEngine, GeoEngineError> {
-    InitializedGeoEngine::initialize_default(country_db_path, subdistrict_db_path)
-}
-
-pub fn default_engine() -> Result<&'static InitializedGeoEngine, GeoEngineError> {
-    InitializedGeoEngine::default()
-}
-
-pub fn lookup_with_default_engine(lat: f32, lon: f32) -> Result<LookupResult, GeoEngineError> {
-    default_engine()?.lookup(lat, lon)
-}
-
-pub fn lookup_address_details_with_default_engine(
-    lat: f32,
-    lon: f32,
-) -> Result<AddressDetails, GeoEngineError> {
-    default_engine()?.lookup_address_details(lat, lon)
 }
 
 pub fn lookup_address_details_with_subdistrict_path(
@@ -166,42 +142,10 @@ impl InitializedGeoEngine {
         };
 
         Ok(Self {
-            country_db_path: country_db_path.to_path_buf(),
             country_engine,
             subdistrict_engine,
             subdistrict_db_path: resolved_subdistrict_path,
         })
-    }
-
-    pub fn initialize_default(
-        country_db_path: &Path,
-        subdistrict_db_path: Option<&Path>,
-    ) -> Result<&'static Self, GeoEngineError> {
-        let requested_country_path = country_db_path.to_path_buf();
-        let requested_subdistrict_path =
-            resolve_subdistrict_path(country_db_path, subdistrict_db_path);
-
-        if let Some(engine) = DEFAULT_ENGINE.get() {
-            return ensure_matching_default_engine(
-                engine,
-                &requested_country_path,
-                &requested_subdistrict_path,
-            );
-        }
-
-        let new_engine = Self::open(country_db_path, subdistrict_db_path)?;
-        let _ = DEFAULT_ENGINE.set(new_engine);
-        let engine = DEFAULT_ENGINE
-            .get()
-            .expect("default engine should be available after initialization");
-
-        ensure_matching_default_engine(engine, &requested_country_path, &requested_subdistrict_path)
-    }
-
-    pub fn default() -> Result<&'static Self, GeoEngineError> {
-        DEFAULT_ENGINE
-            .get()
-            .ok_or(GeoEngineError::EngineNotInitialized)
     }
 
     pub fn lookup(&self, lat: f32, lon: f32) -> Result<LookupResult, GeoEngineError> {
@@ -238,23 +182,6 @@ impl InitializedGeoEngine {
         let result = self.lookup(lat, lon)?;
         Ok(address_details_from_lookup(result))
     }
-}
-
-fn ensure_matching_default_engine<'a>(
-    engine: &'a InitializedGeoEngine,
-    requested_country_path: &Path,
-    requested_subdistrict_path: &Path,
-) -> Result<&'a InitializedGeoEngine, GeoEngineError> {
-    if engine.country_db_path == requested_country_path
-        && engine.subdistrict_db_path == requested_subdistrict_path
-    {
-        return Ok(engine);
-    }
-
-    Err(GeoEngineError::EngineAlreadyInitialized {
-        country_path: engine.country_db_path.clone(),
-        subdistrict_path: engine.subdistrict_db_path.clone(),
-    })
 }
 
 fn lookup_india_with_subdistrict_engine(
@@ -314,6 +241,10 @@ fn address_details_from_lookup(result: LookupResult) -> AddressDetails {
         country: result.country,
         state: result.state,
         district: result.district,
+        district_uni_code: result
+            .demographics
+            .as_ref()
+            .map(|demographics| demographics.district_uni_code.clone()),
         subdistrict: result.subdistrict,
         major_religion: result
             .demographics
@@ -387,7 +318,7 @@ struct SubdistrictMetadata {
 
 fn parse_subdistrict_payload(payload: &str) -> Option<SubdistrictMetadata> {
     let parts: Vec<&str> = payload.split("||").collect();
-    if parts.len() != 6 && parts.len() != 8 {
+    if parts.len() != 6 && parts.len() != 8 && parts.len() != 9 {
         return None;
     }
 
@@ -407,13 +338,19 @@ fn parse_embedded_demographics(parts: &[&str]) -> Option<DistrictDemographics> {
         return None;
     }
 
-    let major_religion = parts[6].trim().to_string();
-    let languages = parse_embedded_languages(parts[7].trim());
-    if major_religion.is_empty() && languages.is_empty() {
+    let (district_uni_code, major_religion_idx, languages_idx) = if parts.len() >= 9 {
+        (parts[6].trim().to_string(), 7usize, 8usize)
+    } else {
+        (parts[4].trim().to_string(), 6usize, 7usize)
+    };
+    let major_religion = parts[major_religion_idx].trim().to_string();
+    let languages = parse_embedded_languages(parts[languages_idx].trim());
+    if district_uni_code.is_empty() && major_religion.is_empty() && languages.is_empty() {
         return None;
     }
 
     Some(DistrictDemographics {
+        district_uni_code,
         major_religion,
         languages,
     })
@@ -436,6 +373,7 @@ fn parse_embedded_languages(raw: &str) -> Vec<DistrictLanguage> {
 
             Some(DistrictLanguage {
                 code: code.to_string(),
+                language_code: code.to_string(),
                 name: name.to_string(),
                 usage_type: usage_type.to_string(),
             })

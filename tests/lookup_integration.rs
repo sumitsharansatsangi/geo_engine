@@ -1,10 +1,9 @@
 use std::path::PathBuf;
 
 use geo_engine::{
-    GeoEngineError, InitializedGeoEngine, find_district_profile, initialize_default_engine,
-    load_district_profiles, lookup_address_details_with_default_engine,
-    lookup_address_details_with_subdistrict_path, lookup_with_default_engine,
-    lookup_with_subdistrict_path, search_subdistricts_by_name,
+    GeoEngineError, InitializedGeoEngine, find_district_profile, load_district_profiles,
+    lookup_address_details_with_subdistrict_path, lookup_with_subdistrict_path,
+    search_subdistricts_by_name,
 };
 
 fn db_paths() -> (PathBuf, PathBuf) {
@@ -97,12 +96,17 @@ fn lookup_with_subdistrict_path_returns_india_admin_hierarchy() {
     let demographics = result
         .demographics
         .expect("embedded demographics should be present after enrichment");
+    assert_eq!(demographics.district_uni_code, "IN-BR-BGP");
     assert_eq!(demographics.major_religion, "Hinduism");
     assert!(
         demographics
             .languages
             .iter()
-            .any(|language| language.name == "Angika" && language.usage_type == "primary")
+            .any(|language| {
+                language.name == "Angika"
+                    && language.usage_type == "primary"
+                    && language.language_code == "anp"
+            })
     );
 }
 
@@ -137,12 +141,17 @@ fn district_demographics_can_be_mapped_from_lookup_result() {
         .expect("district profile should exist");
 
     assert_eq!(profile.district_name, "Bhagalpur");
+    assert_eq!(profile.district_uni_code, "IN-BR-BGP");
     assert_eq!(profile.major_religion, "Hinduism");
     assert!(
         profile
-            .languages
+        .languages
             .iter()
-            .any(|language| language.name == "Angika" && language.usage_type == "primary")
+            .any(|language| {
+                language.name == "Angika"
+                    && language.usage_type == "primary"
+                    && language.language_code == "anp"
+            })
     );
     assert!(
         profile
@@ -174,6 +183,7 @@ fn lookup_address_details_returns_full_hierarchy_and_demographics() {
         details.district.as_ref().map(|region| region.name.as_str()),
         Some("Bhagalpur")
     );
+    assert_eq!(details.district_uni_code.as_deref(), Some("IN-BR-BGP"));
     assert_eq!(
         details
             .subdistrict
@@ -186,7 +196,11 @@ fn lookup_address_details_returns_full_hierarchy_and_demographics() {
         details
             .languages
             .iter()
-            .any(|language| language.name == "Angika" && language.usage_type == "primary")
+            .any(|language| {
+                language.name == "Angika"
+                    && language.usage_type == "primary"
+                    && language.language_code == "anp"
+            })
     );
 }
 
@@ -202,6 +216,7 @@ fn lookup_address_details_returns_country_only_for_non_india_point() {
     assert!(details.state.is_none());
     assert!(details.district.is_none());
     assert!(details.subdistrict.is_none());
+    assert!(details.district_uni_code.is_none());
     assert!(details.major_religion.is_none());
     assert!(details.languages.is_empty());
 }
@@ -223,26 +238,4 @@ fn initialized_engine_can_be_reused_for_multiple_lookups() {
     assert_eq!(india.major_religion.as_deref(), Some("Hinduism"));
     assert_eq!(non_india.full_address, "United Kingdom");
     assert!(non_india.languages.is_empty());
-}
-
-#[test]
-fn default_engine_can_be_initialized_and_reused() {
-    let (country_db, subdistrict_db) = db_paths();
-
-    let engine = initialize_default_engine(&country_db, Some(&subdistrict_db))
-        .expect("default engine should initialize");
-    let lookup =
-        lookup_with_default_engine(25.25, 87.04).expect("default-engine lookup should succeed");
-    let details = lookup_address_details_with_default_engine(51.5074, -0.1278)
-        .expect("default-engine address lookup should succeed");
-
-    assert_eq!(
-        engine.lookup(25.25, 87.04).expect("lookup").country.iso2,
-        "IN"
-    );
-    assert_eq!(
-        lookup.district.as_ref().map(|region| region.name.as_str()),
-        Some("Bhagalpur")
-    );
-    assert_eq!(details.full_address, "United Kingdom");
 }

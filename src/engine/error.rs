@@ -32,11 +32,6 @@ pub enum GeoEngineError {
         lat: f32,
         lon: f32,
     },
-    EngineNotInitialized,
-    EngineAlreadyInitialized {
-        country_path: PathBuf,
-        subdistrict_path: PathBuf,
-    },
 }
 
 impl fmt::Display for GeoEngineError {
@@ -91,20 +86,6 @@ impl fmt::Display for GeoEngineError {
                     lat, lon
                 )
             }
-            Self::EngineNotInitialized => {
-                write!(f, "geo engine has not been initialized")
-            }
-            Self::EngineAlreadyInitialized {
-                country_path,
-                subdistrict_path,
-            } => {
-                write!(
-                    f,
-                    "geo engine is already initialized with country db '{}' and subdistrict db '{}'",
-                    country_path.display(),
-                    subdistrict_path.display()
-                )
-            }
         }
     }
 }
@@ -118,9 +99,7 @@ impl Error for GeoEngineError {
             Self::DistrictDatabaseUnavailable { source, .. } => Some(source),
             Self::CountryNotFound { .. }
             | Self::StateNotFound { .. }
-            | Self::DistrictNotFound { .. }
-            | Self::EngineNotInitialized
-            | Self::EngineAlreadyInitialized { .. } => None,
+            | Self::DistrictNotFound { .. } => None,
         }
     }
 }

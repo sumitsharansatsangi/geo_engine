@@ -7,8 +7,7 @@ pub use district_data::{
 };
 pub use engine::api::{
     AddressDetails, DistrictDemographics, InitializedGeoEngine, LookupResult, Region,
-    SubdistrictMatch, default_engine, initialize_default_engine,
-    lookup_address_details_with_default_engine, lookup_address_details_with_subdistrict_path,
-    lookup_with_default_engine, lookup_with_subdistrict_path, search_subdistricts_by_name,
+    SubdistrictMatch, lookup_address_details_with_subdistrict_path, lookup_with_subdistrict_path,
+    search_subdistricts_by_name,
 };
 pub use engine::error::GeoEngineError;
