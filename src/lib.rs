@@ -3,7 +3,7 @@ pub mod engine;
 
 /// Lookup using runtime-loaded databases.
 pub use district_data::{
-    DistrictLanguage, DistrictProfile, find_district_profile, load_district_profiles,
+    DistrictProfile, GeoLanguage, find_district_profile, load_district_profiles,
 };
 pub use engine::api::{
     AddressDetails, DistrictDemographics, InitializedGeoEngine, LookupResult, Region,

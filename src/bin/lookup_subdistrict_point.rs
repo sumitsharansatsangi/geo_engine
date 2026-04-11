@@ -143,7 +143,7 @@ fn run_point_lookup(lat: f32, lon: f32, geo_db: &Path, subdistrict_db: &Path, da
     }
 }
 
-fn print_demographics(major_religion: &str, languages: &[geo_engine::DistrictLanguage]) {
+fn print_demographics(major_religion: &str, languages: &[geo_engine::GeoLanguage]) {
     println!("Religion: {major_religion}");
     println!(
         "Languages: {}",

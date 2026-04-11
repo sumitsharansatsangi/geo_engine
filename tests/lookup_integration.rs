@@ -105,7 +105,7 @@ fn lookup_with_subdistrict_path_returns_india_admin_hierarchy() {
             .any(|language| {
                 language.name == "Angika"
                     && language.usage_type == "primary"
-                    && language.language_code == "anp"
+                    && language.code == "anp"
             })
     );
 }
@@ -141,7 +141,7 @@ fn district_demographics_can_be_mapped_from_lookup_result() {
         .expect("district profile should exist");
 
     assert_eq!(profile.district_name, "Bhagalpur");
-    assert_eq!(profile.district_uni_code, "IN-BR-BGP");
+    assert_eq!(profile.district_code, "IN-BR-BGP");
     assert_eq!(profile.major_religion, "Hinduism");
     assert!(
         profile
@@ -150,7 +150,7 @@ fn district_demographics_can_be_mapped_from_lookup_result() {
             .any(|language| {
                 language.name == "Angika"
                     && language.usage_type == "primary"
-                    && language.language_code == "anp"
+                    && language.code == "anp"
             })
     );
     assert!(
@@ -199,7 +199,7 @@ fn lookup_address_details_returns_full_hierarchy_and_demographics() {
             .any(|language| {
                 language.name == "Angika"
                     && language.usage_type == "primary"
-                    && language.language_code == "anp"
+                    && language.code == "anp"
             })
     );
 }

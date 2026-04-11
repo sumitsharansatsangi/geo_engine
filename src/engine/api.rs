@@ -2,7 +2,7 @@ use std::path::{Path, PathBuf};
 
 use rkyv::{Archived, string::ArchivedString};
 
-use crate::district_data::DistrictLanguage;
+use crate::district_data::GeoLanguage;
 use crate::engine::error::GeoEngineError;
 use crate::engine::model::Country;
 use crate::engine::{index::SpatialIndex, lookup::find_country, runtime::GeoEngine};
@@ -33,7 +33,7 @@ pub struct SubdistrictMatch {
 pub struct DistrictDemographics {
     pub district_uni_code: String,
     pub major_religion: String,
-    pub languages: Vec<DistrictLanguage>,
+    pub languages: Vec<GeoLanguage>,
 }
 
 #[derive(Debug, Clone, PartialEq, Eq)]
@@ -45,7 +45,7 @@ pub struct AddressDetails {
     pub district_uni_code: Option<String>,
     pub subdistrict: Option<Region>,
     pub major_religion: Option<String>,
-    pub languages: Vec<DistrictLanguage>,
+    pub languages: Vec<GeoLanguage>,
 }
 
 pub struct InitializedGeoEngine {
@@ -356,7 +356,7 @@ fn parse_embedded_demographics(parts: &[&str]) -> Option<DistrictDemographics> {
     })
 }
 
-fn parse_embedded_languages(raw: &str) -> Vec<DistrictLanguage> {
+fn parse_embedded_languages(raw: &str) -> Vec<GeoLanguage> {
     if raw.is_empty() {
         return Vec::new();
     }
@@ -371,9 +371,8 @@ fn parse_embedded_languages(raw: &str) -> Vec<DistrictLanguage> {
                 return None;
             }
 
-            Some(DistrictLanguage {
+            Some(GeoLanguage {
                 code: code.to_string(),
-                language_code: code.to_string(),
                 name: name.to_string(),
                 usage_type: usage_type.to_string(),
             })

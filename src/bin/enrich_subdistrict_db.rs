@@ -141,7 +141,7 @@ fn encode_payload(payload: &Payload, demographics: Option<&geo_engine::DistrictP
     ];
 
     if let Some(profile) = demographics {
-        parts.push(sanitize_field(&profile.district_uni_code));
+        parts.push(sanitize_field(&profile.district_code));
         parts.push(sanitize_field(&profile.major_religion));
         parts.push(
             profile
