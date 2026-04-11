@@ -361,12 +361,14 @@ fn parse_embedded_languages(raw: &str) -> Vec<GeoLanguage> {
         return Vec::new();
     }
 
-    raw.split("##")
+    let langs: Vec<GeoLanguage> = raw
+        .split("##")
         .filter_map(|entry| {
             let mut parts = entry.split("~~");
             let name = parts.next()?.trim();
             let usage_type = parts.next()?.trim();
             let code = parts.next()?.trim();
+
             if name.is_empty() {
                 return None;
             }
@@ -377,7 +379,10 @@ fn parse_embedded_languages(raw: &str) -> Vec<GeoLanguage> {
                 usage_type: usage_type.to_string(),
             })
         })
-        .collect()
+        .collect();
+
+    // 🔥 sort by relevance before returning
+    sort_languages_by_relevance(&langs)
 }
 
 fn format_full_address(
@@ -424,4 +429,30 @@ fn normalize_name(name: &str) -> String {
         })
         .collect::<Vec<String>>()
         .join(" ")
+}
+
+
+fn sort_languages_by_relevance(
+    languages: &[GeoLanguage],
+) -> Vec<GeoLanguage> {
+    let mut langs = languages.to_vec();
+
+    // Assign priority weight
+    fn weight(usage: &str) -> u8 {
+        if usage.eq_ignore_ascii_case("primary") {
+            0
+        } else if usage.eq_ignore_ascii_case("major") {
+            1
+        } else if usage.eq_ignore_ascii_case("administrative") {
+            2
+        } else {
+            3
+        }
+    }
+
+    // Stable sort by weight
+    langs.sort_by_key(|l| weight(&l.usage_type));
+
+    // Return language codes in order
+    langs
 }
