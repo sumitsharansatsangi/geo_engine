@@ -32,6 +32,31 @@ pub enum GeoEngineError {
         lat: f32,
         lon: f32,
     },
+    CacheDirectoryUnavailable {
+        path: PathBuf,
+        source: std::io::Error,
+    },
+    ReleaseMetadataUnavailable {
+        repo: String,
+        source: reqwest::Error,
+    },
+    ReleaseMetadataParse {
+        repo: String,
+        source: serde_json::Error,
+    },
+    ReleaseAssetMissing {
+        repo: String,
+        asset: String,
+    },
+    ReleaseDownloadFailed {
+        asset: String,
+        source: reqwest::Error,
+    },
+    ReleaseChecksumMismatch {
+        path: PathBuf,
+        expected: String,
+        actual: String,
+    },
 }
 
 impl fmt::Display for GeoEngineError {
@@ -86,6 +111,55 @@ impl fmt::Display for GeoEngineError {
                     lat, lon
                 )
             }
+            Self::CacheDirectoryUnavailable { path, source } => {
+                write!(
+                    f,
+                    "failed to prepare cache directory '{}': {}",
+                    path.display(),
+                    source
+                )
+            }
+            Self::ReleaseMetadataUnavailable { repo, source } => {
+                write!(
+                    f,
+                    "failed to fetch latest release metadata from '{}': {}",
+                    repo,
+                    source
+                )
+            }
+            Self::ReleaseMetadataParse { repo, source } => {
+                write!(
+                    f,
+                    "failed to parse latest release metadata from '{}': {}",
+                    repo,
+                    source
+                )
+            }
+            Self::ReleaseAssetMissing { repo, asset } => {
+                write!(
+                    f,
+                    "release asset '{}' was not found in latest release for '{}'",
+                    asset,
+                    repo
+                )
+            }
+            Self::ReleaseDownloadFailed { asset, source } => {
+                write!(
+                    f,
+                    "failed to download release asset '{}': {}",
+                    asset,
+                    source
+                )
+            }
+            Self::ReleaseChecksumMismatch { path, expected, actual } => {
+                write!(
+                    f,
+                    "checksum mismatch for '{}': expected {}, got {}",
+                    path.display(),
+                    expected,
+                    actual
+                )
+            }
         }
     }
 }
@@ -97,9 +171,15 @@ impl Error for GeoEngineError {
             Self::DatabaseMap { source, .. } => Some(source),
             Self::StateDatabaseUnavailable { source, .. } => Some(source),
             Self::DistrictDatabaseUnavailable { source, .. } => Some(source),
+            Self::CacheDirectoryUnavailable { source, .. } => Some(source),
+            Self::ReleaseMetadataUnavailable { source, .. } => Some(source),
+            Self::ReleaseMetadataParse { source, .. } => Some(source),
+            Self::ReleaseDownloadFailed { source, .. } => Some(source),
             Self::CountryNotFound { .. }
             | Self::StateNotFound { .. }
-            | Self::DistrictNotFound { .. } => None,
+            | Self::DistrictNotFound { .. }
+            | Self::ReleaseAssetMissing { .. }
+            | Self::ReleaseChecksumMismatch { .. } => None,
         }
     }
 }

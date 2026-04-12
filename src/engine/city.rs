@@ -5,9 +5,15 @@ use unicode_normalization::UnicodeNormalization;
 
 #[derive(rkyv::Archive, rkyv::Serialize, rkyv::Deserialize, Debug)]
 pub struct City {
+    pub geoname_id: u32,
+    pub country_code: String,
     pub name: String,
     pub ascii: String,
     pub alternates: Vec<String>,
+    pub admin1_code: Option<String>,
+    pub admin1_name: Option<String>,
+    pub admin2_code: Option<String>,
+    pub admin2_name: Option<String>,
     pub lat: f32,
     pub lon: f32,
 }

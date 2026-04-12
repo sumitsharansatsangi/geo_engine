@@ -2,12 +2,15 @@ fn main() {
     let lat = 25.25;
     let lon = 87.04;
 
-    match geo_engine::lookup_with_subdistrict_path(
-        lat,
-        lon,
-        std::path::Path::new("geo.db"),
-        Some(std::path::Path::new("subdistrict.db")),
-    ) {
+    let engine = match geo_engine::init_geo_engine() {
+        Ok(engine) => engine,
+        Err(err) => {
+            eprintln!("Initialization failed: {}", err);
+            std::process::exit(1);
+        }
+    };
+
+    match engine.lookup(lat, lon) {
         Ok(result) => {
             println!("Country: {} ({})", result.country.name, result.country.iso2);
             if let Some(state) = result.state {
@@ -16,6 +19,10 @@ fn main() {
             if let Some(district) = result.district {
                 println!("District: {} ({})", district.name, district.iso2);
             }
+            if let Some(subdistrict) = result.subdistrict {
+                println!("Subdistrict: {} ({})", subdistrict.name, subdistrict.iso2);
+            }
+            println!("Center: {}, {}", result.latitude, result.longitude);
         }
         Err(err) => {
             eprintln!("Lookup failed: {}", err);

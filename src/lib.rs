@@ -1,5 +1,9 @@
 pub mod district_data;
 pub mod engine;
+pub use engine::bootstrap::{
+    CityAssetPaths, InitConfig, init_city_assets, init_city_assets_with_config, init_geo_engine,
+    init_geo_engine_with_config,
+};
 pub use engine::city::City;
 
 /// Lookup using runtime-loaded databases.
