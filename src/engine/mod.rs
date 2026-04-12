@@ -1,7 +1,8 @@
 pub mod api;
+pub mod city;
 pub mod error;
 mod index;
 mod lookup;
-mod model;
+pub mod model;
 mod polygon;
 mod runtime;

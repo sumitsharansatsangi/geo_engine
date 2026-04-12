@@ -1,5 +1,6 @@
 pub mod district_data;
 pub mod engine;
+pub use engine::city::City;
 
 /// Lookup using runtime-loaded databases.
 pub use district_data::{

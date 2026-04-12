@@ -13,13 +13,15 @@ pub struct Region {
     pub iso2: String,
 }
 
-#[derive(Debug, Clone, PartialEq, Eq)]
+#[derive(Debug, Clone, PartialEq)]
 pub struct LookupResult {
     pub country: Region,
     pub state: Option<Region>,
     pub district: Option<Region>,
     pub subdistrict: Option<Region>,
     pub demographics: Option<DistrictDemographics>,
+    pub latitude: f32,
+    pub longitude: f32,
 }
 
 #[derive(Debug, Clone, PartialEq, Eq)]
@@ -158,6 +160,8 @@ impl InitializedGeoEngine {
                 district: None,
                 subdistrict: None,
                 demographics: None,
+                latitude: lat,
+                longitude: lon,
             });
         }
 
@@ -191,40 +195,54 @@ fn lookup_india_with_subdistrict_engine(
     subdistrict_engine: &GeoEngine,
 ) -> Result<LookupResult, GeoEngineError> {
     let subdistrict_index = SpatialIndex::build(subdistrict_engine.countries());
-    let subdistrict_match = match find_country(lat, lon, &subdistrict_index) {
-        Ok(feature) => Some(region_from_archived(&feature.name, &feature.iso2)),
+    let subdistrict_match_with_center = match find_country(lat, lon, &subdistrict_index) {
+        Ok(feature) => {
+            let region = region_from_archived(&feature.name, &feature.iso2);
+            let center = calculate_polygon_center(&feature.polygons);
+            Some((region, center))
+        }
         Err(GeoEngineError::CountryNotFound { .. }) => None,
         Err(other) => return Err(other),
     };
 
-    if let Some(metadata) = subdistrict_match
-        .as_ref()
-        .and_then(|region| parse_subdistrict_payload(&region.name))
+    if let Some((subdistrict_match, (center_lat, center_lon))) =
+        subdistrict_match_with_center.as_ref()
     {
-        return Ok(LookupResult {
-            country,
-            state: Some(Region {
-                name: metadata.state_name,
-                iso2: metadata.state_code,
-            }),
-            district: Some(Region {
-                name: metadata.district_name,
-                iso2: metadata.district_code,
-            }),
-            subdistrict: Some(Region {
-                name: metadata.subdistrict_name,
-                iso2: metadata.subdistrict_code,
-            }),
-            demographics: metadata.demographics,
-        });
+        if let Some(metadata) = parse_subdistrict_payload(&subdistrict_match.name) {
+            return Ok(LookupResult {
+                country,
+                state: Some(Region {
+                    name: metadata.state_name,
+                    iso2: metadata.state_code,
+                }),
+                district: Some(Region {
+                    name: metadata.district_name,
+                    iso2: metadata.district_code,
+                }),
+                subdistrict: Some(Region {
+                    name: metadata.subdistrict_name,
+                    iso2: metadata.subdistrict_code,
+                }),
+                demographics: metadata.demographics,
+                latitude: *center_lat,
+                longitude: *center_lon,
+            });
+        }
     }
+
+    let (fallback_lat, fallback_lon) = subdistrict_match_with_center
+        .as_ref()
+        .map(|(_, center)| *center)
+        .unwrap_or((lat, lon));
 
     Ok(LookupResult {
         country,
         state: None,
         district: None,
-        subdistrict: subdistrict_match,
+        subdistrict: subdistrict_match_with_center.map(|(region, _)| region),
         demographics: None,
+        latitude: fallback_lat,
+        longitude: fallback_lon,
     })
 }
 
@@ -409,6 +427,36 @@ fn format_full_address(
     parts.join(", ")
 }
 
+fn calculate_polygon_center(polygons: &Archived<Vec<Vec<(f32, f32)>>>) -> (f32, f32) {
+    if polygons.is_empty() {
+        return (0.0, 0.0);
+    }
+
+    // Use the first (main) polygon
+    let polygon = &polygons[0];
+    if polygon.is_empty() {
+        return (0.0, 0.0);
+    }
+
+    // Calculate centroid of the polygon
+    let mut sum_lat = 0.0f32;
+    let mut sum_lon = 0.0f32;
+    let count = polygon.len() as f32;
+
+    for point in polygon.iter() {
+        // Coordinates are stored as (lon, lat) based on the point_in_ring function
+        let lon_val: f32 = point.0.into();
+        let lat_val: f32 = point.1.into();
+        sum_lat += lat_val;
+        sum_lon += lon_val;
+    }
+
+    let center_lat = sum_lat / count;
+    let center_lon = sum_lon / count;
+
+    (center_lat, center_lon)
+}
+
 fn normalize_name(name: &str) -> String {
     let is_all_caps =
         name.chars().any(|c| c.is_alphabetic()) && !name.chars().any(|c| c.is_lowercase());
@@ -431,10 +479,7 @@ fn normalize_name(name: &str) -> String {
         .join(" ")
 }
 
-
-fn sort_languages_by_relevance(
-    languages: &[GeoLanguage],
-) -> Vec<GeoLanguage> {
+fn sort_languages_by_relevance(languages: &[GeoLanguage]) -> Vec<GeoLanguage> {
     let mut langs = languages.to_vec();
 
     // Assign priority weight

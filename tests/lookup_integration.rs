@@ -98,16 +98,9 @@ fn lookup_with_subdistrict_path_returns_india_admin_hierarchy() {
         .expect("embedded demographics should be present after enrichment");
     assert_eq!(demographics.district_uni_code, "IN-BR-BGP");
     assert_eq!(demographics.major_religion, "Hinduism");
-    assert!(
-        demographics
-            .languages
-            .iter()
-            .any(|language| {
-                language.name == "Angika"
-                    && language.usage_type == "primary"
-                    && language.code == "anp"
-            })
-    );
+    assert!(demographics.languages.iter().any(|language| {
+        language.name == "Angika" && language.usage_type == "primary" && language.code == "anp"
+    }));
 }
 
 #[test]
@@ -143,16 +136,9 @@ fn district_demographics_can_be_mapped_from_lookup_result() {
     assert_eq!(profile.district_name, "Bhagalpur");
     assert_eq!(profile.district_code, "IN-BR-BGP");
     assert_eq!(profile.major_religion, "Hinduism");
-    assert!(
-        profile
-        .languages
-            .iter()
-            .any(|language| {
-                language.name == "Angika"
-                    && language.usage_type == "primary"
-                    && language.code == "anp"
-            })
-    );
+    assert!(profile.languages.iter().any(|language| {
+        language.name == "Angika" && language.usage_type == "primary" && language.code == "anp"
+    }));
     assert!(
         profile
             .languages
@@ -192,16 +178,9 @@ fn lookup_address_details_returns_full_hierarchy_and_demographics() {
         Some("Sabour")
     );
     assert_eq!(details.major_religion.as_deref(), Some("Hinduism"));
-    assert!(
-        details
-            .languages
-            .iter()
-            .any(|language| {
-                language.name == "Angika"
-                    && language.usage_type == "primary"
-                    && language.code == "anp"
-            })
-    );
+    assert!(details.languages.iter().any(|language| {
+        language.name == "Angika" && language.usage_type == "primary" && language.code == "anp"
+    }));
 }
 
 #[test]
@@ -238,4 +217,32 @@ fn initialized_engine_can_be_reused_for_multiple_lookups() {
     assert_eq!(india.major_religion.as_deref(), Some("Hinduism"));
     assert_eq!(non_india.full_address, "United Kingdom");
     assert!(non_india.languages.is_empty());
+}
+
+#[test]
+fn lookup_result_includes_polygon_center_coordinates() {
+    let (country_db, subdistrict_db) = db_paths();
+
+    let result = lookup_with_subdistrict_path(25.25, 87.04, &country_db, Some(&subdistrict_db))
+        .expect("lookup should succeed for known India/Bihar point");
+
+    // The result should contain latitude and longitude from the subdistrict polygon center
+    // Polygon centers can vary considerably from the input point
+    assert!(
+        result.latitude > 20.0 && result.latitude < 30.0,
+        "latitude should be within expected India range, got {}",
+        result.latitude
+    );
+    assert!(
+        result.longitude > 80.0 && result.longitude < 95.0,
+        "longitude should be within expected India range, got {}",
+        result.longitude
+    );
+    // For non-India point
+    let result_non_india = lookup_with_subdistrict_path(51.5074, -0.1278, &country_db, None)
+        .expect("lookup should succeed for non-India point");
+
+    // For non-India points without subdistrict, should return the input coordinates
+    assert_eq!(result_non_india.latitude, 51.5074);
+    assert_eq!(result_non_india.longitude, -0.1278);
 }

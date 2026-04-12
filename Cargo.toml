@@ -6,6 +6,14 @@ default-run = "geo_engine"
 
 [dependencies]
 rstar = "0.12"
-rkyv = "0.8.15"
 memmap2 = "0.9.10"
 zstd = "0.13"
+zip = "8.5"
+reqwest = { version = "0.13", features = ["blocking"] }
+fst = "0.4"
+levenshtein_automata = "0.2"
+rkyv = { version = "0.8.15", features = ["bytecheck"] }
+unicode-normalization = "0.1"
+
+[dev-dependencies]
+anyhow = "1.0.102"
