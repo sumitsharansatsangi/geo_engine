@@ -11,8 +11,9 @@ pub use district_data::{
     DistrictProfile, GeoLanguage, find_district_profile, load_district_profiles,
 };
 pub use engine::api::{
-    AddressDetails, DistrictDemographics, InitializedGeoEngine, LookupResult, Region,
-    SubdistrictMatch, lookup_address_details_with_subdistrict_path, lookup_with_subdistrict_path,
+    AddressDetails, CityMatch, CombinedSearchResult, DistrictDemographics, InitializedGeoEngine,
+    LookupResult, Region, SubdistrictMatch, lookup_address_details_with_subdistrict_path,
+    lookup_with_subdistrict_path, search_cities_by_name, search_places_by_name,
     search_subdistricts_by_name,
 };
 pub use engine::error::GeoEngineError;

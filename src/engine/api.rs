@@ -1,8 +1,14 @@
 use std::path::{Path, PathBuf};
+use std::{
+    collections::{BTreeSet, HashMap},
+    fs,
+};
 
+use fst::{IntoStreamer, Map, Streamer};
 use rkyv::{Archived, string::ArchivedString};
 
 use crate::district_data::GeoLanguage;
+use crate::engine::city::{City, normalize};
 use crate::engine::error::GeoEngineError;
 use crate::engine::model::Country;
 use crate::engine::{index::SpatialIndex, lookup::find_country, runtime::GeoEngine};
@@ -29,6 +35,26 @@ pub struct SubdistrictMatch {
     pub subdistrict: Region,
     pub district: Region,
     pub state: Region,
+}
+
+#[derive(Debug, Clone, PartialEq)]
+pub struct CityMatch {
+    pub geoname_id: u32,
+    pub name: String,
+    pub ascii: String,
+    pub country_code: String,
+    pub admin1_name: Option<String>,
+    pub admin1_code: Option<String>,
+    pub admin2_name: Option<String>,
+    pub admin2_code: Option<String>,
+    pub latitude: f32,
+    pub longitude: f32,
+}
+
+#[derive(Debug, Clone, PartialEq)]
+pub struct CombinedSearchResult {
+    pub cities: Vec<CityMatch>,
+    pub subdistricts: Vec<SubdistrictMatch>,
 }
 
 #[derive(Debug, Clone, PartialEq, Eq)]
@@ -127,6 +153,89 @@ pub fn search_subdistricts_by_name(
     });
 
     Ok(matches)
+}
+
+pub fn search_cities_by_name(
+    query: &str,
+    city_fst_path: &Path,
+    city_rkyv_path: &Path,
+    limit: usize,
+) -> Result<Vec<CityMatch>, GeoEngineError> {
+    let normalized = normalize(query.trim());
+    if normalized.is_empty() {
+        return Ok(Vec::new());
+    }
+
+    let fst_bytes = fs::read(city_fst_path).map_err(|source| GeoEngineError::DatabaseOpen {
+        path: city_fst_path.to_path_buf(),
+        source,
+    })?;
+    let fst = Map::new(fst_bytes).map_err(|err| GeoEngineError::DatabaseMap {
+        path: city_fst_path.to_path_buf(),
+        source: std::io::Error::other(err.to_string()),
+    })?;
+
+    let cities_by_id = load_cities_by_id(city_rkyv_path)?;
+
+    let prefix = format!("{}|", normalized);
+    let upper = format!("{}\u{10FFFF}", prefix);
+    let mut stream = fst
+        .range()
+        .ge(prefix.as_str())
+        .lt(upper.as_str())
+        .into_stream();
+
+    let max_results = limit.max(1);
+    let mut matched_ids: BTreeSet<u32> = BTreeSet::new();
+    while let Some((_key, value)) = stream.next() {
+        matched_ids.insert(value as u32);
+        if matched_ids.len() >= max_results {
+            break;
+        }
+    }
+
+    let mut matches: Vec<CityMatch> = matched_ids
+        .into_iter()
+        .filter_map(|geoname_id| {
+            cities_by_id.get(&geoname_id).map(|city| CityMatch {
+                geoname_id: city.geoname_id,
+                name: city.name.clone(),
+                ascii: city.ascii.clone(),
+                country_code: city.country_code.clone(),
+                admin1_name: city.admin1_name.clone(),
+                admin1_code: city.admin1_code.clone(),
+                admin2_name: city.admin2_name.clone(),
+                admin2_code: city.admin2_code.clone(),
+                latitude: city.lat,
+                longitude: city.lon,
+            })
+        })
+        .collect();
+
+    matches.sort_by(|left, right| {
+        left.name
+            .cmp(&right.name)
+            .then_with(|| left.country_code.cmp(&right.country_code))
+            .then_with(|| left.geoname_id.cmp(&right.geoname_id))
+    });
+
+    Ok(matches)
+}
+
+pub fn search_places_by_name(
+    query: &str,
+    subdistrict_db_path: &Path,
+    city_fst_path: &Path,
+    city_rkyv_path: &Path,
+    city_limit: usize,
+) -> Result<CombinedSearchResult, GeoEngineError> {
+    let subdistricts = search_subdistricts_by_name(query, subdistrict_db_path)?;
+    let cities = search_cities_by_name(query, city_fst_path, city_rkyv_path, city_limit)?;
+
+    Ok(CombinedSearchResult {
+        cities,
+        subdistricts,
+    })
 }
 
 impl InitializedGeoEngine {
@@ -401,6 +510,53 @@ fn parse_embedded_languages(raw: &str) -> Vec<GeoLanguage> {
 
     // 🔥 sort by relevance before returning
     sort_languages_by_relevance(&langs)
+}
+
+fn load_cities_by_id(path: &Path) -> Result<HashMap<u32, City>, GeoEngineError> {
+    let bytes = fs::read(path).map_err(|source| GeoEngineError::DatabaseOpen {
+        path: path.to_path_buf(),
+        source,
+    })?;
+    let archived: &Archived<Vec<City>> =
+        rkyv::access::<Archived<Vec<City>>, rkyv::rancor::Error>(&bytes)
+            .unwrap_or_else(|_| unsafe { rkyv::access_unchecked(&bytes) });
+
+    let mut cities = HashMap::with_capacity(archived.len());
+    for archived_city in archived.iter() {
+        let city = City {
+            geoname_id: archived_city.geoname_id.into(),
+            country_code: archived_city.country_code.as_str().to_string(),
+            name: archived_city.name.as_str().to_string(),
+            ascii: archived_city.ascii.as_str().to_string(),
+            alternates: archived_city
+                .alternates
+                .iter()
+                .map(|value| value.as_str().to_string())
+                .collect(),
+            admin1_code: archived_city
+                .admin1_code
+                .as_ref()
+                .map(|v| v.as_str().to_string()),
+            admin1_name: archived_city
+                .admin1_name
+                .as_ref()
+                .map(|v| v.as_str().to_string()),
+            admin2_code: archived_city
+                .admin2_code
+                .as_ref()
+                .map(|v| v.as_str().to_string()),
+            admin2_name: archived_city
+                .admin2_name
+                .as_ref()
+                .map(|v| v.as_str().to_string()),
+            lat: archived_city.lat.into(),
+            lon: archived_city.lon.into(),
+        };
+
+        cities.insert(city.geoname_id, city);
+    }
+
+    Ok(cities)
 }
 
 fn format_full_address(

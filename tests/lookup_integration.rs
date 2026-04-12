@@ -3,7 +3,7 @@ use std::path::PathBuf;
 use geo_engine::{
     GeoEngineError, InitializedGeoEngine, find_district_profile, load_district_profiles,
     lookup_address_details_with_subdistrict_path, lookup_with_subdistrict_path,
-    search_subdistricts_by_name,
+    search_cities_by_name, search_places_by_name, search_subdistricts_by_name,
 };
 
 fn db_paths() -> (PathBuf, PathBuf) {
@@ -13,6 +13,14 @@ fn db_paths() -> (PathBuf, PathBuf) {
 
 fn data_csv_path() -> PathBuf {
     PathBuf::from(env!("CARGO_MANIFEST_DIR")).join("data.csv")
+}
+
+fn city_asset_paths() -> (PathBuf, PathBuf) {
+    let root = PathBuf::from(env!("CARGO_MANIFEST_DIR"));
+    (
+        root.join("cities-0.0.1.fst"),
+        root.join("cities-0.0.1.rkyv"),
+    )
 }
 
 #[test]
@@ -117,6 +125,40 @@ fn search_subdistricts_by_name_returns_matching_hierarchy() {
                 && matched.state.name == "Bihar"
         }),
         "expected Sabour, Bhagalpur, Bihar in search results"
+    );
+}
+
+#[test]
+fn search_cities_by_name_returns_matches() {
+    let (city_fst, city_rkyv) = city_asset_paths();
+
+    let matches = search_cities_by_name("london", &city_fst, &city_rkyv, 10)
+        .expect("city search should succeed for known city");
+
+    assert!(!matches.is_empty(), "expected at least one city match");
+    assert!(
+        matches
+            .iter()
+            .any(|matched| matched.name.to_lowercase().contains("london")),
+        "expected a city containing 'london' in search results"
+    );
+}
+
+#[test]
+fn search_places_by_name_combines_city_and_subdistrict_results() {
+    let (_, subdistrict_db) = db_paths();
+    let (city_fst, city_rkyv) = city_asset_paths();
+
+    let result = search_places_by_name("sabour", &subdistrict_db, &city_fst, &city_rkyv, 10)
+        .expect("combined search should succeed");
+
+    assert!(
+        result.subdistricts.iter().any(|matched| {
+            matched.subdistrict.name == "Sabour"
+                && matched.district.name == "Bhagalpur"
+                && matched.state.name == "Bihar"
+        }),
+        "expected Sabour, Bhagalpur, Bihar in combined search results"
     );
 }
 
