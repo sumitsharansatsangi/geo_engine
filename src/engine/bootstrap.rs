@@ -6,13 +6,14 @@ use std::env;
 use std::fs;
 use std::io::Read;
 use std::path::{Path, PathBuf};
+use std::thread;
 use std::time::Duration;
 
-const GEO_DB_NAME: &str = "geo.db";
-const SUBDISTRICT_DB_NAME: &str = "subdistrict.db";
-const CITY_FST_NAME: &str = "cities.fst";
-const CITY_RKYV_NAME: &str = "cities.rkyv";
-const CITY_POINTS_NAME: &str = "cities.points";
+const GEO_DB_NAME: &str = "geo-0.0.1.db";
+const SUBDISTRICT_DB_NAME: &str = "subdistrict-0.0.1.db";
+const CITY_FST_NAME: &str = "cities-0.0.1.fst";
+const CITY_RKYV_NAME: &str = "cities-0.0.1.rkyv";
+const CITY_POINTS_NAME: &str = "cities-0.0.1.points";
 
 const GEO_DB_URL: &str =
     "https://github.com/sumitsharansatsangi/geo_engine/releases/download/v0.0.1/geo-0.0.1.db";
@@ -44,6 +45,181 @@ pub struct CityAssetPaths {
     pub fst_path: PathBuf,
     pub rkyv_path: PathBuf,
     pub points_path: PathBuf,
+}
+
+pub struct AllAssetPaths {
+    pub geo_db_path: PathBuf,
+    pub subdistrict_db_path: PathBuf,
+    pub city_fst_path: PathBuf,
+    pub city_rkyv_path: PathBuf,
+    pub city_points_path: PathBuf,
+}
+
+/// Initialize all required assets in the provided directory.
+///
+/// This method always verifies SHA-256 checksums of existing files.
+/// Missing files are downloaded, and invalid/incomplete files are redownloaded.
+pub fn init_all_assets(asset_dir: &Path) -> Result<AllAssetPaths, GeoEngineError> {
+    let config = InitConfig {
+        asset_dir: asset_dir.to_path_buf(),
+        verify_checksum: true,
+    };
+    init_all_assets_with_config(&config)
+}
+
+pub fn init_all_assets_with_config(config: &InitConfig) -> Result<AllAssetPaths, GeoEngineError> {
+    fs::create_dir_all(&config.asset_dir).map_err(|source| {
+        GeoEngineError::CacheDirectoryUnavailable {
+            path: config.asset_dir.clone(),
+            source,
+        }
+    })?;
+
+    let geo_db_path = ensure_asset(
+        &config.asset_dir,
+        GEO_DB_NAME,
+        GEO_DB_URL,
+        GEO_DB_SHA256,
+        config.verify_checksum,
+    )?;
+    let subdistrict_db_path = ensure_asset(
+        &config.asset_dir,
+        SUBDISTRICT_DB_NAME,
+        SUBDISTRICT_DB_URL,
+        SUBDISTRICT_DB_SHA256,
+        config.verify_checksum,
+    )?;
+    let city_fst_path = ensure_asset(
+        &config.asset_dir,
+        CITY_FST_NAME,
+        CITY_FST_URL,
+        CITY_FST_SHA256,
+        config.verify_checksum,
+    )?;
+    let city_rkyv_path = ensure_asset(
+        &config.asset_dir,
+        CITY_RKYV_NAME,
+        CITY_RKYV_URL,
+        CITY_RKYV_SHA256,
+        config.verify_checksum,
+    )?;
+    let city_points_path = ensure_asset(
+        &config.asset_dir,
+        CITY_POINTS_NAME,
+        CITY_POINTS_URL,
+        CITY_POINTS_SHA256,
+        config.verify_checksum,
+    )?;
+
+    Ok(AllAssetPaths {
+        geo_db_path,
+        subdistrict_db_path,
+        city_fst_path,
+        city_rkyv_path,
+        city_points_path,
+    })
+}
+
+/// Start a background refresh for all assets in the provided directory.
+///
+/// Existing files stay usable while downloads happen. Each file is replaced only
+/// after a successful checksum-verified download.
+pub fn init_all_assets_in_background(
+    asset_dir: &Path,
+) -> Result<thread::JoinHandle<Result<AllAssetPaths, GeoEngineError>>, GeoEngineError> {
+    let config = InitConfig {
+        asset_dir: asset_dir.to_path_buf(),
+        verify_checksum: true,
+    };
+    init_all_assets_in_background_with_config(&config)
+}
+
+pub fn init_all_assets_in_background_with_config(
+    config: &InitConfig,
+) -> Result<thread::JoinHandle<Result<AllAssetPaths, GeoEngineError>>, GeoEngineError> {
+    fs::create_dir_all(&config.asset_dir).map_err(|source| {
+        GeoEngineError::CacheDirectoryUnavailable {
+            path: config.asset_dir.clone(),
+            source,
+        }
+    })?;
+
+    let config_owned = config.clone();
+    Ok(thread::spawn(move || {
+        init_all_assets_with_config(&config_owned)
+    }))
+}
+
+/// Fire-and-forget background refresh for all assets.
+///
+/// This starts a background thread and immediately returns. Existing files
+/// remain available while refresh runs; files are atomically replaced only
+/// after successful download and checksum verification.
+pub fn refresh_all_assets_in_background(asset_dir: &Path) -> Result<(), GeoEngineError> {
+    let config = InitConfig {
+        asset_dir: asset_dir.to_path_buf(),
+        verify_checksum: true,
+    };
+    refresh_all_assets_in_background_with_config(&config)
+}
+
+pub fn refresh_all_assets_in_background_with_config(
+    config: &InitConfig,
+) -> Result<(), GeoEngineError> {
+    let asset_dir = config.asset_dir.clone();
+    refresh_all_assets_in_background_with_callback_config(config, move |result| match result {
+        Ok(_) => {
+            eprintln!(
+                "geo_engine: background asset refresh completed in '{}'",
+                asset_dir.display()
+            );
+        }
+        Err(err) => {
+            eprintln!("geo_engine: background asset refresh failed: {err}");
+        }
+    })
+}
+
+/// Start a background refresh and invoke a callback when it finishes.
+///
+/// The callback receives the verified asset paths on success or the error on failure.
+/// Existing files remain available while refresh runs, and are replaced atomically
+/// only after the new asset has been downloaded and checksum-verified.
+pub fn refresh_all_assets_in_background_with_callback<F>(
+    asset_dir: &Path,
+    on_complete: F,
+) -> Result<(), GeoEngineError>
+where
+    F: FnOnce(Result<AllAssetPaths, GeoEngineError>) + Send + 'static,
+{
+    let config = InitConfig {
+        asset_dir: asset_dir.to_path_buf(),
+        verify_checksum: true,
+    };
+    refresh_all_assets_in_background_with_callback_config(&config, on_complete)
+}
+
+pub fn refresh_all_assets_in_background_with_callback_config<F>(
+    config: &InitConfig,
+    on_complete: F,
+) -> Result<(), GeoEngineError>
+where
+    F: FnOnce(Result<AllAssetPaths, GeoEngineError>) + Send + 'static,
+{
+    fs::create_dir_all(&config.asset_dir).map_err(|source| {
+        GeoEngineError::CacheDirectoryUnavailable {
+            path: config.asset_dir.clone(),
+            source,
+        }
+    })?;
+
+    let config_owned = config.clone();
+    let _ = thread::spawn(move || {
+        let result = init_all_assets_with_config(&config_owned);
+        on_complete(result);
+    });
+
+    Ok(())
 }
 
 /// Initialize geo engine with default configuration (uses cache directory, checksums disabled)
@@ -177,13 +353,43 @@ fn ensure_asset(
         }
     }
 
-    // Write file to disk
-    fs::write(&asset_path, &bytes).map_err(|source| GeoEngineError::DatabaseOpen {
-        path: asset_path.clone(),
+    // Keep old file intact until new content is fully downloaded and verified.
+    write_asset_atomically(&asset_path, &bytes)?;
+
+    Ok(asset_path)
+}
+
+fn write_asset_atomically(asset_path: &Path, bytes: &[u8]) -> Result<(), GeoEngineError> {
+    let file_name = asset_path
+        .file_name()
+        .and_then(|value| value.to_str())
+        .unwrap_or("asset");
+    let temp_path =
+        asset_path.with_file_name(format!("{}.download.{}.tmp", file_name, std::process::id()));
+
+    fs::write(&temp_path, bytes).map_err(|source| GeoEngineError::DatabaseOpen {
+        path: temp_path.clone(),
         source,
     })?;
 
-    Ok(asset_path)
+    match fs::rename(&temp_path, asset_path) {
+        Ok(()) => Ok(()),
+        Err(rename_err) => {
+            if asset_path.exists() {
+                let _ = fs::remove_file(asset_path);
+                fs::rename(&temp_path, asset_path).map_err(|source| GeoEngineError::DatabaseOpen {
+                    path: asset_path.to_path_buf(),
+                    source,
+                })
+            } else {
+                let _ = fs::remove_file(&temp_path);
+                Err(GeoEngineError::DatabaseOpen {
+                    path: asset_path.to_path_buf(),
+                    source: rename_err,
+                })
+            }
+        }
+    }
 }
 
 fn compute_file_sha256(path: &Path) -> Result<String, GeoEngineError> {
@@ -244,10 +450,10 @@ fn cache_dir() -> Result<PathBuf, GeoEngineError> {
         return Ok(PathBuf::from(custom));
     }
 
-    if cfg!(target_os = "macos") {
-        if let Some(home) = env::var_os("HOME") {
-            return Ok(PathBuf::from(home).join("Library/Caches/geo_engine"));
-        }
+    if cfg!(target_os = "macos")
+        && let Some(home) = env::var_os("HOME")
+    {
+        return Ok(PathBuf::from(home).join("Library/Caches/geo_engine"));
     }
 
     if let Some(xdg_cache) = env::var_os("XDG_CACHE_HOME") {

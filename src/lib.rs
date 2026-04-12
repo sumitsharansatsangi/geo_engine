@@ -1,8 +1,12 @@
 pub mod district_data;
 pub mod engine;
 pub use engine::bootstrap::{
-    CityAssetPaths, InitConfig, init_city_assets, init_city_assets_with_config, init_geo_engine,
-    init_geo_engine_with_config,
+    AllAssetPaths, CityAssetPaths, InitConfig, init_all_assets, init_all_assets_in_background,
+    init_all_assets_in_background_with_config, init_all_assets_with_config, init_city_assets,
+    init_city_assets_with_config, init_geo_engine, init_geo_engine_with_config,
+    refresh_all_assets_in_background, refresh_all_assets_in_background_with_callback,
+    refresh_all_assets_in_background_with_callback_config,
+    refresh_all_assets_in_background_with_config,
 };
 pub use engine::city::City;
 

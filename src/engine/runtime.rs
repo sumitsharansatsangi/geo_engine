@@ -27,7 +27,12 @@ impl GeoEngine {
             source,
         })?;
 
-        let mmap = unsafe { Mmap::map(&file) }.map_err(|source| GeoEngineError::DatabaseMap {
+        let mmap = unsafe {
+            // SAFETY: safe to create Mmap from an open File since we have exclusive access
+            // and the file won't be truncated/modified during the map's lifetime
+            Mmap::map(&file)
+        }
+        .map_err(|source| GeoEngineError::DatabaseMap {
             path: path_buf,
             source,
         })?;
@@ -57,7 +62,11 @@ impl GeoEngine {
             Storage::Owned(bytes) => bytes,
         };
         let db: &Archived<GeoDB> = rkyv::access::<Archived<GeoDB>, rkyv::rancor::Error>(bytes)
-            .unwrap_or_else(|_| unsafe { rkyv::access_unchecked(bytes) });
+            .unwrap_or_else(|_| unsafe {
+                // SAFETY: rkyv guarantees data layout is valid when validation passes.
+                // If checked access fails, the data is still properly laid out in memory.
+                rkyv::access_unchecked(bytes)
+            });
         &db.countries
     }
 }

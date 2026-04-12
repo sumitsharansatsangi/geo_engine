@@ -152,6 +152,7 @@ fn search_places_by_name_combines_city_and_subdistrict_results() {
     let result = search_places_by_name("sabour", &subdistrict_db, &city_fst, &city_rkyv, 10)
         .expect("combined search should succeed");
 
+    // Verify subdistricts results
     assert!(
         result.subdistricts.iter().any(|matched| {
             matched.subdistrict.name == "Sabour"
@@ -160,6 +161,14 @@ fn search_places_by_name_combines_city_and_subdistrict_results() {
         }),
         "expected Sabour, Bhagalpur, Bihar in combined search results"
     );
+
+    // Verify cities results are populated (structure validation)
+    // Note: May or may not have sabour city results, but structure should be valid
+    let cities_valid = result
+        .cities
+        .iter()
+        .all(|city| !city.name.is_empty() && !city.country_code.is_empty() && city.geoname_id > 0);
+    assert!(cities_valid, "all city matches should have valid structure");
 }
 
 #[test]

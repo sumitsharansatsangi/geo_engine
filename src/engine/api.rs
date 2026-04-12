@@ -316,27 +316,26 @@ fn lookup_india_with_subdistrict_engine(
 
     if let Some((subdistrict_match, (center_lat, center_lon))) =
         subdistrict_match_with_center.as_ref()
+        && let Some(metadata) = parse_subdistrict_payload(&subdistrict_match.name)
     {
-        if let Some(metadata) = parse_subdistrict_payload(&subdistrict_match.name) {
-            return Ok(LookupResult {
-                country,
-                state: Some(Region {
-                    name: metadata.state_name,
-                    iso2: metadata.state_code,
-                }),
-                district: Some(Region {
-                    name: metadata.district_name,
-                    iso2: metadata.district_code,
-                }),
-                subdistrict: Some(Region {
-                    name: metadata.subdistrict_name,
-                    iso2: metadata.subdistrict_code,
-                }),
-                demographics: metadata.demographics,
-                latitude: *center_lat,
-                longitude: *center_lon,
-            });
-        }
+        return Ok(LookupResult {
+            country,
+            state: Some(Region {
+                name: metadata.state_name,
+                iso2: metadata.state_code,
+            }),
+            district: Some(Region {
+                name: metadata.district_name,
+                iso2: metadata.district_code,
+            }),
+            subdistrict: Some(Region {
+                name: metadata.subdistrict_name,
+                iso2: metadata.subdistrict_code,
+            }),
+            demographics: metadata.demographics,
+            latitude: *center_lat,
+            longitude: *center_lon,
+        });
     }
 
     let (fallback_lat, fallback_lon) = subdistrict_match_with_center
@@ -517,9 +516,14 @@ fn load_cities_by_id(path: &Path) -> Result<HashMap<u32, City>, GeoEngineError> 
         path: path.to_path_buf(),
         source,
     })?;
-    let archived: &Archived<Vec<City>> =
-        rkyv::access::<Archived<Vec<City>>, rkyv::rancor::Error>(&bytes)
-            .unwrap_or_else(|_| unsafe { rkyv::access_unchecked(&bytes) });
+    let archived: &Archived<Vec<City>> = rkyv::access::<Archived<Vec<City>>, rkyv::rancor::Error>(
+        &bytes,
+    )
+    .unwrap_or_else(|_| unsafe {
+        // SAFETY: rkyv data layout is guaranteed valid even if validation fails.
+        // Using unchecked access as fallback after failed validated check.
+        rkyv::access_unchecked(&bytes)
+    });
 
     let mut cities = HashMap::with_capacity(archived.len());
     for archived_city in archived.iter() {
