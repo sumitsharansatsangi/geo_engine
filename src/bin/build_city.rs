@@ -1,5 +1,5 @@
 use fst::MapBuilder;
-use std::collections::{BTreeMap, HashMap};
+use std::collections::HashMap;
 use std::fs::File;
 use std::io::{BufRead, BufReader, Cursor};
 use zip::ZipArchive;
@@ -22,7 +22,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     // ---- FST ----
     let fst_file = File::create("cities.fst")?;
     let mut fst = MapBuilder::new(fst_file)?;
-    let mut city_keys: BTreeMap<String, u64> = BTreeMap::new();
+    let mut city_keys: Vec<(String, u64)> = Vec::new();
 
     let admin1_lookup = load_admin1_lookup()?;
     let admin2_lookup = load_admin2_lookup()?;
@@ -101,7 +101,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
             geoname_id as u64,
         );
 
-        for a in alt.split(',') {
+        for a in alt.split(',').filter(|s| !s.is_empty()) {
             if !a.is_empty() {
                 collect_key(
                     &mut city_keys,
@@ -123,7 +123,11 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
             country_code: country_code.to_string(),
             name: name.to_string(),
             ascii: ascii.to_string(),
-            alternates: alt.split(',').map(|s| s.to_string()).collect(),
+            alternates: alt
+                .split(',')
+                .filter(|s| !s.is_empty())
+                .map(|s| s.to_string())
+                .collect(),
             admin1_code,
             admin1_name,
             admin2_code,
@@ -132,6 +136,10 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
             lon,
         });
     }
+
+    city_keys
+        .sort_unstable_by(|left, right| left.0.cmp(&right.0).then_with(|| left.1.cmp(&right.1)));
+    city_keys.dedup_by(|left, right| left.0 == right.0);
 
     for (key, value) in city_keys {
         fst.insert(key, value)?;
@@ -155,12 +163,12 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     Ok(())
 }
 
-fn collect_key(city_keys: &mut BTreeMap<String, u64>, key: String, value: u64) {
+fn collect_key(city_keys: &mut Vec<(String, u64)>, key: String, value: u64) {
     if key.is_empty() {
         return;
     }
 
-    city_keys.entry(key).or_insert(value);
+     city_keys.push((key, value));
 }
 
 fn city_key(

@@ -1,12 +1,14 @@
-use std::collections::BTreeMap;
+use std::collections::HashMap;
 use std::env;
 use std::error::Error;
 use std::f64::consts::{FRAC_PI_2, FRAC_PI_4};
 use std::fs;
-use std::io;
-use std::path::Path;
+use std::fs::File;
+use std::io::{self, BufRead, BufReader, BufWriter, Read, Seek, SeekFrom, Write};
+use std::path::{Path, PathBuf};
 
 use rkyv::{Archive, Deserialize, Serialize, rancor::Error as RkyvError, to_bytes};
+use serde::{Deserialize as SerdeDeserialize, Serialize as SerdeSerialize};
 
 #[path = "common/district_data.rs"]
 mod district_data;
@@ -40,12 +42,20 @@ struct ShapeRecord {
     rings: Vec<Vec<(f64, f64)>>,
 }
 
-#[derive(Debug)]
+#[derive(Debug, SerdeSerialize, SerdeDeserialize)]
 struct SubdistrictFeature {
     name: String,
     code: [u8; 2],
     polygons: Vec<Vec<(f32, f32)>>,
     bbox: [f32; 4],
+}
+
+#[derive(Debug, SerdeSerialize, SerdeDeserialize)]
+struct PartitionRow {
+    state: String,
+    district: String,
+    subdistrict: String,
+    feature: SubdistrictFeature,
 }
 
 #[derive(Debug)]
@@ -131,8 +141,8 @@ pub fn run() -> Result<(), Box<dyn Error>> {
         .or_else(|_| env::var("DATA_CSV_PATH"))
         .unwrap_or_else(|_| "data.csv".to_string());
 
-    let dbf_records = read_dbf_records(Path::new(&dbf_path))?;
-    let shape_records = read_shape_records(Path::new(&shp_path))?;
+    let mut dbf_reader = DbfReader::open(Path::new(&dbf_path))?;
+    let mut shp_reader = ShpReader::open(Path::new(&shp_path))?;
     let district_profiles = match load_district_profiles(Path::new(&data_csv_path)) {
         Ok(profiles) => {
             println!("ℹ️ loaded district demographics from {data_csv_path}");
@@ -146,15 +156,6 @@ pub fn run() -> Result<(), Box<dyn Error>> {
         }
         Err(err) => return Err(err.into()),
     };
-
-    if dbf_records.len() != shape_records.len() {
-        return Err(format!(
-            "shape/attribute mismatch: {} vs {}",
-            shape_records.len(),
-            dbf_records.len()
-        )
-        .into());
-    }
 
     let projector = LambertConformalConic::india_lcc();
     let simplify_tolerance_m = env::var("DISTRICT_SIMPLIFY_TOLERANCE_M")
@@ -174,12 +175,32 @@ pub fn run() -> Result<(), Box<dyn Error>> {
         .ok()
         .and_then(|v| v.parse::<i32>().ok())
         .unwrap_or(19);
+    let partition_size = env::var("DISTRICT_PARTITION_SIZE")
+        .ok()
+        .and_then(|v| v.parse::<usize>().ok())
+        .unwrap_or(0);
 
-    let mut subdistricts: BTreeMap<(String, String, String), SubdistrictFeature> = BTreeMap::new();
+    let mut subdistricts: HashMap<(String, String, String), SubdistrictFeature> = HashMap::new();
+    let mut partition_paths: Vec<PathBuf> = Vec::new();
     let mut total_input_vertices = 0usize;
     let mut total_output_vertices = 0usize;
+    let mut record_index = 0usize;
 
-    for (record, shape) in dbf_records.into_iter().zip(shape_records) {
+    loop {
+        let dbf_record = dbf_reader.next_record()?;
+        let shape_record = shp_reader.next_record()?;
+
+        let (record, shape) = match (dbf_record, shape_record) {
+            (Some(record), Some(shape)) => (record, shape),
+            (None, None) => break,
+            (Some(_), None) | (None, Some(_)) => {
+                return Err(
+                    format!("shape/attribute mismatch near record {}", record_index).into(),
+                );
+            }
+        };
+        record_index += 1;
+
         if record.subdistrict.is_empty()
             || record.district.is_empty()
             || record.state.is_empty()
@@ -248,10 +269,27 @@ pub fn run() -> Result<(), Box<dyn Error>> {
                 entry.polygons.push(transformed);
             }
         }
+        if partition_size > 0 && subdistricts.len() >= partition_size {
+            spill_partition_to_disk(&mut subdistricts, &mut partition_paths)?;
+        }
     }
 
-    let countries = subdistricts
-        .into_values()
+    if !partition_paths.is_empty() {
+        if !subdistricts.is_empty() {
+            spill_partition_to_disk(&mut subdistricts, &mut partition_paths)?;
+        }
+
+        for path in partition_paths {
+            load_partition_from_disk(&path, &mut subdistricts)?;
+        }
+    }
+
+    let mut ordered_subdistricts: Vec<_> = subdistricts.into_iter().collect();
+    ordered_subdistricts.sort_unstable_by(|(left_key, _), (right_key, _)| left_key.cmp(right_key));
+
+    let countries = ordered_subdistricts
+        .into_iter()
+        .map(|(_, subdistrict)| subdistrict)
         .filter(|d| !d.polygons.is_empty())
         .map(|d| Country {
             name: d.name,
@@ -291,6 +329,12 @@ pub fn run() -> Result<(), Box<dyn Error>> {
         coordinate_precision_dp.min(7),
         zstd_level
     );
+    if partition_size > 0 {
+        println!(
+            "ℹ️ partition config: DISTRICT_PARTITION_SIZE={}",
+            partition_size
+        );
+    }
     println!(
         "ℹ️ serialized size: raw={} bytes, written={} bytes",
         bytes.len(),
@@ -308,79 +352,115 @@ fn quantize_coord(value: f32, scale: f32) -> f32 {
     (value * scale).round() / scale
 }
 
-fn read_dbf_records(path: &Path) -> Result<Vec<DbfRecord>, Box<dyn Error>> {
-    let bytes = fs::read(path)?;
-    if bytes.len() < 33 {
-        return Err(io::Error::new(io::ErrorKind::InvalidData, "dbf file too small").into());
-    }
+struct DbfReader {
+    reader: BufReader<File>,
+    fields: Vec<(String, usize)>,
+    record_len: usize,
+    remaining_records: usize,
+    state_idx: Option<usize>,
+    district_idx: Option<usize>,
+    subdistrict_idx: Option<usize>,
+    state_code_idx: Option<usize>,
+    fid_idx: Option<usize>,
+}
 
-    let record_count = read_u32_le(&bytes, 4)? as usize;
-    let header_len = read_u16_le(&bytes, 8)? as usize;
-    let record_len = read_u16_le(&bytes, 10)? as usize;
+impl DbfReader {
+    fn open(path: &Path) -> Result<Self, Box<dyn Error>> {
+        let mut reader = BufReader::new(File::open(path)?);
+        let mut header = [0u8; 32];
+        reader.read_exact(&mut header)?;
 
-    let mut fields = Vec::new();
-    let mut offset = 32usize;
-    while offset + 32 <= bytes.len() {
-        if bytes[offset] == 0x0D {
-            offset += 1;
-            break;
+        let record_count = read_u32_le(&header, 4)? as usize;
+        let header_len = read_u16_le(&header, 8)? as usize;
+        let record_len = read_u16_le(&header, 10)? as usize;
+
+        let mut fields = Vec::new();
+        loop {
+            let mut first = [0u8; 1];
+            reader.read_exact(&mut first)?;
+            if first[0] == 0x0D {
+                break;
+            }
+
+            let mut rest = [0u8; 31];
+            reader.read_exact(&mut rest)?;
+
+            let mut descriptor = [0u8; 32];
+            descriptor[0] = first[0];
+            descriptor[1..].copy_from_slice(&rest);
+
+            let name_end = descriptor[0..11].iter().position(|b| *b == 0).unwrap_or(11);
+            let name = String::from_utf8_lossy(&descriptor[0..name_end]).to_string();
+            let length = descriptor[16] as usize;
+            fields.push((name, length));
         }
 
-        let name_end = bytes[offset..offset + 11]
-            .iter()
-            .position(|b| *b == 0)
-            .unwrap_or(11);
-        let name = String::from_utf8_lossy(&bytes[offset..offset + name_end]).to_string();
-        let length = bytes[offset + 16] as usize;
-        fields.push((name, length));
-        offset += 32;
-    }
-
-    if offset != header_len {
-        offset = header_len;
-    }
-
-    let state_idx = find_field_index(&fields, &["STATE_UT", "STATE", "ST_NM", "STATE_NAME"]);
-    let district_idx = find_field_index(
-        &fields,
-        &["DISTRICT", "DIST_NAME", "DISTRICT_NM", "DIST_NAME_1"],
-    );
-    let subdistrict_idx = find_field_index(
-        &fields,
-        &[
-            "SUB_DIST",
-            "SUBDISTRICT",
-            "SUB_DIST_NM",
-            "SUBDIS_NM",
-            "SUBDIST_NM",
-            "TEHSIL",
-            "TALUKA",
-            "MANDAL",
-            "BLOCK",
-        ],
-    );
-    let state_code_idx = find_field_index(&fields, &["STATE_LGD", "STATE_CODE", "ST_CODE"]);
-    let fid_idx = find_field_index(&fields, &["FID", "OBJECTID", "ID"]);
-
-    if subdistrict_idx.is_none() && fid_idx.is_none() {
-        return Err(io::Error::new(
-            io::ErrorKind::InvalidData,
-            "missing subdistrict field (expected SUB_DIST or FID fallback)",
-        )
-        .into());
-    }
-
-    let mut records = Vec::with_capacity(record_count);
-    for _ in 0..record_count {
-        if offset + record_len > bytes.len() {
-            break;
+        let current = reader.stream_position()? as usize;
+        if current < header_len {
+            reader.seek(SeekFrom::Start(header_len as u64))?;
         }
 
-        let record = &bytes[offset..offset + record_len];
-        offset += record_len;
+        let state_idx = find_field_index(&fields, &["STATE_UT", "STATE", "ST_NM", "STATE_NAME"]);
+        let district_idx = find_field_index(
+            &fields,
+            &["DISTRICT", "DIST_NAME", "DISTRICT_NM", "DIST_NAME_1"],
+        );
+        let subdistrict_idx = find_field_index(
+            &fields,
+            &[
+                "SUB_DIST",
+                "SUBDISTRICT",
+                "SUB_DIST_NM",
+                "SUBDIS_NM",
+                "SUBDIST_NM",
+                "TEHSIL",
+                "TALUKA",
+                "MANDAL",
+                "BLOCK",
+            ],
+        );
+        let state_code_idx = find_field_index(&fields, &["STATE_LGD", "STATE_CODE", "ST_CODE"]);
+        let fid_idx = find_field_index(&fields, &["FID", "OBJECTID", "ID"]);
+
+        if subdistrict_idx.is_none() && fid_idx.is_none() {
+            return Err(io::Error::new(
+                io::ErrorKind::InvalidData,
+                "missing subdistrict field (expected SUB_DIST or FID fallback)",
+            )
+            .into());
+        }
+
+        Ok(Self {
+            reader,
+            fields,
+            record_len,
+            remaining_records: record_count,
+            state_idx,
+            district_idx,
+            subdistrict_idx,
+            state_code_idx,
+            fid_idx,
+        })
+    }
+
+    fn next_record(&mut self) -> Result<Option<DbfRecord>, Box<dyn Error>> {
+        if self.remaining_records == 0 {
+            return Ok(None);
+        }
+
+        let mut record = vec![0u8; self.record_len];
+        self.reader.read_exact(&mut record)?;
+        self.remaining_records -= 1;
 
         if record.first() == Some(&b'*') {
-            continue;
+            return Ok(Some(DbfRecord {
+                state: String::new(),
+                state_code: String::new(),
+                district: String::new(),
+                district_code: String::new(),
+                subdistrict: String::new(),
+                subdistrict_code: String::new(),
+            }));
         }
 
         let mut field_offset = 1usize;
@@ -390,7 +470,7 @@ fn read_dbf_records(path: &Path) -> Result<Vec<DbfRecord>, Box<dyn Error>> {
         let mut subdistrict = String::new();
         let mut fid = String::new();
 
-        for (index, (_, length)) in fields.iter().enumerate() {
+        for (index, (_, length)) in self.fields.iter().enumerate() {
             let end = field_offset + *length;
             if end > record.len() {
                 return Err(io::Error::new(
@@ -401,15 +481,15 @@ fn read_dbf_records(path: &Path) -> Result<Vec<DbfRecord>, Box<dyn Error>> {
             }
 
             let value = decode_dbf_string(&record[field_offset..end]);
-            if Some(index) == state_idx {
+            if Some(index) == self.state_idx {
                 state = value;
-            } else if Some(index) == state_code_idx {
+            } else if Some(index) == self.state_code_idx {
                 state_code = value;
-            } else if Some(index) == district_idx {
+            } else if Some(index) == self.district_idx {
                 district = value;
-            } else if Some(index) == subdistrict_idx {
+            } else if Some(index) == self.subdistrict_idx {
                 subdistrict = value;
-            } else if Some(index) == fid_idx {
+            } else if Some(index) == self.fid_idx {
                 fid = value;
             }
             field_offset = end;
@@ -430,60 +510,75 @@ fn read_dbf_records(path: &Path) -> Result<Vec<DbfRecord>, Box<dyn Error>> {
         let district_code = short_code_str(&district);
         let subdistrict_code = short_code_str(&subdistrict);
 
-        records.push(DbfRecord {
+        Ok(Some(DbfRecord {
             state,
             state_code,
             district,
             district_code,
             subdistrict,
             subdistrict_code,
-        });
+        }))
     }
-
-    Ok(records)
 }
 
-fn read_shape_records(path: &Path) -> Result<Vec<ShapeRecord>, Box<dyn Error>> {
-    let bytes = fs::read(path)?;
-    if bytes.len() < 100 {
-        return Err(io::Error::new(io::ErrorKind::InvalidData, "shp file too small").into());
-    }
+struct ShpReader {
+    reader: BufReader<File>,
+}
 
-    let shape_type = read_i32_le(&bytes, 32)?;
-    if shape_type != 5 && shape_type != 15 {
-        return Err(
-            format!("unsupported shape type {shape_type}, expected polygon/polygonz").into(),
-        );
-    }
+impl ShpReader {
+    fn open(path: &Path) -> Result<Self, Box<dyn Error>> {
+        let mut reader = BufReader::new(File::open(path)?);
+        let mut header = [0u8; 100];
+        reader.read_exact(&mut header)?;
 
-    let mut offset = 100usize;
-    let mut records = Vec::new();
-
-    while offset + 8 <= bytes.len() {
-        let content_len_words = read_i32_be(&bytes, offset + 4)? as usize;
-        let content_len = content_len_words * 2;
-        let content_start = offset + 8;
-        let content_end = content_start + content_len;
-        if content_end > bytes.len() {
-            return Err(io::Error::new(io::ErrorKind::InvalidData, "truncated shp record").into());
+        let shape_type = read_i32_le(&header, 32)?;
+        if shape_type != 5 && shape_type != 15 {
+            return Err(
+                format!("unsupported shape type {shape_type}, expected polygon/polygonz").into(),
+            );
         }
 
-        let record_shape_type = read_i32_le(&bytes, content_start)?;
+        Ok(Self { reader })
+    }
+
+    fn next_record(&mut self) -> Result<Option<ShapeRecord>, Box<dyn Error>> {
+        let mut record_header = [0u8; 8];
+        match self.reader.read_exact(&mut record_header) {
+            Ok(()) => {}
+            Err(err) if err.kind() == io::ErrorKind::UnexpectedEof => return Ok(None),
+            Err(err) => return Err(err.into()),
+        }
+
+        let content_len_words = i32::from_be_bytes([
+            record_header[4],
+            record_header[5],
+            record_header[6],
+            record_header[7],
+        ]);
+        if content_len_words < 0 {
+            return Err(
+                io::Error::new(io::ErrorKind::InvalidData, "negative SHP content length").into(),
+            );
+        }
+
+        let content_len = (content_len_words as usize) * 2;
+        let mut content = vec![0u8; content_len];
+        self.reader.read_exact(&mut content)?;
+
+        let record_shape_type = read_i32_le(&content, 0)?;
         if record_shape_type == 0 {
-            records.push(ShapeRecord { rings: Vec::new() });
-            offset = content_end;
-            continue;
+            return Ok(Some(ShapeRecord { rings: Vec::new() }));
         }
         if record_shape_type != 5 && record_shape_type != 15 {
             return Err(format!("unsupported record shape type {record_shape_type}").into());
         }
 
-        let num_parts = read_i32_le(&bytes, content_start + 36)? as usize;
-        let num_points = read_i32_le(&bytes, content_start + 40)? as usize;
-        let parts_start = content_start + 44;
+        let num_parts = read_i32_le(&content, 36)? as usize;
+        let num_points = read_i32_le(&content, 40)? as usize;
+        let parts_start = 44;
         let points_start = parts_start + num_parts * 4;
         let points_end = points_start + num_points * 16;
-        if points_end > content_end {
+        if points_end > content.len() {
             return Err(io::Error::new(
                 io::ErrorKind::InvalidData,
                 "polygon points exceed record bounds",
@@ -493,15 +588,15 @@ fn read_shape_records(path: &Path) -> Result<Vec<ShapeRecord>, Box<dyn Error>> {
 
         let mut part_indices = Vec::with_capacity(num_parts + 1);
         for index in 0..num_parts {
-            part_indices.push(read_i32_le(&bytes, parts_start + index * 4)? as usize);
+            part_indices.push(read_i32_le(&content, parts_start + index * 4)? as usize);
         }
         part_indices.push(num_points);
 
         let mut points = Vec::with_capacity(num_points);
         for index in 0..num_points {
             let point_offset = points_start + index * 16;
-            let x = read_f64_le(&bytes, point_offset)?;
-            let y = read_f64_le(&bytes, point_offset + 8)?;
+            let x = read_f64_le(&content, point_offset)?;
+            let y = read_f64_le(&content, point_offset + 8)?;
             points.push((x, y));
         }
 
@@ -515,11 +610,74 @@ fn read_shape_records(path: &Path) -> Result<Vec<ShapeRecord>, Box<dyn Error>> {
             rings.push(points[start..end].to_vec());
         }
 
-        records.push(ShapeRecord { rings });
-        offset = content_end;
+        Ok(Some(ShapeRecord { rings }))
+    }
+}
+
+fn spill_partition_to_disk(
+    subdistricts: &mut HashMap<(String, String, String), SubdistrictFeature>,
+    partition_paths: &mut Vec<PathBuf>,
+) -> Result<(), Box<dyn Error>> {
+    if subdistricts.is_empty() {
+        return Ok(());
     }
 
-    Ok(records)
+    let partition_path = env::temp_dir().join(format!(
+        "geo_engine_subdistrict_partition_{}_{}.jsonl",
+        std::process::id(),
+        partition_paths.len()
+    ));
+    let file = File::create(&partition_path)?;
+    let mut writer = BufWriter::new(file);
+
+    for ((state, district, subdistrict), feature) in subdistricts.drain() {
+        let row = PartitionRow {
+            state,
+            district,
+            subdistrict,
+            feature,
+        };
+        serde_json::to_writer(&mut writer, &row)?;
+        writer.write_all(b"\n")?;
+    }
+    writer.flush()?;
+
+    partition_paths.push(partition_path);
+    Ok(())
+}
+
+fn load_partition_from_disk(
+    partition_path: &Path,
+    subdistricts: &mut HashMap<(String, String, String), SubdistrictFeature>,
+) -> Result<(), Box<dyn Error>> {
+    let file = File::open(partition_path)?;
+    let reader = BufReader::new(file);
+
+    for line in reader.lines() {
+        let line = line?;
+        if line.trim().is_empty() {
+            continue;
+        }
+
+        let row: PartitionRow = serde_json::from_str(&line)?;
+        let key = (row.state, row.district, row.subdistrict);
+        if let Some(existing) = subdistricts.get_mut(&key) {
+            merge_subdistrict_feature(existing, row.feature);
+        } else {
+            subdistricts.insert(key, row.feature);
+        }
+    }
+
+    let _ = fs::remove_file(partition_path);
+    Ok(())
+}
+
+fn merge_subdistrict_feature(existing: &mut SubdistrictFeature, incoming: SubdistrictFeature) {
+    existing.bbox[0] = existing.bbox[0].min(incoming.bbox[0]);
+    existing.bbox[1] = existing.bbox[1].min(incoming.bbox[1]);
+    existing.bbox[2] = existing.bbox[2].max(incoming.bbox[2]);
+    existing.bbox[3] = existing.bbox[3].max(incoming.bbox[3]);
+    existing.polygons.extend(incoming.polygons);
 }
 
 fn select_outer_rings(rings: Vec<Vec<(f64, f64)>>) -> Vec<Vec<(f64, f64)>> {
@@ -740,13 +898,6 @@ fn read_i32_le(bytes: &[u8], offset: usize) -> Result<i32, io::Error> {
         .get(offset..offset + 4)
         .ok_or_else(|| io::Error::new(io::ErrorKind::UnexpectedEof, "expected i32"))?;
     Ok(i32::from_le_bytes([slice[0], slice[1], slice[2], slice[3]]))
-}
-
-fn read_i32_be(bytes: &[u8], offset: usize) -> Result<i32, io::Error> {
-    let slice = bytes
-        .get(offset..offset + 4)
-        .ok_or_else(|| io::Error::new(io::ErrorKind::UnexpectedEof, "expected big-endian i32"))?;
-    Ok(i32::from_be_bytes([slice[0], slice[1], slice[2], slice[3]]))
 }
 
 fn read_f64_le(bytes: &[u8], offset: usize) -> Result<f64, io::Error> {
