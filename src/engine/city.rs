@@ -118,6 +118,7 @@ pub fn normalize(s: &str) -> String {
 
 /// Insert using reusable buffer (zero allocation per call)
 #[inline]
+#[allow(dead_code)]
 pub fn insert_normalized<K: AsRef<str>>(
     builder: &mut fst::MapBuilder<Vec<u8>>,
     key: K,

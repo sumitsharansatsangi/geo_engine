@@ -1,5 +1,4 @@
-pub mod district_data;
-pub mod engine;
+mod engine;
 
 // Public surface intentionally kept minimal:
 // - init_path
@@ -18,9 +17,6 @@ pub mod engine;
 //     refresh_and_reopen_engine_in_background_with_config,
 // };
 // pub use engine::city::City;
-// pub use district_data::{
-//     DistrictProfile, GeoLanguage, find_district_profile, load_district_profiles,
-// };
 // pub use engine::api::{
 //     AddressDetails, CityMatch, CombinedSearchResult, DistrictDemographics, InitializedGeoEngine,
 //     LookupResult, Region, ReverseGeocodingResult, SubdistrictMatch,
@@ -28,4 +24,8 @@ pub mod engine;
 // };
 // pub use engine::error::GeoEngineError;
 
+pub use engine::api::{
+    CityMatch, CombinedSearchResult, Region, ReverseGeocodingResult, SubdistrictMatch,
+};
 pub use engine::api::{init_path, reverse_geocoding, search};
+pub use engine::error::GeoEngineError;

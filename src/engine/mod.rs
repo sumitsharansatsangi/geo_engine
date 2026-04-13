@@ -1,8 +1,7 @@
-pub mod api;
-pub mod bootstrap;
-pub mod city;
-pub mod error;
-pub mod model;
+pub(crate) mod api;
+mod city;
+pub(crate) mod error;
+mod model;
 
 mod index;
 mod lookup;

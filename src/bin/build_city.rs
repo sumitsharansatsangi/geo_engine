@@ -1,9 +1,12 @@
 use fst::MapBuilder;
-use geo_engine::engine::city::{City, normalize};
 use std::collections::{BTreeMap, HashMap};
 use std::fs::File;
 use std::io::{BufRead, BufReader, Cursor};
 use zip::ZipArchive;
+
+#[path = "../engine/city.rs"]
+mod city;
+use city::{City, normalize};
 
 // ── CityPoint: only used for building city index files ──
 #[derive(rkyv::Archive, rkyv::Serialize, rkyv::Deserialize, Debug, Clone, Copy)]

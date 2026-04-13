@@ -8,7 +8,6 @@ use std::{
 use fst::{IntoStreamer, Map, Streamer};
 use rkyv::{Archived, string::ArchivedString};
 
-use crate::district_data::GeoLanguage;
 use crate::engine::city::{City, normalize};
 use crate::engine::error::GeoEngineError;
 use crate::engine::model::Country;
@@ -18,6 +17,13 @@ use crate::engine::{index::SpatialIndex, lookup::find_country, runtime::GeoEngin
 const SUBDISTRICT_FIELD_SEPARATOR: &str = "||";
 const LANGUAGE_ENTRY_SEPARATOR: &str = "##";
 const LANGUAGE_COMPONENT_SEPARATOR: &str = "~~";
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct GeoLanguage {
+    pub code: String,
+    pub name: String,
+    pub usage_type: String,
+}
 
 /// A geographic region with area code (country/state/district/subdistrict).
 ///
@@ -95,18 +101,6 @@ pub struct ReverseGeocodingResult {
     pub district: Option<Region>,
     pub subdistrict: Option<Region>,
     pub city: CityMatch,
-}
-
-#[derive(Debug, Clone, PartialEq, Eq)]
-pub struct AddressDetails {
-    pub full_address: String,
-    pub country: Region,
-    pub state: Option<Region>,
-    pub district: Option<Region>,
-    pub district_uni_code: Option<String>,
-    pub subdistrict: Option<Region>,
-    pub major_religion: Option<String>,
-    pub languages: Vec<GeoLanguage>,
 }
 
 pub struct InitializedGeoEngine {
@@ -224,46 +218,6 @@ pub fn search(query: &str) -> Result<CombinedSearchResult, GeoEngineError> {
     engine.search_places_by_name(query, None)
 }
 
-/// Direct lookup without using the global initialized engine.
-///
-/// Useful for ad-hoc queries where you don't want to initialize the global engine.
-/// For repeated lookups, prefer `init_path()` + `reverse_geocoding()` for better performance.
-///
-/// # Arguments
-/// * `lat` - Latitude
-/// * `lon` - Longitude
-/// * `country_db_path` - Path to country database
-/// * `subdistrict_db_path` - Optional path to subdistrict database (auto-resolved if None)
-pub fn lookup_with_subdistrict_path(
-    lat: f32,
-    lon: f32,
-    country_db_path: &Path,
-    subdistrict_db_path: Option<&Path>,
-) -> Result<LookupResult, GeoEngineError> {
-    let engine = InitializedGeoEngine::open_lookup_only(country_db_path, subdistrict_db_path)?;
-    engine.lookup(lat, lon)
-}
-
-/// Direct lookup with address details without using the global initialized engine.
-///
-/// Returns formatted address string in addition to hierarchical components.
-/// For repeated lookups, prefer `init_path()` + `reverse_geocoding()` for better performance.
-///
-/// # Arguments
-/// * `lat` - Latitude
-/// * `lon` - Longitude
-/// * `country_db_path` - Path to country database
-/// * `subdistrict_db_path` - Optional path to subdistrict database (auto-resolved if None)
-pub fn lookup_address_details_with_subdistrict_path(
-    lat: f32,
-    lon: f32,
-    country_db_path: &Path,
-    subdistrict_db_path: Option<&Path>,
-) -> Result<AddressDetails, GeoEngineError> {
-    let engine = InitializedGeoEngine::open_lookup_only(country_db_path, subdistrict_db_path)?;
-    engine.lookup_address_details(lat, lon)
-}
-
 impl InitializedGeoEngine {
     pub fn open(
         country_db_path: &Path,
@@ -281,29 +235,6 @@ impl InitializedGeoEngine {
                 subdistrict: subdistrict_engine,
                 subdistrict_db_path: subdistrict_db_path.to_path_buf(),
                 city_index,
-            },
-        })
-    }
-
-    fn open_lookup_only(
-        country_db_path: &Path,
-        subdistrict_db_path: Option<&Path>,
-    ) -> Result<Self, GeoEngineError> {
-        let country_engine = GeoEngine::open(country_db_path)?;
-        let resolved_subdistrict_path =
-            resolve_subdistrict_path(country_db_path, subdistrict_db_path);
-        let subdistrict_engine = if resolved_subdistrict_path.exists() {
-            Some(open_subdistrict_engine(&resolved_subdistrict_path)?)
-        } else {
-            None
-        };
-
-        Ok(Self {
-            engine: EngineBundle {
-                country: country_engine,
-                subdistrict: subdistrict_engine,
-                subdistrict_db_path: resolved_subdistrict_path,
-                city_index: None,
             },
         })
     }
@@ -333,16 +264,55 @@ impl InitializedGeoEngine {
             });
         };
 
-        lookup_india_with_subdistrict_engine(lat, lon, country.region, subdistrict_engine)
-    }
+        let subdistrict_index = SpatialIndex::build(subdistrict_engine.countries());
+        let subdistrict_match_with_center = match find_country(lat, lon, &subdistrict_index) {
+            Ok(feature) => {
+                let region = region_from_archived(&feature.name, &feature.iso2);
+                let center = calculate_polygon_center(&feature.polygons);
+                Some((region, center))
+            }
+            Err(GeoEngineError::CountryNotFound { .. }) => None,
+            Err(other) => return Err(other),
+        };
 
-    pub fn lookup_address_details(
-        &self,
-        lat: f32,
-        lon: f32,
-    ) -> Result<AddressDetails, GeoEngineError> {
-        let result = self.lookup(lat, lon)?;
-        Ok(address_details_from_lookup(result))
+        if let Some((subdistrict_match, (center_lat, center_lon))) =
+            subdistrict_match_with_center.as_ref()
+            && let Some(metadata) = parse_subdistrict_payload(&subdistrict_match.name)
+        {
+            return Ok(LookupResult {
+                country: country.region,
+                state: Some(Region {
+                    name: metadata.state_name,
+                    iso2: metadata.state_code,
+                }),
+                district: Some(Region {
+                    name: metadata.district_name,
+                    iso2: metadata.district_code,
+                }),
+                subdistrict: Some(Region {
+                    name: metadata.subdistrict_name,
+                    iso2: metadata.subdistrict_code,
+                }),
+                demographics: metadata.demographics,
+                latitude: *center_lat,
+                longitude: *center_lon,
+            });
+        }
+
+        let (fallback_lat, fallback_lon) = subdistrict_match_with_center
+            .as_ref()
+            .map(|(_, center)| *center)
+            .unwrap_or((lat, lon));
+
+        Ok(LookupResult {
+            country: country.region,
+            state: None,
+            district: None,
+            subdistrict: subdistrict_match_with_center.map(|(region, _)| region),
+            demographics: None,
+            latitude: fallback_lat,
+            longitude: fallback_lon,
+        })
     }
 
     pub fn reverse_geocoding(&self, lat: f32, lon: f32) -> Result<ReverseGeocodingResult, GeoEngineError> {
@@ -524,89 +494,6 @@ impl InitializedGeoEngine {
     }
 }
 
-fn lookup_india_with_subdistrict_engine(
-    lat: f32,
-    lon: f32,
-    country: Region,
-    subdistrict_engine: &GeoEngine,
-) -> Result<LookupResult, GeoEngineError> {
-    let subdistrict_index = SpatialIndex::build(subdistrict_engine.countries());
-    let subdistrict_match_with_center = match find_country(lat, lon, &subdistrict_index) {
-        Ok(feature) => {
-            let region = region_from_archived(&feature.name, &feature.iso2);
-            let center = calculate_polygon_center(&feature.polygons);
-            Some((region, center))
-        }
-        Err(GeoEngineError::CountryNotFound { .. }) => None,
-        Err(other) => return Err(other),
-    };
-
-    if let Some((subdistrict_match, (center_lat, center_lon))) =
-        subdistrict_match_with_center.as_ref()
-        && let Some(metadata) = parse_subdistrict_payload(&subdistrict_match.name)
-    {
-        return Ok(LookupResult {
-            country,
-            state: Some(Region {
-                name: metadata.state_name,
-                iso2: metadata.state_code,
-            }),
-            district: Some(Region {
-                name: metadata.district_name,
-                iso2: metadata.district_code,
-            }),
-            subdistrict: Some(Region {
-                name: metadata.subdistrict_name,
-                iso2: metadata.subdistrict_code,
-            }),
-            demographics: metadata.demographics,
-            latitude: *center_lat,
-            longitude: *center_lon,
-        });
-    }
-
-    let (fallback_lat, fallback_lon) = subdistrict_match_with_center
-        .as_ref()
-        .map(|(_, center)| *center)
-        .unwrap_or((lat, lon));
-
-    Ok(LookupResult {
-        country,
-        state: None,
-        district: None,
-        subdistrict: subdistrict_match_with_center.map(|(region, _)| region),
-        demographics: None,
-        latitude: fallback_lat,
-        longitude: fallback_lon,
-    })
-}
-
-fn address_details_from_lookup(result: LookupResult) -> AddressDetails {
-    let full_address = format_full_address(
-        result.subdistrict.as_ref(),
-        result.district.as_ref(),
-        result.state.as_ref(),
-        Some(&result.country),
-    );
-
-    AddressDetails {
-        full_address,
-        country: result.country,
-        state: result.state,
-        district: result.district,
-        district_uni_code: result
-            .demographics
-            .as_ref()
-            .map(|d| d.district_uni_code.clone()),
-        subdistrict: result.subdistrict,
-        major_religion: result
-            .demographics
-            .as_ref()
-            .map(|d| d.major_religion.clone()),
-        languages: result.demographics.map(|d| d.languages).unwrap_or_default(),
-    }
-}
-
 fn nearest_city_from_map(
     lat: f32,
     lon: f32,
@@ -696,16 +583,6 @@ fn open_subdistrict_engine(subdistrict_db_path: &Path) -> Result<GeoEngine, GeoE
         }
         other => other,
     })
-}
-
-fn resolve_subdistrict_path(country_db_path: &Path, subdistrict_db_path: Option<&Path>) -> PathBuf {
-    match subdistrict_db_path {
-        Some(path) => path.to_path_buf(),
-        None => country_db_path
-            .parent()
-            .unwrap_or_else(|| Path::new("."))
-            .join("subdistrict.db"),
-    }
 }
 
 struct CountryLookup {
@@ -864,30 +741,6 @@ fn load_cities_by_id(path: &Path) -> Result<HashMap<u32, City>, GeoEngineError> 
     }
 
     Ok(cities)
-}
-
-fn format_full_address(
-    subdistrict: Option<&Region>,
-    district: Option<&Region>,
-    state: Option<&Region>,
-    country: Option<&Region>,
-) -> String {
-    let mut parts = Vec::new();
-
-    if let Some(region) = subdistrict {
-        parts.push(region.name.as_str());
-    }
-    if let Some(region) = district {
-        parts.push(region.name.as_str());
-    }
-    if let Some(region) = state {
-        parts.push(region.name.as_str());
-    }
-    if let Some(region) = country {
-        parts.push(region.name.as_str());
-    }
-
-    parts.join(", ")
 }
 
 fn calculate_polygon_center(polygons: &Archived<Vec<Vec<(f32, f32)>>>) -> (f32, f32) {

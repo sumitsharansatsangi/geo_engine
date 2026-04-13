@@ -3,7 +3,7 @@ use std::fs;
 use std::io;
 use std::path::Path;
 
-// ── Types ─────────────────────────────────────────────────────────────────────
+// -- Types ---------------------------------------------------------------
 
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct GeoLanguage {
@@ -20,7 +20,7 @@ pub struct DistrictProfile {
     pub languages: Vec<GeoLanguage>,
 }
 
-// ── Public API ────────────────────────────────────────────────────────────────
+// -- Public API ----------------------------------------------------------
 
 pub fn load_district_profiles(path: &Path) -> io::Result<HashMap<String, DistrictProfile>> {
     let raw = fs::read_to_string(path)?;
@@ -39,21 +39,39 @@ pub fn load_district_profiles(path: &Path) -> io::Result<HashMap<String, Distric
 
         let mut parts = line.splitn(6, ',');
 
-        let lang_code = match parts.next() { Some(v) => v.trim(), None => continue };
-        let lang_name = match parts.next() { Some(v) => v.trim(), None => continue };
-        let district_code = match parts.next() { Some(v) => v.trim(), None => continue };
-        let district_name = match parts.next() { Some(v) => v.trim(), None => continue };
-        let usage_type = match parts.next() { Some(v) => v.trim(), None => continue };
-        let major_religion = match parts.next() { Some(v) => v.trim(), None => continue };
+        let lang_code = match parts.next() {
+            Some(v) => v.trim(),
+            None => continue,
+        };
+        let lang_name = match parts.next() {
+            Some(v) => v.trim(),
+            None => continue,
+        };
+        let district_code = match parts.next() {
+            Some(v) => v.trim(),
+            None => continue,
+        };
+        let district_name = match parts.next() {
+            Some(v) => v.trim(),
+            None => continue,
+        };
+        let usage_type = match parts.next() {
+            Some(v) => v.trim(),
+            None => continue,
+        };
+        let major_religion = match parts.next() {
+            Some(v) => v.trim(),
+            None => continue,
+        };
 
-        let entry = map.entry(district_code.to_owned()).or_insert_with(|| {
-            DistrictProfile {
+        let entry = map
+            .entry(district_code.to_owned())
+            .or_insert_with(|| DistrictProfile {
                 district_code: district_code.to_owned(),
                 district_name: district_name.to_owned(),
                 major_religion: major_religion.to_owned(),
                 languages: Vec::new(),
-            }
-        });
+            });
 
         // Only fill religion once if empty
         if entry.major_religion.is_empty() && !major_religion.is_empty() {
@@ -88,15 +106,17 @@ pub fn find_district_profile<'a>(
         return Some(p);
     }
 
-    profiles.values().find(|p| eq_ignore_ascii_trim(&p.district_name, district_name))
+    profiles
+        .values()
+        .find(|p| eq_ignore_ascii_trim(&p.district_name, district_name))
 }
 
-// ── Constants ────────────────────────────────────────────────────────────────
+// -- Constants -----------------------------------------------------------
 
 const CSV_HEADER: &str =
     "lang_code,language_name,district_uni_code,district_name,usage_type,major_religion";
 
-// ── Helpers ──────────────────────────────────────────────────────────────────
+// -- Helpers -------------------------------------------------------------
 
 #[inline]
 fn usage_rank(value: &str) -> u8 {

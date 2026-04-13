@@ -1,11 +1,14 @@
 use fst::{IntoStreamer, Map, Streamer};
-use geo_engine::engine::city::{City, normalize};
 use rkyv::Archived;
 use std::collections::{BTreeSet, HashMap};
 use std::env;
 use std::fs;
 use std::path::Path;
 use std::process;
+
+#[path = "../engine/city.rs"]
+mod city;
+use city::{City, normalize};
 
 const DEFAULT_FST_PATH: &str = "cities.fst";
 const DEFAULT_RKYV_PATH: &str = "cities.rkyv";

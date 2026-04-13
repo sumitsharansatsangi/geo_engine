@@ -2,15 +2,17 @@ fn main() {
     let lat = 25.25;
     let lon = 87.04;
 
-    let engine = match geo_engine::engine::bootstrap::init_geo_engine() {
-        Ok(engine) => engine,
-        Err(err) => {
-            eprintln!("Initialization failed: {}", err);
-            std::process::exit(1);
-        }
-    };
+    let geo_db = std::path::Path::new("geo.db");
+    let subdistrict_db = std::path::Path::new("subdistrict.db");
+    let city_fst = std::path::Path::new("cities-0.0.1.fst");
+    let city_rkyv = std::path::Path::new("cities-0.0.1.rkyv");
 
-    match engine.lookup(lat, lon) {
+    if let Err(err) = geo_engine::init_path(geo_db, subdistrict_db, city_fst, city_rkyv) {
+        eprintln!("Initialization failed: {}", err);
+        std::process::exit(1);
+    }
+
+    match geo_engine::reverse_geocoding(lat, lon) {
         Ok(result) => {
             println!("Country: {} ({})", result.country.name, result.country.iso2);
             if let Some(state) = result.state {
@@ -22,10 +24,13 @@ fn main() {
             if let Some(subdistrict) = result.subdistrict {
                 println!("Subdistrict: {} ({})", subdistrict.name, subdistrict.iso2);
             }
-            println!("Center: {}, {}", result.latitude, result.longitude);
+            println!(
+                "Nearest City: {} ({})",
+                result.city.name, result.city.country_code
+            );
         }
         Err(err) => {
-            eprintln!("Lookup failed: {}", err);
+            eprintln!("Reverse geocoding failed: {}", err);
             std::process::exit(1);
         }
     }
