@@ -1,10 +1,9 @@
 use std::path::PathBuf;
 
 use geo_engine::{
-    GeoEngineError, InitializedGeoEngine, find_district_profile, load_district_profiles,
-    lookup_address_details_with_subdistrict_path, lookup_with_subdistrict_path,
-    reverse_geocoding_with_paths, search_by_name, search_cities_by_name, search_places_by_name,
-    search_subdistricts_by_name,
+    GeoEngineError, InitializedGeoEngine, find_district_profile, init_path, load_district_profiles,
+    lookup_address_details_with_subdistrict_path, lookup_with_subdistrict_path, reverse_geocoding,
+    search,
 };
 
 fn db_paths() -> (PathBuf, PathBuf) {
@@ -114,13 +113,16 @@ fn lookup_with_subdistrict_path_returns_india_admin_hierarchy() {
 
 #[test]
 fn search_subdistricts_by_name_returns_matching_hierarchy() {
-    let (_, subdistrict_db) = db_paths();
+    let (country_db, subdistrict_db) = db_paths();
+    let (city_fst, city_rkyv) = city_asset_paths();
 
-    let matches = search_subdistricts_by_name("sabour", &subdistrict_db)
-        .expect("search should succeed for known subdistrict");
+    init_path(&country_db, &subdistrict_db, &city_fst, &city_rkyv)
+        .expect("init_path should succeed");
+
+    let result = search("sabour").expect("search should succeed for known subdistrict");
 
     assert!(
-        matches.iter().any(|matched| {
+        result.subdistricts.iter().any(|matched| {
             matched.subdistrict.name == "Sabour"
                 && matched.district.name == "Bhagalpur"
                 && matched.state.name == "Bihar"
@@ -131,14 +133,21 @@ fn search_subdistricts_by_name_returns_matching_hierarchy() {
 
 #[test]
 fn search_cities_by_name_returns_matches() {
+    let (country_db, subdistrict_db) = db_paths();
     let (city_fst, city_rkyv) = city_asset_paths();
 
-    let matches = search_cities_by_name("london", &city_fst, &city_rkyv, 10)
-        .expect("city search should succeed for known city");
+    init_path(&country_db, &subdistrict_db, &city_fst, &city_rkyv)
+        .expect("init_path should succeed");
 
-    assert!(!matches.is_empty(), "expected at least one city match");
+    let result = search("london").expect("city search should succeed for known city");
+
     assert!(
-        matches
+        !result.cities.is_empty(),
+        "expected at least one city match"
+    );
+    assert!(
+        result
+            .cities
             .iter()
             .any(|matched| matched.name.to_lowercase().contains("london")),
         "expected a city containing 'london' in search results"
@@ -147,11 +156,13 @@ fn search_cities_by_name_returns_matches() {
 
 #[test]
 fn search_places_by_name_combines_city_and_subdistrict_results() {
-    let (_, subdistrict_db) = db_paths();
+    let (country_db, subdistrict_db) = db_paths();
     let (city_fst, city_rkyv) = city_asset_paths();
 
-    let result = search_places_by_name("sabour", &subdistrict_db, &city_fst, &city_rkyv, 10)
-        .expect("combined search should succeed");
+    init_path(&country_db, &subdistrict_db, &city_fst, &city_rkyv)
+        .expect("init_path should succeed");
+
+    let result = search("sabour").expect("combined search should succeed");
 
     // Verify subdistricts results
     assert!(
@@ -174,13 +185,16 @@ fn search_places_by_name_combines_city_and_subdistrict_results() {
 
 #[test]
 fn reverse_geocoding_returns_country_and_city_for_non_india_point() {
-    let (country_db, _) = db_paths();
+    let (country_db, subdistrict_db) = db_paths();
     let (city_fst, city_rkyv) = city_asset_paths();
 
     // Keep read of fst path in scope to validate assets are present for search APIs too.
     assert!(city_fst.exists(), "city fst asset should exist");
 
-    let result = reverse_geocoding_with_paths(51.5074, -0.1278, &country_db, None, &city_rkyv)
+    init_path(&country_db, &subdistrict_db, &city_fst, &city_rkyv)
+        .expect("init_path should succeed");
+
+    let result = reverse_geocoding(51.5074, -0.1278)
         .expect("reverse geocoding should succeed for non-India point");
 
     assert_eq!(result.country.name, "United Kingdom");
@@ -193,11 +207,13 @@ fn reverse_geocoding_returns_country_and_city_for_non_india_point() {
 #[test]
 fn reverse_geocoding_returns_subdistrict_and_city_for_india_point() {
     let (country_db, subdistrict_db) = db_paths();
-    let (_, city_rkyv) = city_asset_paths();
+    let (city_fst, city_rkyv) = city_asset_paths();
+
+    init_path(&country_db, &subdistrict_db, &city_fst, &city_rkyv)
+        .expect("init_path should succeed");
 
     let result =
-        reverse_geocoding_with_paths(25.25, 87.04, &country_db, Some(&subdistrict_db), &city_rkyv)
-            .expect("reverse geocoding should succeed for India point");
+        reverse_geocoding(25.25, 87.04).expect("reverse geocoding should succeed for India point");
 
     assert_eq!(result.country.iso2, "IN");
     assert_eq!(
@@ -212,11 +228,13 @@ fn reverse_geocoding_returns_subdistrict_and_city_for_india_point() {
 
 #[test]
 fn search_by_name_combines_city_and_subdistrict_without_city_limit() {
-    let (_, subdistrict_db) = db_paths();
+    let (country_db, subdistrict_db) = db_paths();
     let (city_fst, city_rkyv) = city_asset_paths();
 
-    let result = search_by_name("london", &subdistrict_db, &city_fst, &city_rkyv)
-        .expect("unified search should succeed");
+    init_path(&country_db, &subdistrict_db, &city_fst, &city_rkyv)
+        .expect("init_path should succeed");
+
+    let result = search("london").expect("unified search should succeed");
 
     assert!(
         result
@@ -310,7 +328,9 @@ fn lookup_address_details_returns_country_only_for_non_india_point() {
 #[test]
 fn initialized_engine_can_be_reused_for_multiple_lookups() {
     let (country_db, subdistrict_db) = db_paths();
-    let engine = InitializedGeoEngine::open(&country_db, Some(&subdistrict_db))
+    let (city_fst, city_rkyv) = city_asset_paths();
+
+    let engine = InitializedGeoEngine::open(&country_db, &subdistrict_db, &city_fst, &city_rkyv)
         .expect("engine should initialize once");
 
     let india = engine

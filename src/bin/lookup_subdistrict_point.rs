@@ -48,6 +48,9 @@ fn main() {
 }
 
 const DEFAULT_SUBDISTRICT_DB: &str = "subdistrict.db";
+const DEFAULT_GEO_DB: &str = "geo.db";
+const DEFAULT_CITY_FST: &str = "cities-0.0.1.fst";
+const DEFAULT_CITY_RKYV: &str = "cities-0.0.1.rkyv";
 const DEFAULT_DATA_CSV: &str = "data.csv";
 
 fn is_search_flag(value: &str) -> bool {
@@ -55,14 +58,23 @@ fn is_search_flag(value: &str) -> bool {
 }
 
 fn run_search(query: &str, subdistrict_db: &Path) {
-    match geo_engine::search_subdistricts_by_name(query, subdistrict_db) {
-        Ok(matches) => {
-            if matches.is_empty() {
+    let geo_db = Path::new(DEFAULT_GEO_DB);
+    let city_fst = Path::new(DEFAULT_CITY_FST);
+    let city_rkyv = Path::new(DEFAULT_CITY_RKYV);
+
+    if let Err(err) = geo_engine::init_path(geo_db, subdistrict_db, city_fst, city_rkyv) {
+        eprintln!("Init failed: {err}");
+        process::exit(1);
+    }
+
+    match geo_engine::search(query) {
+        Ok(results) => {
+            if results.subdistricts.is_empty() {
                 eprintln!("No subdistrict found for query: {query}");
                 process::exit(1);
             }
 
-            for matched in matches {
+            for matched in results.subdistricts {
                 println!(
                     "{}, {}, {}",
                     matched.subdistrict.name, matched.district.name, matched.state.name
