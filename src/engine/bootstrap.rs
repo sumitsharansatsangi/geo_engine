@@ -257,7 +257,12 @@ where
     let config_owned = config.clone();
     let _ = thread::spawn(move || {
         let result = init_all_assets_with_config(&config_owned).and_then(|paths| {
-            InitializedGeoEngine::open(&paths.geo_db_path, Some(&paths.subdistrict_db_path))
+            InitializedGeoEngine::open(
+                &paths.geo_db_path,
+                &paths.subdistrict_db_path,
+                &paths.city_fst_path,
+                &paths.city_rkyv_path,
+            )
         });
         on_complete(result);
     });
@@ -286,22 +291,13 @@ pub fn init_geo_engine_with_config(
         }
     })?;
 
-    let geo_db_path = ensure_asset(
-        &config.asset_dir,
-        GEO_DB_NAME,
-        GEO_DB_URL,
-        GEO_DB_SHA256,
-        config.verify_checksum,
-    )?;
-    let subdistrict_db_path = ensure_asset(
-        &config.asset_dir,
-        SUBDISTRICT_DB_NAME,
-        SUBDISTRICT_DB_URL,
-        SUBDISTRICT_DB_SHA256,
-        config.verify_checksum,
-    )?;
-
-    InitializedGeoEngine::open(&geo_db_path, Some(&subdistrict_db_path))
+    let paths = init_all_assets_with_config(config)?;
+    InitializedGeoEngine::open(
+        &paths.geo_db_path,
+        &paths.subdistrict_db_path,
+        &paths.city_fst_path,
+        &paths.city_rkyv_path,
+    )
 }
 
 /// Initialize city assets with default configuration (uses cache directory, checksums disabled)

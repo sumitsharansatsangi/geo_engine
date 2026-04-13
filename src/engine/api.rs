@@ -87,62 +87,90 @@ pub struct AddressDetails {
 }
 
 pub struct InitializedGeoEngine {
-    country_engine: GeoEngine,
-    subdistrict_engine: Option<GeoEngine>,
+    engine: EngineBundle,
+}
+
+struct EngineBundle {
+    country: GeoEngine,
+    subdistrict: Option<GeoEngine>,
     subdistrict_db_path: PathBuf,
+    city_index: Option<CityIndex>,
+}
+
+struct CityIndex {
+    fst: Option<Map<Vec<u8>>>,
+    cities_by_id: HashMap<u32, City>,
+    city_rkyv_path: PathBuf,
 }
 
 struct InitializedPaths {
     country_db_path: PathBuf,
-    subdistrict_db_path: Option<PathBuf>,
+    subdistrict_db_path: PathBuf,
     city_fst_path: PathBuf,
     city_rkyv_path: PathBuf,
 }
 
 static PATHS: OnceLock<InitializedPaths> = OnceLock::new();
+static ENGINE: OnceLock<Result<InitializedGeoEngine, String>> = OnceLock::new();
 
 pub fn init_path(
     country_db_path: &Path,
-    subdistrict_db_path: Option<&Path>,
+    subdistrict_db_path: &Path,
     city_fst_path: &Path,
     city_rkyv_path: &Path,
 ) -> Result<(), GeoEngineError> {
-    PATHS
-        .set(InitializedPaths {
-            country_db_path: country_db_path.to_path_buf(),
-            subdistrict_db_path: subdistrict_db_path.map(Path::to_path_buf),
-            city_fst_path: city_fst_path.to_path_buf(),
-            city_rkyv_path: city_rkyv_path.to_path_buf(),
-        })
-        .map_err(|_| GeoEngineError::PathsAlreadyInitialized)
+    let initialized_paths = PATHS.get_or_init(|| InitializedPaths {
+        country_db_path: country_db_path.to_path_buf(),
+        subdistrict_db_path: subdistrict_db_path.to_path_buf(),
+        city_fst_path: city_fst_path.to_path_buf(),
+        city_rkyv_path: city_rkyv_path.to_path_buf(),
+    });
+
+    let same_paths = initialized_paths.country_db_path == country_db_path
+        && initialized_paths.subdistrict_db_path == subdistrict_db_path
+        && initialized_paths.city_fst_path == city_fst_path
+        && initialized_paths.city_rkyv_path == city_rkyv_path;
+
+    if !same_paths {
+        return Err(GeoEngineError::PathsAlreadyInitialized);
+    }
+
+    let _ = get_initialized_engine()?;
+    Ok(())
 }
 
 fn get_paths() -> Result<&'static InitializedPaths, GeoEngineError> {
     PATHS.get().ok_or(GeoEngineError::PathsNotInitialized)
 }
 
-pub fn reverse_geocoding(lat: f32, lon: f32) -> Result<ReverseGeocodingResult, GeoEngineError> {
+fn get_initialized_engine() -> Result<&'static InitializedGeoEngine, GeoEngineError> {
     let paths = get_paths()?;
-    reverse_geocoding_with_paths(
-        lat,
-        lon,
-        &paths.country_db_path,
-        paths.subdistrict_db_path.as_deref(),
-        &paths.city_rkyv_path,
-    )
+    let result = ENGINE.get_or_init(|| {
+        InitializedGeoEngine::open(
+            &paths.country_db_path,
+            paths.subdistrict_db_path.as_path(),
+            paths.city_fst_path.as_path(),
+            paths.city_rkyv_path.as_path(),
+        )
+        .map_err(|err| err.to_string())
+    });
+
+    match result {
+        Ok(engine) => Ok(engine),
+        Err(message) => Err(GeoEngineError::EngineInitializationFailed {
+            message: message.clone(),
+        }),
+    }
+}
+
+pub fn reverse_geocoding(lat: f32, lon: f32) -> Result<ReverseGeocodingResult, GeoEngineError> {
+    let engine = get_initialized_engine()?;
+    engine.reverse_geocoding(lat, lon)
 }
 
 pub fn search(query: &str) -> Result<CombinedSearchResult, GeoEngineError> {
-    let paths = get_paths()?;
-    search_by_name(
-        query,
-        paths
-            .subdistrict_db_path
-            .as_deref()
-            .ok_or(GeoEngineError::SubdistrictPathNotInitialized)?,
-        &paths.city_fst_path,
-        &paths.city_rkyv_path,
-    )
+    let engine = get_initialized_engine()?;
+    engine.search_places_by_name(query, None)
 }
 
 pub fn lookup_with_subdistrict_path(
@@ -151,7 +179,7 @@ pub fn lookup_with_subdistrict_path(
     country_db_path: &Path,
     subdistrict_db_path: Option<&Path>,
 ) -> Result<LookupResult, GeoEngineError> {
-    let engine = InitializedGeoEngine::open(country_db_path, subdistrict_db_path)?;
+    let engine = InitializedGeoEngine::open_lookup_only(country_db_path, subdistrict_db_path)?;
     engine.lookup(lat, lon)
 }
 
@@ -161,19 +189,39 @@ pub fn lookup_address_details_with_subdistrict_path(
     country_db_path: &Path,
     subdistrict_db_path: Option<&Path>,
 ) -> Result<AddressDetails, GeoEngineError> {
-    let engine = InitializedGeoEngine::open(country_db_path, subdistrict_db_path)?;
+    let engine = InitializedGeoEngine::open_lookup_only(country_db_path, subdistrict_db_path)?;
     engine.lookup_address_details(lat, lon)
 }
+
 
 pub fn reverse_geocoding_with_paths(
     lat: f32,
     lon: f32,
     country_db_path: &Path,
-    subdistrict_db_path: Option<&Path>,
+    subdistrict_db_path: &Path,
     city_rkyv_path: &Path,
 ) -> Result<ReverseGeocodingResult, GeoEngineError> {
-    let engine = InitializedGeoEngine::open(country_db_path, subdistrict_db_path)?;
-    engine.reverse_geocoding(lat, lon, city_rkyv_path)
+    let engine = InitializedGeoEngine::open_lookup_only(country_db_path, Some(subdistrict_db_path))?;
+    let city = nearest_city(city_rkyv_path, lat, lon)?;
+    let lookup = engine.lookup(lat, lon)?;
+
+    if lookup.state.is_none() && lookup.district.is_none() {
+        return Ok(ReverseGeocodingResult {
+            country: lookup.country,
+            state: None,
+            district: None,
+            subdistrict: None,
+            city,
+        });
+    }
+
+    Ok(ReverseGeocodingResult {
+        country: lookup.country,
+        state: lookup.state,
+        district: lookup.district,
+        subdistrict: lookup.subdistrict,
+        city,
+    })
 }
 
 pub fn search_subdistricts_by_name(
@@ -228,8 +276,6 @@ pub fn search_subdistricts_by_name(
 
     Ok(matches)
 }
-
-
 
 pub fn search_cities_by_name(
     query: &str,
@@ -344,6 +390,26 @@ pub fn search_places_by_name(
 impl InitializedGeoEngine {
     pub fn open(
         country_db_path: &Path,
+        subdistrict_db_path: &Path,
+        city_fst_path: &Path,
+        city_rkyv_path: &Path,
+    ) -> Result<Self, GeoEngineError> {
+        let country_engine = GeoEngine::open(country_db_path)?;
+        let subdistrict_engine = Some(open_subdistrict_engine(subdistrict_db_path)?);
+        let city_index = load_city_index(Some(city_fst_path), Some(city_rkyv_path))?;
+
+        Ok(Self {
+            engine: EngineBundle {
+                country: country_engine,
+                subdistrict: subdistrict_engine,
+                subdistrict_db_path: subdistrict_db_path.to_path_buf(),
+                city_index,
+            },
+        })
+    }
+
+    fn open_lookup_only(
+        country_db_path: &Path,
         subdistrict_db_path: Option<&Path>,
     ) -> Result<Self, GeoEngineError> {
         let country_engine = GeoEngine::open(country_db_path)?;
@@ -356,14 +422,17 @@ impl InitializedGeoEngine {
         };
 
         Ok(Self {
-            country_engine,
-            subdistrict_engine,
-            subdistrict_db_path: resolved_subdistrict_path,
+            engine: EngineBundle {
+                country: country_engine,
+                subdistrict: subdistrict_engine,
+                subdistrict_db_path: resolved_subdistrict_path,
+                city_index: None,
+            },
         })
     }
 
     pub fn lookup(&self, lat: f32, lon: f32) -> Result<LookupResult, GeoEngineError> {
-        let country = lookup_country(lat, lon, &self.country_engine)?;
+        let country = lookup_country(lat, lon, &self.engine.country)?;
 
         if !country.is_india {
             return Ok(LookupResult {
@@ -377,9 +446,9 @@ impl InitializedGeoEngine {
             });
         }
 
-        let Some(subdistrict_engine) = self.subdistrict_engine.as_ref() else {
+        let Some(subdistrict_engine) = self.engine.subdistrict.as_ref() else {
             return Err(GeoEngineError::DistrictDatabaseUnavailable {
-                path: self.subdistrict_db_path.clone(),
+                path: self.engine.subdistrict_db_path.clone(),
                 source: std::io::Error::new(
                     std::io::ErrorKind::NotFound,
                     "subdistrict database not initialized",
@@ -399,14 +468,9 @@ impl InitializedGeoEngine {
         Ok(address_details_from_lookup(result))
     }
 
-    pub fn reverse_geocoding(
-        &self,
-        lat: f32,
-        lon: f32,
-        city_rkyv_path: &Path,
-    ) -> Result<ReverseGeocodingResult, GeoEngineError> {
+    pub fn reverse_geocoding(&self, lat: f32, lon: f32) -> Result<ReverseGeocodingResult, GeoEngineError> {
         let lookup = self.lookup(lat, lon)?;
-        let city = nearest_city(lat, lon, city_rkyv_path)?;
+        let city = self.nearest_city(lat, lon)?;
 
         if lookup.state.is_none() && lookup.district.is_none() {
             return Ok(ReverseGeocodingResult {
@@ -425,6 +489,161 @@ impl InitializedGeoEngine {
             subdistrict: lookup.subdistrict,
             city,
         })
+    }
+
+    pub fn search_places_by_name(
+        &self,
+        query: &str,
+        city_limit: Option<usize>,
+    ) -> Result<CombinedSearchResult, GeoEngineError> {
+        let subdistricts = self.search_subdistricts_by_name(query)?;
+        let cities = self.search_cities_by_name(query, city_limit)?;
+
+        Ok(CombinedSearchResult {
+            cities,
+            subdistricts,
+        })
+    }
+
+    fn search_subdistricts_by_name(
+        &self,
+        query: &str,
+    ) -> Result<Vec<SubdistrictMatch>, GeoEngineError> {
+        let normalized_query = query.trim();
+        if normalized_query.is_empty() {
+            return Ok(Vec::new());
+        }
+
+        let Some(engine) = self.engine.subdistrict.as_ref() else {
+            return Err(GeoEngineError::DistrictDatabaseUnavailable {
+                path: self.engine.subdistrict_db_path.clone(),
+                source: std::io::Error::new(
+                    std::io::ErrorKind::NotFound,
+                    "subdistrict database not initialized",
+                ),
+            });
+        };
+
+        let query_lower = normalized_query.to_lowercase();
+        let mut matches = Vec::new();
+
+        for feature in engine.countries().iter() {
+            let Some(metadata) = parse_subdistrict_payload(feature.name.as_str()) else {
+                continue;
+            };
+
+            if !metadata
+                .subdistrict_name
+                .to_lowercase()
+                .contains(&query_lower)
+            {
+                continue;
+            }
+
+            matches.push(SubdistrictMatch {
+                subdistrict: Region {
+                    name: metadata.subdistrict_name,
+                    iso2: metadata.subdistrict_code,
+                },
+                district: Region {
+                    name: metadata.district_name,
+                    iso2: metadata.district_code,
+                },
+                state: Region {
+                    name: metadata.state_name,
+                    iso2: metadata.state_code,
+                },
+            });
+        }
+
+        matches.sort_by(|left, right| {
+            left.subdistrict
+                .name
+                .cmp(&right.subdistrict.name)
+                .then_with(|| left.district.name.cmp(&right.district.name))
+                .then_with(|| left.state.name.cmp(&right.state.name))
+        });
+
+        Ok(matches)
+    }
+
+    fn search_cities_by_name(
+        &self,
+        query: &str,
+        limit: Option<usize>,
+    ) -> Result<Vec<CityMatch>, GeoEngineError> {
+        let normalized = normalize(query.trim());
+        if normalized.is_empty() {
+            return Ok(Vec::new());
+        }
+
+        let Some(city_index) = self.engine.city_index.as_ref() else {
+            return Ok(Vec::new());
+        };
+
+        let Some(fst) = city_index.fst.as_ref() else {
+            return Ok(Vec::new());
+        };
+
+        let prefix = format!("{}|", normalized);
+        let upper = format!("{}\u{10FFFF}", prefix);
+        let mut stream = fst
+            .range()
+            .ge(prefix.as_str())
+            .lt(upper.as_str())
+            .into_stream();
+
+        let max_results = limit.map(|value| value.max(1));
+        let mut matched_ids: BTreeSet<u32> = BTreeSet::new();
+        while let Some((_key, value)) = stream.next() {
+            matched_ids.insert(value as u32);
+            if let Some(max_results) = max_results
+                && matched_ids.len() >= max_results
+            {
+                break;
+            }
+        }
+
+        let mut matches: Vec<CityMatch> = matched_ids
+            .into_iter()
+            .filter_map(|geoname_id| {
+                city_index.cities_by_id.get(&geoname_id).map(|city| CityMatch {
+                    geoname_id: city.geoname_id,
+                    name: city.name.clone(),
+                    ascii: city.ascii.clone(),
+                    country_code: city.country_code.clone(),
+                    admin1_name: city.admin1_name.clone(),
+                    admin1_code: city.admin1_code.clone(),
+                    admin2_name: city.admin2_name.clone(),
+                    admin2_code: city.admin2_code.clone(),
+                    latitude: city.lat,
+                    longitude: city.lon,
+                })
+            })
+            .collect();
+
+        matches.sort_by(|left, right| {
+            left.name
+                .cmp(&right.name)
+                .then_with(|| left.country_code.cmp(&right.country_code))
+                .then_with(|| left.geoname_id.cmp(&right.geoname_id))
+        });
+
+        Ok(matches)
+    }
+
+    fn nearest_city(&self, lat: f32, lon: f32) -> Result<CityMatch, GeoEngineError> {
+        let Some(city_index) = self.engine.city_index.as_ref() else {
+            return Err(GeoEngineError::DatabaseMap {
+                path: PathBuf::from("city.rkyv"),
+                source: std::io::Error::new(
+                    std::io::ErrorKind::NotFound,
+                    "city dataset not initialized",
+                ),
+            });
+        };
+
+        nearest_city_from_map(lat, lon, &city_index.cities_by_id, &city_index.city_rkyv_path)
     }
 }
 
@@ -511,8 +730,12 @@ fn address_details_from_lookup(result: LookupResult) -> AddressDetails {
     }
 }
 
-fn nearest_city(lat: f32, lon: f32, city_rkyv_path: &Path) -> Result<CityMatch, GeoEngineError> {
-    let cities_by_id = load_cities_by_id(city_rkyv_path)?;
+fn nearest_city_from_map(
+    lat: f32,
+    lon: f32,
+    cities_by_id: &HashMap<u32, City>,
+    city_rkyv_path: &Path,
+) -> Result<CityMatch, GeoEngineError> {
     let nearest = cities_by_id
         .values()
         .min_by(|left, right| {
@@ -542,6 +765,40 @@ fn nearest_city(lat: f32, lon: f32, city_rkyv_path: &Path) -> Result<CityMatch, 
         latitude: nearest.lat,
         longitude: nearest.lon,
     })
+}
+
+fn nearest_city(city_rkyv_path: &Path, lat: f32, lon: f32) -> Result<CityMatch, GeoEngineError> {
+    let cities_by_id = load_cities_by_id(city_rkyv_path)?;
+    nearest_city_from_map(lat, lon, &cities_by_id, city_rkyv_path)
+}
+
+fn load_city_index(
+    city_fst_path: Option<&Path>,
+    city_rkyv_path: Option<&Path>,
+) -> Result<Option<CityIndex>, GeoEngineError> {
+    let Some(city_rkyv_path) = city_rkyv_path else {
+        return Ok(None);
+    };
+
+    let cities_by_id = load_cities_by_id(city_rkyv_path)?;
+    let fst = if let Some(city_fst_path) = city_fst_path {
+        let fst_bytes = fs::read(city_fst_path).map_err(|source| GeoEngineError::DatabaseOpen {
+            path: city_fst_path.to_path_buf(),
+            source,
+        })?;
+        Some(Map::new(fst_bytes).map_err(|err| GeoEngineError::DatabaseMap {
+            path: city_fst_path.to_path_buf(),
+            source: std::io::Error::other(err.to_string()),
+        })?)
+    } else {
+        None
+    };
+
+    Ok(Some(CityIndex {
+        fst,
+        cities_by_id,
+        city_rkyv_path: city_rkyv_path.to_path_buf(),
+    }))
 }
 
 fn haversine_km(lat1: f32, lon1: f32, lat2: f32, lon2: f32) -> f32 {

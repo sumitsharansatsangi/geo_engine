@@ -60,6 +60,9 @@ pub enum GeoEngineError {
     PathsNotInitialized,
     PathsAlreadyInitialized,
     SubdistrictPathNotInitialized,
+    EngineInitializationFailed {
+        message: String,
+    },
 }
 
 impl fmt::Display for GeoEngineError {
@@ -126,35 +129,35 @@ impl fmt::Display for GeoEngineError {
                 write!(
                     f,
                     "failed to fetch latest release metadata from '{}': {}",
-                    repo,
-                    source
+                    repo, source
                 )
             }
             Self::ReleaseMetadataParse { repo, source } => {
                 write!(
                     f,
                     "failed to parse latest release metadata from '{}': {}",
-                    repo,
-                    source
+                    repo, source
                 )
             }
             Self::ReleaseAssetMissing { repo, asset } => {
                 write!(
                     f,
                     "release asset '{}' was not found in latest release for '{}'",
-                    asset,
-                    repo
+                    asset, repo
                 )
             }
             Self::ReleaseDownloadFailed { asset, source } => {
                 write!(
                     f,
                     "failed to download release asset '{}': {}",
-                    asset,
-                    source
+                    asset, source
                 )
             }
-            Self::ReleaseChecksumMismatch { path, expected, actual } => {
+            Self::ReleaseChecksumMismatch {
+                path,
+                expected,
+                actual,
+            } => {
                 write!(
                     f,
                     "checksum mismatch for '{}': expected {}, got {}",
@@ -164,13 +167,19 @@ impl fmt::Display for GeoEngineError {
                 )
             }
             Self::PathsNotInitialized => {
-                write!(f, "path configuration is not initialized; call init_path first")
+                write!(
+                    f,
+                    "path configuration is not initialized; call init_path first"
+                )
             }
             Self::PathsAlreadyInitialized => {
                 write!(f, "path configuration has already been initialized")
             }
             Self::SubdistrictPathNotInitialized => {
                 write!(f, "subdistrict path is required but was not initialized")
+            }
+            Self::EngineInitializationFailed { message } => {
+                write!(f, "engine initialization failed: {}", message)
             }
         }
     }
@@ -194,7 +203,8 @@ impl Error for GeoEngineError {
             | Self::ReleaseChecksumMismatch { .. }
             | Self::PathsNotInitialized
             | Self::PathsAlreadyInitialized
-            | Self::SubdistrictPathNotInitialized => None,
+            | Self::SubdistrictPathNotInitialized
+            | Self::EngineInitializationFailed { .. } => None,
         }
     }
 }
