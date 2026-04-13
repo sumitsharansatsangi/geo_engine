@@ -44,13 +44,6 @@ pub struct City {
     pub lon: f32,
 }
 
-#[derive(rkyv::Archive, rkyv::Serialize, rkyv::Deserialize, Debug, Clone, Copy)]
-pub struct CityPoint {
-    pub id: u32,
-    pub lat: f32,
-    pub lon: f32,
-}
-
 // ── Normalization Core ────────────────────────────────────────────────────────
 
 /// Streaming normalized iterator (zero allocation).

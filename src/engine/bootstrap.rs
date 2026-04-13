@@ -1,7 +1,9 @@
 use crate::engine::api::InitializedGeoEngine;
 use crate::engine::error::GeoEngineError;
 use reqwest::blocking::Client;
+use serde::Deserialize;
 use sha2::{Digest, Sha256};
+use std::collections::HashMap;
 use std::env;
 use std::fs;
 use std::io::Read;
@@ -9,28 +11,57 @@ use std::path::{Path, PathBuf};
 use std::thread;
 use std::time::Duration;
 
-const GEO_DB_NAME: &str = "geo-0.0.1.db";
-const SUBDISTRICT_DB_NAME: &str = "subdistrict-0.0.1.db";
-const CITY_FST_NAME: &str = "cities-0.0.1.fst";
-const CITY_RKYV_NAME: &str = "cities-0.0.1.rkyv";
-const CITY_POINTS_NAME: &str = "cities-0.0.1.points";
+const GITHUB_REPO: &str = "sumitsharansatsangi/geo_engine";
+const GITHUB_API_URL: &str =
+    "https://api.github.com/repos/sumitsharansatsangi/geo_engine/releases/latest";
 
-const GEO_DB_URL: &str =
-    "https://github.com/sumitsharansatsangi/geo_engine/releases/download/v0.0.1/geo-0.0.1.db";
-const SUBDISTRICT_DB_URL: &str = "https://github.com/sumitsharansatsangi/geo_engine/releases/download/v0.0.1/subdistrict-0.0.1.db";
-const CITY_FST_URL: &str =
-    "https://github.com/sumitsharansatsangi/geo_engine/releases/download/v0.0.1/cities-0.0.1.fst";
-const CITY_RKYV_URL: &str =
-    "https://github.com/sumitsharansatsangi/geo_engine/releases/download/v0.0.1/cities-0.0.1.rkyv";
-const CITY_POINTS_URL: &str = "https://github.com/sumitsharansatsangi/geo_engine/releases/download/v0.0.1/cities-0.0.1.points";
+const DB_EXT: &str = "db";
+const FST_EXT: &str = "fst";
+const RKYV_EXT: &str = "rkyv";
+const POINTS_EXT: &str = "points";
 
-// SHA-256 checksums for v0.0.1 releases
-const GEO_DB_SHA256: &str = "44c2b0887d044135336538f0f67df3d49f2e8b64d04d4b2b3c03fb6d946f7fa0";
-const SUBDISTRICT_DB_SHA256: &str =
+// Fallback to v0.0.1 if API fails
+const FALLBACK_VERSION: &str = "0.0.1";
+const FALLBACK_GEO_DB_SHA256: &str =
+    "44c2b0887d044135336538f0f67df3d49f2e8b64d04d4b2b3c03fb6d946f7fa0";
+const FALLBACK_SUBDISTRICT_DB_SHA256: &str =
     "72ce3c7c8e3cfdea2d354172c4d5536044b05e8d2b91a5a2dda72326fb0291aa";
-const CITY_FST_SHA256: &str = "8bb3a2f202db0864537e8ebd3bdc31c229218ca06a8ca787df5b7d7112a51995";
-const CITY_RKYV_SHA256: &str = "7da471653c444d3b1b16070a33819653f04f9f100a1065b951e89b86d6e1a6fb";
-const CITY_POINTS_SHA256: &str = "ac5836cf4a7a0bd93a96638830bcba546c61eec59b13ebf8317bfafdf3d0b46e";
+const FALLBACK_CITY_FST_SHA256: &str =
+    "8bb3a2f202db0864537e8ebd3bdc31c229218ca06a8ca787df5b7d7112a51995";
+const FALLBACK_CITY_RKYV_SHA256: &str =
+    "7da471653c444d3b1b16070a33819653f04f9f100a1065b951e89b86d6e1a6fb";
+const FALLBACK_CITY_POINTS_SHA256: &str =
+    "ac5836cf4a7a0bd93a96638830bcba546c61eec59b13ebf8317bfafdf3d0b46e";
+
+/// Asset information from GitHub release
+#[derive(Debug, Clone)]
+struct AssetInfo {
+    pub name: String,
+    pub url: String,
+    pub checksum: String,
+}
+
+/// Release information from GitHub API
+#[derive(Debug, Deserialize)]
+struct GitHubRelease {
+    pub tag_name: String,
+    pub assets: Vec<GitHubAsset>,
+}
+
+#[derive(Debug, Deserialize)]
+struct GitHubAsset {
+    pub name: String,
+    pub browser_download_url: String,
+}
+
+/// Maps assets from a release, extracting files and their checksums
+struct ReleaseAssets {
+    pub geo_db: AssetInfo,
+    pub subdistrict_db: AssetInfo,
+    pub city_fst: AssetInfo,
+    pub city_rkyv: AssetInfo,
+    pub city_points: AssetInfo,
+}
 
 /// Configuration for asset initialization
 #[derive(Debug, Clone)]
@@ -75,39 +106,48 @@ pub fn init_all_assets_with_config(config: &InitConfig) -> Result<AllAssetPaths,
         }
     })?;
 
+    // Fetch latest release information (or use fallback if API fails)
+    let assets = fetch_release_assets().unwrap_or_else(|_| {
+        eprintln!(
+            "geo_engine: Failed to fetch latest release, using fallback v{}",
+            FALLBACK_VERSION
+        );
+        get_fallback_release_assets()
+    });
+
     let geo_db_path = ensure_asset(
         &config.asset_dir,
-        GEO_DB_NAME,
-        GEO_DB_URL,
-        GEO_DB_SHA256,
+        &assets.geo_db.name,
+        &assets.geo_db.url,
+        &assets.geo_db.checksum,
         config.verify_checksum,
     )?;
     let subdistrict_db_path = ensure_asset(
         &config.asset_dir,
-        SUBDISTRICT_DB_NAME,
-        SUBDISTRICT_DB_URL,
-        SUBDISTRICT_DB_SHA256,
+        &assets.subdistrict_db.name,
+        &assets.subdistrict_db.url,
+        &assets.subdistrict_db.checksum,
         config.verify_checksum,
     )?;
     let city_fst_path = ensure_asset(
         &config.asset_dir,
-        CITY_FST_NAME,
-        CITY_FST_URL,
-        CITY_FST_SHA256,
+        &assets.city_fst.name,
+        &assets.city_fst.url,
+        &assets.city_fst.checksum,
         config.verify_checksum,
     )?;
     let city_rkyv_path = ensure_asset(
         &config.asset_dir,
-        CITY_RKYV_NAME,
-        CITY_RKYV_URL,
-        CITY_RKYV_SHA256,
+        &assets.city_rkyv.name,
+        &assets.city_rkyv.url,
+        &assets.city_rkyv.checksum,
         config.verify_checksum,
     )?;
     let city_points_path = ensure_asset(
         &config.asset_dir,
-        CITY_POINTS_NAME,
-        CITY_POINTS_URL,
-        CITY_POINTS_SHA256,
+        &assets.city_points.name,
+        &assets.city_points.url,
+        &assets.city_points.checksum,
         config.verify_checksum,
     )?;
 
@@ -319,25 +359,34 @@ pub fn init_city_assets_with_config(config: &InitConfig) -> Result<CityAssetPath
         }
     })?;
 
+    // Fetch latest release information (or use fallback if API fails)
+    let assets = fetch_release_assets().unwrap_or_else(|_| {
+        eprintln!(
+            "geo_engine: Failed to fetch latest release, using fallback v{}",
+            FALLBACK_VERSION
+        );
+        get_fallback_release_assets()
+    });
+
     let fst_path = ensure_asset(
         &config.asset_dir,
-        CITY_FST_NAME,
-        CITY_FST_URL,
-        CITY_FST_SHA256,
+        &assets.city_fst.name,
+        &assets.city_fst.url,
+        &assets.city_fst.checksum,
         config.verify_checksum,
     )?;
     let rkyv_path = ensure_asset(
         &config.asset_dir,
-        CITY_RKYV_NAME,
-        CITY_RKYV_URL,
-        CITY_RKYV_SHA256,
+        &assets.city_rkyv.name,
+        &assets.city_rkyv.url,
+        &assets.city_rkyv.checksum,
         config.verify_checksum,
     )?;
     let points_path = ensure_asset(
         &config.asset_dir,
-        CITY_POINTS_NAME,
-        CITY_POINTS_URL,
-        CITY_POINTS_SHA256,
+        &assets.city_points.name,
+        &assets.city_points.url,
+        &assets.city_points.checksum,
         config.verify_checksum,
     )?;
 
@@ -504,6 +553,189 @@ fn cache_dir() -> Result<PathBuf, GeoEngineError> {
     }
 
     Ok(env::temp_dir().join("geo_engine"))
+}
+
+/// Fetch the latest release from GitHub and extract asset information
+fn fetch_release_assets() -> Result<ReleaseAssets, GeoEngineError> {
+    let client = http_client();
+
+    let release: GitHubRelease = {
+        let response = client
+            .get(GITHUB_API_URL)
+            .header("Accept", "application/vnd.github.v3+json")
+            .send()
+            .map_err(|source| GeoEngineError::ReleaseMetadataUnavailable {
+                repo: GITHUB_REPO.to_string(),
+                source,
+            })?;
+
+        let text =
+            response
+                .text()
+                .map_err(|source| GeoEngineError::ReleaseMetadataUnavailable {
+                    repo: GITHUB_REPO.to_string(),
+                    source,
+                })?;
+
+        serde_json::from_str(&text).map_err(|source| GeoEngineError::ReleaseMetadataParse {
+            repo: GITHUB_REPO.to_string(),
+            source,
+        })?
+    };
+
+    extract_assets_from_release(&release)
+}
+
+/// Extract asset information from a GitHub release
+fn extract_assets_from_release(release: &GitHubRelease) -> Result<ReleaseAssets, GeoEngineError> {
+    let version = release.tag_name.trim_start_matches('v').to_string();
+
+    // Build a map of assets by name for easy lookup
+    let asset_map: HashMap<&str, &GitHubAsset> = release
+        .assets
+        .iter()
+        .filter_map(|asset| {
+            // Extract base name (e.g., "geo-0.0.1" from "geo-0.0.1.db")
+            if let Some(pos) = asset.name.rfind('.') {
+                let base = &asset.name[..pos];
+                Some((base, asset))
+            } else {
+                None
+            }
+        })
+        .collect();
+
+    // Find assets for each file type
+    let geo_db = find_asset_by_pattern(&asset_map, "geo", DB_EXT, &version)?;
+    let subdistrict_db = find_asset_by_pattern(&asset_map, "subdistrict", DB_EXT, &version)?;
+    let city_fst = find_asset_by_pattern(&asset_map, "cities", FST_EXT, &version)?;
+    let city_rkyv = find_asset_by_pattern(&asset_map, "cities", RKYV_EXT, &version)?;
+    let city_points = find_asset_by_pattern(&asset_map, "cities", POINTS_EXT, &version)?;
+
+    Ok(ReleaseAssets {
+        geo_db,
+        subdistrict_db,
+        city_fst,
+        city_rkyv,
+        city_points,
+    })
+}
+
+/// Find an asset in the release by pattern matching
+fn find_asset_by_pattern(
+    assets: &HashMap<&str, &GitHubAsset>,
+    base_name: &str,
+    ext: &str,
+    version: &str,
+) -> Result<AssetInfo, GeoEngineError> {
+    // Try to match asset name pattern: "base_name-version.ext"
+    let expected_name = format!("{}-{}.{}", base_name, version, ext);
+
+    if let Some(asset) = assets
+        .values()
+        .find(|a| a.name.ends_with(&format!(".{}", ext)) && a.name.contains(base_name))
+    {
+        // Try to fetch checksum from .sha256 file
+        let checksum = fetch_checksum_for_asset(&asset.name).unwrap_or_else(|_| {
+            eprintln!(
+                "geo_engine: Could not fetch checksum for {}, skipping verification",
+                asset.name
+            );
+            String::new()
+        });
+
+        return Ok(AssetInfo {
+            name: asset.name.clone(),
+            url: asset.browser_download_url.clone(),
+            checksum,
+        });
+    }
+
+    Err(GeoEngineError::ReleaseAssetMissing {
+        repo: GITHUB_REPO.to_string(),
+        asset: expected_name,
+    })
+}
+
+/// Try to fetch the SHA256 checksum for an asset
+fn fetch_checksum_for_asset(asset_name: &str) -> Result<String, GeoEngineError> {
+    // Construct checksum URL from asset URL
+    // e.g., geo-0.0.1.db.sha256
+    let checksum_url = format!(
+        "https://raw.githubusercontent.com/{}/main/{}.sha256",
+        GITHUB_REPO, asset_name
+    );
+
+    let client = http_client();
+    let response = client.get(&checksum_url).send().map_err(|source| {
+        GeoEngineError::ReleaseDownloadFailed {
+            asset: format!("{}.sha256", asset_name),
+            source,
+        }
+    })?;
+
+    let checksum_text =
+        response
+            .text()
+            .map_err(|source| GeoEngineError::ReleaseDownloadFailed {
+                asset: format!("{}.sha256", asset_name),
+                source,
+            })?;
+
+    // Extract just the hash (first word before space)
+    Ok(checksum_text
+        .split_whitespace()
+        .next()
+        .unwrap_or("")
+        .to_string())
+}
+
+/// Get fallback assets for v0.0.1 (in case API fails)
+fn get_fallback_release_assets() -> ReleaseAssets {
+    let version = FALLBACK_VERSION.to_string();
+
+    ReleaseAssets {
+        geo_db: AssetInfo {
+            name: format!("geo-{}.db", version),
+            url: format!(
+                "https://github.com/{}/releases/download/v{}/geo-{}.db",
+                GITHUB_REPO, version, version
+            ),
+            checksum: FALLBACK_GEO_DB_SHA256.to_string(),
+        },
+        subdistrict_db: AssetInfo {
+            name: format!("subdistrict-{}.db", version),
+            url: format!(
+                "https://github.com/{}/releases/download/v{}/subdistrict-{}.db",
+                GITHUB_REPO, version, version
+            ),
+            checksum: FALLBACK_SUBDISTRICT_DB_SHA256.to_string(),
+        },
+        city_fst: AssetInfo {
+            name: format!("cities-{}.fst", version),
+            url: format!(
+                "https://github.com/{}/releases/download/v{}/cities-{}.fst",
+                GITHUB_REPO, version, version
+            ),
+            checksum: FALLBACK_CITY_FST_SHA256.to_string(),
+        },
+        city_rkyv: AssetInfo {
+            name: format!("cities-{}.rkyv", version),
+            url: format!(
+                "https://github.com/{}/releases/download/v{}/cities-{}.rkyv",
+                GITHUB_REPO, version, version
+            ),
+            checksum: FALLBACK_CITY_RKYV_SHA256.to_string(),
+        },
+        city_points: AssetInfo {
+            name: format!("cities-{}.points", version),
+            url: format!(
+                "https://github.com/{}/releases/download/v{}/cities-{}.points",
+                GITHUB_REPO, version, version
+            ),
+            checksum: FALLBACK_CITY_POINTS_SHA256.to_string(),
+        },
+    }
 }
 
 fn http_client() -> Client {

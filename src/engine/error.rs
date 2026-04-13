@@ -2,67 +2,65 @@ use std::error::Error;
 use std::fmt;
 use std::path::PathBuf;
 
+/// Errors that can occur during geo engine operations.
+///
+/// This enum covers database access errors, geographic lookup failures,
+/// asset initialization errors, and path management issues.
 #[derive(Debug)]
 pub enum GeoEngineError {
+    /// Failed to open a database file.
     DatabaseOpen {
         path: PathBuf,
         source: std::io::Error,
     },
+    /// Failed to memory-map a database file.
     DatabaseMap {
         path: PathBuf,
         source: std::io::Error,
     },
-    CountryNotFound {
-        lat: f32,
-        lon: f32,
-    },
-    StateDatabaseUnavailable {
-        path: PathBuf,
-        source: std::io::Error,
-    },
-    StateNotFound {
-        lat: f32,
-        lon: f32,
-    },
+    /// No country found at the given coordinates.
+    CountryNotFound { lat: f32, lon: f32 },
+    /// District database is unavailable for the requested operation.
     DistrictDatabaseUnavailable {
         path: PathBuf,
         source: std::io::Error,
     },
-    DistrictNotFound {
-        lat: f32,
-        lon: f32,
-    },
+    /// No district found at the given coordinates.
+    DistrictNotFound { lat: f32, lon: f32 },
+    /// Cache directory could not be created or accessed.
     CacheDirectoryUnavailable {
         path: PathBuf,
         source: std::io::Error,
     },
+    /// Failed to fetch GitHub release metadata.
     ReleaseMetadataUnavailable {
         repo: String,
         source: reqwest::Error,
     },
+    /// Failed to parse GitHub release metadata.
     ReleaseMetadataParse {
         repo: String,
         source: serde_json::Error,
     },
-    ReleaseAssetMissing {
-        repo: String,
-        asset: String,
-    },
+    /// Expected asset not found in release.
+    ReleaseAssetMissing { repo: String, asset: String },
+    /// Failed to download release asset.
     ReleaseDownloadFailed {
         asset: String,
         source: reqwest::Error,
     },
+    /// Checksum verification failed for downloaded asset.
     ReleaseChecksumMismatch {
         path: PathBuf,
         expected: String,
         actual: String,
     },
+    /// Paths have not been initialized (call init_path first).
     PathsNotInitialized,
+    /// Paths are already initialized with different values.
     PathsAlreadyInitialized,
-    SubdistrictPathNotInitialized,
-    EngineInitializationFailed {
-        message: String,
-    },
+    /// Engine initialization failed with the given reason.
+    EngineInitializationFailed { message: String },
 }
 
 impl fmt::Display for GeoEngineError {
@@ -91,16 +89,12 @@ impl fmt::Display for GeoEngineError {
                     lat, lon
                 )
             }
-            Self::StateDatabaseUnavailable { path, source } => {
+            Self::DistrictNotFound { lat, lon } => {
                 write!(
                     f,
-                    "state lookup required but database '{}' is unavailable: {}",
-                    path.display(),
-                    source
+                    "no district found at coordinates lat={}, lon={}",
+                    lat, lon
                 )
-            }
-            Self::StateNotFound { lat, lon } => {
-                write!(f, "no state found at coordinates lat={}, lon={}", lat, lon)
             }
             Self::DistrictDatabaseUnavailable { path, source } => {
                 write!(
@@ -108,13 +102,6 @@ impl fmt::Display for GeoEngineError {
                     "district lookup required but database '{}' is unavailable: {}",
                     path.display(),
                     source
-                )
-            }
-            Self::DistrictNotFound { lat, lon } => {
-                write!(
-                    f,
-                    "no district found at coordinates lat={}, lon={}",
-                    lat, lon
                 )
             }
             Self::CacheDirectoryUnavailable { path, source } => {
@@ -175,9 +162,6 @@ impl fmt::Display for GeoEngineError {
             Self::PathsAlreadyInitialized => {
                 write!(f, "path configuration has already been initialized")
             }
-            Self::SubdistrictPathNotInitialized => {
-                write!(f, "subdistrict path is required but was not initialized")
-            }
             Self::EngineInitializationFailed { message } => {
                 write!(f, "engine initialization failed: {}", message)
             }
@@ -190,20 +174,17 @@ impl Error for GeoEngineError {
         match self {
             Self::DatabaseOpen { source, .. } => Some(source),
             Self::DatabaseMap { source, .. } => Some(source),
-            Self::StateDatabaseUnavailable { source, .. } => Some(source),
             Self::DistrictDatabaseUnavailable { source, .. } => Some(source),
             Self::CacheDirectoryUnavailable { source, .. } => Some(source),
             Self::ReleaseMetadataUnavailable { source, .. } => Some(source),
             Self::ReleaseMetadataParse { source, .. } => Some(source),
             Self::ReleaseDownloadFailed { source, .. } => Some(source),
             Self::CountryNotFound { .. }
-            | Self::StateNotFound { .. }
             | Self::DistrictNotFound { .. }
             | Self::ReleaseAssetMissing { .. }
             | Self::ReleaseChecksumMismatch { .. }
             | Self::PathsNotInitialized
             | Self::PathsAlreadyInitialized
-            | Self::SubdistrictPathNotInitialized
             | Self::EngineInitializationFailed { .. } => None,
         }
     }

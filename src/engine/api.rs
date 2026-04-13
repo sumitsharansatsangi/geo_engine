@@ -14,12 +14,27 @@ use crate::engine::error::GeoEngineError;
 use crate::engine::model::Country;
 use crate::engine::{index::SpatialIndex, lookup::find_country, runtime::GeoEngine};
 
+// Separator constants for parsing subdistrict metadata
+const SUBDISTRICT_FIELD_SEPARATOR: &str = "||";
+const LANGUAGE_ENTRY_SEPARATOR: &str = "##";
+const LANGUAGE_COMPONENT_SEPARATOR: &str = "~~";
+
+/// A geographic region with area code (country/state/district/subdistrict).
+///
+/// Fields:
+/// - `name`: Display name of the region (e.g., "India", "Bihar", "Sabour")
+/// - `iso2`: Two-character ISO code or internal identifier
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct Region {
     pub name: String,
     pub iso2: String,
 }
 
+/// Result of a geographic coordinate lookup.
+///
+/// Contains the country and optional Indian administrative hierarchy
+/// for the given coordinates, along with demographics and location of
+/// the polygon center.
 #[derive(Debug, Clone, PartialEq)]
 pub struct LookupResult {
     pub country: Region,
@@ -59,12 +74,20 @@ pub struct CityMatch {
     pub longitude: f32,
 }
 
+/// Combined search results from both city and subdistrict databases.
+///
+/// Used by the `search()` function to return matches from both
+/// city (geonames) and Indian administrative division (subdistrict) sources.
 #[derive(Debug, Clone, PartialEq)]
 pub struct CombinedSearchResult {
     pub cities: Vec<CityMatch>,
     pub subdistricts: Vec<SubdistrictMatch>,
 }
 
+/// Result of reverse geocoding (coordinates to location).
+///
+/// Includes administrative hierarchy up to the subdistrict level
+/// and the nearest city match.
 #[derive(Debug, Clone, PartialEq)]
 pub struct ReverseGeocodingResult {
     pub country: Region,
@@ -113,6 +136,17 @@ struct InitializedPaths {
 static PATHS: OnceLock<InitializedPaths> = OnceLock::new();
 static ENGINE: OnceLock<Result<InitializedGeoEngine, String>> = OnceLock::new();
 
+/// Initialize the global geo engine with database paths.
+///
+/// This must be called once before using `search()` or `reverse_geocoding()`.
+/// Paths are cached after first initialization. Subsequent calls with identical
+/// paths are allowed; different paths will return `PathsAlreadyInitialized` error.
+///
+/// # Arguments
+/// * `country_db_path` - Path to the country/world database
+/// * `subdistrict_db_path` - Path to the Indian subdistrict database
+/// * `city_fst_path` - Path to the city FST index
+/// * `city_rkyv_path` - Path to the city rkyv serialized data
 pub fn init_path(
     country_db_path: &Path,
     subdistrict_db_path: &Path,
@@ -163,16 +197,43 @@ fn get_initialized_engine() -> Result<&'static InitializedGeoEngine, GeoEngineEr
     }
 }
 
+/// Reverse geocode coordinates to location (lat/lon → location name).
+///
+/// Requires prior initialization via `init_path()`.
+/// Returns the country, optional administrative hierarchy (if India),
+/// and the nearest city.
+///
+/// # Arguments
+/// * `lat` - Latitude (-90 to 90)
+/// * `lon` - Longitude (-180 to 180)
 pub fn reverse_geocoding(lat: f32, lon: f32) -> Result<ReverseGeocodingResult, GeoEngineError> {
     let engine = get_initialized_engine()?;
     engine.reverse_geocoding(lat, lon)
 }
 
+/// Search for cities or subdistricts by name.
+///
+/// Requires prior initialization via `init_path()`.
+/// Returns combined results from both city (geonames) and
+/// Indian administrative division (subdistrict) sources.
+///
+/// # Arguments
+/// * `query` - Search term (case-insensitive, supports prefix matching)
 pub fn search(query: &str) -> Result<CombinedSearchResult, GeoEngineError> {
     let engine = get_initialized_engine()?;
     engine.search_places_by_name(query, None)
 }
 
+/// Direct lookup without using the global initialized engine.
+///
+/// Useful for ad-hoc queries where you don't want to initialize the global engine.
+/// For repeated lookups, prefer `init_path()` + `reverse_geocoding()` for better performance.
+///
+/// # Arguments
+/// * `lat` - Latitude
+/// * `lon` - Longitude
+/// * `country_db_path` - Path to country database
+/// * `subdistrict_db_path` - Optional path to subdistrict database (auto-resolved if None)
 pub fn lookup_with_subdistrict_path(
     lat: f32,
     lon: f32,
@@ -183,6 +244,16 @@ pub fn lookup_with_subdistrict_path(
     engine.lookup(lat, lon)
 }
 
+/// Direct lookup with address details without using the global initialized engine.
+///
+/// Returns formatted address string in addition to hierarchical components.
+/// For repeated lookups, prefer `init_path()` + `reverse_geocoding()` for better performance.
+///
+/// # Arguments
+/// * `lat` - Latitude
+/// * `lon` - Longitude
+/// * `country_db_path` - Path to country database
+/// * `subdistrict_db_path` - Optional path to subdistrict database (auto-resolved if None)
 pub fn lookup_address_details_with_subdistrict_path(
     lat: f32,
     lon: f32,
@@ -674,7 +745,8 @@ struct SubdistrictMetadata {
 }
 
 fn parse_subdistrict_payload(payload: &str) -> Option<SubdistrictMetadata> {
-    let parts: Vec<&str> = payload.split("||").collect();
+    let parts: Vec<&str> = payload.split(SUBDISTRICT_FIELD_SEPARATOR)
+        .collect();
     if parts.len() != 6 && parts.len() != 8 && parts.len() != 9 {
         return None;
     }
@@ -719,9 +791,9 @@ fn parse_embedded_languages(raw: &str) -> Vec<GeoLanguage> {
     }
 
     let langs: Vec<GeoLanguage> = raw
-        .split("##")
+        .split(LANGUAGE_ENTRY_SEPARATOR)
         .filter_map(|entry| {
-            let mut parts = entry.split("~~");
+            let mut parts = entry.split(LANGUAGE_COMPONENT_SEPARATOR);
             let name = parts.next()?.trim();
             let usage_type = parts.next()?.trim();
             let code = parts.next()?.trim();

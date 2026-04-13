@@ -1,9 +1,17 @@
 use fst::MapBuilder;
-use geo_engine::engine::city::{City, CityPoint, normalize};
+use geo_engine::engine::city::{City, normalize};
 use std::collections::{BTreeMap, HashMap};
 use std::fs::File;
 use std::io::{BufRead, BufReader, Cursor};
 use zip::ZipArchive;
+
+// ── CityPoint: only used for building city index files ──
+#[derive(rkyv::Archive, rkyv::Serialize, rkyv::Deserialize, Debug, Clone, Copy)]
+struct CityPoint {
+    id: u32,
+    lat: f32,
+    lon: f32,
+}
 
 // ----------- MAIN -----------
 
