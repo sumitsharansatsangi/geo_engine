@@ -20,7 +20,12 @@ fn main() {
     let geo_db = Path::new(&geo_path);
     let subdistrict_db = Path::new(&subdistrict_path);
 
-    match geo_engine::lookup_with_subdistrict_path(lat, lon, geo_db, Some(subdistrict_db)) {
+    match geo_engine::engine::api::lookup_with_subdistrict_path(
+        lat,
+        lon,
+        geo_db,
+        Some(subdistrict_db),
+    ) {
         Ok(result) => {
             println!("Latitude: {lat}");
             println!("Longitude: {lon}");

@@ -6,7 +6,7 @@ use std::fs;
 use std::io;
 use std::path::Path;
 
-use geo_engine::{DistrictProfile, find_district_profile, load_district_profiles};
+use geo_engine::district_data::{DistrictProfile, find_district_profile, load_district_profiles};
 use rkyv::{Archive, Deserialize, Serialize, rancor::Error as RkyvError, to_bytes};
 
 #[derive(Archive, Serialize, Deserialize, Debug)]

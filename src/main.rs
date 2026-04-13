@@ -2,7 +2,7 @@ fn main() {
     let lat = 25.25;
     let lon = 87.04;
 
-    let engine = match geo_engine::init_geo_engine() {
+    let engine = match geo_engine::engine::bootstrap::init_geo_engine() {
         Ok(engine) => engine,
         Err(err) => {
             eprintln!("Initialization failed: {}", err);

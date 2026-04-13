@@ -1,10 +1,11 @@
 use std::path::PathBuf;
 
-use geo_engine::{
-    GeoEngineError, InitializedGeoEngine, find_district_profile, init_path, load_district_profiles,
-    lookup_address_details_with_subdistrict_path, lookup_with_subdistrict_path, reverse_geocoding,
-    search,
+use geo_engine::district_data::{find_district_profile, load_district_profiles};
+use geo_engine::engine::api::{
+    InitializedGeoEngine, init_path, lookup_address_details_with_subdistrict_path,
+    lookup_with_subdistrict_path, reverse_geocoding, search,
 };
+use geo_engine::engine::error::GeoEngineError;
 
 fn db_paths() -> (PathBuf, PathBuf) {
     let root = PathBuf::from(env!("CARGO_MANIFEST_DIR"));

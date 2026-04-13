@@ -3,7 +3,7 @@ use std::error::Error;
 use std::fs;
 use std::path::{Path, PathBuf};
 
-use geo_engine::{find_district_profile, load_district_profiles};
+use geo_engine::district_data::{DistrictProfile, find_district_profile, load_district_profiles};
 use rkyv::{Archive, Deserialize, Serialize, rancor::Error as RkyvError, to_bytes};
 
 #[derive(Archive, Serialize, Deserialize, Debug)]
@@ -130,7 +130,7 @@ fn parse_payload(raw: &str) -> Option<Payload> {
     })
 }
 
-fn encode_payload(payload: &Payload, demographics: Option<&geo_engine::DistrictProfile>) -> String {
+fn encode_payload(payload: &Payload, demographics: Option<&DistrictProfile>) -> String {
     let mut parts = vec![
         sanitize_field(&payload.subdistrict_name),
         sanitize_field(&payload.district_name),

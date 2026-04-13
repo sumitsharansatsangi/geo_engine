@@ -89,7 +89,12 @@ fn run_search(query: &str, subdistrict_db: &Path) {
 }
 
 fn run_point_lookup(lat: f32, lon: f32, geo_db: &Path, subdistrict_db: &Path, data_csv: &Path) {
-    match geo_engine::lookup_with_subdistrict_path(lat, lon, geo_db, Some(subdistrict_db)) {
+    match geo_engine::engine::api::lookup_with_subdistrict_path(
+        lat,
+        lon,
+        geo_db,
+        Some(subdistrict_db),
+    ) {
         Ok(result) => {
             if !result.country.name.eq_ignore_ascii_case("india") {
                 eprintln!("Point is outside India");
@@ -124,7 +129,7 @@ fn run_point_lookup(lat: f32, lon: f32, geo_db: &Path, subdistrict_db: &Path, da
                 return;
             }
 
-            let profiles = match geo_engine::load_district_profiles(data_csv) {
+            let profiles = match geo_engine::district_data::load_district_profiles(data_csv) {
                 Ok(profiles) => profiles,
                 Err(err) => {
                     eprintln!(
@@ -135,7 +140,11 @@ fn run_point_lookup(lat: f32, lon: f32, geo_db: &Path, subdistrict_db: &Path, da
                 }
             };
 
-            match geo_engine::find_district_profile(&profiles, &district.iso2, &district.name) {
+            match geo_engine::district_data::find_district_profile(
+                &profiles,
+                &district.iso2,
+                &district.name,
+            ) {
                 Some(profile) => print_demographics(&profile.major_religion, &profile.languages),
                 None => {
                     eprintln!(
@@ -155,7 +164,7 @@ fn run_point_lookup(lat: f32, lon: f32, geo_db: &Path, subdistrict_db: &Path, da
     }
 }
 
-fn print_demographics(major_religion: &str, languages: &[geo_engine::GeoLanguage]) {
+fn print_demographics(major_religion: &str, languages: &[geo_engine::district_data::GeoLanguage]) {
     println!("Religion: {major_religion}");
     println!(
         "Languages: {}",
