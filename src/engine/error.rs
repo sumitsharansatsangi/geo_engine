@@ -57,6 +57,9 @@ pub enum GeoEngineError {
         expected: String,
         actual: String,
     },
+    PathsNotInitialized,
+    PathsAlreadyInitialized,
+    SubdistrictPathNotInitialized,
 }
 
 impl fmt::Display for GeoEngineError {
@@ -160,6 +163,15 @@ impl fmt::Display for GeoEngineError {
                     actual
                 )
             }
+            Self::PathsNotInitialized => {
+                write!(f, "path configuration is not initialized; call init_path first")
+            }
+            Self::PathsAlreadyInitialized => {
+                write!(f, "path configuration has already been initialized")
+            }
+            Self::SubdistrictPathNotInitialized => {
+                write!(f, "subdistrict path is required but was not initialized")
+            }
         }
     }
 }
@@ -179,7 +191,10 @@ impl Error for GeoEngineError {
             | Self::StateNotFound { .. }
             | Self::DistrictNotFound { .. }
             | Self::ReleaseAssetMissing { .. }
-            | Self::ReleaseChecksumMismatch { .. } => None,
+            | Self::ReleaseChecksumMismatch { .. }
+            | Self::PathsNotInitialized
+            | Self::PathsAlreadyInitialized
+            | Self::SubdistrictPathNotInitialized => None,
         }
     }
 }

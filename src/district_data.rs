@@ -3,6 +3,8 @@ use std::fs;
 use std::io;
 use std::path::Path;
 
+// ── Types ─────────────────────────────────────────────────────────────────────
+
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct GeoLanguage {
     pub code: String,
@@ -18,57 +20,63 @@ pub struct DistrictProfile {
     pub languages: Vec<GeoLanguage>,
 }
 
-pub fn load_district_profiles(path: &Path) -> Result<HashMap<String, DistrictProfile>, io::Error> {
-    let raw = fs::read_to_string(path)?;
-    let mut profiles = HashMap::new();
+// ── Public API ────────────────────────────────────────────────────────────────
 
-    for (index, line) in raw.lines().enumerate() {
+pub fn load_district_profiles(path: &Path) -> io::Result<HashMap<String, DistrictProfile>> {
+    let raw = fs::read_to_string(path)?;
+    let mut map: HashMap<String, DistrictProfile> = HashMap::new();
+
+    for (i, line) in raw.lines().enumerate() {
         let line = line.trim();
         if line.is_empty() {
             continue;
         }
-        if index == 0 && line.eq_ignore_ascii_case(HEADER) {
+
+        // Header check only for first row
+        if i == 0 && line.eq_ignore_ascii_case(CSV_HEADER) {
             continue;
         }
 
-        let parts: Vec<&str> = line.split(',').map(str::trim).collect();
-        if parts.len() != 6 {
-            continue;
-        }
+        let mut parts = line.splitn(6, ',');
 
-        let district_code = parts[2].to_string();
-        let district_name = parts[3].to_string();
-        let major_religion = parts[5].to_string();
+        let lang_code = match parts.next() { Some(v) => v.trim(), None => continue };
+        let lang_name = match parts.next() { Some(v) => v.trim(), None => continue };
+        let district_code = match parts.next() { Some(v) => v.trim(), None => continue };
+        let district_name = match parts.next() { Some(v) => v.trim(), None => continue };
+        let usage_type = match parts.next() { Some(v) => v.trim(), None => continue };
+        let major_religion = match parts.next() { Some(v) => v.trim(), None => continue };
 
-        let profile = profiles
-            .entry(district_code.clone())
-            .or_insert_with(|| DistrictProfile {
-                district_code: district_code.clone(),
-                district_name: district_name.clone(),
-                major_religion: major_religion.clone(),
+        let entry = map.entry(district_code.to_owned()).or_insert_with(|| {
+            DistrictProfile {
+                district_code: district_code.to_owned(),
+                district_name: district_name.to_owned(),
+                major_religion: major_religion.to_owned(),
                 languages: Vec::new(),
-            });
+            }
+        });
 
-        if profile.major_religion.is_empty() && !major_religion.is_empty() {
-            profile.major_religion = major_religion;
+        // Only fill religion once if empty
+        if entry.major_religion.is_empty() && !major_religion.is_empty() {
+            entry.major_religion = major_religion.to_owned();
         }
 
-        profile.languages.push(GeoLanguage {
-            code: parts[0].to_string(),
-            name: parts[1].to_string(),
-            usage_type: parts[4].to_string(),
+        entry.languages.push(GeoLanguage {
+            code: lang_code.to_owned(),
+            name: lang_name.to_owned(),
+            usage_type: usage_type.to_owned(),
         });
     }
 
-    for profile in profiles.values_mut() {
-        profile.languages.sort_by(|left, right| {
-            usage_rank(&left.usage_type)
-                .cmp(&usage_rank(&right.usage_type))
-                .then_with(|| left.name.cmp(&right.name))
+    // Sort without allocating (no clone)
+    for profile in map.values_mut() {
+        profile.languages.sort_by(|a, b| {
+            usage_rank(&a.usage_type)
+                .cmp(&usage_rank(&b.usage_type))
+                .then_with(|| a.name.cmp(&b.name))
         });
     }
 
-    Ok(profiles)
+    Ok(map)
 }
 
 pub fn find_district_profile<'a>(
@@ -76,29 +84,48 @@ pub fn find_district_profile<'a>(
     district_code: &str,
     district_name: &str,
 ) -> Option<&'a DistrictProfile> {
-    if let Some(profile) = profiles.get(district_code) {
-        return Some(profile);
+    if let Some(p) = profiles.get(district_code) {
+        return Some(p);
     }
 
-    let normalized_target = normalize_key(district_name);
-    profiles
-        .values()
-        .find(|profile| normalize_key(&profile.district_name) == normalized_target)
+    profiles.values().find(|p| eq_ignore_ascii_trim(&p.district_name, district_name))
 }
 
-const HEADER: &str =
+// ── Constants ────────────────────────────────────────────────────────────────
+
+const CSV_HEADER: &str =
     "lang_code,language_name,district_uni_code,district_name,usage_type,major_religion";
 
+// ── Helpers ──────────────────────────────────────────────────────────────────
+
+#[inline]
 fn usage_rank(value: &str) -> u8 {
-    match value.to_ascii_lowercase().as_str() {
-        "primary" => 0,
-        "major" => 1,
-        "administrative" => 2,
-        "minor" => 3,
+    match value {
+        v if v.eq_ignore_ascii_case("primary") => 0,
+        v if v.eq_ignore_ascii_case("major") => 1,
+        v if v.eq_ignore_ascii_case("administrative") => 2,
+        v if v.eq_ignore_ascii_case("minor") => 3,
         _ => 4,
     }
 }
 
-fn normalize_key(value: &str) -> String {
-    value.trim().to_ascii_lowercase()
+#[inline]
+fn eq_ignore_ascii_trim(a: &str, b: &str) -> bool {
+    trim_ascii(a).eq_ignore_ascii_case(trim_ascii(b))
+}
+
+#[inline]
+fn trim_ascii(s: &str) -> &str {
+    let bytes = s.as_bytes();
+    let mut start = 0;
+    let mut end = bytes.len();
+
+    while start < end && bytes[start].is_ascii_whitespace() {
+        start += 1;
+    }
+    while end > start && bytes[end - 1].is_ascii_whitespace() {
+        end -= 1;
+    }
+
+    &s[start..end]
 }

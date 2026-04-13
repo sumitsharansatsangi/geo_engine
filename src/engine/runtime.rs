@@ -22,30 +22,28 @@ impl GeoEngine {
     pub fn open<P: AsRef<Path>>(path: P) -> Result<Self, GeoEngineError> {
         let path_ref = path.as_ref();
         let path_buf = PathBuf::from(path_ref);
+
         let file = File::open(path_ref).map_err(|source| GeoEngineError::DatabaseOpen {
             path: path_buf.clone(),
             source,
         })?;
 
-        let mmap = unsafe {
-            // SAFETY: safe to create Mmap from an open File since we have exclusive access
-            // and the file won't be truncated/modified during the map's lifetime
-            Mmap::map(&file)
-        }
-        .map_err(|source| GeoEngineError::DatabaseMap {
-            path: path_buf,
+        let mmap = unsafe { Mmap::map(&file) }.map_err(|source| GeoEngineError::DatabaseMap {
+            path: path_buf.clone(),
             source,
         })?;
 
-        if is_zstd(&mmap[..]) {
+        if is_zstd(&mmap) {
             let decoded = zstd::stream::decode_all(&mmap[..]).map_err(|source| {
                 GeoEngineError::DatabaseMap {
-                    path: PathBuf::from(path_ref),
+                    path: path_buf,
                     source,
                 }
             })?;
+
             let mut aligned = AlignedVec::with_capacity(decoded.len());
             aligned.extend_from_slice(&decoded);
+
             return Ok(Self {
                 storage: Storage::Owned(aligned),
             });

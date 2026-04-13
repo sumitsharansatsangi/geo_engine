@@ -17,9 +17,9 @@ pub use district_data::{
 };
 pub use engine::api::{
     AddressDetails, CityMatch, CombinedSearchResult, DistrictDemographics, InitializedGeoEngine,
-    LookupResult, Region, ReverseGeocodingResult, SubdistrictMatch,
-    lookup_address_details_with_subdistrict_path, lookup_with_subdistrict_path,
-    reverse_geocoding_with_paths, search_by_name, search_cities_by_name, search_places_by_name,
-    search_subdistricts_by_name,
+    LookupResult, Region, ReverseGeocodingResult, SubdistrictMatch, init_path,
+    lookup_address_details_with_subdistrict_path, lookup_with_subdistrict_path, reverse_geocoding,
+    reverse_geocoding_with_paths, search, search_by_name, search_cities_by_name,
+    search_places_by_name, search_subdistricts_by_name,
 };
 pub use engine::error::GeoEngineError;

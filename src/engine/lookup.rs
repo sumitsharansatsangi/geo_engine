@@ -10,9 +10,8 @@ pub fn find_country<'a>(
     lon: f32,
     index: &'a SpatialIndex,
 ) -> Result<&'a Archived<Country>, GeoEngineError> {
-    let candidates = index.candidates(lat, lon);
-
-    for country in candidates {
+    
+    for country in index.candidates(lat, lon)  {
         for ring in country.polygons.iter() {
             if point_in_ring(lat, lon, ring) {
                 return Ok(country);

@@ -4,7 +4,7 @@ use rstar::{AABB, RTree, RTreeObject};
 use crate::engine::model::Country;
 
 pub struct CountryBBox<'a> {
-    pub country: &'a Archived<Country>,
+    country: &'a Archived<Country>,
 }
 
 impl<'a> RTreeObject for CountryBBox<'a> {
@@ -35,13 +35,15 @@ impl<'a> SpatialIndex<'a> {
         Self { tree }
     }
 
-    pub fn candidates(&self, lat: f32, lon: f32) -> Vec<&'a Archived<Country>> {
-        let point = [lon, lat];
-        let envelope = AABB::from_point(point);
+    pub fn candidates(
+        &self,
+        lat: f32,
+        lon: f32,
+    ) -> impl Iterator<Item = &'a Archived<Country>> + '_ {
+        let envelope = AABB::from_point([lon, lat]);
 
         self.tree
             .locate_in_envelope_intersecting(&envelope)
             .map(|c| c.country)
-            .collect()
     }
 }

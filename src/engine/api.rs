@@ -1,4 +1,5 @@
 use std::path::{Path, PathBuf};
+use std::sync::OnceLock;
 use std::{
     collections::{BTreeSet, HashMap},
     fs,
@@ -91,6 +92,59 @@ pub struct InitializedGeoEngine {
     subdistrict_db_path: PathBuf,
 }
 
+struct InitializedPaths {
+    country_db_path: PathBuf,
+    subdistrict_db_path: Option<PathBuf>,
+    city_fst_path: PathBuf,
+    city_rkyv_path: PathBuf,
+}
+
+static PATHS: OnceLock<InitializedPaths> = OnceLock::new();
+
+pub fn init_path(
+    country_db_path: &Path,
+    subdistrict_db_path: Option<&Path>,
+    city_fst_path: &Path,
+    city_rkyv_path: &Path,
+) -> Result<(), GeoEngineError> {
+    PATHS
+        .set(InitializedPaths {
+            country_db_path: country_db_path.to_path_buf(),
+            subdistrict_db_path: subdistrict_db_path.map(Path::to_path_buf),
+            city_fst_path: city_fst_path.to_path_buf(),
+            city_rkyv_path: city_rkyv_path.to_path_buf(),
+        })
+        .map_err(|_| GeoEngineError::PathsAlreadyInitialized)
+}
+
+fn get_paths() -> Result<&'static InitializedPaths, GeoEngineError> {
+    PATHS.get().ok_or(GeoEngineError::PathsNotInitialized)
+}
+
+pub fn reverse_geocoding(lat: f32, lon: f32) -> Result<ReverseGeocodingResult, GeoEngineError> {
+    let paths = get_paths()?;
+    reverse_geocoding_with_paths(
+        lat,
+        lon,
+        &paths.country_db_path,
+        paths.subdistrict_db_path.as_deref(),
+        &paths.city_rkyv_path,
+    )
+}
+
+pub fn search(query: &str) -> Result<CombinedSearchResult, GeoEngineError> {
+    let paths = get_paths()?;
+    search_by_name(
+        query,
+        paths
+            .subdistrict_db_path
+            .as_deref()
+            .ok_or(GeoEngineError::SubdistrictPathNotInitialized)?,
+        &paths.city_fst_path,
+        &paths.city_rkyv_path,
+    )
+}
+
 pub fn lookup_with_subdistrict_path(
     lat: f32,
     lon: f32,
@@ -174,6 +228,8 @@ pub fn search_subdistricts_by_name(
 
     Ok(matches)
 }
+
+
 
 pub fn search_cities_by_name(
     query: &str,
@@ -351,6 +407,16 @@ impl InitializedGeoEngine {
     ) -> Result<ReverseGeocodingResult, GeoEngineError> {
         let lookup = self.lookup(lat, lon)?;
         let city = nearest_city(lat, lon, city_rkyv_path)?;
+
+        if lookup.state.is_none() && lookup.district.is_none() {
+            return Ok(ReverseGeocodingResult {
+                country: lookup.country,
+                state: None,
+                district: None,
+                subdistrict: None,
+                city,
+            });
+        }
 
         Ok(ReverseGeocodingResult {
             country: lookup.country,
