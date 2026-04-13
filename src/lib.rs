@@ -6,7 +6,8 @@ pub use engine::bootstrap::{
     init_city_assets_with_config, init_geo_engine, init_geo_engine_with_config,
     refresh_all_assets_in_background, refresh_all_assets_in_background_with_callback,
     refresh_all_assets_in_background_with_callback_config,
-    refresh_all_assets_in_background_with_config,
+    refresh_all_assets_in_background_with_config, refresh_and_reopen_engine_in_background,
+    refresh_and_reopen_engine_in_background_with_config,
 };
 pub use engine::city::City;
 
@@ -16,8 +17,9 @@ pub use district_data::{
 };
 pub use engine::api::{
     AddressDetails, CityMatch, CombinedSearchResult, DistrictDemographics, InitializedGeoEngine,
-    LookupResult, Region, SubdistrictMatch, lookup_address_details_with_subdistrict_path,
-    lookup_with_subdistrict_path, search_cities_by_name, search_places_by_name,
+    LookupResult, Region, ReverseGeocodingResult, SubdistrictMatch,
+    lookup_address_details_with_subdistrict_path, lookup_with_subdistrict_path,
+    reverse_geocoding_with_paths, search_by_name, search_cities_by_name, search_places_by_name,
     search_subdistricts_by_name,
 };
 pub use engine::error::GeoEngineError;

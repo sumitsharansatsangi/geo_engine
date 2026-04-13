@@ -3,7 +3,8 @@ use std::path::PathBuf;
 use geo_engine::{
     GeoEngineError, InitializedGeoEngine, find_district_profile, load_district_profiles,
     lookup_address_details_with_subdistrict_path, lookup_with_subdistrict_path,
-    search_cities_by_name, search_places_by_name, search_subdistricts_by_name,
+    reverse_geocoding_with_paths, search_by_name, search_cities_by_name, search_places_by_name,
+    search_subdistricts_by_name,
 };
 
 fn db_paths() -> (PathBuf, PathBuf) {
@@ -169,6 +170,61 @@ fn search_places_by_name_combines_city_and_subdistrict_results() {
         .iter()
         .all(|city| !city.name.is_empty() && !city.country_code.is_empty() && city.geoname_id > 0);
     assert!(cities_valid, "all city matches should have valid structure");
+}
+
+#[test]
+fn reverse_geocoding_returns_country_and_city_for_non_india_point() {
+    let (country_db, _) = db_paths();
+    let (city_fst, city_rkyv) = city_asset_paths();
+
+    // Keep read of fst path in scope to validate assets are present for search APIs too.
+    assert!(city_fst.exists(), "city fst asset should exist");
+
+    let result = reverse_geocoding_with_paths(51.5074, -0.1278, &country_db, None, &city_rkyv)
+        .expect("reverse geocoding should succeed for non-India point");
+
+    assert_eq!(result.country.name, "United Kingdom");
+    assert!(result.state.is_none());
+    assert!(result.district.is_none());
+    assert!(result.subdistrict.is_none());
+    assert!(!result.city.name.is_empty());
+}
+
+#[test]
+fn reverse_geocoding_returns_subdistrict_and_city_for_india_point() {
+    let (country_db, subdistrict_db) = db_paths();
+    let (_, city_rkyv) = city_asset_paths();
+
+    let result =
+        reverse_geocoding_with_paths(25.25, 87.04, &country_db, Some(&subdistrict_db), &city_rkyv)
+            .expect("reverse geocoding should succeed for India point");
+
+    assert_eq!(result.country.iso2, "IN");
+    assert_eq!(
+        result
+            .subdistrict
+            .as_ref()
+            .map(|region| region.name.as_str()),
+        Some("Sabour")
+    );
+    assert!(!result.city.name.is_empty());
+}
+
+#[test]
+fn search_by_name_combines_city_and_subdistrict_without_city_limit() {
+    let (_, subdistrict_db) = db_paths();
+    let (city_fst, city_rkyv) = city_asset_paths();
+
+    let result = search_by_name("london", &subdistrict_db, &city_fst, &city_rkyv)
+        .expect("unified search should succeed");
+
+    assert!(
+        result
+            .cities
+            .iter()
+            .any(|city| city.name.to_lowercase().contains("london")),
+        "expected london city results"
+    );
 }
 
 #[test]

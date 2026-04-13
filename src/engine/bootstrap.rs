@@ -222,6 +222,49 @@ where
     Ok(())
 }
 
+/// Refresh all assets in the background and reopen the geo engine on success.
+///
+/// The callback receives a freshly opened `InitializedGeoEngine` after the
+/// refreshed geo and subdistrict databases are verified and written atomically.
+pub fn refresh_and_reopen_engine_in_background<F>(
+    asset_dir: &Path,
+    on_complete: F,
+) -> Result<(), GeoEngineError>
+where
+    F: FnOnce(Result<InitializedGeoEngine, GeoEngineError>) + Send + 'static,
+{
+    let config = InitConfig {
+        asset_dir: asset_dir.to_path_buf(),
+        verify_checksum: true,
+    };
+    refresh_and_reopen_engine_in_background_with_config(&config, on_complete)
+}
+
+pub fn refresh_and_reopen_engine_in_background_with_config<F>(
+    config: &InitConfig,
+    on_complete: F,
+) -> Result<(), GeoEngineError>
+where
+    F: FnOnce(Result<InitializedGeoEngine, GeoEngineError>) + Send + 'static,
+{
+    fs::create_dir_all(&config.asset_dir).map_err(|source| {
+        GeoEngineError::CacheDirectoryUnavailable {
+            path: config.asset_dir.clone(),
+            source,
+        }
+    })?;
+
+    let config_owned = config.clone();
+    let _ = thread::spawn(move || {
+        let result = init_all_assets_with_config(&config_owned).and_then(|paths| {
+            InitializedGeoEngine::open(&paths.geo_db_path, Some(&paths.subdistrict_db_path))
+        });
+        on_complete(result);
+    });
+
+    Ok(())
+}
+
 /// Initialize geo engine with default configuration (uses cache directory, checksums disabled)
 pub fn init_geo_engine() -> Result<InitializedGeoEngine, GeoEngineError> {
     let cache_dir = cache_dir()?;
