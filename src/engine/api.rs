@@ -156,14 +156,17 @@ static ENGINE: OnceLock<Result<InitializedGeoEngine, String>> = OnceLock::new();
 ///
 /// # Arguments
 /// * `asset_dir` - Directory where geo assets are located or will be downloaded
-pub fn init_path(asset_dir: &Path) -> Result<(), GeoEngineError> {
+///
+/// # Returns
+/// * `Ok(true)` when initialization succeeds
+pub fn init_path(asset_dir: &Path) -> Result<bool, GeoEngineError> {
     if let Some(initialized_paths) = PATHS.get() {
         if initialized_paths.asset_dir != asset_dir {
             return Err(GeoEngineError::PathsAlreadyInitialized);
         }
 
         let _ = get_initialized_engine()?;
-        return Ok(());
+        return Ok(true);
     }
 
     let asset_paths = init_all_assets(asset_dir)?;
@@ -184,7 +187,7 @@ pub fn init_path(asset_dir: &Path) -> Result<(), GeoEngineError> {
     }
 
     let _ = get_initialized_engine()?;
-    Ok(())
+    Ok(true)
 }
 
 fn get_paths() -> Result<&'static InitializedPaths, GeoEngineError> {

@@ -700,9 +700,22 @@ fn manifest_asset_to_info(
 }
 
 fn http_client() -> Client {
+    let timeout = http_timeout_duration();
+
     Client::builder()
         .user_agent("geo_engine-bootstrap/1.0")
-        .timeout(Duration::from_secs(120))
+        .timeout(timeout)
         .build()
         .expect("failed to build HTTP client")
+}
+
+fn http_timeout_duration() -> Duration {
+    const DEFAULT_HTTP_TIMEOUT_SECS: u64 = 600;
+
+    env::var("GEO_ENGINE_HTTP_TIMEOUT_SECS")
+        .ok()
+        .and_then(|value| value.parse::<u64>().ok())
+        .filter(|seconds| *seconds > 0)
+        .map(Duration::from_secs)
+        .unwrap_or_else(|| Duration::from_secs(DEFAULT_HTTP_TIMEOUT_SECS))
 }
