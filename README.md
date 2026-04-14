@@ -85,6 +85,14 @@ If you prefer just:
 just release-assets version=0.0.1
 ```
 
+Smoke-test a downloaded or locally generated release asset folder:
+
+```bash
+cargo run --bin smoke_release_assets -- ./release-assets bihar 25.5941 85.1376
+```
+
+This binary initializes the engine from the provided asset folder and exercises the public init, lookup, search, batch, background refresh, and open-from-bytes paths.
+
 For CI/CD releases, push a tag like `v0.0.1` or run the GitHub Actions workflow named `Release Assets`. The workflow checks that the versioned artifacts already exist, regenerates `assets-manifest.json`, and publishes the release assets automatically.
 
 If you want the runner to rebuild from source inputs instead of using prebuilt artifacts, use the GitHub Actions workflow named `Release Assets From Sources`. For tag-based releases, set repository variables `SUBDISTRICT_SHP_URL`, `SUBDISTRICT_DBF_URL`, and optionally `DATA_CSV_URL`, `GEOJSON_URL`, and `RELEASE_BASE_URL`. After that, pushing a tag like `v0.0.2` builds geo, cities, subdistrict, checksums, and the manifest automatically.
