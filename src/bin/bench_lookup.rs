@@ -32,10 +32,10 @@ struct BenchResult {
     successes: usize,
     failures: usize,
     total_ns: u128,
-    mean_us: f64,
-    p50_us: f64,
-    p95_us: f64,
-    p99_us: f64,
+    mean_ns: f64,
+    p50_ns: f64,
+    p95_ns: f64,
+    p99_ns: f64,
 }
 
 fn main() {
@@ -196,7 +196,10 @@ fn run_child(config: &Config, disable_h3: bool) -> Result<BenchResult, Box<dyn s
         .arg(config.city_points.as_os_str())
         .arg(config.iterations.to_string())
         .arg(config.warmup.to_string())
-        .env("GEO_ENGINE_DISABLE_H3", if disable_h3 { "1" } else { "0" })
+        .env(
+            "GEO_ENGINE_DISABLE_SPATIAL_INDEX",
+            if disable_h3 { "1" } else { "0" },
+        )
         .output()?;
 
     if !output.status.success() {
@@ -236,7 +239,7 @@ fn run_single(
         let _ = geo_engine::reverse_geocoding(lat, lon);
     }
 
-    let mut timings_us = Vec::with_capacity(config.iterations);
+    let mut timings_ns = Vec::with_capacity(config.iterations);
     let mut successes = 0usize;
     let mut failures = 0usize;
     let total_start = Instant::now();
@@ -248,13 +251,18 @@ fn run_single(
             Ok(_) => successes += 1,
             Err(_) => failures += 1,
         }
-        timings_us.push(start.elapsed().as_secs_f64() * 1_000_000.0);
+        timings_ns.push(start.elapsed().as_secs_f64() * 1_000_000_000.0);
     }
 
     let total_ns = total_start.elapsed().as_nanos();
-    timings_us.sort_by(|a, b| a.partial_cmp(b).unwrap_or(std::cmp::Ordering::Equal));
+    timings_ns.sort_by(|a, b| a.partial_cmp(b).unwrap_or(std::cmp::Ordering::Equal));
 
-    let label = if disable_h3 { "without_h3" } else { "with_h3" }.to_string();
+    let label = if disable_h3 {
+        "without_spatial_index"
+    } else {
+        "with_spatial_index"
+    }
+    .to_string();
 
     Ok(BenchResult {
         label,
@@ -263,10 +271,10 @@ fn run_single(
         successes,
         failures,
         total_ns,
-        mean_us: timings_us.iter().copied().sum::<f64>() / timings_us.len() as f64,
-        p50_us: percentile(&timings_us, 0.50),
-        p95_us: percentile(&timings_us, 0.95),
-        p99_us: percentile(&timings_us, 0.99),
+        mean_ns: timings_ns.iter().copied().sum::<f64>() / timings_ns.len() as f64,
+        p50_ns: percentile(&timings_ns, 0.50),
+        p95_ns: percentile(&timings_ns, 0.95),
+        p99_ns: percentile(&timings_ns, 0.99),
     })
 }
 
@@ -301,26 +309,26 @@ fn print_comparison(without_h3: &BenchResult, with_h3: &BenchResult) {
     print_result(without_h3);
     print_result(with_h3);
 
-    let speedup_mean = ratio(without_h3.mean_us, with_h3.mean_us);
-    let speedup_p95 = ratio(without_h3.p95_us, with_h3.p95_us);
-    let speedup_p99 = ratio(without_h3.p99_us, with_h3.p99_us);
+    let speedup_mean = ratio(without_h3.mean_ns, with_h3.mean_ns);
+    let speedup_p95 = ratio(without_h3.p95_ns, with_h3.p95_ns);
+    let speedup_p99 = ratio(without_h3.p99_ns, with_h3.p99_ns);
 
     println!();
     println!("comparison");
     println!("  mean speedup: {:.3}x", speedup_mean);
     println!("  p95 speedup:  {:.3}x", speedup_p95);
     println!("  p99 speedup:  {:.3}x", speedup_p99);
-    println!("  note: speedup > 1.0 means H3 sidecar is faster");
+    println!("  note: speedup > 1.0 means spatial sidecar is faster");
 }
 
 fn print_result(result: &BenchResult) {
     println!("  {}", result.label);
     println!("    successes: {}", result.successes);
     println!("    failures:  {}", result.failures);
-    println!("    mean:      {:.3} us", result.mean_us);
-    println!("    p50:       {:.3} us", result.p50_us);
-    println!("    p95:       {:.3} us", result.p95_us);
-    println!("    p99:       {:.3} us", result.p99_us);
+    println!("    mean:      {:.0} ns", result.mean_ns);
+    println!("    p50:       {:.0} ns", result.p50_ns);
+    println!("    p95:       {:.0} ns", result.p95_ns);
+    println!("    p99:       {:.0} ns", result.p99_ns);
 }
 
 fn ratio(base: f64, comparison: f64) -> f64 {

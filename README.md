@@ -61,3 +61,28 @@ Provide paths to the database files and call `lookup_with_subdistrict_path(lat, 
 cargo check
 cargo test --test lookup_integration
 ```
+
+## Runtime Defaults
+
+The engine is configured with performance-safe defaults out of the box:
+
+- zstd-compressed DBs are decoded by streaming into a temp file and then mmap-ed.
+- Country DB loading supports a single file path by default, and also supports shard directories when you pass a directory path.
+- Bounding-box prefiltering runs before polygon checks and auto-enables SIMD (NEON on aarch64, SSE on x86_64) when available.
+
+### Optional Environment Variables
+
+- `GEO_ENGINE_DISABLE_ZSTD_STREAM_MMAP=1`
+	- Disables stream-to-temp-mmap decode and falls back to full in-memory decode for zstd DBs.
+- `GEO_ENGINE_ZSTD_DICT_PATH=/absolute/path/to/dict`
+	- Optional zstd dictionary used for DB decompression.
+- `GEO_ENGINE_DISABLE_H3=1`
+	- Disables H3 sidecar candidate acceleration.
+
+### Country DB Path Behavior
+
+- If `country_db_path` points to a file:
+	- The engine loads a single country DB file.
+- If `country_db_path` points to a directory:
+	- The engine loads all shard files in that directory with extensions `.db` or `.zst`.
+	- Use this mode only for very large global datasets or region-based deployments.

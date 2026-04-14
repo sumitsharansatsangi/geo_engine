@@ -1,4 +1,8 @@
 mod engine;
+pub mod spatial_sidecar;
+
+#[cfg(all(feature = "wasm", target_arch = "wasm32"))]
+pub mod wasm;
 
 // Public surface intentionally kept minimal:
 // - init_path
@@ -27,5 +31,7 @@ mod engine;
 pub use engine::api::{
     CityMatch, CombinedSearchResult, Region, ReverseGeocodingResult, SubdistrictMatch,
 };
-pub use engine::api::{init_path, reverse_geocoding, search};
+pub use engine::api::{
+    init_path, reverse_geocoding, reverse_geocoding_batch, search, search_batch,
+};
 pub use engine::error::GeoEngineError;
