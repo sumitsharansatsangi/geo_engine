@@ -2,7 +2,7 @@ fn main() {
     let lat = 25.25;
     let lon = 87.04;
 
-    let geo_db = std::path::Path::new("geo.db");
+    let geo_db = std::path::Path::new("geo-0.0.1.db");
     let subdistrict_db = std::path::Path::new("subdistrict.db");
     let city_fst = std::path::Path::new("cities-0.0.1.fst");
     let city_rkyv = std::path::Path::new("cities-0.0.1.rkyv");

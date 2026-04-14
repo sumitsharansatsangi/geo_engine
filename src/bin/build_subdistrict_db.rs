@@ -4,28 +4,20 @@ use std::error::Error;
 use std::f64::consts::{FRAC_PI_2, FRAC_PI_4};
 use std::fs;
 use std::fs::File;
-use std::io::{self, BufRead, BufReader, BufWriter, Read, Seek, SeekFrom, Write};
+use std::io::{self, BufReader, Read, Seek, SeekFrom};
 use std::path::{Path, PathBuf};
 
 use rkyv::{Archive, Deserialize, Serialize, rancor::Error as RkyvError, to_bytes};
-use serde::{Deserialize as SerdeDeserialize, Serialize as SerdeSerialize};
 
 #[path = "common/district_data.rs"]
 mod district_data;
-use district_data::{DistrictProfile, find_district_profile, load_district_profiles};
-
-#[derive(Archive, Serialize, Deserialize, Debug)]
-struct GeoDB {
-    countries: Vec<Country>,
-}
-
-#[derive(Archive, Serialize, Deserialize, Debug)]
-struct Country {
-    name: String,
-    iso2: [u8; 2],
-    bbox: [f32; 4],
-    polygons: Vec<Vec<(f32, f32)>>,
-}
+#[allow(dead_code)]
+#[path = "common/subdistrict_db.rs"]
+mod subdistrict_db;
+use district_data::{find_district_profile, load_district_profiles};
+use subdistrict_db::{
+    Country, GeoDB, SubdistrictFeature, encode_subdistrict_payload, short_code, short_code_str,
+};
 
 #[derive(Debug)]
 struct DbfRecord {
@@ -42,19 +34,16 @@ struct ShapeRecord {
     rings: Vec<Vec<(f64, f64)>>,
 }
 
-#[derive(Debug, SerdeSerialize, SerdeDeserialize)]
-struct SubdistrictFeature {
-    name: String,
-    code: [u8; 2],
-    polygons: Vec<Vec<(f32, f32)>>,
-    bbox: [f32; 4],
-}
-
-#[derive(Debug, SerdeSerialize, SerdeDeserialize)]
-struct PartitionRow {
+#[derive(Archive, Serialize, Deserialize, Debug, Clone, Hash, PartialEq, Eq, PartialOrd, Ord)]
+struct SubdistrictKey {
     state: String,
     district: String,
     subdistrict: String,
+}
+
+#[derive(Archive, Serialize, Deserialize, Debug)]
+struct PartitionRow {
+    key: SubdistrictKey,
     feature: SubdistrictFeature,
 }
 
@@ -180,7 +169,8 @@ pub fn run() -> Result<(), Box<dyn Error>> {
         .and_then(|v| v.parse::<usize>().ok())
         .unwrap_or(0);
 
-    let mut subdistricts: HashMap<(String, String, String), SubdistrictFeature> = HashMap::new();
+    let mut subdistricts: HashMap<SubdistrictKey, SubdistrictFeature> =
+        HashMap::with_capacity(8192);
     let mut partition_paths: Vec<PathBuf> = Vec::new();
     let mut total_input_vertices = 0usize;
     let mut total_output_vertices = 0usize;
@@ -216,11 +206,11 @@ pub fn run() -> Result<(), Box<dyn Error>> {
         }
 
         let entry = subdistricts
-            .entry((
-                record.state.clone(),
-                record.district.clone(),
-                record.subdistrict.clone(),
-            ))
+            .entry(SubdistrictKey {
+                state: record.state.clone(),
+                district: record.district.clone(),
+                subdistrict: record.subdistrict.clone(),
+            })
             .or_insert_with(|| SubdistrictFeature {
                 name: {
                     let demographics = district_profiles.as_ref().and_then(|profiles| {
@@ -592,22 +582,21 @@ impl ShpReader {
         }
         part_indices.push(num_points);
 
-        let mut points = Vec::with_capacity(num_points);
-        for index in 0..num_points {
-            let point_offset = points_start + index * 16;
-            let x = read_f64_le(&content, point_offset)?;
-            let y = read_f64_le(&content, point_offset + 8)?;
-            points.push((x, y));
-        }
-
         let mut rings = Vec::with_capacity(num_parts);
         for pair in part_indices.windows(2) {
             let start = pair[0];
             let end = pair[1];
-            if start >= end || end > points.len() {
+            if start >= end || end > num_points {
                 continue;
             }
-            rings.push(points[start..end].to_vec());
+            let mut ring = Vec::with_capacity(end - start);
+            for point_index in start..end {
+                let point_offset = points_start + point_index * 16;
+                let x = read_f64_le(&content, point_offset)?;
+                let y = read_f64_le(&content, point_offset + 8)?;
+                ring.push((x, y));
+            }
+            rings.push(ring);
         }
 
         Ok(Some(ShapeRecord { rings }))
@@ -615,7 +604,7 @@ impl ShpReader {
 }
 
 fn spill_partition_to_disk(
-    subdistricts: &mut HashMap<(String, String, String), SubdistrictFeature>,
+    subdistricts: &mut HashMap<SubdistrictKey, SubdistrictFeature>,
     partition_paths: &mut Vec<PathBuf>,
 ) -> Result<(), Box<dyn Error>> {
     if subdistricts.is_empty() {
@@ -623,24 +612,16 @@ fn spill_partition_to_disk(
     }
 
     let partition_path = env::temp_dir().join(format!(
-        "geo_engine_subdistrict_partition_{}_{}.jsonl",
+        "geo_engine_subdistrict_partition_{}_{}.bin",
         std::process::id(),
         partition_paths.len()
     ));
-    let file = File::create(&partition_path)?;
-    let mut writer = BufWriter::new(file);
-
-    for ((state, district, subdistrict), feature) in subdistricts.drain() {
-        let row = PartitionRow {
-            state,
-            district,
-            subdistrict,
-            feature,
-        };
-        serde_json::to_writer(&mut writer, &row)?;
-        writer.write_all(b"\n")?;
+    let mut rows = Vec::with_capacity(subdistricts.len());
+    for (key, feature) in subdistricts.drain() {
+        rows.push(PartitionRow { key, feature });
     }
-    writer.flush()?;
+    let bytes = to_bytes::<RkyvError>(&rows)?;
+    fs::write(&partition_path, &bytes)?;
 
     partition_paths.push(partition_path);
     Ok(())
@@ -648,23 +629,45 @@ fn spill_partition_to_disk(
 
 fn load_partition_from_disk(
     partition_path: &Path,
-    subdistricts: &mut HashMap<(String, String, String), SubdistrictFeature>,
+    subdistricts: &mut HashMap<SubdistrictKey, SubdistrictFeature>,
 ) -> Result<(), Box<dyn Error>> {
-    let file = File::open(partition_path)?;
-    let reader = BufReader::new(file);
+    let bytes = fs::read(partition_path)?;
+    let rows: &rkyv::Archived<Vec<PartitionRow>> =
+        rkyv::access::<rkyv::Archived<Vec<PartitionRow>>, rkyv::rancor::Error>(&bytes)
+            .unwrap_or_else(|_| unsafe { rkyv::access_unchecked(&bytes) });
 
-    for line in reader.lines() {
-        let line = line?;
-        if line.trim().is_empty() {
-            continue;
-        }
+    for row in rows.iter() {
+        let key = SubdistrictKey {
+            state: row.key.state.as_str().to_string(),
+            district: row.key.district.as_str().to_string(),
+            subdistrict: row.key.subdistrict.as_str().to_string(),
+        };
 
-        let row: PartitionRow = serde_json::from_str(&line)?;
-        let key = (row.state, row.district, row.subdistrict);
+        let incoming = SubdistrictFeature {
+            name: row.feature.name.as_str().to_string(),
+            code: [row.feature.code[0], row.feature.code[1]],
+            polygons: row
+                .feature
+                .polygons
+                .iter()
+                .map(|ring| {
+                    ring.iter()
+                        .map(|point| (point.0.to_native(), point.1.to_native()))
+                        .collect()
+                })
+                .collect(),
+            bbox: [
+                row.feature.bbox[0].to_native(),
+                row.feature.bbox[1].to_native(),
+                row.feature.bbox[2].to_native(),
+                row.feature.bbox[3].to_native(),
+            ],
+        };
+
         if let Some(existing) = subdistricts.get_mut(&key) {
-            merge_subdistrict_feature(existing, row.feature);
+            merge_subdistrict_feature(existing, incoming);
         } else {
-            subdistricts.insert(key, row.feature);
+            subdistricts.insert(key, incoming);
         }
     }
 
@@ -690,9 +693,10 @@ fn select_outer_rings(rings: Vec<Vec<(f64, f64)>>) -> Vec<Vec<(f64, f64)>> {
         }
         let area = signed_area(&ring);
         if area < 0.0 {
-            negative_area_rings.push(ring.clone());
+            negative_area_rings.push(ring);
+        } else {
+            all_rings.push(ring);
         }
-        all_rings.push(ring);
     }
 
     if negative_area_rings.is_empty() {
@@ -727,79 +731,6 @@ fn find_field_index(fields: &[(String, usize)], candidates: &[&str]) -> Option<u
             .iter()
             .any(|candidate| name.eq_ignore_ascii_case(candidate))
     })
-}
-
-fn short_code(name: &str) -> [u8; 2] {
-    let mut code = [b' '; 2];
-    let mut chars = name
-        .bytes()
-        .filter(|b| b.is_ascii_alphabetic())
-        .map(|b| b.to_ascii_uppercase());
-
-    if let Some(first) = chars.next() {
-        code[0] = first;
-    }
-    if let Some(second) = chars.next() {
-        code[1] = second;
-    }
-
-    code
-}
-
-fn short_code_str(name: &str) -> String {
-    String::from_utf8_lossy(&short_code(name))
-        .trim()
-        .to_string()
-}
-
-fn encode_subdistrict_payload(
-    subdistrict: &str,
-    district: &str,
-    state: &str,
-    subdistrict_code: &str,
-    district_code: &str,
-    state_code: &str,
-    demographics: Option<&DistrictProfile>,
-) -> String {
-    let mut fields = vec![
-        sanitize_field(subdistrict),
-        sanitize_field(district),
-        sanitize_field(state),
-        sanitize_field(subdistrict_code),
-        sanitize_field(district_code),
-        sanitize_field(state_code),
-    ];
-
-    if let Some(profile) = demographics {
-        fields.push(sanitize_field(&profile.district_code));
-        fields.push(sanitize_field(&profile.major_religion));
-        fields.push(encode_languages(profile));
-    }
-
-    fields.join("||")
-}
-
-fn sanitize_field(value: &str) -> String {
-    value
-        .replace("||", "|")
-        .replace("##", "#")
-        .replace("~~", "~")
-}
-
-fn encode_languages(profile: &DistrictProfile) -> String {
-    profile
-        .languages
-        .iter()
-        .map(|language| {
-            format!(
-                "{}~~{}~~{}",
-                sanitize_field(&language.name),
-                sanitize_field(&language.usage_type),
-                sanitize_field(&language.code)
-            )
-        })
-        .collect::<Vec<String>>()
-        .join("##")
 }
 
 fn simplify_ring(

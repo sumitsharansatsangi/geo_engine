@@ -3,24 +3,17 @@ use std::error::Error;
 use std::fs;
 use std::path::{Path, PathBuf};
 
-use rkyv::{Archive, Deserialize, Serialize, rancor::Error as RkyvError, to_bytes};
+use rkyv::{rancor::Error as RkyvError, to_bytes};
 
 #[path = "common/district_data.rs"]
 mod district_data;
-use district_data::{DistrictProfile, find_district_profile, load_district_profiles};
-
-#[derive(Archive, Serialize, Deserialize, Debug)]
-struct GeoDB {
-    countries: Vec<Country>,
-}
-
-#[derive(Archive, Serialize, Deserialize, Debug)]
-struct Country {
-    name: String,
-    iso2: [u8; 2],
-    bbox: [f32; 4],
-    polygons: Vec<Vec<(f32, f32)>>,
-}
+#[allow(dead_code)]
+#[path = "common/subdistrict_db.rs"]
+mod subdistrict_db;
+use district_data::{find_district_profile, load_district_profiles};
+use subdistrict_db::{
+    Country, GeoDB, encode_subdistrict_payload, is_zstd, parse_subdistrict_payload,
+};
 
 fn main() -> Result<(), Box<dyn Error>> {
     let mut args = env::args().skip(1);
@@ -45,7 +38,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 
     for feature in archived.countries.iter() {
         let name = feature.name.to_string();
-        let updated_name = match parse_payload(&name) {
+        let updated_name = match parse_subdistrict_payload(&name) {
             Some(payload) => {
                 let demographics = find_district_profile(
                     &profiles,
@@ -55,7 +48,15 @@ fn main() -> Result<(), Box<dyn Error>> {
                 if demographics.is_some() {
                     enriched += 1;
                 }
-                encode_payload(&payload, demographics)
+                encode_subdistrict_payload(
+                    &payload.subdistrict_name,
+                    &payload.district_name,
+                    &payload.state_name,
+                    &payload.subdistrict_code,
+                    &payload.district_code,
+                    &payload.state_code,
+                    demographics,
+                )
             }
             None => name,
         };
@@ -102,73 +103,4 @@ fn load_db_bytes(path: &Path) -> Result<Vec<u8>, Box<dyn Error>> {
         return Ok(zstd::stream::decode_all(&bytes[..])?);
     }
     Ok(bytes)
-}
-
-fn is_zstd(bytes: &[u8]) -> bool {
-    bytes.len() >= 4 && bytes[0..4] == [0x28, 0xB5, 0x2F, 0xFD]
-}
-
-struct Payload {
-    subdistrict_name: String,
-    district_name: String,
-    state_name: String,
-    subdistrict_code: String,
-    district_code: String,
-    state_code: String,
-}
-
-fn parse_payload(raw: &str) -> Option<Payload> {
-    let parts: Vec<&str> = raw.split("||").collect();
-    if parts.len() < 6 {
-        return None;
-    }
-
-    Some(Payload {
-        subdistrict_name: parts[0].trim().to_string(),
-        district_name: parts[1].trim().to_string(),
-        state_name: parts[2].trim().to_string(),
-        subdistrict_code: parts[3].trim().to_string(),
-        district_code: parts[4].trim().to_string(),
-        state_code: parts[5].trim().to_string(),
-    })
-}
-
-fn encode_payload(payload: &Payload, demographics: Option<&DistrictProfile>) -> String {
-    let mut parts = vec![
-        sanitize_field(&payload.subdistrict_name),
-        sanitize_field(&payload.district_name),
-        sanitize_field(&payload.state_name),
-        sanitize_field(&payload.subdistrict_code),
-        sanitize_field(&payload.district_code),
-        sanitize_field(&payload.state_code),
-    ];
-
-    if let Some(profile) = demographics {
-        parts.push(sanitize_field(&profile.district_code));
-        parts.push(sanitize_field(&profile.major_religion));
-        parts.push(
-            profile
-                .languages
-                .iter()
-                .map(|language| {
-                    format!(
-                        "{}~~{}~~{}",
-                        sanitize_field(&language.name),
-                        sanitize_field(&language.usage_type),
-                        sanitize_field(&language.code)
-                    )
-                })
-                .collect::<Vec<String>>()
-                .join("##"),
-        );
-    }
-
-    parts.join("||")
-}
-
-fn sanitize_field(value: &str) -> String {
-    value
-        .replace("||", "|")
-        .replace("##", "#")
-        .replace("~~", "~")
 }

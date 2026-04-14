@@ -3,31 +3,37 @@ use rstar::{AABB, RTree, RTreeObject};
 
 use crate::engine::model::Country;
 
-pub struct CountryBBox<'a> {
-    country: &'a Archived<Country>,
+pub struct CountryBBox {
+    id: u32,
+    envelope: AABB<[f32; 2]>,
 }
 
-impl<'a> RTreeObject for CountryBBox<'a> {
+impl RTreeObject for CountryBBox {
     type Envelope = AABB<[f32; 2]>;
+
     fn envelope(&self) -> Self::Envelope {
-        let bbox = self.country.bbox;
-
-        let min = [bbox[0].into(), bbox[1].into()];
-        let max = [bbox[2].into(), bbox[3].into()];
-
-        AABB::from_corners(min, max)
+        self.envelope
     }
 }
 
-pub struct SpatialIndex<'a> {
-    tree: RTree<CountryBBox<'a>>,
+pub struct SpatialIndex {
+    tree: RTree<CountryBBox>,
 }
 
-impl<'a> SpatialIndex<'a> {
-    pub fn build(countries: &'a Archived<Vec<Country>>) -> Self {
+impl SpatialIndex {
+    pub fn build(countries: &Archived<Vec<Country>>) -> Self {
         let items = countries
             .iter()
-            .map(|c| CountryBBox { country: c })
+            .enumerate()
+            .map(|(idx, country)| {
+                let bbox = country.bbox;
+                let min = [bbox[0].into(), bbox[1].into()];
+                let max = [bbox[2].into(), bbox[3].into()];
+                CountryBBox {
+                    id: idx as u32,
+                    envelope: AABB::from_corners(min, max),
+                }
+            })
             .collect();
 
         let tree = RTree::bulk_load(items);
@@ -35,15 +41,11 @@ impl<'a> SpatialIndex<'a> {
         Self { tree }
     }
 
-    pub fn candidates(
-        &self,
-        lat: f32,
-        lon: f32,
-    ) -> impl Iterator<Item = &'a Archived<Country>> + '_ {
+    pub fn candidates(&self, lat: f32, lon: f32) -> impl Iterator<Item = u32> + '_ {
         let envelope = AABB::from_point([lon, lat]);
 
         self.tree
             .locate_in_envelope_intersecting(&envelope)
-            .map(|c| c.country)
+            .map(|c| c.id)
     }
 }

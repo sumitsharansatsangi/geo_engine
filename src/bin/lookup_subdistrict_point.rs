@@ -3,7 +3,7 @@ use std::path::Path;
 use std::process;
 
 const DEFAULT_SUBDISTRICT_DB: &str = "subdistrict.db";
-const DEFAULT_GEO_DB: &str = "geo.db";
+const DEFAULT_GEO_DB: &str = "geo-0.0.1.db";
 const DEFAULT_CITY_FST: &str = "cities-0.0.1.fst";
 const DEFAULT_CITY_RKYV: &str = "cities-0.0.1.rkyv";
 
@@ -59,7 +59,7 @@ fn print_usage_and_exit(message: &str) -> ! {
     eprintln!("{message}");
     eprintln!("Usage:");
     eprintln!(
-        "  cargo run --bin lookup_subdistrict_point -- <query> [subdistrict.db path] [geo.db path] [cities.fst path] [cities.rkyv path]"
+        "  cargo run --bin lookup_subdistrict_point -- <query> [subdistrict.db path] [geo-0.0.1.db path] [cities.fst path] [cities.rkyv path]"
     );
     process::exit(2);
 }

@@ -10,6 +10,7 @@ use rkyv::{Archived, string::ArchivedString};
 
 use crate::engine::city::{City, normalize};
 use crate::engine::error::GeoEngineError;
+use crate::engine::h3::{H3RuntimeIndex, default_sidecar_path, merge_candidate_ids};
 use crate::engine::model::Country;
 use crate::engine::{index::SpatialIndex, lookup::find_country, runtime::GeoEngine};
 
@@ -71,6 +72,7 @@ pub struct CityMatch {
     pub geoname_id: u32,
     pub name: String,
     pub ascii: String,
+    pub country_name: String,
     pub country_code: String,
     pub admin1_name: Option<String>,
     pub admin1_code: Option<String>,
@@ -109,7 +111,11 @@ pub struct InitializedGeoEngine {
 
 struct EngineBundle {
     country: GeoEngine,
+    country_index: SpatialIndex,
+    country_h3_index: Option<H3RuntimeIndex>,
+    country_names: HashMap<String, String>,
     subdistrict: Option<GeoEngine>,
+    subdistrict_index: Option<SpatialIndex>,
     subdistrict_db_path: PathBuf,
     city_index: Option<CityIndex>,
 }
@@ -226,13 +232,24 @@ impl InitializedGeoEngine {
         city_rkyv_path: &Path,
     ) -> Result<Self, GeoEngineError> {
         let country_engine = GeoEngine::open(country_db_path)?;
+        let country_index = SpatialIndex::build(country_engine.countries());
+        let country_names = load_country_names(country_engine.countries());
+        let country_h3_index = load_country_h3_index(country_db_path);
+
         let subdistrict_engine = Some(open_subdistrict_engine(subdistrict_db_path)?);
+        let subdistrict_index = subdistrict_engine
+            .as_ref()
+            .map(|engine| SpatialIndex::build(engine.countries()));
         let city_index = load_city_index(Some(city_fst_path), Some(city_rkyv_path))?;
 
         Ok(Self {
             engine: EngineBundle {
                 country: country_engine,
+                country_index,
+                country_h3_index,
+                country_names,
                 subdistrict: subdistrict_engine,
+                subdistrict_index,
                 subdistrict_db_path: subdistrict_db_path.to_path_buf(),
                 city_index,
             },
@@ -240,7 +257,13 @@ impl InitializedGeoEngine {
     }
 
     pub fn lookup(&self, lat: f32, lon: f32) -> Result<LookupResult, GeoEngineError> {
-        let country = lookup_country(lat, lon, &self.engine.country)?;
+        let country = lookup_country(
+            lat,
+            lon,
+            self.engine.country.countries(),
+            &self.engine.country_index,
+            self.engine.country_h3_index.as_ref(),
+        )?;
 
         if !country.is_india {
             return Ok(LookupResult {
@@ -264,8 +287,22 @@ impl InitializedGeoEngine {
             });
         };
 
-        let subdistrict_index = SpatialIndex::build(subdistrict_engine.countries());
-        let subdistrict_match_with_center = match find_country(lat, lon, &subdistrict_index) {
+        let subdistrict_index = self.engine.subdistrict_index.as_ref().ok_or_else(|| {
+            GeoEngineError::DistrictDatabaseUnavailable {
+                path: self.engine.subdistrict_db_path.clone(),
+                source: std::io::Error::new(
+                    std::io::ErrorKind::NotFound,
+                    "subdistrict spatial index not initialized",
+                ),
+            }
+        })?;
+
+        let subdistrict_match_with_center = match find_country(
+            lat,
+            lon,
+            subdistrict_index,
+            subdistrict_engine.countries(),
+        ) {
             Ok(feature) => {
                 let region = region_from_archived(&feature.name, &feature.iso2);
                 let center = calculate_polygon_center(&feature.polygons);
@@ -458,6 +495,12 @@ impl InitializedGeoEngine {
                     geoname_id: city.geoname_id,
                     name: city.name.clone(),
                     ascii: city.ascii.clone(),
+                    country_name: self
+                        .engine
+                        .country_names
+                        .get(&city.country_code)
+                        .cloned()
+                        .unwrap_or_else(|| city.country_code.clone()),
                     country_code: city.country_code.clone(),
                     admin1_name: city.admin1_name.clone(),
                     admin1_code: city.admin1_code.clone(),
@@ -490,7 +533,13 @@ impl InitializedGeoEngine {
             });
         };
 
-        nearest_city_from_map(lat, lon, &city_index.cities_by_id, &city_index.city_rkyv_path)
+        nearest_city_from_map(
+            lat,
+            lon,
+            &city_index.cities_by_id,
+            &city_index.city_rkyv_path,
+            &self.engine.country_names,
+        )
     }
 }
 
@@ -499,6 +548,7 @@ fn nearest_city_from_map(
     lon: f32,
     cities_by_id: &HashMap<u32, City>,
     city_rkyv_path: &Path,
+    country_names: &HashMap<String, String>,
 ) -> Result<CityMatch, GeoEngineError> {
     let nearest = cities_by_id
         .values()
@@ -521,6 +571,7 @@ fn nearest_city_from_map(
         geoname_id: nearest.geoname_id,
         name: nearest.name.clone(),
         ascii: nearest.ascii.clone(),
+        country_name: country_name_for_code(&nearest.country_code, country_names),
         country_code: nearest.country_code.clone(),
         admin1_name: nearest.admin1_name.clone(),
         admin1_code: nearest.admin1_code.clone(),
@@ -585,14 +636,73 @@ fn open_subdistrict_engine(subdistrict_db_path: &Path) -> Result<GeoEngine, GeoE
     })
 }
 
+fn load_country_names(countries: &Archived<Vec<Country>>) -> HashMap<String, String> {
+    let mut names = HashMap::with_capacity(countries.len());
+    for country in countries.iter() {
+        let code = String::from_utf8_lossy(&[country.iso2[0], country.iso2[1]]).into_owned();
+        names.insert(code, country.name.to_string());
+    }
+    names
+}
+
+fn country_name_for_code(code: &str, country_names: &HashMap<String, String>) -> String {
+    country_names
+        .get(code)
+        .cloned()
+        .unwrap_or_else(|| code.to_string())
+}
+
+fn load_country_h3_index(country_db_path: &Path) -> Option<H3RuntimeIndex> {
+    if std::env::var("GEO_ENGINE_DISABLE_H3")
+        .map(|value| value == "1" || value.eq_ignore_ascii_case("true"))
+        .unwrap_or(false)
+    {
+        return None;
+    }
+
+    let sidecar_path = default_sidecar_path(country_db_path);
+    match H3RuntimeIndex::from_file(&sidecar_path) {
+        Ok(index) => Some(index),
+        Err(GeoEngineError::DatabaseOpen { .. }) => None,
+        Err(err) => {
+            eprintln!(
+                "geo_engine: failed to load H3 sidecar '{}': {}",
+                sidecar_path.display(),
+                err
+            );
+            None
+        }
+    }
+}
+
 struct CountryLookup {
     region: Region,
     is_india: bool,
 }
 
-fn lookup_country(lat: f32, lon: f32, engine: &GeoEngine) -> Result<CountryLookup, GeoEngineError> {
-    let index = SpatialIndex::build(engine.countries());
-    let country = find_country(lat, lon, &index)?;
+fn lookup_country(
+    lat: f32,
+    lon: f32,
+    countries: &Archived<Vec<Country>>,
+    index: &SpatialIndex,
+    h3_index: Option<&H3RuntimeIndex>,
+) -> Result<CountryLookup, GeoEngineError> {
+    let rtree_candidates = index.candidates(lat, lon);
+    let h3_candidates = h3_index.and_then(|idx| idx.candidate_ids(lat, lon));
+    let candidates = merge_candidate_ids(h3_candidates, rtree_candidates);
+
+    let country = candidates
+        .into_iter()
+        .find_map(|id| {
+            let country = countries.get(id as usize)?;
+            let inside = country
+                .polygons
+                .iter()
+                .any(|ring| crate::engine::polygon::point_in_ring(lat, lon, ring));
+            if inside { Some(country) } else { None }
+        })
+        .ok_or(GeoEngineError::CountryNotFound { lat, lon })?;
+
     Ok(CountryLookup {
         region: region_from_archived(&country.name, &country.iso2),
         is_india: is_india(country),
