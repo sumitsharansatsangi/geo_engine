@@ -1,7 +1,9 @@
 use fst::MapBuilder;
 use std::collections::HashMap;
+use std::env;
 use std::fs::File;
 use std::io::{BufRead, BufReader, Cursor};
+use std::path::PathBuf;
 use zip::ZipArchive;
 
 #[path = "../engine/city.rs"]
@@ -19,8 +21,13 @@ struct CityPoint {
 // ----------- MAIN -----------
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let version = parse_version(env::args().skip(1))?;
+    let fst_path = versioned_name(&version, "fst");
+    let rkyv_path = versioned_name(&version, "rkyv");
+    let points_path = versioned_name(&version, "points");
+
     // ---- FST ----
-    let fst_file = File::create("cities.fst")?;
+    let fst_file = File::create(&fst_path)?;
     let mut fst = MapBuilder::new(fst_file)?;
     let mut city_keys: Vec<(String, u64)> = Vec::new();
 
@@ -149,18 +156,53 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     // ---- SAVE RKYV (Cities) ----
     let city_bytes = rkyv::to_bytes::<rkyv::rancor::Error>(&cities)?;
-    std::fs::write("cities.rkyv", &city_bytes)?;
+    std::fs::write(&rkyv_path, &city_bytes)?;
 
     // ---- SAVE POINTS (NOT RTREE!) ----
     let point_bytes = rkyv::to_bytes::<rkyv::rancor::Error>(&points)?;
-    std::fs::write("cities.points", &point_bytes)?;
+    std::fs::write(&points_path, &point_bytes)?;
 
     println!("✅ Build complete:");
-    println!("  - cities.fst");
-    println!("  - cities.rkyv");
-    println!("  - cities.points");
+    println!("  - {}", fst_path.display());
+    println!("  - {}", rkyv_path.display());
+    println!("  - {}", points_path.display());
 
     Ok(())
+}
+
+fn parse_version(
+    mut args: impl Iterator<Item = String>,
+) -> Result<String, Box<dyn std::error::Error>> {
+    let mut version = String::from("0.0.1");
+
+    while let Some(arg) = args.next() {
+        match arg.as_str() {
+            "--version" => {
+                let value = args.next().ok_or("missing value for --version")?;
+                let trimmed = value.trim();
+                if trimmed.is_empty() {
+                    return Err("--version cannot be empty".into());
+                }
+                version = trimmed.to_string();
+            }
+            "--help" | "-h" => {
+                print_usage();
+                std::process::exit(0);
+            }
+            _ => return Err(format!("unknown argument: {arg}").into()),
+        }
+    }
+
+    Ok(version)
+}
+
+fn versioned_name(version: &str, ext: &str) -> PathBuf {
+    PathBuf::from(format!("cities-{version}.{ext}"))
+}
+
+fn print_usage() {
+    eprintln!("Usage:");
+    eprintln!("  cargo run --bin build_city -- [--version X.Y.Z]");
 }
 
 fn collect_key(city_keys: &mut Vec<(String, u64)>, key: String, value: u64) {
@@ -168,7 +210,7 @@ fn collect_key(city_keys: &mut Vec<(String, u64)>, key: String, value: u64) {
         return;
     }
 
-     city_keys.push((key, value));
+    city_keys.push((key, value));
 }
 
 fn city_key(

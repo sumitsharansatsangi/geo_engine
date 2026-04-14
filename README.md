@@ -43,6 +43,75 @@ Search by subdistrict name:
 cargo run --bin lookup_subdistrict_point -- --search sabour subdistrict.db
 ```
 
+Build `geo-0.0.1.db` directly from the countries GeoJSON source:
+
+```bash
+cargo run --bin build_geo_db -- \
+	--input-url https://github.com/datasets/geo-countries/blob/main/data/countries.geojson \
+	--version 0.0.1
+```
+
+Rebuild the spatial sidecar after regenerating the country DB:
+
+```bash
+cargo run --bin build_spatial_index -- geo-0.0.1.db geo-0.0.1.spx
+```
+
+Generate `assets-manifest.json` from local release files:
+
+```bash
+cargo run --bin build_assets_manifest -- --version 0.0.1
+```
+
+By default, the helper expects versioned files named `geo-<version>.db`, `subdistrict-<version>.db`, and `cities-<version>.{fst,rkyv,points}` in the current directory. You can override individual paths with `--geo`, `--subdistrict`, `--city-fst`, `--city-rkyv`, and `--city-points`, and you can override the release download base URL with `--base-url`.
+
+Build and package all release assets in one command:
+
+```bash
+scripts/build_release_assets.sh --version 0.0.1
+```
+
+This script runs the geo, city, and subdistrict builders, writes all `.sha256` files, and emits `assets-manifest.json`.
+
+If you prefer Make:
+
+```bash
+make release-assets VERSION=0.0.1
+```
+
+If you prefer just:
+
+```bash
+just release-assets version=0.0.1
+```
+
+For CI/CD releases, push a tag like `v0.0.1` or run the GitHub Actions workflow named `Release Assets`. The workflow checks that the versioned artifacts already exist, regenerates `assets-manifest.json`, and publishes the release assets automatically.
+
+If you want the runner to rebuild from source inputs instead of using prebuilt artifacts, use the GitHub Actions workflow named `Release Assets From Sources`. For tag-based releases, set repository variables `SUBDISTRICT_SHP_URL`, `SUBDISTRICT_DBF_URL`, and optionally `DATA_CSV_URL`, `GEOJSON_URL`, and `RELEASE_BASE_URL`. After that, pushing a tag like `v0.0.2` builds geo, cities, subdistrict, checksums, and the manifest automatically.
+
+## Release Checklist
+
+1. Configure repository variables once in GitHub (`Settings -> Secrets and variables -> Actions -> Variables`):
+	- `SUBDISTRICT_SHP_URL` (required)
+	- `SUBDISTRICT_DBF_URL` (required)
+	- `DATA_CSV_URL` (optional)
+	- `GEOJSON_URL` (optional, default is the countries GeoJSON URL)
+	- `RELEASE_BASE_URL` (optional)
+2. Confirm local build is green:
+
+```bash
+cargo check --bins
+```
+
+3. Create and push a release tag:
+
+```bash
+git tag v0.0.2
+git push origin v0.0.2
+```
+
+4. Watch GitHub Actions workflow `Release Assets From Sources` and verify the release artifacts and `assets-manifest.json` were published.
+
 ## Public API
 
 Main exported functions:

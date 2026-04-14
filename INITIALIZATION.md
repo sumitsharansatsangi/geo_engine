@@ -92,16 +92,59 @@ For each required asset, the initialization follows this flow:
      - If checksum matches → Use it
      - If checksum mismatches → Delete and redownload
 
-2. **Download from GitHub Release**
-   - If file doesn't exist or checksum failed, download from `v0.0.1` release
-   - Release URL: `https://github.com/sumitsharansatsangi/geo_engine/releases/download/v0.0.1/`
+2. **Resolve from latest release manifest**
+     - The engine fetches latest release metadata from GitHub API
+     - It then downloads `assets-manifest.json` from that release
+     - Required files are selected from the manifest by asset group:
+         - `init_geo_engine*` / `init_all_assets*` require `geo + subdistrict + city`
+         - `init_city_assets*` requires only `city`
 
 3. **Validate after Download** (if `verify_checksum=true`)
    - Compute SHA-256 of downloaded file
-   - Compare against hardcoded expected value
+     - Compare against manifest SHA-256 value
    - Raise `ReleaseChecksumMismatch` error if mismatch detected
 
-### Assets and SHA-256 Values
+### Release Manifest Format
+
+Each GitHub release must include an `assets-manifest.json` file with this structure:
+
+```json
+{
+    "geo": {
+        "db": {
+            "name": "geo-0.0.2.db",
+            "url": "https://github.com/<owner>/<repo>/releases/download/v0.0.2/geo-0.0.2.db",
+            "sha256": "<64-hex-sha256>"
+        }
+    },
+    "subdistrict": {
+        "db": {
+            "name": "subdistrict-0.0.2.db",
+            "url": "https://github.com/<owner>/<repo>/releases/download/v0.0.2/subdistrict-0.0.2.db",
+            "sha256": "<64-hex-sha256>"
+        }
+    },
+    "city": {
+        "fst": {
+            "name": "cities-0.0.2.fst",
+            "url": "https://github.com/<owner>/<repo>/releases/download/v0.0.2/cities-0.0.2.fst",
+            "sha256": "<64-hex-sha256>"
+        },
+        "rkyv": {
+            "name": "cities-0.0.2.rkyv",
+            "url": "https://github.com/<owner>/<repo>/releases/download/v0.0.2/cities-0.0.2.rkyv",
+            "sha256": "<64-hex-sha256>"
+        },
+        "points": {
+            "name": "cities-0.0.2.points",
+            "url": "https://github.com/<owner>/<repo>/releases/download/v0.0.2/cities-0.0.2.points",
+            "sha256": "<64-hex-sha256>"
+        }
+    }
+}
+```
+
+### Assets and SHA-256 Values (Example)
 
 | Asset | Filename | SHA-256 |
 |-------|----------|---------|
@@ -178,3 +221,26 @@ fn main() {
 ✅ **Custom asset paths** - Store downloaded files anywhere
 ✅ **Automatic retry** - Corrupted files are automatically redownloaded
 ✅ **Clean error reporting** - Detailed error messages for debugging
+
+## Release Checklist
+
+1. Configure repository variables once in GitHub (`Settings -> Secrets and variables -> Actions -> Variables`):
+    - `SUBDISTRICT_SHP_URL` (required)
+    - `SUBDISTRICT_DBF_URL` (required)
+    - `DATA_CSV_URL` (optional)
+    - `GEOJSON_URL` (optional, default is the countries GeoJSON URL)
+    - `RELEASE_BASE_URL` (optional)
+2. Confirm local build is green:
+
+```bash
+cargo check --bins
+```
+
+3. Create and push a release tag:
+
+```bash
+git tag v0.0.2
+git push origin v0.0.2
+```
+
+4. Verify GitHub Actions workflow `Release Assets From Sources` completed and published release assets plus `assets-manifest.json`.

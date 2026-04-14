@@ -1,0 +1,125 @@
+name: Release Assets From Sources
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Release version without the leading v (optional for tag pushes)
+        required: false
+        type: string
+      geojson_url:
+        description: GeoJSON URL for geo countries source
+        required: false
+        default: https://github.com/datasets/geo-countries/blob/main/data/countries.geojson
+        type: string
+      subdistrict_shp_url:
+        description: URL for SUBDISTRICT_BOUNDARY.shp
+        required: false
+        type: string
+      subdistrict_dbf_url:
+        description: URL for SUBDISTRICT_BOUNDARY.dbf
+        required: false
+        type: string
+      data_csv_url:
+        description: Optional URL for data.csv
+        required: false
+        type: string
+      base_url:
+        description: Optional release download base URL override
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Resolve version
+        id: version
+        shell: bash
+        run: |
+          set -euo pipefail
+          version='${{ inputs.version || '' }}'
+          if [[ -z "$version" ]]; then
+            version="${GITHUB_REF_NAME#v}"
+          fi
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+          echo "release_tag=v$version" >> "$GITHUB_OUTPUT"
+          echo "release_base_url=https://github.com/${GITHUB_REPOSITORY}/releases/download/v$version/" >> "$GITHUB_OUTPUT"
+
+      - name: Download source inputs
+        shell: bash
+        env:
+          GEOJSON_URL: ${{ inputs.geojson_url || vars.GEOJSON_URL || 'https://github.com/datasets/geo-countries/blob/main/data/countries.geojson' }}
+          SUBDISTRICT_SHP_URL: ${{ inputs.subdistrict_shp_url || vars.SUBDISTRICT_SHP_URL }}
+          SUBDISTRICT_DBF_URL: ${{ inputs.subdistrict_dbf_url || vars.SUBDISTRICT_DBF_URL }}
+          DATA_CSV_URL: ${{ inputs.data_csv_url || vars.DATA_CSV_URL }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$SUBDISTRICT_SHP_URL" || -z "$SUBDISTRICT_DBF_URL" ]]; then
+            echo "Repository variables SUBDISTRICT_SHP_URL and SUBDISTRICT_DBF_URL must be set for tag-based releases." >&2
+            exit 1
+          fi
+
+          mkdir -p .release-inputs
+          curl -L --fail --retry 3 --output .release-inputs/subdistrict_boundary.shp "$SUBDISTRICT_SHP_URL"
+          curl -L --fail --retry 3 --output .release-inputs/subdistrict_boundary.dbf "$SUBDISTRICT_DBF_URL"
+
+          if [[ -n "$DATA_CSV_URL" ]]; then
+            curl -L --fail --retry 3 --output .release-inputs/data.csv "$DATA_CSV_URL"
+          else
+            cp data.csv .release-inputs/data.csv
+          fi
+
+      - name: Build release assets
+        shell: bash
+        env:
+          BASE_URL: ${{ inputs.base_url || vars.RELEASE_BASE_URL }}
+          GEOJSON_URL: ${{ inputs.geojson_url || vars.GEOJSON_URL || 'https://github.com/datasets/geo-countries/blob/main/data/countries.geojson' }}
+        run: |
+          set -euo pipefail
+          args=(
+            --version '${{ steps.version.outputs.version }}'
+            --geojson-url "$GEOJSON_URL"
+            --subdistrict-shp .release-inputs/subdistrict_boundary.shp
+            --subdistrict-dbf .release-inputs/subdistrict_boundary.dbf
+            --data-csv .release-inputs/data.csv
+          )
+
+          if [[ -n "$BASE_URL" ]]; then
+            args+=(--base-url "$BASE_URL")
+          fi
+
+          ./scripts/build_release_assets.sh "${args[@]}"
+
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.release_tag }}
+          name: ${{ steps.version.outputs.release_tag }}
+          generate_release_notes: true
+          files: |
+            geo-${{ steps.version.outputs.version }}.db
+            geo-${{ steps.version.outputs.version }}.db.sha256
+            geo-${{ steps.version.outputs.version }}.spx
+            subdistrict-${{ steps.version.outputs.version }}.db
+            subdistrict-${{ steps.version.outputs.version }}.db.sha256
+            cities-${{ steps.version.outputs.version }}.fst
+            cities-${{ steps.version.outputs.version }}.fst.sha256
+            cities-${{ steps.version.outputs.version }}.rkyv
+            cities-${{ steps.version.outputs.version }}.rkyv.sha256
+            cities-${{ steps.version.outputs.version }}.points
+            cities-${{ steps.version.outputs.version }}.points.sha256
+            assets-manifest.json

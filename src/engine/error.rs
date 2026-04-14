@@ -42,6 +42,11 @@ pub enum GeoEngineError {
         repo: String,
         source: serde_json::Error,
     },
+    /// Failed to parse release manifest.
+    ReleaseManifestParse {
+        repo: String,
+        source: serde_json::Error,
+    },
     /// Expected asset not found in release.
     ReleaseAssetMissing { repo: String, asset: String },
     /// Failed to download release asset.
@@ -126,6 +131,13 @@ impl fmt::Display for GeoEngineError {
                     repo, source
                 )
             }
+            Self::ReleaseManifestParse { repo, source } => {
+                write!(
+                    f,
+                    "failed to parse release manifest for '{}': {}",
+                    repo, source
+                )
+            }
             Self::ReleaseAssetMissing { repo, asset } => {
                 write!(
                     f,
@@ -178,6 +190,7 @@ impl Error for GeoEngineError {
             Self::CacheDirectoryUnavailable { source, .. } => Some(source),
             Self::ReleaseMetadataUnavailable { source, .. } => Some(source),
             Self::ReleaseMetadataParse { source, .. } => Some(source),
+            Self::ReleaseManifestParse { source, .. } => Some(source),
             Self::ReleaseDownloadFailed { source, .. } => Some(source),
             Self::CountryNotFound { .. }
             | Self::DistrictNotFound { .. }
