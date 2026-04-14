@@ -2,32 +2,20 @@ use std::env;
 use std::path::Path;
 use std::process;
 
-const DEFAULT_CITY_FST: &str = "cities-0.0.1.fst";
-const DEFAULT_CITY_RKYV: &str = "cities-0.0.1.rkyv";
+const DEFAULT_ASSET_DIR: &str = ".";
 
 fn main() {
     let mut args = env::args().skip(1);
     let lat = parse_coord(args.next(), "latitude");
     let lon = parse_coord(args.next(), "longitude");
-    let geo_path = args.next().unwrap_or_else(|| {
-        print_usage_and_exit("missing geo.db path");
-    });
-    let subdistrict_path = args.next().unwrap_or_else(|| {
-        print_usage_and_exit("missing subdistrict.db path");
-    });
-
-    let geo_db = Path::new(&geo_path);
-    let subdistrict_db = Path::new(&subdistrict_path);
-    let city_fst_path = args.next().unwrap_or_else(|| DEFAULT_CITY_FST.to_string());
-    let city_rkyv_path = args.next().unwrap_or_else(|| DEFAULT_CITY_RKYV.to_string());
-    let city_fst = Path::new(&city_fst_path);
-    let city_rkyv = Path::new(&city_rkyv_path);
+    let asset_dir_path = args.next().unwrap_or_else(|| DEFAULT_ASSET_DIR.to_string());
+    let asset_dir = Path::new(&asset_dir_path);
 
     if args.next().is_some() {
         print_usage_and_exit("received too many arguments");
     }
 
-    if let Err(err) = geo_engine::init_path(geo_db, subdistrict_db, city_fst, city_rkyv) {
+    if let Err(err) = geo_engine::init_path(asset_dir) {
         eprintln!("Init failed: {err}");
         process::exit(1);
     }
@@ -74,11 +62,6 @@ fn parse_coord(value: Option<String>, label: &str) -> f32 {
 
 fn print_usage_and_exit(message: &str) -> ! {
     eprintln!("{message}");
-    eprintln!(
-        "Usage: cargo run --bin lookup_point -- <latitude> <longitude> <geo.db path> <subdistrict.db path>"
-    );
-    eprintln!(
-        "       cargo run --bin lookup_point -- <latitude> <longitude> <geo.db path> <subdistrict.db path> [cities.fst path] [cities.rkyv path]"
-    );
+    eprintln!("Usage: cargo run --bin lookup_point -- <latitude> <longitude> [asset_dir]");
     process::exit(2);
 }

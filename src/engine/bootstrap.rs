@@ -5,6 +5,7 @@ use serde::Deserialize;
 use sha2::{Digest, Sha256};
 use std::collections::HashMap;
 use std::env;
+use std::fmt::Write as _;
 use std::fs;
 use std::io::Read;
 use std::path::{Path, PathBuf};
@@ -502,13 +503,21 @@ fn compute_file_sha256(path: &Path) -> Result<String, GeoEngineError> {
         hasher.update(&buffer[..n]);
     }
 
-    Ok(format!("{:x}", hasher.finalize()))
+    Ok(digest_to_hex(hasher.finalize().as_slice()))
 }
 
 fn compute_data_sha256(data: &[u8]) -> String {
     let mut hasher = Sha256::new();
     hasher.update(data);
-    format!("{:x}", hasher.finalize())
+    digest_to_hex(hasher.finalize().as_slice())
+}
+
+fn digest_to_hex(bytes: &[u8]) -> String {
+    let mut out = String::with_capacity(bytes.len() * 2);
+    for byte in bytes {
+        let _ = write!(&mut out, "{byte:02x}");
+    }
+    out
 }
 
 fn download_bytes(url: &str, asset_name: &str) -> Result<Vec<u8>, GeoEngineError> {

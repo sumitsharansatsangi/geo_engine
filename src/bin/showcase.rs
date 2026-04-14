@@ -14,29 +14,17 @@ fn main() {
         .next()
         .and_then(|value| value.parse::<f32>().ok())
         .unwrap_or(85.1376);
-    let geo_db = args
+    let asset_dir = args
         .next()
         .map(|value| Path::new(&value).to_path_buf())
-        .unwrap_or_else(|| Path::new("geo-0.0.1.db").to_path_buf());
-    let subdistrict_db = args
-        .next()
-        .map(|value| Path::new(&value).to_path_buf())
-        .unwrap_or_else(|| Path::new("subdistrict.db").to_path_buf());
-    let city_fst = args
-        .next()
-        .map(|value| Path::new(&value).to_path_buf())
-        .unwrap_or_else(|| Path::new("cities-0.0.1.fst").to_path_buf());
-    let city_rkyv = args
-        .next()
-        .map(|value| Path::new(&value).to_path_buf())
-        .unwrap_or_else(|| Path::new("cities-0.0.1.rkyv").to_path_buf());
+        .unwrap_or_else(|| Path::new(".").to_path_buf());
 
     if args.next().is_some() {
         print_usage_and_exit();
     }
 
     println!("initializing engine...");
-    if let Err(err) = geo_engine::init_path(&geo_db, &subdistrict_db, &city_fst, &city_rkyv) {
+    if let Err(err) = geo_engine::init_path(&asset_dir) {
         eprintln!("init failed: {err}");
         process::exit(1);
     }
@@ -96,9 +84,7 @@ fn main() {
 
 fn print_usage_and_exit() -> ! {
     eprintln!("Usage:");
-    eprintln!(
-        "  cargo run --bin showcase -- [query] [lat] [lon] [geo-0.0.1.db] [subdistrict.db] [cities-0.0.1.fst] [cities-0.0.1.rkyv]"
-    );
+    eprintln!("  cargo run --bin showcase -- [query] [lat] [lon] [asset_dir]");
     process::exit(2);
 }
 

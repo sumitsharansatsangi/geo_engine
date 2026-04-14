@@ -2,24 +2,12 @@ use std::path::PathBuf;
 
 use geo_engine::{GeoEngineError, init_path, reverse_geocoding, search};
 
-fn db_paths() -> (PathBuf, PathBuf) {
-    let root = PathBuf::from(env!("CARGO_MANIFEST_DIR"));
-    (root.join("geo.db"), root.join("subdistrict.db"))
-}
-
-fn city_asset_paths() -> (PathBuf, PathBuf) {
-    let root = PathBuf::from(env!("CARGO_MANIFEST_DIR"));
-    (
-        root.join("cities-0.0.1.fst"),
-        root.join("cities-0.0.1.rkyv"),
-    )
+fn asset_dir() -> PathBuf {
+    PathBuf::from(env!("CARGO_MANIFEST_DIR"))
 }
 
 fn init_for_tests() {
-    let (country_db, subdistrict_db) = db_paths();
-    let (city_fst, city_rkyv) = city_asset_paths();
-    init_path(&country_db, &subdistrict_db, &city_fst, &city_rkyv)
-        .expect("init_path should succeed");
+    init_path(&asset_dir()).expect("init_path should succeed");
 }
 
 #[test]
@@ -86,16 +74,13 @@ fn reverse_geocoding_india_has_subdistrict() {
 
 #[test]
 fn init_path_rejects_different_second_paths() {
-    let (country_db, subdistrict_db) = db_paths();
-    let (city_fst, city_rkyv) = city_asset_paths();
+    let root = asset_dir();
 
-    init_path(&country_db, &subdistrict_db, &city_fst, &city_rkyv)
-        .expect("first init should succeed");
+    init_path(&root).expect("first init should succeed");
 
-    let different_subdistrict =
-        PathBuf::from(env!("CARGO_MANIFEST_DIR")).join("other-subdistrict.db");
-    let err = init_path(&country_db, &different_subdistrict, &city_fst, &city_rkyv)
-        .expect_err("second init with different paths should fail");
+    let different_asset_dir = root.join("other-assets");
+    let err =
+        init_path(&different_asset_dir).expect_err("second init with different paths should fail");
 
     assert!(matches!(err, GeoEngineError::PathsAlreadyInitialized));
 }

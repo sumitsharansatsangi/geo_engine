@@ -2,12 +2,9 @@ fn main() {
     let lat = 25.25;
     let lon = 87.04;
 
-    let geo_db = std::path::Path::new("geo-0.0.1.db");
-    let subdistrict_db = std::path::Path::new("subdistrict.db");
-    let city_fst = std::path::Path::new("cities-0.0.1.fst");
-    let city_rkyv = std::path::Path::new("cities-0.0.1.rkyv");
+    let asset_dir = std::path::Path::new(".");
 
-    if let Err(err) = geo_engine::init_path(geo_db, subdistrict_db, city_fst, city_rkyv) {
+    if let Err(err) = geo_engine::init_path(asset_dir) {
         eprintln!("Initialization failed: {}", err);
         std::process::exit(1);
     }

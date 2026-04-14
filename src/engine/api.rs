@@ -14,6 +14,7 @@ use crate::engine::city::{City, normalize};
 use crate::engine::error::GeoEngineError;
 use crate::engine::model::Country;
 use crate::engine::{
+    bootstrap::init_all_assets,
     index::SpatialIndex,
     lookup::{find_country, prefilter_bbox_candidates},
     runtime::GeoEngine,
@@ -137,6 +138,7 @@ struct CityIndex {
 }
 
 struct InitializedPaths {
+    asset_dir: PathBuf,
     country_db_path: PathBuf,
     subdistrict_db_path: PathBuf,
     city_fst_path: PathBuf,
@@ -153,27 +155,29 @@ static ENGINE: OnceLock<Result<InitializedGeoEngine, String>> = OnceLock::new();
 /// paths are allowed; different paths will return `PathsAlreadyInitialized` error.
 ///
 /// # Arguments
-/// * `country_db_path` - Path to the country/world database
-/// * `subdistrict_db_path` - Path to the Indian subdistrict database
-/// * `city_fst_path` - Path to the city FST index
-/// * `city_rkyv_path` - Path to the city rkyv serialized data
-pub fn init_path(
-    country_db_path: &Path,
-    subdistrict_db_path: &Path,
-    city_fst_path: &Path,
-    city_rkyv_path: &Path,
-) -> Result<(), GeoEngineError> {
-    let initialized_paths = PATHS.get_or_init(|| InitializedPaths {
-        country_db_path: country_db_path.to_path_buf(),
-        subdistrict_db_path: subdistrict_db_path.to_path_buf(),
-        city_fst_path: city_fst_path.to_path_buf(),
-        city_rkyv_path: city_rkyv_path.to_path_buf(),
-    });
+/// * `asset_dir` - Directory where geo assets are located or will be downloaded
+pub fn init_path(asset_dir: &Path) -> Result<(), GeoEngineError> {
+    if let Some(initialized_paths) = PATHS.get() {
+        if initialized_paths.asset_dir != asset_dir {
+            return Err(GeoEngineError::PathsAlreadyInitialized);
+        }
 
-    let same_paths = initialized_paths.country_db_path == country_db_path
-        && initialized_paths.subdistrict_db_path == subdistrict_db_path
-        && initialized_paths.city_fst_path == city_fst_path
-        && initialized_paths.city_rkyv_path == city_rkyv_path;
+        let _ = get_initialized_engine()?;
+        return Ok(());
+    }
+
+    let asset_paths = init_all_assets(asset_dir)?;
+    let candidate_paths = InitializedPaths {
+        asset_dir: asset_dir.to_path_buf(),
+        country_db_path: asset_paths.geo_db_path,
+        subdistrict_db_path: asset_paths.subdistrict_db_path,
+        city_fst_path: asset_paths.city_fst_path,
+        city_rkyv_path: asset_paths.city_rkyv_path,
+    };
+
+    let initialized_paths = PATHS.get_or_init(|| candidate_paths);
+
+    let same_paths = initialized_paths.asset_dir == asset_dir;
 
     if !same_paths {
         return Err(GeoEngineError::PathsAlreadyInitialized);

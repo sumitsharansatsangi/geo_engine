@@ -2,10 +2,7 @@ use std::env;
 use std::path::Path;
 use std::process;
 
-const DEFAULT_SUBDISTRICT_DB: &str = "subdistrict.db";
-const DEFAULT_GEO_DB: &str = "geo-0.0.1.db";
-const DEFAULT_CITY_FST: &str = "cities-0.0.1.fst";
-const DEFAULT_CITY_RKYV: &str = "cities-0.0.1.rkyv";
+const DEFAULT_ASSET_DIR: &str = ".";
 
 fn main() {
     let mut args = env::args().skip(1);
@@ -13,23 +10,15 @@ fn main() {
         print_usage_and_exit("missing search query");
     });
 
-    let subdistrict_path = args
-        .next()
-        .unwrap_or_else(|| DEFAULT_SUBDISTRICT_DB.to_string());
-    let geo_path = args.next().unwrap_or_else(|| DEFAULT_GEO_DB.to_string());
-    let city_fst_path = args.next().unwrap_or_else(|| DEFAULT_CITY_FST.to_string());
-    let city_rkyv_path = args.next().unwrap_or_else(|| DEFAULT_CITY_RKYV.to_string());
+    let asset_dir_path = args.next().unwrap_or_else(|| DEFAULT_ASSET_DIR.to_string());
 
     if args.next().is_some() {
         print_usage_and_exit("received too many arguments");
     }
 
-    let geo_db = Path::new(&geo_path);
-    let subdistrict_db = Path::new(&subdistrict_path);
-    let city_fst = Path::new(&city_fst_path);
-    let city_rkyv = Path::new(&city_rkyv_path);
+    let asset_dir = Path::new(&asset_dir_path);
 
-    if let Err(err) = geo_engine::init_path(geo_db, subdistrict_db, city_fst, city_rkyv) {
+    if let Err(err) = geo_engine::init_path(asset_dir) {
         eprintln!("Init failed: {err}");
         process::exit(1);
     }
@@ -58,8 +47,6 @@ fn main() {
 fn print_usage_and_exit(message: &str) -> ! {
     eprintln!("{message}");
     eprintln!("Usage:");
-    eprintln!(
-        "  cargo run --bin lookup_subdistrict_point -- <query> [subdistrict.db path] [geo-0.0.1.db path] [cities.fst path] [cities.rkyv path]"
-    );
+    eprintln!("  cargo run --bin lookup_subdistrict_point -- <query> [asset_dir]");
     process::exit(2);
 }

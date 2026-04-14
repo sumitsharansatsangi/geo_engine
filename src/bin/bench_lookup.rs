@@ -227,12 +227,8 @@ fn run_single(
         return Err("no points loaded from cities.points".into());
     }
 
-    geo_engine::init_path(
-        &config.geo_db,
-        &config.subdistrict_db,
-        &config.city_fst,
-        &config.city_rkyv,
-    )?;
+    let asset_dir = config.geo_db.parent().unwrap_or_else(|| Path::new("."));
+    geo_engine::init_path(asset_dir)?;
 
     for i in 0..config.warmup {
         let (lat, lon) = points[i % points.len()];
