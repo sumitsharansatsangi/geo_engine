@@ -8,6 +8,11 @@ use std::path::PathBuf;
 /// asset initialization errors, and path management issues.
 #[derive(Debug)]
 pub enum GeoEngineError {
+    /// A higher-level operation failed; source preserves the underlying error.
+    OperationFailed {
+        operation: &'static str,
+        source: Box<GeoEngineError>,
+    },
     /// Failed to open a database file.
     DatabaseOpen {
         path: PathBuf,
@@ -71,6 +76,9 @@ pub enum GeoEngineError {
 impl fmt::Display for GeoEngineError {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
         match self {
+            Self::OperationFailed { operation, source } => {
+                write!(f, "operation '{}' failed: {}", operation, source)
+            }
             Self::DatabaseOpen { path, source } => {
                 write!(
                     f,
@@ -184,6 +192,7 @@ impl fmt::Display for GeoEngineError {
 impl Error for GeoEngineError {
     fn source(&self) -> Option<&(dyn Error + 'static)> {
         match self {
+            Self::OperationFailed { source, .. } => Some(source.as_ref()),
             Self::DatabaseOpen { source, .. } => Some(source),
             Self::DatabaseMap { source, .. } => Some(source),
             Self::DistrictDatabaseUnavailable { source, .. } => Some(source),

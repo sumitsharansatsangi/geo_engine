@@ -238,7 +238,7 @@ fn run_single(
     }
 
     let asset_dir = config.geo_db.parent().unwrap_or_else(|| Path::new("."));
-    geo_engine::init_path(asset_dir)?;
+    geo_engine::init_path(asset_dir,true)?;
 
     for i in 0..config.warmup {
         let (lat, lon) = points[i % points.len()];

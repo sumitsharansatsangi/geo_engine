@@ -16,16 +16,11 @@ fn main() -> Result<(), Box<dyn Error>> {
         }
     }
 
-    let config = geo_engine::InitConfig {
-        asset_dir: asset_dir.clone(),
-        verify_checksum: true,
-    };
-
     println!("asset dir: {}", asset_dir.display());
 
     // 1) Init
-    let _paths = geo_engine::init_all_assets_with_config(&config)?;
-    let engine = geo_engine::init_geo_engine_with_config(&config)?;
+    let _paths = geo_engine::init_all_assets(&asset_dir, true)?;
+    let engine = geo_engine::init_geo_engine_with_config(&asset_dir, true)?;
 
     // 2) Search
     let search_result = engine.search_places_by_name(&query, Some(5))?;

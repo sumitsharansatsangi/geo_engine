@@ -163,19 +163,30 @@ static ENGINE: OnceLock<Result<InitializedGeoEngine, String>> = OnceLock::new();
 ///
 /// # Returns
 /// * `Ok(true)` when initialization succeeds
-pub fn init_path(asset_dir: &Path) -> Result<bool, GeoEngineError> {
+pub fn init_path(asset_dir: &Path, verify_checksum: bool) -> Result<bool, GeoEngineError> {
+    let asset_dir = normalize_asset_dir(asset_dir);
+
     if let Some(initialized_paths) = PATHS.get() {
         if initialized_paths.asset_dir != asset_dir {
             return Err(GeoEngineError::PathsAlreadyInitialized);
         }
 
-        let _ = get_initialized_engine()?;
+        if let Err(err) = get_initialized_engine() {
+            return Err(engine_initialization_failed(&asset_dir, err));
+        }
+
         return Ok(true);
     }
 
-    let asset_paths = init_all_assets(asset_dir)?;
+    let asset_paths = match init_all_assets(&asset_dir, verify_checksum) {
+        Ok(paths) => paths,
+        Err(err) => {
+            return Err(engine_initialization_failed(&asset_dir, err));
+        }
+    };
+
     let candidate_paths = InitializedPaths {
-        asset_dir: asset_dir.to_path_buf(),
+        asset_dir: asset_dir.clone(),
         country_db_path: asset_paths.geo_db_path,
         subdistrict_db_path: asset_paths.subdistrict_db_path,
         subdistrict_meta_path: asset_paths.subdistrict_meta_path,
@@ -192,8 +203,35 @@ pub fn init_path(asset_dir: &Path) -> Result<bool, GeoEngineError> {
         return Err(GeoEngineError::PathsAlreadyInitialized);
     }
 
-    let _ = get_initialized_engine()?;
+    if let Err(err) = get_initialized_engine() {
+        return Err(engine_initialization_failed(&asset_dir, err));
+    }
+
     Ok(true)
+}
+
+fn engine_initialization_failed(asset_dir: &Path, err: impl std::fmt::Display) -> GeoEngineError {
+    GeoEngineError::EngineInitializationFailed {
+        message: format!(
+            "failed to initialize engine for '{}': {}",
+            asset_dir.display(),
+            err
+        ),
+    }
+}
+
+fn normalize_asset_dir(asset_dir: &Path) -> PathBuf {
+    if let Ok(canonical) = fs::canonicalize(asset_dir) {
+        return canonical;
+    }
+
+    if asset_dir.is_absolute() {
+        return asset_dir.to_path_buf();
+    }
+
+    std::env::current_dir()
+        .map(|cwd| cwd.join(asset_dir))
+        .unwrap_or_else(|_| asset_dir.to_path_buf())
 }
 
 fn get_paths() -> Result<&'static InitializedPaths, GeoEngineError> {
@@ -232,14 +270,19 @@ fn get_initialized_engine() -> Result<&'static InitializedGeoEngine, GeoEngineEr
 /// * `lat` - Latitude (-90 to 90)
 /// * `lon` - Longitude (-180 to 180)
 pub fn reverse_geocoding(lat: f32, lon: f32) -> Result<ReverseGeocodingResult, GeoEngineError> {
-    let engine = get_initialized_engine()?;
-    engine.reverse_geocoding(lat, lon)
+    let engine = get_initialized_engine()
+        .map_err(|err| operation_failed("api.reverse_geocoding.load_initialized_engine", err))?;
+    engine
+        .reverse_geocoding(lat, lon)
+        .map_err(|err| operation_failed("api.reverse_geocoding.execute", err))
 }
 
 pub fn reverse_geocoding_batch(
     coordinates: &[(f32, f32)],
 ) -> Result<Vec<Result<ReverseGeocodingResult, GeoEngineError>>, GeoEngineError> {
-    let engine = get_initialized_engine()?;
+    let engine = get_initialized_engine().map_err(|err| {
+        operation_failed("api.reverse_geocoding_batch.load_initialized_engine", err)
+    })?;
     Ok(coordinates
         .par_iter()
         .map(|(lat, lon)| engine.reverse_geocoding(*lat, *lon))
@@ -255,14 +298,18 @@ pub fn reverse_geocoding_batch(
 /// # Arguments
 /// * `query` - Search term (case-insensitive, supports prefix matching)
 pub fn search(query: &str) -> Result<CombinedSearchResult, GeoEngineError> {
-    let engine = get_initialized_engine()?;
-    engine.search_places_by_name(query, None)
+    let engine = get_initialized_engine()
+        .map_err(|err| operation_failed("api.search.load_initialized_engine", err))?;
+    engine
+        .search_places_by_name(query, None)
+        .map_err(|err| operation_failed("api.search.execute", err))
 }
 
 pub fn search_batch(
     queries: &[String],
 ) -> Result<Vec<Result<CombinedSearchResult, GeoEngineError>>, GeoEngineError> {
-    let engine = get_initialized_engine()?;
+    let engine = get_initialized_engine()
+        .map_err(|err| operation_failed("api.search_batch.load_initialized_engine", err))?;
     Ok(queries
         .par_iter()
         .map(|query| engine.search_places_by_name(query, None))
@@ -1378,4 +1425,11 @@ fn sort_languages_by_relevance(languages: &[GeoLanguage]) -> Vec<GeoLanguage> {
 
     // Return language codes in order
     langs
+}
+
+fn operation_failed(operation: &'static str, source: GeoEngineError) -> GeoEngineError {
+    GeoEngineError::OperationFailed {
+        operation,
+        source: Box::new(source),
+    }
 }

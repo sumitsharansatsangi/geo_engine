@@ -15,7 +15,7 @@ fn main() {
         print_usage_and_exit("received too many arguments");
     }
 
-    if let Err(err) = geo_engine::init_path(asset_dir) {
+    if let Err(err) = geo_engine::init_path(asset_dir,true) {
         eprintln!("Init failed: {err}");
         process::exit(1);
     }

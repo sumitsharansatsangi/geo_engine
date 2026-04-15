@@ -54,7 +54,8 @@ impl GeoEngine {
                 .map(|value| value == "1" || value.eq_ignore_ascii_case("true"))
                 .unwrap_or(false)
             {
-                let decoded = decode_zstd_to_vec(&mmap[..], &path_buf)?;
+                let decoded = decode_zstd_to_vec(&mmap[..], &path_buf)
+                    .map_err(|err| operation_failed("runtime.open.decode_zstd_to_memory", err))?;
                 let mut aligned = AlignedVec::with_capacity(decoded.len());
                 aligned.extend_from_slice(&decoded);
                 return Ok(Self {
@@ -62,7 +63,8 @@ impl GeoEngine {
                 });
             }
 
-            let decoded = decode_zstd_to_temp_mmap(&mmap[..], &path_buf)?;
+            let decoded = decode_zstd_to_temp_mmap(&mmap[..], &path_buf)
+                .map_err(|err| operation_failed("runtime.open.decode_zstd_to_temp_mmap", err))?;
             return Ok(Self {
                 storage: Storage::TempMmap(decoded),
             });
@@ -92,7 +94,8 @@ impl GeoEngine {
     pub fn from_bytes(bytes: &[u8], source_label: &str) -> Result<Self, GeoEngineError> {
         let source_path = PathBuf::from(source_label);
         let aligned = if is_zstd(bytes) {
-            let decoded = decode_zstd_to_vec(bytes, &source_path)?;
+            let decoded = decode_zstd_to_vec(bytes, &source_path)
+                .map_err(|err| operation_failed("runtime.from_bytes.decode_zstd_bytes", err))?;
             let mut aligned = AlignedVec::with_capacity(decoded.len());
             aligned.extend_from_slice(&decoded);
             aligned
@@ -124,7 +127,9 @@ fn is_zstd(bytes: &[u8]) -> bool {
 }
 
 fn decode_zstd_to_vec(bytes: &[u8], db_path: &Path) -> Result<Vec<u8>, GeoEngineError> {
-    if let Some(dict) = load_optional_zstd_dictionary(db_path)? {
+    if let Some(dict) = load_optional_zstd_dictionary(db_path).map_err(|err| {
+        operation_failed("runtime.decode_zstd_to_vec.load_optional_dictionary", err)
+    })? {
         let cursor = Cursor::new(bytes);
         let mut decoder =
             zstd::stream::Decoder::with_dictionary(cursor, &dict).map_err(|source| {
@@ -162,7 +167,12 @@ fn decode_zstd_to_temp_mmap(bytes: &[u8], db_path: &Path) -> Result<DecodedMmap,
         })?;
 
     let cursor = Cursor::new(bytes);
-    if let Some(dict) = load_optional_zstd_dictionary(db_path)? {
+    if let Some(dict) = load_optional_zstd_dictionary(db_path).map_err(|err| {
+        operation_failed(
+            "runtime.decode_zstd_to_temp_mmap.load_optional_dictionary",
+            err,
+        )
+    })? {
         let mut decoder =
             zstd::stream::Decoder::with_dictionary(cursor, &dict).map_err(|source| {
                 GeoEngineError::DatabaseMap {
@@ -242,4 +252,11 @@ fn temp_decode_path(db_path: &Path) -> PathBuf {
         std::process::id(),
         nanos
     ))
+}
+
+fn operation_failed(operation: &'static str, source: GeoEngineError) -> GeoEngineError {
+    GeoEngineError::OperationFailed {
+        operation,
+        source: Box::new(source),
+    }
 }

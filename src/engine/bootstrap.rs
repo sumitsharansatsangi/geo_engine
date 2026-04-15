@@ -92,15 +92,6 @@ struct ManifestAsset {
     sha256: String,
 }
 
-/// Configuration for asset initialization
-#[derive(Debug, Clone)]
-pub struct InitConfig {
-    /// Path where assets should be downloaded/stored
-    pub asset_dir: PathBuf,
-    /// Whether to verify checksums of existing files
-    pub verify_checksum: bool,
-}
-
 pub struct CityAssetPaths {
     pub fst_path: PathBuf,
     pub core_path: PathBuf,
@@ -123,23 +114,17 @@ pub struct AllAssetPaths {
 ///
 /// This method always verifies SHA-256 checksums of existing files.
 /// Missing files are downloaded, and invalid/incomplete files are redownloaded.
-pub fn init_all_assets(asset_dir: &Path) -> Result<AllAssetPaths, GeoEngineError> {
-    let config = InitConfig {
-        asset_dir: asset_dir.to_path_buf(),
-        verify_checksum: true,
-    };
-    init_all_assets_with_config(&config)
-}
-
-pub fn init_all_assets_with_config(config: &InitConfig) -> Result<AllAssetPaths, GeoEngineError> {
-    fs::create_dir_all(&config.asset_dir).map_err(|source| {
-        GeoEngineError::CacheDirectoryUnavailable {
-            path: config.asset_dir.clone(),
-            source,
-        }
+pub fn init_all_assets(
+    asset_dir: &Path,
+    verify_checksum: bool,
+) -> Result<AllAssetPaths, GeoEngineError> {
+    fs::create_dir_all(asset_dir).map_err(|source| GeoEngineError::CacheDirectoryUnavailable {
+        path: asset_dir.to_path_buf(),
+        source,
     })?;
 
-    let assets = fetch_release_assets(RequiredAssetGroup::All)?;
+    let assets = fetch_release_assets(RequiredAssetGroup::All)
+        .map_err(|err| operation_failed("bootstrap.init_all_assets.fetch_release_assets", err))?;
 
     let geo_asset = assets
         .geo_db
@@ -169,61 +154,69 @@ pub fn init_all_assets_with_config(config: &InitConfig) -> Result<AllAssetPaths,
             })?;
 
     let geo_db_path = ensure_asset(
-        &config.asset_dir,
+        asset_dir,
         &geo_asset.name,
         &geo_asset.url,
         &geo_asset.checksum,
-        config.verify_checksum,
-    )?;
+        verify_checksum,
+    )
+    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_geo_db", err))?;
     let geo_meta_path = ensure_asset(
-        &config.asset_dir,
+        asset_dir,
         &geo_meta_asset.name,
         &geo_meta_asset.url,
         &geo_meta_asset.checksum,
-        config.verify_checksum,
-    )?;
+        verify_checksum,
+    )
+    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_geo_meta", err))?;
     let subdistrict_db_path = ensure_asset(
-        &config.asset_dir,
+        asset_dir,
         &subdistrict_asset.name,
         &subdistrict_asset.url,
         &subdistrict_asset.checksum,
-        config.verify_checksum,
-    )?;
+        verify_checksum,
+    )
+    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_subdistrict_db", err))?;
     let subdistrict_meta_path = ensure_asset(
-        &config.asset_dir,
+        asset_dir,
         &subdistrict_meta_asset.name,
         &subdistrict_meta_asset.url,
         &subdistrict_meta_asset.checksum,
-        config.verify_checksum,
-    )?;
+        verify_checksum,
+    )
+    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_subdistrict_meta", err))?;
     let city_fst_path = ensure_asset(
-        &config.asset_dir,
+        asset_dir,
         &assets.city_fst.name,
         &assets.city_fst.url,
         &assets.city_fst.checksum,
-        config.verify_checksum,
-    )?;
+        verify_checksum,
+    )
+    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_city_fst", err))?;
     let city_core_path = ensure_asset(
-        &config.asset_dir,
+        asset_dir,
         &assets.city_core.name,
         &assets.city_core.url,
         &assets.city_core.checksum,
-        config.verify_checksum,
-    )?;
+        verify_checksum,
+    )
+    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_city_core", err))?;
     let city_meta_path = ensure_asset(
-        &config.asset_dir,
+        asset_dir,
         &assets.city_meta.name,
         &assets.city_meta.url,
         &assets.city_meta.checksum,
-        config.verify_checksum,
-    )?;
+        verify_checksum,
+    )
+    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_city_meta", err))?;
     let city_points_path = ensure_asset(
-        &config.asset_dir,
+        asset_dir,
         &assets.city_points.name,
         &assets.city_points.url,
         &assets.city_points.checksum,
-        config.verify_checksum,
-    )?;
+        verify_checksum,
+    )
+    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_city_points", err))?;
 
     Ok(AllAssetPaths {
         geo_db_path,
@@ -244,26 +237,21 @@ pub fn init_all_assets_with_config(config: &InitConfig) -> Result<AllAssetPaths,
 pub fn init_all_assets_in_background(
     asset_dir: &Path,
 ) -> Result<thread::JoinHandle<Result<AllAssetPaths, GeoEngineError>>, GeoEngineError> {
-    let config = InitConfig {
-        asset_dir: asset_dir.to_path_buf(),
-        verify_checksum: true,
-    };
-    init_all_assets_in_background_with_config(&config)
+    init_all_assets_in_background_with_config(asset_dir, true)
 }
 
 pub fn init_all_assets_in_background_with_config(
-    config: &InitConfig,
+    asset_dir: &Path,
+    verify_checksum: bool,
 ) -> Result<thread::JoinHandle<Result<AllAssetPaths, GeoEngineError>>, GeoEngineError> {
-    fs::create_dir_all(&config.asset_dir).map_err(|source| {
-        GeoEngineError::CacheDirectoryUnavailable {
-            path: config.asset_dir.clone(),
-            source,
-        }
+    fs::create_dir_all(asset_dir).map_err(|source| GeoEngineError::CacheDirectoryUnavailable {
+        path: asset_dir.to_path_buf(),
+        source,
     })?;
 
-    let config_owned = config.clone();
+    let asset_dir = asset_dir.to_path_buf();
     Ok(thread::spawn(move || {
-        init_all_assets_with_config(&config_owned)
+        init_all_assets(&asset_dir, verify_checksum)
     }))
 }
 
@@ -273,28 +261,30 @@ pub fn init_all_assets_in_background_with_config(
 /// remain available while refresh runs; files are atomically replaced only
 /// after successful download and checksum verification.
 pub fn refresh_all_assets_in_background(asset_dir: &Path) -> Result<(), GeoEngineError> {
-    let config = InitConfig {
-        asset_dir: asset_dir.to_path_buf(),
-        verify_checksum: true,
-    };
-    refresh_all_assets_in_background_with_config(&config)
+    refresh_all_assets_in_background_with_config(asset_dir, true)
 }
 
 pub fn refresh_all_assets_in_background_with_config(
-    config: &InitConfig,
+    asset_dir: &Path,
+    verify_checksum: bool,
 ) -> Result<(), GeoEngineError> {
-    let asset_dir = config.asset_dir.clone();
-    refresh_all_assets_in_background_with_callback_config(config, move |result| match result {
-        Ok(_) => {
-            eprintln!(
-                "geo_engine: background asset refresh completed in '{}'",
-                asset_dir.display()
-            );
-        }
-        Err(err) => {
-            eprintln!("geo_engine: background asset refresh failed: {err}");
-        }
-    })
+    let asset_dir = asset_dir.to_path_buf();
+    let display_asset_dir = asset_dir.clone();
+    refresh_all_assets_in_background_with_callback_config(
+        asset_dir.as_path(),
+        verify_checksum,
+        move |result| match result {
+            Ok(_) => {
+                eprintln!(
+                    "geo_engine: background asset refresh completed in '{}'",
+                    display_asset_dir.display()
+                );
+            }
+            Err(err) => {
+                eprintln!("geo_engine: background asset refresh failed: {err}");
+            }
+        },
+    )
 }
 
 /// Start a background refresh and invoke a callback when it finishes.
@@ -309,30 +299,25 @@ pub fn refresh_all_assets_in_background_with_callback<F>(
 where
     F: FnOnce(Result<AllAssetPaths, GeoEngineError>) + Send + 'static,
 {
-    let config = InitConfig {
-        asset_dir: asset_dir.to_path_buf(),
-        verify_checksum: true,
-    };
-    refresh_all_assets_in_background_with_callback_config(&config, on_complete)
+    refresh_all_assets_in_background_with_callback_config(asset_dir, true, on_complete)
 }
 
 pub fn refresh_all_assets_in_background_with_callback_config<F>(
-    config: &InitConfig,
+    asset_dir: &Path,
+    verify_checksum: bool,
     on_complete: F,
 ) -> Result<(), GeoEngineError>
 where
     F: FnOnce(Result<AllAssetPaths, GeoEngineError>) + Send + 'static,
 {
-    fs::create_dir_all(&config.asset_dir).map_err(|source| {
-        GeoEngineError::CacheDirectoryUnavailable {
-            path: config.asset_dir.clone(),
-            source,
-        }
+    fs::create_dir_all(asset_dir).map_err(|source| GeoEngineError::CacheDirectoryUnavailable {
+        path: asset_dir.to_path_buf(),
+        source,
     })?;
 
-    let config_owned = config.clone();
+    let asset_dir = asset_dir.to_path_buf();
     let _ = thread::spawn(move || {
-        let result = init_all_assets_with_config(&config_owned);
+        let result = init_all_assets(&asset_dir, verify_checksum);
         on_complete(result);
     });
 
@@ -350,30 +335,25 @@ pub fn refresh_and_reopen_engine_in_background<F>(
 where
     F: FnOnce(Result<InitializedGeoEngine, GeoEngineError>) + Send + 'static,
 {
-    let config = InitConfig {
-        asset_dir: asset_dir.to_path_buf(),
-        verify_checksum: true,
-    };
-    refresh_and_reopen_engine_in_background_with_config(&config, on_complete)
+    refresh_and_reopen_engine_in_background_with_config(asset_dir, true, on_complete)
 }
 
 pub fn refresh_and_reopen_engine_in_background_with_config<F>(
-    config: &InitConfig,
+    asset_dir: &Path,
+    verify_checksum: bool,
     on_complete: F,
 ) -> Result<(), GeoEngineError>
 where
     F: FnOnce(Result<InitializedGeoEngine, GeoEngineError>) + Send + 'static,
 {
-    fs::create_dir_all(&config.asset_dir).map_err(|source| {
-        GeoEngineError::CacheDirectoryUnavailable {
-            path: config.asset_dir.clone(),
-            source,
-        }
+    fs::create_dir_all(asset_dir).map_err(|source| GeoEngineError::CacheDirectoryUnavailable {
+        path: asset_dir.to_path_buf(),
+        source,
     })?;
 
-    let config_owned = config.clone();
+    let asset_dir = asset_dir.to_path_buf();
     let _ = thread::spawn(move || {
-        let result = init_all_assets_with_config(&config_owned).and_then(|paths| {
+        let result = init_all_assets(&asset_dir, verify_checksum).and_then(|paths| {
             InitializedGeoEngine::open(
                 &paths.geo_db_path,
                 &paths.subdistrict_db_path,
@@ -391,26 +371,23 @@ where
 
 /// Initialize geo engine with default configuration (uses cache directory, checksums disabled)
 pub fn init_geo_engine() -> Result<InitializedGeoEngine, GeoEngineError> {
-    let cache_dir = cache_dir()?;
-    let config = InitConfig {
-        asset_dir: cache_dir,
-        verify_checksum: false,
-    };
-    init_geo_engine_with_config(&config)
+    let cache_dir = cache_dir()
+        .map_err(|err| operation_failed("bootstrap.init_geo_engine.resolve_cache_dir", err))?;
+    init_geo_engine_with_config(&cache_dir, false)
 }
 
 /// Initialize geo engine with custom configuration
 pub fn init_geo_engine_with_config(
-    config: &InitConfig,
+    asset_dir: &Path,
+    verify_checksum: bool,
 ) -> Result<InitializedGeoEngine, GeoEngineError> {
-    fs::create_dir_all(&config.asset_dir).map_err(|source| {
-        GeoEngineError::CacheDirectoryUnavailable {
-            path: config.asset_dir.clone(),
-            source,
-        }
+    fs::create_dir_all(asset_dir).map_err(|source| GeoEngineError::CacheDirectoryUnavailable {
+        path: asset_dir.to_path_buf(),
+        source,
     })?;
 
-    let paths = init_all_assets_with_config(config)?;
+    let paths = init_all_assets(asset_dir, verify_checksum)
+        .map_err(|err| operation_failed("bootstrap.init_geo_engine.initialize_assets", err))?;
     InitializedGeoEngine::open(
         &paths.geo_db_path,
         &paths.subdistrict_db_path,
@@ -419,57 +396,61 @@ pub fn init_geo_engine_with_config(
         &paths.city_core_path,
         &paths.city_meta_path,
     )
+    .map_err(|err| operation_failed("bootstrap.init_geo_engine.open_engine", err))
 }
 
 /// Initialize city assets with default configuration (uses cache directory, checksums disabled)
 pub fn init_city_assets() -> Result<CityAssetPaths, GeoEngineError> {
-    let cache_dir = cache_dir()?;
-    let config = InitConfig {
-        asset_dir: cache_dir,
-        verify_checksum: false,
-    };
-    init_city_assets_with_config(&config)
+    let cache_dir = cache_dir()
+        .map_err(|err| operation_failed("bootstrap.init_city_assets.resolve_cache_dir", err))?;
+    init_city_assets_with_config(&cache_dir, false)
 }
 
 /// Initialize city assets with custom configuration
-pub fn init_city_assets_with_config(config: &InitConfig) -> Result<CityAssetPaths, GeoEngineError> {
-    fs::create_dir_all(&config.asset_dir).map_err(|source| {
-        GeoEngineError::CacheDirectoryUnavailable {
-            path: config.asset_dir.clone(),
-            source,
-        }
+pub fn init_city_assets_with_config(
+    asset_dir: &Path,
+    verify_checksum: bool,
+) -> Result<CityAssetPaths, GeoEngineError> {
+    fs::create_dir_all(asset_dir).map_err(|source| GeoEngineError::CacheDirectoryUnavailable {
+        path: asset_dir.to_path_buf(),
+        source,
     })?;
 
-    let assets = fetch_release_assets(RequiredAssetGroup::City)?;
+    let assets = fetch_release_assets(RequiredAssetGroup::City)
+        .map_err(|err| operation_failed("bootstrap.init_city_assets.fetch_release_assets", err))?;
 
     let fst_path = ensure_asset(
-        &config.asset_dir,
+        asset_dir,
         &assets.city_fst.name,
         &assets.city_fst.url,
         &assets.city_fst.checksum,
-        config.verify_checksum,
-    )?;
+        verify_checksum,
+    )
+    .map_err(|err| operation_failed("bootstrap.init_city_assets.ensure_city_fst", err))?;
     let core_path = ensure_asset(
-        &config.asset_dir,
+        asset_dir,
         &assets.city_core.name,
         &assets.city_core.url,
         &assets.city_core.checksum,
-        config.verify_checksum,
-    )?;
+        verify_checksum,
+    )
+    .map_err(|err| operation_failed("bootstrap.init_city_assets.ensure_city_core", err))?;
     let meta_path = ensure_asset(
-        &config.asset_dir,
+        asset_dir,
         &assets.city_meta.name,
         &assets.city_meta.url,
         &assets.city_meta.checksum,
-        config.verify_checksum,
-    )?;
+        verify_checksum,
+    )
+    .map_err(|err| operation_failed("bootstrap.init_city_assets.ensure_city_meta", err))?;
     let points_path = ensure_asset(
-        &config.asset_dir,
+        asset_dir,
         &assets.city_points.name,
         &assets.city_points.url,
         &assets.city_points.checksum,
-        config.verify_checksum,
-    )?;
+        verify_checksum,
+    )
+    .map_err(|err| operation_failed("bootstrap.init_city_assets.ensure_city_points", err))?;
 
     Ok(CityAssetPaths {
         fst_path,
@@ -835,4 +816,11 @@ fn http_timeout_duration() -> Duration {
         .filter(|seconds| *seconds > 0)
         .map(Duration::from_secs)
         .unwrap_or_else(|| Duration::from_secs(DEFAULT_HTTP_TIMEOUT_SECS))
+}
+
+fn operation_failed(operation: &'static str, source: GeoEngineError) -> GeoEngineError {
+    GeoEngineError::OperationFailed {
+        operation,
+        source: Box::new(source),
+    }
 }

@@ -7,7 +7,7 @@ fn asset_dir() -> PathBuf {
 }
 
 fn init_for_tests() {
-    init_path(&asset_dir()).expect("init_path should succeed");
+    init_path(&asset_dir(),true).expect("init_path should succeed");
 }
 
 #[test]
@@ -76,11 +76,21 @@ fn reverse_geocoding_india_has_subdistrict() {
 fn init_path_rejects_different_second_paths() {
     let root = asset_dir();
 
-    init_path(&root).expect("first init should succeed");
+    init_path(&root,true).expect("first init should succeed");
 
     let different_asset_dir = root.join("other-assets");
     let err =
-        init_path(&different_asset_dir).expect_err("second init with different paths should fail");
+        init_path(&different_asset_dir,true).expect_err("second init with different paths should fail");
 
     assert!(matches!(err, GeoEngineError::PathsAlreadyInitialized));
+}
+
+#[test]
+fn init_path_accepts_equivalent_second_paths() {
+    let root = asset_dir();
+
+    init_path(&root,true).expect("first init should succeed");
+
+    let equivalent_asset_dir = root.join(".");
+    init_path(&equivalent_asset_dir,true).expect("second init with equivalent path should succeed");
 }

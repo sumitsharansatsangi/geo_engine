@@ -18,7 +18,7 @@ fn main() {
 
     let asset_dir = Path::new(&asset_dir_path);
 
-    if let Err(err) = geo_engine::init_path(asset_dir) {
+    if let Err(err) = geo_engine::init_path(asset_dir,true) {
         eprintln!("Init failed: {err}");
         process::exit(1);
     }

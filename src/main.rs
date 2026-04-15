@@ -4,7 +4,7 @@ fn main() {
 
     let asset_dir = std::path::Path::new(".");
 
-    if let Err(err) = geo_engine::init_path(asset_dir) {
+    if let Err(err) = geo_engine::init_path(asset_dir,true) {
         eprintln!("Initialization failed: {}", err);
         std::process::exit(1);
     }

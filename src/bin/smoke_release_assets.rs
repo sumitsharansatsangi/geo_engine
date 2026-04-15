@@ -18,26 +18,21 @@ fn main() -> Result<(), Box<dyn Error>> {
         }
     }
 
-    let config = geo_engine::InitConfig {
-        asset_dir: asset_dir.clone(),
-        verify_checksum: true,
-    };
-
     println!("asset dir: {}", asset_dir.display());
 
-    println!("checking init_all_assets_with_config...");
-    let all_paths = geo_engine::init_all_assets_with_config(&config)?;
-    print_all_paths("init_all_assets_with_config", &all_paths);
+    println!("checking init_all_assets...");
+    let all_paths = geo_engine::init_all_assets(&asset_dir, true)?;
+    print_all_paths("init_all_assets", &all_paths);
 
     println!("checking init_city_assets_with_config...");
-    let city_paths = geo_engine::init_city_assets_with_config(&config)?;
+    let city_paths = geo_engine::init_city_assets_with_config(&asset_dir, true)?;
     print_city_paths("init_city_assets_with_config", &city_paths);
 
     println!("checking init_geo_engine_with_config...");
-    let engine = geo_engine::init_geo_engine_with_config(&config)?;
+    let engine = geo_engine::init_geo_engine_with_config(&asset_dir, true)?;
 
     println!("checking wrapper init_all_assets...");
-    let wrapper_all = geo_engine::init_all_assets(&asset_dir)?;
+    let wrapper_all = geo_engine::init_all_assets(&asset_dir, true)?;
     print_all_paths("init_all_assets", &wrapper_all);
 
     println!("checking wrapper init_city_assets...");
@@ -48,7 +43,7 @@ fn main() -> Result<(), Box<dyn Error>> {
     let _wrapper_engine = geo_engine::init_geo_engine()?;
 
     println!("checking init_path...");
-    geo_engine::init_path(&asset_dir)?;
+    geo_engine::init_path(&asset_dir, true)?;
 
     println!("checking reverse_geocoding...");
     let reverse = geo_engine::reverse_geocoding(lat, lon)?;
@@ -117,7 +112,7 @@ fn main() -> Result<(), Box<dyn Error>> {
     );
 
     println!("checking init_all_assets_in_background_with_config...");
-    let handle = geo_engine::init_all_assets_in_background_with_config(&config)?;
+    let handle = geo_engine::init_all_assets_in_background_with_config(&asset_dir, true)?;
     let background_paths = handle
         .join()
         .map_err(|_| "init_all_assets_in_background thread panicked")??;
@@ -135,9 +130,13 @@ fn main() -> Result<(), Box<dyn Error>> {
 
     println!("checking refresh_all_assets_in_background_with_config...");
     let (tx, rx) = mpsc::channel();
-    geo_engine::refresh_all_assets_in_background_with_callback_config(&config, move |result| {
-        let _ = tx.send(result);
-    })?;
+    geo_engine::refresh_all_assets_in_background_with_callback_config(
+        &asset_dir,
+        true,
+        move |result| {
+            let _ = tx.send(result);
+        },
+    )?;
     let refresh_result = rx.recv()?;
     let refresh_paths = refresh_result?;
     print_all_paths(
@@ -158,13 +157,17 @@ fn main() -> Result<(), Box<dyn Error>> {
     );
 
     println!("checking refresh_all_assets_in_background_with_config...");
-    geo_engine::refresh_all_assets_in_background_with_config(&config)?;
+    geo_engine::refresh_all_assets_in_background_with_config(&asset_dir, true)?;
 
     println!("checking refresh_and_reopen_engine_in_background_with_config...");
     let (tx, rx) = mpsc::channel();
-    geo_engine::refresh_and_reopen_engine_in_background_with_config(&config, move |result| {
-        let _ = tx.send(result);
-    })?;
+    geo_engine::refresh_and_reopen_engine_in_background_with_config(
+        &asset_dir,
+        true,
+        move |result| {
+            let _ = tx.send(result);
+        },
+    )?;
     let reopened_engine = rx.recv()?;
     let reopened_engine = reopened_engine?;
     let reopened_lookup = reopened_engine.lookup(lat, lon)?;
