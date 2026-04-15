@@ -12,6 +12,10 @@ use serde::Serialize;
 
 use crate::engine::city::{City, CityCore, CityMeta, normalize};
 use crate::engine::error::GeoEngineError;
+use crate::engine::h3::{
+    H3RuntimeIndex, default_sidecar_path as default_h3_sidecar_path,
+    merge_candidate_ids as merge_h3_candidate_ids,
+};
 use crate::engine::model::Country;
 use crate::engine::subdistrict_meta::SubdistrictMeta;
 use crate::engine::{
@@ -131,6 +135,7 @@ struct CountryShard {
     engine: GeoEngine,
     index: SpatialIndex,
     spatial_index: Option<SpatialRuntimeIndex>,
+    h3_index: Option<H3RuntimeIndex>,
 }
 
 struct CityIndex {
@@ -270,18 +275,24 @@ fn get_initialized_engine() -> Result<&'static InitializedGeoEngine, GeoEngineEr
 /// * `lat` - Latitude (-90 to 90)
 /// * `lon` - Longitude (-180 to 180)
 pub fn reverse_geocoding(lat: f32, lon: f32) -> Result<ReverseGeocodingResult, GeoEngineError> {
-    let engine = get_initialized_engine()
-        .map_err(|err| operation_failed("api.reverse_geocoding.load_initialized_engine", err))?;
+    let engine = get_initialized_engine().map_err(|err| {
+        crate::operation_failed!("api", "reverse_geocoding", "load_initialized_engine", err)
+    })?;
     engine
         .reverse_geocoding(lat, lon)
-        .map_err(|err| operation_failed("api.reverse_geocoding.execute", err))
+        .map_err(|err| crate::operation_failed!("api", "reverse_geocoding", "execute", err))
 }
 
 pub fn reverse_geocoding_batch(
     coordinates: &[(f32, f32)],
 ) -> Result<Vec<Result<ReverseGeocodingResult, GeoEngineError>>, GeoEngineError> {
     let engine = get_initialized_engine().map_err(|err| {
-        operation_failed("api.reverse_geocoding_batch.load_initialized_engine", err)
+        crate::operation_failed!(
+            "api",
+            "reverse_geocoding_batch",
+            "load_initialized_engine",
+            err
+        )
     })?;
     Ok(coordinates
         .par_iter()
@@ -298,18 +309,19 @@ pub fn reverse_geocoding_batch(
 /// # Arguments
 /// * `query` - Search term (case-insensitive, supports prefix matching)
 pub fn search(query: &str) -> Result<CombinedSearchResult, GeoEngineError> {
-    let engine = get_initialized_engine()
-        .map_err(|err| operation_failed("api.search.load_initialized_engine", err))?;
+    let engine = get_initialized_engine().map_err(|err| {
+        crate::operation_failed!("api", "search", "load_initialized_engine", err)
+    })?;
     engine
         .search_places_by_name(query, None)
-        .map_err(|err| operation_failed("api.search.execute", err))
+        .map_err(|err| crate::operation_failed!("api", "search", "execute", err))
 }
 
 pub fn search_batch(
     queries: &[String],
 ) -> Result<Vec<Result<CombinedSearchResult, GeoEngineError>>, GeoEngineError> {
     let engine = get_initialized_engine()
-        .map_err(|err| operation_failed("api.search_batch.load_initialized_engine", err))?;
+        .map_err(|err| crate::operation_failed!("api", "search_batch", "load_initialized_engine", err))?;
     Ok(queries
         .par_iter()
         .map(|query| engine.search_places_by_name(query, None))
@@ -366,6 +378,7 @@ impl InitializedGeoEngine {
             index: SpatialIndex::build(country_engine.countries()),
             engine: country_engine,
             spatial_index: None,
+            h3_index: None,
         }];
         let country_names = load_country_names(&country_shards);
 
@@ -826,10 +839,12 @@ fn load_country_shards(country_db_path: &Path) -> Result<Vec<CountryShard>, GeoE
         let engine = GeoEngine::open(country_db_path)?;
         let index = SpatialIndex::build(engine.countries());
         let spatial_index = load_country_spatial_index(country_db_path);
+        let h3_index = load_country_h3_index(country_db_path);
         return Ok(vec![CountryShard {
             engine,
             index,
             spatial_index,
+            h3_index,
         }]);
     }
 
@@ -874,10 +889,12 @@ fn load_country_shards(country_db_path: &Path) -> Result<Vec<CountryShard>, GeoE
         let engine = GeoEngine::open(&shard_path)?;
         let index = SpatialIndex::build(engine.countries());
         let spatial_index = load_country_spatial_index(&shard_path);
+        let h3_index = load_country_h3_index(&shard_path);
         shards.push(CountryShard {
             engine,
             index,
             spatial_index,
+            h3_index,
         });
     }
 
@@ -910,6 +927,7 @@ fn lookup_country_from_shards(
             shard.engine.countries(),
             &shard.index,
             shard.spatial_index.as_ref(),
+            shard.h3_index.as_ref(),
         ) {
             Ok(found) => return Ok(found),
             Err(GeoEngineError::CountryNotFound { .. }) => continue,
@@ -950,6 +968,29 @@ fn load_country_spatial_index(country_db_path: &Path) -> Option<SpatialRuntimeIn
     }
 }
 
+fn load_country_h3_index(country_db_path: &Path) -> Option<H3RuntimeIndex> {
+    if std::env::var("GEO_ENGINE_DISABLE_SPATIAL_INDEX")
+        .map(|value| value == "1" || value.eq_ignore_ascii_case("true"))
+        .unwrap_or(false)
+    {
+        return None;
+    }
+
+    let sidecar_path = default_h3_sidecar_path(country_db_path);
+    match H3RuntimeIndex::from_file(&sidecar_path) {
+        Ok(index) => Some(index),
+        Err(GeoEngineError::DatabaseOpen { .. }) => None,
+        Err(err) => {
+            eprintln!(
+                "geo_engine: failed to load h3 sidecar '{}': {}",
+                sidecar_path.display(),
+                err
+            );
+            None
+        }
+    }
+}
+
 struct CountryLookup {
     region: Region,
     is_india: bool,
@@ -961,10 +1002,14 @@ fn lookup_country(
     countries: &Archived<Vec<Country>>,
     index: &SpatialIndex,
     spatial_index: Option<&SpatialRuntimeIndex>,
+    h3_index: Option<&H3RuntimeIndex>,
 ) -> Result<CountryLookup, GeoEngineError> {
     let rtree_candidates = index.candidates(lat, lon);
     let cell_candidates = spatial_index.and_then(|idx| idx.candidate_country_ids(lat, lon));
     let candidates = merge_candidate_ids(cell_candidates, rtree_candidates);
+    let h3_candidates = h3_index.and_then(|idx| idx.candidate_ids(lat, lon));
+    let candidates = merge_h3_candidate_ids(h3_candidates, candidates.into_iter());
+
     let candidates = prefilter_bbox_candidates(lat, lon, countries, candidates);
     let allowed_countries: HashSet<u32> = candidates.iter().copied().collect();
 
@@ -1427,9 +1472,3 @@ fn sort_languages_by_relevance(languages: &[GeoLanguage]) -> Vec<GeoLanguage> {
     langs
 }
 
-fn operation_failed(operation: &'static str, source: GeoEngineError) -> GeoEngineError {
-    GeoEngineError::OperationFailed {
-        operation,
-        source: Box::new(source),
-    }
-}

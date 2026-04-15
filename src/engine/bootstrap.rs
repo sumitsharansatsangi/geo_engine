@@ -123,8 +123,9 @@ pub fn init_all_assets(
         source,
     })?;
 
-    let assets = fetch_release_assets(RequiredAssetGroup::All)
-        .map_err(|err| operation_failed("bootstrap.init_all_assets.fetch_release_assets", err))?;
+    let assets = fetch_release_assets(RequiredAssetGroup::All).map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_all_assets", "fetch_release_assets", err)
+    })?;
 
     let geo_asset = assets
         .geo_db
@@ -160,7 +161,9 @@ pub fn init_all_assets(
         &geo_asset.checksum,
         verify_checksum,
     )
-    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_geo_db", err))?;
+    .map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_all_assets", "ensure_geo_db", err)
+    })?;
     let geo_meta_path = ensure_asset(
         asset_dir,
         &geo_meta_asset.name,
@@ -168,7 +171,9 @@ pub fn init_all_assets(
         &geo_meta_asset.checksum,
         verify_checksum,
     )
-    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_geo_meta", err))?;
+    .map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_all_assets", "ensure_geo_meta", err)
+    })?;
     let subdistrict_db_path = ensure_asset(
         asset_dir,
         &subdistrict_asset.name,
@@ -176,7 +181,9 @@ pub fn init_all_assets(
         &subdistrict_asset.checksum,
         verify_checksum,
     )
-    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_subdistrict_db", err))?;
+    .map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_all_assets", "ensure_subdistrict_db", err)
+    })?;
     let subdistrict_meta_path = ensure_asset(
         asset_dir,
         &subdistrict_meta_asset.name,
@@ -184,7 +191,14 @@ pub fn init_all_assets(
         &subdistrict_meta_asset.checksum,
         verify_checksum,
     )
-    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_subdistrict_meta", err))?;
+    .map_err(|err| {
+        crate::operation_failed!(
+            "bootstrap",
+            "init_all_assets",
+            "ensure_subdistrict_meta",
+            err
+        )
+    })?;
     let city_fst_path = ensure_asset(
         asset_dir,
         &assets.city_fst.name,
@@ -192,7 +206,9 @@ pub fn init_all_assets(
         &assets.city_fst.checksum,
         verify_checksum,
     )
-    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_city_fst", err))?;
+    .map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_all_assets", "ensure_city_fst", err)
+    })?;
     let city_core_path = ensure_asset(
         asset_dir,
         &assets.city_core.name,
@@ -200,7 +216,9 @@ pub fn init_all_assets(
         &assets.city_core.checksum,
         verify_checksum,
     )
-    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_city_core", err))?;
+    .map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_all_assets", "ensure_city_core", err)
+    })?;
     let city_meta_path = ensure_asset(
         asset_dir,
         &assets.city_meta.name,
@@ -208,7 +226,9 @@ pub fn init_all_assets(
         &assets.city_meta.checksum,
         verify_checksum,
     )
-    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_city_meta", err))?;
+    .map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_all_assets", "ensure_city_meta", err)
+    })?;
     let city_points_path = ensure_asset(
         asset_dir,
         &assets.city_points.name,
@@ -216,7 +236,9 @@ pub fn init_all_assets(
         &assets.city_points.checksum,
         verify_checksum,
     )
-    .map_err(|err| operation_failed("bootstrap.init_all_assets.ensure_city_points", err))?;
+    .map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_all_assets", "ensure_city_points", err)
+    })?;
 
     Ok(AllAssetPaths {
         geo_db_path,
@@ -371,8 +393,9 @@ where
 
 /// Initialize geo engine with default configuration (uses cache directory, checksums disabled)
 pub fn init_geo_engine() -> Result<InitializedGeoEngine, GeoEngineError> {
-    let cache_dir = cache_dir()
-        .map_err(|err| operation_failed("bootstrap.init_geo_engine.resolve_cache_dir", err))?;
+    let cache_dir = cache_dir().map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_geo_engine", "resolve_cache_dir", err)
+    })?;
     init_geo_engine_with_config(&cache_dir, false)
 }
 
@@ -386,8 +409,9 @@ pub fn init_geo_engine_with_config(
         source,
     })?;
 
-    let paths = init_all_assets(asset_dir, verify_checksum)
-        .map_err(|err| operation_failed("bootstrap.init_geo_engine.initialize_assets", err))?;
+    let paths = init_all_assets(asset_dir, verify_checksum).map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_geo_engine", "initialize_assets", err)
+    })?;
     InitializedGeoEngine::open(
         &paths.geo_db_path,
         &paths.subdistrict_db_path,
@@ -396,13 +420,14 @@ pub fn init_geo_engine_with_config(
         &paths.city_core_path,
         &paths.city_meta_path,
     )
-    .map_err(|err| operation_failed("bootstrap.init_geo_engine.open_engine", err))
+    .map_err(|err| crate::operation_failed!("bootstrap", "init_geo_engine", "open_engine", err))
 }
 
 /// Initialize city assets with default configuration (uses cache directory, checksums disabled)
 pub fn init_city_assets() -> Result<CityAssetPaths, GeoEngineError> {
-    let cache_dir = cache_dir()
-        .map_err(|err| operation_failed("bootstrap.init_city_assets.resolve_cache_dir", err))?;
+    let cache_dir = cache_dir().map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_city_assets", "resolve_cache_dir", err)
+    })?;
     init_city_assets_with_config(&cache_dir, false)
 }
 
@@ -416,8 +441,9 @@ pub fn init_city_assets_with_config(
         source,
     })?;
 
-    let assets = fetch_release_assets(RequiredAssetGroup::City)
-        .map_err(|err| operation_failed("bootstrap.init_city_assets.fetch_release_assets", err))?;
+    let assets = fetch_release_assets(RequiredAssetGroup::City).map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_city_assets", "fetch_release_assets", err)
+    })?;
 
     let fst_path = ensure_asset(
         asset_dir,
@@ -426,7 +452,9 @@ pub fn init_city_assets_with_config(
         &assets.city_fst.checksum,
         verify_checksum,
     )
-    .map_err(|err| operation_failed("bootstrap.init_city_assets.ensure_city_fst", err))?;
+    .map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_city_assets", "ensure_city_fst", err)
+    })?;
     let core_path = ensure_asset(
         asset_dir,
         &assets.city_core.name,
@@ -434,7 +462,9 @@ pub fn init_city_assets_with_config(
         &assets.city_core.checksum,
         verify_checksum,
     )
-    .map_err(|err| operation_failed("bootstrap.init_city_assets.ensure_city_core", err))?;
+    .map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_city_assets", "ensure_city_core", err)
+    })?;
     let meta_path = ensure_asset(
         asset_dir,
         &assets.city_meta.name,
@@ -442,7 +472,9 @@ pub fn init_city_assets_with_config(
         &assets.city_meta.checksum,
         verify_checksum,
     )
-    .map_err(|err| operation_failed("bootstrap.init_city_assets.ensure_city_meta", err))?;
+    .map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_city_assets", "ensure_city_meta", err)
+    })?;
     let points_path = ensure_asset(
         asset_dir,
         &assets.city_points.name,
@@ -450,7 +482,9 @@ pub fn init_city_assets_with_config(
         &assets.city_points.checksum,
         verify_checksum,
     )
-    .map_err(|err| operation_failed("bootstrap.init_city_assets.ensure_city_points", err))?;
+    .map_err(|err| {
+        crate::operation_failed!("bootstrap", "init_city_assets", "ensure_city_points", err)
+    })?;
 
     Ok(CityAssetPaths {
         fst_path,
@@ -816,11 +850,4 @@ fn http_timeout_duration() -> Duration {
         .filter(|seconds| *seconds > 0)
         .map(Duration::from_secs)
         .unwrap_or_else(|| Duration::from_secs(DEFAULT_HTTP_TIMEOUT_SECS))
-}
-
-fn operation_failed(operation: &'static str, source: GeoEngineError) -> GeoEngineError {
-    GeoEngineError::OperationFailed {
-        operation,
-        source: Box::new(source),
-    }
 }

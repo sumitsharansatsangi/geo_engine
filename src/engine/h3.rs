@@ -35,15 +35,17 @@ impl H3RuntimeIndex {
         let archived: &rkyv::Archived<H3IndexFile> =
             rkyv::access::<rkyv::Archived<H3IndexFile>, rkyv::rancor::Error>(&bytes).map_err(
                 |source| {
-                    operation_failed(
-                        "h3.from_file.decode_sidecar",
+                    crate::operation_failed!(
+                        "h3",
+                        "from_file",
+                        "decode_sidecar",
                         GeoEngineError::DatabaseMap {
                             path: path.to_path_buf(),
                             source: std::io::Error::new(
                                 std::io::ErrorKind::InvalidData,
                                 format!("failed to decode h3 sidecar: {source}"),
                             ),
-                        },
+                        }
                     )
                 },
             )?;
@@ -97,11 +99,4 @@ pub fn merge_candidate_ids(h3: Option<&[u32]>, rtree: impl Iterator<Item = u32>)
     }
 
     ids
-}
-
-fn operation_failed(operation: &'static str, source: GeoEngineError) -> GeoEngineError {
-    GeoEngineError::OperationFailed {
-        operation,
-        source: Box::new(source),
-    }
 }

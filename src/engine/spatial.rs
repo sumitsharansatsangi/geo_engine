@@ -25,9 +25,9 @@ impl SpatialRuntimeIndex {
         })?;
 
         let index = Self { mmap };
-        let _ = index
-            .try_archived()
-            .map_err(|err| operation_failed("spatial.from_file.validate_sidecar", err))?;
+        let _ = index.try_archived().map_err(|err| {
+            crate::operation_failed!("spatial", "from_file", "validate_sidecar", err)
+        })?;
         Ok(index)
     }
 
@@ -161,11 +161,4 @@ fn point_to_s2_cell(lat: f32, lon: f32, level: u8) -> Option<u64> {
 #[cfg(not(feature = "s2"))]
 fn point_to_s2_cell(_lat: f32, _lon: f32, _level: u8) -> Option<u64> {
     None
-}
-
-fn operation_failed(operation: &'static str, source: GeoEngineError) -> GeoEngineError {
-    GeoEngineError::OperationFailed {
-        operation,
-        source: Box::new(source),
-    }
 }
