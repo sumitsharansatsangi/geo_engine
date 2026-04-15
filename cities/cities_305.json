@@ -1,0 +1,349 @@
+[
+  {
+    "name": "Minas",
+    "country": "Uruguay",
+    "latitude": -34.37739869976157,
+    "longitude": -55.23821439999999,
+    "other_names": {
+      "name": "Minas",
+      "name:ru": "Минас"
+    }
+  },
+  {
+    "name": "Minas de Oro",
+    "country": "Honduras",
+    "latitude": 14.796370699883216,
+    "longitude": -87.34634120000001,
+    "other_names": {
+      "name": "Minas de Oro"
+    }
+  },
+  {
+    "name": "Minatitlán",
+    "country": "Mexico",
+    "latitude": 17.994478000233407,
+    "longitude": -94.55821479999999,
+    "other_names": {
+      "name": "Minatitlán"
+    }
+  },
+  {
+    "name": "Minato",
+    "country": "Japan",
+    "latitude": 35.64322739970197,
+    "longitude": 139.7400553,
+    "other_names": {
+      "name": "港区",
+      "name:ar": "ميناتو، طوكيو",
+      "name:de": "Minato",
+      "name:en": "Minato",
+      "name:es": "Minato",
+      "name:fr": "Minato",
+      "name:it": "Minato",
+      "name:ja": "港区",
+      "name:ko": "미나토구",
+      "name:lt": "Minatas",
+      "name:pl": "Minato",
+      "name:ru": "Минато",
+      "name:uk": "Мінато",
+      "name:zh": "港區",
+      "name:ja-Hira": "みなとく",
+      "name:ja-Latn": "Minato-ku",
+      "name:zh-Hans": "港区",
+      "name:zh-Hant": "港區"
+    }
+  },
+  {
+    "name": "Mindelo",
+    "country": "Cape Verde",
+    "latitude": 16.887414500123427,
+    "longitude": -24.986384200000003,
+    "other_names": {
+      "name": "Mindelo",
+      "name:ar": "ميندلو",
+      "name:lt": "Mindelas",
+      "name:ru": "Минделу"
+    }
+  },
+  {
+    "name": "Mine",
+    "country": "Japan",
+    "latitude": 34.16661649960756,
+    "longitude": 131.2054466,
+    "other_names": {
+      "name": "美祢市",
+      "name:ar": "ماينا، ياماغوتشي",
+      "name:de": "Mine",
+      "name:en": "Mine",
+      "name:es": "Mine",
+      "name:fr": "Mine",
+      "name:ja": "美祢市",
+      "name:ko": "미네시",
+      "name:pl": "Mine",
+      "name:ru": "Мине",
+      "name:uk": "Міне",
+      "name:zh": "美祢市",
+      "int_name": "Mine",
+      "name:ja_rm": "Mine-shi",
+      "name:ja_kana": "みねし",
+      "name:zh-Hans": "美祢市",
+      "name:zh-Hant": "美祢市"
+    }
+  },
+  {
+    "name": "Minero",
+    "country": "Bolivia",
+    "latitude": -17.11755790047121,
+    "longitude": -63.23327269999999,
+    "other_names": {
+      "name": "Minero",
+      "alt_name": "Mineros"
+    }
+  },
+  {
+    "name": "Mingachevir",
+    "country": "Azerbaijan",
+    "latitude": 40.76467472599259,
+    "longitude": 47.03181885396026,
+    "other_names": {
+      "name": "Mingəçevir",
+      "name:de": "Mingätschewir",
+      "name:en": "Mingachevir",
+      "name:ru": "Мингечевир",
+      "name:uk": "Мінгечаур",
+      "int_name": "Mingachevir"
+    }
+  },
+  {
+    "name": "Mingachevir",
+    "country": "Azerbaijan",
+    "latitude": 40.76531750036509,
+    "longitude": 47.05129469999999,
+    "other_names": {
+      "name": "Mingəçevir",
+      "name:ar": "مينغاشوير",
+      "name:az": "Mingəçevir",
+      "name:de": "Mingəçevir",
+      "name:en": "Mingachevir",
+      "name:es": "Mingachevir",
+      "name:fa": "مینگه‌چویر",
+      "name:fr": "Mingachevir",
+      "name:ja": "ミンギャチェヴィル",
+      "name:lt": "Mingečevyras",
+      "name:pl": "Mingeczaur",
+      "name:ru": "Мингечевир",
+      "name:uk": "Мінгечаур",
+      "name:ur": "منگچویر",
+      "name:azb": "مینگه‌چئویر",
+      "name:pnb": "منگیچیویر"
+    }
+  },
+  {
+    "name": "Minga Guazú",
+    "country": "Paraguay",
+    "latitude": -25.491032599708863,
+    "longitude": -54.767742999999996,
+    "other_names": {
+      "name": "Minga Guazú"
+    }
+  },
+  {
+    "name": "Mingguang",
+    "country": "China",
+    "latitude": 32.7840082995893,
+    "longitude": 118.0127491,
+    "other_names": {
+      "name": "明光市",
+      "name:de": "Mingguang",
+      "name:en": "Mingguang",
+      "name:fr": "Mingguang",
+      "name:ja": "明光市",
+      "name:ru": "Мингуан",
+      "name:vi": "Minh Quang",
+      "name:zh": "明光市",
+      "int_name": "Mingguang",
+      "old_name": "嘉山县",
+      "old_name:en": "Jiashan County",
+      "name:zh-Hant": "明光市",
+      "name:zh_pinyin": "Míngguāng Shì"
+    }
+  },
+  {
+    "name": "Mingora",
+    "country": "Pakistan",
+    "latitude": 34.76813089963694,
+    "longitude": 72.3684619,
+    "other_names": {
+      "name": "مینگورہ‎",
+      "name:en": "Mingora",
+      "name:ur": "مینگورہ‎"
+    }
+  },
+  {
+    "name": "Mingshan",
+    "country": "China",
+    "latitude": 41.30531920042478,
+    "longitude": 123.77523349999998,
+    "other_names": {
+      "name": "明山区",
+      "name:en": "Mingshan",
+      "name:ja": "明山区",
+      "name:ko": "밍산구",
+      "name:zh": "明山区",
+      "alt_name": "明山;Mingshan City",
+      "name:zh-Hant": "明山區"
+    }
+  },
+  {
+    "name": "Mingshan",
+    "country": "China",
+    "latitude": 30.072251099733336,
+    "longitude": 103.1070325,
+    "other_names": {
+      "name": "名山区",
+      "name:en": "Mingshan",
+      "name:zh": "名山区",
+      "alt_name": "名山;Ming-shan Hsien;Mingshan Qu",
+      "old_name": "名山县;Mingshan County",
+      "name:zh-Hant": "名山區"
+    }
+  },
+  {
+    "name": "Mingshui",
+    "country": "China",
+    "latitude": 47.174782100124744,
+    "longitude": 125.88134220000002,
+    "other_names": {
+      "name": "明水县",
+      "name:en": "Mingshui",
+      "name:ru": "Миншуй",
+      "name:zh": "明水县",
+      "name:zh-Hant": "明水縣"
+    }
+  },
+  {
+    "name": "Mingxi",
+    "country": "China",
+    "latitude": 26.359355000127106,
+    "longitude": 117.19679219999999,
+    "other_names": {
+      "name": "明溪县",
+      "name:de": "Mingxi",
+      "name:en": "Mingxi",
+      "name:es": "Míngxī",
+      "name:fa": "مینگشی",
+      "name:fr": "Mingxi",
+      "name:it": "Mingxi",
+      "name:ja": "明渓県",
+      "name:ko": "밍시현",
+      "name:no": "Mingxi",
+      "name:sv": "Mingxi",
+      "name:vi": "Minh Khê",
+      "name:zh": "明溪县",
+      "alt_name": "明溪;Mingxi County",
+      "name:cdo": "Mìng-kă",
+      "name:hak": "Mìn-hâi-yen",
+      "name:nan": "Bêng-khe-koān",
+      "name:yue": "明溪",
+      "name:zh-Hant": "明溪縣",
+      "name:zh_pinyin": "Míngxī Xiàn"
+    }
+  },
+  {
+    "name": "Minhang District",
+    "country": "China",
+    "latitude": 31.114766599653652,
+    "longitude": 121.37694289999999,
+    "other_names": {
+      "name": "闵行区",
+      "name:cs": "Min-chang",
+      "name:de": "Minhang",
+      "name:en": "Minhang District",
+      "name:es": "Minhang",
+      "name:eu": "Minhang Barrutia",
+      "name:fa": "مینهانگ",
+      "name:fr": "District de Minhang",
+      "name:it": "Distretto di Minhang",
+      "name:ja": "閔行区",
+      "name:ko": "민항구",
+      "name:nl": "Minhang",
+      "name:no": "Minhang",
+      "name:ru": "Миньхан",
+      "name:sv": "Minhang",
+      "name:tr": "Minhang",
+      "name:uk": "Район Міньхан",
+      "name:ur": "منہانگ ضلع",
+      "name:vi": "Mẫn Hàng",
+      "name:zh": "闵行区",
+      "name:ast": "Minhang",
+      "name:ceb": "Minxing Qu",
+      "name:nan": "Bín-hâng-khu",
+      "name:wuu": "闵行区",
+      "name:yue": "閔行區",
+      "old_name:en": "Shanghai County",
+      "name:zh-Hant": "閔行區"
+    }
+  },
+  {
+    "name": "Minhe",
+    "country": "China",
+    "latitude": 36.32908749976979,
+    "longitude": 102.80588059999998,
+    "other_names": {
+      "name": "民和县",
+      "name:ar": "مٍهْ خُوِذُو تُوذُو ذِجِشِیًا",
+      "name:en": "Minhe",
+      "name:es": "Minhe",
+      "name:fr": "Minhe",
+      "name:ja": "民和回族トゥ族自治県",
+      "name:zh": "民和县",
+      "alt_name": "民和回族土族自治县;民和;川口;Chuankou",
+      "alt_name:vi": "Dân Hoà",
+      "name:zh-Hant": "民和縣",
+      "official_name": "川口镇",
+      "short_name:en": "Minhe County",
+      "short_name:zh": "民和县",
+      "name:zh_pinyin": "chuānkǒu zhèn"
+    }
+  },
+  {
+    "name": "Minhou",
+    "country": "China",
+    "latitude": 26.1531209001486,
+    "longitude": 119.1265041,
+    "other_names": {
+      "name": "闽侯县",
+      "name:de": "Minhou",
+      "name:en": "Minhou",
+      "name:es": "Mĭnhòu",
+      "name:fr": "Minhou",
+      "name:it": "Minhou",
+      "name:ja": "ビン侯県",
+      "name:ko": "민허우현",
+      "name:uk": "Міньхоу",
+      "name:vi": "Mân Hầu",
+      "name:zh": "闽侯县",
+      "alt_name": "闽侯;Minhou County",
+      "name:cdo": "Mìng-âu",
+      "name:hak": "Mèn-hèu-yen",
+      "name:nan": "Bân-hâu-koān",
+      "name:yue": "閩侯",
+      "name:zh-Hant": "閩侯縣",
+      "name:zh_pinyin": "mǐnhóu xiàn"
+    }
+  },
+  {
+    "name": "Minle",
+    "country": "China",
+    "latitude": 38.43039710004338,
+    "longitude": 100.81144090000001,
+    "other_names": {
+      "name": "民乐县",
+      "name:en": "Minle",
+      "name:zh": "民乐县",
+      "alt_name": "民乐;城关镇;民乐城关镇;Chengguan;Hongshui;Min-lo Hsien;Minle County;Min-le Hsien;Dunle;Min-lo-hsien;Hung-shui;Tung-lo;Min-lo",
+      "name:zh-Hant": "民樂縣",
+      "name:zh_pinyin": "mínlè xiàn"
+    }
+  }
+]

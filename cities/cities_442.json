@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Siem Reap",
+    "country": "Cambodia",
+    "latitude": 13.361756199718245,
+    "longitude": 103.85903209999998,
+    "other_names": {
+      "name": "ក្រុងសៀមរាប",
+      "name:ar": "سيام ريب",
+      "name:en": "Siem Reap",
+      "name:es": "Ciudad de Siem Riep",
+      "name:et": "Siĕm Réab",
+      "name:fa": "سیه‌م رئاپ",
+      "name:fi": "Siĕm Réab",
+      "name:fr": "Siem Reap",
+      "name:hi": "सीम रीप",
+      "name:ja": "シェムリアップ",
+      "name:km": "ក្រុងសៀមរាប",
+      "name:ko": "시엠레아프",
+      "name:lt": "Siemreabas",
+      "name:nl": "Siem Reap",
+      "name:ru": "Сиемреап",
+      "name:sr": "Сием Реап",
+      "name:th": "เสียมราฐ",
+      "name:vi": "Xiêm Riệp",
+      "name:zh": "暹粒市",
+      "int_name": "Siem Reap"
+    }
+  },
+  {
+    "name": "Sievierodonetsk",
+    "country": "Ukraine",
+    "latitude": 48.945793199705776,
+    "longitude": 38.497555399999996,
+    "other_names": {
+      "name": "Сєвєродонецьк",
+      "name:de": "Sjewjerodonezk",
+      "name:en": "Sievierodonetsk",
+      "name:et": "Sjeverodonetsk",
+      "name:fr": "Sievierodonetsk",
+      "name:hu": "Szjevjerodoneck",
+      "name:ko": "셰볘로도네츠크",
+      "name:nl": "Sjevjerodonetsk",
+      "name:pl": "Siewierodonieck",
+      "name:ru": "Северодонецк",
+      "name:sr": "Северодоњецк",
+      "name:uk": "Сєвєродонецьк",
+      "old_name": "Лісхімстрой",
+      "alt_name:en": "Severodonetsk",
+      "alt_name:ko": "세베로도네츠크",
+      "old_name:en": "Liskhimstroy",
+      "old_name:ko": "리스힘스트로이",
+      "old_name:ru": "Лисхимстрой"
+    }
+  },
+  {
+    "name": "Sifangtai",
+    "country": "China",
+    "latitude": 46.595639700240554,
+    "longitude": 131.3213561,
+    "other_names": {
+      "name": "四方台区",
+      "name:en": "Sifangtai",
+      "name:zh": "四方台区",
+      "alt_name": "四方台;Sifangtai District",
+      "name:zh-Hant": "四方臺區",
+      "name:zh_pinyin": "sìfāngtái qū"
+    }
+  },
+  {
+    "name": "Sighetu Marmatiei",
+    "country": "Romania",
+    "latitude": 47.92832419995473,
+    "longitude": 23.8915583,
+    "other_names": {
+      "name": "Sighetu Marmației",
+      "name:cs": "Marmarožská Sihoť",
+      "name:de": "Marmaroschsiget",
+      "name:en": "Sighetu Marmatiei",
+      "name:hu": "Máramarossziget",
+      "name:pl": "Syhot Marmaroski",
+      "name:ru": "Сигету-Мармацией",
+      "name:sk": "Marmarošská Sihoť",
+      "name:uk": "Сігету-Мармацієй",
+      "reg_name": "Sighet"
+    }
+  },
+  {
+    "name": "Sighișoara",
+    "country": "Romania",
+    "latitude": 46.22286258041541,
+    "longitude": 24.798333557540474,
+    "other_names": {
+      "name": "Sighișoara",
+      "name:ru": "Сигишоара"
+    }
+  },
+  {
+    "name": "Siguatepeque",
+    "country": "Honduras",
+    "latitude": 14.5978088998598,
+    "longitude": -87.83530709999998,
+    "other_names": {
+      "name": "Siguatepeque",
+      "name:hu": "Siguatepeque"
+    }
+  },
+  {
+    "name": "Sihanoukville",
+    "country": "Cambodia",
+    "latitude": 10.622048499473044,
+    "longitude": 103.5223365,
+    "other_names": {
+      "name": "ក្រុងព្រះសីហនុ",
+      "name:de": "Sihanoukville",
+      "name:en": "Sihanoukville",
+      "name:et": "Sihanoukville",
+      "name:ja": "シアヌークビル",
+      "name:ko": "시아누크빌",
+      "name:ru": "Сиануквиль",
+      "name:vi": "Thành phố Sihanouk",
+      "name:zh": "西哈努克市",
+      "old_name": "ក្រុង​កំពង់សោម",
+      "old_name:en": "Kampong Som",
+      "old_name:ru": "Кампонгсаом",
+      "official_name": "ក្រុងព្រះសីហនុ",
+      "official_name:en": "Krong Preah Sihanouk",
+      "official_name:ru": "Прэахсиханук"
+    }
+  },
+  {
+    "name": "Siheung-si",
+    "country": "South Korea",
+    "latitude": 37.37988909989714,
+    "longitude": 126.8032255,
+    "other_names": {
+      "name": "시흥시",
+      "name:de": "Siheung",
+      "name:en": "Siheung-si",
+      "name:es": "Siheung",
+      "name:et": "Siheung",
+      "name:fr": "Siheung",
+      "name:ja": "始興市",
+      "name:ko": "시흥시",
+      "name:zh": "始兴市",
+      "int_name": "Siheung",
+      "name:ko-Hani": "始興市",
+      "name:zh-Hant": "始興市"
+    }
+  },
+  {
+    "name": "Sihong County",
+    "country": "China",
+    "latitude": 33.45911389958964,
+    "longitude": 118.20990809999999,
+    "other_names": {
+      "name": "泗洪县",
+      "name:de": "Sihong",
+      "name:en": "Sihong County",
+      "name:fa": "شهرستان سیهونگ",
+      "name:fr": "Xian de Sihong",
+      "name:it": "Contea di Sihong",
+      "name:ja": "泗洪県",
+      "name:ko": "쓰훙현",
+      "name:no": "Sihong",
+      "name:ru": "Сыхун",
+      "name:sv": "Sihong",
+      "name:ur": "سیہونگ کاؤنٹی",
+      "name:zh": "泗洪县",
+      "name:nan": "Sù-hông-koān",
+      "name:ja-Hira": "しこう-けん",
+      "name:zh-Hant": "泗洪縣",
+      "name:yue-Hant": "泗洪"
+    }
+  },
+  {
+    "name": "Sihui",
+    "country": "China",
+    "latitude": 23.329119300370024,
+    "longitude": 112.7284772,
+    "other_names": {
+      "name": "四会市",
+      "name:ar": "سيهوي",
+      "name:de": "Sihui",
+      "name:en": "Sihui",
+      "name:fa": "سینهوی",
+      "name:fr": "Sihui",
+      "name:it": "Sihui",
+      "name:ja": "四会市",
+      "name:ki": "Sihui",
+      "name:ko": "쓰후이시",
+      "name:nl": "Sihui",
+      "name:no": "Sihui",
+      "name:sv": "Sihui",
+      "name:ur": "سیہوئی",
+      "name:vi": "Tứ Hội",
+      "name:zh": "四会市",
+      "alt_name": "四会;Ssu-hui Hsien;Sihui Xian;Sihui City",
+      "name:hak": "Si-fi-sṳ",
+      "name:mwl": "Sihui",
+      "name:nan": "Sù-hoē-chhī",
+      "name:pam": "Sihui",
+      "name:pnb": "سیہوئی",
+      "name:yue": "四會",
+      "name:zh-Hant": "四會市",
+      "name:zh_pinyin": "Sìhuì Shì"
+    }
+  },
+  {
+    "name": "Siirt",
+    "country": "Turkey",
+    "latitude": 37.92732319997179,
+    "longitude": 41.9422042,
+    "other_names": {
+      "name": "Siirt",
+      "name:ar": "سعرد",
+      "name:hy": "Սղերդ",
+      "name:ku": "Sêrt",
+      "name:ru": "Сиирт"
+    }
+  },
+  {
+    "name": "Sikar",
+    "country": "India",
+    "latitude": 27.609186399989984,
+    "longitude": 75.1395503,
+    "other_names": {
+      "name": "Sikar",
+      "name:en": "Sikar",
+      "name:hi": "सीकर",
+      "name:ja": "スィーカル",
+      "name:kn": "ಸಿಕರ್",
+      "name:pa": "ਸੀਕਰ",
+      "name:ru": "Сикар"
+    }
+  },
+  {
+    "name": "Sikasso",
+    "country": "Mali",
+    "latitude": 11.316497899522385,
+    "longitude": -5.6777499,
+    "other_names": {
+      "name": "Sikasso",
+      "name:ar": "سيكاسو",
+      "name:ko": "시카소",
+      "name:ru": "Сикасо"
+    }
+  },
+  {
+    "name": "Silao",
+    "country": "Mexico",
+    "latitude": 20.94372700040329,
+    "longitude": -101.427043,
+    "other_names": {
+      "name": "Silao"
+    }
+  },
+  {
+    "name": "Silay",
+    "country": "Philippines",
+    "latitude": 10.798011699484563,
+    "longitude": 122.9757459,
+    "other_names": {
+      "name": "Silay",
+      "name:ja": "シレイ"
+    }
+  },
+  {
+    "name": "Silchar",
+    "country": "India",
+    "latitude": 24.82958800027223,
+    "longitude": 92.79714799999999,
+    "other_names": {
+      "name": "Silchar",
+      "name:ar": "سلشر",
+      "name:as": "শিলচৰ",
+      "name:bn": "শিলচর",
+      "name:de": "Silchar",
+      "name:en": "Silchar",
+      "name:es": "Silchar",
+      "name:fr": "Silchar",
+      "name:hi": "सिलचर",
+      "name:ja": "スィルチャル",
+      "name:kn": "ಶಿಲಚರ",
+      "name:ur": "سلچر",
+      "alt_name:ar": "سيلشار;سيلكار",
+      "alt_name:ur": "سیلچار"
+    }
+  },
+  {
+    "name": "Siliguri",
+    "country": "India",
+    "latitude": 26.710394553694204,
+    "longitude": 88.43539355689474,
+    "other_names": {
+      "name": "Siliguri",
+      "name:bn": "শিলিগুড়ি",
+      "name:en": "Siliguri",
+      "name:he": "סיליגורי",
+      "name:hi": "सिलीगुड़ी",
+      "name:ja": "シリグリ",
+      "name:pa": "ਸਿਲੀਗੁੜੀ"
+    }
+  },
+  {
+    "name": "Siliguri",
+    "country": "India",
+    "latitude": 26.716412700088902,
+    "longitude": 88.43099159999998,
+    "other_names": {
+      "name": "Siliguri",
+      "name:ar": "سلي غوري",
+      "name:bn": "শিলিগুড়ি",
+      "name:en": "Siliguri",
+      "name:he": "סיליגורי",
+      "name:hi": "सिलीगुड़ी",
+      "name:ja": "シリグリ",
+      "name:kn": "ಸಿಲಿಗುರಿ",
+      "name:pt": "Shiliguri",
+      "name:ta": "சிலிகுரி",
+      "name:zh": "西里古里"
+    }
+  },
+  {
+    "name": "Silistra",
+    "country": "Bulgaria",
+    "latitude": 44.11830800052827,
+    "longitude": 27.260003099999995,
+    "other_names": {
+      "name": "Силистра",
+      "name:be": "Сілістра",
+      "name:de": "Silistra",
+      "name:el": "Σιλίστρα",
+      "name:en": "Silistra",
+      "name:es": "Silistra",
+      "name:et": "Silistra",
+      "name:fr": "Silistra",
+      "name:la": "Silistria",
+      "name:lt": "Silistra",
+      "name:nl": "Silistra",
+      "name:pl": "Silistra",
+      "name:ro": "Silistra",
+      "name:ru": "Силистра",
+      "name:sr": "Силистра",
+      "name:tr": "Silistire",
+      "name:uk": "Сілістра",
+      "int_name": "Silistra",
+      "old_name": "Дръстър",
+      "old_name:bg": "Дръстър",
+      "old_name:el": "Δορύστολον",
+      "old_name:la": "Durostorum",
+      "old_name:ru": "Доростол",
+      "old_name:uk": "Доростол"
+    }
+  },
+  {
+    "name": "Silvassa",
+    "country": "India",
+    "latitude": 20.27367680038385,
+    "longitude": 73.0045787,
+    "other_names": {
+      "name": "Silvassa",
+      "name:en": "Silvassa",
+      "name:gu": "સેલ્વાસ",
+      "name:hi": "सिलवास",
+      "name:ja": "スィルヴァーサー",
+      "name:ru": "Силваса",
+      "name:zh": "锡尔瓦萨"
+    }
+  }
+]

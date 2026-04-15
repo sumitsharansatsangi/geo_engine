@@ -1,0 +1,328 @@
+[
+  {
+    "name": "Sinop",
+    "country": "Turkey",
+    "latitude": 42.026579800488186,
+    "longitude": 35.1511512,
+    "other_names": {
+      "name": "Sinop",
+      "name:ar": "سينوب",
+      "name:de": "Sinope",
+      "name:el": "Σινώπη",
+      "name:en": "Sinop",
+      "name:es": "Sinope",
+      "name:hi": "साइनॉप",
+      "name:hy": "Սինոպ",
+      "name:it": "Sinope",
+      "name:ka": "სინოპი",
+      "name:la": "Sinope",
+      "name:pt": "Sinope",
+      "name:ru": "Синоп",
+      "name:zh": "锡诺普"
+    }
+  },
+  {
+    "name": "Sinop",
+    "country": "Brazil",
+    "latitude": -11.850822400097117,
+    "longitude": -55.51759570000001,
+    "other_names": {
+      "name": "Sinop",
+      "name:en": "Sinop",
+      "name:ru": "Синоп",
+      "name:uk": "Сіноп"
+    }
+  },
+  {
+    "name": "Sinpho",
+    "country": "North Korea",
+    "latitude": 40.03160490027158,
+    "longitude": 128.1914944,
+    "other_names": {
+      "name": "신포시",
+      "name:de": "Sinpo",
+      "name:en": "Sinpho",
+      "name:es": "Sinpo",
+      "name:et": "Sinp'o",
+      "name:fr": "Sinpo",
+      "name:ja": "新浦",
+      "name:ko": "신포시",
+      "name:ru": "Синпхо",
+      "name:zh": "新浦市",
+      "int_name": "Sinpo",
+      "name:ko-Hani": "新浦市"
+    }
+  },
+  {
+    "name": "Sinuiju",
+    "country": "China",
+    "latitude": 40.09407580027998,
+    "longitude": 124.39775589999998,
+    "other_names": {
+      "name": "신의주시",
+      "name:cs": "Sinuidžu",
+      "name:de": "Sinŭiju",
+      "name:el": "Σινούιτζου",
+      "name:en": "Sinuiju",
+      "name:eo": "Sinviĵuo",
+      "name:et": "Sinŭiju",
+      "name:ja": "新義州市",
+      "name:ko": "신의주시",
+      "name:lt": "Sineidžu",
+      "name:ru": "Синыйджу",
+      "name:uk": "Сінийджу",
+      "name:vi": "Tân Nghĩa Châu",
+      "name:zh": "新义州市",
+      "name:ko-Hani": "新義州市",
+      "name:zh-Hant": "新義州市"
+    }
+  },
+  {
+    "name": "Sinuiju",
+    "country": "North Korea",
+    "latitude": 40.09407580027998,
+    "longitude": 124.39775589999998,
+    "other_names": {
+      "name": "신의주시",
+      "name:cs": "Sinuidžu",
+      "name:de": "Sinŭiju",
+      "name:el": "Σινούιτζου",
+      "name:en": "Sinuiju",
+      "name:eo": "Sinviĵuo",
+      "name:et": "Sinŭiju",
+      "name:ja": "新義州市",
+      "name:ko": "신의주시",
+      "name:lt": "Sineidžu",
+      "name:ru": "Синыйджу",
+      "name:uk": "Сінийджу",
+      "name:vi": "Tân Nghĩa Châu",
+      "name:zh": "新义州市",
+      "name:ko-Hani": "新義州市",
+      "name:zh-Hant": "新義州市"
+    }
+  },
+  {
+    "name": "Sioux City",
+    "country": "United States Of America",
+    "latitude": 42.49668150051743,
+    "longitude": -96.40587819999999,
+    "other_names": {
+      "name": "Sioux City"
+    }
+  },
+  {
+    "name": "Sioux Falls",
+    "country": "United States Of America",
+    "latitude": 43.54605870054166,
+    "longitude": -96.73139279999998,
+    "other_names": {
+      "name": "Sioux Falls",
+      "name:en": "Sioux Falls",
+      "name:ru": "Су-Фолс",
+      "name:uk": "Су-Фолс"
+    }
+  },
+  {
+    "name": "Sipajhar",
+    "country": "India",
+    "latitude": 26.397400000123096,
+    "longitude": 91.89652,
+    "other_names": {
+      "name": "Sipajhar"
+    }
+  },
+  {
+    "name": "Sipalay",
+    "country": "Philippines",
+    "latitude": 9.749126599426484,
+    "longitude": 122.40406020000002,
+    "other_names": {
+      "ref": "064527000",
+      "name": "Sipalay"
+    }
+  },
+  {
+    "name": "Siping",
+    "country": "China",
+    "latitude": 43.1669821005399,
+    "longitude": 124.36473899999999,
+    "other_names": {
+      "name": "四平市",
+      "name:ar": "سينبينغ",
+      "name:de": "Siping",
+      "name:en": "Siping",
+      "name:et": "Siping",
+      "name:fi": "Siping",
+      "name:fr": "Siping",
+      "name:ja": "四平市",
+      "name:ru": "Сыпин",
+      "name:vi": "Tứ Bình",
+      "name:zh": "四平市",
+      "name:zh-Hant": "四平市",
+      "name:zh_pinyin": "Sìpíng Shì"
+    }
+  },
+  {
+    "name": "Sirjan",
+    "country": "Iran",
+    "latitude": 29.44586869979202,
+    "longitude": 55.67047169999999,
+    "other_names": {
+      "name": "سیرجان",
+      "name:ar": "سيرجان",
+      "name:de": "Sirdschan",
+      "name:en": "Sirjan",
+      "name:eo": "Sirĝan",
+      "name:es": "Sirjan",
+      "name:et": "Sīrjān",
+      "name:fr": "Sirjan",
+      "name:he": "סירג'אן",
+      "name:hi": "सिर्जान",
+      "name:ja": "スィールジャーン",
+      "name:ru": "Сирджан"
+    }
+  },
+  {
+    "name": "Sirohi",
+    "country": "India",
+    "latitude": 24.886628192407457,
+    "longitude": 72.85981934557984,
+    "other_names": {
+      "name": "Sirohi",
+      "name:ja": "スィローヒー",
+      "name:ta": "சிரோஹி"
+    }
+  },
+  {
+    "name": "Sirsa",
+    "country": "India",
+    "latitude": 29.537284899783046,
+    "longitude": 75.0377649,
+    "other_names": {
+      "name": "Sirsa",
+      "name:ar": "سرسا",
+      "name:de": "Sirsa",
+      "name:en": "Sirsa",
+      "name:es": "Sirsa",
+      "name:fr": "Sirsa",
+      "name:hi": "सिरसा",
+      "name:ja": "シルサ",
+      "name:kn": "ಸಿರ್ಸಾ",
+      "name:pa": "ਸਿਰਸਾ",
+      "name:ru": "Сирса",
+      "name:ur": "سرسا"
+    }
+  },
+  {
+    "name": "Sirte",
+    "country": "Libya",
+    "latitude": 31.205962499647956,
+    "longitude": 16.583620599999996,
+    "other_names": {
+      "name": "سرت",
+      "name:ar": "سرت",
+      "name:de": "Surt",
+      "name:en": "Sirte",
+      "name:es": "Sirte",
+      "name:fa": "سرت",
+      "name:fr": "Syrte",
+      "name:he": "סירת",
+      "name:it": "Sirte",
+      "name:ks": "سرت",
+      "name:pl": "Syrta",
+      "name:ru": "Сирт",
+      "name:uk": "Сирт",
+      "name:ur": "سرت",
+      "name:azb": "سرت",
+      "name:kab": "سرت",
+      "official_name": "بلدية سرت",
+      "official_name:ar": "بلدية سرت"
+    }
+  },
+  {
+    "name": "Sishui",
+    "country": "China",
+    "latitude": 35.65567479970307,
+    "longitude": 117.2685877,
+    "other_names": {
+      "name": "泗水县",
+      "name:en": "Sishui",
+      "name:vi": "Tứ Thủy",
+      "name:zh": "泗水县",
+      "alt_name:vi": "Tứ Thuỷ",
+      "name:zh-Hant": "泗水縣"
+    }
+  },
+  {
+    "name": "Sisimiut",
+    "country": "Greenland",
+    "latitude": 66.93719059694959,
+    "longitude": -53.6664816,
+    "other_names": {
+      "name": "Sisimiut",
+      "name:ar": "سيسيميوت",
+      "name:en": "Sisimiut",
+      "name:kl": "Sisimiut",
+      "name:lt": "Sisimiutas",
+      "name:ru": "Сисимиут",
+      "name:uk": "Сісіміут",
+      "old_name": "Holsteinborg"
+    }
+  },
+  {
+    "name": "Sisophon",
+    "country": "Cambodia",
+    "latitude": 13.588400399743376,
+    "longitude": 102.97002739999999,
+    "other_names": {
+      "name": "ក្រុងសិរីសោភ័ណ",
+      "name:en": "Sisophon",
+      "name:et": "Sisŏphŏn",
+      "name:fr": "Sisophon",
+      "name:ja": "シソポン",
+      "name:km": "ក្រុងសិរីសោភ័ណ",
+      "name:ru": "Сисопхон",
+      "int_name": "Sisophon"
+    }
+  },
+  {
+    "name": "Sitapur",
+    "country": "India",
+    "latitude": 27.56155679999533,
+    "longitude": 80.6840082,
+    "other_names": {
+      "name": "Sitapur",
+      "name:en": "Sitapur",
+      "name:hi": "सीतापुर",
+      "name:ja": "スィータープル",
+      "name:kn": "ಸೀತಾಪುರ",
+      "name:ru": "Ситапур"
+    }
+  },
+  {
+    "name": "Sitiawan",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 4.216231799568624,
+    "longitude": 100.6951901,
+    "other_names": {
+      "name": "Sitiawan",
+      "name:ja": "シティアワン",
+      "name:ta": "சிதியாவான்",
+      "name:zh": "实兆远"
+    }
+  },
+  {
+    "name": "Sitka",
+    "country": "United States Of America",
+    "latitude": 57.05249730028467,
+    "longitude": -135.337612,
+    "other_names": {
+      "name": "Sitka",
+      "name:en": "Sitka",
+      "name:ru": "Ситка",
+      "name:uk": "Сітка",
+      "name:tli": "Sheet'ká",
+      "old_name": "Novo-Arkhangelsk"
+    }
+  }
+]

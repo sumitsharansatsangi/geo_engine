@@ -12,19 +12,27 @@ const DEFAULT_OUTPUT_PATH: &str = "assets-manifest.json";
 #[derive(Debug, Serialize)]
 struct AssetsManifest {
     geo: AssetGroup,
-    subdistrict: AssetGroup,
+    subdistrict: SubdistrictGroup,
     city: CityGroup,
 }
 
 #[derive(Debug, Serialize)]
 struct AssetGroup {
     db: ManifestAsset,
+    meta: ManifestAsset,
+}
+
+#[derive(Debug, Serialize)]
+struct SubdistrictGroup {
+    db: ManifestAsset,
+    meta: ManifestAsset,
 }
 
 #[derive(Debug, Serialize)]
 struct CityGroup {
     fst: ManifestAsset,
-    rkyv: ManifestAsset,
+    core: ManifestAsset,
+    meta: ManifestAsset,
     points: ManifestAsset,
 }
 
@@ -40,9 +48,12 @@ struct Inputs {
     version: String,
     base_url: String,
     geo_path: PathBuf,
+    geo_meta_path: PathBuf,
     subdistrict_path: PathBuf,
+    subdistrict_meta_path: PathBuf,
     city_fst_path: PathBuf,
-    city_rkyv_path: PathBuf,
+    city_core_path: PathBuf,
+    city_meta_path: PathBuf,
     city_points_path: PathBuf,
     output_path: PathBuf,
 }
@@ -54,17 +65,24 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     let manifest = AssetsManifest {
         geo: AssetGroup {
             db: manifest_asset(&inputs.geo_path, &base_url, &inputs.geo_path)?,
+            meta: manifest_asset(&inputs.geo_meta_path, &base_url, &inputs.geo_meta_path)?,
         },
-        subdistrict: AssetGroup {
+        subdistrict: SubdistrictGroup {
             db: manifest_asset(
                 &inputs.subdistrict_path,
                 &base_url,
                 &inputs.subdistrict_path,
             )?,
+            meta: manifest_asset(
+                &inputs.subdistrict_meta_path,
+                &base_url,
+                &inputs.subdistrict_meta_path,
+            )?,
         },
         city: CityGroup {
             fst: manifest_asset(&inputs.city_fst_path, &base_url, &inputs.city_fst_path)?,
-            rkyv: manifest_asset(&inputs.city_rkyv_path, &base_url, &inputs.city_rkyv_path)?,
+            core: manifest_asset(&inputs.city_core_path, &base_url, &inputs.city_core_path)?,
+            meta: manifest_asset(&inputs.city_meta_path, &base_url, &inputs.city_meta_path)?,
             points: manifest_asset(
                 &inputs.city_points_path,
                 &base_url,
@@ -88,9 +106,12 @@ fn parse_args(
     let mut version = DEFAULT_VERSION.to_string();
     let mut base_url = default_release_base_url(DEFAULT_REPO, &version);
     let mut geo_path: Option<PathBuf> = None;
+    let mut geo_meta_path: Option<PathBuf> = None;
     let mut subdistrict_path: Option<PathBuf> = None;
+    let mut subdistrict_meta_path: Option<PathBuf> = None;
     let mut city_fst_path: Option<PathBuf> = None;
-    let mut city_rkyv_path: Option<PathBuf> = None;
+    let mut city_core_path: Option<PathBuf> = None;
+    let mut city_meta_path: Option<PathBuf> = None;
     let mut city_points_path: Option<PathBuf> = None;
     let mut output_path: Option<PathBuf> = None;
 
@@ -114,9 +135,19 @@ fn parse_args(
             "--geo" => {
                 geo_path = Some(PathBuf::from(args.next().ok_or("missing value for --geo")?));
             }
+            "--geo-meta" => {
+                geo_meta_path = Some(PathBuf::from(
+                    args.next().ok_or("missing value for --geo-meta")?,
+                ));
+            }
             "--subdistrict" => {
                 subdistrict_path = Some(PathBuf::from(
                     args.next().ok_or("missing value for --subdistrict")?,
+                ));
+            }
+            "--subdistrict-meta" => {
+                subdistrict_meta_path = Some(PathBuf::from(
+                    args.next().ok_or("missing value for --subdistrict-meta")?,
                 ));
             }
             "--city-fst" => {
@@ -124,9 +155,14 @@ fn parse_args(
                     args.next().ok_or("missing value for --city-fst")?,
                 ));
             }
-            "--city-rkyv" => {
-                city_rkyv_path = Some(PathBuf::from(
-                    args.next().ok_or("missing value for --city-rkyv")?,
+            "--city-core" => {
+                city_core_path = Some(PathBuf::from(
+                    args.next().ok_or("missing value for --city-core")?,
+                ));
+            }
+            "--city-meta" => {
+                city_meta_path = Some(PathBuf::from(
+                    args.next().ok_or("missing value for --city-meta")?,
                 ));
             }
             "--city-points" => {
@@ -148,12 +184,18 @@ fn parse_args(
     }
 
     let geo_path = geo_path.unwrap_or_else(|| PathBuf::from(default_geo_name(&version)));
+    let geo_meta_path =
+        geo_meta_path.unwrap_or_else(|| PathBuf::from(default_geo_meta_name(&version)));
     let subdistrict_path =
         subdistrict_path.unwrap_or_else(|| PathBuf::from(default_subdistrict_name(&version)));
+    let subdistrict_meta_path = subdistrict_meta_path
+        .unwrap_or_else(|| PathBuf::from(default_subdistrict_meta_name(&version)));
     let city_fst_path =
         city_fst_path.unwrap_or_else(|| PathBuf::from(default_city_name(&version, "fst")));
-    let city_rkyv_path =
-        city_rkyv_path.unwrap_or_else(|| PathBuf::from(default_city_name(&version, "rkyv")));
+    let city_core_path =
+        city_core_path.unwrap_or_else(|| PathBuf::from(default_city_name(&version, "core")));
+    let city_meta_path =
+        city_meta_path.unwrap_or_else(|| PathBuf::from(default_city_name(&version, "meta")));
     let city_points_path =
         city_points_path.unwrap_or_else(|| PathBuf::from(default_city_name(&version, "points")));
     let output_path = output_path.unwrap_or_else(|| PathBuf::from(DEFAULT_OUTPUT_PATH));
@@ -162,9 +204,12 @@ fn parse_args(
         version,
         base_url,
         geo_path,
+        geo_meta_path,
         subdistrict_path,
+        subdistrict_meta_path,
         city_fst_path,
-        city_rkyv_path,
+        city_core_path,
+        city_meta_path,
         city_points_path,
         output_path,
     })
@@ -173,7 +218,7 @@ fn parse_args(
 fn print_usage() {
     eprintln!("Usage:");
     eprintln!(
-        "  cargo run --bin build_assets_manifest -- [--version X.Y.Z] [--base-url URL] [--geo PATH] [--subdistrict PATH] [--city-fst PATH] [--city-rkyv PATH] [--city-points PATH] [--output PATH]"
+        "  cargo run --bin build_assets_manifest -- [--version X.Y.Z] [--base-url URL] [--geo PATH] [--geo-meta PATH] [--subdistrict PATH] [--subdistrict-meta PATH] [--city-fst PATH] [--city-core PATH] [--city-meta PATH] [--city-points PATH] [--output PATH]"
     );
     eprintln!();
     eprintln!("Examples:");
@@ -236,8 +281,16 @@ fn default_geo_name(version: &str) -> String {
     format!("geo-{version}.db")
 }
 
+fn default_geo_meta_name(version: &str) -> String {
+    format!("geo-{version}.spx")
+}
+
 fn default_subdistrict_name(version: &str) -> String {
     format!("subdistrict-{version}.db")
+}
+
+fn default_subdistrict_meta_name(version: &str) -> String {
+    format!("subdistrict-{version}.meta")
 }
 
 fn default_city_name(version: &str, ext: &str) -> String {

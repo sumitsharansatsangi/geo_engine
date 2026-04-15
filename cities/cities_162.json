@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Guélendeng",
+    "country": "Chad",
+    "latitude": 10.92032509949297,
+    "longitude": 15.546780500000002,
+    "other_names": {
+      "name": "Guélendeng غيلندنك",
+      "name:ar": "غيلندنك",
+      "name:en": "Guélendeng",
+      "name:fr": "Guélendeng",
+      "alt_name": "Guélengdeng;Guelengdeng;Gélengdeng;Gelengdeng;Guelendeng"
+    }
+  },
+  {
+    "name": "Guelma",
+    "country": "Algeria",
+    "latitude": 36.46508399978481,
+    "longitude": 7.4306470000000004,
+    "other_names": {
+      "name": "Guelma ⴳⴰⵍⵎⴰ قالمة",
+      "name:ar": "قالمة",
+      "name:de": "Guelma",
+      "name:el": "Γκουέλμα",
+      "name:en": "Guelma",
+      "name:fa": "قالمه",
+      "name:fr": "Guelma",
+      "name:lt": "Gelma",
+      "name:ru": "Гельма",
+      "name:ur": "قالمہ",
+      "name:zh": "盖勒马",
+      "alt_name": "ڨالمة",
+      "name:azb": "قالمه",
+      "name:ber": "ⴳⴰⵍⵎⴰ",
+      "name:kab": "Galma",
+      "name:pnb": "قالمہ",
+      "old_name": "مالقا;مالكا",
+      "old_name:ar": "مالقا;مالكا",
+      "old_name:fr": "Calama;Malaca"
+    }
+  },
+  {
+    "name": "Guelmim",
+    "country": "Morocco",
+    "latitude": 28.98638519983886,
+    "longitude": -10.0574351,
+    "other_names": {
+      "name": "Guelmim ⴳⵍⵎⵉⵎ كلميم",
+      "name:ar": "كلميم",
+      "name:de": "Guelmim",
+      "name:en": "Guelmim",
+      "name:es": "Egleimín",
+      "name:et": "Guelmim",
+      "name:fa": "کلمیم",
+      "name:fr": "Guelmim",
+      "name:ks": "کلمیم",
+      "name:lt": "Gelmimas",
+      "name:ru": "Гулимин",
+      "name:ur": "کلمیم",
+      "alt_name": "گلميم;ڭلميم",
+      "name:azb": "کلمیم",
+      "name:ber": "ⴳⵍⵎⵉⵎ",
+      "name:ota": "کلمیم",
+      "name:zgh": "ⴳⵍⵎⵉⵎ",
+      "alt_name:ar": "باب الصحراء",
+      "alt_name:fr": "Goulimine"
+    }
+  },
+  {
+    "name": "Guelph",
+    "country": "Canada",
+    "latitude": 43.546051600541674,
+    "longitude": -80.2493276,
+    "other_names": {
+      "name": "Guelph",
+      "official_name": "City of Guelph"
+    }
+  },
+  {
+    "name": "Guereda",
+    "country": "Chad",
+    "latitude": 14.510640399849551,
+    "longitude": 22.0883909,
+    "other_names": {
+      "name": "Guereda غيريدا",
+      "name:ar": "غيريدا",
+      "name:en": "Guereda",
+      "name:fr": "Guéréda",
+      "alt_name": "Guereda;Guéréda"
+    }
+  },
+  {
+    "name": "Guichi",
+    "country": "China",
+    "latitude": 30.689763999683034,
+    "longitude": 117.56316250000002,
+    "other_names": {
+      "name": "贵池区",
+      "name:de": "Guichi",
+      "name:en": "Guichi",
+      "name:es": "Guìchí Qū",
+      "name:fr": "District de Guichi",
+      "name:it": "Distretto di Guichi",
+      "name:ja": "貴池区",
+      "name:ko": "구이츠구",
+      "name:no": "Guichi",
+      "name:pl": "Guichi",
+      "name:ru": "Гуйчи",
+      "name:sv": "Guichi",
+      "name:vi": "Quý Trì",
+      "name:zh": "贵池区",
+      "alt_name": "贵池;Guichi District",
+      "name:ceb": "Guichi District",
+      "name:gan": "貴池",
+      "name:mwl": "Guichi",
+      "name:nan": "Kùi-tî-khu",
+      "name:yue": "貴池區",
+      "name:zh-Hant": "貴池區",
+      "name:zh_pinyin": "Guìchí Qū"
+    }
+  },
+  {
+    "name": "Guide",
+    "country": "China",
+    "latitude": 36.046148799740145,
+    "longitude": 101.42966919999999,
+    "other_names": {
+      "name": "贵德县",
+      "name:en": "Guide",
+      "name:ja": "貴徳県",
+      "name:zh": "贵德",
+      "alt_name": "河阴;贵德县;Heyin",
+      "int_name": "Heyin",
+      "alt_name:en": "Guide;Kweiteh;Kweithting;Kweitehting;Kui-to;Ho-yin;Kuei-te;Ho-yin-chen;Kuei-te-hsien;Heyin Zhen;Guide Xian",
+      "name:zh-Hant": "貴德縣",
+      "official_name": "河阴镇"
+    }
+  },
+  {
+    "name": "Guider",
+    "country": "Cameroon",
+    "latitude": 9.930253099434648,
+    "longitude": 13.9467554,
+    "other_names": {
+      "name": "Guider",
+      "name:ru": "Гидер"
+    }
+  },
+  {
+    "name": "Guiding",
+    "country": "China",
+    "latitude": 26.579702300103666,
+    "longitude": 107.23477379999999,
+    "other_names": {
+      "name": "贵定县",
+      "name:en": "Guiding",
+      "name:zh": "贵定县",
+      "name:zh-Hant": "貴定縣"
+    }
+  },
+  {
+    "name": "Guidong",
+    "country": "China",
+    "latitude": 26.081447200155953,
+    "longitude": 113.93976409999999,
+    "other_names": {
+      "name": "桂东县",
+      "name:de": "Guidong",
+      "name:en": "Guidong",
+      "name:fa": "شهرستان گویدونگ",
+      "name:fr": "Xian de Guidong",
+      "name:it": "Contea di Guidong",
+      "name:ja": "桂東県",
+      "name:ko": "구이둥현",
+      "name:no": "Guidong",
+      "name:ru": "Гуйдун",
+      "name:sv": "Guidong",
+      "name:vi": "Quế Đông",
+      "name:zh": "桂东县",
+      "alt_name": "桂东;Guidong County",
+      "name:ceb": "Guidong Xian",
+      "name:nan": "Kùi-tang-koān",
+      "name:yue": "桂東",
+      "name:zh-Hant": "桂東縣",
+      "name:zh_pinyin": "guìdōng xiàn"
+    }
+  },
+  {
+    "name": "Guigang",
+    "country": "China",
+    "latitude": 23.114453900379484,
+    "longitude": 109.5946193,
+    "other_names": {
+      "name": "贵港市",
+      "name:af": "Guigang",
+      "name:ar": "جويغانغ",
+      "name:cs": "Kuej-kang",
+      "name:da": "Guigang",
+      "name:de": "Guigang",
+      "name:en": "Guigang",
+      "name:es": "Guigang",
+      "name:et": "Guigang",
+      "name:eu": "Guigang",
+      "name:fa": "گویگانگ",
+      "name:fi": "Guigang",
+      "name:fr": "Guigang",
+      "name:id": "Guigang",
+      "name:it": "Guigang",
+      "name:ja": "貴港市",
+      "name:ki": "Guigang",
+      "name:ko": "구이강시",
+      "name:mg": "Guigang",
+      "name:nl": "Guigang",
+      "name:nn": "Guigang",
+      "name:no": "Guigang",
+      "name:pl": "Guigang",
+      "name:pt": "Guigang",
+      "name:ru": "Гуйган",
+      "name:sv": "Guigang",
+      "name:tr": "Guigang",
+      "name:uk": "Гуйган",
+      "name:ur": "گوئگانگ",
+      "name:vi": "Quý Cảng",
+      "name:za": "Gveigangj",
+      "name:zh": "贵港市",
+      "int_name": "Guigang",
+      "name:cdo": "Gói-gē̤ng",
+      "name:ceb": "Guigang",
+      "name:hak": "Kui-kóng-sṳ",
+      "name:nan": "Kùi-káng-chhī",
+      "name:pnb": "گوئیگانگ",
+      "name:war": "Guigang",
+      "name:yue": "贵港市",
+      "alt_name:vi": "Quí Cảng",
+      "name:zh-Hant": "貴港市",
+      "name:yue-Latn": "Gvaigong-si",
+      "name:zh_pinyin": "Guìgǎng Shì"
+    }
+  },
+  {
+    "name": "Guihulngan",
+    "country": "Philippines",
+    "latitude": 10.119597199444035,
+    "longitude": 123.273871,
+    "other_names": {
+      "name": "Guihulngan"
+    }
+  },
+  {
+    "name": "Guilin",
+    "country": "China",
+    "latitude": 25.238317200237145,
+    "longitude": 110.1752245,
+    "other_names": {
+      "name": "桂林市",
+      "name:af": "Guilin",
+      "name:ar": "غويلين",
+      "name:ay": "Guilin",
+      "name:be": "Гуйлінь",
+      "name:bg": "Гуейлин",
+      "name:bn": "কুয়েইলিন",
+      "name:ca": "Guilin",
+      "name:cs": "Kuej-lin",
+      "name:cy": "Guilin",
+      "name:da": "Guilin",
+      "name:de": "Guilin",
+      "name:el": "Γκουιλίν",
+      "name:en": "Guilin",
+      "name:eo": "Gujlin",
+      "name:es": "Guilin",
+      "name:et": "Guilin Shi",
+      "name:eu": "Guilin",
+      "name:fa": "گویلین",
+      "name:fi": "Guilin",
+      "name:fr": "Guilin",
+      "name:gu": "ગ્વિલિન",
+      "name:he": "גווילין",
+      "name:hi": "गुइलिन",
+      "name:hu": "Guilin",
+      "name:hy": "Գույլին",
+      "name:id": "Guilin",
+      "name:io": "Guilin",
+      "name:it": "Guilin",
+      "name:ja": "桂林市",
+      "name:ka": "გუილინი",
+      "name:ki": "Guilin",
+      "name:kn": "ಗುಯಿಲಿನ್",
+      "name:ko": "구이린시",
+      "name:la": "Guilin",
+      "name:lb": "Guilin",
+      "name:lt": "Guilinas",
+      "name:lv": "Guiliņa",
+      "name:mg": "Guilin",
+      "name:mk": "Гуејлин",
+      "name:ml": "ഗ്വൈലിൻ",
+      "name:mr": "ज्युइलिन",
+      "name:ms": "Guilin",
+      "name:my": "ကွေ့လိန်မြို့",
+      "name:nb": "Guilin",
+      "name:nl": "Guilin",
+      "name:pl": "Guilin",
+      "name:pt": "Guilin",
+      "name:ro": "Guilin",
+      "name:ru": "Гуйлинь",
+      "name:sh": "Guilin",
+      "name:si": "ගුයිලින්",
+      "name:sr": "Гуејлин",
+      "name:sv": "Guilin",
+      "name:ta": "குயிலின்",
+      "name:te": "గుయిలిన్",
+      "name:th": "กุ้ยหลิน",
+      "name:tr": "Guilin",
+      "name:ug": "گۇيلىن شەھىرى",
+      "name:uk": "Гуйлінь",
+      "name:ur": "گوئلن",
+      "name:vi": "Quế Lâm",
+      "name:za": "Gveilinz",
+      "name:zh": "桂林市",
+      "name:cdo": "Gié-lìng",
+      "name:ceb": "Guilin Shi",
+      "name:gan": "桂林市",
+      "name:hak": "Kui-lìm-sṳ",
+      "name:lzh": "桂林市",
+      "name:mwl": "Guilin",
+      "name:nan": "Kùi-lîm-chhī",
+      "name:pnb": "گوئیلن",
+      "name:sco": "Guilin",
+      "name:war": "Guilin",
+      "name:wuu": "桂林",
+      "name:yue": "桂林",
+      "name:za-Hani": "桂林市",
+      "name:zh-Hans": "桂林市",
+      "name:zh-Hant": "桂林市",
+      "name:gan-hans": "桂林市",
+      "name:be-tarask": "Гуйлінь",
+      "name:zh_pinyin": "Guìlín shì"
+    }
+  },
+  {
+    "name": "Guimarães",
+    "country": "Portugal",
+    "latitude": 41.44176770043833,
+    "longitude": -8.2955712,
+    "other_names": {
+      "name": "Guimarães",
+      "old_name": "Vimaranes"
+    }
+  },
+  {
+    "name": "Guin",
+    "country": "United States Of America",
+    "latitude": 33.975080644126486,
+    "longitude": -87.90862182179406,
+    "other_names": {
+      "name": "Guin"
+    }
+  },
+  {
+    "name": "Guin",
+    "country": "United States Of America",
+    "latitude": 34.01696495548229,
+    "longitude": -87.9379831232099,
+    "other_names": {
+      "name": "Guin"
+    }
+  },
+  {
+    "name": "Guin",
+    "country": "United States Of America",
+    "latitude": 34.0086437587997,
+    "longitude": -87.93247443657387,
+    "other_names": {
+      "name": "Guin"
+    }
+  },
+  {
+    "name": "Guin",
+    "country": "United States Of America",
+    "latitude": 34.027983646255045,
+    "longitude": -87.89348902798558,
+    "other_names": {
+      "name": "Guin"
+    }
+  },
+  {
+    "name": "Guinan",
+    "country": "China",
+    "latitude": 35.588051199697134,
+    "longitude": 100.7463334,
+    "other_names": {
+      "name": "贵南县",
+      "name:bo": "མང་ར་",
+      "name:en": "Guinan",
+      "name:vi": "Mang Khúc",
+      "name:zh": "贵南",
+      "alt_name": "贵南县;Guinan County",
+      "name:zh-Hant": "貴南縣"
+    }
+  },
+  {
+    "name": "Güines",
+    "country": "Cuba",
+    "latitude": 22.837113200389876,
+    "longitude": -82.0284846,
+    "other_names": {
+      "name": "Güines",
+      "name:ru": "Гуинес"
+    }
+  }
+]

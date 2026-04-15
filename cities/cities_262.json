@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Le Roy",
+    "country": "United States Of America",
+    "latitude": 40.8779641200055,
+    "longitude": -93.59264427821857,
+    "other_names": {
+      "name": "Le Roy"
+    }
+  },
+  {
+    "name": "Les Cayes",
+    "country": "Haiti And Domrep",
+    "latitude": 18.194442800251135,
+    "longitude": -73.7511601,
+    "other_names": {
+      "name": "Les Cayes",
+      "name:en": "Les Cayes",
+      "name:fr": "Les Cayes",
+      "name:ht": "Okay",
+      "name:hu": "Les Cayes",
+      "name:ru": "Ле-Ке"
+    }
+  },
+  {
+    "name": "Les Eucalyptus",
+    "country": "Algeria",
+    "latitude": 36.656714299806765,
+    "longitude": 3.1472616,
+    "other_names": {
+      "name": "Les Eucalyptus",
+      "name:ar": "الكاليتوس",
+      "name:en": "Les Eucalyptus",
+      "name:fa": "کالیتوس",
+      "name:fr": "Les Eucalyptus",
+      "name:ur": "الکالیتوس",
+      "name:azb": "کالیتوس",
+      "name:ber": "ⴰⴽⴰⵍⵉⵜⵓⵙ",
+      "name:kab": "Kalitus"
+    }
+  },
+  {
+    "name": "Leshan",
+    "country": "China",
+    "latitude": 29.585129599778398,
+    "longitude": 103.747791,
+    "other_names": {
+      "name": "乐山市",
+      "name:de": "Leshan",
+      "name:en": "Leshan",
+      "name:et": "Leshan",
+      "name:fr": "Leshan",
+      "name:ja": "楽山市",
+      "name:ru": "Лэшань",
+      "name:vi": "Lạc Sơn",
+      "name:zh": "乐山市",
+      "int_name": "Leshan",
+      "name:zh-Hant": "樂山市",
+      "name:zh_pinyin": "Lèshān Shì"
+    }
+  },
+  {
+    "name": "Leskovac",
+    "country": "Serbia",
+    "latitude": 42.99513040053643,
+    "longitude": 21.946427099999998,
+    "other_names": {
+      "name": "Лесковац",
+      "name:ar": "ليسكوفاتس",
+      "name:de": "Leskovac",
+      "name:el": "Λέσκοβατς",
+      "name:en": "Leskovac",
+      "name:es": "Leskovac",
+      "name:et": "Leskovac",
+      "name:fr": "Leskovac",
+      "name:lt": "Leskovacas",
+      "name:ru": "Лесковац",
+      "name:sr": "Лесковац",
+      "name:sr-Latn": "Leskovac"
+    }
+  },
+  {
+    "name": "Leszno",
+    "country": "Poland",
+    "latitude": 51.84364979913208,
+    "longitude": 16.5744141,
+    "other_names": {
+      "name": "Leszno",
+      "name:de": "Lissa",
+      "name:ja": "レシュノ",
+      "name:lt": "Lešnas",
+      "name:mk": "Лешно",
+      "name:pl": "Leszno",
+      "name:ru": "Лешно",
+      "name:uk": "Лешно",
+      "alt_name:de": "Polnisch Lissa"
+    }
+  },
+  {
+    "name": "Lethbridge",
+    "country": "Canada",
+    "latitude": 49.69428499952326,
+    "longitude": -112.851562,
+    "other_names": {
+      "name": "Lethbridge",
+      "name:en": "Lethbridge",
+      "name:ru": "Летбридж",
+      "name:uk": "Летбрідж"
+    }
+  },
+  {
+    "name": "Lethem",
+    "country": "Brazil",
+    "latitude": 3.374998699645499,
+    "longitude": -59.795867400000006,
+    "other_names": {
+      "name": "Lethem",
+      "name:ru": "Летем"
+    }
+  },
+  {
+    "name": "Leuven",
+    "country": "Belgium",
+    "latitude": 50.87920199927086,
+    "longitude": 4.7011675,
+    "other_names": {
+      "name": "Leuven",
+      "name:ar": "لوفان",
+      "name:bg": "Льовен",
+      "name:ca": "Lovaina",
+      "name:cs": "Lovaň",
+      "name:de": "Löwen",
+      "name:el": "Λέουβεν",
+      "name:en": "Leuven",
+      "name:eo": "Loveno",
+      "name:es": "Lovaina",
+      "name:eu": "Lovaina",
+      "name:fr": "Louvain",
+      "name:he": "לוון",
+      "name:it": "Lovanio",
+      "name:ja": "ルーヴェン",
+      "name:la": "Lovanium",
+      "name:lb": "Léiwen",
+      "name:li": "Leuve",
+      "name:lt": "Leuvenas",
+      "name:mk": "Левен",
+      "name:nl": "Leuven",
+      "name:pt": "Lovaina",
+      "name:ro": "Louvain",
+      "name:ru": "Лёвен",
+      "name:sk": "Leuven",
+      "name:sr": "Левен",
+      "name:wa": "Vî-Lovén",
+      "name:zh": "鲁汶",
+      "name:vls": "Leuvn",
+      "alt_name:wa": "Lovén;Vîye-Lovagne",
+      "name:sr-Latn": "Luven"
+    }
+  },
+  {
+    "name": "Leverkusen",
+    "country": "Germany",
+    "latitude": 51.032474299243866,
+    "longitude": 6.9881194,
+    "other_names": {
+      "name": "Leverkusen",
+      "name:ar": "ليفركوزن",
+      "name:be": "Леверкузен",
+      "name:bg": "Леверкузен",
+      "name:de": "Leverkusen",
+      "name:el": "Λεβερκούζεν",
+      "name:en": "Leverkusen",
+      "name:es": "Leverkusen",
+      "name:fa": "لورکوزن",
+      "name:fr": "Leverkusen",
+      "name:he": "לברקוזן",
+      "name:it": "Leverkusen",
+      "name:ja": "レーヴァークーゼン",
+      "name:ko": "레버쿠젠",
+      "name:nl": "Leverkusen",
+      "name:pl": "Leverkusen",
+      "name:ru": "Леверкузен",
+      "name:sr": "Леверкузен",
+      "name:tr": "Leverkusen",
+      "name:uk": "Леверкузен",
+      "name:zh": "勒沃库森",
+      "name:zh-Hant": "勒沃庫森"
+    }
+  },
+  {
+    "name": "Lévis",
+    "country": "Canada",
+    "latitude": 46.79100960020318,
+    "longitude": -71.1753274,
+    "other_names": {
+      "name": "Lévis",
+      "name:en": "Lévis",
+      "name:fr": "Lévis",
+      "name:ko": "레비스"
+    }
+  },
+  {
+    "name": "Lewiston",
+    "country": "United States Of America",
+    "latitude": 46.41959130027263,
+    "longitude": -117.0216144,
+    "other_names": {
+      "name": "Lewiston",
+      "name:ru": "Льюистон",
+      "name:uk": "Льюістон"
+    }
+  },
+  {
+    "name": "Lewiston",
+    "country": "United States Of America",
+    "latitude": 44.100351000528995,
+    "longitude": -70.21477639999999,
+    "other_names": {
+      "name": "Lewiston"
+    }
+  },
+  {
+    "name": "Lewisville",
+    "country": "United States Of America",
+    "latitude": 33.04623299958751,
+    "longitude": -96.994174,
+    "other_names": {
+      "name": "Lewisville"
+    }
+  },
+  {
+    "name": "Lexington",
+    "country": "United States Of America",
+    "latitude": 40.7788486003667,
+    "longitude": -99.74148689999998,
+    "other_names": {
+      "name": "Lexington",
+      "name:ru": "Лексингтон"
+    }
+  },
+  {
+    "name": "Lexington",
+    "country": "United States Of America",
+    "latitude": 38.046406599988515,
+    "longitude": -84.49703929999998,
+    "other_names": {
+      "name": "Lexington",
+      "name:ru": "Лексингтон",
+      "official_name": "Lexington-Fayette Urban County"
+    }
+  },
+  {
+    "name": "Leye",
+    "country": "China",
+    "latitude": 24.788682300275568,
+    "longitude": 106.5570754,
+    "other_names": {
+      "name": "乐业县",
+      "name:en": "Leye",
+      "name:vi": "Lạc Nghiệp",
+      "name:zh": "乐业县",
+      "alt_name": "乐业;Leye County",
+      "name:zh-Hant": "樂業縣",
+      "name:zh_pinyin": "lèyè xiàn"
+    }
+  },
+  {
+    "name": "Lezhë",
+    "country": "Albania",
+    "latitude": 41.78166380046901,
+    "longitude": 19.6433538,
+    "other_names": {
+      "name": "Lezhë",
+      "name:el": "Λέζε",
+      "name:it": "Alessio",
+      "name:mk": "Леска",
+      "name:ru": "Лежа",
+      "name:sr": "Љеш",
+      "name:tr": "Leş",
+      "alt_name": "Lezha"
+    }
+  },
+  {
+    "name": "Lezhi",
+    "country": "China",
+    "latitude": 30.275577099715857,
+    "longitude": 105.02245019999998,
+    "other_names": {
+      "name": "乐至县",
+      "name:en": "Lezhi",
+      "name:zh": "乐至县",
+      "alt_name": "乐至;Le-chih Hsien;Lo-chih Hsien;Lezhi County",
+      "name:zh-Hant": "樂至縣"
+    }
+  },
+  {
+    "name": "Lhari",
+    "country": "China",
+    "latitude": 30.64425359968644,
+    "longitude": 93.22754499999999,
+    "other_names": {
+      "name": "嘉黎县",
+      "name:en": "Lhari",
+      "name:zh": "嘉黎县",
+      "alt_name": "嘉黎;Lhari County",
+      "name:zh-Hant": "嘉黎縣",
+      "name:zh_pinyin": "Jiālí Xiàn"
+    }
+  }
+]

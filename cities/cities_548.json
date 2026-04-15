@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Yuqing",
+    "country": "China",
+    "latitude": 27.224105900033035,
+    "longitude": 107.90359360000001,
+    "other_names": {
+      "name": "余庆县",
+      "name:en": "Yuqing",
+      "name:zh": "余庆县",
+      "name:zh-Hant": "餘慶縣"
+    }
+  },
+  {
+    "name": "Yuquan",
+    "country": "China",
+    "latitude": 40.753499600363696,
+    "longitude": 111.6753381,
+    "other_names": {
+      "name": "玉泉区",
+      "name:en": "Yuquan",
+      "name:zh": "玉泉区",
+      "name:zh-Hant": "玉泉區"
+    }
+  },
+  {
+    "name": "Yurihonjo",
+    "country": "Japan",
+    "latitude": 39.38587710018153,
+    "longitude": 140.04874019999997,
+    "other_names": {
+      "name": "由利本荘市",
+      "name:ar": "يوريهونجو، أكيتا",
+      "name:de": "Yurihonjō",
+      "name:en": "Yurihonjo",
+      "name:es": "Yurihonjō",
+      "name:fr": "Yurihonjō",
+      "name:ja": "由利本荘市",
+      "name:ko": "유리혼조시",
+      "name:pl": "Yurihonjō",
+      "name:ru": "Юрихондзё",
+      "name:uk": "Юрі-Хондзьо",
+      "int_name": "Yurihonjō",
+      "name:ja_kana": "ゆりほんじょうし"
+    }
+  },
+  {
+    "name": "Yuscarán",
+    "country": "Honduras",
+    "latitude": 13.941307099783382,
+    "longitude": -86.8522133,
+    "other_names": {
+      "name": "Yuscarán",
+      "name:hu": "Yuscarán",
+      "name:ru": "Юскаран"
+    }
+  },
+  {
+    "name": "Yushan",
+    "country": "China",
+    "latitude": 31.684209599621994,
+    "longitude": 118.4933555,
+    "other_names": {
+      "name": "雨山区",
+      "name:de": "Yushan",
+      "name:en": "Yushan",
+      "name:eo": "Yushan",
+      "name:es": "Yushan",
+      "name:fr": "Yushan",
+      "name:ja": "雨山区",
+      "name:ko": "위산 구",
+      "name:pt": "Yushan",
+      "name:sv": "Yushan",
+      "name:vi": "Vũ Sơn",
+      "name:zh": "雨山区",
+      "name:zh-Hant": "雨山區"
+    }
+  },
+  {
+    "name": "Yushan County",
+    "country": "China",
+    "latitude": 28.683952499871005,
+    "longitude": 118.24028680000002,
+    "other_names": {
+      "name": "玉山县",
+      "name:de": "Yushan",
+      "name:en": "Yushan County",
+      "name:fa": "شهرستان یوشان",
+      "name:fr": "Xian de Yushan",
+      "name:it": "Contea di Yushan",
+      "name:ja": "玉山県",
+      "name:ko": "위산현",
+      "name:no": "Yushan",
+      "name:ru": "Юйшань",
+      "name:sv": "Yushan",
+      "name:ur": "یشن کاؤنٹی",
+      "name:vi": "Ngọc Sơn",
+      "name:zh": "玉山县",
+      "name:ceb": "Yushan Xian",
+      "name:gan": "玉山",
+      "name:nan": "Gio̍k-san-koān",
+      "name:yue": "玉山縣",
+      "name:zh-Hant": "玉山縣",
+      "name:zh_pinyin": "Yùshān Xiàn"
+    }
+  },
+  {
+    "name": "Yushe",
+    "country": "China",
+    "latitude": 37.06702619985673,
+    "longitude": 112.9686372,
+    "other_names": {
+      "name": "榆社县",
+      "name:en": "Yushe",
+      "name:ja": "楡社県",
+      "name:ru": "Юйшэ",
+      "name:vi": "Du Xã",
+      "name:zh": "榆社县",
+      "alt_name": "箕城镇;箕城;榆社;Jicheng",
+      "name:zh-Hant": "榆社縣"
+    }
+  },
+  {
+    "name": "Yushu",
+    "country": "China",
+    "latitude": 44.823347900484144,
+    "longitude": 126.53571,
+    "other_names": {
+      "name": "榆树市",
+      "name:de": "Yushu",
+      "name:en": "Yushu",
+      "name:fr": "Yushu",
+      "name:ja": "楡樹市",
+      "name:ru": "Юйшу",
+      "name:uk": "Юйшу",
+      "name:vi": "Du Thụ",
+      "name:zh": "榆树市",
+      "alt_name": "榆树;Yushu City",
+      "name:zh-Hant": "榆樹市",
+      "name:zh_pinyin": "Yúshù Shì"
+    }
+  },
+  {
+    "name": "Yushu",
+    "country": "China",
+    "latitude": 33.00558979958763,
+    "longitude": 97.00926319999999,
+    "other_names": {
+      "name": "玉树州",
+      "name:ar": "مدينة يوشو، تشينغهاي",
+      "name:bo": "ཡུལ་ཤུལ་རྫོང།",
+      "name:ca": "Yushu",
+      "name:de": "Yushu",
+      "name:en": "Yushu",
+      "name:es": "Yushu",
+      "name:fi": "Yushu",
+      "name:fr": "Yushu",
+      "name:it": "Yushu",
+      "name:ja": "玉樹市",
+      "name:ki": "Yushu City",
+      "name:ko": "위수시",
+      "name:nl": "Yushu",
+      "name:no": "Yushu",
+      "name:ru": "Юйшу",
+      "name:sv": "Yushu",
+      "name:tr": "Yushu",
+      "name:ur": "یوشو شہر، چنگھائی",
+      "name:vi": "Ngọc Thụ",
+      "name:zh": "玉树州",
+      "alt_name": "Yülshül",
+      "int_name": "Jyekundo",
+      "name:ceb": "Yushu Zangzu Zizhizhou",
+      "name:nan": "Gio̍k-sū-chhī",
+      "name:yue": "玉樹市",
+      "old_name": "结古镇",
+      "short_name": "玉树州",
+      "alt_name:bo": "སྐྱེ་རྒུ་མདོ།",
+      "alt_name:vi": "Gyêgu",
+      "official_name": "结古街道",
+      "name:zh_pinyin": "Yùshù Shì"
+    }
+  },
+  {
+    "name": "Yushui",
+    "country": "China",
+    "latitude": 27.803494199968217,
+    "longitude": 114.9397801,
+    "other_names": {
+      "name": "渝水区",
+      "name:en": "Yushui",
+      "name:vi": "Du Thủy",
+      "name:zh": "渝水区",
+      "alt_name": "渝水;Yushui District",
+      "alt_name:vi": "Du Thuỷ",
+      "name:zh-Hant": "渝水區",
+      "name:zh_pinyin": "yúshuǐ qū"
+    }
+  },
+  {
+    "name": "Yutai",
+    "country": "China",
+    "latitude": 35.01358639965258,
+    "longitude": 116.6450258,
+    "other_names": {
+      "name": "鱼台县",
+      "name:en": "Yutai",
+      "name:zh": "鱼台县",
+      "name:zh-Hant": "魚臺縣"
+    }
+  },
+  {
+    "name": "Yutian",
+    "country": "China",
+    "latitude": 39.90040640025373,
+    "longitude": 117.7323127,
+    "other_names": {
+      "name": "玉田县",
+      "name:en": "Yutian",
+      "name:ja": "玉田県",
+      "name:zh": "玉田县",
+      "alt_name": "玉田;Yutian County",
+      "name:zh-Hant": "玉田縣"
+    }
+  },
+  {
+    "name": "Yuwangtai",
+    "country": "China",
+    "latitude": 34.77878649963758,
+    "longitude": 114.34260249999998,
+    "other_names": {
+      "name": "禹王台区",
+      "name:en": "Yuwangtai",
+      "name:zh": "禹王台区",
+      "alt_name": "禹王台;Yuwangtai District",
+      "name:zh-Hant": "禹王臺區"
+    }
+  },
+  {
+    "name": "Yuxi",
+    "country": "China",
+    "latitude": 24.350095000309118,
+    "longitude": 102.525851,
+    "other_names": {
+      "name": "玉溪市",
+      "name:de": "Yuxi",
+      "name:en": "Yuxi",
+      "name:et": "Yuxi",
+      "name:fr": "Yuxi",
+      "name:ja": "玉渓市",
+      "name:ru": "Юйси",
+      "name:vi": "Ngọc Khê",
+      "name:zh": "玉溪市",
+      "int_name": "Yuxi",
+      "name:zh-Hant": "玉溪市",
+      "name:zh_pinyin": "Yùxī Shì"
+    }
+  },
+  {
+    "name": "Yuxian",
+    "country": "China",
+    "latitude": 39.83521020024477,
+    "longitude": 114.5699856,
+    "other_names": {
+      "name": "蔚县",
+      "name:en": "Yuxian",
+      "name:ja": "蔚県",
+      "name:ru": "Юйчжоу",
+      "name:zh": "蔚县",
+      "alt_name": "蔚;蔚州镇;蔚州;Yu;Yu-hsien-ch'eng-kuan;Yu-hsien-ch'eng;Yuchow;Yu-chou;Chiu-yu-hsien;Yu-hsien;Wei-hsien;Yu-ch'eng;Yu;Yuzhou",
+      "name:zh-Hant": "蔚縣",
+      "official_name": "蔚县"
+    }
+  },
+  {
+    "name": "Yuyang District",
+    "country": "China",
+    "latitude": 38.27690460002134,
+    "longitude": 109.7155405,
+    "other_names": {
+      "name": "榆阳区",
+      "name:en": "Yuyang District",
+      "name:zh": "榆阳区",
+      "name:zh-Hant": "榆陽區"
+    }
+  },
+  {
+    "name": "Yuyao",
+    "country": "China",
+    "latitude": 30.03930819973625,
+    "longitude": 121.15014490000002,
+    "other_names": {
+      "name": "余姚市",
+      "name:cs": "Jü-jao",
+      "name:de": "Yuyao",
+      "name:en": "Yuyao",
+      "name:es": "Yuyao",
+      "name:fa": "یویائو",
+      "name:fr": "Yuyao",
+      "name:id": "Yuyao",
+      "name:it": "Yuyao",
+      "name:ja": "余姚市",
+      "name:ki": "Yuyao",
+      "name:ko": "위야오시",
+      "name:mg": "Yuyao",
+      "name:nl": "Yuyao",
+      "name:nn": "Yuyao",
+      "name:no": "Yuyao",
+      "name:ru": "Юйяо",
+      "name:sv": "Yuyao",
+      "name:tl": "Yuyao",
+      "name:uk": "Юйяо",
+      "name:ur": "یویو",
+      "name:vi": "Dư Diêu",
+      "name:zh": "余姚市",
+      "name:ceb": "Yuyao",
+      "name:hak": "Yì-yàu-sṳ",
+      "name:nan": "Î-iâu-chhī",
+      "name:war": "Yuyao",
+      "name:wuu": "余姚市",
+      "name:yue": "餘姚",
+      "name:zh-Hant": "餘姚市",
+      "name:zh_pinyin": "Yúyáo Shì"
+    }
+  },
+  {
+    "name": "Yuzawa",
+    "country": "Japan",
+    "latitude": 39.16430180014967,
+    "longitude": 140.4957467,
+    "other_names": {
+      "name": "湯沢市",
+      "name:ar": "يوزاوا آكيتا",
+      "name:de": "Yuzawa",
+      "name:en": "Yuzawa",
+      "name:es": "Yuzawa",
+      "name:fr": "Yuzawa",
+      "name:ja": "湯沢市",
+      "name:ko": "유자와시",
+      "name:pl": "Yuzawa",
+      "name:ru": "Юдзава",
+      "name:uk": "Юдзава",
+      "int_name": "Yuzawa",
+      "name:ja_rm": "Yuzawa-shi",
+      "name:ja_kana": "ゆざわし"
+    }
+  },
+  {
+    "name": "Yuzhno-Sakhalinsk",
+    "country": "Russia",
+    "latitude": 46.95742730016997,
+    "longitude": 142.727438,
+    "other_names": {
+      "name": "Южно-Сахалинск",
+      "name:cs": "Južno-Sachalinsk",
+      "name:de": "Juschno-Sachalinsk",
+      "name:en": "Yuzhno-Sakhalinsk",
+      "name:es": "Yuzhno-Sajalinsk",
+      "name:et": "Južno-Sahhalinsk",
+      "name:fr": "Ioujno-Sakhalinsk",
+      "name:hr": "Juzno Sahalinsk",
+      "name:ja": "ユジノ=サハリンスク",
+      "name:ko": "유즈노사할린스크",
+      "name:lt": "Južno Sachalinskas",
+      "name:pl": "Jużnosachalińsk",
+      "name:ru": "Южно-Сахалинск",
+      "name:sk": "Južno-Sachalinsk",
+      "name:sl": "Juzno-Sahalinsk",
+      "name:uk": "Южно-Сахалінськ",
+      "name:zh": "南薩哈林斯克",
+      "int_name": "Yuzhno-Sakhalinsk",
+      "old_name": "豊原市 (Toyohara)",
+      "old_name:en": "Toyohara",
+      "old_name:ja": "豊原市"
+    }
+  },
+  {
+    "name": "Yuzhno-Sakhalinsk",
+    "country": "Russia",
+    "latitude": 46.94880613853337,
+    "longitude": 142.74414777349327,
+    "other_names": {
+      "name": "Южно-Сахалинск",
+      "name:cs": "Južno-Sachalinsk",
+      "name:en": "Yuzhno-Sakhalinsk",
+      "name:ja": "ユジノサハリンスク"
+    }
+  }
+]

@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Yingxian",
+    "country": "China",
+    "latitude": 39.55705570020588,
+    "longitude": 113.1808215,
+    "other_names": {
+      "name": "应县",
+      "name:de": "Yingxian",
+      "name:en": "Yingxian",
+      "name:fr": "Yingxian",
+      "name:ja": "応県",
+      "name:ru": "Инсянь",
+      "name:zh": "应县",
+      "alt_name": "应;Yingxian;Ying County",
+      "name:zh-Hant": "應縣",
+      "name:zh_pinyin": "Yīng Xiàn"
+    }
+  },
+  {
+    "name": "Yingze",
+    "country": "China",
+    "latitude": 37.86292859996279,
+    "longitude": 112.56111109999999,
+    "other_names": {
+      "name": "迎泽区",
+      "name:en": "Yingze",
+      "name:zh": "迎泽区",
+      "alt_name": "迎泽;Yingze District",
+      "name:zh-Hant": "迎澤區"
+    }
+  },
+  {
+    "name": "Yingzhou",
+    "country": "China",
+    "latitude": 32.88562199958831,
+    "longitude": 115.8014893,
+    "other_names": {
+      "name": "颍州区",
+      "name:en": "Yingzhou",
+      "name:ja": "潁州区",
+      "name:vi": "Dĩnh Châu",
+      "name:zh": "颍州区",
+      "name:zh-Hant": "潁州區",
+      "name:zh_pinyin": "Yingzhou Qu"
+    }
+  },
+  {
+    "name": "Yinhai",
+    "country": "China",
+    "latitude": 21.44731750040965,
+    "longitude": 109.1313165,
+    "other_names": {
+      "name": "银海区",
+      "name:de": "Yinhai",
+      "name:en": "Yinhai",
+      "name:fr": "District de Yinhai",
+      "name:it": "Distretto di Yinhai",
+      "name:ja": "銀海区",
+      "name:ko": "인하이구",
+      "name:no": "Yinhai",
+      "name:ru": "Иньхай",
+      "name:sv": "Yinhai",
+      "name:ur": "یانہی ضلع",
+      "name:vi": "Ngân Hải",
+      "name:zh": "银海区",
+      "alt_name": "银海;Yinhai District",
+      "name:ceb": "Yinhai Qu",
+      "name:hak": "Ngiùn-hói-khî",
+      "name:nan": "Gîn-hái-khu",
+      "name:yue": "银海区",
+      "name:zh-Hant": "銀海區",
+      "name:yue-Latn": "Nganhoi-kei",
+      "name:zh_pinyin": "Yínhǎi Qū"
+    }
+  },
+  {
+    "name": "Yining",
+    "country": "China",
+    "latitude": 43.97580970053345,
+    "longitude": 81.5245233,
+    "other_names": {
+      "name": "伊宁县",
+      "name:de": "Gulja",
+      "name:en": "Yining",
+      "name:es": "Yining",
+      "name:fr": "Yining",
+      "name:ug": "جېلىليۈزى",
+      "name:zh": "伊宁县",
+      "alt_name": "伊宁县;吉里于孜;Qulja",
+      "name:kk-Arab": "قۇلجا اۋدانى",
+      "name:zh-Hant": "伊寧縣"
+    }
+  },
+  {
+    "name": "Yining/Qulja",
+    "country": "China",
+    "latitude": 43.90520270053556,
+    "longitude": 81.27477969999998,
+    "other_names": {
+      "name": "伊宁市",
+      "name:de": "Gulja",
+      "name:en": "Yining/Qulja",
+      "name:es": "Gulja",
+      "name:et": "Gulja",
+      "name:fr": "Yining",
+      "name:ja": "グルジャ市",
+      "name:kk": "Құлжа",
+      "name:ru": "Кульджа",
+      "name:ug": "قۇلجا قالاسى",
+      "name:vi": "Y Ninh",
+      "name:zh": "伊宁市",
+      "int_name": "Yining",
+      "alt_name:ru": "Инин",
+      "alt_name:vi": "Ghulja",
+      "name:kk-Arab": "غۇلجا شەھىرى",
+      "name:zh-Hant": "伊寧市",
+      "name:zh_pinyin": "Yíníng"
+    }
+  },
+  {
+    "name": "Yinjiang",
+    "country": "China",
+    "latitude": 27.99665669994662,
+    "longitude": 108.4056876,
+    "other_names": {
+      "name": "印江县",
+      "name:en": "Yinjiang",
+      "name:vi": "Ấn Giang",
+      "name:zh": "印江土家族苗族自治县",
+      "name:zh-Hant": "印江縣",
+      "official_name": "印江土家族苗族自治县",
+      "name:zh_pinyin": "Yinjiang Tujiazu Miaozu Zizhixian"
+    }
+  },
+  {
+    "name": "Yintai",
+    "country": "China",
+    "latitude": 35.102710999658775,
+    "longitude": 109.09616389999998,
+    "other_names": {
+      "name": "印台区",
+      "name:en": "Yintai",
+      "name:ja": "印台区",
+      "name:zh": "印台区",
+      "alt_name": "印台",
+      "name:zh-Hant": "印臺區"
+    }
+  },
+  {
+    "name": "Yinzhou",
+    "country": "China",
+    "latitude": 42.28416720050551,
+    "longitude": 123.8365172,
+    "other_names": {
+      "name": "银州区",
+      "name:en": "Yinzhou",
+      "name:ja": "銀州区",
+      "name:ko": "인저우구",
+      "name:zh": "银州区",
+      "alt_name": "银州;Yinzhou District",
+      "name:zh-Hant": "銀州區"
+    }
+  },
+  {
+    "name": "Yinzhou District",
+    "country": "China",
+    "latitude": 29.81920529975622,
+    "longitude": 121.5428321,
+    "other_names": {
+      "name": "鄞州区",
+      "name:de": "Yinzhou",
+      "name:en": "Yinzhou District",
+      "name:fr": "District de Yinzhou",
+      "name:it": "Distretto di Yinzhou",
+      "name:ja": "ギン州区",
+      "name:ko": "인저우구",
+      "name:no": "Yinzhou",
+      "name:ru": "Иньчжоу",
+      "name:sv": "Yinzhou",
+      "name:ur": "یینژؤ ضلع، ننگبو",
+      "name:vi": "Ngân Châu",
+      "name:zh": "鄞州区",
+      "name:ceb": "Yinzhou Qu",
+      "name:hak": "Ngiùn-chû-khî",
+      "name:nan": "Gûn-chiu-khu",
+      "name:wuu": "鄞州区",
+      "name:yue": "鄞州",
+      "name:zh-Hant": "鄞州區",
+      "name:zh_pinyin": "Yínzhōu Qū"
+    }
+  },
+  {
+    "name": "Yishui",
+    "country": "China",
+    "latitude": 35.78885599971521,
+    "longitude": 118.62350330000001,
+    "other_names": {
+      "name": "沂水县",
+      "name:en": "Yishui",
+      "name:zh": "沂水县",
+      "name:zh-Hant": "沂水縣"
+    }
+  },
+  {
+    "name": "Yitong",
+    "country": "China",
+    "latitude": 43.34339380054175,
+    "longitude": 125.2959998,
+    "other_names": {
+      "name": "伊通县",
+      "name:en": "Yitong",
+      "name:ru": "Итун",
+      "name:zh": "伊通满族自治县",
+      "alt_name": "伊通;Yitong Manchu Autonomous County;Yitong County",
+      "name:mnc": "ᡳᡨᡠᠩ ᠮᠠᠨᠵᡠ ᠪᡝᠶᡝ ᡩᠠᠰᠠᠩᡤᠠ ᠰᡳᠶᠠᠨ",
+      "short_name": "伊通县",
+      "name:zh-Hant": "伊通縣",
+      "official_name": "伊通满族自治县"
+    }
+  },
+  {
+    "name": "Yiwu",
+    "country": "China",
+    "latitude": 29.306353499805947,
+    "longitude": 120.0702682,
+    "other_names": {
+      "name": "义乌市",
+      "name:ar": "ييوو",
+      "name:ca": "Yiwu",
+      "name:cs": "I-wu",
+      "name:de": "Yiwu",
+      "name:en": "Yiwu",
+      "name:es": "Yiwu",
+      "name:fa": "ایوو",
+      "name:fr": "Yiwu",
+      "name:he": "יי-וו",
+      "name:hi": "यीवू",
+      "name:it": "Yiwu",
+      "name:ja": "義烏市",
+      "name:ki": "Yiwu",
+      "name:ko": "이우시",
+      "name:mg": "Yiwu",
+      "name:nl": "Yiwu",
+      "name:no": "Yiwu",
+      "name:pl": "Yiwu",
+      "name:pt": "Yìwū",
+      "name:ru": "Иу",
+      "name:sv": "Yiwu",
+      "name:tl": "Yiwu",
+      "name:tr": "Yiwu",
+      "name:ur": "یوو",
+      "name:vi": "Nghĩa Ô",
+      "name:zh": "义乌市",
+      "name:ceb": "Yiwu",
+      "name:nan": "Gī-o͘-chhī",
+      "name:war": "Yiwu",
+      "name:wuu": "義烏市",
+      "name:yue": "義烏",
+      "name:zh-Hant": "義烏市",
+      "name:zh_pinyin": "Yìwū Shì"
+    }
+  },
+  {
+    "name": "Yiwu",
+    "country": "China",
+    "latitude": 43.252912100541025,
+    "longitude": 94.6960936,
+    "other_names": {
+      "name": "伊吾县",
+      "name:en": "Yiwu",
+      "name:ug": "ئاراتۈرك ناھىيىسى",
+      "name:uk": "Їу",
+      "name:zh": "伊吾县",
+      "alt_name": "伊吾县;Ara Türük;Aratürük",
+      "name:zh-Hant": "伊吾縣"
+    }
+  },
+  {
+    "name": "Yixian",
+    "country": "China",
+    "latitude": 39.35273660017679,
+    "longitude": 115.4972008,
+    "other_names": {
+      "name": "易县",
+      "name:en": "Yixian",
+      "name:vi": "Dịch",
+      "name:zh": "易县",
+      "alt_name": "易;Yi;Yixian;Yi County",
+      "name:zh-Hant": "易縣",
+      "name:zh_pinyin": "Yi Xian"
+    }
+  },
+  {
+    "name": "Yixian",
+    "country": "China",
+    "latitude": 41.535022500447184,
+    "longitude": 121.24138060000001,
+    "other_names": {
+      "name": "义县",
+      "name:en": "Yixian",
+      "name:ja": "義県",
+      "name:ko": "이현",
+      "name:ru": "Ичжоу",
+      "name:vi": "Nghĩa",
+      "name:zh": "义县",
+      "alt_name": "义;Yi;Yi County",
+      "name:zh-Hant": "義縣",
+      "name:zh_pinyin": "Yi Xian"
+    }
+  },
+  {
+    "name": "Yixian",
+    "country": "China",
+    "latitude": 29.926598499746362,
+    "longitude": 117.9345987,
+    "other_names": {
+      "name": "黟县",
+      "name:en": "Yixian",
+      "name:ja": "黟県",
+      "name:vi": "Y",
+      "name:zh": "黟县",
+      "alt_name": "黟;Yi County;Yi",
+      "name:zh-Hant": "黟縣",
+      "name:zh_pinyin": "yī xiàn"
+    }
+  },
+  {
+    "name": "Yixing",
+    "country": "China",
+    "latitude": 31.34959719963948,
+    "longitude": 119.81725300000001,
+    "other_names": {
+      "name": "宜兴市",
+      "name:de": "Yixing",
+      "name:en": "Yixing",
+      "name:fr": "Yixing",
+      "name:ja": "宜興市",
+      "name:ru": "Исин",
+      "name:vi": "Nghi Hưng",
+      "name:zh": "宜兴市",
+      "name:zh-Hant": "宜興市",
+      "name:zh_pinyin": "Yíxīng Shì"
+    }
+  },
+  {
+    "name": "Yixiu",
+    "country": "China",
+    "latitude": 30.61475519968868,
+    "longitude": 116.98197399999997,
+    "other_names": {
+      "name": "宜秀区",
+      "name:en": "Yixiu",
+      "name:ja": "宜秀区",
+      "name:zh": "宜秀区",
+      "alt_name": "宜秀;Yixiu",
+      "name:zh-Hant": "宜秀區",
+      "name:zh_pinyin": "Yíxiù Qū"
+    }
+  },
+  {
+    "name": "Yiyang",
+    "country": "China",
+    "latitude": 28.556200299884836,
+    "longitude": 112.34976059999998,
+    "other_names": {
+      "name": "益阳市",
+      "name:de": "Yiyang",
+      "name:en": "Yiyang",
+      "name:et": "Yiyang",
+      "name:fr": "Yiyang",
+      "name:ja": "益陽市",
+      "name:ru": "Иян",
+      "name:vi": "Ích Dương",
+      "name:zh": "益阳市",
+      "int_name": "Yiyang",
+      "name:zh-Hant": "益陽市",
+      "name:zh_pinyin": "Yìyáng Shì"
+    }
+  }
+]

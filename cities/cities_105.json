@@ -1,0 +1,418 @@
+[
+  {
+    "name": "Danba",
+    "country": "China",
+    "latitude": 30.88135679966921,
+    "longitude": 101.88457719999998,
+    "other_names": {
+      "name": "丹巴县",
+      "name:bo": "རོང་བྲག།",
+      "name:en": "Danba",
+      "name:ko": "단바현",
+      "name:uk": "Даньба",
+      "name:vi": "Đan Ba",
+      "name:zh": "丹巴县",
+      "alt_name": "丹巴;Rongzhag Xian;Danba Xian;Tan-pa Hsien;Rongzhag;Rongdrak",
+      "name:zh-Hant": "丹巴縣",
+      "name:zh_pinyin": "Dānbā Xiàn"
+    }
+  },
+  {
+    "name": "Danbury",
+    "country": "United States Of America",
+    "latitude": 41.39481700043374,
+    "longitude": -73.4540111,
+    "other_names": {
+      "name": "Danbury",
+      "name:ru": "Данбери"
+    }
+  },
+  {
+    "name": "Dancheng",
+    "country": "China",
+    "latitude": 33.640664899592515,
+    "longitude": 115.19435010000001,
+    "other_names": {
+      "name": "郸城县",
+      "name:en": "Dancheng",
+      "name:zh": "郸城县",
+      "alt_name": "郸城;Dancheng County",
+      "name:zh-Hant": "鄲城縣"
+    }
+  },
+  {
+    "name": "Dandong",
+    "country": "China",
+    "latitude": 40.128668000284605,
+    "longitude": 124.3863404,
+    "other_names": {
+      "name": "丹东市",
+      "name:ar": "داندونغ",
+      "name:cs": "Tan-tung",
+      "name:de": "Dandong",
+      "name:en": "Dandong",
+      "name:et": "Dandong",
+      "name:fi": "Dandong",
+      "name:fr": "Dandong",
+      "name:hi": "डेन्डोंग",
+      "name:ja": "丹東市",
+      "name:ko": "단둥시",
+      "name:ru": "Даньдун",
+      "name:vi": "Đan Đông",
+      "name:zh": "丹东市",
+      "int_name": "Dandong",
+      "old_name": "安东市",
+      "old_name:en": "Andong;Antung",
+      "old_name:zh": "安东市",
+      "name:zh-Hant": "丹東市",
+      "name:zh_pinyin": "Dāndōng Shì"
+    }
+  },
+  {
+    "name": "Dandong",
+    "country": "North Korea",
+    "latitude": 40.128668000284605,
+    "longitude": 124.3863404,
+    "other_names": {
+      "name": "丹东市",
+      "name:ar": "داندونغ",
+      "name:cs": "Tan-tung",
+      "name:de": "Dandong",
+      "name:en": "Dandong",
+      "name:et": "Dandong",
+      "name:fi": "Dandong",
+      "name:fr": "Dandong",
+      "name:hi": "डेन्डोंग",
+      "name:ja": "丹東市",
+      "name:ko": "단둥시",
+      "name:ru": "Даньдун",
+      "name:vi": "Đan Đông",
+      "name:zh": "丹东市",
+      "int_name": "Dandong",
+      "old_name": "安东市",
+      "old_name:en": "Andong;Antung",
+      "old_name:zh": "安东市",
+      "name:zh-Hant": "丹東市",
+      "name:zh_pinyin": "Dāndōng Shì"
+    }
+  },
+  {
+    "name": "Danew",
+    "country": "Turkmenistan",
+    "latitude": 39.26247550016382,
+    "longitude": 63.1844122,
+    "other_names": {
+      "name": "Dänew",
+      "name:en": "Danew",
+      "name:ru": "Дянев",
+      "name:tk": "Dänew",
+      "old_name": "Galkynyş",
+      "old_name:ru": "Дейнау;Галкыныш"
+    }
+  },
+  {
+    "name": "Danfeng",
+    "country": "China",
+    "latitude": 33.69610059959362,
+    "longitude": 110.3295141,
+    "other_names": {
+      "name": "丹凤县",
+      "name:en": "Danfeng",
+      "name:ja": "丹鳳県",
+      "name:zh": "丹凤县",
+      "name:zh-Hant": "丹鳳縣"
+    }
+  },
+  {
+    "name": "Dangjin-si",
+    "country": "South Korea",
+    "latitude": 36.89040829983476,
+    "longitude": 126.6461833,
+    "other_names": {
+      "name": "당진시",
+      "name:de": "Dangjin",
+      "name:en": "Dangjin-si",
+      "name:es": "Dangjin",
+      "name:et": "Dangjin",
+      "name:fr": "Dangjin",
+      "name:ja": "唐津市",
+      "name:ko": "당진시",
+      "name:ru": "Танджин",
+      "name:zh": "唐津市",
+      "int_name": "Dangjin",
+      "name:ja-Hira": "たんじんし",
+      "name:ko-Hani": "唐津市"
+    }
+  },
+  {
+    "name": "Dangshan",
+    "country": "China",
+    "latitude": 34.44321539961947,
+    "longitude": 116.3609227,
+    "other_names": {
+      "name": "砀山县",
+      "name:en": "Dangshan",
+      "name:ja": "トウ山県",
+      "name:zh": "砀山县",
+      "alt_name": "砀山县;Dangshan County",
+      "name:zh-Hant": "碭山縣",
+      "name:zh_pinyin": "dàngshān xiàn"
+    }
+  },
+  {
+    "name": "Dangtu",
+    "country": "China",
+    "latitude": 31.572288299627477,
+    "longitude": 118.4928233,
+    "other_names": {
+      "name": "当涂县",
+      "name:de": "Dangtu",
+      "name:en": "Dangtu",
+      "name:eo": "Dangtu",
+      "name:es": "Dangtu",
+      "name:fr": "Dangtu",
+      "name:ja": "当塗県",
+      "name:ko": "당투 현",
+      "name:pt": "Dangtu",
+      "name:sv": "Dangtu",
+      "name:vi": "Đang Đồ",
+      "name:zh": "当涂县",
+      "old_name": "太平府",
+      "name:zh-Hant": "當塗縣"
+    }
+  },
+  {
+    "name": "Dangyang",
+    "country": "China",
+    "latitude": 30.823863599673267,
+    "longitude": 111.78239659999998,
+    "other_names": {
+      "name": "当阳市",
+      "name:de": "Dangyang",
+      "name:en": "Dangyang",
+      "name:es": "Dangyang",
+      "name:fr": "Dangyang",
+      "name:it": "Dangyang",
+      "name:ja": "当陽市",
+      "name:ki": "Dangyang",
+      "name:ko": "당양시",
+      "name:mg": "Dangyang",
+      "name:nl": "Dangyang",
+      "name:no": "Dangyang",
+      "name:pl": "Dangyang",
+      "name:ru": "Данъян",
+      "name:sv": "Dangyang",
+      "name:vi": "Đương Dương",
+      "name:zh": "当阳市",
+      "int_name": "Dangyang",
+      "name:nan": "Tong-iông-chhī",
+      "name:pam": "Dangyang",
+      "name:war": "Dangyang",
+      "name:yue": "當陽",
+      "name:zh-Hant": "當陽市",
+      "name:zh_pinyin": "Dāngyáng Shì"
+    }
+  },
+  {
+    "name": "Daning",
+    "country": "China",
+    "latitude": 36.46470399978475,
+    "longitude": 110.7394714,
+    "other_names": {
+      "name": "大宁县",
+      "name:en": "Daning",
+      "name:ru": "Данин",
+      "name:zh": "大宁县",
+      "alt_name": "大宁;Ta-ning Hsien;Daning County",
+      "name:zh-Hant": "大寧縣"
+    }
+  },
+  {
+    "name": "Danjiangkou",
+    "country": "China",
+    "latitude": 32.54299809959303,
+    "longitude": 111.50701009999999,
+    "other_names": {
+      "name": "丹江口市",
+      "name:de": "Danjiangkou",
+      "name:en": "Danjiangkou",
+      "name:fr": "Danjiangkou",
+      "name:ja": "丹江口市",
+      "name:ru": "Даньцзянкоу",
+      "name:vi": "Đan Giang Khẩu",
+      "name:zh": "丹江口",
+      "int_name": "Danjiangkou",
+      "name:zh-Hant": "丹江口市",
+      "name:zh_pinyin": "Dānjiāngkǒu Shì"
+    }
+  },
+  {
+    "name": "Danleng",
+    "country": "China",
+    "latitude": 30.015004099738402,
+    "longitude": 103.51592949999998,
+    "other_names": {
+      "name": "丹棱县",
+      "name:en": "Danleng",
+      "name:zh": "丹棱县",
+      "alt_name": "丹棱;Danleng County",
+      "name:zh-Hant": "丹棱縣"
+    }
+  },
+  {
+    "name": "Danlí",
+    "country": "Honduras",
+    "latitude": 14.032469799793857,
+    "longitude": -86.5682844,
+    "other_names": {
+      "name": "Danlí",
+      "name:hu": "Danli",
+      "name:lt": "Danli"
+    }
+  },
+  {
+    "name": "Dantu District",
+    "country": "China",
+    "latitude": 32.13392249960386,
+    "longitude": 119.4284046,
+    "other_names": {
+      "name": "丹徒区",
+      "name:de": "Dantu",
+      "name:el": "Επαρχία Νταντού",
+      "name:en": "Dantu District",
+      "name:es": "Distrito de Dantu",
+      "name:fr": "District de Dantu",
+      "name:it": "Distretto di Dantu",
+      "name:ja": "丹徒区",
+      "name:ko": "단투구",
+      "name:no": "Dantu",
+      "name:ru": "Даньту",
+      "name:sv": "Dantu",
+      "name:ur": "دانتو ضلع",
+      "name:vi": "Đan Đồ",
+      "name:zh": "丹徒区",
+      "name:ceb": "Dantu Qu",
+      "name:nan": "Tan-tô͘-khu",
+      "name:wuu": "丹徒区",
+      "name:yue": "丹徒區",
+      "name:zh-Hant": "丹徒區",
+      "name:zh_pinyin": "Dāntú Qū"
+    }
+  },
+  {
+    "name": "Danyang City",
+    "country": "China",
+    "latitude": 32.01097359960818,
+    "longitude": 119.6012702,
+    "other_names": {
+      "name": "丹阳市",
+      "name:de": "Danyang",
+      "name:en": "Danyang City",
+      "name:fr": "Danyang",
+      "name:it": "Danyang",
+      "name:ja": "丹陽市",
+      "name:ki": "Danyang",
+      "name:ko": "단양시",
+      "name:nl": "Danyang",
+      "name:no": "Danyang",
+      "name:pl": "Danyang",
+      "name:ru": "Даньян",
+      "name:sv": "Danyang",
+      "name:tl": "Danyang",
+      "name:ur": "دانیانگ، جیانگسو",
+      "name:vi": "Đan Dương",
+      "name:zh": "丹阳市",
+      "name:nan": "Tan-iông-chhī",
+      "name:pam": "Danyang",
+      "name:war": "Danyang",
+      "name:wuu": "丹陽市",
+      "name:yue": "丹陽",
+      "name:zh-Hans": "丹阳市",
+      "name:zh-Hant": "丹陽市",
+      "name:zh_pinyin": "Dānyáng Shì"
+    }
+  },
+  {
+    "name": "Danzhai",
+    "country": "China",
+    "latitude": 26.201600000143593,
+    "longitude": 107.792,
+    "other_names": {
+      "name": "丹寨县",
+      "name:en": "Danzhai",
+      "name:zh": "丹寨",
+      "alt_name": "丹寨;龙泉镇;龙泉;Pa-chai-hsien;Pa-chai;Tan-chai-hsien;Lung-ch'uan;Tan-chai;Longquan Zhen;Longquan",
+      "name:zh-Hant": "丹寨縣"
+    }
+  },
+  {
+    "name": "Danzhou City",
+    "country": "China",
+    "latitude": 19.517379500347506,
+    "longitude": 109.56971879999999,
+    "other_names": {
+      "name": "儋州市",
+      "name:ar": "دانزوو",
+      "name:cs": "Tan-čou",
+      "name:da": "Danzhou",
+      "name:de": "Danzhou",
+      "name:en": "Danzhou City",
+      "name:es": "Danzhou",
+      "name:et": "Danzhou",
+      "name:eu": "Danzhou",
+      "name:fa": "دانژو",
+      "name:fi": "Danzhou",
+      "name:fr": "Danzhou",
+      "name:id": "Danzhou",
+      "name:it": "Danzhou",
+      "name:ja": "ダン州市",
+      "name:ki": "Danzhou",
+      "name:kk": "Даньчжоу",
+      "name:ko": "단저우시",
+      "name:mg": "Danzhou",
+      "name:nl": "Danzhou",
+      "name:no": "Danzhou",
+      "name:pl": "Danzhou",
+      "name:pt": "Danzhou",
+      "name:ru": "Даньчжоу",
+      "name:sv": "Danzhou",
+      "name:tr": "Danzhou",
+      "name:ur": "دانژوو",
+      "name:vi": "Đam Châu",
+      "name:zh": "儋州市",
+      "name:cdo": "Dăng-ciŭ",
+      "name:nan": "Tam-chiu-chhī",
+      "name:pam": "Danzhou",
+      "name:wuu": "儋州市",
+      "name:yue": "儋州",
+      "name:zh-Hant": "儋州市",
+      "name:zh_pinyin": "Dānzhōu Shì"
+    }
+  },
+  {
+    "name": "Dao",
+    "country": "China",
+    "latitude": 25.52948860021034,
+    "longitude": 111.5952587,
+    "other_names": {
+      "name": "道县",
+      "name:de": "Dao",
+      "name:en": "Dao",
+      "name:fa": "شهرستان داو",
+      "name:fr": "Xian de Dao",
+      "name:it": "Contea di Dao",
+      "name:ja": "道県",
+      "name:ko": "다오현",
+      "name:no": "Dao",
+      "name:ru": "Даосянь",
+      "name:sv": "Dao",
+      "name:vi": "Đạo",
+      "name:zh": "道县",
+      "alt_name": "Dao County",
+      "name:ceb": "Dao Xian",
+      "name:nan": "Tō-koān",
+      "name:yue": "道縣",
+      "name:zh-Hant": "道縣"
+    }
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Winston-Salem",
+    "country": "United States Of America",
+    "latitude": 36.0998130997456,
+    "longitude": -80.24405179999998,
+    "other_names": {
+      "name": "Winston-Salem",
+      "name:en": "Winston-Salem",
+      "name:ru": "Уинстон-Сейлем",
+      "name:uk": "Винстон-Сейлем"
+    }
+  },
+  {
+    "name": "Winterthur",
+    "country": "Switzerland",
+    "latitude": 47.499172300053836,
+    "longitude": 8.7291498,
+    "other_names": {
+      "name": "Winterthur",
+      "name:ar": "فينترتور",
+      "name:be": "Вінтэртур",
+      "name:de": "Winterthur",
+      "name:eo": "Vinterturo",
+      "name:fr": "Winterthour",
+      "name:lt": "Vintertūras",
+      "name:ru": "Винтертур",
+      "name:sr": "Винтертур",
+      "name:gsw": "Wintertur",
+      "name:zh-Hans": "温特图尔",
+      "name:zh-Hant": "溫特圖爾"
+    }
+  },
+  {
+    "name": "Włocławek",
+    "country": "Poland",
+    "latitude": 52.66016999908473,
+    "longitude": 19.0722963,
+    "other_names": {
+      "name": "Włocławek",
+      "name:de": "Leslau",
+      "name:ja": "ヴウォツワヴェク",
+      "name:lt": "Vloclavekas",
+      "name:mk": "Влоцлавек",
+      "name:pl": "Włocławek",
+      "name:ru": "Влоцлавек",
+      "name:uk": "Влоцлавек"
+    }
+  },
+  {
+    "name": "Woburn",
+    "country": "United States Of America",
+    "latitude": 42.47926180051654,
+    "longitude": -71.1522766,
+    "other_names": {
+      "name": "Woburn",
+      "name:zh": "沃本镇"
+    }
+  },
+  {
+    "name": "Wodonga",
+    "country": "Australia",
+    "latitude": -36.124718300141126,
+    "longitude": 146.88825809999997,
+    "other_names": {
+      "name": "Wodonga",
+      "name:ja": "ウォドンガ"
+    }
+  },
+  {
+    "name": "Wolfsburg",
+    "country": "Germany",
+    "latitude": 52.42055879909091,
+    "longitude": 10.7861682,
+    "other_names": {
+      "name": "Wolfsburg",
+      "name:ar": "ولفسبورغ",
+      "name:de": "Wolfsburg",
+      "name:es": "Wolfsburgo",
+      "name:fa": "ولفسبورگ",
+      "name:ja": "ヴォルフスブルク",
+      "name:la": "Lycopolis",
+      "name:lt": "Volfsburgas",
+      "name:ru": "Вольфсбург",
+      "name:sr": "Волфсбург",
+      "name:uk": "Вольфсбург",
+      "name:ur": "وولفسبرگ",
+      "name:zh": "沃尔夫斯堡",
+      "name:nds": "Wulfsborg",
+      "old_name": "Stadt des KdF-Wagens bei Fallersleben"
+    }
+  },
+  {
+    "name": "Wollongong",
+    "country": "Australia",
+    "latitude": -34.42439409977077,
+    "longitude": 150.89385,
+    "other_names": {
+      "name": "Wollongong",
+      "name:ja": "ウロンゴン",
+      "name:lt": "Vulongongas",
+      "name:mk": "Волонгонг",
+      "name:ru": "Вуллонгонг",
+      "name:zh": "卧龙岗",
+      "loc_name": "The Gong"
+    }
+  },
+  {
+    "name": "Wolong",
+    "country": "China",
+    "latitude": 32.98932459958769,
+    "longitude": 112.5200606,
+    "other_names": {
+      "name": "卧龙区",
+      "name:en": "Wolong",
+      "name:zh": "卧龙区",
+      "alt_name": "卧龙;Wolong County",
+      "name:zh-Hant": "臥龍區"
+    }
+  },
+  {
+    "name": "Wolverhampton",
+    "country": "England",
+    "latitude": 52.58476509908594,
+    "longitude": -2.127567,
+    "other_names": {
+      "name": "Wolverhampton",
+      "name:hu": "Wolverhampton",
+      "name:ja": "ウォルヴァーハンプトン",
+      "name:ko": "울버햄프턴",
+      "name:mk": "Вулверхемптон",
+      "name:ru": "Вулвергемптон",
+      "name:sr": "Вулверхемптон",
+      "name:uk": "Вулвергемптон",
+      "alt_name:mk": "Волверхемптон"
+    }
+  },
+  {
+    "name": "Wonju-si",
+    "country": "South Korea",
+    "latitude": 37.34209959989217,
+    "longitude": 127.9197603,
+    "other_names": {
+      "name": "원주시",
+      "name:de": "Wonju",
+      "name:el": "Ουόντζου",
+      "name:en": "Wonju-si",
+      "name:es": "Wonju",
+      "name:et": "Wonju",
+      "name:fr": "Wonju",
+      "name:ja": "原州市",
+      "name:ko": "원주시",
+      "name:lt": "Vondžu",
+      "name:ru": "Вонджу",
+      "name:zh": "原州市",
+      "int_name": "Wonju",
+      "name:ko-Hani": "原州市"
+    }
+  },
+  {
+    "name": "Wonsan",
+    "country": "North Korea",
+    "latitude": 39.1532956001481,
+    "longitude": 127.453564,
+    "other_names": {
+      "name": "원산시",
+      "name:cs": "Wonsan",
+      "name:de": "Wŏnsan",
+      "name:el": "Ουόνσαν",
+      "name:en": "Wonsan",
+      "name:eo": "Vonsano",
+      "name:et": "Wŏnsan",
+      "name:fi": "Wonsan",
+      "name:fr": "Wonsan",
+      "name:ja": "元山市",
+      "name:ko": "원산시",
+      "name:lt": "Vonsanas",
+      "name:nl": "Wŏnsan",
+      "name:ru": "Вонсан",
+      "name:uk": "Вонсан",
+      "name:vi": "Nguyên San",
+      "name:zh": "元山市",
+      "int_name": "Wonsan",
+      "alt_name:de": "Wönsan",
+      "name:ko-Hani": "元山市"
+    }
+  },
+  {
+    "name": "Woodstock",
+    "country": "Canada",
+    "latitude": 43.1301111005393,
+    "longitude": -80.75629769999999,
+    "other_names": {
+      "name": "Woodstock"
+    }
+  },
+  {
+    "name": "Woonsocket",
+    "country": "United States Of America",
+    "latitude": 42.00287610048646,
+    "longitude": -71.5147839,
+    "other_names": {
+      "name": "Woonsocket"
+    }
+  },
+  {
+    "name": "Worcester",
+    "country": "United States Of America",
+    "latitude": 42.26256210050418,
+    "longitude": -71.8018877,
+    "other_names": {
+      "name": "Worcester",
+      "name:en": "Worcester",
+      "name:ru": "Вустер",
+      "name:uk": "Вустер"
+    }
+  },
+  {
+    "name": "Worcester",
+    "country": "England",
+    "latitude": 52.191184899103014,
+    "longitude": -2.2206585,
+    "other_names": {
+      "name": "Worcester",
+      "name:cy": "Caerwrangon",
+      "name:en": "Worcester",
+      "name:hu": "Worcester",
+      "name:ko": "우스터",
+      "name:lt": "Vusteris",
+      "name:mk": "Вустер",
+      "name:ru": "Вустер",
+      "name:sr": "Вустер",
+      "name:uk": "Вустер"
+    }
+  },
+  {
+    "name": "Worland",
+    "country": "United States Of America",
+    "latitude": 44.016846300532094,
+    "longitude": -107.9557722,
+    "other_names": {
+      "name": "Worland",
+      "name:ru": "Уэрленд",
+      "name:uk": "Ворленд"
+    }
+  },
+  {
+    "name": "Wroclaw",
+    "country": "Poland",
+    "latitude": 51.10897759923102,
+    "longitude": 17.032668899999997,
+    "other_names": {
+      "name": "Wrocław",
+      "name:ar": "فروتزواف",
+      "name:be": "Уроцлаў",
+      "name:bg": "Вроцлав",
+      "name:cs": "Vratislav",
+      "name:de": "Breslau",
+      "name:en": "Wroclaw",
+      "name:eo": "Vroclavo",
+      "name:es": "Breslavia",
+      "name:fr": "Wroclaw",
+      "name:he": "ורוצלב",
+      "name:hu": "Boroszló",
+      "name:it": "Breslavia",
+      "name:ja": "ヴロツワフ",
+      "name:la": "Vratislavia",
+      "name:lt": "Vroclavas",
+      "name:lv": "Vroclava",
+      "name:mk": "Вроцлав",
+      "name:pl": "Wrocław",
+      "name:ru": "Вроцлав",
+      "name:sk": "Vroclav",
+      "name:sr": "Вроцлав",
+      "name:uk": "Вроцлав",
+      "name:yi": "ברעסלוי",
+      "name:zh": "弗罗茨瓦夫",
+      "name:ast": "Wroclaw",
+      "name:hsb": "Wrócław",
+      "name:szl": "Wrocłow",
+      "name:dative": "Wrocławiu",
+      "name:zh-Hans": "弗罗茨瓦夫",
+      "name:zh-Hant": "弗次瓦夫"
+    }
+  },
+  {
+    "name": "Wu'an",
+    "country": "China",
+    "latitude": 36.69721129981154,
+    "longitude": 114.1949611,
+    "other_names": {
+      "name": "武安市",
+      "name:de": "Wu'an",
+      "name:en": "Wu'an",
+      "name:fr": "Wu'an",
+      "name:ja": "武安市",
+      "name:ru": "Уань",
+      "name:uk": "Уань",
+      "name:vi": "Vũ An",
+      "name:zh": "武安市",
+      "alt_name": "武安;Wu'an County",
+      "name:zh-Hant": "武安市",
+      "name:zh_pinyin": "Wǔ'ān Shì"
+    }
+  },
+  {
+    "name": "Wubu",
+    "country": "China",
+    "latitude": 37.45309549990689,
+    "longitude": 110.7348528,
+    "other_names": {
+      "name": "吴堡县",
+      "name:en": "Wubu",
+      "name:ja": "呉堡県",
+      "name:uk": "Убу",
+      "name:zh": "吴堡县",
+      "alt_name": "宋家川街道;宋家川;Songjiachuan",
+      "old_name": "宋家川镇",
+      "name:zh-Hant": "吳堡縣"
+    }
+  },
+  {
+    "name": "Wuchang",
+    "country": "China",
+    "latitude": 44.92992960047479,
+    "longitude": 127.160945,
+    "other_names": {
+      "name": "五常市",
+      "name:de": "Wuchang",
+      "name:en": "Wuchang",
+      "name:fr": "Wuchang",
+      "name:ja": "五常市",
+      "name:ru": "Учан",
+      "name:vi": "Ngũ Thường",
+      "name:zh": "五常市",
+      "alt_name": "五常;Wuchang City",
+      "name:zh-Hant": "五常市",
+      "official_name": "五常镇",
+      "name:zh_pinyin": "Wǔcháng Shì"
+    }
+  }
+]

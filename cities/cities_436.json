@@ -1,0 +1,401 @@
+[
+  {
+    "name": "Shillong",
+    "country": "India",
+    "latitude": 25.57604460020592,
+    "longitude": 91.8825282,
+    "other_names": {
+      "name": "Shillong",
+      "name:ar": "شيلونغ",
+      "name:bn": "শিলং",
+      "name:cs": "Šillong",
+      "name:de": "Shillong",
+      "name:en": "Shillong",
+      "name:es": "Shillong",
+      "name:fa": "شیلونگ",
+      "name:fr": "Shillong",
+      "name:hi": "शिलांग",
+      "name:ja": "シロン",
+      "name:kn": "ಶಿಲ್ಲಾಂಗ್",
+      "name:ml": "ഷില്ലോങ്ങ്",
+      "name:ne": "सिलोङ",
+      "name:ta": "ஷில்லாங்",
+      "name:ur": "شیلانگ"
+    }
+  },
+  {
+    "name": "Shilong",
+    "country": "China",
+    "latitude": 33.90005899959869,
+    "longitude": 112.9009982,
+    "other_names": {
+      "name": "石龙区",
+      "name:en": "Shilong",
+      "name:zh": "石龙区",
+      "alt_name": "石龙;Shilong District",
+      "name:zh-Hant": "石龍區"
+    }
+  },
+  {
+    "name": "Shilou",
+    "country": "China",
+    "latitude": 36.99780879984804,
+    "longitude": 110.8288519,
+    "other_names": {
+      "name": "石楼县",
+      "name:en": "Shilou",
+      "name:ja": "石楼県",
+      "name:ru": "Шилоу",
+      "name:zh": "石楼县",
+      "alt_name": "石楼;Shilou County",
+      "name:zh-Hant": "石樓縣"
+    }
+  },
+  {
+    "name": "Shima",
+    "country": "Japan",
+    "latitude": 34.34118409961474,
+    "longitude": 136.81964509999997,
+    "other_names": {
+      "name": "志摩市",
+      "name:ar": "شيما، ميه",
+      "name:de": "Shima",
+      "name:en": "Shima",
+      "name:es": "Shima",
+      "name:fr": "Shima",
+      "name:ja": "志摩市",
+      "name:ko": "시마시",
+      "name:pl": "Shima",
+      "name:ru": "Сима",
+      "name:uk": "Сіма",
+      "name:ja_rm": "Shima si"
+    }
+  },
+  {
+    "name": "Shimabara",
+    "country": "Japan",
+    "latitude": 32.78808399958925,
+    "longitude": 130.3705411,
+    "other_names": {
+      "name": "島原市",
+      "name:ar": "شيمبارا، ناغاساكي",
+      "name:de": "Shimabara",
+      "name:en": "Shimabara",
+      "name:es": "Shimabara",
+      "name:fr": "Shimabara",
+      "name:ja": "島原市",
+      "name:ko": "시마바라시",
+      "name:pl": "Shimabara",
+      "name:ru": "Симабара",
+      "name:uk": "Шімабара",
+      "name:zh": "岛原市",
+      "int_name": "Shimabara",
+      "name:ja_rm": "Shimabara-Shi",
+      "name:ja_kana": "しまばらし",
+      "name:zh-Hans": "岛原市",
+      "name:zh-Hant": "島原市"
+    }
+  },
+  {
+    "name": "Shimada",
+    "country": "Japan",
+    "latitude": 34.879911999643795,
+    "longitude": 138.146599,
+    "other_names": {
+      "name": "島田市",
+      "name:ar": "شيمادا، شيزوكا",
+      "name:de": "Shimada",
+      "name:en": "Shimada",
+      "name:es": "Shimada",
+      "name:fr": "Shimada",
+      "name:ja": "島田市",
+      "name:ko": "시마다시",
+      "name:pl": "Shimada",
+      "name:ru": "Симада",
+      "name:uk": "Сімада"
+    }
+  },
+  {
+    "name": "Shimamoto",
+    "country": "Japan",
+    "latitude": 34.89282589964461,
+    "longitude": 135.6532529,
+    "other_names": {
+      "name": "島本町",
+      "name:en": "Shimamoto",
+      "name:fr": "Shimamoto",
+      "name:ja": "島本町",
+      "name:ja_rm": "Shimamoto-chō"
+    }
+  },
+  {
+    "name": "Shimanto",
+    "country": "Japan",
+    "latitude": 32.991223199587694,
+    "longitude": 132.9336984,
+    "other_names": {
+      "name": "四万十市",
+      "name:ar": "شيمانتو، كوتشي",
+      "name:de": "Shimanto",
+      "name:en": "Shimanto",
+      "name:es": "Shimanto",
+      "name:fr": "Shimanto",
+      "name:ja": "四万十市",
+      "name:ko": "시만토시",
+      "name:pl": "Shimanto",
+      "name:ru": "Симанто",
+      "name:uk": "Шіманто",
+      "name:zh": "四万十市",
+      "int_name": "Shimanto",
+      "name:zh-Hans": "四万十市",
+      "name:zh-Hant": "四万十市"
+    }
+  },
+  {
+    "name": "Shimen",
+    "country": "China",
+    "latitude": 29.587349899778186,
+    "longitude": 111.37330629999998,
+    "other_names": {
+      "name": "石门县",
+      "name:en": "Shimen",
+      "name:vi": "Thạch Môn",
+      "name:zh": "石门县",
+      "alt_name": "石门;Shimen County",
+      "name:zh-Hant": "石門縣",
+      "name:zh_pinyin": "shímén xiàn"
+    }
+  },
+  {
+    "name": "Shimian",
+    "country": "China",
+    "latitude": 29.230861699813595,
+    "longitude": 102.35672959999998,
+    "other_names": {
+      "name": "石棉县",
+      "name:en": "Shimian",
+      "name:zh": "石棉县",
+      "alt_name": "石棉;棉城街道;Shimian",
+      "name:zh-Hant": "石棉縣"
+    }
+  },
+  {
+    "name": "Shimla",
+    "country": "India",
+    "latitude": 31.104152599654334,
+    "longitude": 77.17097289999998,
+    "other_names": {
+      "name": "Shimla",
+      "name:ar": "شيمل",
+      "name:bn": "শিমলা",
+      "name:cs": "Šimla",
+      "name:de": "Shimla",
+      "name:en": "Shimla",
+      "name:es": "Shimla",
+      "name:fa": "شیملا",
+      "name:fr": "Shimla",
+      "name:gu": "શિમલા",
+      "name:he": "שימלה",
+      "name:hi": "शिमला",
+      "name:ja": "シムラー",
+      "name:kn": "ಶಿಮ್ಲಾ",
+      "name:ko": "심라",
+      "name:me": "शिमला",
+      "name:ml": "ഷിംല",
+      "name:mr": "शिमला",
+      "name:or": "ଶିମଲା",
+      "name:pa": "ਸ਼ਿਮਲਾ",
+      "name:ru": "Шимла",
+      "name:sa": "शिमला",
+      "name:ta": "சிம்லா",
+      "name:uk": "Шімла",
+      "name:ur": "شملہ",
+      "name:zh": "西姆拉",
+      "name:bpy": "শিমলা",
+      "name:pnb": "شملہ",
+      "old_name": "Simla"
+    }
+  },
+  {
+    "name": "Shimoda",
+    "country": "Japan",
+    "latitude": 34.67954499963181,
+    "longitude": 138.945379,
+    "other_names": {
+      "name": "下田市",
+      "name:ar": "شيمودا، شيزوكا",
+      "name:de": "Shimoda",
+      "name:en": "Shimoda",
+      "name:es": "Shimoda",
+      "name:fr": "Shimoda",
+      "name:ja": "下田市",
+      "name:ko": "시모다시",
+      "name:pl": "Shimoda",
+      "name:ru": "Симода",
+      "name:uk": "Сімода",
+      "name:ja_rm": "Shimoda-shi"
+    }
+  },
+  {
+    "name": "Shimonoseki",
+    "country": "Japan",
+    "latitude": 33.95771159960038,
+    "longitude": 130.94154549999996,
+    "other_names": {
+      "name": "下関市",
+      "name:ar": "شيمونوسكي، ياماغوتشي",
+      "name:de": "Shimonoseki",
+      "name:en": "Shimonoseki",
+      "name:es": "Shimonoseki",
+      "name:et": "Shimonoseki",
+      "name:fr": "Shimonoseki",
+      "name:ja": "下関市",
+      "name:ko": "시모노세키시",
+      "name:pl": "Shimonoseki",
+      "name:ru": "Симоносеки",
+      "name:uk": "Сімоносекі",
+      "name:zh": "下关市",
+      "int_name": "Shimonoseki",
+      "name:ja_rm": "Shimonoseki-shi",
+      "name:ja_kana": "しものせきし",
+      "name:zh-Hans": "下关市",
+      "name:zh-Hant": "下関市"
+    }
+  },
+  {
+    "name": "Shimotsuke",
+    "country": "Japan",
+    "latitude": 36.39508099977701,
+    "longitude": 139.85183309999996,
+    "other_names": {
+      "name": "下野市",
+      "name:en": "Shimotsuke",
+      "name:ja": "下野市",
+      "name:ja-Hira": "しもつけし"
+    }
+  },
+  {
+    "name": "Shimotsuma",
+    "country": "Japan",
+    "latitude": 36.18435519975435,
+    "longitude": 139.9672418,
+    "other_names": {
+      "name": "下妻市",
+      "name:ar": "شيموتسوما، إيباراكي",
+      "name:de": "Shimotsuma",
+      "name:en": "Shimotsuma",
+      "name:es": "Shimotsuma",
+      "name:fr": "Shimotsuma",
+      "name:ja": "下妻市",
+      "name:ko": "시모쓰마시",
+      "name:pl": "Shimotsuma",
+      "name:ru": "Симоцума",
+      "name:uk": "Сімоцума",
+      "name:ja_rm": "Shimotsuma-shi",
+      "name:ja_kana": "しもつまし"
+    }
+  },
+  {
+    "name": "Shinagawa",
+    "country": "Japan",
+    "latitude": 35.599251999698104,
+    "longitude": 139.73890999999998,
+    "other_names": {
+      "name": "品川区",
+      "name:ar": "شيناغاوا، طوكيو",
+      "name:de": "Shinagawa",
+      "name:en": "Shinagawa",
+      "name:es": "Shinagawa",
+      "name:fr": "Shinagawa",
+      "name:it": "Shinagawa",
+      "name:ja": "品川区",
+      "name:ko": "시나가와구",
+      "name:pl": "Shinagawa",
+      "name:ru": "Синагава",
+      "name:uk": "Сінаґава",
+      "int_name": "Shinagawa",
+      "name:ja-Hira": "しながわく",
+      "name:ja-Latn": "Shinagawa-ku"
+    }
+  },
+  {
+    "name": "Shinan",
+    "country": "China",
+    "latitude": 36.076297499743205,
+    "longitude": 120.40569270000002,
+    "other_names": {
+      "name": "市南区",
+      "name:en": "Shinan",
+      "name:zh": "市南区",
+      "name:zh-Hant": "市南區"
+    }
+  },
+  {
+    "name": "Shingu",
+    "country": "Japan",
+    "latitude": 33.724100299594234,
+    "longitude": 135.99300290000002,
+    "other_names": {
+      "name": "新宮市",
+      "name:ar": "شينغو، واكاياما",
+      "name:de": "Shingū",
+      "name:en": "Shingu",
+      "name:es": "Shingu",
+      "name:fr": "Shingu",
+      "name:ja": "新宮市",
+      "name:ko": "신구시",
+      "name:pl": "Shingū",
+      "name:ru": "Сингу",
+      "name:uk": "Сінґу",
+      "int_name": "Shingū",
+      "name:ja_rm": "Shingū-shi",
+      "name:ja_kana": "しんぐうし"
+    }
+  },
+  {
+    "name": "Shinjo",
+    "country": "Japan",
+    "latitude": 38.7648577000918,
+    "longitude": 140.3021449,
+    "other_names": {
+      "name": "新庄市",
+      "name:ar": "شينجو، ياماغاتا",
+      "name:de": "Shinjō",
+      "name:en": "Shinjo",
+      "name:es": "Shinjō",
+      "name:fr": "Shinjō",
+      "name:ja": "新庄市",
+      "name:ko": "신조시",
+      "name:pl": "Shinjō",
+      "name:ru": "Синдзё",
+      "name:uk": "Сіндзьо",
+      "int_name": "Shinjō",
+      "name:ja_rm": "Shinjō-shi",
+      "name:ja_kana": "しんじょうし"
+    }
+  },
+  {
+    "name": "Shinjuku",
+    "country": "Japan",
+    "latitude": 35.69376319970649,
+    "longitude": 139.70363189999998,
+    "other_names": {
+      "name": "新宿区",
+      "name:cs": "Šindžuku",
+      "name:en": "Shinjuku",
+      "name:es": "Shinjuku",
+      "name:fr": "Shinjuku",
+      "name:it": "Shinjuku",
+      "name:ja": "新宿区",
+      "name:ko": "신주쿠구",
+      "name:pl": "Shinjuku",
+      "name:ru": "Синдзюку",
+      "name:uk": "Сіндзюку",
+      "name:zh": "新宿区/新宿區",
+      "name:ja-Hira": "しんじゅくく",
+      "name:ja-Latn": "Shinjuku-ku",
+      "name:zh-Hans": "新宿区",
+      "name:zh-Hant": "新宿區"
+    }
+  }
+]

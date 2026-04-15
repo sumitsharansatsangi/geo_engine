@@ -1,0 +1,350 @@
+[
+  {
+    "name": "Ranya",
+    "country": "Iraq",
+    "latitude": 36.25652459976198,
+    "longitude": 44.88278869999999,
+    "other_names": {
+      "name": "ڕانیە",
+      "name:ar": "رانية",
+      "name:en": "Ranya",
+      "name:ja": "ラーンヤ",
+      "name:ku": "ڕانیە",
+      "name:ru": "Рания",
+      "alt_name": "ڕانیە",
+      "int_name": "Ranya"
+    }
+  },
+  {
+    "name": "Raohe",
+    "country": "China",
+    "latitude": 46.79822710020178,
+    "longitude": 134.00802169999997,
+    "other_names": {
+      "name": "饶河县",
+      "name:en": "Raohe",
+      "name:ru": "Жаохэ",
+      "name:vi": "Nhiêu Hà",
+      "name:zh": "饶河县",
+      "alt_name": "饶河",
+      "int_name": "Raohe",
+      "name:zh-Hant": "饒河縣",
+      "official_name": "饶河镇"
+    }
+  },
+  {
+    "name": "Raohe",
+    "country": "Russia",
+    "latitude": 46.79822710020178,
+    "longitude": 134.00802169999997,
+    "other_names": {
+      "name": "饶河县",
+      "name:en": "Raohe",
+      "name:ru": "Жаохэ",
+      "name:vi": "Nhiêu Hà",
+      "name:zh": "饶河县",
+      "alt_name": "饶河",
+      "int_name": "Raohe",
+      "name:zh-Hant": "饒河縣",
+      "official_name": "饶河镇"
+    }
+  },
+  {
+    "name": "Raoping",
+    "country": "China",
+    "latitude": 23.666088600352765,
+    "longitude": 116.99959939999998,
+    "other_names": {
+      "name": "饶平县",
+      "name:de": "Raoping",
+      "name:en": "Raoping",
+      "name:fa": "شهرستان رائوپینگ",
+      "name:fr": "Raoping",
+      "name:it": "Raoping",
+      "name:ja": "饒平県",
+      "name:ko": "라오핑현",
+      "name:nl": "Raoping",
+      "name:no": "Raoping",
+      "name:sv": "Raoping",
+      "name:vi": "Nhiêu Bình",
+      "name:zh": "饶平县",
+      "alt_name": "饶平;Raoping County",
+      "name:ceb": "Raoping",
+      "name:hak": "Ngièu-phìn-yen",
+      "name:mwl": "Raoping",
+      "name:nan": "Jiâu-pêng-koān",
+      "name:sco": "Raoping",
+      "name:yue": "饒平",
+      "name:zh-Hant": "饒平縣",
+      "name:zh_pinyin": "Ràopíng Xiàn"
+    }
+  },
+  {
+    "name": "Raoyang",
+    "country": "China",
+    "latitude": 38.23316770001506,
+    "longitude": 115.720573,
+    "other_names": {
+      "name": "饶阳县",
+      "name:en": "Raoyang",
+      "name:vi": "Nhiêu Dương",
+      "name:zh": "饶阳县",
+      "alt_name": "饶阳;Raoyang County",
+      "name:zh-Hant": "饒陽縣",
+      "name:zh_pinyin": "Raoyang Xian"
+    }
+  },
+  {
+    "name": "Rapar",
+    "country": "India",
+    "latitude": 23.57120264526957,
+    "longitude": 70.64589571858485,
+    "other_names": {
+      "name": "Rapar"
+    }
+  },
+  {
+    "name": "Rapid City",
+    "country": "United States Of America",
+    "latitude": 44.08693290052952,
+    "longitude": -103.2274481,
+    "other_names": {
+      "name": "Rapid City",
+      "name:en": "Rapid City",
+      "name:lkt": "Mni Lúzahaŋ Otȟúŋwahe"
+    }
+  },
+  {
+    "name": "Ras al-Ayn",
+    "country": "Syria",
+    "latitude": 36.848227967018246,
+    "longitude": 40.07046923879229,
+    "other_names": {
+      "name": "رأس العين",
+      "name:en": "Ras al-Ayn",
+      "name:fr": "Ras al-Ayn",
+      "name:ku": "Resulayn",
+      "int_name": "Ra's al-'Ayn",
+      "alt_name:en": "Ras al-Ain"
+    }
+  },
+  {
+    "name": "Ras al-Ayn",
+    "country": "Turkey",
+    "latitude": 36.848227967018246,
+    "longitude": 40.07046923879229,
+    "other_names": {
+      "name": "رأس العين",
+      "name:en": "Ras al-Ayn",
+      "name:fr": "Ras al-Ayn",
+      "name:ku": "Resulayn",
+      "int_name": "Ra's al-'Ayn",
+      "alt_name:en": "Ras al-Ain"
+    }
+  },
+  {
+    "name": "Ras Gharib",
+    "country": "Egypt",
+    "latitude": 28.359443999906368,
+    "longitude": 33.077778,
+    "other_names": {
+      "name": "رأس غارب",
+      "name:ar": "رأس غارب",
+      "name:de": "Ras Gharib",
+      "name:en": "Ras Gharib",
+      "name:fr": "Ras Gharib",
+      "name:ru": "Рас Гариб",
+      "alt_name": "رأس غارب",
+      "int_name": "Ra’s Ghārib, Ras Gharib",
+      "name:ar1": "رأس غارب"
+    }
+  },
+  {
+    "name": "Rasht",
+    "country": "Iran",
+    "latitude": 37.27936069988396,
+    "longitude": 49.58461019999999,
+    "other_names": {
+      "name": "رشت",
+      "name:cs": "Rašt",
+      "name:de": "Rascht",
+      "name:en": "Rasht",
+      "name:es": "Rasht",
+      "name:et": "Rasht",
+      "name:fr": "Rasht",
+      "name:hi": "रश्त",
+      "name:ku": "Reşt",
+      "name:pt": "Resht",
+      "name:ru": "Решт",
+      "name:tr": "Rest"
+    }
+  },
+  {
+    "name": "Rason",
+    "country": "North Korea",
+    "latitude": 42.249731600503374,
+    "longitude": 130.3113296,
+    "other_names": {
+      "name": "라선시",
+      "name:ar": "راسون",
+      "name:cs": "Rason",
+      "name:de": "Rason",
+      "name:el": "Ράσον",
+      "name:en": "Rason",
+      "name:es": "Rasŏn",
+      "name:et": "Nasŏn",
+      "name:fr": "Rasŏn",
+      "name:hu": "Raszon",
+      "name:ja": "羅先市",
+      "name:ko": "라선시",
+      "name:lt": "Rasonas",
+      "name:ru": "Расон",
+      "name:uk": "Насон",
+      "name:vi": "La Thiên",
+      "name:zh": "罗先市",
+      "int_name": "Rason",
+      "alt_name:ru": "Насон",
+      "old_name:cs": "Radžin-Sonbong",
+      "old_name:ru": "Унги",
+      "name:ko-Hani": "羅先市",
+      "name:ko-Latn": "Rasŏn",
+      "name:zh-Hant": "羅先市",
+      "official_name": "라선특별시",
+      "official_name:ja": "羅先特別市",
+      "official_name:ko": "라선특별시",
+      "official_name:zh": "罗先特别市",
+      "official_name:ko-Latn": "Rasŏn T'ŭkpyŏlsi",
+      "official_name:zh-Hant": "羅先特別市",
+      "official_name:ko_hanja": "羅先特別市"
+    }
+  },
+  {
+    "name": "Ras Sudr",
+    "country": "Egypt",
+    "latitude": 29.593486999777593,
+    "longitude": 32.71853599999999,
+    "other_names": {
+      "name": "رأس سدر",
+      "name:ar": "رأس سدر",
+      "name:de": "Raʾs Sudr",
+      "name:en": "Ras Sudr",
+      "name:es": "Ras Sudr",
+      "name:fr": "Ras Sudr",
+      "name:ru": "Рас-Сидр",
+      "alt_name:ru": "Рас-Судр"
+    }
+  },
+  {
+    "name": "Ratnapura",
+    "country": "Sri Lanka",
+    "latitude": 6.680369099415325,
+    "longitude": 80.40229749999999,
+    "other_names": {
+      "name": "රත්නපුර",
+      "name:en": "Ratnapura",
+      "name:hi": "रत्नापुर",
+      "name:ja": "ラトゥナプラ",
+      "name:kn": "ರತ್ನಪುರ",
+      "name:ru": "Ратнапура",
+      "name:si": "රත්නපුර"
+    }
+  },
+  {
+    "name": "Ravenna",
+    "country": "Italy",
+    "latitude": 44.416141400513396,
+    "longitude": 12.2017617,
+    "other_names": {
+      "name": "Ravenna",
+      "name:be": "Равена",
+      "name:el": "Ραβέννα",
+      "name:en": "Ravenna",
+      "name:es": "Rávena",
+      "name:fr": "Ravenne",
+      "name:he": "רוונה",
+      "name:oc": "Ravena",
+      "name:ru": "Равенна",
+      "name:uk": "Равенна",
+      "name:zh": "拉文納",
+      "name:rgn": "Ravêna",
+      "old_name:de": "Raben",
+      "old_name:lat": "Ravenna"
+    }
+  },
+  {
+    "name": "Rawabi",
+    "country": "Israel And Palestine",
+    "latitude": 32.01393485994075,
+    "longitude": 35.19099374599641,
+    "other_names": {
+      "name": "روابي",
+      "name:ar": "روابي",
+      "name:en": "Rawabi",
+      "name:fr": "Rawabi",
+      "name:he": "רוואבי",
+      "name:hi": "रवाबी"
+    }
+  },
+  {
+    "name": "Rawalpindi",
+    "country": "Pakistan",
+    "latitude": 33.591423699591616,
+    "longitude": 73.0535122,
+    "other_names": {
+      "name": "راولپنڈی",
+      "name:ar": "راولبندي",
+      "name:cs": "Rávalpindí",
+      "name:de": "Rawalpindi",
+      "name:en": "Rawalpindi",
+      "name:es": "Rawalpindi",
+      "name:et": "Rāwalpindi",
+      "name:fr": "Rawalpindi",
+      "name:hi": "रावलपिंडी",
+      "name:ja": "ラーワルピンディー",
+      "name:kn": "ರಾವಲ್ಪಿಂಡಿ",
+      "name:ml": "രാവൽപിണ്ടി",
+      "name:pt": "Rawalpindi",
+      "name:ru": "Равалпинди",
+      "name:ur": "راولپنڈی",
+      "name:zh": "拉瓦爾品第",
+      "name:pnb": "راولپنڈی"
+    }
+  },
+  {
+    "name": "Rawlins",
+    "country": "United States Of America",
+    "latitude": 41.790787800469765,
+    "longitude": -107.239176,
+    "other_names": {
+      "name": "Rawlins"
+    }
+  },
+  {
+    "name": "Rawson",
+    "country": "Argentina",
+    "latitude": -43.29913480090263,
+    "longitude": -65.1056655,
+    "other_names": {
+      "name": "Rawson",
+      "name:ar": "روسون",
+      "name:cy": "Trerawson",
+      "name:el": "Ρόσον",
+      "name:en": "Rawson",
+      "name:fa": "راوسون",
+      "name:he": "ראוסון",
+      "name:ru": "Росон",
+      "name:uk": "Росон",
+      "name:ur": "راوسون",
+      "name:pnb": "راوسون"
+    }
+  },
+  {
+    "name": "Raymore",
+    "country": "United States Of America",
+    "latitude": 38.81013100009836,
+    "longitude": -94.46765010000001,
+    "other_names": {
+      "name": "Raymore"
+    }
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "name": "Shuanghe",
+    "country": "China",
+    "latitude": 44.8425757004825,
+    "longitude": 82.3527369,
+    "other_names": {
+      "name": "双河市",
+      "name:de": "Shuanghe",
+      "name:en": "Shuanghe",
+      "name:es": "Shuanghe",
+      "name:fr": "Shuanghe",
+      "name:ja": "双河市",
+      "name:tr": "Koşöküz",
+      "name:ug": "شوانگہے",
+      "name:zh": "双河市",
+      "alt_name": "Shuanghe City;Qoshoguz;双河市;双河;塔斯尔海",
+      "int_name": "Shuanghe",
+      "name:zh-Hant": "雙河市",
+      "official_name": "双河市",
+      "name:zh_pinyin": "tǎsīěrhǎi zhèn"
+    }
+  },
+  {
+    "name": "Shuanghu",
+    "country": "China",
+    "latitude": 33.19028979958757,
+    "longitude": 88.83400079999998,
+    "other_names": {
+      "name": "双湖县",
+      "name:bo": "མཚོ་གཉིས་རྫོང་།",
+      "name:de": "Shuanghu",
+      "name:en": "Shuanghu",
+      "name:es": "Shuanghu",
+      "name:fr": "Shuanghu",
+      "name:zh": "双湖县",
+      "alt_name": "双湖县;双湖;མཚོ་གཉིས་",
+      "old_name": "特别区;双湖特别区",
+      "old_name:bo": "མཚོ་གཉིས་དམིགས་བསལ་སྲིད་འཛིན་ཁུལ་",
+      "name:zh-Hant": "雙湖縣",
+      "name:zh_pinyin": "Shuānghú Xiàn"
+    }
+  },
+  {
+    "name": "Shuangjiang",
+    "country": "China",
+    "latitude": 23.475790100362868,
+    "longitude": 99.82383039999999,
+    "other_names": {
+      "name": "双江县",
+      "name:en": "Shuangjiang",
+      "name:zh": "双江县",
+      "alt_name": "双江;双江拉祜族佤族布朗族傣族自治县;Shuang-chiang Hsien;Shuangjiang County",
+      "short_name": "双江县",
+      "name:zh-Hant": "雙江縣"
+    }
+  },
+  {
+    "name": "Shuangliao",
+    "country": "China",
+    "latitude": 43.51474270054184,
+    "longitude": 123.5003448,
+    "other_names": {
+      "name": "双辽市",
+      "name:de": "Shuangliao",
+      "name:en": "Shuangliao",
+      "name:fr": "Shuangliao",
+      "name:ja": "双遼市",
+      "name:ru": "Чжэнзятунь",
+      "name:vi": "Song Liêu",
+      "name:zh": "双辽市",
+      "int_name": "Shuangliao",
+      "name:zh-Hant": "雙遼市",
+      "name:zh_pinyin": "Shuāngliáo Shì"
+    }
+  },
+  {
+    "name": "Shuangliu",
+    "country": "China",
+    "latitude": 30.577538599691536,
+    "longitude": 103.92125319999998,
+    "other_names": {
+      "name": "双流区",
+      "name:en": "Shuangliu",
+      "name:zh": "双流区",
+      "alt_name": "双流;Shuangliu District",
+      "name:zh-Hant": "雙流區"
+    }
+  },
+  {
+    "name": "Shuangluan",
+    "country": "China",
+    "latitude": 40.95657120038727,
+    "longitude": 117.78372029999997,
+    "other_names": {
+      "name": "双滦区",
+      "name:en": "Shuangluan",
+      "name:zh": "双滦区",
+      "alt_name": "双滦;Shuangluan District",
+      "name:zh-Hant": "雙灤區"
+    }
+  },
+  {
+    "name": "Shuangpai",
+    "country": "China",
+    "latitude": 25.96613020016766,
+    "longitude": 111.65570969999999,
+    "other_names": {
+      "name": "双牌县",
+      "name:de": "Shuangpai",
+      "name:en": "Shuangpai",
+      "name:fa": "شهرستان شوانگپای",
+      "name:fr": "Xian de Shuangpai",
+      "name:it": "Contea di Shuangpai",
+      "name:ja": "双牌県",
+      "name:ko": "솽파이현",
+      "name:no": "Shuangpai",
+      "name:ru": "Шуанпай",
+      "name:sv": "Shuangpai",
+      "name:vi": "Song Bài",
+      "name:zh": "双牌县",
+      "alt_name": "泷泊;泷泊镇;Shuangbo County",
+      "name:ceb": "Shuangpai Xian",
+      "name:nan": "Siang-pâi-koān",
+      "name:yue": "雙牌",
+      "name:zh-Hant": "雙牌縣",
+      "name:zh_pinyin": "shuāngpái xiàn"
+    }
+  },
+  {
+    "name": "Shuangqiao",
+    "country": "China",
+    "latitude": 40.97264090038909,
+    "longitude": 117.9382317,
+    "other_names": {
+      "name": "双桥区",
+      "name:en": "Shuangqiao",
+      "name:zh": "双桥区",
+      "alt_name": "双桥;Shuangqiao District",
+      "name:zh-Hant": "雙橋區"
+    }
+  },
+  {
+    "name": "Shuangqing",
+    "country": "China",
+    "latitude": 27.236387300031666,
+    "longitude": 111.49130219999999,
+    "other_names": {
+      "name": "双清区",
+      "name:de": "Shuangqing",
+      "name:en": "Shuangqing",
+      "name:fr": "District de Shuangqing",
+      "name:it": "Distretto di Shuangqing",
+      "name:ja": "双清区",
+      "name:ko": "솽칭구",
+      "name:no": "Shuangqing",
+      "name:ru": "Шуанцин",
+      "name:sv": "Shuangqing",
+      "name:vi": "Song Thanh",
+      "name:zh": "双清区",
+      "alt_name": "双清;Shuangqing District",
+      "name:ceb": "Shuangqing Qu",
+      "name:hak": "Sûng-chhîn-khî",
+      "name:nan": "Siang-chheng-khu",
+      "name:yue": "雙清區",
+      "name:zh-Hant": "雙清區",
+      "name:zh_pinyin": "shuāngqīng qū"
+    }
+  },
+  {
+    "name": "Shuangta",
+    "country": "China",
+    "latitude": 41.58572140045186,
+    "longitude": 120.45042459999998,
+    "other_names": {
+      "name": "双塔区",
+      "name:en": "Shuangta",
+      "name:zh": "双塔区",
+      "alt_name": "双塔;Shuangta District;Shuangta Qu",
+      "name:zh-Hant": "雙塔區"
+    }
+  },
+  {
+    "name": "Shuangyang",
+    "country": "China",
+    "latitude": 43.52273990054179,
+    "longitude": 125.65879259999998,
+    "other_names": {
+      "name": "双阳区",
+      "name:en": "Shuangyang",
+      "name:vi": "Song Dương",
+      "name:zh": "双阳区",
+      "alt_name": "双阳;Shuangyang District",
+      "alt_name:en": "Shuangyang Xian;Shuang-yang Hsien",
+      "name:zh-Hant": "雙陽區",
+      "name:zh_pinyin": "Shuangyang Qu"
+    }
+  },
+  {
+    "name": "Shuangyashan",
+    "country": "China",
+    "latitude": 46.6476235002308,
+    "longitude": 131.1548641,
+    "other_names": {
+      "name": "双鸭山市",
+      "name:de": "Shuangyashan",
+      "name:en": "Shuangyashan",
+      "name:et": "Shuangyashan",
+      "name:fr": "Shuangyashan",
+      "name:ja": "双鴨山市",
+      "name:ru": "Шуанъяшань",
+      "name:vi": "Song Áp Sơn",
+      "name:zh": "双鸭山市",
+      "alt_name": "双鸭山;Shuangyashan City",
+      "name:zh-Hant": "雙鴨山市"
+    }
+  },
+  {
+    "name": "Shuantaizi",
+    "country": "China",
+    "latitude": 41.19996080041387,
+    "longitude": 122.0463536,
+    "other_names": {
+      "name": "双台子区",
+      "name:en": "Shuantaizi",
+      "name:ja": "双台子区",
+      "name:ko": "솽타이쯔구",
+      "name:vi": "Song Đài Tử",
+      "name:zh": "双台子区",
+      "alt_name": "双台子;Shuantaizi District",
+      "name:zh-Hant": "雙臺子區",
+      "name:zh_pinyin": "Shuangtaizi Qu"
+    }
+  },
+  {
+    "name": "Shubra al Khayma",
+    "country": "Egypt",
+    "latitude": 30.128598799728408,
+    "longitude": 31.242218,
+    "other_names": {
+      "name": "شبرا الخيمة",
+      "name:ar": "شبرا الخيمة",
+      "name:de": "Shubra al Khayma",
+      "name:en": "Shubra al Khayma",
+      "name:et": "Shubrā al-Khaymah",
+      "name:fr": "Shubra al Khayma",
+      "name:ko": "슈브라엘케이마",
+      "name:pt": "Shubra El-Kheima",
+      "name:ru": "Шубра-эль-Хейма",
+      "alt_name": "شبرا الخيمة",
+      "int_name": "Shubra al-Khayma, Shubra al Khayma",
+      "name:ar1": "شبرا الخيمة"
+    }
+  },
+  {
+    "name": "Shubra Khit",
+    "country": "Egypt",
+    "latitude": 31.028535499659238,
+    "longitude": 30.713066400000002,
+    "other_names": {
+      "name": "شبراخيت",
+      "name:ar": "شبراخيت",
+      "name:de": "Shubra Khit",
+      "name:en": "Shubra Khit",
+      "name:es": "Shubra Khit",
+      "name:fr": "Chebreiss"
+    }
+  },
+  {
+    "name": "Shucheng",
+    "country": "China",
+    "latitude": 31.46603699963302,
+    "longitude": 116.94388060000001,
+    "other_names": {
+      "name": "舒城县",
+      "name:en": "Shucheng",
+      "name:ja": "舒城県",
+      "name:ru": "Шучэн",
+      "name:zh": "舒城县",
+      "alt_name": "舒城;Shucheng County",
+      "old_name": "龙舒县;龙舒侯国;舒州",
+      "name:zh-Hant": "舒城縣"
+    }
+  },
+  {
+    "name": "Shufu",
+    "country": "China",
+    "latitude": 39.37422180017985,
+    "longitude": 75.85933299999999,
+    "other_names": {
+      "name": "疏附县",
+      "name:de": "Shufu",
+      "name:en": "Shufu",
+      "name:es": "Shufu",
+      "name:fr": "Shufu",
+      "name:ug": "توققۇزاق بازىرى",
+      "name:zh": "疏附县",
+      "name:zh-Hant": "疏附縣"
+    }
+  },
+  {
+    "name": "Shuicheng",
+    "country": "China",
+    "latitude": 26.551161300106724,
+    "longitude": 104.9551167,
+    "other_names": {
+      "name": "水城区",
+      "name:en": "Shuicheng",
+      "name:vi": "Thủy Thành",
+      "name:zh": "水城区",
+      "alt_name": "水城",
+      "old_name": "水城县",
+      "name:zh-Hant": "水城區",
+      "name:zh_pinyin": "Shuicheng Qu"
+    }
+  },
+  {
+    "name": "Shuifu",
+    "country": "China",
+    "latitude": 28.63662649987612,
+    "longitude": 104.40845259999999,
+    "other_names": {
+      "name": "水富市",
+      "name:en": "Shuifu",
+      "name:fr": "向家坝镇",
+      "name:vi": "Thủy Phú",
+      "name:zh": "水富市",
+      "alt_name": "水富;Shuifu City",
+      "old_name": "水富县;shuǐfù xiàn;Shuifu County",
+      "alt_name:vi": "Thuỷ Phú",
+      "name:zh-Hant": "水富市",
+      "name:zh_pinyin": "shuǐfù shì"
+    }
+  },
+  {
+    "name": "Shuimogou",
+    "country": "China",
+    "latitude": 43.83085850053745,
+    "longitude": 87.6397676,
+    "other_names": {
+      "name": "水磨沟区",
+      "name:en": "Shuimogou",
+      "name:ug": "بۇلاقتاغ رايونى",
+      "name:uk": "Шуймоґоу",
+      "name:zh": "水磨沟区",
+      "alt_name": "水磨沟区;Shuymogu;Shuimogou District",
+      "alt_name:uk": "Шуймоґу",
+      "name:zh-Hant": "水磨溝區"
+    }
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "name": "Carlisle",
+    "country": "England",
+    "latitude": 54.89183916331268,
+    "longitude": -2.9337093321528327,
+    "other_names": {
+      "name": "Carlisle",
+      "name:ru": "Карлайл"
+    }
+  },
+  {
+    "name": "Carl Junction",
+    "country": "United States Of America",
+    "latitude": 37.17020148178211,
+    "longitude": -94.54728349290488,
+    "other_names": {
+      "name": "Carl Junction"
+    }
+  },
+  {
+    "name": "Carlsbad",
+    "country": "United States Of America",
+    "latitude": 32.425745599595565,
+    "longitude": -104.2376121,
+    "other_names": {
+      "name": "Carlsbad",
+      "name:ru": "Карлсбад"
+    }
+  },
+  {
+    "name": "Carlsbad",
+    "country": "Czech Republic",
+    "latitude": 50.23046939940101,
+    "longitude": 12.8710769,
+    "other_names": {
+      "name": "Karlovy Vary",
+      "name:ar": "كارلوفي فاري",
+      "name:cs": "Karlovy Vary",
+      "name:de": "Karlsbad",
+      "name:el": "Κάρλοβυ Βάρυ",
+      "name:en": "Carlsbad",
+      "name:fa": "کارلووی واری",
+      "name:fr": "Carlsbad",
+      "name:he": "קרלובי וארי",
+      "name:la": "Thermae Carolinae",
+      "name:lt": "Karlovi Varai",
+      "name:nl": "Karlsbad",
+      "name:pl": "Karlowe Wary",
+      "name:ru": "Карловы Вары",
+      "name:sr": "Карлове Вари",
+      "name:uk": "Карлові Вари",
+      "name:ur": "کارلووی واری",
+      "int_name": "Karlovy Vary",
+      "alt_name:he": "קרלסבאד"
+    }
+  },
+  {
+    "name": "Carlsbad",
+    "country": "United States Of America",
+    "latitude": 33.158093299587485,
+    "longitude": -117.3505966,
+    "other_names": {
+      "name": "Carlsbad"
+    }
+  },
+  {
+    "name": "Carmelo",
+    "country": "Uruguay",
+    "latitude": -33.99692389968978,
+    "longitude": -58.28405219999999,
+    "other_names": {
+      "name": "Carmelo",
+      "name:ru": "Кармело"
+    }
+  },
+  {
+    "name": "Carmen de Cura",
+    "country": "Venezuela",
+    "latitude": 9.796147699428523,
+    "longitude": -66.833711,
+    "other_names": {
+      "name": "Carmen de Cura"
+    }
+  },
+  {
+    "name": "Carmen de Cura",
+    "country": "Venezuela",
+    "latitude": 9.795126830491265,
+    "longitude": -66.83314071537878,
+    "other_names": {
+      "name": "Carmen de Cura"
+    }
+  },
+  {
+    "name": "Carmiel",
+    "country": "Israel And Palestine",
+    "latitude": 32.91591039958809,
+    "longitude": 35.293428999999996,
+    "other_names": {
+      "name": "כרמיאל",
+      "name:am": "ካርሚኤል",
+      "name:ar": "كرميئيل",
+      "name:cs": "Karmiel",
+      "name:de": "Karmi’el",
+      "name:el": "Καρμιέλ",
+      "name:en": "Carmiel",
+      "name:es": "Carmiel",
+      "name:fr": "Karmiel",
+      "name:he": "כרמיאל",
+      "name:hi": "कर्मीयल",
+      "name:ja": "カルミエル",
+      "name:ru": "Кармиэль",
+      "name:cs1": "Karmi'el"
+    }
+  },
+  {
+    "name": "Carnot",
+    "country": "Central African Republic",
+    "latitude": 4.942998596908363,
+    "longitude": 15.876415826935114,
+    "other_names": {
+      "name": "Carnot"
+    }
+  },
+  {
+    "name": "Carolina",
+    "country": "El Salvador",
+    "latitude": 13.847592999772669,
+    "longitude": -88.3057783,
+    "other_names": {
+      "name": "Carolina"
+    }
+  },
+  {
+    "name": "Carolina",
+    "country": "United States Of America",
+    "latitude": 18.379441500266854,
+    "longitude": -65.957695,
+    "other_names": {
+      "name": "Carolina",
+      "name:hu": "Carolina"
+    }
+  },
+  {
+    "name": "Carora",
+    "country": "Venezuela",
+    "latitude": 10.171054699446731,
+    "longitude": -70.07619569999999,
+    "other_names": {
+      "name": "Carora",
+      "name:ru": "Карора"
+    }
+  },
+  {
+    "name": "Carrefour",
+    "country": "Haiti And Domrep",
+    "latitude": 18.534537300279514,
+    "longitude": -72.4092495,
+    "other_names": {
+      "name": "Carrefour",
+      "name:ht": "Kafou",
+      "name:hu": "Carrefour"
+    }
+  },
+  {
+    "name": "Carrizal",
+    "country": "Venezuela",
+    "latitude": 10.351985699456726,
+    "longitude": -66.99186919999998,
+    "other_names": {
+      "name": "Carrizal"
+    }
+  },
+  {
+    "name": "Carson",
+    "country": "United States Of America",
+    "latitude": 33.83220429959683,
+    "longitude": -118.25175469999999,
+    "other_names": {
+      "name": "Carson"
+    }
+  },
+  {
+    "name": "Carson City",
+    "country": "United States Of America",
+    "latitude": 39.16491250014976,
+    "longitude": -119.7666496,
+    "other_names": {
+      "name": "Carson City",
+      "name:en": "Carson City",
+      "name:pl": "Carson City",
+      "name:ru": "Карсон-Сити",
+      "name:ta": "கார்சன் நகரம்",
+      "name:uk": "Карсон-Сіті"
+    }
+  },
+  {
+    "name": "Cartagena",
+    "country": "Spain",
+    "latitude": 37.60193529992691,
+    "longitude": -0.9841151999999997,
+    "other_names": {
+      "name": "Cartagena",
+      "name:ar": "قرطاجنة",
+      "name:el": "Καρθαγένη",
+      "name:es": "Cartagena",
+      "name:fr": "Carthagène",
+      "name:lt": "Kartachena",
+      "name:pl": "Kartagina",
+      "name:ru": "Картахена",
+      "name:sr": "Картахена",
+      "name:uk": "Картахена",
+      "old_name": "Carthago Nova",
+      "alt_name:el": "Καρταχένα"
+    }
+  },
+  {
+    "name": "Cartagena",
+    "country": "Colombia",
+    "latitude": 10.419584099460652,
+    "longitude": -75.5271224,
+    "other_names": {
+      "name": "Cartagena",
+      "name:en": "Cartagena",
+      "name:fr": "Carthagène",
+      "name:hu": "Cartagena",
+      "name:mk": "Картахена",
+      "name:ru": "Картахена",
+      "name:uk": "Картахена",
+      "official_name": "Cartagena de Indias"
+    }
+  },
+  {
+    "name": "Cartago",
+    "country": "Costa Rica",
+    "latitude": 9.864243499431577,
+    "longitude": -83.9204377,
+    "other_names": {
+      "name": "Cartago",
+      "official_name": "La Muy Noble y Leal Ciudad de Cartago"
+    }
+  }
+]

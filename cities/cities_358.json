@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Pasig",
+    "country": "Philippines",
+    "latitude": 14.559482099855297,
+    "longitude": 121.08123679999999,
+    "other_names": {
+      "ref": "137403000",
+      "name": "Pasig",
+      "name:ja": "パシッグ",
+      "name:ru": "Пасиг",
+      "name:uk": "Пасіґ"
+    }
+  },
+  {
+    "name": "Pasir Gudang",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 1.4669829998440802,
+    "longitude": 103.90227579999998,
+    "other_names": {
+      "name": "Pasir Gudang",
+      "name:ja": "パシル・グダン",
+      "name:uk": "Пасір-Ґуданґ",
+      "name:zh": "巴西古当"
+    }
+  },
+  {
+    "name": "Paso de los Toros",
+    "country": "Uruguay",
+    "latitude": -32.810809499502184,
+    "longitude": -56.5174948,
+    "other_names": {
+      "name": "Paso de los Toros"
+    }
+  },
+  {
+    "name": "Pasrur",
+    "country": "Pakistan",
+    "latitude": 32.263873399599824,
+    "longitude": 74.662699,
+    "other_names": {
+      "name": "پسرور",
+      "name:en": "Pasrur",
+      "name:ru": "Пасрур"
+    }
+  },
+  {
+    "name": "Passi",
+    "country": "Philippines",
+    "latitude": 11.11735029950719,
+    "longitude": 122.6468706,
+    "other_names": {
+      "name": "Passi",
+      "name:en": "Passi",
+      "name:ja": "パッシ",
+      "name:uk": "Пассі"
+    }
+  },
+  {
+    "name": "Passo Fundo",
+    "country": "Brazil",
+    "latitude": -28.255059799391844,
+    "longitude": -52.39666059999999,
+    "other_names": {
+      "name": "Passo Fundo"
+    }
+  },
+  {
+    "name": "Passos",
+    "country": "Brazil",
+    "latitude": -20.71678030033314,
+    "longitude": -46.6156864,
+    "other_names": {
+      "name": "Passos"
+    }
+  },
+  {
+    "name": "Pasto",
+    "country": "Colombia",
+    "latitude": 1.214601299871341,
+    "longitude": -77.2782755,
+    "other_names": {
+      "name": "Pasto",
+      "name:en": "Pasto",
+      "name:ru": "Пасто",
+      "name:uk": "Пасто",
+      "official_name": "San Juan de Pasto"
+    }
+  },
+  {
+    "name": "Pasuruan",
+    "country": "Indonesia",
+    "latitude": -7.641989399740481,
+    "longitude": 112.906694,
+    "other_names": {
+      "name": "Pasuruan",
+      "name:id": "Pasuruan",
+      "name:ja": "パスルアン",
+      "name:nl": "Pasoeroean",
+      "name:ru": "Пасуруан",
+      "name:zh": "岩望"
+    }
+  },
+  {
+    "name": "Patacamaya",
+    "country": "Bolivia",
+    "latitude": -17.23267450047279,
+    "longitude": -67.9202528,
+    "other_names": {
+      "name": "Patacamaya"
+    }
+  },
+  {
+    "name": "Patan",
+    "country": "India",
+    "latitude": 23.850503200342104,
+    "longitude": 72.1133403,
+    "other_names": {
+      "name": "Patan",
+      "name:hi": "पाटण",
+      "name:ja": "パータン",
+      "name:kn": "ಪಟನ್",
+      "name:uk": "Патан"
+    }
+  },
+  {
+    "name": "Paterson",
+    "country": "United States Of America",
+    "latitude": 40.91676540038274,
+    "longitude": -74.171811,
+    "other_names": {
+      "name": "Paterson"
+    }
+  },
+  {
+    "name": "Pathankot",
+    "country": "India",
+    "latitude": 32.269245199599666,
+    "longitude": 75.6528858,
+    "other_names": {
+      "name": "Pathankot",
+      "name:ar": "بتهانكوت",
+      "name:en": "Pathankot",
+      "name:fa": "پاتانکوت",
+      "name:hi": "पठानकोट",
+      "name:ja": "パターンコート",
+      "name:kn": "ಪಠಾನ್ಕೋಟ",
+      "name:ml": "പത്താൻകോട്ട്",
+      "name:pa": "ਪਠਾਨਕੋਟ",
+      "name:ur": "پٹھان کوٹ",
+      "name:pnb": "پٹھانکوٹ"
+    }
+  },
+  {
+    "name": "Pathein",
+    "country": "Myanmar",
+    "latitude": 16.783333000112222,
+    "longitude": 94.733333,
+    "other_names": {
+      "name": "ပုသိမ်မြို့",
+      "name:de": "Pathein",
+      "name:en": "Pathein",
+      "name:es": "Pathein",
+      "name:et": "Pathein",
+      "name:fr": "Pathein",
+      "name:hi": "पथेइन",
+      "name:ja": "パテイン",
+      "name:ko": "파테인",
+      "name:ru": "Патейн",
+      "name:uk": "Пантейн",
+      "name:zh": "勃生",
+      "old_name": "Bassein"
+    }
+  },
+  {
+    "name": "Patiala",
+    "country": "India",
+    "latitude": 30.338793342715817,
+    "longitude": 76.39425873672573,
+    "other_names": {
+      "name": "Patiala",
+      "name:en": "Patiala",
+      "name:hi": "पटियाला",
+      "name:ja": "パティヤーラー",
+      "name:pa": "ਪਟਿਆਲਾ"
+    }
+  },
+  {
+    "name": "Patiala",
+    "country": "India",
+    "latitude": 30.329560499711366,
+    "longitude": 76.41278189999998,
+    "other_names": {
+      "name": "Patiala",
+      "name:de": "Patiala",
+      "name:en": "Patiala",
+      "name:es": "Patiala",
+      "name:fr": "Patiala",
+      "name:hi": "पटियाला",
+      "name:ja": "パティヤーラー",
+      "name:kn": "ಪಟಿಯಾಲ",
+      "name:pa": "ਪਟਿਆਲਾ",
+      "name:ru": "Патияла"
+    }
+  },
+  {
+    "name": "Patna",
+    "country": "India",
+    "latitude": 25.609323900202735,
+    "longitude": 85.12352519999999,
+    "other_names": {
+      "name": "Patna",
+      "name:bn": "পাটনা",
+      "name:en": "Patna",
+      "name:eo": "Patnao",
+      "name:he": "פאטנה",
+      "name:hi": "पटना",
+      "name:ja": "パトナ",
+      "name:kn": "ಪಟ್ನಾ",
+      "name:ko": "파트나",
+      "name:ml": "പട്ന",
+      "name:ne": "पटना",
+      "name:oc": "Patna",
+      "name:pa": "ਪਟਨਾ",
+      "name:ru": "Патна",
+      "name:ta": "பட்னா",
+      "name:uk": "Патна",
+      "name:zh": "巴特那"
+    }
+  },
+  {
+    "name": "Patos",
+    "country": "Brazil",
+    "latitude": -7.025828499712163,
+    "longitude": -37.2766817,
+    "other_names": {
+      "name": "Patos"
+    }
+  },
+  {
+    "name": "Patos de Minas",
+    "country": "Brazil",
+    "latitude": -18.604145300461376,
+    "longitude": -46.50966979999999,
+    "other_names": {
+      "name": "Patos de Minas"
+    }
+  },
+  {
+    "name": "Patras",
+    "country": "Greece",
+    "latitude": 38.24624200001694,
+    "longitude": 21.7350847,
+    "other_names": {
+      "name": "Πάτρα",
+      "name:ar": "باتراس",
+      "name:bg": "Патра",
+      "name:ca": "Patres",
+      "name:cs": "Patras",
+      "name:de": "Patras",
+      "name:el": "Πάτρα",
+      "name:en": "Patras",
+      "name:es": "Pátra",
+      "name:et": "Pátra",
+      "name:fi": "Patras",
+      "name:fr": "Patras",
+      "name:hr": "Patras",
+      "name:hu": "Pátra",
+      "name:it": "Patrasso",
+      "name:la": "Patrae",
+      "name:lt": "Patrai",
+      "name:mk": "Патра",
+      "name:nl": "Patras",
+      "name:pt": "Pátras",
+      "name:ru": "Патры",
+      "name:sq": "Patra",
+      "name:sr": "Патра",
+      "name:tr": "Balyabadra",
+      "name:zh": "帕特雷",
+      "int_name": "Patras",
+      "name:sr-Latn": "Patra"
+    }
+  }
+]

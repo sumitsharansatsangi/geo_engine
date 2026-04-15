@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Jahanian",
+    "country": "Pakistan",
+    "latitude": 30.042301336452514,
+    "longitude": 71.81561099052199,
+    "other_names": {
+      "name": "جہانیاں",
+      "name:ar": "جهانيان",
+      "name:en": "Jahanian",
+      "name:ur": "جہانیاں"
+    }
+  },
+  {
+    "name": "Jaipur",
+    "country": "India",
+    "latitude": 26.915457600067175,
+    "longitude": 75.8189817,
+    "other_names": {
+      "name": "Jaipur",
+      "name:ar": "جايبور",
+      "name:bn": "জয়পুর",
+      "name:cs": "Džajpur",
+      "name:en": "Jaipur",
+      "name:eo": "Ĝajpuro",
+      "name:gu": "જયપુર",
+      "name:he": "ג'איפור",
+      "name:hi": "जयपुर",
+      "name:ja": "ジャイプル",
+      "name:kn": "ಜಯಪುರ್",
+      "name:ko": "자이푸르",
+      "name:ml": "ജയ്‌പൂർ",
+      "name:oc": "Jaipur",
+      "name:pa": "ਜੈਪੁਰ",
+      "name:ru": "Джайпур",
+      "name:ta": "செய்ப்பூர்",
+      "name:uk": "Джайпур",
+      "name:zh": "斋浦尔"
+    }
+  },
+  {
+    "name": "Jakarta",
+    "country": "Indonesia",
+    "latitude": -6.175394199687433,
+    "longitude": 106.82718299999999,
+    "other_names": {
+      "name": "Jakarta",
+      "name:af": "Djakarta",
+      "name:am": "ጃካርታ",
+      "name:ar": "جاكرتا",
+      "name:az": "Cakarta",
+      "name:ba": "Джакарта",
+      "name:be": "Джакарта",
+      "name:bg": "Джакарта",
+      "name:bn": "জাকার্তা",
+      "name:bo": "ཊ་ཁར་ཏ།",
+      "name:bs": "Džakarta",
+      "name:de": "Jakarta",
+      "name:el": "Τζακάρτα",
+      "name:en": "Jakarta",
+      "name:eo": "Ĝakarto",
+      "name:es": "Yakarta",
+      "name:fa": "جاکارتا",
+      "name:fr": "Jakarta",
+      "name:ga": "Iacárta",
+      "name:gl": "Iacarta - Jakarta",
+      "name:gu": "જાકાર્તા",
+      "name:he": "ג'קרטה",
+      "name:hi": "जकार्ता",
+      "name:hu": "Jakarta",
+      "name:hy": "Ջակարտա",
+      "name:id": "Jakarta",
+      "name:is": "Djakarta",
+      "name:it": "Giacarta",
+      "name:ja": "ジャカルタ",
+      "name:ka": "ჯაკარტა",
+      "name:kk": "Джакарта",
+      "name:km": "ចាការតា",
+      "name:kn": "ಜಕಾರ್ತ",
+      "name:ko": "자카르타",
+      "name:ku": "Cakarta",
+      "name:lt": "Džakarta",
+      "name:lv": "Džakarta",
+      "name:mk": "Џакарта",
+      "name:ml": "ജക്കാർത്ത",
+      "name:mn": "Жакарта",
+      "name:mr": "जकार्ता",
+      "name:my": "ဂျကာတာမြို့",
+      "name:oc": "Jakarta",
+      "name:os": "Джакартæ",
+      "name:pl": "Dżakarta",
+      "name:ps": "جکارتا",
+      "name:pt": "Jacarta",
+      "name:ru": "Джакарта",
+      "name:sa": "जकार्ता",
+      "name:sh": "Džakarta",
+      "name:sk": "Džakarta",
+      "name:sl": "Džakarta",
+      "name:sq": "Xhakarta",
+      "name:sr": "Џакарта",
+      "name:sv": "Jakarta",
+      "name:ta": "ஜகார்த்தா",
+      "name:te": "జకార్తా",
+      "name:th": "จาการ์ตา",
+      "name:tr": "Cakarta",
+      "name:ug": "جاكارتا",
+      "name:uk": "Джакарта",
+      "name:ur": "جکارتہ",
+      "name:yi": "דזשאקארטא",
+      "name:za": "Yajgyadaz",
+      "name:zh": "雅加达",
+      "name:arz": "جاكارتا",
+      "name:ckb": "جاکارتا",
+      "name:hak": "Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî",
+      "name:jbo": ".djakartas.",
+      "name:lmo": "Giacarta",
+      "name:mhr": "Джакарта",
+      "name:mwl": "Jacarta",
+      "name:mzn": "جاکارتا",
+      "name:nah": "Yakarta",
+      "name:pms": "Giacarta",
+      "name:pnb": "جکارتہ",
+      "name:rue": "Джакарта",
+      "name:sah": "Дьакарта",
+      "name:szl": "Dżakarta",
+      "name:vec": "Xacarta",
+      "name:yue": "耶加達",
+      "old_name": "Batavia",
+      "name:bat-smg": "Džakarta",
+      "name:roa-tara": "Giacarta",
+      "official_name": "Daerah Khusus Ibukota Jakarta"
+    }
+  },
+  {
+    "name": "Jakusko",
+    "country": "Nigeria",
+    "latitude": 12.369099999615127,
+    "longitude": 10.7744631,
+    "other_names": {
+      "name": "Jakusko"
+    }
+  },
+  {
+    "name": "Jalaid",
+    "country": "China",
+    "latitude": 46.73565610021395,
+    "longitude": 122.9075993,
+    "other_names": {
+      "name": "扎赉特旗",
+      "name:en": "Jalaid",
+      "name:zh": "扎赉特旗",
+      "alt_name": "扎赉特;Jalaid;Жалайд;Zalai Teqi;Chalait'e Banner;Jalaid Banner;Cha-lai-t'e Ch'i;Zhalaite;Jalaid Qi;Zhalaite Qi",
+      "name:zh-Hant": "扎賚特旗"
+    }
+  },
+  {
+    "name": "Jalalabad",
+    "country": "Afghanistan",
+    "latitude": 34.430194999618855,
+    "longitude": 70.460128,
+    "other_names": {
+      "name": "جلال آباد",
+      "name:ar": "جلال آباد",
+      "name:bg": "Джелалабад",
+      "name:ca": "Jalalabad",
+      "name:cs": "Džalálábád",
+      "name:de": "Dschalalabad",
+      "name:el": "Τζελαλαμπάντ",
+      "name:en": "Jalalabad",
+      "name:eo": "Ĝalalabado",
+      "name:es": "Jalalabad",
+      "name:et": "Jalālābād",
+      "name:fa": "جلال‌آباد",
+      "name:fr": "Jalalabad",
+      "name:hi": "जलालाबाद",
+      "name:hu": "Dzsalálábád",
+      "name:it": "Jalalabad",
+      "name:ja": "ジャラーラーバード",
+      "name:ka": "ჯალალაბადი",
+      "name:kn": "ಜಲಾಲಾಬಾದ್",
+      "name:ko": "잘랄라바드",
+      "name:ks": "جلال آباد",
+      "name:lt": "Džalalabadas",
+      "name:lv": "Džalālābāda",
+      "name:ne": "जलालाबाद",
+      "name:nl": "Jalalabad",
+      "name:pa": "ਜਲਾਲਾਬਾਦ",
+      "name:pl": "Dżalalabad",
+      "name:ps": "جلال اباد",
+      "name:ru": "Джелалабад",
+      "name:ta": "ஜலலபாத்",
+      "name:th": "จะลาลาบาด",
+      "name:tr": "Celalabad",
+      "name:uk": "Джелалабад",
+      "name:ur": "جلال آباد",
+      "name:zh": "賈拉拉巴德",
+      "name:azb": "جلال آباد",
+      "name:pnb": "جلال آباد",
+      "alt_name:ps": "جلالکوټ",
+      "alt_name:ur": "جلال کوٹ"
+    }
+  },
+  {
+    "name": "Jalalabat",
+    "country": "Kyrgyzstan",
+    "latitude": 40.92981820038424,
+    "longitude": 73.00118999999998,
+    "other_names": {
+      "name": "Джалал-Абад",
+      "name:de": "Dschalalabat",
+      "name:en": "Jalalabat",
+      "name:es": "Jalal-Abad",
+      "name:fr": "Djalalabad",
+      "name:ja": "ジャララバード",
+      "name:ky": "Жалалабат",
+      "name:pl": "Dżalalabad",
+      "name:ru": "Джалал-Абад",
+      "int_name": "Jalal-Abad"
+    }
+  },
+  {
+    "name": "Jalalabat",
+    "country": "Kyrgyzstan",
+    "latitude": 40.93683368905954,
+    "longitude": 72.98754326515329,
+    "other_names": {
+      "name": "Джалал-Абад",
+      "name:de": "Dschalalabat",
+      "name:en": "Jalalabat",
+      "name:es": "Jalal-Abad",
+      "name:fr": "Djalalabad",
+      "name:ja": "ジャララバード",
+      "name:ky": "Жалалабат",
+      "name:ru": "Джалал-Абад",
+      "int_name": "Jalal-Abad"
+    }
+  },
+  {
+    "name": "Jalalpur Jattan",
+    "country": "Pakistan",
+    "latitude": 32.6406985252856,
+    "longitude": 74.20923887717969,
+    "other_names": {
+      "name": "Jalalpur Jattan"
+    }
+  },
+  {
+    "name": "Jalandhar",
+    "country": "India",
+    "latitude": 31.332376199640457,
+    "longitude": 75.57688899999998,
+    "other_names": {
+      "name": "Jalandhar",
+      "name:ar": "جالندهر",
+      "name:de": "Jalandhar",
+      "name:en": "Jalandhar",
+      "name:es": "Jalandhar",
+      "name:fa": "جلندر",
+      "name:fr": "Jalandhar",
+      "name:he": "ג'לנדהאר",
+      "name:hi": "जालन्धर",
+      "name:ja": "ジャランダル",
+      "name:kn": "ಜಲಾಂಧರ್",
+      "name:pa": "ਜਲੰਧਰ",
+      "name:ru": "Джаландхар",
+      "name:ta": "ஜலந்தர்",
+      "name:ur": "جالندھر",
+      "alt_name:ar": "جالاندهار",
+      "alt_name:hi": "जालंधर"
+    }
+  },
+  {
+    "name": "Jalapa",
+    "country": "Guatemala",
+    "latitude": 14.634416399864111,
+    "longitude": -89.9897996,
+    "other_names": {
+      "name": "Jalapa"
+    }
+  },
+  {
+    "name": "Jalgaon",
+    "country": "India",
+    "latitude": 20.996845300404296,
+    "longitude": 75.5683795,
+    "other_names": {
+      "name": "Jalgaon",
+      "name:en": "Jalgaon",
+      "name:hi": "जलगाँव",
+      "name:ja": "ジャルガーオン",
+      "name:kn": "ಜಳ್ಗಾಂವ",
+      "name:mr": "जळगाव",
+      "name:pa": "ਜਲਗਾਓਂ",
+      "name:ta": "ஜல்கான்"
+    }
+  },
+  {
+    "name": "Jalingo",
+    "country": "Nigeria",
+    "latitude": 8.894537699399029,
+    "longitude": 11.364426099999998,
+    "other_names": {
+      "name": "Jalingo"
+    }
+  },
+  {
+    "name": "Jalna",
+    "country": "India",
+    "latitude": 19.839339400364775,
+    "longitude": 75.8818806,
+    "other_names": {
+      "name": "Jalna",
+      "name:ar": "جالنا",
+      "name:en": "Jalna",
+      "name:fa": "جالنا",
+      "name:hi": "जालना",
+      "name:kn": "ಜಾಲ್ನಾ",
+      "name:mr": "जालना",
+      "name:pa": "ਜਾਲਨਾ",
+      "name:ur": "جالنہ",
+      "name:pnb": "جلنا"
+    }
+  },
+  {
+    "name": "Jalpaiguri",
+    "country": "India",
+    "latitude": 26.524268800109606,
+    "longitude": 88.72010820000001,
+    "other_names": {
+      "name": "Jalpaiguri",
+      "name:bn": "জলপাইগুড়ি",
+      "name:en": "Jalpaiguri",
+      "name:hi": "जलपाईगुड़ी",
+      "name:kn": "ಜಲ್ಪೈಗುರಿ"
+    }
+  },
+  {
+    "name": "Jalu",
+    "country": "Libya",
+    "latitude": 29.03311489983397,
+    "longitude": 21.5482209,
+    "other_names": {
+      "name": "جالو",
+      "name:ar": "جالو",
+      "name:en": "Jalu",
+      "name:fr": "Oasis de Jalo",
+      "name:it": "Gialo",
+      "name:ko": "잘루",
+      "alt_name": "Jalo"
+    }
+  },
+  {
+    "name": "Jamame",
+    "country": "Somalia",
+    "latitude": 0.07221999999257664,
+    "longitude": 42.75056,
+    "other_names": {
+      "name": "Jamaame جمامة",
+      "name:ar": "جمامة",
+      "name:de": "Jamaame",
+      "name:en": "Jamame",
+      "name:es": "Jamaame",
+      "name:fr": "Jamaame",
+      "name:ru": "Джамаме",
+      "name:uk": "Джамаме"
+    }
+  },
+  {
+    "name": "Jambi",
+    "country": "Indonesia",
+    "latitude": -1.629691699847229,
+    "longitude": 103.60778060000001,
+    "other_names": {
+      "name": "Jambi",
+      "name:zh": "占碑市"
+    }
+  },
+  {
+    "name": "Jamestown",
+    "country": "United States Of America",
+    "latitude": 42.09700230049323,
+    "longitude": -79.2353259,
+    "other_names": {
+      "name": "Jamestown"
+    }
+  },
+  {
+    "name": "Jammu",
+    "country": "India",
+    "latitude": 32.7185613995901,
+    "longitude": 74.8580917,
+    "other_names": {
+      "name": "Jammu",
+      "name:ar": "جمو",
+      "name:cs": "Džammú",
+      "name:en": "Jammu",
+      "name:eo": "Ĝamuo",
+      "name:fa": "جامو",
+      "name:he": "ג'אמו",
+      "name:hi": "जम्मू",
+      "name:ja": "ジャンムー",
+      "name:kn": "ಜಮ್ಮು",
+      "name:ks": "جۆم",
+      "name:ml": "ജമ്മു",
+      "name:pa": "ਜੰਮੂ",
+      "name:pl": "Dżammu",
+      "name:ps": "جمو",
+      "name:ru": "Джамму",
+      "name:sr": "Џаму",
+      "name:ta": "ஜம்மு",
+      "name:ur": "جموں",
+      "name:pnb": "جموں",
+      "alt_name:ar": "جامو"
+    }
+  }
+]

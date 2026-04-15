@@ -1,0 +1,403 @@
+[
+  {
+    "name": "Quzhou",
+    "country": "China",
+    "latitude": 36.769898599820166,
+    "longitude": 114.95852429999998,
+    "other_names": {
+      "name": "曲周县",
+      "name:en": "Quzhou",
+      "name:vi": "Khúc Chu",
+      "name:zh": "曲周县",
+      "alt_name": "曲周;Quzhou County",
+      "name:zh-Hant": "曲周縣",
+      "name:zh_pinyin": "Quzhou Xian"
+    }
+  },
+  {
+    "name": "Quzhou",
+    "country": "China",
+    "latitude": 28.97388699984017,
+    "longitude": 118.8540924,
+    "other_names": {
+      "name": "衢州市",
+      "name:ar": "كو زهو",
+      "name:cs": "Čchü-čou",
+      "name:da": "Quzhou",
+      "name:de": "Quzhou",
+      "name:en": "Quzhou",
+      "name:es": "Quzhou",
+      "name:et": "Quzhou",
+      "name:eu": "Quzhou",
+      "name:fa": "کوجاو",
+      "name:fi": "Quzhou",
+      "name:fr": "Quzhou",
+      "name:id": "Quzhou",
+      "name:it": "Quzhou",
+      "name:ja": "衢州市",
+      "name:ki": "Quzhou",
+      "name:ko": "취저우시",
+      "name:kw": "zhw",
+      "name:mg": "Quzhou",
+      "name:nl": "Quzhou",
+      "name:nn": "Quzhou",
+      "name:no": "Quzhou",
+      "name:pl": "Quzhou",
+      "name:pt": "Quzhou",
+      "name:ru": "Цюйчжоу",
+      "name:sv": "Quzhou",
+      "name:tl": "Quzhou",
+      "name:tr": "Quzhou",
+      "name:ur": "چیوژوو",
+      "name:vi": "Cù Châu",
+      "name:zh": "衢州市",
+      "name:cdo": "Gṳ̀-ciŭ",
+      "name:ceb": "Quzhou",
+      "name:lzh": "衢州市",
+      "name:nan": "Kû-chiu-chhī",
+      "name:war": "Quzhou",
+      "name:wuu": "衢州",
+      "name:yue": "衢州",
+      "name:zh-Hant": "衢州市",
+      "name:zh_pinyin": "Qúzhōu shì"
+    }
+  },
+  {
+    "name": "Ra'anana",
+    "country": "Israel And Palestine",
+    "latitude": 32.18822445552385,
+    "longitude": 34.86788488515201,
+    "other_names": {
+      "name": "רעננה",
+      "name:ar": "رعنانا",
+      "name:en": "Ra'anana",
+      "name:fr": "Raanana",
+      "name:he": "רעננה",
+      "name:ru": "Раанана"
+    }
+  },
+  {
+    "name": "Raanana",
+    "country": "Israel And Palestine",
+    "latitude": 32.186148099602164,
+    "longitude": 34.8675905,
+    "other_names": {
+      "name": "רעננה",
+      "name:ar": "رعنانا",
+      "name:de": "Ra’anana",
+      "name:en": "Raanana",
+      "name:es": "Ra'anana",
+      "name:fr": "Raanana",
+      "name:he": "רעננה",
+      "name:hi": "रानाना",
+      "name:lt": "Ranana",
+      "name:ru": "Раанана"
+    }
+  },
+  {
+    "name": "Rabak",
+    "country": "Sudan",
+    "latitude": 13.184465499698943,
+    "longitude": 32.7398062,
+    "other_names": {
+      "name": "ربك",
+      "name:ar": "ربك",
+      "name:en": "Rabak",
+      "name:et": "Rabak",
+      "name:fr": "Rabak",
+      "name:ko": "라박",
+      "alt_name": "Rabaq",
+      "alt_name:ar": "ربق"
+    }
+  },
+  {
+    "name": "Rabat",
+    "country": "Morocco",
+    "latitude": 34.022404999602436,
+    "longitude": -6.834542999999999,
+    "other_names": {
+      "name": "Rabat ⵔⴱⴰⵟ الرباط",
+      "name:am": "ራባት",
+      "name:ar": "الرباط",
+      "name:be": "Рабат",
+      "name:bg": "Рабат",
+      "name:bo": "ར་བ་ཐེ།",
+      "name:cs": "Rabat",
+      "name:cv": "Рабат",
+      "name:da": "Rabat",
+      "name:de": "Rabat",
+      "name:el": "Ραμπάτ",
+      "name:en": "Rabat",
+      "name:eo": "Rabato",
+      "name:es": "Rabat",
+      "name:et": "Rabat",
+      "name:fa": "رباط",
+      "name:fi": "Rabat",
+      "name:fr": "Rabat",
+      "name:gl": "Rabat",
+      "name:he": "רבאט",
+      "name:hi": "रबात",
+      "name:ht": "Raba",
+      "name:hu": "Rabat",
+      "name:hy": "Ռաբաթ",
+      "name:is": "Rabat",
+      "name:ja": "ラバト",
+      "name:ka": "რაბატი",
+      "name:ko": "라바트",
+      "name:ku": "Rabat",
+      "name:ky": "Рабат",
+      "name:lt": "Rabatas",
+      "name:lv": "Rabāta",
+      "name:mk": "Рабат",
+      "name:mr": "रबात",
+      "name:nl": "Rabat",
+      "name:oc": "Rabat",
+      "name:os": "Рабат",
+      "name:pl": "Rabat",
+      "name:ps": "ربات",
+      "name:pt": "Rabat",
+      "name:ru": "Рабат",
+      "name:sk": "Rabat",
+      "name:sr": "Рабат",
+      "name:sv": "Rabat",
+      "name:ta": "ரபாத்",
+      "name:tg": "Рабат",
+      "name:th": "ราบัต",
+      "name:ug": "رابات",
+      "name:uk": "Рабат",
+      "name:ur": "رباط",
+      "name:vi": "Rabat",
+      "name:vo": "Ribat",
+      "name:zh": "拉巴特",
+      "name:ast": "Rabat",
+      "name:ber": "ⵔⴱⴰⵟ",
+      "name:ckb": "ڕەبات",
+      "name:kab": "Rbaṭ",
+      "name:mrj": "Рабат",
+      "name:mzn": "رباط",
+      "name:nah": "Rabāt",
+      "name:pnb": "رباط",
+      "name:udm": "Рабат",
+      "name:xmf": "რაბატი",
+      "name:zgh": "ⵕⵕⴱⴰⵟ",
+      "name:be-tarask": "Рабат"
+    }
+  },
+  {
+    "name": "Rabwah",
+    "country": "Pakistan",
+    "latitude": 31.75405279961877,
+    "longitude": 72.920008,
+    "other_names": {
+      "name": "Rabwah",
+      "name:de": "Rabwah",
+      "name:en": "Rabwah",
+      "name:ur": "ربوہ",
+      "alt_name:en": "Rabwah",
+      "alt_name:ur": "چناب نگر"
+    }
+  },
+  {
+    "name": "Rạch Giá",
+    "country": "Vietnam",
+    "latitude": 10.010710399438533,
+    "longitude": 105.0832623,
+    "other_names": {
+      "name": "Rạch Giá",
+      "name:en": "Rạch Giá",
+      "name:fr": "Rach Gia",
+      "name:ja": "ラックザー",
+      "name:km": "ក្រុងរាជា",
+      "name:ko": "락자",
+      "name:lt": "Racža",
+      "name:ru": "Ратьзя",
+      "name:vi": "Rạch Giá",
+      "name:zh": "迪石市",
+      "old_name:km": "ក្រមួនស",
+      "official_name": "Thành phố Rạch Giá",
+      "official_name:en": "Rach Gia City",
+      "official_name:vi": "Thành phố Rạch Giá"
+    }
+  },
+  {
+    "name": "Racine",
+    "country": "United States Of America",
+    "latitude": 42.72605230052778,
+    "longitude": -87.7825242,
+    "other_names": {
+      "name": "Racine"
+    }
+  },
+  {
+    "name": "Radom",
+    "country": "Poland",
+    "latitude": 51.40225569918595,
+    "longitude": 21.1541546,
+    "other_names": {
+      "name": "Radom",
+      "name:eo": "Radomo",
+      "name:ja": "ラドム",
+      "name:lt": "Radomas",
+      "name:mk": "Радом",
+      "name:pl": "Radom",
+      "name:ru": "Радом",
+      "name:uk": "Радом",
+      "name:szl": "Radům"
+    }
+  },
+  {
+    "name": "Raebareli",
+    "country": "India",
+    "latitude": 26.2207738001416,
+    "longitude": 81.24652029999999,
+    "other_names": {
+      "name": "Raebareli",
+      "name:hi": "रायबरेली",
+      "name:ja": "ラーエバレーリー",
+      "name:kn": "ರಾಯಬರೇಲಿ",
+      "name:pa": "ਰਾਏਬਰੇਲੀ"
+    }
+  },
+  {
+    "name": "Rafaela",
+    "country": "Argentina",
+    "latitude": -31.25269229935331,
+    "longitude": -61.49167580000001,
+    "other_names": {
+      "name": "Rafaela",
+      "name:el": "Ραφαέλα"
+    }
+  },
+  {
+    "name": "Rafael Castillo",
+    "country": "Argentina",
+    "latitude": -34.69965179982607,
+    "longitude": -58.6308765,
+    "other_names": {
+      "name": "Rafael Castillo"
+    }
+  },
+  {
+    "name": "Rafael Delgado",
+    "country": "Mexico",
+    "latitude": 18.8092313003007,
+    "longitude": -97.07154569999999,
+    "other_names": {
+      "name": "Rafael Delgado"
+    }
+  },
+  {
+    "name": "Rafah",
+    "country": "Israel And Palestine",
+    "latitude": 31.2752046996438,
+    "longitude": 34.2558269,
+    "other_names": {
+      "name": "رفح",
+      "name:ar": "رفح",
+      "name:bn": "রাফাহ",
+      "name:cs": "Rafah",
+      "name:de": "Rafah",
+      "name:el": "Ράφα",
+      "name:en": "Rafah",
+      "name:es": "Rafah",
+      "name:et": "Rafaḩ",
+      "name:fr": "Rafah",
+      "name:he": "רפיח",
+      "name:hi": "रेफ़ा",
+      "name:ku": "Refah",
+      "name:ru": "Рафах",
+      "int_name": "Rafah"
+    }
+  },
+  {
+    "name": "Rafsanjan",
+    "country": "Iran",
+    "latitude": 30.40218399970541,
+    "longitude": 55.99417759999999,
+    "other_names": {
+      "name": "رفسنجان",
+      "name:ar": "رفسنجان",
+      "name:de": "Rafsandschan",
+      "name:en": "Rafsanjan",
+      "name:es": "Rafsanjan",
+      "name:et": "Rafsanjān",
+      "name:fr": "Rafsanjan",
+      "name:hi": "रफसंजन",
+      "name:ja": "ラフサンジャーン",
+      "int_name": "Rafsanjan"
+    }
+  },
+  {
+    "name": "Ragusa",
+    "country": "Italy",
+    "latitude": 36.92198279983863,
+    "longitude": 14.7213455,
+    "other_names": {
+      "name": "Ragusa",
+      "name:ar": "رغوس",
+      "name:el": "Ραγκούζα",
+      "name:en": "Ragusa",
+      "name:fr": "Raguse",
+      "name:it": "Ragusa",
+      "name:lt": "Ragūza",
+      "name:ru": "Рагуза",
+      "name:uk": "Рагуза",
+      "name:zh": "拉古萨",
+      "name:scn": "Raùsa",
+      "alt_name:ar": "رغوص;راغوزا;راجوسا",
+      "name:zh-Hant": "拉古薩"
+    }
+  },
+  {
+    "name": "Rahibat",
+    "country": "Libya",
+    "latitude": 31.883672599613178,
+    "longitude": 11.898614199999999,
+    "other_names": {
+      "name": "الرحيبات",
+      "name:ar": "الرحيبات",
+      "name:de": "Rahibat",
+      "name:en": "Rahibat",
+      "name:fr": "Rahibat",
+      "name:ia": "Rahibat",
+      "name:it": "Rahebat",
+      "name:ber": "ⴰⵎⵙⵉⵏ"
+    }
+  },
+  {
+    "name": "Rahimyar Khan",
+    "country": "Pakistan",
+    "latitude": 28.417606999899977,
+    "longitude": 70.30365119999999,
+    "other_names": {
+      "name": "رحیم یار خان",
+      "name:ar": "رحيم يار خان",
+      "name:de": "Rahimyar Khan",
+      "name:en": "Rahimyar Khan",
+      "name:es": "Rahim Yar Khan",
+      "name:fr": "Rahim Yar Khan",
+      "name:hi": "रहीम यार खान",
+      "name:ja": "ラヒームヤール・ハーン",
+      "name:kn": "ರಹಿಮರ್ ಖಾನ್",
+      "name:ru": "Рахимъярхан",
+      "alt_name": "Rahim Yar Khan"
+    }
+  },
+  {
+    "name": "Raichur",
+    "country": "India",
+    "latitude": 16.19832250004719,
+    "longitude": 77.3527444,
+    "other_names": {
+      "name": "Raichur",
+      "name:ar": "رايشور",
+      "name:en": "Raichur",
+      "name:hi": "रायचूर",
+      "name:ja": "ラーイチュール",
+      "name:kn": "ರಾಯಚೂರು",
+      "name:pa": "ਰਾਏਚੂਰ",
+      "name:ta": "ராய்ச்சூர்",
+      "alt_name": "Rayachuru"
+    }
+  }
+]

@@ -1,0 +1,385 @@
+[
+  {
+    "name": "Hyesan",
+    "country": "China",
+    "latitude": 41.40294480043454,
+    "longitude": 128.17783709999998,
+    "other_names": {
+      "name": "혜산시",
+      "name:cs": "Hjesan",
+      "name:de": "Hyesan",
+      "name:el": "Χιέσαν",
+      "name:en": "Hyesan",
+      "name:es": "Hyesan",
+      "name:et": "Hyesan",
+      "name:fr": "Hyesan",
+      "name:ja": "恵山市",
+      "name:ko": "혜산시",
+      "name:lt": "Hesanas",
+      "name:ru": "Хесан",
+      "name:uk": "Хесан",
+      "name:zh": "惠山市",
+      "int_name": "Hyesan",
+      "name:ja_kana": "へさん",
+      "name:ko-Hani": "惠山市"
+    }
+  },
+  {
+    "name": "Hyuga",
+    "country": "Japan",
+    "latitude": 32.42254829959564,
+    "longitude": 131.6244443,
+    "other_names": {
+      "name": "日向市",
+      "name:ar": "هايوغا، ميازاكي",
+      "name:de": "Hyūga",
+      "name:en": "Hyuga",
+      "name:es": "Hyūga",
+      "name:fr": "Hyūga",
+      "name:ja": "日向市",
+      "name:ko": "휴가시",
+      "name:pl": "Hyūga",
+      "name:ru": "Хюга",
+      "name:uk": "Хюґа",
+      "name:zh": "日向市",
+      "int_name": "Hyūga",
+      "name:ja-Hira": "ひゅうがし",
+      "name:zh-Hans": "日向市",
+      "name:zh-Hant": "日嚮市"
+    }
+  },
+  {
+    "name": "Iași",
+    "country": "Romania",
+    "latitude": 47.16153410012756,
+    "longitude": 27.5836142,
+    "other_names": {
+      "name": "Iași",
+      "name:be": "Ясы",
+      "name:bg": "Яш",
+      "name:cs": "Jasy",
+      "name:de": "Jassy",
+      "name:el": "Ιάσιο",
+      "name:he": "יאשי",
+      "name:hu": "Jászvásár",
+      "name:ko": "야시",
+      "name:la": "Iassium",
+      "name:lt": "Jasai",
+      "name:lv": "Jasi",
+      "name:mk": "Јаш",
+      "name:pl": "Jassy",
+      "name:ru": "Яссы",
+      "name:sr": "Јаши",
+      "name:uk": "Ясси",
+      "name:zh": "雅西",
+      "old_name:de": "Jaßenmarkt"
+    }
+  },
+  {
+    "name": "Ibadan",
+    "country": "Nigeria",
+    "latitude": 7.37774619939667,
+    "longitude": 3.8972497,
+    "other_names": {
+      "name": "Ibadan",
+      "name:ar": "إبادان",
+      "name:ko": "이바단",
+      "name:oc": "Ibadan",
+      "name:zh": "伊巴丹"
+    }
+  },
+  {
+    "name": "Ibagué",
+    "country": "Colombia",
+    "latitude": 4.444659499549516,
+    "longitude": -75.2430012,
+    "other_names": {
+      "name": "Ibagué",
+      "name:ar": "إيباغيه",
+      "name:ko": "이바게",
+      "name:ru": "Ибаге",
+      "name:uk": "Ібаге",
+      "name:lzh": "伊瓦格"
+    }
+  },
+  {
+    "name": "Ibara",
+    "country": "Japan",
+    "latitude": 34.59765149962731,
+    "longitude": 133.4638294,
+    "other_names": {
+      "name": "井原市",
+      "name:ar": "إبارا، أوكاياما",
+      "name:de": "Ibara",
+      "name:en": "Ibara",
+      "name:es": "Ibara",
+      "name:fr": "Ibara",
+      "name:ja": "井原市",
+      "name:ko": "이바라시",
+      "name:pl": "Ibara",
+      "name:ru": "Ибара",
+      "name:uk": "Ібара",
+      "int_name": "Ibara",
+      "name:ja-Hira": "いばらし",
+      "name:ja-Latn": "Ibara-shi",
+      "name:ja_kana": "イバラシ"
+    }
+  },
+  {
+    "name": "Ibaraki",
+    "country": "Japan",
+    "latitude": 34.83400899964093,
+    "longitude": 135.55395089999996,
+    "other_names": {
+      "name": "茨木市",
+      "name:ar": "إباراكي، أوساكا",
+      "name:de": "Ibaraki",
+      "name:en": "Ibaraki",
+      "name:es": "Ibaraki",
+      "name:fr": "Ibaraki",
+      "name:ja": "茨木市",
+      "name:ko": "이바라키시",
+      "name:pl": "Ibaraki",
+      "name:ru": "Ибараки",
+      "name:uk": "Ібаракі",
+      "int_name": "Ibaraki",
+      "name:ja_rm": "Ibaraki-shi",
+      "name:ja_kana": "いばらきし"
+    }
+  },
+  {
+    "name": "Ibarra",
+    "country": "Ecuador",
+    "latitude": 0.3477432999639148,
+    "longitude": -78.1169906,
+    "other_names": {
+      "name": "Ibarra",
+      "official_name": "San Miguel de Ibarra"
+    }
+  },
+  {
+    "name": "Ibb",
+    "country": "Yemen",
+    "latitude": 13.970157799786692,
+    "longitude": 44.1779446,
+    "other_names": {
+      "name": "إب",
+      "name:ar": "إب",
+      "name:cs": "Ibb",
+      "name:en": "Ibb",
+      "name:es": "Ibb",
+      "name:et": "Ibb",
+      "name:fr": "Ibb",
+      "name:hi": "इब्ब",
+      "name:ko": "이브",
+      "name:ru": "Ибб",
+      "int_name": "Ibb"
+    }
+  },
+  {
+    "name": "Ibirité",
+    "country": "Brazil",
+    "latitude": -20.0214251003897,
+    "longitude": -44.062150599999995,
+    "other_names": {
+      "name": "Ibirité"
+    }
+  },
+  {
+    "name": "Ibusuki",
+    "country": "Japan",
+    "latitude": 31.252795299645136,
+    "longitude": 130.63330969999998,
+    "other_names": {
+      "name": "指宿市",
+      "name:ar": "إيبوسوكي، كاغوشيما",
+      "name:de": "Ibusuki",
+      "name:en": "Ibusuki",
+      "name:es": "Ibusuki",
+      "name:fr": "Ibusuki",
+      "name:ja": "指宿市",
+      "name:ko": "이부스키시",
+      "name:pl": "Ibusuki",
+      "name:ru": "Ибусуки",
+      "name:uk": "Ібусукі",
+      "name:zh": "指宿市",
+      "int_name": "Ibusuki",
+      "name:ja-Hira": "いぶすきし",
+      "name:ja-Latn": "Ibusuki-shi",
+      "name:zh-Hans": "指宿市",
+      "name:zh-Hant": "指宿市"
+    }
+  },
+  {
+    "name": "Ica",
+    "country": "Peru",
+    "latitude": -14.064096700308218,
+    "longitude": -75.7290915,
+    "other_names": {
+      "name": "Ica",
+      "name:de": "Ica",
+      "name:en": "Ica",
+      "name:es": "Ica",
+      "name:ko": "이카",
+      "name:pl": "Ica",
+      "name:ru": "Iкa",
+      "name:uk": "Іка"
+    }
+  },
+  {
+    "name": "Ichalkaranji",
+    "country": "India",
+    "latitude": 16.695934800102723,
+    "longitude": 74.4555755,
+    "other_names": {
+      "name": "Ichalkaranji",
+      "name:ar": "إيشل كرنجي",
+      "name:kn": "ಇಚಲಕರಂಜಿ",
+      "name:mr": "इचलकरंजी",
+      "name:ur": "ایچل کرنجی"
+    }
+  },
+  {
+    "name": "Icheon-si",
+    "country": "South Korea",
+    "latitude": 37.28088229988416,
+    "longitude": 127.44291319999999,
+    "other_names": {
+      "name": "이천시",
+      "name:de": "Icheon",
+      "name:en": "Icheon-si",
+      "name:es": "Icheon",
+      "name:et": "Icheon",
+      "name:fr": "Icheon",
+      "name:ja": "利川市",
+      "name:ko": "이천시",
+      "name:zh": "利川市",
+      "int_name": "Icheon",
+      "name:ko-Hani": "利川市",
+      "name:ko-Latn": "Icheon-si"
+    }
+  },
+  {
+    "name": "Ichihara",
+    "country": "Japan",
+    "latitude": 35.49777499968941,
+    "longitude": 140.1156996,
+    "other_names": {
+      "name": "市原市",
+      "name:ar": "إيتشيهارا، تشيبا",
+      "name:de": "Ichihara",
+      "name:en": "Ichihara",
+      "name:es": "Ichihara",
+      "name:fr": "Ichihara",
+      "name:ja": "市原市",
+      "name:ko": "이치하라시",
+      "name:pl": "Ichihara",
+      "name:ru": "Итихара",
+      "name:uk": "Ітіхара",
+      "name:zh": "市原市",
+      "int_name": "Ichihara",
+      "name:ja_rm": "Ichihara-shi",
+      "name:ja_kana": "いちはらし",
+      "name:zh-Hans": "市原市",
+      "name:zh-Hant": "市原市"
+    }
+  },
+  {
+    "name": "Ichikawa",
+    "country": "Japan",
+    "latitude": 35.72941199970974,
+    "longitude": 139.928568,
+    "other_names": {
+      "name": "市川市",
+      "name:ar": "ايشيكاوا تشيبا",
+      "name:de": "Ichikawa",
+      "name:en": "Ichikawa",
+      "name:es": "Ichikawa",
+      "name:fr": "Ichikawa",
+      "name:ja": "市川市",
+      "name:ko": "이치카와시",
+      "name:pl": "Ichikawa",
+      "name:ru": "Итикава",
+      "name:uk": "Ітікава",
+      "int_name": "Ichikawa",
+      "name:ja_rm": "Ichikawa-shi",
+      "name:ja_kana": "いちかわし"
+    }
+  },
+  {
+    "name": "Ichikikushikino",
+    "country": "Japan",
+    "latitude": 31.714602399620567,
+    "longitude": 130.2721599,
+    "other_names": {
+      "name": "いちき串木野市",
+      "name:ar": "إتشيكيكوشيكينو، كاغوشيما",
+      "name:de": "Ichikikushikino",
+      "name:en": "Ichikikushikino",
+      "name:es": "Ichikikushikino",
+      "name:fr": "Ichikikushikino",
+      "name:ja": "いちき串木野市",
+      "name:ko": "이치키쿠시키노시",
+      "name:pl": "Ichikikushikino",
+      "name:ru": "Итикикусикино",
+      "name:uk": "Ічікі-Кушікіно",
+      "int_name": "Ichikikushikino",
+      "name:ja-Hira": "いちきくしきのし",
+      "name:ja-Latn": "Ichikikushikino-shi"
+    }
+  },
+  {
+    "name": "Ichinomiya",
+    "country": "Japan",
+    "latitude": 35.3048779996738,
+    "longitude": 136.80691499999998,
+    "other_names": {
+      "name": "一宮市",
+      "name:ar": "إيتشينوميا، آيتشي",
+      "name:de": "Ichinomiya",
+      "name:en": "Ichinomiya",
+      "name:es": "Ichinomiya",
+      "name:et": "Ichinomiya",
+      "name:fr": "Ichinomiya",
+      "name:ja": "一宮市",
+      "name:ko": "이치노미야시",
+      "name:pl": "Ichinomiya",
+      "name:ru": "Итиномия",
+      "name:uk": "Ітіномія",
+      "name:ja_rm": "Ichinomiya-shi",
+      "name:ja_kana": "いちのみやし"
+    }
+  },
+  {
+    "name": "Ichinoseki",
+    "country": "Japan",
+    "latitude": 38.93469610011644,
+    "longitude": 141.12660499999998,
+    "other_names": {
+      "name": "一関市",
+      "name:ar": "إتشينوسيكي، إيواته",
+      "name:de": "Ichinoseki",
+      "name:en": "Ichinoseki",
+      "name:es": "Ichinoseki",
+      "name:fr": "Ichinoseki",
+      "name:ja": "一関市",
+      "name:ko": "이치노세키시",
+      "name:lt": "Ičinosekis",
+      "name:pl": "Ichinoseki",
+      "name:ru": "Итиносеки",
+      "name:uk": "Ітіносекі",
+      "int_name": "Ichinoseki",
+      "name:ja_rm": "Ichinoseki-shi",
+      "name:ja_kana": "いちのせきし"
+    }
+  },
+  {
+    "name": "Idaho Falls",
+    "country": "United States Of America",
+    "latitude": 43.488790700541934,
+    "longitude": -112.03627999999999,
+    "other_names": {
+      "name": "Idaho Falls"
+    }
+  }
+]

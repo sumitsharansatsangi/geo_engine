@@ -1,0 +1,337 @@
+[
+  {
+    "name": "La Piedad de Cabadas",
+    "country": "Mexico",
+    "latitude": 20.342994900386426,
+    "longitude": -102.031124,
+    "other_names": {
+      "name": "La Piedad de Cabadas",
+      "short_name": "La Piedad"
+    }
+  },
+  {
+    "name": "La Plata",
+    "country": "Argentina",
+    "latitude": -34.92067969987208,
+    "longitude": -57.9537638,
+    "other_names": {
+      "name": "La Plata",
+      "name:ar": "لابلاتا"
+    }
+  },
+  {
+    "name": "La Pola Siero",
+    "country": "Spain",
+    "latitude": 43.3915332379014,
+    "longitude": -5.660371583080692,
+    "other_names": {
+      "name": "La Pola Siero"
+    }
+  },
+  {
+    "name": "Lappeenranta",
+    "country": "Finland",
+    "latitude": 61.05837130174832,
+    "longitude": 28.186274199999996,
+    "other_names": {
+      "name": "Lappeenranta",
+      "name:fi": "Lappeenranta",
+      "name:ru": "Лаппеэнранта",
+      "name:sv": "Villmanstrand",
+      "old_name:sv": "Wilmanstrand"
+    }
+  },
+  {
+    "name": "Lapu-Lapu",
+    "country": "Philippines",
+    "latitude": 10.312672199454486,
+    "longitude": 123.94881770000002,
+    "other_names": {
+      "ref": "072226000",
+      "name": "Lapu-Lapu",
+      "name:en": "Lapu-Lapu",
+      "name:ja": "ラプラプ",
+      "alt_name": "Opon",
+      "old_name": "Opon"
+    }
+  },
+  {
+    "name": "L'Aquila",
+    "country": "Italy",
+    "latitude": 42.34892030050938,
+    "longitude": 13.397967199999998,
+    "other_names": {
+      "name": "L'Aquila",
+      "name:ar": "لاكويلا",
+      "name:el": "Λ' Άκουιλα",
+      "name:en": "L'Aquila",
+      "name:eo": "La-Aglo",
+      "name:fa": "لاکوئیلا",
+      "name:ru": "Л'Акуила",
+      "name:uk": "Л'Акуїла",
+      "name:zh": "拉奎拉",
+      "old_name": "Aquila degli Abruzzi"
+    }
+  },
+  {
+    "name": "Larache",
+    "country": "Morocco",
+    "latitude": 35.19523269966549,
+    "longitude": -6.152913000000001,
+    "other_names": {
+      "name": "Larache ⵍⵄⵔⴰⵢⵛ العرائش",
+      "name:ar": "العرائش",
+      "name:en": "Larache",
+      "name:es": "Larache",
+      "name:et": "Larache",
+      "name:fa": "عرائش",
+      "name:fr": "Larache",
+      "name:he": "לראצ'ה",
+      "name:lt": "Larašas",
+      "name:ru": "Лараш",
+      "name:ur": "العرائش",
+      "name:azb": "عرائش",
+      "name:ber": "ⵍⵄⵔⴰⵢⵛ",
+      "name:zgh": "ⵍⵄⵔⴰⵢⵛ",
+      "loc_name:ar": "لعرايش"
+    }
+  },
+  {
+    "name": "Laramie",
+    "country": "United States Of America",
+    "latitude": 41.3113670004254,
+    "longitude": -105.591101,
+    "other_names": {
+      "name": "Laramie",
+      "name:ru": "Ларами"
+    }
+  },
+  {
+    "name": "Laredo",
+    "country": "United States Of America",
+    "latitude": 27.523699799999562,
+    "longitude": -99.49735199999999,
+    "other_names": {
+      "name": "Laredo",
+      "name:ar": "لاريدو",
+      "name:de": "Laredo",
+      "name:en": "Laredo",
+      "name:es": "Laredo",
+      "name:fa": "لاریدو",
+      "name:fr": "Laredo",
+      "name:ru": "Ларедо",
+      "name:uk": "Ларедо",
+      "name:ur": "لاریڈو",
+      "name:azb": "لاریدو",
+      "name:pnb": "لریڈو",
+      "name:az-Arab": "لاریدو",
+      "name:pa-Arab": "لریڈو"
+    }
+  },
+  {
+    "name": "Largo",
+    "country": "United States Of America",
+    "latitude": 27.90946649995636,
+    "longitude": -82.7873244,
+    "other_names": {
+      "name": "Largo"
+    }
+  },
+  {
+    "name": "La Rinconada",
+    "country": "Peru",
+    "latitude": -14.628800300353255,
+    "longitude": -69.4455887,
+    "other_names": {
+      "name": "La Rinconada",
+      "name:en": "La Rinconada",
+      "name:es": "La Rinconada"
+    }
+  },
+  {
+    "name": "La Rioja",
+    "country": "Argentina",
+    "latitude": -29.412741099329526,
+    "longitude": -66.8558795,
+    "other_names": {
+      "name": "La Rioja",
+      "name:el": "Λα Ριόχα",
+      "name:en": "La Rioja",
+      "name:he": "לה ריוחה",
+      "name:ru": "Ла-Риоха",
+      "name:uk": "Ла-Ріоха"
+    }
+  },
+  {
+    "name": "Larissa",
+    "country": "Greece",
+    "latitude": 39.63830920021732,
+    "longitude": 22.416070599999998,
+    "other_names": {
+      "name": "Λάρισα",
+      "name:bg": "Лариса",
+      "name:ca": "Làrissa",
+      "name:de": "Larisa",
+      "name:el": "Λάρισα",
+      "name:en": "Larissa",
+      "name:et": "Lárisa",
+      "name:fi": "Larissa",
+      "name:fr": "Larissa",
+      "name:hr": "Larisa",
+      "name:hu": "Lárisza",
+      "name:lt": "Larisa",
+      "name:mk": "Лариса",
+      "name:ru": "Лариса",
+      "name:sq": "Larisa",
+      "name:sr": "Лариса",
+      "name:tr": "Larissa",
+      "int_name": "Larissa",
+      "name:sr-Latn": "Larisa"
+    }
+  },
+  {
+    "name": "Larkana",
+    "country": "Pakistan",
+    "latitude": 27.5564797999959,
+    "longitude": 68.2101509,
+    "other_names": {
+      "name": "لاڑکانہ",
+      "name:ar": "لاركانا",
+      "name:de": "Larkana",
+      "name:en": "Larkana",
+      "name:et": "Lārkāna",
+      "name:fr": "Larkana",
+      "name:hi": "लरकाना",
+      "name:it": "Larkana",
+      "name:ja": "ラルカナ",
+      "name:kn": "ಲರ್ಕನ",
+      "name:lt": "Larkana",
+      "name:nl": "Larkano",
+      "name:ru": "Ларкана",
+      "name:sd": "لاڙڪاڻو‎",
+      "name:sr": "Ларкана",
+      "name:tr": "Larkana",
+      "name:ur": "لاڑکانہ"
+    }
+  },
+  {
+    "name": "Larnaca",
+    "country": "Cyprus",
+    "latitude": 34.923609499646595,
+    "longitude": 33.6236184,
+    "other_names": {
+      "name": "Λάρνακα",
+      "name:ar": "لارنكا",
+      "name:de": "Larnaka",
+      "name:el": "Λάρνακα",
+      "name:en": "Larnaca",
+      "name:et": "Larnaca",
+      "name:fr": "Larnaca",
+      "name:he": "לרנקה",
+      "name:it": "Larnaca",
+      "name:ku": "Larnaka",
+      "name:lt": "Larnaka",
+      "name:mk": "Ларнака",
+      "name:pl": "Larnaka",
+      "name:ru": "Ларнака",
+      "name:sl": "Larnaka",
+      "name:tr": "Larnaka",
+      "name:uk": "Ларнака",
+      "int_name": "Larnaca",
+      "name:ckb": "لارناکا",
+      "alt_name:de": "Larnaca",
+      "old_name:de": "Larnax"
+    }
+  },
+  {
+    "name": "La Rochelle",
+    "country": "France",
+    "latitude": 46.15911260031713,
+    "longitude": -1.1520434,
+    "other_names": {
+      "name": "La Rochelle",
+      "name:ar": "لا روشيل هي",
+      "name:az": "La Roşel",
+      "name:be": "Ла Рашэль",
+      "name:bg": "Ла Рошел",
+      "name:bn": "লা রোচ্যাল",
+      "name:bo": "ལ་རོ་ཅེ་ལེ།",
+      "name:br": "Ar Roc'hell",
+      "name:ca": "La Roquel·la",
+      "name:el": "Λα Ροσέλ",
+      "name:eo": "Roĉelo",
+      "name:eu": "Arroxela",
+      "name:fa": "لا روشل",
+      "name:fr": "La Rochelle",
+      "name:he": "לה רושל",
+      "name:hy": "Լա Ռոշել",
+      "name:ja": "ラ・ロシェル",
+      "name:ka": "ლა-როშელი",
+      "name:ko": "라로셸",
+      "name:la": "Rupella",
+      "name:lt": "La Rošelis",
+      "name:lv": "Larošela",
+      "name:oc": "La Rochèla",
+      "name:ru": "Ла Рошель",
+      "name:sr": "Ла Рошел",
+      "name:th": "ลารอแชล",
+      "name:uk": "Ла Рошель",
+      "name:ur": "لا روشیل",
+      "name:zh": "拉罗歇尔",
+      "old_name:sco": "The Rotchell"
+    }
+  },
+  {
+    "name": "La Romana",
+    "country": "Haiti And Domrep",
+    "latitude": 18.427278600270817,
+    "longitude": -68.9734597,
+    "other_names": {
+      "name": "La Romana",
+      "name:en": "La Romana",
+      "name:hu": "La Romana",
+      "name:ru": "Ла-Романа"
+    }
+  },
+  {
+    "name": "Las Anod",
+    "country": "Somalia",
+    "latitude": 8.474260999392396,
+    "longitude": 47.35519399999999,
+    "other_names": {
+      "name": "Laascaanood لاس عانود",
+      "pcode": "NC-3816-N19-001",
+      "name:ar": "لاس عانود",
+      "name:de": "Las Anod",
+      "name:en": "Las Anod",
+      "name:es": "Las Anod",
+      "name:fr": "Las Anod",
+      "name:it": "Las Anod",
+      "name:pt": "Las Anod",
+      "name:ru": "Лас-Анод",
+      "name:uk": "Лас'анод",
+      "alt_name": "Las Anod"
+    }
+  },
+  {
+    "name": "Las Cruces",
+    "country": "United States Of America",
+    "latitude": 32.31403539959841,
+    "longitude": -106.7798078,
+    "other_names": {
+      "name": "Las Cruces"
+    }
+  },
+  {
+    "name": "La Serena",
+    "country": "Chile",
+    "latitude": -29.902630999320266,
+    "longitude": -71.2520253,
+    "other_names": {
+      "name": "La Serena",
+      "name:en": "La Serena",
+      "name:ru": "Ла-Серена",
+      "name:uk": "Ла-Серена"
+    }
+  }
+]

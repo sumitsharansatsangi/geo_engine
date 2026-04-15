@@ -1,0 +1,348 @@
+[
+  {
+    "name": "Qapugtang",
+    "country": "China",
+    "latitude": 32.894760999588236,
+    "longitude": 95.2958928,
+    "other_names": {
+      "name": "杂多县",
+      "name:bo": "རྫ་སྟོད་",
+      "name:en": "Qapugtang",
+      "name:zh": "杂多县",
+      "alt_name": "杂多;萨呼腾;Sahuteng",
+      "alt_name:en": "Sahuteng Zhen;Zaduo Xian;Zaduo;Qapugtang",
+      "name:zh-Hant": "雜多縣",
+      "official_name": "萨呼腾镇",
+      "name:zh_pinyin": "sàhūténg zhèn"
+    }
+  },
+  {
+    "name": "Qaqortoq",
+    "country": "Greenland",
+    "latitude": 60.718202001743066,
+    "longitude": -46.0385214,
+    "other_names": {
+      "name": "Qaqortoq",
+      "name:ar": "قاقورتوق",
+      "name:kl": "Qaqortoq",
+      "name:lt": "Kakortokas",
+      "name:ru": "Какорток",
+      "name:uk": "Какорток",
+      "old_name": "Julianehåb"
+    }
+  },
+  {
+    "name": "Qarchak",
+    "country": "Iran",
+    "latitude": 35.44218239968479,
+    "longitude": 51.5697005,
+    "other_names": {
+      "name": "قرچک",
+      "name:de": "Ghartschak",
+      "name:en": "Qarchak",
+      "name:ja": "ガルチャク"
+    }
+  },
+  {
+    "name": "Qardho",
+    "country": "Somalia",
+    "latitude": 9.50701089941683,
+    "longitude": 49.0872145,
+    "other_names": {
+      "name": "Qardho قرضو",
+      "name:ar": "قرضو",
+      "name:en": "Qardho",
+      "name:fr": "Qardho",
+      "alt_name:ar": "قرضو"
+    }
+  },
+  {
+    "name": "Qarqan",
+    "country": "China",
+    "latitude": 38.144258100002396,
+    "longitude": 85.52726309999998,
+    "other_names": {
+      "name": "且末县",
+      "name:de": "Qarqan",
+      "name:en": "Qarqan",
+      "name:es": "Qiemo",
+      "name:fr": "Qiemo",
+      "name:mn": "ᠴᠧᠷᠴᠧᠨ ᠱᠢᠨᠢ",
+      "name:tr": "Çerçen",
+      "name:ug": "چەرچەن ناھىيىسى",
+      "name:zh": "且末县",
+      "alt_name": "且末县;Cherchen;Qiemo",
+      "name:zh-Hant": "且末縣",
+      "name:zh_pinyin": "Qiěmò xiàn"
+    }
+  },
+  {
+    "name": "Qarshi",
+    "country": "Uzbekistan",
+    "latitude": 38.8399800001027,
+    "longitude": 65.79279479999998,
+    "other_names": {
+      "name": "Qarshi",
+      "name:en": "Qarshi",
+      "name:fa": "نخشب",
+      "name:fr": "Karchi",
+      "name:ja": "カルシ",
+      "name:ko": "카르시",
+      "name:ru": "Карши",
+      "name:tk": "Garşy",
+      "name:uk": "Карші"
+    }
+  },
+  {
+    "name": "Qarshi",
+    "country": "Uzbekistan",
+    "latitude": 38.84868559473747,
+    "longitude": 65.78831842513634,
+    "other_names": {
+      "name": "Qarshi",
+      "name:fa": "نخشب",
+      "name:fr": "Karchi",
+      "name:ja": "カルシ",
+      "name:ru": "Карши",
+      "name:uz": "Qarshi"
+    }
+  },
+  {
+    "name": "Qaryat ash Shahid Yunis as Sabawi",
+    "country": "Iraq",
+    "latitude": 36.3522220103143,
+    "longitude": 43.186620578360554,
+    "other_names": {
+      "name": "Qaryat ash Shahid Yunis as Sabawi"
+    }
+  },
+  {
+    "name": "Qasr Bin Ghashir",
+    "country": "Libya",
+    "latitude": 32.68597359959057,
+    "longitude": 13.176499599999998,
+    "other_names": {
+      "name": "قصر بن غشير",
+      "pcode": "LY-19-10708",
+      "name:ar": "قصر بن غشير",
+      "name:be": "Каср-Бен-Гашыр",
+      "name:de": "Ben Gashir",
+      "name:en": "Qasr Bin Ghashir",
+      "name:fr": "Qasr bin Ghashir",
+      "name:it": "Castillo Benito",
+      "name:ka": "ქასრ-ბენ-ღაშირი",
+      "name:pt": "Alcácer ibne Gaxir",
+      "name:ru": "Бин-Гашир",
+      "name:zu": "Qasr bin Ghashir",
+      "int_name": "Ben Ghashir"
+    }
+  },
+  {
+    "name": "Qasr Bin Ghashir",
+    "country": "Libya",
+    "latitude": 32.68597359959057,
+    "longitude": 13.176499599999998,
+    "other_names": {
+      "name": "قصر بن غشير",
+      "pcode": "LY-19-10708",
+      "name:ar": "قصر بن غشير",
+      "name:be": "Каср-Бен-Гашыр",
+      "name:de": "Ben Gashir",
+      "name:en": "Qasr Bin Ghashir",
+      "name:fr": "Qasr bin Ghashir",
+      "name:it": "Castillo Benito",
+      "name:ka": "ქასრ-ბენ-ღაშირი",
+      "name:pt": "Alcácer ibne Gaxir",
+      "name:ru": "Бин-Гашир",
+      "name:zu": "Qasr bin Ghashir",
+      "int_name": "Castillo Benito"
+    }
+  },
+  {
+    "name": "Qatrun",
+    "country": "Libya",
+    "latitude": 24.888852000267338,
+    "longitude": 14.531484000000003,
+    "other_names": {
+      "name": "القطرون",
+      "name:ar": "القطرون",
+      "name:de": "Al-Qatrun",
+      "name:en": "Qatrun",
+      "name:es": "Al Qatrun",
+      "name:fi": "Al-Qatrun",
+      "name:fr": "Gatrone",
+      "name:it": "El-Gatrun",
+      "name:nl": "Al Qatrun",
+      "name:pl": "Al-Katrun",
+      "name:sv": "Al Qaţrūn",
+      "name:vi": "Al Qatrun",
+      "alt_name": "Al Katrun;Gatrone;Al Gatrun"
+    }
+  },
+  {
+    "name": "Qazvin",
+    "country": "Iran",
+    "latitude": 36.28040739976453,
+    "longitude": 50.006662999999996,
+    "other_names": {
+      "name": "قزوین",
+      "name:cs": "Kazvín",
+      "name:de": "Kaswin",
+      "name:en": "Qazvin",
+      "name:es": "Qazvin",
+      "name:et": "Qazvīn",
+      "name:fi": "Qazvin",
+      "name:fr": "Qazvin",
+      "name:he": "קזווין",
+      "name:hi": "क़ज़्वीन",
+      "name:ja": "ガズヴィーン",
+      "name:ku": "Qezwîn",
+      "name:ml": "ഖസ്വീൻ",
+      "name:pl": "Kazwin",
+      "name:ru": "Казвин",
+      "name:tr": "Kazvin",
+      "name:uk": "Казвін",
+      "int_name": "Qazvin",
+      "alt_name:ku": "Qazwên"
+    }
+  },
+  {
+    "name": "Qena",
+    "country": "Egypt",
+    "latitude": 26.16150510014774,
+    "longitude": 32.7182974,
+    "other_names": {
+      "name": "قنا",
+      "name:ar": "قنا",
+      "name:en": "Qena",
+      "name:eo": "Kina",
+      "name:es": "Quena",
+      "name:et": "Qinā",
+      "name:fi": "Qina",
+      "name:fr": "Qena",
+      "name:he": "קינא",
+      "name:hi": "कीना",
+      "name:hu": "Kena",
+      "name:ko": "케나",
+      "name:pl": "Kina",
+      "name:ru": "Кена",
+      "int_name": "Qena"
+    }
+  },
+  {
+    "name": "Qi",
+    "country": "China",
+    "latitude": 37.35724009989418,
+    "longitude": 112.3188663,
+    "other_names": {
+      "name": "祁县",
+      "name:en": "Qi",
+      "name:ja": "祁県",
+      "name:vi": "Kỳ",
+      "name:zh": "祁县",
+      "alt_name": "祁;Zhaoyu;Qi Xian;Qi County",
+      "alt_name:vi": "Kì",
+      "name:zh-Hant": "祁縣"
+    }
+  },
+  {
+    "name": "Qian'an",
+    "country": "China",
+    "latitude": 39.99784160026701,
+    "longitude": 118.6950885,
+    "other_names": {
+      "name": "迁安市",
+      "name:de": "Qian'an",
+      "name:en": "Qian'an",
+      "name:fr": "Qian'an",
+      "name:ja": "遷安市",
+      "name:vi": "Thiên An",
+      "name:zh": "迁安市",
+      "alt_name": "迁安;Qian'an City",
+      "name:zh-Hant": "遷安市",
+      "name:zh_pinyin": "Qiān'ān Shì"
+    }
+  },
+  {
+    "name": "Qian'an",
+    "country": "China",
+    "latitude": 44.99870490046838,
+    "longitude": 124.01740550000001,
+    "other_names": {
+      "name": "乾安县",
+      "name:en": "Qian'an",
+      "name:zh": "乾安县",
+      "alt_name": "乾安;Qian'an County",
+      "name:zh-Hant": "乾安縣",
+      "official_name": "乾安镇"
+    }
+  },
+  {
+    "name": "Qiandongnan",
+    "country": "China",
+    "latitude": 26.587088300102877,
+    "longitude": 107.97874799999998,
+    "other_names": {
+      "name": "黔东南州",
+      "name:en": "Qiandongnan",
+      "name:fr": "Préfecture autonome miao et dong de Qiandongnan",
+      "name:ru": "Цяньдуннань-Мяо-Дунский автономный округ",
+      "name:vi": "Châu tự trị dân tộc Miêu, dân tộc Đồng Kiềm Đông Nam",
+      "name:zh": "黔东南",
+      "alt_name": "黔东南苗族侗族自治州;Ch'ien-tung-nan-miao-tsu-t'ung-tsu Tzu-chih-chou;Ch'ien-tung-nan Miao and T'ung Autonomous Chou;Southeast Kweichow Miao-T'ung Autonomous District;Qiandongnan Miaozu Dongzu Zizhizhou",
+      "short_name": "黔东南州",
+      "alt_name:en": "S.E. Qian Prefecture;Southeast Qian Autonomous Prefecture of Miao and Dong",
+      "name:zh-Hant": "黔東南州",
+      "official_name": "黔东南苗族侗族自治州",
+      "name:zh_pinyin": "Qiandongnan Miaozu Dongzu Zizhizhou"
+    }
+  },
+  {
+    "name": "Qianfeng",
+    "country": "China",
+    "latitude": 30.478330099699313,
+    "longitude": 106.6614892,
+    "other_names": {
+      "name": "前锋区",
+      "name:en": "Qianfeng",
+      "name:zh": "前锋区",
+      "alt_name": "前锋;Qianfeng District",
+      "name:zh-Hant": "前鋒區"
+    }
+  },
+  {
+    "name": "Qian Gorlos",
+    "country": "China",
+    "latitude": 45.114060200456954,
+    "longitude": 124.84707949999999,
+    "other_names": {
+      "name": "前郭县",
+      "name:en": "Qian Gorlos",
+      "name:vi": "Qian Gorlos",
+      "name:zh": "前郭县",
+      "alt_name": "前郭尔罗斯",
+      "short_name": "前郭尔罗斯县;前郭县",
+      "alt_name:vi": "Tiền Quách Nhĩ La Tư",
+      "name:zh-Hant": "前郭縣",
+      "official_name": "前郭尔罗斯镇",
+      "name:zh_pinyin": "qiánguōěrluósī zhèn"
+    }
+  },
+  {
+    "name": "Qianjiang",
+    "country": "China",
+    "latitude": 30.404982599705185,
+    "longitude": 112.8940372,
+    "other_names": {
+      "name": "潜江市",
+      "name:de": "Qianjiang",
+      "name:en": "Qianjiang",
+      "name:fr": "Qianjiang",
+      "name:ja": "潜江市",
+      "name:vi": "Tiềm Giang",
+      "name:zh": "潜江市",
+      "name:zh-Hant": "潛江市",
+      "name:zh_pinyin": "Qiánjiāng Shì"
+    }
+  }
+]

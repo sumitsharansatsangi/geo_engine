@@ -16,8 +16,11 @@ mod district_data;
 mod subdistrict_db;
 use district_data::{find_district_profile, load_district_profiles};
 use subdistrict_db::{
-    Country, GeoDB, SubdistrictFeature, encode_subdistrict_payload, short_code, short_code_str,
+    Country, GeoDB, SubdistrictFeature, encode_languages, short_code, short_code_str,
 };
+#[path = "../engine/subdistrict_meta.rs"]
+mod subdistrict_meta;
+use subdistrict_meta::{SubdistrictMeta, SubdistrictMetaEntry};
 
 #[derive(Debug)]
 struct DbfRecord {
@@ -126,6 +129,8 @@ pub fn run() -> Result<(), Box<dyn Error>> {
         .unwrap_or_else(|_| "/Users/amitsharan/Downloads/91/SUBDISTRICT_BOUNDARY.dbf".to_string());
     let output_path = env::var("SUBDISTRICT_OUTPUT_PATH")
         .unwrap_or_else(|_| "/Users/amitsharan/rustProject/geo_engine/subdistrict.db".to_string());
+    let meta_output_path = env::var("SUBDISTRICT_META_OUTPUT_PATH")
+        .unwrap_or_else(|_| default_meta_output_path(&output_path));
     let data_csv_path = env::var("DISTRICT_DATA_CSV_PATH")
         .or_else(|_| env::var("DATA_CSV_PATH"))
         .unwrap_or_else(|_| "data.csv".to_string());
@@ -172,6 +177,8 @@ pub fn run() -> Result<(), Box<dyn Error>> {
     let mut subdistricts: HashMap<SubdistrictKey, SubdistrictFeature> =
         HashMap::with_capacity(8192);
     let mut partition_paths: Vec<PathBuf> = Vec::new();
+    let mut metadata_pool = StringPool::new();
+    let mut metadata_entries: Vec<SubdistrictMetaEntry> = Vec::new();
     let mut total_input_vertices = 0usize;
     let mut total_output_vertices = 0usize;
     let mut record_index = 0usize;
@@ -216,15 +223,13 @@ pub fn run() -> Result<(), Box<dyn Error>> {
                     let demographics = district_profiles.as_ref().and_then(|profiles| {
                         find_district_profile(profiles, &record.district_code, &record.district)
                     });
-                    encode_subdistrict_payload(
-                        &record.subdistrict,
-                        &record.district,
-                        &record.state,
-                        &record.subdistrict_code,
-                        &record.district_code,
-                        &record.state_code,
+                    let meta_id = intern_subdistrict_metadata(
+                        &mut metadata_pool,
+                        &mut metadata_entries,
+                        &record,
                         demographics,
-                    )
+                    );
+                    subdistrict_meta_key(meta_id)
                 },
                 code: short_code(&record.subdistrict),
                 polygons: Vec::new(),
@@ -299,7 +304,21 @@ pub fn run() -> Result<(), Box<dyn Error>> {
     };
     fs::write(&output_path, &output_bytes)?;
 
+    let metadata = SubdistrictMeta {
+        strings: metadata_pool.into_vec(),
+        entries: metadata_entries,
+    };
+    let metadata_bytes = to_bytes::<RkyvError>(&metadata)?;
+    let compressed_metadata = zstd::stream::encode_all(&metadata_bytes[..], zstd_level)?;
+    let metadata_output_bytes = if compressed_metadata.len() < metadata_bytes.len() {
+        compressed_metadata
+    } else {
+        metadata_bytes.to_vec()
+    };
+    fs::write(&meta_output_path, &metadata_output_bytes)?;
+
     println!("✅ wrote {output_path}");
+    println!("✅ wrote {meta_output_path}");
     println!(
         "ℹ️ vertex reduction: {} -> {} ({:.1}% kept)",
         total_input_vertices,
@@ -330,6 +349,11 @@ pub fn run() -> Result<(), Box<dyn Error>> {
         bytes.len(),
         output_bytes.len()
     );
+    println!(
+        "ℹ️ metadata size: raw={} bytes, written={} bytes",
+        metadata_bytes.len(),
+        metadata_output_bytes.len()
+    );
     Ok(())
 }
 
@@ -340,6 +364,77 @@ fn main() -> Result<(), Box<dyn Error>> {
 
 fn quantize_coord(value: f32, scale: f32) -> f32 {
     (value * scale).round() / scale
+}
+
+fn default_meta_output_path(output_path: &str) -> String {
+    let path = Path::new(output_path);
+    let parent = path.parent().unwrap_or_else(|| Path::new("."));
+    let stem = path
+        .file_stem()
+        .and_then(|value| value.to_str())
+        .unwrap_or("subdistrict");
+    parent.join(format!("{stem}.meta")).display().to_string()
+}
+
+fn subdistrict_meta_key(meta_id: u32) -> String {
+    format!("sdm:{meta_id}")
+}
+
+fn intern_subdistrict_metadata(
+    pool: &mut StringPool,
+    entries: &mut Vec<SubdistrictMetaEntry>,
+    record: &DbfRecord,
+    demographics: Option<&district_data::DistrictProfile>,
+) -> u32 {
+    let district_uni_code = demographics.map(|profile| pool.intern(&profile.district_code));
+    let major_religion = demographics.map(|profile| pool.intern(&profile.major_religion));
+    let languages_blob = demographics.map(|profile| pool.intern(&encode_languages(profile)));
+
+    let entry = SubdistrictMetaEntry {
+        subdistrict_name_id: pool.intern(&record.subdistrict),
+        district_name_id: pool.intern(&record.district),
+        state_name_id: pool.intern(&record.state),
+        subdistrict_code_id: pool.intern(&record.subdistrict_code),
+        district_code_id: pool.intern(&record.district_code),
+        state_code_id: pool.intern(&record.state_code),
+        district_uni_code_id: district_uni_code,
+        major_religion_id: major_religion,
+        languages_blob_id: languages_blob,
+    };
+
+    let meta_id = entries.len() as u32;
+    entries.push(entry);
+    meta_id
+}
+
+struct StringPool {
+    index_by_value: HashMap<String, u32>,
+    values: Vec<String>,
+}
+
+impl StringPool {
+    fn new() -> Self {
+        Self {
+            index_by_value: HashMap::new(),
+            values: Vec::new(),
+        }
+    }
+
+    fn intern(&mut self, value: &str) -> u32 {
+        if let Some(id) = self.index_by_value.get(value) {
+            return *id;
+        }
+
+        let id = self.values.len() as u32;
+        let owned = value.to_string();
+        self.values.push(owned.clone());
+        self.index_by_value.insert(owned, id);
+        id
+    }
+
+    fn into_vec(self) -> Vec<String> {
+        self.values
+    }
 }
 
 struct DbfReader {

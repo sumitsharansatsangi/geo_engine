@@ -1,0 +1,321 @@
+[
+  {
+    "name": "Dien Bien Phu",
+    "country": "Vietnam",
+    "latitude": 21.387489300409268,
+    "longitude": 103.0185,
+    "other_names": {
+      "name": "Điện Biên Phủ",
+      "name:en": "Dien Bien Phu",
+      "name:fr": "Dien Bien Phu",
+      "name:ja": "ディエンビエンフー",
+      "name:ko": "디엔비엔푸",
+      "name:ru": "Дьенбьенфу",
+      "name:vi": "Điện Biên Phủ",
+      "short_name": "ĐBP",
+      "alt_name:en": "Dienbienphu",
+      "name:vi-Hani": "奠邊府",
+      "name:zh-Hans": "奠边府",
+      "name:zh-Hant": "奠邊府",
+      "short_name:vi": "ĐBP"
+    }
+  },
+  {
+    "name": "Dieppe",
+    "country": "Canada",
+    "latitude": 46.09452580032759,
+    "longitude": -64.7354772,
+    "other_names": {
+      "name": "Dieppe"
+    }
+  },
+  {
+    "name": "Diffa",
+    "country": "Niger",
+    "latitude": 13.313074899712914,
+    "longitude": 12.613661099999998,
+    "other_names": {
+      "name": "Diffa",
+      "name:ar": "ديفا",
+      "name:fr": "Diffa",
+      "name:ha": "Diffa",
+      "name:ja": "ディファ",
+      "name:ko": "디파",
+      "name:lt": "Difa",
+      "name:nl": "Diffa",
+      "name:ru": "Диффа",
+      "name:sr": "Дифа",
+      "name:uk": "Діффа"
+    }
+  },
+  {
+    "name": "Digos",
+    "country": "Philippines",
+    "latitude": 6.744379699413111,
+    "longitude": 125.35562649999999,
+    "other_names": {
+      "name": "Digos",
+      "name:ja": "ディゴス",
+      "name:zh": "狄高斯"
+    }
+  },
+  {
+    "name": "Dijon",
+    "country": "France",
+    "latitude": 47.32158060009313,
+    "longitude": 5.041470099999999,
+    "other_names": {
+      "name": "Dijon",
+      "name:ar": "ديجون",
+      "name:be": "Дыжон",
+      "name:br": "Dijoñ",
+      "name:de": "Dijon",
+      "name:el": "Ντιζόν",
+      "name:eo": "Diĵono",
+      "name:fr": "Dijon",
+      "name:hu": "Dijon",
+      "name:it": "Digione",
+      "name:ja": "ディジョン",
+      "name:km": "ឌីហ្សុង",
+      "name:kn": "ಡೀಝೋನ್",
+      "name:la": "Divio",
+      "name:lt": "Dižonas",
+      "name:oc": "Dijon",
+      "name:ru": "Дижон",
+      "name:sr": "Дижон",
+      "name:th": "ดีฌง",
+      "name:uk": "Діжон",
+      "name:zh": "第戎",
+      "alt_name:ar": "دجون",
+      "old_name:de": "Dision"
+    }
+  },
+  {
+    "name": "Dik Mareeng",
+    "country": "South Sudan",
+    "latitude": 6.988221678187143,
+    "longitude": 32.51585608710423,
+    "other_names": {
+      "name": "Dik Mareeng"
+    }
+  },
+  {
+    "name": "Dili",
+    "country": "Indonesia",
+    "latitude": -8.553680899796905,
+    "longitude": 125.57840930000002,
+    "other_names": {
+      "name": "Dili",
+      "name:ar": "ديلي",
+      "name:bn": "দিলি",
+      "name:en": "Dili",
+      "name:es": "Dili",
+      "name:fr": "Dili",
+      "name:hu": "Dili",
+      "name:ja": "ディリ",
+      "name:kn": "ಡಿಲಿ",
+      "name:lt": "Dilis",
+      "name:pl": "Dili",
+      "name:pt": "Díli",
+      "name:ru": "Дили",
+      "name:sk": "Dili",
+      "name:sv": "Dili",
+      "name:ta": "டிலி",
+      "name:uk": "Ділі",
+      "name:zh": "帝力"
+    }
+  },
+  {
+    "name": "Dilla",
+    "country": "Ethiopia",
+    "latitude": 6.409961399425759,
+    "longitude": 38.3102763,
+    "other_names": {
+      "name": "ዲላ / Dilla",
+      "name:am": "ዲላ",
+      "name:en": "Dilla",
+      "name:fr": "Dila",
+      "name:ru": "Дилла"
+    }
+  },
+  {
+    "name": "Dilling",
+    "country": "Sudan",
+    "latitude": 12.031583099583267,
+    "longitude": 29.651664900000004,
+    "other_names": {
+      "name": "الدلنج",
+      "name:ar": "الدانج",
+      "name:en": "Dilling",
+      "name:fr": "Dalang",
+      "alt_name": "Ad Dalanj;Dilling",
+      "alt_name:ar": "الدلنج;دلّنغ"
+    }
+  },
+  {
+    "name": "Dilolo",
+    "country": "Angola",
+    "latitude": -10.686639299980513,
+    "longitude": 22.343520999999996,
+    "other_names": {
+      "name": "Dilolo",
+      "name:ru": "Дилоло"
+    }
+  },
+  {
+    "name": "Dilolo",
+    "country": "Congo Democratic Republic",
+    "latitude": -10.686639299980513,
+    "longitude": 22.343520999999996,
+    "other_names": {
+      "name": "Dilolo",
+      "name:ru": "Дилоло"
+    }
+  },
+  {
+    "name": "Dimapur",
+    "country": "India",
+    "latitude": 25.913645900172934,
+    "longitude": 93.7283456,
+    "other_names": {
+      "name": "Dimapur",
+      "name:he": "דימאפור",
+      "name:hi": "दीमापुर"
+    }
+  },
+  {
+    "name": "Dimbi",
+    "country": "Central African Republic",
+    "latitude": 4.622708399535212,
+    "longitude": 21.726798399999996,
+    "other_names": {
+      "name": "Dimbi"
+    }
+  },
+  {
+    "name": "Dimitrovgrad",
+    "country": "Russia",
+    "latitude": 54.21617814456991,
+    "longitude": 49.598997940901704,
+    "other_names": {
+      "name": "Димитровград",
+      "name:en": "Dimitrovgrad",
+      "name:ja": "ディミトロフグラード"
+    }
+  },
+  {
+    "name": "Dimitrovgrad",
+    "country": "Russia",
+    "latitude": 54.21889949922465,
+    "longitude": 49.603898199999996,
+    "other_names": {
+      "name": "Димитровград",
+      "name:de": "Dimitrowgrad",
+      "name:en": "Dimitrovgrad",
+      "name:et": "Dimitrovgrad",
+      "name:fr": "Dimitrovgrad",
+      "name:ja": "ディミトロフグラード",
+      "name:ko": "디미트로브그라드",
+      "name:pl": "Dimitrowgrad",
+      "name:ru": "Димитровград",
+      "name:uk": "Димитровград",
+      "old_name:cv": "Мелеккес"
+    }
+  },
+  {
+    "name": "Dimona",
+    "country": "Israel And Palestine",
+    "latitude": 31.068661199656617,
+    "longitude": 35.0366482,
+    "other_names": {
+      "name": "דימונה",
+      "name:ar": "ديمونة",
+      "name:cs": "Dimona",
+      "name:en": "Dimona",
+      "name:fr": "Dimona",
+      "name:he": "דימונה",
+      "name:hi": "डिमोना",
+      "name:ru": "Димона"
+    }
+  },
+  {
+    "name": "Dindigul",
+    "country": "India",
+    "latitude": 10.36564599945751,
+    "longitude": 77.9693256,
+    "other_names": {
+      "name": "Dindigul",
+      "name:en": "Dindigul",
+      "name:hi": "डिंडिगुल",
+      "name:ja": "ディンディーグル",
+      "name:kn": "ಡಿಂಡಿಗುಲ",
+      "name:ml": "ദിണ്ടിഗൽ",
+      "name:pa": "ਡਿੰਡੀਗੁਲ",
+      "name:ru": "Диндигул",
+      "name:sr": "Диндигул",
+      "name:ta": "திண்டுக்கல்",
+      "name:zh": "丁迪古尔"
+    }
+  },
+  {
+    "name": "Ding'an County",
+    "country": "China",
+    "latitude": 19.68299280035671,
+    "longitude": 110.3544716,
+    "other_names": {
+      "name": "定安县",
+      "name:da": "Ding'an",
+      "name:de": "Ding’an",
+      "name:en": "Ding'an County",
+      "name:es": "Ding'an",
+      "name:eu": "Ding'an",
+      "name:fa": "شهرستان دینگان",
+      "name:fr": "Xian de Ding'an",
+      "name:it": "Contea di Ding'an",
+      "name:ja": "定安県",
+      "name:ko": "딩안현",
+      "name:nl": "Ding'an",
+      "name:no": "Ding'an",
+      "name:pl": "Ding’an",
+      "name:sv": "Ding'an",
+      "name:ur": "دینگآن کاؤنٹی",
+      "name:vi": "Định An",
+      "name:zh": "定安县",
+      "name:ceb": "Ding'an Xian",
+      "name:nan": "Tēng-an-koān",
+      "name:yue": "定安",
+      "name:zh-Hant": "定安縣",
+      "name:zh_pinyin": "Dìng'ān Xiàn"
+    }
+  },
+  {
+    "name": "Dingbian",
+    "country": "China",
+    "latitude": 37.59284129992567,
+    "longitude": 107.59152879999999,
+    "other_names": {
+      "name": "定边县",
+      "name:en": "Dingbian",
+      "name:ja": "定辺県",
+      "name:ru": "Динбянь",
+      "name:zh": "定边县",
+      "alt_name": "定边;定边镇",
+      "name:zh-Hant": "定邊縣"
+    }
+  },
+  {
+    "name": "Dingcheng",
+    "country": "China",
+    "latitude": 29.021794299835154,
+    "longitude": 111.676452,
+    "other_names": {
+      "name": "鼎城区",
+      "name:en": "Dingcheng",
+      "name:vi": "Đỉnh Thành",
+      "name:zh": "鼎城区",
+      "alt_name": "鼎城;Dingcheng District",
+      "name:zh-Hant": "鼎城區",
+      "name:zh_pinyin": "dǐngchéng qū"
+    }
+  }
+]

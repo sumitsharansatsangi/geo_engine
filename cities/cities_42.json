@@ -1,0 +1,289 @@
+[
+  {
+    "name": "Barrie",
+    "country": "Canada",
+    "latitude": 44.389311300514954,
+    "longitude": -79.6901736,
+    "other_names": {
+      "name": "Barrie",
+      "name:en": "Barrie",
+      "name:ru": "Барри",
+      "name:uk": "Беррі",
+      "official_name": "City of Barrie"
+    }
+  },
+  {
+    "name": "Barros Blancos",
+    "country": "Uruguay",
+    "latitude": -34.75202259983685,
+    "longitude": -56.0002807,
+    "other_names": {
+      "name": "Barros Blancos",
+      "old_name": "Juan Antonio Artigas"
+    }
+  },
+  {
+    "name": "Barshi",
+    "country": "India",
+    "latitude": 18.23411080025456,
+    "longitude": 75.68751089999999,
+    "other_names": {
+      "name": "Barshi",
+      "name:ar": "بارسي",
+      "name:hi": "बार्शी",
+      "name:kn": "ಭಾರ್ಶಿ",
+      "name:mr": "बार्शी",
+      "name:ur": "بارسی"
+    }
+  },
+  {
+    "name": "Bartazuga, the capital",
+    "country": "Sudan",
+    "latitude": 21.818031200409724,
+    "longitude": 33.6655494,
+    "other_names": {
+      "name": "بارتازوجا,العاصمّة",
+      "name:en": "Bartazuga, the capital",
+      "name:es": "Bartazuga, la capital",
+      "name:fr": "Bartazuga, la capitale"
+    }
+  },
+  {
+    "name": "Bartın",
+    "country": "Turkey",
+    "latitude": 41.633839400456225,
+    "longitude": 32.3384354,
+    "other_names": {
+      "name": "Bartın",
+      "name:ar": "بارتين",
+      "name:el": "Παρθένιον;Παρθενίου",
+      "name:hu": "Bartın",
+      "name:ru": "Бартын",
+      "name:tr": "Bartın"
+    }
+  },
+  {
+    "name": "Bartlesville",
+    "country": "United States Of America",
+    "latitude": 36.74948639981774,
+    "longitude": -95.97829659999998,
+    "other_names": {
+      "name": "Bartlesville",
+      "name:ru": "Бартсвилл"
+    }
+  },
+  {
+    "name": "Barueri",
+    "country": "Brazil",
+    "latitude": -23.511218399995588,
+    "longitude": -46.8764612,
+    "other_names": {
+      "name": "Barueri"
+    }
+  },
+  {
+    "name": "Baruipur",
+    "country": "India",
+    "latitude": 22.365443200402694,
+    "longitude": 88.4325028,
+    "other_names": {
+      "name": "Baruipur",
+      "name:bn": "বারুইপুর",
+      "name:hi": "बारुईपुर"
+    }
+  },
+  {
+    "name": "Baruun-Urt",
+    "country": "Mongolia",
+    "latitude": 46.681806839294154,
+    "longitude": 113.28288980582371,
+    "other_names": {
+      "name": "Баруун-Урт",
+      "name:en": "Baruun-Urt",
+      "name:ja": "バローン・オルト",
+      "name:ru": "Баруун-Урт"
+    }
+  },
+  {
+    "name": "Baruun-Urt",
+    "country": "Mongolia",
+    "latitude": 46.6807672002245,
+    "longitude": 113.28455249999999,
+    "other_names": {
+      "name": "Баруун-Урт",
+      "name:ar": "بارون-اورت",
+      "name:de": "Baruun-Urt",
+      "name:en": "Baruun-Urt",
+      "name:es": "Baruun-Urt",
+      "name:fr": "Baruun-Urt",
+      "name:ja": "バローン・オルト",
+      "name:lt": "Barun Urtas",
+      "name:mn": "Баруун-Урт",
+      "name:ru": "Баруун-Урт",
+      "name:mn-mong": "ᠪᠠᠷᠠᠭᠤᠨ ᠤᠷᠲᠤ"
+    }
+  },
+  {
+    "name": "Barysaw",
+    "country": "Belarus",
+    "latitude": 54.22406649922567,
+    "longitude": 28.5117849,
+    "other_names": {
+      "name": "Борисов",
+      "name:be": "Барысаў",
+      "name:de": "Baryssau",
+      "name:en": "Barysaw",
+      "name:eo": "Borisov",
+      "name:es": "Borisov",
+      "name:et": "Barõssav",
+      "name:fr": "Borissov",
+      "name:lt": "Barysavas",
+      "name:nl": "Borisov",
+      "name:pl": "Borysów",
+      "name:ru": "Борисов",
+      "name:uk": "Барисав",
+      "int_name": "Barysaŭ",
+      "alt_name:eo": "Barisaŭ",
+      "old_name:uk": "Борисов",
+      "name:be-tarask": "Барысаў"
+    }
+  },
+  {
+    "name": "Basankusu",
+    "country": "Congo Democratic Republic",
+    "latitude": 1.219168299870848,
+    "longitude": 19.801369699999995,
+    "other_names": {
+      "name": "Basankusu"
+    }
+  },
+  {
+    "name": "Basel",
+    "country": "Switzerland",
+    "latitude": 47.55810770004055,
+    "longitude": 7.587826099999999,
+    "other_names": {
+      "name": "Basel",
+      "name:ar": "بازل",
+      "name:be": "Базэль",
+      "name:ca": "Basilea",
+      "name:cs": "Basilej",
+      "name:de": "Basel",
+      "name:en": "Basel",
+      "name:es": "Basilea",
+      "name:fr": "Bâle",
+      "name:hu": "Bázel",
+      "name:it": "Basilea",
+      "name:la": "Basilea",
+      "name:nl": "Bazel",
+      "name:pl": "Bazylea",
+      "name:ru": "Базель",
+      "name:sk": "Bazilej",
+      "name:sr": "Базел",
+      "name:uk": "Базель",
+      "name:gsw": "Basel"
+    }
+  },
+  {
+    "name": "Basirhat",
+    "country": "India",
+    "latitude": 22.661196200395374,
+    "longitude": 88.8660215,
+    "other_names": {
+      "name": "Basirhat",
+      "name:bn": "বসিরহাট"
+    }
+  },
+  {
+    "name": "Basoko",
+    "country": "Congo Democratic Republic",
+    "latitude": 1.2324947998694091,
+    "longitude": 23.6056967,
+    "other_names": {
+      "name": "Basoko"
+    }
+  },
+  {
+    "name": "Basra",
+    "country": "Iraq",
+    "latitude": 30.495237099697967,
+    "longitude": 47.8090981,
+    "other_names": {
+      "name": "البصرة",
+      "name:ar": "بصرة",
+      "name:cs": "Basra",
+      "name:de": "Basra",
+      "name:en": "Basra",
+      "name:es": "Basora",
+      "name:et": "Basra",
+      "name:fi": "Basra",
+      "name:fr": "Bassorah",
+      "name:he": "בצרה",
+      "name:hi": "बसरा",
+      "name:hu": "Baszra",
+      "name:it": "Bàssora",
+      "name:ja": "バスラ",
+      "name:ku": "Besre",
+      "name:ml": "ബസ്രാ",
+      "name:pl": "Basra",
+      "name:pt": "Baçorá",
+      "name:ru": "Басра",
+      "name:uk": "Басра",
+      "int_name": "Al- Basrah - البصرة",
+      "alt_name:en": "Al Basrah"
+    }
+  },
+  {
+    "name": "Basti",
+    "country": "India",
+    "latitude": 26.789557900080943,
+    "longitude": 82.7231355,
+    "other_names": {
+      "name": "Basti",
+      "name:hi": "बस्ती",
+      "name:ta": "பஸ்தி"
+    }
+  },
+  {
+    "name": "Bata",
+    "country": "Equatorial Guinea",
+    "latitude": 1.865089699801177,
+    "longitude": 9.768664999999999,
+    "other_names": {
+      "name": "Bata",
+      "name:ar": "باتا",
+      "name:en": "Bata",
+      "name:hu": "Bata",
+      "name:ko": "바타",
+      "name:ru": "Бата",
+      "name:uk": "Бата",
+      "name:zh": "巴塔",
+      "name:zh-Hans": "巴塔"
+    }
+  },
+  {
+    "name": "Batac",
+    "country": "Philippines",
+    "latitude": 18.055503500238892,
+    "longitude": 120.5645243,
+    "other_names": {
+      "name": "Batac",
+      "name:ja": "バタック"
+    }
+  },
+  {
+    "name": "Batala",
+    "country": "India",
+    "latitude": 31.81930249961588,
+    "longitude": 75.1999941,
+    "other_names": {
+      "name": "Batala",
+      "name:ar": "بتالا",
+      "name:fa": "باتالا",
+      "name:hi": "बटाला",
+      "name:kn": "ಬಟಾಲಾ",
+      "name:ur": "بٹالہ",
+      "name:pnb": "بٹالا"
+    }
+  }
+]

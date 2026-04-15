@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Anzhou",
+    "country": "China",
+    "latitude": 41.31028980042528,
+    "longitude": 117.7253523,
+    "other_names": {
+      "name": "隆化县",
+      "name:en": "Anzhou",
+      "name:zh": "隆化县",
+      "alt_name": "Anzhou Subdistrict;安州;隆化",
+      "name:zh-Hant": "隆化縣",
+      "official_name": "安州街道",
+      "name:zh_pinyin": "ānzhōu jiēdào"
+    }
+  },
+  {
+    "name": "Anzhou",
+    "country": "China",
+    "latitude": 31.544136899628914,
+    "longitude": 104.5574522,
+    "other_names": {
+      "name": "安州区",
+      "name:en": "Anzhou",
+      "name:zh": "安州区",
+      "alt_name": "安州",
+      "old_name": "安县;安;Anzhou District;An County;An",
+      "name:zh-Hant": "安州區"
+    }
+  },
+  {
+    "name": "Aohan",
+    "country": "China",
+    "latitude": 42.28479170050556,
+    "longitude": 119.90329060000002,
+    "other_names": {
+      "name": "敖汉旗",
+      "name:en": "Aohan",
+      "name:ja": "敖漢旗",
+      "name:mn": "ауқан қосиу",
+      "name:ru": "Синьхой",
+      "name:zh": "敖汉旗",
+      "alt_name": "敖汉;Aohan Banner;Ao-han Ch'i;Aohan Qi;Aokhan",
+      "alt_name:mn": "ᠠᠤᠬᠠᠨ ᠬᠣᠰᠢᠭᠤ;Auqan qosiɣu",
+      "name:zh-Hant": "敖漢旗",
+      "name:zh_pinyin": "Áohàn Qí"
+    }
+  },
+  {
+    "name": "Aomori",
+    "country": "Japan",
+    "latitude": 40.8221517003718,
+    "longitude": 140.7471238,
+    "other_names": {
+      "name": "青森市",
+      "name:ar": "آوموري، آوموري",
+      "name:cs": "Aomori",
+      "name:de": "Aomori",
+      "name:en": "Aomori",
+      "name:es": "Aomori",
+      "name:et": "Aomori",
+      "name:fr": "Aomori",
+      "name:it": "Aomori",
+      "name:ja": "青森市",
+      "name:ko": "아오모리시",
+      "name:lt": "Aomoris",
+      "name:pl": "Aomori",
+      "name:ru": "Аомори",
+      "name:sr": "Аомори",
+      "name:uk": "Аоморі",
+      "int_name": "Aomori",
+      "name:ja-Latn": "Aomori-shi",
+      "name:ja_kana": "あおもりし"
+    }
+  },
+  {
+    "name": "Aosta",
+    "country": "Italy",
+    "latitude": 45.7370885003813,
+    "longitude": 7.3196649,
+    "other_names": {
+      "name": "Aosta - Aoste",
+      "name:ar": "أوستا",
+      "name:ca": "Aosta",
+      "name:el": "Αόστα",
+      "name:en": "Aosta",
+      "name:fa": "ائوستا",
+      "name:fr": "Aoste",
+      "name:it": "Aosta",
+      "name:ru": "Аоста",
+      "name:uk": "Аоста",
+      "name:zh": "奥斯塔",
+      "name:pms": "Osta"
+    }
+  },
+  {
+    "name": "Aparecida de Goiânia",
+    "country": "Brazil",
+    "latitude": -16.82267690046544,
+    "longitude": -49.245254599999996,
+    "other_names": {
+      "name": "Aparecida de Goiânia",
+      "name:bg": "Апаресида ди Гояния",
+      "name:ja": "アパレシダ・デ・ゴイアニア",
+      "name:ka": "აპარესიდა-დე-გოიანია",
+      "name:kk": "Апаресида-ди-Гояния",
+      "name:ko": "아파레시다지고이아니아",
+      "name:lt": "Aparesida de Gojanija",
+      "name:mk": "Апаресида де Гојанија",
+      "name:pt": "Aparecida de Goiânia",
+      "name:ru": "Апаресида-ди-Гояния",
+      "name:zh": "阿帕雷西達迪戈亞尼亞",
+      "loc_name": "Aparecida"
+    }
+  },
+  {
+    "name": "Apartadó",
+    "country": "Colombia",
+    "latitude": 7.8849010993908255,
+    "longitude": -76.62274609999999,
+    "other_names": {
+      "name": "Apartadó",
+      "name:ru": "Апартадо"
+    }
+  },
+  {
+    "name": "Apastepeque",
+    "country": "El Salvador",
+    "latitude": 13.667922299752306,
+    "longitude": -88.7796213,
+    "other_names": {
+      "name": "Apastepeque"
+    }
+  },
+  {
+    "name": "Apatzingán",
+    "country": "Mexico",
+    "latitude": 19.09137920032074,
+    "longitude": -102.35373559999998,
+    "other_names": {
+      "name": "Apatzingán",
+      "alt_name": "Apatzingán de la Constitución"
+    }
+  },
+  {
+    "name": "Apeldoorn",
+    "country": "Netherlands",
+    "latitude": 52.21564569910145,
+    "longitude": 5.963948499999999,
+    "other_names": {
+      "name": "Apeldoorn",
+      "name:de": "Appeldorn",
+      "name:eo": "Apeldorno",
+      "name:fy": "Apeldoarn",
+      "name:la": "Appoldro",
+      "name:nl": "Apeldoorn",
+      "name:ru": "Апелдорн",
+      "name:sr": "Апелдорн",
+      "name:nds": "Apeldoorne",
+      "name:nds-nl": "Apeldoorne",
+      "name:zh-Hans": "阿珀尔多伦",
+      "name:zh-Hant": "阿珀爾多倫",
+      "name:carnaval": "Knienenburg"
+    }
+  },
+  {
+    "name": "Apia",
+    "country": "Samoa",
+    "latitude": -13.834369100288493,
+    "longitude": -171.76927929999997,
+    "other_names": {
+      "name": "Apia",
+      "name:am": "አፒያ",
+      "name:ar": "أبيا",
+      "name:be": "Апія",
+      "name:bg": "Апия",
+      "name:bo": "ཨ་པི་ཡ།",
+      "name:el": "Απία",
+      "name:en": "Apia",
+      "name:eo": "Apio",
+      "name:fa": "آپیا",
+      "name:fr": "Apia",
+      "name:he": "אפיה",
+      "name:ht": "Apiya",
+      "name:hu": "Apia",
+      "name:ja": "アピア",
+      "name:ka": "აპია",
+      "name:ko": "아피아",
+      "name:lt": "Apija",
+      "name:lv": "Apija",
+      "name:mk": "Апија",
+      "name:ml": "അപിയ",
+      "name:mr": "आपिया",
+      "name:os": "Апиæ",
+      "name:pl": "Apia",
+      "name:ru": "Апиа",
+      "name:sr": "Апија",
+      "name:sv": "Apia",
+      "name:ta": "ஆப்பியா",
+      "name:th": "อาปีอา",
+      "name:uk": "Апіа",
+      "name:ur": "آپیا",
+      "name:zh": "阿皮亞",
+      "name:ckb": "ئەپیا",
+      "name:mrj": "Апиа",
+      "name:sah": "Апиа",
+      "name:be-tarask": "Апія"
+    }
+  },
+  {
+    "name": "Aplahoué",
+    "country": "Benin",
+    "latitude": 6.948924399406714,
+    "longitude": 1.7041012,
+    "other_names": {
+      "name": "Aplahoué",
+      "name:ar": "أبلاهوي",
+      "name:ru": "Аплахуэ",
+      "name:uk": "Аплахуе"
+    }
+  },
+  {
+    "name": "Apodaca",
+    "country": "Mexico",
+    "latitude": 25.781654200186022,
+    "longitude": -100.18875009999998,
+    "other_names": {
+      "name": "Apodaca"
+    }
+  },
+  {
+    "name": "Apopa",
+    "country": "El Salvador",
+    "latitude": 13.8013035997674,
+    "longitude": -89.17907839999998,
+    "other_names": {
+      "name": "Apopa",
+      "name:hu": "Apopa"
+    }
+  },
+  {
+    "name": "Appleton",
+    "country": "United States Of America",
+    "latitude": 44.261133700521825,
+    "longitude": -88.4067604,
+    "other_names": {
+      "name": "Appleton",
+      "name:ru": "Аплтон"
+    }
+  },
+  {
+    "name": "Apucarana",
+    "country": "Brazil",
+    "latitude": -23.5525326999897,
+    "longitude": -51.461076399999996,
+    "other_names": {
+      "name": "Apucarana",
+      "name:ru": "Апукарана"
+    }
+  },
+  {
+    "name": "Aqaba",
+    "country": "Jordan",
+    "latitude": 29.52670199978408,
+    "longitude": 35.007822,
+    "other_names": {
+      "name": "العقبة",
+      "name:ar": "العقبة",
+      "name:cs": "Akaba",
+      "name:da": "Akaba",
+      "name:de": "Akaba",
+      "name:el": "Άκαμπα",
+      "name:en": "Aqaba",
+      "name:et": "Al-‘Aqabah",
+      "name:fa": "عقبه",
+      "name:fr": "Aqaba",
+      "name:he": "עקבה",
+      "name:hi": "अक़बा",
+      "name:kn": "ಅಕಬ",
+      "name:ko": "아카바",
+      "name:ks": "عقبہ",
+      "name:ru": "Акаба",
+      "name:tr": "Akabe",
+      "name:ur": "عقبہ",
+      "name:azb": "عقبه",
+      "name:mzn": "عقبه",
+      "name:ota": "عقبه",
+      "name:pnb": "عقبہ",
+      "name:az-Arab": "عقبه",
+      "name:kk-Arab": "اكابا",
+      "name:zh-Hans": "亚喀巴",
+      "name:zh-Hant": "亞喀巴"
+    }
+  },
+  {
+    "name": "Aqaba",
+    "country": "Jordan",
+    "latitude": 29.548275283894746,
+    "longitude": 35.00834575988272,
+    "other_names": {
+      "name": "العقبة",
+      "name:ar": "العقبة",
+      "name:cs": "Akaba",
+      "name:de": "Akaba",
+      "name:el": "Άκαμπα",
+      "name:en": "Aqaba",
+      "name:fa": "عقبه",
+      "name:fr": "Aqaba",
+      "name:he": "עקבה",
+      "name:hi": "अक़ाबा",
+      "name:ks": "عقبہ",
+      "name:pl": "Akaba",
+      "name:ru": "Акаба",
+      "name:ur": "عقبہ",
+      "name:azb": "عقبه",
+      "name:mzn": "عقبه",
+      "name:ota": "عقبه",
+      "name:pnb": "عقبہ",
+      "name:az-Arab": "عقبه",
+      "name:kk-Arab": "اكابا"
+    }
+  },
+  {
+    "name": "Aqaba",
+    "country": "Israel And Palestine",
+    "latitude": 29.548275283894746,
+    "longitude": 35.00834575988272,
+    "other_names": {
+      "name": "العقبة",
+      "name:ar": "العقبة",
+      "name:cs": "Akaba",
+      "name:de": "Akaba",
+      "name:el": "Άκαμπα",
+      "name:en": "Aqaba",
+      "name:fa": "عقبه",
+      "name:fr": "Aqaba",
+      "name:he": "עקבה",
+      "name:hi": "अक़ाबा",
+      "name:ks": "عقبہ",
+      "name:pl": "Akaba",
+      "name:ru": "Акаба",
+      "name:ur": "عقبہ",
+      "name:azb": "عقبه",
+      "name:mzn": "عقبه",
+      "name:ota": "عقبه",
+      "name:pnb": "عقبہ",
+      "name:az-Arab": "عقبه",
+      "name:kk-Arab": "اكابا"
+    }
+  },
+  {
+    "name": "Aracaju",
+    "country": "Brazil",
+    "latitude": -10.91620610000309,
+    "longitude": -37.077465499999995,
+    "other_names": {
+      "name": "Aracaju",
+      "name:ar": "أراكاجو",
+      "name:be": "Аракажу",
+      "name:bg": "Аракажу",
+      "name:de": "Aracaju",
+      "name:en": "Aracaju",
+      "name:eo": "Arakaĵuo",
+      "name:fa": "آراکاجو",
+      "name:he": "אראקז'ו",
+      "name:hy": "Արակաժու",
+      "name:ja": "アラカジュ",
+      "name:ka": "არაკაჟუ",
+      "name:ko": "아라카주",
+      "name:lt": "Arakažu",
+      "name:lv": "Arakažu",
+      "name:mk": "Аракажу",
+      "name:mr": "अराकाहू",
+      "name:pl": "Aracaju",
+      "name:pt": "Aracaju",
+      "name:ru": "Аракажу",
+      "name:sh": "Arakažu",
+      "name:sr": "Аракажу",
+      "name:tg": "Аракажу",
+      "name:th": "อารากาจู",
+      "name:uk": "Аракажу",
+      "name:uz": "Arakaju",
+      "name:zh": "阿拉卡茹"
+    }
+  }
+]

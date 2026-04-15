@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Al Hillah",
+    "country": "Iraq",
+    "latitude": 32.482244999594286,
+    "longitude": 44.43281309999999,
+    "other_names": {
+      "name": "الحلة",
+      "name:ar": "الحلة",
+      "name:cs": "Hilla",
+      "name:de": "Hilla",
+      "name:en": "Al Hillah",
+      "name:es": "Al-Hillah",
+      "name:et": "Al-Ḩillah",
+      "name:fi": "Hilla",
+      "name:fr": "Hilla",
+      "name:ja": "ヒッラ",
+      "name:pl": "Al-Hilla",
+      "name:pt": "Al-Hillah",
+      "name:ru": "Хилла",
+      "name:uk": "Хілла",
+      "alt_name": "Al Hella, Al Ḩillah, Hilah, Hilla, Hillé, الحلة, Al Hella, Al Hillah, Hilah, Hilla, Hille, الحلة",
+      "int_name": "Al Hillah - الحلّة",
+      "name:ckb": "حلە"
+    }
+  },
+  {
+    "name": "Al Hoceima",
+    "country": "Morocco",
+    "latitude": 35.245113999669236,
+    "longitude": -3.9301860000000004,
+    "other_names": {
+      "name": "Al Hoceima ⵍⵃⵓⵙⵉⵎⴰ الحسيمة",
+      "name:ar": "الحسيمة",
+      "name:de": "Al Hoceima",
+      "name:en": "Al Hoceima",
+      "name:es": "Alhucemas",
+      "name:et": "Al Hoceïma",
+      "name:fr": "Al Hoceima",
+      "name:he": "אל חוסיימה",
+      "name:hi": "अल होसिमा",
+      "name:lt": "Hoseima",
+      "name:ru": "Эль-Хосейма",
+      "int_name": "Al Hoceima",
+      "name:ber": "ⵍⵃⵓⵙⵉⵎⴰ",
+      "name:kab": "Elḥusima",
+      "name:zgh": "ⵍⵃⵓⵙⵉⵎⴰ",
+      "old_name:es": "Villa Sanjurjo",
+      "name:zh-Hans": "胡塞马",
+      "name:zh-Hant": "胡塞馬"
+    }
+  },
+  {
+    "name": "Alicante",
+    "country": "Spain",
+    "latitude": 38.3436365000309,
+    "longitude": -0.48817080000000007,
+    "other_names": {
+      "name": "Alacant / Alicante",
+      "name:ar": "أليكانتي",
+      "name:be": "Алікантэ",
+      "name:ca": "Alacant",
+      "name:cs": "Alicante",
+      "name:de": "Alicante",
+      "name:el": "Αλικάντε",
+      "name:en": "Alicante",
+      "name:es": "Alicante",
+      "name:et": "Alicante",
+      "name:eu": "Alacant",
+      "name:fi": "Alicante",
+      "name:fr": "Alicante",
+      "name:gl": "Alacant",
+      "name:hu": "Alicante",
+      "name:it": "Alicante",
+      "name:nl": "Alicante",
+      "name:ro": "Alicante",
+      "name:ru": "Аликанте",
+      "name:sk": "Alicante",
+      "name:sr": "Аликанте",
+      "alt_name:gl": "Alacante",
+      "name:zh-Hans": "阿利坎特",
+      "name:zh-Hant": "阿利坎特",
+      "official_name": "Alacant / Alicante",
+      "official_name:ca": "Alacant",
+      "official_name:es": "Alicante"
+    }
+  },
+  {
+    "name": "Alice Springs",
+    "country": "Australia",
+    "latitude": -23.698388399968803,
+    "longitude": 133.8812885,
+    "other_names": {
+      "name": "Alice Springs",
+      "name:en": "Alice Springs",
+      "name:ja": "アリススプリングス",
+      "name:mk": "Алис Спрингс",
+      "name:ru": "Алис-Спрингс",
+      "name:uk": "Аліс-Спрінгс",
+      "name:zh": "艾利斯斯普林斯",
+      "alt_name:zh": "爱丽斯泉"
+    }
+  },
+  {
+    "name": "Aligarh",
+    "country": "India",
+    "latitude": 27.881541199959482,
+    "longitude": 78.0690216,
+    "other_names": {
+      "name": "Aligarh",
+      "name:de": "Aligarh",
+      "name:en": "Aligarh",
+      "name:es": "Aligarh",
+      "name:fr": "Aligarh",
+      "name:he": "אליגאר",
+      "name:hi": "अलीगढ़",
+      "name:ja": "アリーガル",
+      "name:kn": "ಅಲಿಘರ್",
+      "name:ml": "അലിഗഢ്",
+      "name:pa": "ਅਲੀਗੜ੍ਹ",
+      "name:ru": "Алигарх"
+    }
+  },
+  {
+    "name": "Al Ismailiya",
+    "country": "Egypt",
+    "latitude": 30.60437749968947,
+    "longitude": 32.2770825,
+    "other_names": {
+      "name": "الإسماعيلية",
+      "name:ar": "الإسماعيلية",
+      "name:de": "Al Ismailiya",
+      "name:en": "Al Ismailiya",
+      "name:eo": "Ismailija",
+      "name:es": "Ismailía",
+      "name:et": "Al-Ismā’īlīyah",
+      "name:fa": "اسماعیلیه",
+      "name:fr": "Al Ismailiya",
+      "name:hi": "इस्माइलिया",
+      "name:hu": "el-Iszmáilijja",
+      "name:nl": "Ismaïlia",
+      "name:pl": "Ismailia",
+      "name:ru": "Исмаилия",
+      "name:ur": "اسماعیلیہ",
+      "name:azb": "ایسماعیلیه",
+      "name:ckb": "ئیسماعیلیە",
+      "name:pnb": "اسماعیلیہ",
+      "alt_name:ar": "إسماعيلية",
+      "alt_name:en": "Al Ismā‘īlīya;Al Ismailiya"
+    }
+  },
+  {
+    "name": "Al Jabalayn",
+    "country": "Sudan",
+    "latitude": 12.59498669963744,
+    "longitude": 32.80883179999999,
+    "other_names": {
+      "name": "الجبلين",
+      "name:ar": "الجبلين",
+      "name:en": "Al Jabalayn",
+      "name:fr": "Al Jabalayn",
+      "name:it": "El Jebelein",
+      "alt_name": "Aj Jabalen;Al Jabalayn;El Jebelein;Jebelein",
+      "alt_name:en": "Aj Jabalen"
+    }
+  },
+  {
+    "name": "Al-Jerif West Al-Sheta",
+    "country": "Sudan",
+    "latitude": 15.560238920492099,
+    "longitude": 32.58830739184947,
+    "other_names": {
+      "name": "الجريف غرب",
+      "name:ar": "الجريف غرب",
+      "name:en": "Al-Jerif West Al-Sheta",
+      "name:fr": "Al-Jerif West Al-Sheta"
+    }
+  },
+  {
+    "name": "Al-Kaf",
+    "country": "Tunisia",
+    "latitude": 36.178449099753735,
+    "longitude": 8.707346999999999,
+    "other_names": {
+      "name": "الكاف",
+      "name:ar": "الكاف",
+      "name:de": "Al-Kaf",
+      "name:en": "Al-Kaf",
+      "name:fa": "الکاف",
+      "name:fr": "Le Kef",
+      "name:ks": "الکاف",
+      "name:ru": "Эль-Кеф",
+      "name:ur": "الکاف",
+      "name:azb": "الکاف"
+    }
+  },
+  {
+    "name": "alkamalia",
+    "country": "Sudan",
+    "latitude": 21.820322000409714,
+    "longitude": 33.64939179999999,
+    "other_names": {
+      "name": "الكمالية",
+      "name:en": "alkamalia",
+      "name:es": "alkamalia",
+      "name:fr": "Kamalia"
+    }
+  },
+  {
+    "name": "Alkmaar",
+    "country": "Netherlands",
+    "latitude": 52.6312591990851,
+    "longitude": 4.7503798,
+    "other_names": {
+      "name": "Alkmaar",
+      "name:ar": "ألكمار",
+      "name:en": "Alkmaar",
+      "name:eo": "Alkmaro",
+      "name:fa": "آلکمار",
+      "name:fy": "Alkmar",
+      "name:hu": "Alkmaar",
+      "name:la": "Alcmaria",
+      "name:lt": "Alkmaras",
+      "name:nl": "Alkmaar",
+      "name:pt": "Alkmaar",
+      "name:ru": "Алкмар",
+      "name:uk": "Алкмар",
+      "name:ur": "الکمار",
+      "name:zh": "阿尔克马尔",
+      "name:ckb": "ئەڵکمار"
+    }
+  },
+  {
+    "name": "Al Kufa",
+    "country": "Iraq",
+    "latitude": 32.03443999960732,
+    "longitude": 44.4031125,
+    "other_names": {
+      "name": "الكوفة",
+      "name:ar": "الكوفة",
+      "name:de": "Al Kufa",
+      "name:en": "Al Kufa",
+      "name:es": "Kufa",
+      "name:et": "Al-Kūfah",
+      "name:fr": "Koufa",
+      "name:ja": "クーファ",
+      "name:ku": "Kufe",
+      "name:ru": "Эль-Куфа",
+      "int_name": "Al Kufa - الكوفة"
+    }
+  },
+  {
+    "name": "Al-Kut",
+    "country": "Iraq",
+    "latitude": 32.50102739959387,
+    "longitude": 45.829633400000006,
+    "other_names": {
+      "name": "الكوت",
+      "name:ar": "الكوت",
+      "name:cs": "Kút",
+      "name:de": "Kut",
+      "name:en": "Al-Kut",
+      "name:es": "Kut",
+      "name:et": "Al-Kūt",
+      "name:fa": "کوت",
+      "name:fr": "Kut",
+      "name:hi": "अल कुत",
+      "name:ja": "クート",
+      "name:ku": "Kût",
+      "name:pl": "Al-Kut",
+      "name:ru": "Эль-Кут",
+      "name:uk": "Ель-Кут",
+      "int_name": "Al-Kūt - الكوت",
+      "name:ckb": "کوت",
+      "nat_name": "کوت"
+    }
+  },
+  {
+    "name": "Allada",
+    "country": "Benin",
+    "latitude": 6.66584109941584,
+    "longitude": 2.1511876,
+    "other_names": {
+      "name": "Allada",
+      "name:ar": "ألادا",
+      "name:de": "Allada",
+      "name:en": "Allada",
+      "name:fr": "Allada",
+      "name:ru": "Аллада",
+      "alt_name": "Alada",
+      "name:fon": "Adànhúnsá"
+    }
+  },
+  {
+    "name": "Allentown",
+    "country": "United States Of America",
+    "latitude": 40.602205900345396,
+    "longitude": -75.47127939999999,
+    "other_names": {
+      "name": "Allentown",
+      "name:en": "Allentown",
+      "name:ru": "Аллентаун",
+      "name:uk": "Аллентаун"
+    }
+  },
+  {
+    "name": "Alma",
+    "country": "Canada",
+    "latitude": 48.54888699980413,
+    "longitude": -71.65145899999999,
+    "other_names": {
+      "name": "Alma"
+    }
+  },
+  {
+    "name": "Al Madhatiyah",
+    "country": "Iraq",
+    "latitude": 32.40065479959617,
+    "longitude": 44.66468480000001,
+    "other_names": {
+      "name": "المدحتية",
+      "name:ar": "المدحتية",
+      "name:de": "Al Madhatiyah",
+      "name:en": "Al Madhatiyah",
+      "name:fr": "Al Madhatiyah",
+      "alt_name": "Al Madḩatīyah, المدحتية, Al Madhatiyah, المدحتية",
+      "int_name": "Al Madhatiyah - المدحتية"
+    }
+  },
+  {
+    "name": "Almadina",
+    "country": "Brazil",
+    "latitude": -14.703839171334929,
+    "longitude": -39.63935934021577,
+    "other_names": {
+      "name": "Almadina"
+    }
+  },
+  {
+    "name": "Al Mahawil",
+    "country": "Iraq",
+    "latitude": 32.661380999590946,
+    "longitude": 44.408536999999995,
+    "other_names": {
+      "name": "المحاويل",
+      "name:ar": "المحاويل",
+      "name:de": "Al Mahawil",
+      "name:en": "Al Mahawil",
+      "name:fr": "Al Mahawil",
+      "name:uk": "Хан-ель-Махавіл",
+      "alt_name": "Al Maḩāwīl, Khān al Mahawīl, Mahawil, Qaḑā al Maḩāwīl, Al Mahawil, Khan al Mahawil, Mahawil, Qada al Mahawil",
+      "int_name": "Al Mahawil - المحاويل"
+    }
+  },
+  {
+    "name": "Almaliq",
+    "country": "Uzbekistan",
+    "latitude": 40.84572900037455,
+    "longitude": 69.6071609,
+    "other_names": {
+      "name": "Olmaliq",
+      "name:de": "Olmaliq",
+      "name:en": "Almaliq",
+      "name:es": "Olmaliq",
+      "name:fr": "Almalyk",
+      "name:ja": "アルマリク",
+      "name:ru": "Алмалык",
+      "alt_name": "Almalyk",
+      "alt_name:uz": "Олмалиқ"
+    }
+  }
+]

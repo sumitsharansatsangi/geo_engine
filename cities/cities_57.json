@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Bizerte",
+    "country": "Tunisia",
+    "latitude": 37.272090499883014,
+    "longitude": 9.8708565,
+    "other_names": {
+      "name": "بنزرت",
+      "name:ar": "بنزرت",
+      "name:de": "Binzart",
+      "name:en": "Bizerte",
+      "name:es": "Bizerta",
+      "name:et": "Bizerte",
+      "name:fa": "بنزرت",
+      "name:fr": "Bizerte",
+      "name:hr": "Bizerte",
+      "name:it": "Biserta",
+      "name:ja": "ビゼルト",
+      "name:ko": "비제르테",
+      "name:ks": "بنزرت",
+      "name:nl": "Bizerte",
+      "name:pl": "Bizerta",
+      "name:ru": "Бизерта",
+      "name:uk": "Бізерта",
+      "name:ur": "بنزرت",
+      "name:zh": "比塞大",
+      "name:azb": "بنزرت",
+      "name:kab": "Benzart",
+      "name:pnb": "بنزرت",
+      "name:zgh": "ⴱⴻⵏⵣⴰⵔⵜ"
+    }
+  },
+  {
+    "name": "Blagoevgrad",
+    "country": "Bulgaria",
+    "latitude": 42.01110770048707,
+    "longitude": 23.0906457,
+    "other_names": {
+      "name": "Благоевград",
+      "name:bg": "Благоевград",
+      "name:ca": "Blagòevgrad",
+      "name:de": "Blagoewgrad",
+      "name:el": "Μπλαγκόεβγκραντ",
+      "name:en": "Blagoevgrad",
+      "name:et": "Blagoevgrad",
+      "name:fr": "Blagoevgrad",
+      "name:hr": "Blagoevgrad",
+      "name:hu": "Blagoevgrad",
+      "name:mk": "Горна Џумаја (Благоевград)",
+      "name:nl": "Blagoëvgrad",
+      "name:pl": "Błagojewgrad",
+      "name:ro": "Blagoevgrad",
+      "name:ru": "Благоевград",
+      "name:sr": "Благоевград",
+      "name:tr": "Blagoevgrad",
+      "int_name": "Blagoevgrad",
+      "alt_name:mk": "Благоевград"
+    }
+  },
+  {
+    "name": "Blagoveshchensk",
+    "country": "China",
+    "latitude": 50.35489155982362,
+    "longitude": 127.59635510043107,
+    "other_names": {
+      "name": "Благовещенск",
+      "name:de": "Blagoweschtschensk",
+      "name:en": "Blagoveshchensk",
+      "name:es": "Blagovéshchensk",
+      "name:fr": "Blagovechtchensk",
+      "name:hu": "Blagovescsenszk",
+      "name:it": "Blagoveščensk",
+      "name:ja": "ブラゴヴェシチェンスク",
+      "name:pl": "Błagowieszczeńsk",
+      "name:pt": "Blagoveschensk",
+      "name:ro": "Blagoveșcensk",
+      "name:ru": "Благовещенск",
+      "name:uk": "Благовєщенськ",
+      "name:zh": "海蘭泡"
+    }
+  },
+  {
+    "name": "Blagoveshchensk",
+    "country": "China",
+    "latitude": 50.29052699938804,
+    "longitude": 127.527161,
+    "other_names": {
+      "name": "Благовещенск",
+      "name:de": "Blagoweschtschensk",
+      "name:en": "Blagoveshchensk",
+      "name:es": "Blagovéshchensk",
+      "name:et": "Blagoveštšensk",
+      "name:fr": "Blagovechtchensk",
+      "name:hi": "ब्लागावेश्चेंस्क",
+      "name:hu": "Blagovescsenszk",
+      "name:it": "Blagoveščensk",
+      "name:ja": "ブラゴヴェシチェンスク",
+      "name:ko": "블라고베셴스크",
+      "name:lt": "Blagoveščenskas",
+      "name:pl": "Błagowieszczeńsk",
+      "name:pt": "Blagoveschensk",
+      "name:ro": "Blagoveșcensk",
+      "name:ru": "Благовещенск",
+      "name:sk": "Blagoveščensk",
+      "name:uk": "Благовєщенськ",
+      "name:zh": "布拉戈维申斯克（海兰泡）"
+    }
+  },
+  {
+    "name": "Blagoveshchensk",
+    "country": "Russia",
+    "latitude": 50.35489155982362,
+    "longitude": 127.59635510043107,
+    "other_names": {
+      "name": "Благовещенск",
+      "name:de": "Blagoweschtschensk",
+      "name:en": "Blagoveshchensk",
+      "name:es": "Blagovéshchensk",
+      "name:fr": "Blagovechtchensk",
+      "name:hu": "Blagovescsenszk",
+      "name:it": "Blagoveščensk",
+      "name:ja": "ブラゴヴェシチェンスク",
+      "name:pl": "Błagowieszczeńsk",
+      "name:pt": "Blagoveschensk",
+      "name:ro": "Blagoveșcensk",
+      "name:ru": "Благовещенск",
+      "name:uk": "Благовєщенськ",
+      "name:zh": "海蘭泡"
+    }
+  },
+  {
+    "name": "Blagoveshchensk",
+    "country": "Russia",
+    "latitude": 50.29052699938804,
+    "longitude": 127.527161,
+    "other_names": {
+      "name": "Благовещенск",
+      "name:de": "Blagoweschtschensk",
+      "name:en": "Blagoveshchensk",
+      "name:es": "Blagovéshchensk",
+      "name:et": "Blagoveštšensk",
+      "name:fr": "Blagovechtchensk",
+      "name:hi": "ब्लागावेश्चेंस्क",
+      "name:hu": "Blagovescsenszk",
+      "name:it": "Blagoveščensk",
+      "name:ja": "ブラゴヴェシチェンスク",
+      "name:ko": "블라고베셴스크",
+      "name:lt": "Blagoveščenskas",
+      "name:pl": "Błagowieszczeńsk",
+      "name:pt": "Blagoveschensk",
+      "name:ro": "Blagoveșcensk",
+      "name:ru": "Благовещенск",
+      "name:sk": "Blagoveščensk",
+      "name:uk": "Благовєщенськ",
+      "name:zh": "布拉戈维申斯克（海兰泡）"
+    }
+  },
+  {
+    "name": "Blaine",
+    "country": "United States Of America",
+    "latitude": 36.15425079975121,
+    "longitude": -83.7040704,
+    "other_names": {
+      "name": "Blaine"
+    }
+  },
+  {
+    "name": "Blantyre",
+    "country": "Malawi",
+    "latitude": -15.786254300426583,
+    "longitude": 35.0035694,
+    "other_names": {
+      "name": "Blantyre",
+      "name:ar": "بلانتاير",
+      "name:ja": "ブランタイヤ",
+      "name:ko": "블랜타이어",
+      "name:pl": "Blantyre",
+      "name:pt": "Blantyre",
+      "name:ru": "Блантайр",
+      "name:zh": "布兰太尔"
+    }
+  },
+  {
+    "name": "Blida",
+    "country": "Algeria",
+    "latitude": 36.47016449978538,
+    "longitude": 2.8287985,
+    "other_names": {
+      "name": "Blida ⵍⴻⴱⵍⵉⴸⴰ البليدة",
+      "name:ar": "البليدة",
+      "name:ca": "Blida",
+      "name:de": "Blida",
+      "name:el": "Μπλίντα",
+      "name:en": "Blida",
+      "name:es": "Blida",
+      "name:fa": "البلیده",
+      "name:fr": "Blida",
+      "name:it": "Blida",
+      "name:ja": "ブリダ",
+      "name:ko": "블리다",
+      "name:lt": "Blida",
+      "name:nl": "Blida",
+      "name:pt": "Blida",
+      "name:ro": "Blida",
+      "name:ru": "Блида",
+      "name:uk": "Бліда",
+      "name:zh": "卜利达",
+      "name:ber": "ⵍⴻⴱⵍⵉⴸⴰ",
+      "name:kab": "Lebliḏa"
+    }
+  },
+  {
+    "name": "Blitar",
+    "country": "Indonesia",
+    "latitude": -8.098244199766674,
+    "longitude": 112.1650769,
+    "other_names": {
+      "name": "Blitar",
+      "name:ja": "ブリタール",
+      "name:ru": "Блитар",
+      "name:zh": "勿里達"
+    }
+  },
+  {
+    "name": "Bloemfontein",
+    "country": "South Africa And Lesotho",
+    "latitude": -29.11639499934028,
+    "longitude": 26.215495999999998,
+    "other_names": {
+      "name": "Bloemfontein",
+      "name:ar": "بلومفونتين",
+      "name:en": "Bloemfontein",
+      "name:fr": "Bloemfontein",
+      "name:hu": "Bloemfontein",
+      "name:is": "Bloemfontein",
+      "name:ko": "블룸폰테인",
+      "name:pl": "Bloemfontein",
+      "name:ru": "Блумфонтейн",
+      "name:sv": "Bloemfontein",
+      "name:ta": "புளொம்பொண்டீன்"
+    }
+  },
+  {
+    "name": "Bloemfontein",
+    "country": "South Africa",
+    "latitude": -29.11639499934028,
+    "longitude": 26.215495999999998,
+    "other_names": {
+      "name": "Bloemfontein",
+      "name:ar": "بلومفونتين",
+      "name:en": "Bloemfontein",
+      "name:fr": "Bloemfontein",
+      "name:hu": "Bloemfontein",
+      "name:is": "Bloemfontein",
+      "name:ko": "블룸폰테인",
+      "name:pl": "Bloemfontein",
+      "name:ru": "Блумфонтейн",
+      "name:sv": "Bloemfontein",
+      "name:ta": "புளொம்பொண்டீன்"
+    }
+  },
+  {
+    "name": "Bloomington",
+    "country": "United States Of America",
+    "latitude": 40.47978280033017,
+    "longitude": -88.9939147,
+    "other_names": {
+      "name": "Bloomington",
+      "name:en": "Bloomington",
+      "name:ru": "Блумингтон",
+      "name:uk": "Блумінгтон"
+    }
+  },
+  {
+    "name": "Bloomington",
+    "country": "United States Of America",
+    "latitude": 39.167039600150076,
+    "longitude": -86.5342881,
+    "other_names": {
+      "name": "Bloomington"
+    }
+  },
+  {
+    "name": "Bluefields",
+    "country": "Nicaragua",
+    "latitude": 12.013154299581585,
+    "longitude": -83.764907,
+    "other_names": {
+      "name": "Bluefields",
+      "name:en": "Bluefields",
+      "old_name": "Blauveldt",
+      "reg_name": "Bleeveldt"
+    }
+  },
+  {
+    "name": "Blue Springs",
+    "country": "United States Of America",
+    "latitude": 39.017316000128424,
+    "longitude": -94.282265,
+    "other_names": {
+      "name": "Blue Springs"
+    }
+  },
+  {
+    "name": "Blue World City Islamabad",
+    "country": "Pakistan",
+    "latitude": 33.36668229311497,
+    "longitude": 72.85919346522886,
+    "other_names": {
+      "name": "بلیو ورلڈ سٹی اسلام آباد",
+      "name:en": "Blue World City Islamabad"
+    }
+  },
+  {
+    "name": "Blumenau",
+    "country": "Brazil",
+    "latitude": -26.91955669952238,
+    "longitude": -49.0658025,
+    "other_names": {
+      "name": "Blumenau",
+      "name:ar": "بلوميناو",
+      "name:bg": "Блуменау",
+      "name:ja": "ブルメナウ",
+      "name:ko": "블루메나우",
+      "name:lv": "Blumenava",
+      "name:mk": "Блуменау",
+      "name:os": "Блуменау",
+      "name:pt": "Blumenau",
+      "name:ru": "Блуменау",
+      "name:sr": "Блуменау",
+      "name:zh": "布盧梅瑙",
+      "loc_name": "Blu"
+    }
+  },
+  {
+    "name": "Bo",
+    "country": "Sierra Leone",
+    "latitude": 7.9620649993905195,
+    "longitude": -11.73665,
+    "other_names": {
+      "name": "Bo",
+      "name:en": "Bo",
+      "name:ko": "보",
+      "name:lt": "Bo",
+      "name:ru": "Бо",
+      "name:uk": "Бо",
+      "int_name": "Bo"
+    }
+  },
+  {
+    "name": "Boaco",
+    "country": "Nicaragua",
+    "latitude": 12.471804299625179,
+    "longitude": -85.6598144,
+    "other_names": {
+      "name": "Boaco",
+      "name:hu": "Boaco",
+      "name:ru": "Боако",
+      "loc_name": "La ciudad de dos pisos"
+    }
+  }
+]

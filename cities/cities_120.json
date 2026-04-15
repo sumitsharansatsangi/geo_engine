@@ -1,0 +1,385 @@
+[
+  {
+    "name": "Dourbali",
+    "country": "Chad",
+    "latitude": 11.806449999563084,
+    "longitude": 15.870289999999997,
+    "other_names": {
+      "name": "دوربالي Dourbali",
+      "name:ar": "دوربالي",
+      "name:en": "Dourbali",
+      "name:fr": "Dourbali",
+      "alt_name": "Ndourbali;Dourbali"
+    }
+  },
+  {
+    "name": "Dover",
+    "country": "United States Of America",
+    "latitude": 43.19805700054036,
+    "longitude": -70.87391579999999,
+    "other_names": {
+      "name": "Dover",
+      "name:ru": "Довер"
+    }
+  },
+  {
+    "name": "Dover",
+    "country": "United States Of America",
+    "latitude": 39.1581680001488,
+    "longitude": -75.5243682,
+    "other_names": {
+      "name": "Dover",
+      "name:en": "Dover",
+      "name:lt": "Doveris",
+      "name:pl": "Dover",
+      "name:ru": "Довер",
+      "name:ta": "டோவர்",
+      "name:uk": "Довер",
+      "name:zh": "多佛",
+      "name:zh-Hans": "多佛",
+      "name:zh-Hant": "多佛"
+    }
+  },
+  {
+    "name": "Downey",
+    "country": "United States Of America",
+    "latitude": 33.94221499959992,
+    "longitude": -118.1235646,
+    "other_names": {
+      "name": "Downey"
+    }
+  },
+  {
+    "name": "Downtown Kansas City",
+    "country": "United States Of America",
+    "latitude": 39.097927574403606,
+    "longitude": -94.5860490871772,
+    "other_names": {
+      "name": "Downtown Kansas City"
+    }
+  },
+  {
+    "name": "Drama",
+    "country": "Greece",
+    "latitude": 41.14994430040856,
+    "longitude": 24.1468286,
+    "other_names": {
+      "name": "Δράμα",
+      "name:bg": "Драма",
+      "name:de": "Drama",
+      "name:el": "Δράμα",
+      "name:en": "Drama",
+      "name:et": "Dráma",
+      "name:fr": "Drama",
+      "name:hu": "Dráma",
+      "name:mk": "Драма",
+      "name:ru": "Драма",
+      "name:sr": "Драма",
+      "name:tr": "Drama",
+      "name:sr-Latn": "Drama"
+    }
+  },
+  {
+    "name": "Drammen",
+    "country": "Norway",
+    "latitude": 59.74367490154817,
+    "longitude": 10.2043749,
+    "other_names": {
+      "name": "Drammen",
+      "name:no": "Drammen",
+      "name:ps": "درامين",
+      "name:ru": "Драммен",
+      "name:zh": "德拉门"
+    }
+  },
+  {
+    "name": "Dresden",
+    "country": "Germany",
+    "latitude": 51.049328599241,
+    "longitude": 13.738143699999998,
+    "other_names": {
+      "name": "Dresden",
+      "name:ar": "دريسدن",
+      "name:az": "Drezden",
+      "name:be": "Дрэздэн",
+      "name:cs": "Drážďany",
+      "name:de": "Dresden",
+      "name:el": "Δρέσδη",
+      "name:es": "Dresde",
+      "name:fa": "درسدن",
+      "name:fr": "Dresde",
+      "name:he": "דרזדן",
+      "name:hu": "Drezda",
+      "name:it": "Dresda",
+      "name:ja": "ドレスデン",
+      "name:ko": "드레스덴",
+      "name:la": "Dresda",
+      "name:lt": "Dresdenas",
+      "name:lv": "Drēzdene",
+      "name:mk": "Дрезден",
+      "name:pl": "Drezno",
+      "name:ro": "Dresda",
+      "name:ru": "Дрезден",
+      "name:sk": "Drážďany",
+      "name:sr": "Дрезден",
+      "name:uk": "Дрезден",
+      "name:ur": "ڈریسڈن",
+      "name:zh": "德累斯顿",
+      "name:hsb": "Drježdźany",
+      "name:nds": "Dresden",
+      "name:zh-Hans": "德累斯顿",
+      "name:zh-Hant": "德累斯頓"
+    }
+  },
+  {
+    "name": "Drobeta-Turnu Severin",
+    "country": "Romania",
+    "latitude": 44.62578350049963,
+    "longitude": 22.6531975,
+    "other_names": {
+      "name": "Drobeta-Turnu Severin",
+      "name:ar": "دروبيتا تورنو سيفيرين",
+      "name:de": "Turm Severin",
+      "name:en": "Drobeta-Turnu Severin",
+      "name:es": "Drobeta-Turnu Severin",
+      "name:fr": "Drobeta-Turnu Severin",
+      "name:hu": "Szörényvár",
+      "name:ru": "Дробета-Турну-Северин",
+      "name:sr": "Дробета-Турну Северин",
+      "name:uk": "Дробета-Турну-Северін",
+      "old_name": "Drobeta"
+    }
+  },
+  {
+    "name": "Drummondville",
+    "country": "Canada",
+    "latitude": 45.88643030035974,
+    "longitude": -72.5018764,
+    "other_names": {
+      "name": "Drummondville",
+      "name:en": "Drummondville",
+      "name:ru": "Дрюммонвилль",
+      "name:uk": "Драммонвіль"
+    }
+  },
+  {
+    "name": "Dryden",
+    "country": "Canada",
+    "latitude": 49.78569799950176,
+    "longitude": -92.835846,
+    "other_names": {
+      "name": "Dryden",
+      "name:en": "Dryden",
+      "name:ru": "Драйден",
+      "name:uk": "Драйден"
+    }
+  },
+  {
+    "name": "Dschang",
+    "country": "Cameroon",
+    "latitude": 5.446992299476519,
+    "longitude": 10.053308999999999,
+    "other_names": {
+      "name": "Dschang",
+      "name:ar": "جان"
+    }
+  },
+  {
+    "name": "Duaca",
+    "country": "Venezuela",
+    "latitude": 10.287410499453072,
+    "longitude": -69.1598015,
+    "other_names": {
+      "name": "Duaca"
+    }
+  },
+  {
+    "name": "Du'an",
+    "country": "China",
+    "latitude": 23.934053500336997,
+    "longitude": 108.1008209,
+    "other_names": {
+      "name": "都安瑶族自治县",
+      "name:en": "Du'an",
+      "name:vi": "Đô An",
+      "name:zh": "都安瑶族自治县",
+      "alt_name": "Tu-an-yao-tsu Tzu-chih-hsien;Tu-an Yao Nationality Autonomous Hsien;Tu-an Hsien;Tu-an Hsien;Du'an County;都安;都安县",
+      "short_name": "都安县",
+      "name:zh-Hant": "都安瑤族自治縣",
+      "official_name": "都安瑶族自治县",
+      "name:zh_pinyin": "Dū'ān Yáozú Zìzhìxiàn",
+      "official_name:en": "Du'an Yao Autonomous County"
+    }
+  },
+  {
+    "name": "Duanzhou",
+    "country": "China",
+    "latitude": 23.054360500381907,
+    "longitude": 112.47972879999999,
+    "other_names": {
+      "name": "端州区",
+      "name:de": "Duanzhou",
+      "name:en": "Duanzhou",
+      "name:fa": "ناحیه دوانژو",
+      "name:fr": "District de Duanzhou",
+      "name:it": "Distretto di Duanzhou",
+      "name:ja": "端州区",
+      "name:ko": "돤저우구",
+      "name:mk": "Дуенџоу",
+      "name:no": "Duanzhou",
+      "name:sv": "Duanzhou",
+      "name:vi": "Đoan Châu",
+      "name:zh": "端州区",
+      "alt_name": "端州;Duanzhou District",
+      "name:ceb": "Duanzhou Qu",
+      "name:hak": "Tôn-chû-khî",
+      "name:mwl": "Duanzhou",
+      "name:nan": "Toan-chiu-khu",
+      "name:yue": "端州",
+      "name:zh-Hant": "端州區",
+      "name:zh_pinyin": "Duānzhōu Qū"
+    }
+  },
+  {
+    "name": "Dubbo",
+    "country": "Australia",
+    "latitude": -32.247896399434886,
+    "longitude": 148.6026502,
+    "other_names": {
+      "name": "Dubbo",
+      "name:en": "Dubbo",
+      "name:ja": "ダボ",
+      "name:ru": "Даббо",
+      "name:uk": "Даббо"
+    }
+  },
+  {
+    "name": "Dublin",
+    "country": "Ireland And Northern Ireland",
+    "latitude": 53.34976449910649,
+    "longitude": -6.260273199999999,
+    "other_names": {
+      "name": "Dublin",
+      "name:am": "ደብሊን",
+      "name:an": "Dublín",
+      "name:ar": "دبلن",
+      "name:be": "Дублін",
+      "name:bg": "Дъблин",
+      "name:bn": "ডাবলিন",
+      "name:bo": "དུབ་ལིན།",
+      "name:br": "Dulenn",
+      "name:ca": "Dublín",
+      "name:cv": "Дублин",
+      "name:cy": "Dulyn",
+      "name:de": "Dublin",
+      "name:el": "Δουβλίνο",
+      "name:en": "Dublin",
+      "name:eo": "Dublino",
+      "name:es": "Dublín",
+      "name:fa": "دوبلین",
+      "name:fr": "Dublin",
+      "name:ga": "Baile Átha Cliath",
+      "name:gd": "Baile Atha Cliath",
+      "name:gl": "Dublín - Baile Átha Cliath",
+      "name:gv": "Divlyn",
+      "name:he": "דבלין",
+      "name:ht": "Diblin",
+      "name:hu": "Dublin",
+      "name:hy": "Դուբլին",
+      "name:is": "Dyflinn",
+      "name:it": "Dublino",
+      "name:ja": "ダブリン",
+      "name:ka": "დუბლინი",
+      "name:kk": "Дублин",
+      "name:kn": "ಡಬ್ಲಿನ್",
+      "name:ko": "더블린",
+      "name:ku": "Dublîn",
+      "name:kw": "Dulyn",
+      "name:la": "Eblana",
+      "name:lt": "Dublinas",
+      "name:lv": "Dublina",
+      "name:mi": "Tapurini",
+      "name:mk": "Даблин",
+      "name:ml": "ഡബ്ലിൻ",
+      "name:mn": "Дублин",
+      "name:mr": "डब्लिन",
+      "name:my": "ဒပ်ဗလင်မြို့",
+      "name:no": "Dublin",
+      "name:oc": "Dublin",
+      "name:os": "Дублин",
+      "name:pl": "Dublin",
+      "name:ps": "ډبلن",
+      "name:qu": "Baile Átha Cliath",
+      "name:ru": "Дублин",
+      "name:sc": "Dublinu",
+      "name:sk": "Dublin",
+      "name:sq": "Dublini",
+      "name:sr": "Даблин",
+      "name:sv": "Dublin",
+      "name:ta": "டப்லின்",
+      "name:tg": "Дублин",
+      "name:th": "ดับลิน",
+      "name:tt": "Дублин",
+      "name:ug": "دۇبلىن",
+      "name:uk": "Дублін",
+      "name:ur": "ڈبلن",
+      "name:yi": "דובלין",
+      "name:zh": "都柏林",
+      "alt_name": "Dublin City",
+      "name:ang": "Difelin",
+      "name:arc": "ܕܒܠܢ",
+      "name:arz": "دوبلين",
+      "name:ast": "Ciudá de Dublín",
+      "name:ckb": "دەبڵین",
+      "name:ext": "Dublín",
+      "name:jbo": "dublin",
+      "name:krc": "Дублин",
+      "name:lmo": "Düblin",
+      "name:mrj": "Дублин",
+      "name:nrm": "Dublîn",
+      "name:pnb": "ڈبلن",
+      "name:sah": "Дублин",
+      "name:scn": "Dublinu",
+      "name:udm": "Дублин",
+      "name:wuu": "都柏林",
+      "name:xmf": "დუბლინი",
+      "name:yue": "都柏林",
+      "alt_name:ga": "Duibhlinn",
+      "name:bat-smg": "Doblėns",
+      "name:be-tarask": "Дублін"
+    }
+  },
+  {
+    "name": "Dubuque",
+    "country": "United States Of America",
+    "latitude": 42.50062170051764,
+    "longitude": -90.6647967,
+    "other_names": {
+      "name": "Dubuque"
+    }
+  },
+  {
+    "name": "Duchang",
+    "country": "China",
+    "latitude": 29.27573839980904,
+    "longitude": 116.19896959999998,
+    "other_names": {
+      "name": "都昌县",
+      "name:en": "Duchang",
+      "name:zh": "都昌县",
+      "alt_name": "都昌;Duchang County",
+      "name:zh-Hant": "都昌縣",
+      "name:zh_pinyin": "dūchāng xiàn"
+    }
+  },
+  {
+    "name": "Đức Trọng",
+    "country": "Vietnam",
+    "latitude": 11.712000399554887,
+    "longitude": 108.3538203,
+    "other_names": {
+      "name": "Đức Trọng",
+      "name:ko": "득쫑"
+    }
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "name": "Edineț",
+    "country": "Moldova",
+    "latitude": 48.16701877296634,
+    "longitude": 27.30551289669421,
+    "other_names": {
+      "name": "Edineț",
+      "name:bg": "Единец",
+      "name:pl": "Jedyńce",
+      "name:ru": "Единец",
+      "old_name": "Viadinți",
+      "alt_name:ru": "Единец",
+      "old_name:ru": "Единцы"
+    }
+  },
+  {
+    "name": "Edirne",
+    "country": "Turkey",
+    "latitude": 41.67593270045995,
+    "longitude": 26.558722499999995,
+    "other_names": {
+      "name": "Edirne",
+      "name:ar": "أدرنة",
+      "name:bg": "Одрин",
+      "name:cs": "Drinopol",
+      "name:el": "Αδριανούπολη",
+      "name:fr": "Edirne",
+      "name:he": "אדירנה",
+      "name:hu": "Edirne",
+      "name:it": "Edirne",
+      "name:lt": "Edirnė",
+      "name:mk": "Одрин",
+      "name:ru": "Эдирне",
+      "name:sr": "Једрене",
+      "name:uk": "Едірне",
+      "old_name:it": "Adrianopoli"
+    }
+  },
+  {
+    "name": "Edmond",
+    "country": "United States Of America",
+    "latitude": 35.65713669970321,
+    "longitude": -97.46490379999999,
+    "other_names": {
+      "name": "Edmond",
+      "name:ar": "إدموند"
+    }
+  },
+  {
+    "name": "Edmonton",
+    "country": "Canada",
+    "latitude": 53.535410999122995,
+    "longitude": -113.50799599999999,
+    "other_names": {
+      "name": "Edmonton",
+      "name:ar": "إدمونتون",
+      "name:de": "Edmonton",
+      "name:en": "Edmonton",
+      "name:fr": "Edmonton",
+      "name:ru": "Эдмонтон",
+      "name:uk": "Едмонтон"
+    }
+  },
+  {
+    "name": "Edmonton City Hall",
+    "country": "Canada",
+    "latitude": 53.54559336716192,
+    "longitude": -113.49026745345496,
+    "other_names": {
+      "name": "Edmonton City Hall"
+    }
+  },
+  {
+    "name": "Edmundston",
+    "country": "Canada",
+    "latitude": 47.364409000083775,
+    "longitude": -68.328094,
+    "other_names": {
+      "name": "Edmundston",
+      "name:en": "Edmundston",
+      "name:ru": "Эдмундстон",
+      "name:uk": "Едмундстон"
+    }
+  },
+  {
+    "name": "Edogawa",
+    "country": "Japan",
+    "latitude": 35.678277999705095,
+    "longitude": 139.871091,
+    "other_names": {
+      "name": "江戸川区",
+      "name:ar": "إيدوغاوا، طوكيو",
+      "name:de": "Edogawa",
+      "name:en": "Edogawa",
+      "name:es": "Edogawa",
+      "name:fr": "Edogawa",
+      "name:it": "Edogawa",
+      "name:ja": "江戸川区",
+      "name:ko": "에도가와구",
+      "name:lt": "Edogava",
+      "name:pl": "Edogawa",
+      "name:ru": "Эдогава",
+      "name:uk": "Едоґава",
+      "name:zh": "江户川区",
+      "name:ja-Hira": "えどがわく",
+      "name:ja-Latn": "Edogawa-ku",
+      "name:zh-Hans": "江户川区",
+      "name:zh-Hant": "江戶川區"
+    }
+  },
+  {
+    "name": "Eger",
+    "country": "Hungary",
+    "latitude": 47.89898869996164,
+    "longitude": 20.3743665,
+    "other_names": {
+      "name": "Eger",
+      "name:ar": "إيغر",
+      "name:de": "Erlau",
+      "name:en": "Eger",
+      "name:fa": "اگر",
+      "name:fr": "Eger",
+      "name:hu": "Eger",
+      "name:ks": "ایگر",
+      "name:la": "Agria",
+      "name:lt": "Egeris",
+      "name:lv": "Egera",
+      "name:nl": "Eger",
+      "name:ru": "Эгер",
+      "name:sk": "Jáger",
+      "name:sr": "Егер",
+      "name:ur": "ایگر",
+      "name:azb": "ایگر",
+      "name:pnb": "ایگیر",
+      "old_name:tr": "Eğri",
+      "name:az-Arab": "ایگر",
+      "name:kk-Arab": "ەگەر"
+    }
+  },
+  {
+    "name": "Egio",
+    "country": "Greece",
+    "latitude": 38.25071390001758,
+    "longitude": 22.0858224,
+    "other_names": {
+      "name": "Αίγιο",
+      "name:de": "Egio",
+      "name:el": "Αίγιο",
+      "name:en": "Egio",
+      "name:fr": "Egio",
+      "name:hu": "Éijo",
+      "name:ru": "Эйон"
+    }
+  },
+  {
+    "name": "Eilat",
+    "country": "Israel And Palestine",
+    "latitude": 29.556934799781136,
+    "longitude": 34.9497949,
+    "other_names": {
+      "name": "אילת",
+      "name:ar": "إيلات",
+      "name:cs": "Ejlat",
+      "name:de": "Eilat",
+      "name:el": "Εϊλάτ",
+      "name:en": "Eilat",
+      "name:es": "Eilat",
+      "name:fi": "Eilat",
+      "name:fr": "Eilat",
+      "name:he": "אילת",
+      "name:hi": "ऐलात",
+      "name:hr": "Eilat",
+      "name:ko": "에일라트",
+      "name:lt": "Elatas",
+      "name:ru": "Эйлат",
+      "name:sr": "Еилат",
+      "int_name": "Eilat",
+      "alt_name:en": "Elath;Elat;Ilat",
+      "old_name:ar": "أم الرشراش",
+      "old_name:en": "Umm Rashrash;Umrashash",
+      "name:zh-Hans": "埃拉特",
+      "name:zh-Hant": "埃拉特"
+    }
+  },
+  {
+    "name": "Eindhoven",
+    "country": "Netherlands",
+    "latitude": 51.43926479918078,
+    "longitude": 5.478632999999999,
+    "other_names": {
+      "name": "Eindhoven",
+      "name:el": "Αϊντχόφεν",
+      "name:he": "איינדהובן",
+      "name:la": "Endhovia",
+      "name:lt": "Eindhovenas",
+      "name:mk": "Ајндховен",
+      "name:ru": "Эйндховен",
+      "name:sr": "Ајндховен",
+      "name:uk": "Ейндговен",
+      "name:zh": "埃因霍温",
+      "name:zh-Hans": "埃因霍温",
+      "name:zh-Hant": "愛因荷芬",
+      "name:carnaval": "Lampegat"
+    }
+  },
+  {
+    "name": "Ejido",
+    "country": "Venezuela",
+    "latitude": 8.547981999393226,
+    "longitude": -71.23782929999999,
+    "other_names": {
+      "name": "Ejido"
+    }
+  },
+  {
+    "name": "Ejigbo",
+    "country": "Nigeria",
+    "latitude": 7.899989399390754,
+    "longitude": 4.3167086,
+    "other_names": {
+      "name": "Ejigbo"
+    }
+  },
+  {
+    "name": "Ejin Banner",
+    "country": "China",
+    "latitude": 41.95884710048316,
+    "longitude": 101.06920539999999,
+    "other_names": {
+      "name": "额济纳旗",
+      "name:en": "Ejin Banner",
+      "name:ja": "エジン旗",
+      "name:zh": "额济纳旗",
+      "alt_name": "Dalain Hob;Ejin",
+      "name:zh-Hant": "額濟納旗",
+      "name:zh_pinyin": "Éjìnà Qí"
+    }
+  },
+  {
+    "name": "Ekibastuz",
+    "country": "Kazakhstan",
+    "latitude": 51.722892799145036,
+    "longitude": 75.3169789,
+    "other_names": {
+      "name": "Экибастуз",
+      "name:de": "Ekibastus",
+      "name:en": "Ekibastuz",
+      "name:et": "Jekibastuz",
+      "name:fr": "Ekibastouz",
+      "name:ja": "エキバストゥス",
+      "name:kk": "Екібастұз",
+      "name:ko": "에키바스투즈",
+      "name:lt": "Ekibastuzas",
+      "name:ru": "Экибастуз",
+      "int_name": "Ekibastuz"
+    }
+  },
+  {
+    "name": "Ekibastuz",
+    "country": "Kazakhstan",
+    "latitude": 51.725205698036255,
+    "longitude": 75.31431222436963,
+    "other_names": {
+      "name": "Экибастуз",
+      "name:de": "Ekibastus",
+      "name:en": "Ekibastuz",
+      "name:et": "Jekibastuz",
+      "name:fr": "Ekibastouz",
+      "name:ja": "エキバストゥス",
+      "name:kk": "Екібастұз",
+      "name:lt": "Ekibastuzas",
+      "name:ru": "Экибастуз",
+      "int_name": "Ekibastuz"
+    }
+  },
+  {
+    "name": "El Alamein",
+    "country": "Egypt",
+    "latitude": 30.83394399967254,
+    "longitude": 28.949268,
+    "other_names": {
+      "name": "العلمين",
+      "name:ar": "العلمين",
+      "name:de": "El-Alamein",
+      "name:en": "El Alamein",
+      "name:es": "El Alamein",
+      "name:fr": "El Alamein",
+      "name:pl": "Al-Alamajn",
+      "name:ru": "Эль-Аламейн",
+      "name:tr": "El Alameyn",
+      "alt_name": "العلمين",
+      "int_name": "Alamein"
+    }
+  },
+  {
+    "name": "El Alto",
+    "country": "Bolivia",
+    "latitude": -16.50482280045652,
+    "longitude": -68.1624337,
+    "other_names": {
+      "name": "El Alto",
+      "old_name": "El Alto de La Paz"
+    }
+  },
+  {
+    "name": "Elazığ",
+    "country": "Turkey",
+    "latitude": 38.67477100007872,
+    "longitude": 39.2224523,
+    "other_names": {
+      "name": "Elazığ",
+      "name:ar": "معمورة العزيز",
+      "name:el": "Ελαζίγκ",
+      "name:en": "Elazığ",
+      "name:hi": "एलाजिग",
+      "name:hy": "Խարբերդ",
+      "name:ka": "ელაზიღი",
+      "name:ku": "Elezîz",
+      "name:ru": "Элязыг",
+      "name:tr": "Elazığ",
+      "alt_name:ku": "Xarpêt;Mezra"
+    }
+  },
+  {
+    "name": "Elbasan",
+    "country": "Albania",
+    "latitude": 41.11058740040431,
+    "longitude": 20.0794072,
+    "other_names": {
+      "name": "Elbasan",
+      "name:be": "Эльбасан",
+      "name:el": "Ελμπασάν",
+      "name:en": "Elbasan",
+      "name:eo": "Elbasano",
+      "name:hu": "Elbasan",
+      "name:ku": "Êlbasan",
+      "name:la": "Masio Scampa",
+      "name:mk": "Елбасан",
+      "name:ru": "Эльбасан",
+      "name:sr": "Елбасан",
+      "name:uk": "Ельбасан",
+      "alt_name": "Skampa",
+      "int_name": "Elbasan",
+      "name:ckb": "ئێلباسان",
+      "old_name": "Scampa",
+      "alt_name:mk": "Коњух",
+      "name:be-tarask": "Эльбасан"
+    }
+  }
+]

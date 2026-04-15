@@ -1,0 +1,368 @@
+[
+  {
+    "name": "Surat Thani",
+    "country": "Thailand",
+    "latitude": 9.141564299405058,
+    "longitude": 99.32905499999998,
+    "other_names": {
+      "name": "สุราษฎร์ธานี",
+      "name:de": "Surat Thani",
+      "name:en": "Surat Thani",
+      "name:et": "Surat Thani",
+      "name:ja": "スラートターニー",
+      "name:ru": "Сураттхани",
+      "name:th": "สุราษฎร์ธานี",
+      "official_name": "เทศบาลนครสุราษฎร์ธานี"
+    }
+  },
+  {
+    "name": "Surendranagar",
+    "country": "India",
+    "latitude": 22.72317000039353,
+    "longitude": 71.648352,
+    "other_names": {
+      "name": "Surendranagar",
+      "name:en": "Surendranagar",
+      "name:hi": "सुरेन्द्रनगर",
+      "name:ja": "スレーンドラナガル",
+      "name:kn": "ಸುರೇಂದ್ರನಗರ್",
+      "name:ru": "Сурендранагар"
+    }
+  },
+  {
+    "name": "Surf City",
+    "country": "United States Of America",
+    "latitude": 34.46264924530344,
+    "longitude": -77.57408663354074,
+    "other_names": {
+      "name": "Surf City"
+    }
+  },
+  {
+    "name": "Surgut",
+    "country": "Russia",
+    "latitude": 61.25403200173427,
+    "longitude": 73.3964,
+    "other_names": {
+      "name": "Сургут",
+      "name:ca": "Surgut",
+      "name:de": "Surgut",
+      "name:en": "Surgut",
+      "name:et": "Surgut",
+      "name:ja": "スルグト",
+      "name:ko": "수르구트",
+      "name:lt": "Surgutas",
+      "name:pl": "Surgut",
+      "name:ru": "Сургут",
+      "name:uk": "Сургут",
+      "int_name": "Surgut"
+    }
+  },
+  {
+    "name": "Surgut",
+    "country": "Russia",
+    "latitude": 61.28949593538457,
+    "longitude": 73.42693693393564,
+    "other_names": {
+      "name": "Сургут",
+      "name:ca": "Surgut",
+      "name:de": "Surgut",
+      "name:en": "Surgut",
+      "name:fr": "Sourgout",
+      "name:ja": "スルグト",
+      "name:lt": "Surgutas",
+      "name:pl": "Surgut",
+      "name:ru": "Сургут",
+      "name:uk": "Сургут",
+      "int_name": "Surgut"
+    }
+  },
+  {
+    "name": "Surigao City",
+    "country": "Philippines",
+    "latitude": 9.790554299428278,
+    "longitude": 125.49333500000002,
+    "other_names": {
+      "name": "Surigao City",
+      "name:en": "Surigao City",
+      "name:et": "Surigao",
+      "name:ja": "スリガオ",
+      "name:uk": "Суріґао"
+    }
+  },
+  {
+    "name": "Surobi",
+    "country": "Afghanistan",
+    "latitude": 34.62784629962895,
+    "longitude": 69.7177027,
+    "other_names": {
+      "name": "سروبی",
+      "name:ar": "سروبي",
+      "name:de": "Sarobi",
+      "name:en": "Surobi",
+      "name:fr": "Saroubi",
+      "name:hi": "सुरोबी",
+      "name:ja": "サラウビ"
+    }
+  },
+  {
+    "name": "Surprise",
+    "country": "United States Of America",
+    "latitude": 33.62922709959229,
+    "longitude": -112.36801889999998,
+    "other_names": {
+      "name": "Surprise",
+      "name:uk": "Серпрайз"
+    }
+  },
+  {
+    "name": "Surrey",
+    "country": "Canada",
+    "latitude": 49.19130329964509,
+    "longitude": -122.84914389999999,
+    "other_names": {
+      "name": "Surrey",
+      "name:sr": "Сари"
+    }
+  },
+  {
+    "name": "Suryapet",
+    "country": "India",
+    "latitude": 17.14053280015013,
+    "longitude": 79.62251049999999,
+    "other_names": {
+      "name": "Suryapet",
+      "name:en": "Suryapet",
+      "name:hi": "सूर्यापेट",
+      "name:ja": "サーヤペット",
+      "name:kn": "ಸುರಿಯಾಪೆಟ್",
+      "name:pa": "ਸੂਰਿਆਪੇਟ",
+      "name:te": "సూర్యాపేట"
+    }
+  },
+  {
+    "name": "Susaki",
+    "country": "Japan",
+    "latitude": 33.40082599958897,
+    "longitude": 133.2829594,
+    "other_names": {
+      "name": "須崎市",
+      "name:ar": "سوساكي، كوتشي",
+      "name:de": "Susaki",
+      "name:en": "Susaki",
+      "name:es": "Susaki",
+      "name:fr": "Susaki",
+      "name:ja": "須崎市",
+      "name:ko": "스사키시",
+      "name:pl": "Susaki",
+      "name:ru": "Сусаки",
+      "name:uk": "Сусакі",
+      "name:zh": "须崎市",
+      "int_name": "Susaki",
+      "name:zh-Hans": "须崎市",
+      "name:zh-Hant": "須崎市"
+    }
+  },
+  {
+    "name": "Susong",
+    "country": "China",
+    "latitude": 30.156447699725998,
+    "longitude": 116.1240561,
+    "other_names": {
+      "name": "宿松县",
+      "name:en": "Susong",
+      "name:vi": "Túc Tùng",
+      "name:zh": "宿松县",
+      "alt_name": "宿松;Susong County",
+      "int_name": "Susong",
+      "name:zh-Hant": "宿松縣",
+      "name:zh_pinyin": "Sùsōng Xiàn"
+    }
+  },
+  {
+    "name": "Susono",
+    "country": "Japan",
+    "latitude": 35.218429999667215,
+    "longitude": 138.88173799999998,
+    "other_names": {
+      "name": "裾野市",
+      "name:ar": "سوسونو، شيزوكا",
+      "name:de": "Susono",
+      "name:en": "Susono",
+      "name:es": "Susono",
+      "name:fr": "Susono",
+      "name:ja": "裾野市",
+      "name:ko": "스소노시",
+      "name:pl": "Susono",
+      "name:ru": "Сусоно",
+      "name:uk": "Сусоно",
+      "int_name": "Susono",
+      "name:ja_rm": "Susono-shi",
+      "name:ja_kana": "すそのし"
+    }
+  },
+  {
+    "name": "Suva",
+    "country": "Fiji",
+    "latitude": -18.14158840047157,
+    "longitude": 178.44216619999997,
+    "other_names": {
+      "name": "Suva",
+      "name:ar": "سوفا",
+      "name:be": "Сува",
+      "name:bn": "সুভা",
+      "name:de": "Suva",
+      "name:el": "Σούβα",
+      "name:en": "Suva",
+      "name:es": "Suva",
+      "name:fa": "سووا",
+      "name:fr": "Suva",
+      "name:hi": "सुवा",
+      "name:hu": "Suva",
+      "name:hy": "Սուվա",
+      "name:ja": "スバ",
+      "name:ka": "სუვა",
+      "name:ko": "수바",
+      "name:oc": "Suva",
+      "name:pl": "Suva",
+      "name:ru": "Сува",
+      "name:sv": "Suva",
+      "name:ta": "சுவா",
+      "name:zh": "苏瓦"
+    }
+  },
+  {
+    "name": "Suwa",
+    "country": "Japan",
+    "latitude": 36.03208999973875,
+    "longitude": 138.11411799999996,
+    "other_names": {
+      "name": "諏訪市",
+      "name:en": "Suwa",
+      "name:fr": "Suwa",
+      "name:ja": "諏訪市",
+      "name:ko": "스와시",
+      "name:pl": "Suwa",
+      "name:ru": "Сува",
+      "name:uk": "Сува",
+      "name:ja_rm": "Suwa-shi",
+      "name:ja_kana": "すわし"
+    }
+  },
+  {
+    "name": "Suwałki",
+    "country": "Poland",
+    "latitude": 54.09906359920211,
+    "longitude": 22.9279363,
+    "other_names": {
+      "name": "Suwałki",
+      "name:be": "Сувалкі",
+      "name:de": "Suwalken",
+      "name:ja": "スヴァウキ",
+      "name:lt": "Suvalkai",
+      "name:lv": "Suvalki",
+      "name:mk": "Сувалки",
+      "name:pl": "Suwałki",
+      "name:ru": "Сувалки",
+      "name:uk": "Сувалки",
+      "old_name": "Sudauen"
+    }
+  },
+  {
+    "name": "Suwon-si",
+    "country": "South Korea",
+    "latitude": 37.26333249988188,
+    "longitude": 127.02874719999998,
+    "other_names": {
+      "name": "수원시",
+      "name:de": "Suwon",
+      "name:el": "Σούουον",
+      "name:en": "Suwon-si",
+      "name:es": "Suwon",
+      "name:et": "Suwon",
+      "name:fi": "Suwon",
+      "name:fr": "Suwon",
+      "name:ja": "水原市",
+      "name:ko": "수원시",
+      "name:lt": "Suvonas",
+      "name:pt": "Suwon",
+      "name:ru": "Сувон",
+      "name:uk": "Сувон",
+      "name:zh": "水原市",
+      "int_name": "Suwon",
+      "name:ko-Hani": "水原市"
+    }
+  },
+  {
+    "name": "Suxian",
+    "country": "China",
+    "latitude": 25.79903220018431,
+    "longitude": 113.106742,
+    "other_names": {
+      "name": "苏仙区",
+      "name:de": "Suxian",
+      "name:en": "Suxian",
+      "name:fr": "District de Suxian",
+      "name:it": "Distretto di Suxian",
+      "name:ja": "蘇仙区",
+      "name:ko": "쑤셴구",
+      "name:no": "Suxian",
+      "name:ru": "Сусянь",
+      "name:sv": "Suxian",
+      "name:vi": "Tô Tiên",
+      "name:zh": "苏仙区",
+      "alt_name": "苏仙;Suxian District",
+      "name:ceb": "Suxian District",
+      "name:hak": "Sû-sien-khî",
+      "name:nan": "So͘-sian-khu",
+      "name:yue": "蘇仙區",
+      "name:zh-Hant": "甦仙區",
+      "name:zh_pinyin": "sūxiān qū"
+    }
+  },
+  {
+    "name": "Suyu District",
+    "country": "China",
+    "latitude": 33.948560299600096,
+    "longitude": 118.32579559999999,
+    "other_names": {
+      "name": "宿豫区",
+      "name:de": "Suyu",
+      "name:en": "Suyu District",
+      "name:fr": "District de Suyu",
+      "name:it": "Distretto di Suyu",
+      "name:ja": "宿豫区",
+      "name:ko": "쑤위구",
+      "name:no": "Suyu",
+      "name:ru": "Суюй",
+      "name:sv": "Suyu",
+      "name:vi": "Túc Dự",
+      "name:zh": "宿豫区",
+      "name:ceb": "Suyu Qu",
+      "name:nan": "Siok-ū-khu",
+      "name:yue": "宿豫區",
+      "name:ja-Hira": "しゅくよ-く",
+      "name:zh-Hant": "宿豫區",
+      "name:yue-Hant": "宿豫區",
+      "name:zh_pinyin": "Sùyù Qū"
+    }
+  },
+  {
+    "name": "Suzaka",
+    "country": "Japan",
+    "latitude": 36.65109229980613,
+    "longitude": 138.3071289,
+    "other_names": {
+      "name": "須坂市",
+      "name:en": "Suzaka",
+      "name:fr": "Suzaka",
+      "name:ja": "須坂市",
+      "name:ko": "스자카시",
+      "name:pl": "Suzaka",
+      "name:ru": "Судзака",
+      "name:uk": "Судзака",
+      "name:ja_rm": "Suzaka-shi",
+      "name:ja_kana": "すざかし"
+    }
+  }
+]

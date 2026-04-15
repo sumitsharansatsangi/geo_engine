@@ -1,0 +1,418 @@
+[
+  {
+    "name": "Charallave",
+    "country": "Venezuela",
+    "latitude": 10.24565979945076,
+    "longitude": -66.8586608,
+    "other_names": {
+      "name": "Charallave"
+    }
+  },
+  {
+    "name": "Charikar",
+    "country": "Afghanistan",
+    "latitude": 35.01317319965255,
+    "longitude": 69.1741618,
+    "other_names": {
+      "name": "چاریکار",
+      "name:ar": "جاريكار",
+      "name:cs": "Čáríkár",
+      "name:de": "Charikar",
+      "name:el": "Τσαρικάρ",
+      "name:en": "Charikar",
+      "name:et": "Chārīkār",
+      "name:fr": "Charikar",
+      "name:ja": "チャーリーカール",
+      "name:lt": "Čarikaras",
+      "name:pl": "Czarikar",
+      "name:ru": "Чарикар",
+      "name:uk": "Чарікар",
+      "alt_name": "Chârikâr, Askandria-e-Qafqaz, Askandria Paro paizad",
+      "int_name": "Charikar"
+    }
+  },
+  {
+    "name": "Charleroi",
+    "country": "Belgium",
+    "latitude": 50.4120331993623,
+    "longitude": 4.4436244,
+    "other_names": {
+      "name": "Charleroi",
+      "name:ar": "شارلوروا",
+      "name:de": "Charleroi",
+      "name:fr": "Charleroi",
+      "name:hu": "Charleroi",
+      "name:la": "Caroloregium",
+      "name:lt": "Šarlerua",
+      "name:mk": "Шарлероа",
+      "name:nl": "Charleroi",
+      "name:ru": "Шарлеруа",
+      "name:sr": "Шарлроа",
+      "name:wa": "Tchålerwè",
+      "name:pcd": "Carleroé",
+      "nat_name": "La capitale du Pays noir",
+      "old_name": "Charnoy",
+      "alt_name:nl": "Karelskoning",
+      "alt_name:wa": "Chålerwè",
+      "old_name:de": "Karolingen"
+    }
+  },
+  {
+    "name": "Charleston",
+    "country": "United States Of America",
+    "latitude": 38.3505995000319,
+    "longitude": -81.6332812,
+    "other_names": {
+      "name": "Charleston",
+      "name:en": "Charleston",
+      "name:pl": "Charleston",
+      "name:ru": "Чарлстон",
+      "name:uk": "Чарлстон"
+    }
+  },
+  {
+    "name": "Charleston",
+    "country": "United States Of America",
+    "latitude": 32.78760119958925,
+    "longitude": -79.9402728,
+    "other_names": {
+      "name": "Charleston",
+      "name:en": "Charleston",
+      "name:ru": "Чарлстон",
+      "name:uk": "Чарлстон"
+    }
+  },
+  {
+    "name": "Charlotte",
+    "country": "United States Of America",
+    "latitude": 35.22720859966787,
+    "longitude": -80.84308269999998,
+    "other_names": {
+      "name": "Charlotte",
+      "name:ar": "شارلت",
+      "name:en": "Charlotte",
+      "name:fa": "شارلوت",
+      "name:mk": "Шарлот",
+      "name:ru": "Шарлотт",
+      "name:uk": "Шарлотт",
+      "name:ur": "شارلٹ",
+      "alt_name": "The Queen City",
+      "alt_name:ar": "تشارلوت",
+      "name:zh-Hans": "夏洛特",
+      "name:zh-Hant": "夏洛特"
+    }
+  },
+  {
+    "name": "Charlottetown",
+    "country": "Canada",
+    "latitude": 46.234953000304536,
+    "longitude": -63.132934999999996,
+    "other_names": {
+      "name": "Charlottetown",
+      "name:ar": "شارلوت تاون",
+      "name:en": "Charlottetown",
+      "name:lt": "Šarlotetaunas",
+      "name:ru": "Шарлоттаун",
+      "name:uk": "Шарлоттаун",
+      "name:zh": "夏洛特顿",
+      "name:sco": "Baile Sheàrlot"
+    }
+  },
+  {
+    "name": "Charsadda",
+    "country": "Pakistan",
+    "latitude": 34.146150599606784,
+    "longitude": 71.7337719,
+    "other_names": {
+      "name": "چارسدہ",
+      "name:ar": "تشارسادا",
+      "name:en": "Charsadda",
+      "name:et": "Chārsadda",
+      "name:ja": "チャルサダ",
+      "name:ru": "Чарсадда",
+      "name:ur": "چارسدہ",
+      "int_name": "Charsadda"
+    }
+  },
+  {
+    "name": "Chatham",
+    "country": "Canada",
+    "latitude": 42.40572190051261,
+    "longitude": -82.1853837,
+    "other_names": {
+      "name": "Chatham"
+    }
+  },
+  {
+    "name": "Chattanooga",
+    "country": "United States Of America",
+    "latitude": 35.045721899654794,
+    "longitude": -85.30948829999998,
+    "other_names": {
+      "name": "Chattanooga",
+      "name:en": "Chattanooga",
+      "name:lt": "Čatanuga",
+      "name:ru": "Чаттануга",
+      "name:uk": "Чаттануґа"
+    }
+  },
+  {
+    "name": "Chattogram",
+    "country": "Bangladesh",
+    "latitude": 22.336470900403274,
+    "longitude": 91.8260479,
+    "other_names": {
+      "name": "চট্টগ্রাম",
+      "name:ar": "شيتاغونغ",
+      "name:bn": "চট্টগ্রাম",
+      "name:en": "Chattogram",
+      "name:he": "צ'יטגונג",
+      "name:hi": "चटगाँव",
+      "name:ml": "ചിറ്റഗോങ്",
+      "name:ne": "चट्टोग्राम",
+      "name:ta": "சிட்டகொங்",
+      "name:zh": "吉大港市",
+      "old_name": "Chittagong"
+    }
+  },
+  {
+    "name": "Chattogram",
+    "country": "Bangladesh",
+    "latitude": 22.336470900403274,
+    "longitude": 91.8260479,
+    "other_names": {
+      "name": "চট্টগ্রাম",
+      "name:bn": "চট্টগ্রাম",
+      "name:en": "Chattogram",
+      "name:kn": "ಚಿತ್ತಗಾಂಗ್",
+      "old_name": "Chittagong"
+    }
+  },
+  {
+    "name": "Chau Doc",
+    "country": "Vietnam",
+    "latitude": 10.710181499478727,
+    "longitude": 105.11886750000001,
+    "other_names": {
+      "name": "Châu Đốc",
+      "name:en": "Chau Doc",
+      "name:ja": "チャウドック",
+      "name:km": "ក្រុងមាត់ជ្រូក",
+      "name:ko": "쩌우독",
+      "name:ru": "Тяудок",
+      "name:zh": "朱笃市",
+      "name:vi-Hani": "朱篤"
+    }
+  },
+  {
+    "name": "Chaves",
+    "country": "Portugal",
+    "latitude": 41.73994530046551,
+    "longitude": -7.471477,
+    "other_names": {
+      "name": "Chaves",
+      "name:la": "Aquae Flaviae",
+      "name:lt": "Šavesas",
+      "name:ru": "Шавиш"
+    }
+  },
+  {
+    "name": "Chbar Mon",
+    "country": "Cambodia",
+    "latitude": 11.46471559953421,
+    "longitude": 104.51946249999999,
+    "other_names": {
+      "name": "ក្រុងច្បារមន",
+      "name:en": "Chbar Mon",
+      "name:km": "ក្រុងច្បារមន",
+      "name:ru": "Тьбамон"
+    }
+  },
+  {
+    "name": "Cheboksary",
+    "country": "Russia",
+    "latitude": 56.13071949984457,
+    "longitude": 47.244959699999995,
+    "other_names": {
+      "name": "Чебоксары",
+      "name:cv": "Шупашкар",
+      "name:de": "Tscheboksary",
+      "name:en": "Cheboksary",
+      "name:et": "Tšeboksarõ",
+      "name:fr": "Tcheboksary",
+      "name:ja": "チェボクサル",
+      "name:ko": "체복사리",
+      "name:lt": "Čeboksarai",
+      "name:pl": "Czeboksary",
+      "name:ro": "Ceboksarî",
+      "name:ru": "Чебоксары",
+      "name:sk": "Čeboksary",
+      "name:tt": "Чабаксар",
+      "name:uk": "Чебоксари",
+      "int_name": "Cheboksary"
+    }
+  },
+  {
+    "name": "Chełm",
+    "country": "Poland",
+    "latitude": 51.13392209922692,
+    "longitude": 23.471154799999997,
+    "other_names": {
+      "name": "Chełm",
+      "name:be": "Хэлм",
+      "name:he": "חלם",
+      "name:ja": "ヘウム",
+      "name:lt": "Chelmas",
+      "name:mk": "Хелм",
+      "name:pl": "Chełm",
+      "name:ru": "Хелм",
+      "name:uk": "Холм",
+      "name:zh": "海乌姆"
+    }
+  },
+  {
+    "name": "Chelmsford",
+    "country": "England",
+    "latitude": 51.734539799143725,
+    "longitude": 0.4724552999999999,
+    "other_names": {
+      "name": "Chelmsford",
+      "name:en": "Chelmsford",
+      "name:hu": "Chelmsford",
+      "name:ko": "첼름스퍼드",
+      "name:lt": "Čelmsfordas",
+      "name:mk": "Челмсфорд",
+      "name:ru": "Челмсфорд",
+      "name:sr": "Челмсфорд",
+      "name:uk": "Челмсфорд",
+      "old_name": "Caesaromagus"
+    }
+  },
+  {
+    "name": "Chelsea",
+    "country": "United States Of America",
+    "latitude": 42.391763800511825,
+    "longitude": -71.0328284,
+    "other_names": {
+      "name": "Chelsea"
+    }
+  },
+  {
+    "name": "Chelyabinsk",
+    "country": "Russia",
+    "latitude": 55.15984079947092,
+    "longitude": 61.4025547,
+    "other_names": {
+      "name": "Челябинск",
+      "name:af": "Tsjeljabinsk",
+      "name:ar": "تشيليابنسك",
+      "name:az": "Çelyabinsk",
+      "name:ba": "Силәбе",
+      "name:be": "Чалябінск",
+      "name:bg": "Челябинск",
+      "name:bn": "চেলিয়াবিন্‌স্ক",
+      "name:br": "Tchelyabinsk",
+      "name:ca": "Txeliàbinsk",
+      "name:ce": "Челябинск",
+      "name:cs": "Čeljabinsk",
+      "name:cu": "Чєлѣбиньскъ",
+      "name:cv": "Челепи",
+      "name:cy": "Chelyabinsk",
+      "name:da": "Tjeljabinsk",
+      "name:de": "Tscheljabinsk",
+      "name:el": "Τσελιάμπινσκ",
+      "name:en": "Chelyabinsk",
+      "name:eo": "Ĉeljabinsk",
+      "name:es": "Cheliábinsk",
+      "name:et": "Tšeljabinsk",
+      "name:eu": "Txeliabinsk",
+      "name:fa": "چلیابینسک",
+      "name:fi": "Tšeljabinsk",
+      "name:fr": "Tcheliabinsk",
+      "name:fy": "Tsjeljabinsk",
+      "name:ga": "Chelyabinsk",
+      "name:gl": "Cheliabinsk",
+      "name:ha": "Chelyabinsk",
+      "name:he": "צ'ליאבינסק",
+      "name:hi": "चेल्याबिंस्क",
+      "name:hr": "Čeljabinsk",
+      "name:hu": "Cseljabinszk",
+      "name:hy": "Չելյաբինսկ",
+      "name:id": "Chelyabinsk",
+      "name:is": "Tsjeljabínsk",
+      "name:it": "Čeljabinsk",
+      "name:ja": "チェリャビンスク",
+      "name:jv": "Chelyabinsk",
+      "name:ka": "ჩელიაბინსკი",
+      "name:kk": "Челябі",
+      "name:kl": "Tjeljabinsk",
+      "name:kn": "ಚೇಲ್ಯಾಬಿಂಸ್ಕ್",
+      "name:ko": "첼랴빈스크",
+      "name:kv": "Челябинск",
+      "name:ky": "Челябинск",
+      "name:la": "Celiabinsca",
+      "name:lt": "Čeliabinskas",
+      "name:lv": "Čeļabinska",
+      "name:mk": "Чељабинск",
+      "name:mn": "Челябинск",
+      "name:mr": "चेलियाबिन्स्क",
+      "name:nl": "Tsjeljabinsk",
+      "name:nn": "Tsjeljabinsk",
+      "name:no": "Tsjeljabinsk",
+      "name:oc": "Cheliabinsk",
+      "name:os": "Челябинск",
+      "name:pl": "Czelabińsk",
+      "name:pt": "Cheliabinsk",
+      "name:ro": "Celiabinsk",
+      "name:ru": "Челябинск",
+      "name:sh": "Čeljabinsk",
+      "name:sk": "Čeľabinsk",
+      "name:sl": "Čeljabinsk",
+      "name:sr": "Чељабинск",
+      "name:sv": "Tjeljabinsk",
+      "name:sw": "Chelyabinsk",
+      "name:tg": "Челябинск",
+      "name:th": "เชเลียบินสค์",
+      "name:tl": "Chelyabinsk",
+      "name:tr": "Çelyabinsk",
+      "name:tt": "Чиләбе",
+      "name:uk": "Челябінськ",
+      "name:ur": "چیلیابنسک",
+      "name:uz": "Chelyabinsk",
+      "name:vi": "Chelyabinsk",
+      "name:vo": "Tsyelyabinsk",
+      "name:wo": "Chelyabinsk",
+      "name:yi": "טשעליאבינסק",
+      "name:zh": "車里雅賓斯克",
+      "int_name": "Chelyabinsk",
+      "loc_name": "Танкоград;Столица Южного Урала;",
+      "name:avk": "Tcelyabinsk",
+      "name:azb": "چلیابینسک",
+      "name:bxr": "Челябинск",
+      "name:ceb": "Chelyabinsk",
+      "name:crh": "Çelâbinsk",
+      "name:hsb": "Čeljabinsk",
+      "name:koi": "Челяба",
+      "name:lad": "Chelyabinsk",
+      "name:lez": "Челябинск",
+      "name:lmo": "Čeljabinsk",
+      "name:mdf": "Челяба",
+      "name:mhr": "Челябе",
+      "name:min": "Chelyabinsk",
+      "name:nah": "Chelyabinsk",
+      "name:pcd": "Tchéliabïnsk",
+      "name:pnb": "چلیابنسک",
+      "name:scn": "Chelyabinsk",
+      "name:sco": "Chelyabinsk",
+      "name:szl": "Czelabińsk",
+      "name:tum": "Chelyabinsk",
+      "name:udm": "Челябинск",
+      "name:vep": "Čeläbinsk",
+      "name:war": "Chelyabinsk",
+      "name:wuu": "车里雅宾斯克",
+      "name:xmf": "ჩელიაბინსკი",
+      "name:be-tarask": "Чалябінск",
+      "name:ru:word_stress": "Челя́бинск"
+    }
+  }
+]

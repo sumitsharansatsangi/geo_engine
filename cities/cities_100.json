@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Cottbus - Chóśebuz",
+    "country": "Germany",
+    "latitude": 51.75674469914127,
+    "longitude": 14.335730699999997,
+    "other_names": {
+      "name": "Cottbus - Chóśebuz",
+      "name:ar": "كتبوس",
+      "name:cs": "Chotěbuz",
+      "name:de": "Cottbus",
+      "name:fa": "کتبوس",
+      "name:ja": "コトブス",
+      "name:lt": "Kotbusas",
+      "name:nl": "Cottbus",
+      "name:pl": "Chociebuż",
+      "name:ru": "Котбус",
+      "name:sr": "Котбус",
+      "name:ur": "کتبوس",
+      "name:dsb": "Chóśebuz",
+      "name:hsb": "Choćebuz",
+      "alt_name:dsb": "Chóšobuz"
+    }
+  },
+  {
+    "name": "Cotuí",
+    "country": "Haiti And Domrep",
+    "latitude": 19.058468000318502,
+    "longitude": -70.1533738,
+    "other_names": {
+      "name": "Cotuí",
+      "name:ru": "Котуи"
+    }
+  },
+  {
+    "name": "Courtenay",
+    "country": "Canada",
+    "latitude": 49.68940609952441,
+    "longitude": -124.9954959,
+    "other_names": {
+      "name": "Courtenay"
+    }
+  },
+  {
+    "name": "Cova Figueira",
+    "country": "Cape Verde",
+    "latitude": 14.886235591980894,
+    "longitude": -24.29457111312712,
+    "other_names": {
+      "name": "Cova Figueira"
+    }
+  },
+  {
+    "name": "Coventry",
+    "country": "England",
+    "latitude": 52.40818119909141,
+    "longitude": -1.510477,
+    "other_names": {
+      "name": "Coventry",
+      "name:be": "Ковентры",
+      "name:ja": "コヴェントリー",
+      "name:ko": "코번트리",
+      "name:mk": "Ковентри",
+      "name:ru": "Ковентри",
+      "name:sr": "Ковентри",
+      "name:uk": "Ковентрі",
+      "name:zh": "考文垂",
+      "name:zh_pinyin": "Kǎowénchuí"
+    }
+  },
+  {
+    "name": "Covilhã",
+    "country": "Portugal",
+    "latitude": 40.28056580030462,
+    "longitude": -7.504321099999999,
+    "other_names": {
+      "name": "Covilhã"
+    }
+  },
+  {
+    "name": "Coxen Hole",
+    "country": "Honduras",
+    "latitude": 16.316779900060606,
+    "longitude": -86.5374413,
+    "other_names": {
+      "name": "Coxen Hole",
+      "name:hu": "Coxen Hole",
+      "alt_name": "Roatan City"
+    }
+  },
+  {
+    "name": "Cox's Bazar",
+    "country": "Bangladesh",
+    "latitude": 21.452023800409673,
+    "longitude": 92.01690909999999,
+    "other_names": {
+      "name": "কক্সবাজার",
+      "name:bn": "কক্সবাজার",
+      "name:de": "Cox’s Bazar",
+      "name:en": "Cox's Bazar",
+      "name:hi": "कॉक्स बाजार",
+      "name:ja": "コックスバザール",
+      "name:kn": "ಕಕ್ಸ್ ಬಾಜಾರ್"
+    }
+  },
+  {
+    "name": "Coyah",
+    "country": "Guinea",
+    "latitude": 9.709040999424781,
+    "longitude": -13.388955999999999,
+    "other_names": {
+      "name": "Coyah",
+      "int_name": "Coyah"
+    }
+  },
+  {
+    "name": "Coyhaique",
+    "country": "Chile",
+    "latitude": -45.57118040031963,
+    "longitude": -72.0684863,
+    "other_names": {
+      "name": "Coyhaique",
+      "name:en": "Coyhaique",
+      "name:es": "Coyhaique",
+      "name:ru": "Койайке",
+      "alt_name": "Coihaique",
+      "old_name": "Baquedano"
+    }
+  },
+  {
+    "name": "Craiova",
+    "country": "Romania",
+    "latitude": 44.319015900518856,
+    "longitude": 23.7965614,
+    "other_names": {
+      "name": "Craiova",
+      "name:ar": "كرايوفا",
+      "name:bg": "Крайова",
+      "name:de": "Krajowa",
+      "name:el": "Κραϊόβα",
+      "name:en": "Craiova",
+      "name:es": "Craiova",
+      "name:fr": "Craiova",
+      "name:lt": "Krajova",
+      "name:lv": "Krajova",
+      "name:pl": "Krajowa",
+      "name:ru": "Крайова",
+      "name:sr": "Крајова",
+      "name:uk": "Крайова",
+      "old_name:de": "Kragau"
+    }
+  },
+  {
+    "name": "Cranbrook",
+    "country": "Canada",
+    "latitude": 49.51074769956716,
+    "longitude": -115.7672772,
+    "other_names": {
+      "name": "Cranbrook",
+      "name:en": "Cranbrook",
+      "name:ru": "Кранбрук",
+      "alt_name:ru": "Крэнбрук"
+    }
+  },
+  {
+    "name": "Cranston",
+    "country": "United States Of America",
+    "latitude": 41.78095880046896,
+    "longitude": -71.4371257,
+    "other_names": {
+      "name": "Cranston"
+    }
+  },
+  {
+    "name": "Crato",
+    "country": "Brazil",
+    "latitude": -7.2369111997209155,
+    "longitude": -39.414923599999995,
+    "other_names": {
+      "name": "Crato"
+    }
+  },
+  {
+    "name": "Cremona",
+    "country": "Italy",
+    "latitude": 45.13347960045496,
+    "longitude": 10.0248716,
+    "other_names": {
+      "name": "Cremona",
+      "name:el": "Κρεμόνα",
+      "name:en": "Cremona",
+      "name:fr": "Crémone",
+      "name:he": "קרמונה",
+      "name:it": "Cremona",
+      "name:ru": "Кремона",
+      "name:zh": "克雷莫納"
+    }
+  },
+  {
+    "name": "Criciúma",
+    "country": "Brazil",
+    "latitude": -28.678994099362846,
+    "longitude": -49.369562699999996,
+    "other_names": {
+      "name": "Criciúma",
+      "name:en": "Criciúma",
+      "name:ru": "Крисиума"
+    }
+  },
+  {
+    "name": "Croix-des-Bouquets",
+    "country": "Haiti And Domrep",
+    "latitude": 18.577544400282935,
+    "longitude": -72.2296219,
+    "other_names": {
+      "name": "Croix-des-Bouquets",
+      "name:ht": "Kwadèbouke",
+      "name:hu": "Croix-des-Bouquets"
+    }
+  },
+  {
+    "name": "Crotone",
+    "country": "Italy",
+    "latitude": 39.080622300137584,
+    "longitude": 17.127195999999998,
+    "other_names": {
+      "name": "Crotone",
+      "name:ar": "كروتونه",
+      "name:el": "Κρότωνας",
+      "name:es": "Crotona",
+      "name:fa": "کروتون",
+      "name:it": "Crotone",
+      "name:lt": "Krotonė",
+      "name:ru": "Кротоне",
+      "name:uk": "Кротоне",
+      "name:ur": "کروتونے",
+      "name:zh": "克羅托內",
+      "alt_name": "Krotone",
+      "name:scn": "Cutroni",
+      "old_name": "Cotrone",
+      "alt_name:ar": "كروتوني",
+      "name:zh-Hans": "克罗托内"
+    }
+  },
+  {
+    "name": "Cúa",
+    "country": "Venezuela",
+    "latitude": 10.16536759944643,
+    "longitude": -66.8865117,
+    "other_names": {
+      "name": "Cúa"
+    }
+  },
+  {
+    "name": "Cuauhtémoc",
+    "country": "Mexico",
+    "latitude": 28.40095789990181,
+    "longitude": -106.8665305,
+    "other_names": {
+      "name": "Cuauhtémoc",
+      "name:ru": "Сьюдад-Куаутемок",
+      "alt_name": "Ciudad Cuauhtémoc",
+      "old_name": "San Antonio de los Arenales"
+    }
+  }
+]

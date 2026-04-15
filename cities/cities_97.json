@@ -1,0 +1,349 @@
+[
+  {
+    "name": "Comănești",
+    "country": "Romania",
+    "latitude": 46.42424985422957,
+    "longitude": 26.433490973795234,
+    "other_names": {
+      "name": "Comănești",
+      "name:ru": "Комэнешти"
+    }
+  },
+  {
+    "name": "Comayagua",
+    "country": "Honduras",
+    "latitude": 14.449057399842323,
+    "longitude": -87.6424395,
+    "other_names": {
+      "name": "Comayagua",
+      "name:hu": "Comayagua",
+      "name:lt": "Komajagva"
+    }
+  },
+  {
+    "name": "Comendador",
+    "country": "Haiti And Domrep",
+    "latitude": 18.876697800305653,
+    "longitude": -71.70507519999998,
+    "other_names": {
+      "name": "Comendador",
+      "official_name": "Comendador de Lares"
+    }
+  },
+  {
+    "name": "Comitán",
+    "country": "Mexico",
+    "latitude": 16.244109700052388,
+    "longitude": -92.1348514,
+    "other_names": {
+      "name": "Comitán",
+      "name:ru": "Комитан",
+      "alt_name": "Comitán de Dominguez"
+    }
+  },
+  {
+    "name": "Como",
+    "country": "Italy",
+    "latitude": 45.81156230037072,
+    "longitude": 9.0830353,
+    "other_names": {
+      "name": "Como",
+      "name:bg": "Комо",
+      "name:de": "Chum",
+      "name:el": "Κόμο",
+      "name:en": "Como",
+      "name:fr": "Côme",
+      "name:he": "קומו",
+      "name:it": "Como",
+      "name:lt": "Komas",
+      "name:ru": "Комо",
+      "name:uk": "Комо",
+      "name:zh": "科莫",
+      "name:lmo": "Comm",
+      "name:scn": "Comu"
+    }
+  },
+  {
+    "name": "Comodoro Rivadavia",
+    "country": "Argentina",
+    "latitude": -45.86320240021547,
+    "longitude": -67.4752615,
+    "other_names": {
+      "name": "Comodoro Rivadavia",
+      "name:el": "Κομοντόρο Ριβαντάβια",
+      "name:en": "Comodoro Rivadavia",
+      "name:ru": "Комодоро-Ривадавия",
+      "name:tr": "Comodoro Rivadia",
+      "name:uk": "Комодоро-Рівадавія"
+    }
+  },
+  {
+    "name": "Comrat",
+    "country": "Moldova",
+    "latitude": 46.30111900029331,
+    "longitude": 28.655880500000002,
+    "other_names": {
+      "name": "Comrat",
+      "name:az": "Komrat",
+      "name:bg": "Комрат",
+      "name:lt": "Komratas",
+      "name:pl": "Komrat",
+      "name:ro": "Comrat",
+      "name:ru": "Комрат",
+      "name:tr": "Komrat",
+      "name:uk": "Комрат",
+      "int_name": "Comrat",
+      "name:gag": "Komrat",
+      "name:gag-cyr": "Комрат"
+    }
+  },
+  {
+    "name": "Cona",
+    "country": "China",
+    "latitude": 27.994803999946814,
+    "longitude": 91.9560868,
+    "other_names": {
+      "name": "错那县",
+      "name:bo": "མཚོ་སྣ་རྫོང་",
+      "name:en": "Cona",
+      "name:ja": "ツォナ県",
+      "name:ru": "Цона",
+      "name:uk": "Цона",
+      "name:zh": "错那县",
+      "alt_name": "错那县",
+      "int_name": "cuona xian",
+      "alt_name:en": "Tsona Dzong",
+      "name:zh-Hant": "錯那縣",
+      "name:zh_pinyin": "Cuònà Xiàn"
+    }
+  },
+  {
+    "name": "Conakry",
+    "country": "Guinea",
+    "latitude": 9.517060199417203,
+    "longitude": -13.699843399999999,
+    "other_names": {
+      "name": "Conakry",
+      "name:ar": "كوناكري",
+      "name:bn": "কোনাক্রি",
+      "name:bo": "ཀོ་ནཀ་རི།",
+      "name:de": "Conakry",
+      "name:el": "Κονακρί",
+      "name:en": "Conakry",
+      "name:es": "Conakri",
+      "name:fa": "کوناکری",
+      "name:fr": "Conakry",
+      "name:he": "קונאקרי",
+      "name:hu": "Conakry",
+      "name:hy": "Կոնակրի",
+      "name:is": "Kónakrí",
+      "name:ja": "コナクリ",
+      "name:ka": "კონაკრი",
+      "name:ko": "코나크리",
+      "name:ky": "Конакри",
+      "name:lt": "Konakris",
+      "name:mk": "Конакри",
+      "name:mr": "कोनाक्री",
+      "name:oc": "Conakry",
+      "name:pl": "Konakry",
+      "name:pt": "Conacri",
+      "name:ru": "Конакри",
+      "name:so": "Konakri",
+      "name:sq": "Konakri",
+      "name:sr": "Конакри",
+      "name:sv": "Conakry",
+      "name:ta": "கொனாக்ரி",
+      "name:tg": "Конакри",
+      "name:th": "โกนากรี",
+      "name:tr": "Konakri",
+      "name:uk": "Конакрі",
+      "name:ur": "کوناکری",
+      "name:zh": "科納克里",
+      "name:ckb": "کۆناکری",
+      "name:mrj": "Конакри",
+      "name:nah": "Conacri",
+      "name:nqo": "ߞߐߣߊߞߙߌ߫",
+      "name:pnb": "کوناکری",
+      "name:udm": "Конакри"
+    }
+  },
+  {
+    "name": "Concepción",
+    "country": "Chile",
+    "latitude": -36.82707950030523,
+    "longitude": -73.0502399,
+    "other_names": {
+      "name": "Concepción",
+      "name:ab": "Консeпcион",
+      "name:am": "ኮንሴፕሲዮን",
+      "name:ar": "كونثبثيون",
+      "name:az": "Konsepsion",
+      "name:be": "Кансепсьён",
+      "name:bg": "Консепсион",
+      "name:el": "Κονσεπσιόν",
+      "name:eo": "Koncepciono",
+      "name:fa": "کنسپسیون، شیلی",
+      "name:he": "קונספסיון",
+      "name:hi": "कॉन्सेप्सिओन",
+      "name:hy": "Կոնսեպսիոն",
+      "name:ja": "コンセプシオン",
+      "name:ka": "კონსეფსიონი",
+      "name:ko": "콘셉시온",
+      "name:ky": "Консепсьон",
+      "name:lt": "Konsepsjonas",
+      "name:mn": "Консепшон",
+      "name:mr": "कन्सेप्सियान",
+      "name:pa": "ਕਾਂਸੇਪਸਿਉਂ",
+      "name:ru": "Консепсьон",
+      "name:sa": "कान्सेप्सियान्",
+      "name:sd": "ڪونسيپشيون، چلي",
+      "name:sr": "Консепсион",
+      "name:ta": "கன்செப்சியான்",
+      "name:th": "กอนเซปซิออน",
+      "name:tk": "Konsepsion",
+      "name:tt": "Консепсьон",
+      "name:uk": "Консепсьйон",
+      "name:ur": "کونسیپشیون",
+      "name:yi": "קאנסעפסיאן",
+      "name:ang": "Conþepþeon",
+      "name:arc": "ܩܘܢܣܦܣܝܘܢ",
+      "name:arz": "كونسبسيون",
+      "name:din": "Konsepcion",
+      "name:got": "𐌺𐌰𐌿𐌽𐍄𐍃𐌰𐌹𐍀𐍄𐍃𐌾𐍉𐌽"
+    }
+  },
+  {
+    "name": "Concepción",
+    "country": "Paraguay",
+    "latitude": -23.41172470000971,
+    "longitude": -57.44181279999999,
+    "other_names": {
+      "name": "Concepción"
+    }
+  },
+  {
+    "name": "Concepcion Batres",
+    "country": "El Salvador",
+    "latitude": 13.34168289971604,
+    "longitude": -88.3714795,
+    "other_names": {
+      "name": "Concepcion Batres"
+    }
+  },
+  {
+    "name": "Conchagua",
+    "country": "El Salvador",
+    "latitude": 13.306591999712202,
+    "longitude": -87.8624953,
+    "other_names": {
+      "name": "Conchagua"
+    }
+  },
+  {
+    "name": "Concord",
+    "country": "United States Of America",
+    "latitude": 43.20717800054048,
+    "longitude": -71.53747599999998,
+    "other_names": {
+      "name": "Concord",
+      "name:en": "Concord",
+      "name:he": "קונקורד",
+      "name:lt": "Konkordas",
+      "name:pl": "Concord",
+      "name:ru": "Конкорд",
+      "name:ta": "காங்கர்ட்",
+      "name:uk": "Конкорд"
+    }
+  },
+  {
+    "name": "Concord",
+    "country": "United States Of America",
+    "latitude": 35.40941779968212,
+    "longitude": -80.58000489999999,
+    "other_names": {
+      "name": "Concord",
+      "name:en": "Concord",
+      "name:ru": "Конкрод"
+    }
+  },
+  {
+    "name": "Concord",
+    "country": "United States Of America",
+    "latitude": 37.976852499978726,
+    "longitude": -122.03356239999997,
+    "other_names": {
+      "name": "Concord"
+    }
+  },
+  {
+    "name": "Concordia",
+    "country": "Argentina",
+    "latitude": -31.397253899362124,
+    "longitude": -58.01733049999999,
+    "other_names": {
+      "name": "Concordia",
+      "official_name": "San Antonio de Padua de la Concordia"
+    }
+  },
+  {
+    "name": "Conghua",
+    "country": "China",
+    "latitude": 23.550877700358996,
+    "longitude": 113.58046359999999,
+    "other_names": {
+      "name": "从化区",
+      "name:de": "Conghua",
+      "name:en": "Conghua",
+      "name:es": "Conghua",
+      "name:eu": "Conghua",
+      "name:fa": "کانگهوا",
+      "name:fr": "Conghua",
+      "name:it": "Distretto di Conghua",
+      "name:ja": "従化区",
+      "name:ko": "충화구",
+      "name:nl": "Conghua",
+      "name:no": "Conghua",
+      "name:sv": "Conghua",
+      "name:vi": "Tùng Hóa",
+      "name:zh": "从化区",
+      "alt_name": "从化;Conghua District",
+      "name:hak": "Chhiùng-fa-sṳ",
+      "name:mwl": "Conghua",
+      "name:nan": "Chiông-hoà-khu",
+      "name:pam": "Conghua",
+      "name:pnb": "کونگھوآ",
+      "name:yue": "從化",
+      "old_name": "从化市;Conghua City",
+      "name:zh-Hant": "從化區",
+      "name:zh_pinyin": "Cónghuà Qū"
+    }
+  },
+  {
+    "name": "Congjiang",
+    "country": "China",
+    "latitude": 25.75691410018845,
+    "longitude": 108.90360509999998,
+    "other_names": {
+      "name": "从江县",
+      "name:en": "Congjiang",
+      "name:zh": "从江县",
+      "alt_name": "从江",
+      "name:zh-Hant": "從江縣"
+    }
+  },
+  {
+    "name": "Congtai",
+    "country": "China",
+    "latitude": 36.61665949980211,
+    "longitude": 114.4859,
+    "other_names": {
+      "name": "丛台区",
+      "name:en": "Congtai",
+      "name:vi": "Tùng Đài",
+      "name:zh": "丛台区",
+      "alt_name": "Congtai District",
+      "name:zh-Hant": "叢臺區",
+      "name:zh_pinyin": "Congtai Qu"
+    }
+  }
+]

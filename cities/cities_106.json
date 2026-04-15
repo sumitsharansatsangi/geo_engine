@@ -1,0 +1,365 @@
+[
+  {
+    "name": "Daocheng",
+    "country": "China",
+    "latitude": 29.040848999833177,
+    "longitude": 100.296902,
+    "other_names": {
+      "name": "稻城县",
+      "name:bo": "འདབ་པ་རྫོང་",
+      "name:en": "Daocheng",
+      "name:ja": "稲城県",
+      "name:zh": "稻城县",
+      "name:zh-Hant": "稻城縣",
+      "name:zh_pinyin": "Dàochéng Xiàn"
+    }
+  },
+  {
+    "name": "Daoli",
+    "country": "China",
+    "latitude": 45.75387050037895,
+    "longitude": 126.61331139999999,
+    "other_names": {
+      "name": "道里区",
+      "name:en": "Daoli",
+      "name:zh": "道里区",
+      "name:zh-Hant": "道里區"
+    }
+  },
+  {
+    "name": "Daowai",
+    "country": "China",
+    "latitude": 45.7900309003738,
+    "longitude": 126.64352380000001,
+    "other_names": {
+      "name": "道外区",
+      "name:en": "Daowai",
+      "name:zh": "道外区",
+      "name:zh-Hant": "道外區"
+    }
+  },
+  {
+    "name": "Daozhen",
+    "country": "China",
+    "latitude": 28.86950649985118,
+    "longitude": 107.6069394,
+    "other_names": {
+      "name": "道真仡佬族苗族自治县",
+      "name:en": "Daozhen",
+      "name:vi": "Đạo Chân",
+      "name:zh": "道真仡佬族苗族自治县",
+      "alt_name": "道真;道真县Daozhen Gelaozu Miaozu Zizhixian;Tao-chen Hsien;Daozhen Xian;Daozhen Gelao and Miao Autonomous County",
+      "name:zh-Hant": "道真仡佬族苗族自治縣",
+      "official_name": "道真仡佬族苗族自治县",
+      "name:zh_pinyin": "Daozhen Gelaozu Miaozu Zizhixian"
+    }
+  },
+  {
+    "name": "Dapaong",
+    "country": "Togo",
+    "latitude": 10.859545399488756,
+    "longitude": 0.2043122,
+    "other_names": {
+      "name": "Dapaong",
+      "name:ar": "داباونق",
+      "name:fr": "Dapaong",
+      "name:ko": "다파옹",
+      "name:ru": "Дапаон",
+      "name:uk": "Дапаонг",
+      "alt_name": "Dapaong;Dapango"
+    }
+  },
+  {
+    "name": "Dapitan",
+    "country": "Philippines",
+    "latitude": 8.654944899394685,
+    "longitude": 123.42437539999999,
+    "other_names": {
+      "name": "Dapitan",
+      "name:ja": "ダピタン",
+      "official_name": "The Shrine City of the Philippines"
+    }
+  },
+  {
+    "name": "Da Qaidam",
+    "country": "China",
+    "latitude": 37.85496359996168,
+    "longitude": 95.3539794,
+    "other_names": {
+      "name": "大柴旦行政委员会",
+      "name:bo": "ཚྭ་འདམ་ཆེན་",
+      "name:de": "Da Qaidam",
+      "name:en": "Da Qaidam",
+      "name:vi": "Đại Sài Đán",
+      "name:zh": "大柴旦行政委员会",
+      "alt_name": "柴旦;大柴旦行政委员会;Chaidan;大柴旦行政区",
+      "alt_name:en": "Da Qaidam",
+      "name:zh-Hant": "大柴旦行政委員會"
+    }
+  },
+  {
+    "name": "Daqing",
+    "country": "China",
+    "latitude": 46.59690280024033,
+    "longitude": 125.1014811,
+    "other_names": {
+      "name": "大庆市",
+      "name:ar": "داتشينغ",
+      "name:de": "Daqing",
+      "name:en": "Daqing",
+      "name:et": "Daqing",
+      "name:fr": "Daqing",
+      "name:ja": "大慶市",
+      "name:lt": "Dačingas",
+      "name:ru": "Дацин",
+      "name:vi": "Đại Khánh",
+      "name:zh": "大庆市",
+      "name:zh-Hant": "大慶市",
+      "name:zh_pinyin": "Dàqìng Shì"
+    }
+  },
+  {
+    "name": "Daraa",
+    "country": "Syria",
+    "latitude": 32.622434199591574,
+    "longitude": 36.1109696,
+    "other_names": {
+      "name": "درعا",
+      "name:ar": "درعا",
+      "name:cs": "Dar'á",
+      "name:de": "Daraa",
+      "name:el": "Νταράα",
+      "name:en": "Daraa",
+      "name:es": "Daraa",
+      "name:et": "Darʿā",
+      "name:fr": "Deraa",
+      "name:he": "דרעא",
+      "name:hu": "Dara",
+      "name:ja": "ダルアー",
+      "name:ku": "Der’a",
+      "name:lt": "Dara",
+      "name:ml": "ദറാ",
+      "name:nl": "Daraa",
+      "name:pl": "Dara",
+      "name:ru": "Даръа",
+      "name:uk": "Дара",
+      "name:zh": "德拉",
+      "alt_name": "Daraa",
+      "int_name": "Dara'a",
+      "name:arc": "ܕܪܥܐ"
+    }
+  },
+  {
+    "name": "Darbhanga",
+    "country": "India",
+    "latitude": 26.1569990001482,
+    "longitude": 85.8995065,
+    "other_names": {
+      "name": "Darbhanga",
+      "name:bn": "দ্বারভাঙ্গা",
+      "name:en": "Darbhanga",
+      "name:hi": "दरभंगा",
+      "name:ja": "ダルバンガー",
+      "name:kn": "ದರ್ಭಾಂಗ",
+      "name:pa": "ਦਰਭੰਗਾ",
+      "name:ru": "Дарбханга"
+    }
+  },
+  {
+    "name": "Dar es-Salaam",
+    "country": "Tanzania",
+    "latitude": -6.816083699704477,
+    "longitude": 39.2803583,
+    "other_names": {
+      "name": "Dar es-Salaam",
+      "name:ar": "دار السلام",
+      "name:cs": "Dar es Salaam",
+      "name:da": "Dar es-Salaam",
+      "name:de": "Daressalam",
+      "name:el": "Νταρ ες Σαλάμ",
+      "name:en": "Dar es-Salaam",
+      "name:eo": "Daresalamo",
+      "name:fr": "Dar es Salam",
+      "name:he": "דאר א-סלאם",
+      "name:hi": "दार अस सलाम",
+      "name:kn": "ದಾರ್ ಅಸ್ ಸಲಾಮ್",
+      "name:ko": "다르에스살람",
+      "name:lt": "Dar es Salamas",
+      "name:pl": "Dar es Salaam",
+      "name:ru": "Дар-эс-Салам",
+      "name:uk": "Дар-ес-Салам",
+      "name:zh": "達累斯薩拉姆",
+      "alt_name": "Dar Es Salam",
+      "old_name": "Mzizima",
+      "alt_name:cs": "Dár es Salám"
+    }
+  },
+  {
+    "name": "DAR-ES-SALAM",
+    "country": "Guinea",
+    "latitude": 9.798764799428639,
+    "longitude": -13.483529099999998,
+    "other_names": {
+      "name": "DAR-ES-SALAM"
+    }
+  },
+  {
+    "name": "Darganata",
+    "country": "Turkmenistan",
+    "latitude": 40.48451660033076,
+    "longitude": 62.158050300000006,
+    "other_names": {
+      "name": "Darganata",
+      "name:en": "Darganata",
+      "name:ru": "Дарганата",
+      "name:tk": "Darganata",
+      "alt_name": "Dargan-Ata"
+    }
+  },
+  {
+    "name": "Darganata",
+    "country": "Uzbekistan",
+    "latitude": 40.48451660033076,
+    "longitude": 62.158050300000006,
+    "other_names": {
+      "name": "Darganata",
+      "name:en": "Darganata",
+      "name:ru": "Дарганата",
+      "name:tk": "Darganata",
+      "alt_name": "Dargan-Ata"
+    }
+  },
+  {
+    "name": "Darhan",
+    "country": "China",
+    "latitude": 41.69696920046179,
+    "longitude": 110.42777099999999,
+    "other_names": {
+      "name": "达尔罕茂明安联合旗",
+      "name:en": "Darhan",
+      "name:mn": "ᠳᠠᠷᠬᠠᠨ ᠮᠤᠤᠮᠢᠩᠭ᠋ᠠᠨ ᠬᠣᠯᠪᠣᠭᠠᠲᠤ ᠬᠣᠰᠢᠭᠤ",
+      "name:zh": "达尔罕茂明安联合旗",
+      "alt_name": "达尔;Darhan Muminggan United Banner;Дархан Муумянган холбоот хошуу",
+      "name:zh-Hant": "達爾罕茂明安聯合旗",
+      "official_name": "达尔罕茂明安联合旗"
+    }
+  },
+  {
+    "name": "Darjeeling",
+    "country": "India",
+    "latitude": 27.037755400053705,
+    "longitude": 88.263176,
+    "other_names": {
+      "name": "Darjeeling",
+      "name:ar": "دارجلينغ",
+      "name:bn": "দার্জিলিং",
+      "name:cs": "Dárdžiling",
+      "name:he": "דרג'ילינג",
+      "name:hi": "डार्जिलिंग",
+      "name:ja": "ダージリン",
+      "name:kn": "ಡಾರ್ಜಿಲಿಂಗ್‌",
+      "name:ml": "ഡാർജിലിങ്",
+      "name:ne": "दार्जिलिङ",
+      "name:pa": "ਦਾਰਜੀਲਿੰਗ",
+      "name:ru": "Дарджилинг",
+      "name:ta": "டார்ஜீலிங்",
+      "name:te": "డార్జిలింగ్",
+      "name:zh": "大吉嶺"
+    }
+  },
+  {
+    "name": "Darkhan",
+    "country": "Mongolia",
+    "latitude": 49.492242799571635,
+    "longitude": 105.93616129999998,
+    "other_names": {
+      "name": "Дархан",
+      "name:ar": "دارخان",
+      "name:de": "Darchan",
+      "name:en": "Darkhan",
+      "name:es": "Darjan",
+      "name:fr": "Darkhan",
+      "name:ja": "ダルハン",
+      "name:lt": "Darchanas",
+      "name:mn": "Дархан",
+      "name:ru": "Дархан",
+      "alt_name": "Дархан",
+      "int_name": "Дархан",
+      "alt_name:ar": "درخان"
+    }
+  },
+  {
+    "name": "Darlag County",
+    "country": "China",
+    "latitude": 33.757908299594995,
+    "longitude": 99.65090829999998,
+    "other_names": {
+      "name": "达日县",
+      "name:bo": "དར་ལག་རྫོང",
+      "name:de": "Darlêg",
+      "name:en": "Darlag County",
+      "name:fa": "شهرستان دارلاگ",
+      "name:fr": "Xian de Darlag",
+      "name:it": "Contea di Darlag",
+      "name:ja": "達日県",
+      "name:ko": "다르현",
+      "name:no": "Darlag",
+      "name:pl": "Darlag",
+      "name:ru": "Дарлаг",
+      "name:sv": "Dharlak",
+      "name:ur": "دارلاگ کاؤنٹی",
+      "name:vi": "Darlag",
+      "name:zh": "达日县",
+      "alt_name": "达日县;吉迈;Jimai;Darlag;Darlak;Gyümé",
+      "name:ceb": "Darlag Xian",
+      "name:nan": "Darlag-koān",
+      "alt_name:vi": "Darlag",
+      "name:zh-Hans": "达日县",
+      "name:zh-Hant": "達日縣",
+      "official_name": "吉迈镇",
+      "name:zh_pinyin": "dárì xiàn"
+    }
+  },
+  {
+    "name": "Darmstadt",
+    "country": "Germany",
+    "latitude": 49.872774999481486,
+    "longitude": 8.651176999999999,
+    "other_names": {
+      "name": "Darmstadt",
+      "name:ar": "دارمشتات",
+      "name:de": "Darmstadt",
+      "name:ja": "ダルムシュタット",
+      "name:la": "Darmstadium",
+      "name:ru": "Дармштадт",
+      "name:sr": "Дармштат",
+      "name:zh": "达姆施塔特",
+      "name:nds": "Darmstadt",
+      "name:zh-Hans": "达姆施塔特",
+      "name:zh-Hant": "達姆城"
+    }
+  },
+  {
+    "name": "Darnah",
+    "country": "Libya",
+    "latitude": 32.75937949958958,
+    "longitude": 22.638319500000005,
+    "other_names": {
+      "name": "درنة",
+      "name:ar": "درنة",
+      "name:de": "Darna",
+      "name:en": "Darnah",
+      "name:es": "Derna",
+      "name:fa": "درنه",
+      "name:fr": "Derna",
+      "name:it": "Derna",
+      "name:ks": "درنہ",
+      "name:pl": "Darna",
+      "name:ru": "Дерна",
+      "name:ur": "درنہ",
+      "name:azb": "درنه",
+      "name:ota": "درنه",
+      "name:pnb": "درنہ"
+    }
+  }
+]

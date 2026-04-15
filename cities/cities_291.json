@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Manteca",
+    "country": "United States Of America",
+    "latitude": 37.79861839995386,
+    "longitude": -121.21171480000001,
+    "other_names": {
+      "name": "Manteca"
+    }
+  },
+  {
+    "name": "Mantua",
+    "country": "Italy",
+    "latitude": 45.156668300452544,
+    "longitude": 10.7917191,
+    "other_names": {
+      "name": "Mantova",
+      "name:ar": "مانتوفا",
+      "name:ca": "Màntua",
+      "name:de": "Mantua",
+      "name:el": "Μάντοβα",
+      "name:en": "Mantua",
+      "name:es": "Mantua",
+      "name:fr": "Mantoue",
+      "name:he": "מנטובה",
+      "name:it": "Mantova",
+      "name:la": "Mantua",
+      "name:nl": "Mantua",
+      "name:pl": "Mantua",
+      "name:ru": "Мантуя",
+      "name:zh": "曼托瓦",
+      "name:egl": "Màntua",
+      "name:vec": "Màntoa",
+      "name:zh-Hans": "曼托瓦",
+      "name:zh-Hant": "曼圖亞",
+      "old_name:lat": "Mantua"
+    }
+  },
+  {
+    "name": "Manzana 49",
+    "country": "Argentina",
+    "latitude": -27.40993555692917,
+    "longitude": -55.98078435441807,
+    "other_names": {
+      "name": "Manzana 49"
+    }
+  },
+  {
+    "name": "Manzanillo",
+    "country": "Mexico",
+    "latitude": 19.050625600317964,
+    "longitude": -104.3159957,
+    "other_names": {
+      "name": "Manzanillo",
+      "name:ru": "Мансанильо"
+    }
+  },
+  {
+    "name": "Manzanillo",
+    "country": "Cuba",
+    "latitude": 20.34527340038651,
+    "longitude": -77.11997229999999,
+    "other_names": {
+      "name": "Manzanillo",
+      "name:hu": "Manzanillo",
+      "name:ru": "Мансанильо",
+      "name:uk": "Мансанільо"
+    }
+  },
+  {
+    "name": "Manzhouli",
+    "country": "Russia",
+    "latitude": 49.591404199547775,
+    "longitude": 117.44643239999998,
+    "other_names": {
+      "name": "满洲里市",
+      "name:de": "Manjur",
+      "name:en": "Manzhouli",
+      "name:et": "Manzhouli",
+      "name:ja": "満州里",
+      "name:mn": "Манжуур хот",
+      "name:ru": "Маньчжурия",
+      "name:vi": "Mãn Châu Lý",
+      "name:zh": "满洲里市",
+      "alt_name": "满洲里;Manjuur;Манжули;Манжуур",
+      "int_name": "Manzhouli",
+      "alt_name:vi": "Mãn Châu Lí",
+      "name:zh-Hant": "滿洲里市"
+    }
+  },
+  {
+    "name": "Manzhouli",
+    "country": "China",
+    "latitude": 49.591404199547775,
+    "longitude": 117.44643239999998,
+    "other_names": {
+      "name": "满洲里市",
+      "name:de": "Manjur",
+      "name:en": "Manzhouli",
+      "name:et": "Manzhouli",
+      "name:ja": "満州里",
+      "name:mn": "Манжуур хот",
+      "name:ru": "Маньчжурия",
+      "name:vi": "Mãn Châu Lý",
+      "name:zh": "满洲里市",
+      "alt_name": "满洲里;Manjuur;Манжули;Манжуур",
+      "int_name": "Manzhouli",
+      "alt_name:vi": "Mãn Châu Lí",
+      "name:zh-Hant": "滿洲里市"
+    }
+  },
+  {
+    "name": "Manzini",
+    "country": "Swaziland",
+    "latitude": -26.49587059957383,
+    "longitude": 31.369588699999998,
+    "other_names": {
+      "name": "Manzini",
+      "name:ar": "منزيني",
+      "name:ko": "만지니"
+    }
+  },
+  {
+    "name": "Mao",
+    "country": "Chad",
+    "latitude": 14.123416099804365,
+    "longitude": 15.3108471,
+    "other_names": {
+      "name": "Mao ماو",
+      "name:ar": "ماو",
+      "name:en": "Mao",
+      "name:fr": "Mao",
+      "name:ko": "마오",
+      "name:ru": "Мао",
+      "name:uk": "Мао",
+      "alt_name": "Mao"
+    }
+  },
+  {
+    "name": "Mao",
+    "country": "Haiti And Domrep",
+    "latitude": 19.555679500349694,
+    "longitude": -71.07590179999998,
+    "other_names": {
+      "name": "Mao",
+      "official_name": "Santa Cruz de Mao"
+    }
+  },
+  {
+    "name": "Mao",
+    "country": "China",
+    "latitude": 31.683546299622027,
+    "longitude": 103.85022289999999,
+    "other_names": {
+      "name": "茂县",
+      "name:en": "Mao",
+      "name:ja": "茂県",
+      "name:ru": "Маосянь",
+      "name:uk": "Маосянь",
+      "name:vi": "Mậu",
+      "name:zh": "茂县",
+      "alt_name": "凤仪镇;茂县;Mao;Maoxian",
+      "name:zh-Hant": "茂縣"
+    }
+  },
+  {
+    "name": "Maojian",
+    "country": "China",
+    "latitude": 32.59498629959206,
+    "longitude": 110.808277,
+    "other_names": {
+      "name": "茅箭区",
+      "name:en": "Maojian",
+      "name:zh": "茅箭区",
+      "name:zh-Hant": "茅箭區"
+    }
+  },
+  {
+    "name": "Maoming",
+    "country": "China",
+    "latitude": 21.665696100410166,
+    "longitude": 110.92095109999998,
+    "other_names": {
+      "name": "茂名市",
+      "name:af": "Maoming",
+      "name:ar": "ماومينغ",
+      "name:bg": "Маомин",
+      "name:cs": "Mao-ming",
+      "name:cy": "Maoming",
+      "name:da": "Maoming",
+      "name:de": "Maoming",
+      "name:en": "Maoming",
+      "name:eo": "Maoming",
+      "name:es": "Maoming",
+      "name:et": "Maoming",
+      "name:eu": "Maoming",
+      "name:fa": "ماومینگ",
+      "name:fi": "Maoming",
+      "name:fr": "Maoming",
+      "name:hy": "Մաոմին",
+      "name:id": "Maoming",
+      "name:it": "Maoming",
+      "name:ja": "茂名市",
+      "name:ki": "Maoming",
+      "name:ko": "마오밍시",
+      "name:lv": "Maomina",
+      "name:mg": "Maoming",
+      "name:nl": "Maoming",
+      "name:nn": "Maoming",
+      "name:no": "Maoming",
+      "name:pl": "Maoming",
+      "name:pt": "Maoming",
+      "name:ru": "Маомин",
+      "name:sr": "Маоминг",
+      "name:sv": "Maoming",
+      "name:sw": "Maoming",
+      "name:tr": "Maoming",
+      "name:ur": "ماومنگ",
+      "name:vi": "Mậu Danh",
+      "name:zh": "茂名市",
+      "alt_name": "茂名;Màomíng City;Maoming",
+      "name:cdo": "Mâiu-mìng",
+      "name:ceb": "Maoming",
+      "name:hak": "Meu-miàng-sṳ",
+      "name:nan": "Bō͘-bêng-chhī",
+      "name:pam": "Maoming",
+      "name:war": "Maoming",
+      "name:yue": "茂名市",
+      "name:zh-Hant": "茂名市",
+      "name:yue-Latn": "Mauming-si",
+      "name:zh_pinyin": "màomíng shì"
+    }
+  },
+  {
+    "name": "Maple Ridge",
+    "country": "Canada",
+    "latitude": 49.21973449963808,
+    "longitude": -122.5997078,
+    "other_names": {
+      "name": "Maple Ridge"
+    }
+  },
+  {
+    "name": "Maputo",
+    "country": "Mozambique",
+    "latitude": -25.966212999643115,
+    "longitude": 32.56745,
+    "other_names": {
+      "name": "Maputo",
+      "name:am": "ማፑቶ",
+      "name:ar": "مابوتو",
+      "name:az": "Maputu",
+      "name:be": "Мапуту",
+      "name:bg": "Мапуто",
+      "name:bo": "མ་པུ་ཊོ།",
+      "name:cs": "Maputo",
+      "name:el": "Μαπούτο",
+      "name:en": "Maputo",
+      "name:eo": "Maputo",
+      "name:es": "Maputo",
+      "name:fa": "ماپوتو",
+      "name:fr": "Maputo",
+      "name:he": "מפוטו",
+      "name:ht": "Mapouto",
+      "name:hu": "Maputo",
+      "name:hy": "Մապուտու",
+      "name:is": "Mapútó",
+      "name:ja": "マプト",
+      "name:ka": "მაპუტუ",
+      "name:kn": "ಮಾಪುಟೊ",
+      "name:ko": "마푸투",
+      "name:ky": "Мапуту",
+      "name:lt": "Maputu",
+      "name:lv": "Maputu",
+      "name:mk": "Мапуто",
+      "name:mr": "मापुतो",
+      "name:oc": "Maputo",
+      "name:pl": "Maputo",
+      "name:pt": "Maputo",
+      "name:ru": "Мапуту",
+      "name:so": "Mabuto",
+      "name:sr": "Мапуто",
+      "name:sv": "Maputo",
+      "name:ta": "மபூட்டோ",
+      "name:tg": "Мапуту",
+      "name:th": "มาปูโต",
+      "name:uk": "Мапуту",
+      "name:ur": "ماپوتو",
+      "name:zh": "馬普托",
+      "name:ckb": "ماپوتۆ",
+      "name:mrj": "Мапуту",
+      "name:pnb": "ماپوٹو",
+      "name:tet": "Maputu",
+      "name:udm": "Мапуту"
+    }
+  },
+  {
+    "name": "Maqen",
+    "country": "China",
+    "latitude": 34.478892099621206,
+    "longitude": 100.2361841,
+    "other_names": {
+      "name": "玛沁县",
+      "name:de": "Maqên",
+      "name:en": "Maqen",
+      "name:es": "Maqên",
+      "name:fr": "Maqên",
+      "name:zh": "玛沁县",
+      "alt_name": "果洛藏族自治州;玛沁",
+      "name:zh-CN": "果洛藏族自治州",
+      "short_name": "玛沁县",
+      "name:zh-Hant": "瑪沁縣"
+    }
+  },
+  {
+    "name": "Maqu",
+    "country": "China",
+    "latitude": 33.99942479960169,
+    "longitude": 102.070068,
+    "other_names": {
+      "name": "玛曲县",
+      "name:bo": "རྨ་ཆུ",
+      "name:de": "Maqu",
+      "name:en": "Maqu",
+      "name:es": "Maqu",
+      "name:fr": "Maqu",
+      "name:zh": "玛曲",
+      "alt_name": "尼玛;Nyinma;玛曲县;Rma Chu;Machu",
+      "int_name": "Maqu",
+      "name:zh-Hant": "瑪曲縣",
+      "official_name": "尼玛镇",
+      "name:zh_pinyin": "mǎqǔ xiàn"
+    }
+  },
+  {
+    "name": "Marabá",
+    "country": "Brazil",
+    "latitude": -5.346282099680232,
+    "longitude": -49.1007401,
+    "other_names": {
+      "name": "Marabá",
+      "name:en": "Marabá",
+      "name:ru": "Мараба",
+      "name:uk": "Мараба",
+      "alt_name:en": "Maraba"
+    }
+  },
+  {
+    "name": "Maracaibo",
+    "country": "Venezuela",
+    "latitude": 10.64991489947482,
+    "longitude": -71.6396282,
+    "other_names": {
+      "name": "Maracaibo",
+      "name:mk": "Маракаибо",
+      "name:oc": "Maracaibo",
+      "name:pt": "Maracaibo",
+      "name:ru": "Марака́йбо",
+      "name:zh": "马拉开波"
+    }
+  },
+  {
+    "name": "Maracanaú",
+    "country": "Brazil",
+    "latitude": -3.8779437997090906,
+    "longitude": -38.624769699999995,
+    "other_names": {
+      "name": "Maracanaú"
+    }
+  }
+]

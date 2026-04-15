@@ -1,0 +1,406 @@
+[
+  {
+    "name": "Pengzhou",
+    "country": "China",
+    "latitude": 30.99282219966161,
+    "longitude": 103.95572499999999,
+    "other_names": {
+      "name": "彭州市",
+      "name:de": "Pengzhou",
+      "name:en": "Pengzhou",
+      "name:es": "Pengzhou",
+      "name:eu": "Pengzhou",
+      "name:fa": "پنگژو",
+      "name:fr": "Pengzhou",
+      "name:id": "Pengzhou",
+      "name:it": "Pengzhou",
+      "name:ja": "彭州市",
+      "name:ki": "Pengzhou",
+      "name:ko": "펑저우시",
+      "name:no": "Pengzhou",
+      "name:ru": "Пэнчжоу",
+      "name:sv": "Pengzhou",
+      "name:uk": "Пенчжоу",
+      "name:ur": "پینگژوو",
+      "name:vi": "Bành Châu",
+      "name:zh": "彭州市",
+      "alt_name": "彭州",
+      "name:hak": "Phàng-chû-sṳ",
+      "name:nan": "Phêng-chiu-chhī",
+      "alt_name:en": "Pengzhou",
+      "name:zh-Hant": "彭州市",
+      "name:zh_pinyin": "Péngzhōu Shì"
+    }
+  },
+  {
+    "name": "Peniche",
+    "country": "Portugal",
+    "latitude": 39.35662210017734,
+    "longitude": -9.3812853,
+    "other_names": {
+      "name": "Peniche"
+    }
+  },
+  {
+    "name": "Pensacola",
+    "country": "United States Of America",
+    "latitude": 30.421308999703868,
+    "longitude": -87.2169149,
+    "other_names": {
+      "name": "Pensacola",
+      "name:ru": "Пенсакола",
+      "name:uk": "Пенсакола"
+    }
+  },
+  {
+    "name": "Penticton",
+    "country": "Canada",
+    "latitude": 49.494890999570984,
+    "longitude": -119.594421,
+    "other_names": {
+      "name": "Penticton"
+    }
+  },
+  {
+    "name": "Penza",
+    "country": "Russia",
+    "latitude": 53.21342215928834,
+    "longitude": 45.031680296544835,
+    "other_names": {
+      "name": "Пенза",
+      "name:ar": "بينزا",
+      "name:en": "Penza",
+      "name:fr": "Penza",
+      "name:ja": "ペンザ",
+      "name:ru": "Пенза",
+      "alt_name:ar": "بانزا"
+    }
+  },
+  {
+    "name": "Penza",
+    "country": "Russia",
+    "latitude": 53.20000099909657,
+    "longitude": 45.0,
+    "other_names": {
+      "name": "Пенза",
+      "name:ar": "بينزا",
+      "name:be": "Пенза",
+      "name:cv": "Пӗнҫе",
+      "name:de": "Pensa",
+      "name:en": "Penza",
+      "name:et": "Penza",
+      "name:fi": "Penza",
+      "name:fr": "Penza",
+      "name:hu": "Penza",
+      "name:ja": "ペンザ",
+      "name:ko": "펜자",
+      "name:lt": "Penza",
+      "name:pl": "Penza",
+      "name:ro": "Penza",
+      "name:ru": "Пенза",
+      "name:sk": "Penza",
+      "name:uk": "Пенза",
+      "int_name": "Penza",
+      "alt_name:ar": "بانزا"
+    }
+  },
+  {
+    "name": "Peoria",
+    "country": "United States Of America",
+    "latitude": 40.693860900356555,
+    "longitude": -89.5891008,
+    "other_names": {
+      "name": "Peoria",
+      "name:he": "פאוריה",
+      "name:ru": "Пеория"
+    }
+  },
+  {
+    "name": "Peoria",
+    "country": "United States Of America",
+    "latitude": 33.58061149959144,
+    "longitude": -112.23729399999999,
+    "other_names": {
+      "name": "Peoria",
+      "name:ru": "Пеория",
+      "name:uk": "Піорія"
+    }
+  },
+  {
+    "name": "Pereira",
+    "country": "Colombia",
+    "latitude": 4.81426129952044,
+    "longitude": -75.69467759999999,
+    "other_names": {
+      "name": "Pereira",
+      "name:ru": "Переира"
+    }
+  },
+  {
+    "name": "Pergamino",
+    "country": "Argentina",
+    "latitude": -33.89749499967187,
+    "longitude": -60.575046,
+    "other_names": {
+      "name": "Pergamino"
+    }
+  },
+  {
+    "name": "Perm",
+    "country": "Russia",
+    "latitude": 58.03693661808738,
+    "longitude": 56.2632679318063,
+    "other_names": {
+      "name": "Пермь",
+      "name:ca": "Perm",
+      "name:de": "Perm",
+      "name:en": "Perm",
+      "name:es": "Perm",
+      "name:fr": "Perm",
+      "name:hi": "पॆर्म्",
+      "name:hu": "Perm",
+      "name:ja": "ペルミ",
+      "name:kn": "ಪೆರ್ಮ್",
+      "name:ku": "Perm",
+      "name:lt": "Permė",
+      "name:lv": "Perma",
+      "name:pl": "Perm",
+      "name:ro": "Perm",
+      "name:ru": "Пермь",
+      "name:uk": "Перм",
+      "int_name": "Perm"
+    }
+  },
+  {
+    "name": "Perm",
+    "country": "Russia",
+    "latitude": 58.01496500078383,
+    "longitude": 56.246723,
+    "other_names": {
+      "name": "Пермь",
+      "name:ar": "بيرم",
+      "name:ca": "Perm",
+      "name:cs": "Perm",
+      "name:de": "Perm",
+      "name:en": "Perm",
+      "name:es": "Perm",
+      "name:et": "Perm",
+      "name:fi": "Perm",
+      "name:fr": "Perm",
+      "name:hi": "पॆर्म्",
+      "name:hr": "Perm",
+      "name:hu": "Perm",
+      "name:ja": "ペルミ",
+      "name:kn": "ಪೆರ್ಮ್",
+      "name:ko": "페름",
+      "name:ku": "Perm",
+      "name:lt": "Permė",
+      "name:lv": "Perma",
+      "name:oc": "Perm",
+      "name:pl": "Perm",
+      "name:pt": "Perm",
+      "name:ro": "Perm",
+      "name:ru": "Пермь",
+      "name:sk": "Perm",
+      "name:uk": "Перм",
+      "name:zh": "彼尔姆",
+      "int_name": "Perm"
+    }
+  },
+  {
+    "name": "Pernik",
+    "country": "Bulgaria",
+    "latitude": 42.60921850052284,
+    "longitude": 23.030945700000004,
+    "other_names": {
+      "name": "Перник",
+      "name:bg": "Перник",
+      "name:de": "Pernik",
+      "name:en": "Pernik",
+      "name:fr": "Pernik",
+      "name:hr": "Pernik",
+      "name:lt": "Pernikas",
+      "name:nl": "Pernik",
+      "name:pl": "Pernik",
+      "name:ru": "Перник",
+      "name:sr": "Перник",
+      "int_name": "Pernik"
+    }
+  },
+  {
+    "name": "Perpignan",
+    "country": "France",
+    "latitude": 42.69853040052669,
+    "longitude": 2.8953121,
+    "other_names": {
+      "name": "Perpignan",
+      "name:an": "Perpiñán",
+      "name:ar": "بيربينيا",
+      "name:be": "Перпіньян",
+      "name:bg": "Перпинян",
+      "name:br": "Perpinyà",
+      "name:ca": "Perpinyà",
+      "name:el": "Περπινιάν",
+      "name:eo": "Perpinjano",
+      "name:es": "Perpiñán",
+      "name:eu": "Perpinyà",
+      "name:fa": "پرپینیان",
+      "name:fr": "Perpignan",
+      "name:gl": "Perpiñán",
+      "name:he": "פרפיניאן",
+      "name:hi": "पेर्पिञां",
+      "name:ia": "Perpinia",
+      "name:it": "Perpignano",
+      "name:ja": "ペルピニャン",
+      "name:kk": "Перпиньян",
+      "name:ko": "페르피냥",
+      "name:la": "Perpinianum",
+      "name:lt": "Perpinjanas",
+      "name:lv": "Perpiņāna",
+      "name:oc": "Perpinhan",
+      "name:os": "Перпиньян",
+      "name:pt": "Perpinhã",
+      "name:ru": "Перпиньян",
+      "name:sr": "Перпињан",
+      "name:uk": "Перпіньян",
+      "name:ur": "پرپینیا",
+      "name:yi": "פערפיניאן",
+      "name:zh": "佩皮尼昂",
+      "name:ext": "Perpiñán",
+      "name:mzn": "پرپینان",
+      "name:pnb": "پرپگناں",
+      "name:wuu": "班合比让",
+      "name:yue": "佩皮尼昂"
+    }
+  },
+  {
+    "name": "Perth",
+    "country": "Scotland",
+    "latitude": 56.39576789996427,
+    "longitude": -3.4335462999999997,
+    "other_names": {
+      "name": "Perth",
+      "name:de": "Perth",
+      "name:en": "Perth",
+      "name:gd": "Peairt",
+      "name:hu": "Perth",
+      "name:ko": "퍼스",
+      "name:lt": "Pertas",
+      "name:mk": "Перт",
+      "name:ru": "Перт",
+      "name:sr": "Перт",
+      "name:uk": "Перт"
+    }
+  },
+  {
+    "name": "Perth",
+    "country": "Australia",
+    "latitude": -31.95271209940563,
+    "longitude": 115.86047959999999,
+    "other_names": {
+      "name": "Perth",
+      "name:ar": "بيرث",
+      "name:de": "Perth",
+      "name:eo": "Perto",
+      "name:es": "Perth",
+      "name:fr": "Perth",
+      "name:he": "פרת",
+      "name:hi": "पर्थ",
+      "name:is": "Perth",
+      "name:ja": "パース",
+      "name:kn": "ಪರ್ತ್",
+      "name:lt": "Pertas",
+      "name:mk": "Перт",
+      "name:oc": "Perth",
+      "name:pl": "Perth",
+      "name:pt": "Perth",
+      "name:ru": "Перт",
+      "name:sr": "Перт",
+      "name:sv": "Perth",
+      "name:uk": "Перт",
+      "name:zh": "珀斯",
+      "name:nys": "Boorlo"
+    }
+  },
+  {
+    "name": "Perugia",
+    "country": "Italy",
+    "latitude": 43.111961300538965,
+    "longitude": 12.3890104,
+    "other_names": {
+      "name": "Perugia",
+      "name:ar": "بيروجيا",
+      "name:be": "Пяруджа",
+      "name:ca": "Perusa",
+      "name:el": "Περούτζια",
+      "name:en": "Perugia",
+      "name:eo": "Peruĝo",
+      "name:fa": "پروجا",
+      "name:fr": "Pérouse",
+      "name:he": "פרוג'ה",
+      "name:lt": "Perudža",
+      "name:pt": "Perúgia",
+      "name:ru": "Перуджа",
+      "name:uk": "Перуджа",
+      "name:zh": "翁布里亚"
+    }
+  },
+  {
+    "name": "Pervouralsk",
+    "country": "Russia",
+    "latitude": 56.90485800021025,
+    "longitude": 59.943119,
+    "other_names": {
+      "name": "Первоуральск",
+      "name:ar": "بيرفورالسك",
+      "name:de": "Perwouralsk",
+      "name:en": "Pervouralsk",
+      "name:es": "Pervouralsk",
+      "name:et": "Pervouralsk",
+      "name:fr": "Pervoouralsk",
+      "name:ja": "ピェルヴォウラリスク",
+      "name:ko": "페르보우랄스크",
+      "name:lt": "Pervouralskas",
+      "name:pl": "Pierwouralsk",
+      "name:ru": "Первоуральск",
+      "name:uk": "Первоуральськ",
+      "int_name": "Pervouralsk",
+      "name:ru:word_stress": "Первоура́льск"
+    }
+  },
+  {
+    "name": "Pervouralsk",
+    "country": "Russia",
+    "latitude": 56.904355011483794,
+    "longitude": 59.950257634032965,
+    "other_names": {
+      "name": "Первоуральск",
+      "name:de": "Perwouralsk",
+      "name:en": "Pervouralsk",
+      "name:et": "Pervouralsk",
+      "name:ja": "ピェルヴォウラリスク",
+      "name:lt": "Pervouralskas",
+      "name:pl": "Pierwouralsk",
+      "name:ru": "Первоуральск",
+      "name:uk": "Первоуральськ",
+      "int_name": "Pervouralsk",
+      "name:ru:word_stress": "Первоура́льск"
+    }
+  },
+  {
+    "name": "Pesaro",
+    "country": "Italy",
+    "latitude": 43.90981140053545,
+    "longitude": 12.913122800000002,
+    "other_names": {
+      "name": "Pesaro",
+      "name:el": "Πέζαρο",
+      "name:en": "Pesaro",
+      "name:ru": "Пезаро",
+      "name:zh": "佩萨罗",
+      "name:rgn": "Pès're",
+      "name:zh-Hant": "佩薩羅",
+      "old_name:lat": "Pisaurum"
+    }
+  }
+]

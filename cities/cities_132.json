@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Faizabad",
+    "country": "India",
+    "latitude": 26.778928200082113,
+    "longitude": 82.14269399999999,
+    "other_names": {
+      "name": "Ayodhya",
+      "name:ar": "فيض آباد",
+      "name:en": "Faizabad",
+      "name:he": "פייזאבאד",
+      "name:hi": "फ़ैज़ाबाद",
+      "name:ja": "ファイザーバード",
+      "name:kn": "ಫೈಜಾಬಾದ್",
+      "name:ml": "ഫൈസാബാദ്",
+      "name:ru": "Файзабад",
+      "name:ur": "فیض آباد",
+      "alt_name:ar": "فايز آباد"
+    }
+  },
+  {
+    "name": "Faku",
+    "country": "China",
+    "latitude": 42.50469300051784,
+    "longitude": 123.4123424,
+    "other_names": {
+      "name": "法库县",
+      "name:en": "Faku",
+      "name:ja": "法庫県",
+      "name:ru": "Факу",
+      "name:zh": "法库县",
+      "alt_name": "法库;Faku County",
+      "name:zh-Hant": "法庫縣"
+    }
+  },
+  {
+    "name": "Fall River",
+    "country": "United States Of America",
+    "latitude": 41.70106420046215,
+    "longitude": -71.1546367,
+    "other_names": {
+      "name": "Fall River"
+    }
+  },
+  {
+    "name": "Fallujah",
+    "country": "Iraq",
+    "latitude": 33.35321369958851,
+    "longitude": 43.78756739999999,
+    "other_names": {
+      "name": "الفلوجة",
+      "name:ar": "الفلوجة",
+      "name:de": "Falludscha",
+      "name:en": "Fallujah",
+      "name:eo": "Faluĝa",
+      "name:es": "Faluya",
+      "name:et": "Al-Fallūjah",
+      "name:fr": "Fallouja",
+      "name:he": "פלוג'ה",
+      "name:hi": "फल्लुजा",
+      "name:hu": "Falludzsa",
+      "name:it": "Falluja",
+      "name:ja": "ファルージャ",
+      "name:pt": "Falluja",
+      "name:tr": "Felluce",
+      "name:ckb": "فەلوجە",
+      "alt_name:fr": "Falloujah"
+    }
+  },
+  {
+    "name": "Falun",
+    "country": "Sweden",
+    "latitude": 60.60700680173364,
+    "longitude": 15.632305899999997,
+    "other_names": {
+      "name": "Falun",
+      "name:ru": "Фалун",
+      "name:sv": "Falun",
+      "old_name": "Fahlun;Fahlund"
+    }
+  },
+  {
+    "name": "Famagusta",
+    "country": "Cyprus",
+    "latitude": 35.12454359966034,
+    "longitude": 33.93254189999999,
+    "other_names": {
+      "name": "Gazimağusa",
+      "name:ar": "الماغوصة",
+      "name:ca": "Famagusta",
+      "name:da": "Famagusta",
+      "name:de": "Famagusta",
+      "name:el": "Αμμόχωστος",
+      "name:en": "Famagusta",
+      "name:es": "Famagusta",
+      "name:et": "Famagusta",
+      "name:fr": "Famagouste",
+      "name:he": "פמגוסטה",
+      "name:it": "Famagosta",
+      "name:oc": "Famagosta",
+      "name:pl": "Famagusta",
+      "name:ru": "Фамагуста",
+      "name:tr": "Mağusa",
+      "name:uk": "Фамагуста",
+      "int_name": "Famagusta",
+      "old_name": "Ammochostos",
+      "alt_name:ar": "فاماغوستا",
+      "alt_name:tr": "Gazimağusa"
+    }
+  },
+  {
+    "name": "Fanchang",
+    "country": "China",
+    "latitude": 31.103203999654397,
+    "longitude": 118.19398519999997,
+    "other_names": {
+      "name": "繁昌区",
+      "name:de": "Fanchang",
+      "name:en": "Fanchang",
+      "name:eo": "Fanchang",
+      "name:es": "Fanchang",
+      "name:fr": "Fanchang",
+      "name:ja": "繁昌区",
+      "name:ko": "판창 구",
+      "name:pt": "Fanchang",
+      "name:sv": "Fanchang",
+      "name:vi": "Phồn Xương",
+      "name:zh": "繁昌区",
+      "alt_name": "繁昌;Fanchang District",
+      "name:zh-Hant": "繁昌區",
+      "name:zh_pinyin": "Fanchang Qu"
+    }
+  },
+  {
+    "name": "Fancheng",
+    "country": "China",
+    "latitude": 32.04674899960688,
+    "longitude": 112.1296298,
+    "other_names": {
+      "name": "樊城区",
+      "name:en": "Fancheng",
+      "name:vi": "Phàn Thành",
+      "name:zh": "樊城区",
+      "alt_name": "樊城;Fancheng District",
+      "name:zh-Hant": "樊城區",
+      "name:zh_pinyin": "Fancheng Qu"
+    }
+  },
+  {
+    "name": "Fangcheng",
+    "country": "China",
+    "latitude": 33.25935939958786,
+    "longitude": 113.00010589999998,
+    "other_names": {
+      "name": "方城县",
+      "name:en": "Fangcheng",
+      "name:vi": "Phương Thành",
+      "name:zh": "方城县",
+      "alt_name": "方城;Fangcheng County",
+      "name:zh-Hant": "方城縣",
+      "name:zh_pinyin": "Fangcheng Xian"
+    }
+  },
+  {
+    "name": "Fangcheng District",
+    "country": "China",
+    "latitude": 21.764751900409955,
+    "longitude": 108.35650360000001,
+    "other_names": {
+      "name": "防城区",
+      "name:de": "Fangcheng",
+      "name:en": "Fangcheng District",
+      "name:fr": "District de Fangcheng",
+      "name:it": "Distretto di Fangcheng",
+      "name:ja": "防城区",
+      "name:ko": "팡청구",
+      "name:no": "Fangcheng",
+      "name:ru": "Фанчэн",
+      "name:sv": "Fangcheng",
+      "name:vi": "Phòng Thành",
+      "name:zh": "防城区",
+      "alt_name": "防城;Fangcheng",
+      "name:ceb": "Fangcheng Qu",
+      "name:hak": "Fòng-sàng-khî",
+      "name:nan": "Hông-siâⁿ-khu",
+      "name:yue": "防城区",
+      "name:zh-Hans": "防城区",
+      "name:zh-Hant": "防城區",
+      "name:yue-Latn": "Fongsing-ki",
+      "name:zh_pinyin": "fángchéng qū"
+    }
+  },
+  {
+    "name": "Fangchenggang",
+    "country": "China",
+    "latitude": 21.689522800410142,
+    "longitude": 108.3507497,
+    "other_names": {
+      "name": "防城港市",
+      "name:ar": "فانغشنغانغ",
+      "name:cs": "Fang-čcheng-kang",
+      "name:da": "Fangchenggang",
+      "name:de": "Fangchenggang",
+      "name:en": "Fangchenggang",
+      "name:es": "Fangchenggang",
+      "name:et": "Fangchenggang",
+      "name:eu": "Fangchenggang",
+      "name:fa": "فانگچنگانگ",
+      "name:fi": "Fangchenggang",
+      "name:fr": "Fangchenggang",
+      "name:hi": "फ़ैंगचेंगगैंग",
+      "name:it": "Fangchenggang",
+      "name:ja": "防城港市",
+      "name:ki": "Fangchenggang",
+      "name:ko": "팡청강시",
+      "name:nl": "Fangchenggang",
+      "name:nn": "Fangchenggang",
+      "name:no": "Fangchenggang",
+      "name:pl": "Fangchenggang",
+      "name:pt": "Fangchenggang",
+      "name:ru": "Фанчэнган",
+      "name:sv": "Fangchenggang",
+      "name:tr": "Fangchenggang",
+      "name:ur": "فانگچینگگانگ",
+      "name:vi": "Phòng Thành Cảng",
+      "name:za": "Fangzcwngzgangj",
+      "name:zh": "防城港市",
+      "alt_name": "防城港;Fangchenggang City",
+      "name:cdo": "Huòng-siàng-gē̤ng",
+      "name:ceb": "Fangchenggang Shi",
+      "name:hak": "Fòng-sàng-kóng-sṳ",
+      "name:nan": "Hông-siâⁿ-káng-chhī",
+      "name:pnb": "فانگچینگ گانگ",
+      "name:yue": "防城港市",
+      "name:zh-Hant": "防城港市",
+      "name:yue-Latn": "Fongsinggong-si",
+      "name:zh_pinyin": "Fángchénggǎng Shì",
+      "old_name:1888-1958": "防城县",
+      "old_name:1978-1993": "防城各族自治县",
+      "old_name:en:1888-1958": "Fangcheng County",
+      "old_name:en:1978-1993": "Fangcheng Various Nationalities Autonomous County",
+      "old_name:zh-Hant:1888-1958": "防城縣",
+      "old_name:zh-Hant:1978-1993": "防城各族自治縣",
+      "old_name:yue-Latn:1888-1958": "Fongsing-jin",
+      "old_name:yue-Latn:1978-1993": "Fongsing Gokzuk Zizi Jin"
+    }
+  },
+  {
+    "name": "Fangshan",
+    "country": "China",
+    "latitude": 37.895011899967265,
+    "longitude": 111.2337901,
+    "other_names": {
+      "name": "方山县",
+      "name:en": "Fangshan",
+      "name:ja": "方山県",
+      "name:ru": "Гэдун",
+      "name:zh": "方山县",
+      "alt_name": "方山;圪洞镇;圪洞;Fangshan Xian;Gedong Zhen;Gedong;Ko-tung-chen;Ko-tung",
+      "name:zh-Hant": "方山縣"
+    }
+  },
+  {
+    "name": "Fangshan",
+    "country": "China",
+    "latitude": 39.74561730023233,
+    "longitude": 116.13707,
+    "other_names": {
+      "name": "房山区",
+      "name:en": "Fangshan",
+      "name:ja": "房山区",
+      "name:vi": "Phòng Sơn",
+      "name:zh": "房山区",
+      "name:zh-Hant": "房山區",
+      "name:zh_pinyin": "Fángshān Qū"
+    }
+  },
+  {
+    "name": "Fangxian",
+    "country": "China",
+    "latitude": 32.04261409960703,
+    "longitude": 110.7210616,
+    "other_names": {
+      "name": "房县",
+      "name:en": "Fangxian",
+      "name:ja": "房県",
+      "name:ru": "Фансянь",
+      "name:zh": "房县",
+      "name:zh-Hant": "房縣"
+    }
+  },
+  {
+    "name": "Fangzheng",
+    "country": "China",
+    "latitude": 45.841530000366355,
+    "longitude": 128.8297581,
+    "other_names": {
+      "name": "方正县",
+      "name:en": "Fangzheng",
+      "name:ru": "Фанчжэн",
+      "name:vi": "Phương Chính",
+      "name:zh": "方正县",
+      "int_name": "Fangzheng",
+      "name:zh-Hant": "方正縣",
+      "official_name": "方正镇",
+      "name:zh_pinyin": "Fāngzhèng zhèn"
+    }
+  },
+  {
+    "name": "Fangzi",
+    "country": "China",
+    "latitude": 36.65425429980648,
+    "longitude": 119.16052209999997,
+    "other_names": {
+      "name": "坊子区",
+      "name:en": "Fangzi",
+      "name:ru": "Фанцзы",
+      "name:zh": "坊子区",
+      "name:zh-Hant": "坊子區"
+    }
+  },
+  {
+    "name": "Fanshi",
+    "country": "China",
+    "latitude": 39.18970940015334,
+    "longitude": 113.2662346,
+    "other_names": {
+      "name": "繁峙县",
+      "name:cs": "Fan-š'",
+      "name:en": "Fanshi",
+      "name:ja": "繁峙県",
+      "name:vi": "Phồn Thành",
+      "name:zh": "繁峙县",
+      "alt_name": "繁峙;Fan-chih-hsien;Fan-chih;Fancheng",
+      "name:zh-Hant": "繁峙縣",
+      "official_name": "繁城镇"
+    }
+  },
+  {
+    "name": "Fanxian",
+    "country": "China",
+    "latitude": 35.85124819972108,
+    "longitude": 115.4984522,
+    "other_names": {
+      "name": "范县",
+      "name:en": "Fanxian",
+      "name:vi": "Phạm",
+      "name:zh": "范县",
+      "name:zh-Hant": "範縣",
+      "name:zh_pinyin": "Fan Xian"
+    }
+  },
+  {
+    "name": "Farah",
+    "country": "Afghanistan",
+    "latitude": 32.374090699596834,
+    "longitude": 62.11462659999999,
+    "other_names": {
+      "name": "فراه",
+      "name:ar": "فراه",
+      "name:cs": "Faráh",
+      "name:de": "Farah",
+      "name:el": "Φαράχ",
+      "name:en": "Farah",
+      "name:es": "Farāh",
+      "name:et": "Farāh",
+      "name:fa": "فراه",
+      "name:fr": "Farâh",
+      "name:hi": "फराह",
+      "name:ja": "ファラー",
+      "name:lt": "Farahas",
+      "name:ru": "Фарах",
+      "name:uk": "Фарах"
+    }
+  },
+  {
+    "name": "Farap",
+    "country": "Turkmenistan",
+    "latitude": 39.17578050015135,
+    "longitude": 63.60940709999999,
+    "other_names": {
+      "name": "Farap",
+      "name:ru": "Фарап",
+      "name:tk": "Farap",
+      "old_name": "Farab",
+      "old_name:ru": "Фараб"
+    }
+  }
+]

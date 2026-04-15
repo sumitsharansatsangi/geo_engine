@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Manchester",
+    "country": "United States Of America",
+    "latitude": 42.995639700536444,
+    "longitude": -71.45478909999999,
+    "other_names": {
+      "name": "Manchester",
+      "name:ru": "Манчестер",
+      "name:uk": "Манчестер"
+    }
+  },
+  {
+    "name": "Manchester",
+    "country": "England",
+    "latitude": 53.47948919911756,
+    "longitude": -2.2451148,
+    "other_names": {
+      "name": "Manchester",
+      "name:ar": "مانشستر",
+      "name:be": "Манчэстэр",
+      "name:cy": "Manceinion",
+      "name:el": "Μάντσεστερ",
+      "name:eo": "Manĉestro",
+      "name:fa": "منچستر",
+      "name:fr": "Manchester",
+      "name:ga": "Manchain",
+      "name:gv": "Manchuin",
+      "name:hi": "मांचॆस्टर",
+      "name:ja": "マンチェスター",
+      "name:kn": "ಮಾಂಚೆಸ್ಟರ್",
+      "name:ko": "맨체스터",
+      "name:la": "Mancunium",
+      "name:mk": "Манчестер",
+      "name:ru": "Манчестер",
+      "name:sr": "Манчестер",
+      "name:uk": "Манчестер",
+      "name:zh": "曼彻斯特",
+      "name:ckb": "مەنچستەر",
+      "alt_name:la": "Mamucium",
+      "name:be-tarask": "Манчэстэр"
+    }
+  },
+  {
+    "name": "Mandalay",
+    "country": "Myanmar",
+    "latitude": 21.98127460040852,
+    "longitude": 96.082375,
+    "other_names": {
+      "name": "မန္တလေး",
+      "pcode": "MMR010000777",
+      "name:cs": "Mandalaj",
+      "name:en": "Mandalay",
+      "name:et": "Mandalay",
+      "name:fr": "Mandalay",
+      "name:hi": "मंदलै",
+      "name:ja": "マンダレー",
+      "name:kn": "ಮಂದಲೈ",
+      "name:my": "မန္တလေး",
+      "name:pt": "Mandalay",
+      "name:ru": "Мандалай",
+      "name:sr": "Мандалеј",
+      "name:zh": "曼德勒",
+      "int_name": "Mandalay"
+    }
+  },
+  {
+    "name": "Mandalgobi",
+    "country": "Mongolia",
+    "latitude": 45.763043500377655,
+    "longitude": 106.27041449999999,
+    "other_names": {
+      "name": "Мандалговь",
+      "name:ar": "ماندالغوفي",
+      "name:de": "Mandalgobi",
+      "name:en": "Mandalgobi",
+      "name:es": "Mandalgobi",
+      "name:fr": "Mandalgovi",
+      "name:it": "Mandalgov'",
+      "name:ja": "マンダルゴビ",
+      "name:lt": "Mandalgobis",
+      "name:mn": "Мандалговь",
+      "name:ru": "Мандалгоби",
+      "int_name": "Mandalgovi"
+    }
+  },
+  {
+    "name": "Mandalgovi",
+    "country": "Mongolia",
+    "latitude": 45.76407400965816,
+    "longitude": 106.269125001908,
+    "other_names": {
+      "name": "Мандалговь",
+      "name:en": "Mandalgovi",
+      "name:ja": "マンダルゴビ",
+      "name:ru": "Мандалгоби"
+    }
+  },
+  {
+    "name": "Mandaluyong",
+    "country": "Philippines",
+    "latitude": 14.57764849985743,
+    "longitude": 121.0337001,
+    "other_names": {
+      "name": "Mandaluyong",
+      "name:ja": "マンダルーヨン"
+    }
+  },
+  {
+    "name": "Mandaue",
+    "country": "Philippines",
+    "latitude": 10.326904899455291,
+    "longitude": 123.9427295,
+    "other_names": {
+      "ref": "072230000",
+      "name": "Mandaue",
+      "name:en": "Mandaue",
+      "name:ja": "マンダウエ"
+    }
+  },
+  {
+    "name": "Mandelia",
+    "country": "Chad",
+    "latitude": 11.728432199556304,
+    "longitude": 15.245653800000001,
+    "other_names": {
+      "name": "مانديليا Mandelia",
+      "name:ar": "مانديليا",
+      "name:en": "Mandelia",
+      "name:fr": "Mandelia",
+      "alt_name": "Mandelia"
+    }
+  },
+  {
+    "name": "Mandi Bahauddin",
+    "country": "Pakistan",
+    "latitude": 32.58463509959224,
+    "longitude": 73.49141689999999,
+    "other_names": {
+      "name": "منڈی بهاؤالدین‬",
+      "name:ar": "مندي بهاؤدين",
+      "name:de": "Mandi Bahauddin",
+      "name:en": "Mandi Bahauddin",
+      "name:es": "Mandi Bahauddin",
+      "name:et": "Mandi Bahāuddīn",
+      "name:fr": "Mandi Bahauddin",
+      "name:ja": "マンディー・バハーウッディーン",
+      "name:ps": "منڈی بهاؤالدین‬",
+      "name:ur": "منڈی بهاؤالدین‬"
+    }
+  },
+  {
+    "name": "Mandsaur",
+    "country": "India",
+    "latitude": 24.068289800328447,
+    "longitude": 75.0742388,
+    "other_names": {
+      "name": "Mandsaur",
+      "name:hi": "मन्दसौर",
+      "name:ja": "マンドサウル",
+      "name:kn": "ಮಂದಸೌರ್"
+    }
+  },
+  {
+    "name": "Mandurah",
+    "country": "Australia",
+    "latitude": -32.53024949946678,
+    "longitude": 115.72087820000002,
+    "other_names": {
+      "name": "Mandurah",
+      "name:en": "Mandurah",
+      "name:ja": "マンジュラ",
+      "name:ru": "Манджера",
+      "name:uk": "Манджера"
+    }
+  },
+  {
+    "name": "Mandya",
+    "country": "India",
+    "latitude": 12.523888799630338,
+    "longitude": 76.8961961,
+    "other_names": {
+      "name": "Mandya",
+      "name:ar": "مانديا",
+      "name:hi": "मांडया",
+      "name:kn": "ಮಂಡ್ಯ",
+      "name:kn:iso15919": "Maṇḍya"
+    }
+  },
+  {
+    "name": "Mang",
+    "country": "China",
+    "latitude": 24.436902800302807,
+    "longitude": 98.58866669999999,
+    "other_names": {
+      "name": "芒市",
+      "name:de": "Mang",
+      "name:en": "Mang",
+      "name:et": "Mang",
+      "name:fr": "Mang",
+      "name:ja": "芒市",
+      "name:ru": "Манши",
+      "name:vi": "Lộ Tây",
+      "name:zh": "芒市",
+      "alt_name": "芒;Mang City",
+      "name:kac": "Mangshi Myu",
+      "old_name": "潞西市;潞西;Luxi Xian;Lu-hsi Hsien;Luxi Shi;Luxi",
+      "name:zh-Hant": "芒市",
+      "name:zh_pinyin": "Máng Shì",
+      "name:tai_tainua": "ᥝᥥᥒᥰ ᥛᥫᥒᥰ ᥑᥩᥢᥴ"
+    }
+  },
+  {
+    "name": "Mangalia",
+    "country": "Romania",
+    "latitude": 43.81507930053783,
+    "longitude": 28.583030600000004,
+    "other_names": {
+      "name": "Mangalia",
+      "name:de": "Mangalia",
+      "name:en": "Mangalia",
+      "name:mk": "Мангалија",
+      "name:ru": "Мангалия",
+      "name:uk": "Мангалія",
+      "name:zh": "曼加利亚"
+    }
+  },
+  {
+    "name": "Mangalia",
+    "country": "Romania",
+    "latitude": 43.81396094866083,
+    "longitude": 28.5654512019194,
+    "other_names": {
+      "name": "Mangalia",
+      "name:en": "Mangalia",
+      "name:ru": "Мангалия",
+      "name:zh": "曼加利亚"
+    }
+  },
+  {
+    "name": "Mangalmé",
+    "country": "Chad",
+    "latitude": 12.365647999614792,
+    "longitude": 19.615227,
+    "other_names": {
+      "name": "Mangalmé مانكالمي",
+      "name:ar": "مانكالمي",
+      "name:en": "Mangalmé",
+      "name:fr": "Mangalmé",
+      "alt_name": "Mangalme;Mangalmé",
+      "alt_name:ar": "منغالم;مانقالمي;منجالمي"
+    }
+  },
+  {
+    "name": "Mangaluru",
+    "country": "India",
+    "latitude": 12.869810099665564,
+    "longitude": 74.84300819999999,
+    "other_names": {
+      "name": "Mangaluru",
+      "name:ar": "منغلور",
+      "name:bn": "মাঙ্গালোর",
+      "name:en": "Mangaluru",
+      "name:fa": "منگلور",
+      "name:hi": "मंगलुरु",
+      "name:ja": "マンガロール",
+      "name:kn": "ಮಂಗಳೂರು",
+      "name:lt": "Mangaloras",
+      "name:ml": "മംഗലാപുരം",
+      "name:pa": "ਮੈਂਗਲੁਰੂ",
+      "name:ru": "Мангалор",
+      "name:ta": "மங்களூர்",
+      "name:te": "మంగళూరు",
+      "name:ur": "منگلور",
+      "alt_name": "Mangalore",
+      "int_name": "Mangalore",
+      "old_name": "Kudla",
+      "alt_name:ar": "مانغلور",
+      "name:kn:iso15919": "Maṅgaḷūru"
+    }
+  },
+  {
+    "name": "Mangnai",
+    "country": "China",
+    "latitude": 38.25282540001789,
+    "longitude": 90.84771509999999,
+    "other_names": {
+      "name": "茫崖市",
+      "name:de": "Mangnai",
+      "name:en": "Mangnai",
+      "name:es": "Mangnai",
+      "name:et": "Mangnai",
+      "name:fr": "Mangya",
+      "name:zh": "茫崖市",
+      "old_name": "茫崖行政委员会",
+      "name:zh-Hant": "茫崖市"
+    }
+  },
+  {
+    "name": "Mango",
+    "country": "Togo",
+    "latitude": 10.356968099457012,
+    "longitude": 0.4770206,
+    "other_names": {
+      "name": "Mango",
+      "name:ar": "سانسني مانغو",
+      "alt_name": "Sansanné-Mango",
+      "alt_name:ar": "مانغو"
+    }
+  },
+  {
+    "name": "Mangualde",
+    "country": "Portugal",
+    "latitude": 40.60354000034556,
+    "longitude": -7.7656,
+    "other_names": {
+      "name": "Mangualde"
+    }
+  }
+]

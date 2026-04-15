@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Xinzhou District",
+    "country": "China",
+    "latitude": 28.434479799898128,
+    "longitude": 117.9611065,
+    "other_names": {
+      "name": "信州区",
+      "name:de": "Xinzhou",
+      "name:en": "Xinzhou District",
+      "name:fr": "District de Xinzhou",
+      "name:it": "Distretto di Xinzhou",
+      "name:ja": "信州区",
+      "name:ko": "신저우구",
+      "name:no": "Xinzhou",
+      "name:ru": "Синьчжоу",
+      "name:sv": "Xinzhou",
+      "name:vi": "Tín Châu",
+      "name:zh": "信州区",
+      "name:ceb": "Xinzhou Qu",
+      "name:gan": "信州區",
+      "name:nan": "Sìn-chiu-khu",
+      "name:yue": "信州區",
+      "name:zh-Hant": "信州區",
+      "name:zh_pinyin": "Xìnzhōu Qū"
+    }
+  },
+  {
+    "name": "Xiong'an New Area",
+    "country": "China",
+    "latitude": 39.04804790013286,
+    "longitude": 115.90753310000001,
+    "other_names": {
+      "name": "雄安新区",
+      "name:en": "Xiong'an New Area",
+      "name:zh": "雄安新区",
+      "alt_name": "Xiong'an",
+      "short_name": "雄安",
+      "name:zh-Hant": "雄安新區"
+    }
+  },
+  {
+    "name": "Xiongxian",
+    "country": "China",
+    "latitude": 38.98450540012367,
+    "longitude": 116.09882540000001,
+    "other_names": {
+      "name": "雄县",
+      "name:en": "Xiongxian",
+      "name:vi": "Hùng",
+      "name:zh": "雄县",
+      "alt_name": "雄;Xiongxian;Xiong County",
+      "name:zh-Hant": "雄縣",
+      "name:zh_pinyin": "xióng xiàn"
+    }
+  },
+  {
+    "name": "Xiping",
+    "country": "China",
+    "latitude": 33.38331879958879,
+    "longitude": 114.0209155,
+    "other_names": {
+      "name": "西平县",
+      "name:en": "Xiping",
+      "name:zh": "西平县",
+      "name:zh-Hant": "西平縣"
+    }
+  },
+  {
+    "name": "Xiqing",
+    "country": "China",
+    "latitude": 39.1401802001462,
+    "longitude": 117.00096059999998,
+    "other_names": {
+      "name": "西青区",
+      "name:en": "Xiqing",
+      "name:zh": "西青区",
+      "name:zh-Hant": "西青區"
+    }
+  },
+  {
+    "name": "Xireg",
+    "country": "China",
+    "latitude": 36.925694999839095,
+    "longitude": 98.4779679,
+    "other_names": {
+      "name": "乌兰县",
+      "name:bo": "ཝུ་ལཱན་",
+      "name:de": "Xirig",
+      "name:en": "Xireg",
+      "name:ja": "烏蘭県",
+      "name:zh": "乌兰县",
+      "alt_name": "乌兰;希里沟;Xiligou;Xirig",
+      "alt_name:en": "Tu-lan;Wu-lan;Hsi-li-kou;Kokobeli;Ulan;Kukubeli;Tu-lan-hsien;Wulan Xian",
+      "name:zh-Hant": "烏蘭縣",
+      "official_name": "希里沟镇"
+    }
+  },
+  {
+    "name": "Xisaishan",
+    "country": "China",
+    "latitude": 30.207350999721626,
+    "longitude": 115.104694,
+    "other_names": {
+      "name": "西塞山区",
+      "name:en": "Xisaishan",
+      "name:vi": "Tây Tắc Sơn",
+      "name:zh": "西塞山区",
+      "name:zh-Hant": "西塞山區",
+      "name:zh_pinyin": "Xisaishan Qu"
+    }
+  },
+  {
+    "name": "Xisha District",
+    "country": "China",
+    "latitude": 16.832610500117543,
+    "longitude": 112.33356779999998,
+    "other_names": {
+      "name": "西沙区",
+      "name:en": "Xisha District",
+      "name:ja": "西沙区",
+      "name:ko": "시사구",
+      "name:vi": "Khu Tây Sa",
+      "name:zh": "西沙区",
+      "name:nan": "Sai-sua-khu",
+      "old_name": "西沙群岛",
+      "name:zh-Hans": "西沙区",
+      "name:zh-Hant": "西沙區",
+      "official_name": "西沙区"
+    }
+  },
+  {
+    "name": "Xishan",
+    "country": "China",
+    "latitude": 31.59257419962645,
+    "longitude": 120.35453729999999,
+    "other_names": {
+      "name": "锡山区",
+      "name:en": "Xishan",
+      "name:vi": "Tích Sơn",
+      "name:zh": "锡山区",
+      "name:zh-Hant": "錫山區",
+      "name:zh_pinyin": "Xishan Qu"
+    }
+  },
+  {
+    "name": "Xishan",
+    "country": "China",
+    "latitude": 25.04110940025446,
+    "longitude": 102.6649565,
+    "other_names": {
+      "name": "西山区",
+      "name:en": "Xishan",
+      "name:zh": "西山区",
+      "alt_name": "西山;Xishan District",
+      "name:zh-Hant": "西山區"
+    }
+  },
+  {
+    "name": "Xishi",
+    "country": "China",
+    "latitude": 40.66241080035275,
+    "longitude": 122.20367360000002,
+    "other_names": {
+      "name": "西市区",
+      "name:en": "Xishi",
+      "name:ja": "西市区",
+      "name:ko": "시스구",
+      "name:zh": "西市区",
+      "alt_name": "西市;Xishi City",
+      "name:zh-Hant": "西市區"
+    }
+  },
+  {
+    "name": "Xishui",
+    "country": "China",
+    "latitude": 28.31619929991113,
+    "longitude": 106.21571479999999,
+    "other_names": {
+      "name": "习水县",
+      "name:en": "Xishui",
+      "name:vi": "Tập Thủy",
+      "name:zh": "习水县",
+      "alt_name": "习水;Hsi-shui Hsien;Xishui Xian",
+      "old_name": "鰼水;鳛水",
+      "alt_name:vi": "Tập Thuỷ",
+      "name:zh-Hant": "鰼水縣",
+      "name:zh_pinyin": "Xishui Xian"
+    }
+  },
+  {
+    "name": "Xishui County",
+    "country": "China",
+    "latitude": 30.454306299701212,
+    "longitude": 115.26012179999998,
+    "other_names": {
+      "name": "浠水县",
+      "name:de": "Xishui",
+      "name:en": "Xishui County",
+      "name:es": "Xishui",
+      "name:fa": "شهرستان شیشوا (هوبئی)",
+      "name:fr": "Xian de Xishui",
+      "name:it": "Contea di Xishui",
+      "name:ja": "キ水県",
+      "name:ko": "시수이현",
+      "name:no": "Xishui",
+      "name:ru": "Сишуй",
+      "name:sv": "Xishui",
+      "name:vi": "Hy Thủy",
+      "name:zh": "浠水县",
+      "name:nan": "Hi-súi-koān",
+      "name:yue": "浠水",
+      "name:zh-Hant": "浠水縣",
+      "name:zh_pinyin": "Xishui Xian"
+    }
+  },
+  {
+    "name": "Xiufeng",
+    "country": "China",
+    "latitude": 25.276263900233733,
+    "longitude": 110.25958059999999,
+    "other_names": {
+      "name": "秀峰区",
+      "name:en": "Xiufeng",
+      "name:zh": "秀峰区",
+      "alt_name": "秀峰;Xiufeng District",
+      "name:zh-Hant": "秀峯區"
+    }
+  },
+  {
+    "name": "Xiuning",
+    "country": "China",
+    "latitude": 29.788463999759085,
+    "longitude": 118.1775138,
+    "other_names": {
+      "name": "休宁县",
+      "name:en": "Xiuning",
+      "name:ja": "休寧県",
+      "name:zh": "休宁县",
+      "alt_name": "休宁;Xiuning County",
+      "name:zh-Hant": "休寧縣",
+      "name:zh_pinyin": "xiūníng xiàn"
+    }
+  },
+  {
+    "name": "Xiushan",
+    "country": "China",
+    "latitude": 28.450246999896414,
+    "longitude": 109.00271359999999,
+    "other_names": {
+      "name": "秀山县",
+      "name:en": "Xiushan",
+      "name:ru": "Чжунхэ",
+      "name:vi": "Tú Sơn",
+      "name:zh": "秀山县",
+      "alt_name": "秀山土家族苗族自治县;中和;Zhonghe",
+      "int_name": "Xiushan",
+      "name:zh-Hant": "秀山縣",
+      "official_name": "秀山土家族苗族自治县",
+      "name:zh_pinyin": "Xiushan Tujiazu Miaozu Zizhixian;Xiùshān Xiàn"
+    }
+  },
+  {
+    "name": "Xiushui",
+    "country": "China",
+    "latitude": 29.02755319983455,
+    "longitude": 114.5422454,
+    "other_names": {
+      "name": "修水县",
+      "name:en": "Xiushui",
+      "name:zh": "修水县",
+      "alt_name": "修水;Xiushui County",
+      "name:zh-Hant": "修水縣",
+      "name:zh_pinyin": "xiūshuǐ xiàn"
+    }
+  },
+  {
+    "name": "Xiuwen",
+    "country": "China",
+    "latitude": 26.842445400075178,
+    "longitude": 106.5886106,
+    "other_names": {
+      "name": "修文县",
+      "name:en": "Xiuwen",
+      "name:zh": "修文",
+      "alt_name": "修文县",
+      "name:zh-Hant": "修文縣"
+    }
+  },
+  {
+    "name": "Xiuwu",
+    "country": "China",
+    "latitude": 35.22892849966801,
+    "longitude": 113.4415477,
+    "other_names": {
+      "name": "修武县",
+      "name:en": "Xiuwu",
+      "name:ja": "修武県",
+      "name:vi": "Tu Vũ",
+      "name:zh": "修武县",
+      "alt_name": "修武;Xiuwu County;Syuu;Hsiu-wu-hsien;Hsiu-wu;Siu-wu",
+      "name:zh-Hant": "修武縣",
+      "name:zh_pinyin": "Xiuwu Xian"
+    }
+  },
+  {
+    "name": "Xiuyan",
+    "country": "China",
+    "latitude": 40.287744500305564,
+    "longitude": 123.27591540000002,
+    "other_names": {
+      "name": "岫岩县",
+      "name:en": "Xiuyan",
+      "name:ja": "岫岩満族自治県",
+      "name:ko": "슈옌만족자치현",
+      "name:ru": "Сюянь-Маньчжурский автономный уезд",
+      "name:vi": "Tụ Nham",
+      "name:zh": "岫岩满族自治县",
+      "alt_name": "岫岩;Xiuyan County;Xiuyan Manchu Autonomous County",
+      "name:mnc": "ᠰᡳᡠᠶᠠᠨ ᠮᠠᠨᠵᡠ ᠪᡝᠶᡝ ᡩᠠᠰᠠᠩᡤᠠ ᠰᡳᠶᠠᠨ",
+      "short_name": "岫岩县",
+      "name:zh-Hant": "岫巖縣",
+      "official_name": "岫岩满族自治县",
+      "official_name:vi": "Huyện tự trị dân tộc Mãn Tụ Nham"
+    }
+  }
+]

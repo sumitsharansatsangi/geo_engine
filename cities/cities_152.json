@@ -1,0 +1,349 @@
+[
+  {
+    "name": "Girardot",
+    "country": "Colombia",
+    "latitude": 4.306642999560962,
+    "longitude": -74.8015665,
+    "other_names": {
+      "name": "Girardot"
+    }
+  },
+  {
+    "name": "Giresun",
+    "country": "Turkey",
+    "latitude": 40.91469270038251,
+    "longitude": 38.388556799999996,
+    "other_names": {
+      "name": "Giresun",
+      "name:ar": "غيرسون",
+      "name:el": "Κερασούντα",
+      "name:hi": "घिरसुन",
+      "name:hu": "Giresun",
+      "name:hy": "Գիրեսունի մարզ",
+      "name:ka": "გირესუნის პროვინცია",
+      "name:ru": "Гиресун"
+    }
+  },
+  {
+    "name": "Giridih",
+    "country": "India",
+    "latitude": 24.18705306786442,
+    "longitude": 86.3000873965355,
+    "other_names": {
+      "name": "Giridih",
+      "name:bn": "গিরিডি",
+      "name:hi": "गिरिडीह",
+      "name:ta": "கிரிடிஹ்"
+    }
+  },
+  {
+    "name": "Giridih",
+    "country": "India",
+    "latitude": 24.19142240032022,
+    "longitude": 86.30056939999999,
+    "other_names": {
+      "name": "Giridih",
+      "name:bn": "গিরিডি",
+      "name:hi": "गिरिडीह",
+      "name:kn": "ಗಿರಿಡಿ"
+    }
+  },
+  {
+    "name": "Girona",
+    "country": "Spain",
+    "latitude": 41.979300600484706,
+    "longitude": 2.8199439,
+    "other_names": {
+      "name": "Girona",
+      "name:an": "Chirona",
+      "name:ar": "جرندة",
+      "name:be": "Жырона",
+      "name:ca": "Girona",
+      "name:el": "Ζιρόνα",
+      "name:es": "Gerona",
+      "name:eu": "Girona",
+      "name:fa": "خرنا",
+      "name:fr": "Gérone",
+      "name:gl": "Xirona",
+      "name:he": "ז'ירונה",
+      "name:ja": "ジローナ",
+      "name:ko": "지로나",
+      "name:lt": "Žirona",
+      "name:nl": "Gerona",
+      "name:oc": "Girona",
+      "name:pt": "Gerunda",
+      "name:ru": "Жирона",
+      "name:sr": "Ђирона",
+      "name:uk": "Жірона",
+      "name:zh": "赫罗纳",
+      "name:ast": "Xirona",
+      "alt_name:be": "Херона",
+      "alt_name:el": "Χερόνα",
+      "alt_name:lt": "Cherona",
+      "name:zh-Hans": "赫罗纳",
+      "name:zh-Hant": "吉隆納",
+      "official_name": "Girona"
+    }
+  },
+  {
+    "name": "Gisborne",
+    "country": "New Zealand",
+    "latitude": -38.66132600070756,
+    "longitude": 178.0206487,
+    "other_names": {
+      "name": "Gisborne",
+      "name:en": "Gisborne",
+      "name:ja": "ギズボーン",
+      "name:mi": "Tūranganui-a-Kiwa",
+      "name:mk": "Гизборн",
+      "name:ru": "Гисборн",
+      "name:uk": "Гізбурн"
+    }
+  },
+  {
+    "name": "Gisenyi",
+    "country": "Rwanda",
+    "latitude": -1.6935449998419785,
+    "longitude": 29.259855000000005,
+    "other_names": {
+      "name": "Gisenyi",
+      "name:ko": "기세니"
+    }
+  },
+  {
+    "name": "Gisenyi",
+    "country": "Congo Democratic Republic",
+    "latitude": -1.6935449998419785,
+    "longitude": 29.259855000000005,
+    "other_names": {
+      "name": "Gisenyi",
+      "name:ko": "기세니"
+    }
+  },
+  {
+    "name": "Gitega",
+    "country": "Burundi",
+    "latitude": -3.4284952997282168,
+    "longitude": 29.924971800000005,
+    "other_names": {
+      "name": "Gitega",
+      "name:ar": "غيتيغا",
+      "name:de": "Gitega",
+      "name:el": "Γκιτέγκα",
+      "name:en": "Gitega",
+      "name:es": "Gitega",
+      "name:fa": "گیتگا",
+      "name:fr": "Gitega",
+      "name:ko": "기테가",
+      "name:ks": "گیتیگا",
+      "name:ru": "Гитега",
+      "name:ur": "گیتیگا",
+      "name:azb": "قیتقا",
+      "name:az-Arab": "قیتقا"
+    }
+  },
+  {
+    "name": "Giurgiu",
+    "country": "Romania",
+    "latitude": 43.89804453872338,
+    "longitude": 25.955131099009073,
+    "other_names": {
+      "name": "Giurgiu",
+      "name:bg": "Гюргево",
+      "name:ru": "Джурджу"
+    }
+  },
+  {
+    "name": "Giurgiu",
+    "country": "Romania",
+    "latitude": 43.89590580053583,
+    "longitude": 25.9658111,
+    "other_names": {
+      "name": "Giurgiu",
+      "name:bg": "Гюргево",
+      "name:el": "Τζιούρτζιου",
+      "name:hu": "Gyurgyevó",
+      "name:lt": "Džurdžu",
+      "name:mk": "Џурџу",
+      "name:ru": "Джурджу",
+      "name:sr": "Ђурђу",
+      "name:uk": "Джурджу",
+      "alt_name:mk": "Ѓурѓево",
+      "old_name:de": "Zurz"
+    }
+  },
+  {
+    "name": "Giza",
+    "country": "Egypt",
+    "latitude": 29.9870752997409,
+    "longitude": 31.211806300000003,
+    "other_names": {
+      "name": "الجيزة",
+      "name:ar": "الجيزة",
+      "name:cs": "Gíza",
+      "name:de": "Giseh",
+      "name:en": "Giza",
+      "name:eo": "Gizo",
+      "name:es": "Guiza",
+      "name:et": "Giza",
+      "name:fi": "Giza",
+      "name:fr": "Gizeh",
+      "name:hi": "गीज़ा",
+      "name:hu": "Gíza",
+      "name:ko": "기자",
+      "name:nl": "Gizeh",
+      "name:oc": "Giza",
+      "name:pl": "Giza",
+      "name:ru": "Гиза",
+      "name:ur": "جیزہ",
+      "name:zh": "加沙/加薩",
+      "name:azb": "جیزه",
+      "name:pnb": "غیزہ",
+      "name:yue": "加沙",
+      "alt_name:eo": "Giza;Gizeh;Ĝiza",
+      "name:zh-Hans": "加沙",
+      "name:zh-Hant": "加薩"
+    }
+  },
+  {
+    "name": "Gjirokastra",
+    "country": "Albania",
+    "latitude": 40.0770871002777,
+    "longitude": 20.139335899999995,
+    "other_names": {
+      "name": "Gjirokastër",
+      "name:al": "Gjirokastër",
+      "name:de": "Gjirokastër",
+      "name:el": "Αργυρόκαστρο",
+      "name:en": "Gjirokastra",
+      "name:fr": "Gjirokastra",
+      "name:he": "דירוקסטרה",
+      "name:it": "Argirocastro",
+      "name:ja": "ジロカストラ",
+      "name:ko": "지로카스터르",
+      "name:lt": "Girokasteris",
+      "name:mk": "Ѓирокастро",
+      "name:pl": "Dźirokastra",
+      "name:ro": "Gjirokastra",
+      "name:ru": "Гирокастра",
+      "name:sr": "Ђирокастра",
+      "name:tr": "Ergiri",
+      "name:zh": "吉诺卡斯特",
+      "name:rup": "Ljurocastru",
+      "old_name": "Gjirokastër"
+    }
+  },
+  {
+    "name": "Gladstone",
+    "country": "Australia",
+    "latitude": -23.843172399947914,
+    "longitude": 151.256132,
+    "other_names": {
+      "name": "Gladstone",
+      "name:en": "Gladstone",
+      "name:ja": "グラッドストン",
+      "name:ru": "Гладстон",
+      "name:uk": "Гладстон",
+      "name:zh": "格莱斯顿"
+    }
+  },
+  {
+    "name": "Gladstone",
+    "country": "United States Of America",
+    "latitude": 39.22147650015792,
+    "longitude": -94.57197479999999,
+    "other_names": {
+      "name": "Gladstone"
+    }
+  },
+  {
+    "name": "Glasgow",
+    "country": "Scotland",
+    "latitude": 55.86098249972988,
+    "longitude": -4.2488787,
+    "other_names": {
+      "name": "Glasgow",
+      "name:ar": "غلاسكو",
+      "name:be": "Глазга",
+      "name:cy": "Glasgow",
+      "name:el": "Γλασκώβη",
+      "name:en": "Glasgow",
+      "name:eo": "Glasgovo",
+      "name:fr": "Glasgow",
+      "name:ga": "Glaschú",
+      "name:gd": "Glaschu",
+      "name:hi": "ग्लास्गो",
+      "name:ja": "グラスゴー",
+      "name:kn": "ಗ್ಲಾಸ್ಗೋ",
+      "name:ko": "글래스고",
+      "name:la": "Glasgua",
+      "name:lt": "Glazgas",
+      "name:lv": "Glāzgova",
+      "name:mk": "Глазгов",
+      "name:ru": "Глазго",
+      "name:sr": "Глазгов",
+      "name:uk": "Глазго",
+      "name:zh": "格拉斯哥",
+      "name:ckb": "گلاسگۆ",
+      "name:sco": "Glesga",
+      "alt_name:ar": "غلازغو",
+      "alt_name:la": "Glasgovia"
+    }
+  },
+  {
+    "name": "Glazov",
+    "country": "Russia",
+    "latitude": 58.14011960084827,
+    "longitude": 52.646438800000006,
+    "other_names": {
+      "name": "Глазов",
+      "name:ar": "جلازوف",
+      "name:de": "Glasow",
+      "name:en": "Glazov",
+      "name:es": "Glázov",
+      "name:et": "Glazov",
+      "name:fr": "Glazov",
+      "name:ja": "グラゾフ",
+      "name:ko": "글라조프",
+      "name:lt": "Glazovas",
+      "name:pl": "Głazow",
+      "name:ru": "Глазов",
+      "name:uk": "Глазов"
+    }
+  },
+  {
+    "name": "Glazov",
+    "country": "Russia",
+    "latitude": 58.149596881539544,
+    "longitude": 52.64104239575618,
+    "other_names": {
+      "name": "Глазов",
+      "name:en": "Glazov",
+      "name:ja": "グラゾフ",
+      "name:lt": "Glazovas",
+      "name:udm": "Глаз"
+    }
+  },
+  {
+    "name": "Glendale",
+    "country": "United States Of America",
+    "latitude": 34.146941599606805,
+    "longitude": -118.2478471,
+    "other_names": {
+      "name": "Glendale"
+    }
+  },
+  {
+    "name": "Glendale",
+    "country": "United States Of America",
+    "latitude": 33.53868579959076,
+    "longitude": -112.1859941,
+    "other_names": {
+      "name": "Glendale",
+      "name:lt": "Glendeilas",
+      "name:ru": "Глендейл",
+      "name:uk": "Глендейл",
+      "alt_name": "City of Glendale"
+    }
+  }
+]

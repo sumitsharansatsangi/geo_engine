@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Palo Alto",
+    "country": "United States Of America",
+    "latitude": 37.44432929990569,
+    "longitude": -122.1598465,
+    "other_names": {
+      "name": "Palo Alto",
+      "name:ar": "بالو ألتو",
+      "name:bg": "Пало Алто",
+      "name:el": "Πάλο Άλτο",
+      "name:en": "Palo Alto",
+      "name:eo": "Palo Alto",
+      "name:es": "Palo Alto",
+      "name:fa": "پالو آلتو",
+      "name:he": "פאלו אלטו",
+      "name:hi": "पालो आल्टो",
+      "name:ja": "パロアルト",
+      "name:ko": "팰로앨토",
+      "name:lv": "Paloalto",
+      "name:nv": "Tsin Łichíʼínééz",
+      "name:ru": "Пало-Альто",
+      "name:sr": "Пало Алто",
+      "name:uk": "Пало-Альто",
+      "name:ur": "مئیفیلڈ",
+      "name:uz": "Palo-Alto",
+      "name:zh": "帕罗奥图",
+      "name:zh-Hans": "帕罗奥图",
+      "name:zh-Hant": "帕羅奧圖"
+    }
+  },
+  {
+    "name": "Palopo",
+    "country": "Indonesia",
+    "latitude": -2.9996305997506822,
+    "longitude": 120.19206789999998,
+    "other_names": {
+      "name": "Palopo",
+      "name:en": "Palopo",
+      "name:ja": "パロポ",
+      "name:ru": "Палопо",
+      "name:uk": "Палопо",
+      "name:zh": "帕洛波"
+    }
+  },
+  {
+    "name": "Palu",
+    "country": "Indonesia",
+    "latitude": -0.8957792999119868,
+    "longitude": 119.86799739999998,
+    "other_names": {
+      "name": "Palu",
+      "name:en": "Palu",
+      "name:ja": "パル",
+      "name:ru": "Палу",
+      "name:uk": "Палу",
+      "name:zh": "帕卢",
+      "name:zh-Hant": "帕盧"
+    }
+  },
+  {
+    "name": "Palwal",
+    "country": "India",
+    "latitude": 28.140574099930582,
+    "longitude": 77.3259802,
+    "other_names": {
+      "name": "Palwal",
+      "name:hi": "पलवल",
+      "name:ja": "パルワル",
+      "name:pa": "ਪਲਵਲ"
+    }
+  },
+  {
+    "name": "Pampatar",
+    "country": "Venezuela",
+    "latitude": 10.99282969949811,
+    "longitude": -63.8145795,
+    "other_names": {
+      "name": "Pampatar"
+    }
+  },
+  {
+    "name": "Pamplona",
+    "country": "Spain",
+    "latitude": 42.818453800531195,
+    "longitude": -1.6442555999999997,
+    "other_names": {
+      "name": "Pamplona/Iruña",
+      "name:ar": "بنبلونة",
+      "name:be": "Памплона",
+      "name:ca": "Pamplona",
+      "name:da": "Pamplona",
+      "name:el": "Παμπλόνα",
+      "name:en": "Pamplona",
+      "name:es": "Pamplona",
+      "name:et": "Pamplona",
+      "name:eu": "Iruñea",
+      "name:fr": "Pampelune",
+      "name:he": "פמפלונה",
+      "name:hy": "Պամպլոնա",
+      "name:ja": "パンプローナ",
+      "name:ka": "პამპლონა",
+      "name:ko": "팜플로냐",
+      "name:la": "Pompelo",
+      "name:oc": "Pampalona",
+      "name:pl": "Pampeluna",
+      "name:ru": "Памплона",
+      "name:sr": "Памплона",
+      "name:th": "ปัมโปลนา",
+      "name:zh": "潘普洛納",
+      "name:ast": "Pamplona",
+      "alt_name:el": "Ιρούνια",
+      "alt_name:eu": "Iruña",
+      "name:zh-Hans": "潘普洛纳",
+      "name:zh-Hant": "潘普洛納",
+      "official_name": "Pamplona/Iruña"
+    }
+  },
+  {
+    "name": "Panabo",
+    "country": "Philippines",
+    "latitude": 7.29986999939815,
+    "longitude": 125.6807086,
+    "other_names": {
+      "name": "Panabo",
+      "name:ja": "パナボ"
+    }
+  },
+  {
+    "name": "Panaji",
+    "country": "India",
+    "latitude": 15.49899459996616,
+    "longitude": 73.8282141,
+    "other_names": {
+      "name": "Panaji",
+      "name:ar": "باناجي",
+      "name:cs": "Panadží",
+      "name:en": "Panaji",
+      "name:he": "פאנאג'י",
+      "name:hi": "पणजी",
+      "name:ja": "パナジー",
+      "name:kn": "ಪಣಜೀ",
+      "name:ml": "പനജി",
+      "name:mr": "पणजी",
+      "name:pt": "Pangim",
+      "name:ru": "Панаджи",
+      "name:ta": "பானஜி",
+      "name:uk": "Панаджи",
+      "name:gom": "पणजी",
+      "old_name": "Panjim"
+    }
+  },
+  {
+    "name": "Pan'an County",
+    "country": "China",
+    "latitude": 29.05619189983157,
+    "longitude": 120.44585979999997,
+    "other_names": {
+      "name": "磐安县",
+      "name:de": "Pan’an",
+      "name:en": "Pan'an County",
+      "name:fa": "شهرستان پانان",
+      "name:fr": "Xian de Pan'an",
+      "name:it": "Contea di Pan'an",
+      "name:ja": "磐安県",
+      "name:ko": "판안현",
+      "name:no": "Pan'an",
+      "name:ru": "Паньань",
+      "name:sv": "Pan'an",
+      "name:vi": "Bàn An",
+      "name:zh": "磐安县",
+      "name:ceb": "Pan'an Xian",
+      "name:nan": "Poân-an-koān",
+      "name:wuu": "磐安县",
+      "name:yue": "磐安",
+      "name:zh-Hant": "磐安縣",
+      "name:zh_pinyin": "Pán'ān Xiàn"
+    }
+  },
+  {
+    "name": "Pančevo",
+    "country": "Serbia",
+    "latitude": 44.870568600480084,
+    "longitude": 20.639964299999995,
+    "other_names": {
+      "name": "Панчево",
+      "name:ar": "بانتشيفو",
+      "name:da": "Pančevo",
+      "name:de": "Pantschowa",
+      "name:en": "Pančevo",
+      "name:es": "Pančevo",
+      "name:et": "Pančevo",
+      "name:fr": "Pančevo",
+      "name:hu": "Pancsova",
+      "name:lt": "Pančevas",
+      "name:ro": "Panciova",
+      "name:ru": "Панчево",
+      "name:sr": "Панчево",
+      "name:sr-Latn": "Pančevo"
+    }
+  },
+  {
+    "name": "Pâncota",
+    "country": "Romania",
+    "latitude": 46.32856547623974,
+    "longitude": 21.690335978124175,
+    "other_names": {
+      "name": "Pâncota",
+      "name:de": "Pankota",
+      "name:hu": "Pankota"
+    }
+  },
+  {
+    "name": "Pando",
+    "country": "Uruguay",
+    "latitude": -34.72132299983053,
+    "longitude": -55.959447,
+    "other_names": {
+      "name": "Pando"
+    }
+  },
+  {
+    "name": "Panevėžys",
+    "country": "Lithuania",
+    "latitude": 55.73449849967882,
+    "longitude": 24.357805499999998,
+    "other_names": {
+      "name": "Panevėžys",
+      "name:ar": "بانيفيزيس",
+      "name:az": "Panavejis",
+      "name:be": "Панявежыс",
+      "name:bg": "Паневежис",
+      "name:de": "Ponewiesch",
+      "name:el": "Πανεβεζίς",
+      "name:en": "Panevėžys",
+      "name:es": "Panevėžys",
+      "name:fa": "پانه‌وژیس",
+      "name:fr": "Panevėžys",
+      "name:he": "פוניבז'",
+      "name:hy": "Պանևեժիս",
+      "name:ja": "パネヴェジース",
+      "name:ka": "პანევეჟისი",
+      "name:ko": "파네베지스",
+      "name:lt": "Panevėžys",
+      "name:lv": "Paņevēža",
+      "name:mk": "Паневежис",
+      "name:mn": "Паневежис",
+      "name:pl": "Poniewież",
+      "name:ru": "Панявежис",
+      "name:sh": "Panevėžis",
+      "name:sr": "Паневежис",
+      "name:th": "ปาเนียเวจีส",
+      "name:tt": "Паневежис",
+      "name:uk": "Панявежис",
+      "name:ur": "پانیویژیس",
+      "name:zh": "帕內韋日斯",
+      "name:csb": "Panevezys",
+      "name:pnb": "پینیویژیس",
+      "name:vep": "Panevežis",
+      "alt_name:de": "Ponewesch",
+      "alt_name:ru": "Паневежис",
+      "old_name:ru": "Поневеж",
+      "name:bat-smg": "Paneviežis"
+    }
+  },
+  {
+    "name": "Pangkalpinang",
+    "country": "Indonesia",
+    "latitude": -2.1206732998086184,
+    "longitude": 106.1134604,
+    "other_names": {
+      "name": "Pangkalpinang",
+      "name:en": "Pangkalpinang",
+      "name:ja": "パンカルピナン",
+      "name:ru": "Панкалпинанг",
+      "name:uk": "Панкалпінанг",
+      "name:zh": "邦加槟港",
+      "old_name": "Pangkal Pinang"
+    }
+  },
+  {
+    "name": "Panipat",
+    "country": "India",
+    "latitude": 29.39127529979743,
+    "longitude": 76.9771675,
+    "other_names": {
+      "name": "Panipat",
+      "name:ar": "باني بت",
+      "name:de": "Panipat",
+      "name:en": "Panipat",
+      "name:es": "Panipat",
+      "name:fr": "Pânipat",
+      "name:he": "פניפאת",
+      "name:hi": "पानीपत",
+      "name:ja": "パーニーパト",
+      "name:kn": "ಪಾನಿಪತ್",
+      "name:ml": "പാനിപ്പത്ത്",
+      "name:pa": "ਪਾਨੀਪਤ",
+      "name:ur": "پانی پت"
+    }
+  },
+  {
+    "name": "Panji",
+    "country": "China",
+    "latitude": 32.782296799589304,
+    "longitude": 116.81875989999999,
+    "other_names": {
+      "name": "潘集区",
+      "name:en": "Panji",
+      "name:ja": "潘集区",
+      "name:vi": "Phan Tập",
+      "name:zh": "潘集区",
+      "name:zh-Hant": "潘集區",
+      "name:zh_pinyin": "Panji Qu"
+    }
+  },
+  {
+    "name": "Panjin",
+    "country": "China",
+    "latitude": 41.116905600405005,
+    "longitude": 122.06550979999997,
+    "other_names": {
+      "name": "盘锦市",
+      "name:de": "Panjin",
+      "name:en": "Panjin",
+      "name:et": "Panjin",
+      "name:fr": "Panjin",
+      "name:ja": "盤錦市",
+      "name:ko": "판진시",
+      "name:pt": "Panjin",
+      "name:ru": "Паньцзинь",
+      "name:vi": "Bàn Cẩm",
+      "name:zh": "盘锦市",
+      "name:zh-Hant": "盤錦市",
+      "name:zh_pinyin": "Pánjǐn Shì"
+    }
+  },
+  {
+    "name": "Panlong",
+    "country": "China",
+    "latitude": 25.11886870024772,
+    "longitude": 102.75043969999999,
+    "other_names": {
+      "name": "盘龙区",
+      "name:de": "Panlong Bezirk",
+      "name:en": "Panlong",
+      "name:zh": "盘龙区",
+      "alt_name": "盘龙;Panlong District",
+      "name:zh-Hant": "盤龍區",
+      "name:zh_pinyin": "Pánlóng Qū"
+    }
+  },
+  {
+    "name": "Pano Aqil",
+    "country": "Pakistan",
+    "latitude": 27.855823999962354,
+    "longitude": 69.1127479,
+    "other_names": {
+      "name": "پنو عاقل",
+      "name:en": "Pano Aqil",
+      "name:ru": "Паноакил",
+      "alt_name": "Pano Akil"
+    }
+  },
+  {
+    "name": "Panshan",
+    "country": "China",
+    "latitude": 41.24167510041821,
+    "longitude": 121.99424669999998,
+    "other_names": {
+      "name": "盘山县",
+      "name:en": "Panshan",
+      "name:ja": "盤山県",
+      "name:ko": "판산현",
+      "name:vi": "Bàn Sơn",
+      "name:zh": "盘山县",
+      "name:zh-Hant": "盤山縣",
+      "name:zh_pinyin": "Panshan Xian"
+    }
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "name": "Massenya ماسينيا",
+    "country": "Chad",
+    "latitude": 11.40330999952926,
+    "longitude": 16.17192,
+    "other_names": {
+      "name": "Massenya ماسينيا",
+      "name:ar": "ماسينيا",
+      "name:fr": "Massenya",
+      "alt_name": "Tchekna;Massenia;Chekna;Massenya"
+    }
+  },
+  {
+    "name": "Masuda",
+    "country": "Japan",
+    "latitude": 34.67485839963154,
+    "longitude": 131.8428933,
+    "other_names": {
+      "name": "益田市",
+      "name:ar": "ماسودا، شيمانه",
+      "name:bg": "Масуда",
+      "name:de": "Masuda",
+      "name:en": "Masuda",
+      "name:es": "Masuda",
+      "name:fr": "Masuda",
+      "name:gl": "Masuda",
+      "name:hu": "Maszuda",
+      "name:it": "Masuda",
+      "name:ja": "益田市",
+      "name:ko": "마스다시",
+      "name:pl": "Masuda",
+      "name:pt": "Masuda",
+      "name:ro": "Masuda",
+      "name:ru": "Масуда",
+      "name:tg": "Масуда",
+      "name:tl": "Masuda",
+      "name:uk": "Масуда",
+      "name:vi": "Masuda",
+      "name:zh": "益田市",
+      "int_name": "Masuda"
+    }
+  },
+  {
+    "name": "Masvingo",
+    "country": "Zimbabwe",
+    "latitude": -20.07201420038604,
+    "longitude": 30.8341936,
+    "other_names": {
+      "name": "Masvingo",
+      "name:ar": "ماسفينغو",
+      "name:ko": "마스빙고",
+      "name:ru": "Масвинго",
+      "old_name": "Fort Victoria"
+    }
+  },
+  {
+    "name": "Masyaf Baltim",
+    "country": "Egypt",
+    "latitude": 31.596452221499003,
+    "longitude": 31.110405462761033,
+    "other_names": {
+      "name": "مدينة مصيف بلطيم",
+      "name:ar": "مصيف بلطيم",
+      "name:en": "Masyaf Baltim",
+      "name:fr": "Masyaf Baltim"
+    }
+  },
+  {
+    "name": "Matadi",
+    "country": "Congo Democratic Republic",
+    "latitude": -5.825655899682325,
+    "longitude": 13.4609047,
+    "other_names": {
+      "name": "Matadi",
+      "name:en": "Matadi",
+      "name:ko": "마타디",
+      "name:ru": "Матади",
+      "name:uk": "Матаді"
+    }
+  },
+  {
+    "name": "Matagalpa",
+    "country": "Nicaragua",
+    "latitude": 12.928556299671703,
+    "longitude": -85.91743309999998,
+    "other_names": {
+      "name": "Matagalpa",
+      "name:hu": "Matagalpa",
+      "loc_name": "Perla del Septentrión"
+    }
+  },
+  {
+    "name": "Matale",
+    "country": "Sri Lanka",
+    "latitude": 7.4720452993950826,
+    "longitude": 80.6234307,
+    "other_names": {
+      "name": "Matale",
+      "name:ja": "マータレー",
+      "name:kn": "ಮತಲೆ",
+      "name:ru": "Матале",
+      "name:ta": "மாத்தளை"
+    }
+  },
+  {
+    "name": "Matamoros",
+    "country": "Mexico",
+    "latitude": 25.85209770017907,
+    "longitude": -97.50179509999998,
+    "other_names": {
+      "name": "Matamoros",
+      "name:en": "Matamoros",
+      "name:ru": "Матаморос",
+      "name:uk": "Матаморос"
+    }
+  },
+  {
+    "name": "Matane",
+    "country": "Canada",
+    "latitude": 48.846863299730316,
+    "longitude": -67.5295977,
+    "other_names": {
+      "name": "Matane"
+    }
+  },
+  {
+    "name": "Matanzas",
+    "country": "Cuba",
+    "latitude": 23.046936500382206,
+    "longitude": -81.57856430000001,
+    "other_names": {
+      "name": "Matanzas",
+      "name:hu": "Matanzas",
+      "name:ru": "Матансас",
+      "name:uk": "Матансас"
+    }
+  },
+  {
+    "name": "Matara",
+    "country": "Sri Lanka",
+    "latitude": 5.947821999447551,
+    "longitude": 80.54829189999998,
+    "other_names": {
+      "name": "මාතර",
+      "name:en": "Matara",
+      "name:ja": "マータラ",
+      "name:kn": "ಮತರ",
+      "name:ru": "Матара",
+      "name:si": "මාතර"
+    }
+  },
+  {
+    "name": "Mataram",
+    "country": "Indonesia",
+    "latitude": -8.583772599799039,
+    "longitude": 116.10685,
+    "other_names": {
+      "name": "Mataram",
+      "name:en": "Mataram",
+      "name:ja": "マタラム",
+      "name:mk": "Матарам",
+      "name:ru": "Матарам",
+      "name:uk": "Матарам",
+      "name:zh": "马塔兰",
+      "official_name": "Kota Mataram"
+    }
+  },
+  {
+    "name": "Mataró",
+    "country": "Spain",
+    "latitude": 41.539834800447636,
+    "longitude": 2.4448925999999997,
+    "other_names": {
+      "name": "Mataró",
+      "name:ar": "ماتارو",
+      "name:ca": "Mataró",
+      "name:el": "Ματαρό",
+      "name:es": "Mataró",
+      "name:lt": "Mataro",
+      "name:ru": "Матаро",
+      "name:uk": "Матаро"
+    }
+  },
+  {
+    "name": "Matehuala",
+    "country": "Mexico",
+    "latitude": 23.646485000353845,
+    "longitude": -100.643544,
+    "other_names": {
+      "name": "Matehuala",
+      "name:ru": "Матеуала"
+    }
+  },
+  {
+    "name": "Matera",
+    "country": "Italy",
+    "latitude": 40.66852300035349,
+    "longitude": 16.601584999999996,
+    "other_names": {
+      "name": "Matera",
+      "name:ar": "ماتيرا",
+      "name:el": "Ματέρα",
+      "name:fa": "ماترا",
+      "name:mk": "Матера",
+      "name:ru": "Матера",
+      "name:ur": "ماتیرا",
+      "name:zh": "马泰拉"
+    }
+  },
+  {
+    "name": "Mathura",
+    "country": "India",
+    "latitude": 27.49555390000272,
+    "longitude": 77.6855554,
+    "other_names": {
+      "name": "Mathura",
+      "name:en": "Mathura",
+      "name:he": "מתורה",
+      "name:hi": "मथुरा",
+      "name:ja": "マトゥラー",
+      "name:kn": "ಮಥುರಾ",
+      "name:ml": "മഥുര",
+      "name:pa": "ਮਥੁਰਾ",
+      "name:ru": "Матхура",
+      "name:ta": "மதுரா"
+    }
+  },
+  {
+    "name": "Mati",
+    "country": "Philippines",
+    "latitude": 6.951374299406642,
+    "longitude": 126.216777,
+    "other_names": {
+      "name": "Mati",
+      "name:ja": "マティ"
+    }
+  },
+  {
+    "name": "Matli",
+    "country": "Pakistan",
+    "latitude": 25.0441564002542,
+    "longitude": 68.65893579999998,
+    "other_names": {
+      "name": "ماتلی",
+      "name:en": "Matli",
+      "name:ru": "Матли"
+    }
+  },
+  {
+    "name": "Matola",
+    "country": "Mozambique",
+    "latitude": -25.966916999643015,
+    "longitude": 32.466956,
+    "other_names": {
+      "name": "Matola",
+      "name:ko": "마톨라"
+    }
+  },
+  {
+    "name": "Matsubara",
+    "country": "Japan",
+    "latitude": 34.58077899962641,
+    "longitude": 135.546552,
+    "other_names": {
+      "name": "松原市",
+      "name:ar": "ماتسوبارا، أوساكا",
+      "name:de": "Matsubara",
+      "name:en": "Matsubara",
+      "name:es": "Matsubara",
+      "name:fr": "Matsubara",
+      "name:ja": "松原市",
+      "name:ko": "마쓰바라시",
+      "name:pl": "Matsubara",
+      "name:ru": "Мацубара",
+      "name:uk": "Мацубара",
+      "name:ja_rm": "Matsubara-shi"
+    }
+  }
+]

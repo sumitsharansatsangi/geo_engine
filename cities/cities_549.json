@@ -1,0 +1,412 @@
+[
+  {
+    "name": "Yuzhong",
+    "country": "China",
+    "latitude": 29.555598699781264,
+    "longitude": 106.56538089999998,
+    "other_names": {
+      "name": "渝中区",
+      "name:en": "Yuzhong",
+      "name:vi": "Du Trung",
+      "name:zh": "渝中区",
+      "name:zh-Hant": "渝中區"
+    }
+  },
+  {
+    "name": "Yuzhong",
+    "country": "China",
+    "latitude": 35.84753749972072,
+    "longitude": 104.11287719999999,
+    "other_names": {
+      "name": "榆中县",
+      "name:en": "Yuzhong",
+      "name:ja": "楡中県",
+      "name:ko": "위중 현",
+      "name:zh": "榆中县",
+      "alt_name": "榆中县;Yuzhong County;榆中城关镇;Chengguan",
+      "name:zh-Hant": "榆中縣"
+    }
+  },
+  {
+    "name": "Yuzhou",
+    "country": "China",
+    "latitude": 34.159896799607296,
+    "longitude": 113.4666612,
+    "other_names": {
+      "name": "禹州市",
+      "name:de": "Yuzhou",
+      "name:en": "Yuzhou",
+      "name:fr": "Yuzhou",
+      "name:ja": "禹州市",
+      "name:ru": "Юйчжоу",
+      "name:vi": "Vũ Châu",
+      "name:zh": "禹州",
+      "alt_name": "禹州;Yuzhou City",
+      "int_name": "Yuzhou",
+      "name:zh-Hant": "禹州市",
+      "name:zh_pinyin": "Yǔzhōu Shì"
+    }
+  },
+  {
+    "name": "Yuzhou",
+    "country": "China",
+    "latitude": 22.631589600396218,
+    "longitude": 110.1461038,
+    "other_names": {
+      "name": "玉州区",
+      "name:de": "Yuzhou",
+      "name:en": "Yuzhou",
+      "name:fr": "District de Yuzhou",
+      "name:it": "Distretto di Yuzhou",
+      "name:ja": "玉州区",
+      "name:ko": "위저우구",
+      "name:no": "Yuzhou",
+      "name:sv": "Yuzhou",
+      "name:ur": "یوزحو ضلع",
+      "name:vi": "Ngọc Châu",
+      "name:zh": "玉州区",
+      "alt_name": "玉州;Yuzhou District",
+      "name:ceb": "Yuzhou Qu",
+      "name:hak": "Ngiu̍k-chiu-khî",
+      "name:nan": "Gio̍k-chiu-khu",
+      "name:yue": "玉州区",
+      "name:zh-Hant": "玉州區",
+      "name:yue-Latn": "Njukzau-kyu",
+      "name:zh_pinyin": "yùzhōu qū"
+    }
+  },
+  {
+    "name": "Zaafaranah",
+    "country": "Egypt",
+    "latitude": 29.1119074998258,
+    "longitude": 32.6592486,
+    "other_names": {
+      "name": "زعفرانة",
+      "name:ar": "زعفرانة",
+      "name:de": "Zaafaranah",
+      "name:en": "Zaafaranah",
+      "name:es": "Zaafaranah",
+      "name:fr": "Zaafaranah",
+      "name:ru": "Заафарана",
+      "alt_name": "زعفرانة",
+      "name:ckb": "زەعفەرانە"
+    }
+  },
+  {
+    "name": "Zabol",
+    "country": "Iran",
+    "latitude": 31.02777789965929,
+    "longitude": 61.494821099999996,
+    "other_names": {
+      "name": "زابل",
+      "name:ar": "زابل",
+      "name:de": "Zabol",
+      "name:en": "Zabol",
+      "name:es": "Zabol",
+      "name:et": "Zābol",
+      "name:fr": "Zabol",
+      "name:hi": "ज़ाबोल",
+      "name:ja": "ザーボル",
+      "name:lt": "Zabolas",
+      "name:ru": "Заболь"
+    }
+  },
+  {
+    "name": "Zabrze",
+    "country": "Poland",
+    "latitude": 50.308615399384166,
+    "longitude": 18.7863749,
+    "other_names": {
+      "name": "Zabrze",
+      "name:bg": "Забже",
+      "name:bs": "Zabže",
+      "name:de": "Hindenburg",
+      "name:fa": "زابژه",
+      "name:he": "זאבז'ה",
+      "name:ja": "ザブジェ",
+      "name:ko": "자브제",
+      "name:lt": "Zabžas",
+      "name:lv": "Zabže",
+      "name:mk": "Забже",
+      "name:pl": "Zabrze",
+      "name:ru": "Забже",
+      "name:sr": "Забже",
+      "name:th": "ซาบเช",
+      "name:uk": "Забже",
+      "name:uz": "Zabje",
+      "name:zh": "扎布热",
+      "name:szl": "Zobrze‎",
+      "old_name:de": "Hindenburg O.S."
+    }
+  },
+  {
+    "name": "Zacapa",
+    "country": "Guatemala",
+    "latitude": 14.968514199903561,
+    "longitude": -89.5314792,
+    "other_names": {
+      "name": "Zacapa",
+      "name:hu": "Zacapa"
+    }
+  },
+  {
+    "name": "Zacapu",
+    "country": "Mexico",
+    "latitude": 19.81840550036374,
+    "longitude": -101.79250829999998,
+    "other_names": {
+      "name": "Zacapu",
+      "name:ru": "Сакапу",
+      "alt_name": "Zacapu de Mier"
+    }
+  },
+  {
+    "name": "Zacatecas",
+    "country": "Mexico",
+    "latitude": 22.775389100391898,
+    "longitude": -102.57227059999998,
+    "other_names": {
+      "name": "Zacatecas",
+      "name:en": "Zacatecas",
+      "name:es": "Zacatecas",
+      "name:pl": "Zacatecas",
+      "name:ru": "Сакатекас",
+      "name:uk": "Сакатекас"
+    }
+  },
+  {
+    "name": "Zacatecoluca",
+    "country": "El Salvador",
+    "latitude": 13.50731609973433,
+    "longitude": -88.87020639999999,
+    "other_names": {
+      "name": "Zacatecoluca",
+      "name:es": "Zacatecoluca"
+    }
+  },
+  {
+    "name": "Zadar",
+    "country": "Croatia",
+    "latitude": 44.11685940052834,
+    "longitude": 15.235325699999997,
+    "other_names": {
+      "name": "Zadar",
+      "name:hu": "Zára",
+      "name:it": "Zara",
+      "name:la": "Iadera",
+      "name:lt": "Zadaras",
+      "name:ru": "Задар",
+      "name:sr": "Задар",
+      "old_name": "Iader"
+    }
+  },
+  {
+    "name": "Zagora",
+    "country": "Morocco",
+    "latitude": 30.32803499971149,
+    "longitude": -5.837138999999999,
+    "other_names": {
+      "name": "Zagora ⵣⴰⴳⵓⵔⴰ زاكورة",
+      "name:ar": "زاكورة",
+      "name:en": "Zagora",
+      "name:fr": "Zagora",
+      "name:ber": "ⵣⴰⴳⵓⵔⴰ",
+      "name:zgh": "ⵣⴰⴳⵓⵔⴰ"
+    }
+  },
+  {
+    "name": "Zagreb",
+    "country": "Croatia",
+    "latitude": 45.81318470037049,
+    "longitude": 15.9771774,
+    "other_names": {
+      "name": "Zagreb",
+      "name:am": "ዛግሬብ",
+      "name:ar": "زغرب",
+      "name:az": "Zaqreb",
+      "name:ba": "Zagreb",
+      "name:be": "Заграб",
+      "name:bg": "Загреб",
+      "name:bn": "জাগরেব",
+      "name:bo": "ཛག་རེབ།",
+      "name:co": "Zagabria",
+      "name:cs": "Záhřeb",
+      "name:cu": "Ꙁагрєбъ",
+      "name:cv": "Загреб",
+      "name:el": "Ζάγκρεμπ",
+      "name:en": "Zagreb",
+      "name:eo": "Zagrebo",
+      "name:es": "Zagreb",
+      "name:eu": "Zagreb",
+      "name:fa": "زاگرب",
+      "name:fr": "Zagreb",
+      "name:ga": "Ságrab",
+      "name:he": "זגרב",
+      "name:hr": "Zagreb",
+      "name:hu": "Zágráb",
+      "name:hy": "Զագրեբ",
+      "name:is": "Zagreb",
+      "name:it": "Zagabria",
+      "name:ja": "ザグレブ",
+      "name:ka": "ზაგრები",
+      "name:kk": "Загреб",
+      "name:kn": "ಝಾಗ್ರೆಬ್",
+      "name:ko": "자그레브",
+      "name:ku": "Zagreb",
+      "name:kv": "Загреб",
+      "name:la": "Zagrabia",
+      "name:lt": "Zagrebas",
+      "name:lv": "Zagreba",
+      "name:mk": "Загреб",
+      "name:mr": "झाग्रेब",
+      "name:mt": "Żagreb",
+      "name:no": "Zagreb",
+      "name:oc": "Zagrèb",
+      "name:os": "Загреб",
+      "name:pl": "Zagrzeb",
+      "name:ru": "Загреб",
+      "name:sc": "Zagàbria",
+      "name:sk": "Záhreb",
+      "name:sq": "Zagrebi",
+      "name:sr": "Загреб",
+      "name:sv": "Zagreb",
+      "name:ta": "சாகிரேப்",
+      "name:tg": "Загреб",
+      "name:th": "ซาเกร็บ",
+      "name:tl": "Zagreb",
+      "name:ug": "Zagréb",
+      "name:uk": "Загреб",
+      "name:ur": "زغرب",
+      "name:wo": "Sagreb",
+      "name:yi": "זאגרעב",
+      "name:zh": "薩格勒布",
+      "int_name": "Zagreb",
+      "name:ast": "Zagreb",
+      "name:bar": "Zagreb",
+      "name:ckb": "زاگرێب",
+      "name:lij": "Zagabbria",
+      "name:lmo": "Zagabria",
+      "name:mhr": "Загреб",
+      "name:pih": "Sakreb",
+      "name:pms": "Zagabria",
+      "name:pnb": "زغریب",
+      "name:sah": "Загреб",
+      "name:szl": "Zagrzeb",
+      "name:udm": "Загреб",
+      "name:vec": "Zagavria",
+      "name:yue": "薩格勒布",
+      "old_name:de": "Agram",
+      "name:bat-smg": "Zagrėbs",
+      "name:sr-Latn": "Zagreb",
+      "name:zh-Hans": "萨格勒布",
+      "name:zh-Hant": "薩格勒布",
+      "name:be-tarask": "Загрэб"
+    }
+  },
+  {
+    "name": "Zahedan",
+    "country": "Iran",
+    "latitude": 29.492887399787392,
+    "longitude": 60.850301699999996,
+    "other_names": {
+      "name": "زاهدان",
+      "name:cs": "Záhedán",
+      "name:de": "Zahedan",
+      "name:en": "Zahedan",
+      "name:es": "Zahedán",
+      "name:et": "Zāhedān",
+      "name:fi": "Zahedan",
+      "name:fr": "Zahedan",
+      "name:hi": "ज़ाहेदान",
+      "name:ja": "ザーヘダーン",
+      "name:ku": "Zahidan",
+      "name:lt": "Zahedanas",
+      "name:ml": "സാഹെദാൻ",
+      "name:pl": "Zahedan",
+      "name:ru": "Захедан",
+      "name:uk": "Захедан"
+    }
+  },
+  {
+    "name": "Zahle",
+    "country": "Lebanon",
+    "latitude": 33.84764789959724,
+    "longitude": 35.9026269,
+    "other_names": {
+      "name": "زحلة",
+      "name:ar": "زحلة",
+      "name:de": "Zahlé",
+      "name:en": "Zahle",
+      "name:es": "Zahlé",
+      "name:fr": "Zahlé",
+      "name:lt": "Zahlė",
+      "name:ml": "സഹ്ലെ",
+      "name:ru": "Захла",
+      "alt_name": "Zahlah;Zahle;Zahleh;Zahlé;Zakhla;Zaḩlah;Захла;זחל;,زحلة;Zahlé"
+    }
+  },
+  {
+    "name": "Zaječar",
+    "country": "Serbia",
+    "latitude": 43.90312340053563,
+    "longitude": 22.2785536,
+    "other_names": {
+      "name": "Зајечар",
+      "name:bg": "Зайчар",
+      "name:de": "Zaječar",
+      "name:en": "Zaječar",
+      "name:ro": "Zăiceari",
+      "name:ru": "Заечар",
+      "name:sr": "Зајечар",
+      "old_name:de": "Zatitscher",
+      "name:sr-Latn": "Zaječar"
+    }
+  },
+  {
+    "name": "Zakho",
+    "country": "Turkey",
+    "latitude": 37.14337619986642,
+    "longitude": 42.6822907,
+    "other_names": {
+      "name": "زاخۆ",
+      "name:en": "Zakho",
+      "name:he": "זאכו",
+      "name:ja": "ザーホー",
+      "name:ku": "Zaxo",
+      "name:ru": "Заху",
+      "name:tr": "Zaho",
+      "int_name": "Zakho",
+      "name:ckb": "زاخۆ"
+    }
+  },
+  {
+    "name": "Zakho",
+    "country": "Iraq",
+    "latitude": 37.14337619986642,
+    "longitude": 42.6822907,
+    "other_names": {
+      "name": "زاخۆ",
+      "name:en": "Zakho",
+      "name:he": "זאכו",
+      "name:ja": "ザーホー",
+      "name:ku": "Zaxo",
+      "name:ru": "Заху",
+      "name:tr": "Zaho",
+      "int_name": "Zakho",
+      "name:ckb": "زاخۆ"
+    }
+  },
+  {
+    "name": "Zalaegerszeg",
+    "country": "Hungary",
+    "latitude": 46.84158030019322,
+    "longitude": 16.8456316,
+    "other_names": {
+      "name": "Zalaegerszeg",
+      "name:de": "Egersee",
+      "name:ru": "Залаэгерсег",
+      "name:sr": "Залаегерсег",
+      "name:uk": "Залаеґерсеґ"
+    }
+  }
+]

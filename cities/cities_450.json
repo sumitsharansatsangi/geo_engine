@@ -1,0 +1,250 @@
+[
+  {
+    "name": "South Tangerang",
+    "country": "Indonesia",
+    "latitude": -6.2955403996898776,
+    "longitude": 106.70854939999998,
+    "other_names": {
+      "name": "Tangerang Selatan",
+      "name:en": "South Tangerang",
+      "name:ja": "南タンゲラン",
+      "name:zh": "南丹格朗"
+    }
+  },
+  {
+    "name": "Soweto",
+    "country": "South Africa",
+    "latitude": -26.222777799608938,
+    "longitude": 27.89,
+    "other_names": {
+      "name": "Soweto",
+      "name:he": "סווטו",
+      "name:ko": "소웨토"
+    }
+  },
+  {
+    "name": "Soweto",
+    "country": "South Africa And Lesotho",
+    "latitude": -26.222777799608938,
+    "longitude": 27.89,
+    "other_names": {
+      "name": "Soweto",
+      "name:he": "סווטו",
+      "name:ko": "소웨토"
+    }
+  },
+  {
+    "name": "Soyapango",
+    "country": "El Salvador",
+    "latitude": 13.703672699756337,
+    "longitude": -89.15025839999998,
+    "other_names": {
+      "name": "Soyapango"
+    }
+  },
+  {
+    "name": "Spanish Town",
+    "country": "Jamaica",
+    "latitude": 17.995692600233518,
+    "longitude": -76.95408309999999,
+    "other_names": {
+      "name": "Spanish Town",
+      "name:hu": "Spanish Towns",
+      "name:ru": "Спаниш-Таун"
+    }
+  },
+  {
+    "name": "Sparks",
+    "country": "United States Of America",
+    "latitude": 39.54046790020353,
+    "longitude": -119.74872350000001,
+    "other_names": {
+      "name": "Sparks"
+    }
+  },
+  {
+    "name": "Sparta",
+    "country": "Greece",
+    "latitude": 37.07507419985773,
+    "longitude": 22.431028199999997,
+    "other_names": {
+      "name": "Σπάρτη",
+      "name:ca": "Esparta",
+      "name:cs": "Sparta",
+      "name:de": "Sparta",
+      "name:el": "Σπάρτη",
+      "name:en": "Sparta",
+      "name:es": "Esparta",
+      "name:et": "Sparta",
+      "name:fr": "Sparte",
+      "name:hr": "Sparta",
+      "name:hu": "Szpárti",
+      "name:it": "Sparta",
+      "name:mk": "Спарта",
+      "name:nl": "Sparta",
+      "name:ru": "Спарта",
+      "name:sk": "Sparta",
+      "int_name": "Sparti"
+    }
+  },
+  {
+    "name": "Spartanburg",
+    "country": "United States Of America",
+    "latitude": 34.949800699648314,
+    "longitude": -81.9320157,
+    "other_names": {
+      "name": "Spartanburg",
+      "name:en": "Spartanburg",
+      "name:ru": "Спартанберг"
+    }
+  },
+  {
+    "name": "Spearfish",
+    "country": "United States Of America",
+    "latitude": 44.4908170005088,
+    "longitude": -103.85937,
+    "other_names": {
+      "name": "Spearfish"
+    }
+  },
+  {
+    "name": "Split",
+    "country": "Croatia",
+    "latitude": 43.51163830054185,
+    "longitude": 16.4399659,
+    "other_names": {
+      "name": "Split",
+      "name:ar": "سبليت",
+      "name:de": "Split",
+      "name:en": "Split",
+      "name:es": "Split",
+      "name:fr": "Split",
+      "name:hr": "Split",
+      "name:hu": "Spalato",
+      "name:it": "Spalato",
+      "name:lt": "Splitas",
+      "name:ru": "Сплит",
+      "name:sr": "Сплит",
+      "name:sr-Latn": "Split"
+    }
+  },
+  {
+    "name": "Spokane",
+    "country": "United States Of America",
+    "latitude": 47.65719340001798,
+    "longitude": -117.4235106,
+    "other_names": {
+      "name": "Spokane",
+      "name:ar": "سبوكين",
+      "name:be": "Спакан",
+      "name:bg": "Спокан",
+      "name:de": "Spokane",
+      "name:en": "Spokane",
+      "name:es": "Spokane",
+      "name:fa": "اسپوکن",
+      "name:fr": "Spokane",
+      "name:it": "Spokane",
+      "name:ja": "スポケーン",
+      "name:ko": "스포캔",
+      "name:pt": "Spokane",
+      "name:ru": "Спокан",
+      "name:uk": "Спокен",
+      "name:vi": "Spokane",
+      "name:zh": "斯波坎",
+      "old_name": "Spokan Falls"
+    }
+  },
+  {
+    "name": "Springdale",
+    "country": "United States Of America",
+    "latitude": 36.1867441997546,
+    "longitude": -94.12881419999998,
+    "other_names": {
+      "name": "Springdale"
+    }
+  },
+  {
+    "name": "Springfield",
+    "country": "United States Of America",
+    "latitude": 42.10187640049359,
+    "longitude": -72.5886727,
+    "other_names": {
+      "name": "Springfield",
+      "name:ru": "Спрингфилд"
+    }
+  },
+  {
+    "name": "Springfield",
+    "country": "United States Of America",
+    "latitude": 39.799017500239756,
+    "longitude": -89.6439575,
+    "other_names": {
+      "name": "Springfield",
+      "name:en": "Springfield",
+      "name:lt": "Springfildas",
+      "name:pl": "Springfield",
+      "name:ru": "Спрингфилд",
+      "name:ta": "ஸ்பிரிங்ஃபீல்ட்",
+      "name:uk": "Спрингфілд"
+    }
+  },
+  {
+    "name": "Springfield",
+    "country": "United States Of America",
+    "latitude": 37.21667789987582,
+    "longitude": -93.2920373,
+    "other_names": {
+      "name": "Springfield",
+      "name:en": "Springfield",
+      "name:ru": "Спрингфилд",
+      "name:uk": "Спрингфілд"
+    }
+  },
+  {
+    "name": "Springfield",
+    "country": "United States Of America",
+    "latitude": 39.92340460025689,
+    "longitude": -83.810138,
+    "other_names": {
+      "name": "Springfield"
+    }
+  },
+  {
+    "name": "Springfield",
+    "country": "United States Of America",
+    "latitude": 44.046236200531055,
+    "longitude": -123.0220289,
+    "other_names": {
+      "name": "Springfield",
+      "name:ja": "スプリングフィールド"
+    }
+  },
+  {
+    "name": "Spring Hill",
+    "country": "United States Of America",
+    "latitude": 28.463526599894948,
+    "longitude": -82.53635569999999,
+    "other_names": {
+      "name": "Spring Hill"
+    }
+  },
+  {
+    "name": "Spruce Grove",
+    "country": "Canada",
+    "latitude": 53.545203999124006,
+    "longitude": -113.903503,
+    "other_names": {
+      "name": "Spruce Grove"
+    }
+  },
+  {
+    "name": "Squamish",
+    "country": "Canada",
+    "latitude": 49.698074299522375,
+    "longitude": -123.15586120000002,
+    "other_names": {
+      "name": "Squamish",
+      "name:squ": "Sḵwx̱wú7mesh"
+    }
+  }
+]

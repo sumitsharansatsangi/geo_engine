@@ -1,0 +1,420 @@
+[
+  {
+    "name": "Weiyuan",
+    "country": "China",
+    "latitude": 29.53035629978372,
+    "longitude": 104.6659458,
+    "other_names": {
+      "name": "威远县",
+      "name:en": "Weiyuan",
+      "name:zh": "威远县",
+      "alt_name": "威远;Wei-yuan Hsien;Weiyuan County",
+      "name:zh-Hant": "威遠縣",
+      "name:zh_pinyin": "Wēiyuǎn Xiàn"
+    }
+  },
+  {
+    "name": "Welkom",
+    "country": "South Africa",
+    "latitude": -27.98229799941395,
+    "longitude": 26.737969,
+    "other_names": {
+      "name": "Welkom",
+      "name:en": "Welkom",
+      "name:ko": "벨콤",
+      "name:ru": "Велком",
+      "name:uk": "Велком"
+    }
+  },
+  {
+    "name": "Welkom",
+    "country": "South Africa And Lesotho",
+    "latitude": -27.98229799941395,
+    "longitude": 26.737969,
+    "other_names": {
+      "name": "Welkom",
+      "name:en": "Welkom",
+      "name:ko": "벨콤",
+      "name:ru": "Велком",
+      "name:uk": "Велком"
+    }
+  },
+  {
+    "name": "Welland",
+    "country": "Canada",
+    "latitude": 42.99221810053636,
+    "longitude": -79.24841919999999,
+    "other_names": {
+      "name": "Welland"
+    }
+  },
+  {
+    "name": "Wellington",
+    "country": "New Zealand",
+    "latitude": -41.28879530102595,
+    "longitude": 174.7772114,
+    "other_names": {
+      "name": "Wellington",
+      "name:af": "Wellington",
+      "name:am": "ዌሊንግተን",
+      "name:ar": "ويلينغتون",
+      "name:az": "Vellinqton",
+      "name:be": "Велінгтан",
+      "name:bg": "Уелингтън",
+      "name:bn": "ওয়েলিংটন",
+      "name:bo": "ཝེ་ལིང་ཐོན།",
+      "name:bs": "Wellington",
+      "name:cv": "Веллингтон",
+      "name:de": "Wellington",
+      "name:el": "Ουέλλινγκτον",
+      "name:en": "Wellington",
+      "name:eo": "Velingtono",
+      "name:es": "Wellington",
+      "name:fa": "ولینگتون",
+      "name:fr": "Wellington",
+      "name:gu": "વેલિંગ્ટન",
+      "name:he": "ולינגטון",
+      "name:hi": "वेलिंग्टन",
+      "name:ht": "Welintòn",
+      "name:hu": "Wellington",
+      "name:hy": "Վելինգտոն",
+      "name:is": "Wellington",
+      "name:ja": "ウェリントン",
+      "name:ka": "ველინგტონი",
+      "name:kn": "ವೆಲ್ಲಿಂಗ್ಟನ್",
+      "name:ko": "웰링턴",
+      "name:ku": "Wellington",
+      "name:la": "Vellingtonia",
+      "name:lt": "Velingtonas",
+      "name:lv": "Velingtona",
+      "name:mi": "Te Whanganui-a-Tara",
+      "name:mk": "Велингтон",
+      "name:mn": "Веллингтон",
+      "name:mr": "वेलिंग्टन",
+      "name:my": "ဝယ်လင်တန်မြို့",
+      "name:oc": "Wellington",
+      "name:os": "Веллингтон",
+      "name:pl": "Wellington",
+      "name:ru": "Веллингтон",
+      "name:sm": "Ueligitone",
+      "name:sr": "Велингтон",
+      "name:sv": "Wellington",
+      "name:ta": "வெலிங்டன், நியூசிலாந்து",
+      "name:th": "เวลลิงตัน",
+      "name:ty": "Whanga-nui-a-Tara",
+      "name:ug": "ۋېللىنگتون",
+      "name:uk": "Веллінгтон",
+      "name:ur": "ویلنگٹن",
+      "name:yi": "װעלינגטאן",
+      "name:zh": "惠灵顿 / 惠靈頓 / 威靈頓",
+      "int_name": "Wellington",
+      "loc_name": "Welli",
+      "name:ang": "Weolingtūn",
+      "name:arz": "ويلينجتون",
+      "name:bpy": "ৱেলিংটন",
+      "name:ckb": "وێڵینگتۆن",
+      "name:new": "वेलिंगटन",
+      "name:xmf": "ველინგთონი",
+      "name:yue": "威靈頓",
+      "name:zh-Hans": "惠灵顿",
+      "name:zh-Hant": "威靈頓",
+      "name:be-tarask": "Вэлінгтан",
+      "name:etymology": "Arthur Wellesley, 1st Duke of Wellington"
+    }
+  },
+  {
+    "name": "Wells",
+    "country": "England",
+    "latitude": 51.20945109921483,
+    "longitude": -2.6451202999999994,
+    "other_names": {
+      "name": "Wells",
+      "name:en": "Wells",
+      "name:hu": "Wells",
+      "name:lt": "Velsas",
+      "name:ru": "Уэллс",
+      "name:sr": "Велс"
+    }
+  },
+  {
+    "name": "Wen",
+    "country": "China",
+    "latitude": 34.93705949964748,
+    "longitude": 113.0755846,
+    "other_names": {
+      "name": "温县",
+      "name:en": "Wen",
+      "name:ja": "温県",
+      "name:vi": "Ôn",
+      "name:zh": "温县",
+      "alt_name": "温;Wen County;Wenxian",
+      "name:zh-Hant": "溫縣",
+      "name:zh_pinyin": "Wen Xian"
+    }
+  },
+  {
+    "name": "Wen",
+    "country": "China",
+    "latitude": 32.94606429958792,
+    "longitude": 104.6806518,
+    "other_names": {
+      "name": "文县",
+      "name:en": "Wen",
+      "name:zh": "文县",
+      "alt_name": "文;Wenxian;Wen-hsien;Wen;文县城关镇",
+      "name:zh-Hant": "文縣",
+      "name:zh_pinyin": "wén xiàn"
+    }
+  },
+  {
+    "name": "Wen'an",
+    "country": "China",
+    "latitude": 38.86548170010641,
+    "longitude": 116.4567788,
+    "other_names": {
+      "name": "文安县",
+      "name:en": "Wen'an",
+      "name:vi": "Văn An",
+      "name:zh": "文安县",
+      "alt_name": "文安;Wen'an County",
+      "name:zh-Hant": "文安縣",
+      "official_name": "文安镇",
+      "name:zh_pinyin": "Wen'an Xian"
+    }
+  },
+  {
+    "name": "Wenatchee",
+    "country": "United States Of America",
+    "latitude": 47.42345990007071,
+    "longitude": -120.31034940000002,
+    "other_names": {
+      "name": "Wenatchee",
+      "name:en": "Wenatchee"
+    }
+  },
+  {
+    "name": "Wenchang",
+    "country": "China",
+    "latitude": 19.545260400349097,
+    "longitude": 110.7932208,
+    "other_names": {
+      "name": "文昌市",
+      "name:ar": "وينشانغ",
+      "name:cs": "Wen-čchang",
+      "name:da": "Wenchang",
+      "name:de": "Wenchang",
+      "name:en": "Wenchang",
+      "name:es": "Wenchang",
+      "name:eu": "Wenchang",
+      "name:fi": "Wenchang",
+      "name:fr": "Wenchang",
+      "name:it": "Wenchang",
+      "name:ja": "文昌市",
+      "name:ki": "Wenchang",
+      "name:kk": "Вэньчан",
+      "name:ko": "원창시",
+      "name:mg": "Wenchang",
+      "name:nl": "Wenchang",
+      "name:no": "Wenchang",
+      "name:pl": "Wenchang",
+      "name:ru": "Вэньчан",
+      "name:sv": "Wenchang",
+      "name:tr": "Wenchang",
+      "name:ur": "وینچانگ",
+      "name:vi": "Văn Xương",
+      "name:zh": "文昌市",
+      "int_name": "Wenchang",
+      "name:ceb": "Wenchang Shi",
+      "name:nan": "Bûn-chhiong-chhī",
+      "name:pam": "Wenchang",
+      "name:yue": "文昌",
+      "name:zh-Hant": "文昌市",
+      "name:zh_pinyin": "Wénchāng Shì"
+    }
+  },
+  {
+    "name": "Wencheng",
+    "country": "China",
+    "latitude": 27.790485199969673,
+    "longitude": 120.08708830000002,
+    "other_names": {
+      "name": "文成县",
+      "name:de": "Wencheng",
+      "name:en": "Wencheng",
+      "name:fa": "شهرستان ونچنگ",
+      "name:fr": "Wencheng",
+      "name:it": "Wencheng",
+      "name:ja": "文成県",
+      "name:ko": "원청현",
+      "name:no": "Wencheng",
+      "name:sv": "Wencheng",
+      "name:vi": "Văn Thành",
+      "name:zh": "文成县",
+      "name:ceb": "Wencheng",
+      "name:hak": "Vùn-sṳ̀n-yen",
+      "name:nan": "Bûn-sêng-koān",
+      "name:wuu": "文成县",
+      "name:yue": "文成",
+      "name:zh-Hant": "文成縣",
+      "name:zh_pinyin": "Wénchéng Xiàn"
+    }
+  },
+  {
+    "name": "Wenchuan",
+    "country": "China",
+    "latitude": 31.480164899632264,
+    "longitude": 103.58338629999999,
+    "other_names": {
+      "name": "汶川县",
+      "name:bo": "དབེ་ཀྲོའུ་",
+      "name:en": "Wenchuan",
+      "name:ja": "威州鎮",
+      "name:ru": "Вэйчжоу",
+      "name:vi": "Uy Châu",
+      "name:zh": "汶川县",
+      "alt_name": "汶川;Wenchuan County",
+      "name:zh-Hant": "汶川縣"
+    }
+  },
+  {
+    "name": "Wendeng",
+    "country": "China",
+    "latitude": 37.19608989987317,
+    "longitude": 122.0479985,
+    "other_names": {
+      "name": "文登区",
+      "name:de": "Wendeng",
+      "name:en": "Wendeng",
+      "name:fr": "Wendeng",
+      "name:vi": "Văn Đăng",
+      "name:zh": "文登区",
+      "int_name": "Wendeng",
+      "name:zh-Hant": "文登區",
+      "name:zh_pinyin": "Wéndēng Qu"
+    }
+  },
+  {
+    "name": "Wengan",
+    "country": "China",
+    "latitude": 27.08602910004836,
+    "longitude": 107.4613939,
+    "other_names": {
+      "name": "瓮安县",
+      "name:en": "Wengan",
+      "name:zh": "瓮安县",
+      "name:zh-Hant": "甕安縣"
+    }
+  },
+  {
+    "name": "Wengyuan",
+    "country": "China",
+    "latitude": 24.358054100308543,
+    "longitude": 114.12879219999999,
+    "other_names": {
+      "name": "翁源县",
+      "name:de": "Wengyuan",
+      "name:en": "Wengyuan",
+      "name:fa": "شهرستان ونگیوانگ",
+      "name:fr": "Xian de Wengyuan",
+      "name:it": "Contea di Wengyuan",
+      "name:ja": "翁源県",
+      "name:ko": "웡위안현",
+      "name:no": "Wengyuan",
+      "name:sv": "Wengyuan Xian",
+      "name:vi": "Ông Nguyên",
+      "name:zh": "翁源县",
+      "alt_name": "翁源;Wengyuan County",
+      "name:ceb": "Wengyuan Xian",
+      "name:hak": "Vûng-ngièn-yen",
+      "name:mwl": "Wengyuan",
+      "name:nan": "Ong-goân-koān",
+      "name:yue": "翁源",
+      "name:zh-Hant": "翁源縣",
+      "name:zh_pinyin": "Wēngyuán Xiàn"
+    }
+  },
+  {
+    "name": "Wenjiang",
+    "country": "China",
+    "latitude": 30.70524679968188,
+    "longitude": 103.82946889999998,
+    "other_names": {
+      "name": "温江区",
+      "name:en": "Wenjiang",
+      "name:vi": "Ôn Giang",
+      "name:zh": "温江区",
+      "alt_name": "温江;Wenjiang District",
+      "name:zh-Hant": "溫江區",
+      "name:zh_pinyin": "Wēnjiāng Qū"
+    }
+  },
+  {
+    "name": "Wenling",
+    "country": "China",
+    "latitude": 28.375414399904624,
+    "longitude": 121.38120129999999,
+    "other_names": {
+      "name": "温岭市",
+      "name:ar": "نلينغ",
+      "name:de": "Wenling",
+      "name:en": "Wenling",
+      "name:fr": "Wenling",
+      "name:it": "Wenling",
+      "name:ja": "温嶺市",
+      "name:ki": "Wenling",
+      "name:ko": "원링시",
+      "name:mg": "Wenling",
+      "name:nl": "Wenling",
+      "name:no": "Wenling",
+      "name:ru": "Вэньлин",
+      "name:sv": "Wenling",
+      "name:tl": "Wenling",
+      "name:ur": "وینلینگ",
+      "name:vi": "Ôn Lĩnh",
+      "name:zh": "温岭市",
+      "name:ceb": "Wenling",
+      "name:nan": "Un-niá-chhī",
+      "name:war": "Wenling",
+      "name:wuu": "温岭市",
+      "name:yue": "溫嶺",
+      "name:zh-Hant": "溫嶺市",
+      "name:zh_pinyin": "Wēnlǐng Shì"
+    }
+  },
+  {
+    "name": "Wenshan",
+    "country": "China",
+    "latitude": 23.389348400367158,
+    "longitude": 104.2308645,
+    "other_names": {
+      "name": "文山市",
+      "name:de": "Wenshan",
+      "name:en": "Wenshan",
+      "name:et": "Wenshan",
+      "name:fr": "Wenshan",
+      "name:ja": "文山市",
+      "name:ko": "웬샨시",
+      "name:ru": "Кайхуа",
+      "name:vi": "Văn Sơn",
+      "name:zh": "文山市",
+      "alt_name": "文山;Wenshan City",
+      "old_name": "文山县;Wen-shan Hsien;Wenshan County",
+      "name:zh-Hant": "文山市",
+      "name:zh_pinyin": "Wénshān Shì"
+    }
+  },
+  {
+    "name": "Wenshang",
+    "country": "China",
+    "latitude": 35.72393939970923,
+    "longitude": 116.48408729999997,
+    "other_names": {
+      "name": "汶上县",
+      "name:en": "Wenshang",
+      "name:vi": "Vấn Thượng",
+      "name:zh": "汶上县",
+      "name:zh-Hant": "汶上縣",
+      "name:zh_pinyin": "Wenshang Xian"
+    }
+  }
+]

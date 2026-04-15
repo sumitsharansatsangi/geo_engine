@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Lausanne",
+    "country": "Switzerland",
+    "latitude": 46.52182690025419,
+    "longitude": 6.6327025,
+    "other_names": {
+      "name": "Lausanne",
+      "name:ar": "لوزان",
+      "name:be": "Лазана",
+      "name:ca": "Lausana",
+      "name:de": "Lausanne",
+      "name:el": "Λωζάνη",
+      "name:es": "Lausana",
+      "name:it": "Losanna",
+      "name:lt": "Lozana",
+      "name:pl": "Lozanna",
+      "name:ru": "Лозанна",
+      "name:sl": "Lozana",
+      "name:sr": "Лозана",
+      "name:uk": "Лозанна",
+      "name:zh": "洛桑",
+      "name:gsw": "Losan",
+      "name:zh-Hans": "洛桑",
+      "name:zh-Hant": "洛桑"
+    }
+  },
+  {
+    "name": "Lautoka",
+    "country": "Fiji",
+    "latitude": -17.60439560047526,
+    "longitude": 177.45301379999998,
+    "other_names": {
+      "name": "Lautoka",
+      "name:ar": "لاوتوكا",
+      "name:hi": "लौतोका",
+      "name:ja": "ラウトカ",
+      "name:ko": "라우토카",
+      "name:ru": "Лаутока",
+      "name:zh": "劳托卡"
+    }
+  },
+  {
+    "name": "Laval",
+    "country": "Canada",
+    "latitude": 45.575780200403116,
+    "longitude": -73.7530656,
+    "other_names": {
+      "name": "Laval"
+    }
+  },
+  {
+    "name": "La Vega",
+    "country": "Haiti And Domrep",
+    "latitude": 19.223741100329523,
+    "longitude": -70.5284071,
+    "other_names": {
+      "name": "La Vega",
+      "name:hu": "La Vega",
+      "name:ru": "Ла-Вега",
+      "official_name": "Concepción de La Vega"
+    }
+  },
+  {
+    "name": "La Victoria",
+    "country": "Venezuela",
+    "latitude": 10.227683799449778,
+    "longitude": -67.3246357,
+    "other_names": {
+      "name": "La Victoria",
+      "name:lt": "La Viktorija"
+    }
+  },
+  {
+    "name": "Lavras",
+    "country": "Brazil",
+    "latitude": -21.24255120028186,
+    "longitude": -44.9991978,
+    "other_names": {
+      "name": "Lavras"
+    }
+  },
+  {
+    "name": "Lawrence",
+    "country": "United States Of America",
+    "latitude": 42.70703540052704,
+    "longitude": -71.1631137,
+    "other_names": {
+      "name": "Lawrence"
+    }
+  },
+  {
+    "name": "Lawrence",
+    "country": "United States Of America",
+    "latitude": 38.971938400121836,
+    "longitude": -95.2359496,
+    "other_names": {
+      "name": "Lawrence",
+      "name:en": "Lawrence",
+      "name:ru": "Лоуренс",
+      "name:uk": "Лоренс"
+    }
+  },
+  {
+    "name": "Lawton",
+    "country": "United States Of America",
+    "latitude": 34.6086853996279,
+    "longitude": -98.39033049999999,
+    "other_names": {
+      "name": "Lawton",
+      "name:ru": "Лотон"
+    }
+  },
+  {
+    "name": "Layyah",
+    "country": "Pakistan",
+    "latitude": 30.964867999663486,
+    "longitude": 70.9455995,
+    "other_names": {
+      "name": "ليّہ",
+      "name:ar": "ليه",
+      "name:de": "Layyah",
+      "name:en": "Layyah",
+      "name:es": "Layyah",
+      "name:fr": "Layyah"
+    }
+  },
+  {
+    "name": "Lázaro Cárdenas",
+    "country": "Mexico",
+    "latitude": 17.959476900230225,
+    "longitude": -102.19865899999999,
+    "other_names": {
+      "name": "Lázaro Cárdenas"
+    }
+  },
+  {
+    "name": "Le'an",
+    "country": "China",
+    "latitude": 27.430332200010014,
+    "longitude": 115.8255668,
+    "other_names": {
+      "name": "乐安县",
+      "name:de": "Le’an",
+      "name:en": "Le'an",
+      "name:fr": "Xian de Le'an",
+      "name:it": "Contea di Le'an",
+      "name:ja": "楽安県",
+      "name:ko": "러안현",
+      "name:no": "Le'an",
+      "name:sv": "Le'an",
+      "name:vi": "Lạc An",
+      "name:zh": "乐安县",
+      "alt_name": "乐安;Le'an County",
+      "name:gan": "樂安",
+      "name:nan": "Lo̍k-an-koān",
+      "name:yue": "樂安",
+      "name:zh-Hant": "樂安縣",
+      "name:zh_pinyin": "lèān xiàn"
+    }
+  },
+  {
+    "name": "Leavenworth",
+    "country": "United States Of America",
+    "latitude": 39.311325700170855,
+    "longitude": -94.922759,
+    "other_names": {
+      "name": "Leavenworth"
+    }
+  },
+  {
+    "name": "Lebanon",
+    "country": "United States Of America",
+    "latitude": 43.64303200054077,
+    "longitude": -72.251587,
+    "other_names": {
+      "name": "Lebanon"
+    }
+  },
+  {
+    "name": "Lebanon",
+    "country": "United States Of America",
+    "latitude": 40.342968300312705,
+    "longitude": -76.42338159999998,
+    "other_names": {
+      "name": "Lebanon"
+    }
+  },
+  {
+    "name": "Lebu",
+    "country": "Chile",
+    "latitude": -37.60996440048544,
+    "longitude": -73.6559477,
+    "other_names": {
+      "name": "Lebu",
+      "name:ru": "Лебу"
+    }
+  },
+  {
+    "name": "Lecce",
+    "country": "Italy",
+    "latitude": 40.357037300314545,
+    "longitude": 18.1718482,
+    "other_names": {
+      "name": "Lecce",
+      "name:ar": "لتشه",
+      "name:el": "Λέτσε",
+      "name:fa": "لچه",
+      "name:ja": "レッチェ",
+      "name:mk": "Лече",
+      "name:ru": "Лечче",
+      "name:ur": "لیچہ",
+      "name:zh": "萊切",
+      "alt_name:ar": "ليتشي"
+    }
+  },
+  {
+    "name": "Lecco",
+    "country": "Italy",
+    "latitude": 45.85537640036434,
+    "longitude": 9.389605,
+    "other_names": {
+      "name": "Lecco",
+      "name:el": "Λέκκο",
+      "name:fr": "Lecco",
+      "name:it": "Lecco",
+      "name:ru": "Лекко",
+      "name:zh": "萊科"
+    }
+  },
+  {
+    "name": "Lechang",
+    "country": "China",
+    "latitude": 25.13368020024643,
+    "longitude": 113.34216440000002,
+    "other_names": {
+      "name": "乐昌市",
+      "name:ar": "ليشانغ",
+      "name:de": "Lechang",
+      "name:en": "Lechang",
+      "name:fa": "لیچانگ",
+      "name:fr": "Lechang",
+      "name:it": "Lechang",
+      "name:ja": "楽昌市",
+      "name:ki": "Lechang",
+      "name:ko": "러창시",
+      "name:nl": "Lechang",
+      "name:no": "Lechang",
+      "name:ru": "Лэчан",
+      "name:sv": "Lechang",
+      "name:ur": "لیچانگ",
+      "name:vi": "Lạc Xương",
+      "name:zh": "乐昌市",
+      "alt_name": "乐昌;Lechang City",
+      "name:hak": "Lo̍k-chhông-sṳ",
+      "name:mwl": "Lechang",
+      "name:nan": "Lo̍k-chhiong-chhī",
+      "name:pam": "Lechang",
+      "name:pnb": "لیچانگ",
+      "name:yue": "樂昌",
+      "name:zh-Hant": "樂昌市",
+      "name:zh_pinyin": "Lèchāng Shì"
+    }
+  },
+  {
+    "name": "Lechería",
+    "country": "Venezuela",
+    "latitude": 10.189740699447729,
+    "longitude": -64.692488,
+    "other_names": {
+      "name": "Lechería"
+    }
+  }
+]

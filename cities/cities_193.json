@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Idhna",
+    "country": "Israel And Palestine",
+    "latitude": 31.557993999628195,
+    "longitude": 34.9762809,
+    "other_names": {
+      "name": "إذنا‎",
+      "name:ar": "إذنا‎",
+      "name:de": "Idhna",
+      "name:en": "Idhna",
+      "name:es": "Idhna",
+      "name:fr": "Idnah",
+      "name:he": "אידנא"
+    }
+  },
+  {
+    "name": "Idiofa",
+    "country": "Congo Democratic Republic",
+    "latitude": -4.969921699682589,
+    "longitude": 19.5885243,
+    "other_names": {
+      "name": "Idiofa"
+    }
+  },
+  {
+    "name": "Idlib",
+    "country": "Syria",
+    "latitude": 35.92783059972843,
+    "longitude": 36.63530170000001,
+    "other_names": {
+      "name": "إدلب",
+      "name:ar": "إدلب",
+      "name:cs": "Idlib",
+      "name:de": "Idlib",
+      "name:en": "Idlib",
+      "name:et": "Idlib",
+      "name:fr": "Idlib",
+      "name:he": "אדלב",
+      "name:hi": "इड्लिब",
+      "name:hr": "Idlib",
+      "name:hu": "Idlib",
+      "name:ku": "Îdlîb",
+      "name:lt": "Idlibas",
+      "name:ml": "ഇദ്ലിബ്",
+      "name:ru": "Идлиб",
+      "name:tr": "İdlib",
+      "name:zh": "伊德利卜",
+      "alt_name": "إدلب",
+      "alt_name:he": "אידליב"
+    }
+  },
+  {
+    "name": "Ife",
+    "country": "Nigeria",
+    "latitude": 7.481355999394939,
+    "longitude": 4.551405999999999,
+    "other_names": {
+      "name": "Ife",
+      "name:ar": "إيف",
+      "name:ko": "이페",
+      "name:ru": "Ифе"
+    }
+  },
+  {
+    "name": "Iga",
+    "country": "Japan",
+    "latitude": 34.74977609963585,
+    "longitude": 136.14233550000003,
+    "other_names": {
+      "name": "伊賀市",
+      "name:en": "Iga",
+      "name:fr": "Iga",
+      "name:ja": "伊賀市",
+      "name:ko": "이가시",
+      "name:pl": "Iga",
+      "name:ru": "Ига",
+      "name:uk": "Іґа",
+      "name:ja_rm": "Iga-shi",
+      "name:ja_kana": "いがし"
+    }
+  },
+  {
+    "name": "Iganga",
+    "country": "Uganda",
+    "latitude": 0.6154853999356278,
+    "longitude": 33.4794594,
+    "other_names": {
+      "name": "Iganga"
+    }
+  },
+  {
+    "name": "Igarassu",
+    "country": "Brazil",
+    "latitude": -7.835442299751067,
+    "longitude": -34.9061125,
+    "other_names": {
+      "name": "Igarassu"
+    }
+  },
+  {
+    "name": "Iğdır",
+    "country": "Turkey",
+    "latitude": 39.92156680025663,
+    "longitude": 44.046772399999995,
+    "other_names": {
+      "name": "Iğdır",
+      "name:ar": "اغدير",
+      "name:hi": "इग्दिर",
+      "name:hu": "Iğdır",
+      "name:hy": "Ցոլակերտ",
+      "name:ku": "Îdir",
+      "name:ml": "ഇഗ്ദിർ",
+      "name:ru": "Ыгдыр",
+      "name:tr": "Iğdır",
+      "name:uk": "Игдир"
+    }
+  },
+  {
+    "name": "Igombe",
+    "country": "Tanzania",
+    "latitude": -2.4014928382261918,
+    "longitude": 32.966597159714055,
+    "other_names": {
+      "name": "Igombe"
+    }
+  },
+  {
+    "name": "Iguala",
+    "country": "Mexico",
+    "latitude": 18.34663580026412,
+    "longitude": -99.5376944,
+    "other_names": {
+      "name": "Iguala",
+      "official_name": "Iguala de la Independencia"
+    }
+  },
+  {
+    "name": "Iguatu",
+    "country": "Brazil",
+    "latitude": -6.361933999691378,
+    "longitude": -39.2972233,
+    "other_names": {
+      "name": "Iguatu"
+    }
+  },
+  {
+    "name": "Iida",
+    "country": "Japan",
+    "latitude": 35.51471009969084,
+    "longitude": 137.8219519,
+    "other_names": {
+      "name": "飯田市",
+      "name:ar": "ليدا، ناغانو",
+      "name:de": "Iida",
+      "name:en": "Iida",
+      "name:es": "Iida",
+      "name:fr": "Iida",
+      "name:ja": "飯田市",
+      "name:ko": "이다시",
+      "name:pl": "Iida",
+      "name:ru": "Иида",
+      "name:uk": "Іїда",
+      "name:ja_rm": "Iida-shi",
+      "name:ja_kana": "いいだし"
+    }
+  },
+  {
+    "name": "Iiyama",
+    "country": "Japan",
+    "latitude": 36.85176289983005,
+    "longitude": 138.3654364,
+    "other_names": {
+      "name": "飯山市",
+      "name:ar": "لياما، ناغانو",
+      "name:de": "Iiyama",
+      "name:en": "Iiyama",
+      "name:es": "Iiyama",
+      "name:fr": "Iiyama",
+      "name:ja": "飯山市",
+      "name:ko": "이야마시",
+      "name:pl": "Iiyama",
+      "name:ru": "Иияма",
+      "name:uk": "Іїяма",
+      "int_name": "Iiyama",
+      "name:ja_rm": "Iiyama-shi",
+      "name:ja_kana": "いいやまし"
+    }
+  },
+  {
+    "name": "Iizuka",
+    "country": "Japan",
+    "latitude": 33.64659399959263,
+    "longitude": 130.6911579,
+    "other_names": {
+      "name": "飯塚市",
+      "name:ar": "ليزوكا، فوكوكا",
+      "name:de": "Iizuka",
+      "name:en": "Iizuka",
+      "name:es": "Iizuka",
+      "name:et": "Iizuka",
+      "name:fr": "Iizuka",
+      "name:hu": "Iizuka",
+      "name:ja": "飯塚市",
+      "name:ko": "이즈카시",
+      "name:lt": "Iidzuka",
+      "name:pl": "Iizuka",
+      "name:ru": "Иидзука",
+      "name:uk": "Іїдзука",
+      "name:zh": "饭冢市",
+      "int_name": "Iizuka",
+      "name:ja-Hira": "いいづかし",
+      "name:zh-Hans": "饭冢市",
+      "name:zh-Hant": "飯塚市"
+    }
+  },
+  {
+    "name": "Ijagbo Offa",
+    "country": "Nigeria",
+    "latitude": 8.156000799390425,
+    "longitude": 4.7227435,
+    "other_names": {
+      "name": "Ijagbo Offa",
+      "name:ar": "إيجاغبو أفا",
+      "alt_name:ar": "إيجاغبو أوفا"
+    }
+  },
+  {
+    "name": "Ijebu-Ode",
+    "country": "Nigeria",
+    "latitude": 6.814007699410818,
+    "longitude": 3.9151667999999997,
+    "other_names": {
+      "name": "Ijebu-Ode"
+    }
+  },
+  {
+    "name": "Ikeda",
+    "country": "Japan",
+    "latitude": 34.81937099964003,
+    "longitude": 135.433332,
+    "other_names": {
+      "name": "池田市",
+      "name:ar": "إكيدا، أوساكا",
+      "name:de": "Ikeda",
+      "name:en": "Ikeda",
+      "name:es": "Ikeda",
+      "name:fr": "Ikeda",
+      "name:ja": "池田市",
+      "name:ko": "이케다시",
+      "name:pl": "Ikeda",
+      "name:ru": "Икеда",
+      "name:uk": "Ікеда",
+      "name:ja_rm": "Ikeda-shi"
+    }
+  },
+  {
+    "name": "Ikeja",
+    "country": "Nigeria",
+    "latitude": 6.59606049941839,
+    "longitude": 3.340787,
+    "other_names": {
+      "name": "Ikeja",
+      "name:ru": "Икеджа"
+    }
+  },
+  {
+    "name": "Iki",
+    "country": "Japan",
+    "latitude": 33.75005149959481,
+    "longitude": 129.6913078,
+    "other_names": {
+      "name": "壱岐市",
+      "name:ar": "إكي، ناغاساكي",
+      "name:de": "Iki",
+      "name:en": "Iki",
+      "name:es": "Iki",
+      "name:fr": "Iki",
+      "name:ja": "壱岐市",
+      "name:ko": "이키시",
+      "name:lt": "Ikis",
+      "name:ru": "Ики",
+      "name:uk": "Ікі",
+      "name:zh": "壹岐市",
+      "int_name": "Iki",
+      "name:ja_rm": "Iki-shi",
+      "name:ja_kana": "いきし",
+      "name:zh-Hans": "壹岐市",
+      "name:zh-Hant": "壹岐市"
+    }
+  },
+  {
+    "name": "Ikoma",
+    "country": "Japan",
+    "latitude": 34.69152669963249,
+    "longitude": 135.6961681,
+    "other_names": {
+      "name": "生駒市",
+      "name:en": "Ikoma",
+      "name:fr": "Ikoma",
+      "name:ja": "生駒市",
+      "name:ko": "이코마시",
+      "name:pl": "Ikoma",
+      "name:ru": "Икома",
+      "name:uk": "Ікома",
+      "name:ja_rm": "Ikoma-shi",
+      "name:ja_kana": "いこまし"
+    }
+  }
+]

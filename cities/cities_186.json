@@ -1,0 +1,365 @@
+[
+  {
+    "name": "Huaiyang",
+    "country": "China",
+    "latitude": 33.73304939959443,
+    "longitude": 114.8842326,
+    "other_names": {
+      "name": "淮阳区",
+      "name:en": "Huaiyang",
+      "name:vi": "Hoài Dương",
+      "name:zh": "淮阳县",
+      "alt_name": "淮阳;Huaiyang",
+      "name:zh-Hant": "淮陽區"
+    }
+  },
+  {
+    "name": "Huaiyin",
+    "country": "China",
+    "latitude": 33.6346313995924,
+    "longitude": 119.02450489999998,
+    "other_names": {
+      "name": "淮阴区",
+      "name:en": "Huaiyin",
+      "name:zh": "淮阴区",
+      "name:zh-Hant": "淮陰區"
+    }
+  },
+  {
+    "name": "Huaiyin",
+    "country": "China",
+    "latitude": 36.65225909980626,
+    "longitude": 116.89557529999999,
+    "other_names": {
+      "name": "槐荫区",
+      "name:en": "Huaiyin",
+      "name:vi": "Hòe Ấm",
+      "name:zh": "槐荫区",
+      "name:zh-Hant": "槐蔭區"
+    }
+  },
+  {
+    "name": "Huaiyuan",
+    "country": "China",
+    "latitude": 32.97063929958778,
+    "longitude": 117.19948319999997,
+    "other_names": {
+      "name": "怀远县",
+      "name:de": "Huaiyuan",
+      "name:en": "Huaiyuan",
+      "name:eo": "Huaiyuan",
+      "name:es": "Huaiyuan",
+      "name:fr": "Huaiyuan",
+      "name:ja": "懐遠県",
+      "name:ko": "화이위안 현",
+      "name:pt": "Huaiyuan",
+      "name:ru": "Хуайюань",
+      "name:sv": "Huaiyuan",
+      "name:vi": "Hoài Viễn",
+      "name:zh": "怀远县",
+      "name:zh-Hant": "懷遠縣"
+    }
+  },
+  {
+    "name": "Hualong",
+    "country": "China",
+    "latitude": 36.09900939974552,
+    "longitude": 102.2629914,
+    "other_names": {
+      "name": "化隆县",
+      "name:en": "Hualong",
+      "name:ja": "化隆回族自治県",
+      "name:zh": "巴燕镇",
+      "alt_name": "巴燕;化隆回族;自治县;Hualong;Pa-yen-chen;Hua-lung;Khualun;Hua-lung-hui-tsu-tzu-chih-hsien;Pa-yen;Pa-yen-jung-ko;Hua-lung-hsien;Bain rong;Pa-yen-jung",
+      "name:zh-Hant": "化隆縣",
+      "official_name": "巴燕镇"
+    }
+  },
+  {
+    "name": "Huambo",
+    "country": "Angola",
+    "latitude": -12.776539200189788,
+    "longitude": 15.7320468,
+    "other_names": {
+      "name": "Huambo",
+      "name:el": "Χουάμπο",
+      "name:ko": "우암부",
+      "name:ru": "Уамбо",
+      "name:uk": "Уамбо",
+      "old_name": "Nova Lisboa",
+      "old_name:de": "Neue Lissabon",
+      "old_name:en": "New Lisbon",
+      "old_name:es": "Nueva Lisboa",
+      "old_name:fr": "Nouveau Lisbonne",
+      "old_name:it": "Nuova Lisbona",
+      "old_name:nl": "Nieuw Lissabon",
+      "old_name:pl": "Nowa Lizbona",
+      "old_name:pt": "Nova Lisboa",
+      "old_name:ru": "Новый Лиссабон"
+    }
+  },
+  {
+    "name": "Huan",
+    "country": "China",
+    "latitude": 36.56758569979645,
+    "longitude": 107.30263109999999,
+    "other_names": {
+      "name": "环县",
+      "name:en": "Huan",
+      "name:ja": "環県",
+      "name:ru": "Хуаньсянь",
+      "name:vi": "Hoàn Thành",
+      "name:zh": "环县",
+      "alt_name": "环;Huan County;Huanxian;Huancheng",
+      "name:zh-Hant": "環縣",
+      "name:zh_pinyin": "Huán Xiàn"
+    }
+  },
+  {
+    "name": "Huanan",
+    "country": "China",
+    "latitude": 46.235427200304464,
+    "longitude": 130.5570647,
+    "other_names": {
+      "name": "桦南县",
+      "name:en": "Huanan",
+      "name:ru": "Хуанань",
+      "name:vi": "Hoa Nam",
+      "name:zh": "桦南县",
+      "alt_name": "桦南;Huanan County",
+      "name:zh-Hant": "樺南縣",
+      "official_name": "桦南镇",
+      "name:zh_pinyin": "Huànán Zhen"
+    }
+  },
+  {
+    "name": "Huancayo",
+    "country": "Peru",
+    "latitude": -12.076167900119913,
+    "longitude": -75.2063189,
+    "other_names": {
+      "name": "Huancayo",
+      "name:de": "Huancayo",
+      "name:en": "Huancayo",
+      "name:es": "Huancayo",
+      "name:pl": "Huancayo",
+      "name:ru": "Уанкайо",
+      "name:uk": "Уанкайо"
+    }
+  },
+  {
+    "name": "Huangchuan",
+    "country": "China",
+    "latitude": 32.13190459960393,
+    "longitude": 115.0410674,
+    "other_names": {
+      "name": "潢川县",
+      "name:en": "Huangchuan",
+      "name:zh": "潢川县",
+      "alt_name": "潢川;Huangchuan County",
+      "name:zh-Hant": "潢川縣"
+    }
+  },
+  {
+    "name": "Huangdao District",
+    "country": "China",
+    "latitude": 35.95748579973133,
+    "longitude": 120.18923579999999,
+    "other_names": {
+      "name": "黄岛区",
+      "name:en": "Huangdao District",
+      "name:zh": "黄岛区",
+      "alt_name": "西海岸新区;黄岛;Huangdao",
+      "int_name": "Jiāonán",
+      "name:zh-Hant": "黃島區",
+      "name:zh_pinyin": "Huáng dǎo qū"
+    }
+  },
+  {
+    "name": "Huanggang",
+    "country": "China",
+    "latitude": 30.456018699701076,
+    "longitude": 114.8673226,
+    "other_names": {
+      "name": "黄冈市",
+      "name:af": "Huanggang",
+      "name:ar": "هوانغقانغ",
+      "name:bg": "Хуанган",
+      "name:cs": "Chuang-kang",
+      "name:da": "Huanggang",
+      "name:de": "Huanggang",
+      "name:en": "Huanggang",
+      "name:es": "Huanggang",
+      "name:et": "Huanggang",
+      "name:eu": "Huanggang",
+      "name:fa": "هوانگانگ",
+      "name:fi": "Huanggang",
+      "name:fr": "Huanggang",
+      "name:id": "Huanggang",
+      "name:it": "Huanggang",
+      "name:ja": "黄岡市",
+      "name:ki": "Huanggang",
+      "name:ko": "황강시",
+      "name:mg": "Huanggang",
+      "name:my": "ဟန်ကောင်မြို့",
+      "name:nl": "Huanggang",
+      "name:nn": "Huanggang",
+      "name:no": "Huanggang",
+      "name:pl": "Huanggang",
+      "name:ru": "Хуанган",
+      "name:sr": "Хуанганг",
+      "name:sv": "Huanggang",
+      "name:sw": "Huanggang",
+      "name:tl": "Huanggang",
+      "name:tr": "Huanggang",
+      "name:uk": "Хуанган",
+      "name:ur": "ہوانگگانگ",
+      "name:vi": "Hoàng Cương",
+      "name:zh": "黄冈市",
+      "name:cdo": "Uòng-gŏng",
+      "name:ceb": "Huanggang",
+      "name:nan": "N̂g-kng-chhī",
+      "name:pam": "Huanggang",
+      "name:wuu": "黄冈市",
+      "name:yue": "黃岡",
+      "name:zh-Hant": "黃岡市",
+      "name:zh_pinyin": "Huánggāng Shì"
+    }
+  },
+  {
+    "name": "Huanggu",
+    "country": "China",
+    "latitude": 41.81828040047204,
+    "longitude": 123.42040999999998,
+    "other_names": {
+      "name": "皇姑区",
+      "name:en": "Huanggu",
+      "name:hi": "हुआंगगु",
+      "name:ja": "皇姑区",
+      "name:ko": "황구구",
+      "name:zh": "皇姑区",
+      "alt_name": "皇姑;Huanggu District",
+      "name:zh-Hant": "皇姑區"
+    }
+  },
+  {
+    "name": "Huanghua",
+    "country": "China",
+    "latitude": 38.36666700003421,
+    "longitude": 117.33333299999998,
+    "other_names": {
+      "name": "黄骅市",
+      "name:de": "Huanghua",
+      "name:en": "Huanghua",
+      "name:fr": "Huanghua",
+      "name:ja": "黄カ市",
+      "name:ru": "Хуанхуа",
+      "name:vi": "Hoàng Hoa",
+      "name:zh": "黄骅市",
+      "alt_name": "黄骅;Huanghua City",
+      "name:zh-Hant": "黃驊市",
+      "name:zh_pinyin": "Huánghuá Shì"
+    }
+  },
+  {
+    "name": "Huangling",
+    "country": "China",
+    "latitude": 35.582855899696675,
+    "longitude": 109.25962889999998,
+    "other_names": {
+      "name": "黄陵县",
+      "name:en": "Huangling",
+      "name:ja": "黄陵県",
+      "name:ru": "Цяошань",
+      "name:vi": "Hoàng Lăng",
+      "name:zh": "黄陵县",
+      "name:zh-Hant": "黃陵縣",
+      "name:zh_pinyin": "Huánglíng Xiàn"
+    }
+  },
+  {
+    "name": "Huanglong",
+    "country": "China",
+    "latitude": 35.583126799696714,
+    "longitude": 109.8349068,
+    "other_names": {
+      "name": "黄龙县",
+      "name:en": "Huanglong",
+      "name:ja": "黄竜県",
+      "name:ru": "Шипу",
+      "name:zh": "黄龙县",
+      "alt_name": "黄龙;石堡镇;石堡;Shibao;Shih-pao-chen;Huang-lung;Huanglong;Shih-p'u;Huang-lung-chieh;Shih-pao;Shipu",
+      "name:zh-Hant": "黃龍縣"
+    }
+  },
+  {
+    "name": "Huangmei County",
+    "country": "China",
+    "latitude": 30.075467499733055,
+    "longitude": 115.93448369999999,
+    "other_names": {
+      "name": "黄梅县",
+      "name:de": "Huangmei",
+      "name:en": "Huangmei County",
+      "name:es": "Huangmei",
+      "name:fa": "شهرستان هوانگمی",
+      "name:fr": "Xian du Huangmei",
+      "name:it": "Contea di Huangmei",
+      "name:ja": "黄梅県",
+      "name:ko": "황메이현",
+      "name:no": "Huangmei",
+      "name:ru": "Хуанмэй",
+      "name:sv": "Huangmei",
+      "name:vi": "Hoàng Mai",
+      "name:zh": "黄梅县",
+      "int_name": "Huangmei",
+      "name:nan": "N̂g-mûi-koān",
+      "name:yue": "黃梅",
+      "name:zh-Hant": "黃梅縣",
+      "official_name": "黄梅镇",
+      "name:zh_pinyin": "Huangmei Xian"
+    }
+  },
+  {
+    "name": "Huangnan",
+    "country": "China",
+    "latitude": 35.51997859969129,
+    "longitude": 102.0134583,
+    "other_names": {
+      "name": "黄南州",
+      "name:bo": "རྨ་ལྷོ་བོད་རིགས་རང་སྐྱོང་ཁུལ།",
+      "name:en": "Huangnan",
+      "name:zh": "黄南州",
+      "alt_name": "Huangnan Tibetan Autonomous Prefecture;Malho",
+      "short_name": "黄南州",
+      "name:zh-Hant": "黃南州",
+      "official_name": "黄南藏族自治州"
+    }
+  },
+  {
+    "name": "Huangpi",
+    "country": "China",
+    "latitude": 30.884550999668992,
+    "longitude": 114.370128,
+    "other_names": {
+      "name": "黄陂区",
+      "name:en": "Huangpi",
+      "name:vi": "Hoàng Pha",
+      "name:zh": "黄陂区",
+      "name:zh-Hant": "黃陂區",
+      "name:zh_pinyin": "huáng pí qū"
+    }
+  },
+  {
+    "name": "Huangping",
+    "country": "China",
+    "latitude": 26.913491200067398,
+    "longitude": 107.9107981,
+    "other_names": {
+      "name": "黄平县",
+      "name:en": "Huangping",
+      "name:zh": "黄平县",
+      "name:zh-Hant": "黃平縣"
+    }
+  }
+]

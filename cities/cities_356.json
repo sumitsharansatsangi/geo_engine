@@ -1,0 +1,333 @@
+[
+  {
+    "name": "Panshi",
+    "country": "China",
+    "latitude": 42.940971800534996,
+    "longitude": 126.05293200000001,
+    "other_names": {
+      "name": "磐石市",
+      "name:de": "Panshi",
+      "name:en": "Panshi",
+      "name:fr": "Panshi",
+      "name:ja": "磐石市",
+      "name:ru": "Паньши",
+      "name:vi": "Bàn Thạch",
+      "name:zh": "磐石市",
+      "name:zh-Hant": "磐石市",
+      "name:zh_pinyin": "Pánshí Shì"
+    }
+  },
+  {
+    "name": "Panvel",
+    "country": "India",
+    "latitude": 18.989524900313718,
+    "longitude": 73.1221935,
+    "other_names": {
+      "name": "Panvel",
+      "name:ja": "パンベル",
+      "name:kn": "ಪನ್ವೆಲ್",
+      "name:mr": "पनवेल",
+      "name:pa": "ਪਨਵੇਲ"
+    }
+  },
+  {
+    "name": "Panyu",
+    "country": "China",
+    "latitude": 22.93872530038631,
+    "longitude": 113.37854219999998,
+    "other_names": {
+      "name": "番禺区",
+      "name:de": "Panyu",
+      "name:en": "Panyu",
+      "name:es": "Panyu",
+      "name:eu": "Panyu Barrutia",
+      "name:fa": "ناحیه پانیو",
+      "name:fr": "District de Panyu",
+      "name:it": "Distretto di Panyu",
+      "name:ja": "番禺区",
+      "name:ko": "판위구",
+      "name:nl": "Panyu",
+      "name:no": "Panyu",
+      "name:pl": "Panyu",
+      "name:sv": "Panyu",
+      "name:vi": "Phiên Ngung",
+      "name:zh": "番禺区",
+      "alt_name": "番禺;Panyu District",
+      "name:ceb": "Panyu Qu",
+      "name:hak": "Fân-ngì-khî",
+      "name:mwl": "Panyu",
+      "name:nan": "Hoan-gû-khu",
+      "name:yue": "番禺",
+      "name:zh-Hans": "番禺区",
+      "name:zh-Hant": "番禺區",
+      "name:zh_pinyin": "Pānyú Qū"
+    }
+  },
+  {
+    "name": "Panzhihua",
+    "country": "China",
+    "latitude": 26.58601020010298,
+    "longitude": 101.7179276,
+    "other_names": {
+      "name": "攀枝花市",
+      "name:de": "Panzhihua",
+      "name:en": "Panzhihua",
+      "name:et": "Panzhihua",
+      "name:fr": "Panzhihua",
+      "name:ja": "攀枝花市",
+      "name:pt": "Panzhihua",
+      "name:ru": "Паньчжихуа",
+      "name:uk": "Паньчжіхуа",
+      "name:vi": "Phàn Chi Hoa",
+      "name:zh": "攀枝花市",
+      "alt_name": "攀枝花;Panzhihua",
+      "int_name": "Panzihua",
+      "name:zh-Hant": "攀枝花市",
+      "name:zh_pinyin": "Pānzhīhūa Shì"
+    }
+  },
+  {
+    "name": "Panzhou",
+    "country": "China",
+    "latitude": 25.722365900191825,
+    "longitude": 104.4703816,
+    "other_names": {
+      "name": "盘州市",
+      "name:en": "Panzhou",
+      "name:zh": "盘州市",
+      "alt_name": "盘州",
+      "old_name": "Pan",
+      "name:zh-Hant": "盤州市"
+    }
+  },
+  {
+    "name": "Paoua",
+    "country": "Central African Republic",
+    "latitude": 7.240699999399378,
+    "longitude": 16.432496,
+    "other_names": {
+      "name": "Paoua"
+    }
+  },
+  {
+    "name": "Papeete",
+    "country": "Polynesie Francaise",
+    "latitude": -17.537383500475116,
+    "longitude": -149.5659964,
+    "other_names": {
+      "name": "Papeete",
+      "name:ar": "بابيتي",
+      "name:be": "Папеэтэ",
+      "name:bg": "Папеете",
+      "name:de": "Papeete",
+      "name:el": "Παπεέτε",
+      "name:en": "Papeete",
+      "name:fa": "پاپیته",
+      "name:fr": "Papeete",
+      "name:hy": "Պապեետե",
+      "name:ja": "パペーテ",
+      "name:ka": "პაპეეტე",
+      "name:ko": "파페에테",
+      "name:lt": "Papeetė",
+      "name:mk": "Папете",
+      "name:mr": "पापीती",
+      "name:os": "Папеэте",
+      "name:ru": "Папеэте",
+      "name:sr": "Папете",
+      "name:th": "ปาเปเอเต",
+      "name:ty": "Pape’ete",
+      "name:uk": "Папеете",
+      "name:ur": "پاپیٹی",
+      "name:zh": "帕皮提",
+      "name:pnb": "پاپیٹی",
+      "name:be-tarask": "Папээтэ"
+    }
+  },
+  {
+    "name": "Paracotos",
+    "country": "Venezuela",
+    "latitude": 10.268170499452003,
+    "longitude": -66.95126639999998,
+    "other_names": {
+      "name": "Paracotos"
+    }
+  },
+  {
+    "name": "Paragominas",
+    "country": "Brazil",
+    "latitude": -2.99563999975091,
+    "longitude": -47.35489419999999,
+    "other_names": {
+      "name": "Paragominas"
+    }
+  },
+  {
+    "name": "Paraguarí",
+    "country": "Paraguay",
+    "latitude": -25.620350699690697,
+    "longitude": -57.150514199999996,
+    "other_names": {
+      "name": "Paraguarí"
+    }
+  },
+  {
+    "name": "Parakou",
+    "country": "Benin",
+    "latitude": 9.340015899411028,
+    "longitude": 2.6278257999999997,
+    "other_names": {
+      "name": "Parakou",
+      "name:ar": "باراكو",
+      "name:ko": "파라쿠",
+      "name:ru": "Параку",
+      "name:uk": "Параку"
+    }
+  },
+  {
+    "name": "Paramaribo",
+    "country": "Suriname",
+    "latitude": 5.8216090994543395,
+    "longitude": -55.17704319999999,
+    "other_names": {
+      "name": "Paramaribo",
+      "name:am": "ፓራማሪቦ",
+      "name:ar": "باراماريبو",
+      "name:be": "Парамарыба",
+      "name:bg": "Парамарибо",
+      "name:bo": "པེ་ར་མེ་རི་བོ།",
+      "name:cv": "Парамарибо",
+      "name:de": "Paramaribo",
+      "name:el": "Παραμαρίμπο",
+      "name:en": "Paramaribo",
+      "name:fa": "پاراماریبو",
+      "name:fr": "Paramaribo",
+      "name:gu": "પારામારિબો",
+      "name:he": "פרמריבו",
+      "name:hi": "पारामरीबो",
+      "name:hu": "Paramaribo",
+      "name:hy": "Պարամարիբո",
+      "name:is": "Paramaríbó",
+      "name:ja": "パラマリボ",
+      "name:ka": "პარამარიბო",
+      "name:kn": "ಪಾರಮಾರಿಬೋ",
+      "name:ko": "파라마리보",
+      "name:ku": "Paramaribo",
+      "name:lt": "Paramaribas",
+      "name:mk": "Парамарибо",
+      "name:mr": "पारामारिबो",
+      "name:nl": "Paramaribo",
+      "name:oc": "Paramaribo",
+      "name:os": "Парамарибо",
+      "name:pl": "Paramaribo",
+      "name:ru": "Парамарибо",
+      "name:sr": "Парамарибо",
+      "name:sv": "Paramaribo",
+      "name:ta": "பரமரிபொ",
+      "name:uk": "Парамарибо",
+      "name:ur": "پاراماریبو",
+      "name:zh": "帕拉馬里博",
+      "name:ace": "Paramaribô",
+      "name:yue": "巴拉馬利波",
+      "name:be-tarask": "Парамарыба"
+    }
+  },
+  {
+    "name": "Paraná",
+    "country": "Argentina",
+    "latitude": -31.73301449938661,
+    "longitude": -60.52985110000001,
+    "other_names": {
+      "name": "Paraná",
+      "name:el": "Παρανά",
+      "name:he": "פרנה"
+    }
+  },
+  {
+    "name": "Paranaguá",
+    "country": "Brazil",
+    "latitude": -25.514882199705493,
+    "longitude": -48.52266949999999,
+    "other_names": {
+      "name": "Paranaguá",
+      "name:ru": "Паранагуа"
+    }
+  },
+  {
+    "name": "Paranaque",
+    "country": "Philippines",
+    "latitude": 14.50070159984838,
+    "longitude": 120.9915488,
+    "other_names": {
+      "name": "Parañaque",
+      "name:en": "Paranaque",
+      "name:ja": "パラニャーケ",
+      "name:ru": "Паранак"
+    }
+  },
+  {
+    "name": "Parañaque",
+    "country": "Philippines",
+    "latitude": 14.483624041930925,
+    "longitude": 121.0147732119942,
+    "other_names": {
+      "name": "Parañaque",
+      "name:en": "Parañaque",
+      "name:ja": "パラニャーケ",
+      "name:pt": "Paranhaque",
+      "name:ru": "Паранак"
+    }
+  },
+  {
+    "name": "Parauapebas",
+    "country": "Brazil",
+    "latitude": -6.069684599685573,
+    "longitude": -49.89032829999999,
+    "other_names": {
+      "name": "Parauapebas"
+    }
+  },
+  {
+    "name": "Pardubice",
+    "country": "Czech Republic",
+    "latitude": 50.03858119944356,
+    "longitude": 15.7791356,
+    "other_names": {
+      "name": "Pardubice",
+      "name:ar": "باردوبيتسه",
+      "name:cs": "Pardubice",
+      "name:de": "Pardubitz",
+      "name:el": "Παρντουμπίτσε",
+      "name:fa": "پاردوبیتسه",
+      "name:he": "פרדוביצה",
+      "name:la": "Pardibus",
+      "name:lt": "Pardubicės",
+      "name:ru": "Пардубице",
+      "name:sr": "Пардубице",
+      "name:uk": "Пардубіце",
+      "name:ur": "پاردوبیتسے"
+    }
+  },
+  {
+    "name": "Pare-Pare",
+    "country": "Indonesia",
+    "latitude": -4.0057054997045105,
+    "longitude": 119.6236101,
+    "other_names": {
+      "name": "Pare-Pare",
+      "name:en": "Pare-Pare",
+      "name:id": "Parepare",
+      "name:ja": "パレパレ",
+      "name:ru": "Паре-Паре",
+      "name:uk": "Паре-Паре"
+    }
+  },
+  {
+    "name": "Pariaguán",
+    "country": "Venezuela",
+    "latitude": 8.844487999397998,
+    "longitude": -64.71410009999998,
+    "other_names": {
+      "name": "Pariaguán"
+    }
+  }
+]

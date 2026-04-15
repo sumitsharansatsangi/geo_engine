@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Xiling District",
+    "country": "China",
+    "latitude": 30.713227299681286,
+    "longitude": 111.2800777,
+    "other_names": {
+      "name": "西陵区",
+      "name:de": "Xiling",
+      "name:en": "Xiling District",
+      "name:es": "Xiling",
+      "name:fr": "District de Xiling",
+      "name:it": "Distretto di Xiling",
+      "name:ja": "西陵区",
+      "name:ko": "시링구",
+      "name:no": "Xiling",
+      "name:sv": "Xiling",
+      "name:vi": "Tây Lăng",
+      "name:zh": "西陵区",
+      "alt_name": "西陵;Xiling District",
+      "name:ceb": "Xiling",
+      "name:nan": "Se-lêng-khu",
+      "name:yue": "西陵區",
+      "name:zh-Hant": "西陵區",
+      "name:zh_pinyin": "Xīlíng Qū"
+    }
+  },
+  {
+    "name": "Xilingol",
+    "country": "China",
+    "latitude": 43.93043710053484,
+    "longitude": 116.04152019999998,
+    "other_names": {
+      "name": "锡林郭勒盟",
+      "name:en": "Xilingol",
+      "name:ja": "シリンゴル盟",
+      "name:mn": "ᠰᠢᠯᠢ ᠶᠢᠨ ᠭᠣᠤᠯ ᠠᠶᠢᠮᠠᠭ",
+      "name:zh": "锡林郭勒盟",
+      "alt_name": "Шилийн Гол;Xilingol League;Xilin Gol;Shiliin Gol;Xilinguole",
+      "short_name": "锡林郭勒",
+      "name:zh-Hant": "錫林郭勒盟"
+    }
+  },
+  {
+    "name": "Xilinhot",
+    "country": "China",
+    "latitude": 43.93120580053483,
+    "longitude": 116.07891269999999,
+    "other_names": {
+      "name": "锡林浩特市",
+      "name:ar": "سيلينهوت",
+      "name:cs": "Šilin Chot",
+      "name:en": "Xilinhot",
+      "name:et": "Xilinhot",
+      "name:fr": "Xilinhot",
+      "name:mn": "ᠰᠢᠯᠢ ᠶᠢᠨᠬᠣᠲᠠ",
+      "name:ru": "Шилин-Хото",
+      "name:vi": "Xilin Hot",
+      "name:zh": "锡林浩特市",
+      "alt_name": "锡林浩特;Xilinhot;Шилийнхот",
+      "alt_name:vi": "Tích Lâm Hạo Đặc",
+      "name:zh-Hant": "錫林浩特市",
+      "name:zh_pinyin": "Xīlínhàotè Shì"
+    }
+  },
+  {
+    "name": "Ximeng",
+    "country": "China",
+    "latitude": 22.64703090039578,
+    "longitude": 99.59320439999999,
+    "other_names": {
+      "name": "西盟县",
+      "name:en": "Ximeng",
+      "name:ru": "Симын",
+      "name:vi": "Tây Minh",
+      "name:zh": "西盟县",
+      "alt_name": "西盟;Ximeng Va Autonomous County;Ximeng County",
+      "short_name": "西盟县",
+      "name:zh-Hant": "西盟縣",
+      "official_name": "西盟佤族自治县",
+      "name:zh_pinyin": "Xīméng wǎzú zìzhì xiàn"
+    }
+  },
+  {
+    "name": "Xin",
+    "country": "China",
+    "latitude": 31.646297599623814,
+    "longitude": 114.88001200000001,
+    "other_names": {
+      "name": "新县",
+      "name:en": "Xin",
+      "name:ko": "신현",
+      "name:vi": "Tân",
+      "name:zh": "新县",
+      "alt_name": "新;Xinxian;Xin County",
+      "name:zh-Hant": "新縣",
+      "name:zh_pinyin": "Xīn Xiàn"
+    }
+  },
+  {
+    "name": "Xin'an",
+    "country": "China",
+    "latitude": 34.72749919963455,
+    "longitude": 112.1259282,
+    "other_names": {
+      "name": "新安县",
+      "name:en": "Xin'an",
+      "name:ja": "新安県",
+      "name:zh": "新安县",
+      "alt_name": "新安;Xin'an County;Si-nan;Hsin-an;Hsin-an-hsien",
+      "name:zh-Hant": "新安縣"
+    }
+  },
+  {
+    "name": "Xinbei",
+    "country": "China",
+    "latitude": 31.864466799613968,
+    "longitude": 119.9562502,
+    "other_names": {
+      "name": "新北区",
+      "name:en": "Xinbei",
+      "name:vi": "Tân Bắc",
+      "name:zh": "新北区",
+      "name:zh-Hant": "新北區"
+    }
+  },
+  {
+    "name": "Xinbin",
+    "country": "China",
+    "latitude": 41.73066350046469,
+    "longitude": 125.031536,
+    "other_names": {
+      "name": "新宾县",
+      "name:en": "Xinbin",
+      "name:ja": "新賓県",
+      "name:zh": "新宾满族自治县",
+      "alt_name": "新宾",
+      "name:mnc": "ᠰᡳᠨᠪᡳᠨ ᠮᠠᠨᠵᡠ ᠪᡝᠶᡝ ᡩᠠᠰᠠᠩᡤᠠ ᠰᡳᠶᠠᠨ",
+      "name:zh-Hant": "新賓縣",
+      "official_name": "新宾镇"
+    }
+  },
+  {
+    "name": "Xincai",
+    "country": "China",
+    "latitude": 32.7579395995896,
+    "longitude": 114.9555949,
+    "other_names": {
+      "name": "新蔡县",
+      "name:en": "Xincai",
+      "name:ja": "新蔡県",
+      "name:ru": "Гулюй",
+      "name:vi": "Tân Thái",
+      "name:zh": "新蔡县",
+      "alt_name": "新蔡;Xincai County",
+      "name:zh-Hant": "新蔡縣"
+    }
+  },
+  {
+    "name": "Xinchang",
+    "country": "China",
+    "latitude": 29.500728399786613,
+    "longitude": 120.8871718,
+    "other_names": {
+      "name": "新昌县",
+      "name:en": "Xinchang",
+      "name:ru": "Синьчан",
+      "name:vi": "Tân Xương",
+      "name:zh": "新昌县",
+      "name:zh-Hant": "新昌縣",
+      "name:zh_pinyin": "Xinchang"
+    }
+  },
+  {
+    "name": "Xincheng",
+    "country": "China",
+    "latitude": 40.85699600037586,
+    "longitude": 111.6587534,
+    "other_names": {
+      "name": "新城区",
+      "name:en": "Xincheng",
+      "name:mn": "ᠰᠢᠨ᠎ᠡ ᠬᠣᠲᠠ ᠲᠣᠭᠣᠷᠢᠭ",
+      "name:vi": "Tân Thành",
+      "name:zh": "新城区",
+      "alt_name": "新城;Xincheng District;Шинэ хот",
+      "name:zh-Hant": "新城區",
+      "name:zh_pinyin": "xīnchéng qū"
+    }
+  },
+  {
+    "name": "Xincheng",
+    "country": "China",
+    "latitude": 34.27026879961169,
+    "longitude": 108.9555355,
+    "other_names": {
+      "name": "新城区",
+      "name:en": "Xincheng",
+      "name:zh": "新城区",
+      "name:zh-Hant": "新城區"
+    }
+  },
+  {
+    "name": "Xincheng",
+    "country": "China",
+    "latitude": 24.069275600328382,
+    "longitude": 108.6632172,
+    "other_names": {
+      "name": "忻城县",
+      "name:en": "Xincheng",
+      "name:zh": "忻城县",
+      "alt_name": "忻城;城关镇;忻城城关镇;城关;Chengguan",
+      "name:zh-Hant": "忻城縣",
+      "name:zh_pinyin": "Xīnchéng Xiàn"
+    }
+  },
+  {
+    "name": "Xindu",
+    "country": "China",
+    "latitude": 30.825827099673123,
+    "longitude": 104.15620209999999,
+    "other_names": {
+      "name": "新都区",
+      "name:en": "Xindu",
+      "name:zh": "新都区",
+      "alt_name": "新都;Xindu District",
+      "name:zh-Hant": "新都區"
+    }
+  },
+  {
+    "name": "Xinfeng",
+    "country": "China",
+    "latitude": 24.062406300328828,
+    "longitude": 114.20187889999998,
+    "other_names": {
+      "name": "新丰县",
+      "name:de": "Xinfeng",
+      "name:en": "Xinfeng",
+      "name:fa": "شینفنگ",
+      "name:fr": "Xian de Xinfeng",
+      "name:it": "Contea di Xinfeng",
+      "name:ja": "新豊県",
+      "name:ko": "신펑현",
+      "name:no": "Xinfeng",
+      "name:sv": "Xinfeng",
+      "name:vi": "Tân Phong",
+      "name:zh": "新丰县",
+      "alt_name": "新丰;Xinfeng County",
+      "name:ceb": "Xinfeng Xian",
+      "name:hak": "Sîn-fûng-yen",
+      "name:mwl": "Xinfeng",
+      "name:nan": "Sin-hong-koān",
+      "name:yue": "新丰县",
+      "old_name": "长宁县",
+      "old_name:en": "Changning County",
+      "name:zh-Hans": "新丰县",
+      "name:zh-Hant": "新豐縣",
+      "name:zh_pinyin": "Xīnfēng Xiàn",
+      "old_name:zh-Hant": "長寧縣"
+    }
+  },
+  {
+    "name": "Xinfeng",
+    "country": "China",
+    "latitude": 25.388874200223455,
+    "longitude": 114.918333,
+    "other_names": {
+      "name": "信丰县",
+      "name:de": "Xinfeng",
+      "name:en": "Xinfeng",
+      "name:fa": "شهرستان شی‌فنگ (جیانگشی)",
+      "name:fr": "Xian de Xinfeng",
+      "name:it": "Contea di Xinfeng",
+      "name:ja": "信豊県",
+      "name:ko": "신펑현",
+      "name:no": "Xinfeng",
+      "name:ru": "Синьфэн",
+      "name:sv": "Xinfeng",
+      "name:vi": "Tín Phong",
+      "name:zh": "信丰县",
+      "alt_name": "信丰;嘉定;Xinfeng County",
+      "name:ceb": "Xinfeng Xian",
+      "name:gan": "信豐",
+      "name:nan": "Sìn-hong-koān",
+      "name:yue": "信豐",
+      "name:zh-Hant": "信豐縣",
+      "name:zh_pinyin": "xìnfēng xiàn"
+    }
+  },
+  {
+    "name": "Xinfu",
+    "country": "China",
+    "latitude": 38.40329460003948,
+    "longitude": 112.7413556,
+    "other_names": {
+      "name": "忻府区",
+      "name:en": "Xinfu",
+      "name:zh": "忻府区",
+      "alt_name": "忻府;Xinfu District",
+      "old_name": "忻县;Xin County;Xin Xian;Hsin Hsien",
+      "name:zh-Hant": "忻府區"
+    }
+  },
+  {
+    "name": "Xinfu",
+    "country": "China",
+    "latitude": 41.85984520047543,
+    "longitude": 123.90861479999998,
+    "other_names": {
+      "name": "新抚区",
+      "name:en": "Xinfu",
+      "name:zh": "新抚区",
+      "alt_name": "新抚;Xinfu City",
+      "name:zh-Hant": "新撫區"
+    }
+  },
+  {
+    "name": "Xing'an",
+    "country": "China",
+    "latitude": 25.614407500202255,
+    "longitude": 110.6682355,
+    "other_names": {
+      "name": "兴安县",
+      "name:en": "Xing'an",
+      "name:vi": "Hưng An",
+      "name:zh": "兴安县",
+      "alt_name": "兴安;Xing'an County",
+      "name:zh-Hant": "興安縣",
+      "name:zh_pinyin": "Xing'an Xian"
+    }
+  },
+  {
+    "name": "Xingan",
+    "country": "China",
+    "latitude": 27.741980499975107,
+    "longitude": 115.38088810000002,
+    "other_names": {
+      "name": "新干县",
+      "name:en": "Xingan",
+      "name:zh": "新干县",
+      "alt_name": "新淦;Xingan County;Xin Gan",
+      "old_name": "上淦;新淦縣;新淦县",
+      "name:zh-Hans": "新干县",
+      "name:zh-Hant": "新淦縣",
+      "name:zh_pinyin": "Xīngàn xiàn"
+    }
+  }
+]

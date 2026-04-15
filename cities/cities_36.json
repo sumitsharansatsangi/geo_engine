@@ -1,0 +1,348 @@
+[
+  {
+    "name": "Ballarat",
+    "country": "Australia",
+    "latitude": -37.56226320047468,
+    "longitude": 143.8607215,
+    "other_names": {
+      "name": "Ballarat",
+      "name:el": "Μπαλαράτ",
+      "name:he": "בלאראט",
+      "name:ja": "バララット",
+      "name:pt": "Ballarat",
+      "name:ru": "Балларат",
+      "name:zh": "巴拉瑞特"
+    }
+  },
+  {
+    "name": "Ballari",
+    "country": "India",
+    "latitude": 15.143395199924237,
+    "longitude": 76.9193876,
+    "other_names": {
+      "name": "Ballari",
+      "name:en": "Ballari",
+      "name:hi": "बल्लारी",
+      "name:ja": "ベッラーリ",
+      "name:kn": "ಬಳ್ಳಾರಿ",
+      "name:pa": "ਬਲਾਰੀ",
+      "alt_name": "Bellary"
+    }
+  },
+  {
+    "name": "Ballia",
+    "country": "India",
+    "latitude": 25.755744600188567,
+    "longitude": 84.15033029999998,
+    "other_names": {
+      "name": "Ballia",
+      "name:en": "Ballia",
+      "name:hi": "बलिया",
+      "name:ja": "バリヤー"
+    }
+  },
+  {
+    "name": "Ballsh",
+    "country": "Albania",
+    "latitude": 40.59885871182893,
+    "longitude": 19.733691709057208,
+    "other_names": {
+      "name": "Ballsh",
+      "name:mk": "Балш",
+      "name:ru": "Баллш",
+      "alt_name:mk": "Главеница"
+    }
+  },
+  {
+    "name": "Balneário Camboriú",
+    "country": "Brazil",
+    "latitude": -26.992439499513953,
+    "longitude": -48.633978199999994,
+    "other_names": {
+      "name": "Balneário Camboriú"
+    }
+  },
+  {
+    "name": "Bălți",
+    "country": "Moldova",
+    "latitude": 47.762359899993676,
+    "longitude": 27.928665,
+    "other_names": {
+      "name": "Bălți",
+      "name:be": "Бэлць",
+      "name:bg": "Белци",
+      "name:el": "Μπάλτσι",
+      "name:lt": "Belcis",
+      "name:lv": "Belci",
+      "name:pl": "Bielce",
+      "name:ru": "Бельцы",
+      "name:uk": "Бельці",
+      "name:gag": "Bêlți",
+      "alt_name:de": "Belz",
+      "alt_name:ru": "Бэлць",
+      "old_name:de": "Belzy",
+      "old_name:en": "Beltsy"
+    }
+  },
+  {
+    "name": "Baltimore",
+    "country": "United States Of America",
+    "latitude": 39.29088160016791,
+    "longitude": -76.61075899999999,
+    "other_names": {
+      "name": "Baltimore",
+      "name:ar": "بالتيمور",
+      "name:az": "Baltimor",
+      "name:be": "Балтымар",
+      "name:de": "Baltimore",
+      "name:fr": "Baltimore",
+      "name:hi": "बाल्टीमोर",
+      "name:ja": "ボルチモア",
+      "name:lt": "Baltimorė",
+      "name:lv": "Baltimora",
+      "name:oc": "Baltimore",
+      "name:ru": "Балтимор"
+    }
+  },
+  {
+    "name": "Balurghat",
+    "country": "India",
+    "latitude": 25.223435200238477,
+    "longitude": 88.7780654,
+    "other_names": {
+      "name": "Balurghat",
+      "name:bn": "বালুরঘাট",
+      "name:hi": "बालुरघाट",
+      "name:ja": "バールルガート"
+    }
+  },
+  {
+    "name": "Bam",
+    "country": "Iran",
+    "latitude": 29.105986399826417,
+    "longitude": 58.3565663,
+    "other_names": {
+      "name": "بم",
+      "name:ar": "بم",
+      "name:de": "Bam",
+      "name:en": "Bam",
+      "name:es": "Bam",
+      "name:et": "Bam",
+      "name:fr": "Bam",
+      "name:hi": "बम",
+      "name:ja": "バム",
+      "name:ko": "밤",
+      "name:ru": "Бам",
+      "name:uk": "Бам",
+      "old_name": "کجاران",
+      "old_name:en": "Kojaran"
+    }
+  },
+  {
+    "name": "Bama",
+    "country": "China",
+    "latitude": 24.143744200323443,
+    "longitude": 107.25589009999999,
+    "other_names": {
+      "name": "巴马县",
+      "name:en": "Bama",
+      "name:vi": "Ba Mã",
+      "name:zh": "巴马县",
+      "alt_name": "巴马;Pama Yao Nationality Autonomous Hsien;Pa-ma-yao-tsu Tzu-chih-hsien;Pa-ma Yao Autonomous Hsien",
+      "int_name": "Bama",
+      "short_name": "巴马县",
+      "name:zh-Hant": "巴馬縣",
+      "official_name": "巴马瑶族自治县",
+      "name:zh_pinyin": "bāmǎ yáozú zìzhì xiàn",
+      "official_name:en": "Bama Yao Autonomous County"
+    }
+  },
+  {
+    "name": "Bamako",
+    "country": "Mali",
+    "latitude": 12.649318999642917,
+    "longitude": -8.000337,
+    "other_names": {
+      "name": "Bamako",
+      "name:am": "ባማኮ",
+      "name:ar": "باماكو",
+      "name:be": "Бамако",
+      "name:bg": "Бамако",
+      "name:bm": "Bamakɔ",
+      "name:bo": "བ་མ་ཀོ།",
+      "name:cv": "Бамако",
+      "name:de": "Bamako",
+      "name:el": "Μπαμάκο",
+      "name:en": "Bamako",
+      "name:eo": "Bamako",
+      "name:es": "Bamako",
+      "name:fa": "باماکو",
+      "name:fr": "Bamako",
+      "name:gl": "Bamaco",
+      "name:he": "במקו",
+      "name:hi": "बमाको",
+      "name:hu": "Bamako",
+      "name:hy": "Բամակո",
+      "name:is": "Bamakó",
+      "name:ja": "バマコ",
+      "name:ka": "ბამაკო",
+      "name:ko": "바마코",
+      "name:ky": "Бамако",
+      "name:lt": "Bamakas",
+      "name:mk": "Бамако",
+      "name:mr": "बमाको",
+      "name:oc": "Bamako",
+      "name:os": "Бамако",
+      "name:pl": "Bamako",
+      "name:ru": "Бамако",
+      "name:sr": "Бамако",
+      "name:sv": "Bamako",
+      "name:ta": "பமாக்கோ",
+      "name:tg": "Бамако",
+      "name:th": "บามาโก",
+      "name:uk": "Бамако",
+      "name:ur": "بماکو",
+      "name:zh": "巴馬科",
+      "name:arc": "ܒܡܩܘ",
+      "name:ckb": "باماکۆ",
+      "name:kab": "Bamaku",
+      "name:mrj": "Бамако",
+      "name:nqo": "ߓߡߊ߬ߞߐ߫",
+      "name:pnb": "بماکو",
+      "name:udm": "Бамако",
+      "name:be-tarask": "Бамака"
+    }
+  },
+  {
+    "name": "Bambari",
+    "country": "Central African Republic",
+    "latitude": 5.768001399457331,
+    "longitude": 20.6755705,
+    "other_names": {
+      "name": "Bambari",
+      "name:ko": "밤바리"
+    }
+  },
+  {
+    "name": "Bambesa",
+    "country": "Congo Democratic Republic",
+    "latitude": 3.4490911996383646,
+    "longitude": 25.694404599999995,
+    "other_names": {
+      "name": "Bambesa"
+    }
+  },
+  {
+    "name": "Bamenda",
+    "country": "Cameroon",
+    "latitude": 5.961411699446841,
+    "longitude": 10.151650499999999,
+    "other_names": {
+      "name": "Bamenda",
+      "name:en": "Bamenda",
+      "name:hu": "Bamenda",
+      "name:ko": "바멘다",
+      "name:ru": "Баменда"
+    }
+  },
+  {
+    "name": "Bamian",
+    "country": "Afghanistan",
+    "latitude": 34.82429379964034,
+    "longitude": 67.83724,
+    "other_names": {
+      "name": "بامیان",
+      "name:ar": "باميان",
+      "name:cs": "Bamján",
+      "name:de": "Bamiyan-Tal",
+      "name:el": "Μπαμιάν",
+      "name:en": "Bamian",
+      "name:es": "Bamiyán",
+      "name:fr": "Bâmiyân",
+      "name:hi": "बामियान",
+      "name:ja": "バーミヤーン",
+      "name:ru": "Бамиан",
+      "name:uk": "Баміан"
+    }
+  },
+  {
+    "name": "Banan",
+    "country": "China",
+    "latitude": 29.404360099796136,
+    "longitude": 106.5368478,
+    "other_names": {
+      "name": "巴南区",
+      "name:en": "Banan",
+      "name:vi": "Ba Nam",
+      "name:zh": "巴南区",
+      "name:zh-Hant": "巴南區",
+      "name:zh_pinyin": "Banan Qu"
+    }
+  },
+  {
+    "name": "Banbar",
+    "country": "China",
+    "latitude": 30.93607579966544,
+    "longitude": 94.70697719999998,
+    "other_names": {
+      "name": "边坝县",
+      "name:bo": "དཔལ་འབར་",
+      "name:en": "Banbar",
+      "name:vi": "Banbar",
+      "name:zh": "边坝县",
+      "alt_name": "边坝;Bianba;Banbar County;Bianba Xian;Pien-pa Hsien;Pembar",
+      "alt_name:vi": "Biên Bá",
+      "name:zh-Hant": "邊壩縣",
+      "name:zh_pinyin": "Biānbà Xiàn"
+    }
+  },
+  {
+    "name": "Banda",
+    "country": "India",
+    "latitude": 25.473779600215572,
+    "longitude": 80.3312729,
+    "other_names": {
+      "name": "Banda",
+      "name:ja": "バーンダー",
+      "name:kn": "ಬಾಂದ",
+      "name:ta": "பாண்டா"
+    }
+  },
+  {
+    "name": "Banda Aceh",
+    "country": "Indonesia",
+    "latitude": 5.552845499469952,
+    "longitude": 95.3192908,
+    "other_names": {
+      "name": "Banda Aceh",
+      "name:bn": "বান্দা আচেহ",
+      "name:hi": "बंद अटॆ",
+      "name:ja": "バンダ・アチェ",
+      "name:kn": "ಬಂದ ಅಟೆ",
+      "name:ru": "Банда Ачех",
+      "name:zh": "班达亚齐"
+    }
+  },
+  {
+    "name": "Bandar Abbas",
+    "country": "Iran",
+    "latitude": 27.179346600038013,
+    "longitude": 56.27814229999999,
+    "other_names": {
+      "name": "بندرعباس",
+      "name:ar": "بندر عباس",
+      "name:cs": "Bandar Abbás",
+      "name:de": "Bandar Abbas",
+      "name:en": "Bandar Abbas",
+      "name:es": "Bandar Abbas",
+      "name:et": "Bandar-e ‘Abbās",
+      "name:fr": "Bandar Abbas",
+      "name:he": "בנדר עבאס",
+      "name:hi": "बन्दर अब्बास",
+      "name:ko": "반다르아바스",
+      "name:ku": "Bender Ebas",
+      "name:ml": "ബന്ദർ അബ്ബാസ്",
+      "name:ru": "Бенде́р-Абба́с"
+    }
+  }
+]

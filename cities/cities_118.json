@@ -1,0 +1,379 @@
+[
+  {
+    "name": "Dongkou",
+    "country": "China",
+    "latitude": 27.063771100050822,
+    "longitude": 110.5713034,
+    "other_names": {
+      "name": "洞口县",
+      "name:de": "Dongkou",
+      "name:en": "Dongkou",
+      "name:es": "Dongkou",
+      "name:fa": "شهرستان دونگکوو",
+      "name:fr": "Xian de Dongkou",
+      "name:it": "Contea di Dongku",
+      "name:ja": "洞口県",
+      "name:ko": "둥커우현",
+      "name:no": "Dongkou",
+      "name:ru": "Дункоу",
+      "name:sv": "Dongkou",
+      "name:vi": "Động Khẩu",
+      "name:zh": "洞口县",
+      "alt_name": "洞口;Dongkou County",
+      "name:ceb": "Dongkou Xian",
+      "name:gan": "洞口",
+      "name:hak": "Thung-khiéu-yen",
+      "name:nan": "Tōng-kháu-koān",
+      "name:yue": "洞口",
+      "name:zh-Hant": "洞口縣",
+      "official_name": "洞口镇",
+      "name:zh_pinyin": "dòngkǒu xiàn"
+    }
+  },
+  {
+    "name": "Donglan",
+    "country": "China",
+    "latitude": 24.51512000029697,
+    "longitude": 107.3666016,
+    "other_names": {
+      "name": "东兰县",
+      "name:en": "Donglan",
+      "name:vi": "Đông Lan",
+      "name:zh": "东兰县",
+      "alt_name": "Tung-lan Hsien;Donglan County;东兰",
+      "name:zh-Hant": "東蘭縣",
+      "name:zh_pinyin": "dōnglán xiàn"
+    }
+  },
+  {
+    "name": "Dongli",
+    "country": "China",
+    "latitude": 39.084771700138184,
+    "longitude": 117.30857779999998,
+    "other_names": {
+      "name": "东丽区",
+      "name:en": "Dongli",
+      "name:zh": "东丽区",
+      "name:zh-Hant": "東麗區"
+    }
+  },
+  {
+    "name": "Dongliao",
+    "country": "China",
+    "latitude": 42.92560110053458,
+    "longitude": 124.986503,
+    "other_names": {
+      "name": "东辽县",
+      "name:en": "Dongliao",
+      "name:zh": "东辽县",
+      "alt_name": "白泉;Pai-ch'uan;Baiquan",
+      "name:zh-Hant": "東遼縣",
+      "official_name": "白泉镇"
+    }
+  },
+  {
+    "name": "Dongli District",
+    "country": "China",
+    "latitude": 39.13317290014518,
+    "longitude": 117.4178228,
+    "other_names": {
+      "name": "东丽区",
+      "name:en": "Dongli District",
+      "name:vi": "Đông Lệ",
+      "name:zh": "东丽区",
+      "name:zh-Hant": "東麗區"
+    }
+  },
+  {
+    "name": "Dongming",
+    "country": "China",
+    "latitude": 35.287804999672495,
+    "longitude": 115.08897109999997,
+    "other_names": {
+      "name": "东明县",
+      "name:en": "Dongming",
+      "name:vi": "Đông Minh",
+      "name:zh": "东明县",
+      "name:zh-Hant": "東明縣",
+      "name:zh_pinyin": "Dongming Xian"
+    }
+  },
+  {
+    "name": "Dongning",
+    "country": "China",
+    "latitude": 44.06192970053046,
+    "longitude": 131.1250055,
+    "other_names": {
+      "name": "东宁市",
+      "name:en": "Dongning",
+      "name:ru": "Дуннин",
+      "name:zh": "东宁市",
+      "alt_name": "东宁",
+      "old_name": "东宁县;Dongning Xian;Dongning County",
+      "name:zh-Hant": "東寧市",
+      "official_name": "东宁镇",
+      "name:zh_pinyin": "dōngníng zhèn"
+    }
+  },
+  {
+    "name": "Dongola",
+    "country": "Sudan",
+    "latitude": 19.172850600326196,
+    "longitude": 30.4731589,
+    "other_names": {
+      "name": "دنقلا",
+      "name:ar": "دنقلا",
+      "name:de": "Dongola",
+      "name:en": "Dongola",
+      "name:es": "Dongola",
+      "name:fr": "Dongola",
+      "name:ko": "동골라",
+      "name:ru": "Донгола",
+      "name:uk": "Донгола",
+      "alt_name": "Dunqulah;Dunqula;Donkola;Dunkula;Donqola",
+      "old_name": "Al 'Urdi",
+      "alt_name:ar": "دونقول;دنقلة;دونكول;دنكل"
+    }
+  },
+  {
+    "name": "Dongping",
+    "country": "China",
+    "latitude": 35.93647339972927,
+    "longitude": 116.46469979999999,
+    "other_names": {
+      "name": "东平县",
+      "name:en": "Dongping",
+      "name:vi": "Đông Bình",
+      "name:zh": "东平县",
+      "name:zh-Hant": "東平縣",
+      "name:zh_pinyin": "Dongping Xian"
+    }
+  },
+  {
+    "name": "Dongpo",
+    "country": "China",
+    "latitude": 30.045024699735738,
+    "longitude": 103.8311001,
+    "other_names": {
+      "name": "东坡区",
+      "name:en": "Dongpo",
+      "name:zh": "东坡区",
+      "alt_name": "东坡;Dongpo District",
+      "name:zh-Hant": "東坡區"
+    }
+  },
+  {
+    "name": "Dongshan",
+    "country": "China",
+    "latitude": 47.33602620008998,
+    "longitude": 130.3090238,
+    "other_names": {
+      "name": "东山区",
+      "name:en": "Dongshan",
+      "name:zh": "东山区",
+      "alt_name": "东山;Dongshan District",
+      "name:zh-Hant": "東山區"
+    }
+  },
+  {
+    "name": "Dongshan",
+    "country": "China",
+    "latitude": 23.703624700350662,
+    "longitude": 117.42484479999997,
+    "other_names": {
+      "name": "东山县",
+      "name:de": "Dongshan",
+      "name:en": "Dongshan",
+      "name:fr": "Dongshan",
+      "name:it": "Dongshan",
+      "name:ja": "東山県",
+      "name:ko": "둥산현",
+      "name:vi": "Đông Sơn",
+      "name:zh": "东山县",
+      "alt_name": "东山;Dongshan County",
+      "name:cdo": "Dĕ̤ng-săng",
+      "name:hak": "Tûng-sân-yen",
+      "name:nan": "Tang-soaⁿ-koān",
+      "name:yue": "東山",
+      "name:zh-Hant": "東山縣",
+      "name:zh_pinyin": "dōngshān xiàn"
+    }
+  },
+  {
+    "name": "Dongsheng",
+    "country": "China",
+    "latitude": 39.822062000242944,
+    "longitude": 109.9576815,
+    "other_names": {
+      "name": "东胜区",
+      "name:en": "Dongsheng",
+      "name:ru": "Дуншэн",
+      "name:vi": "Đông Thắng",
+      "name:zh": "东胜区",
+      "alt_name": "东胜;Dongsheng District;Донгшенг",
+      "name:zh-Hant": "東勝區",
+      "name:zh_pinyin": "Dongsheng Qu"
+    }
+  },
+  {
+    "name": "Dongtai",
+    "country": "China",
+    "latitude": 32.85362159958858,
+    "longitude": 120.31224640000002,
+    "other_names": {
+      "name": "东台市",
+      "name:de": "Dongtai",
+      "name:en": "Dongtai",
+      "name:fr": "Dongtai",
+      "name:ja": "東台市",
+      "name:ru": "Дунтай",
+      "name:vi": "Đông Đài",
+      "name:zh": "东台市",
+      "name:zh-Hant": "東台市",
+      "name:zh_pinyin": "Dōngtái Shì"
+    }
+  },
+  {
+    "name": "Dongtou",
+    "country": "China",
+    "latitude": 27.83894399996425,
+    "longitude": 121.1526719,
+    "other_names": {
+      "name": "洞头区",
+      "name:de": "Dongtou",
+      "name:en": "Dongtou",
+      "name:fr": "Xian de Dongtou",
+      "name:it": "Contea di Dongtou",
+      "name:ja": "洞頭区",
+      "name:ko": "둥터우구",
+      "name:no": "Dongtou",
+      "name:sv": "Dongtou",
+      "name:vi": "Động Đầu",
+      "name:zh": "洞头区",
+      "name:ceb": "Dongtou Xian",
+      "name:hak": "Thung-thèu-yen",
+      "name:nan": "Tōng-thâu-khu",
+      "name:wuu": "洞头区",
+      "name:yue": "洞頭",
+      "old_name": "洞头县",
+      "name:zh-Hant": "洞頭區",
+      "name:zh_pinyin": "Dòngtóu Xiàn"
+    }
+  },
+  {
+    "name": "Dongxiang",
+    "country": "China",
+    "latitude": 28.249695099918487,
+    "longitude": 116.5985201,
+    "other_names": {
+      "name": "东乡区",
+      "name:de": "Dongxiang",
+      "name:en": "Dongxiang",
+      "name:fr": "Xian de Dongxiang",
+      "name:it": "Distretto di Dongxiang",
+      "name:ja": "東郷区",
+      "name:ko": "둥샹 구",
+      "name:no": "Dongxiang",
+      "name:sv": "Dongxiang",
+      "name:vi": "Đông Hương",
+      "name:zh": "东乡区",
+      "alt_name": "东乡;Dongxiang District",
+      "name:ceb": "Dongxiang Xian",
+      "name:gan": "東鄉",
+      "name:nan": "Tong-hiong-khu",
+      "name:yue": "東鄉",
+      "old_name": "东乡县",
+      "name:zh-Hant": "東鄉區",
+      "name:zh_pinyin": "dōngxiāng qū"
+    }
+  },
+  {
+    "name": "Dongxiang",
+    "country": "China",
+    "latitude": 35.66348389970378,
+    "longitude": 103.38558419999998,
+    "other_names": {
+      "name": "东乡县",
+      "name:en": "Dongxiang",
+      "name:ja": "東郷族自治県",
+      "name:vi": "Đông Hương",
+      "name:zh": "东乡县",
+      "alt_name": "东乡族自治县;锁南;Suonan",
+      "name:zh-Hant": "東鄉縣",
+      "name:zh_pinyin": "Dōngxiāngzú Zìzhìxiàn"
+    }
+  },
+  {
+    "name": "Dongxihu District",
+    "country": "China",
+    "latitude": 30.62083289968822,
+    "longitude": 114.1307616,
+    "other_names": {
+      "name": "东西湖区",
+      "name:cs": "Tung-si-chu",
+      "name:de": "Dongxihu",
+      "name:en": "Dongxihu District",
+      "name:es": "Dongxihu",
+      "name:eu": "Dongxihu Barrutia",
+      "name:fr": "District de Dongxihu",
+      "name:it": "Distretto di Dongxihu",
+      "name:ja": "東西湖区",
+      "name:ko": "둥시후구",
+      "name:no": "Dongxihu",
+      "name:ru": "Дунсиху",
+      "name:sv": "Dongxihu",
+      "name:vi": "Đông Tây Hồ",
+      "name:zh": "东西湖区",
+      "name:nan": "Tang-sai-ô͘-khu",
+      "name:yue": "東西湖區",
+      "name:zh-Hant": "東西湖區",
+      "name:zh_pinyin": "Dōngxīhú Qū"
+    }
+  },
+  {
+    "name": "Dongxing",
+    "country": "China",
+    "latitude": 29.59622119977733,
+    "longitude": 105.07245359999999,
+    "other_names": {
+      "name": "东兴区",
+      "name:en": "Dongxing",
+      "name:vi": "Đông Hưng",
+      "name:zh": "东兴区",
+      "alt_name": "东兴;Nei-chiang Hsien;Dongxing Qu;Dongxing District",
+      "name:zh-Hant": "東興區",
+      "name:zh_pinyin": "Dōngxīng Qū"
+    }
+  },
+  {
+    "name": "Dongxing",
+    "country": "China",
+    "latitude": 21.550638700410065,
+    "longitude": 107.9679792,
+    "other_names": {
+      "name": "东兴市",
+      "name:ar": "دونغشينغ",
+      "name:de": "Dongxing",
+      "name:en": "Dongxing",
+      "name:fr": "Dongxing",
+      "name:it": "Dongxing",
+      "name:ja": "東興市",
+      "name:ki": "Dongxing",
+      "name:ko": "둥싱시",
+      "name:no": "Dongxing",
+      "name:ru": "Дунсин",
+      "name:sv": "Dongxing",
+      "name:ur": "ڈونگشنگ، گوانگشی",
+      "name:vi": "Đông Hưng",
+      "name:zh": "东兴市",
+      "alt_name": "东兴;Dongxing City",
+      "int_name": "Dongxing",
+      "name:hak": "Tûng-hîn-sṳ",
+      "name:nan": "Tong-heng-chhī",
+      "name:yue": "东兴市",
+      "name:zh-Hant": "東興市",
+      "name:yue-Latn": "Dunghing-si",
+      "name:zh_pinyin": "dōngxīng shì"
+    }
+  }
+]

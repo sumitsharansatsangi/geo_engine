@@ -1,0 +1,303 @@
+[
+  {
+    "name": "Mengzhou",
+    "country": "China",
+    "latitude": 34.90651649964552,
+    "longitude": 112.7920963,
+    "other_names": {
+      "name": "孟州市",
+      "name:de": "Mengzhou",
+      "name:en": "Mengzhou",
+      "name:fr": "Mengzhou",
+      "name:ja": "孟州市",
+      "name:ru": "Менгжоу",
+      "name:vi": "Mạnh Châu",
+      "name:zh": "孟州市",
+      "alt_name": "孟州;Mengzhou City",
+      "int_name": "Mengzhou",
+      "name:zh-Hant": "孟州市",
+      "name:zh_pinyin": "Mèngzhōu Shì"
+    }
+  },
+  {
+    "name": "Mengzi",
+    "country": "China",
+    "latitude": 23.368676200368157,
+    "longitude": 103.38353180000001,
+    "other_names": {
+      "name": "蒙自市",
+      "name:de": "Mengzi",
+      "name:en": "Mengzi",
+      "name:et": "Mengzi",
+      "name:fr": "Mengzi",
+      "name:ja": "蒙自市",
+      "name:ko": "멍쯔시",
+      "name:vi": "Mộng Tử",
+      "name:zh": "蒙自市",
+      "alt_name": "蒙自;蒙自县;Meng-tzu Hsien;Mengzi Shi;Mengzi City",
+      "int_name": "Mengzi",
+      "old_name": "蒙自县;Mengzi County",
+      "name:zh-Hant": "蒙自市",
+      "name:zh_pinyin": "Mēngzì Shì"
+    }
+  },
+  {
+    "name": "Menongue",
+    "country": "Angola",
+    "latitude": -14.661071300355662,
+    "longitude": 17.6820336,
+    "other_names": {
+      "name": "Menongue",
+      "name:el": "Μενόνγκε",
+      "name:ko": "메농그",
+      "name:ru": "Менонгве",
+      "name:uk": "Менонге"
+    }
+  },
+  {
+    "name": "Mentor",
+    "country": "United States Of America",
+    "latitude": 41.666478100459116,
+    "longitude": -81.3399769,
+    "other_names": {
+      "name": "Mentor"
+    }
+  },
+  {
+    "name": "Mentougou",
+    "country": "China",
+    "latitude": 39.938998300259,
+    "longitude": 116.09475679999997,
+    "other_names": {
+      "name": "门头沟区",
+      "name:en": "Mentougou",
+      "name:ru": "Мэньтоугоу",
+      "name:vi": "Môn Đầu Câu",
+      "name:zh": "门头沟区",
+      "name:zh-Hant": "門頭溝區",
+      "name:zh_pinyin": "Mentougou Qu"
+    }
+  },
+  {
+    "name": "Menyuan",
+    "country": "China",
+    "latitude": 37.376859799896756,
+    "longitude": 101.61913099999998,
+    "other_names": {
+      "name": "门源县",
+      "name:en": "Menyuan",
+      "name:ja": "門源回族自治県",
+      "name:vi": "Hạo Môn",
+      "name:zh": "门源县",
+      "alt_name": "门源回族自治县;Haomen",
+      "old_name": "亹源縣",
+      "name:zh-Hant": "亹源縣",
+      "official_name": "浩门镇",
+      "name:zh_pinyin": "hàomén zhèn"
+    }
+  },
+  {
+    "name": "Merca",
+    "country": "Somalia",
+    "latitude": 1.7148357998173374,
+    "longitude": 44.76993259999999,
+    "other_names": {
+      "name": "Marka مركا",
+      "name:ar": "مركا",
+      "name:ca": "Marka",
+      "name:da": "Merca",
+      "name:de": "Merka",
+      "name:en": "Merca",
+      "name:eo": "Merka",
+      "name:es": "Merca",
+      "name:fa": "مرکه",
+      "name:fi": "Merka",
+      "name:fr": "Merka",
+      "name:id": "Marka",
+      "name:it": "Merca",
+      "name:ja": "マルカ",
+      "name:ka": "მარკა",
+      "name:kk": "Марка",
+      "name:ko": "마르카",
+      "name:lt": "Merka",
+      "name:ml": "മെർക്ക",
+      "name:nb": "Marka",
+      "name:nl": "Marka",
+      "name:pl": "Marka",
+      "name:pt": "Merca",
+      "name:ro": "Merca",
+      "name:ru": "Марка",
+      "name:so": "Marka",
+      "name:sv": "Merca",
+      "name:sw": "Merka",
+      "name:tr": "Merka",
+      "name:uk": "Марка",
+      "name:ur": "مرکہ",
+      "name:zh": "马尔卡",
+      "name:zu": "Merca",
+      "alt_name": "مركة",
+      "alt_name:ar": "مركة"
+    }
+  },
+  {
+    "name": "Merced",
+    "country": "United States Of America",
+    "latitude": 37.302956799887035,
+    "longitude": -120.4843269,
+    "other_names": {
+      "name": "Merced"
+    }
+  },
+  {
+    "name": "Mercedes",
+    "country": "Uruguay",
+    "latitude": -33.248420399564516,
+    "longitude": -58.0298671,
+    "other_names": {
+      "name": "Mercedes"
+    }
+  },
+  {
+    "name": "Mérida",
+    "country": "Spain",
+    "latitude": 38.91746650011396,
+    "longitude": -6.344397699999999,
+    "other_names": {
+      "name": "Mérida",
+      "name:ar": "ماردة",
+      "name:be": "Мерыда",
+      "name:ca": "Mèrida",
+      "name:el": "Μέριδα",
+      "name:fa": "مریدا",
+      "name:lt": "Merida",
+      "name:ru": "Мерида",
+      "name:ur": "میریدا",
+      "alt_name:ar": "مريدا"
+    }
+  },
+  {
+    "name": "Mérida",
+    "country": "Venezuela",
+    "latitude": 8.587578799393732,
+    "longitude": -71.15723519999999,
+    "other_names": {
+      "name": "Mérida",
+      "name:ba": "Мерида",
+      "name:lt": "Merida",
+      "name:ru": "Мерида",
+      "name:tt": "Мерида",
+      "name:uk": "Меріда"
+    }
+  },
+  {
+    "name": "Mérida",
+    "country": "Mexico",
+    "latitude": 20.96707590040374,
+    "longitude": -89.62374019999999,
+    "other_names": {
+      "name": "Mérida",
+      "name:ar": "ماردة",
+      "name:en": "Mérida",
+      "name:es": "Mérida",
+      "name:mk": "Мерида",
+      "name:pl": "Mérida",
+      "name:ru": "Мерида",
+      "name:uk": "Меріда"
+    }
+  },
+  {
+    "name": "Meriden",
+    "country": "United States Of America",
+    "latitude": 41.53815350044748,
+    "longitude": -72.80704349999999,
+    "other_names": {
+      "name": "Meriden"
+    }
+  },
+  {
+    "name": "Meridian",
+    "country": "United States Of America",
+    "latitude": 43.608629500541156,
+    "longitude": -116.392326,
+    "other_names": {
+      "name": "Meridian"
+    }
+  },
+  {
+    "name": "Meridian",
+    "country": "United States Of America",
+    "latitude": 32.36430979959707,
+    "longitude": -88.70365599999998,
+    "other_names": {
+      "name": "Meridian"
+    }
+  },
+  {
+    "name": "Merlo",
+    "country": "Argentina",
+    "latitude": -34.66049879981808,
+    "longitude": -58.732169500000005,
+    "other_names": {
+      "name": "Merlo",
+      "name:uk": "Мерло"
+    }
+  },
+  {
+    "name": "Merowe",
+    "country": "Sudan",
+    "latitude": 18.48119720027522,
+    "longitude": 31.817168799999994,
+    "other_names": {
+      "name": "مروي",
+      "name:ar": "مروي",
+      "name:de": "Merowe",
+      "name:en": "Merowe",
+      "name:es": "Merowe",
+      "name:fr": "Merowe",
+      "alt_name": "Marawi;Merowe;Merawi;Marawī",
+      "alt_name:en": "Marawi"
+    }
+  },
+  {
+    "name": "Merritt",
+    "country": "Canada",
+    "latitude": 50.11170399942718,
+    "longitude": -120.78842199999998,
+    "other_names": {
+      "name": "Merritt"
+    }
+  },
+  {
+    "name": "Mersin",
+    "country": "Turkey",
+    "latitude": 36.81175829982519,
+    "longitude": 34.629267899999995,
+    "other_names": {
+      "name": "Mersin",
+      "name:ar": "مرسين",
+      "name:el": "Μερσίνα",
+      "name:en": "Mersin",
+      "name:hi": "मेर्सीन",
+      "name:hu": "Mersin",
+      "name:hy": "Մերսին",
+      "name:ka": "მერსინი",
+      "name:ku": "Mêrsîn",
+      "name:ru": "Мерсин",
+      "name:ckb": "مێرسین"
+    }
+  },
+  {
+    "name": "Meru",
+    "country": "Kenya",
+    "latitude": 0.049978599994867035,
+    "longitude": 37.6500063,
+    "other_names": {
+      "name": "Meru",
+      "name:ar": "مرو",
+      "name:en": "Meru",
+      "name:ru": "Меру",
+      "name:uk": "Меру",
+      "name:zh": "梅鲁"
+    }
+  }
+]

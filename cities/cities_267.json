@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Limerick City",
+    "country": "Ireland And Northern Ireland",
+    "latitude": 52.65757376768062,
+    "longitude": -8.630137607903622,
+    "other_names": {
+      "name": "Limerick City"
+    }
+  },
+  {
+    "name": "Limoges",
+    "country": "France",
+    "latitude": 45.83542430036726,
+    "longitude": 1.2644846999999997,
+    "other_names": {
+      "name": "Limoges",
+      "name:ar": "ليموج",
+      "name:ca": "Llemotges",
+      "name:el": "Λιμόζ",
+      "name:eo": "Limoĝo",
+      "name:fr": "Limoges",
+      "name:he": "לימוז'",
+      "name:hu": "Limoges",
+      "name:ja": "リモージュ",
+      "name:la": "Augustoritum",
+      "name:lt": "Limožas",
+      "name:oc": "Limòtges",
+      "name:ru": "Лимож",
+      "name:sr": "Лимож",
+      "name:uk": "Лімож"
+    }
+  },
+  {
+    "name": "Limón",
+    "country": "Costa Rica",
+    "latitude": 9.995239999437771,
+    "longitude": -83.0293585,
+    "other_names": {
+      "name": "Limón",
+      "name:hu": "Limón"
+    }
+  },
+  {
+    "name": "Limpio",
+    "country": "Paraguay",
+    "latitude": -25.173648699754107,
+    "longitude": -57.4780665,
+    "other_names": {
+      "name": "Limpio",
+      "name:en": "Limpio"
+    }
+  },
+  {
+    "name": "Lin",
+    "country": "China",
+    "latitude": 37.96477159997704,
+    "longitude": 110.9891785,
+    "other_names": {
+      "name": "临县",
+      "name:en": "Lin",
+      "name:zh": "临县",
+      "alt_name": "临;Linxian;Lin County",
+      "name:zh-Hant": "臨縣"
+    }
+  },
+  {
+    "name": "Lin'an District",
+    "country": "China",
+    "latitude": 30.2371363997191,
+    "longitude": 119.71926310000002,
+    "other_names": {
+      "name": "临安区",
+      "name:de": "Lin’an",
+      "name:en": "Lin'an District",
+      "name:es": "Lin'an",
+      "name:eu": "Lin'an",
+      "name:fr": "Lin'an",
+      "name:ja": "臨安区",
+      "name:ki": "Lin'an",
+      "name:ko": "린안구",
+      "name:nl": "Lin'an",
+      "name:no": "Lin'an",
+      "name:ru": "Lin'an",
+      "name:sv": "Lin'an",
+      "name:tl": "Linan",
+      "name:vi": "Lâm An",
+      "name:zh": "临安区",
+      "int_name": "Lin'an",
+      "name:ceb": "Lin’an",
+      "name:hak": "Lìm-ôn-sṳ",
+      "name:nan": "Lîm-an-khu",
+      "name:wuu": "临安区",
+      "name:yue": "臨安",
+      "old_name": "临安市",
+      "name:zh-Hant": "臨安區",
+      "name:zh_pinyin": "Lín'ān Qū"
+    }
+  },
+  {
+    "name": "Linares",
+    "country": "Chile",
+    "latitude": -35.84529050007662,
+    "longitude": -71.5977173,
+    "other_names": {
+      "name": "Linares",
+      "name:ru": "Линарес",
+      "old_name": "Villa San Ambrosio de Linares"
+    }
+  },
+  {
+    "name": "Lincang",
+    "country": "China",
+    "latitude": 23.888480000339808,
+    "longitude": 100.08793439999998,
+    "other_names": {
+      "name": "临沧市",
+      "name:de": "Lincang",
+      "name:en": "Lincang",
+      "name:et": "Lincang",
+      "name:fr": "Lincang",
+      "name:ja": "臨滄市",
+      "name:vi": "Lâm Thương",
+      "name:zh": "临沧市",
+      "alt_name": "临沧;Lincang City;临翔区;临翔;Linxiang",
+      "name:zh-Hant": "臨滄市",
+      "name:zh_pinyin": "Líncāng Shì"
+    }
+  },
+  {
+    "name": "Lincheng",
+    "country": "China",
+    "latitude": 37.44273499990548,
+    "longitude": 114.4962683,
+    "other_names": {
+      "name": "临城县",
+      "name:en": "Lincheng",
+      "name:vi": "Lâm Thành",
+      "name:zh": "临城县",
+      "name:zh-Hant": "臨城縣",
+      "official_name": "临城镇",
+      "name:zh_pinyin": "Lincheng Xian"
+    }
+  },
+  {
+    "name": "Linchuan",
+    "country": "China",
+    "latitude": 27.93627859995336,
+    "longitude": 116.30698929999998,
+    "other_names": {
+      "name": "临川区",
+      "name:de": "Linchuan",
+      "name:en": "Linchuan",
+      "name:fr": "District de Linchuan",
+      "name:it": "Distretto di Linchuan",
+      "name:ja": "臨川区",
+      "name:ko": "린촨구",
+      "name:no": "Linchuan",
+      "name:sv": "Linchuan",
+      "name:vi": "Lâm Xuyên",
+      "name:zh": "临川区",
+      "alt_name": "临川;Linchuan District",
+      "name:gan": "臨川區",
+      "name:nan": "Lîm-chhoan-khu",
+      "name:yue": "臨川區",
+      "name:zh-Hant": "臨川區",
+      "name:zh_pinyin": "línchuān qū"
+    }
+  },
+  {
+    "name": "Lincoln",
+    "country": "England",
+    "latitude": 53.23363009909854,
+    "longitude": -0.5392172,
+    "other_names": {
+      "name": "Lincoln",
+      "name:be": "Лінкальн",
+      "name:en": "Lincoln",
+      "name:he": "לינקולן",
+      "name:hu": "Lincoln",
+      "name:ko": "링컨",
+      "name:lt": "Linkolnas",
+      "name:mk": "Линколн",
+      "name:ru": "Линкольн",
+      "name:sr": "Линколн",
+      "name:uk": "Лінкольн",
+      "name:ast": "Lincoln, Inglaterra",
+      "old_name": "Lindum Colonia",
+      "official_name": "City of Lincoln"
+    }
+  },
+  {
+    "name": "Lincoln",
+    "country": "United States Of America",
+    "latitude": 40.80888610037024,
+    "longitude": -96.7077751,
+    "other_names": {
+      "name": "Lincoln",
+      "name:en": "Lincoln",
+      "name:he": "לינקולן",
+      "name:pl": "Lincoln",
+      "name:ru": "Линкольн",
+      "name:uk": "Лінкольн"
+    }
+  },
+  {
+    "name": "Lindian",
+    "country": "China",
+    "latitude": 47.18052630012353,
+    "longitude": 124.87241319999997,
+    "other_names": {
+      "name": "林甸县",
+      "name:en": "Lindian",
+      "name:ja": "林甸県",
+      "name:ru": "Линьдянь",
+      "name:vi": "Lâm Điện",
+      "name:zh": "林甸县",
+      "alt_name": "林甸",
+      "name:zh-Hant": "林甸縣",
+      "official_name": "林甸镇",
+      "name:zh_pinyin": "Líndiàn zhèn"
+    }
+  },
+  {
+    "name": "Lindsay",
+    "country": "United States Of America",
+    "latitude": 33.641629044119426,
+    "longitude": -97.21854057426523,
+    "other_names": {
+      "name": "Lindsay"
+    }
+  },
+  {
+    "name": "Linfen",
+    "country": "China",
+    "latitude": 36.08853379974445,
+    "longitude": 111.512998,
+    "other_names": {
+      "name": "临汾市",
+      "name:en": "Linfen",
+      "name:et": "Linfen",
+      "name:hi": "लिन्फ़ेन",
+      "name:ja": "臨汾市",
+      "name:kn": "ಲಿನ್ಫೆನ್",
+      "name:ko": "린펀 시",
+      "name:mr": "लिंफेन",
+      "name:th": "หลินเฟิน",
+      "name:zh": "临汾市",
+      "alt_name": "临汾;Lin-fen Ti-ch'u;Lin-fen Shih;Linfen Shi",
+      "old_name": "临汾地区;临汾地;línfén dìqū",
+      "name:zh-Hant": "臨汾市"
+    }
+  },
+  {
+    "name": "Lingao County",
+    "country": "China",
+    "latitude": 19.910263800368227,
+    "longitude": 109.68590140000002,
+    "other_names": {
+      "name": "临高县",
+      "name:de": "Lingao",
+      "name:en": "Lingao County",
+      "name:eu": "Lingao",
+      "name:fa": "شهرستان لینگاو",
+      "name:fr": "Xian de Lingao",
+      "name:it": "Contea di Lingao",
+      "name:ja": "臨高県",
+      "name:ko": "린가오현",
+      "name:nl": "Lin'gao",
+      "name:no": "Lingao",
+      "name:pl": "Lingao",
+      "name:ru": "Линьгао",
+      "name:sv": "Lingao",
+      "name:ur": "لینگاو کاؤنٹی",
+      "name:vi": "Lâm Cao",
+      "name:zh": "临高县",
+      "name:ceb": "Lingao Xian",
+      "name:nan": "Lîm-ko-koān",
+      "name:yue": "臨高",
+      "name:zh-Hant": "臨高縣",
+      "name:zh_pinyin": "Língāo Xiàn"
+    }
+  },
+  {
+    "name": "Lingbao",
+    "country": "China",
+    "latitude": 34.54535259962456,
+    "longitude": 110.8795605,
+    "other_names": {
+      "name": "灵宝市",
+      "name:de": "Lingbao",
+      "name:en": "Lingbao",
+      "name:fr": "Lingbao",
+      "name:ja": "霊宝市",
+      "name:ru": "Линбао",
+      "name:vi": "Linh Bảo",
+      "name:zh": "灵宝市",
+      "alt_name": "灵宝;Lingbao City",
+      "name:zh-Hant": "靈寶市",
+      "name:zh_pinyin": "Língbǎo Shì"
+    }
+  },
+  {
+    "name": "Lingbi",
+    "country": "China",
+    "latitude": 33.54285669959083,
+    "longitude": 117.5529641,
+    "other_names": {
+      "name": "灵璧县",
+      "name:en": "Lingbi",
+      "name:ja": "霊璧県",
+      "name:vi": "Linh Bích",
+      "name:zh": "灵璧县",
+      "name:zh-Hant": "靈璧縣"
+    }
+  },
+  {
+    "name": "Lingcheng",
+    "country": "China",
+    "latitude": 37.33587239989135,
+    "longitude": 116.57062079999999,
+    "other_names": {
+      "name": "陵城区",
+      "name:en": "Lingcheng",
+      "name:zh": "陵城区",
+      "old_name": "陵县",
+      "name:zh-Hant": "陵城區"
+    }
+  },
+  {
+    "name": "Lingchuan",
+    "country": "China",
+    "latitude": 35.776255999714024,
+    "longitude": 113.2717348,
+    "other_names": {
+      "name": "陵川县",
+      "name:en": "Lingchuan",
+      "name:ja": "陵川県",
+      "name:zh": "陵川县",
+      "alt_name": "陵川县;Lingchuan Xian;L'ing-ch'uan-hsien;Lin-chuan",
+      "name:zh-Hant": "陵川縣"
+    }
+  }
+]

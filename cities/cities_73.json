@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Câmpia Turzii",
+    "country": "Romania",
+    "latitude": 46.54602693606269,
+    "longitude": 23.880486206452968,
+    "other_names": {
+      "name": "Câmpia Turzii",
+      "name:hu": "Aranyosgyéres",
+      "name:ro": "Câmpia Turzii"
+    }
+  },
+  {
+    "name": "Câmpina",
+    "country": "Romania",
+    "latitude": 45.1341372904725,
+    "longitude": 25.742579477539753,
+    "other_names": {
+      "name": "Câmpina"
+    }
+  },
+  {
+    "name": "Campina Grande",
+    "country": "Brazil",
+    "latitude": -7.2246742997203794,
+    "longitude": -35.87712919999999,
+    "other_names": {
+      "name": "Campina Grande",
+      "name:bg": "Кампина Гранди",
+      "name:eo": "Kampinagrando",
+      "name:ja": "カンピナグランデ",
+      "name:ka": "კამპინა-გრანდე",
+      "name:kk": "Кампина-Гранди",
+      "name:ko": "캄피나그란지",
+      "name:lt": "Kampina Grandė",
+      "name:pt": "Campina Grande",
+      "name:ru": "Кампина-Гранди",
+      "name:sr": "Кампина Гранде",
+      "name:zh": "大坎皮納",
+      "loc_name": "Campina"
+    }
+  },
+  {
+    "name": "Campinas",
+    "country": "Brazil",
+    "latitude": -22.90556000007997,
+    "longitude": -47.06083,
+    "other_names": {
+      "name": "Campinas",
+      "name:ar": "كامبيناس",
+      "name:be": "Кампінас",
+      "name:bg": "Кампинас",
+      "name:ce": "Кампинас",
+      "name:el": "Καμπίνας",
+      "name:he": "קמפינאס",
+      "name:ja": "カンピーナス",
+      "name:ka": "კამპინასი",
+      "name:ko": "구아룰류스",
+      "name:la": "Campinae",
+      "name:lt": "Kampinasas",
+      "name:lv": "Kampinasa",
+      "name:mk": "Кампинас",
+      "name:pt": "Campinas",
+      "name:ru": "Кампинас",
+      "name:sr": "Кампинас",
+      "name:uk": "Кампінас",
+      "name:zh": "坎皮纳斯"
+    }
+  },
+  {
+    "name": "Campobasso",
+    "country": "Italy",
+    "latitude": 41.55979350044947,
+    "longitude": 14.660272499999998,
+    "other_names": {
+      "name": "Campobasso",
+      "name:ar": "كامبوباسو",
+      "name:el": "Καμπομπάσο",
+      "name:en": "Campobasso",
+      "name:fa": "کامپوباسو",
+      "name:it": "Campobasso",
+      "name:ru": "Кампобассо",
+      "name:uk": "Кампобассо",
+      "name:zh": "坎波巴索"
+    }
+  },
+  {
+    "name": "Campo Grande",
+    "country": "Brazil",
+    "latitude": -20.464017300355238,
+    "longitude": -54.6162947,
+    "other_names": {
+      "name": "Campo Grande",
+      "name:ar": "كامبو غراندي",
+      "name:be": "Кампу-Грандэ",
+      "name:bg": "Кампо Гранди",
+      "name:de": "Campo Grande",
+      "name:en": "Campo Grande",
+      "name:fa": "کامپوگرانده",
+      "name:he": "קמפו גראנדה",
+      "name:hy": "Կամպու Գրանդե",
+      "name:ja": "カンポ・グランデ",
+      "name:ka": "კამპუ-გრანდი",
+      "name:kk": "Кампу-Гранди",
+      "name:ko": "캄푸그란지",
+      "name:la": "Campus Magnus",
+      "name:lt": "Kampo Grandė",
+      "name:lv": "Kampugrandi",
+      "name:mk": "Кампо Гранџе",
+      "name:mr": "काम्पो ग्रान्दे",
+      "name:pl": "Campo Grande",
+      "name:pt": "Campo Grande",
+      "name:ru": "Кампу-Гранди",
+      "name:sh": "Kampu Grande",
+      "name:sr": "Кампо Гранде",
+      "name:tg": "Кампу-Гранде",
+      "name:th": "กังปูกรังจี",
+      "name:uk": "Кампу-Гранді",
+      "name:uz": "Kampu-Grandi",
+      "name:zh": "大坎普",
+      "loc_name": "Campão"
+    }
+  },
+  {
+    "name": "Campo Largo",
+    "country": "Brazil",
+    "latitude": -25.45977259971328,
+    "longitude": -49.5270851,
+    "other_names": {
+      "name": "Campo Largo"
+    }
+  },
+  {
+    "name": "Campos dos Goytacazes",
+    "country": "Brazil",
+    "latitude": -21.755861900225394,
+    "longitude": -41.3326895,
+    "other_names": {
+      "name": "Campos dos Goytacazes",
+      "short_name": "Campos"
+    }
+  },
+  {
+    "name": "Cam Ranh",
+    "country": "Vietnam",
+    "latitude": 11.916669599572856,
+    "longitude": 109.14861,
+    "other_names": {
+      "name": "Cam Ranh",
+      "name:en": "Cam Ranh",
+      "name:ja": "カムラン",
+      "name:ko": "깜라인",
+      "name:lt": "Kamranis",
+      "name:ru": "Камрань",
+      "name:sr": "Кам Ран",
+      "name:uk": "Камрань",
+      "name:ur": "کام رنھ",
+      "name:vi": "Cam Ranh",
+      "name:zh": "金蘭市",
+      "official_name": "Thành phố Cam Ranh",
+      "official_name:en": "City of Cam Ranh",
+      "official_name:vi": "Thành phố Cam Ranh"
+    }
+  },
+  {
+    "name": "Camrose",
+    "country": "Canada",
+    "latitude": 53.01313099908829,
+    "longitude": -112.84057599999998,
+    "other_names": {
+      "name": "Camrose",
+      "name:en": "Camrose",
+      "name:ru": "Камроуз",
+      "old_name": "Sparling"
+    }
+  },
+  {
+    "name": "Çanakkale",
+    "country": "Turkey",
+    "latitude": 40.15352950028791,
+    "longitude": 26.413969899999998,
+    "other_names": {
+      "name": "Çanakkale",
+      "name:ar": "جنق قلعة",
+      "name:el": "Τσανάκκαλε",
+      "name:hi": "चाणकले",
+      "name:mk": "Чанаккале",
+      "name:ru": "Чанаккале",
+      "name:tr": "Çanakkale"
+    }
+  },
+  {
+    "name": "Canberra",
+    "country": "Australia",
+    "latitude": -35.29759059995339,
+    "longitude": 149.10126759999997,
+    "other_names": {
+      "name": "Canberra",
+      "name:am": "ካንበራ",
+      "name:ar": "كانبرا",
+      "name:az": "Kanberra",
+      "name:be": "Канбера",
+      "name:bg": "Канбера",
+      "name:bn": "ক্যানবেরা",
+      "name:bo": "ཁན་པེ་ར།",
+      "name:cu": "Канбєра",
+      "name:cv": "Канберра",
+      "name:de": "Canberra",
+      "name:el": "Καμπέρα",
+      "name:en": "Canberra",
+      "name:eo": "Kanbero",
+      "name:es": "Canberra",
+      "name:fa": "کانبرا",
+      "name:fr": "Canberra",
+      "name:fy": "Kanberra",
+      "name:he": "קנברה",
+      "name:hi": "कैनबरा",
+      "name:ht": "Kanbera",
+      "name:hu": "Canberra",
+      "name:hy": "Կանբեռա",
+      "name:is": "Canberra",
+      "name:ja": "キャンベラ",
+      "name:ka": "კანბერა",
+      "name:kn": "ಕ್ಯಾನ್ಬೆರ",
+      "name:ko": "캔버라",
+      "name:ku": "Kanberra",
+      "name:ky": "Канберра",
+      "name:lt": "Kanbera",
+      "name:lv": "Kanbera",
+      "name:mi": "Kānapera",
+      "name:mk": "Канбера",
+      "name:mn": "Канберра",
+      "name:mr": "कॅनबेरा",
+      "name:oc": "Canberra",
+      "name:os": "Канберрæ",
+      "name:pl": "Canberra",
+      "name:pt": "Camberra",
+      "name:ru": "Канберра",
+      "name:si": "කැන්බරා",
+      "name:so": "Kanbera",
+      "name:sr": "Канбера",
+      "name:sv": "Canberra",
+      "name:ta": "கான்பரா",
+      "name:tg": "Канберра",
+      "name:th": "แคนเบอร์รา",
+      "name:tt": "Канберра",
+      "name:ug": "Kanbérra",
+      "name:uk": "Канберра",
+      "name:ur": "کینبرا",
+      "name:yi": "קאנבערא",
+      "name:zh": "堪培拉",
+      "name:mhr": "Канберра",
+      "name:nah": "Camberra",
+      "name:pnb": "کینبرا",
+      "name:sah": "Канберра",
+      "name:tet": "Kamberra",
+      "name:tpi": "Kambra",
+      "name:vep": "Kanberr",
+      "name:wuu": "坎培拉",
+      "name:xmf": "ქანბერა",
+      "name:yue": "坎培拉",
+      "name:bat-smg": "Kanbera",
+      "name:be-tarask": "Канбэра"
+    }
+  },
+  {
+    "name": "Cancún",
+    "country": "Mexico",
+    "latitude": 21.161785400406924,
+    "longitude": -86.85104679999999,
+    "other_names": {
+      "name": "Cancún",
+      "name:ar": "كانكون",
+      "name:mk": "Канкун"
+    }
+  },
+  {
+    "name": "Candon",
+    "country": "Philippines",
+    "latitude": 17.195408400155817,
+    "longitude": 120.4479186,
+    "other_names": {
+      "name": "Candon",
+      "name:ja": "カンドン"
+    }
+  },
+  {
+    "name": "Canelones",
+    "country": "Uruguay",
+    "latitude": -34.52423729979056,
+    "longitude": -56.2817519,
+    "other_names": {
+      "name": "Canelones"
+    }
+  },
+  {
+    "name": "Cang",
+    "country": "China",
+    "latitude": 38.204950600011045,
+    "longitude": 117.02721840000001,
+    "other_names": {
+      "name": "沧县",
+      "name:en": "Cang",
+      "name:vi": "Thương",
+      "name:zh": "沧县",
+      "alt_name": "沧;Cang County;Cangxian",
+      "name:zh-Hant": "滄縣",
+      "name:zh_pinyin": "Cang Xian"
+    }
+  },
+  {
+    "name": "Cangnan",
+    "country": "China",
+    "latitude": 27.518404600000153,
+    "longitude": 120.42329150000002,
+    "other_names": {
+      "name": "苍南县",
+      "name:de": "Cangnan",
+      "name:en": "Cangnan",
+      "name:fa": "شهرستان سانگنان",
+      "name:fr": "Cangnan",
+      "name:it": "Cangnan",
+      "name:ja": "蒼南県",
+      "name:ko": "창난현",
+      "name:no": "Cangnan",
+      "name:sv": "Cangnan",
+      "name:vi": "Thương Nam",
+      "name:zh": "苍南县",
+      "name:cdo": "Chŏng-nàng",
+      "name:ceb": "Cangnan",
+      "name:hak": "Chhông-nàm-yen",
+      "name:nan": "Chhong-lâm-koān",
+      "name:wuu": "苍南县",
+      "name:yue": "蒼南",
+      "name:zh-Hant": "蒼南縣",
+      "name:zh_pinyin": "Cāngnán Xiàn"
+    }
+  },
+  {
+    "name": "Cangshan",
+    "country": "China",
+    "latitude": 26.04997780015917,
+    "longitude": 119.2685656,
+    "other_names": {
+      "name": "仓山区",
+      "name:de": "Cangshan",
+      "name:en": "Cangshan",
+      "name:es": "Cāngshān",
+      "name:fr": "Cangshan",
+      "name:it": "Cangshan",
+      "name:ja": "倉山区",
+      "name:ko": "창산구",
+      "name:uk": "Цаншань",
+      "name:vi": "Thương Sơn",
+      "name:zh": "仓山区",
+      "alt_name": "仓山;Cangshan District",
+      "name:cdo": "Chŏng-săng",
+      "name:hak": "Chhông-sân-khî",
+      "name:nan": "Chhng-soaⁿ-khu",
+      "name:yue": "倉山",
+      "name:zh-Hant": "倉山區",
+      "name:zh_pinyin": "cāngshān qū"
+    }
+  },
+  {
+    "name": "Cangwu",
+    "country": "China",
+    "latitude": 23.847976200342256,
+    "longitude": 111.53910329999998,
+    "other_names": {
+      "name": "苍梧县",
+      "name:de": "Cangwu",
+      "name:en": "Cangwu",
+      "name:fa": "شهرستان سانگوو",
+      "name:fr": "Xian de Cangwu",
+      "name:ja": "蒼梧県",
+      "name:ko": "창우현",
+      "name:no": "Cangwu",
+      "name:pl": "Cangwu",
+      "name:ru": "Цанъу",
+      "name:sv": "Cangwu",
+      "name:vi": "Thương Ngô",
+      "name:zh": "苍梧县",
+      "alt_name": "苍梧;Ts'ang-wu Hsien;Cangwu County",
+      "name:ceb": "Cangwu Xian",
+      "name:hak": "Chhông-ǹg-yen",
+      "name:nan": "Chhong-ngô͘-koān",
+      "name:yue": "苍梧县",
+      "name:zh-Hant": "蒼梧縣",
+      "name:yue-Latn": "Toengng-yun"
+    }
+  },
+  {
+    "name": "Cangxi",
+    "country": "China",
+    "latitude": 31.734553799619665,
+    "longitude": 105.934854,
+    "other_names": {
+      "name": "苍溪县",
+      "name:en": "Cangxi",
+      "name:zh": "苍溪县",
+      "alt_name": "苍溪;Cangxi County",
+      "name:zh-Hant": "蒼溪縣",
+      "name:zh_pinyin": "Cāngxī Xiàn"
+    }
+  }
+]

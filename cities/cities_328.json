@@ -1,0 +1,376 @@
+[
+  {
+    "name": "Nassau",
+    "country": "Bahamas",
+    "latitude": 25.07834560025125,
+    "longitude": -77.3383331,
+    "other_names": {
+      "name": "Nassau",
+      "name:am": "ናሶ",
+      "name:ar": "ناساو",
+      "name:be": "Насау",
+      "name:bg": "Насау",
+      "name:bo": "ན་སའོ།",
+      "name:ce": "Нассау",
+      "name:de": "Nassau",
+      "name:el": "Νασσάου",
+      "name:en": "Nassau",
+      "name:eo": "Nasaŭo",
+      "name:es": "Nasáu",
+      "name:fa": "ناسائو",
+      "name:fr": "Nassau",
+      "name:he": "נסאו",
+      "name:ht": "Naso",
+      "name:hu": "Nassau",
+      "name:hy": "Նասաու",
+      "name:is": "Nassá",
+      "name:ja": "ナッソー",
+      "name:ka": "ნასაუ",
+      "name:ko": "나소",
+      "name:lt": "Nasau",
+      "name:lv": "Naso",
+      "name:mk": "Насау",
+      "name:ml": "നാസോ",
+      "name:mr": "नासाउ",
+      "name:nn": "Nassau på Bahamas",
+      "name:oc": "Nassau",
+      "name:os": "Нассау",
+      "name:pl": "Nassau",
+      "name:ru": "Нассау",
+      "name:sr": "Насау",
+      "name:sv": "Nassau",
+      "name:ta": "நாசோ",
+      "name:th": "แนสซอ",
+      "name:uk": "Нассау",
+      "name:ur": "نساؤ",
+      "name:zh": "拿騷",
+      "name:sah": "Нассау",
+      "name:be-tarask": "Насаў"
+    }
+  },
+  {
+    "name": "Nasukarasuyama",
+    "country": "Japan",
+    "latitude": 36.657186999806825,
+    "longitude": 140.1518102,
+    "other_names": {
+      "name": "那須烏山市",
+      "name:ar": "ناسوكاراسوياما، توتشيغي",
+      "name:de": "Nasukarasuyama",
+      "name:en": "Nasukarasuyama",
+      "name:es": "Nasukarasuyama",
+      "name:fr": "Nasukarasuyama",
+      "name:ja": "那須烏山市",
+      "name:ko": "나스카라스야마시",
+      "name:ja_rm": "FIXME"
+    }
+  },
+  {
+    "name": "Nasushiobara",
+    "country": "Japan",
+    "latitude": 36.962190499843615,
+    "longitude": 140.04682549999998,
+    "other_names": {
+      "name": "那須塩原市",
+      "name:ar": "ناسوشيوبارا، توتشيغي",
+      "name:de": "Nasushiobara",
+      "name:en": "Nasushiobara",
+      "name:es": "Nasushiobara",
+      "name:fr": "Nasushiobara",
+      "name:ja": "那須塩原市",
+      "name:ko": "나스시오바라시",
+      "name:ru": "Насусиобара",
+      "name:uk": "Насу-Сіобара",
+      "int_name": "Nasushiobara",
+      "name:ja_rm": "Nasushiobara-shi",
+      "name:ja_kana": "なすしおばらし"
+    }
+  },
+  {
+    "name": "Natal",
+    "country": "Brazil",
+    "latitude": -5.8053979996821194,
+    "longitude": -35.20809049999999,
+    "other_names": {
+      "name": "Natal",
+      "name:ar": "ناتال",
+      "name:be": "Натал",
+      "name:bg": "Натал",
+      "name:ce": "Νατάλ",
+      "name:de": "Natal",
+      "name:el": "Νατάλ",
+      "name:en": "Natal",
+      "name:eo": "Natalo",
+      "name:fa": "ناتال",
+      "name:he": "נאטאל",
+      "name:hy": "Նատալ",
+      "name:ja": "ナタール",
+      "name:ka": "ნატალი",
+      "name:kk": "Натал",
+      "name:ko": "나타우",
+      "name:la": "Natalis",
+      "name:lt": "Natalis",
+      "name:lv": "Natala",
+      "name:mk": "Натал",
+      "name:mr": "नाताल",
+      "name:pl": "Natal",
+      "name:pt": "Natal",
+      "name:ru": "Натал",
+      "name:sr": "Натал",
+      "name:tg": "Натал",
+      "name:th": "นาตาล",
+      "name:uk": "Натал",
+      "name:zh": "纳塔尔"
+    }
+  },
+  {
+    "name": "Natitingou",
+    "country": "Benin",
+    "latitude": 10.305151099454063,
+    "longitude": 1.3808554,
+    "other_names": {
+      "name": "Natitingou",
+      "name:ar": "ناتيتنغو",
+      "name:ko": "나티팅구",
+      "name:ru": "Натитингу",
+      "name:uk": "Натітінгу",
+      "name:tbz": "Nantahɛɛ",
+      "short_name": "Nati"
+    }
+  },
+  {
+    "name": "Natori",
+    "country": "Japan",
+    "latitude": 38.17149900000628,
+    "longitude": 140.89173349999996,
+    "other_names": {
+      "name": "名取市",
+      "name:ar": "ناتوري، مياغي",
+      "name:de": "Natori",
+      "name:en": "Natori",
+      "name:es": "Natori",
+      "name:fr": "Natori",
+      "name:ja": "名取市",
+      "name:ko": "나토리시",
+      "name:pl": "Natori",
+      "name:ru": "Натори",
+      "name:uk": "Наторі",
+      "name:ja_rm": "なとりし",
+      "name:ja_kana": "なとりし"
+    }
+  },
+  {
+    "name": "Naucalpan",
+    "country": "Mexico",
+    "latitude": 19.478579600345245,
+    "longitude": -99.2328791,
+    "other_names": {
+      "name": "Naucalpan",
+      "alt_name": "Naucalpan de Juárez"
+    }
+  },
+  {
+    "name": "Naudero",
+    "country": "Pakistan",
+    "latitude": 27.664717299983764,
+    "longitude": 68.36003389999999,
+    "other_names": {
+      "name": "نوڈیرو",
+      "name:ar": "نوديرو",
+      "name:en": "Naudero",
+      "name:fa": "نودیرو",
+      "name:sd": "نئون ديرو",
+      "name:ur": "نوڈیرو",
+      "name:pnb": "نوڈیرو"
+    }
+  },
+  {
+    "name": "Nauta",
+    "country": "Peru",
+    "latitude": -4.507045499690286,
+    "longitude": -73.5740018,
+    "other_names": {
+      "name": "Nauta"
+    }
+  },
+  {
+    "name": "Navapolatsk",
+    "country": "Belarus",
+    "latitude": 55.53477039960197,
+    "longitude": 28.645089,
+    "other_names": {
+      "name": "Новополоцк",
+      "name:be": "Наваполацк",
+      "name:de": "Nawapolazk",
+      "name:en": "Navapolatsk",
+      "name:eo": "Navapolack",
+      "name:es": "Navapolatsk",
+      "name:et": "Navapolatsk",
+      "name:fr": "Navapolatsk",
+      "name:lt": "Navapolackas",
+      "name:nl": "Navapolatsk",
+      "name:pl": "Nowopołock",
+      "name:ru": "Новополоцк",
+      "name:sr": "Наваполацк",
+      "name:uk": "Наваполацьк",
+      "int_name": "Navapołack",
+      "old_name:uk": "Новополоцьк",
+      "name:sr-Latn": "Novopolock",
+      "name:be-tarask": "Наваполацак"
+    }
+  },
+  {
+    "name": "Navi Mumbai",
+    "country": "India",
+    "latitude": 19.030826200316593,
+    "longitude": 73.01985369999998,
+    "other_names": {
+      "name": "Navi Mumbai",
+      "name:en": "Navi Mumbai",
+      "name:eo": "Novmumbajo",
+      "name:he": "מומבאי החדשה",
+      "name:hi": "नवी मुम्बई",
+      "name:ja": "ナビムンバイ",
+      "name:kn": "ನವೀ ಮುಂಬಯಿ",
+      "name:ml": "നവി മുംബൈ",
+      "name:mr": "नवी मुंबई",
+      "name:pa": "ਨਵੀ ਮੁੰਬਈ",
+      "name:pl": "Navi Mumbai",
+      "name:pt": "Navi Mumbai",
+      "name:ru": "Новый Мумбай",
+      "name:ta": "நவி மும்பை",
+      "name:zh": "新孟买"
+    }
+  },
+  {
+    "name": "Navoiy",
+    "country": "Uzbekistan",
+    "latitude": 40.096999818165784,
+    "longitude": 65.36756463217715,
+    "other_names": {
+      "name": "Navoiy",
+      "name:en": "Navoiy",
+      "name:fr": "Navoï",
+      "name:ja": "ナヴァーイー",
+      "name:pl": "Nawoi",
+      "name:ru": "Навои",
+      "name:uk": "Навої"
+    }
+  },
+  {
+    "name": "Navoiy",
+    "country": "Uzbekistan",
+    "latitude": 40.10345820028124,
+    "longitude": 65.37342209999998,
+    "other_names": {
+      "name": "Navoiy",
+      "name:de": "Navoiy",
+      "name:en": "Navoiy",
+      "name:fr": "Navoï",
+      "name:ja": "ナヴァーイー",
+      "name:pl": "Nawoi",
+      "name:ru": "Навои",
+      "name:uk": "Навої",
+      "old_name": "Кермине",
+      "alt_name:en": "Navai",
+      "old_name:pl": "Kermine"
+    }
+  },
+  {
+    "name": "Navojoa",
+    "country": "Mexico",
+    "latitude": 27.07218720004989,
+    "longitude": -109.4438227,
+    "other_names": {
+      "name": "Navojoa",
+      "name:en": "Navojoa",
+      "name:es": "Navojoa",
+      "name:ru": "Навохоа"
+    }
+  },
+  {
+    "name": "Navotas",
+    "country": "Philippines",
+    "latitude": 14.657186199866794,
+    "longitude": 120.94796920000002,
+    "other_names": {
+      "name": "Navotas",
+      "name:ja": "ナボタス"
+    }
+  },
+  {
+    "name": "Navsari",
+    "country": "India",
+    "latitude": 20.95240700040346,
+    "longitude": 72.9323831,
+    "other_names": {
+      "name": "Navsari",
+      "name:hi": "नवसारी",
+      "name:ja": "ナヴサーリー",
+      "name:ru": "Навсари"
+    }
+  },
+  {
+    "name": "Nawabshah",
+    "country": "Pakistan",
+    "latitude": 26.245291500139047,
+    "longitude": 68.4040229,
+    "other_names": {
+      "name": "نوابشاہ",
+      "name:ar": "نواب شاه",
+      "name:de": "Nawabshah",
+      "name:en": "Nawabshah",
+      "name:fa": "نوابشاه",
+      "name:fr": "Nawabshah",
+      "name:ja": "ナワーブシャー",
+      "name:kn": "ನವಾಬ್ಶಾಹ್",
+      "name:pa": "ਨਵਾਬਸ਼ਾਹ",
+      "name:ps": "نواب شاه",
+      "name:ru": "Навабшах",
+      "name:sd": "نوابشاھ",
+      "name:sr": "Навабах",
+      "name:ur": "نوابشاہ",
+      "name:pnb": "نواب شاہ"
+    }
+  },
+  {
+    "name": "Nawada",
+    "country": "India",
+    "latitude": 24.88597246876572,
+    "longitude": 85.5419210510958,
+    "other_names": {
+      "name": "Nawada",
+      "name:bn": "নওয়াদা",
+      "name:hi": "नवादा",
+      "name:ta": "நவாடா"
+    }
+  },
+  {
+    "name": "Naxi",
+    "country": "China",
+    "latitude": 28.775992599861134,
+    "longitude": 105.3681021,
+    "other_names": {
+      "name": "纳溪区",
+      "name:en": "Naxi",
+      "name:zh": "纳溪区",
+      "alt_name": "纳溪;Naxi District",
+      "name:zh-Hant": "納溪區",
+      "name:zh_pinyin": "Nàxī Qū"
+    }
+  },
+  {
+    "name": "Nayong",
+    "country": "China",
+    "latitude": 26.77637350008239,
+    "longitude": 105.37764849999999,
+    "other_names": {
+      "name": "纳雍县",
+      "name:en": "Nayong",
+      "name:vi": "Nạp Ung",
+      "name:zh": "纳雍县",
+      "name:zh-Hant": "納雍縣",
+      "name:zh_pinyin": "Nayong Xian"
+    }
+  }
+]

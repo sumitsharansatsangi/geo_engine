@@ -1,0 +1,293 @@
+[
+  {
+    "name": "Netanya",
+    "country": "Israel And Palestine",
+    "latitude": 32.328618099598025,
+    "longitude": 34.856624599999996,
+    "other_names": {
+      "name": "נתניה",
+      "name:ar": "نتانيا",
+      "name:cs": "Netanja",
+      "name:de": "Netanja",
+      "name:en": "Netanya",
+      "name:es": "Netanya",
+      "name:et": "Netanya",
+      "name:fr": "Netanya",
+      "name:he": "נתניה",
+      "name:hi": "नेतन्या",
+      "name:ru": "Нетания"
+    }
+  },
+  {
+    "name": "Netanya",
+    "country": "Israel And Palestine",
+    "latitude": 32.307773679428706,
+    "longitude": 34.86033865256419,
+    "other_names": {
+      "name": "נתניה",
+      "name:ar": "نتانيا",
+      "name:en": "Netanya",
+      "name:fi": "Natania",
+      "name:fr": "Netanya",
+      "name:he": "נתניה",
+      "name:hi": "नेतान्य",
+      "name:ru": "Нетания"
+    }
+  },
+  {
+    "name": "Neuquén",
+    "country": "Argentina",
+    "latitude": -38.9549825007628,
+    "longitude": -68.0592356,
+    "other_names": {
+      "name": "Neuquén",
+      "name:el": "Νεουκέν",
+      "name:en": "Neuquén",
+      "name:he": "נאוקן",
+      "name:ru": "Неукен",
+      "name:uk": "Неукен"
+    }
+  },
+  {
+    "name": "Neuss",
+    "country": "Germany",
+    "latitude": 51.19817779921662,
+    "longitude": 6.6916476,
+    "other_names": {
+      "name": "Neuss",
+      "name:ar": "نويس",
+      "name:be": "Нойс",
+      "name:bg": "Нойс",
+      "name:ja": "ノイス",
+      "name:kk": "Нойс",
+      "name:ko": "노이스",
+      "name:la": "Novaesium",
+      "name:lt": "Noisas",
+      "name:ru": "Нойс",
+      "name:sr": "Нојс",
+      "name:uk": "Нойс",
+      "name:zh": "诺伊斯",
+      "loc_name": "Nüss",
+      "name:ksh": "Nüss",
+      "name:pnb": "نیوس",
+      "old_name": "Neuß",
+      "name:zh-Hans": "诺伊斯",
+      "name:zh-Hant": "諾伊斯"
+    }
+  },
+  {
+    "name": "Nevinnomyssk",
+    "country": "Russia",
+    "latitude": 44.624581400499714,
+    "longitude": 41.9475941,
+    "other_names": {
+      "name": "Невинномысск",
+      "name:ar": "نافينوميسك",
+      "name:az": "Nevinnomıssk",
+      "name:be": "Нявіннамыск",
+      "name:de": "Newinnomyssk",
+      "name:en": "Nevinnomyssk",
+      "name:et": "Nevinnomõssk",
+      "name:fa": "نوینومیسک",
+      "name:hy": "Նեվինոմիսկ",
+      "name:ja": "ネヴィンノムイスク",
+      "name:ko": "네비노미스크",
+      "name:lt": "Nevinomyskas",
+      "name:pl": "Niewinnomyssk",
+      "name:ru": "Невинномысск",
+      "name:sr": "Невиномиск",
+      "name:sv": "Nevinnomyssk",
+      "name:tr": "Nevinnomıssk",
+      "name:uk": "Невинномиськ",
+      "name:zh": "涅溫諾梅斯克",
+      "int_name": "Nevinnomyssk"
+    }
+  },
+  {
+    "name": "Nevinnomyssk",
+    "country": "Russia",
+    "latitude": 44.633712077266495,
+    "longitude": 41.93855605255886,
+    "other_names": {
+      "name": "Невинномысск",
+      "name:az": "Nevinnomıssk",
+      "name:de": "Newinnomyssk",
+      "name:en": "Nevinnomyssk",
+      "name:hy": "Նեվինոմիսկ",
+      "name:lt": "Nevinomyskas",
+      "name:pl": "Niewinnomyssk",
+      "name:ru": "Невинномысск",
+      "name:sr": "Новиномиск",
+      "name:uk": "Невинномиськ",
+      "int_name": "Nevinnomyssk"
+    }
+  },
+  {
+    "name": "Nevşehir",
+    "country": "Turkey",
+    "latitude": 38.625038900071516,
+    "longitude": 34.7150685,
+    "other_names": {
+      "name": "Nevşehir",
+      "name:ar": "نوشهر",
+      "name:az": "Nevşəhər",
+      "name:bg": "Невшехир",
+      "name:el": "Νεβσεχίρ",
+      "name:fa": "نوشهر",
+      "name:hi": "नवशहर",
+      "name:hu": "Nevşehir",
+      "name:hy": "Նևշեհիր",
+      "name:ja": "ネヴシェヒル",
+      "name:ka": "ნევშეჰირი",
+      "name:ko": "네브셰히르",
+      "name:nl": "Nevşehir",
+      "name:ru": "Невшехир",
+      "name:sr": "Невшехир",
+      "name:tr": "Nevşehir",
+      "name:ur": "نو شہر",
+      "name:zh": "內夫謝希爾",
+      "alt_name": "Νεάπολη",
+      "old_name": "Newschehr;Muşkara"
+    }
+  },
+  {
+    "name": "New Al Fayoum City",
+    "country": "Egypt",
+    "latitude": 29.21978729717314,
+    "longitude": 30.89680004947907,
+    "other_names": {
+      "name": "مدينه الفيوم الجديدة",
+      "name:ar": "مدينه الفيوم الجديدة",
+      "name:en": "New Al Fayoum City"
+    }
+  },
+  {
+    "name": "New Al Nobaria City",
+    "country": "Egypt",
+    "latitude": 30.655799663781945,
+    "longitude": 30.078356683956244,
+    "other_names": {
+      "name": "مدينه النوباريه الجديدة",
+      "name:ar": "مدينه النوباريه الجديدة",
+      "name:en": "New Al Nobaria City"
+    }
+  },
+  {
+    "name": "Newark",
+    "country": "United States Of America",
+    "latitude": 40.73565700036156,
+    "longitude": -74.17236669999998,
+    "other_names": {
+      "name": "Newark"
+    }
+  },
+  {
+    "name": "New Asyut",
+    "country": "Egypt",
+    "latitude": 27.276365632427673,
+    "longitude": 31.280456577029053,
+    "other_names": {
+      "name": "New Asyut",
+      "name:ar": "أسيوط الجديدة"
+    }
+  },
+  {
+    "name": "New Asyut",
+    "country": "Egypt",
+    "latitude": 27.269356200027993,
+    "longitude": 31.297220400000004,
+    "other_names": {
+      "name": "أسيوط الجديدة",
+      "name:ar": "أسيوط الجديدة",
+      "name:en": "New Asyut",
+      "name:fr": "Nouveau Assiout"
+    }
+  },
+  {
+    "name": "New Barag Left Banner",
+    "country": "China",
+    "latitude": 48.21647879988559,
+    "longitude": 118.2631198,
+    "other_names": {
+      "name": "新巴尔虎左旗",
+      "name:en": "New Barag Left Banner",
+      "name:zh": "新巴尔虎左旗",
+      "alt_name": "Sine Baryu Jegun;Xinba'erhuzuo",
+      "name:zh-Hant": "新巴爾虎左旗"
+    }
+  },
+  {
+    "name": "New Barag Right Banner",
+    "country": "China",
+    "latitude": 48.67054159977403,
+    "longitude": 116.8161169,
+    "other_names": {
+      "name": "新巴尔虎右旗",
+      "name:en": "New Barag Right Banner",
+      "name:zh": "新巴尔虎右旗",
+      "alt_name": "Sine Baryu Barayun;Xinba'erhuyou",
+      "name:zh-Hant": "新巴爾虎右旗"
+    }
+  },
+  {
+    "name": "New Bedford",
+    "country": "United States Of America",
+    "latitude": 41.63621520045643,
+    "longitude": -70.93420499999999,
+    "other_names": {
+      "name": "New Bedford"
+    }
+  },
+  {
+    "name": "New Braunfels",
+    "country": "United States Of America",
+    "latitude": 29.70282659976713,
+    "longitude": -98.12573479999999,
+    "other_names": {
+      "name": "New Braunfels",
+      "name:de": "Neu Braunfels",
+      "name:en": "New Braunfels"
+    }
+  },
+  {
+    "name": "New Brega City",
+    "country": "Libya",
+    "latitude": 30.482922099698936,
+    "longitude": 19.725084199999998,
+    "other_names": {
+      "name": "البريقة الجديدة",
+      "name:ar": "البريقة الجديدة",
+      "name:de": "Neu-Brega",
+      "name:en": "New Brega City",
+      "name:fr": "New Brega",
+      "name:it": "Nuova Brega"
+    }
+  },
+  {
+    "name": "New Britain",
+    "country": "United States Of America",
+    "latitude": 41.66121040045867,
+    "longitude": -72.77954189999998,
+    "other_names": {
+      "name": "New Britain"
+    }
+  },
+  {
+    "name": "New Brunswick",
+    "country": "United States Of America",
+    "latitude": 40.486217400330965,
+    "longitude": -74.4518173,
+    "other_names": {
+      "name": "New Brunswick"
+    }
+  },
+  {
+    "name": "Newburgh",
+    "country": "United States Of America",
+    "latitude": 41.50342710044423,
+    "longitude": -74.0104179,
+    "other_names": {
+      "name": "Newburgh"
+    }
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Piatra Neamț",
+    "country": "Romania",
+    "latitude": 46.93198940017513,
+    "longitude": 26.369504599999996,
+    "other_names": {
+      "name": "Piatra Neamț",
+      "name:cs": "Moldavský Kamenec",
+      "name:de": "Kreuzburg an der Bistritz",
+      "name:hu": "Karácsonkő",
+      "name:ru": "Пьятра-Нямц",
+      "name:sr": "Пјатра Њамц",
+      "name:uk": "П'ятра-Нямц"
+    }
+  },
+  {
+    "name": "Pibor",
+    "country": "South Sudan",
+    "latitude": 6.798567899411316,
+    "longitude": 33.13189679999999,
+    "other_names": {
+      "name": "Pibor",
+      "name:ar": "بيبور",
+      "name:de": "Pibor",
+      "name:en": "Pibor",
+      "name:es": "Pibor",
+      "name:fr": "Pibor",
+      "name:ru": "Пибор-Пост",
+      "alt_name": "Pibor Post",
+      "old_name": "Fort Bruce"
+    }
+  },
+  {
+    "name": "Pickering",
+    "country": "Canada",
+    "latitude": 43.83576500053735,
+    "longitude": -79.09057599999998,
+    "other_names": {
+      "name": "Pickering",
+      "name:fr": "Pickering"
+    }
+  },
+  {
+    "name": "Pidu",
+    "country": "China",
+    "latitude": 30.79801069967511,
+    "longitude": 103.89861339999999,
+    "other_names": {
+      "name": "郫都区",
+      "name:en": "Pidu",
+      "name:zh": "郫都区",
+      "alt_name": "郫都;Pidu",
+      "old_name": "郫县;Pi",
+      "name:zh-Hant": "郫都區"
+    }
+  },
+  {
+    "name": "Piedras Negras",
+    "country": "Mexico",
+    "latitude": 28.699813499869308,
+    "longitude": -100.52671039999998,
+    "other_names": {
+      "name": "Piedras Negras",
+      "name:ru": "Пьедрас-Неграс"
+    }
+  },
+  {
+    "name": "Piekary Śląskie",
+    "country": "Poland",
+    "latitude": 50.38403119936817,
+    "longitude": 18.945642899999996,
+    "other_names": {
+      "name": "Piekary Śląskie",
+      "name:bg": "Пекари Силезко",
+      "name:de": "Deutsch Piekar",
+      "name:ja": "ピェカルィ・シロンスキェ",
+      "name:ko": "피에카리실롱스키에",
+      "name:lt": "Pekarai",
+      "name:lv": "Pekari Slonski",
+      "name:mk": "Пјекари Шлонске",
+      "name:pl": "Piekary Śląskie",
+      "name:ru": "Пекары-Слёнске",
+      "name:sr": "Пјекари Слонскје",
+      "name:uk": "Пекари-Шльонські",
+      "name:zh": "希隆斯克地區佩卡雷",
+      "name:szl": "Pjekary"
+    }
+  },
+  {
+    "name": "Pierre",
+    "country": "United States Of America",
+    "latitude": 44.36836440051615,
+    "longitude": -100.35113669999998,
+    "other_names": {
+      "name": "Pierre",
+      "name:en": "Pierre",
+      "name:he": "פיר",
+      "name:hi": "पियर, दक्षिण डकोटा",
+      "name:lt": "Piras",
+      "name:pl": "Pierre",
+      "name:ru": "Пирр",
+      "name:ta": "பியேர்",
+      "name:uk": "Пірр",
+      "name:zh": "皮尔 / 皮爾",
+      "name:hak": "Pierre",
+      "name:nan": "Pierre",
+      "name:zh-Hans": "皮尔",
+      "name:zh-Hant": "皮爾"
+    }
+  },
+  {
+    "name": "Pietermaritzburg",
+    "country": "South Africa And Lesotho",
+    "latitude": -29.59999999932471,
+    "longitude": 30.378888899999993,
+    "other_names": {
+      "name": "Pietermaritzburg",
+      "name:en": "Pietermaritzburg",
+      "name:ko": "피터마리츠버그",
+      "name:ru": "Питермарицбург",
+      "name:uk": "Пітермаріцбург"
+    }
+  },
+  {
+    "name": "Pietermaritzburg",
+    "country": "South Africa",
+    "latitude": -29.59999999932471,
+    "longitude": 30.378888899999993,
+    "other_names": {
+      "name": "Pietermaritzburg",
+      "name:en": "Pietermaritzburg",
+      "name:ko": "피터마리츠버그",
+      "name:ru": "Питермарицбург",
+      "name:uk": "Пітермаріцбург"
+    }
+  },
+  {
+    "name": "Pikine",
+    "country": "Senegal And Gambia",
+    "latitude": 14.751543999877924,
+    "longitude": -17.396412999999995,
+    "other_names": {
+      "name": "Pikine",
+      "name:ar": "بيكين",
+      "name:fa": "پیکین",
+      "name:fr": "Pikine",
+      "name:he": "פיכין",
+      "name:ko": "피킨"
+    }
+  },
+  {
+    "name": "Pilar",
+    "country": "Paraguay",
+    "latitude": -26.858249399529562,
+    "longitude": -58.303478699999985,
+    "other_names": {
+      "name": "Pilar",
+      "official_name:es": "Villa del Pilar"
+    }
+  },
+  {
+    "name": "Pilibhit",
+    "country": "India",
+    "latitude": 28.629499599876887,
+    "longitude": 79.80540720000002,
+    "other_names": {
+      "name": "Pilibhit",
+      "name:hi": "पीलीभीत",
+      "name:ta": "பிலிபித்"
+    }
+  },
+  {
+    "name": "Pinar del Rio",
+    "country": "Cuba",
+    "latitude": 22.416742200401597,
+    "longitude": -83.7002582,
+    "other_names": {
+      "name": "Pinar del Río",
+      "name:en": "Pinar del Rio",
+      "name:hu": "Pinar del Río",
+      "name:ru": "Пинар-дель-Рио"
+    }
+  },
+  {
+    "name": "Pindamonhangaba",
+    "country": "Brazil",
+    "latitude": -22.934016500076094,
+    "longitude": -45.462938,
+    "other_names": {
+      "name": "Pindamonhangaba"
+    }
+  },
+  {
+    "name": "Pine Bluff",
+    "country": "United States Of America",
+    "latitude": 34.21570639960948,
+    "longitude": -92.0140402,
+    "other_names": {
+      "name": "Pine Bluff"
+    }
+  },
+  {
+    "name": "Pinellas Park",
+    "country": "United States Of America",
+    "latitude": 27.842802499963817,
+    "longitude": -82.69954439999998,
+    "other_names": {
+      "name": "Pinellas Park"
+    }
+  },
+  {
+    "name": "Ping'an",
+    "country": "China",
+    "latitude": 36.50009889978875,
+    "longitude": 102.1061276,
+    "other_names": {
+      "name": "平安区",
+      "name:de": "Ping'an",
+      "name:en": "Ping'an",
+      "name:es": "Ping'an",
+      "name:fr": "Ping'an",
+      "name:ja": "平安区",
+      "name:ru": "Пинъань",
+      "name:vi": "Bình An",
+      "name:zh": "平安区",
+      "alt_name": "平安区",
+      "int_name": "Ping'an",
+      "old_name": "平安县",
+      "name:zh-Hant": "平安區"
+    }
+  },
+  {
+    "name": "Pingba",
+    "country": "China",
+    "latitude": 26.41692830012103,
+    "longitude": 106.26183349999998,
+    "other_names": {
+      "name": "平坝区",
+      "name:en": "Pingba",
+      "name:vi": "Bình Bá",
+      "name:zh": "平坝区",
+      "alt_name": "平坝;Pingba",
+      "old_name": "平坝县;Pingba County",
+      "name:zh-Hant": "平壩區",
+      "name:zh_pinyin": "píngbà ōu"
+    }
+  },
+  {
+    "name": "Pingbian",
+    "country": "China",
+    "latitude": 22.990116400384398,
+    "longitude": 103.6875618,
+    "other_names": {
+      "name": "屏边苗族自治县",
+      "name:en": "Pingbian",
+      "name:ru": "Юйпин",
+      "name:vi": "Bình Biên",
+      "name:zh": "屏边苗族自治县",
+      "old_name": "靖边;Pingbian Miao Autonomous County",
+      "short_name": "屏边县",
+      "name:zh-Hant": "屏邊苗族自治縣",
+      "official_name": "屏边苗族自治县",
+      "name:zh_pinyin": "pǐngbiān miáozú zìzhì xiàn"
+    }
+  },
+  {
+    "name": "Pingchang",
+    "country": "China",
+    "latitude": 31.564046599627897,
+    "longitude": 107.09782049999998,
+    "other_names": {
+      "name": "平昌县",
+      "name:en": "Pingchang",
+      "name:ja": "平昌県",
+      "name:zh": "平昌县",
+      "alt_name": "平昌;江口镇;江口;Jiangkou;Pingchang County",
+      "name:zh-Hant": "平昌縣"
+    }
+  }
+]

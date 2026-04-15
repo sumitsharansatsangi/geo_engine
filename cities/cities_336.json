@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Ninglang",
+    "country": "China",
+    "latitude": 27.281906700026596,
+    "longitude": 100.8474839,
+    "other_names": {
+      "name": "宁蒗县",
+      "name:en": "Ninglang",
+      "name:ja": "寧ロウ県",
+      "name:ru": "Дасин",
+      "name:uk": "Нінлан",
+      "name:vi": "Ninh Lạng",
+      "name:zh": "宁蒗县",
+      "alt_name": "宁蒗彝族自治县;大兴镇;Daxing",
+      "short_name": "宁蒗县",
+      "name:zh-Hant": "寧蒗縣",
+      "official_name": "宁蒗彝族自治县",
+      "official_name:ja": "寧ロウイ族自治県",
+      "official_name:zh": "宁蒗彝族自治县",
+      "official_name:zh_pinyin": "Nínglàng yízú zìzhì xiàn"
+    }
+  },
+  {
+    "name": "Ningling",
+    "country": "China",
+    "latitude": 34.44624209961962,
+    "longitude": 115.3135337,
+    "other_names": {
+      "name": "宁陵县",
+      "name:en": "Ningling",
+      "name:vi": "Ninh Lăng",
+      "name:zh": "宁陵县",
+      "alt_name": "宁陵;Ningling County",
+      "name:zh-Hant": "寧陵縣",
+      "name:zh_pinyin": "Ningling Xian"
+    }
+  },
+  {
+    "name": "Ningming",
+    "country": "China",
+    "latitude": 22.13682220040666,
+    "longitude": 107.0675595,
+    "other_names": {
+      "name": "宁明县",
+      "name:en": "Ningming",
+      "name:zh": "宁明县",
+      "alt_name": "宁明;Ningming County",
+      "name:yue": "宁明县",
+      "name:zh-Hant": "寧明縣",
+      "name:yue-Latn": "Ningming-hyun",
+      "name:zh_pinyin": "Níngmíng Xiàn"
+    }
+  },
+  {
+    "name": "Ningnan",
+    "country": "China",
+    "latitude": 27.0640370000508,
+    "longitude": 102.74924759999999,
+    "other_names": {
+      "name": "宁南县",
+      "name:en": "Ningnan",
+      "name:vi": "Ninh Nam",
+      "name:zh": "宁南县",
+      "alt_name": "宁南;Ningnan County",
+      "int_name": "Ningnan",
+      "name:zh-Hant": "寧南縣",
+      "name:zh_pinyin": "níngnán xiàn"
+    }
+  },
+  {
+    "name": "Ningqiang",
+    "country": "China",
+    "latitude": 32.831236599588784,
+    "longitude": 106.25478979999998,
+    "other_names": {
+      "name": "宁强县",
+      "name:en": "Ningqiang",
+      "name:ja": "寧強県",
+      "name:vi": "Ninh Cường",
+      "name:zh": "宁强县",
+      "alt_name": "宁强县;宁强;汉源镇",
+      "int_name": "Ningqiang",
+      "name:zh-Hant": "寧強縣"
+    }
+  },
+  {
+    "name": "Ningshan",
+    "country": "China",
+    "latitude": 33.315125499588206,
+    "longitude": 108.3078261,
+    "other_names": {
+      "name": "宁陕县",
+      "name:en": "Ningshan",
+      "name:ja": "寧陝県",
+      "name:vi": "Ninh Thiểm",
+      "name:zh": "宁陕县",
+      "alt_name": "宁陕;城关镇;城关",
+      "int_name": "Ningshan",
+      "name:zh-Hant": "寧陝縣"
+    }
+  },
+  {
+    "name": "Ningwu",
+    "country": "China",
+    "latitude": 39.00038420012597,
+    "longitude": 112.30119559999999,
+    "other_names": {
+      "name": "宁武县",
+      "name:en": "Ningwu",
+      "name:ja": "寧武県",
+      "name:ru": "Нинъу",
+      "name:vi": "Ninh Vũ",
+      "name:zh": "宁武县",
+      "alt_name": "宁武;Ting-wu;Ning-wu-hsien;Ningwufu;Nin'u",
+      "name:zh-Hant": "寧武縣"
+    }
+  },
+  {
+    "name": "Ningxian",
+    "country": "China",
+    "latitude": 35.509031999690365,
+    "longitude": 107.90875149999998,
+    "other_names": {
+      "name": "宁县",
+      "name:en": "Ningxian",
+      "name:ja": "寧県",
+      "name:zh": "宁县",
+      "alt_name": "新宁镇;宁;Xinning",
+      "name:zh-Hant": "寧縣",
+      "official_name": "新宁镇",
+      "name:zh_pinyin": "níng xiàn"
+    }
+  },
+  {
+    "name": "Ningxiang",
+    "country": "China",
+    "latitude": 28.2794128999152,
+    "longitude": 112.5465696,
+    "other_names": {
+      "name": "宁乡市",
+      "name:de": "Ningxiang",
+      "name:en": "Ningxiang",
+      "name:es": "Ningxiang",
+      "name:eu": "Ningxiang konderria",
+      "name:fr": "Xian de Ningxiang",
+      "name:id": "Ningxiang",
+      "name:it": "Ningxiang",
+      "name:ja": "寧郷市",
+      "name:ko": "닝샹시",
+      "name:no": "Ningxiang",
+      "name:ru": "Нинсян",
+      "name:sv": "Ningxiang",
+      "name:vi": "Ninh Hương",
+      "name:zh": "宁乡市",
+      "alt_name": "宁乡;Ningxiang City",
+      "name:hak": "Nèn-hiông-yen",
+      "name:nan": "Lêng-hiong-chhī",
+      "name:wuu": "宁乡县",
+      "name:yue": "寧鄉",
+      "old_name": "宁乡县;Ningxiang Xian;Ning-hsiang Hsien",
+      "name:zh-Hant": "寧鄉市",
+      "name:zh_pinyin": "Níngxiāng Shì"
+    }
+  },
+  {
+    "name": "Ningyang",
+    "country": "China",
+    "latitude": 35.759066299712444,
+    "longitude": 116.80010309999999,
+    "other_names": {
+      "name": "宁阳县",
+      "name:en": "Ningyang",
+      "name:zh": "宁阳县",
+      "name:zh-Hant": "寧陽縣"
+    }
+  },
+  {
+    "name": "Ningyuan",
+    "country": "China",
+    "latitude": 25.573278800206182,
+    "longitude": 111.9408131,
+    "other_names": {
+      "name": "宁远县",
+      "name:de": "Ningyuan",
+      "name:en": "Ningyuan",
+      "name:fa": "شهرستان نینگیوان",
+      "name:fr": "Xian de Ningyuan",
+      "name:it": "Contea di Ningyuan",
+      "name:ja": "寧遠県",
+      "name:ko": "닝위안현",
+      "name:no": "Ningyuan",
+      "name:ru": "Нинъюань",
+      "name:sv": "Ningyuan",
+      "name:vi": "Ninh Viễn",
+      "name:zh": "宁远县",
+      "alt_name": "宁远;Ningyuan County",
+      "name:ceb": "Ningyuan Xian",
+      "name:nan": "Lêng-oán-koān",
+      "name:yue": "寧遠",
+      "name:zh-Hant": "寧遠縣",
+      "name:zh_pinyin": "níngyuǎn xiàn"
+    }
+  },
+  {
+    "name": "Ninh Bình",
+    "country": "Vietnam",
+    "latitude": 20.254542100383105,
+    "longitude": 105.9764854,
+    "other_names": {
+      "name": "Ninh Bình",
+      "name:de": "Ninh Binh",
+      "name:en": "Ninh Bình",
+      "name:ja": "ニンビン",
+      "name:ko": "닌빈",
+      "name:ru": "Ниньбинь",
+      "name:uk": "Ніньбінь",
+      "name:zh": "宁平市"
+    }
+  },
+  {
+    "name": "Ninohe",
+    "country": "Japan",
+    "latitude": 40.27108190030339,
+    "longitude": 141.304674,
+    "other_names": {
+      "name": "二戸市",
+      "name:ar": "نينوهي، إيواته",
+      "name:de": "Ninohe",
+      "name:en": "Ninohe",
+      "name:es": "Ninohe",
+      "name:fr": "Ninohe",
+      "name:ja": "二戸市",
+      "name:ko": "니노헤시",
+      "name:lt": "Ninohė",
+      "name:pl": "Ninohe",
+      "name:ru": "Нинохе",
+      "name:uk": "Нінохе",
+      "int_name": "Ninohe",
+      "name:ja_rm": "Ninohe-shi",
+      "name:ja_kana": "にのへし"
+    }
+  },
+  {
+    "name": "Nirasaki",
+    "country": "Japan",
+    "latitude": 35.717517999708626,
+    "longitude": 138.409373,
+    "other_names": {
+      "name": "韮崎市",
+      "name:ar": "نيراساكي، ياماناشي",
+      "name:de": "Nirasaki",
+      "name:en": "Nirasaki",
+      "name:es": "Nirasaki",
+      "name:fr": "Nirasaki",
+      "name:ja": "韮崎市",
+      "name:ko": "니라사키시",
+      "name:pl": "Nirasaki",
+      "name:ru": "Нирасаки",
+      "name:uk": "Нірасакі",
+      "name:ja_rm": "Nirasaki City",
+      "name:ja_kana": "にらさきし"
+    }
+  },
+  {
+    "name": "Nirgua",
+    "country": "Venezuela",
+    "latitude": 10.155704985275216,
+    "longitude": -68.5653280160774,
+    "other_names": {
+      "name": "Nirgua"
+    }
+  },
+  {
+    "name": "Nirgua",
+    "country": "Venezuela",
+    "latitude": 10.152482299445754,
+    "longitude": -68.56488539999998,
+    "other_names": {
+      "name": "Nirgua"
+    }
+  },
+  {
+    "name": "Niš",
+    "country": "Serbia",
+    "latitude": 43.321130100541616,
+    "longitude": 21.8959232,
+    "other_names": {
+      "name": "Ниш",
+      "name:ar": "نيش",
+      "name:bg": "Ниш",
+      "name:da": "Niš",
+      "name:de": "Niš",
+      "name:el": "Νις",
+      "name:en": "Niš",
+      "name:es": "Niš",
+      "name:et": "Niš",
+      "name:fr": "Niš",
+      "name:he": "ניש",
+      "name:hr": "Niš",
+      "name:it": "Niš",
+      "name:la": "Naissus",
+      "name:lt": "Nišas",
+      "name:lv": "Niša",
+      "name:nl": "Niš",
+      "name:pl": "Nisz",
+      "name:pt": "Nish",
+      "name:ro": "Niș",
+      "name:ru": "Ниш",
+      "name:sl": "Niš",
+      "name:sq": "Nishi",
+      "name:sr": "Ниш",
+      "name:tr": "Niş",
+      "old_name:de": "Nisch",
+      "old_name:it": "Nissa",
+      "name:sr-Latn": "Niš",
+      "name:zh-Hans": "尼什",
+      "name:zh-Hant": "尼什"
+    }
+  },
+  {
+    "name": "Niš",
+    "country": "Serbia",
+    "latitude": 43.316162774127044,
+    "longitude": 21.899813121086257,
+    "other_names": {
+      "name": "Ниш",
+      "name:ar": "نيش",
+      "name:bg": "Ниш",
+      "name:da": "Niš",
+      "name:de": "Niš",
+      "name:el": "Νις",
+      "name:en": "Niš",
+      "name:es": "Niš",
+      "name:et": "Niš",
+      "name:fr": "Niš",
+      "name:he": "ניש",
+      "name:hr": "Niš",
+      "name:la": "Naissus",
+      "name:lt": "Nišas",
+      "name:lv": "Niša",
+      "name:nl": "Niš",
+      "name:pl": "Nisz",
+      "name:pt": "Nish",
+      "name:ro": "Niș",
+      "name:ru": "Ниш",
+      "name:sl": "Niš",
+      "name:sq": "Nishi",
+      "name:sr": "Ниш",
+      "name:tr": "Niş",
+      "old_name:de": "Nisch",
+      "name:sr-Latn": "Niš",
+      "name:zh-Hans": "尼什",
+      "name:zh-Hant": "尼什"
+    }
+  },
+  {
+    "name": "Nishinomiya",
+    "country": "Japan",
+    "latitude": 34.7386032996352,
+    "longitude": 135.33941379999996,
+    "other_names": {
+      "name": "西宮市",
+      "name:ar": "نيشينومايا، هيوغو",
+      "name:de": "Nishinomiya",
+      "name:en": "Nishinomiya",
+      "name:es": "Nishinomiya",
+      "name:fr": "Nishinomiya",
+      "name:ja": "西宮市",
+      "name:ko": "니시노미야시",
+      "name:pl": "Nishinomiya",
+      "name:ru": "Нисиномия",
+      "name:uk": "Нішіномія",
+      "name:ja_rm": "Nishinomiya-shi"
+    }
+  },
+  {
+    "name": "Nishinoomote",
+    "country": "Japan",
+    "latitude": 30.732535599679867,
+    "longitude": 130.99707859999998,
+    "other_names": {
+      "name": "西之表市",
+      "name:ar": "نيشينوموتي، كاغوشيما",
+      "name:cs": "Nišinoomote",
+      "name:de": "Nishinoomote",
+      "name:en": "Nishinoomote",
+      "name:es": "Nishinoomote",
+      "name:fr": "Nishinoomote",
+      "name:ja": "西之表市",
+      "name:ko": "니시노오모테시",
+      "name:ru": "Нисиноомоте",
+      "name:uk": "Нішіноомоте",
+      "name:zh": "西之表市",
+      "int_name": "Nishinoomote",
+      "name:ja-Hira": "にしのおもてし",
+      "name:ja-Latn": "Nishinoomote-shi",
+      "name:zh-Hans": "西之表市",
+      "name:zh-Hant": "西之表市"
+    }
+  }
+]

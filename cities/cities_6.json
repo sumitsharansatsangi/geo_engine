@@ -1,0 +1,391 @@
+[
+  {
+    "name": "Ahmadnagar",
+    "country": "India",
+    "latitude": 19.092952000320853,
+    "longitude": 74.7493451,
+    "other_names": {
+      "name": "Ahmadnagar",
+      "name:ar": "أحمد نغر",
+      "name:fa": "احمدنگر",
+      "name:gu": "અહમદનગર",
+      "name:hi": "अहमदनगर",
+      "name:kn": "ಅಹಮದನ್ಗರ್",
+      "name:mr": "अहमदनगर",
+      "name:ru": "Ахмеднагар",
+      "name:sd": "احمد نگر",
+      "name:ur": "احمد نگر",
+      "name:azb": "احمدنقر",
+      "name:pnb": "احمد نگر",
+      "alt_name:ar": "أحمدناجار"
+    }
+  },
+  {
+    "name": "Ahmedabad",
+    "country": "India",
+    "latitude": 23.021623800383193,
+    "longitude": 72.57970679999998,
+    "other_names": {
+      "name": "Ahmedabad",
+      "name:ar": "أحمد آباد",
+      "name:cs": "Ahmadábád",
+      "name:de": "Ahmedabad",
+      "name:en": "Ahmedabad",
+      "name:eo": "Ahmadabado",
+      "name:gu": "અમદાવાદ",
+      "name:he": "אחמדאבאד",
+      "name:hi": "अहमदाबाद",
+      "name:ja": "アフマダーバード",
+      "name:kn": "ಅಹ್ಮದಾಬಾದ್",
+      "name:ml": "അഹമ്മദാബാദ്",
+      "name:oc": "Ahmadabad",
+      "name:or": "ଅହମଦାବାଦ",
+      "name:pa": "ਅਹਿਮਦਾਬਾਦ",
+      "name:pl": "Ahmadabad",
+      "name:ru": "Ахмадабад",
+      "name:ta": "அகமதாபாத்",
+      "name:uk": "Ахмедабад",
+      "name:ur": "احمد آباد",
+      "name:zh": "艾哈迈达巴德",
+      "int_name": "Ahmedabad",
+      "name:ckb": "ئەحمەدئاباد"
+    }
+  },
+  {
+    "name": "Ahtaung",
+    "country": "Myanmar",
+    "latitude": 17.3490582001715,
+    "longitude": 95.33439459999998,
+    "other_names": {
+      "name": "Ahtaung",
+      "name:my": "အထောင်မြို့"
+    }
+  },
+  {
+    "name": "Ahuachapan",
+    "country": "El Salvador",
+    "latitude": 13.923419199781334,
+    "longitude": -89.8462907,
+    "other_names": {
+      "name": "Ahuachapán",
+      "name:en": "Ahuachapan",
+      "name:fr": "Ahuachapan",
+      "name:hu": "Ahuachapán",
+      "name:ru": "Ауачапан"
+    }
+  },
+  {
+    "name": "Ahwaz",
+    "country": "Iran",
+    "latitude": 31.322993599641006,
+    "longitude": 48.6793316,
+    "other_names": {
+      "name": "اهواز",
+      "name:ar": "الأهواز",
+      "name:cs": "Ahváz",
+      "name:de": "Ahwas",
+      "name:en": "Ahwaz",
+      "name:es": "Ahvaz",
+      "name:et": "Ahvāz",
+      "name:fi": "Ahvāz",
+      "name:fr": "Ahvaz",
+      "name:he": "אהוואז",
+      "name:hi": "अहवाज़",
+      "name:ja": "アフヴァーズ",
+      "name:ku": "Ehvaz",
+      "name:ml": "അഹ്വാസ്",
+      "name:pl": "Ahwaz",
+      "name:pt": "Ahvaz",
+      "name:ru": "Ахваз",
+      "name:tr": "Ahvaz",
+      "name:uk": "Ахваз",
+      "name:ur": "اہواز",
+      "name:pnb": "اہواز",
+      "alt_name:ar": "الأحواز;أهواز"
+    }
+  },
+  {
+    "name": "Aiea",
+    "country": "United States Of America",
+    "latitude": 21.382222200409227,
+    "longitude": -157.9336111,
+    "other_names": {
+      "name": "Aiea",
+      "name:en": "Aiea"
+    }
+  },
+  {
+    "name": "Ain Beida",
+    "country": "Algeria",
+    "latitude": 35.795283899715805,
+    "longitude": 7.389434600000001,
+    "other_names": {
+      "name": "Aïn Beïda ⵄⵉⵏ ⵍⴱⴰⵢⴹⴰ عين البيضاء",
+      "name:ar": "عين البيضاء",
+      "name:en": "Ain Beida",
+      "name:fr": "Aïn Beïda",
+      "name:ru": "Айн-Бейда",
+      "name:zh": "艾因贝达",
+      "name:ber": "ⵄⵉⵏ ⵍⴱⴰⵢⴹⴰ",
+      "name:kab": "Ɛin Lbayḍa"
+    }
+  },
+  {
+    "name": "Aino Maina",
+    "country": "Afghanistan",
+    "latitude": 31.64998659236659,
+    "longitude": 65.78470608006826,
+    "other_names": {
+      "name": "عینو مېنه",
+      "name:en": "Aino Maina",
+      "name:ps": "عینو مېنه",
+      "alt_name": "عینو مېنه"
+    }
+  },
+  {
+    "name": "Ain Oussara",
+    "country": "Algeria",
+    "latitude": 35.44925819968538,
+    "longitude": 2.9071064999999994,
+    "other_names": {
+      "name": "Aïn Oussara ⵄⵉⵏ ⵡⴻⵙⵙⴰⵔⴰ عين وسارة",
+      "name:ar": "عين وسارة",
+      "name:de": "Ain Oussara",
+      "name:el": "Αΐν Ουσσέρα",
+      "name:en": "Ain Oussara",
+      "name:es": "Ain Oussara",
+      "name:fr": "Aïn Oussara",
+      "name:it": "Aïn Oussara",
+      "name:ru": "Айн-Усера",
+      "name:zh": "艾因烏塞拉",
+      "name:ber": "ⵄⵉⵏ ⵡⴻⵙⵙⴰⵔⴰ",
+      "name:kab": "Ɛin Wessara"
+    }
+  },
+  {
+    "name": "Aioi",
+    "country": "Japan",
+    "latitude": 34.80974559963944,
+    "longitude": 134.4719626,
+    "other_names": {
+      "name": "相生市",
+      "name:ar": "أيوي، هيوغو",
+      "name:de": "Aioi",
+      "name:en": "Aioi",
+      "name:es": "Aioi",
+      "name:fr": "Aioi",
+      "name:ja": "相生市",
+      "name:ko": "아이오이시",
+      "name:pl": "Aioi",
+      "name:ru": "Аиои",
+      "name:uk": "Айой",
+      "name:ja_rm": "Aioi"
+    }
+  },
+  {
+    "name": "Aira",
+    "country": "Japan",
+    "latitude": 31.728281599619944,
+    "longitude": 130.6276569,
+    "other_names": {
+      "name": "姶良市",
+      "name:ar": "إيرا",
+      "name:de": "Aira",
+      "name:en": "Aira",
+      "name:es": "Aira",
+      "name:fr": "Aira",
+      "name:ja": "姶良市",
+      "name:ko": "아이라시",
+      "name:ru": "Аира",
+      "name:uk": "Айра",
+      "name:zh": "姶良市",
+      "int_name": "Aira",
+      "name:ja-Hira": "あいらし",
+      "name:ja-Latn": "Aira-Shi",
+      "name:zh-Hans": "姶良市",
+      "name:zh-Hant": "姶良市"
+    }
+  },
+  {
+    "name": "Airdrie",
+    "country": "Canada",
+    "latitude": 51.285969999203,
+    "longitude": -114.01062,
+    "other_names": {
+      "name": "Airdrie"
+    }
+  },
+  {
+    "name": "Aisai",
+    "country": "Japan",
+    "latitude": 35.1422049996616,
+    "longitude": 136.727208,
+    "other_names": {
+      "name": "愛西市",
+      "name:ar": "آيساي، آيتشي",
+      "name:de": "Aisai",
+      "name:en": "Aisai",
+      "name:es": "Aisai",
+      "name:fr": "Aisai",
+      "name:ja": "愛西市",
+      "name:ko": "아이사이시",
+      "name:lt": "Aisajus",
+      "name:pl": "Aisai",
+      "name:ru": "Айсай",
+      "name:uk": "Айсай",
+      "name:ja_rm": "Aisai-shi",
+      "name:ja_kana": "あいさいし"
+    }
+  },
+  {
+    "name": "Aix-en-Provence",
+    "country": "France",
+    "latitude": 43.52984240054177,
+    "longitude": 5.447473799999999,
+    "other_names": {
+      "name": "Aix-en-Provence",
+      "name:an": "Ais de Provença",
+      "name:ar": "آكس أون بروفانس",
+      "name:bg": "Екс ан Прованс",
+      "name:ca": "Ais de Provença",
+      "name:el": "Αιξ-αν-Προβάνς",
+      "name:eo": "Aikso Provenca",
+      "name:he": "אקס-אן-פרובאנס",
+      "name:hu": "Aix-en-Provence",
+      "name:ja": "エクス＝アン＝プロヴァンス",
+      "name:ko": "엑상프로방스",
+      "name:la": "Aquae Sextiae",
+      "name:lt": "Provanso Eksas",
+      "name:oc": "Ais de Provença",
+      "name:ru": "Экс-ан-Прованс",
+      "name:sr": "Екс ан Прованс",
+      "name:uk": "Єкс-ан-Прованс",
+      "name:zh": "艾克斯",
+      "name:zh-Hans": "艾克斯",
+      "name:zh-Hant": "艾克斯"
+    }
+  },
+  {
+    "name": "Aizawl",
+    "country": "India",
+    "latitude": 23.74352360034839,
+    "longitude": 92.7382905,
+    "other_names": {
+      "name": "Aizawl",
+      "name:ar": "آيزول",
+      "name:bn": "আইজল",
+      "name:de": "Aizawl",
+      "name:en": "Aizawl",
+      "name:es": "Aizawl",
+      "name:fa": "آیزول",
+      "name:fr": "Aizawl",
+      "name:hi": "आइज़ोल",
+      "name:ja": "アイザウル",
+      "name:kn": "ಐಜ್ವಾಲ್",
+      "name:ko": "아이졸",
+      "name:pa": "ਆਈਜ਼ੋਲ",
+      "name:ta": "அய்சால்",
+      "name:ur": "آئیزول",
+      "name:lus": "Aizawl",
+      "alt_name:ar": "آيزاول",
+      "alt_name:hi": "आइजोल"
+    }
+  },
+  {
+    "name": "Aizuwakamatsu",
+    "country": "Japan",
+    "latitude": 37.48042999991053,
+    "longitude": 139.942135,
+    "other_names": {
+      "name": "会津若松市",
+      "name:ar": "أيزواكاماتسو، فوكوشيما",
+      "name:de": "Aizuwakamatsu",
+      "name:en": "Aizuwakamatsu",
+      "name:es": "Aizuwakamatsu",
+      "name:fr": "Aizu-Wakamatsu",
+      "name:ja": "会津若松市",
+      "name:ko": "아이즈와카마쓰시",
+      "name:lt": "Aidzuvakamacu",
+      "name:pl": "Aizu-Wakamatsu",
+      "name:ru": "Айдзувакамацу",
+      "name:uk": "Айдзу-Вакамацу",
+      "int_name": "Aizuwakamatsu",
+      "name:ja_rm": "Aizu-Wakamatsu-shi",
+      "name:ja_kana": "あいづわかまつし"
+    }
+  },
+  {
+    "name": "Ajaccio",
+    "country": "France",
+    "latitude": 41.92639910048066,
+    "longitude": 8.737602899999999,
+    "other_names": {
+      "name": "Ajaccio",
+      "name:ar": "أجاكسيو",
+      "name:be": "Аячча",
+      "name:ca": "Aiacciu",
+      "name:co": "Aiacciu",
+      "name:el": "Αιάκειο",
+      "name:fa": "آژاکسیو",
+      "name:fr": "Ajaccio",
+      "name:ja": "アジャクシオ",
+      "name:lt": "Ajačas",
+      "name:ru": "Аяччо",
+      "name:uk": "Аяччо",
+      "name:ur": "اژاکسیو",
+      "name:zh": "阿雅克肖",
+      "reg_name": "Aiacciu"
+    }
+  },
+  {
+    "name": "Ajax",
+    "country": "Canada",
+    "latitude": 43.85052870053699,
+    "longitude": -79.0208814,
+    "other_names": {
+      "name": "Ajax"
+    }
+  },
+  {
+    "name": "Ajdabiya",
+    "country": "Libya",
+    "latitude": 30.75500349967822,
+    "longitude": 20.223325699999997,
+    "other_names": {
+      "name": "إجدابيا",
+      "name:ar": "إجدابيا",
+      "name:de": "Adschdabiya",
+      "name:en": "Ajdabiya",
+      "name:et": "Ajdābiyā",
+      "name:fa": "اجدابیا",
+      "name:fr": "Ajdabiya",
+      "name:it": "Agedabia",
+      "name:pl": "Adżdabija",
+      "name:ru": "Адждабия",
+      "name:uk": "Адждабія",
+      "alt_name": "اجدابيا;أجدابيا",
+      "alt_name:ar": "اجدابيا;أجدابيا"
+    }
+  },
+  {
+    "name": "Ajmer",
+    "country": "India",
+    "latitude": 26.46910000011549,
+    "longitude": 74.639,
+    "other_names": {
+      "name": "Ajmer",
+      "name:ar": "أجمير",
+      "name:en": "Ajmer",
+      "name:fa": "اجمیر",
+      "name:gu": "અજમેર",
+      "name:he": "אג'מר",
+      "name:hi": "अजमेर",
+      "name:ja": "アジュメール",
+      "name:kn": "ಅಜ್ಮೇರ್",
+      "name:ru": "Аджмер",
+      "name:ta": "அஜ்மீர்",
+      "name:te": "అజ్మీర్",
+      "name:ur": "اجمير"
+    }
+  }
+]

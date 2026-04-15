@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Sori Malé",
+    "country": "Mauritania",
+    "latitude": 16.954085100130545,
+    "longitude": -13.3789128,
+    "other_names": {
+      "name": "مال",
+      "name:ar": "مال",
+      "name:de": "Sori Malé",
+      "name:en": "Sori Malé",
+      "name:es": "Sori Malé",
+      "name:fr": "Sori Malé",
+      "alt_name": "سوري مالي",
+      "alt_name:ar": "سوري مالي"
+    }
+  },
+  {
+    "name": "Soroca",
+    "country": "Moldova",
+    "latitude": 48.15859229229211,
+    "longitude": 28.288143808420326,
+    "other_names": {
+      "name": "Soroca",
+      "name:en": "Soroca",
+      "name:fr": "Soroca",
+      "name:ru": "Сороки"
+    }
+  },
+  {
+    "name": "Soroca",
+    "country": "Moldova",
+    "latitude": 48.157128599899956,
+    "longitude": 28.299605200000002,
+    "other_names": {
+      "name": "Soroca",
+      "name:bg": "Сороки",
+      "name:pl": "Soroki",
+      "name:ru": "Сороки",
+      "name:uk": "Сороки"
+    }
+  },
+  {
+    "name": "Soroca",
+    "country": "Ukraine",
+    "latitude": 48.15859229229211,
+    "longitude": 28.288143808420326,
+    "other_names": {
+      "name": "Soroca",
+      "name:en": "Soroca",
+      "name:fr": "Soroca",
+      "name:ru": "Сороки"
+    }
+  },
+  {
+    "name": "Sorocaba",
+    "country": "Brazil",
+    "latitude": -23.500679099997093,
+    "longitude": -47.457379499999995,
+    "other_names": {
+      "name": "Sorocaba"
+    }
+  },
+  {
+    "name": "Sorong",
+    "country": "Indonesia",
+    "latitude": -0.8634104999150133,
+    "longitude": 131.2544805,
+    "other_names": {
+      "name": "Sorong",
+      "name:en": "Sorong",
+      "name:ja": "ソロン",
+      "name:ru": "Соронг",
+      "name:uk": "Соронг",
+      "name:zh": "索龍"
+    }
+  },
+  {
+    "name": "Sorsogon City",
+    "country": "Philippines",
+    "latitude": 12.970784799676146,
+    "longitude": 124.0052543,
+    "other_names": {
+      "name": "Sorsogon City",
+      "name:et": "Sorsogon",
+      "name:ja": "ソルソゴン"
+    }
+  },
+  {
+    "name": "Sosa",
+    "country": "Japan",
+    "latitude": 35.707939999707776,
+    "longitude": 140.5645144,
+    "other_names": {
+      "name": "匝瑳市",
+      "name:ar": "سوسا، تشيبا",
+      "name:de": "Sosa",
+      "name:en": "Sosa",
+      "name:es": "Sosa",
+      "name:fr": "Sosa",
+      "name:ja": "匝瑳市",
+      "name:ko": "소사시",
+      "name:ru": "Соса",
+      "name:uk": "Соса",
+      "int_name": "Sosa",
+      "name:ja_rm": "Sousa-shi",
+      "name:ja_kana": "そうさし"
+    }
+  },
+  {
+    "name": "Sosnowiec",
+    "country": "Poland",
+    "latitude": 50.278083399390724,
+    "longitude": 19.1342944,
+    "other_names": {
+      "name": "Sosnowiec",
+      "name:ar": "سوسنوفييتس",
+      "name:be": "Горад Сасновец",
+      "name:bg": "Сосновец",
+      "name:de": "Sosnowitz",
+      "name:fa": "ساسنوویتس",
+      "name:he": "סוסנוביץ",
+      "name:hy": "Սոսնովեց",
+      "name:ja": "ソスノヴィエツ",
+      "name:ko": "소스노비에츠",
+      "name:lt": "Sosnovecas",
+      "name:lv": "Sosnoveca",
+      "name:mk": "Сосновјец",
+      "name:pl": "Sosnowiec",
+      "name:ru": "Сосновец",
+      "name:sr": "Сосновјец",
+      "name:th": "ซอสนอวีแยตส์",
+      "name:tt": "Сосновец",
+      "name:uk": "Сосновець",
+      "name:yi": "סאסנאווצע",
+      "name:zh": "索斯诺维茨"
+    }
+  },
+  {
+    "name": "Soubré",
+    "country": "Ivory Coast",
+    "latitude": 5.7852672994563585,
+    "longitude": -6.5928329,
+    "other_names": {
+      "name": "Soubré",
+      "name:ar": "سوبري"
+    }
+  },
+  {
+    "name": "Souk Ahras",
+    "country": "Algeria",
+    "latitude": 36.28483199976501,
+    "longitude": 7.951546599999999,
+    "other_names": {
+      "name": "Souk Ahras ⵜⴰⴳⴰⵙⵜ سوق أهراس",
+      "name:ar": "سوق أهراس",
+      "name:el": "Σουκ Αχράς",
+      "name:en": "Souk Ahras",
+      "name:fr": "Souk Ahras",
+      "name:ja": "スーク・アフラース",
+      "name:ko": "수크아라스",
+      "name:lt": "Suk Ahrasas",
+      "name:ru": "Сук-Ахрас",
+      "name:zh": "苏格艾赫拉斯",
+      "name:ber": "ⵜⴰⴳⴰⵙⵜ",
+      "name:kab": "Tagast"
+    }
+  },
+  {
+    "name": "Sousse",
+    "country": "Tunisia",
+    "latitude": 35.83232968433106,
+    "longitude": 10.610772461271496,
+    "other_names": {
+      "name": "سوسة",
+      "name:ar": "سوسة",
+      "name:ca": "Sussa",
+      "name:cs": "Súsa",
+      "name:de": "Sousse",
+      "name:en": "Sousse",
+      "name:eo": "Sousse",
+      "name:es": "Susa",
+      "name:et": "Sousse",
+      "name:fa": "سوسه",
+      "name:fr": "Sousse",
+      "name:he": "סוסה",
+      "name:hr": "Sousse",
+      "name:hu": "Szúsza",
+      "name:it": "Susa",
+      "name:ja": "スース",
+      "name:ko": "수스",
+      "name:ks": "سوسہ",
+      "name:lt": "Susas",
+      "name:nl": "Sousse",
+      "name:pl": "Susa",
+      "name:pt": "Sousse",
+      "name:ro": "Sousse",
+      "name:ru": "Сус",
+      "name:uk": "Сус",
+      "name:ur": "سوسہ",
+      "name:zh": "苏塞",
+      "name:azb": "سوسه",
+      "name:ber": "ⵙⵓⵙⴰ",
+      "name:ckb": "سوسە",
+      "name:kab": "Susa",
+      "name:ota": "سوسه"
+    }
+  },
+  {
+    "name": "Sousse",
+    "country": "Tunisia",
+    "latitude": 35.828817499718944,
+    "longitude": 10.640539199999997,
+    "other_names": {
+      "name": "سوسة",
+      "name:ar": "سوسة",
+      "name:ca": "Sussa",
+      "name:cs": "Súsa",
+      "name:de": "Sousse",
+      "name:en": "Sousse",
+      "name:eo": "Sousse",
+      "name:es": "Susa",
+      "name:et": "Sousse",
+      "name:fa": "سوسه",
+      "name:fr": "Sousse",
+      "name:he": "סוסה",
+      "name:hr": "Sousse",
+      "name:hu": "Szúsza",
+      "name:it": "Susa",
+      "name:ja": "スース",
+      "name:ko": "수스",
+      "name:ks": "سوسہ",
+      "name:lt": "Susas",
+      "name:nl": "Sousse",
+      "name:pl": "Susa",
+      "name:pt": "Sousse",
+      "name:ro": "Sousse",
+      "name:ru": "Сус",
+      "name:uk": "Сус",
+      "name:ur": "سوسہ",
+      "name:zh": "苏塞",
+      "name:azb": "سوسه",
+      "name:ber": "ⵙⵓⵙⴰ",
+      "name:ckb": "سوسە",
+      "name:kab": "Susa",
+      "name:ota": "سوسه"
+    }
+  },
+  {
+    "name": "Southampton",
+    "country": "England",
+    "latitude": 50.90253489926664,
+    "longitude": -1.404189,
+    "other_names": {
+      "name": "Southampton",
+      "name:ar": "سوثهامبتون",
+      "name:el": "Σαουθάμπτων",
+      "name:fa": "ساوت‌همپتون",
+      "name:hu": "Southampton",
+      "name:ko": "사우샘프턴",
+      "name:mk": "Саутхемптон",
+      "name:ru": "Саутгемптон",
+      "name:uk": "Саутгемптон",
+      "name:ur": "ساؤتھمپٹن",
+      "name:zh": "修咸頓",
+      "alt_name:ar": "ساوثهامبتون",
+      "name:zh-Hans": "南安普敦",
+      "name:zh-Hant": "南安普敦"
+    }
+  },
+  {
+    "name": "Southaven",
+    "country": "United States Of America",
+    "latitude": 34.98898179965092,
+    "longitude": -90.01259129999998,
+    "other_names": {
+      "name": "Southaven",
+      "name:ru": "Саутхейвен"
+    }
+  },
+  {
+    "name": "South Bend",
+    "country": "United States Of America",
+    "latitude": 41.68338130046062,
+    "longitude": -86.25000659999999,
+    "other_names": {
+      "name": "South Bend"
+    }
+  },
+  {
+    "name": "South Gate",
+    "country": "United States Of America",
+    "latitude": 33.946345599600036,
+    "longitude": -118.20098099999998,
+    "other_names": {
+      "name": "South Gate"
+    }
+  },
+  {
+    "name": "Southport",
+    "country": "Canada",
+    "latitude": 49.91819385436189,
+    "longitude": -98.27465389139306,
+    "other_names": {
+      "name": "Southport"
+    }
+  },
+  {
+    "name": "South Portland",
+    "country": "United States Of America",
+    "latitude": 43.641471600540804,
+    "longitude": -70.2408811,
+    "other_names": {
+      "name": "South Portland"
+    }
+  },
+  {
+    "name": "South San Francisco",
+    "country": "United States Of America",
+    "latitude": 37.653540299933915,
+    "longitude": -122.4168664,
+    "other_names": {
+      "name": "South San Francisco",
+      "name:en": "South San Francisco",
+      "name:ru": "Саус-Сан-Франциско",
+      "name:uk": "Саус-Сан-Франциско",
+      "name:zh": "南旧金山",
+      "name:zh-Hans": "南旧金山",
+      "name:zh-Hant": "南舊金山"
+    }
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Celaya",
+    "country": "Mexico",
+    "latitude": 20.521844500392483,
+    "longitude": -100.8139609,
+    "other_names": {
+      "name": "Celaya"
+    }
+  },
+  {
+    "name": "Celje",
+    "country": "Slovenia",
+    "latitude": 46.22938890030547,
+    "longitude": 15.2616828,
+    "other_names": {
+      "name": "Celje",
+      "name:de": "Cilli",
+      "name:el": "Τσέλιε",
+      "name:he": "צליה",
+      "name:hu": "Cille",
+      "name:ja": "ツェリェ",
+      "name:la": "Celeia",
+      "name:lt": "Celė",
+      "name:ru": "Целе",
+      "name:sl": "Celje",
+      "name:sr": "Цеље"
+    }
+  },
+  {
+    "name": "Cengong",
+    "country": "China",
+    "latitude": 27.17688010003829,
+    "longitude": 108.81196829999999,
+    "other_names": {
+      "name": "岑巩县",
+      "name:en": "Cengong",
+      "name:ru": "Сыян",
+      "name:zh": "岑巩县",
+      "alt_name": "岑巩",
+      "name:zh-Hant": "岑鞏縣"
+    }
+  },
+  {
+    "name": "Centennial",
+    "country": "United States Of America",
+    "latitude": 39.57915500020899,
+    "longitude": -104.87692269999998,
+    "other_names": {
+      "name": "Centennial"
+    }
+  },
+  {
+    "name": "Central Msallata",
+    "country": "Libya",
+    "latitude": 32.57992199959234,
+    "longitude": 14.041737099999999,
+    "other_names": {
+      "name": "مسلاتة المركز",
+      "pcode": "LY-22-10664",
+      "name:ar": "مسلاتة المركز",
+      "name:en": "Central Msallata",
+      "name:fr": "Msallata centrale"
+    }
+  },
+  {
+    "name": "Cenxi",
+    "country": "China",
+    "latitude": 22.92120290038694,
+    "longitude": 110.9898501,
+    "other_names": {
+      "name": "岑溪市",
+      "name:ar": "سينشي",
+      "name:de": "Cenxi",
+      "name:en": "Cenxi",
+      "name:fr": "Cenxi",
+      "name:it": "Cenxi",
+      "name:ja": "岑渓市",
+      "name:ki": "Cenxi",
+      "name:ko": "천시시",
+      "name:nl": "Cenxi",
+      "name:no": "Cenxi",
+      "name:ru": "Цэньси",
+      "name:sv": "Cenxi",
+      "name:ur": "سینشی",
+      "name:vi": "Sầm Khê",
+      "name:zh": "岑溪市",
+      "alt_name": "岑溪;Cenxi City",
+      "name:hak": "Chhém-hâi-sṳ",
+      "name:nan": "Gîm-khe-chhī",
+      "name:yue": "岑溪市",
+      "name:zh-Hant": "岑溪市",
+      "name:yue-Latn": "Samkai-si",
+      "name:zh_pinyin": "cénxī shì"
+    }
+  },
+  {
+    "name": "Cerro de Pasco",
+    "country": "Peru",
+    "latitude": -10.683592599980217,
+    "longitude": -76.2561123,
+    "other_names": {
+      "name": "Cerro de Pasco",
+      "name:de": "Cerro de Pasco",
+      "name:en": "Cerro de Pasco",
+      "name:es": "Cerro de Pasco",
+      "name:pl": "Cerro de Pasco",
+      "name:ru": "Серро-де-Паско",
+      "name:uk": "Серро-де-Паско"
+    }
+  },
+  {
+    "name": "České Budějovice",
+    "country": "Czech Republic",
+    "latitude": 48.97473569969859,
+    "longitude": 14.474285,
+    "other_names": {
+      "name": "České Budějovice",
+      "name:ar": "تشيسكي بوديوفيتسه",
+      "name:bg": "Ческе Будейовице",
+      "name:cs": "České Budějovice",
+      "name:de": "Budweis",
+      "name:el": "Τσέσκε Μπουντεγιόβιτσε",
+      "name:en": "České Budějovice",
+      "name:fa": "چسکه بودیوویتسه",
+      "name:ja": "チェスケー・ブジェヨヴィツェ",
+      "name:la": "Budovicium",
+      "name:lt": "Česke Budejovicai",
+      "name:pl": "Czeskie Budziejowice",
+      "name:ru": "Ческе-Будеёвице",
+      "name:sr": "Чешке Будјејовице",
+      "name:ur": "چسکے بودییوویتسے",
+      "alt_name:de": "Böhmisch Budweis"
+    }
+  },
+  {
+    "name": "Cessnock",
+    "country": "Australia",
+    "latitude": -32.83166669950496,
+    "longitude": 151.3511111,
+    "other_names": {
+      "name": "Cessnock",
+      "name:ja": "セスノック"
+    }
+  },
+  {
+    "name": "Cetinje",
+    "country": "Montenegro",
+    "latitude": 42.3896330005117,
+    "longitude": 18.9246085,
+    "other_names": {
+      "name": "Cetinje",
+      "name:be": "Цэціне",
+      "name:en": "Cetinje",
+      "name:hr": "Cetinje",
+      "name:it": "Cettigne",
+      "name:ru": "Цетине",
+      "name:sq": "Çetina",
+      "name:sr": "Цетиње",
+      "name:uk": "Цетинє",
+      "alt_name:sq": "Cetina",
+      "name:sr-Latn": "Cetinje"
+    }
+  },
+  {
+    "name": "Ceuta",
+    "country": "Spain",
+    "latitude": 35.88836099972463,
+    "longitude": -5.304138,
+    "other_names": {
+      "name": "Ceuta",
+      "name:ar": "سبتة",
+      "name:el": "Θέουτα",
+      "name:fr": "Ceuta",
+      "name:hu": "Ceuta",
+      "name:lt": "Seuta",
+      "name:ru": "Сеута",
+      "name:sk": "Ceuta",
+      "name:zh": "休达",
+      "name:ber": "ⵙⴱⵜⴰ",
+      "name:zgh": "ⵙⴱⵜⴰ"
+    }
+  },
+  {
+    "name": "Ceuta",
+    "country": "Morocco",
+    "latitude": 35.88836099972463,
+    "longitude": -5.304138,
+    "other_names": {
+      "name": "Ceuta",
+      "name:ar": "سبتة",
+      "name:el": "Θέουτα",
+      "name:fr": "Ceuta",
+      "name:hu": "Ceuta",
+      "name:lt": "Seuta",
+      "name:ru": "Сеута",
+      "name:sk": "Ceuta",
+      "name:zh": "休达",
+      "name:ber": "ⵙⴱⵜⴰ",
+      "name:zgh": "ⵙⴱⵜⴰ"
+    }
+  },
+  {
+    "name": "Cəlilabad",
+    "country": "Azerbaijan",
+    "latitude": 39.210393300156326,
+    "longitude": 48.5050593,
+    "other_names": {
+      "name": "Cəlilabad",
+      "name:ar": "جليل‌ آباد",
+      "name:az": "Cəlilabad",
+      "name:de": "Cəlilabad",
+      "name:en": "Cəlilabad",
+      "name:es": "Cəlilabad",
+      "name:fr": "Cəlilabad",
+      "name:ja": "ジャリラバド",
+      "name:ru": "Джалилабад"
+    }
+  },
+  {
+    "name": "Cəlilabad",
+    "country": "Azerbaijan",
+    "latitude": 39.21064884700739,
+    "longitude": 48.50716077343535,
+    "other_names": {
+      "name": "Cəlilabad",
+      "name:ar": "جليل‌ آباد",
+      "name:az": "Cəlilabad",
+      "name:fa": "جلیل آباد",
+      "name:ru": "Джалилабад"
+    }
+  },
+  {
+    "name": "Chabahar",
+    "country": "Iran",
+    "latitude": 25.29354880023217,
+    "longitude": 60.64691150000001,
+    "other_names": {
+      "name": "چابهار",
+      "name:ar": "تشابهار",
+      "name:de": "Tschahbahar",
+      "name:en": "Chabahar",
+      "name:es": "Chabahar",
+      "name:fr": "Chabahar",
+      "name:he": "צ'בהאר",
+      "name:hi": "चाबहार",
+      "name:ja": "チャーバハール",
+      "name:ko": "차바하르",
+      "name:ml": "ചാബഹാർ",
+      "name:ru": "Чехбехар",
+      "name:zh": "哈赫巴哈尔",
+      "int_name": "Chabahar",
+      "loc_name": "چهبار",
+      "loc_name:en": "Chahbar",
+      "old_name:en": "Bandar Beheshti"
+    }
+  },
+  {
+    "name": "Chachapoyas",
+    "country": "Peru",
+    "latitude": -6.229318199688486,
+    "longitude": -77.8714631,
+    "other_names": {
+      "name": "Chachapoyas",
+      "name:de": "Chachapoyas",
+      "name:en": "Chachapoyas",
+      "name:es": "Chachapoyas",
+      "name:pl": "Chachapoyas",
+      "name:ru": "Чачапояс",
+      "name:uk": "Чачапояс"
+    }
+  },
+  {
+    "name": "Chaguaramas",
+    "country": "Venezuela",
+    "latitude": 9.33578379941089,
+    "longitude": -66.25373789999999,
+    "other_names": {
+      "name": "Chaguaramas"
+    }
+  },
+  {
+    "name": "Chahanwusu",
+    "country": "China",
+    "latitude": 36.3024734997669,
+    "longitude": 98.0951591,
+    "other_names": {
+      "name": "都兰县",
+      "name:bo": "ཏུའུ་ལན་",
+      "name:en": "Chahanwusu",
+      "name:ja": "都蘭県",
+      "name:ru": "Цаган-Ус",
+      "name:vi": "Đô Lan",
+      "name:zh": "都兰县",
+      "alt_name": "都兰;察汗乌苏镇;Dulan",
+      "name:zh-Hant": "都蘭縣"
+    }
+  },
+  {
+    "name": "Chahar Right Front Banner",
+    "country": "China",
+    "latitude": 40.78451420036735,
+    "longitude": 113.20785609999999,
+    "other_names": {
+      "name": "察哈尔右翼前旗",
+      "name:en": "Chahar Right Front Banner",
+      "name:zh": "察哈尔右翼前旗",
+      "alt_name": "察哈尔右翼前;Chahar Right Front;Chahar Banner;Chahar;Цахар",
+      "name:zh-Hant": "察哈爾右翼前旗"
+    }
+  },
+  {
+    "name": "Chaisang",
+    "country": "China",
+    "latitude": 29.612548199775755,
+    "longitude": 115.90513170000001,
+    "other_names": {
+      "name": "柴桑区",
+      "name:en": "Chaisang",
+      "name:zh": "柴桑区",
+      "alt_name": "柴桑;Chaisang District",
+      "old_name": "九江县;Jiujiang County",
+      "name:zh-Hant": "柴桑區",
+      "name:zh_pinyin": "cháisāng qū"
+    }
+  }
+]

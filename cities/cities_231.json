@@ -1,0 +1,400 @@
+[
+  {
+    "name": "Kayes",
+    "country": "Mali",
+    "latitude": 14.443405999841662,
+    "longitude": -11.437914,
+    "other_names": {
+      "name": "Kayes",
+      "name:ar": "كايس",
+      "name:bm": "Káyì",
+      "name:en": "Kayes",
+      "name:fr": "Kayes",
+      "name:ko": "케스",
+      "name:ru": "Каес",
+      "name:snk": "Xaayi"
+    }
+  },
+  {
+    "name": "Kayseri",
+    "country": "Turkey",
+    "latitude": 38.722527400085646,
+    "longitude": 35.4874516,
+    "other_names": {
+      "name": "Kayseri",
+      "name:ar": "قيصرية",
+      "name:az": "Kayseri",
+      "name:bg": "Кайсери",
+      "name:de": "Kayseri",
+      "name:el": "Καισάρεια",
+      "name:en": "Kayseri",
+      "name:es": "Kayseri",
+      "name:fa": "قیصریه",
+      "name:fr": "Kayseri",
+      "name:he": "קייסרי",
+      "name:hi": "कायसेरी",
+      "name:hu": "Kayseri",
+      "name:hy": "ԿԵՍԱՐԻԱ",
+      "name:ku": "Qeyserî",
+      "name:la": "Caesarea",
+      "name:nl": "Kayseri",
+      "name:pt": "Kayseri",
+      "name:ru": "Кайсери",
+      "name:sr": "Кајсери",
+      "name:tr": "Kayseri",
+      "name:ota": "قیصریه"
+    }
+  },
+  {
+    "name": "Kazan",
+    "country": "Russia",
+    "latitude": 55.78235469969794,
+    "longitude": 49.1242266,
+    "other_names": {
+      "name": "Казань",
+      "name:ar": "قازان",
+      "name:ba": "Ҡаҙан",
+      "name:cs": "Kazaň",
+      "name:cv": "Хусан",
+      "name:da": "Kazan",
+      "name:de": "Kasan",
+      "name:en": "Kazan",
+      "name:eo": "Kazano",
+      "name:es": "Kazán",
+      "name:et": "Kaasan",
+      "name:fi": "Kazan",
+      "name:fr": "Kazan",
+      "name:he": "קאזאן",
+      "name:hi": "काज़ान",
+      "name:hr": "Kazanj",
+      "name:hu": "Kazany",
+      "name:hy": "Կազան",
+      "name:it": "Kazan'",
+      "name:ja": "カザン",
+      "name:ka": "ყაზანი",
+      "name:kn": "ಕಾಜಾ಼ನ್",
+      "name:ko": "카잔",
+      "name:kv": "Казан",
+      "name:lt": "Kazanė",
+      "name:lv": "Kazaņa",
+      "name:nl": "Kazan",
+      "name:oc": "Kazan",
+      "name:os": "Хъазан",
+      "name:pl": "Kazań",
+      "name:pt": "Cazã",
+      "name:ro": "Kazan",
+      "name:ru": "Казань",
+      "name:sk": "Kazaň",
+      "name:sr": "Казањ",
+      "name:tr": "Kazan",
+      "name:tt": "Казан",
+      "name:uk": "Казань",
+      "name:zh": "喀山",
+      "int_name": "Kazan",
+      "name:chm": "Озаҥ",
+      "name:mhr": "Озаҥ",
+      "name:udm": "Кузон"
+    }
+  },
+  {
+    "name": "Kazan",
+    "country": "Russia",
+    "latitude": 55.79193087583962,
+    "longitude": 49.1288151806327,
+    "other_names": {
+      "name": "Казань",
+      "name:cs": "Kazaň",
+      "name:de": "Kasan",
+      "name:en": "Kazan",
+      "name:ja": "カザン",
+      "name:ku": "Kazan",
+      "name:lv": "Kazaņa",
+      "name:ru": "Казань",
+      "name:tt": "Казан",
+      "name:hsb": "Kazań",
+      "name:tt-lat": "Qazan"
+    }
+  },
+  {
+    "name": "Kazo",
+    "country": "Japan",
+    "latitude": 36.130857199748796,
+    "longitude": 139.603225,
+    "other_names": {
+      "name": "加須市",
+      "name:ar": "كازو، سايتاما",
+      "name:de": "Kazo",
+      "name:en": "Kazo",
+      "name:es": "Kazo",
+      "name:fr": "Kazo",
+      "name:ja": "加須市",
+      "name:ko": "가조시",
+      "name:pl": "Kazo",
+      "name:ru": "Кадзо",
+      "name:uk": "Кадзо"
+    }
+  },
+  {
+    "name": "Kazuno",
+    "country": "Japan",
+    "latitude": 40.21574450029614,
+    "longitude": 140.7882193,
+    "other_names": {
+      "name": "鹿角市",
+      "name:ar": "كازونو، أكيتا",
+      "name:de": "Kazuno",
+      "name:en": "Kazuno",
+      "name:es": "Kazuno",
+      "name:fr": "Kazuno",
+      "name:ja": "鹿角市",
+      "name:ko": "가즈노시",
+      "name:pl": "Kazuno",
+      "name:ru": "Кадзуно",
+      "name:uk": "Кадзуно",
+      "int_name": "Kazuno",
+      "name:ja_rm": "Kazuno-shi",
+      "name:ja_kana": "かづのし"
+    }
+  },
+  {
+    "name": "Kazuo",
+    "country": "China",
+    "latitude": 41.11238300040452,
+    "longitude": 119.73260350000001,
+    "other_names": {
+      "name": "喀左县",
+      "name:en": "Kazuo",
+      "name:ja": "喀左県",
+      "name:zh": "喀左县",
+      "alt_name": "喀喇沁左翼蒙古族县",
+      "old_name:en": "Harqin Left Banner",
+      "name:zh-Hant": "喀左縣",
+      "official_name": "喀喇沁左翼蒙古族自治县",
+      "official_name:en": "Harqin Zuoyi Mongol Autonomous County",
+      "official_name:ja": "カラチン左翼モンゴル族自治県",
+      "official_name:ko": "카라친쭤이몽골족자치현",
+      "official_name:mn": "ᠬᠠᠷᠠᠴᠢᠨ ᠵᠡᠭᠦᠨ ᠭᠠᠷᠤᠨ ᠮᠣᠩᠭᠣᠯ ᠥᠪᠡᠷᠲᠡᠭᠡᠨ ᠵᠠᠰᠠᠬᠤ ᠰᠢᠶᠠᠨ",
+      "official_name:zh": "喀喇沁左翼蒙古族自治县"
+    }
+  },
+  {
+    "name": "Kearney",
+    "country": "United States Of America",
+    "latitude": 40.69947800035722,
+    "longitude": -99.081858,
+    "other_names": {
+      "name": "Kearney",
+      "name:ru": "Карни"
+    }
+  },
+  {
+    "name": "Kebumen",
+    "country": "Indonesia",
+    "latitude": -7.668689399741896,
+    "longitude": 109.65194649999998,
+    "other_names": {
+      "name": "Kebumen",
+      "name:ja": "ケブメン",
+      "name:zh": "加布棉"
+    }
+  },
+  {
+    "name": "Kecheng District",
+    "country": "China",
+    "latitude": 28.94062739984367,
+    "longitude": 118.86882399999999,
+    "other_names": {
+      "name": "柯城区",
+      "name:de": "Kecheng",
+      "name:en": "Kecheng District",
+      "name:es": "Kecheng",
+      "name:fr": "District de Kecheng",
+      "name:it": "Distretto di Kecheng",
+      "name:ja": "柯城区",
+      "name:ko": "커청구",
+      "name:no": "Kecheng",
+      "name:ru": "Кэчэн",
+      "name:sv": "Kecheng",
+      "name:ur": "کیچینگ ضلع",
+      "name:vi": "Kha Thành",
+      "name:zh": "柯城区",
+      "name:ceb": "Kecheng Qu",
+      "name:nan": "Kho-siâⁿ-khu",
+      "name:wuu": "柯城区",
+      "name:yue": "柯城區",
+      "name:zh-Hans": "柯城区",
+      "name:zh-Hant": "柯城區",
+      "name:zh_pinyin": "Kēchéng Qū"
+    }
+  },
+  {
+    "name": "Kecskemét",
+    "country": "Hungary",
+    "latitude": 46.908076900179935,
+    "longitude": 19.692813299999997,
+    "other_names": {
+      "name": "Kecskemét",
+      "name:de": "Ketschkemet",
+      "name:ru": "Кечкемет",
+      "name:sk": "Kečkemít",
+      "name:sr": "Кечкемет",
+      "name:uk": "Кечкемет"
+    }
+  },
+  {
+    "name": "Kediri",
+    "country": "Indonesia",
+    "latitude": -7.811105699749688,
+    "longitude": 112.00460509999999,
+    "other_names": {
+      "name": "Kediri",
+      "name:en": "Kediri",
+      "name:ja": "クディリ",
+      "name:jv": "Kedhiri",
+      "name:mk": "Кедири",
+      "name:ru": "Кедири",
+      "name:uk": "Кедірі",
+      "name:zh": "諫義里"
+    }
+  },
+  {
+    "name": "Kedong",
+    "country": "China",
+    "latitude": 48.03271589992989,
+    "longitude": 126.2477914,
+    "other_names": {
+      "name": "克东县",
+      "name:en": "Kedong",
+      "name:ja": "克東県",
+      "name:ru": "Кэдун",
+      "name:vi": "Khắc Đông",
+      "name:zh": "克东县",
+      "name:zh-Hant": "克東縣",
+      "official_name": "克东镇",
+      "name:zh_pinyin": "Kèdōng Xiàn"
+    }
+  },
+  {
+    "name": "Keelung",
+    "country": "Taiwan",
+    "latitude": 25.131723200246594,
+    "longitude": 121.744652,
+    "other_names": {
+      "name": "基隆市",
+      "name:ar": "كيلونغ",
+      "name:az": "Kiilunq",
+      "name:cs": "Ťi-lung",
+      "name:de": "Keelung",
+      "name:en": "Keelung",
+      "name:eo": "Ĉilun",
+      "name:es": "Keelung",
+      "name:et": "Keelung",
+      "name:eu": "Keelung",
+      "name:fa": "کیلونگ",
+      "name:fi": "Keelung",
+      "name:fr": "Keelung",
+      "name:he": "ג'ילונג (טאיוואן)",
+      "name:id": "Kota Keelung",
+      "name:it": "Keelung",
+      "name:ja": "基隆市",
+      "name:ko": "지룽시",
+      "name:lt": "Dzilongas",
+      "name:mn": "Жилун",
+      "name:nl": "Keelung",
+      "name:no": "Chilung",
+      "name:pl": "Keelung",
+      "name:pt": "Keelung",
+      "name:ru": "Цзилун",
+      "name:sv": "Chilung",
+      "name:th": "นครจีหลง",
+      "name:tr": "Keelung",
+      "name:uk": "Цзілун",
+      "name:ur": "کیلونگ",
+      "name:vi": "Cơ Long",
+      "name:zh": "基隆市",
+      "alt_name": "基隆",
+      "name:arz": "كيلونج",
+      "name:ast": "Keelung",
+      "name:cdo": "Giĕ-lè̤ng",
+      "name:ceb": "Keelung",
+      "name:hak": "Kî-lùng-sṳ",
+      "name:nan": "Ke-lâng-chhī",
+      "name:sco": "Keelung",
+      "name:war": "Keelung",
+      "name:wuu": "基隆",
+      "name:yue": "基隆",
+      "name:nan-HJ": "基隆市",
+      "name:nan-TL": "Ke-lâng-tshī",
+      "name:nan-POJ": "Ke-lâng-chhī"
+    }
+  },
+  {
+    "name": "Keene",
+    "country": "United States Of America",
+    "latitude": 42.9335970005348,
+    "longitude": -72.2784264,
+    "other_names": {
+      "name": "Keene"
+    }
+  },
+  {
+    "name": "Kegalle",
+    "country": "Sri Lanka",
+    "latitude": 7.253200599399111,
+    "longitude": 80.3454132,
+    "other_names": {
+      "name": "Kegalle",
+      "name:kn": "ಕೆಗಲ್ಲೆ",
+      "name:si": "කෑගල්ල",
+      "name:ta": "கேகாலை"
+    }
+  },
+  {
+    "name": "KEÏTAYAH",
+    "country": "Guinea",
+    "latitude": 9.698016499424321,
+    "longitude": -13.519964299999998,
+    "other_names": {
+      "name": "KEÏTAYAH"
+    }
+  },
+  {
+    "name": "Kelan",
+    "country": "China",
+    "latitude": 38.70286020008281,
+    "longitude": 111.56623969999998,
+    "other_names": {
+      "name": "岢岚县",
+      "name:en": "Kelan",
+      "name:ja": "カ嵐県",
+      "name:zh": "岢岚县",
+      "alt_name": "岢岚;Kelan County",
+      "name:zh-Hant": "岢嵐縣"
+    }
+  },
+  {
+    "name": "Kelibia",
+    "country": "Tunisia",
+    "latitude": 36.8456560998293,
+    "longitude": 11.0935701,
+    "other_names": {
+      "name": "قليبية",
+      "name:ar": "قليبية",
+      "name:en": "Kelibia",
+      "name:fr": "Kélibia",
+      "name:ru": "Келибия"
+    }
+  },
+  {
+    "name": "Kelo",
+    "country": "Chad",
+    "latitude": 9.313507499410175,
+    "longitude": 15.786984299999999,
+    "other_names": {
+      "name": "Kelo كيلو",
+      "name:ar": "كيلو",
+      "name:en": "Kelo",
+      "name:fr": "Kelo"
+    }
+  }
+]

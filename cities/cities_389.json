@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Raiganj",
+    "country": "India",
+    "latitude": 25.614079813305924,
+    "longitude": 88.12919373172869,
+    "other_names": {
+      "name": "Raiganj",
+      "name:bn": "রায়গঞ্জ",
+      "name:hi": "रायगंज",
+      "name:pa": "ਰਾਇਗੰਜ"
+    }
+  },
+  {
+    "name": "Raiganj",
+    "country": "India",
+    "latitude": 25.627196600201028,
+    "longitude": 88.1317967,
+    "other_names": {
+      "name": "Raiganj",
+      "name:bn": "রায়গঞ্জ",
+      "name:en": "Raiganj",
+      "name:hi": "रायगंज"
+    }
+  },
+  {
+    "name": "Raigarh",
+    "country": "India",
+    "latitude": 21.893669827026958,
+    "longitude": 83.39625594308244,
+    "other_names": {
+      "name": "Raigarh",
+      "name:en": "Raigarh",
+      "name:hi": "रायगढ़",
+      "name:ja": "ラーイガル"
+    }
+  },
+  {
+    "name": "Raigarh",
+    "country": "India",
+    "latitude": 21.897618000409228,
+    "longitude": 83.39655009999998,
+    "other_names": {
+      "name": "Raigarh",
+      "name:hi": "रायगढ़",
+      "name:ja": "ラーイガル",
+      "name:kn": "ರಾಯ್ಗಢ್",
+      "name:ta": "ராய்கர்"
+    }
+  },
+  {
+    "name": "Raipur",
+    "country": "India",
+    "latitude": 21.237946900407877,
+    "longitude": 81.63368329999999,
+    "other_names": {
+      "name": "Raipur",
+      "name:ar": "رائ بور",
+      "name:bn": "রায়পুর",
+      "name:cs": "Rájpur",
+      "name:en": "Raipur",
+      "name:eo": "Rajpuro",
+      "name:he": "רייפור",
+      "name:hi": "रायपुर",
+      "name:ja": "ライプル",
+      "name:kn": "ರಾಯಪುರ",
+      "name:ml": "റായ്‌പൂർ",
+      "name:pa": "ਰਾਇਪੁਰ",
+      "name:ru": "Райпур",
+      "name:ta": "ராய்ப்பூர்",
+      "name:te": "రాయపుర",
+      "name:uk": "Райпур",
+      "name:ur": "رائے پور",
+      "alt_name:ar": "رايبور"
+    }
+  },
+  {
+    "name": "Raiwind",
+    "country": "Pakistan",
+    "latitude": 31.244358299645636,
+    "longitude": 74.21381259999998,
+    "other_names": {
+      "name": "رائے ونڈ",
+      "name:en": "Raiwind",
+      "name:ru": "Райвинд",
+      "name:ur": "رائیونڈ‎",
+      "name:pa-Arab": "رائیونڈ‎"
+    }
+  },
+  {
+    "name": "Rajamahendravaram",
+    "country": "India",
+    "latitude": 17.005045400135938,
+    "longitude": 81.7804732,
+    "other_names": {
+      "name": "Rajamahendravaram",
+      "name:ar": "راجاماهندرافارام",
+      "name:en": "Rajamahendravaram",
+      "name:hi": "राजमहेंद्रवरम",
+      "name:ja": "ラージャムンドリー",
+      "name:kn": "ರಾಜಮಂಡ್ರಿ",
+      "name:pa": "ਰਾਜਮੰਡਰੀ",
+      "name:te": "రాజమండ్రి",
+      "alt_name": "Rajahmundry"
+    }
+  },
+  {
+    "name": "Rajana",
+    "country": "Pakistan",
+    "latitude": 30.853044287354912,
+    "longitude": 72.55176921099773,
+    "other_names": {
+      "name": "Rajana",
+      "name:en": "Rajana",
+      "name:ur": "رجانہ"
+    }
+  },
+  {
+    "name": "Rajarhat",
+    "country": "India",
+    "latitude": 22.610352100396806,
+    "longitude": 88.51947629999998,
+    "other_names": {
+      "name": "Rajarhat"
+    }
+  },
+  {
+    "name": "Rajgarh",
+    "country": "India",
+    "latitude": 24.00631370270315,
+    "longitude": 76.72966571395507,
+    "other_names": {
+      "name": "Rajgarh",
+      "name:hi": "राजगढ़",
+      "name:ja": "ラージガル"
+    }
+  },
+  {
+    "name": "Rajkot",
+    "country": "India",
+    "latitude": 22.30519910040388,
+    "longitude": 70.8028335,
+    "other_names": {
+      "name": "Rajkot",
+      "name:ar": "راجكوت",
+      "name:cs": "Rádžkót",
+      "name:en": "Rajkot",
+      "name:gu": "રાજકોટ",
+      "name:he": "ראג'קוט",
+      "name:hi": "राजकोट",
+      "name:ja": "ラージコート",
+      "name:kn": "ರಾಜಕೋಟ",
+      "name:ml": "രാജ്‌കോട്",
+      "name:pa": "ਰਾਜਕੋਟ",
+      "name:ru": "Раджкот",
+      "name:ta": "ராஜ்கோட்",
+      "name:zh": "拉杰果德"
+    }
+  },
+  {
+    "name": "Rajmahal",
+    "country": "India",
+    "latitude": 25.050926249146006,
+    "longitude": 87.83206619295778,
+    "other_names": {
+      "name": "Rajmahal",
+      "name:bn": "রাজমহল",
+      "name:hi": "राजमहल",
+      "name:ta": "ராஜ்மஹல்"
+    }
+  },
+  {
+    "name": "Rajnandgaon",
+    "country": "India",
+    "latitude": 21.09649060040598,
+    "longitude": 81.029154,
+    "other_names": {
+      "name": "Rajnandgaon",
+      "name:en": "Rajnandgaon",
+      "name:gu": "રાજનાંદગાંવ",
+      "name:hi": "राजनांदगांव",
+      "name:ja": "ラージナーンドガーオン",
+      "name:kn": "ರಾಜನಾಂದಗಾಂವ",
+      "alt_name": "राजनांदगाँव"
+    }
+  },
+  {
+    "name": "Rajpur Sonarpur",
+    "country": "India",
+    "latitude": 22.438202600401123,
+    "longitude": 88.432045,
+    "other_names": {
+      "name": "Rajpur Sonarpur",
+      "name:bn": "রাজপুর সোনারপুর",
+      "name:hi": "राजपुर सोनारपुर"
+    }
+  },
+  {
+    "name": "Rajshahi",
+    "country": "Bangladesh",
+    "latitude": 24.371551300307576,
+    "longitude": 88.59210379999999,
+    "other_names": {
+      "name": "রাজশাহী",
+      "name:ar": "راجشاهي",
+      "name:bn": "রাজশাহী",
+      "name:de": "Rajshahi",
+      "name:en": "Rajshahi",
+      "name:es": "Rajshahi",
+      "name:et": "Rājshāhi",
+      "name:fa": "راج‌شاهی",
+      "name:fr": "Râjshâhî",
+      "name:hi": "राजशाही",
+      "name:ja": "ラジシャヒ",
+      "name:kn": "ರಾಜಶಾಹೀ",
+      "name:ru": "Раджшахи",
+      "name:uk": "Раджшахі",
+      "name:ur": "راجشاہی"
+    }
+  },
+  {
+    "name": "Rajshahi",
+    "country": "India",
+    "latitude": 24.371551300307576,
+    "longitude": 88.59210379999999,
+    "other_names": {
+      "name": "রাজশাহী",
+      "name:ar": "راجشاهي",
+      "name:bn": "রাজশাহী",
+      "name:de": "Rajshahi",
+      "name:en": "Rajshahi",
+      "name:es": "Rajshahi",
+      "name:et": "Rājshāhi",
+      "name:fa": "راج‌شاهی",
+      "name:fr": "Râjshâhî",
+      "name:hi": "राजशाही",
+      "name:ja": "ラジシャヒ",
+      "name:kn": "ರಾಜಶಾಹೀ",
+      "name:ru": "Раджшахи",
+      "name:uk": "Раджшахі",
+      "name:ur": "راجشاہی"
+    }
+  },
+  {
+    "name": "Raleigh",
+    "country": "United States Of America",
+    "latitude": 35.78039769971443,
+    "longitude": -78.63909889999998,
+    "other_names": {
+      "name": "Raleigh",
+      "name:en": "Raleigh",
+      "name:pl": "Raleigh",
+      "name:ru": "Роли",
+      "name:ta": "ராலீ",
+      "name:uk": "Ралі",
+      "name:zh": "罗利 / 羅里 / 羅利",
+      "name:hak": "Raleigh",
+      "name:nan": "Raleigh",
+      "name:zh-hk": "羅利",
+      "name:zh-tw": "羅里",
+      "name:zh-Hans": "罗利",
+      "name:zh-Hant": "羅里 / 羅利"
+    }
+  },
+  {
+    "name": "Ramadi",
+    "country": "Iraq",
+    "latitude": 33.42598589958925,
+    "longitude": 43.29992179999999,
+    "other_names": {
+      "name": "الرمادي",
+      "name:en": "Ramadi",
+      "name:es": "Ramadi",
+      "name:hi": "रमादी"
+    }
+  },
+  {
+    "name": "Ramagundam",
+    "country": "India",
+    "latitude": 18.76151560029713,
+    "longitude": 79.47878479999999,
+    "other_names": {
+      "name": "Ramagundam",
+      "name:en": "Ramagundam",
+      "name:hi": "रामगुंडम",
+      "name:kn": "ರಾಮಗುಂಡಂ",
+      "name:pa": "ਰਾਮਗੁੰਡਮ",
+      "name:sr": "Рамагундам",
+      "name:te": "రామగుండం",
+      "alt_name:hi": "रामागुंडम",
+      "alt_name:pa": "ਰਾਮਾਗੁੰਡਮ"
+    }
+  },
+  {
+    "name": "Ramenskoye",
+    "country": "Russia",
+    "latitude": 55.546757782945384,
+    "longitude": 38.2521073408608,
+    "other_names": {
+      "name": "Раменское",
+      "name:de": "Ramenskoje",
+      "name:en": "Ramenskoye",
+      "name:fr": "Ramenskoïe",
+      "name:ja": "ラメンスコイェ",
+      "name:ru": "Раменское",
+      "name:sr": "Раменскоје",
+      "int_name": "Ramenskoye"
+    }
+  }
+]

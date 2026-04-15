@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Naliya",
+    "country": "India",
+    "latitude": 23.259360162403585,
+    "longitude": 68.82979581694482,
+    "other_names": {
+      "name": "Naliya"
+    }
+  },
+  {
+    "name": "Nalut",
+    "country": "Libya",
+    "latitude": 31.86378649961399,
+    "longitude": 10.982790299999998,
+    "other_names": {
+      "name": "نالوت",
+      "name:ar": "نالوت",
+      "name:en": "Nalut",
+      "name:fr": "Nalout",
+      "name:pl": "Nalut",
+      "name:ru": "Налут",
+      "name:uk": "Налут",
+      "int_name": "Nalut"
+    }
+  },
+  {
+    "name": "Namangan",
+    "country": "Uzbekistan",
+    "latitude": 41.000415900186475,
+    "longitude": 71.65060641765167,
+    "other_names": {
+      "name": "Namangan",
+      "name:ar": "نمنكان",
+      "name:en": "Namangan",
+      "name:ja": "ナマンガン",
+      "name:ru": "Наманган",
+      "alt_name:ar": "نمنغان;نمنجان",
+      "name:uz-cyr": "Наманган"
+    }
+  },
+  {
+    "name": "Namangan",
+    "country": "Uzbekistan",
+    "latitude": 40.99964820039211,
+    "longitude": 71.6726238,
+    "other_names": {
+      "name": "Namangan",
+      "name:ar": "نمنكان",
+      "name:de": "Namangan",
+      "name:en": "Namangan",
+      "name:fr": "Namangan",
+      "name:ja": "ナマンガン",
+      "name:pl": "Namangan",
+      "name:ru": "Наманган",
+      "name:uk": "Наманган",
+      "alt_name:ar": "نمنغان;نمنجان",
+      "name:uz-cyr": "Наманган"
+    }
+  },
+  {
+    "name": "Nam Định",
+    "country": "Vietnam",
+    "latitude": 20.42326410038925,
+    "longitude": 106.16885149999999,
+    "other_names": {
+      "name": "Nam Định",
+      "name:en": "Nam Định",
+      "name:ja": "ナムディン",
+      "name:ko": "남딘",
+      "name:ru": "Намдинь",
+      "name:uk": "Намдін",
+      "name:zh": "南定市",
+      "name:vi-Hani": "南定"
+    }
+  },
+  {
+    "name": "Namekata",
+    "country": "Japan",
+    "latitude": 35.99018949973455,
+    "longitude": 140.4888826,
+    "other_names": {
+      "name": "行方市",
+      "name:ar": "نامه-غاتا، إيباراكي",
+      "name:de": "Namegata",
+      "name:en": "Namekata",
+      "name:es": "Namegata",
+      "name:fr": "Namegata",
+      "name:ja": "行方市",
+      "name:ko": "나메가타시",
+      "name:ru": "Намегата",
+      "name:uk": "Намеґата",
+      "name:ja_rm": "Namekata-shi",
+      "name:ja_kana": "なめかたし"
+    }
+  },
+  {
+    "name": "Namerikawa",
+    "country": "Japan",
+    "latitude": 36.7643428998195,
+    "longitude": 137.3413791,
+    "other_names": {
+      "name": "滑川市",
+      "name:en": "Namerikawa",
+      "name:fr": "Namerikawa",
+      "name:ja": "滑川市",
+      "name:ko": "나메리카와시",
+      "name:pl": "Namerikawa",
+      "name:ru": "Намерикава",
+      "name:uk": "Намерікава",
+      "name:ja_rm": "Namerikawa-shi",
+      "name:ja_kana": "なめりかわし"
+    }
+  },
+  {
+    "name": "Namhsan",
+    "country": "Myanmar",
+    "latitude": 22.963724100385388,
+    "longitude": 97.16114039999998,
+    "other_names": {
+      "name": "နမ့်ဆန်",
+      "pcode": "MMR015016701",
+      "name:en": "Namhsan",
+      "name:my": "နမ့်ဆန်",
+      "name:ur": "نامسان",
+      "name:zh": "南散",
+      "alt_name": "Namshan;南山;Namh San;Namsan;Nam San",
+      "name:shn": "ၼမ်ႉသၼ်ႇ"
+    }
+  },
+  {
+    "name": "Namling",
+    "country": "China",
+    "latitude": 29.684979599768816,
+    "longitude": 89.09674479999998,
+    "other_names": {
+      "name": "南木林县",
+      "name:bo": "རྣམ་གླིང་",
+      "name:de": "Namling",
+      "name:en": "Namling",
+      "name:es": "Namling",
+      "name:fr": "Namling",
+      "name:vi": "Namling",
+      "name:zh": "南木林县",
+      "alt_name": "南木林;Nan-mu-lin Hsien;Namling Xian;Nanmulin Xian",
+      "alt_name:vi": "Nam Mộc Lâm",
+      "name:zh-Hant": "南木林縣",
+      "name:zh_pinyin": "Nánmùlín Xiàn"
+    }
+  },
+  {
+    "name": "Nampa",
+    "country": "United States Of America",
+    "latitude": 43.57373610054146,
+    "longitude": -116.559631,
+    "other_names": {
+      "name": "Nampa"
+    }
+  },
+  {
+    "name": "Nampo",
+    "country": "North Korea",
+    "latitude": 38.73674480008772,
+    "longitude": 125.41152849999999,
+    "other_names": {
+      "name": "남포시",
+      "name:cs": "Nampcho",
+      "name:de": "Nampo",
+      "name:el": "Νάμπο",
+      "name:en": "Nampo",
+      "name:eo": "Nampo",
+      "name:es": "Namp'o",
+      "name:et": "Namp'o",
+      "name:fr": "Nampo",
+      "name:ja": "南浦市",
+      "name:ko": "남포시",
+      "name:lt": "Nampo",
+      "name:pt": "Nampo",
+      "name:ru": "Нампхо",
+      "name:uk": "Нампхо",
+      "name:vi": "Nam Phố",
+      "name:zh": "南浦市",
+      "int_name": "Nampo",
+      "name:ko-Hani": "南浦市",
+      "name:ko-Latn": "Namp'o",
+      "official_name": "남포특별시",
+      "official_name:ko": "남포특별시",
+      "official_name:zh": "南浦特别市",
+      "official_name:ko-Latn": "Namp'o T'ŭkpyŏlsi",
+      "official_name:ko_hanja": "南浦特別市"
+    }
+  },
+  {
+    "name": "Nampula",
+    "country": "Mozambique",
+    "latitude": -15.119406300387757,
+    "longitude": 39.261588599999996,
+    "other_names": {
+      "name": "Nampula",
+      "name:en": "Nampula",
+      "name:ko": "남풀라",
+      "name:ru": "Нампула",
+      "name:uk": "Нампула"
+    }
+  },
+  {
+    "name": "Namur",
+    "country": "Belgium",
+    "latitude": 50.466528399350985,
+    "longitude": 4.8661892,
+    "other_names": {
+      "name": "Namur",
+      "name:ar": "نامور",
+      "name:de": "Namur",
+      "name:en": "Namur",
+      "name:eo": "Namuro",
+      "name:es": "Namur",
+      "name:fr": "Namur",
+      "name:it": "Namur",
+      "name:la": "Namurcum",
+      "name:lb": "Namouer",
+      "name:lt": "Namiūras",
+      "name:mk": "Намир",
+      "name:nl": "Namen",
+      "name:ru": "Намюр",
+      "name:sr": "Намир",
+      "name:uk": "Намюр",
+      "name:wa": "Nameur",
+      "name:zh": "那慕爾",
+      "name:pcd": "Nameur",
+      "name:vls": "Noamn",
+      "name:zh-Hans": "那慕尔",
+      "name:zh-Hant": "那慕爾"
+    }
+  },
+  {
+    "name": "Namwon",
+    "country": "South Korea",
+    "latitude": 35.41631179968269,
+    "longitude": 127.3903713,
+    "other_names": {
+      "name": "남원시",
+      "name:de": "Namwon",
+      "name:en": "Namwon",
+      "name:es": "Namwon",
+      "name:fr": "Namwon",
+      "name:ja": "南原市",
+      "name:ko": "남원시",
+      "name:zh": "南原市",
+      "name:ja_kana": "なむうぉん",
+      "name:ko-Hani": "南原市",
+      "name:ko-Latn": "Namwon-si"
+    }
+  },
+  {
+    "name": "Namyangju-si",
+    "country": "South Korea",
+    "latitude": 37.63593979993151,
+    "longitude": 127.21650509999999,
+    "other_names": {
+      "name": "남양주시",
+      "name:en": "Namyangju-si",
+      "name:et": "Namyangju",
+      "name:ja": "南楊州市",
+      "name:ko": "남양주시",
+      "name:vi": "Namyangju",
+      "name:zh": "南楊州市",
+      "alt_name:vi": "Nam Dương Châu",
+      "name:ko-Hani": "南楊州市"
+    }
+  },
+  {
+    "name": "Nanaimo",
+    "country": "Canada",
+    "latitude": 49.163876999651826,
+    "longitude": -123.938122,
+    "other_names": {
+      "name": "Nanaimo",
+      "name:en": "Nanaimo",
+      "name:ru": "Нанаймо",
+      "name:uk": "Нанаймо"
+    }
+  },
+  {
+    "name": "Nan'an",
+    "country": "China",
+    "latitude": 29.5028728997864,
+    "longitude": 106.642471,
+    "other_names": {
+      "name": "南岸区",
+      "name:en": "Nan'an",
+      "name:zh": "南岸区",
+      "alt_name": "南岸;Nanan District",
+      "name:zh-Hant": "南岸區"
+    }
+  },
+  {
+    "name": "Nan'an",
+    "country": "China",
+    "latitude": 24.96339290026109,
+    "longitude": 118.38428520000001,
+    "other_names": {
+      "name": "南安市",
+      "name:de": "Nan’an",
+      "name:en": "Nan'an",
+      "name:es": "Nan'an",
+      "name:fr": "Nan'an",
+      "name:it": "Nan'an",
+      "name:ja": "南安市",
+      "name:ko": "난안시",
+      "name:vi": "Nam An",
+      "name:zh": "南安市",
+      "alt_name": "南安;Nan'an City",
+      "name:hak": "Nàm-ôn-sṳ",
+      "name:nan": "Lâm-oaⁿ-chhī",
+      "name:yue": "南安",
+      "name:zh-Hant": "南安市",
+      "name:zh_pinyin": "Nán'ān Shì"
+    }
+  },
+  {
+    "name": "Nan'ao",
+    "country": "China",
+    "latitude": 23.42229870036555,
+    "longitude": 117.0208737,
+    "other_names": {
+      "name": "南澳县",
+      "name:de": "Nan’ao",
+      "name:en": "Nan'ao",
+      "name:es": "Nan'ao",
+      "name:fa": "شهرستان نانائو",
+      "name:fr": "Xian de Nan'ao",
+      "name:it": "Contea di Nan'ao",
+      "name:ja": "南澳県",
+      "name:ko": "난아오현",
+      "name:no": "Nan'ao",
+      "name:pt": "Nanao",
+      "name:sv": "Nan'ao",
+      "name:vi": "Nam Áo",
+      "name:zh": "南澳县",
+      "name:hak": "Nàm-au-yen",
+      "name:mwl": "Nan'ao",
+      "name:nan": "Lâm-ò-koān",
+      "name:yue": "南澳縣",
+      "name:zh-Hant": "南澳縣",
+      "name:zh_pinyin": "Nán'ào Xiàn"
+    }
+  },
+  {
+    "name": "Nan'ao",
+    "country": "China",
+    "latitude": 23.42401810036546,
+    "longitude": 117.0189654,
+    "other_names": {
+      "name": "南澳县",
+      "name:de": "Nan’ao",
+      "name:en": "Nan'ao",
+      "name:es": "Nan'ao",
+      "name:fa": "شهرستان نانائو",
+      "name:fr": "Xian de Nan'ao",
+      "name:it": "Contea di Nan'ao",
+      "name:ja": "南澳県",
+      "name:ko": "난아오현",
+      "name:no": "Nan'ao",
+      "name:pt": "Nanao",
+      "name:sv": "Nan'ao",
+      "name:vi": "Nam Áo",
+      "name:zh": "南澳县",
+      "alt_name": "南澳;Nan'ao County",
+      "name:hak": "Nàm-au-yen",
+      "name:mwl": "Nan'ao",
+      "name:nan": "Lâm-ò-koān",
+      "name:yue": "南澳縣",
+      "name:zh-Hant": "南澳縣",
+      "name:zh_pinyin": "Nán'ào Xiàn"
+    }
+  }
+]

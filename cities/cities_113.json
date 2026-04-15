@@ -1,0 +1,271 @@
+[
+  {
+    "name": "Dhanpuri",
+    "country": "India",
+    "latitude": 23.209677091634617,
+    "longitude": 81.53326301517636,
+    "other_names": {
+      "name": "Dhanpuri"
+    }
+  },
+  {
+    "name": "Dharan",
+    "country": "Nepal",
+    "latitude": 26.812610100078437,
+    "longitude": 87.28380999999999,
+    "other_names": {
+      "name": "धरान",
+      "name:bn": "ধারান",
+      "name:en": "Dharan",
+      "name:ja": "ダーラン",
+      "name:ne": "धरान",
+      "name:pl": "Dharan"
+    }
+  },
+  {
+    "name": "Dharmavaram",
+    "country": "India",
+    "latitude": 14.413840499838198,
+    "longitude": 77.7208432,
+    "other_names": {
+      "name": "Dharmavaram",
+      "name:en": "Dharmavaram",
+      "name:hi": "धर्मवर्म",
+      "name:kn": "ಧರ್ಮವರಂ",
+      "name:te": "ధర్మవరం"
+    }
+  },
+  {
+    "name": "Dharwad",
+    "country": "India",
+    "latitude": 15.45405049996088,
+    "longitude": 75.0066516,
+    "other_names": {
+      "name": "Dharwad",
+      "name:en": "Dharwad",
+      "name:he": "דרוואד",
+      "name:hi": "धारवाड़",
+      "name:ja": "ダールワード",
+      "name:kn": "ಧಾರವಾಡ",
+      "name:ml": "ധാർവാഡ്",
+      "name:pa": "ਧਾਰਵਾੜ",
+      "alt_name": "Dharawada",
+      "old_name": "Dharwar",
+      "name:kn:iso15919": "Dhāravāḍa"
+    }
+  },
+  {
+    "name": "Dhaulpur",
+    "country": "India",
+    "latitude": 26.701064200090574,
+    "longitude": 77.89674899999999,
+    "other_names": {
+      "name": "Dhaulpur",
+      "name:hi": "धौलपुर",
+      "alt_name": "Dholpur"
+    }
+  },
+  {
+    "name": "Dhilwan",
+    "country": "India",
+    "latitude": 30.34272319971027,
+    "longitude": 75.3855945,
+    "other_names": {
+      "name": "Dhilwan"
+    }
+  },
+  {
+    "name": "Dhoraji",
+    "country": "India",
+    "latitude": 21.7326462173102,
+    "longitude": 70.44941589362146,
+    "other_names": {
+      "name": "Dhoraji",
+      "name:ta": "தோராஜி"
+    }
+  },
+  {
+    "name": "Dhrangadhra",
+    "country": "India",
+    "latitude": 22.99170298671924,
+    "longitude": 71.46509657680895,
+    "other_names": {
+      "name": "Dhrangadhra",
+      "name:ta": "தரங்கத்திரா"
+    }
+  },
+  {
+    "name": "Dhuburi",
+    "country": "India",
+    "latitude": 26.018801824915876,
+    "longitude": 89.97730068441473,
+    "other_names": {
+      "name": "Dhuburi",
+      "name:bn": "ধুবড়ী",
+      "name:hi": "धुबरी"
+    }
+  },
+  {
+    "name": "Dhule",
+    "country": "India",
+    "latitude": 20.89800000040236,
+    "longitude": 74.77319999999999,
+    "other_names": {
+      "name": "Dhule",
+      "name:en": "Dhule",
+      "name:hi": "धुले",
+      "name:ja": "ドゥーレー",
+      "name:kn": "ಧುಲೆ",
+      "name:mr": "धुळे",
+      "name:pa": "ਧੁਲ਼ੇ",
+      "name:ru": "Дхуле"
+    }
+  },
+  {
+    "name": "Diadema",
+    "country": "Brazil",
+    "latitude": -23.681346999971247,
+    "longitude": -46.62052,
+    "other_names": {
+      "name": "Diadema"
+    }
+  },
+  {
+    "name": "Diamond Harbour",
+    "country": "India",
+    "latitude": 22.191009100405847,
+    "longitude": 88.1904741,
+    "other_names": {
+      "name": "Diamond Harbour",
+      "name:bn": "ডায়মন্ড হারবার",
+      "name:hi": "डायमंड हारबर"
+    }
+  },
+  {
+    "name": "Dianbai",
+    "country": "China",
+    "latitude": 21.51615910040996,
+    "longitude": 111.00918469999999,
+    "other_names": {
+      "name": "电白区",
+      "name:en": "Dianbai",
+      "name:zh": "电白区",
+      "alt_name": "电白;Tien-pai Hsien;Dianbai District",
+      "name:zh-Hant": "電白區",
+      "name:zh_pinyin": "Diànbái Qū"
+    }
+  },
+  {
+    "name": "Dianjiang",
+    "country": "China",
+    "latitude": 30.329378399711374,
+    "longitude": 107.3295963,
+    "other_names": {
+      "name": "垫江县",
+      "name:en": "Dianjiang",
+      "name:ja": "墊江県",
+      "name:ru": "Дяньцзян",
+      "name:vi": "Điếm Giang",
+      "name:zh": "垫江县",
+      "alt_name": "垫江;Dianjiang County",
+      "name:zh-Hant": "墊江縣",
+      "name:zh_pinyin": "Dianjiang Xian"
+    }
+  },
+  {
+    "name": "Dianjun District",
+    "country": "China",
+    "latitude": 30.69569099968259,
+    "longitude": 111.2624448,
+    "other_names": {
+      "name": "点军区",
+      "name:de": "Dianjun",
+      "name:en": "Dianjun District",
+      "name:fr": "District de Dianjun",
+      "name:it": "Distretto di Dianjun",
+      "name:ja": "点軍区",
+      "name:ko": "뎬준구",
+      "name:no": "Dianjun",
+      "name:sv": "Dianjun",
+      "name:vi": "Điểm Quân",
+      "name:zh": "点军区",
+      "alt_name": "点军;Dianjun District",
+      "name:nan": "Tiám-kun-khu",
+      "name:yue": "點軍區",
+      "name:zh-Hant": "點軍區",
+      "name:zh_pinyin": "Diǎnjūn Qū"
+    }
+  },
+  {
+    "name": "Diaobingshan",
+    "country": "China",
+    "latitude": 42.45278050051515,
+    "longitude": 123.54503229999999,
+    "other_names": {
+      "name": "调兵山市",
+      "name:en": "Diaobingshan",
+      "name:ja": "調兵山市",
+      "name:zh": "调兵山市",
+      "alt_name": "调兵山;Diaobingshan City",
+      "name:zh-Hant": "調兵山市",
+      "name:zh_pinyin": "Diàobīngshān"
+    }
+  },
+  {
+    "name": "Dibrugarh",
+    "country": "India",
+    "latitude": 27.484459700003953,
+    "longitude": 94.9019447,
+    "other_names": {
+      "name": "Dibrugarh",
+      "name:ar": "دبروغاره",
+      "name:as": "ডিব্ৰুগড়",
+      "name:en": "Dibrugarh",
+      "name:hi": "डिब्रूगढ",
+      "name:ja": "ディブルガル",
+      "name:kn": "ಡಿಬ್ರುಗಡ",
+      "name:ru": "Дибругарх",
+      "name:ta": "திப்ருகார்",
+      "name:ur": "ڈبروگڑھ",
+      "name:zh-CN": "迪布鲁格尔",
+      "alt_name:ar": "ديبروجاره"
+    }
+  },
+  {
+    "name": "Dickinson",
+    "country": "United States Of America",
+    "latitude": 46.87917560018575,
+    "longitude": -102.78962419999999,
+    "other_names": {
+      "name": "Dickinson"
+    }
+  },
+  {
+    "name": "Didao",
+    "country": "China",
+    "latitude": 45.346632500431454,
+    "longitude": 130.8367458,
+    "other_names": {
+      "name": "滴道区",
+      "name:en": "Didao",
+      "name:ru": "Дидао",
+      "name:vi": "Tích Đạo",
+      "name:zh": "滴道区",
+      "name:zh-Hant": "滴道區",
+      "name:zh_pinyin": "Dīdào qū"
+    }
+  },
+  {
+    "name": "Diecai",
+    "country": "China",
+    "latitude": 25.316910300230052,
+    "longitude": 110.29721809999998,
+    "other_names": {
+      "name": "叠彩区",
+      "name:en": "Diecai",
+      "name:zh": "叠彩区",
+      "alt_name": "叠彩;Diecai District",
+      "name:zh-Hant": "疊彩區"
+    }
+  }
+]

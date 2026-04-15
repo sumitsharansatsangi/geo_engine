@@ -1,0 +1,365 @@
+[
+  {
+    "name": "Toowoomba",
+    "country": "Australia",
+    "latitude": -27.561019299452965,
+    "longitude": 151.95335099999997,
+    "other_names": {
+      "name": "Toowoomba",
+      "name:ja": "トゥーンバ",
+      "name:ru": "Тувумба",
+      "name:zh": "图文巴"
+    }
+  },
+  {
+    "name": "Topeka",
+    "country": "United States Of America",
+    "latitude": 39.049011000133014,
+    "longitude": -95.677556,
+    "other_names": {
+      "name": "Topeka",
+      "name:en": "Topeka",
+      "name:lt": "Topeka",
+      "name:pl": "Topeka",
+      "name:ru": "Топика",
+      "name:ta": "டொபீகா",
+      "name:uk": "Топіка",
+      "name:zh": "托皮卡",
+      "name:hak": "Topeka",
+      "name:nan": "Topeka",
+      "name:zh-hk": "托皮卡",
+      "name:zh-Hans": "托皮卡",
+      "name:zh-Hant": "托皮卡"
+    }
+  },
+  {
+    "name": "Toqsu",
+    "country": "China",
+    "latitude": 41.54265710044788,
+    "longitude": 82.6033523,
+    "other_names": {
+      "name": "新和县",
+      "name:de": "Toksu",
+      "name:en": "Toqsu",
+      "name:es": "Toksu",
+      "name:fr": "Toksu",
+      "name:tr": "Toksu",
+      "name:ug": "توقسۇ ناھىيىسى",
+      "name:zh": "新和县",
+      "alt_name": "新和县;Toksu;Xınhe;توقسۇ بازىرى",
+      "name:zh-Hant": "新和縣"
+    }
+  },
+  {
+    "name": "Torbat-e Heydarieh",
+    "country": "Iran",
+    "latitude": 35.27408529967144,
+    "longitude": 59.21944940000001,
+    "other_names": {
+      "name": "تربت حیدریه",
+      "name:ar": "تربت حيدريه",
+      "name:de": "Torbat-e Heidarije",
+      "name:en": "Torbat-e Heydarieh",
+      "name:es": "Torbat-e Heidarije",
+      "name:et": "Torbat-e Ḩeydarīyeh",
+      "name:fr": "Torbat-e Heydarieh",
+      "name:hi": "तोर्बात-ए-हैदरिया",
+      "name:ja": "トルバテ・ヘイダリーイェ",
+      "name:ru": "Торбете-Хейдерие"
+    }
+  },
+  {
+    "name": "Torbat-e Jam",
+    "country": "Iran",
+    "latitude": 35.24325459966908,
+    "longitude": 60.626312999999996,
+    "other_names": {
+      "name": "تربت جام",
+      "name:ar": "تربت جام",
+      "name:en": "Torbat-e Jam",
+      "name:hi": "तोर्बत-ए-जाम",
+      "name:ja": "トルバテ・ジャーム",
+      "name:ru": "Торбете-Джам",
+      "alt_name:en": "Torbat Jam"
+    }
+  },
+  {
+    "name": "Toride",
+    "country": "Japan",
+    "latitude": 35.91153229972685,
+    "longitude": 140.050178,
+    "other_names": {
+      "name": "取手市",
+      "name:ar": "توريده، إيباراكي",
+      "name:de": "Toride",
+      "name:en": "Toride",
+      "name:es": "Toride",
+      "name:fr": "Toride",
+      "name:ja": "取手市",
+      "name:ko": "도리데시",
+      "name:pl": "Toride",
+      "name:ru": "Ториде",
+      "name:uk": "Торіде",
+      "int_name": "Toride",
+      "name:ja_rm": "Toride-shi",
+      "name:ja_kana": "とりでし"
+    }
+  },
+  {
+    "name": "Toronto",
+    "country": "Canada",
+    "latitude": 43.65348170054063,
+    "longitude": -79.3839347,
+    "other_names": {
+      "name": "Toronto",
+      "name:ar": "تورونتو",
+      "name:ca": "Toronto",
+      "name:de": "Toronto",
+      "name:el": "Τορόντο",
+      "name:en": "Toronto",
+      "name:es": "Toronto",
+      "name:fa": "تورنتو",
+      "name:fr": "Toronto",
+      "name:gr": "Τορόντον",
+      "name:hy": "Տորոնտո",
+      "name:oc": "Toronto",
+      "name:pa": "ਟੋਰਾਂਟੋ",
+      "name:pl": "Toronto",
+      "name:ps": "ټورنټو",
+      "name:pt": "Toronto",
+      "name:ug": "تورونتو",
+      "name:ur": "ٹورانٹو",
+      "name:azb": "تورونتو",
+      "name:ckb": "تۆرنتۆ",
+      "name:grc": "Τορόντον",
+      "name:hyw": "Թորոնթօ",
+      "name:kmr": "تۆرۆنتۆ",
+      "name:pnb": "ٹورنٹو",
+      "name:az-Arab": "تورونتو",
+      "name:kk-Arab": "تورونتو",
+      "name:ku-Arab": "تۆرۆنتۆ",
+      "name:kab-Arab": "تورونتو"
+    }
+  },
+  {
+    "name": "Torrance",
+    "country": "United States Of America",
+    "latitude": 33.83584919959692,
+    "longitude": -118.34062880000002,
+    "other_names": {
+      "name": "Torrance"
+    }
+  },
+  {
+    "name": "Torrejón de Ardoz",
+    "country": "Spain",
+    "latitude": 40.45877670032751,
+    "longitude": -3.4793343,
+    "other_names": {
+      "name": "Torrejón de Ardoz",
+      "name:es": "Torrejón de Ardoz",
+      "name:hu": "Torrejón de Ardoz",
+      "name:lt": "Torechon de Ardosas",
+      "name:ru": "Торрехон-де-Ардос",
+      "name:sr": "Торехон де Ардос",
+      "name:uk": "Торрехон-де-Ардос"
+    }
+  },
+  {
+    "name": "Torreón",
+    "country": "Mexico",
+    "latitude": 25.542698000209082,
+    "longitude": -103.41051199999998,
+    "other_names": {
+      "name": "Torreón",
+      "name:ar": "توريون",
+      "name:ru": "Торреон"
+    }
+  },
+  {
+    "name": "Torres Novas",
+    "country": "Portugal",
+    "latitude": 39.47962000019487,
+    "longitude": -8.53955,
+    "other_names": {
+      "name": "Torres Novas"
+    }
+  },
+  {
+    "name": "Torrington",
+    "country": "United States Of America",
+    "latitude": 42.06246500049078,
+    "longitude": -104.184394,
+    "other_names": {
+      "name": "Torrington",
+      "name:ru": "Торрингтон"
+    }
+  },
+  {
+    "name": "Torrington",
+    "country": "United States Of America",
+    "latitude": 41.8006523004706,
+    "longitude": -73.1212214,
+    "other_names": {
+      "name": "Torrington"
+    }
+  },
+  {
+    "name": "Toruń",
+    "country": "Poland",
+    "latitude": 53.01027209908819,
+    "longitude": 18.6048094,
+    "other_names": {
+      "name": "Toruń",
+      "name:be": "Торунь",
+      "name:de": "Thorn",
+      "name:eo": "Toruno",
+      "name:he": "טורון",
+      "name:ja": "トルン",
+      "name:la": "Thorunium",
+      "name:lt": "Torunė",
+      "name:mk": "Торуњ",
+      "name:pl": "Toruń",
+      "name:ru": "Торунь",
+      "name:sk": "Toruň",
+      "name:uk": "Торунь",
+      "name:nds": "Thorn",
+      "name:szl": "Torůń",
+      "old_name": "Thorn"
+    }
+  },
+  {
+    "name": "Tosa",
+    "country": "Japan",
+    "latitude": 33.49601679959012,
+    "longitude": 133.425544,
+    "other_names": {
+      "name": "土佐市",
+      "name:ar": "توسا، كوتشي",
+      "name:de": "Tosa",
+      "name:en": "Tosa",
+      "name:es": "Tosa",
+      "name:fr": "Tosa",
+      "name:ja": "土佐市",
+      "name:ko": "도사시",
+      "name:lt": "Tosa",
+      "name:pl": "Tosa",
+      "name:ru": "Тоса",
+      "name:uk": "Тоса",
+      "name:zh": "土佐市",
+      "int_name": "Tosa",
+      "name:ja_rm": "Tosa-shi",
+      "name:ja_kana": "とさし",
+      "name:zh-Hans": "土佐市",
+      "name:zh-Hant": "土佐市"
+    }
+  },
+  {
+    "name": "Tosashimizu",
+    "country": "Japan",
+    "latitude": 32.78162129958932,
+    "longitude": 132.9548557,
+    "other_names": {
+      "name": "土佐清水市",
+      "name:ar": "توساشيميزو، كوتشي",
+      "name:de": "Tosashimizu",
+      "name:en": "Tosashimizu",
+      "name:es": "Tosashimizu",
+      "name:fr": "Tosashimizu",
+      "name:ja": "土佐清水市",
+      "name:ko": "도사시미즈시",
+      "name:pl": "Tosashimizu",
+      "name:ru": "Тосасимидзу",
+      "name:uk": "Тоса-Шімідзу",
+      "name:zh": "土佐清水市",
+      "int_name": "Tosashimizu",
+      "name:ja_kana": "とさしみずし",
+      "name:zh-Hans": "土佐清水市",
+      "name:zh-Hant": "土佐清水市"
+    }
+  },
+  {
+    "name": "Toshima",
+    "country": "Japan",
+    "latitude": 35.73615599971034,
+    "longitude": 139.71422199999998,
+    "other_names": {
+      "name": "豊島区",
+      "name:ar": "توشيما، طوكيو",
+      "name:de": "Toshima",
+      "name:en": "Toshima",
+      "name:es": "Toshima",
+      "name:fr": "Toshima",
+      "name:it": "Toshima",
+      "name:ja": "豊島区",
+      "name:ko": "도시마구",
+      "name:lt": "Tošima",
+      "name:pl": "Toshima",
+      "name:ru": "Тосима",
+      "name:uk": "Район Тосіма",
+      "name:ja-Hira": "としまく",
+      "name:ja-Latn": "Toshima-ku"
+    }
+  },
+  {
+    "name": "Tosu",
+    "country": "Japan",
+    "latitude": 33.37785359958875,
+    "longitude": 130.5061966,
+    "other_names": {
+      "name": "鳥栖市",
+      "name:ar": "توسو، ساغا",
+      "name:de": "Tosu",
+      "name:en": "Tosu",
+      "name:es": "Tosu",
+      "name:fr": "Tosu",
+      "name:ja": "鳥栖市",
+      "name:ko": "도스시",
+      "name:pl": "Tosu",
+      "name:ru": "Тосу",
+      "name:uk": "Тосу",
+      "name:zh": "鸟栖市",
+      "int_name": "Tosu",
+      "name:zh-Hans": "鸟栖市",
+      "name:zh-Hant": "鳥栖市"
+    }
+  },
+  {
+    "name": "Tottori",
+    "country": "Japan",
+    "latitude": 35.49439479968913,
+    "longitude": 134.22192819999998,
+    "other_names": {
+      "name": "鳥取市",
+      "name:ar": "توتوري، توتوري",
+      "name:cs": "Tottori",
+      "name:de": "Tottori",
+      "name:en": "Tottori",
+      "name:es": "Tottori",
+      "name:et": "Tottori",
+      "name:fr": "Tottori",
+      "name:ja": "鳥取市",
+      "name:ko": "돗토리시",
+      "name:lt": "Totoris",
+      "name:pl": "Tottori",
+      "name:ru": "Тоттори",
+      "name:sr": "Тотори",
+      "name:uk": "Тотторі",
+      "name:ja_rm": "Tottori-shi",
+      "name:ja_kana": "とっとり"
+    }
+  },
+  {
+    "name": "Touba",
+    "country": "Senegal And Gambia",
+    "latitude": 14.864558999891273,
+    "longitude": -15.876047,
+    "other_names": {
+      "name": "Touba",
+      "name:ar": "طوبى",
+      "name:he": "טובא",
+      "name:ko": "투바",
+      "name:ru": "Туба"
+    }
+  }
+]

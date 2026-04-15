@@ -1,0 +1,316 @@
+[
+  {
+    "name": "Tuquan",
+    "country": "China",
+    "latitude": 45.37747280042784,
+    "longitude": 121.5563825,
+    "other_names": {
+      "name": "突泉县",
+      "name:en": "Tuquan",
+      "name:mn": "ᠲᠦᠴᠢᠤᠸᠠᠨ ᠰᠢᠶᠠᠨ",
+      "name:ru": "Туцюань",
+      "name:vi": "Đột Tuyền",
+      "name:zh": "突泉县",
+      "alt_name": "突泉;Тучуань;Tuquan City",
+      "int_name": "Tuquan",
+      "name:zh-Hant": "突泉縣",
+      "official_name": "突泉县"
+    }
+  },
+  {
+    "name": "Turbat",
+    "country": "Pakistan",
+    "latitude": 26.002789400163966,
+    "longitude": 63.0505609,
+    "other_names": {
+      "name": "تُربت",
+      "name:ar": "ترنت",
+      "name:de": "Turbat",
+      "name:en": "Turbat",
+      "name:es": "Turbat",
+      "name:fr": "Turbat",
+      "name:hi": "तुर्बत",
+      "name:ja": "トゥルバット",
+      "name:ru": "Турбат",
+      "name:uk": "Турбат",
+      "name:ur": "تربت",
+      "name:bal": "تُربت"
+    }
+  },
+  {
+    "name": "Turda",
+    "country": "Romania",
+    "latitude": 46.56683363771841,
+    "longitude": 23.792627681890707,
+    "other_names": {
+      "name": "Turda",
+      "name:hu": "Torda",
+      "name:ro": "Turda",
+      "name:ru": "Турда"
+    }
+  },
+  {
+    "name": "Turda",
+    "country": "Romania",
+    "latitude": 46.56497060024625,
+    "longitude": 23.779842399999996,
+    "other_names": {
+      "name": "Turda",
+      "name:de": "Thorenburg",
+      "name:hu": "Torda",
+      "name:ru": "Турда"
+    }
+  },
+  {
+    "name": "Turén (Villa Bruzual)",
+    "country": "Venezuela",
+    "latitude": 9.330015916528726,
+    "longitude": -69.11801967865829,
+    "other_names": {
+      "name": "Turén (Villa Bruzual)"
+    }
+  },
+  {
+    "name": "Turén (Villa Bruzual)",
+    "country": "Venezuela",
+    "latitude": 9.33195669941077,
+    "longitude": -69.1191567,
+    "other_names": {
+      "name": "Turén (Villa Bruzual)"
+    }
+  },
+  {
+    "name": "Turin",
+    "country": "Italy",
+    "latitude": 45.06775510046163,
+    "longitude": 7.682489200000001,
+    "other_names": {
+      "name": "Torino",
+      "name:ar": "تورينو",
+      "name:be": "Турын",
+      "name:ca": "Torí",
+      "name:cs": "Turín",
+      "name:de": "Turin",
+      "name:el": "Τορίνο",
+      "name:en": "Turin",
+      "name:eo": "Torino",
+      "name:es": "Turín",
+      "name:fa": "تورین",
+      "name:fi": "Torino",
+      "name:fr": "Turin",
+      "name:fy": "Turyn",
+      "name:gl": "Turín",
+      "name:hr": "Torino",
+      "name:it": "Torino",
+      "name:la": "Augusta Taurinorum",
+      "name:lb": "Turin",
+      "name:nl": "Turijn",
+      "name:oc": "Turin",
+      "name:pl": "Turyn",
+      "name:pt": "Turim",
+      "name:ru": "Турин",
+      "name:sk": "Turín",
+      "name:sl": "Turin",
+      "name:sv": "Turin",
+      "name:uk": "Турин",
+      "name:zh": "都灵",
+      "name:fur": "Turin",
+      "name:pms": "Turin",
+      "name:zh-Hans": "都灵",
+      "name:zh-Hant": "杜林"
+    }
+  },
+  {
+    "name": "Turkmenabat",
+    "country": "Turkmenistan",
+    "latitude": 39.073383900136555,
+    "longitude": 63.58315640000001,
+    "other_names": {
+      "name": "Türkmenabat",
+      "name:ar": "تركمان أباد",
+      "name:de": "Türkmenabat",
+      "name:en": "Turkmenabat",
+      "name:es": "Türkmenabat",
+      "name:fr": "Türkmenabat",
+      "name:ru": "Туркменабад",
+      "name:tk": "Türkmenabat"
+    }
+  },
+  {
+    "name": "Turkmenbashy",
+    "country": "Turkmenistan",
+    "latitude": 40.00531690026803,
+    "longitude": 52.9928838,
+    "other_names": {
+      "name": "Türkmenbaşy",
+      "name:de": "Türkmenbaşy",
+      "name:en": "Turkmenbashy",
+      "name:es": "Turkmenbashi",
+      "name:fr": "Türkmenbaşy",
+      "name:ja": "トルクメンバシ",
+      "name:ko": "투르크멘바시",
+      "name:mk": "Туркменбаши",
+      "name:ru": "Туркменбашы",
+      "name:tk": "Türkmenbaşy",
+      "name:uk": "Туркменбаші",
+      "old_name": "Красноводск",
+      "alt_name:mk": "Красноводск",
+      "old_name:ru": "Красноводск",
+      "old_name:tk": "Krasnowodsk",
+      "old_name:tk:1820-1881": "Şagadam;Шагадам;Ша-Кадам"
+    }
+  },
+  {
+    "name": "Türkmengala",
+    "country": "Turkmenistan",
+    "latitude": 37.429498099903725,
+    "longitude": 62.33041619999999,
+    "other_names": {
+      "name": "Türkmengala",
+      "name:tk": "Türkmengala"
+    }
+  },
+  {
+    "name": "Turku",
+    "country": "Finland",
+    "latitude": 60.45175310171455,
+    "longitude": 22.267052199999995,
+    "other_names": {
+      "name": "Turku",
+      "name:ar": "توركو",
+      "name:et": "Turu",
+      "name:fa": "تورکو",
+      "name:fi": "Turku",
+      "name:hu": "Turku",
+      "name:lt": "Turku",
+      "name:mk": "Турку",
+      "name:ru": "Турку",
+      "name:sv": "Åbo",
+      "name:zh": "圖爾庫"
+    }
+  },
+  {
+    "name": "Turlock",
+    "country": "United States Of America",
+    "latitude": 37.49465679991242,
+    "longitude": -120.8465941,
+    "other_names": {
+      "name": "Turlock"
+    }
+  },
+  {
+    "name": "Turmero",
+    "country": "Venezuela",
+    "latitude": 10.223069799449526,
+    "longitude": -67.4807443,
+    "other_names": {
+      "name": "Turmero"
+    }
+  },
+  {
+    "name": "Turnu Măgurele",
+    "country": "Romania",
+    "latitude": 43.757026665880296,
+    "longitude": 24.86795063068541,
+    "other_names": {
+      "name": "Turnu Măgurele",
+      "name:ru": "Турну-Мэгуреле"
+    }
+  },
+  {
+    "name": "Turpan",
+    "country": "China",
+    "latitude": 42.94002520053496,
+    "longitude": 89.18404769999998,
+    "other_names": {
+      "name": "吐鲁番市",
+      "name:ar": "توربان",
+      "name:de": "Turpan",
+      "name:en": "Turpan",
+      "name:es": "Turfán",
+      "name:et": "Turpan",
+      "name:fa": "تورفان",
+      "name:fr": "Tourfan",
+      "name:he": "טורפן",
+      "name:hi": "तुरफ़ान",
+      "name:ja": "トルファン市",
+      "name:ru": "Турфан",
+      "name:tr": "Turfan",
+      "name:ug": "تۇرپان",
+      "name:ur": "تورپان",
+      "name:vi": "Turfan/Thổ Lỗ Phiên",
+      "name:zh": "吐鲁番市",
+      "alt_name": "吐鲁番市;Tulufan",
+      "int_name": "Turpan",
+      "name:azb": "تورفان",
+      "name:pnb": "تورفان",
+      "alt_name:en": "Turfan;Tulufan",
+      "alt_name:ug": "تۇرپان شەھىرى",
+      "name:zh-Hant": "吐魯番市",
+      "name:zh_pinyin": "Tǔlǔfān Shì"
+    }
+  },
+  {
+    "name": "Tuscaloosa",
+    "country": "United States Of America",
+    "latitude": 33.20956139958762,
+    "longitude": -87.56752579999998,
+    "other_names": {
+      "name": "Tuscaloosa",
+      "name:en": "Tuscaloosa",
+      "name:ru": "Таскалуса",
+      "name:uk": "Таскалуса"
+    }
+  },
+  {
+    "name": "Từ Sơn",
+    "country": "Vietnam",
+    "latitude": 21.11330900040623,
+    "longitude": 105.9568611,
+    "other_names": {
+      "name": "Từ Sơn",
+      "name:en": "Từ Sơn",
+      "name:ko": "뚜선",
+      "name:ru": "Тысон",
+      "name:vi": "Từ Sơn",
+      "name:zh": "慈山市社"
+    }
+  },
+  {
+    "name": "Túxpam",
+    "country": "Mexico",
+    "latitude": 20.951837800403442,
+    "longitude": -97.40453709999998,
+    "other_names": {
+      "name": "Túxpam",
+      "alt_name": "Túxpam de Rodríguez Cano"
+    }
+  },
+  {
+    "name": "Tuxtepec",
+    "country": "Mexico",
+    "latitude": 18.08746320024174,
+    "longitude": -96.1227767,
+    "other_names": {
+      "name": "Tuxtepec",
+      "alt_name": "San Juan Bautista Tuxtepec"
+    }
+  },
+  {
+    "name": "Tuxtla Gutiérrez",
+    "country": "Mexico",
+    "latitude": 16.75380100010902,
+    "longitude": -93.115959,
+    "other_names": {
+      "name": "Tuxtla Gutiérrez",
+      "name:ar": "توكستلا غوتيريز",
+      "name:en": "Tuxtla Gutiérrez",
+      "name:es": "Tuxtla Gutiérrez",
+      "name:pl": "Tuxtla Gutiérrez",
+      "name:ru": "Тустла-Гутьеррес",
+      "name:uk": "Тустла-Ґутьєррес",
+      "int_name": "Tuxtla Gutierrez",
+      "alt_name:ar": "توستلا غوتييرز"
+    }
+  }
+]

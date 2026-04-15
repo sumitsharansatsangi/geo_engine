@@ -1,0 +1,414 @@
+[
+  {
+    "name": "Jianhe",
+    "country": "China",
+    "latitude": 26.733222800087088,
+    "longitude": 108.45092929999998,
+    "other_names": {
+      "name": "剑河县",
+      "name:en": "Jianhe",
+      "name:zh": "剑河",
+      "alt_name": "剑河县;革东镇;革东;Gedong",
+      "name:zh-Hant": "劍河縣",
+      "name:zh_pinyin": "gédōng zhèn"
+    }
+  },
+  {
+    "name": "Jianhu",
+    "country": "China",
+    "latitude": 33.47024979958978,
+    "longitude": 119.79489419999999,
+    "other_names": {
+      "name": "建湖县",
+      "name:en": "Jianhu",
+      "name:zh": "建湖县",
+      "name:zh-Hant": "建湖縣"
+    }
+  },
+  {
+    "name": "Jianli",
+    "country": "China",
+    "latitude": 29.842374899754077,
+    "longitude": 112.8992629,
+    "other_names": {
+      "name": "监利市",
+      "name:en": "Jianli",
+      "name:vi": "Giam Lợi",
+      "name:zh": "监利市",
+      "old_name": "监利县",
+      "alt_name:vi": "Giám Lợi",
+      "name:zh-Hant": "監利市",
+      "name:zh_pinyin": "Jianli Shi"
+    }
+  },
+  {
+    "name": "Jianning",
+    "country": "China",
+    "latitude": 26.834282600076076,
+    "longitude": 116.84140599999999,
+    "other_names": {
+      "name": "建宁县",
+      "name:de": "Jianning",
+      "name:en": "Jianning",
+      "name:es": "Jiànníng",
+      "name:fr": "Jianning",
+      "name:it": "Jianning",
+      "name:ja": "建寧県",
+      "name:ko": "젠닝현",
+      "name:ru": "Суйчен",
+      "name:vi": "Kiến Ninh",
+      "name:zh": "建宁县",
+      "alt_name": "建宁;Jianning County",
+      "name:cdo": "Gióng-nìng",
+      "name:gan": "建寧",
+      "name:hak": "Kien-nèn-yen",
+      "name:nan": "Kiàn-lêng-koān",
+      "name:yue": "建寧",
+      "name:zh-Hant": "建寧縣",
+      "name:zh_pinyin": "jiànníng xiàn"
+    }
+  },
+  {
+    "name": "Jian'ou",
+    "country": "China",
+    "latitude": 27.02610590005499,
+    "longitude": 118.2999166,
+    "other_names": {
+      "name": "建瓯市",
+      "name:ar": "جياناو",
+      "name:cy": "Jian'ou",
+      "name:de": "Jian’ou",
+      "name:en": "Jian'ou",
+      "name:es": "Jiànōu Shì",
+      "name:fa": "جیاناو",
+      "name:fr": "Jian'ou",
+      "name:it": "Jian'ou",
+      "name:ja": "建甌市",
+      "name:ki": "Jian'ou",
+      "name:ko": "젠어우시",
+      "name:mg": "Jian'ou",
+      "name:nl": "Jian'ou",
+      "name:nn": "Jian'ou",
+      "name:no": "Jian'ou",
+      "name:pl": "Jian’ou",
+      "name:ru": "Чжичэн",
+      "name:sv": "Jian'ou",
+      "name:ur": "جیان اوو",
+      "name:vi": "Kiến Âu",
+      "name:zh": "建瓯市",
+      "alt_name": "建瓯;Jian'ou City",
+      "name:cdo": "Gióng-ĕu",
+      "name:ceb": "Jian'ou",
+      "name:hak": "Kien-êu-sṳ",
+      "name:mwl": "Jian'ou",
+      "name:nan": "Kiàn-au-chhī",
+      "name:pam": "Jian'ou",
+      "name:pnb": "جیان اوؤ",
+      "name:yue": "建甌",
+      "name:zh-Hant": "建甌市",
+      "name:zh_pinyin": "Jiàn'ōu Shì"
+    }
+  },
+  {
+    "name": "Jianping",
+    "country": "China",
+    "latitude": 41.39981030043423,
+    "longitude": 119.62984780000001,
+    "other_names": {
+      "name": "建平县",
+      "name:en": "Jianping",
+      "name:ja": "建平県",
+      "name:ru": "Ебайшоу",
+      "name:zh": "建平县",
+      "name:zh-Hant": "建平縣"
+    }
+  },
+  {
+    "name": "Jianshan",
+    "country": "China",
+    "latitude": 46.63922480023239,
+    "longitude": 131.15090899999998,
+    "other_names": {
+      "name": "尖山区",
+      "name:en": "Jianshan",
+      "name:zh": "尖山区",
+      "alt_name": "尖山;Jianshan District",
+      "name:zh-Hant": "尖山區"
+    }
+  },
+  {
+    "name": "Jianshi",
+    "country": "China",
+    "latitude": 30.60474809968944,
+    "longitude": 109.71722960000001,
+    "other_names": {
+      "name": "建始县",
+      "name:en": "Jianshi",
+      "name:zh": "建始县",
+      "alt_name": "建始;Jianshi County",
+      "name:zh-Hant": "建始縣"
+    }
+  },
+  {
+    "name": "Jianshui",
+    "country": "China",
+    "latitude": 23.636260400354402,
+    "longitude": 102.8263741,
+    "other_names": {
+      "name": "建水县",
+      "name:en": "Jianshui",
+      "name:vi": "Kiến Thủy",
+      "name:zh": "建水县",
+      "alt_name": "建水;Jianshui County",
+      "name:zh-Hant": "建水縣",
+      "name:zh_pinyin": "Jiànshuǐxiàn"
+    }
+  },
+  {
+    "name": "Jianxi",
+    "country": "China",
+    "latitude": 34.67166999963137,
+    "longitude": 112.37220399999998,
+    "other_names": {
+      "name": "涧西区",
+      "name:en": "Jianxi",
+      "name:zh": "涧西区",
+      "alt_name": "涧西;Jianxi District",
+      "name:zh-Hant": "澗西區"
+    }
+  },
+  {
+    "name": "Jianyang",
+    "country": "China",
+    "latitude": 30.391554399706273,
+    "longitude": 104.55321069999998,
+    "other_names": {
+      "name": "简阳市",
+      "name:de": "Jianyang",
+      "name:en": "Jianyang",
+      "name:fr": "Jianyang",
+      "name:ja": "簡陽市",
+      "name:ru": "Цзяньян",
+      "name:vi": "Giản Dương",
+      "name:zh": "简阳市",
+      "alt_name": "简阳;Jianyang City",
+      "name:zh-Hant": "簡陽市",
+      "name:zh_pinyin": "Jiǎnyáng Shì"
+    }
+  },
+  {
+    "name": "Jianyang",
+    "country": "China",
+    "latitude": 27.335080000020664,
+    "longitude": 118.11528209999997,
+    "other_names": {
+      "name": "建阳区",
+      "name:de": "Jianyang",
+      "name:en": "Jianyang",
+      "name:es": "Jiànyáng",
+      "name:fa": "جیانیانگ",
+      "name:fr": "Jianyang",
+      "name:it": "Jianyang",
+      "name:ja": "建陽区",
+      "name:ko": "젠양구",
+      "name:nl": "Jianyang",
+      "name:no": "Jianyang",
+      "name:sv": "Jianyang, Nanping",
+      "name:ur": "جیآنیانگ، فوجیان",
+      "name:vi": "Kiến Dương",
+      "name:zh": "建阳区",
+      "alt_name": "建阳;Jianyang District",
+      "name:cdo": "Gióng-iòng",
+      "name:hak": "Kien-yòng-khî",
+      "name:mwl": "Jianyang",
+      "name:nan": "Kiàn-iông-khu",
+      "name:pam": "Jianyang",
+      "name:pnb": "جیانیانگ",
+      "name:yue": "建陽",
+      "old_name": "建阳市;建阳县",
+      "name:zh-Hant": "建陽區",
+      "name:zh_pinyin": "Jiànyáng Qū"
+    }
+  },
+  {
+    "name": "Jianye District",
+    "country": "China",
+    "latitude": 32.006383599608355,
+    "longitude": 118.72710090000001,
+    "other_names": {
+      "name": "建邺区",
+      "name:de": "Jianye",
+      "name:en": "Jianye District",
+      "name:es": "Jianye",
+      "name:eu": "Jianye Barrutia",
+      "name:fr": "District de Jianye",
+      "name:id": "Distrik Jianye",
+      "name:it": "Distretto di Jianye",
+      "name:ja": "建ギョウ区",
+      "name:ko": "젠예구",
+      "name:no": "Jianye",
+      "name:pt": "Distrito de Jianye",
+      "name:ru": "Цзянье",
+      "name:sv": "Jianye Qu",
+      "name:uk": "Цзяньє",
+      "name:ur": "جیانیے ضلع",
+      "name:vi": "Kiến Nghiệp",
+      "name:zh": "建邺区",
+      "name:nan": "Kiàn-gia̍p-khu",
+      "name:wuu": "建邺区",
+      "name:yue": "建鄴區",
+      "name:zh-Hant": "建鄴區",
+      "name:zh_pinyin": "Jianye Qu"
+    }
+  },
+  {
+    "name": "Jianzha",
+    "country": "China",
+    "latitude": 35.93993269972962,
+    "longitude": 102.02855989999999,
+    "other_names": {
+      "name": "尖扎县",
+      "name:bo": "གཅན་ཚ་",
+      "name:de": "Jainca",
+      "name:en": "Jianzha",
+      "name:es": "Jainca",
+      "name:fr": "Jainca",
+      "name:zh": "尖扎县",
+      "alt_name": "尖扎;马克唐;马克唐;马克唐镇;马克堂镇;Maketang;Magitang;Magi Tang;མ་གི་ཐང་།",
+      "alt_name:en": "Ma-kai-t'ang;Chien-cha;Janca;Ma-k'o;Ma-k'o-t'ang;Jianza;Jainca;Jianza Xian",
+      "name:zh-Hant": "尖扎縣",
+      "name:zh_pinyin": "mǎkètáng zhèn"
+    }
+  },
+  {
+    "name": "Jiao",
+    "country": "China",
+    "latitude": 30.912531599667048,
+    "longitude": 117.8035201,
+    "other_names": {
+      "name": "郊区",
+      "name:de": "Jiao",
+      "name:en": "Jiao",
+      "name:es": "Jiāo Qū",
+      "name:fr": "District de Jiao",
+      "name:it": "Distretto di Yuejiang",
+      "name:ja": "郊区",
+      "name:ko": "자오구",
+      "name:no": "Jiao",
+      "name:pl": "Yuejiang",
+      "name:ru": "Юэцзян",
+      "name:sv": "Jiaoqu",
+      "name:ur": "جیاوچو، تونگلنگ",
+      "name:vi": "Giao",
+      "name:zh": "郊区",
+      "alt_name": "郊;Jiaoqu;Jiao District",
+      "name:mwl": "Jiaoqu",
+      "name:nan": "Kau-khu",
+      "name:yue": "郊區",
+      "name:zh-Hant": "郊區",
+      "name:zh_pinyin": "jiāo qū"
+    }
+  },
+  {
+    "name": "Jiao",
+    "country": "China",
+    "latitude": 46.793856300202634,
+    "longitude": 130.3173147,
+    "other_names": {
+      "name": "永红区",
+      "name:en": "Jiao",
+      "name:vi": "Vĩnh Hồng",
+      "name:zh": "永红区",
+      "alt_name": "永红;Jiao District",
+      "name:zh-Hant": "永紅區",
+      "name:zh_pinyin": "Yonghong Qu"
+    }
+  },
+  {
+    "name": "Jiaocheng",
+    "country": "China",
+    "latitude": 37.55458519992048,
+    "longitude": 112.1539251,
+    "other_names": {
+      "name": "交城县",
+      "name:en": "Jiaocheng",
+      "name:ja": "交城県",
+      "name:zh": "交城县",
+      "alt_name": "天宁镇;天宁;交城;Tianning Zhen;Jiaocheng Xian;Tianning;Jiaocheng;Tszyaochen;Kiaochenghsien;Chiao-ch'eng-hsien;Chiao-ch'eng",
+      "name:zh-Hant": "交城縣"
+    }
+  },
+  {
+    "name": "Jiaocheng",
+    "country": "China",
+    "latitude": 26.66376890009461,
+    "longitude": 119.52176029999998,
+    "other_names": {
+      "name": "蕉城区",
+      "name:de": "Jiaocheng",
+      "name:en": "Jiaocheng",
+      "name:es": "Jiāochéng",
+      "name:fr": "Jiaocheng",
+      "name:it": "Jiaocheng",
+      "name:ja": "蕉城区",
+      "name:ko": "자오청구",
+      "name:no": "Jiaocheng",
+      "name:sv": "Jiaocheng",
+      "name:vi": "Tiêu Thành",
+      "name:zh": "蕉城区",
+      "alt_name": "蕉城;Jiaocheng District",
+      "name:cdo": "Ciĕu-siàng",
+      "name:hak": "Chiâu-sàng-khî",
+      "name:mwl": "Jiaocheng",
+      "name:nan": "Chio-siâⁿ-khu",
+      "name:yue": "蕉城",
+      "name:zh-Hant": "蕉城區"
+    }
+  },
+  {
+    "name": "Jiaohe",
+    "country": "China",
+    "latitude": 43.72131010053965,
+    "longitude": 127.3420195,
+    "other_names": {
+      "name": "蛟河市",
+      "name:de": "Jiaohe",
+      "name:en": "Jiaohe",
+      "name:fr": "Jiaohe",
+      "name:ja": "蛟河市",
+      "name:ru": "Цзяохэ",
+      "name:uk": "Цзяохе",
+      "name:vi": "Giao Hà",
+      "name:zh": "蛟河市",
+      "name:zh-Hant": "蛟河市",
+      "name:zh_pinyin": "Jiāohé Shì"
+    }
+  },
+  {
+    "name": "Jiaojiang District",
+    "country": "China",
+    "latitude": 28.676645999871802,
+    "longitude": 121.43822009999998,
+    "other_names": {
+      "name": "椒江区",
+      "name:de": "Jiaojiang",
+      "name:en": "Jiaojiang District",
+      "name:fr": "District de Jiaojiang",
+      "name:it": "Distretto di Jiaojiang",
+      "name:ja": "椒江区",
+      "name:ko": "자오장구",
+      "name:no": "Jiaojiang",
+      "name:sr": "Ђаођанг",
+      "name:sv": "Jiaojiang",
+      "name:vi": "Tiêu Giang",
+      "name:zh": "椒江区",
+      "name:ceb": "Jiaojiang",
+      "name:nan": "Chiau-kang-khu",
+      "name:war": "Jiaojiang",
+      "name:wuu": "椒江区",
+      "name:yue": "椒江區",
+      "name:zh-Hant": "椒江區",
+      "name:zh_pinyin": "Jiāojiāng Qū"
+    }
+  }
+]

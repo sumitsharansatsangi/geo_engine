@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Pedernales",
+    "country": "Haiti And Domrep",
+    "latitude": 18.04315980023779,
+    "longitude": -71.74320929999999,
+    "other_names": {
+      "name": "Pedernales"
+    }
+  },
+  {
+    "name": "Pedro Juan Caballero",
+    "country": "Brazil",
+    "latitude": -22.549778100127362,
+    "longitude": -55.738431199999994,
+    "other_names": {
+      "name": "Pedro Juan Caballero",
+      "old_name": "Punta Porã"
+    }
+  },
+  {
+    "name": "Pedro Juan Caballero",
+    "country": "Paraguay",
+    "latitude": -22.549778100127362,
+    "longitude": -55.738431199999994,
+    "other_names": {
+      "name": "Pedro Juan Caballero",
+      "old_name": "Punta Porã"
+    }
+  },
+  {
+    "name": "Peixian",
+    "country": "China",
+    "latitude": 34.7300366996347,
+    "longitude": 116.9328854,
+    "other_names": {
+      "name": "沛县",
+      "name:en": "Peixian",
+      "name:uk": "Пейсянь",
+      "name:vi": "Bái",
+      "name:zh": "沛县",
+      "name:zh-Hant": "沛縣",
+      "name:zh_pinyin": "Pei Xian"
+    }
+  },
+  {
+    "name": "Pekalongan",
+    "country": "Indonesia",
+    "latitude": -6.893962299707211,
+    "longitude": 109.67317580000001,
+    "other_names": {
+      "name": "Pekalongan",
+      "name:ja": "ペカロンガン",
+      "name:ko": "프칼롱안",
+      "name:ta": "பெக்காலோஙான்",
+      "name:th": "เปอกาโลงัน",
+      "name:uk": "Пекалонґан",
+      "name:zh": "北加浪岸"
+    }
+  },
+  {
+    "name": "Pekanbaru",
+    "country": "Indonesia",
+    "latitude": 0.526245499945097,
+    "longitude": 101.45157269999999,
+    "other_names": {
+      "name": "Pekanbaru",
+      "name:id": "Pekanbaru",
+      "name:pt": "Pekanbaru",
+      "name:zh": "北干巴鲁"
+    }
+  },
+  {
+    "name": "Pelotas",
+    "country": "Brazil",
+    "latitude": -31.769973599389644,
+    "longitude": -52.34101609999999,
+    "other_names": {
+      "name": "Pelotas",
+      "name:bg": "Пелотас",
+      "name:ja": "ペロータス",
+      "name:kk": "Пелотас",
+      "name:ko": "펠로타스",
+      "name:la": "Pelotae",
+      "name:lt": "Pelotasas",
+      "name:lv": "Pelotasa",
+      "name:mk": "Пелоташ",
+      "name:pt": "Pelotas",
+      "name:ru": "Пелотас",
+      "name:sr": "Пелотас",
+      "name:zh": "佩洛塔斯"
+    }
+  },
+  {
+    "name": "Pematang Siantar",
+    "country": "Indonesia",
+    "latitude": 2.9588630996866514,
+    "longitude": 99.0653646,
+    "other_names": {
+      "name": "Pematang Siantar",
+      "name:en": "Pematang Siantar",
+      "name:id": "Pematang Siantar",
+      "name:ja": "ペマタンシアンタル",
+      "name:ms": "Permatang Siantar",
+      "name:ru": "Пематангсиантар",
+      "name:zh": "先达"
+    }
+  },
+  {
+    "name": "Pemba",
+    "country": "Mozambique",
+    "latitude": -12.973566300208956,
+    "longitude": 40.5214905,
+    "other_names": {
+      "name": "Pemba",
+      "name:ko": "펨바",
+      "name:ru": "Пемба"
+    }
+  },
+  {
+    "name": "Pembroke",
+    "country": "Canada",
+    "latitude": 45.82609090036861,
+    "longitude": -77.113541,
+    "other_names": {
+      "name": "Pembroke"
+    }
+  },
+  {
+    "name": "Pembroke Pines",
+    "country": "United States Of America",
+    "latitude": 26.00314650016392,
+    "longitude": -80.22393699999999,
+    "other_names": {
+      "name": "Pembroke Pines"
+    }
+  },
+  {
+    "name": "Peng'an",
+    "country": "China",
+    "latitude": 31.03639669965872,
+    "longitude": 106.4053991,
+    "other_names": {
+      "name": "蓬安县",
+      "name:en": "Peng'an",
+      "name:zh": "蓬安县",
+      "alt_name": "蓬安;Peng'an County",
+      "name:zh-Hant": "蓬安縣"
+    }
+  },
+  {
+    "name": "Pengerang",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 1.3645192998551499,
+    "longitude": 104.1113562,
+    "other_names": {
+      "name": "Pengerang",
+      "name:zh": "边佳兰"
+    }
+  },
+  {
+    "name": "Pengjiang",
+    "country": "China",
+    "latitude": 22.598005500397143,
+    "longitude": 113.07306969999999,
+    "other_names": {
+      "name": "蓬江区",
+      "name:de": "Pengjiang",
+      "name:en": "Pengjiang",
+      "name:fa": "پنگژیانگ",
+      "name:fr": "District de Pengjiang",
+      "name:it": "Distretto di Pengjiang",
+      "name:ja": "蓬江区",
+      "name:ko": "펑장구",
+      "name:no": "Pengjiang",
+      "name:sv": "Pengjiang",
+      "name:vi": "Bồng Giang",
+      "name:zh": "蓬江区",
+      "alt_name": "蓬江;Pengjiang District",
+      "name:hak": "Phùng-kông-khî",
+      "name:mwl": "Pengjiang",
+      "name:nan": "Phōng-kang-khu",
+      "name:yue": "蓬江区",
+      "name:zh-Hans": "蓬江区",
+      "name:zh-Hant": "蓬江區",
+      "name:yue-Latn": "Punggong-kui",
+      "name:zh_pinyin": "Péngjiāng Qū"
+    }
+  },
+  {
+    "name": "Penglai District",
+    "country": "China",
+    "latitude": 37.79722249995367,
+    "longitude": 120.8351371,
+    "other_names": {
+      "name": "蓬莱区",
+      "name:de": "Penglai",
+      "name:en": "Penglai District",
+      "name:fr": "Penglai",
+      "name:ja": "蓬莱区",
+      "name:ru": "Пэнлай",
+      "name:vi": "Bồng Lai",
+      "name:zh": "蓬莱区",
+      "name:zh-Hant": "蓬萊區",
+      "name:zh_pinyin": "Pénglái Qū"
+    }
+  },
+  {
+    "name": "Pengshan",
+    "country": "China",
+    "latitude": 30.198110399722417,
+    "longitude": 103.8717011,
+    "other_names": {
+      "name": "彭山区",
+      "name:en": "Pengshan",
+      "name:fr": "Péngshān",
+      "name:uk": "Пеншан",
+      "name:vi": "Bành Sơn",
+      "name:zh": "彭山区",
+      "alt_name": "彭山;Pengshan District",
+      "int_name": "Pengshan",
+      "old_name": "彭山县;Pengshan County;Péngshān Xiàn",
+      "name:zh-Hant": "彭山區"
+    }
+  },
+  {
+    "name": "Pengshui",
+    "country": "China",
+    "latitude": 29.296287699806953,
+    "longitude": 108.16108449999999,
+    "other_names": {
+      "name": "彭水县",
+      "name:en": "Pengshui",
+      "name:vi": "Bành Thủy",
+      "name:zh": "彭水苗族土家族自治县",
+      "alt_name": "彭水;P'eng-shui Hsien;Pengshui Xian",
+      "short_name": "彭水县",
+      "alt_name:vi": "Bành Thuỷ",
+      "name:zh-Hant": "彭水縣",
+      "official_name": "彭水苗族土家族自治县",
+      "name:zh_pinyin": "péngshuǐ miáozú tǔjiāzú zìzhì xiàn"
+    }
+  },
+  {
+    "name": "Pengxi",
+    "country": "China",
+    "latitude": 30.765441499677472,
+    "longitude": 105.69671359999998,
+    "other_names": {
+      "name": "蓬溪县",
+      "name:en": "Pengxi",
+      "name:zh": "蓬溪县",
+      "alt_name": "蓬溪;Pengxi County",
+      "name:zh-Hant": "蓬溪縣"
+    }
+  },
+  {
+    "name": "Pengyang",
+    "country": "China",
+    "latitude": 35.85035319972099,
+    "longitude": 106.61853869999999,
+    "other_names": {
+      "name": "彭阳县",
+      "name:en": "Pengyang",
+      "name:ja": "彭陽県",
+      "name:sd": "پْعیْا ﺷِﯿًﺎ",
+      "name:zh": "彭阳县",
+      "alt_name": "彭阳;Pengyang County",
+      "name:zh-Hant": "彭陽縣"
+    }
+  },
+  {
+    "name": "Pengze",
+    "country": "China",
+    "latitude": 29.879555499750655,
+    "longitude": 116.55932779999999,
+    "other_names": {
+      "name": "彭泽县",
+      "name:en": "Pengze",
+      "name:zh": "彭泽县",
+      "name:zh-Hant": "彭澤縣"
+    }
+  }
+]

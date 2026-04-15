@@ -1,0 +1,349 @@
+[
+  {
+    "name": "Leizhou",
+    "country": "China",
+    "latitude": 20.916687700402743,
+    "longitude": 110.09177719999998,
+    "other_names": {
+      "name": "雷州市",
+      "name:ar": "ليزو (مدينة)",
+      "name:de": "Leizhou",
+      "name:en": "Leizhou",
+      "name:fa": "لیژو",
+      "name:fr": "Leizhou",
+      "name:it": "Leizhou",
+      "name:ja": "雷州市",
+      "name:ki": "Leizhou",
+      "name:ko": "레이저우시",
+      "name:no": "Leizhou",
+      "name:pl": "Leizhou",
+      "name:sv": "Leizhou",
+      "name:ur": "لائژوو",
+      "name:vi": "Lôi Châu",
+      "name:zh": "雷州市",
+      "alt_name": "雷州;雷州市;Leizhou City",
+      "int_name": "Leizhou",
+      "name:hak": "Lùi-chû-sṳ",
+      "name:mwl": "Leizhou",
+      "name:nan": "Lûi-chiu-chhī",
+      "name:pam": "Leizhou",
+      "name:pnb": "لیئیژوؤ",
+      "name:yue": "雷州",
+      "old_name": "海康县",
+      "old_name:en": "Haikang",
+      "name:zh-Hant": "雷州市",
+      "name:zh_pinyin": "Léizhōu Shì",
+      "old_name:zh-Hant": "海康縣"
+    }
+  },
+  {
+    "name": "Lelystad",
+    "country": "Netherlands",
+    "latitude": 52.51509489908765,
+    "longitude": 5.476891499999999,
+    "other_names": {
+      "name": "Lelystad",
+      "name:ar": "ليليستاد",
+      "name:de": "Lelystad",
+      "name:en": "Lelystad",
+      "name:es": "Lelystad",
+      "name:fa": "لیلی‌استاد",
+      "name:fr": "Lelystad",
+      "name:fy": "Lelystêd",
+      "name:lt": "Lelistadas",
+      "name:nl": "Lelystad",
+      "name:ru": "Лелистад",
+      "name:zh": "莱利斯塔德",
+      "name:carnaval": "Knarregat"
+    }
+  },
+  {
+    "name": "Le Mans",
+    "country": "France",
+    "latitude": 48.00738489993593,
+    "longitude": 0.19678489999999998,
+    "other_names": {
+      "name": "Le Mans",
+      "name:ar": "لو مان",
+      "name:be": "Ле Ман",
+      "name:bg": "Льо Ман",
+      "name:bn": "ল্য মঁস",
+      "name:br": "Ar Mañs",
+      "name:el": "Λε Μαν",
+      "name:en": "Le Mans",
+      "name:eo": "Manso",
+      "name:fa": "لو مان",
+      "name:fr": "Le Mans",
+      "name:he": "לה מאן",
+      "name:hu": "Le Mans",
+      "name:ja": "ル・マン",
+      "name:ka": "ლე-მანი",
+      "name:ko": "르망",
+      "name:la": "Vindunum",
+      "name:lt": "Le Manas",
+      "name:lv": "Lemāna",
+      "name:mk": "Ле Ман",
+      "name:oc": "Lo Mans",
+      "name:ru": "Ле Ман",
+      "name:sr": "Ле Ман",
+      "name:uk": "Ле Ман",
+      "name:ur": "لو مان",
+      "name:zh": "勒芒",
+      "name:mzn": "لومان",
+      "name:pnb": "لی مانس"
+    }
+  },
+  {
+    "name": "Leme",
+    "country": "Brazil",
+    "latitude": -22.185972100173743,
+    "longitude": -47.389764,
+    "other_names": {
+      "name": "Leme"
+    }
+  },
+  {
+    "name": "Lénakel",
+    "country": "Vanuatu",
+    "latitude": -19.531576200421277,
+    "longitude": 169.26776390000003,
+    "other_names": {
+      "name": "Lénakel",
+      "name:lt": "Lenakelis",
+      "alt_name": "Lenakel"
+    }
+  },
+  {
+    "name": "Lenexa",
+    "country": "United States Of America",
+    "latitude": 38.96974580012152,
+    "longitude": -94.7845837,
+    "other_names": {
+      "name": "Lenexa"
+    }
+  },
+  {
+    "name": "Lengshuijiang",
+    "country": "China",
+    "latitude": 27.6581324999845,
+    "longitude": 111.45347190000001,
+    "other_names": {
+      "name": "冷水江市",
+      "name:ar": "لينجشويجيانغ",
+      "name:de": "Lengshuijiang",
+      "name:en": "Lengshuijiang",
+      "name:es": "Lengshuijiang",
+      "name:fr": "Lengshuijiang",
+      "name:it": "Lengshuijiang",
+      "name:ja": "冷水江市",
+      "name:ki": "Lengshuijiang",
+      "name:ko": "렁수이장시",
+      "name:mg": "Lengshuijiang",
+      "name:no": "Lengshuijiang",
+      "name:ru": "Лэншуйцзян",
+      "name:sv": "Lengshuijiang",
+      "name:vi": "Lãnh Thủy Giang",
+      "name:zh": "冷水江市",
+      "alt_name": "冷水江;Lengshuijiang City",
+      "name:nan": "Léng-súi-kang-chhī",
+      "name:pam": "Lengshuijiang",
+      "name:war": "Lengshuijiang",
+      "name:yue": "冷水江",
+      "alt_name:vi": "Lãnh Thuỷ Giang",
+      "name:zh-Hant": "冷水江市",
+      "name:zh_pinyin": "Lěngshuǐjiāng Shì"
+    }
+  },
+  {
+    "name": "Lengshuitan",
+    "country": "China",
+    "latitude": 26.464093700116017,
+    "longitude": 111.58697689999998,
+    "other_names": {
+      "name": "冷水滩区",
+      "name:de": "Lengshuitan",
+      "name:en": "Lengshuitan",
+      "name:fr": "District de Lengshuitan",
+      "name:it": "Distretto di Lengshuitan",
+      "name:ja": "冷水灘区",
+      "name:ko": "렁수이탄구",
+      "name:no": "Lengshuitan",
+      "name:ru": "Лэншуйтань",
+      "name:sv": "Lengshuitan",
+      "name:vi": "Lãnh Thủy Than",
+      "name:zh": "冷水滩区",
+      "alt_name": "冷水滩;Lengshuitan District",
+      "name:ceb": "Lengshuitan Qu",
+      "name:nan": "Léng-súi-than-khu",
+      "name:war": "Lengshuitan",
+      "name:yue": "冷水灘區",
+      "alt_name:vi": "Lãnh Thuỷ Than",
+      "name:zh-Hant": "冷水灘區",
+      "name:zh_pinyin": "Lengshuitan Qu"
+    }
+  },
+  {
+    "name": "Lenoir",
+    "country": "United States Of America",
+    "latitude": 35.9140195997271,
+    "longitude": -81.53898489999999,
+    "other_names": {
+      "name": "Lenoir"
+    }
+  },
+  {
+    "name": "Léogâne",
+    "country": "Haiti And Domrep",
+    "latitude": 18.511112600277634,
+    "longitude": -72.6334255,
+    "other_names": {
+      "name": "Léogâne",
+      "name:ht": "Leyogàn",
+      "name:hu": "Léogâne",
+      "name:ru": "Леоган",
+      "old_name": "Léogane"
+    }
+  },
+  {
+    "name": "Leominster",
+    "country": "United States Of America",
+    "latitude": 42.52674430051895,
+    "longitude": -71.76148909999999,
+    "other_names": {
+      "name": "Leominster"
+    }
+  },
+  {
+    "name": "León",
+    "country": "Mexico",
+    "latitude": 21.121859800406355,
+    "longitude": -101.68250810000002,
+    "other_names": {
+      "name": "León",
+      "name:ar": "ليون",
+      "name:en": "León",
+      "name:pt": "León",
+      "name:ru": "Леон",
+      "name:uk": "Леон"
+    }
+  },
+  {
+    "name": "León",
+    "country": "Nicaragua",
+    "latitude": 12.434537599621516,
+    "longitude": -86.87734980000002,
+    "other_names": {
+      "name": "León",
+      "name:hu": "León",
+      "name:ru": "Леон",
+      "name:uk": "Леон",
+      "official_name": "Santiago de los Caballeros de León"
+    }
+  },
+  {
+    "name": "León",
+    "country": "Spain",
+    "latitude": 42.597954657943276,
+    "longitude": -5.575636915732889,
+    "other_names": {
+      "name": "León",
+      "name:ar": "ليون",
+      "name:el": "Λεόν",
+      "name:es": "León"
+    }
+  },
+  {
+    "name": "León",
+    "country": "Spain",
+    "latitude": 42.598999500522375,
+    "longitude": -5.5682413,
+    "other_names": {
+      "name": "León",
+      "name:ar": "ليون",
+      "name:be": "Леон",
+      "name:ca": "Lleó",
+      "name:el": "Λεόν",
+      "name:es": "León",
+      "name:eu": "Leon",
+      "name:ja": "レオン",
+      "name:ru": "Леон",
+      "name:sr": "Леон",
+      "name:ast": "Llión"
+    }
+  },
+  {
+    "name": "Leping",
+    "country": "China",
+    "latitude": 28.980052899839528,
+    "longitude": 117.14829859999999,
+    "other_names": {
+      "name": "乐平市",
+      "name:de": "Leping",
+      "name:en": "Leping",
+      "name:et": "Leping",
+      "name:fr": "Leping",
+      "name:it": "Leping",
+      "name:ja": "楽平市",
+      "name:ki": "Leping",
+      "name:ko": "러핑시",
+      "name:no": "Leping",
+      "name:ru": "Лэпин",
+      "name:sv": "Leping",
+      "name:vi": "Lạc Bình",
+      "name:zh": "乐平市",
+      "int_name": "Leping",
+      "name:ceb": "Leping",
+      "name:gan": "樂平",
+      "name:nan": "Lo̍k-pêng-chhī",
+      "name:yue": "樂平",
+      "name:zh-Hant": "樂平市",
+      "name:zh_pinyin": "Le ping"
+    }
+  },
+  {
+    "name": "Le Plateau",
+    "country": "Ivory Coast",
+    "latitude": 5.328048999484175,
+    "longitude": -4.021246,
+    "other_names": {
+      "name": "Le Plateau"
+    }
+  },
+  {
+    "name": "Le Port",
+    "country": "France",
+    "latitude": -20.935458400312662,
+    "longitude": 55.29167629999999,
+    "other_names": {
+      "name": "Le Port",
+      "name:ja": "レ・ポール",
+      "name:mk": "Ле Пор"
+    }
+  },
+  {
+    "name": "Lere",
+    "country": "Chad",
+    "latitude": 9.658738199422709,
+    "longitude": 14.225114999999999,
+    "other_names": {
+      "name": "Ləre ليري",
+      "name:ar": "ليري",
+      "name:en": "Lere",
+      "name:fr": "Léré",
+      "alt_name": "Lare;Léré"
+    }
+  },
+  {
+    "name": "Le Rœulx",
+    "country": "Belgium",
+    "latitude": 50.50200589934372,
+    "longitude": 4.1106257,
+    "other_names": {
+      "name": "Le Rœulx",
+      "name:fr": "Le Rœulx",
+      "name:la": "Rodium",
+      "name:wa": "El Rû",
+      "name:pcd": "El Rû"
+    }
+  }
+]

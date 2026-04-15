@@ -1,0 +1,268 @@
+[
+  {
+    "name": "El Torno",
+    "country": "Bolivia",
+    "latitude": -17.991805900473476,
+    "longitude": -63.3826134,
+    "other_names": {
+      "name": "El Torno"
+    }
+  },
+  {
+    "name": "El Tránsito",
+    "country": "El Salvador",
+    "latitude": 13.354978499717499,
+    "longitude": -88.34722409999999,
+    "other_names": {
+      "name": "El Tránsito"
+    }
+  },
+  {
+    "name": "Eluru",
+    "country": "India",
+    "latitude": 16.710425700104302,
+    "longitude": 81.1153816,
+    "other_names": {
+      "name": "Eluru",
+      "name:en": "Eluru",
+      "name:hi": "एलुरु",
+      "name:ja": "エルール",
+      "name:kn": "ಏಲೂರು",
+      "name:mr": "एलुरु",
+      "name:or": "ଏଲୁରୁ",
+      "name:pa": "ਇਲੁਰੁ",
+      "name:ta": "ஏலூரு",
+      "name:te": "ఏలూరు",
+      "alt_name:hi": "एलूरु"
+    }
+  },
+  {
+    "name": "Elvas",
+    "country": "Portugal",
+    "latitude": 38.88118280010868,
+    "longitude": -7.163749499999999,
+    "other_names": {
+      "name": "Elvas"
+    }
+  },
+  {
+    "name": "El Vigía",
+    "country": "Venezuela",
+    "latitude": 8.611517832672892,
+    "longitude": -71.6619740763693,
+    "other_names": {
+      "name": "El Vigía"
+    }
+  },
+  {
+    "name": "El Vigía",
+    "country": "Venezuela",
+    "latitude": 8.611582899394056,
+    "longitude": -71.6596414,
+    "other_names": {
+      "name": "El Vigía",
+      "int_name": "El Vigía"
+    }
+  },
+  {
+    "name": "Elx / Elche",
+    "country": "Spain",
+    "latitude": 38.26533070001967,
+    "longitude": -0.6988390999999999,
+    "other_names": {
+      "name": "Elx / Elche",
+      "name:ar": "ألش",
+      "name:ca": "Elx",
+      "name:el": "Έλτσε",
+      "name:es": "Elche",
+      "name:et": "Elche",
+      "name:gl": "Elx",
+      "name:ja": "エルチェ",
+      "name:ru": "Эльче",
+      "name:sr": "Елче",
+      "alt_name:ar": "إلش;إلتشه",
+      "alt_name:el": "Έλτς",
+      "alt_name:gl": "Elxe",
+      "old_name:el": "Ελίκη",
+      "old_name:en": "Helike",
+      "official_name:ca": "Elx",
+      "official_name:es": "Elche"
+    }
+  },
+  {
+    "name": "Ely",
+    "country": "England",
+    "latitude": 52.39901989909177,
+    "longitude": 0.262039,
+    "other_names": {
+      "name": "Ely",
+      "name:ko": "일리",
+      "name:mk": "Илиџиево",
+      "name:ru": "Или",
+      "name:uk": "Ілі"
+    }
+  },
+  {
+    "name": "Ely",
+    "country": "England",
+    "latitude": 52.4017975737857,
+    "longitude": 0.26267597847284424,
+    "other_names": {
+      "name": "Ely",
+      "name:ru": "Или"
+    }
+  },
+  {
+    "name": "Elyria",
+    "country": "United States Of America",
+    "latitude": 41.36731910043101,
+    "longitude": -82.1073583,
+    "other_names": {
+      "name": "Elyria"
+    }
+  },
+  {
+    "name": "eMalahleni",
+    "country": "South Africa And Lesotho",
+    "latitude": -25.87634849965532,
+    "longitude": 29.2010447,
+    "other_names": {
+      "name": "eMalahleni",
+      "name:af": "Witbank",
+      "name:ko": "윗뱅크",
+      "name:ru": "Эмалахлени",
+      "old_name": "Witbank"
+    }
+  },
+  {
+    "name": "eMalahleni",
+    "country": "South Africa",
+    "latitude": -25.87634849965532,
+    "longitude": 29.2010447,
+    "other_names": {
+      "name": "eMalahleni",
+      "name:af": "Witbank",
+      "name:ko": "윗뱅크",
+      "name:ru": "Эмалахлени",
+      "old_name": "Witbank"
+    }
+  },
+  {
+    "name": "Embu",
+    "country": "Kenya",
+    "latitude": -0.5367429370164032,
+    "longitude": 37.460106397963216,
+    "other_names": {
+      "name": "Embu",
+      "name:ru": "Эмбу"
+    }
+  },
+  {
+    "name": "Embu",
+    "country": "Kenya",
+    "latitude": -0.5376698999461661,
+    "longitude": 37.458394899999995,
+    "other_names": {
+      "name": "Embu",
+      "name:ru": "Эмбу"
+    }
+  },
+  {
+    "name": "Embu das Artes",
+    "country": "Brazil",
+    "latitude": -23.649529399975815,
+    "longitude": -46.85284969999999,
+    "other_names": {
+      "name": "Embu das Artes",
+      "old_name": "Embu"
+    }
+  },
+  {
+    "name": "Emeishan",
+    "country": "China",
+    "latitude": 29.601729999776794,
+    "longitude": 103.48222,
+    "other_names": {
+      "name": "峨眉山市",
+      "name:de": "Emeishan",
+      "name:en": "Emeishan",
+      "name:fr": "Emeishan",
+      "name:ja": "峨眉山市",
+      "name:ru": "Эмэйшань",
+      "name:vi": "Nga Mi Sơn",
+      "name:zh": "峨眉山市",
+      "alt_name": "峨眉山;Emeishan City",
+      "int_name": "Emeishan",
+      "name:zh-Hant": "峨眉山市",
+      "name:zh_pinyin": "Éméishān Shì"
+    }
+  },
+  {
+    "name": "Emin/Dörbiljin",
+    "country": "China",
+    "latitude": 46.52450530025371,
+    "longitude": 83.62682229999999,
+    "other_names": {
+      "name": "额敏县",
+      "name:de": "Dorbiljin",
+      "name:en": "Emin/Dörbiljin",
+      "name:es": "Emin",
+      "name:fr": "Emin",
+      "name:ru": "Эминь",
+      "name:tr": "Dörbiljin",
+      "name:ug": "دۆربىلجىن ناھىيىسى",
+      "name:zh": "额敏县",
+      "alt_name": "额敏县",
+      "old_name:ru": "Дурбульджин",
+      "name:kk-Arab": "ءدوربىلجىن اۋدانى",
+      "name:zh-Hant": "額敏縣"
+    }
+  },
+  {
+    "name": "Emmen",
+    "country": "Netherlands",
+    "latitude": 52.788936999084214,
+    "longitude": 6.893900099999999,
+    "other_names": {
+      "name": "Emmen",
+      "name:ar": "إمن",
+      "name:fa": "امن",
+      "name:la": "Emn",
+      "name:lt": "Emenas",
+      "name:ru": "Эммен",
+      "name:sr": "Емен",
+      "old_name": "Curtis Emne"
+    }
+  },
+  {
+    "name": "Emporia",
+    "country": "United States Of America",
+    "latitude": 38.40400540003958,
+    "longitude": -96.18162299999999,
+    "other_names": {
+      "name": "Emporia"
+    }
+  },
+  {
+    "name": "Ena",
+    "country": "Japan",
+    "latitude": 35.44980939968543,
+    "longitude": 137.4128269,
+    "other_names": {
+      "name": "恵那市",
+      "name:ar": "إينا، غيفو",
+      "name:de": "Ena",
+      "name:en": "Ena",
+      "name:es": "Ena",
+      "name:fr": "Ena",
+      "name:ja": "恵那市",
+      "name:ko": "에나시",
+      "name:pl": "Ena",
+      "name:ru": "Эна",
+      "name:uk": "Ена",
+      "int_name": "Ena",
+      "name:ja_rm": "Ena-shi",
+      "name:ja_kana": "えなし"
+    }
+  }
+]

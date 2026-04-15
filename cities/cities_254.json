@@ -1,0 +1,249 @@
+[
+  {
+    "name": "Lake Havasu City",
+    "country": "United States Of America",
+    "latitude": 34.48385019962145,
+    "longitude": -114.3224495,
+    "other_names": {
+      "name": "Lake Havasu City"
+    }
+  },
+  {
+    "name": "Lakeland",
+    "country": "United States Of America",
+    "latitude": 28.03946539994184,
+    "longitude": -81.9498042,
+    "other_names": {
+      "name": "Lakeland"
+    }
+  },
+  {
+    "name": "Lakewood",
+    "country": "United States Of America",
+    "latitude": 39.70857360022717,
+    "longitude": -105.0846694,
+    "other_names": {
+      "name": "Lakewood"
+    }
+  },
+  {
+    "name": "Lakewood",
+    "country": "United States Of America",
+    "latitude": 40.097892900280485,
+    "longitude": -74.2176435,
+    "other_names": {
+      "name": "Lakewood"
+    }
+  },
+  {
+    "name": "Lakhimpur",
+    "country": "India",
+    "latitude": 27.946308999952237,
+    "longitude": 80.7815166,
+    "other_names": {
+      "name": "Lakhimpur",
+      "name:hi": "लखीमपुर"
+    }
+  },
+  {
+    "name": "La Laguna",
+    "country": "El Salvador",
+    "latitude": 14.162374499808879,
+    "longitude": -88.94431769999998,
+    "other_names": {
+      "name": "La Laguna"
+    }
+  },
+  {
+    "name": "La Lagunita",
+    "country": "Venezuela",
+    "latitude": 10.415117099460387,
+    "longitude": -66.6984958,
+    "other_names": {
+      "name": "La Lagunita"
+    }
+  },
+  {
+    "name": "La Libertad",
+    "country": "Ecuador",
+    "latitude": -2.2208116998012635,
+    "longitude": -80.9077647,
+    "other_names": {
+      "name": "La Libertad"
+    }
+  },
+  {
+    "name": "La Ligua",
+    "country": "Chile",
+    "latitude": -32.44963749945729,
+    "longitude": -71.23166949999998,
+    "other_names": {
+      "name": "La Ligua",
+      "name:ru": "Ла-Лигуа"
+    }
+  },
+  {
+    "name": "Lalitpur",
+    "country": "India",
+    "latitude": 24.693569500283186,
+    "longitude": 78.41788659999999,
+    "other_names": {
+      "name": "Lalitpur",
+      "name:hi": "ललितपुर",
+      "name:ja": "ラリトプル",
+      "name:kn": "ಲಲಿತಪುರ"
+    }
+  },
+  {
+    "name": "Lalitpur",
+    "country": "Nepal",
+    "latitude": 27.67673389998242,
+    "longitude": 85.316805,
+    "other_names": {
+      "name": "Lalitpur",
+      "name:cs": "Lalitpur",
+      "name:en": "Lalitpur",
+      "name:es": "Lalitpur",
+      "name:fr": "Lalitpur",
+      "name:hi": "ललितपुर",
+      "name:ja": "ラリトプル",
+      "name:kn": "ಪಾಟನ್",
+      "name:ne": "ललितपुर",
+      "name:zh": "拉利特普尔",
+      "alt_name": "Patan",
+      "name:new": "यल",
+      "official_name": "Lalitpur Sub-Metropolitan City"
+    }
+  },
+  {
+    "name": "Lalitpur",
+    "country": "India",
+    "latitude": 24.690962690869934,
+    "longitude": 78.41254443188798,
+    "other_names": {
+      "name": "Lalitpur",
+      "name:ja": "ラリトプル",
+      "name:ta": "லலித்பூர்"
+    }
+  },
+  {
+    "name": "Lambaré",
+    "country": "Paraguay",
+    "latitude": -25.345535399729492,
+    "longitude": -57.6261456,
+    "other_names": {
+      "name": "Lambaré"
+    }
+  },
+  {
+    "name": "Lamego",
+    "country": "Portugal",
+    "latitude": 41.098527000402996,
+    "longitude": -7.8105708,
+    "other_names": {
+      "name": "Lamego"
+    }
+  },
+  {
+    "name": "Lamia",
+    "country": "Greece",
+    "latitude": 38.900458400111475,
+    "longitude": 22.4341691,
+    "other_names": {
+      "name": "Λαμία",
+      "name:de": "Lamia",
+      "name:el": "Λαμία",
+      "name:en": "Lamia",
+      "name:es": "Lamía",
+      "name:et": "Lamía",
+      "name:fi": "Lamia",
+      "name:fr": "Lamía",
+      "name:hu": "Lamía",
+      "name:mk": "Ламија",
+      "name:ro": "Lamia",
+      "name:ru": "Ламия",
+      "name:sr": "Ламија",
+      "int_name": "Lamia",
+      "old_name": "Boudonitza",
+      "name:sr-Latn": "Lamia"
+    }
+  },
+  {
+    "name": "Lamitan",
+    "country": "Philippines",
+    "latitude": 6.658088299416118,
+    "longitude": 122.1369469,
+    "other_names": {
+      "name": "Lamitan"
+    }
+  },
+  {
+    "name": "Lampang",
+    "country": "Thailand",
+    "latitude": 18.289948900259336,
+    "longitude": 99.49585259999999,
+    "other_names": {
+      "name": "ลำปาง",
+      "name:de": "Lampang",
+      "name:en": "Lampang",
+      "name:es": "Lampang",
+      "name:fr": "Lampang",
+      "name:ja": "ラムパーン",
+      "name:ru": "Лампанг",
+      "name:th": "ลำปาง",
+      "name:uk": "Лампанг",
+      "name:zh": "南邦",
+      "official_name": "เทศบาลนครลำปาง"
+    }
+  },
+  {
+    "name": "Lancang",
+    "country": "China",
+    "latitude": 22.556622300398242,
+    "longitude": 99.92755079999999,
+    "other_names": {
+      "name": "澜沧县",
+      "name:en": "Lancang",
+      "name:ru": "Мынлан",
+      "name:vi": "Lan Thương",
+      "name:zh": "澜沧县",
+      "alt_name": "澜沧;Lancang;Lancang County",
+      "int_name": "Lancang",
+      "name:zh-Hant": "瀾滄縣",
+      "official_name": "澜沧拉祜族自治县",
+      "name:zh_pinyin": "Láncāng Lāhùzú Zìzhìxiàn"
+    }
+  },
+  {
+    "name": "Lancaster",
+    "country": "United States Of America",
+    "latitude": 34.698106399632856,
+    "longitude": -118.1366153,
+    "other_names": {
+      "name": "Lancaster",
+      "name:en": "Lancaster",
+      "name:ru": "Ланкастер",
+      "name:uk": "Ланкастер"
+    }
+  },
+  {
+    "name": "Lancaster",
+    "country": "England",
+    "latitude": 54.04840679919319,
+    "longitude": -2.7990344999999994,
+    "other_names": {
+      "name": "Lancaster",
+      "name:be": "Ланкастэр",
+      "name:cy": "Caerhirfryn",
+      "name:eo": "Lankastro",
+      "name:fr": "Lancaster",
+      "name:hu": "Lancaster",
+      "name:ko": "랭커스터",
+      "name:lt": "Lankasteris",
+      "name:mk": "Ланкастер",
+      "name:ru": "Ланкастер",
+      "name:sr": "Ланкастер",
+      "name:uk": "Ланкастер"
+    }
+  }
+]

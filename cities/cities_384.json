@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Qingxu",
+    "country": "China",
+    "latitude": 37.60495759992731,
+    "longitude": 112.3538125,
+    "other_names": {
+      "name": "清徐县",
+      "name:en": "Qingxu",
+      "name:zh": "清徐县",
+      "alt_name": "清源;清徐;Sukowhsien;Ch'ing-yuan-hsien;Ch'ing-yuan-ch'eng;Ch'ing-yuan;Ch'ing-hsu-hsien;Ch'ing-hsu;T'sinyuan';Tsingyuanhsien;Qingyuan Zhen;Qingyuan",
+      "name:zh-Hant": "清徐縣",
+      "official_name": "清源镇"
+    }
+  },
+  {
+    "name": "Qingyang",
+    "country": "China",
+    "latitude": 30.676022099684058,
+    "longitude": 104.0057927,
+    "other_names": {
+      "name": "青羊区",
+      "name:en": "Qingyang",
+      "name:vi": "Thanh Dương",
+      "name:zh": "青羊区",
+      "name:zh-Hant": "青羊區",
+      "name:zh_pinyin": "Qingyang Qu"
+    }
+  },
+  {
+    "name": "Qingyang",
+    "country": "China",
+    "latitude": 30.64146109968665,
+    "longitude": 117.84217959999998,
+    "other_names": {
+      "name": "青阳县",
+      "name:en": "Qingyang",
+      "name:zh": "青阳县",
+      "alt_name": "青阳;Qingyang County",
+      "name:zh-Hant": "青陽縣"
+    }
+  },
+  {
+    "name": "Qingyang",
+    "country": "China",
+    "latitude": 35.710614599708016,
+    "longitude": 107.6384287,
+    "other_names": {
+      "name": "庆阳市",
+      "name:de": "Qingyang",
+      "name:en": "Qingyang",
+      "name:et": "Qingyang",
+      "name:fr": "Qingyang",
+      "name:ja": "慶陽市",
+      "name:ru": "Цинъян",
+      "name:sr": "Ћингјанг",
+      "name:vi": "Khánh Dương",
+      "name:zh": "庆阳市",
+      "alt_name": "庆阳;Qingyang City",
+      "name:zh-Hant": "慶陽市",
+      "name:zh_pinyin": "Qìngyáng Shì"
+    }
+  },
+  {
+    "name": "Qingyuan",
+    "country": "China",
+    "latitude": 27.086457900048313,
+    "longitude": 115.00730570000002,
+    "other_names": {
+      "name": "青原区",
+      "name:en": "Qingyuan",
+      "name:uk": "Цін'юань",
+      "name:vi": "Thanh Nguyên",
+      "name:zh": "青原区",
+      "alt_name": "青原;Qingyuan District",
+      "name:zh-Hant": "青原區",
+      "name:zh_pinyin": "qīngyuán qū"
+    }
+  },
+  {
+    "name": "Qingyuan",
+    "country": "China",
+    "latitude": 38.76666700009206,
+    "longitude": 115.48333300000002,
+    "other_names": {
+      "name": "清苑区",
+      "name:en": "Qingyuan",
+      "name:vi": "Thanh Uyển",
+      "name:zh": "清苑区",
+      "alt_name": "清苑;Qingyuan District",
+      "name:zh-Hant": "清苑區",
+      "official_name": "清苑镇",
+      "name:zh_pinyin": "Qīngyuàn Qū"
+    }
+  },
+  {
+    "name": "Qingyuan",
+    "country": "China",
+    "latitude": 23.683298400351806,
+    "longitude": 113.0505994,
+    "other_names": {
+      "name": "清远市",
+      "name:ar": "كينغوان",
+      "name:cs": "Čching-jüan",
+      "name:cy": "Qingyuan",
+      "name:da": "Qingyuan",
+      "name:de": "Qingyuan",
+      "name:en": "Qingyuan",
+      "name:es": "Qingyuan",
+      "name:et": "Qingyuan",
+      "name:eu": "Qingyuan",
+      "name:fa": "کینگوان",
+      "name:fi": "Qingyuan",
+      "name:fr": "Qingyuan",
+      "name:hi": "चिंग्यूअन",
+      "name:id": "Qingyuan",
+      "name:it": "Qingyuan",
+      "name:ja": "清遠市",
+      "name:ki": "Qingyuan",
+      "name:ko": "칭위안시",
+      "name:mg": "Qingyuan",
+      "name:nl": "Qingyuan",
+      "name:nn": "Qingyuan",
+      "name:no": "Qingyuan",
+      "name:pl": "Qingyuan",
+      "name:ru": "Цинъюань",
+      "name:sv": "Qingyuan",
+      "name:sw": "Qingyuan",
+      "name:tr": "Qingyuan",
+      "name:uk": "Цін'юань",
+      "name:ur": "چینگیوان",
+      "name:vi": "Thanh Viễn",
+      "name:zh": "清远市",
+      "alt_name": "清远;Qingyuan City",
+      "name:cdo": "Chĭng-uōng",
+      "name:ceb": "Qingyuan",
+      "name:hak": "Chhîn-yén-sṳ",
+      "name:nan": "Chheng-oán-chhī",
+      "name:pam": "Qingyuan",
+      "name:pnb": "چنگیوآن",
+      "name:war": "Qingyuan",
+      "name:yue": "清遠",
+      "old_name:en": "Tsingyun",
+      "name:zh-Hant": "清遠市",
+      "name:zh_pinyin": "Qīngyuǎn Shì"
+    }
+  },
+  {
+    "name": "Qingyuan",
+    "country": "China",
+    "latitude": 42.09708750049324,
+    "longitude": 124.91532839999998,
+    "other_names": {
+      "name": "清原县",
+      "name:en": "Qingyuan",
+      "name:ja": "清原満族自治県",
+      "name:zh": "清原满族自治县",
+      "alt_name": "清原;Qingyuan City",
+      "name:mnc": "ᠴᡳᠩᠶᡠᠸᠠᠨ ᠮᠠᠨᠵᡠ ᠪᡝᠶᡝ ᡩᠠᠰᠠᠩᡤᠠ ᠰᡳᠶᠠᠨ",
+      "name:zh-Hant": "清原縣",
+      "official_name": "清原镇",
+      "name:zh_pinyin": "Qīngyuán Mǎnzú Zìzhìxiàn"
+    }
+  },
+  {
+    "name": "Qingyuan County",
+    "country": "China",
+    "latitude": 27.62322779998841,
+    "longitude": 119.05676270000001,
+    "other_names": {
+      "name": "庆元县",
+      "name:de": "Qingyuan",
+      "name:en": "Qingyuan County",
+      "name:fa": "شهرستان چینگیوان",
+      "name:fr": "Xian de Qingyuan",
+      "name:it": "Contea di Qingyuan",
+      "name:ja": "慶元県",
+      "name:ko": "칭위안현",
+      "name:no": "Qingyuan",
+      "name:ru": "Цинъюань",
+      "name:sv": "Qingyuan",
+      "name:vi": "Khánh Nguyên",
+      "name:zh": "庆元县",
+      "name:nan": "Khèng-goân-koān",
+      "name:wuu": "庆元县",
+      "name:yue": "慶元",
+      "name:zh-Hant": "慶元縣",
+      "name:zh_pinyin": "Qìngyuán Xiàn"
+    }
+  },
+  {
+    "name": "Qingyun",
+    "country": "China",
+    "latitude": 37.7815071999515,
+    "longitude": 117.3826795,
+    "other_names": {
+      "name": "庆云县",
+      "name:en": "Qingyun",
+      "name:vi": "Khánh Vân",
+      "name:zh": "庆云县",
+      "name:zh-Hant": "慶雲縣",
+      "name:zh_pinyin": "Qingyun Xian"
+    }
+  },
+  {
+    "name": "Qingyunpu District",
+    "country": "China",
+    "latitude": 28.624342299877455,
+    "longitude": 115.920711,
+    "other_names": {
+      "name": "青云谱区",
+      "name:de": "Qingyunpu",
+      "name:en": "Qingyunpu District",
+      "name:eu": "Qingyunpu Barrutia",
+      "name:fr": "District de Qingyunpu",
+      "name:it": "Distretto di Qingyunpu",
+      "name:ja": "青雲譜区",
+      "name:ko": "칭윈푸구",
+      "name:no": "Qingyunpu",
+      "name:ru": "Цинъюньпу",
+      "name:sv": "Qingyunpu",
+      "name:vi": "Thanh Vân Phổ",
+      "name:zh": "青云谱区",
+      "name:ceb": "Qingyunpu Qu",
+      "name:gan": "青雲譜區",
+      "name:nan": "Chheng-hûn-phó͘-khu",
+      "name:yue": "青雲譜區",
+      "name:zh-Hant": "青雲譜區",
+      "name:zh_pinyin": "Qīngyúnpǔ Qū"
+    }
+  },
+  {
+    "name": "Qingzhen",
+    "country": "China",
+    "latitude": 26.558504100105946,
+    "longitude": 106.4668752,
+    "other_names": {
+      "name": "清镇市",
+      "name:de": "Qingzhen",
+      "name:en": "Qingzhen",
+      "name:fr": "Qingzhen",
+      "name:ja": "清鎮市",
+      "name:vi": "Thanh Trấn",
+      "name:zh": "清镇市",
+      "alt_name": "清镇;红枫湖;红枫湖镇;Hongfenghu",
+      "old_name": "青龙街道",
+      "name:zh-Hant": "清鎮市",
+      "name:zh_pinyin": "Qīngzhèn Shì"
+    }
+  },
+  {
+    "name": "Qingzhou",
+    "country": "China",
+    "latitude": 36.68418789980999,
+    "longitude": 118.4738162,
+    "other_names": {
+      "name": "青州市",
+      "name:de": "Qingzhou",
+      "name:en": "Qingzhou",
+      "name:fr": "Qingzhou",
+      "name:ja": "青州市",
+      "name:ru": "Цинчжоу",
+      "name:vi": "Thanh Châu",
+      "name:zh": "青州市",
+      "name:zh-Hant": "青州市",
+      "name:zh_pinyin": "Qīngzhōu Shì"
+    }
+  },
+  {
+    "name": "Qinhuai District",
+    "country": "China",
+    "latitude": 32.03255069960739,
+    "longitude": 118.78713579999999,
+    "other_names": {
+      "name": "秦淮区",
+      "name:de": "Qinhuai",
+      "name:en": "Qinhuai District",
+      "name:eu": "Qinhuai Barrutia",
+      "name:fr": "District de Qinhuai",
+      "name:id": "Distrik Qinhuai",
+      "name:it": "Distretto di Qinhuai",
+      "name:ja": "秦淮区",
+      "name:ko": "친화이구",
+      "name:no": "Qinhuai",
+      "name:ru": "Циньхуай",
+      "name:sv": "Qinhuai",
+      "name:ur": "چینہوائی ضلع",
+      "name:vi": "Tần Hoài",
+      "name:zh": "秦淮区",
+      "name:nan": "Chîn-hoâi-khu",
+      "name:wuu": "秦淮区",
+      "name:yue": "秦淮區",
+      "name:zh-Hant": "秦淮區",
+      "name:zh_pinyin": "Qinhuai Qu"
+    }
+  },
+  {
+    "name": "Qinhuangdao",
+    "country": "China",
+    "latitude": 39.939572400259095,
+    "longitude": 119.58941290000001,
+    "other_names": {
+      "name": "秦皇岛市",
+      "name:ar": "تشنهوانغداو",
+      "name:cs": "Čchin-chuang-tao",
+      "name:en": "Qinhuangdao",
+      "name:et": "Qinhuangdao",
+      "name:fr": "Qinhuangdao",
+      "name:ja": "秦皇島市",
+      "name:ko": "친황다오시",
+      "name:ru": "Циньхуандао",
+      "name:zh": "秦皇岛市",
+      "alt_name": "秦皇岛;Qinhuangdao City",
+      "name:zh-Hant": "秦皇島市",
+      "name:zh_pinyin": "Qínhuángdǎo shì"
+    }
+  },
+  {
+    "name": "Qinnan",
+    "country": "China",
+    "latitude": 21.94344430040886,
+    "longitude": 108.65377599999998,
+    "other_names": {
+      "name": "钦南区",
+      "name:en": "Qinnan",
+      "name:zh": "钦南区",
+      "alt_name": "钦南;Qinnan District",
+      "name:yue": "钦南区",
+      "name:zh-Hant": "欽南區",
+      "name:yue-Latn": "Hamnaam-ki",
+      "name:zh_pinyin": "Qīnnán Qū"
+    }
+  },
+  {
+    "name": "Qinshui",
+    "country": "China",
+    "latitude": 35.687317499705905,
+    "longitude": 112.17242449999999,
+    "other_names": {
+      "name": "沁水县",
+      "name:en": "Qinshui",
+      "name:ja": "沁水県",
+      "name:ru": "Циньшуй",
+      "name:zh": "沁水县",
+      "alt_name": "沁水;Ch'in-shui Hsien;Qinshui Xian;Qinshui County",
+      "name:zh-Hant": "沁水縣"
+    }
+  },
+  {
+    "name": "Qintang",
+    "country": "China",
+    "latitude": 23.130257500378825,
+    "longitude": 109.448547,
+    "other_names": {
+      "name": "覃塘区",
+      "name:en": "Qintang",
+      "name:zh": "覃塘区",
+      "alt_name": "覃塘;Qintang District",
+      "old_name": "Tantang District;Tantang",
+      "name:zh-Hant": "覃塘區",
+      "name:zh_pinyin": "Tántáng Qū"
+    }
+  },
+  {
+    "name": "Qinyang",
+    "country": "China",
+    "latitude": 35.08563549965758,
+    "longitude": 112.942221,
+    "other_names": {
+      "name": "沁阳市",
+      "name:de": "Qinyang",
+      "name:en": "Qinyang",
+      "name:fr": "Qinyang",
+      "name:ja": "沁陽市",
+      "name:ru": "Цинъян",
+      "name:vi": "Thấm Dương",
+      "name:zh": "沁阳",
+      "int_name": "Qinyang",
+      "name:zh-Hant": "沁陽市",
+      "name:zh_pinyin": "Qìnyáng Shì"
+    }
+  },
+  {
+    "name": "Qinyuan",
+    "country": "China",
+    "latitude": 36.49873539978861,
+    "longitude": 112.3361624,
+    "other_names": {
+      "name": "沁源县",
+      "name:en": "Qinyuan",
+      "name:ja": "沁源県",
+      "name:zh": "沁源县",
+      "alt_name": "沁源;Qinyuan;Tsin'yuan';Ch'in-yuan;Ch'in-yuan-hsien;Qinyuan County",
+      "name:zh-Hant": "沁源縣"
+    }
+  }
+]

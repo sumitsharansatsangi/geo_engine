@@ -1,0 +1,339 @@
+[
+  {
+    "name": "Burlington",
+    "country": "United States Of America",
+    "latitude": 36.09569179974518,
+    "longitude": -79.43779909999999,
+    "other_names": {
+      "name": "Burlington"
+    }
+  },
+  {
+    "name": "Burlington",
+    "country": "Canada",
+    "latitude": 43.32489240054165,
+    "longitude": -79.79668349999999,
+    "other_names": {
+      "name": "Burlington",
+      "name:ckb": "بورلینگتۆن"
+    }
+  },
+  {
+    "name": "Burlington",
+    "country": "United States Of America",
+    "latitude": 44.47616010050974,
+    "longitude": -73.212906,
+    "other_names": {
+      "name": "Burlington",
+      "name:en": "Burlington",
+      "name:ru": "Бёрлингтон",
+      "name:uk": "Берлінгтон"
+    }
+  },
+  {
+    "name": "Burnaby",
+    "country": "Canada",
+    "latitude": 49.24338039963229,
+    "longitude": -122.9725459,
+    "other_names": {
+      "name": "Burnaby",
+      "name:sr": "Бернаби"
+    }
+  },
+  {
+    "name": "Burnie",
+    "country": "Australia",
+    "latitude": -41.05236880101688,
+    "longitude": 145.9064073,
+    "other_names": {
+      "name": "Burnie",
+      "name:en": "Burnie",
+      "name:ja": "バーニー",
+      "name:ru": "Берни",
+      "name:uk": "Берні"
+    }
+  },
+  {
+    "name": "Burqin",
+    "country": "China",
+    "latitude": 47.70061730000797,
+    "longitude": 86.87221899999999,
+    "other_names": {
+      "name": "布尔津县",
+      "name:en": "Burqin",
+      "name:kk": "Буыршын",
+      "name:ru": "Бурчун",
+      "name:ug": "بۇرچىن",
+      "name:uk": "Бурчун",
+      "name:vi": "Burqin",
+      "name:zh": "布尔津县",
+      "alt_name": "布尔津县;Bu'erjin",
+      "alt_name:vi": "Bố Nhĩ Tân",
+      "name:kk-Arab": "بۋىرشىن اۋدانى",
+      "name:zh-Hant": "布爾津縣",
+      "name:zh_pinyin": "Burqin Xian"
+    }
+  },
+  {
+    "name": "Bursa",
+    "country": "Turkey",
+    "latitude": 40.18276570029179,
+    "longitude": 29.0677305,
+    "other_names": {
+      "name": "Bursa",
+      "name:ar": "بورصة",
+      "name:el": "Προύσα",
+      "name:en": "Bursa",
+      "name:hi": "बुर्सा",
+      "name:hu": "Bursa",
+      "name:ja": "ブルサ",
+      "name:kn": "ಬುರ್ಸಾ",
+      "name:mk": "Бурса",
+      "name:ru": "Бурса",
+      "name:uk": "Бурса"
+    }
+  },
+  {
+    "name": "Bururi",
+    "country": "Burundi",
+    "latitude": -3.945322699706626,
+    "longitude": 29.619246899999997,
+    "other_names": {
+      "name": "Bururi",
+      "name:de": "Bururi",
+      "name:en": "Bururi",
+      "name:he": "בורורי",
+      "name:pl": "Bururi",
+      "name:ru": "Бурури",
+      "name:uk": "Бурурі"
+    }
+  },
+  {
+    "name": "Burush",
+    "country": "Sudan",
+    "latitude": 13.54007899973798,
+    "longitude": 26.9337863,
+    "other_names": {
+      "name": "برش",
+      "name:ar": "برش",
+      "name:en": "Burush",
+      "name:fr": "Burush"
+    }
+  },
+  {
+    "name": "Busan",
+    "country": "South Korea",
+    "latitude": 35.179952799664356,
+    "longitude": 129.0752365,
+    "other_names": {
+      "name": "부산",
+      "name:af": "Busan",
+      "name:ar": "بسان",
+      "name:be": "Пусан",
+      "name:bg": "Пусан",
+      "name:bi": "Busan",
+      "name:ca": "Busan",
+      "name:cs": "Pusan",
+      "name:da": "Busan",
+      "name:de": "Busan",
+      "name:el": "Μπούσαν",
+      "name:en": "Busan",
+      "name:eo": "Pusano",
+      "name:es": "Busan",
+      "name:et": "Busan",
+      "name:eu": "Busan",
+      "name:fa": "بوسان",
+      "name:fi": "Busan",
+      "name:fr": "Busan",
+      "name:gl": "Busan",
+      "name:he": "פוסן",
+      "name:hi": "बुसान",
+      "name:hr": "Busan",
+      "name:hu": "Puszan",
+      "name:hy": "Պուսան",
+      "name:id": "Busan",
+      "name:io": "Busan",
+      "name:it": "Busan",
+      "name:ja": "釜山",
+      "name:jv": "Busan",
+      "name:ka": "პუსანი",
+      "name:kl": "Busan",
+      "name:kn": "ಬುಸಾನ್",
+      "name:ko": "부산",
+      "name:la": "Pusanum",
+      "name:lt": "Busanas",
+      "name:lv": "Pusana",
+      "name:mi": "Busan",
+      "name:ml": "ബുസാൻ",
+      "name:mn": "Пүсан",
+      "name:mr": "बुसान",
+      "name:my": "ဘူဆန်မြို့",
+      "name:nl": "Busan",
+      "name:nn": "Pusan",
+      "name:no": "Busan",
+      "name:os": "Пусан",
+      "name:pl": "Pusan",
+      "name:pt": "Busan",
+      "name:ro": "Busan",
+      "name:ru": "Пусан",
+      "name:sk": "Pusan",
+      "name:sr": "Бусан",
+      "name:sv": "Pusan",
+      "name:sw": "Busan",
+      "name:th": "ปูซาน",
+      "name:tl": "Busan",
+      "name:tr": "Busan",
+      "name:uk": "Пусан",
+      "name:vi": "Busan",
+      "name:zh": "釜山",
+      "name:ko-Hani": "釜山",
+      "official_name": "부산광역시",
+      "official_name:en": "Busan Metropolitan City",
+      "official_name:ja": "釜山広域市",
+      "official_name:ko": "부산광역시",
+      "official_name:zh": "釜山广域市",
+      "official_name:ko-Hani": "釜山廣域市",
+      "official_name:zh-Hant": "釜山廣域市"
+    }
+  },
+  {
+    "name": "Bushehr",
+    "country": "Iran",
+    "latitude": 28.931078599844668,
+    "longitude": 50.8458443,
+    "other_names": {
+      "name": "بوشهر",
+      "name:ar": "بوشهر",
+      "name:cs": "Búšehr",
+      "name:de": "Buschehr",
+      "name:en": "Bushehr",
+      "name:es": "Bushehr",
+      "name:et": "Būshehr",
+      "name:fr": "Bouchehr",
+      "name:he": "בושהר",
+      "name:hi": "बुशहर",
+      "name:ja": "ブーシェフル",
+      "name:ku": "Bûşêhr",
+      "name:pl": "Buszehr",
+      "name:ru": "Бушер",
+      "name:uk": "Бушер",
+      "alt_name": "بندر بوشهر",
+      "alt_name:en": "Bandar-e Būshehr"
+    }
+  },
+  {
+    "name": "Busia",
+    "country": "Uganda",
+    "latitude": 0.4675811999513004,
+    "longitude": 34.09048959999999,
+    "other_names": {
+      "name": "Busia",
+      "name:ru": "Бусиа"
+    }
+  },
+  {
+    "name": "Busia",
+    "country": "Kenya",
+    "latitude": 0.4675811999513004,
+    "longitude": 34.09048959999999,
+    "other_names": {
+      "name": "Busia",
+      "name:ru": "Бусиа"
+    }
+  },
+  {
+    "name": "But",
+    "country": "Sudan",
+    "latitude": 11.421055499530683,
+    "longitude": 33.385473999999995,
+    "other_names": {
+      "name": "بوط",
+      "name:ar": "بوط",
+      "name:de": "But",
+      "name:en": "But",
+      "name:fr": "Bout",
+      "alt_name": "بت",
+      "alt_name:ar": "بت"
+    }
+  },
+  {
+    "name": "Buta",
+    "country": "Congo Democratic Republic",
+    "latitude": 2.7932580997034813,
+    "longitude": 24.728705399999996,
+    "other_names": {
+      "name": "Buta",
+      "name:en": "Buta",
+      "name:ru": "Бута",
+      "name:uk": "Бута"
+    }
+  },
+  {
+    "name": "Butembo",
+    "country": "Congo Democratic Republic",
+    "latitude": 0.12496939998712975,
+    "longitude": 29.291954499999996,
+    "other_names": {
+      "name": "Butembo",
+      "name:en": "Butembo",
+      "name:ru": "Бутембо",
+      "name:uk": "Бутембо"
+    }
+  },
+  {
+    "name": "Butte",
+    "country": "United States Of America",
+    "latitude": 46.01315050034046,
+    "longitude": -112.536508,
+    "other_names": {
+      "name": "Butte",
+      "name:ru": "Бьютт",
+      "name:uk": "Б’ютт"
+    }
+  },
+  {
+    "name": "Butterworth",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 5.408201499478984,
+    "longitude": 100.36972079999998,
+    "other_names": {
+      "name": "Butterworth",
+      "name:ja": "バターワース",
+      "name:ru": "Баттеруэрт",
+      "name:zh": "北海"
+    }
+  },
+  {
+    "name": "Butuan",
+    "country": "Philippines",
+    "latitude": 8.948332399400208,
+    "longitude": 125.53694420000001,
+    "other_names": {
+      "name": "Butuan",
+      "name:ja": "ブトゥアン",
+      "name:uk": "Бутуан",
+      "name:zh": "武端",
+      "official_name:en": "City of Butuan",
+      "official_name:es": "Ciudad de Butuan",
+      "official_name:tl": "Lungsod ng Butuan",
+      "official_name:btw": "Dakbayan hong Butuan",
+      "official_name:ceb": "Dakbayan sa Butuan"
+    }
+  },
+  {
+    "name": "Butuo",
+    "country": "China",
+    "latitude": 27.71228519997843,
+    "longitude": 102.80907229999998,
+    "other_names": {
+      "name": "布拖县",
+      "name:en": "Butuo",
+      "name:ii": "ꀭꄮꑤ",
+      "name:vi": "Bố Tha",
+      "name:zh": "布拖县",
+      "alt_name": "布拖;Butuo County",
+      "int_name": "Butuo",
+      "name:zh-Hant": "布拖縣"
+    }
+  }
+]

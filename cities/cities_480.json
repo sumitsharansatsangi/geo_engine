@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Toliara",
+    "country": "Madagascar",
+    "latitude": -23.354173000017834,
+    "longitude": 43.66966,
+    "other_names": {
+      "name": "Toliara",
+      "name:en": "Toliara",
+      "name:fr": "Toliara",
+      "name:ko": "톨리아라",
+      "name:mg": "Toliara",
+      "name:ru": "Тулиара",
+      "name:uk": "Туліара",
+      "old_name": "Tuléar"
+    }
+  },
+  {
+    "name": "Toluca",
+    "country": "Mexico",
+    "latitude": 19.292545000333924,
+    "longitude": -99.6569007,
+    "other_names": {
+      "name": "Toluca",
+      "name:en": "Toluca",
+      "name:es": "Toluca",
+      "name:pl": "Toluca",
+      "name:ru": "Толука-де-Лердо",
+      "name:uk": "Толука-де-Лердо",
+      "alt_name": "Toluca de Lerdo",
+      "old_name": "Tōllohcān"
+    }
+  },
+  {
+    "name": "Tolyatti",
+    "country": "Russia",
+    "latitude": 53.514949999120965,
+    "longitude": 49.40757399999999,
+    "other_names": {
+      "name": "Тольятти",
+      "name:ar": "تولياتي",
+      "name:cv": "Ставрополь",
+      "name:de": "Toljatti",
+      "name:en": "Tolyatti",
+      "name:et": "Togliatti",
+      "name:fi": "Toljatti",
+      "name:fr": "Togliatti",
+      "name:hr": "Toljatti",
+      "name:hu": "Togliatti",
+      "name:it": "Togliatti",
+      "name:ja": "トリヤッチ",
+      "name:ko": "톨리야티",
+      "name:lt": "Toljatis",
+      "name:pl": "Togliatti",
+      "name:ro": "Toliatti",
+      "name:ru": "Тольятти",
+      "name:sl": "Toljati",
+      "name:uk": "Тольятті",
+      "int_name": "Tolyatti",
+      "alt_name:de": "Togliatti"
+    }
+  },
+  {
+    "name": "Tomakomai",
+    "country": "Japan",
+    "latitude": 42.63406020052396,
+    "longitude": 141.60554529999996,
+    "other_names": {
+      "name": "苫小牧市",
+      "name:ar": "توماكوماي، هوكايدو",
+      "name:cs": "Tomakomai",
+      "name:de": "Tomakomai",
+      "name:en": "Tomakomai",
+      "name:es": "Tomakomai",
+      "name:fr": "Tomakomai",
+      "name:hu": "Tomakomai",
+      "name:ja": "苫小牧市",
+      "name:ko": "도마코마이시",
+      "name:pl": "Tomakomai",
+      "name:ru": "Томакомай",
+      "name:uk": "Томакомай",
+      "int_name": "Tomakomai",
+      "name:ja_rm": "Tomakomai-shi",
+      "name:ja_kana": "とまこまいし"
+    }
+  },
+  {
+    "name": "Tomar",
+    "country": "Portugal",
+    "latitude": 39.60365960021245,
+    "longitude": -8.4150492,
+    "other_names": {
+      "name": "Tomar",
+      "name:it": "Tomar",
+      "name:pt": "Tomar",
+      "name:sr": "Томар"
+    }
+  },
+  {
+    "name": "Tome",
+    "country": "Japan",
+    "latitude": 38.6918037000812,
+    "longitude": 141.18776879999996,
+    "other_names": {
+      "name": "登米市",
+      "name:ar": "تومه، مياغي",
+      "name:de": "Tome",
+      "name:en": "Tome",
+      "name:es": "Tome",
+      "name:fr": "Tome",
+      "name:ja": "登米市",
+      "name:ko": "도메시",
+      "name:pl": "Tome",
+      "name:ru": "Томе",
+      "name:uk": "Томе",
+      "int_name": "Tome",
+      "name:ja_kana": "とめし"
+    }
+  },
+  {
+    "name": "Tomi",
+    "country": "Japan",
+    "latitude": 36.3594224997731,
+    "longitude": 138.3305353,
+    "other_names": {
+      "name": "東御市",
+      "name:ar": "تومي، ناغانو",
+      "name:de": "Tōmi",
+      "name:en": "Tomi",
+      "name:es": "Tōmi",
+      "name:fr": "Tōmi",
+      "name:ja": "東御市",
+      "name:ko": "도미시",
+      "name:pl": "Tōmi",
+      "name:ru": "Томи",
+      "name:uk": "Томі",
+      "name:ja_rm": "Tomi-shi",
+      "name:ja-Hira": "とうみし"
+    }
+  },
+  {
+    "name": "Tomigusuku",
+    "country": "Japan",
+    "latitude": 26.17723810014611,
+    "longitude": 127.6863791,
+    "other_names": {
+      "name": "豊見城市",
+      "name:ar": "توميغوسوكو، أوكيناوا",
+      "name:de": "Tomigusuku",
+      "name:en": "Tomigusuku",
+      "name:es": "Tomigusuku",
+      "name:fr": "Tomigusuku",
+      "name:ja": "豊見城市",
+      "name:pl": "Tomigusuku",
+      "name:ru": "Томигусуку",
+      "name:uk": "Томіґусуку",
+      "name:zh": "丰见城市",
+      "int_name": "Tomigusuku",
+      "name:ja-Hira": "とみぐすくし",
+      "name:ja-Latn": "Tomigusuku-shi",
+      "name:ko-Latn": "도미구스쿠시",
+      "name:zh-Hans": "丰见城市",
+      "name:zh-Hant": "豊見城市"
+    }
+  },
+  {
+    "name": "Tomioka",
+    "country": "Japan",
+    "latitude": 36.259826599762334,
+    "longitude": 138.8899792,
+    "other_names": {
+      "name": "富岡市",
+      "name:ar": "توميوكا، غونما",
+      "name:de": "Tomioka",
+      "name:en": "Tomioka",
+      "name:es": "Tomioka",
+      "name:fr": "Tomioka",
+      "name:ja": "富岡市",
+      "name:ko": "도미오카시",
+      "name:pl": "Tomioka",
+      "name:ru": "Томиока",
+      "name:uk": "Томіока",
+      "name:ja_rm": "Tomioka-shi",
+      "name:ja_kana": "とみおかし"
+    }
+  },
+  {
+    "name": "Tomisato",
+    "country": "Japan",
+    "latitude": 35.72688759970949,
+    "longitude": 140.34305479999998,
+    "other_names": {
+      "name": "富里市",
+      "name:en": "Tomisato",
+      "name:fr": "Tomisato",
+      "name:ja": "富里市",
+      "name:ko": "도미사토시",
+      "name:pl": "Tomisato",
+      "name:ru": "Томисато",
+      "name:uk": "Томісато",
+      "name:ja_rm": "Tomisato-shi",
+      "name:ja_kana": "とみさとし"
+    }
+  },
+  {
+    "name": "Tomiya",
+    "country": "Japan",
+    "latitude": 38.39985940003898,
+    "longitude": 140.89534659999998,
+    "other_names": {
+      "name": "富谷市",
+      "name:ar": "تومييا",
+      "name:de": "Tomiya",
+      "name:en": "Tomiya",
+      "name:es": "Tomiya",
+      "name:fr": "Tomiya",
+      "name:ja": "富谷市",
+      "name:ko": "도미야시",
+      "name:ru": "Томия",
+      "int_name": "Tomiya",
+      "name:ja_kana": "とみやし"
+    }
+  },
+  {
+    "name": "Tomohon",
+    "country": "Indonesia",
+    "latitude": 1.3255913998593547,
+    "longitude": 124.83860499999997,
+    "other_names": {
+      "name": "Tomohon",
+      "name:ja": "トモホン",
+      "name:zh": "托莫洪"
+    }
+  },
+  {
+    "name": "Tomsk",
+    "country": "Russia",
+    "latitude": 56.488712000007745,
+    "longitude": 84.952324,
+    "other_names": {
+      "name": "Томск",
+      "name:ar": "تومسك",
+      "name:be": "Томск",
+      "name:bg": "Томск",
+      "name:ca": "Tomsk",
+      "name:cs": "Tomsk",
+      "name:cu": "Томьскъ",
+      "name:cv": "Томск",
+      "name:da": "Tomsk",
+      "name:de": "Tomsk",
+      "name:el": "Τομσκ",
+      "name:en": "Tomsk",
+      "name:eo": "Tomsk",
+      "name:es": "Tomsk",
+      "name:et": "Tomsk",
+      "name:fa": "تومسک",
+      "name:fi": "Tomsk",
+      "name:fr": "Tomsk",
+      "name:hr": "Tomsk",
+      "name:hu": "Tomszk",
+      "name:id": "Tomsk",
+      "name:io": "Tomsk",
+      "name:it": "Tomsk",
+      "name:ja": "トムスク",
+      "name:ko": "톰스크",
+      "name:kv": "Томск",
+      "name:la": "Tomscum",
+      "name:lt": "Tomskas",
+      "name:lv": "Tomska",
+      "name:nl": "Tomsk",
+      "name:nn": "Tomsk",
+      "name:no": "Tomsk",
+      "name:os": "Томск",
+      "name:pl": "Tomsk",
+      "name:pt": "Tomsk",
+      "name:ro": "Tomsk",
+      "name:ru": "Томск",
+      "name:sk": "Tomsk",
+      "name:sl": "Tomsk",
+      "name:sr": "Томск",
+      "name:sv": "Tomsk",
+      "name:tl": "Tomsk",
+      "name:tr": "Tomsk",
+      "name:uk": "Томськ",
+      "name:zh": "托木斯克",
+      "name:csb": "Tomsk",
+      "name:sah": "Томскай",
+      "name:war": "Tomsk"
+    }
+  },
+  {
+    "name": "Tomsk",
+    "country": "Russia",
+    "latitude": 56.49362647728619,
+    "longitude": 84.99918601263965,
+    "other_names": {
+      "name": "Томск",
+      "name:en": "Tomsk",
+      "name:ja": "トムスク"
+    }
+  },
+  {
+    "name": "Toms River",
+    "country": "United States Of America",
+    "latitude": 39.953735900261016,
+    "longitude": -74.1979576,
+    "other_names": {
+      "name": "Toms River"
+    }
+  },
+  {
+    "name": "Tonalá",
+    "country": "Mexico",
+    "latitude": 20.62413670039556,
+    "longitude": -103.2421263,
+    "other_names": {
+      "name": "Tonalá"
+    }
+  },
+  {
+    "name": "Tonami",
+    "country": "Japan",
+    "latitude": 36.6364135998044,
+    "longitude": 136.94681989999998,
+    "other_names": {
+      "name": "砺波市",
+      "name:en": "Tonami",
+      "name:fr": "Tonami",
+      "name:ja": "砺波市",
+      "name:ko": "도나미시",
+      "name:pl": "Tonami",
+      "name:ru": "Тонами",
+      "name:uk": "Тонамі",
+      "int_name": "Tonami",
+      "name:ja_rm": "Tonami-shi",
+      "name:ja_kana": "となみし"
+    }
+  },
+  {
+    "name": "Tonawanda",
+    "country": "United States Of America",
+    "latitude": 43.02067900053705,
+    "longitude": -78.878383,
+    "other_names": {
+      "name": "Tonawanda"
+    }
+  },
+  {
+    "name": "Tondabayashi",
+    "country": "Japan",
+    "latitude": 34.4787809996212,
+    "longitude": 135.595519,
+    "other_names": {
+      "name": "富田林市",
+      "name:ar": "تونداباياشي، أوساكا",
+      "name:de": "Tondabayashi",
+      "name:en": "Tondabayashi",
+      "name:es": "Tondabayashi",
+      "name:fr": "Tondabayashi",
+      "name:ja": "富田林市",
+      "name:ko": "돈다바야시시",
+      "name:pl": "Tondabayashi",
+      "name:ru": "Тондабаяси",
+      "name:uk": "Тондабаяші",
+      "name:ja_rm": "Tondabayashi-shi"
+    }
+  },
+  {
+    "name": "Tondela",
+    "country": "Portugal",
+    "latitude": 40.51642000033475,
+    "longitude": -8.080529999999998,
+    "other_names": {
+      "name": "Tondela"
+    }
+  }
+]

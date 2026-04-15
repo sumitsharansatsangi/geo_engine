@@ -1,0 +1,307 @@
+[
+  {
+    "name": "Tambov",
+    "country": "Russia",
+    "latitude": 52.73306109587137,
+    "longitude": 41.41800320617559,
+    "other_names": {
+      "name": "Тамбов",
+      "name:af": "Tambof",
+      "name:be": "Тамбоў",
+      "name:de": "Tambow",
+      "name:en": "Tambov",
+      "name:es": "Tambov",
+      "name:fr": "Tambov",
+      "name:hu": "Tambov",
+      "name:lt": "Tambovas",
+      "name:lv": "Tambova",
+      "name:pl": "Tambow",
+      "name:ru": "Тамбов",
+      "name:sr": "Томбов",
+      "name:uk": "Тамбов"
+    }
+  },
+  {
+    "name": "Tam Kỳ City",
+    "country": "Vietnam",
+    "latitude": 15.56737349997419,
+    "longitude": 108.48421279999998,
+    "other_names": {
+      "name": "Tam Kỳ",
+      "name:en": "Tam Kỳ City"
+    }
+  },
+  {
+    "name": "Tampa",
+    "country": "United States Of America",
+    "latitude": 27.947759499952074,
+    "longitude": -82.458444,
+    "other_names": {
+      "name": "Tampa",
+      "name:el": "Τάμπα",
+      "name:en": "Tampa",
+      "name:oc": "Tampa",
+      "name:ru": "Тампа",
+      "name:uk": "Тампа"
+    }
+  },
+  {
+    "name": "Tampere",
+    "country": "Finland",
+    "latitude": 61.49802140169836,
+    "longitude": 23.7603118,
+    "other_names": {
+      "name": "Tampere",
+      "name:ar": "تامبيري",
+      "name:be": "Тамперэ",
+      "name:el": "Τάμπερε",
+      "name:fa": "تامپری",
+      "name:fi": "Tampere",
+      "name:ja": "タンペレ",
+      "name:ko": "탐페레",
+      "name:lt": "Tamperė",
+      "name:no": "Tammerfors",
+      "name:ru": "Тампере",
+      "name:sv": "Tammerfors",
+      "name:uk": "Тампере",
+      "name:zh": "坦佩雷"
+    }
+  },
+  {
+    "name": "Tampico",
+    "country": "Mexico",
+    "latitude": 22.23298890040517,
+    "longitude": -97.86148019999999,
+    "other_names": {
+      "name": "Tampico",
+      "name:ru": "Тампико"
+    }
+  },
+  {
+    "name": "Tamra",
+    "country": "Israel And Palestine",
+    "latitude": 32.85348759958859,
+    "longitude": 35.1978748,
+    "other_names": {
+      "name": "طمرة",
+      "name:ar": "طمرة",
+      "name:cs": "Tamra",
+      "name:de": "Tamra",
+      "name:en": "Tamra",
+      "name:es": "Tamra",
+      "name:fr": "Tamra",
+      "name:he": "טמרה",
+      "name:ru": "Тамра",
+      "name:en1": "Tamrah"
+    }
+  },
+  {
+    "name": "Tamura",
+    "country": "Japan",
+    "latitude": 37.440560299905194,
+    "longitude": 140.57645469999997,
+    "other_names": {
+      "name": "田村市",
+      "name:ar": "تامورا، فوكوشيما",
+      "name:de": "Tamura",
+      "name:en": "Tamura",
+      "name:es": "Tamura",
+      "name:fr": "Tamura",
+      "name:ja": "田村市",
+      "name:ko": "다무라시",
+      "name:pl": "Tamura",
+      "name:ru": "Тамура",
+      "name:uk": "Тамура",
+      "int_name": "Tamura",
+      "name:ja_rm": "Tamura-shi",
+      "name:ja_kana": "たむらし"
+    }
+  },
+  {
+    "name": "Tamworth",
+    "country": "Australia",
+    "latitude": -31.090074299344614,
+    "longitude": 150.92901589999997,
+    "other_names": {
+      "name": "Tamworth",
+      "name:en": "Tamworth",
+      "name:ja": "タムワース",
+      "name:ru": "Тамуэрт"
+    }
+  },
+  {
+    "name": "Tanabe",
+    "country": "Japan",
+    "latitude": 33.72789909959432,
+    "longitude": 135.3777917,
+    "other_names": {
+      "name": "田辺市",
+      "name:ar": "تانابا، واكاياما",
+      "name:de": "Tanabe",
+      "name:en": "Tanabe",
+      "name:es": "Tanabe",
+      "name:fr": "Tanabe",
+      "name:ja": "田辺市",
+      "name:ko": "다나베시",
+      "name:pl": "Tanabe",
+      "name:ru": "Танабе",
+      "name:uk": "Танабе",
+      "int_name": "Tanabe",
+      "name:ja_rm": "Tanabe-shi",
+      "name:ja_kana": "たなべし"
+    }
+  },
+  {
+    "name": "Tan An",
+    "country": "Vietnam",
+    "latitude": 10.535965399467662,
+    "longitude": 106.40475409999999,
+    "other_names": {
+      "name": "Tân An",
+      "name:en": "Tan An",
+      "name:ja": "タンアン",
+      "name:ko": "떤안시",
+      "name:ru": "Танан",
+      "name:zh": "新安市",
+      "alt_name:km": "កំពង់​គោ",
+      "name:vi-Hani": "新安"
+    }
+  },
+  {
+    "name": "Tanauan",
+    "country": "Philippines",
+    "latitude": 14.085328299799963,
+    "longitude": 121.1528222,
+    "other_names": {
+      "name": "Tanauan",
+      "name:ja": "タナウアン"
+    }
+  },
+  {
+    "name": "Tanchang",
+    "country": "China",
+    "latitude": 34.04874079960332,
+    "longitude": 104.390094,
+    "other_names": {
+      "name": "宕昌县",
+      "name:de": "Dangchang",
+      "name:en": "Tanchang",
+      "name:ja": "宕昌県",
+      "name:vi": "Đãng Xương Thành Quan",
+      "name:zh": "宕昌县",
+      "alt_name": "宕昌县;宕昌城关镇;Chengguan;Tanchang County",
+      "name:zh-Hant": "宕昌縣",
+      "name:zh_pinyin": "dàngchāng xiàn"
+    }
+  },
+  {
+    "name": "Tancheng",
+    "country": "China",
+    "latitude": 34.611737099628066,
+    "longitude": 118.3612047,
+    "other_names": {
+      "name": "郯城县",
+      "name:en": "Tancheng",
+      "name:zh": "郯城县",
+      "name:zh-Hant": "郯城縣"
+    }
+  },
+  {
+    "name": "Tanchon",
+    "country": "North Korea",
+    "latitude": 40.459050500327535,
+    "longitude": 128.90386459999996,
+    "other_names": {
+      "name": "단천시",
+      "name:de": "Tanch'ŏn",
+      "name:en": "Tanchon",
+      "name:es": "Tanchon",
+      "name:et": "Tanch’ŏn",
+      "name:fr": "Tanchon",
+      "name:ja": "端川",
+      "name:ko": "단천시",
+      "name:ru": "Танчхон",
+      "name:zh": "端川市",
+      "int_name": "Tanchon",
+      "name:ko-Hani": "端川市"
+    }
+  },
+  {
+    "name": "Tandag",
+    "country": "Philippines",
+    "latitude": 9.079983299403406,
+    "longitude": 126.19746060000001,
+    "other_names": {
+      "name": "Tandag",
+      "name:ja": "タンダグ",
+      "name:uk": "Тандаґ",
+      "official_name": "City of Tandag"
+    }
+  },
+  {
+    "name": "Tandalti",
+    "country": "Sudan",
+    "latitude": 13.009026999680186,
+    "longitude": 31.866068000000002,
+    "other_names": {
+      "name": "تندلتي",
+      "name:ar": "تندلتي",
+      "name:de": "Tandalti",
+      "name:en": "Tandalti",
+      "name:es": "Tandalti",
+      "name:fr": "Tandalti",
+      "alt_name": "Tandalti;Tendelti;Tandaltī"
+    }
+  },
+  {
+    "name": "Tandil",
+    "country": "Argentina",
+    "latitude": -37.328288700421446,
+    "longitude": -59.1356957,
+    "other_names": {
+      "name": "Tandil",
+      "name:el": "Ταντίλ",
+      "name:ru": "Тандиль",
+      "name:uk": "Танділ"
+    }
+  },
+  {
+    "name": "Tandlianwala",
+    "country": "Pakistan",
+    "latitude": 31.032197299659,
+    "longitude": 73.1330041,
+    "other_names": {
+      "name": "تاندلیانوالہ‎",
+      "name:en": "Tandlianwala"
+    }
+  },
+  {
+    "name": "Tando Adam",
+    "country": "Pakistan",
+    "latitude": 25.762095400187945,
+    "longitude": 68.6578079,
+    "other_names": {
+      "name": "ٹنڈو آدم‎",
+      "name:en": "Tando Adam",
+      "name:ja": "タンドゥ・アダム",
+      "name:ru": "Тандоадам",
+      "name:sr": "Тандо Адам",
+      "alt_name": "Tando Adam Khan"
+    }
+  },
+  {
+    "name": "Tando Allahyar",
+    "country": "Pakistan",
+    "latitude": 25.461990700216678,
+    "longitude": 68.7198264,
+    "other_names": {
+      "name": "ٹنڈو الہ یار",
+      "name:en": "Tando Allahyar",
+      "name:ja": "タンド・アラヒャー",
+      "name:ru": "Тандоалахъяр",
+      "name:sd": "ٽنڊوالهيار",
+      "name:sr": "Тандо Алахјар",
+      "name:ur": "ٹنڈو الہ یار"
+    }
+  }
+]

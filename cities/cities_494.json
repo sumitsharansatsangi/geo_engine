@@ -1,0 +1,341 @@
+[
+  {
+    "name": "Umpalá",
+    "country": "Colombia",
+    "latitude": 6.842165199409923,
+    "longitude": -72.9783782,
+    "other_names": {
+      "name": "Umpalá"
+    }
+  },
+  {
+    "name": "Umuahia",
+    "country": "Nigeria",
+    "latitude": 5.532403199471202,
+    "longitude": 7.492416500000001,
+    "other_names": {
+      "name": "Umuahia",
+      "name:ko": "우무아히아",
+      "name:ru": "Умуахия",
+      "name:uk": "Умуахія"
+    }
+  },
+  {
+    "name": "Umuarama",
+    "country": "Brazil",
+    "latitude": -23.762115199959624,
+    "longitude": -53.3116192,
+    "other_names": {
+      "name": "Umuarama"
+    }
+  },
+  {
+    "name": "Unalaska",
+    "country": "United States Of America",
+    "latitude": 53.872282399164995,
+    "longitude": -166.52722620000003,
+    "other_names": {
+      "name": "Unalaska"
+    }
+  },
+  {
+    "name": "Undurkhaan",
+    "country": "Mongolia",
+    "latitude": 47.32561140009226,
+    "longitude": 110.66491329999998,
+    "other_names": {
+      "name": "Өндөрхаан",
+      "name:ar": "أوندورخان",
+      "name:de": "Enderkhaan",
+      "name:en": "Undurkhaan",
+      "name:es": "Enderkhaan",
+      "name:fr": "Öndörkhaan",
+      "name:it": "Ôndôrhaan",
+      "name:ja": "ウンドゥルハーン",
+      "name:lt": "Underchanas",
+      "name:mn": "Өндөрхаан",
+      "name:pl": "Enderkhaan",
+      "name:pt": "Enderkhaan",
+      "name:ru": "Ундэрхаан",
+      "int_name": "Undurkhaan",
+      "alt_name:lt": "Undur Chanas",
+      "old_name:ru": "Ундерхан"
+    }
+  },
+  {
+    "name": "Ungheni",
+    "country": "Moldova",
+    "latitude": 47.20615390379316,
+    "longitude": 27.80108897562995,
+    "other_names": {
+      "name": "Ungheni",
+      "name:bg": "Унге́н",
+      "name:de": "Ungheni",
+      "name:en": "Ungheni",
+      "name:es": "Ungheni",
+      "name:fi": "Ungheni",
+      "name:fr": "Ungheni",
+      "name:pt": "Ungheni",
+      "name:ro": "Ungheni",
+      "name:ru": "Унгены",
+      "name:zh": "溫格內",
+      "alt_name": "Orașul Ungheni",
+      "int_name": "Ungheni"
+    }
+  },
+  {
+    "name": "Ungheni",
+    "country": "Romania",
+    "latitude": 47.20615390379316,
+    "longitude": 27.80108897562995,
+    "other_names": {
+      "name": "Ungheni",
+      "name:bg": "Унге́н",
+      "name:de": "Ungheni",
+      "name:en": "Ungheni",
+      "name:es": "Ungheni",
+      "name:fi": "Ungheni",
+      "name:fr": "Ungheni",
+      "name:pt": "Ungheni",
+      "name:ro": "Ungheni",
+      "name:ru": "Унгены",
+      "name:zh": "溫格內",
+      "alt_name": "Orașul Ungheni",
+      "int_name": "Ungheni"
+    }
+  },
+  {
+    "name": "Ungheni",
+    "country": "Moldova",
+    "latitude": 47.20599400011809,
+    "longitude": 27.7989217,
+    "other_names": {
+      "name": "Ungheni",
+      "name:bg": "Унге́н",
+      "name:de": "Ungheni",
+      "name:en": "Ungheni",
+      "name:es": "Ungheni",
+      "name:fi": "Ungheni",
+      "name:fr": "Ungheni",
+      "name:pt": "Ungheni",
+      "name:ro": "Ungheni",
+      "name:ru": "Унгены",
+      "name:zh": "溫格內",
+      "alt_name": "Municipiul Ungheni",
+      "int_name": "Ungheni",
+      "nat_name": "Ungheni",
+      "official_name": "Ungheni"
+    }
+  },
+  {
+    "name": "Un-nan",
+    "country": "Japan",
+    "latitude": 35.28809629967251,
+    "longitude": 132.9001494,
+    "other_names": {
+      "name": "雲南市",
+      "name:ar": "يونان، شيمانه",
+      "name:de": "Unnan",
+      "name:en": "Un-nan",
+      "name:es": "Unnan",
+      "name:eu": "Un-nan",
+      "name:fr": "Unnan",
+      "name:ja": "雲南市",
+      "name:ko": "운난시",
+      "name:pl": "Unnan",
+      "name:ru": "Уннан",
+      "name:uk": "Уннан",
+      "int_name": "Unnan",
+      "name:ja_rm": "Un-nan"
+    }
+  },
+  {
+    "name": "Unnao",
+    "country": "India",
+    "latitude": 26.54358400010754,
+    "longitude": 80.48714799999999,
+    "other_names": {
+      "name": "Unnao",
+      "name:hi": "उन्नाव",
+      "name:ja": "ウンナーオ",
+      "name:kn": "ಉನ್ನಾವ್",
+      "name:pa": "ਉਂਨਾਵ",
+      "name:zh": "乌纳奥",
+      "alt_name": "Unnao-Shuklaganj"
+    }
+  },
+  {
+    "name": "Unzen",
+    "country": "Japan",
+    "latitude": 32.83514999958876,
+    "longitude": 130.18772,
+    "other_names": {
+      "name": "雲仙市",
+      "name:ar": "يونزين، ناغاساكي",
+      "name:de": "Unzen",
+      "name:en": "Unzen",
+      "name:es": "Unzen",
+      "name:fr": "Unzen",
+      "name:ja": "雲仙市",
+      "name:ko": "운젠시",
+      "name:pl": "Unzen",
+      "name:ru": "Ундзен",
+      "name:uk": "Ундзен",
+      "name:zh": "云仙市",
+      "int_name": "Unzen",
+      "name:ja-Hira": "うんぜんし",
+      "name:ja-Latn": "Unzen-Shi",
+      "name:ja_kana": "ウンゼンシ",
+      "name:zh-Hans": "云仙市",
+      "name:zh-Hant": "雲仙市"
+    }
+  },
+  {
+    "name": "Uông Bí",
+    "country": "Vietnam",
+    "latitude": 21.041469200405086,
+    "longitude": 106.77402609999999,
+    "other_names": {
+      "name": "Uông Bí",
+      "name:en": "Uông Bí",
+      "name:ja": "ウオンビ",
+      "name:ko": "우옹비",
+      "name:ru": "Уонгби",
+      "name:vi": "Uông Bí",
+      "name:zh": "汪秘市"
+    }
+  },
+  {
+    "name": "Uonuma",
+    "country": "Japan",
+    "latitude": 37.230327399877595,
+    "longitude": 138.9611531,
+    "other_names": {
+      "name": "魚沼市",
+      "name:ar": "يونوما، نييغاتا",
+      "name:de": "Uonuma",
+      "name:en": "Uonuma",
+      "name:es": "Uonuma",
+      "name:fr": "Uonuma",
+      "name:ja": "魚沼市",
+      "name:ko": "우오누마시",
+      "name:pl": "Uonuma",
+      "name:ru": "Уонума",
+      "name:uk": "Уонума",
+      "int_name": "Uonuma",
+      "name:ja_rm": "Uonuma-shi",
+      "name:ja_kana": "うおぬまし"
+    }
+  },
+  {
+    "name": "Uozu",
+    "country": "Japan",
+    "latitude": 36.81707309982584,
+    "longitude": 137.4182725,
+    "other_names": {
+      "name": "魚津市",
+      "name:en": "Uozu",
+      "name:fr": "Uozu",
+      "name:ja": "魚津市",
+      "name:ko": "우오즈시",
+      "name:pl": "Uozu",
+      "name:ru": "Уодзу",
+      "name:uk": "Уодзу",
+      "int_name": "Uozu",
+      "name:ja_rm": "Uozu-shi",
+      "name:ja_kana": "うおづし"
+    }
+  },
+  {
+    "name": "Upata",
+    "country": "Venezuela",
+    "latitude": 8.00733769939041,
+    "longitude": -62.3977917,
+    "other_names": {
+      "name": "Upata"
+    }
+  },
+  {
+    "name": "Upington",
+    "country": "South Africa And Lesotho",
+    "latitude": -28.45632499937723,
+    "longitude": 21.241866999999996,
+    "other_names": {
+      "name": "Upington",
+      "name:en": "Upington",
+      "name:ko": "어핑턴",
+      "name:ru": "Апингтон",
+      "name:uk": "Апінгтон",
+      "name:ckb": "ئاپینگتن"
+    }
+  },
+  {
+    "name": "Upington",
+    "country": "South Africa",
+    "latitude": -28.45632499937723,
+    "longitude": 21.241866999999996,
+    "other_names": {
+      "name": "Upington",
+      "name:en": "Upington",
+      "name:ko": "어핑턴",
+      "name:ru": "Апингтон",
+      "name:uk": "Апінгтон",
+      "name:ckb": "ئاپینگتن"
+    }
+  },
+  {
+    "name": "Upper Hutt",
+    "country": "New Zealand",
+    "latitude": -41.124067401020106,
+    "longitude": 175.06995889999996,
+    "other_names": {
+      "name": "Upper Hutt",
+      "name:en": "Upper Hutt",
+      "name:ja": "アッパーハット",
+      "name:mk": "Горен Хат",
+      "name:ru": "Аппер-Хатт",
+      "name:uk": "Апер-Хат",
+      "alt_name:mk": "Апер Хат"
+    }
+  },
+  {
+    "name": "Uppsala",
+    "country": "Sweden",
+    "latitude": 59.858612601583125,
+    "longitude": 17.6387436,
+    "other_names": {
+      "name": "Uppsala",
+      "name:de": "Uppsala",
+      "name:eo": "Upsalo",
+      "name:fi": "Uppsala",
+      "name:he": "אופסלה",
+      "name:hu": "Uppsala",
+      "name:is": "Uppsalir",
+      "name:ko": "웁살라",
+      "name:lt": "Upsala",
+      "name:ru": "Уппсала",
+      "name:sv": "Uppsala",
+      "name:yi": "אופסאלא",
+      "name:nds": "Uppsala",
+      "old_name": "Östra Aros",
+      "old_name:fi": "Upsala"
+    }
+  },
+  {
+    "name": "Uqturpan",
+    "country": "China",
+    "latitude": 41.213617600415304,
+    "longitude": 79.2221379,
+    "other_names": {
+      "name": "乌什县",
+      "name:de": "Uqturpan",
+      "name:en": "Uqturpan",
+      "name:es": "Uqturpan",
+      "name:fr": "Uqturpan",
+      "name:ug": "ئۇچتۇرپان ناھىيىسى",
+      "name:zh": "乌什县",
+      "alt_name": "乌什县;Uqturpan Xian;Wu-shih Hsien;Wushi Xian;Wushi",
+      "name:zh-Hant": "烏什縣"
+    }
+  }
+]

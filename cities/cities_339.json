@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Northampton",
+    "country": "United States Of America",
+    "latitude": 42.31789890050755,
+    "longitude": -72.6311006,
+    "other_names": {
+      "name": "Northampton"
+    }
+  },
+  {
+    "name": "North Battleford",
+    "country": "Canada",
+    "latitude": 52.77618599908419,
+    "longitude": -108.300476,
+    "other_names": {
+      "name": "North Battleford",
+      "name:en": "North Battleford",
+      "name:ru": "Норт-Бетлфорд",
+      "name:uk": "Норт-Бетлфорд"
+    }
+  },
+  {
+    "name": "North Bay",
+    "country": "Canada",
+    "latitude": 46.30921150029192,
+    "longitude": -79.4607617,
+    "other_names": {
+      "name": "North Bay",
+      "name:ckb": "نۆرس بەی"
+    }
+  },
+  {
+    "name": "North Las Vegas",
+    "country": "United States Of America",
+    "latitude": 36.20058429975605,
+    "longitude": -115.1215844,
+    "other_names": {
+      "name": "North Las Vegas"
+    }
+  },
+  {
+    "name": "North Platte",
+    "country": "United States Of America",
+    "latitude": 41.123887300405755,
+    "longitude": -100.7654232,
+    "other_names": {
+      "name": "North Platte"
+    }
+  },
+  {
+    "name": "North Port",
+    "country": "United States Of America",
+    "latitude": 27.044224000052985,
+    "longitude": -82.23592539999999,
+    "other_names": {
+      "name": "North Port"
+    }
+  },
+  {
+    "name": "North Vancouver",
+    "country": "Canada",
+    "latitude": 49.32062939961334,
+    "longitude": -123.0737925,
+    "other_names": {
+      "name": "North Vancouver",
+      "name:zh-Hans": "北温哥华",
+      "name:zh-Hant": "北溫哥華"
+    }
+  },
+  {
+    "name": "Norwalk",
+    "country": "United States Of America",
+    "latitude": 41.11759660040508,
+    "longitude": -73.40789680000002,
+    "other_names": {
+      "name": "Norwalk"
+    }
+  },
+  {
+    "name": "Norwalk",
+    "country": "United States Of America",
+    "latitude": 33.90928019959895,
+    "longitude": -118.08491689999997,
+    "other_names": {
+      "name": "Norwalk"
+    }
+  },
+  {
+    "name": "Norwich",
+    "country": "United States Of America",
+    "latitude": 41.5243537004462,
+    "longitude": -72.0759008,
+    "other_names": {
+      "name": "Norwich"
+    }
+  },
+  {
+    "name": "Norwich",
+    "country": "England",
+    "latitude": 52.62860599908514,
+    "longitude": 1.29227,
+    "other_names": {
+      "name": "Norwich",
+      "name:be": "Норыдж",
+      "name:en": "Norwich",
+      "name:hu": "Norwich",
+      "name:ko": "노리치",
+      "name:lt": "Noridžas",
+      "name:mk": "Нориџ",
+      "name:ru": "Норидж",
+      "name:sr": "Норич",
+      "name:uk": "Норвіч",
+      "alt_name:mk": "Норич",
+      "old_name:nl": "Noordwijk"
+    }
+  },
+  {
+    "name": "Noshiro",
+    "country": "Japan",
+    "latitude": 40.211841700295615,
+    "longitude": 140.0271517,
+    "other_names": {
+      "name": "能代市",
+      "name:ar": "نوشيرو، أكيتا",
+      "name:de": "Noshiro",
+      "name:en": "Noshiro",
+      "name:es": "Noshiro",
+      "name:fr": "Noshiro",
+      "name:ja": "能代市",
+      "name:ko": "노시로시",
+      "name:pl": "Noshiro",
+      "name:ru": "Носиро",
+      "name:uk": "Носіро",
+      "int_name": "Noshiro",
+      "name:ja_rm": "Noshiro-shi",
+      "name:ja_kana": "のしろし"
+    }
+  },
+  {
+    "name": "Nossa Senhora do Socorro",
+    "country": "Brazil",
+    "latitude": -10.855311499997068,
+    "longitude": -37.1264863,
+    "other_names": {
+      "name": "Nossa Senhora do Socorro",
+      "name:ka": "ნოსა სენიორა დუ სოკორუ",
+      "name:lt": "Nosa Senjora do Sokoras",
+      "name:lv": "Nosasenjora du Sokoru",
+      "name:pt": "Nossa Senhora do Socorro",
+      "name:ru": "Носа-Сеньора-ду-Сокорру",
+      "loc_name": "Socorro",
+      "old_name": "Nossa Senhora do Socorro do Tomar da Cotinguiba"
+    }
+  },
+  {
+    "name": "Nottingham",
+    "country": "England",
+    "latitude": 52.95341929908657,
+    "longitude": -1.1496461,
+    "other_names": {
+      "name": "Nottingham",
+      "name:ar": "نوتنهام",
+      "name:be": "Но́тынгем",
+      "name:en": "Nottingham",
+      "name:fa": "ناتینگهام",
+      "name:hu": "Nottingham",
+      "name:ja": "ノッティンガム",
+      "name:ko": "노팅엄",
+      "name:mk": "Нотингем",
+      "name:ru": "Ноттингем",
+      "name:sr": "Нотингем",
+      "name:uk": "Ноттінгем",
+      "name:ur": "ناٹنگھم",
+      "alt_name:ar": "نوتنغهام"
+    }
+  },
+  {
+    "name": "Nouadhibou",
+    "country": "Mauritania",
+    "latitude": 20.912704500402665,
+    "longitude": -17.0503094,
+    "other_names": {
+      "name": "نواذيبو",
+      "name:ar": "نواذيبو",
+      "name:de": "Nouadhibou",
+      "name:en": "Nouadhibou",
+      "name:es": "Nuadibú",
+      "name:et": "Nouâdhibou",
+      "name:fa": "نواذیبو",
+      "name:fr": "Nouadhibou",
+      "name:ko": "누아디부",
+      "name:ks": "نواذیبو",
+      "name:pl": "Nawazibu",
+      "name:ru": "Нуадибу",
+      "name:uk": "Нуадібу",
+      "name:ur": "نواذیبو",
+      "alt_name": "انواذيبو;نواديبو;أنواذيبو",
+      "name:azb": "نواذیبو",
+      "name:pnb": "نواذيبو",
+      "name:zgh": "ⵏⵡⴰⴷⵉⴱⵓ",
+      "old_name": "بور إيتيان",
+      "alt_name:ar": "انواذيبو;نواديبو;أنواذيبو",
+      "alt_name:en": "Nuwadhibu;Nuadibu",
+      "old_name:ar": "بور إيتيان",
+      "old_name:fr": "Port-Étienne",
+      "name:kk-Arab": "نۋادىيبۋ",
+      "name:kab-Arab": "نواذيبو"
+    }
+  },
+  {
+    "name": "Nouakchott",
+    "country": "Mauritania",
+    "latitude": 18.079237900241008,
+    "longitude": -15.978007100000001,
+    "other_names": {
+      "name": "نواكشوط",
+      "name:am": "ኑዋክሾት",
+      "name:ar": "نواكشوط",
+      "name:az": "Nuakşot",
+      "name:be": "Нуакшот",
+      "name:bg": "Нуакшот",
+      "name:bn": "নুওয়াকশুত",
+      "name:bo": "ནའུ་ཀ་ཅོ་ཊི།",
+      "name:cs": "Nuakšott",
+      "name:da": "Nouakchott",
+      "name:de": "Nuakschott",
+      "name:el": "Νουακσότ",
+      "name:en": "Nouakchott",
+      "name:eo": "Nuakŝoto",
+      "name:es": "Nuakchot",
+      "name:et": "Nouakchott",
+      "name:eu": "Nuakchot",
+      "name:fa": "نوآکشوت",
+      "name:fi": "Nouakchott",
+      "name:fr": "Nouakchott",
+      "name:he": "נואקשוט",
+      "name:hr": "Nouakchott",
+      "name:ht": "Nouakchot",
+      "name:hu": "Nouakchott",
+      "name:hy": "Նուակշոտ",
+      "name:is": "Núaksjott",
+      "name:it": "Nouakchott",
+      "name:ja": "ヌアクショット",
+      "name:ka": "ნუაქშოტი",
+      "name:kk": "Нуакшот қаласы",
+      "name:ko": "누악쇼트",
+      "name:ku": "Nûakşot",
+      "name:ky": "Нуакшот",
+      "name:lt": "Nuakšotas",
+      "name:lv": "Nuakšota",
+      "name:mk": "Нуакшот",
+      "name:mr": "नवाकसुत",
+      "name:oc": "Nuakshut",
+      "name:pl": "Nawakszut",
+      "name:ps": "نواکشوت",
+      "name:pt": "Nouakchott",
+      "name:ru": "Нуакшот",
+      "name:sk": "Nouakchott",
+      "name:so": "Nawakshot",
+      "name:sr": "Нуакшот",
+      "name:sv": "Nouakchott",
+      "name:ta": "நவாக்சோட்",
+      "name:tg": "Нуакшот",
+      "name:th": "นูแอกชอต",
+      "name:tr": "Nuakşot",
+      "name:uk": "Нуакшот",
+      "name:ur": "نواکشوط",
+      "name:vi": "Nouakchott",
+      "name:vo": "Nävakjut",
+      "name:zh": "努瓦克肖特",
+      "alt_name": "انواكشوط;Nouakchot;Nouakchat;Nouakchott",
+      "name:ast": "Nuakxot",
+      "name:ber": "ⵏⵡⴰⴽⵛⵓⵟ",
+      "name:ckb": "نواکشۆت",
+      "name:mrj": "Нуакшот",
+      "name:nov": "Nouakchot",
+      "name:pnb": "نوواکوٹ",
+      "name:udm": "Нуакшот",
+      "name:yue": "或索",
+      "alt_name:ar": "انواكشوط;أنواكشوط",
+      "alt_name:de": "Nawakschut",
+      "alt_name:en": "Nuwakshut",
+      "name:be-tarask": "Нуакшот"
+    }
+  },
+  {
+    "name": "Nouméa",
+    "country": "New Caledonia",
+    "latitude": -22.27452640016266,
+    "longitude": 166.44241899999997,
+    "other_names": {
+      "name": "Nouméa",
+      "name:ar": "نوميا",
+      "name:az": "Numea",
+      "name:be": "Нумеа",
+      "name:bg": "Нумеа",
+      "name:de": "Noumea",
+      "name:el": "Νουμέα",
+      "name:eo": "Noumeo",
+      "name:es": "Numea",
+      "name:fr": "Nouméa",
+      "name:gl": "Noumea",
+      "name:hu": "Nouméa",
+      "name:io": "Noumea",
+      "name:is": "Nouméa",
+      "name:ja": "ヌメア",
+      "name:ka": "ნუმეა",
+      "name:ko": "누메아",
+      "name:lt": "Numėja",
+      "name:mk": "Нумеја",
+      "name:mr": "नूमेआ",
+      "name:oc": "Nomea",
+      "name:os": "Нумеа",
+      "name:pl": "Numea",
+      "name:ru": "Нумеа",
+      "name:sr": "Нумеа",
+      "name:sv": "Nouméa",
+      "name:uk": "Нумеа",
+      "name:ur": "نومیا",
+      "name:zh": "努美阿",
+      "name:hif": "Noumea",
+      "alt_name:mk": "Нумеа",
+      "old_name:fr": "Port-de-France",
+      "name:be-tarask": "Нумэа"
+    }
+  },
+  {
+    "name": "Nova Friburgo",
+    "country": "Brazil",
+    "latitude": -22.28000040016198,
+    "longitude": -42.5325303,
+    "other_names": {
+      "name": "Nova Friburgo"
+    }
+  },
+  {
+    "name": "Nova Iguaçu",
+    "country": "Brazil",
+    "latitude": -22.75921750009968,
+    "longitude": -43.450872800000006,
+    "other_names": {
+      "name": "Nova Iguaçu",
+      "name:oc": "Nova Iguaçu"
+    }
+  },
+  {
+    "name": "Novara",
+    "country": "Italy",
+    "latitude": 45.44640360041951,
+    "longitude": 8.619655,
+    "other_names": {
+      "name": "Novara",
+      "name:be": "Навара",
+      "name:el": "Νοβάρα",
+      "name:en": "Novara",
+      "name:eo": "Novaro",
+      "name:fr": "Novare",
+      "name:ru": "Новара",
+      "name:uk": "Новара",
+      "name:zh": "諾瓦拉",
+      "name:pms": "Noara",
+      "name:zh-Hans": "诺瓦拉"
+    }
+  }
+]

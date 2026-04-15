@@ -1,0 +1,308 @@
+[
+  {
+    "name": "Bắc Giang",
+    "country": "Vietnam",
+    "latitude": 21.27793130040831,
+    "longitude": 106.1938814,
+    "other_names": {
+      "name": "Bắc Giang",
+      "name:en": "Bắc Giang",
+      "name:ja": "バクザン",
+      "name:ko": "박장",
+      "name:lt": "Bakziangas",
+      "name:ru": "Бакзянг",
+      "name:uk": "Бакзянґ",
+      "name:zh": "北江市"
+    }
+  },
+  {
+    "name": "Bachaquero",
+    "country": "Venezuela",
+    "latitude": 9.964367499436277,
+    "longitude": -71.12286189999999,
+    "other_names": {
+      "name": "Bachaquero"
+    }
+  },
+  {
+    "name": "Bachu",
+    "country": "China",
+    "latitude": 39.79965710023985,
+    "longitude": 78.5462714,
+    "other_names": {
+      "name": "巴楚县",
+      "name:de": "Maralbexi",
+      "name:en": "Bachu",
+      "name:es": "Maralbexi",
+      "name:fr": "Maralbexi",
+      "name:ug": "مارالبىشى بازىرى",
+      "name:zh": "巴楚县",
+      "alt_name": "巴楚县;Marabishi;مارالبېشى;Маралбеши;Maralbexi;Pa-ch'u-hsien;Pa-ch'u;Ma-la-pa-shih;Ma-la-erh-pa-shih;Maral-Bashi;Maral-bash;Marabashi;Barchuk;Maralbeshi;Maral-baschi;Pa-ch'u-chen;Ma-la-lo-pa-shih",
+      "name:zh-Hant": "巴楚縣"
+    }
+  },
+  {
+    "name": "Bắc Kạn",
+    "country": "Vietnam",
+    "latitude": 22.14949150040648,
+    "longitude": 105.837248,
+    "other_names": {
+      "name": "Bắc Kạn",
+      "name:ja": "バックカン",
+      "name:ko": "박깐",
+      "name:lt": "Bakkanas",
+      "name:ru": "Баккан",
+      "name:zh": "北𣴓市",
+      "official_name": "Thành phố Bắc Kạn"
+    }
+  },
+  {
+    "name": "Bạc Liêu",
+    "country": "Vietnam",
+    "latitude": 9.282488199409196,
+    "longitude": 105.7260685,
+    "other_names": {
+      "name": "Bạc Liêu",
+      "name:en": "Bạc Liêu",
+      "name:ja": "バクリエウ",
+      "name:ko": "박리에우",
+      "name:ru": "Бакльеу",
+      "name:vi": "Bạc Liêu",
+      "name:zh": "薄寮",
+      "old_name": "Vĩnh Lợi",
+      "official_name": "Thành phố Bạc Liêu"
+    }
+  },
+  {
+    "name": "Bắc Ninh",
+    "country": "Vietnam",
+    "latitude": 21.18412420040722,
+    "longitude": 106.07187949999998,
+    "other_names": {
+      "name": "Bắc Ninh",
+      "name:en": "Bắc Ninh",
+      "name:ja": "バクニン",
+      "name:ko": "박닌",
+      "name:ru": "Бакнинь",
+      "name:vi": "Bắc Ninh",
+      "name:zh": "北宁市"
+    }
+  },
+  {
+    "name": "Bacolod",
+    "country": "Philippines",
+    "latitude": 10.676283599476523,
+    "longitude": 122.9513786,
+    "other_names": {
+      "name": "Bacolod",
+      "name:de": "Bacolod",
+      "name:en": "Bacolod",
+      "name:es": "Bacólod",
+      "name:id": "Bacolod",
+      "name:it": "Bacolod",
+      "name:ja": "バコロド",
+      "name:ko": "바콜로드",
+      "name:lt": "Bakolodas",
+      "name:nl": "Bacolod",
+      "name:pt": "Bacólod",
+      "name:ru": "Баколод",
+      "name:sv": "Bacolod",
+      "name:tl": "Bacolod",
+      "name:uk": "Баколод",
+      "name:zh": "巴科洛德"
+    }
+  },
+  {
+    "name": "Bacoor",
+    "country": "Philippines",
+    "latitude": 14.458985499843488,
+    "longitude": 120.9398889,
+    "other_names": {
+      "ref": "042103000",
+      "name": "Bacoor",
+      "name:ja": "バコール"
+    }
+  },
+  {
+    "name": "Badajoz",
+    "country": "Spain",
+    "latitude": 38.87070781238371,
+    "longitude": -6.9703052230146545,
+    "other_names": {
+      "name": "Badajoz",
+      "name:be": "Бадахас",
+      "name:el": "Μπαδαχόθ",
+      "name:eo": "Badaĥozo",
+      "name:es": "Badajoz",
+      "name:hu": "Badajoz",
+      "name:lt": "Badachosas",
+      "name:ru": "Бадахос",
+      "name:ast": "Badaxoz",
+      "name:ext": "Baajós"
+    }
+  },
+  {
+    "name": "Badajoz",
+    "country": "Spain",
+    "latitude": 38.87805850010823,
+    "longitude": -6.970204799999999,
+    "other_names": {
+      "name": "Badajoz",
+      "name:ar": "بطليوس",
+      "name:be": "Бадахас",
+      "name:el": "Μπαδαχόθ",
+      "name:es": "Badajoz",
+      "name:fa": "باداخوس",
+      "name:hu": "Badajoz",
+      "name:la": "Pax Augusta",
+      "name:lt": "Badachosas",
+      "name:ru": "Бадахос",
+      "name:ur": "بطليوس",
+      "name:ast": "Badaxoz",
+      "name:ext": "Baajós",
+      "alt_name:ar": "باداخوز"
+    }
+  },
+  {
+    "name": "Badalona",
+    "country": "Spain",
+    "latitude": 41.44935390043905,
+    "longitude": 2.248254,
+    "other_names": {
+      "name": "Badalona",
+      "name:ar": "بادالونا",
+      "name:be": "Бадалона",
+      "name:bg": "Бадалона",
+      "name:ca": "Badalona",
+      "name:el": "Μπαδαλόνα",
+      "name:fa": "بادالونا",
+      "name:hy": "Բադալոնա",
+      "name:ja": "バダロナ",
+      "name:ka": "ბადალონა",
+      "name:kk": "Бадалона",
+      "name:ko": "바달로나",
+      "name:ru": "Бадалона",
+      "name:sa": "बाडालोना",
+      "name:sr": "Бадалона",
+      "name:th": "บาดาโลนา",
+      "name:uk": "Бадалона",
+      "name:zh": "巴达洛纳"
+    }
+  },
+  {
+    "name": "Badhan",
+    "country": "Somalia",
+    "latitude": 10.715404199479073,
+    "longitude": 48.3351072,
+    "other_names": {
+      "name": "Badhan برن",
+      "pcode": "NC-3905-G08-001",
+      "name:ar": "برن",
+      "name:de": "Badhan",
+      "name:en": "Badhan",
+      "name:es": "Badhan",
+      "name:fr": "Badhan"
+    }
+  },
+  {
+    "name": "Badin",
+    "country": "Pakistan",
+    "latitude": 24.655167100286207,
+    "longitude": 68.84015089999998,
+    "other_names": {
+      "name": "بدین‎",
+      "name:en": "Badin",
+      "name:ru": "Бадин",
+      "name:sd": "بدین‎",
+      "name:ur": "بدین‎"
+    }
+  },
+  {
+    "name": "Badong",
+    "country": "China",
+    "latitude": 31.04464429965818,
+    "longitude": 110.3352957,
+    "other_names": {
+      "name": "巴东县",
+      "name:en": "Badong",
+      "name:vi": "Ba Đông",
+      "name:zh": "巴东县",
+      "name:zh-Hant": "巴東縣",
+      "name:zh_pinyin": "Badong Xian"
+    }
+  },
+  {
+    "name": "Badulla",
+    "country": "Sri Lanka",
+    "latitude": 6.989949899405555,
+    "longitude": 81.05705889999999,
+    "other_names": {
+      "name": "Badulla",
+      "name:hi": "बैड्युला",
+      "name:ja": "バドゥッラ",
+      "name:kn": "ಬದುಲ್ಲ",
+      "name:ru": "Бадулла",
+      "name:si": "බදුල්ල",
+      "name:ta": "பதுளை"
+    }
+  },
+  {
+    "name": "Bafia",
+    "country": "Cameroon",
+    "latitude": 4.739933099526094,
+    "longitude": 11.2205928,
+    "other_names": {
+      "name": "Bafia",
+      "name:ru": "Бафиа"
+    }
+  },
+  {
+    "name": "Bafoussam",
+    "country": "Cameroon",
+    "latitude": 5.475808299474708,
+    "longitude": 10.4215565,
+    "other_names": {
+      "name": "Bafoussam",
+      "name:ko": "바푸삼",
+      "alt_name": "Bafoussam 1; Bafoussam I"
+    }
+  },
+  {
+    "name": "Bagaha",
+    "country": "India",
+    "latitude": 27.097948300047044,
+    "longitude": 84.0893554,
+    "other_names": {
+      "name": "Bagaha",
+      "name:hi": "बगहा"
+    }
+  },
+  {
+    "name": "Bagalkote",
+    "country": "India",
+    "latitude": 16.185316600045706,
+    "longitude": 75.6967919,
+    "other_names": {
+      "name": "Bagalkote",
+      "name:ar": "باجلكوت",
+      "name:en": "Bagalkote",
+      "name:hi": "बागलकोट",
+      "name:kn": "ಬಾಗಲಕೋಟೆ",
+      "name:mr": "बागलकोट",
+      "name:ta": "பாகல்கோட்",
+      "name:uk": "Баґалкот"
+    }
+  },
+  {
+    "name": "Bagé",
+    "country": "Brazil",
+    "latitude": -31.33142639935799,
+    "longitude": -54.10628079999999,
+    "other_names": {
+      "name": "Bagé",
+      "name:en": "Bagé",
+      "name:ru": "Баже",
+      "name:uk": "Баже"
+    }
+  }
+]

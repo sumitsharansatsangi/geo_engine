@@ -1,0 +1,328 @@
+[
+  {
+    "name": "Tholing",
+    "country": "China",
+    "latitude": 31.48174449963218,
+    "longitude": 79.8006818,
+    "other_names": {
+      "name": "札达县",
+      "name:bo": "རྩ་མདའ་རྫོང་",
+      "name:de": "Zanda",
+      "name:en": "Tholing",
+      "name:es": "Zanda",
+      "name:fr": "Zanda",
+      "name:vi": "Zanda",
+      "name:zh": "札达县",
+      "alt_name": "扎达;Zanda Xian;Cha-ta Hsien;Zhada",
+      "int_name": "zha da",
+      "alt_name:vi": "Trát Đạt",
+      "name:zh-Hant": "札達縣",
+      "name:zh_pinyin": "Zanda Xian"
+    }
+  },
+  {
+    "name": "Thompson",
+    "country": "Canada",
+    "latitude": 55.74334699968233,
+    "longitude": -97.86346399999998,
+    "other_names": {
+      "name": "Thompson",
+      "name:en": "Thompson",
+      "name:ru": "Томпсон",
+      "name:uk": "Томпсон"
+    }
+  },
+  {
+    "name": "Thoothukudi",
+    "country": "India",
+    "latitude": 8.805260199397235,
+    "longitude": 78.14527449999999,
+    "other_names": {
+      "name": "Thoothukudi",
+      "name:ar": "طوتوكودي",
+      "name:en": "Thoothukudi",
+      "name:hi": "तूतुकुडी",
+      "name:ja": "トゥーティコーリン",
+      "name:kn": "ತೂತ್ತುಕ್ಕುಡಿ",
+      "name:ml": "തൂത്തുക്കുടി",
+      "name:ru": "Тутикорин",
+      "name:ta": "தூத்துக்குடி",
+      "name:uk": "Тутікорін",
+      "name:ur": "طهوتوکوڈی",
+      "name:zh": "杜蒂戈林",
+      "alt_name": "Tuticorin",
+      "alt_name:ja": "トゥーットゥックディ"
+    }
+  },
+  {
+    "name": "Thornton",
+    "country": "United States Of America",
+    "latitude": 39.8695516002495,
+    "longitude": -104.985181,
+    "other_names": {
+      "name": "Thornton"
+    }
+  },
+  {
+    "name": "Thorold",
+    "country": "Canada",
+    "latitude": 43.124912700539205,
+    "longitude": -79.2005935,
+    "other_names": {
+      "name": "Thorold"
+    }
+  },
+  {
+    "name": "Thousand Oaks",
+    "country": "United States Of America",
+    "latitude": 34.17056089960771,
+    "longitude": -118.83759369999997,
+    "other_names": {
+      "name": "Thousand Oaks"
+    }
+  },
+  {
+    "name": "Thousand Oaks",
+    "country": "United States Of America",
+    "latitude": 34.171655592364786,
+    "longitude": -118.91040124558482,
+    "other_names": {
+      "name": "Thousand Oaks",
+      "name:ar": "ثوسند أوكس، كاليفورنيا"
+    }
+  },
+  {
+    "name": "Three Corners Bekondo",
+    "country": "Cameroon",
+    "latitude": 4.660359421655081,
+    "longitude": 9.320318765409384,
+    "other_names": {
+      "name": "Three Corners Bekondo"
+    }
+  },
+  {
+    "name": "Thrissur",
+    "country": "India",
+    "latitude": 10.525626399467026,
+    "longitude": 76.2132542,
+    "other_names": {
+      "name": "Thrissur",
+      "name:ar": "ثريسور",
+      "name:en": "Thrissur",
+      "name:he": "תריסור",
+      "name:hi": "तृश्शूर",
+      "name:ja": "トリシュール",
+      "name:kn": "ತ್ರಿಶ್ಶೂರು",
+      "name:ml": "തൃശ്ശൂർ",
+      "name:pa": "ਤ੍ਰਿਸ਼ੂਰ",
+      "name:ru": "Триссур",
+      "name:ta": "திருச்சூர்",
+      "name:te": "త్రిస్సూరు"
+    }
+  },
+  {
+    "name": "Thu Dau Mot City",
+    "country": "Vietnam",
+    "latitude": 10.980843499497253,
+    "longitude": 106.6537483,
+    "other_names": {
+      "name": "Thủ Dầu Một",
+      "name:en": "Thu Dau Mot City",
+      "name:id": "Thu Dau Mot",
+      "name:ko": "투저우못",
+      "name:vi": "Thủ Dầu Một",
+      "name:zh": "土龙木市",
+      "name:vi-Hani": "守油沒",
+      "official_name": "Thành phố Thủ Dầu Một",
+      "official_name:en": "Thu Dau Mot City",
+      "official_name:vi": "Thành phố Thủ Dầu Một"
+    }
+  },
+  {
+    "name": "Thu Duc",
+    "country": "Vietnam",
+    "latitude": 10.82982949948672,
+    "longitude": 106.76178989999998,
+    "other_names": {
+      "name": "Thủ Đức",
+      "name:en": "Thu Duc",
+      "name:ja": "トゥドゥック",
+      "name:ko": "트득시",
+      "name:vi": "Thủ Đức",
+      "name:zh": "守德市",
+      "official_name": "Thủ Đức",
+      "official_name:en": "Thu Duc",
+      "official_name:fr": "Thu Duc"
+    }
+  },
+  {
+    "name": "Thunder Bay",
+    "country": "Canada",
+    "latitude": 48.4064139998392,
+    "longitude": -89.259796,
+    "other_names": {
+      "name": "Thunder Bay",
+      "name:en": "Thunder Bay",
+      "name:ru": "Тандер-Бей",
+      "name:uk": "Тандер-Бей"
+    }
+  },
+  {
+    "name": "Tía Juana",
+    "country": "Venezuela",
+    "latitude": 10.255296999451291,
+    "longitude": -71.366379,
+    "other_names": {
+      "name": "Tía Juana"
+    }
+  },
+  {
+    "name": "Tianchang",
+    "country": "China",
+    "latitude": 32.66914899959081,
+    "longitude": 118.99944780000001,
+    "other_names": {
+      "name": "天长市",
+      "name:de": "Tianchang",
+      "name:en": "Tianchang",
+      "name:fr": "Tianchang",
+      "name:ja": "天長市",
+      "name:vi": "Thiên Trường",
+      "name:zh": "天长市",
+      "name:zh-Hant": "天長市",
+      "name:zh_pinyin": "Tianchang Shi"
+    }
+  },
+  {
+    "name": "Tiandeng",
+    "country": "China",
+    "latitude": 23.083239000380754,
+    "longitude": 107.13936970000002,
+    "other_names": {
+      "name": "天等县",
+      "name:en": "Tiandeng",
+      "name:zh": "天等县",
+      "alt_name": "天等;Tiandeng County",
+      "name:zh-Hant": "天等縣",
+      "name:zh_pinyin": "tiānděng xiàn"
+    }
+  },
+  {
+    "name": "Tiandong",
+    "country": "China",
+    "latitude": 23.599531400356405,
+    "longitude": 107.1272702,
+    "other_names": {
+      "name": "田东县",
+      "name:en": "Tiandong",
+      "name:vi": "Điền Đông",
+      "name:zh": "田东县",
+      "alt_name": "田东;Tiandong County",
+      "name:yue": "田东县",
+      "name:zh-Hant": "田東縣",
+      "name:yue-Latn": "Tindung-hyun",
+      "name:zh_pinyin": "tiándōng xiàn"
+    }
+  },
+  {
+    "name": "Tian'e",
+    "country": "China",
+    "latitude": 25.001407100257868,
+    "longitude": 107.16810259999998,
+    "other_names": {
+      "name": "天峨县",
+      "name:en": "Tian'e",
+      "name:vi": "Thiên Nga",
+      "name:zh": "天峨县",
+      "alt_name": "天峨;T'ien-o Hsien;Tian'e County",
+      "name:zh-Hant": "天峨縣",
+      "name:zh_pinyin": "Tian'e Xian"
+    }
+  },
+  {
+    "name": "Tianhe District",
+    "country": "China",
+    "latitude": 23.12712000037896,
+    "longitude": 113.356424,
+    "other_names": {
+      "name": "天河区",
+      "name:ar": "منطقة تيانخه",
+      "name:de": "Tianhe",
+      "name:en": "Tianhe District",
+      "name:es": "Tianhe",
+      "name:eu": "Tianhe Barrutia",
+      "name:fa": "ناحیه تیانهی",
+      "name:fr": "District de Tianhe",
+      "name:hu": "Tianhe kerület",
+      "name:id": "Distrik Tianhe",
+      "name:it": "Distretto di Tianhe",
+      "name:ja": "天河区",
+      "name:ko": "톈허구",
+      "name:nl": "Tianhe",
+      "name:no": "Tianhe",
+      "name:pl": "Tianhe",
+      "name:ru": "Тяньхэ",
+      "name:sv": "Tianhe",
+      "name:vi": "Thiên Hà",
+      "name:zh": "天河区",
+      "name:arz": "حى تيانهى",
+      "name:ast": "Tianhe",
+      "name:ceb": "Tianhe Qu",
+      "name:hak": "Thiên-hò-khî",
+      "name:mwl": "Tianhe",
+      "name:nan": "Thian-hô-khu",
+      "name:yue": "天河區",
+      "name:zh-Hant": "天河區",
+      "name:zh_pinyin": "Tiānhé Qū",
+      "official_name:vi": "Quận Thiên Hà"
+    }
+  },
+  {
+    "name": "Tianjia‘an",
+    "country": "China",
+    "latitude": 32.64913489959113,
+    "longitude": 117.01193430000001,
+    "other_names": {
+      "name": "田家庵区",
+      "name:en": "Tianjia‘an",
+      "name:ja": "田家庵区",
+      "name:vi": "Điền Gia Am",
+      "name:zh": "田家庵区",
+      "name:zh-Hant": "田家庵區",
+      "name:zh_pinyin": "Tianjia'an Qu"
+    }
+  },
+  {
+    "name": "Tianjin",
+    "country": "China",
+    "latitude": 39.08567350013832,
+    "longitude": 117.19510729999998,
+    "other_names": {
+      "ref": "津",
+      "name": "天津市",
+      "name:ar": "تيانجين",
+      "name:bn": "তিয়ন্জিন",
+      "name:ca": "Tientsin",
+      "name:cs": "Tchien-ťin",
+      "name:de": "Tianjin",
+      "name:en": "Tianjin",
+      "name:eo": "Tjanĝino",
+      "name:es": "Tianjin",
+      "name:et": "Tianjin",
+      "name:fi": "Tianjin",
+      "name:fr": "Tianjin",
+      "name:hi": "तियन्जिन",
+      "name:it": "Tientsin",
+      "name:ja": "天津市",
+      "name:kn": "ತಿಯನ್ಜಿನ್",
+      "name:nl": "Tianjin",
+      "name:oc": "Tianjin",
+      "name:ru": "Тяньцзинь",
+      "name:sr": "Тјенцин",
+      "name:vi": "Thiên Tân",
+      "name:zh": "天津市",
+      "name:zh-Hant": "天津市",
+      "name:zh_pinyin": "Tiānjīn"
+    }
+  }
+]

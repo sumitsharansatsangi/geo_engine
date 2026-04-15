@@ -1,0 +1,260 @@
+[
+  {
+    "name": "San Salvador de Jujuy",
+    "country": "Argentina",
+    "latitude": -24.185256899898157,
+    "longitude": -65.29947889999998,
+    "other_names": {
+      "name": "San Salvador de Jujuy",
+      "name:el": "Σαν Σαλβαδορ δε Χουχούι",
+      "name:he": "חוחוי",
+      "name:ru": "Сан-Сальвадор-де-Жужуй"
+    }
+  },
+  {
+    "name": "San Salvador El Verde",
+    "country": "Mexico",
+    "latitude": 19.26962572299757,
+    "longitude": -98.51642711124518,
+    "other_names": {
+      "name": "San Salvador El Verde"
+    }
+  },
+  {
+    "name": "San Sebastián",
+    "country": "El Salvador",
+    "latitude": 13.722977799758516,
+    "longitude": -88.81654089999999,
+    "other_names": {
+      "name": "San Sebastián"
+    }
+  },
+  {
+    "name": "San Sebastián",
+    "country": "Venezuela",
+    "latitude": 9.946062199435396,
+    "longitude": -67.1766707,
+    "other_names": {
+      "name": "San Sebastián"
+    }
+  },
+  {
+    "name": "Sansha",
+    "country": "China",
+    "latitude": 16.832701000117556,
+    "longitude": 112.333672,
+    "other_names": {
+      "name": "三沙市",
+      "name:ar": "سانشا",
+      "name:ca": "Sansha",
+      "name:de": "Sansha",
+      "name:en": "Sansha",
+      "name:es": "Oficina Administrativa de las Islas Xisha, Zhongsha y Nansha",
+      "name:fa": "سانشا",
+      "name:fi": "Sansha",
+      "name:fr": "Sansha",
+      "name:id": "Sansha",
+      "name:it": "Sansha",
+      "name:ja": "三沙市",
+      "name:ki": "Sansha",
+      "name:ko": "싼사시",
+      "name:ms": "Sansha",
+      "name:no": "Sansha",
+      "name:pl": "Sansha",
+      "name:pt": "Sansha",
+      "name:ru": "Саньша",
+      "name:sv": "Sansha",
+      "name:th": "ซันชา",
+      "name:tl": "Sansha",
+      "name:tr": "Sansha",
+      "name:ur": "سانشا",
+      "name:vi": "Tam Sa",
+      "name:zh": "三沙市",
+      "int_name": "Sansha",
+      "name:cdo": "Săng-să (chê)",
+      "name:hak": "Sâm-sâ-sṳ",
+      "name:nan": "Sam-soa-chhī",
+      "name:pam": "Sansha",
+      "name:wuu": "三沙市",
+      "name:yue": "三沙市",
+      "name:zh-Hant": "三沙市",
+      "name:zh_pinyin": "Sānshā Shì"
+    }
+  },
+  {
+    "name": "Sanshui",
+    "country": "China",
+    "latitude": 23.15488210037779,
+    "longitude": 112.88726739999998,
+    "other_names": {
+      "name": "三水区",
+      "name:de": "Sanshui",
+      "name:en": "Sanshui",
+      "name:es": "Sanshui",
+      "name:fa": "سانشوی",
+      "name:fr": "District de Sanshui",
+      "name:it": "Distretto di Sanshui",
+      "name:ja": "三水区",
+      "name:ko": "싼수이구",
+      "name:nl": "Sanshui",
+      "name:no": "Sanshui",
+      "name:ru": "Саньшуй",
+      "name:sv": "Sanshui",
+      "name:vi": "Tam Thủy",
+      "name:zh": "三水区",
+      "alt_name": "三水;Sanshui District",
+      "name:hak": "Sâm-súi-khî",
+      "name:mwl": "Sanshui",
+      "name:nan": "Sam-súi-khu",
+      "name:yue": "三水",
+      "name:zh-Hant": "三水區",
+      "name:zh_pinyin": "Sānshuǐ Qū"
+    }
+  },
+  {
+    "name": "Sansui",
+    "country": "China",
+    "latitude": 26.95704640006261,
+    "longitude": 108.67171499999999,
+    "other_names": {
+      "name": "三穗县",
+      "name:en": "Sansui",
+      "name:vi": "Tam Tuệ",
+      "name:zh": "三穗县",
+      "name:zh-Hant": "三穗縣",
+      "name:zh_pinyin": "Sansui Xian"
+    }
+  },
+  {
+    "name": "Santa Ana",
+    "country": "United States Of America",
+    "latitude": 33.7494950995948,
+    "longitude": -117.8732213,
+    "other_names": {
+      "name": "Santa Ana"
+    }
+  },
+  {
+    "name": "Santa Ana",
+    "country": "El Salvador",
+    "latitude": 13.994720799789512,
+    "longitude": -89.55667959999998,
+    "other_names": {
+      "name": "Santa Ana",
+      "name:ru": "Санта-Ана"
+    }
+  },
+  {
+    "name": "Santa Ana del Yacuma",
+    "country": "Bolivia",
+    "latitude": -13.745482900280672,
+    "longitude": -65.4279305,
+    "other_names": {
+      "name": "Santa Ana del Yacuma",
+      "old_name:1708-1826": "San Lorenzo"
+    }
+  },
+  {
+    "name": "Santa Ana del Yacuma",
+    "country": "Bolivia",
+    "latitude": -13.74467326167835,
+    "longitude": -65.42657282595455,
+    "other_names": {
+      "name": "Santa Ana del Yacuma"
+    }
+  },
+  {
+    "name": "Santa Barbara",
+    "country": "United States Of America",
+    "latitude": 34.42213189961846,
+    "longitude": -119.70266730000002,
+    "other_names": {
+      "name": "Santa Barbara",
+      "name:en": "Santa Barbara",
+      "name:ja": "サンタバーバラ",
+      "name:ru": "Санта-Барбара",
+      "name:th": "แซนตาบาร์บารา",
+      "name:uk": "Санта-Барбара",
+      "name:zh": "圣巴巴拉"
+    }
+  },
+  {
+    "name": "Santa Bárbara",
+    "country": "Honduras",
+    "latitude": 14.922223599898091,
+    "longitude": -88.23533350000001,
+    "other_names": {
+      "name": "Santa Bárbara",
+      "name:hu": "Santa Barbara"
+    }
+  },
+  {
+    "name": "Santa Bárbara de Barinas",
+    "country": "Venezuela",
+    "latitude": 7.813711799391246,
+    "longitude": -71.1751362,
+    "other_names": {
+      "name": "Santa Bárbara de Barinas"
+    }
+  },
+  {
+    "name": "Santa Bárbara del Zulia",
+    "country": "Venezuela",
+    "latitude": 9.000266099401415,
+    "longitude": -71.9139546,
+    "other_names": {
+      "name": "Santa Bárbara del Zulia"
+    }
+  },
+  {
+    "name": "Santa Bárbara del Zulia",
+    "country": "Venezuela",
+    "latitude": 8.99695498243943,
+    "longitude": -71.91207826709329,
+    "other_names": {
+      "name": "Santa Bárbara del Zulia"
+    }
+  },
+  {
+    "name": "Santa Bárbara d'Oeste",
+    "country": "Brazil",
+    "latitude": -22.754253900100345,
+    "longitude": -47.4137884,
+    "other_names": {
+      "name": "Santa Bárbara d'Oeste"
+    }
+  },
+  {
+    "name": "Santa Clara",
+    "country": "Cuba",
+    "latitude": 22.406572000401823,
+    "longitude": -79.96514900000001,
+    "other_names": {
+      "name": "Santa Clara",
+      "name:hu": "Santa Clara",
+      "name:ru": "Санта-Клара"
+    }
+  },
+  {
+    "name": "Santa Clara",
+    "country": "United States Of America",
+    "latitude": 37.35411319989376,
+    "longitude": -121.95517399999997,
+    "other_names": {
+      "name": "Santa Clara",
+      "name:ar": "سانتا كلارا",
+      "name:zh": "圣克拉拉/聖塔克拉拉",
+      "name:zh-Hans": "圣克拉拉",
+      "name:zh-Hant": "聖塔克拉拉"
+    }
+  },
+  {
+    "name": "Santa Clarita",
+    "country": "United States Of America",
+    "latitude": 34.39166409961704,
+    "longitude": -118.542586,
+    "other_names": {
+      "name": "Santa Clarita"
+    }
+  }
+]

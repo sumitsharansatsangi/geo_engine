@@ -1,0 +1,400 @@
+[
+  {
+    "name": "Suichang County",
+    "country": "China",
+    "latitude": 28.59501199988062,
+    "longitude": 119.2686475,
+    "other_names": {
+      "name": "遂昌县",
+      "name:de": "Suichang",
+      "name:en": "Suichang County",
+      "name:fa": "شهرستان سویچانگ",
+      "name:fr": "Xian de Suichang",
+      "name:it": "Contea di Suichang",
+      "name:ja": "遂昌県",
+      "name:ko": "쑤이창현",
+      "name:no": "Suichang",
+      "name:ru": "Суйчан",
+      "name:sv": "Suichang",
+      "name:vi": "Toại Xương",
+      "name:zh": "遂昌县",
+      "name:ceb": "Suichang Xian",
+      "name:nan": "Sūi-chhiong-koān",
+      "name:wuu": "遂昌县",
+      "name:yue": "遂昌",
+      "name:zh-Hant": "遂昌縣",
+      "name:zh_pinyin": "Suìchāng Xiàn"
+    }
+  },
+  {
+    "name": "Suichuan",
+    "country": "China",
+    "latitude": 26.315714100131693,
+    "longitude": 114.51657599999999,
+    "other_names": {
+      "name": "遂川县",
+      "name:en": "Suichuan",
+      "name:zh": "遂川县",
+      "alt_name": "遂川;Suichuan County",
+      "name:zh-Hant": "遂川縣",
+      "name:zh_pinyin": "suìchuān xiàn"
+    }
+  },
+  {
+    "name": "Sui County",
+    "country": "China",
+    "latitude": 31.877990099613406,
+    "longitude": 113.2878388,
+    "other_names": {
+      "name": "随县",
+      "name:de": "Sui",
+      "name:en": "Sui County",
+      "name:fa": "شهرستان سیو (هوبئی)",
+      "name:it": "Contea di Sui",
+      "name:ja": "随県",
+      "name:ko": "쑤이현",
+      "name:ru": "Суйсянь",
+      "name:sv": "Sui",
+      "name:vi": "Tùy",
+      "name:zh": "随县",
+      "name:nan": "Sûi-koān",
+      "name:yue": "隨縣",
+      "name:zh-Hant": "隨縣"
+    }
+  },
+  {
+    "name": "Suide",
+    "country": "China",
+    "latitude": 37.50745469991414,
+    "longitude": 110.25841529999998,
+    "other_names": {
+      "name": "绥德县",
+      "name:en": "Suide",
+      "name:ja": "綏徳県",
+      "name:ru": "Минчжоу",
+      "name:vi": "Danh Châu",
+      "name:zh": "绥德县",
+      "alt_name": "绥德县;名州镇;名州;Mingzhou",
+      "int_name": "Mingzhou",
+      "name:zh-Hant": "綏德縣"
+    }
+  },
+  {
+    "name": "Suifenhe",
+    "country": "Russia",
+    "latitude": 44.394710800514645,
+    "longitude": 131.1555545,
+    "other_names": {
+      "name": "绥芬河市",
+      "name:de": "Suifenhe",
+      "name:en": "Suifenhe",
+      "name:et": "Suifenhe",
+      "name:fr": "Suifenhe",
+      "name:ja": "綏芬河市",
+      "name:ko": "쑤이펀허시",
+      "name:ru": "Суйфэньхэ",
+      "name:vi": "Tuy Phân Hà",
+      "name:zh": "绥芬河市",
+      "alt_name": "绥芬河",
+      "name:zh-Hant": "綏芬河市",
+      "official_name": "绥芬河镇",
+      "name:zh_pinyin": "Suífēnhé Shì"
+    }
+  },
+  {
+    "name": "Suifenhe",
+    "country": "China",
+    "latitude": 44.394710800514645,
+    "longitude": 131.1555545,
+    "other_names": {
+      "name": "绥芬河市",
+      "name:de": "Suifenhe",
+      "name:en": "Suifenhe",
+      "name:et": "Suifenhe",
+      "name:fr": "Suifenhe",
+      "name:ja": "綏芬河市",
+      "name:ko": "쑤이펀허시",
+      "name:ru": "Суйфэньхэ",
+      "name:vi": "Tuy Phân Hà",
+      "name:zh": "绥芬河市",
+      "alt_name": "绥芬河",
+      "name:zh-Hant": "綏芬河市",
+      "official_name": "绥芬河镇",
+      "name:zh_pinyin": "Suífēnhé Shì"
+    }
+  },
+  {
+    "name": "Suihua",
+    "country": "China",
+    "latitude": 46.65204830022995,
+    "longitude": 126.96074849999998,
+    "other_names": {
+      "name": "绥化市",
+      "name:ar": "سويهوا",
+      "name:de": "Suihua",
+      "name:en": "Suihua",
+      "name:et": "Suihua",
+      "name:fi": "Suihua",
+      "name:fr": "Suihua",
+      "name:ja": "綏化市",
+      "name:ru": "Суйхуа",
+      "name:vi": "Tuy Hóa",
+      "name:zh": "绥化市",
+      "alt_name": "Beilin",
+      "alt_name:vi": "Tuy Hoá",
+      "name:zh-Hant": "綏化市",
+      "name:zh_pinyin": "Suíhuà Shì"
+    }
+  },
+  {
+    "name": "Suijiang",
+    "country": "China",
+    "latitude": 28.597725999880335,
+    "longitude": 103.96929139999999,
+    "other_names": {
+      "name": "绥江县",
+      "name:en": "Suijiang",
+      "name:zh": "绥江县",
+      "alt_name": "绥江;Suijiang County;Sui-chiang Hsien",
+      "name:zh-Hant": "綏江縣"
+    }
+  },
+  {
+    "name": "Suiling",
+    "country": "China",
+    "latitude": 47.24571380010958,
+    "longitude": 127.09895949999998,
+    "other_names": {
+      "name": "绥棱县",
+      "name:en": "Suiling",
+      "name:ru": "Суйлэн",
+      "name:zh": "绥棱县",
+      "alt_name": "绥棱;Suiling County",
+      "name:zh-Hant": "綏棱縣",
+      "official_name": "绥棱镇",
+      "name:zh_pinyin": "Suílíng Xiàn"
+    }
+  },
+  {
+    "name": "Suining",
+    "country": "China",
+    "latitude": 26.585493900103046,
+    "longitude": 110.1511319,
+    "other_names": {
+      "name": "绥宁县",
+      "name:en": "Suining",
+      "name:vi": "Tuy Ninh",
+      "name:zh": "绥宁县",
+      "alt_name": "绥宁;Suining County",
+      "name:zh-Hant": "綏寧縣",
+      "name:zh_pinyin": "suíníng xiàn"
+    }
+  },
+  {
+    "name": "Suining",
+    "country": "China",
+    "latitude": 33.89636589959857,
+    "longitude": 117.945284,
+    "other_names": {
+      "name": "睢宁县",
+      "name:en": "Suining",
+      "name:ru": "Суйнин",
+      "name:zh": "睢宁县",
+      "int_name": "Suining",
+      "name:zh-Hant": "睢寧縣"
+    }
+  },
+  {
+    "name": "Suining",
+    "country": "China",
+    "latitude": 30.506149299697096,
+    "longitude": 105.57454199999998,
+    "other_names": {
+      "name": "遂宁市",
+      "name:de": "Suining",
+      "name:en": "Suining",
+      "name:et": "Suining",
+      "name:fr": "Suining",
+      "name:hi": "सुइनिंग",
+      "name:ja": "遂寧市",
+      "name:ru": "Суйнин",
+      "name:vi": "Toại Ninh",
+      "name:zh": "遂宁市",
+      "alt_name": "遂宁;Suining City",
+      "name:zh-Hant": "遂寧市",
+      "name:zh_pinyin": "Sùiníng Shì"
+    }
+  },
+  {
+    "name": "Suiping",
+    "country": "China",
+    "latitude": 33.14420379958746,
+    "longitude": 113.99974800000001,
+    "other_names": {
+      "name": "遂平县",
+      "name:en": "Suiping",
+      "name:vi": "Toại Bình",
+      "name:zh": "遂平县",
+      "alt_name": "遂平;Suiping County",
+      "name:zh-Hant": "遂平縣",
+      "name:zh_pinyin": "Suiping Xian"
+    }
+  },
+  {
+    "name": "Suita",
+    "country": "Japan",
+    "latitude": 34.76488399963675,
+    "longitude": 135.51734999999996,
+    "other_names": {
+      "name": "吹田市",
+      "name:ar": "سويتا، أوساكا",
+      "name:de": "Suita",
+      "name:en": "Suita",
+      "name:es": "Suita",
+      "name:fr": "Suita",
+      "name:ja": "吹田市",
+      "name:ko": "스이타시",
+      "name:pl": "Suita",
+      "name:ru": "Суйта",
+      "name:uk": "Суйта",
+      "name:ja_rm": "Suita-shi"
+    }
+  },
+  {
+    "name": "Suixi",
+    "country": "China",
+    "latitude": 21.379802200409216,
+    "longitude": 110.2457904,
+    "other_names": {
+      "name": "遂溪县",
+      "name:de": "Suixi",
+      "name:en": "Suixi",
+      "name:fa": "سویشی",
+      "name:fr": "Xian de Suixi",
+      "name:ja": "遂渓県",
+      "name:ko": "쑤이시현",
+      "name:no": "Suixi",
+      "name:sv": "Suixi",
+      "name:vi": "Toại Khê",
+      "name:zh": "遂溪县",
+      "alt_name": "遂溪;Suixi County",
+      "name:ceb": "Suixi Xian",
+      "name:hak": "Súi-hâi-yen",
+      "name:mwl": "Suixi",
+      "name:nan": "Sūi-khe-koān",
+      "name:yue": "遂溪",
+      "name:zh-Hant": "遂溪縣",
+      "name:zh_pinyin": "Suíxī Xiàn"
+    }
+  },
+  {
+    "name": "Suixi",
+    "country": "China",
+    "latitude": 33.91664549959916,
+    "longitude": 116.7640522,
+    "other_names": {
+      "name": "濉溪县",
+      "name:en": "Suixi",
+      "name:ja": "スイ渓県",
+      "name:vi": "Tuy Khê",
+      "name:zh": "濉溪县",
+      "name:zh-Hant": "濉溪縣",
+      "name:zh_pinyin": "Suīxī xiàn"
+    }
+  },
+  {
+    "name": "Suiyang",
+    "country": "China",
+    "latitude": 34.38575499961677,
+    "longitude": 115.61945400000002,
+    "other_names": {
+      "name": "睢阳区",
+      "name:en": "Suiyang",
+      "name:zh": "睢阳区",
+      "alt_name": "睢阳;Suiyang District",
+      "name:zh-Hant": "睢陽區"
+    }
+  },
+  {
+    "name": "Suiyang",
+    "country": "China",
+    "latitude": 27.949913699951832,
+    "longitude": 107.18692699999998,
+    "other_names": {
+      "name": "绥阳县",
+      "name:en": "Suiyang",
+      "name:zh": "绥阳",
+      "alt_name": "绥阳;洋川镇;洋川;Yangchuan",
+      "name:zh-Hant": "綏陽縣"
+    }
+  },
+  {
+    "name": "Suizhong",
+    "country": "China",
+    "latitude": 40.32926300031095,
+    "longitude": 120.33317470000001,
+    "other_names": {
+      "name": "绥中县",
+      "name:cs": "Suej-čung",
+      "name:en": "Suizhong",
+      "name:ja": "綏中県",
+      "name:ko": "쑤이중현",
+      "name:ru": "Суйчжун",
+      "name:vi": "Tuy Trung",
+      "name:zh": "绥中县",
+      "alt_name": "绥中",
+      "name:zh-Hant": "綏中縣",
+      "official_name": "绥中镇"
+    }
+  },
+  {
+    "name": "Suizhou",
+    "country": "China",
+    "latitude": 31.691142999621665,
+    "longitude": 113.37749669999998,
+    "other_names": {
+      "name": "随州市",
+      "name:ar": "سويزهو",
+      "name:cs": "Suej-čou",
+      "name:da": "Suizhou",
+      "name:de": "Suizhou",
+      "name:en": "Suizhou",
+      "name:es": "Suizhou",
+      "name:et": "Suizhou",
+      "name:eu": "Suizhou",
+      "name:fa": "سویژو",
+      "name:fi": "Suizhou",
+      "name:fr": "Suizhou",
+      "name:id": "Suizhou",
+      "name:it": "Suizhou",
+      "name:ja": "随州市",
+      "name:ki": "Suizhou",
+      "name:ko": "쑤이저우시",
+      "name:mg": "Suizhou",
+      "name:nl": "Suizhou",
+      "name:nn": "Suizhou",
+      "name:no": "Suizhou",
+      "name:pl": "Suizhou",
+      "name:pt": "Suizhou",
+      "name:ru": "Суйчжоу",
+      "name:sr": "Суејџоу",
+      "name:sv": "Suizhou",
+      "name:tl": "Suizhou",
+      "name:tr": "Suizhou",
+      "name:uk": "Суйчжоу",
+      "name:ur": "سویژؤ",
+      "name:vi": "Tùy Châu",
+      "name:zh": "随州市",
+      "name:cdo": "Sùi-ciŭ",
+      "name:ceb": "Suizhou",
+      "name:nan": "Sûi-chiu-chhī",
+      "name:pam": "Suizhou",
+      "name:war": "Suizhou",
+      "name:wuu": "随州市",
+      "name:yue": "隨州",
+      "alt_name:vi": "Tuỳ Châu",
+      "name:zh-Hant": "隨州市",
+      "name:zh_pinyin": "Suízhōu Shì"
+    }
+  }
+]

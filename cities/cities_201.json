@@ -1,0 +1,358 @@
+[
+  {
+    "name": "Izumisano",
+    "country": "Japan",
+    "latitude": 34.39462899961719,
+    "longitude": 135.32272499999996,
+    "other_names": {
+      "name": "泉佐野市",
+      "name:ar": "إزوميسانو، أوساكا",
+      "name:de": "Izumisano",
+      "name:en": "Izumisano",
+      "name:es": "Izumisano",
+      "name:fr": "Izumisano",
+      "name:ja": "泉佐野市",
+      "name:ko": "이즈미사노시",
+      "name:pl": "Izumisano",
+      "name:ru": "Идзумисано",
+      "name:uk": "Ідзумі-Сано",
+      "name:zh": "泉佐野市",
+      "name:ja_rm": "Izumisano-shi"
+    }
+  },
+  {
+    "name": "Izumo",
+    "country": "Japan",
+    "latitude": 35.3668890996787,
+    "longitude": 132.75488269999997,
+    "other_names": {
+      "name": "出雲市",
+      "name:ar": "إزومو، شيمانه",
+      "name:de": "Izumo",
+      "name:en": "Izumo",
+      "name:es": "Izumo",
+      "name:eu": "Izumo",
+      "name:fr": "Izumo",
+      "name:gl": "Izumo",
+      "name:it": "Izumo",
+      "name:ja": "出雲市",
+      "name:ko": "이즈모시",
+      "name:nl": "Izumo",
+      "name:pl": "Izumo",
+      "name:pt": "Izumo",
+      "name:ro": "Izumo",
+      "name:ru": "Идзумо",
+      "name:tg": "Изумо",
+      "name:uk": "Ідзумо",
+      "name:vi": "Izumo",
+      "int_name": "Izumo",
+      "name:ja_rm": "Izumo-shi",
+      "name:ja_kana": "いずもし"
+    }
+  },
+  {
+    "name": "Izunokuni",
+    "country": "Japan",
+    "latitude": 35.035530999654085,
+    "longitude": 138.961915,
+    "other_names": {
+      "name": "伊豆の国市",
+      "name:ar": "إزونوكني، شيزوكا",
+      "name:de": "Izunokuni",
+      "name:en": "Izunokuni",
+      "name:es": "Izunokuni",
+      "name:fr": "Izunokuni",
+      "name:ja": "伊豆の国市",
+      "name:ko": "이즈노쿠니시",
+      "name:pl": "Izunokuni",
+      "name:ru": "Идзунокуни",
+      "name:uk": "Ідзунокуні",
+      "name:zh": "伊豆之國市"
+    }
+  },
+  {
+    "name": "Jabalia",
+    "country": "Israel And Palestine",
+    "latitude": 31.534777699629398,
+    "longitude": 34.4972963,
+    "other_names": {
+      "name": "جباليا",
+      "name:ar": "جباليا",
+      "name:de": "Dschabaliya",
+      "name:en": "Jabalia",
+      "name:es": "Jabalia",
+      "name:fr": "Jabaliya",
+      "name:he": "ג'באליה",
+      "name:pl": "Dżabalija",
+      "name:ru": "Джабалия"
+    }
+  },
+  {
+    "name": "Jabalpur",
+    "country": "India",
+    "latitude": 23.160893800377544,
+    "longitude": 79.9497702,
+    "other_names": {
+      "name": "Jabalpur",
+      "name:bn": "জবলপুর",
+      "name:en": "Jabalpur",
+      "name:he": "ג'בלפור",
+      "name:hi": "जबलपुर",
+      "name:ja": "ジャバルプル",
+      "name:kn": "ಜಬಲಪುರ್",
+      "name:ml": "ജബൽപുർ",
+      "name:oc": "Jabalpur",
+      "name:ru": "Джабалпур",
+      "name:ta": "ஜபல்பூர்",
+      "name:te": "జబలపుర",
+      "name:uk": "Джабалпур",
+      "old_name": "Jubblepore"
+    }
+  },
+  {
+    "name": "Jaboatão dos Guararapes",
+    "country": "Brazil",
+    "latitude": -8.175247599771511,
+    "longitude": -34.9468716,
+    "other_names": {
+      "name": "Jaboatão dos Guararapes",
+      "name:bg": "Жабоатао дос Гуарарапис",
+      "name:en": "Jaboatão dos Guararapes",
+      "name:ja": "ジョボトン・ドス・グアララペス",
+      "name:ka": "ჟაბოატაო",
+      "name:kk": "Жабоатан-дус-Гуарарапис",
+      "name:ko": "자보아탕두스구아라라페스",
+      "name:lt": "Žaboatan dos Guararapesas",
+      "name:pt": "Jaboatão dos Guararapes",
+      "name:ru": "Жабоатан-дус-Гуарарапис",
+      "int_name": "Jaboatao dos Guararapes",
+      "loc_name": "Jaboatão",
+      "name:az-Cyrl": "Жабоатао дос Гварарапес"
+    }
+  },
+  {
+    "name": "Jacareí",
+    "country": "Brazil",
+    "latitude": -23.305280000024716,
+    "longitude": -45.96582999999999,
+    "other_names": {
+      "name": "Jacareí"
+    }
+  },
+  {
+    "name": "Jackson",
+    "country": "United States Of America",
+    "latitude": 32.29900209959883,
+    "longitude": -90.1847691,
+    "other_names": {
+      "name": "Jackson",
+      "name:en": "Jackson",
+      "name:pl": "Jackson",
+      "name:ru": "Джэксон",
+      "name:ta": "ஜாக்சன்",
+      "name:uk": "Джексон"
+    }
+  },
+  {
+    "name": "Jackson",
+    "country": "United States Of America",
+    "latitude": 35.614444599699425,
+    "longitude": -88.8177418,
+    "other_names": {
+      "name": "Jackson",
+      "name:ru": "Джэксон"
+    }
+  },
+  {
+    "name": "Jacksonville",
+    "country": "United States Of America",
+    "latitude": 34.74947489963585,
+    "longitude": -77.4208221,
+    "other_names": {
+      "name": "Jacksonville"
+    }
+  },
+  {
+    "name": "Jacksonville",
+    "country": "United States Of America",
+    "latitude": 30.332183799711146,
+    "longitude": -81.65565099999999,
+    "other_names": {
+      "name": "Jacksonville",
+      "name:ar": "جاكسونفيل",
+      "name:el": "Τζάκσονβιλ",
+      "name:en": "Jacksonville",
+      "name:fa": "جکسون‌ویل",
+      "name:ja": "ジャクソンビル",
+      "name:ko": "잭슨빌",
+      "name:mk": "Џексонвил",
+      "name:ru": "Джэксонвилл",
+      "name:uk": "Джексонвілл",
+      "name:ur": "جیکسن ویل",
+      "name:zh": "杰克逊维尔/傑克遜維爾",
+      "name:zh-Hans": "杰克逊维尔",
+      "name:zh-Hant": "傑克遜維爾",
+      "name:zh-Hant-hk": "積遜威爾",
+      "name:zh-Hant-tw": "傑克遜維爾"
+    }
+  },
+  {
+    "name": "Jacmel",
+    "country": "Haiti And Domrep",
+    "latitude": 18.235258700254658,
+    "longitude": -72.5375127,
+    "other_names": {
+      "name": "Jacmel",
+      "name:fr": "Jacmel",
+      "name:ht": "Jakmèl",
+      "name:hu": "Jacmel",
+      "name:ru": "Жакмель",
+      "alt_name": "Yaquimel"
+    }
+  },
+  {
+    "name": "Jacobabad",
+    "country": "Pakistan",
+    "latitude": 28.28130939991499,
+    "longitude": 68.43643609999998,
+    "other_names": {
+      "name": "جیکب آباد",
+      "name:ar": "جاكوب آباد",
+      "name:de": "Jacobabad",
+      "name:en": "Jacobabad",
+      "name:es": "Jacobabad",
+      "name:et": "Jacobābād",
+      "name:fr": "Jacobabad",
+      "name:hi": "याकूबाबाद",
+      "name:ja": "ジャコババード",
+      "name:kn": "ಜಕೊಬಬಾದ್",
+      "name:ru": "Джейкобабад"
+    }
+  },
+  {
+    "name": "Jaén",
+    "country": "Peru",
+    "latitude": -5.708608699681287,
+    "longitude": -78.8075898,
+    "other_names": {
+      "name": "Jaén"
+    }
+  },
+  {
+    "name": "Jaén",
+    "country": "Spain",
+    "latitude": 37.7728857999503,
+    "longitude": -3.7883288999999998,
+    "other_names": {
+      "name": "Jaén",
+      "name:ar": "جيان",
+      "name:be": "Хаэн",
+      "name:el": "Χαέν",
+      "name:es": "Jaén",
+      "name:lt": "Chaenas",
+      "name:ru": "Хаэн",
+      "name:sr": "Хаен"
+    }
+  },
+  {
+    "name": "Jaffa",
+    "country": "Israel And Palestine",
+    "latitude": 32.044339499606956,
+    "longitude": 34.7509908,
+    "other_names": {
+      "name": "יפו",
+      "name:ar": "يافا",
+      "name:en": "Jaffa",
+      "name:fi": "Jaffa",
+      "name:fr": "Jaffa",
+      "name:he": "יפו",
+      "name:hi": "याफ़ा",
+      "name:it": "Giaffa",
+      "name:ru": "Яффа",
+      "name:en1": "Giaffa",
+      "name:en2": "Iope",
+      "name:en3": "Jaffa",
+      "name:en4": "Joppa",
+      "name:en5": "Joppe",
+      "name:en6": "Yafa",
+      "name:en7": "Yafah",
+      "name:en8": "Yaffa",
+      "alt_name:ru": "Яффо"
+    }
+  },
+  {
+    "name": "Jaffna",
+    "country": "Sri Lanka",
+    "latitude": 9.665092999422967,
+    "longitude": 80.0093029,
+    "other_names": {
+      "name": "யாழ்ப்பாணம்",
+      "name:ar": "جفنا",
+      "name:bn": "জাফনা",
+      "name:en": "Jaffna",
+      "name:et": "Jaffna",
+      "name:fa": "جافنا",
+      "name:he": "ג'אפנה",
+      "name:hi": "याऴ्प्पाणम्",
+      "name:ja": "ジャフナ",
+      "name:kn": "ಯಾೞ್ಪ್ಪಾಣಂ",
+      "name:ml": "യാഴ്പ്പാണം",
+      "name:ru": "Джафна",
+      "name:si": "යාපනය",
+      "name:ta": "யாழ்ப்பாணம்",
+      "name:uk": "Джафна",
+      "name:ur": "جافنا",
+      "alt_name": "Yalppanam",
+      "alt_name:ar": "جفنا"
+    }
+  },
+  {
+    "name": "Jagadhari",
+    "country": "India",
+    "latitude": 30.16889999972492,
+    "longitude": 77.3019,
+    "other_names": {
+      "name": "Jagadhari",
+      "name:ar": "جغادهري",
+      "name:hi": "जगाधरी",
+      "name:ur": "جگادہری"
+    }
+  },
+  {
+    "name": "Jagdalpur",
+    "country": "India",
+    "latitude": 19.087075800320456,
+    "longitude": 82.02357149999999,
+    "other_names": {
+      "name": "Jagdalpur",
+      "name:ar": "جغدلبور",
+      "name:en": "Jagdalpur",
+      "name:hi": "जगदलपुर",
+      "name:ja": "ジャグダルプル",
+      "name:kn": "ಜಗದಲ್‌ಪುರ್",
+      "name:te": "జగదల్‌పుర్",
+      "name:ur": "جگدلپور",
+      "alt_name:ar": "جاغدالبور"
+    }
+  },
+  {
+    "name": "Jagodina",
+    "country": "Serbia",
+    "latitude": 43.97942560053334,
+    "longitude": 21.260768799999997,
+    "other_names": {
+      "name": "Јагодина",
+      "name:ar": "ياغودينا",
+      "name:de": "Jagodina",
+      "name:en": "Jagodina",
+      "name:es": "Jagodina",
+      "name:et": "Jagodina",
+      "name:fr": "Jagodina",
+      "name:hr": "Jagodina",
+      "name:ru": "Ягодина",
+      "name:sl": "Jagodina",
+      "name:sr": "Јагодина",
+      "name:sr-Latn": "Jagodina"
+    }
+  }
+]

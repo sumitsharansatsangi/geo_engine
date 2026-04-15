@@ -1,0 +1,364 @@
+[
+  {
+    "name": "East Providence",
+    "country": "United States Of America",
+    "latitude": 41.81371160047167,
+    "longitude": -71.3700545,
+    "other_names": {
+      "name": "East Providence",
+      "name:ru": "Ист-Провиденс",
+      "name:uk": "Іст-Провіденс"
+    }
+  },
+  {
+    "name": "East Ujimqin Banner",
+    "country": "China",
+    "latitude": 45.512962000411214,
+    "longitude": 116.96891999999998,
+    "other_names": {
+      "name": "东乌珠穆沁旗",
+      "name:en": "East Ujimqin Banner",
+      "name:ja": "東ウジムチン旗",
+      "name:ru": "Дун-Уджимчин-Ци",
+      "name:vi": "Đông Ujimqin",
+      "name:zh": "东乌珠穆沁旗",
+      "alt_name:vi": "Đông Ô Châu Mục Thấm",
+      "name:zh-Hant": "東烏珠穆沁旗"
+    }
+  },
+  {
+    "name": "Eau Claire",
+    "country": "United States Of America",
+    "latitude": 44.81134900048516,
+    "longitude": -91.4984941,
+    "other_names": {
+      "name": "Eau Claire",
+      "name:ru": "О-Клэр",
+      "name:ast": "Eau Claire, Wisconsin"
+    }
+  },
+  {
+    "name": "Ebebiyín",
+    "country": "Cameroon",
+    "latitude": 2.1537362997703235,
+    "longitude": 11.337081499999998,
+    "other_names": {
+      "name": "Ebebiyín",
+      "name:ar": "إيبيبين",
+      "name:fa": "ابیبیئن",
+      "name:fr": "Ebebiyin",
+      "name:ko": "에베비인",
+      "name:ru": "Эбебийин",
+      "name:ur": "ابیبیلین",
+      "name:zh": "埃贝比因",
+      "alt_name": "Ebebiying",
+      "name:zh-Hans": "埃贝比因"
+    }
+  },
+  {
+    "name": "Ebebiyín",
+    "country": "Equatorial Guinea",
+    "latitude": 2.1537362997703235,
+    "longitude": 11.337081499999998,
+    "other_names": {
+      "name": "Ebebiyín",
+      "name:ar": "إيبيبين",
+      "name:fa": "ابیبیئن",
+      "name:fr": "Ebebiyin",
+      "name:ko": "에베비인",
+      "name:ru": "Эбебийин",
+      "name:ur": "ابیبیلین",
+      "name:zh": "埃贝比因",
+      "alt_name": "Ebebiying",
+      "name:zh-Hans": "埃贝比因"
+    }
+  },
+  {
+    "name": "Ebebiyín",
+    "country": "Gabon",
+    "latitude": 2.1537362997703235,
+    "longitude": 11.337081499999998,
+    "other_names": {
+      "name": "Ebebiyín",
+      "name:ar": "إيبيبين",
+      "name:fa": "ابیبیئن",
+      "name:fr": "Ebebiyin",
+      "name:ko": "에베비인",
+      "name:ru": "Эбебийин",
+      "name:ur": "ابیبیلین",
+      "name:zh": "埃贝比因",
+      "alt_name": "Ebebiying",
+      "name:zh-Hans": "埃贝比因"
+    }
+  },
+  {
+    "name": "Ebetsu",
+    "country": "Japan",
+    "latitude": 43.10373580053882,
+    "longitude": 141.535894,
+    "other_names": {
+      "name": "江別市",
+      "name:ar": "إبيتسو، هوكايدو",
+      "name:de": "Ebetsu",
+      "name:en": "Ebetsu",
+      "name:es": "Ebetsu",
+      "name:fr": "Ebetsu",
+      "name:hu": "Ebecu",
+      "name:ja": "江別市",
+      "name:ko": "에베쓰시",
+      "name:pl": "Ebetsu",
+      "name:ru": "Эбецу",
+      "name:uk": "Ебецу",
+      "int_name": "Ebetsu",
+      "name:ja_rm": "Ebetsu-shi",
+      "name:ja_kana": "えべつし"
+    }
+  },
+  {
+    "name": "Ebian",
+    "country": "China",
+    "latitude": 29.230739199813605,
+    "longitude": 103.25937689999999,
+    "other_names": {
+      "name": "峨边彝族自治县",
+      "name:en": "Ebian",
+      "name:ru": "Шапин",
+      "name:vi": "Nga Biên",
+      "name:zh": "峨边彝族自治县",
+      "alt_name": "峨边;沙坪镇;沙坪;Shaping",
+      "int_name": "Ebian",
+      "short_name": "峨边县",
+      "alt_name:en": "Shapingting;O-pien;Ebian",
+      "name:zh-Hant": "峨邊彝族自治縣",
+      "official_name": "峨边彝族自治县"
+    }
+  },
+  {
+    "name": "Ebino",
+    "country": "Japan",
+    "latitude": 32.04549959960692,
+    "longitude": 130.8109782,
+    "other_names": {
+      "name": "えびの市",
+      "name:ar": "إبينو، ميازاكي",
+      "name:de": "Ebino",
+      "name:en": "Ebino",
+      "name:es": "Ebino",
+      "name:fr": "Ebino",
+      "name:ja": "えびの市",
+      "name:ko": "에비노시",
+      "name:pl": "Ebino",
+      "name:ru": "Эбино",
+      "name:uk": "Ебіно",
+      "name:zh": "虾野市",
+      "int_name": "Ebino",
+      "name:zh-Hans": "虾野市",
+      "name:zh-Hant": "蝦野市"
+    }
+  },
+  {
+    "name": "Ebolowa",
+    "country": "Cameroon",
+    "latitude": 2.9193846996906427,
+    "longitude": 11.151652499999999,
+    "other_names": {
+      "name": "Ebolowa",
+      "name:en": "Ebolowa",
+      "name:ko": "에볼로와",
+      "name:ru": "Эболова"
+    }
+  },
+  {
+    "name": "Ecatepec de Morelos",
+    "country": "Mexico",
+    "latitude": 19.59940830035215,
+    "longitude": -99.0487281,
+    "other_names": {
+      "name": "Ecatepec de Morelos",
+      "name:zh": "埃卡堤佩",
+      "alt_name": "Ecatepec"
+    }
+  },
+  {
+    "name": "Echeng District",
+    "country": "China",
+    "latitude": 30.403294399705327,
+    "longitude": 114.8863775,
+    "other_names": {
+      "name": "鄂城区",
+      "name:de": "Echeng",
+      "name:en": "Echeng District",
+      "name:es": "Echeng",
+      "name:fr": "District d'Echeng",
+      "name:it": "Distretto di Echeng",
+      "name:ja": "鄂城区",
+      "name:ko": "어청구",
+      "name:no": "Echeng",
+      "name:ru": "Эчэн",
+      "name:sv": "Ezhou",
+      "name:vi": "Ngạc Thành",
+      "name:zh": "鄂城区",
+      "name:nan": "Go̍k-siâⁿ-khu",
+      "name:yue": "鄂城區",
+      "name:zh-Hant": "鄂城區",
+      "name:zh_pinyin": "Echeng Qu"
+    }
+  },
+  {
+    "name": "Echizen",
+    "country": "Japan",
+    "latitude": 35.90345709972606,
+    "longitude": 136.1689317,
+    "other_names": {
+      "name": "越前市",
+      "name:en": "Echizen",
+      "name:fr": "Echizen",
+      "name:ja": "越前市",
+      "name:ko": "에치젠시",
+      "name:pl": "Echizen",
+      "name:ru": "Этидзен",
+      "name:uk": "Етідзен",
+      "name:ja_rm": "Echizen",
+      "name:ja_kana": "えちぜんし"
+    }
+  },
+  {
+    "name": "Ed Dueim",
+    "country": "Sudan",
+    "latitude": 13.997186999789797,
+    "longitude": 32.309459999999994,
+    "other_names": {
+      "name": "الدويم",
+      "name:ar": "الدويم",
+      "name:en": "Ed Dueim",
+      "name:es": "Ed Dueim",
+      "name:fr": "Ed Dueim",
+      "alt_name": "Ad Diwem;Ad Duwem;Ad Duwaym;Ed Dueim;Dueim;Ad Duwēm",
+      "alt_name:en": "Ad Diwem"
+    }
+  },
+  {
+    "name": "Ede",
+    "country": "Netherlands",
+    "latitude": 52.045826499113645,
+    "longitude": 5.670201099999999,
+    "other_names": {
+      "name": "Ede",
+      "name:nl": "Ede",
+      "name:ru": "Эде",
+      "name:sr": "Еде",
+      "name:zh-Hans": "埃德",
+      "name:zh-Hant": "埃德"
+    }
+  },
+  {
+    "name": "Edéa",
+    "country": "Cameroon",
+    "latitude": 3.799013099605568,
+    "longitude": 10.126556699999998,
+    "other_names": {
+      "name": "Edéa"
+    }
+  },
+  {
+    "name": "Edessa",
+    "country": "Greece",
+    "latitude": 40.80094920036931,
+    "longitude": 22.050116999999997,
+    "other_names": {
+      "name": "Έδεσσα",
+      "name:bg": "Воден",
+      "name:de": "Edessa",
+      "name:el": "Έδεσσα",
+      "name:en": "Edessa",
+      "name:et": "Édessa",
+      "name:fr": "Édessa",
+      "name:hu": "Édesza",
+      "name:lt": "Edesa",
+      "name:mk": "Воден",
+      "name:ru": "Эдеса",
+      "name:sr": "Воден",
+      "name:tr": "Vodina"
+    }
+  },
+  {
+    "name": "Edinburg",
+    "country": "United States Of America",
+    "latitude": 26.3013982001332,
+    "longitude": -98.1624501,
+    "other_names": {
+      "name": "Edinburg",
+      "name:ru": "Эдинберг"
+    }
+  },
+  {
+    "name": "Edinburgh",
+    "country": "Scotland",
+    "latitude": 55.9533455997683,
+    "longitude": -3.1883749,
+    "other_names": {
+      "name": "Edinburgh",
+      "name:ar": "إدنبرة",
+      "name:be": "Эдынбург",
+      "name:br": "Dinedin",
+      "name:ca": "Edimburg",
+      "name:cy": "Caeredin",
+      "name:de": "Edinburg",
+      "name:el": "Εδιμβούργο",
+      "name:eo": "Edinburgo",
+      "name:es": "Edimburgo",
+      "name:eu": "Edinburgo",
+      "name:fa": "ادینبورو",
+      "name:fr": "Édimbourg",
+      "name:fy": "Edinboarch",
+      "name:ga": "Dún Éideann",
+      "name:gd": "Dùn Èideann",
+      "name:gv": "Doon Edin",
+      "name:he": "אדינבורג",
+      "name:hi": "ऎडिन्बर",
+      "name:hu": "Edinburgh",
+      "name:is": "Edinborg",
+      "name:it": "Edimburgo",
+      "name:ja": "エディンバラ",
+      "name:kn": "ಎಡಿನ್ಬರ",
+      "name:ko": "에든버러",
+      "name:kw": "Karedin",
+      "name:la": "Edimburgum",
+      "name:lt": "Edinburgas",
+      "name:lv": "Edinburga",
+      "name:mi": "Erinipara",
+      "name:mk": "Единбург",
+      "name:pl": "Edynburg",
+      "name:ru": "Эдинбург",
+      "name:sk": "Edinburg",
+      "name:sq": "Edinburg",
+      "name:sr": "Единбург",
+      "name:sv": "Edinburgh",
+      "name:tt": "Эдинбург",
+      "name:uk": "Единбург",
+      "name:zh": "爱丁堡",
+      "name:ast": "Edimburgo",
+      "name:sco": "Embra",
+      "alt_name:la": "Edinburgum;Dunedinum",
+      "alt_name:sco": "Embro;Edinburrie",
+      "name:bat-smg": "Edėnborgs",
+      "name:be-tarask": "Эдынбург",
+      "name:zh_pinyin": "Àidīngbǎo",
+      "name:pronunciation": "ˈɛdɪnb(ə)rə"
+    }
+  },
+  {
+    "name": "Edineț",
+    "country": "Moldova",
+    "latitude": 48.16842749989723,
+    "longitude": 27.2984813,
+    "other_names": {
+      "name": "Edineț",
+      "name:bg": "Единец",
+      "name:pl": "Jedyńce",
+      "name:ru": "Единец",
+      "old_name": "Viadinți",
+      "old_name:ru": "Единцы"
+    }
+  }
+]

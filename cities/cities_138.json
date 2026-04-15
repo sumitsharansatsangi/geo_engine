@@ -1,0 +1,408 @@
+[
+  {
+    "name": "Formosa",
+    "country": "Argentina",
+    "latitude": -26.185298299613862,
+    "longitude": -58.1744976,
+    "other_names": {
+      "name": "Formosa",
+      "name:el": "Φορμόσα",
+      "name:en": "Formosa",
+      "name:he": "פורמוסה",
+      "name:ru": "Формоса",
+      "name:uk": "Формоса"
+    }
+  },
+  {
+    "name": "Formosa",
+    "country": "Paraguay",
+    "latitude": -26.185298299613862,
+    "longitude": -58.1744976,
+    "other_names": {
+      "name": "Formosa",
+      "name:el": "Φορμόσα",
+      "name:en": "Formosa",
+      "name:he": "פורמוסה",
+      "name:ru": "Формоса",
+      "name:uk": "Формоса"
+    }
+  },
+  {
+    "name": "Formosa",
+    "country": "Brazil",
+    "latitude": -15.54924430041393,
+    "longitude": -47.3301212,
+    "other_names": {
+      "name": "Formosa"
+    }
+  },
+  {
+    "name": "Fort Abbas",
+    "country": "Pakistan",
+    "latitude": 29.193517899817408,
+    "longitude": 72.8548724,
+    "other_names": {
+      "name": "فورٹ عباس",
+      "name:en": "Fort Abbas",
+      "name:ru": "Форт-Аббас"
+    }
+  },
+  {
+    "name": "Fortaleza",
+    "country": "Brazil",
+    "latitude": -3.7304511997148557,
+    "longitude": -38.5217989,
+    "other_names": {
+      "name": "Fortaleza",
+      "name:ar": "فورتاليزا",
+      "name:be": "Фарталеза",
+      "name:bg": "Форталеза",
+      "name:bn": "ফর্তালিজা",
+      "name:ce": "Форталеза",
+      "name:de": "Fortaleza",
+      "name:el": "Φορταλέζα",
+      "name:en": "Fortaleza",
+      "name:eo": "Fortalezo",
+      "name:fa": "فرتالیزا",
+      "name:he": "פורטלזה",
+      "name:hy": "Ֆորտալեզա",
+      "name:ja": "フォルタレザ",
+      "name:ka": "ფორტალეზა",
+      "name:kk": "Форталеза",
+      "name:ko": "포르탈레자",
+      "name:la": "Fortalaetia",
+      "name:mk": "Форталеза",
+      "name:mn": "Форталеза",
+      "name:mr": "फोर्तालेझा",
+      "name:oc": "Fortaleza",
+      "name:os": "Форталезæ",
+      "name:pl": "Fortaleza",
+      "name:pt": "Fortaleza",
+      "name:ru": "Форталеза",
+      "name:sr": "Форталеза",
+      "name:tg": "Форталеза",
+      "name:th": "ฟอร์ตาเลซา",
+      "name:uk": "Форталеза",
+      "name:zh": "福塔莱萨",
+      "loc_name": "Fortal"
+    }
+  },
+  {
+    "name": "Fort Collins",
+    "country": "United States Of America",
+    "latitude": 40.55085270033905,
+    "longitude": -105.06680849999998,
+    "other_names": {
+      "name": "Fort Collins",
+      "name:ru": "Форт-Коллинз"
+    }
+  },
+  {
+    "name": "Fort-de-France",
+    "country": "France",
+    "latitude": 14.60279619986039,
+    "longitude": -61.0676724,
+    "other_names": {
+      "name": "Fort-de-France",
+      "name:ar": "فور دو فرانس",
+      "name:be": "Форт-дэ-Франс",
+      "name:bg": "Фор дьо Франс",
+      "name:el": "Φορ-ντε-Φρανς",
+      "name:fa": "فور-دو-فرانس",
+      "name:he": "פור-דה-פראנס",
+      "name:hu": "Fort-de-France",
+      "name:ja": "フォール＝ド＝フランス",
+      "name:ka": "ფორ-დე-ფრანსი",
+      "name:ko": "포르드프랑스",
+      "name:lt": "For de Fransas",
+      "name:lv": "Fordefransa",
+      "name:mk": "Фор де Франс",
+      "name:mr": "फोर्ट-दे-फ्रान्स",
+      "name:os": "Фор-де-Франс",
+      "name:ru": "Фор-де-Франс",
+      "name:sr": "Фор де Франс",
+      "name:th": "ฟอร์-เดอ-ฟร็องส์",
+      "name:uk": "Фор-де-Франс",
+      "name:zh": "法蘭西堡",
+      "alt_name": "Foyal",
+      "name:frp": "Fôrt-de-France",
+      "name:gcf": "Fodwans",
+      "name:mzn": "فور دو فرانس",
+      "name:pnb": "فورٹ ڈی فرانس",
+      "old_name": "Fort Royal",
+      "alt_name:gcf": "Fodfrans",
+      "name:be-tarask": "Форт-дэ-Франс"
+    }
+  },
+  {
+    "name": "Fort Lauderdale",
+    "country": "United States Of America",
+    "latitude": 26.122308400151773,
+    "longitude": -80.14337860000002,
+    "other_names": {
+      "name": "Fort Lauderdale",
+      "name:en": "Fort Lauderdale",
+      "name:ru": "Форт-Лодердейл",
+      "name:uk": "Форт-Лодердейл"
+    }
+  },
+  {
+    "name": "Fort-Liberté",
+    "country": "Haiti And Domrep",
+    "latitude": 19.66356080035566,
+    "longitude": -71.8367046,
+    "other_names": {
+      "name": "Fort-Liberté",
+      "name:en": "Fort-Liberté",
+      "name:fr": "Fort-Liberté",
+      "name:ht": "Fòlibète",
+      "name:oc": "Fòrt Libertat",
+      "name:ru": "Форт-Либерти",
+      "alt_name": "Fuerte Libertad"
+    }
+  },
+  {
+    "name": "Fort McMurray",
+    "country": "Canada",
+    "latitude": 56.729199700123324,
+    "longitude": -111.3885221,
+    "other_names": {
+      "name": "Fort McMurray",
+      "name:en": "Fort McMurray",
+      "name:ru": "Форт-МакМеррей",
+      "name:uk": "Форт-МакМеррей"
+    }
+  },
+  {
+    "name": "Fort Myers",
+    "country": "United States Of America",
+    "latitude": 26.640628000097106,
+    "longitude": -81.8723084,
+    "other_names": {
+      "name": "Fort Myers",
+      "name:ru": "Форт Майерс",
+      "name:uk": "Форт-Маєрс"
+    }
+  },
+  {
+    "name": "Fort Portal",
+    "country": "Uganda",
+    "latitude": 0.6561906999312966,
+    "longitude": 30.2779432,
+    "other_names": {
+      "name": "Fort Portal",
+      "name:ko": "포트포털",
+      "name:ru": "Форт-Портал"
+    }
+  },
+  {
+    "name": "Fort Saskatchewan",
+    "country": "Canada",
+    "latitude": 53.71285709914318,
+    "longitude": -113.2148942,
+    "other_names": {
+      "name": "Fort Saskatchewan"
+    }
+  },
+  {
+    "name": "Fort Smith",
+    "country": "United States Of America",
+    "latitude": 35.387221799680326,
+    "longitude": -94.4248983,
+    "other_names": {
+      "name": "Fort Smith"
+    }
+  },
+  {
+    "name": "Fort St. John",
+    "country": "Canada",
+    "latitude": 56.25240389989872,
+    "longitude": -120.84694299999998,
+    "other_names": {
+      "name": "Fort St. John",
+      "name:en": "Fort St. John",
+      "name:ru": "Форт-Сент-Джон",
+      "name:uk": "Форт-Сент-Джон"
+    }
+  },
+  {
+    "name": "Fort Wayne",
+    "country": "United States Of America",
+    "latitude": 41.07998980040098,
+    "longitude": -85.13860149999998,
+    "other_names": {
+      "name": "Fort Wayne",
+      "name:am": "ፎርት ዌይን",
+      "name:ar": "فورت واين",
+      "name:be": "Форт-Уэйн",
+      "name:bg": "Форт Уейн",
+      "name:bn": "ফোর্ট ওয়েইন",
+      "name:ca": "Fort Wayne",
+      "name:de": "Fort Wayne",
+      "name:el": "Φορτ Γουέιν",
+      "name:en": "Fort Wayne",
+      "name:es": "Fuerte Wayne",
+      "name:fa": "فورت وین",
+      "name:gu": "ફોર્ટ વેય્ન",
+      "name:ha": "Santa Ana Wayne",
+      "name:he": "פורט ויין",
+      "name:hi": "फोर्ट वेन",
+      "name:hr": "Utvrda Wayne",
+      "name:hy": "Ֆորտ Ուեյն",
+      "name:ja": "フォートウェイン",
+      "name:jv": "Benteng Wayne",
+      "name:ka": "ფორტ ვეინი",
+      "name:kk": "Форт Уэйн, Fort Wéyn",
+      "name:km": "បន្ទាយ Fort Wayne",
+      "name:kn": "ಫೋರ್ಟ್ ವೇಯ್ನ್",
+      "name:ko": "포트웨인",
+      "name:ku": "Fort Wayne",
+      "name:ky": "Форт Уэйн",
+      "name:la": "Arx Vainensis",
+      "name:lt": "Fort Veinas",
+      "name:lv": "Fortveina",
+      "name:mk": "Форт Вејн",
+      "name:ml": "ഫോർട്ട് വെയ്ൻ",
+      "name:mn": "Форт Уэйн",
+      "name:mr": "फोर्ट वेन",
+      "name:ms": "Benteng Wayne",
+      "name:my": "ဝိန်း Fort",
+      "name:ne": "फोर्ट वेन",
+      "name:nv": "Dahbatah Ahidiilíní",
+      "name:or": "ଫୋର୍ଟ ୱେନ |",
+      "name:pa": "ਫੋਰਟ ਵੇਨ",
+      "name:ps": "فورټ وین",
+      "name:ru": "Форт-Уэйн",
+      "name:sd": "قلعي ويل",
+      "name:si": "ෆෝර්ට් වේන්",
+      "name:sr": "Форт Ваине",
+      "name:su": "Bénténg Wayne",
+      "name:ta": "போர்ட் வாய்நெ",
+      "name:te": "ఫోర్ట్ వేన్",
+      "name:tg": "Форт Уэйн",
+      "name:th": "ฟอร์ตเวน",
+      "name:tt": "Форт-Вейн",
+      "name:uk": "Форт-Вейн",
+      "name:ur": "فورٹ وین، انڈیانا",
+      "name:uz": "Fort Ueyn",
+      "name:xh": "UFort Wayne",
+      "name:yi": "פאָרט וויין",
+      "name:zh": "韋恩堡/韦恩堡",
+      "name:zu": "UFort Wayne",
+      "name:arz": "فورت واين",
+      "name:haw": "Papu Wayne",
+      "name:wuu": "韦恩堡",
+      "alt_name:zh": "韦恩堡",
+      "name:ja-Hira": "フォートウェイン",
+      "name:ja-Latn": "Fōtou~ein",
+      "name:ko-Latn": "poteu wein",
+      "name:sr-Latn": "Fort Vaine",
+      "name:zh-Hans": "韦恩堡",
+      "name:zh-Hant": "韋恩堡"
+    }
+  },
+  {
+    "name": "Fort Worth",
+    "country": "United States Of America",
+    "latitude": 32.753176999589655,
+    "longitude": -97.33274589999999,
+    "other_names": {
+      "name": "Fort Worth",
+      "name:ja": "フォートワース",
+      "name:ru": "Форт-Уэрт"
+    }
+  },
+  {
+    "name": "Foshan",
+    "country": "China",
+    "latitude": 23.024768700383063,
+    "longitude": 113.11463349999998,
+    "other_names": {
+      "name": "佛山市",
+      "name:af": "Foshan",
+      "name:ar": "فوشان",
+      "name:bg": "Фошан",
+      "name:bn": "ফোশান",
+      "name:ce": "Фошань",
+      "name:cs": "Fo-šan",
+      "name:cy": "Foshan",
+      "name:da": "Foshan",
+      "name:de": "Foshan",
+      "name:el": "Φοσάν",
+      "name:en": "Foshan",
+      "name:eo": "Foŝan",
+      "name:es": "Foshán",
+      "name:et": "Foshan Shi",
+      "name:eu": "Foshan",
+      "name:fa": "فوشان",
+      "name:fi": "Foshan",
+      "name:fr": "Foshan",
+      "name:he": "פושאן",
+      "name:hi": "फोशान",
+      "name:hy": "Ֆոշան",
+      "name:id": "Foshan",
+      "name:it": "Foshan",
+      "name:ja": "仏山市",
+      "name:ki": "Foshan",
+      "name:ko": "포산시",
+      "name:lt": "Fošanas",
+      "name:lv": "Fošaņa",
+      "name:mg": "Foshan",
+      "name:ms": "Foshan",
+      "name:nl": "Foshan",
+      "name:nn": "Foshan",
+      "name:no": "Foshan",
+      "name:oc": "Foshan",
+      "name:pl": "Foshan",
+      "name:pt": "Foshan",
+      "name:ro": "Foshan",
+      "name:ru": "Фошань",
+      "name:sk": "Fo-šan",
+      "name:sr": "Фошан",
+      "name:sv": "Foshan",
+      "name:sw": "Foshan",
+      "name:ta": "பொசன்",
+      "name:tl": "Foshan",
+      "name:tr": "Foshan",
+      "name:ug": "فۇشەن شەھىر",
+      "name:uk": "Фошань",
+      "name:ur": "فوشان",
+      "name:vi": "Phật Sơn",
+      "name:zh": "佛山市",
+      "alt_name": "佛山;Foshan City",
+      "name:cdo": "Hŭk-săng",
+      "name:ceb": "Foshan",
+      "name:hak": "Fu̍t-sân-sṳ",
+      "name:nan": "Hu̍t-san-chhī",
+      "name:pam": "Foshan",
+      "name:pnb": "فوشان",
+      "name:sco": "Foshan",
+      "name:war": "Foshan",
+      "name:wuu": "佛山市",
+      "name:yue": "佛山",
+      "name:zh-Hans": "佛山市",
+      "name:zh-Hant": "佛山市",
+      "name:zh_pinyin": "Fóshān Shì"
+    }
+  },
+  {
+    "name": "Foumban",
+    "country": "Cameroon",
+    "latitude": 5.728226199459589,
+    "longitude": 10.8971603,
+    "other_names": {
+      "name": "Foumban",
+      "name:ru": "Фумбан"
+    }
+  },
+  {
+    "name": "Foz do Iguaçu",
+    "country": "Paraguay",
+    "latitude": -25.54014789970194,
+    "longitude": -54.5858139,
+    "other_names": {
+      "name": "Foz do Iguaçu",
+      "name:ja": "フォス ド イグアス"
+    }
+  }
+]

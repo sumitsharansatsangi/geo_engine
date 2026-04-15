@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Aurora",
+    "country": "United States Of America",
+    "latitude": 39.74051110023162,
+    "longitude": -104.83099469999999,
+    "other_names": {
+      "name": "Aurora"
+    }
+  },
+  {
+    "name": "Austin",
+    "country": "United States Of America",
+    "latitude": 30.27112859971623,
+    "longitude": -97.7436995,
+    "other_names": {
+      "name": "Austin",
+      "name:ar": "أوستن",
+      "name:bn": "অস্টিন",
+      "name:el": "Ώστιν",
+      "name:en": "Austin",
+      "name:eo": "Aŭstino",
+      "name:es": "Austin",
+      "name:hi": "ऑस्टिन",
+      "name:ja": "オースティン",
+      "name:ko": "오스틴",
+      "name:pl": "Austin",
+      "name:ru": "Остин",
+      "name:ta": "ஆஸ்டின்",
+      "name:te": "ఆస్టిన్",
+      "name:uk": "Остін",
+      "name:zh": "奥斯汀 / 柯士甸",
+      "name:hak": "Austin",
+      "name:nan": "Austin",
+      "name:yue": "柯士甸",
+      "name:zh-hk": "柯士甸",
+      "name:zh-Hans": "奥斯汀",
+      "name:zh-Hant": "奥斯汀"
+    }
+  },
+  {
+    "name": "Avadi",
+    "country": "India",
+    "latitude": 13.125475799692598,
+    "longitude": 80.09408999999998,
+    "other_names": {
+      "name": "Avadi",
+      "name:hi": "आवडि",
+      "name:kn": "ಆವಡಿ",
+      "name:pa": "ਆਵਡਿ",
+      "name:ta": "ஆவடி",
+      "name:zh": "阿瓦迪"
+    }
+  },
+  {
+    "name": "Aveiro",
+    "country": "Portugal",
+    "latitude": 40.640496000350076,
+    "longitude": -8.6537841,
+    "other_names": {
+      "name": "Aveiro",
+      "name:ar": "آويرو",
+      "name:el": "Αβέιρο",
+      "name:hu": "Aveiro",
+      "name:lt": "Aveiras",
+      "name:ru": "Авейру",
+      "alt_name:ar": "أفيرو"
+    }
+  },
+  {
+    "name": "Avellaneda",
+    "country": "Argentina",
+    "latitude": -34.664839399818945,
+    "longitude": -58.36280610000001,
+    "other_names": {
+      "name": "Avellaneda"
+    }
+  },
+  {
+    "name": "Avellino",
+    "country": "Italy",
+    "latitude": 40.91419580038245,
+    "longitude": 14.7888764,
+    "other_names": {
+      "name": "Avellino",
+      "name:el": "Αβελλίνο",
+      "name:ru": "Авеллино",
+      "name:zh": "阿韋利諾"
+    }
+  },
+  {
+    "name": "Avignon",
+    "country": "France",
+    "latitude": 43.94924930053428,
+    "longitude": 4.805901199999999,
+    "other_names": {
+      "name": "Avignon",
+      "name:ar": "أفينيون",
+      "name:el": "Αβινιόν",
+      "name:eo": "Avinjono",
+      "name:es": "Aviñón",
+      "name:fr": "Avignon",
+      "name:hu": "Avignon",
+      "name:it": "Avignone",
+      "name:ja": "アヴィニョン",
+      "name:lt": "Avinjonas",
+      "name:lv": "Aviņona",
+      "name:oc": "Avinhon",
+      "name:pl": "Awinion",
+      "name:pt": "Avinhão",
+      "name:ru": "Авиньон",
+      "name:zh-Hans": "阿维尼翁",
+      "name:zh-Hant": "亞維農"
+    }
+  },
+  {
+    "name": "Ávila",
+    "country": "Spain",
+    "latitude": 40.656478000352024,
+    "longitude": -4.7002172,
+    "other_names": {
+      "name": "Ávila",
+      "name:ar": "آبلة",
+      "name:be": "Авіла",
+      "name:ca": "Àvila",
+      "name:el": "Άβιλα",
+      "name:es": "Ávila",
+      "name:fa": "آبیلا",
+      "name:he": "אווילה",
+      "name:hi": "आवीला",
+      "name:hy": "Ավիլա",
+      "name:ja": "アビラ",
+      "name:ka": "ავილა",
+      "name:ko": "아빌라",
+      "name:lt": "Avila",
+      "name:ru": "Авила",
+      "name:sr": "Авила",
+      "name:th": "อาบิลา",
+      "name:ur": "آبیلا",
+      "name:zh": "阿维拉",
+      "alt_name:ar": "آبله;افيلا"
+    }
+  },
+  {
+    "name": "Avissawella",
+    "country": "Sri Lanka",
+    "latitude": 6.952232499406617,
+    "longitude": 80.21259469999998,
+    "other_names": {
+      "name": "අවිස්සාවේල්ල",
+      "name:en": "Avissawella",
+      "name:si": "අවිස්සාවේල්ල",
+      "name:ta": "அவிசாவளை"
+    }
+  },
+  {
+    "name": "Avondale",
+    "country": "United States Of America",
+    "latitude": 33.43559769958935,
+    "longitude": -112.34960200000002,
+    "other_names": {
+      "name": "Avondale",
+      "name:uk": "Ейвондейл",
+      "alt_name": "City of Avondale"
+    }
+  },
+  {
+    "name": "Awa",
+    "country": "Japan",
+    "latitude": 34.102127899605186,
+    "longitude": 134.2976029,
+    "other_names": {
+      "name": "阿波市",
+      "name:ar": "أوا، توكوشيما",
+      "name:de": "Awa",
+      "name:en": "Awa",
+      "name:es": "Awa",
+      "name:fr": "Awa",
+      "name:ja": "阿波市",
+      "name:ko": "아와시",
+      "name:ru": "Ава",
+      "name:uk": "Ава",
+      "name:zh": "阿波市",
+      "int_name": "Awa",
+      "name:ja_rm": "Awa-shi",
+      "name:ja_kana": "あわし",
+      "name:zh-Hans": "阿波市",
+      "name:zh-Hant": "阿波市"
+    }
+  },
+  {
+    "name": "Awaji",
+    "country": "Japan",
+    "latitude": 34.50145049962232,
+    "longitude": 134.90713849999997,
+    "other_names": {
+      "name": "淡路市",
+      "name:ar": "أواجي، هيوغو",
+      "name:de": "Awaji",
+      "name:en": "Awaji",
+      "name:es": "Awaji",
+      "name:fr": "Awaji",
+      "name:ja": "淡路市",
+      "name:ko": "아와지시",
+      "name:pl": "Awaji",
+      "name:ru": "Авадзи",
+      "name:uk": "Авадзі",
+      "name:ja_rm": "Awaji-shi"
+    }
+  },
+  {
+    "name": "Awara",
+    "country": "Japan",
+    "latitude": 36.21134469975719,
+    "longitude": 136.2290431,
+    "other_names": {
+      "name": "あわら市",
+      "name:en": "Awara",
+      "name:fr": "Awara",
+      "name:ja": "あわら市",
+      "name:ko": "아와라시",
+      "name:pl": "Awara",
+      "name:ru": "Авара",
+      "name:uk": "Авара",
+      "name:ja_rm": "Awara",
+      "name:ja_kana": "あわらし"
+    }
+  },
+  {
+    "name": "Awat",
+    "country": "China",
+    "latitude": 40.6423779003503,
+    "longitude": 80.3727013,
+    "other_names": {
+      "name": "阿瓦提县",
+      "name:de": "Awat",
+      "name:en": "Awat",
+      "name:es": "Awat",
+      "name:fr": "Awat",
+      "name:ug": "ئاۋات",
+      "name:zh": "阿瓦提县",
+      "alt_name": "阿瓦提县;Awati;ئاۋات بازىرى",
+      "name:zh-Hant": "阿瓦提縣",
+      "official_name": "阿瓦提县"
+    }
+  },
+  {
+    "name": "Awbari",
+    "country": "Libya",
+    "latitude": 26.590939100102453,
+    "longitude": 12.769565799999999,
+    "other_names": {
+      "name": "أوباري",
+      "name:ar": "أوباري",
+      "name:bg": "Аубари",
+      "name:de": "Ubari",
+      "name:en": "Awbari",
+      "name:eo": "Aŭbari",
+      "name:es": "Awbari",
+      "name:fa": "اوباری",
+      "name:fr": "Oubari",
+      "name:it": "Ubari",
+      "name:ka": "ავბარი",
+      "name:ko": "우바리",
+      "name:ks": "اوباری",
+      "name:lt": "Ubaris",
+      "name:pl": "Aubari",
+      "name:pt": "Awbari",
+      "name:ro": "Ubari",
+      "name:ru": "Авбари",
+      "name:tr": "Ubari",
+      "name:uk": "Аубарі",
+      "name:ur": "اوباری",
+      "name:vi": "Ubari",
+      "name:vo": "Äubari",
+      "name:azb": "اوباری"
+    }
+  },
+  {
+    "name": "Aweil",
+    "country": "South Sudan",
+    "latitude": 8.768245099396552,
+    "longitude": 27.3975765,
+    "other_names": {
+      "name": "Aweil",
+      "name:ar": "أويل",
+      "name:de": "Aweil",
+      "name:en": "Aweil",
+      "name:es": "Uwail",
+      "name:fr": "Aweil",
+      "name:hu": "Aweil",
+      "name:ko": "아웨일",
+      "name:ru": "Авейль",
+      "name:uk": "Авейль",
+      "alt_name": "Uwail;Uwayl"
+    }
+  },
+  {
+    "name": "Awka",
+    "country": "Nigeria",
+    "latitude": 6.2100944994345815,
+    "longitude": 7.074114499999999,
+    "other_names": {
+      "name": "Awka",
+      "name:ar": "أوكا",
+      "name:ko": "아우카",
+      "name:ru": "Авка"
+    }
+  },
+  {
+    "name": "Ayabe",
+    "country": "Japan",
+    "latitude": 35.35916899967808,
+    "longitude": 135.353791,
+    "other_names": {
+      "name": "綾部市",
+      "name:ar": "آيابه، كيوتو",
+      "name:de": "Ayabe",
+      "name:en": "Ayabe",
+      "name:es": "Ayabe",
+      "name:fr": "Ayabe",
+      "name:ja": "綾部市",
+      "name:ko": "아야베시",
+      "name:lt": "Ajabė",
+      "name:pl": "Ayabe",
+      "name:ru": "Аябе",
+      "name:uk": "Аябе",
+      "name:ja_rm": "Ayabe-shi",
+      "name:ja_kana": "あやべし"
+    }
+  },
+  {
+    "name": "Ayacucho",
+    "country": "Peru",
+    "latitude": -13.160426900226863,
+    "longitude": -74.22569729999998,
+    "other_names": {
+      "name": "Ayacucho",
+      "name:de": "Ayacucho",
+      "name:en": "Ayacucho",
+      "name:es": "Ayacucho",
+      "name:pl": "Ayacucho",
+      "name:ru": "Аякучо",
+      "name:uk": "Аякучо"
+    }
+  },
+  {
+    "name": "Ayase",
+    "country": "Japan",
+    "latitude": 35.446047499685115,
+    "longitude": 139.43082299999998,
+    "other_names": {
+      "name": "綾瀬市",
+      "name:ar": "أياسه، كاناغاوا",
+      "name:de": "Ayase",
+      "name:en": "Ayase",
+      "name:es": "Ayase",
+      "name:fa": "آیاسه، کاناگاوا",
+      "name:fr": "Ayase",
+      "name:gl": "Ayase",
+      "name:it": "Ayase",
+      "name:ja": "綾瀬市",
+      "name:ko": "아야세시",
+      "name:nl": "Ayase",
+      "name:pl": "Ayase",
+      "name:pt": "Ayase",
+      "name:ro": "Ayase",
+      "name:ru": "Аясе",
+      "name:tg": "Аясе",
+      "name:th": "อะยะเซะ",
+      "name:tl": "Ayase",
+      "name:uk": "Аясе",
+      "name:vi": "Ayase",
+      "name:zh": "綾瀨市",
+      "int_name": "Ayase",
+      "name:ja_rm": "Ayase-shi",
+      "name:ja_kana": "あやせし"
+    }
+  }
+]

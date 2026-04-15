@@ -1,0 +1,328 @@
+[
+  {
+    "name": "Muş",
+    "country": "Turkey",
+    "latitude": 38.740627400088286,
+    "longitude": 41.49615659999999,
+    "other_names": {
+      "name": "Muş",
+      "name:ar": "موش",
+      "name:hi": "मूश",
+      "name:hy": "Մուշ",
+      "name:ku": "Mûş",
+      "name:ru": "Муш",
+      "name:tr": "Muş"
+    }
+  },
+  {
+    "name": "Musanze",
+    "country": "Rwanda",
+    "latitude": -1.5040499998577521,
+    "longitude": 29.636309999999998,
+    "other_names": {
+      "name": "Musanze",
+      "name:ko": "루헹게리",
+      "old_name": "Ruhengeri"
+    }
+  },
+  {
+    "name": "Musashimurayama",
+    "country": "Japan",
+    "latitude": 35.75650899971221,
+    "longitude": 139.385637,
+    "other_names": {
+      "name": "武蔵村山市",
+      "name:en": "Musashimurayama",
+      "name:it": "Musashimurayama",
+      "name:ja": "武蔵村山市",
+      "name:ko": "무사시무라야마시",
+      "name:lt": "Musašimurajama",
+      "name:pl": "Musashimurayama",
+      "name:ru": "Мусасимураяма",
+      "name:uk": "Мусасі-Мураяма",
+      "name:ja-Hira": "むさしむらやまし",
+      "name:ja-Latn": "Musashimurayama-shi"
+    }
+  },
+  {
+    "name": "Musashino",
+    "country": "Japan",
+    "latitude": 35.712897999708225,
+    "longitude": 139.56353399999998,
+    "other_names": {
+      "name": "武蔵野市",
+      "name:en": "Musashino",
+      "name:fr": "Musashino",
+      "name:ja": "武蔵野市",
+      "name:ko": "무사시노시",
+      "name:lt": "Musašinas",
+      "name:pl": "Musashino",
+      "name:ru": "Мусасино",
+      "name:uk": "Мусасіно",
+      "name:ja_rm": "Musashino-shi",
+      "name:ja_kana": "むさしのし"
+    }
+  },
+  {
+    "name": "Muse",
+    "country": "Myanmar",
+    "latitude": 23.997807400332988,
+    "longitude": 97.90127159999999,
+    "other_names": {
+      "name": "မူဆယ်",
+      "pcode": "MMR015009701",
+      "name:en": "Muse",
+      "name:es": "Muse",
+      "name:fr": "Muse",
+      "name:ja": "ミューズ",
+      "name:my": "မူဆယ်",
+      "name:pl": "Muse",
+      "name:zh": "木姐",
+      "alt_name": "မူဆယ်",
+      "name:shan": "မူႇ​​ၸေႊ",
+      "name:zh-TW": "木姐",
+      "alt_name:en": "Mu Se"
+    }
+  },
+  {
+    "name": "Muse",
+    "country": "China",
+    "latitude": 23.997807400332988,
+    "longitude": 97.90127159999999,
+    "other_names": {
+      "name": "မူဆယ်",
+      "pcode": "MMR015009701",
+      "name:en": "Muse",
+      "name:es": "Muse",
+      "name:fr": "Muse",
+      "name:ja": "ミューズ",
+      "name:my": "မူဆယ်",
+      "name:pl": "Muse",
+      "name:zh": "木姐",
+      "alt_name": "မူဆယ်",
+      "name:shan": "မူႇ​​ၸေႊ",
+      "name:zh-TW": "木姐",
+      "alt_name:en": "Mu Se"
+    }
+  },
+  {
+    "name": "Musina",
+    "country": "South Africa",
+    "latitude": -22.34535190015371,
+    "longitude": 30.026852600000005,
+    "other_names": {
+      "name": "Musina",
+      "name:ru": "Мусина",
+      "name:uk": "Мусіна",
+      "old_name": "Messina"
+    }
+  },
+  {
+    "name": "Musina",
+    "country": "South Africa And Lesotho",
+    "latitude": -22.34535190015371,
+    "longitude": 30.026852600000005,
+    "other_names": {
+      "name": "Musina",
+      "name:ru": "Мусина",
+      "name:uk": "Мусіна",
+      "old_name": "Messina"
+    }
+  },
+  {
+    "name": "Musoma",
+    "country": "Tanzania",
+    "latitude": -1.4998185998581102,
+    "longitude": 33.8083018,
+    "other_names": {
+      "name": "Musoma",
+      "name:ko": "무소마",
+      "name:lt": "Musoma",
+      "name:ru": "Мусома",
+      "name:uk": "Мусома"
+    }
+  },
+  {
+    "name": "Musumba",
+    "country": "Congo Democratic Republic",
+    "latitude": -8.361414499783669,
+    "longitude": 22.6415211,
+    "other_names": {
+      "name": "Musumba"
+    }
+  },
+  {
+    "name": "Mutare",
+    "country": "Zimbabwe",
+    "latitude": -18.97465600044849,
+    "longitude": 32.670473,
+    "other_names": {
+      "name": "Mutare",
+      "name:ar": "موتاري",
+      "name:ko": "무타레",
+      "name:ru": "Мутаре",
+      "old_name": "Umtali"
+    }
+  },
+  {
+    "name": "Mutsamudu",
+    "country": "Comores",
+    "latitude": -12.16884600012927,
+    "longitude": 44.3942831,
+    "other_names": {
+      "name": "Mutsamudu موتسامودو",
+      "name:ar": "موتسامودو",
+      "name:en": "Mutsamudu",
+      "name:fr": "Mutsamudu",
+      "name:ko": "무차무두"
+    }
+  },
+  {
+    "name": "Mutsu",
+    "country": "Japan",
+    "latitude": 41.292844400423505,
+    "longitude": 141.1831247,
+    "other_names": {
+      "name": "むつ市",
+      "name:ar": "موتسو، آوموري",
+      "name:de": "Mutsu",
+      "name:en": "Mutsu",
+      "name:es": "Mutsu",
+      "name:fr": "Mutsu",
+      "name:ja": "むつ市",
+      "name:ko": "무쓰시",
+      "name:lt": "Mucu",
+      "name:pl": "Mutsu",
+      "name:ru": "Муцу",
+      "name:uk": "Муцу",
+      "int_name": "Mutsu",
+      "name:ja_rm": "Mutsu-shi",
+      "name:ja_kana": "むつし"
+    }
+  },
+  {
+    "name": "Muyinga",
+    "country": "Burundi",
+    "latitude": -2.8453255997597307,
+    "longitude": 30.339388299999992,
+    "other_names": {
+      "name": "Muyinga",
+      "name:ru": "Муйинга"
+    }
+  },
+  {
+    "name": "Muzaffarabad",
+    "country": "Pakistan",
+    "latitude": 34.3734750996162,
+    "longitude": 73.47024069999999,
+    "other_names": {
+      "name": "مظفر آباد",
+      "name:ar": "مظفر آباد",
+      "name:cs": "Muzaffarábád",
+      "name:de": "Muzaffarabad",
+      "name:en": "Muzaffarabad",
+      "name:es": "Muzaffarabad",
+      "name:et": "Muzaffarābād",
+      "name:fa": "مظفرآباد",
+      "name:fr": "Muzaffarabad",
+      "name:hi": "मुज़फ़्फ़राबाद",
+      "name:ja": "ムザファラバード",
+      "name:kn": "ಮುಜಫರಾಬಾದ್",
+      "name:ks": "مظفر آباد",
+      "name:pl": "Muzaffarabad",
+      "name:ru": "Музаффарабад",
+      "name:sd": "مظفر آباد",
+      "name:uk": "Музаффарабад",
+      "name:ur": "مظفر آباد",
+      "name:ckb": "مزەفەر ئاباد",
+      "name:pnb": "مظفر آباد",
+      "alt_name:ur": "مُظفَّرآباد‬‎"
+    }
+  },
+  {
+    "name": "Muzaffarabad",
+    "country": "Pakistan",
+    "latitude": 34.374060681016864,
+    "longitude": 73.4686712420546,
+    "other_names": {
+      "name": "مظفر آباد",
+      "name:ar": "مظفر آباد",
+      "name:en": "Muzaffarabad",
+      "name:fa": "مظفرآباد",
+      "name:ks": "مظفر آباد",
+      "name:sd": "مظفر آباد",
+      "name:ur": "مظفر آباد",
+      "name:ckb": "مزەفەر ئاباد",
+      "name:pnb": "مظفر آباد"
+    }
+  },
+  {
+    "name": "Muzaffargarh",
+    "country": "Pakistan",
+    "latitude": 30.077808299732848,
+    "longitude": 71.1888419,
+    "other_names": {
+      "name": "مظفر گڑھ",
+      "name:ar": "مظفر كره",
+      "name:de": "Muzaffargarh",
+      "name:en": "Muzaffargarh",
+      "name:es": "Muzaffargarh",
+      "name:et": "Muzaffargarh",
+      "name:fr": "Muzaffargarh",
+      "name:ja": "ムザファルガル",
+      "name:ru": "Музаффаргарх",
+      "name:sr": "Музафаргарх",
+      "name:ur": "مظفر گڑھ",
+      "alt_name": "مُظفّرگڑھ‬",
+      "name:pnb": "مظفر گڑھ",
+      "alt_name:ar": "مظفركره"
+    }
+  },
+  {
+    "name": "Muzaffarnagar",
+    "country": "India",
+    "latitude": 29.466236899790008,
+    "longitude": 77.6961699,
+    "other_names": {
+      "name": "Muzaffarnagar",
+      "name:ar": "مظفر نغر",
+      "name:de": "Muzaffarnagar",
+      "name:en": "Muzaffarnagar",
+      "name:es": "Muzaffarnagar",
+      "name:fr": "Muzaffarnagar",
+      "name:hi": "मुज़फ़्फ़रनगर",
+      "name:ja": "ムザッファルナガル",
+      "name:kn": "ಮುಜಾಪುರ್‌ನಗರ್",
+      "name:pa": "ਮੁਜ਼ੱਫ਼ਰਨਗਰ",
+      "name:ur": "مظفر نگر"
+    }
+  },
+  {
+    "name": "Muzaffarpur",
+    "country": "India",
+    "latitude": 26.118289800152187,
+    "longitude": 85.3857888,
+    "other_names": {
+      "name": "Muzaffarpur",
+      "name:bn": "মজঃফরপুর",
+      "name:en": "Muzaffarpur",
+      "name:he": "מוזאפרפור",
+      "name:hi": "मुज़फ़्फ़रपुर",
+      "name:ja": "ムザッファルプル",
+      "name:kn": "ಮುಜಫರ್‌ಪುರ್",
+      "name:pa": "ਮੁਜ਼ੱਫ਼ਰਪੁਰ"
+    }
+  },
+  {
+    "name": "Mwanza",
+    "country": "Tanzania",
+    "latitude": -2.519691499780432,
+    "longitude": 32.9014417,
+    "other_names": {
+      "name": "Mwanza",
+      "name:lt": "Mvanza",
+      "name:ru": "Мванза",
+      "name:uk": "Мванза"
+    }
+  }
+]

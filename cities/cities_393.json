@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Renhe",
+    "country": "China",
+    "latitude": 26.501624200112015,
+    "longitude": 101.73686599999999,
+    "other_names": {
+      "name": "仁和区",
+      "name:en": "Renhe",
+      "name:zh": "仁和区",
+      "alt_name": "仁和;Renhe District",
+      "name:zh-Hant": "仁和區"
+    }
+  },
+  {
+    "name": "Renhua",
+    "country": "China",
+    "latitude": 25.088261300250398,
+    "longitude": 113.74306439999998,
+    "other_names": {
+      "name": "仁化县",
+      "name:de": "Renhua",
+      "name:en": "Renhua",
+      "name:fa": "شهرستان رنهوا",
+      "name:fr": "Xian de Renhua",
+      "name:it": "Contea di Renhua",
+      "name:ja": "仁化県",
+      "name:ko": "런화현",
+      "name:no": "Renhua",
+      "name:sv": "Renhua",
+      "name:vi": "Nhân Hóa",
+      "name:zh": "仁化县",
+      "alt_name": "仁化;Renhua County",
+      "name:ceb": "Renhua Xian",
+      "name:hak": "Yìn-fa-yen",
+      "name:mwl": "Renhua",
+      "name:nan": "Jîn-hoà-koān",
+      "name:yue": "仁化",
+      "name:zh-Hant": "仁化縣",
+      "name:zh_pinyin": "Rénhuà Xiàn"
+    }
+  },
+  {
+    "name": "Renhuai",
+    "country": "China",
+    "latitude": 27.806532399967878,
+    "longitude": 106.4099199,
+    "other_names": {
+      "name": "仁怀市",
+      "name:de": "Renhuai",
+      "name:en": "Renhuai",
+      "name:fr": "Renhuai",
+      "name:ja": "仁懐市",
+      "name:vi": "Nhân Hoài",
+      "name:zh": "仁怀市",
+      "name:zh-Hant": "仁懷市",
+      "name:zh_pinyin": "Rénhuái Shì"
+    }
+  },
+  {
+    "name": "Renk",
+    "country": "South Sudan",
+    "latitude": 11.75061479955822,
+    "longitude": 32.80492679999999,
+    "other_names": {
+      "name": "Renk",
+      "name:ar": "الرنك",
+      "name:de": "Renk",
+      "name:en": "Renk",
+      "name:es": "Renk",
+      "name:fr": "Renk"
+    }
+  },
+  {
+    "name": "Rennes",
+    "country": "France",
+    "latitude": 48.111338699911,
+    "longitude": -1.6800198,
+    "other_names": {
+      "name": "Rennes",
+      "name:ar": "رين",
+      "name:az": "Ren",
+      "name:be": "Рэн",
+      "name:bg": "Рен",
+      "name:br": "Roazhon",
+      "name:cy": "Roazhon",
+      "name:el": "Ρεν",
+      "name:en": "Rennes",
+      "name:eo": "Renno",
+      "name:fa": "رن",
+      "name:fr": "Rennes",
+      "name:he": "רן",
+      "name:hu": "Rennes",
+      "name:hy": "Ռեն",
+      "name:ja": "レンヌ",
+      "name:ka": "რენი",
+      "name:ko": "렌",
+      "name:la": "Condate",
+      "name:lt": "Renas",
+      "name:lv": "Renna",
+      "name:mr": "ऱ्हेन",
+      "name:oc": "Rennes",
+      "name:ru": "Ренн",
+      "name:sr": "Рен",
+      "name:ta": "ரேன்",
+      "name:th": "แรน",
+      "name:ug": "Rénn Shehiri",
+      "name:uk": "Ренн",
+      "name:ur": "رین",
+      "name:zh": "雷恩",
+      "name:frp": "Rènes",
+      "name:mzn": "رن",
+      "name:pnb": "رینے",
+      "name:be-tarask": "Рэн",
+      "name:fr-x-gallo": "Renn"
+    }
+  },
+  {
+    "name": "Reno",
+    "country": "United States Of America",
+    "latitude": 39.526120600201494,
+    "longitude": -119.81265810000001,
+    "other_names": {
+      "name": "Reno",
+      "name:en": "Reno",
+      "name:ja": "リノ",
+      "name:ru": "Рино",
+      "name:uk": "Ріно"
+    }
+  },
+  {
+    "name": "Renqiu",
+    "country": "China",
+    "latitude": 38.70637670008331,
+    "longitude": 116.10622030000002,
+    "other_names": {
+      "name": "任丘市",
+      "name:de": "Renqiu",
+      "name:en": "Renqiu",
+      "name:fr": "Renqiu",
+      "name:ja": "任丘市",
+      "name:vi": "Nhâm Khâu",
+      "name:zh": "任丘市",
+      "alt_name": "任丘;Renqiu City",
+      "name:zh-Hant": "任丘市",
+      "name:zh_pinyin": "Rénqiū Shì"
+    }
+  },
+  {
+    "name": "Renshou",
+    "country": "China",
+    "latitude": 29.99847639973989,
+    "longitude": 104.1479468,
+    "other_names": {
+      "name": "仁寿县",
+      "name:en": "Renshou",
+      "name:ru": "Йен-шоу Гсиен",
+      "name:zh": "仁寿县",
+      "alt_name": "Renshou County;仁寿",
+      "alt_name:en": "Jen-shou Hsien",
+      "name:zh-Hant": "仁壽縣"
+    }
+  },
+  {
+    "name": "Renze",
+    "country": "China",
+    "latitude": 37.12637749986423,
+    "longitude": 114.68008560000001,
+    "other_names": {
+      "name": "任泽区",
+      "name:en": "Renze",
+      "name:zh": "任泽区",
+      "alt_name": "任泽",
+      "name:zh-Hant": "任澤區",
+      "name:zh_pinyin": "Renze Qu"
+    }
+  },
+  {
+    "name": "Resende",
+    "country": "Brazil",
+    "latitude": -22.468362600137937,
+    "longitude": -44.446349399999995,
+    "other_names": {
+      "name": "Resende"
+    }
+  },
+  {
+    "name": "Resistencia",
+    "country": "Argentina",
+    "latitude": -27.451123499464046,
+    "longitude": -58.98651959999998,
+    "other_names": {
+      "name": "Resistencia",
+      "name:el": "Ρεσιστένσια",
+      "name:en": "Resistencia",
+      "name:he": "רסיסטנסיה",
+      "name:ru": "Ресистенсия",
+      "name:uk": "Ресістенсія"
+    }
+  },
+  {
+    "name": "Reșița",
+    "country": "Romania",
+    "latitude": 45.28901060043807,
+    "longitude": 21.8877676,
+    "other_names": {
+      "name": "Reșița",
+      "name:de": "Reschitza",
+      "name:hu": "Resicabánya",
+      "name:ru": "Решица",
+      "name:sr": "Решица",
+      "name:uk": "Решица",
+      "alt_name:de": "Reschitz"
+    }
+  },
+  {
+    "name": "Retalhuleu",
+    "country": "Guatemala",
+    "latitude": 14.536230299852559,
+    "longitude": -91.67821349999998,
+    "other_names": {
+      "ref": "RE",
+      "name": "Retalhuleu",
+      "name:ru": "Реталулеу"
+    }
+  },
+  {
+    "name": "Rethymno",
+    "country": "Greece",
+    "latitude": 35.36764719967876,
+    "longitude": 24.4736079,
+    "other_names": {
+      "name": "Ρέθυμνο",
+      "name:ar": "ريثيمنو",
+      "name:de": "Rethymno",
+      "name:el": "Ρέθυμνο",
+      "name:en": "Rethymno",
+      "name:es": "Rétino",
+      "name:et": "Réthymno",
+      "name:fr": "Réthymnon",
+      "name:hu": "Réthimno",
+      "name:it": "Rethymno",
+      "name:lt": "Retimnas",
+      "name:mk": "Ретимно",
+      "name:nl": "Rethimnon",
+      "name:pl": "Retimno",
+      "name:ru": "Ретимнон"
+    }
+  },
+  {
+    "name": "Reus",
+    "country": "Spain",
+    "latitude": 41.15555640040916,
+    "longitude": 1.1076133,
+    "other_names": {
+      "name": "Reus",
+      "name:ca": "Reus",
+      "name:el": "Ρέους",
+      "name:lt": "Reusas",
+      "name:ru": "Реус",
+      "name:uk": "Реус"
+    }
+  },
+  {
+    "name": "Reutlingen",
+    "country": "Germany",
+    "latitude": 48.491950799818156,
+    "longitude": 9.2114144,
+    "other_names": {
+      "name": "Reutlingen",
+      "name:ar": "رويتلينغن",
+      "name:fr": "Reutlingen",
+      "name:la": "Reutlingen",
+      "name:ru": "Ройтлинген",
+      "name:sr": "Ројтлинген",
+      "name:uk": "Ройтлінген",
+      "name:nds": "Reutlingen",
+      "alt_name:ar": "ريوتلنجن"
+    }
+  },
+  {
+    "name": "Revelstoke",
+    "country": "Canada",
+    "latitude": 50.998044999249785,
+    "longitude": -118.19567090000001,
+    "other_names": {
+      "name": "Revelstoke"
+    }
+  },
+  {
+    "name": "Revere",
+    "country": "United States Of America",
+    "latitude": 42.40843020051275,
+    "longitude": -71.0119948,
+    "other_names": {
+      "name": "Revere"
+    }
+  },
+  {
+    "name": "Rewa",
+    "country": "India",
+    "latitude": 24.535900000295406,
+    "longitude": 81.2934,
+    "other_names": {
+      "name": "Rewa",
+      "name:bn": "রীবা",
+      "name:en": "Rewa",
+      "name:he": "רייבה",
+      "name:hi": "रीवा",
+      "name:kn": "ರೀವಾ",
+      "name:ml": "രീവ",
+      "name:ru": "Рива"
+    }
+  },
+  {
+    "name": "Rewari",
+    "country": "India",
+    "latitude": 28.195646799924475,
+    "longitude": 76.6165179,
+    "other_names": {
+      "name": "Rewari",
+      "name:en": "Rewari",
+      "name:hi": "रेवाड़ी",
+      "name:ja": "レーワーリー",
+      "name:kn": "ರೇವರಿ",
+      "name:pa": "ਰੇਵਾੜੀ",
+      "name:ta": "ரேவாரி"
+    }
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "name": "Hibiscus Coast",
+    "country": "New Zealand",
+    "latitude": -36.60953360025433,
+    "longitude": 174.7086237,
+    "other_names": {
+      "name": "Hibiscus Coast",
+      "name:mk": "Хибискус Коуст"
+    }
+  },
+  {
+    "name": "Hickory",
+    "country": "United States Of America",
+    "latitude": 35.73333119971008,
+    "longitude": -81.3442915,
+    "other_names": {
+      "name": "Hickory"
+    }
+  },
+  {
+    "name": "Hida",
+    "country": "Japan",
+    "latitude": 36.23832039976005,
+    "longitude": 137.1859372,
+    "other_names": {
+      "name": "飛騨市",
+      "name:en": "Hida",
+      "name:fr": "Hida",
+      "name:ja": "飛騨市",
+      "name:ko": "히다시",
+      "name:pl": "Hida",
+      "name:ru": "Хида",
+      "name:uk": "Хіда",
+      "name:ja_rm": "Hida-shi",
+      "name:ja_kana": "ひだし"
+    }
+  },
+  {
+    "name": "Hidaka",
+    "country": "Japan",
+    "latitude": 35.9077666997265,
+    "longitude": 139.3390385,
+    "other_names": {
+      "name": "日高市",
+      "name:en": "Hidaka",
+      "name:fr": "Hidaka",
+      "name:ja": "日高市",
+      "name:pl": "Hidaka",
+      "name:ru": "Хидака",
+      "name:uk": "Хідака",
+      "name:ja_rm": "Hidaka-shi",
+      "name:ja_kana": "ひだかし"
+    }
+  },
+  {
+    "name": "Hidalgo del Parral",
+    "country": "Mexico",
+    "latitude": 26.92871640006572,
+    "longitude": -105.6674058,
+    "other_names": {
+      "name": "Hidalgo del Parral",
+      "name:ru": "Идальго-дель-Парраль"
+    }
+  },
+  {
+    "name": "Higashihiroshima",
+    "country": "Japan",
+    "latitude": 34.42682999961869,
+    "longitude": 132.741552,
+    "other_names": {
+      "name": "東広島市",
+      "name:ar": "هیغاشیهیروشیما، هیروشیما",
+      "name:de": "Higashihiroshima",
+      "name:en": "Higashihiroshima",
+      "name:es": "Higashihiroshima",
+      "name:fr": "Higashihiroshima",
+      "name:gl": "Higashihiroshima",
+      "name:id": "Higashihiroshima",
+      "name:it": "Higashihiroshima",
+      "name:ja": "東広島市",
+      "name:ko": "히가시히로시마시",
+      "name:pl": "Higashi-Hiroshima",
+      "name:pt": "Higashihiroshima",
+      "name:ro": "Higashihiroshima",
+      "name:ru": "Хигасихиросима",
+      "name:tg": "Ҳигашиҳирошима",
+      "name:tl": "Higashihiroshima",
+      "name:uk": "Хіґасі-Хіросіма",
+      "name:vi": "Higashihiroshima",
+      "name:zh": "東廣島市",
+      "int_name": "Higashihiroshima",
+      "name:ja_rm": "Higashihiroshima-shi",
+      "name:ja_kana": "ひがしひろしまし"
+    }
+  },
+  {
+    "name": "Higashi-Kagawa",
+    "country": "Japan",
+    "latitude": 34.222361699609735,
+    "longitude": 134.3192814,
+    "other_names": {
+      "name": "東かがわ市",
+      "name:ar": "هيغاشيكاغاوا، كاغاوا",
+      "name:de": "Higashikagawa",
+      "name:en": "Higashi-Kagawa",
+      "name:es": "Higashikagawa",
+      "name:fr": "Higashikagawa",
+      "name:ja": "東かがわ市",
+      "name:ko": "히가시카가와시",
+      "name:pl": "Higashikagawa",
+      "name:ru": "Хигасикагава",
+      "name:uk": "Хіґаші-Каґава",
+      "name:zh": "东香川市",
+      "name:ja-Hira": "ひがしかがわし",
+      "name:zh-Hans": "东香川市",
+      "name:zh-Hant": "東香川市"
+    }
+  },
+  {
+    "name": "Higashikurume",
+    "country": "Japan",
+    "latitude": 35.752545999711856,
+    "longitude": 139.51908899999998,
+    "other_names": {
+      "name": "東久留米市",
+      "name:ar": "هيغاشيكورومه، طوكيو",
+      "name:de": "Higashikurume",
+      "name:en": "Higashikurume",
+      "name:es": "Higashikurume",
+      "name:fa": "هیگاشی‌کورومه، توکیو",
+      "name:fi": "Higashikurume",
+      "name:fr": "Higashikurume",
+      "name:gl": "Higashikurume",
+      "name:it": "Higashikurume",
+      "name:ja": "東久留米市",
+      "name:ko": "히가시쿠루메시",
+      "name:lt": "Higašikurumė",
+      "name:ms": "Higashikurume",
+      "name:pl": "Higashikurume",
+      "name:pt": "Higashikurume",
+      "name:ru": "Хигасикуруме",
+      "name:sh": "Higašikurume",
+      "name:sr": "Хигашикуруме",
+      "name:tg": "Ҳигашикуруме",
+      "name:th": "ฮิงะชิกุรุเมะ",
+      "name:tl": "Higasyikurume, Tokyo",
+      "name:uk": "Хіґасі-Куруме",
+      "name:zh": "東久留米市",
+      "name:mzn": "هیگاشی‌کورومه، توکیو",
+      "name:yue": "東久留米市",
+      "name:ja_rm": "Higashikurume-shi",
+      "name:ja_kana": "ひがしくるめし",
+      "name:roa-rup": "Higashikurume"
+    }
+  },
+  {
+    "name": "Higashimatsushima",
+    "country": "Japan",
+    "latitude": 38.42638680004282,
+    "longitude": 141.2110467,
+    "other_names": {
+      "name": "東松島市",
+      "name:ar": "هيغاشي-ماتسوشيما، مياغي",
+      "name:de": "Higashimatsushima",
+      "name:en": "Higashimatsushima",
+      "name:es": "Higashimatsushima",
+      "name:fr": "Higashimatsushima",
+      "name:ja": "東松島市",
+      "name:ko": "히가시마쓰시마시",
+      "name:pl": "Higashi-Matsushima",
+      "name:ru": "Хигасимацусима",
+      "name:uk": "Хіґасі-Мацусіма",
+      "int_name": "Higashimatsushima",
+      "name:ja_rm": "Higashimatsushima-shi",
+      "name:ja_kana": "ひがしまつしまし"
+    }
+  },
+  {
+    "name": "Higashimatsuyama",
+    "country": "Japan",
+    "latitude": 36.04215229973975,
+    "longitude": 139.399796,
+    "other_names": {
+      "name": "東松山市",
+      "name:ar": "هيغاشيماتسوياما، سايتاما",
+      "name:de": "Higashimatsuyama",
+      "name:en": "Higashimatsuyama",
+      "name:es": "Higashimatsuyama",
+      "name:fr": "Higashimatsuyama",
+      "name:ja": "東松山市",
+      "name:ko": "히가시마쓰야마시",
+      "name:pl": "Higashimatsuyama",
+      "name:ru": "Хигасимацуяма",
+      "name:uk": "Хіґасі-Мацуяма"
+    }
+  },
+  {
+    "name": "Higashimurayama",
+    "country": "Japan",
+    "latitude": 35.76892899971335,
+    "longitude": 139.48453899999998,
+    "other_names": {
+      "name": "東村山市",
+      "name:ar": "هيغاشيموراياما، طوكيو",
+      "name:bg": "Хигашимураяма",
+      "name:de": "Higashimurayama",
+      "name:en": "Higashimurayama",
+      "name:es": "Higashimurayama",
+      "name:et": "Higashimurayama",
+      "name:fa": "هیگاشی‌مورایاما، توکیو",
+      "name:fi": "Higashimurayama",
+      "name:fr": "Higashimurayama",
+      "name:gl": "Higashimurayama",
+      "name:it": "Higashimurayama",
+      "name:ja": "東村山市",
+      "name:ko": "히가시무라야마시",
+      "name:lt": "Higašimurajama",
+      "name:ms": "Higashimurayama",
+      "name:pl": "Higashimurayama",
+      "name:pt": "Higashimurayama",
+      "name:ru": "Хигасимураяма",
+      "name:sh": "Higašimurajama",
+      "name:sr": "Хигашимурајама",
+      "name:tg": "Ҳигашимураяма",
+      "name:th": "ฮิงะชิมุระยะมะ",
+      "name:tl": "Higasyimurayama, Tokyo",
+      "name:uk": "Хіґасі-Мураяма",
+      "name:zh": "東村山市",
+      "name:mzn": "هیگاشی‌مورایاما، توکیو",
+      "name:yue": "東村山市",
+      "name:roa-rup": "Higashimurayama"
+    }
+  },
+  {
+    "name": "Higashine",
+    "country": "Japan",
+    "latitude": 38.43124370004352,
+    "longitude": 140.391304,
+    "other_names": {
+      "name": "東根市",
+      "name:ar": "هيغاشينا، ياماغاتا",
+      "name:de": "Higashine",
+      "name:en": "Higashine",
+      "name:es": "Higashine",
+      "name:fr": "Higashine",
+      "name:ja": "東根市",
+      "name:ko": "히가시네시",
+      "name:pl": "Higashine",
+      "name:ru": "Хигасинэ",
+      "name:uk": "Хіґасіне",
+      "int_name": "Higashine",
+      "name:ja_rm": "Higashine-shi",
+      "name:ja_kana": "ひがしねし"
+    }
+  },
+  {
+    "name": "Higashiomi",
+    "country": "Japan",
+    "latitude": 35.1227134996602,
+    "longitude": 136.2670965,
+    "other_names": {
+      "name": "東近江市",
+      "name:ar": "هيغاشيومي، شيغا",
+      "name:de": "Higashiōmi",
+      "name:en": "Higashiomi",
+      "name:es": "Higashiōmi",
+      "name:fr": "Higashiōmi",
+      "name:ja": "東近江市",
+      "name:ko": "히가시오미시",
+      "name:pl": "Higashi-Ōmi",
+      "name:ru": "Хигасиоми",
+      "name:uk": "Хіґасі-Омі",
+      "name:ja_rm": "Higashiōmi-shi",
+      "name:ja_kana": "ひがしおうみし"
+    }
+  },
+  {
+    "name": "Higashiosaka",
+    "country": "Japan",
+    "latitude": 34.67814699963173,
+    "longitude": 135.597728,
+    "other_names": {
+      "name": "東大阪市",
+      "name:ar": "هيغاشي-أوساكا، أوساكا",
+      "name:de": "Higashiōsaka",
+      "name:en": "Higashiosaka",
+      "name:es": "Higashiōsaka",
+      "name:et": "Higashi-Ōsaka",
+      "name:fr": "Higashiōsaka",
+      "name:ja": "東大阪市",
+      "name:ko": "히가시오사카시",
+      "name:pl": "Higashi-Ōsaka",
+      "name:ru": "Хигасиосака",
+      "name:uk": "Хіґаші-Осака",
+      "name:ja_rm": "Higashiōsaka-shi"
+    }
+  },
+  {
+    "name": "Higashiyamato",
+    "country": "Japan",
+    "latitude": 35.74086899971077,
+    "longitude": 139.42883099999997,
+    "other_names": {
+      "name": "東大和市",
+      "name:ar": "هيغاشي ياماتو، طوكيو",
+      "name:de": "Higashiyamato",
+      "name:en": "Higashiyamato",
+      "name:es": "Higashiyamato",
+      "name:fa": "هیگاشی‌یاماتو، توکیو",
+      "name:fi": "Higashiyamato",
+      "name:fr": "Higashiyamato",
+      "name:gl": "Higashiyamato",
+      "name:it": "Higashiyamato",
+      "name:ja": "東大和市",
+      "name:ko": "히가시야마토시",
+      "name:lt": "Higašijamatas",
+      "name:ms": "Higashiyamato",
+      "name:pl": "Higashiyamato",
+      "name:pt": "Higashi-yamato",
+      "name:ru": "Хигасиямато",
+      "name:tg": "Ҳигашиямато",
+      "name:th": "ฮิงะชิยะมะโตะ",
+      "name:tl": "Higasyiyamato, Tokyo",
+      "name:uk": "Хіґасі-Ямато",
+      "name:zh": "東大和市",
+      "name:mzn": "هیگاشی‌یاماتو، توکیو",
+      "name:yue": "東大和市",
+      "name:ja_rm": "Higashiyamato-shi",
+      "name:ja_kana": "ひがしやまとし",
+      "name:roa-rup": "Higashiyamato"
+    }
+  },
+  {
+    "name": "High Point",
+    "country": "United States Of America",
+    "latitude": 35.95569239973116,
+    "longitude": -80.0053176,
+    "other_names": {
+      "name": "High Point"
+    }
+  },
+  {
+    "name": "High-tech Zone",
+    "country": "China",
+    "latitude": 29.51608329978512,
+    "longitude": 106.3315812,
+    "other_names": {
+      "name": "高新区",
+      "name:en": "High-tech Zone",
+      "name:zh": "高新区",
+      "name:zh-Hant": "高新區"
+    }
+  },
+  {
+    "name": "Higuerote",
+    "country": "Venezuela",
+    "latitude": 10.4824641994644,
+    "longitude": -66.1051816,
+    "other_names": {
+      "name": "Higuerote"
+    }
+  },
+  {
+    "name": "Hikari",
+    "country": "Japan",
+    "latitude": 33.961580699600496,
+    "longitude": 131.9425203,
+    "other_names": {
+      "name": "光市",
+      "name:ar": "هيكاري، ياماغوتشي",
+      "name:de": "Hikari",
+      "name:en": "Hikari",
+      "name:es": "Hikari",
+      "name:et": "Hikari",
+      "name:fr": "Hikari",
+      "name:ja": "光市",
+      "name:ko": "히카리시",
+      "name:pl": "Hikari",
+      "name:ru": "Хикари",
+      "name:uk": "Хікарі",
+      "name:zh": "光市",
+      "int_name": "Hikari",
+      "name:ja-Hira": "ひかりし",
+      "name:ja-Latn": "Hikari-shi",
+      "name:ja_kana": "ヒカリシ",
+      "name:zh-Hans": "光市",
+      "name:zh-Hant": "光市"
+    }
+  },
+  {
+    "name": "Hikone",
+    "country": "Japan",
+    "latitude": 35.25427599966992,
+    "longitude": 136.215376,
+    "other_names": {
+      "name": "彦根市",
+      "name:ar": "هيكونا، شيغا",
+      "name:de": "Hikone",
+      "name:en": "Hikone",
+      "name:es": "Hikone",
+      "name:fr": "Hikone",
+      "name:ja": "彦根市",
+      "name:ko": "히코네시",
+      "name:pl": "Hikone",
+      "name:ru": "Хиконе",
+      "name:uk": "Хіконе",
+      "name:ja_rm": "Hikone-shi",
+      "name:ja_kana": "ひこねし"
+    }
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Aybak",
+    "country": "Afghanistan",
+    "latitude": 36.27306729976375,
+    "longitude": 68.02184549999998,
+    "other_names": {
+      "name": "ایبک",
+      "name:en": "Aybak",
+      "name:hi": "अयबक"
+    }
+  },
+  {
+    "name": "Aydin",
+    "country": "Turkey",
+    "latitude": 37.848376699960774,
+    "longitude": 27.843587799999998,
+    "other_names": {
+      "name": "Aydın",
+      "name:ar": "أيدين",
+      "name:el": "Αϊδίνιο",
+      "name:en": "Aydin",
+      "name:hi": "ऐदिन",
+      "name:hu": "Aydın",
+      "name:pt": "Aidim",
+      "name:ru": "Айдын",
+      "name:tr": "Aydın",
+      "old_name": "Tralles;Güzelhisar;Guzel Hissar;Τραλλεῖς;Anthea;Euanthia;Erynina;Seleucia ad Maeandrum"
+    }
+  },
+  {
+    "name": "Aye Thar Yar",
+    "country": "Myanmar",
+    "latitude": 20.781944795566996,
+    "longitude": 97.0014477433515,
+    "other_names": {
+      "name": "Aye Thar Yar",
+      "name:my": "အေးသာယာ"
+    }
+  },
+  {
+    "name": "Ayod",
+    "country": "South Sudan",
+    "latitude": 8.123708599390374,
+    "longitude": 31.412492599999993,
+    "other_names": {
+      "name": "Ayod",
+      "name:ar": "أيود",
+      "name:de": "Ayod",
+      "name:en": "Ayod",
+      "name:es": "Ayod",
+      "name:fr": "Ayod",
+      "name:zh": "阿约德"
+    }
+  },
+  {
+    "name": "Azamgarh",
+    "country": "India",
+    "latitude": 26.06543510015759,
+    "longitude": 83.18443899999998,
+    "other_names": {
+      "name": "Azamgarh",
+      "name:hi": "आज़मगढ़",
+      "name:ja": "アーザムガル"
+    }
+  },
+  {
+    "name": "Azua",
+    "country": "Haiti And Domrep",
+    "latitude": 18.453259400272938,
+    "longitude": -70.73240109999999,
+    "other_names": {
+      "name": "Azua",
+      "name:ru": "Асуа",
+      "official_name": "Azua de Compostela"
+    }
+  },
+  {
+    "name": "Azumino",
+    "country": "Japan",
+    "latitude": 36.30440829976711,
+    "longitude": 137.9054972,
+    "other_names": {
+      "name": "安曇野市",
+      "name:ar": "أزومينو، ناغانو",
+      "name:de": "Azumino",
+      "name:en": "Azumino",
+      "name:es": "Azumino",
+      "name:fr": "Azumino",
+      "name:ja": "安曇野市",
+      "name:ko": "아즈미노시",
+      "name:pl": "Azumino",
+      "name:ru": "Адзумино",
+      "name:uk": "Адзуміно",
+      "name:ja_rm": "Azumino-shi",
+      "name:ja_kana": "あづみのし"
+    }
+  },
+  {
+    "name": "Az Zarqa",
+    "country": "Egypt",
+    "latitude": 31.20747522148729,
+    "longitude": 31.63554729910391,
+    "other_names": {
+      "name": "Az Zarqa"
+    }
+  },
+  {
+    "name": "Az Zubayr",
+    "country": "Iraq",
+    "latitude": 30.39176639970626,
+    "longitude": 47.70270419999999,
+    "other_names": {
+      "name": "الزبير",
+      "name:ar": "الزبير",
+      "name:de": "Zubair",
+      "name:en": "Az Zubayr",
+      "name:es": "Az Zubayr",
+      "name:et": "Az-Zubayr",
+      "name:fr": "Az Zubayr",
+      "name:ja": "ズバイル",
+      "name:ru": "Эз-Зубайр",
+      "int_name": "Al Zubayr - الزبير"
+    }
+  },
+  {
+    "name": "Baalbek",
+    "country": "Lebanon",
+    "latitude": 34.009652999602025,
+    "longitude": 36.2117096,
+    "other_names": {
+      "name": "بعلبك",
+      "name:ar": "بعلبك",
+      "name:cs": "Baalbek",
+      "name:de": "Baalbek",
+      "name:el": "Μπάαλμπεκ",
+      "name:en": "Baalbek",
+      "name:es": "Baalbek",
+      "name:fr": "Baalbek",
+      "name:he": "בעלבק",
+      "name:hi": "बाल्बेक",
+      "name:lt": "Baalbekas",
+      "name:ml": "ബാൽബെക്",
+      "name:ru": "Баальбек",
+      "int_name": "Baalbeck"
+    }
+  },
+  {
+    "name": "Babadaýhan",
+    "country": "Turkmenistan",
+    "latitude": 37.6899461999389,
+    "longitude": 60.3941572,
+    "other_names": {
+      "name": "Babadaýhan",
+      "name:el": "Μπαμπανταϊχάν",
+      "name:fa": "بابادهقان",
+      "name:lt": "Babadaihanas",
+      "name:ru": "Бабадайхан",
+      "name:tk": "Babadaýhan",
+      "name:uk": "Бабадайхан",
+      "alt_name": "Babadaykhan",
+      "name:pnb": "بابا دہقان",
+      "old_name:ru": "Кировск",
+      "old_name:tk:1934-1993": "Kirow"
+    }
+  },
+  {
+    "name": "Babahoyo",
+    "country": "Ecuador",
+    "latitude": -1.8009021998333001,
+    "longitude": -79.5338214,
+    "other_names": {
+      "name": "Babahoyo",
+      "name:en": "Babahoyo",
+      "name:ru": "Бабаойо"
+    }
+  },
+  {
+    "name": "Babanusah",
+    "country": "Sudan",
+    "latitude": 11.33054559952349,
+    "longitude": 27.809580299999997,
+    "other_names": {
+      "name": "بابنوسة",
+      "name:ar": "بابنوسة",
+      "name:en": "Babanusah",
+      "name:fr": "Babanusa",
+      "alt_name": "Babanusah;Babanusa;Babanūsah",
+      "alt_name:ar": "ببنس;ببنوسة"
+    }
+  },
+  {
+    "name": "Babol",
+    "country": "Iran",
+    "latitude": 36.54525809979389,
+    "longitude": 52.684657099999995,
+    "other_names": {
+      "name": "بابل",
+      "name:ar": "بابل",
+      "name:de": "Bābol",
+      "name:en": "Babol",
+      "name:es": "Babol",
+      "name:et": "Bābol",
+      "name:fr": "Babol",
+      "name:hi": "बाबुल",
+      "name:ja": "バーボル",
+      "name:ku": "Babol",
+      "name:ru": "Баболь",
+      "name:mzn": "بابل‎"
+    }
+  },
+  {
+    "name": "Babolsar",
+    "country": "Iran",
+    "latitude": 36.70087769981196,
+    "longitude": 52.64810469999999,
+    "other_names": {
+      "name": "بابلسر",
+      "name:en": "Babolsar",
+      "name:ja": "バーボルサル",
+      "name:ru": "Бабольсер",
+      "name:uk": "Баболь-Сер"
+    }
+  },
+  {
+    "name": "Babra",
+    "country": "India",
+    "latitude": 21.846884843050553,
+    "longitude": 71.30102719662597,
+    "other_names": {
+      "name": "Babra"
+    }
+  },
+  {
+    "name": "Babruysk",
+    "country": "Belarus",
+    "latitude": 53.14496829909366,
+    "longitude": 29.228120900000004,
+    "other_names": {
+      "name": "Бобруйск",
+      "name:be": "Бабруйск",
+      "name:de": "Babrujsk",
+      "name:en": "Babruysk",
+      "name:eo": "Babrujsk",
+      "name:es": "Babruisk",
+      "name:et": "Babruisk",
+      "name:fr": "Babrouïsk",
+      "name:lt": "Babruiskas",
+      "name:nl": "Babroejsk",
+      "name:pl": "Bobrujsk",
+      "name:ru": "Бобруйск",
+      "name:sr": "Бабрујск",
+      "name:uk": "Бабруйськ",
+      "int_name": "Babrujsk",
+      "old_name:uk": "Бобруйськ",
+      "name:sr-Latn": "Bobrujsk",
+      "name:be-tarask": "Бабруйск"
+    }
+  },
+  {
+    "name": "Babu",
+    "country": "China",
+    "latitude": 24.415543500304377,
+    "longitude": 111.54646629999999,
+    "other_names": {
+      "name": "八步区",
+      "name:en": "Babu",
+      "name:vi": "Bát Bộ",
+      "name:zh": "八步区",
+      "alt_name": "八步;Babu",
+      "name:zh-Hant": "八步區",
+      "name:zh_pinyin": "Bābù qū"
+    }
+  },
+  {
+    "name": "Bacabal",
+    "country": "Brazil",
+    "latitude": -4.231813199697347,
+    "longitude": -44.781167,
+    "other_names": {
+      "name": "Bacabal",
+      "name:en": "Bacabal",
+      "name:ru": "Бакабал",
+      "name:uk": "Бакабал"
+    }
+  },
+  {
+    "name": "Bacău",
+    "country": "Romania",
+    "latitude": 46.556049300247906,
+    "longitude": 26.9153557,
+    "other_names": {
+      "name": "Bacău",
+      "name:de": "Barchau",
+      "name:el": "Μπακάου",
+      "name:he": "בקאו",
+      "name:hu": "Bákó",
+      "name:la": "Bacovia",
+      "name:lt": "Bakeu",
+      "name:pl": "Baków",
+      "name:ro": "Bacău",
+      "name:ru": "Бакэу",
+      "name:uk": "Бакеу"
+    }
+  }
+]

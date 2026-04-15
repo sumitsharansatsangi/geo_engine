@@ -1,0 +1,346 @@
+[
+  {
+    "name": "Sohag",
+    "country": "Egypt",
+    "latitude": 26.547748000107084,
+    "longitude": 31.69926299999999,
+    "other_names": {
+      "name": "سوهاج",
+      "name:ar": "سوهاج",
+      "name:de": "Sohag",
+      "name:en": "Sohag",
+      "name:eo": "Saŭhaĝ",
+      "name:es": "Suhag",
+      "name:et": "Sūhāj",
+      "name:eu": "Sohag",
+      "name:fr": "Sohag",
+      "name:hi": "सोहाग",
+      "name:hu": "Szohág",
+      "name:ko": "소하그",
+      "name:lt": "Sohagas",
+      "name:pl": "Sauhadż",
+      "name:ru": "Сохаг",
+      "name:uk": "Согаґ",
+      "alt_name": "سوهاج"
+    }
+  },
+  {
+    "name": "Soja",
+    "country": "Japan",
+    "latitude": 34.67281619963142,
+    "longitude": 133.7466763,
+    "other_names": {
+      "name": "総社市",
+      "name:en": "Soja",
+      "name:eu": "Soja",
+      "name:fr": "Sōja",
+      "name:ja": "総社市",
+      "name:ko": "소자시",
+      "name:pl": "Sōja",
+      "name:ru": "Содзя",
+      "name:sl": "Soja",
+      "name:uk": "Соджя",
+      "name:ja_rm": "Sōja-shi",
+      "name:ja_kana": "そうじゃし"
+    }
+  },
+  {
+    "name": "Soka",
+    "country": "Japan",
+    "latitude": 35.826223299718706,
+    "longitude": 139.8061784,
+    "other_names": {
+      "name": "草加市",
+      "name:ar": "سوكا، سايتاما",
+      "name:de": "Sōka",
+      "name:en": "Soka",
+      "name:es": "Sōka",
+      "name:fr": "Sōka",
+      "name:ja": "草加市",
+      "name:ko": "소카시",
+      "name:pl": "Sōka",
+      "name:ru": "Сока",
+      "name:uk": "Сока",
+      "name:ja-Hira": "そうかし"
+    }
+  },
+  {
+    "name": "Sokcho-si",
+    "country": "South Korea",
+    "latitude": 38.20695740001133,
+    "longitude": 128.59134239999997,
+    "other_names": {
+      "name": "속초시",
+      "name:de": "Sokcho",
+      "name:el": "Σόκτσο",
+      "name:en": "Sokcho-si",
+      "name:es": "Sokcho",
+      "name:fr": "Sokcho",
+      "name:ja": "束草市",
+      "name:ko": "속초시",
+      "name:ru": "Сокчхо",
+      "name:uk": "Сокчхо",
+      "name:vi": "Sokcho",
+      "name:zh": "束草市",
+      "int_name": "Sokcho",
+      "alt_name:vi": "Thúc Thảo",
+      "name:ko-Hani": "束草市",
+      "name:ko-Latn": "Sokcho-si"
+    }
+  },
+  {
+    "name": "Sokhumi",
+    "country": "Georgia",
+    "latitude": 43.00336290053663,
+    "longitude": 41.0192741,
+    "other_names": {
+      "name": "Аҟəа - Сухум",
+      "name:ab": "Аҟəа",
+      "name:az": "Suxumi",
+      "name:ca": "Sukhumi",
+      "name:cs": "Suchumi",
+      "name:de": "Suchumi",
+      "name:el": "Σουχούμι",
+      "name:en": "Sokhumi",
+      "name:es": "Sujumi",
+      "name:fr": "Soukhoumi",
+      "name:hi": "सोखुमी",
+      "name:it": "Suchumi",
+      "name:ka": "სოხუმი",
+      "name:ko": "수후미",
+      "name:ml": "സോക്കുമി",
+      "name:nl": "Soechoemi",
+      "name:os": "Сухум",
+      "name:ru": "Сухум",
+      "name:tr": "Sohum",
+      "name:uk": "Сухумі",
+      "int_name": "Sokhumi",
+      "name:kbd": "Согъум",
+      "alt_name:en": "Sukhumi",
+      "old_name:de": "Sochumi",
+      "old_name:ka": "ცხუმი",
+      "old_name:ru": "Сухуми",
+      "old_name:tr": "Sohumkale"
+    }
+  },
+  {
+    "name": "Sokodé",
+    "country": "Togo",
+    "latitude": 8.983319399401013,
+    "longitude": 1.1438148999999997,
+    "other_names": {
+      "name": "Sokodé",
+      "name:ar": "سوكودي",
+      "name:ko": "소코데",
+      "name:ru": "Сокоде",
+      "name:uk": "Сокоде"
+    }
+  },
+  {
+    "name": "Sokoto",
+    "country": "Nigeria",
+    "latitude": 13.06105879968571,
+    "longitude": 5.2373194,
+    "other_names": {
+      "name": "Sokoto",
+      "name:ar": "صكتو",
+      "name:ko": "소코토",
+      "name:ru": "Сокото",
+      "name:uk": "Сокото"
+    }
+  },
+  {
+    "name": "Solapur",
+    "country": "India",
+    "latitude": 17.67152720020328,
+    "longitude": 75.8975502,
+    "other_names": {
+      "name": "Solapur",
+      "name:ar": "شولابور",
+      "name:en": "Solapur",
+      "name:hi": "सोलापुर",
+      "name:ja": "ソーラープル",
+      "name:kn": "ಸೊಲ್ಲಾಪುರ",
+      "name:mr": "सोलापूर",
+      "name:pa": "ਸੋਲਾਪੁਰ",
+      "name:ru": "Солапур",
+      "name:ta": "சோலாப்பூர்",
+      "name:te": "షోలాపూర్",
+      "name:uk": "Солапур",
+      "name:ur": "شولاپور",
+      "alt_name:ar": "سولابور"
+    }
+  },
+  {
+    "name": "Soledad",
+    "country": "United States Of America",
+    "latitude": 36.43018857776858,
+    "longitude": -121.32145798772983,
+    "other_names": {
+      "name": "Soledad",
+      "name:oc": "Soledad"
+    }
+  },
+  {
+    "name": "Solikamsk",
+    "country": "Russia",
+    "latitude": 59.64943700151745,
+    "longitude": 56.779594,
+    "other_names": {
+      "name": "Соликамск",
+      "name:ar": "سولكامسك",
+      "name:de": "Solikamsk",
+      "name:en": "Solikamsk",
+      "name:es": "Solikamsk",
+      "name:et": "Solikamsk",
+      "name:fr": "Solikamsk",
+      "name:ja": "ソリカムスク",
+      "name:ko": "솔리캄스크",
+      "name:lt": "Solikamskas",
+      "name:pl": "Solikamsk",
+      "name:ru": "Соликамск",
+      "name:uk": "Соликамск",
+      "int_name": "Solikamsk"
+    }
+  },
+  {
+    "name": "Solikamsk",
+    "country": "Russia",
+    "latitude": 59.642495853005315,
+    "longitude": 56.737318737438514,
+    "other_names": {
+      "name": "Соликамск",
+      "name:de": "Solikamsk",
+      "name:en": "Solikamsk",
+      "name:ja": "ソリカムスク",
+      "name:ru": "Соликамск",
+      "name:uk": "Соликамск",
+      "int_name": "Solikamsk"
+    }
+  },
+  {
+    "name": "Solingen",
+    "country": "Germany",
+    "latitude": 51.17124679922088,
+    "longitude": 7.083899599999999,
+    "other_names": {
+      "name": "Solingen",
+      "name:ar": "زولينغن",
+      "name:ja": "ゾーリンゲン",
+      "name:la": "Salingiacum",
+      "name:ru": "Золинген",
+      "name:sr": "Золинген"
+    }
+  },
+  {
+    "name": "Sol Nascente/Pôr do Sol",
+    "country": "Brazil",
+    "latitude": -15.826112700428581,
+    "longitude": -48.137289,
+    "other_names": {
+      "name": "Sol Nascente/Pôr do Sol",
+      "alt_name": "RA XXXII",
+      "loc_name": "RA 32",
+      "reg_name": "Região Administrativa Trinta e Dois"
+    }
+  },
+  {
+    "name": "Solok",
+    "country": "Indonesia",
+    "latitude": -0.7922163999217156,
+    "longitude": 100.65733159999999,
+    "other_names": {
+      "name": "Solok",
+      "name:ja": "ソロク"
+    }
+  },
+  {
+    "name": "Soma",
+    "country": "Japan",
+    "latitude": 37.796657899953594,
+    "longitude": 140.9195032,
+    "other_names": {
+      "name": "相馬市",
+      "name:ar": "سوما، فوكوشيما",
+      "name:de": "Sōma",
+      "name:en": "Soma",
+      "name:es": "Sōma",
+      "name:fr": "Sōma",
+      "name:ja": "相馬市",
+      "name:ko": "소마시",
+      "name:pl": "Sōma",
+      "name:ru": "Сома",
+      "name:uk": "Сома",
+      "name:ja_rm": "Sōma-shi",
+      "name:ja_kana": "そうまし"
+    }
+  },
+  {
+    "name": "Sombor",
+    "country": "Serbia",
+    "latitude": 45.77273970037628,
+    "longitude": 19.114703599999995,
+    "other_names": {
+      "name": "Сомбор",
+      "name:en": "Sombor",
+      "name:hu": "Zombor",
+      "name:ru": "Сомбор",
+      "name:sr": "Сомбор",
+      "name:sr-Latn": "Sombor"
+    }
+  },
+  {
+    "name": "Somoto",
+    "country": "Nicaragua",
+    "latitude": 13.483709599731709,
+    "longitude": -86.5826225,
+    "other_names": {
+      "name": "Somoto",
+      "alt_name": "Somoto Grande; Villa de Santiago de los Caballeros de Somoto Grande",
+      "old_name": "Tépecxomotl"
+    }
+  },
+  {
+    "name": "Song",
+    "country": "China",
+    "latitude": 34.12898549960616,
+    "longitude": 112.0782208,
+    "other_names": {
+      "name": "嵩县",
+      "name:en": "Song",
+      "name:ja": "嵩県",
+      "name:ru": "Сунсянь",
+      "name:vi": "Tung",
+      "name:zh": "嵩县",
+      "alt_name": "嵩;Songxian;Song County",
+      "name:zh-Hant": "嵩縣",
+      "name:zh_pinyin": "Song Xian"
+    }
+  },
+  {
+    "name": "Songbei",
+    "country": "China",
+    "latitude": 45.808461300371164,
+    "longitude": 126.5580365,
+    "other_names": {
+      "name": "松北区",
+      "name:en": "Songbei",
+      "name:zh": "松北区",
+      "name:zh-Hant": "松北區"
+    }
+  },
+  {
+    "name": "Songea",
+    "country": "Tanzania",
+    "latitude": -10.678728199979743,
+    "longitude": 35.6483576,
+    "other_names": {
+      "name": "Songea",
+      "name:en": "Songea",
+      "name:ko": "송게아",
+      "name:lt": "Songea",
+      "name:ru": "Сонгеа",
+      "name:uk": "Сонгеа"
+    }
+  }
+]

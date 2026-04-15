@@ -1,0 +1,360 @@
+[
+  {
+    "name": "Jaunpur",
+    "country": "India",
+    "latitude": 25.747200000189405,
+    "longitude": 82.689,
+    "other_names": {
+      "name": "Jaunpur",
+      "name:fr": "Jawnpur",
+      "name:hi": "जौनपुर",
+      "name:ja": "ジャウンプル",
+      "name:kn": "ಜೌನಪುರ",
+      "name:pa": "ਜੌਨਪੁਰ"
+    }
+  },
+  {
+    "name": "Jawa Bazar",
+    "country": "Bangladesh",
+    "latitude": 24.9265978896371,
+    "longitude": 91.54906010098163,
+    "other_names": {
+      "name": "Jawa Bazar"
+    }
+  },
+  {
+    "name": "Jaworzno",
+    "country": "Poland",
+    "latitude": 50.20343899940693,
+    "longitude": 19.2721559,
+    "other_names": {
+      "name": "Jaworzno",
+      "name:ar": "يافورجنو",
+      "name:be": "Явожна",
+      "name:bg": "Явожно",
+      "name:de": "Arnshalde",
+      "name:fa": "یاووژنو",
+      "name:ja": "ヤヴォジュノ",
+      "name:ko": "야보주노",
+      "name:lt": "Javožnas",
+      "name:lv": "Javožno",
+      "name:mk": "Јавожно",
+      "name:pl": "Jaworzno",
+      "name:ru": "Явожно",
+      "name:sr": "Јавожно",
+      "name:uk": "Явожно",
+      "name:zh": "亚沃日诺"
+    }
+  },
+  {
+    "name": "Jayapura",
+    "country": "Indonesia",
+    "latitude": -2.5387538997791617,
+    "longitude": 140.7037389,
+    "other_names": {
+      "name": "Jayapura",
+      "name:en": "Jayapura",
+      "name:eo": "Ĝajpuro",
+      "name:hi": "जयपुर",
+      "name:ja": "ジャヤプラ",
+      "name:kn": "ಜಯಪುರ",
+      "name:ru": "Джаяпура",
+      "name:uk": "Джаяпура",
+      "name:zh": "查雅普拉",
+      "alt_name": "Port Numbay",
+      "old_name": "Hollandia",
+      "old_name:id": "Kota Baru, Sukarnapura",
+      "old_name:nl": "Hollandia"
+    }
+  },
+  {
+    "name": "Jaynagar Majilpur",
+    "country": "India",
+    "latitude": 22.174488500406106,
+    "longitude": 88.41835689999999,
+    "other_names": {
+      "name": "Jaynagar Majilpur",
+      "name:bn": "জয়নগর মজিলপুর",
+      "name:hi": "जयनगर मजिलपुर"
+    }
+  },
+  {
+    "name": "Jecheon-si",
+    "country": "South Korea",
+    "latitude": 37.13260419986504,
+    "longitude": 128.1913508,
+    "other_names": {
+      "name": "제천시",
+      "name:de": "Jecheon",
+      "name:en": "Jecheon-si",
+      "name:es": "Jecheon",
+      "name:et": "Jecheon",
+      "name:fr": "Jecheon",
+      "name:ja": "堤川市",
+      "name:ko": "제천시",
+      "name:lt": "Čečonas",
+      "name:zh": "堤川市",
+      "int_name": "Jecheon",
+      "name:ko-Hani": "堤川市",
+      "name:ko-Latn": "Jecheon-si"
+    }
+  },
+  {
+    "name": "Jefferson City",
+    "country": "United States Of America",
+    "latitude": 38.57735900006462,
+    "longitude": -92.1724265,
+    "other_names": {
+      "name": "Jefferson City",
+      "name:en": "Jefferson City",
+      "name:pl": "Jefferson City",
+      "name:ru": "Джефферсон-Сити",
+      "name:ta": "ஜெஃபர்சன் நகரம்",
+      "name:uk": "Джефферсон-Сіті"
+    }
+  },
+  {
+    "name": "Jefferson City",
+    "country": "United States Of America",
+    "latitude": 36.122310999747924,
+    "longitude": -83.4923961,
+    "other_names": {
+      "name": "Jefferson City"
+    }
+  },
+  {
+    "name": "Jehanabad",
+    "country": "India",
+    "latitude": 25.21133840023956,
+    "longitude": 84.9873701,
+    "other_names": {
+      "name": "Jehanabad",
+      "name:bn": "জেহানাবাদ",
+      "name:hi": "जहानाबाद"
+    }
+  },
+  {
+    "name": "Jehanabad",
+    "country": "India",
+    "latitude": 25.214827039629142,
+    "longitude": 84.98957432476348,
+    "other_names": {
+      "name": "Jehanabad",
+      "name:bn": "জেহানাবাদ",
+      "name:hi": "जहानाबाद",
+      "name:pa": "ਜਹਾਨਾਬਾਦ",
+      "name:ta": "ஜஹானாபாத்"
+    }
+  },
+  {
+    "name": "Jeju-si",
+    "country": "South Korea",
+    "latitude": 33.49305659959008,
+    "longitude": 126.5130589,
+    "other_names": {
+      "name": "제주시",
+      "name:ar": "جيجو",
+      "name:cs": "Čedžu",
+      "name:de": "Jeju",
+      "name:el": "Τζέτζου",
+      "name:en": "Jeju-si",
+      "name:es": "Jeju",
+      "name:et": "Jeju",
+      "name:fr": "Jeju",
+      "name:ja": "済州市",
+      "name:ko": "제주시",
+      "name:ru": "Чеджу",
+      "name:zh": "济州市",
+      "int_name": "Jeju",
+      "name:ko-Hani": "濟州市",
+      "name:ko-Latn": "Jejusi",
+      "name:zh-Hant": "濟州市"
+    }
+  },
+  {
+    "name": "Jēkabpils",
+    "country": "Latvia",
+    "latitude": 56.49586380001108,
+    "longitude": 25.8687747,
+    "other_names": {
+      "name": "Jēkabpils",
+      "name:be": "Якубава",
+      "name:de": "Jakobstadt",
+      "name:he": "יקבפילס",
+      "name:hu": "Jēkabpils",
+      "name:lt": "Jekabpilis",
+      "name:pl": "Jakubowo",
+      "name:ru": "Екабпилс",
+      "name:ltg": "Jākubmīsts",
+      "alt_name:be": "Екабпілс",
+      "old_name:pl": "Jakubów"
+    }
+  },
+  {
+    "name": "Jelenia Góra",
+    "country": "Poland",
+    "latitude": 50.90310279926653,
+    "longitude": 15.734430599999996,
+    "other_names": {
+      "name": "Jelenia Góra",
+      "name:be": "Яленя Гура",
+      "name:cs": "Jelení Hora",
+      "name:de": "Hirschberg",
+      "name:ja": "イェレニャ・グラ",
+      "name:lt": "Jelenia Gura",
+      "name:mk": "Јелења Гура",
+      "name:pl": "Jelenia Góra",
+      "name:ru": "Еленя-Гура",
+      "name:uk": "Єленя-Ґура",
+      "name:szl": "Jelyńo Gůra",
+      "old_name:cs": "Hornšperk",
+      "old_name:de": "Hirschberg;Hirschberg im Riesengebirge"
+    }
+  },
+  {
+    "name": "Jelgava",
+    "country": "Latvia",
+    "latitude": 56.651439400085465,
+    "longitude": 23.7339143,
+    "other_names": {
+      "name": "Jelgava",
+      "name:be": "Елгава",
+      "name:de": "Mitau",
+      "name:fi": "Jelgava",
+      "name:hu": "Jelgava",
+      "name:lt": "Jelgava",
+      "name:pl": "Jełgawa",
+      "name:ru": "Елгава",
+      "name:uk": "Єлгава",
+      "old_name:pl": "Mitawa"
+    }
+  },
+  {
+    "name": "Jeminay",
+    "country": "China",
+    "latitude": 47.44139710006676,
+    "longitude": 85.87149569999998,
+    "other_names": {
+      "name": "吉木乃县",
+      "name:de": "Jeminay",
+      "name:en": "Jeminay",
+      "name:es": "Jeminay",
+      "name:fr": "Jeminay",
+      "name:kk": "Топтерек",
+      "name:ru": "Топтерек",
+      "name:zh": "吉木乃县",
+      "alt_name": "吉木乃县;托普铁热克;Topterek",
+      "name:zh-Hant": "吉木乃縣",
+      "name:zh_pinyin": "tuōpǔtiěrèkè zhèn"
+    }
+  },
+  {
+    "name": "Jena",
+    "country": "Germany",
+    "latitude": 50.92817169926207,
+    "longitude": 11.587935899999998,
+    "other_names": {
+      "name": "Jena",
+      "name:ar": "يينا",
+      "name:de": "Jena",
+      "name:el": "Ιένα",
+      "name:en": "Jena",
+      "name:fa": "یینا",
+      "name:fr": "Iéna",
+      "name:ja": "イェーナ",
+      "name:lt": "Jėna",
+      "name:ru": "Йена",
+      "name:sr": "Јена",
+      "name:ur": "یئنا",
+      "name:zh": "耶拿",
+      "name:azb": "یینا",
+      "name:kmr": "ژەنا",
+      "name:az-Arab": "یینا",
+      "name:ku-Arab": "ژەنا"
+    }
+  },
+  {
+    "name": "Jenin",
+    "country": "Israel And Palestine",
+    "latitude": 32.46188369959473,
+    "longitude": 35.297566,
+    "other_names": {
+      "name": "جنين",
+      "name:ar": "جنين",
+      "name:en": "Jenin",
+      "name:es": "Yenín",
+      "name:fa": "جنین",
+      "name:fi": "Jenin",
+      "name:fr": "Jénine",
+      "name:he": "ג'נין‎",
+      "name:hi": "जनीन",
+      "name:ks": "جنین",
+      "name:ku": "Cenîn",
+      "name:ru": "Дженин",
+      "name:ur": "جنین",
+      "name:zh": "杰寧",
+      "name:azb": "جنین",
+      "name:ota": "جنین",
+      "name:pnb": "جنین",
+      "official_name": "مدينة جنين",
+      "official_name:ar": "مدينة جنين"
+    }
+  },
+  {
+    "name": "Jeongeup-si",
+    "country": "South Korea",
+    "latitude": 35.56976779969555,
+    "longitude": 126.85597870000001,
+    "other_names": {
+      "name": "정읍시",
+      "name:de": "Jeongeup",
+      "name:en": "Jeongeup-si",
+      "name:es": "Jeongeup",
+      "name:et": "Jeongeup",
+      "name:fr": "Jeongeup",
+      "name:ja": "井邑市",
+      "name:ko": "정읍시",
+      "name:zh": "井邑市",
+      "int_name": "Jeongeup",
+      "name:ja_kana": "ちょんうぷ",
+      "name:ko-Hani": "井邑市",
+      "name:ko-Latn": "Jeongeup-si"
+    }
+  },
+  {
+    "name": "Jeonju",
+    "country": "South Korea",
+    "latitude": 35.82427149971852,
+    "longitude": 127.1480657,
+    "other_names": {
+      "name": "전주시",
+      "name:cs": "Čendžu",
+      "name:de": "Jeonju",
+      "name:el": "Τζόντζου",
+      "name:en": "Jeonju",
+      "name:es": "Jeonju",
+      "name:et": "Jeonju",
+      "name:fi": "Jeonju",
+      "name:fr": "Jeonju",
+      "name:ja": "全州市",
+      "name:kn": "ಜಿಯೊಂಜು",
+      "name:ko": "전주시",
+      "name:lt": "Džondžu",
+      "name:ru": "Чонджу",
+      "name:uk": "Чонджу",
+      "name:zh": "全州市",
+      "int_name": "Jeonju",
+      "name:ko-Hani": "全州市"
+    }
+  },
+  {
+    "name": "Jequié",
+    "country": "Brazil",
+    "latitude": -13.860403300290766,
+    "longitude": -40.07196269999999,
+    "other_names": {
+      "name": "Jequié",
+      "name:ru": "Жекие"
+    }
+  }
+]

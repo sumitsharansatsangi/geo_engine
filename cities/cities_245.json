@@ -1,0 +1,307 @@
+[
+  {
+    "name": "Kot Addu",
+    "country": "Pakistan",
+    "latitude": 30.469260199700024,
+    "longitude": 70.9678776,
+    "other_names": {
+      "name": "کوٹ ادو",
+      "name:en": "Kot Addu",
+      "name:ja": "コット・アドゥ",
+      "name:ru": "Котадду"
+    }
+  },
+  {
+    "name": "Kota Kinabalu",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 5.978006599445978,
+    "longitude": 116.0728988,
+    "other_names": {
+      "name": "Kota Kinabalu",
+      "name:en": "Kota Kinabalu",
+      "name:ja": "コタキナバル",
+      "name:kn": "ಕೊತ ಕಿನಾಬಲು",
+      "name:ko": "코타키나발루（야비）",
+      "name:ms": "Kota Kinabalu",
+      "name:ru": "Кота-Кинабалу",
+      "name:ta": "கோத்தா கினபாலு",
+      "name:th": "โกตากีนาบาลู",
+      "name:tr": "Kota Kinabalu",
+      "name:uk": "Кота-Кінабалу",
+      "name:vi": "Kota Kinabalu",
+      "name:zh": "亚庇",
+      "old_name": "Jesselton"
+    }
+  },
+  {
+    "name": "Kotamobagu",
+    "country": "Indonesia",
+    "latitude": 0.7352230999228678,
+    "longitude": 124.31540569999999,
+    "other_names": {
+      "name": "Kotamobagu",
+      "name:zh": "哥打莫巴谷"
+    }
+  },
+  {
+    "name": "Kota Samarahan",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 1.4676515998440085,
+    "longitude": 110.48224929999999,
+    "other_names": {
+      "name": "Kota Samarahan",
+      "name:zh": "哥打三马拉汉"
+    }
+  },
+  {
+    "name": "Kot Diji",
+    "country": "Pakistan",
+    "latitude": 27.34183243037645,
+    "longitude": 68.70945157643088,
+    "other_names": {
+      "name": "Kot Diji"
+    }
+  },
+  {
+    "name": "Kotka",
+    "country": "Finland",
+    "latitude": 60.467422801716744,
+    "longitude": 26.9450844,
+    "other_names": {
+      "name": "Kotka",
+      "name:fi": "Kotka",
+      "name:lt": "Kotka",
+      "name:ru": "Котка",
+      "name:sr": "Котка"
+    }
+  },
+  {
+    "name": "Koto",
+    "country": "Japan",
+    "latitude": 35.6491539997025,
+    "longitude": 139.81279,
+    "other_names": {
+      "name": "江東区",
+      "name:ar": "كوتو، طوكيو",
+      "name:de": "Kōtō",
+      "name:en": "Koto",
+      "name:es": "Kōtō",
+      "name:fr": "Kōtō",
+      "name:it": "Koto",
+      "name:ja": "江東区",
+      "name:ko": "고토구",
+      "name:lt": "Kotas",
+      "name:pl": "Kōtō",
+      "name:ru": "Кото",
+      "name:uk": "Кото",
+      "name:zh": "江东区",
+      "int_name": "Kōtō",
+      "name:ja-Hira": "こうとうく",
+      "name:ja-Latn": "Kōtō-ku",
+      "name:zh-Hans": "江东区",
+      "name:zh-Hant": "江東區"
+    }
+  },
+  {
+    "name": "Kotri",
+    "country": "Pakistan",
+    "latitude": 25.36353250022579,
+    "longitude": 68.30688959999999,
+    "other_names": {
+      "name": "کوٹری‎",
+      "name:en": "Kotri"
+    }
+  },
+  {
+    "name": "Kouandé",
+    "country": "Benin",
+    "latitude": 10.332179399455592,
+    "longitude": 1.6919847,
+    "other_names": {
+      "name": "Kouandé",
+      "name:ar": "كواندي"
+    }
+  },
+  {
+    "name": "Koukou Angarana",
+    "country": "Chad",
+    "latitude": 12.00280819958064,
+    "longitude": 21.661033499999995,
+    "other_names": {
+      "name": "Koukou Angarana كوكو أنغرانا",
+      "name:ar": "كوكو أنغرانا",
+      "name:en": "Koukou Angarana",
+      "name:fr": "Koukou Angarana",
+      "alt_name": "Angarana;Koukou Angarana"
+    }
+  },
+  {
+    "name": "Koulé",
+    "country": "Guinea",
+    "latitude": 8.046127599390356,
+    "longitude": -9.053070199999999,
+    "other_names": {
+      "name": "Koulé"
+    }
+  },
+  {
+    "name": "Koumassi",
+    "country": "Ivory Coast",
+    "latitude": 5.2922645994865345,
+    "longitude": -3.9593125999999996,
+    "other_names": {
+      "name": "Koumassi"
+    }
+  },
+  {
+    "name": "Koumra",
+    "country": "Chad",
+    "latitude": 8.918908099399554,
+    "longitude": 17.5478111,
+    "other_names": {
+      "name": "Koumra قمرة",
+      "name:ar": "قمرة",
+      "name:de": "Koumra",
+      "name:en": "Koumra",
+      "name:es": "Koumra",
+      "name:fa": "کومرا",
+      "name:fr": "Koumra",
+      "name:ru": "Кумра",
+      "name:uk": "Кумра",
+      "name:ur": "کؤمرا",
+      "alt_name": "Koumbra;Koumra",
+      "name:azb": "کومرا"
+    }
+  },
+  {
+    "name": "Kousséri",
+    "country": "Cameroon",
+    "latitude": 12.075563799587316,
+    "longitude": 15.024619399999999,
+    "other_names": {
+      "name": "Kousséri",
+      "name:ar": "القصور",
+      "int_name": "Kousseri",
+      "alt_name:ar": "كوسيري;قصور"
+    }
+  },
+  {
+    "name": "Kousséri",
+    "country": "Chad",
+    "latitude": 12.075563799587316,
+    "longitude": 15.024619399999999,
+    "other_names": {
+      "name": "Kousséri",
+      "name:ar": "القصور",
+      "int_name": "Kousseri",
+      "alt_name:ar": "كوسيري;قصور"
+    }
+  },
+  {
+    "name": "Koutiala",
+    "country": "Mali",
+    "latitude": 12.386950099616861,
+    "longitude": -5.4600937,
+    "other_names": {
+      "name": "Koutiala",
+      "name:ar": "كوتيالا",
+      "name:ru": "Кутиала"
+    }
+  },
+  {
+    "name": "Kouvola",
+    "country": "Finland",
+    "latitude": 60.87019960174992,
+    "longitude": 26.701804199999998,
+    "other_names": {
+      "name": "Kouvola",
+      "name:fi": "Kouvola",
+      "name:lt": "Kouvola",
+      "name:ru": "Коувола"
+    }
+  },
+  {
+    "name": "Kovrov",
+    "country": "Russia",
+    "latitude": 56.37460299995448,
+    "longitude": 41.311676,
+    "other_names": {
+      "name": "Ковров",
+      "name:be": "Каўроў",
+      "name:de": "Kowrow",
+      "name:en": "Kovrov",
+      "name:et": "Kovrov",
+      "name:fr": "Kovrov",
+      "name:ko": "코브로프",
+      "name:lt": "Kovrovas",
+      "name:pl": "Kowrow",
+      "name:ru": "Ковров",
+      "name:sr": "Ковров",
+      "name:uk": "Килимів",
+      "int_name": "Kovrov"
+    }
+  },
+  {
+    "name": "Kovrov",
+    "country": "Russia",
+    "latitude": 56.35766631176864,
+    "longitude": 41.316892972824704,
+    "other_names": {
+      "name": "Ковров",
+      "name:de": "Kowrow",
+      "name:en": "Kovrov"
+    }
+  },
+  {
+    "name": "Kowloon",
+    "country": "China",
+    "latitude": 22.31164520040376,
+    "longitude": 114.1767885,
+    "other_names": {
+      "name": "九龍 Kowloon",
+      "name:ar": "كولون",
+      "name:az": "Koulun",
+      "name:ca": "Kowloon",
+      "name:cs": "Kau-lung",
+      "name:da": "Kowloon",
+      "name:de": "Kowloon",
+      "name:en": "Kowloon",
+      "name:eo": "Kaŭluno",
+      "name:es": "Kowloon",
+      "name:et": "Kowloon",
+      "name:eu": "Kowloon",
+      "name:fa": "کاولون",
+      "name:fi": "Kowloon",
+      "name:fr": "Kowloon",
+      "name:he": "קאולון",
+      "name:hi": "कवुलुन",
+      "name:hu": "Kaulung",
+      "name:id": "Kowloon",
+      "name:it": "Kowloon",
+      "name:ja": "九龍",
+      "name:ka": "კოულუნი",
+      "name:ko": "가우룽",
+      "name:ky": "Цзюлун",
+      "name:lt": "Kaulunas",
+      "name:ms": "Kowloon",
+      "name:nl": "Kowloon",
+      "name:nn": "Kowloon",
+      "name:no": "Kowloon",
+      "name:pl": "Koulun",
+      "name:pt": "Kowloon",
+      "name:ro": "Kowloon",
+      "name:ru": "Цзюлун",
+      "name:sr": "Каулун",
+      "name:sv": "Kowloon",
+      "name:ta": "கவுலூன்",
+      "name:th": "เกาลูน",
+      "name:tr": "Kowloon",
+      "name:uk": "Коулун",
+      "name:ur": "کولون",
+      "name:vi": "Cửu Long",
+      "name:zh": "九龍",
+      "name:zh-Hans": "九龙",
+      "name:zh-Hant": "九龍"
+    }
+  }
+]

@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Pingchuan",
+    "country": "China",
+    "latitude": 36.72526469981485,
+    "longitude": 104.8171978,
+    "other_names": {
+      "name": "平川区",
+      "name:en": "Pingchuan",
+      "name:ja": "平川区",
+      "name:vi": "Bình Xuyên",
+      "name:zh": "平川区",
+      "alt_name": "平川区;Pingchuan District",
+      "name:zh-Hant": "平川區",
+      "name:zh_pinyin": "píngchuān qū"
+    }
+  },
+  {
+    "name": "Pingding County",
+    "country": "China",
+    "latitude": 37.803010999954466,
+    "longitude": 113.62468940000001,
+    "other_names": {
+      "name": "平定县",
+      "name:de": "Pingding",
+      "name:en": "Pingding County",
+      "name:es": "Pingding",
+      "name:fa": "شهرستان پینگدینگ",
+      "name:fr": "Xian de Pingding",
+      "name:it": "Contea di Pingding",
+      "name:ja": "平定県",
+      "name:ko": "핑딩현",
+      "name:no": "Pingding",
+      "name:ru": "Пиндин",
+      "name:sv": "Pingding",
+      "name:ur": "پینگدینگ کاؤنٹی",
+      "name:vi": "Bình Định, Dương Tuyền",
+      "name:zh": "平定县",
+      "alt_name": "平定;P'ing-ting-hsien-ch'eng;Pingding Xian;P'ing-ting-hsien;P'ing-ting;Pindin;Piutingchow",
+      "int_name": "Pingding",
+      "name:nan": "Pêng-tēng-koān",
+      "name:yue": "平定縣",
+      "name:zh-Hant": "平定縣",
+      "name:zh_pinyin": "Píngdìng Xiàn"
+    }
+  },
+  {
+    "name": "Pingdingshan",
+    "country": "China",
+    "latitude": 33.73747439959453,
+    "longitude": 113.2981436,
+    "other_names": {
+      "name": "平顶山市",
+      "name:de": "Pingdingshan",
+      "name:en": "Pingdingshan",
+      "name:eo": "Pingdingŝano",
+      "name:et": "Pingdingshan",
+      "name:fr": "Pingdingshan",
+      "name:ja": "平頂山市",
+      "name:ru": "Пиндишань",
+      "name:vi": "Bình Đỉnh Sơn",
+      "name:zh": "平顶山市",
+      "name:zh-Hant": "平頂山市",
+      "name:zh_pinyin": "Píngdǐngshān Shì"
+    }
+  },
+  {
+    "name": "Pingdu",
+    "country": "China",
+    "latitude": 36.784297399821895,
+    "longitude": 119.9493639,
+    "other_names": {
+      "name": "平度市",
+      "name:de": "Pingdu",
+      "name:en": "Pingdu",
+      "name:fr": "Pingdu",
+      "name:ja": "平度市",
+      "name:ru": "Пинду",
+      "name:vi": "Bình Độ",
+      "name:zh": "平度市",
+      "int_name": "Píngdù",
+      "name:zh-Hant": "平度市",
+      "name:zh_pinyin": "Píngdù Shì"
+    }
+  },
+  {
+    "name": "Pingfang",
+    "country": "China",
+    "latitude": 45.597224600400324,
+    "longitude": 126.63356749999998,
+    "other_names": {
+      "name": "平房区",
+      "name:en": "Pingfang",
+      "name:zh": "平房区",
+      "name:zh-Hant": "平房區"
+    }
+  },
+  {
+    "name": "Pinggu",
+    "country": "China",
+    "latitude": 40.139043300285984,
+    "longitude": 117.11469530000001,
+    "other_names": {
+      "name": "平谷区",
+      "name:en": "Pinggu",
+      "name:ja": "平谷区",
+      "name:vi": "Bình Cốc",
+      "name:zh": "平谷区",
+      "name:zh-Hant": "平谷區",
+      "name:zh_pinyin": "Pínggǔ qū"
+    }
+  },
+  {
+    "name": "Pinggui",
+    "country": "China",
+    "latitude": 24.458595900301212,
+    "longitude": 111.47428569999998,
+    "other_names": {
+      "name": "平桂区",
+      "name:en": "Pinggui",
+      "name:zh": "平桂区",
+      "alt_name": "平桂;Pinggui District",
+      "name:zh-Hant": "平桂區"
+    }
+  },
+  {
+    "name": "Pingguo",
+    "country": "China",
+    "latitude": 23.33240010036987,
+    "longitude": 107.5859958,
+    "other_names": {
+      "name": "平果市",
+      "name:en": "Pingguo",
+      "name:vi": "Bình Quả",
+      "name:zh": "平果市",
+      "alt_name": "平果;Pingguo City",
+      "old_name": "平果县",
+      "name:zh-Hant": "平果市",
+      "name:zh_pinyin": "Pingguo Shi"
+    }
+  },
+  {
+    "name": "Pinghe",
+    "country": "China",
+    "latitude": 24.36597980030798,
+    "longitude": 117.30950110000002,
+    "other_names": {
+      "name": "平和县",
+      "name:de": "Pinghe",
+      "name:en": "Pinghe",
+      "name:fr": "Pinghe",
+      "name:it": "Pinghe",
+      "name:ja": "平和県",
+      "name:ko": "핑허현",
+      "name:vi": "Bình Hòa",
+      "name:zh": "平和县",
+      "alt_name": "平和;Pinghe County",
+      "name:cdo": "Bìng-huò",
+      "name:hak": "Phìn-fò-yen",
+      "name:nan": "Pêng-hô-koān",
+      "name:yue": "平和",
+      "alt_name:vi": "Bình Hoà",
+      "name:zh-Hant": "平和縣",
+      "name:zh_pinyin": "Pinghe Xian"
+    }
+  },
+  {
+    "name": "Pinghu",
+    "country": "China",
+    "latitude": 30.67824019968389,
+    "longitude": 121.0116196,
+    "other_names": {
+      "name": "平湖市",
+      "name:ar": "بنغهو",
+      "name:de": "Pinghu",
+      "name:en": "Pinghu",
+      "name:fr": "Pinghu",
+      "name:it": "Pinghu",
+      "name:ja": "平湖市",
+      "name:ki": "Pinghu",
+      "name:ko": "핑후시",
+      "name:mg": "Pinghu",
+      "name:no": "Pinghu",
+      "name:ru": "Пинху",
+      "name:sv": "Pinghu",
+      "name:tl": "Pinghu",
+      "name:ur": "پنگہو",
+      "name:vi": "Bình Hồ",
+      "name:zh": "平湖市",
+      "name:ceb": "Pinghu Shi",
+      "name:nan": "Pêng-ô͘-chhī",
+      "name:war": "Pinghu",
+      "name:wuu": "平湖市",
+      "name:yue": "平湖",
+      "name:zh-Hant": "平湖市",
+      "name:zh_pinyin": "Pínghú Shì"
+    }
+  },
+  {
+    "name": "Pingjiang",
+    "country": "China",
+    "latitude": 28.70528479986872,
+    "longitude": 113.57595969999998,
+    "other_names": {
+      "name": "平江县",
+      "name:de": "Pingjiang",
+      "name:en": "Pingjiang",
+      "name:fa": "شهرستان پینگجیانگ",
+      "name:fr": "Xian de Pingjiang",
+      "name:it": "Contea di Pingjiang",
+      "name:ja": "平江県",
+      "name:ko": "핑장현",
+      "name:no": "Pingjiang",
+      "name:ru": "Пинцзян",
+      "name:sv": "Pingjiang",
+      "name:vi": "Bình Giang",
+      "name:zh": "平江县",
+      "alt_name": "平江;Pingjiang County",
+      "name:ceb": "Pingjiang Xian",
+      "name:gan": "平江",
+      "name:nan": "Pêng-kang-koān",
+      "name:yue": "平江",
+      "name:zh-Hant": "平江縣",
+      "name:zh_pinyin": "píngjiāng xiàn"
+    }
+  },
+  {
+    "name": "Pingle",
+    "country": "China",
+    "latitude": 24.63635210028768,
+    "longitude": 110.63866979999999,
+    "other_names": {
+      "name": "平乐县",
+      "name:en": "Pingle",
+      "name:vi": "Bình Lạc",
+      "name:zh": "平乐县",
+      "alt_name": "平乐;Pingle County",
+      "name:zh-Hant": "平樂縣",
+      "name:zh_pinyin": "Pingle Xian"
+    }
+  },
+  {
+    "name": "Pingli",
+    "country": "China",
+    "latitude": 32.39343419959634,
+    "longitude": 109.35317289999999,
+    "other_names": {
+      "name": "平利县",
+      "name:en": "Pingli",
+      "name:ja": "平利県",
+      "name:vi": "Bình Lợi",
+      "name:zh": "平利县",
+      "alt_name": "平利;平利城关镇;城关镇;Chengguan",
+      "name:zh-Hant": "平利縣"
+    }
+  },
+  {
+    "name": "Pingliang",
+    "country": "China",
+    "latitude": 35.54319999969327,
+    "longitude": 106.66081069999998,
+    "other_names": {
+      "name": "平凉市",
+      "name:de": "Pingliang",
+      "name:en": "Pingliang",
+      "name:et": "Pingliang",
+      "name:fr": "Pingliang",
+      "name:ja": "平涼市",
+      "name:pt": "Pingliang",
+      "name:ru": "Пинлян",
+      "name:sr": "Пингљанг",
+      "name:vi": "Bình Lương",
+      "name:zh": "平凉",
+      "alt_name": "平凉市;Pingliang City",
+      "int_name": "Pingliang",
+      "name:zh-Hant": "平涼市",
+      "name:zh_pinyin": "Píngliàng Shì"
+    }
+  },
+  {
+    "name": "Pinglu",
+    "country": "China",
+    "latitude": 39.51674550020015,
+    "longitude": 112.27835249999998,
+    "other_names": {
+      "name": "平鲁区",
+      "name:en": "Pinglu",
+      "name:ja": "平魯区",
+      "name:zh": "平鲁区",
+      "alt_name": "Pinglu Xian;P'ing-lu Hsien;Pinglu Qu;平鲁",
+      "name:zh-Hant": "平魯區"
+    }
+  },
+  {
+    "name": "Pinglu",
+    "country": "China",
+    "latitude": 34.83702069964112,
+    "longitude": 111.2110046,
+    "other_names": {
+      "name": "平陆县",
+      "name:en": "Pinglu",
+      "name:ja": "平陸県",
+      "name:zh": "平陆县",
+      "alt_name": "平陆;Pinglu County",
+      "name:zh-Hant": "平陸縣"
+    }
+  },
+  {
+    "name": "Pingluo",
+    "country": "China",
+    "latitude": 38.9129793001133,
+    "longitude": 106.5187152,
+    "other_names": {
+      "name": "平罗县",
+      "name:en": "Pingluo",
+      "name:ja": "平羅県",
+      "name:ru": "Пинло",
+      "name:sd": "پٍلُوَع ﺷِﯿًﺎ",
+      "name:zh": "平罗县",
+      "alt_name": "平罗;Pingluo County",
+      "name:zh-Hant": "平羅縣",
+      "name:zh_pinyin": "Píngluó Xiàn"
+    }
+  },
+  {
+    "name": "Pingnan",
+    "country": "China",
+    "latitude": 26.912059800067556,
+    "longitude": 118.98145800000002,
+    "other_names": {
+      "name": "屏南县",
+      "name:de": "Pingnan",
+      "name:en": "Pingnan",
+      "name:es": "Píngnán",
+      "name:fa": "شهرستان پینگنان (فوجیان)",
+      "name:fr": "Pingnan",
+      "name:it": "Pingnan",
+      "name:ja": "屏南県",
+      "name:ko": "핑난현",
+      "name:nn": "Pingnan",
+      "name:no": "Pingnan",
+      "name:ru": "Гуфын",
+      "name:sv": "Pingnan",
+      "name:vi": "Bình Nam",
+      "name:zh": "屏南县",
+      "alt_name": "屏南;Pingnan County",
+      "name:cdo": "Bìng-nàng",
+      "name:ceb": "Pingnan",
+      "name:hak": "Phîn-nàm-yen",
+      "name:mwl": "Pingnan",
+      "name:nan": "Pêng-lâm-koān",
+      "name:yue": "屏南",
+      "name:zh-Hant": "屏南縣",
+      "name:zh_pinyin": "Píngnán Xiàn"
+    }
+  },
+  {
+    "name": "Pingnan",
+    "country": "China",
+    "latitude": 23.54221490035945,
+    "longitude": 110.3878006,
+    "other_names": {
+      "name": "平南县",
+      "name:en": "Pingnan",
+      "name:vi": "Bình Nam",
+      "name:zh": "平南县",
+      "alt_name": "平南;Pingnan County",
+      "name:yue": "平南县",
+      "name:zh-Hant": "平南縣",
+      "name:yue-Latn": "Pingnaam-hyun",
+      "name:zh_pinyin": "píngnán xiàn"
+    }
+  },
+  {
+    "name": "Pingqiao",
+    "country": "China",
+    "latitude": 32.09912999960505,
+    "longitude": 114.1207742,
+    "other_names": {
+      "name": "平桥区",
+      "name:en": "Pingqiao",
+      "name:vi": "Bình Kiều",
+      "name:zh": "平桥区",
+      "alt_name": "平桥;Pingqiao City;Pingqiao District",
+      "name:zh-Hant": "平橋區",
+      "name:zh_pinyin": "Pingqiao Qu"
+    }
+  }
+]

@@ -1,0 +1,309 @@
+[
+  {
+    "name": "Tiruppur",
+    "country": "India",
+    "latitude": 11.101781499506037,
+    "longitude": 77.34519199999998,
+    "other_names": {
+      "name": "Tiruppur",
+      "name:en": "Tiruppur",
+      "name:hi": "तिरूपुर",
+      "name:ja": "トリシュール",
+      "name:kn": "ತಿರುಪ್ಪೂರು",
+      "name:ml": "തിരുപ്പൂർ",
+      "name:pa": "ਤਿਰੂਪੁਰ",
+      "name:ta": "திருப்பூர்",
+      "name:zh": "蒂鲁普"
+    }
+  },
+  {
+    "name": "Tizimín",
+    "country": "Mexico",
+    "latitude": 21.142891900406656,
+    "longitude": -88.15247169999999,
+    "other_names": {
+      "name": "Tizimín"
+    }
+  },
+  {
+    "name": "Tizi Ouzou",
+    "country": "Algeria",
+    "latitude": 36.7137842998135,
+    "longitude": 4.0493919,
+    "other_names": {
+      "name": "Tizi Ouzou",
+      "name:ar": "تيزي وزو",
+      "name:de": "Tizi Ouzou",
+      "name:el": "Τίζι Ούζου",
+      "name:en": "Tizi Ouzou",
+      "name:es": "Tizi Ouzou",
+      "name:fa": "تیزی وزو",
+      "name:fr": "Tizi Ouzou",
+      "name:it": "Tizi Ouzou",
+      "name:ja": "ティジ・ウズー",
+      "name:ks": "تیزی وزو",
+      "name:lt": "Tizi Ouzou",
+      "name:ru": "Тизи-Узу",
+      "name:ur": "تیزی وزو",
+      "name:zh": "提济乌祖",
+      "name:azb": "تیزی وزو",
+      "name:ber": "ⵝⵉⵣⵉ ⵡⴻⵣⵓ",
+      "name:kab": "Tizi Wezzu",
+      "name:pnb": "تیزی وزو"
+    }
+  },
+  {
+    "name": "Tiznit",
+    "country": "Morocco",
+    "latitude": 29.698623999767527,
+    "longitude": -9.731281499999998,
+    "other_names": {
+      "name": "Tiznit ⵜⵉⵣⵏⵉⵜ تزنيت",
+      "name:ar": "تزنيت",
+      "name:en": "Tiznit",
+      "name:es": "Tiznit",
+      "name:et": "Tiznit",
+      "name:fr": "Tiznit",
+      "name:ko": "티즈니트",
+      "name:ru": "Тизнит",
+      "name:uk": "Тізніт",
+      "int_name": "Tiznit ⵜⵉⵣⵏⵉⵜ تزنيت",
+      "name:ber": "ⵜⵉⵣⵏⵉⵜ",
+      "name:zgh": "ⵜⵉⵣⵏⵉⵜ"
+    }
+  },
+  {
+    "name": "Tlalnepantla",
+    "country": "Mexico",
+    "latitude": 19.537000100348628,
+    "longitude": -99.1955083,
+    "other_names": {
+      "name": "Tlalnepantla"
+    }
+  },
+  {
+    "name": "Tlaquepaque",
+    "country": "Mexico",
+    "latitude": 20.639771800395998,
+    "longitude": -103.3120428,
+    "other_names": {
+      "name": "Tlaquepaque",
+      "alt_name": "San Pedro Tlaquepaque"
+    }
+  },
+  {
+    "name": "Tlaxcala",
+    "country": "Mexico",
+    "latitude": 19.31671010033544,
+    "longitude": -98.23861380000001,
+    "other_names": {
+      "name": "Tlaxcala",
+      "name:en": "Tlaxcala",
+      "name:es": "Tlaxcala de Xicohténcatl",
+      "name:pl": "Tlaxcala",
+      "name:ru": "Тласкала-де-Хикотенкатль",
+      "name:uk": "Тлашкала",
+      "old_name": "Tlaxcallān Xīcohtēncatl",
+      "official_name": "Tlaxcala de Xicohténcatl"
+    }
+  },
+  {
+    "name": "Tlemcen",
+    "country": "Algeria",
+    "latitude": 34.88178899964393,
+    "longitude": -1.3166989999999998,
+    "other_names": {
+      "name": "Tlemcen ⵜⴰⵍⴰ ⵉⵎⵙⴰⵏ تلمسان",
+      "name:an": "Termicén",
+      "name:ar": "تلمسان",
+      "name:el": "Τλέμσεν",
+      "name:en": "Tlemcen",
+      "name:es": "Tlemecén",
+      "name:fr": "Tlemcen",
+      "name:he": "תלמסאן",
+      "name:it": "Tlemcen",
+      "name:ja": "トレムセン",
+      "name:ko": "틀렘센",
+      "name:lt": "Tlemsenas",
+      "name:ru": "Тлемсен",
+      "name:tr": "Tilimsan",
+      "name:zh": "特莱姆森",
+      "name:ber": "ⵜⴰⵍⴰ ⵉⵎⵙⴰⵏ",
+      "name:kab": "Tlemsen"
+    }
+  },
+  {
+    "name": "Toamasina",
+    "country": "Madagascar",
+    "latitude": -18.155398500471364,
+    "longitude": 49.409835199999996,
+    "other_names": {
+      "name": "Toamasina",
+      "name:ar": "أنتسيرابي",
+      "name:en": "Toamasina",
+      "name:fr": "Toamasina",
+      "name:ja": "トアマシナ",
+      "name:ko": "토아마시나",
+      "name:ru": "Туамасина",
+      "old_name": "Tamatave",
+      "alt_name:fr": "Tamatave"
+    }
+  },
+  {
+    "name": "Toba",
+    "country": "Japan",
+    "latitude": 34.471446399620845,
+    "longitude": 136.8293576,
+    "other_names": {
+      "name": "鳥羽市",
+      "name:ar": "توبا، ميه",
+      "name:de": "Toba",
+      "name:en": "Toba",
+      "name:es": "Toba",
+      "name:fr": "Toba",
+      "name:ja": "鳥羽市",
+      "name:ko": "도바시",
+      "name:pl": "Toba",
+      "name:ru": "Тоба",
+      "name:uk": "Тоба",
+      "name:ja_rm": "Toba si"
+    }
+  },
+  {
+    "name": "Toba Tek Singh",
+    "country": "Pakistan",
+    "latitude": 30.977705599662624,
+    "longitude": 72.48607989999998,
+    "other_names": {
+      "name": "ٹوبہ ٹیک سنگھ‎",
+      "name:en": "Toba Tek Singh",
+      "name:ur": "ٹوبہ ٹیک سنگھ‎"
+    }
+  },
+  {
+    "name": "TOBOLON 1",
+    "country": "Guinea",
+    "latitude": 9.724284999425425,
+    "longitude": -13.491682999999998,
+    "other_names": {
+      "name": "TOBOLON 1"
+    }
+  },
+  {
+    "name": "TOBOLON 2",
+    "country": "Guinea",
+    "latitude": 9.722804499425363,
+    "longitude": -13.518891399999998,
+    "other_names": {
+      "name": "TOBOLON 2"
+    }
+  },
+  {
+    "name": "Tobolsk",
+    "country": "Russia",
+    "latitude": 58.23507339428574,
+    "longitude": 68.34378148241089,
+    "other_names": {
+      "name": "Тобольск",
+      "name:en": "Tobolsk"
+    }
+  },
+  {
+    "name": "Tobolsk",
+    "country": "Russia",
+    "latitude": 58.19980480087883,
+    "longitude": 68.2512924,
+    "other_names": {
+      "name": "Тобольск",
+      "name:de": "Tobolsk",
+      "name:en": "Tobolsk",
+      "name:et": "Tobolsk",
+      "name:ja": "トボリスク",
+      "name:ko": "토볼스크",
+      "name:lt": "Tobolskas",
+      "name:pl": "Tobolsk",
+      "name:ru": "Тобольск",
+      "name:uk": "Тобольська",
+      "int_name": "Tobolsk",
+      "name:ru:word_stress": "Тобо́льск"
+    }
+  },
+  {
+    "name": "Tobruk",
+    "country": "Libya",
+    "latitude": 32.07737639960579,
+    "longitude": 23.959998799999997,
+    "other_names": {
+      "name": "طبرق",
+      "name:ar": "طبرق",
+      "name:de": "Tubruq",
+      "name:en": "Tobruk",
+      "name:es": "Tubruq",
+      "name:et": "Ţubruq",
+      "name:fa": "طبرق",
+      "name:fi": "Tobruk",
+      "name:fr": "Tobrouk",
+      "name:it": "Tobruch",
+      "name:ks": "طبرق",
+      "name:lt": "Tubrukas",
+      "name:pl": "Tobruk",
+      "name:ru": "Тобрук",
+      "name:uk": "Тобрук",
+      "name:ur": "طبرق"
+    }
+  },
+  {
+    "name": "Tochigi",
+    "country": "Japan",
+    "latitude": 36.38181769977555,
+    "longitude": 139.733591,
+    "other_names": {
+      "name": "栃木市",
+      "name:ar": "توتشيغي، توتشيغي",
+      "name:de": "Tochigi",
+      "name:en": "Tochigi",
+      "name:es": "Tochigi",
+      "name:fr": "Tochigi",
+      "name:ja": "栃木市",
+      "name:ko": "도치기시",
+      "name:pl": "Tochigi",
+      "name:ru": "Тотиги",
+      "name:uk": "Точіґі",
+      "name:ja_rm": "FIXME"
+    }
+  },
+  {
+    "name": "Tocopilla",
+    "country": "Chile",
+    "latitude": -22.08871890018574,
+    "longitude": -70.1960657,
+    "other_names": {
+      "name": "Tocopilla",
+      "name:ru": "Токопилья"
+    }
+  },
+  {
+    "name": "Tocuyito",
+    "country": "Venezuela",
+    "latitude": 10.091607999442594,
+    "longitude": -68.09565319999999,
+    "other_names": {
+      "name": "Tocuyito"
+    }
+  },
+  {
+    "name": "Toda",
+    "country": "Japan",
+    "latitude": 35.81758739971789,
+    "longitude": 139.6778944,
+    "other_names": {
+      "name": "戸田市",
+      "name:en": "Toda",
+      "name:fr": "Toda",
+      "name:ja": "戸田市",
+      "name:ko": "도다시",
+      "name:ru": "Тода",
+      "name:uk": "Тода"
+    }
+  }
+]

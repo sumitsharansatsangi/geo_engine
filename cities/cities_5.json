@@ -1,0 +1,351 @@
+[
+  {
+    "name": "Afula",
+    "country": "Israel And Palestine",
+    "latitude": 32.607558699591834,
+    "longitude": 35.2890861,
+    "other_names": {
+      "name": "עפולה",
+      "name:ar": "العفولة",
+      "name:de": "Afula",
+      "name:en": "Afula",
+      "name:es": "Afula",
+      "name:et": "Afula",
+      "name:fr": "Afoula",
+      "name:he": "עפולה",
+      "name:ru": "Афула",
+      "name:en1": "Affula",
+      "name:en2": "Afule",
+      "name:en3": "Afuli",
+      "name:en4": "El `Affule"
+    }
+  },
+  {
+    "name": "Afyonkarahisar",
+    "country": "Turkey",
+    "latitude": 38.75685090009063,
+    "longitude": 30.538694399999994,
+    "other_names": {
+      "name": "Afyonkarahisar",
+      "name:ar": "أفيون قره حصار",
+      "name:el": "Αφιόν Καραχισάρ",
+      "name:fa": "افیون قره‌حصار",
+      "name:hi": "अफयोंकरहिसार",
+      "name:hu": "Afyonkarahisar",
+      "name:lt": "Afjonkarahisaras",
+      "name:ru": "Афьон",
+      "name:uk": "Афьон-Карахісар",
+      "name:ur": "افیون قرہ حصار",
+      "alt_name": "Afyon",
+      "alt_name:ar": "أفيون"
+    }
+  },
+  {
+    "name": "Agadez",
+    "country": "Niger",
+    "latitude": 16.972556000132506,
+    "longitude": 7.990739,
+    "other_names": {
+      "name": "Agadez",
+      "name:ar": "أغاديس",
+      "name:en": "Agadez",
+      "name:hu": "Agadez",
+      "name:ko": "아가데즈",
+      "name:ru": "Агадес",
+      "name:uk": "Агадес",
+      "old_name": "Agades"
+    }
+  },
+  {
+    "name": "Agadi",
+    "country": "Sudan",
+    "latitude": 11.805638899563013,
+    "longitude": 34.07542459999999,
+    "other_names": {
+      "name": "اقدي",
+      "name:ar": "اقدي",
+      "name:en": "Agadi",
+      "name:fr": "Agadi",
+      "alt_name": "أقد",
+      "alt_name:ar": "أقد",
+      "alt_name:en": "Aqadi"
+    }
+  },
+  {
+    "name": "Agadir",
+    "country": "Morocco",
+    "latitude": 30.421114399703896,
+    "longitude": -9.5830626,
+    "other_names": {
+      "name": "Agadir ⴰⴳⴰⴷⵉⵔ أگادیر",
+      "name:ar": "أݣادير",
+      "name:de": "Agadir",
+      "name:en": "Agadir",
+      "name:es": "Agadir",
+      "name:et": "Agadir",
+      "name:fa": "اگادیر",
+      "name:fr": "Agadir",
+      "name:he": "אגאדיר",
+      "name:hi": "अगाडिर",
+      "name:hu": "Agadir",
+      "name:ja": "アガディール",
+      "name:ko": "아가디르",
+      "name:lt": "Agadiras",
+      "name:pl": "Agadir",
+      "name:pt": "Agadir",
+      "name:ru": "Агадир",
+      "name:uk": "Агадір",
+      "name:ur": "اگادیر",
+      "name:zh": "阿加迪尔",
+      "alt_name": "أگادیر",
+      "name:ber": "ⴰⴳⴰⴷⵉⵔ",
+      "name:zgh": "ⴰⴳⴰⴷⵉⵔ",
+      "alt_name:ar": "أكادير;أغادير",
+      "old_name:es": "Santa Cruz del Cabo Aguer",
+      "old_name:pt": "Santa Cruz do Cabo de Gué"
+    }
+  },
+  {
+    "name": "Agano",
+    "country": "Japan",
+    "latitude": 37.83436179995882,
+    "longitude": 139.22585389999998,
+    "other_names": {
+      "name": "阿賀野市",
+      "name:ar": "أغانو، نييغاتا",
+      "name:de": "Agano",
+      "name:en": "Agano",
+      "name:es": "Agano",
+      "name:fr": "Agano",
+      "name:ja": "阿賀野市",
+      "name:ko": "아가노시",
+      "name:lt": "Aganas",
+      "name:pl": "Agano",
+      "name:ru": "Агано",
+      "name:uk": "Аґано",
+      "int_name": "Agano",
+      "name:ja_rm": "Agano-shi",
+      "name:ja_kana": "あがのし"
+    }
+  },
+  {
+    "name": "Agar",
+    "country": "India",
+    "latitude": 23.71295258890268,
+    "longitude": 76.01837488434977,
+    "other_names": {
+      "name": "Agar",
+      "name:hi": "आगर",
+      "name:ta": "அகர்"
+    }
+  },
+  {
+    "name": "Agartala",
+    "country": "India",
+    "latitude": 23.831237700343255,
+    "longitude": 91.2823821,
+    "other_names": {
+      "name": "Agartala",
+      "name:ar": "أغرتلا",
+      "name:bn": "আগরতলা",
+      "name:de": "Agartala",
+      "name:en": "Agartala",
+      "name:es": "Agartala",
+      "name:fa": "اگرتلا",
+      "name:fr": "Agartala",
+      "name:hi": "अगरतला",
+      "name:ja": "アガルタラ",
+      "name:kn": "ಅಗರತಾಳ",
+      "name:pa": "ਅਗਰਤਲਾ",
+      "name:ta": "அகர்தலா",
+      "name:ur": "اگرتلا",
+      "alt_name:ar": "أجارتالا"
+    }
+  },
+  {
+    "name": "Agboville",
+    "country": "Ivory Coast",
+    "latitude": 5.93128299944842,
+    "longitude": -4.2106525,
+    "other_names": {
+      "name": "Agboville",
+      "name:ar": "أغبوفيل",
+      "name:ru": "Агбовиль"
+    }
+  },
+  {
+    "name": "Ageo",
+    "country": "Japan",
+    "latitude": 35.97740819973329,
+    "longitude": 139.59305039999998,
+    "other_names": {
+      "name": "上尾市",
+      "name:ar": "أغيو، سايتاما",
+      "name:de": "Ageo",
+      "name:en": "Ageo",
+      "name:es": "Ageo",
+      "name:fr": "Ageo",
+      "name:ja": "上尾市",
+      "name:ko": "아게오시",
+      "name:pl": "Ageo",
+      "name:ru": "Агео",
+      "name:uk": "Аґео",
+      "int_name": "Ageo"
+    }
+  },
+  {
+    "name": "Agra",
+    "country": "India",
+    "latitude": 27.17525540003847,
+    "longitude": 78.00981609999998,
+    "other_names": {
+      "name": "Agra",
+      "name:ar": "أغرة",
+      "name:bn": "আগ্রা",
+      "name:cs": "Ágra",
+      "name:en": "Agra",
+      "name:he": "אגרה",
+      "name:hi": "आगरा",
+      "name:ja": "アーグラ",
+      "name:kn": "ಆಗ್ರಾ",
+      "name:ml": "ആഗ്ര",
+      "name:oc": "Agra",
+      "name:or": "ଆଗ୍ରା",
+      "name:pa": "ਆਗਰਾ",
+      "name:pt": "Agra",
+      "name:ru": "Агра",
+      "name:ta": "ஆக்ரா",
+      "name:te": "ఆగ్రా",
+      "name:ur": "آگرہ",
+      "name:zh": "阿格拉",
+      "alt_name:ar": "اجرا"
+    }
+  },
+  {
+    "name": "Agrigento",
+    "country": "Italy",
+    "latitude": 37.31229909988826,
+    "longitude": 13.574649999999998,
+    "other_names": {
+      "name": "Agrigento",
+      "name:ar": "جرجنت",
+      "name:de": "Agrigent",
+      "name:el": "Αγκριτζέντο",
+      "name:en": "Agrigento",
+      "name:fr": "Agrigente",
+      "name:he": "אגריג'נטו",
+      "name:it": "Agrigento",
+      "name:la": "Agrigentum",
+      "name:lt": "Agridžentas",
+      "name:ru": "Агридженто",
+      "name:uk": "Агрідженто",
+      "name:zh": "阿格里真托",
+      "name:scn": "Girgenti",
+      "alt_name:ar": "كركنت;أغريجنتو",
+      "alt_name:el": "Ακράγας",
+      "old_name:el": "Ἀκράγας",
+      "name:zh-Hans": "阿格里真托",
+      "name:zh-Hant": "阿格里真托"
+    }
+  },
+  {
+    "name": "Agrinio",
+    "country": "Greece",
+    "latitude": 38.6248275000715,
+    "longitude": 21.409420599999997,
+    "other_names": {
+      "name": "Αγρίνιο",
+      "name:de": "Agrinio",
+      "name:el": "Αγρίνιο",
+      "name:en": "Agrinio",
+      "name:et": "Agrínio",
+      "name:fr": "Agrinio",
+      "name:hr": "Agrinio",
+      "name:hu": "Agrínio",
+      "name:lt": "Agrinijas",
+      "name:mk": "Агринио",
+      "name:ru": "Агринион",
+      "int_name": "Agrinio",
+      "old_name": "Βραχώρι"
+    }
+  },
+  {
+    "name": "Ağrı",
+    "country": "Turkey",
+    "latitude": 39.71912500022864,
+    "longitude": 43.0504894,
+    "other_names": {
+      "name": "Ağrı",
+      "name:ar": "أغري",
+      "name:hi": "अग्रि",
+      "name:hy": "Աղրի",
+      "name:ku": "Qerekose",
+      "name:ru": "Агри",
+      "name:tr": "Ağrı",
+      "old_name": "Karaköse"
+    }
+  },
+  {
+    "name": "Agua Prieta",
+    "country": "Mexico",
+    "latitude": 31.317966399641293,
+    "longitude": -109.54255089999998,
+    "other_names": {
+      "name": "Agua Prieta",
+      "name:en": "Agua Prieta",
+      "name:ru": "Агуа-Приета"
+    }
+  },
+  {
+    "name": "Aguascalientes",
+    "country": "Mexico",
+    "latitude": 21.880655300409348,
+    "longitude": -102.2961323,
+    "other_names": {
+      "name": "Aguascalientes",
+      "name:ar": "أغواسكالينتيس",
+      "name:ru": "Агуаскальентес",
+      "alt_name:ar": "أغواسكاليينتس"
+    }
+  },
+  {
+    "name": "Águas Claras",
+    "country": "Brazil",
+    "latitude": -15.841993300429365,
+    "longitude": -48.0281208,
+    "other_names": {
+      "name": "Águas Claras",
+      "alt_name": "RA XX",
+      "loc_name": "RA 20",
+      "reg_name": "Região Administrativa Vinte"
+    }
+  },
+  {
+    "name": "Águas Lindas de Goiás",
+    "country": "Brazil",
+    "latitude": -15.739228300424179,
+    "longitude": -48.2793357,
+    "other_names": {
+      "name": "Águas Lindas de Goiás"
+    }
+  },
+  {
+    "name": "Águeda",
+    "country": "Portugal",
+    "latitude": 40.57850060034247,
+    "longitude": -8.4438017,
+    "other_names": {
+      "name": "Águeda"
+    }
+  },
+  {
+    "name": "Aguié",
+    "country": "Niger",
+    "latitude": 13.500961699733622,
+    "longitude": 7.7759347,
+    "other_names": {
+      "name": "Aguié",
+      "name:ar": "أكيي"
+    }
+  }
+]

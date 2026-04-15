@@ -1,0 +1,390 @@
+[
+  {
+    "name": "Qinghe",
+    "country": "China",
+    "latitude": 46.67731870022514,
+    "longitude": 90.3728718,
+    "other_names": {
+      "name": "青河县",
+      "name:en": "Qinghe",
+      "name:kk": "Күңше",
+      "name:ru": "Цинхэ",
+      "name:ug": "چىڭگىل ناھىيىسى",
+      "name:zh": "青河县",
+      "alt_name": "青河县;Qinggil",
+      "name:kk-Arab": "شىڭگىل",
+      "name:zh-Hant": "青河縣",
+      "official_name": "青河县"
+    }
+  },
+  {
+    "name": "Qinghe",
+    "country": "China",
+    "latitude": 42.54353020051976,
+    "longitude": 124.14727329999998,
+    "other_names": {
+      "name": "清河区",
+      "name:en": "Qinghe",
+      "name:ja": "清河区",
+      "name:ko": "칭허구",
+      "name:vi": "Thanh Hà",
+      "name:zh": "清河区",
+      "alt_name": "清河;Qinghe District",
+      "name:zh-Hant": "清河區",
+      "name:zh_pinyin": "Qinghe Qu"
+    }
+  },
+  {
+    "name": "Qinghe",
+    "country": "China",
+    "latitude": 37.04924679985448,
+    "longitude": 115.66239660000001,
+    "other_names": {
+      "name": "清河县",
+      "name:en": "Qinghe",
+      "name:vi": "Thanh Hà",
+      "name:zh": "清河县",
+      "alt_name": "清河;Qinghe County",
+      "name:zh-Hant": "清河縣",
+      "name:zh_pinyin": "Qinghe Xian"
+    }
+  },
+  {
+    "name": "Qinghemen",
+    "country": "China",
+    "latitude": 41.78424520046923,
+    "longitude": 121.41801769999998,
+    "other_names": {
+      "name": "清河门区",
+      "name:en": "Qinghemen",
+      "name:zh": "清河门区",
+      "alt_name": "清河门;Qinghemen District",
+      "name:zh-Hant": "清河門區"
+    }
+  },
+  {
+    "name": "Qingjian",
+    "country": "China",
+    "latitude": 37.09176449985985,
+    "longitude": 110.11413929999999,
+    "other_names": {
+      "name": "清涧县",
+      "name:en": "Qingjian",
+      "name:ja": "清澗県",
+      "name:zh": "清涧县",
+      "alt_name": "清涧;宽州镇;宽州;宽州镇;Kuanzhou",
+      "name:zh-Hant": "清澗縣"
+    }
+  },
+  {
+    "name": "Qingjiangpu",
+    "country": "China",
+    "latitude": 33.55341289959099,
+    "longitude": 119.0272515,
+    "other_names": {
+      "name": "清江浦区",
+      "name:en": "Qingjiangpu",
+      "name:zh": "清江浦区",
+      "name:zh-Hant": "清江浦區"
+    }
+  },
+  {
+    "name": "Qingliu",
+    "country": "China",
+    "latitude": 26.181186600145704,
+    "longitude": 116.8120935,
+    "other_names": {
+      "name": "清流县",
+      "name:de": "Qingliu",
+      "name:en": "Qingliu",
+      "name:es": "Qīngliú",
+      "name:fa": "کینگلیو",
+      "name:fr": "Qingliu",
+      "name:it": "Qingliu",
+      "name:ja": "清流県",
+      "name:ko": "칭류현",
+      "name:no": "Qingliu",
+      "name:sv": "Qingliu",
+      "name:vi": "Thanh Lưu",
+      "name:zh": "清流县",
+      "alt_name": "清流;Qingliu County",
+      "name:cdo": "Chĭng-liù",
+      "name:ceb": "Qingliu",
+      "name:hak": "Chhîn-liù-yen",
+      "name:nan": "Chheng-liû-koān",
+      "name:yue": "清流",
+      "name:zh-Hans": "清流县",
+      "name:zh-Hant": "清流縣",
+      "name:zh_pinyin": "Qīngliú Xiàn"
+    }
+  },
+  {
+    "name": "Qinglong",
+    "country": "China",
+    "latitude": 40.40474270032063,
+    "longitude": 118.94420559999998,
+    "other_names": {
+      "name": "青龙县",
+      "name:en": "Qinglong",
+      "name:ja": "青竜満族自治県",
+      "name:ko": "칭룽만족자치현",
+      "name:zh": "青龙满族自治县",
+      "alt_name": "青龙;Qinglong Manchu Autonomous County;Qinglong County",
+      "name:zh-Hant": "青龍縣",
+      "official_name": "青龙镇"
+    }
+  },
+  {
+    "name": "Qinglong",
+    "country": "China",
+    "latitude": 25.837728600180494,
+    "longitude": 105.2159392,
+    "other_names": {
+      "name": "晴隆县",
+      "name:en": "Qinglong",
+      "name:vi": "Tình Long",
+      "name:zh": "晴隆县",
+      "alt_name": "晴隆;Ch'ing-lung Hsien;Qinglong Xian",
+      "name:zh-Hant": "晴隆縣",
+      "name:zh_pinyin": "Qinglong Xian"
+    }
+  },
+  {
+    "name": "Qingpu District",
+    "country": "China",
+    "latitude": 31.152163599651296,
+    "longitude": 121.11955189999999,
+    "other_names": {
+      "name": "青浦区",
+      "name:cs": "Čching-pchu",
+      "name:de": "Qingpu",
+      "name:en": "Qingpu District",
+      "name:es": "Qingpu",
+      "name:eu": "Qingpu Barrutia",
+      "name:fa": "کینگپو",
+      "name:fr": "District de Qingpu",
+      "name:it": "Distretto di Qingpu",
+      "name:ja": "青浦区",
+      "name:ko": "칭푸구",
+      "name:lt": "Čingpu",
+      "name:nl": "Qingpu",
+      "name:no": "Qingpu",
+      "name:ru": "Цинпу",
+      "name:sv": "Qingpu",
+      "name:tr": "Qingpu",
+      "name:uk": "Район Цінпу",
+      "name:ur": "چینگپو ضلع",
+      "name:vi": "Thanh Phố",
+      "name:zh": "青浦区",
+      "name:ceb": "Qingpu Qu",
+      "name:nan": "Chheng-phó͘-khu",
+      "name:wuu": "青浦区",
+      "name:yue": "青浦區",
+      "name:zh-Hant": "青浦區",
+      "name:zh_pinyin": "Qīngpǔ Qū"
+    }
+  },
+  {
+    "name": "Qingshan",
+    "country": "China",
+    "latitude": 40.66786700035341,
+    "longitude": 109.87612430000001,
+    "other_names": {
+      "name": "青山区",
+      "name:en": "Qingshan",
+      "name:vi": "Thanh Sơn",
+      "name:zh": "青山区",
+      "alt_name": "青山;Qingshan District;Чинсань",
+      "name:zh-Hant": "青山區",
+      "name:zh_pinyin": "Qingshan Qu"
+    }
+  },
+  {
+    "name": "Qingshan District",
+    "country": "China",
+    "latitude": 30.642406899686573,
+    "longitude": 114.37962819999998,
+    "other_names": {
+      "name": "青山区",
+      "name:de": "Qingshan",
+      "name:en": "Qingshan District",
+      "name:es": "Qingshan",
+      "name:eu": "Qingshan Barrutia",
+      "name:fr": "District de Qingshan",
+      "name:it": "Distretto di Qingshan",
+      "name:ja": "青山区",
+      "name:ko": "칭산구",
+      "name:no": "Qingshan",
+      "name:ru": "Циншань",
+      "name:sv": "Qingshan, Wuhan",
+      "name:ur": "چینگشان ضلع، ووہان",
+      "name:vi": "Thanh Sơn",
+      "name:zh": "青山区",
+      "name:nan": "Chheng-san-khu",
+      "name:yue": "青山區",
+      "name:zh-Hans": "青山区",
+      "name:zh-Hant": "青山區",
+      "name:zh_pinyin": "Qingshan Qu"
+    }
+  },
+  {
+    "name": "Qingshanhu District",
+    "country": "China",
+    "latitude": 28.685171499870876,
+    "longitude": 115.9572763,
+    "other_names": {
+      "name": "青山湖区",
+      "name:de": "Qingshanhu",
+      "name:en": "Qingshanhu District",
+      "name:es": "Qingyunpu",
+      "name:eu": "Qingshanhu Barrutia",
+      "name:fr": "District de Qingshanhu",
+      "name:it": "Distretto di Qingshanhu",
+      "name:ja": "青山湖区",
+      "name:ko": "칭산후구",
+      "name:no": "Qingshanhu",
+      "name:ru": "Циншаньху",
+      "name:sv": "Qingshanhu",
+      "name:vi": "Thanh Sơn Hồ",
+      "name:zh": "青山湖区",
+      "alt_name": "青山湖",
+      "name:ceb": "Qingshanhu Qu",
+      "name:gan": "青山湖區",
+      "name:nan": "Chheng-san-ô͘-khu",
+      "name:yue": "青山湖區",
+      "old_name": "郊区",
+      "name:zh-Hant": "青山湖區",
+      "name:zh_pinyin": "Qingshanhu Qū"
+    }
+  },
+  {
+    "name": "Qingshen",
+    "country": "China",
+    "latitude": 29.83274419975496,
+    "longitude": 103.8433972,
+    "other_names": {
+      "name": "青神县",
+      "name:en": "Qingshen",
+      "name:ja": "青神県",
+      "name:vi": "Thanh Thần",
+      "name:zh": "青神县",
+      "alt_name": "青神;Qingshen County",
+      "name:zh-Hant": "青神縣",
+      "name:zh_pinyin": "Qīngshén Xiàn"
+    }
+  },
+  {
+    "name": "Qingshui",
+    "country": "China",
+    "latitude": 34.748855199635805,
+    "longitude": 106.1326806,
+    "other_names": {
+      "name": "清水县",
+      "name:en": "Qingshui",
+      "name:ja": "清水県",
+      "name:zh": "清水县",
+      "alt_name": "永清;Yongqing",
+      "name:zh-Hant": "清水縣",
+      "official_name": "永清镇",
+      "name:zh_pinyin": "qīngshuǐ xiàn"
+    }
+  },
+  {
+    "name": "Qingshuihe",
+    "country": "China",
+    "latitude": 39.91928540025633,
+    "longitude": 111.652355,
+    "other_names": {
+      "name": "清水河县",
+      "name:en": "Qingshuihe",
+      "name:vi": "Thanh Thủy Hà",
+      "name:zh": "清水河县",
+      "alt_name": "清水河;Qingshuihe County;Чиншуйхө",
+      "alt_name:vi": "Thanh Thuỷ Hà",
+      "name:zh-Hant": "清水河縣",
+      "name:zh_pinyin": "Qingshuihe Xian"
+    }
+  },
+  {
+    "name": "Qingtian",
+    "country": "China",
+    "latitude": 28.142752399930338,
+    "longitude": 120.28521400000001,
+    "other_names": {
+      "name": "青田县",
+      "name:ca": "Qingtian",
+      "name:cs": "Čching-tchien",
+      "name:de": "Qingtian",
+      "name:en": "Qingtian",
+      "name:es": "Qingtian",
+      "name:fa": "چینگ‌تیان",
+      "name:fr": "Xian de Qingtian",
+      "name:it": "Contea di Qingtian",
+      "name:ja": "青田県",
+      "name:ko": "칭톈현",
+      "name:nl": "Qingtian",
+      "name:no": "Qingtian",
+      "name:ru": "Цинтянь",
+      "name:sv": "Qingtian",
+      "name:vi": "Thanh Điền, Lệ Thủy",
+      "name:zh": "青田县",
+      "alt_name": "青田县;Qingtian Xian;Tsingtienhsien;Ch'ing-t'ien;Ch'ing-t'ien-hsien;Ch'ing-t'ien;Tsing-tien",
+      "name:nan": "Chheng-tiân-koān",
+      "name:wuu": "青田县",
+      "name:yue": "青田",
+      "name:zh-Hant": "青田縣",
+      "name:zh_pinyin": "qīngtián xiàn"
+    }
+  },
+  {
+    "name": "Qingtongxia",
+    "country": "China",
+    "latitude": 38.02117119998497,
+    "longitude": 106.0742629,
+    "other_names": {
+      "name": "青铜峡市",
+      "name:de": "Qingongxia",
+      "name:en": "Qingtongxia",
+      "name:fr": "Qingtongxia",
+      "name:ja": "青銅峡市",
+      "name:ru": "Цинтунся",
+      "name:sd": "شِتْﻮﺷﯿَا شِ",
+      "name:vi": "Thanh Đồng Hạp",
+      "name:zh": "青铜峡市",
+      "alt_name:vi": "Thanh Đồng Hiệp",
+      "name:zh-Hant": "青銅峽市",
+      "name:zh_pinyin": "Qīngtóngxiá Shì"
+    }
+  },
+  {
+    "name": "Qingxin",
+    "country": "China",
+    "latitude": 23.736734100348777,
+    "longitude": 113.01226399999999,
+    "other_names": {
+      "name": "清新区",
+      "name:en": "Qingxin",
+      "name:zh": "清新区",
+      "alt_name": "清新;Qingxin District",
+      "name:yue": "Tsing san ku",
+      "name:zh-Hant": "清新區",
+      "name:zh_pinyin": "Qīngxīn Qū"
+    }
+  },
+  {
+    "name": "Qingxiu",
+    "country": "China",
+    "latitude": 22.78896230039146,
+    "longitude": 108.49142719999999,
+    "other_names": {
+      "name": "青秀区",
+      "name:en": "Qingxiu",
+      "name:zh": "青秀区",
+      "alt_name": "青秀;Qingxiu District",
+      "name:yue": "青秀区",
+      "name:zh-Hant": "青秀區",
+      "name:yue-Latn": "Cingslau-kyu",
+      "name:zh_pinyin": "qīngxiù qū"
+    }
+  }
+]

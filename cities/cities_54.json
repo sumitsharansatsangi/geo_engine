@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Bilbao",
+    "country": "Spain",
+    "latitude": 43.26300180054113,
+    "longitude": -2.9350038999999994,
+    "other_names": {
+      "name": "Bilbao",
+      "name:an": "Bilbau",
+      "name:ar": "بلباو",
+      "name:be": "Більбаа",
+      "name:bg": "Билбао",
+      "name:br": "Bilbo",
+      "name:ca": "Bilbao",
+      "name:ce": "Билбао",
+      "name:cy": "Bilbo",
+      "name:el": "Μπιλμπάο",
+      "name:es": "Bilbao",
+      "name:eu": "Bilbo",
+      "name:fa": "بیلبائو",
+      "name:fr": "Bilbao",
+      "name:he": "בילבאו",
+      "name:hu": "Bilbao",
+      "name:hy": "Բիլբաո",
+      "name:ja": "ビルバオ",
+      "name:ka": "ბილბაო",
+      "name:kk": "Бильбао",
+      "name:ko": "빌바오",
+      "name:la": "Bilbaum",
+      "name:lt": "Bilbao",
+      "name:mn": "Бильбао",
+      "name:mr": "बिल्बाओ",
+      "name:os": "Бильбао",
+      "name:pt": "Bilbau",
+      "name:ru": "Бильбао",
+      "name:sr": "Билбао",
+      "name:th": "บิลบาโอ",
+      "name:uk": "Більбао",
+      "name:zh": "毕尔巴鄂",
+      "name:ckb": "بیلباو",
+      "name:ext": "Bilbau",
+      "name:mhr": "Бильбао",
+      "name:pms": "Bilbo",
+      "name:xmf": "ბილბაო",
+      "name:zh-Hans": "毕尔巴鄂",
+      "name:zh-Hant": "畢爾巴鄂"
+    }
+  },
+  {
+    "name": "Bilecik",
+    "country": "Turkey",
+    "latitude": 40.14351010028657,
+    "longitude": 29.975291099999996,
+    "other_names": {
+      "name": "Bilecik",
+      "name:ar": "بيلجيك",
+      "name:hu": "Bilecik",
+      "name:ru": "Биледжик",
+      "name:uk": "Біледжик"
+    }
+  },
+  {
+    "name": "Biləsuvar",
+    "country": "Azerbaijan",
+    "latitude": 39.45739660837102,
+    "longitude": 48.54727841830878,
+    "other_names": {
+      "name": "Biləsuvar",
+      "name:ar": "بيلاسوار",
+      "name:fa": "بیله سوار",
+      "name:ru": "Билясувар"
+    }
+  },
+  {
+    "name": "Biləsuvar",
+    "country": "Azerbaijan",
+    "latitude": 39.45612810019155,
+    "longitude": 48.5465607,
+    "other_names": {
+      "name": "Biləsuvar",
+      "name:ar": "بيلاسوار",
+      "name:az": "Biləsuvar",
+      "name:de": "Biləsuvar",
+      "name:en": "Biləsuvar",
+      "name:es": "Biləsuvar",
+      "name:fr": "Biləsuvar",
+      "name:ja": "ビラスヴァル",
+      "name:ru": "Билясувар"
+    }
+  },
+  {
+    "name": "Billings",
+    "country": "United States Of America",
+    "latitude": 45.78749570037417,
+    "longitude": -108.49607,
+    "other_names": {
+      "name": "Billings",
+      "name:en": "Billings",
+      "name:he": "בילינגס",
+      "name:ru": "Биллингс",
+      "name:uk": "Біллінгс"
+    }
+  },
+  {
+    "name": "Biloxi",
+    "country": "United States Of America",
+    "latitude": 30.396031799705913,
+    "longitude": -88.88536449999998,
+    "other_names": {
+      "name": "Biloxi",
+      "name:en": "Biloxi",
+      "name:ru": "Билокси",
+      "name:uk": "Білоксі"
+    }
+  },
+  {
+    "name": "Biltine",
+    "country": "Chad",
+    "latitude": 14.525173999851258,
+    "longitude": 20.928700999999997,
+    "other_names": {
+      "name": "Biltine بلتن",
+      "name:ar": "بلتن",
+      "name:en": "Biltine",
+      "name:es": "Biltine",
+      "name:fr": "Biltine",
+      "name:ru": "Бильтин",
+      "name:uk": "Більтин",
+      "alt_name": "Biltine"
+    }
+  },
+  {
+    "name": "Bilwi",
+    "country": "Nicaragua",
+    "latitude": 14.029445099793513,
+    "longitude": -83.3831224,
+    "other_names": {
+      "name": "Bilwi",
+      "old_name": "Bragman's Bluff",
+      "official_name": "Bilwi"
+    }
+  },
+  {
+    "name": "Bima",
+    "country": "Indonesia",
+    "latitude": -8.453409099789917,
+    "longitude": 118.72768899999998,
+    "other_names": {
+      "name": "Bima",
+      "name:en": "Bima",
+      "name:ja": "ビマ",
+      "name:mk": "Бима",
+      "name:ru": "Бима",
+      "name:uk": "Біма",
+      "name:zh": "比马",
+      "official_name": "Kota Bima"
+    }
+  },
+  {
+    "name": "Bimbo",
+    "country": "Central African Republic",
+    "latitude": 4.33255479955879,
+    "longitude": 18.5250512,
+    "other_names": {
+      "name": "Bimbo",
+      "name:ar": "بيمبو",
+      "name:ko": "빔보",
+      "name:ru": "Бимбо",
+      "name:uk": "Бімбо"
+    }
+  },
+  {
+    "name": "Biñan",
+    "country": "Philippines",
+    "latitude": 14.338825899829423,
+    "longitude": 121.08418259999998,
+    "other_names": {
+      "name": "Biñan",
+      "name:en": "Biñan",
+      "name:es": "Biñan",
+      "name:ja": "ビナン",
+      "name:tl": "Biñan",
+      "official_name:en": "City of Biñan",
+      "official_name:es": "Ciudad de Biñan",
+      "official_name:tl": "Lungsod ng Biñan"
+    }
+  },
+  {
+    "name": "Bincheng",
+    "country": "China",
+    "latitude": 37.43113429990394,
+    "longitude": 118.01361960000001,
+    "other_names": {
+      "name": "滨城区",
+      "name:en": "Bincheng",
+      "name:zh": "滨城区",
+      "name:zh-Hant": "濱城區"
+    }
+  },
+  {
+    "name": "Binchuan",
+    "country": "China",
+    "latitude": 25.82950110018131,
+    "longitude": 100.5761002,
+    "other_names": {
+      "name": "宾川县",
+      "name:en": "Binchuan",
+      "name:vi": "Tân Xuyên",
+      "name:zh": "宾川县",
+      "alt_name": "宾川;Binchuan County",
+      "name:zh-Hant": "賓川縣",
+      "name:zh_pinyin": "Bīnchuānxiàn"
+    }
+  },
+  {
+    "name": "Bin County",
+    "country": "China",
+    "latitude": 45.7774951003756,
+    "longitude": 127.66467830000002,
+    "other_names": {
+      "name": "宾县",
+      "name:de": "Bin",
+      "name:en": "Bin County",
+      "name:es": "Condado de Bin",
+      "name:eu": "Bin konderria",
+      "name:fa": "شهرستان بین (هیلونگ‌جیانگ)",
+      "name:fr": "Xian de Bin",
+      "name:it": "Contea di Bin",
+      "name:ja": "賓県",
+      "name:ko": "빈현",
+      "name:no": "Bin",
+      "name:ru": "Биньсянь",
+      "name:sv": "Bin, Harbin",
+      "name:ur": "بن کاؤنٹی، ہیلونگجیانگ",
+      "name:vi": "Tân, Cáp Nhĩ Tân",
+      "name:zh": "宾县",
+      "alt_name": "宾;Bin County",
+      "name:ceb": "Binzhou",
+      "name:nan": "Pin-koān",
+      "name:zh-Hant": "賓縣",
+      "name:zh_pinyin": "Bīn Xiàn"
+    }
+  },
+  {
+    "name": "Binder",
+    "country": "Chad",
+    "latitude": 9.968471799436468,
+    "longitude": 14.4654473,
+    "other_names": {
+      "name": "Binder",
+      "name:ar": "بندر",
+      "alt_name": "Binder Foulbé;Binder Foulbe;Bindere;Binder"
+    }
+  },
+  {
+    "name": "Binder",
+    "country": "Cameroon",
+    "latitude": 9.968471799436468,
+    "longitude": 14.4654473,
+    "other_names": {
+      "name": "Binder",
+      "name:ar": "بندر",
+      "alt_name": "Binder Foulbé;Binder Foulbe;Bindere;Binder"
+    }
+  },
+  {
+    "name": "Binghamton",
+    "country": "United States Of America",
+    "latitude": 42.09871250049335,
+    "longitude": -75.9125262,
+    "other_names": {
+      "name": "Binghamton",
+      "name:ru": "Бингемптон"
+    }
+  },
+  {
+    "name": "Bingöl",
+    "country": "Turkey",
+    "latitude": 38.88541170010929,
+    "longitude": 40.49660879999999,
+    "other_names": {
+      "name": "Bingöl",
+      "name:ar": "بينكل",
+      "name:hy": "Ճապաղջուր",
+      "name:ku": "Çewlîg",
+      "name:ru": "Бингёль",
+      "name:tr": "Bingöl",
+      "alt_name": "Çevlik;Çolik",
+      "name:zza": "Çolig",
+      "old_name": "Çolik;Çapakçur;Çabakçur",
+      "alt_name:hy": "Ճապղջուր;Ճապաղ;Կթառիճ;Խուլփ;Բինգյոլ",
+      "alt_name:ku": "Çolîg;Çebexçûr"
+    }
+  },
+  {
+    "name": "Binhai",
+    "country": "China",
+    "latitude": 33.9933604996015,
+    "longitude": 119.81469130000002,
+    "other_names": {
+      "name": "滨海县",
+      "name:en": "Binhai",
+      "name:ja": "浜海県",
+      "name:zh": "滨海县",
+      "name:zh-Hant": "濱海縣"
+    }
+  },
+  {
+    "name": "Binhai New Area",
+    "country": "China",
+    "latitude": 39.001577200126135,
+    "longitude": 117.71163869999998,
+    "other_names": {
+      "name": "滨海新区",
+      "name:en": "Binhai New Area",
+      "name:zh": "滨海新区",
+      "name:zh-Hant": "濱海新區"
+    }
+  }
+]

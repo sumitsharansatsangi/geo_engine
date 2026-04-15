@@ -1,0 +1,374 @@
+[
+  {
+    "name": "Rayong",
+    "country": "Thailand",
+    "latitude": 12.68179049964621,
+    "longitude": 101.277765,
+    "other_names": {
+      "name": "ระยอง",
+      "name:en": "Rayong",
+      "name:ja": "ラヨーン",
+      "name:ru": "Районг",
+      "name:th": "ระยอง",
+      "name:uk": "Районг",
+      "official_name": "เทศบาลนครระยอง"
+    }
+  },
+  {
+    "name": "Raytown",
+    "country": "United States Of America",
+    "latitude": 39.01684250012836,
+    "longitude": -94.46304679999999,
+    "other_names": {
+      "name": "Raytown"
+    }
+  },
+  {
+    "name": "Razgrad",
+    "country": "Bulgaria",
+    "latitude": 43.52582110054177,
+    "longitude": 26.523060299999997,
+    "other_names": {
+      "name": "Разград",
+      "name:de": "Rasgrad",
+      "name:el": "Ράζγκραντ",
+      "name:en": "Razgrad",
+      "name:et": "Razgrad",
+      "name:fr": "Razgrad",
+      "name:hr": "Razgrad",
+      "name:nl": "Razgrad",
+      "name:pl": "Razgrad",
+      "name:ro": "Razgrad",
+      "name:ru": "Разград",
+      "name:sr": "Разград",
+      "name:tr": "Razgrad",
+      "int_name": "Razgrad"
+    }
+  },
+  {
+    "name": "Reading",
+    "country": "United States Of America",
+    "latitude": 40.339941848227035,
+    "longitude": -75.92660252290031,
+    "other_names": {
+      "name": "Reading",
+      "name:en": "Reading",
+      "name:pdc": "Reddin",
+      "name:pronunciation": "ˈɹɛdɪŋ",
+      "name:en:pronunciation": "ˈɹɛdɪŋ"
+    }
+  },
+  {
+    "name": "Reading",
+    "country": "United States Of America",
+    "latitude": 40.33534500031173,
+    "longitude": -75.9279495,
+    "other_names": {
+      "name": "Reading",
+      "name:en": "Reading",
+      "name:pdc": "Reddin",
+      "name:pronunciation": "ˈɹɛdɪŋ",
+      "name:en:pronunciation": "ˈɹɛdɪŋ"
+    }
+  },
+  {
+    "name": "Recanto das Emas",
+    "country": "Brazil",
+    "latitude": -15.902548100432304,
+    "longitude": -48.0607778,
+    "other_names": {
+      "name": "Recanto das Emas",
+      "alt_name": "RA XV",
+      "loc_name": "RA 15",
+      "reg_name": "Região Administrativa Quinze"
+    }
+  },
+  {
+    "name": "Recife",
+    "country": "Brazil",
+    "latitude": -8.058493299764228,
+    "longitude": -34.8848193,
+    "other_names": {
+      "name": "Recife",
+      "name:ar": "ريسيفي",
+      "name:be": "Рэсіфі",
+      "name:bg": "Ресифи",
+      "name:bn": "হেসিফি",
+      "name:ce": "Ресифи",
+      "name:de": "Recife",
+      "name:el": "Ρεσίφε",
+      "name:en": "Recife",
+      "name:eo": "Recifo",
+      "name:fa": "ریسیف",
+      "name:he": "רסיפה",
+      "name:hy": "Ռեսիֆի",
+      "name:ja": "レシフェ",
+      "name:ka": "რესიფი",
+      "name:kk": "Ресифи",
+      "name:kn": "ರೆಸಿಫೀ",
+      "name:ko": "헤시피",
+      "name:la": "Recifae",
+      "name:lt": "Resifė",
+      "name:lv": "Resifi",
+      "name:mk": "Ресифе",
+      "name:mn": "Ресифи",
+      "name:mr": "रेसिफे",
+      "name:oc": "Recife",
+      "name:pl": "Recife",
+      "name:pt": "Recife",
+      "name:ru": "Ресифи",
+      "name:sr": "Ресифе",
+      "name:tg": "Ресифи",
+      "name:th": "เรซีฟี",
+      "name:uk": "Ресіфі",
+      "name:uz": "Resifi",
+      "name:zh": "累西腓"
+    }
+  },
+  {
+    "name": "Recklinghausen",
+    "country": "Germany",
+    "latitude": 51.61438149915784,
+    "longitude": 7.197854600000001,
+    "other_names": {
+      "name": "Recklinghausen",
+      "name:ar": "ركلنهوزن",
+      "name:la": "Recklinghusium",
+      "name:ru": "Реклингхаузен",
+      "name:sr": "Реклингхаузен",
+      "name:nds": "Riäkelhusen"
+    }
+  },
+  {
+    "name": "Red Deer",
+    "country": "Canada",
+    "latitude": 52.2697394990982,
+    "longitude": -113.8181766,
+    "other_names": {
+      "name": "Red Deer",
+      "name:en": "Red Deer",
+      "name:ru": "Ред-Дир",
+      "name:uk": "Ред-Дір"
+    }
+  },
+  {
+    "name": "Redding",
+    "country": "United States Of America",
+    "latitude": 40.58635630034344,
+    "longitude": -122.3916754,
+    "other_names": {
+      "name": "Redding"
+    }
+  },
+  {
+    "name": "Redwood City",
+    "country": "United States Of America",
+    "latitude": 37.48632389991131,
+    "longitude": -122.232523,
+    "other_names": {
+      "name": "Redwood City",
+      "name:zh": "红木城",
+      "name:zh-Hans": "红木城",
+      "name:zh-Hant": "紅木城"
+    }
+  },
+  {
+    "name": "Regensburg",
+    "country": "Germany",
+    "latitude": 49.019533299687495,
+    "longitude": 12.0974869,
+    "other_names": {
+      "name": "Regensburg",
+      "name:ar": "ريغنسبورغ",
+      "name:ca": "Ratisbona",
+      "name:cs": "Řezno",
+      "name:de": "Regensburg",
+      "name:el": "Ρατισβόνη",
+      "name:en": "Regensburg",
+      "name:es": "Ratisbona",
+      "name:fr": "Ratisbonne",
+      "name:it": "Ratisbona",
+      "name:la": "Castra Regina",
+      "name:lt": "Rėgensburgas",
+      "name:pl": "Ratyzbona",
+      "name:pt": "Ratisbona",
+      "name:ru": "Регенсбург",
+      "name:sr": "Регензбург",
+      "name:uk": "Регенсбург",
+      "name:zh": "雷根斯堡",
+      "name:bar": "Rengschburg",
+      "name:hsb": "Rězno",
+      "short_name": "Rgbg",
+      "alt_name:en": "Ratisbon",
+      "alt_name:la": "Ratisbona",
+      "name:zh-Hant": "雷根斯堡"
+    }
+  },
+  {
+    "name": "Reggio Calabria",
+    "country": "Italy",
+    "latitude": 38.103538899996614,
+    "longitude": 15.6397556,
+    "other_names": {
+      "name": "Reggio Calabria",
+      "name:ar": "ريدجو كالابريا",
+      "name:ca": "Reggio de Calàbria",
+      "name:el": "Ρήγιο",
+      "name:en": "Reggio Calabria",
+      "name:es": "Regio de Calabria",
+      "name:fa": "رجیو کالابریا",
+      "name:fr": "Reggio de Calabre",
+      "name:he": "רג'ו די קלבריה",
+      "name:ja": "レッジョ・ディ・カラブリア",
+      "name:ko": "레조디칼라브리아",
+      "name:la": "Rhegium",
+      "name:lt": "Kalabrijos Redžas",
+      "name:pt": "Régio da Calábria",
+      "name:ru": "Реджо-ди-Калабрия",
+      "name:uk": "Реджо-Калабрія",
+      "name:zh": "雷焦卡拉布里亞",
+      "alt_name": "Reggio Calabria",
+      "name:scn": "Riggiu Calabbria",
+      "name:zh-Hans": "雷焦卡拉布里亚",
+      "name:zh-Hant": "雷焦卡拉布里亞"
+    }
+  },
+  {
+    "name": "Reggio nell'Emilia",
+    "country": "Italy",
+    "latitude": 44.69783890049427,
+    "longitude": 10.630497099999998,
+    "other_names": {
+      "name": "Reggio Emilia",
+      "name:ca": "Reggio de l'Emília",
+      "name:de": "Reggio Emilia",
+      "name:el": "Ρέτζο Εμίλια",
+      "name:en": "Reggio nell'Emilia",
+      "name:es": "Reggio Emilia",
+      "name:fr": "Reggio d'Émilie",
+      "name:pt": "Reggio Emilia",
+      "name:ru": "Реджо-Эмилия",
+      "name:zh": "雷焦艾米利亚",
+      "alt_name": "Reggio Emilia",
+      "loc_name": "Reggio",
+      "name:egl": "Rèz",
+      "old_name:la": "Regium Lepidi",
+      "name:zh-Hant": "雷焦艾米利亞",
+      "official_name": "Reggio nell'Emilia"
+    }
+  },
+  {
+    "name": "Regina",
+    "country": "Canada",
+    "latitude": 50.44875999935466,
+    "longitude": -104.61730999999999,
+    "other_names": {
+      "name": "Regina",
+      "name:ar": "ريجينا",
+      "name:en": "Regina",
+      "name:ku": "Rêcîna",
+      "name:ru": "Реджайна",
+      "name:ckb": "ڕێجینا"
+    }
+  },
+  {
+    "name": "Reims",
+    "country": "France",
+    "latitude": 49.25778859962874,
+    "longitude": 4.0319259999999995,
+    "other_names": {
+      "name": "Reims",
+      "name:ar": "ريمس",
+      "name:be": "Рэймс",
+      "name:bg": "Реймс",
+      "name:ce": "Реймс",
+      "name:cs": "Remeš",
+      "name:cv": "Реймс",
+      "name:el": "Ρενς",
+      "name:eo": "Reims",
+      "name:fa": "رنس",
+      "name:fr": "Reims",
+      "name:he": "ריימס",
+      "name:hu": "Reims",
+      "name:hy": "Ռեյմս",
+      "name:ja": "ランス",
+      "name:ka": "რეიმსი",
+      "name:kk": "Реймс",
+      "name:ko": "랭스",
+      "name:la": "Durocortorum",
+      "name:lt": "Reimsas",
+      "name:lv": "Reimsa",
+      "name:mk": "Ремс",
+      "name:mr": "रेंस",
+      "name:oc": "Rems",
+      "name:ru": "Реймс",
+      "name:sr": "Ремс",
+      "name:th": "แร็งส์",
+      "name:uk": "Реймс",
+      "name:zh": "兰斯",
+      "name:mzn": "رنس",
+      "name:pnb": "رائیم",
+      "alt_name:eo": "Remso"
+    }
+  },
+  {
+    "name": "Relizane",
+    "country": "Algeria",
+    "latitude": 35.738119299710526,
+    "longitude": 0.5547673,
+    "other_names": {
+      "name": "Relizane Iⴳⵀⵉⵍ Iⵣⴰⵏ غليزان",
+      "name:ar": "غليزان",
+      "name:el": "Ρελιζάν",
+      "name:en": "Relizane",
+      "name:fa": "غلیزان",
+      "name:fr": "Relizane",
+      "name:ks": "غلیزان",
+      "name:lt": "Relizanas",
+      "name:ru": "Гализан",
+      "name:ur": "غلیزان",
+      "name:zh": "埃利赞",
+      "name:azb": "غلیزان",
+      "name:ber": "Iⴳⵀⵉⵍ Iⵣⴰⵏ",
+      "name:kab": "Iɣil n Yizan",
+      "name:pnb": "غلیزان"
+    }
+  },
+  {
+    "name": "Remscheid",
+    "country": "Germany",
+    "latitude": 51.17987059921953,
+    "longitude": 7.194354399999998,
+    "other_names": {
+      "name": "Remscheid",
+      "name:ar": "رمشايد",
+      "name:la": "Remscheidium",
+      "name:ru": "Ремшайд",
+      "name:sr": "Ремшајд"
+    }
+  },
+  {
+    "name": "Rencheng",
+    "country": "China",
+    "latitude": 35.4421740996848,
+    "longitude": 116.60008010000001,
+    "other_names": {
+      "name": "任城区",
+      "name:en": "Rencheng",
+      "name:vi": "Nhiệm Thành",
+      "name:zh": "任城区",
+      "name:zh-Hant": "任城區",
+      "name:zh_pinyin": "Rencheng Qu"
+    }
+  },
+  {
+    "name": "Rengo",
+    "country": "Chile",
+    "latitude": -34.408874399767726,
+    "longitude": -70.86165829999999,
+    "other_names": {
+      "name": "Rengo",
+      "old_name": "Aldea de Río Clarillo"
+    }
+  }
+]

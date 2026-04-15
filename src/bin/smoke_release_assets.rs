@@ -1,6 +1,7 @@
 use std::env;
 use std::error::Error;
 use std::fs;
+use std::path::Path;
 use std::path::PathBuf;
 use std::sync::mpsc;
 use std::time::Duration;
@@ -12,6 +13,9 @@ fn main() -> Result<(), Box<dyn Error>> {
     // Route the default-cache wrappers to the provided asset folder.
     unsafe {
         env::set_var("GEO_ENGINE_CACHE_DIR", &asset_dir);
+        if let Some(manifest_path) = default_manifest_override_path() {
+            env::set_var("GEO_ENGINE_RELEASE_MANIFEST_PATH", manifest_path);
+        }
     }
 
     let config = geo_engine::InitConfig {
@@ -67,8 +71,10 @@ fn main() -> Result<(), Box<dyn Error>> {
     let opened = geo_engine::InitializedGeoEngine::open(
         &all_paths.geo_db_path,
         &all_paths.subdistrict_db_path,
+        &all_paths.subdistrict_meta_path,
         &all_paths.city_fst_path,
-        &all_paths.city_rkyv_path,
+        &all_paths.city_core_path,
+        &all_paths.city_meta_path,
     )?;
 
     println!("checking InitializedGeoEngine::lookup...");
@@ -92,13 +98,17 @@ fn main() -> Result<(), Box<dyn Error>> {
     println!("checking InitializedGeoEngine::open_from_bytes...");
     let country_bytes = fs::read(&all_paths.geo_db_path)?;
     let subdistrict_bytes = fs::read(&all_paths.subdistrict_db_path)?;
+    let subdistrict_meta_bytes = fs::read(&all_paths.subdistrict_meta_path)?;
     let city_fst_bytes = fs::read(&all_paths.city_fst_path)?;
-    let city_rkyv_bytes = fs::read(&all_paths.city_rkyv_path)?;
+    let city_core_bytes = fs::read(&all_paths.city_core_path)?;
+    let city_meta_bytes = fs::read(&all_paths.city_meta_path)?;
     let opened_from_bytes = geo_engine::InitializedGeoEngine::open_from_bytes(
         &country_bytes,
         Some(&subdistrict_bytes),
+        Some(&subdistrict_meta_bytes),
         Some(&city_fst_bytes),
-        Some(&city_rkyv_bytes),
+        Some(&city_core_bytes),
+        Some(&city_meta_bytes),
     )?;
     let bytes_lookup = opened_from_bytes.lookup(lat, lon)?;
     println!(
@@ -188,6 +198,15 @@ fn main() -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
+fn default_manifest_override_path() -> Option<PathBuf> {
+    let manifest_path = Path::new("assets-manifest.json");
+    if manifest_path.exists() {
+        Some(manifest_path.to_path_buf())
+    } else {
+        None
+    }
+}
+
 fn parse_args(
     mut args: impl Iterator<Item = String>,
 ) -> Result<(PathBuf, String, f32, f32), Box<dyn Error>> {
@@ -221,15 +240,21 @@ fn print_all_paths(label: &str, paths: &geo_engine::AllAssetPaths) {
         "    subdistrict_db: {}",
         paths.subdistrict_db_path.display()
     );
+    println!(
+        "    subdistrict_meta: {}",
+        paths.subdistrict_meta_path.display()
+    );
     println!("    city_fst: {}", paths.city_fst_path.display());
-    println!("    city_rkyv: {}", paths.city_rkyv_path.display());
+    println!("    city_core: {}", paths.city_core_path.display());
+    println!("    city_meta: {}", paths.city_meta_path.display());
     println!("    city_points: {}", paths.city_points_path.display());
 }
 
 fn print_city_paths(label: &str, paths: &geo_engine::CityAssetPaths) {
     println!("  {}:", label);
     println!("    fst: {}", paths.fst_path.display());
-    println!("    rkyv: {}", paths.rkyv_path.display());
+    println!("    core: {}", paths.core_path.display());
+    println!("    meta: {}", paths.meta_path.display());
     println!("    points: {}", paths.points_path.display());
 }
 

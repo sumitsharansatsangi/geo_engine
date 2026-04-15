@@ -1,0 +1,361 @@
+[
+  {
+    "name": "Linköping",
+    "country": "Sweden",
+    "latitude": 58.40981350098467,
+    "longitude": 15.624525199999999,
+    "other_names": {
+      "name": "Linköping",
+      "name:ar": "لينشوبينغ",
+      "name:be": "Лінчэпінг",
+      "name:bg": "Линшьопинг",
+      "name:el": "Λινκόπινγκ",
+      "name:fa": "لینشوپینگ",
+      "name:hy": "Լինչոպինգ",
+      "name:ja": "リンシェーピング",
+      "name:ka": "ლინჩეპინგი",
+      "name:ko": "린셰핑",
+      "name:la": "Lincopia",
+      "name:lt": "Linšiopingas",
+      "name:lv": "Linšēpinga",
+      "name:mk": "Линшепинг",
+      "name:ru": "Линчёпинг",
+      "name:sr": "Линћепинг",
+      "name:sv": "Linköping",
+      "name:th": "ลินเชอปิง",
+      "name:uk": "Лінчепінг",
+      "name:zh": "林雪平"
+    }
+  },
+  {
+    "name": "Linkou",
+    "country": "China",
+    "latitude": 45.290069100437975,
+    "longitude": 130.2669756,
+    "other_names": {
+      "name": "林口县",
+      "name:en": "Linkou",
+      "name:ru": "Линькоу",
+      "name:zh": "林口镇",
+      "alt_name": "林口",
+      "name:zh-Hant": "林口縣",
+      "official_name": "林口镇",
+      "name:zh_pinyin": "línkǒu zhèn"
+    }
+  },
+  {
+    "name": "Linli",
+    "country": "China",
+    "latitude": 29.44355149979225,
+    "longitude": 111.64198539999998,
+    "other_names": {
+      "name": "临澧县",
+      "name:en": "Linli",
+      "name:vi": "Lâm Lễ",
+      "name:zh": "临澧县",
+      "alt_name": "临澧;Lin-li Hsien;Linli County",
+      "name:zh-Hant": "臨澧縣",
+      "name:zh_pinyin": "línlǐ xiàn"
+    }
+  },
+  {
+    "name": "LinPing District",
+    "country": "China",
+    "latitude": 30.42170489970383,
+    "longitude": 120.2946532,
+    "other_names": {
+      "name": "临平区",
+      "name:de": "LinPing",
+      "name:en": "LinPing District",
+      "name:es": "LinPing",
+      "name:eu": "LinPing Barrutia",
+      "name:fr": "District de LinPing",
+      "name:it": "Distretto di LinPing",
+      "name:zh": "临平区",
+      "name:zh-Hant": "臨平區",
+      "name:zh_pinyin": "Lín Píng Qū"
+    }
+  },
+  {
+    "name": "Linqing",
+    "country": "China",
+    "latitude": 36.84591979982934,
+    "longitude": 115.71184390000002,
+    "other_names": {
+      "name": "临清市",
+      "name:de": "Linqing",
+      "name:en": "Linqing",
+      "name:fr": "Linqing",
+      "name:ja": "臨清市",
+      "name:ru": "Линьцин",
+      "name:vi": "Lâm Thanh",
+      "name:zh": "临清市",
+      "name:zh-Hant": "臨清市",
+      "name:zh_pinyin": "Línqīng Shì"
+    }
+  },
+  {
+    "name": "Linqu",
+    "country": "China",
+    "latitude": 36.51567719979052,
+    "longitude": 118.5384882,
+    "other_names": {
+      "name": "临朐县",
+      "name:en": "Linqu",
+      "name:zh": "临朐县",
+      "name:lzh": "骈邑",
+      "name:zh-Hant": "臨朐縣"
+    }
+  },
+  {
+    "name": "Linquan",
+    "country": "China",
+    "latitude": 33.065498899587475,
+    "longitude": 115.25782940000002,
+    "other_names": {
+      "name": "临泉县",
+      "name:en": "Linquan",
+      "name:ja": "臨泉県",
+      "name:vi": "Lâm Tuyền",
+      "name:zh": "临泉县",
+      "int_name": "Linquan",
+      "name:zh-Hant": "臨泉縣"
+    }
+  },
+  {
+    "name": "Linshu",
+    "country": "China",
+    "latitude": 34.920282599646384,
+    "longitude": 118.64410330000001,
+    "other_names": {
+      "name": "临沭县",
+      "name:en": "Linshu",
+      "name:zh": "临沭县",
+      "name:zh-Hant": "臨沭縣"
+    }
+  },
+  {
+    "name": "Linshui",
+    "country": "China",
+    "latitude": 30.337461299710718,
+    "longitude": 106.9261715,
+    "other_names": {
+      "name": "邻水县",
+      "name:en": "Linshui",
+      "name:ja": "隣水県",
+      "name:vi": "Lân Thủy",
+      "name:zh": "邻水县",
+      "alt_name": "邻水;Linshui County",
+      "alt_name:vi": "Lân Thuỷ",
+      "name:zh-Hant": "鄰水縣",
+      "name:zh_pinyin": "Linshui Xian"
+    }
+  },
+  {
+    "name": "Lintan",
+    "country": "China",
+    "latitude": 34.69381769963262,
+    "longitude": 103.3513288,
+    "other_names": {
+      "name": "临潭县",
+      "name:bo": "ལིན་ཐན་རྫོང་",
+      "name:en": "Lintan",
+      "name:ja": "臨潭県",
+      "name:zh": "临潭县",
+      "alt_name": "临潭城关镇;临潭;Lin Than;Chengguan;Batsé",
+      "name:zh-Hant": "臨潭縣",
+      "name:zh_pinyin": "líntán xiàn"
+    }
+  },
+  {
+    "name": "Lintao",
+    "country": "China",
+    "latitude": 35.393252699680815,
+    "longitude": 103.8569193,
+    "other_names": {
+      "name": "临洮县",
+      "name:en": "Lintao",
+      "name:ja": "臨トウ県",
+      "name:zh": "临洮县",
+      "alt_name": "临洮;Lintao County;洮阳镇;Taoyang",
+      "name:zh-Hant": "臨洮縣"
+    }
+  },
+  {
+    "name": "Lintong",
+    "country": "China",
+    "latitude": 34.36611129961588,
+    "longitude": 109.21440059999999,
+    "other_names": {
+      "name": "临潼区",
+      "name:en": "Lintong",
+      "name:zh": "临潼区",
+      "name:zh-Hant": "臨潼區"
+    }
+  },
+  {
+    "name": "Linwu",
+    "country": "China",
+    "latitude": 25.27934950023345,
+    "longitude": 112.5588047,
+    "other_names": {
+      "name": "临武县",
+      "name:de": "Linwu",
+      "name:en": "Linwu",
+      "name:fa": "شهرستان لینوو",
+      "name:fr": "Xian de Linwu",
+      "name:it": "Contea di Linwu",
+      "name:ja": "臨武県",
+      "name:ko": "린우현",
+      "name:no": "Linwu",
+      "name:ru": "Линьу",
+      "name:sv": "Linwu",
+      "name:vi": "Lâm Vũ",
+      "name:zh": "临武县",
+      "alt_name": "临武;Linwu County",
+      "name:ceb": "Linwu Xian",
+      "name:hak": "Lìm-vú-yen",
+      "name:nan": "Lîm-bú-koān",
+      "name:yue": "臨武",
+      "name:zh-Hant": "臨武縣",
+      "name:zh_pinyin": "línwǔ xiàn"
+    }
+  },
+  {
+    "name": "Linxi",
+    "country": "China",
+    "latitude": 43.603408700541216,
+    "longitude": 118.0433273,
+    "other_names": {
+      "name": "林西县",
+      "name:en": "Linxi",
+      "name:zh": "林西县",
+      "alt_name": "林西",
+      "name:zh-Hant": "林西縣",
+      "official_name": "林西镇"
+    }
+  },
+  {
+    "name": "Linxi",
+    "country": "China",
+    "latitude": 36.861825799831266,
+    "longitude": 115.4904177,
+    "other_names": {
+      "name": "临西县",
+      "name:en": "Linxi",
+      "name:vi": "Lâm Tây",
+      "name:zh": "临西县",
+      "alt_name": "临西;Linxi County",
+      "name:zh-Hant": "臨西縣",
+      "official_name": "临西镇",
+      "name:zh_pinyin": "Linxi Xian"
+    }
+  },
+  {
+    "name": "Linxia",
+    "country": "China",
+    "latitude": 35.60514939969862,
+    "longitude": 103.24017749999999,
+    "other_names": {
+      "name": "临夏市",
+      "name:de": "Linxia",
+      "name:en": "Linxia",
+      "name:et": "Linxia",
+      "name:fr": "Préfecture Autonome Hui de Linxia",
+      "name:ja": "臨夏回族自治州",
+      "name:ko": "린샤 후이족 자치주",
+      "name:mn": "Линьшя тойрог",
+      "name:ru": "Линься-Хуэйский автономный округ",
+      "name:sd": "لٍشِا خُوِذُو ذِجِجِوْ‎",
+      "name:sr": "Линсја",
+      "name:zh": "临夏市",
+      "alt_name": "临夏回族自治州;Linxia City",
+      "int_name": "Linxia",
+      "name:zh-Hant": "臨夏市",
+      "name:zh_pinyin": "línxià shì"
+    }
+  },
+  {
+    "name": "Linxia",
+    "country": "China",
+    "latitude": 35.60179419969832,
+    "longitude": 103.2074627,
+    "other_names": {
+      "name": "临夏回族自治州",
+      "name:bo": "ཀ་ཆུ་མཁར་",
+      "name:de": "Linxia",
+      "name:en": "Linxia",
+      "name:et": "Linxia",
+      "name:fr": "Préfecture Autonome Hui de Linxia",
+      "name:ja": "臨夏回族自治州",
+      "name:ko": "린샤 후이족 자치주",
+      "name:mn": "Линьшя тойрог",
+      "name:ru": "Линься-Хуэйский автономный округ",
+      "name:sd": "لٍشِا خُوِذُو ذِجِجِوْ‎",
+      "name:sr": "Линсја",
+      "name:tr": "Linxia Hui Özerk İli",
+      "name:vi": "Lâm Hạ",
+      "name:zh": "临夏回族自治州",
+      "alt_name": "临夏回族自治州;Linxia Hui Autonomous Prefecture",
+      "int_name": "Linxia",
+      "old_name": "Guhezhou",
+      "short_name": "临夏州",
+      "name:zh-Hant": "臨夏回族自治州",
+      "name:zh_pinyin": "línxià huízú zìzhìzhōu"
+    }
+  },
+  {
+    "name": "Linxia",
+    "country": "China",
+    "latitude": 35.478735099687825,
+    "longitude": 103.038525,
+    "other_names": {
+      "name": "临夏县",
+      "name:en": "Linxia",
+      "name:ja": "臨夏県",
+      "name:sd": "لٍ ﺷﯿَا ﺷِﯿًﺎ",
+      "name:zh": "临夏县",
+      "alt_name": "临夏;Linxia County;Lin-hsia Hsien",
+      "name:zh-Hant": "臨夏縣",
+      "name:zh_pinyin": "Línxià Xiàn"
+    }
+  },
+  {
+    "name": "Linxiang",
+    "country": "China",
+    "latitude": 23.896823600339292,
+    "longitude": 100.0819288,
+    "other_names": {
+      "name": "临翔区",
+      "name:en": "Linxiang",
+      "name:ja": "臨翔区",
+      "name:ru": "Линьцан",
+      "name:vi": "Lâm Thương",
+      "name:zh": "临翔区",
+      "alt_name": "临翔;Linxiang District",
+      "int_name": "Lincang",
+      "old_name": "缅宁县;缅宁;Mianning;Mianning County",
+      "name:zh-Hant": "臨翔區",
+      "name:zh_pinyin": "Linxiang Qu;Líncāngxiàn"
+    }
+  },
+  {
+    "name": "Linxiang",
+    "country": "China",
+    "latitude": 29.476983499788954,
+    "longitude": 113.4454266,
+    "other_names": {
+      "name": "临湘市",
+      "name:de": "Linxiang",
+      "name:en": "Linxiang",
+      "name:fr": "Linxiang",
+      "name:ja": "臨湘市",
+      "name:vi": "Lâm Tương",
+      "name:zh": "临湘市",
+      "alt_name": "临湘;Linxiang City",
+      "old_name": "临湘县;Linxiang Xian;Lin-hsiang Hsien",
+      "name:zh-Hant": "臨湘市",
+      "name:zh_pinyin": "Línxiāng Shì"
+    }
+  }
+]

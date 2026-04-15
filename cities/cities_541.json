@@ -1,0 +1,404 @@
+[
+  {
+    "name": "Yongchuan",
+    "country": "China",
+    "latitude": 29.358533699800706,
+    "longitude": 105.92426579999999,
+    "other_names": {
+      "name": "永川区",
+      "name:en": "Yongchuan",
+      "name:ru": "Юнчан",
+      "name:uk": "Юнчуань",
+      "name:vi": "Vĩnh Xuyên",
+      "name:zh": "永川区",
+      "name:zh-Hant": "永川區"
+    }
+  },
+  {
+    "name": "Yongchun",
+    "country": "China",
+    "latitude": 25.324204600229386,
+    "longitude": 118.28957520000002,
+    "other_names": {
+      "name": "永春县",
+      "name:en": "Yongchun",
+      "name:es": "Yŏngchūn",
+      "name:fr": "Yongchun",
+      "name:it": "Yongchun",
+      "name:ja": "永春県",
+      "name:ko": "융춘현",
+      "name:uk": "Юнчунь",
+      "name:vi": "Vĩnh Xuân",
+      "name:zh": "永春县",
+      "alt_name": "永春;Yongchun County",
+      "name:cdo": "Īng-chŭng",
+      "name:hak": "Yún-chhûn-yen",
+      "name:nan": "Éng-chhun-koān",
+      "name:yue": "永春",
+      "name:zh-Hant": "永春縣",
+      "name:zh_pinyin": "yǒngchūn xiàn"
+    }
+  },
+  {
+    "name": "Yongde",
+    "country": "China",
+    "latitude": 24.027687700331075,
+    "longitude": 99.2573316,
+    "other_names": {
+      "name": "永德县",
+      "name:de": "Yongde",
+      "name:en": "Yongde",
+      "name:es": "Yongde",
+      "name:fr": "Yongde",
+      "name:vi": "Vĩnh Đức",
+      "name:zh": "永德县",
+      "alt_name": "永德;Yongde County",
+      "name:zh-Hant": "永德縣",
+      "name:zh_pinyin": "Yongde Xian"
+    }
+  },
+  {
+    "name": "Yongdeng",
+    "country": "China",
+    "latitude": 36.73395119981587,
+    "longitude": 103.25863569999999,
+    "other_names": {
+      "name": "永登县",
+      "name:en": "Yongdeng",
+      "name:ja": "永登県",
+      "name:ru": "Юндэн",
+      "name:uk": "Юнден",
+      "name:vi": "Vĩnh Đăng",
+      "name:zh": "永登",
+      "alt_name": "永登;城关;永登城关镇;Chengguan",
+      "name:zh-Hant": "永登縣",
+      "official_name": "城关镇",
+      "name:zh_pinyin": "Yongdeng Xian"
+    }
+  },
+  {
+    "name": "Yongding",
+    "country": "China",
+    "latitude": 29.123280999824622,
+    "longitude": 110.53248339999999,
+    "other_names": {
+      "name": "永定区",
+      "name:de": "Yongding",
+      "name:en": "Yongding",
+      "name:es": "Yongding",
+      "name:fr": "District de Yongding",
+      "name:it": "Distretto di Yongding",
+      "name:ja": "永定区",
+      "name:ko": "융딩구",
+      "name:no": "Yongding",
+      "name:ru": "Юндин",
+      "name:sv": "Yongding",
+      "name:uk": "Юндін",
+      "name:vi": "Vĩnh Định",
+      "name:zh": "永定区",
+      "alt_name": "永定;Yongding District",
+      "name:nan": "Éng-tēng-khu",
+      "name:yue": "永定區",
+      "name:zh-Hant": "永定區",
+      "name:zh_pinyin": "Yongding Qu"
+    }
+  },
+  {
+    "name": "Yongding",
+    "country": "China",
+    "latitude": 24.726440500280578,
+    "longitude": 116.7269188,
+    "other_names": {
+      "name": "永定区",
+      "name:de": "Yongding",
+      "name:en": "Yongding",
+      "name:es": "Yongding",
+      "name:fa": "یانگدینگ",
+      "name:fr": "Yongding",
+      "name:id": "Yongding",
+      "name:it": "Yongding",
+      "name:ja": "永定区",
+      "name:ko": "융딩구",
+      "name:no": "Yongding",
+      "name:sv": "Yongding",
+      "name:uk": "Юндін повіт",
+      "name:ur": "یونگڈنگ کاؤنٹی",
+      "name:vi": "Vĩnh Định",
+      "name:zh": "永定区",
+      "alt_name": "永定;Yongding District",
+      "int_name": "Yǒngdìng",
+      "name:cdo": "Īng-dêng",
+      "name:ceb": "Yongding",
+      "name:hak": "Yún-thin-khî",
+      "name:mwl": "Yongding",
+      "name:nan": "Éng-tēng-khu",
+      "name:yue": "永定",
+      "old_name": "永定县;Yongding County",
+      "name:zh-Hant": "永定區",
+      "name:zh_pinyin": "Yǒngdìng qū"
+    }
+  },
+  {
+    "name": "Yongfeng",
+    "country": "China",
+    "latitude": 27.318855600022466,
+    "longitude": 115.41762049999998,
+    "other_names": {
+      "name": "永丰县",
+      "name:de": "Yongfeng",
+      "name:en": "Yongfeng",
+      "name:fa": "شهرستان یونگفنگ",
+      "name:fr": "Xian de Yongfeng",
+      "name:it": "Contea di Yongfeng",
+      "name:ja": "永豊県",
+      "name:ko": "융펑현",
+      "name:no": "Yongfeng",
+      "name:ru": "Юнфэн",
+      "name:sv": "Yongfeng",
+      "name:uk": "Юнфин",
+      "name:ur": "یونگفینگ کاؤنٹی",
+      "name:vi": "Vĩnh Phong",
+      "name:zh": "永丰县",
+      "alt_name": "永丰;Yongfeng County",
+      "name:ceb": "Yongfeng Xian",
+      "name:gan": "永豐",
+      "name:nan": "Éng-hong-koān",
+      "name:yue": "永豐",
+      "name:zh-Hant": "永豐縣",
+      "name:zh_pinyin": "Yǒngfēng Xiàn"
+    }
+  },
+  {
+    "name": "Yongfu",
+    "country": "China",
+    "latitude": 24.983523200259388,
+    "longitude": 109.9783989,
+    "other_names": {
+      "name": "永福县",
+      "name:en": "Yongfu",
+      "name:ru": "Юнфу",
+      "name:vi": "Vĩnh Phúc",
+      "name:zh": "永福县",
+      "alt_name": "永福;Yongfu County",
+      "name:zh-Hant": "永福縣"
+    }
+  },
+  {
+    "name": "Yonghe",
+    "country": "China",
+    "latitude": 36.761942699819215,
+    "longitude": 110.6267775,
+    "other_names": {
+      "name": "永和县",
+      "name:en": "Yonghe",
+      "name:ja": "永和県",
+      "name:zh": "永和县",
+      "alt_name": "永和;Yung-ho-hsien-ch'eng;Yung-ho-hsien;Yung-ho;Yonghe;Yunkhe;Yunghwohsien;Yonghe County",
+      "name:zh-Hant": "永和縣"
+    }
+  },
+  {
+    "name": "Yongin-si",
+    "country": "South Korea",
+    "latitude": 37.24057409987891,
+    "longitude": 127.17855719999997,
+    "other_names": {
+      "name": "용인시",
+      "name:de": "Yongin",
+      "name:en": "Yongin-si",
+      "name:es": "Yongin",
+      "name:et": "Yongin",
+      "name:fr": "Yongin",
+      "name:ja": "竜仁市",
+      "name:ko": "용인시",
+      "name:pt": "Yongin",
+      "name:zh": "龍仁市",
+      "int_name": "Yongin",
+      "name:ko-Hani": "龍仁市"
+    }
+  },
+  {
+    "name": "Yongji",
+    "country": "China",
+    "latitude": 34.86611849964294,
+    "longitude": 110.44462019999999,
+    "other_names": {
+      "name": "永济市",
+      "name:de": "Yongji",
+      "name:en": "Yongji",
+      "name:fr": "Yongji",
+      "name:ja": "永済市",
+      "name:vi": "Vĩnh Tế",
+      "name:zh": "永济",
+      "int_name": "Yongji",
+      "name:zh-Hant": "永濟市",
+      "name:zh_pinyin": "Yǒngjì Shì"
+    }
+  },
+  {
+    "name": "Yongji",
+    "country": "China",
+    "latitude": 43.66729220054046,
+    "longitude": 126.4951134,
+    "other_names": {
+      "name": "永吉县",
+      "name:en": "Yongji",
+      "name:zh": "永吉县",
+      "alt_name": "永吉;Yongji County;Yongji Xian;Yung-chi Hsien",
+      "name:zh-Hant": "永吉縣"
+    }
+  },
+  {
+    "name": "Yongjia",
+    "country": "China",
+    "latitude": 28.156277999928843,
+    "longitude": 120.68792040000001,
+    "other_names": {
+      "name": "永嘉县",
+      "name:de": "Yongjia",
+      "name:en": "Yongjia",
+      "name:fa": "شهرستان یونگجیا",
+      "name:fr": "Xian de Yongjia",
+      "name:it": "Contea di Yongjia",
+      "name:ja": "永嘉県",
+      "name:ko": "융자현",
+      "name:no": "Yongjia",
+      "name:sv": "Yongjia",
+      "name:ur": "یونگجیہ کاؤنٹی",
+      "name:vi": "Vĩnh Gia",
+      "name:zh": "永嘉县",
+      "name:hak": "Yún-kâ-yen",
+      "name:nan": "Éng-ka-koān",
+      "name:wuu": "永嘉县",
+      "name:yue": "永嘉",
+      "name:zh-Hant": "永嘉縣",
+      "name:zh_pinyin": "Yǒngjiā Xiàn"
+    }
+  },
+  {
+    "name": "Yongjing",
+    "country": "China",
+    "latitude": 35.961235999731706,
+    "longitude": 103.2857142,
+    "other_names": {
+      "name": "永靖县",
+      "name:en": "Yongjing",
+      "name:zh": "永靖县",
+      "alt_name": "永靖;Yongjing County",
+      "name:zh-Hant": "永靖縣",
+      "name:zh_pinyin": "yǒngjìng xiàn"
+    }
+  },
+  {
+    "name": "Yongkang",
+    "country": "China",
+    "latitude": 28.890697799848937,
+    "longitude": 120.04273150000002,
+    "other_names": {
+      "name": "永康市",
+      "name:de": "Yongkang",
+      "name:en": "Yongkang",
+      "name:et": "Yongkang",
+      "name:fr": "Yongkang",
+      "name:ja": "永康市",
+      "name:ki": "Yongkang",
+      "name:ko": "융캉시",
+      "name:no": "Yongkang",
+      "name:pl": "Yongkang",
+      "name:ru": "Юнкан",
+      "name:sv": "Yongkang",
+      "name:tl": "Yongkang",
+      "name:uk": "Юнкан",
+      "name:ur": "یونگکانگ، زھجیانگ",
+      "name:vi": "Vĩnh Khang",
+      "name:zh": "永康市",
+      "int_name": "Yongkang",
+      "name:nan": "Éng-khong-chhī",
+      "name:wuu": "永康市",
+      "name:yue": "永康",
+      "name:zh-Hant": "永康市",
+      "name:zh_pinyin": "Yǒngkāng Shì"
+    }
+  },
+  {
+    "name": "Yongnian",
+    "country": "China",
+    "latitude": 36.77586779982089,
+    "longitude": 114.4862767,
+    "other_names": {
+      "name": "永年区",
+      "name:en": "Yongnian",
+      "name:ja": "永年区",
+      "name:ko": "융녠 현",
+      "name:ru": "Юннянь",
+      "name:uk": "Юннянь",
+      "name:vi": "Vĩnh Niên",
+      "name:zh": "永年区",
+      "alt_name": "永年;Yongnian District",
+      "old_name": "永年县",
+      "name:zh-Hant": "永年區"
+    }
+  },
+  {
+    "name": "Yongning",
+    "country": "China",
+    "latitude": 22.76121440039235,
+    "longitude": 108.48286559999998,
+    "other_names": {
+      "name": "邕宁区",
+      "name:en": "Yongning",
+      "name:zh": "邕宁区",
+      "alt_name": "邕宁;Yongning District;Yung-ning-hsien;Yung-ning",
+      "name:yue": "邕宁区",
+      "old_name": "邕宁县;Yongning County",
+      "name:zh-Hant": "邕寧區",
+      "name:yue-Latn": "Jungning-kyu",
+      "name:zh_pinyin": "yōngníng qū"
+    }
+  },
+  {
+    "name": "Yongning",
+    "country": "China",
+    "latitude": 38.279242200021656,
+    "longitude": 106.24958049999998,
+    "other_names": {
+      "name": "永宁县",
+      "name:en": "Yongning",
+      "name:ja": "永寧県",
+      "name:sd": "ﻳْﻮنٍ ﺷِﯿًﺎ",
+      "name:uk": "Юннін",
+      "name:zh": "永宁县",
+      "alt_name": "永宁;Yongning County;Yung-ning Hsien",
+      "name:zh-Hant": "永寧縣",
+      "name:zh_pinyin": "Yǒngníng Xiàn"
+    }
+  },
+  {
+    "name": "Yongping",
+    "country": "China",
+    "latitude": 25.463649300216513,
+    "longitude": 99.5270468,
+    "other_names": {
+      "name": "永平县",
+      "name:en": "Yongping",
+      "name:vi": "Vĩnh Bình",
+      "name:zh": "永平县",
+      "name:zh-Hant": "永平縣",
+      "name:zh_pinyin": "Yǒngpíngxiàn"
+    }
+  },
+  {
+    "name": "Yongqiao",
+    "country": "China",
+    "latitude": 33.643439899592565,
+    "longitude": 116.97205559999999,
+    "other_names": {
+      "name": "埇桥区",
+      "name:en": "Yongqiao",
+      "name:ja": "ヨウ橋区",
+      "name:ru": "Юнцяо",
+      "name:zh": "埇桥区",
+      "name:zh-Hant": "埇橋區"
+    }
+  }
+]

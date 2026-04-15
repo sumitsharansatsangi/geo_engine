@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Pizhou",
+    "country": "China",
+    "latitude": 34.340270199614714,
+    "longitude": 118.0068173,
+    "other_names": {
+      "name": "邳州市",
+      "name:de": "Pizhou",
+      "name:en": "Pizhou",
+      "name:fr": "Pizhou",
+      "name:ja": "ヒ州市",
+      "name:vi": "Bi Châu",
+      "name:zh": "邳州市",
+      "name:zh-Hant": "邳州市",
+      "name:zh_pinyin": "Pīzhōu Shì"
+    }
+  },
+  {
+    "name": "Plainview",
+    "country": "United States Of America",
+    "latitude": 36.18119309975402,
+    "longitude": -83.79379639999999,
+    "other_names": {
+      "name": "Plainview"
+    }
+  },
+  {
+    "name": "Planaltina",
+    "country": "Brazil",
+    "latitude": -15.618194700417742,
+    "longitude": -47.655570299999994,
+    "other_names": {
+      "name": "Planaltina",
+      "alt_name": "RA VI",
+      "loc_name": "RA 6",
+      "reg_name": "Região Administrativa Seis"
+    }
+  },
+  {
+    "name": "Plano",
+    "country": "United States Of America",
+    "latitude": 33.01367639958761,
+    "longitude": -96.6925096,
+    "other_names": {
+      "name": "Plano"
+    }
+  },
+  {
+    "name": "Plattsburgh",
+    "country": "United States Of America",
+    "latitude": 44.692820000494635,
+    "longitude": -73.45562,
+    "other_names": {
+      "name": "Plattsburgh",
+      "name:en": "Plattsburgh",
+      "name:ru": "Платтсбург",
+      "name:uk": "Платтсбург"
+    }
+  },
+  {
+    "name": "Playa del Carmen",
+    "country": "Mexico",
+    "latitude": 20.630864300395746,
+    "longitude": -87.0779503,
+    "other_names": {
+      "name": "Playa del Carmen",
+      "name:ko": "플라야 델 카르멘",
+      "name:ru": "Плая-дель-Кармен"
+    }
+  },
+  {
+    "name": "Pleiku",
+    "country": "Vietnam",
+    "latitude": 13.97159819978686,
+    "longitude": 108.0143597,
+    "other_names": {
+      "name": "Pleiku",
+      "name:en": "Pleiku",
+      "name:fa": "پلیکو",
+      "name:ja": "プレイク",
+      "name:ko": "쁠래이꾸",
+      "name:ru": "Плейку",
+      "name:sr": "Плеику",
+      "name:th": "เปล็ยกู",
+      "name:uk": "Плейку",
+      "name:ur": "پلیکو",
+      "name:vi": "Pleiku",
+      "name:zh": "波來古市"
+    }
+  },
+  {
+    "name": "Pleven",
+    "country": "Bulgaria",
+    "latitude": 43.40902200054198,
+    "longitude": 24.618012299999997,
+    "other_names": {
+      "name": "Плевен",
+      "name:bg": "Плевен",
+      "name:de": "Plewen",
+      "name:el": "Πλέβεν",
+      "name:en": "Pleven",
+      "name:et": "Pleven",
+      "name:fr": "Pleven",
+      "name:hr": "Pleven",
+      "name:hu": "Pleven",
+      "name:lt": "Plevenas",
+      "name:nl": "Pleven",
+      "name:pl": "Plewen",
+      "name:ro": "Plevna",
+      "name:ru": "Плевен",
+      "name:sk": "Pleven",
+      "name:sr": "Плевен",
+      "name:tr": "Plevne",
+      "name:uk": "Плевен",
+      "int_name": "Pleven"
+    }
+  },
+  {
+    "name": "Pljevlja",
+    "country": "Montenegro",
+    "latitude": 43.356561100541825,
+    "longitude": 19.3584715,
+    "other_names": {
+      "name": "Pljevlja",
+      "name:de": "Pljevlja",
+      "name:en": "Pljevlja",
+      "name:ru": "Плевля",
+      "name:sr": "Пљевља",
+      "name:uk": "Плєвля"
+    }
+  },
+  {
+    "name": "Płock",
+    "country": "Poland",
+    "latitude": 52.54645209908681,
+    "longitude": 19.7008606,
+    "other_names": {
+      "name": "Płock",
+      "name:de": "Plock",
+      "name:ja": "プウォツク",
+      "name:lt": "Plockas",
+      "name:mk": "Плоцк",
+      "name:pl": "Płock",
+      "name:ru": "Плоцк",
+      "name:uk": "Плоцьк",
+      "alt_name:de": "Plotzk;Plozk"
+    }
+  },
+  {
+    "name": "Ploiești",
+    "country": "Romania",
+    "latitude": 44.941746800473695,
+    "longitude": 26.023650399999998,
+    "other_names": {
+      "name": "Ploiești",
+      "name:ru": "Плоешти"
+    }
+  },
+  {
+    "name": "Plovdiv",
+    "country": "Bulgaria",
+    "latitude": 42.141854100496325,
+    "longitude": 24.749929699999996,
+    "other_names": {
+      "name": "Пловдив",
+      "name:ar": "بلوفديف",
+      "name:bg": "Пловдив",
+      "name:br": "Plovdiv",
+      "name:ca": "Plóvdiv",
+      "name:cs": "Plovdiv",
+      "name:cu": "Фїлїппополь",
+      "name:cy": "Plovdiv",
+      "name:da": "Plovdiv",
+      "name:de": "Plowdiw",
+      "name:el": "Φιλιππούπολη (Πλόβντιβ)",
+      "name:en": "Plovdiv",
+      "name:eo": "Plovdiv",
+      "name:es": "Plovdiv",
+      "name:et": "Plovdiv",
+      "name:eu": "Plovdiv",
+      "name:fa": "پلوودیو",
+      "name:fi": "Plovdiv",
+      "name:fr": "Plovdiv",
+      "name:he": "פלובדיב",
+      "name:hr": "Plovdiv",
+      "name:hu": "Plovdiv",
+      "name:hy": "Պլովդիվ",
+      "name:id": "Plovdiv",
+      "name:io": "Plovdiv",
+      "name:is": "Plovdiv",
+      "name:it": "Plovdiv",
+      "name:ja": "プロヴディフ",
+      "name:jv": "Plovdiv",
+      "name:ka": "პლოვდივი",
+      "name:ko": "플로브디프",
+      "name:la": "Philippopolis",
+      "name:lt": "Plovdivas",
+      "name:lv": "Plovdiva",
+      "name:mr": "प्लॉव्हडिव्ह",
+      "name:ms": "Plovdiv",
+      "name:mt": "Plovdiv",
+      "name:nl": "Plovdiv",
+      "name:nn": "Plovdiv",
+      "name:no": "Plovdiv",
+      "name:pl": "Płowdiw",
+      "name:pt": "Plovdiv",
+      "name:ro": "Plovdiv",
+      "name:ru": "Пловдив",
+      "name:sk": "Plovdiv",
+      "name:sl": "Plovdiv",
+      "name:sr": "Пловдив",
+      "name:sv": "Plovdiv",
+      "name:th": "พลอฟดิฟ",
+      "name:tk": "Plowdiw",
+      "name:tl": "Plovdiv",
+      "name:tr": "Filibe",
+      "name:uk": "Пловдив",
+      "name:vi": "Plovdiv",
+      "name:vo": "Plovdiv",
+      "name:yi": "פלאוודיוו",
+      "name:zh": "普羅夫迪夫",
+      "int_name": "Plovdiv",
+      "name:ast": "Plovdiv",
+      "name:zh-Hans": "普罗夫迪夫",
+      "name:zh-Hant": "普羅夫迪夫"
+    }
+  },
+  {
+    "name": "Plymouth",
+    "country": "England",
+    "latitude": 50.37126589937084,
+    "longitude": -4.1425658,
+    "other_names": {
+      "name": "Plymouth",
+      "name:ar": "بليموث",
+      "name:be": "Плімут",
+      "name:cy": "Aberplym",
+      "name:el": "Πλύμουθ",
+      "name:en": "Plymouth",
+      "name:hu": "Plymouth",
+      "name:ja": "プリマス",
+      "name:ko": "플리머스",
+      "name:lt": "Plimutas",
+      "name:mk": "Плимут",
+      "name:ru": "Плимут",
+      "name:sr": "Плимут",
+      "name:uk": "Плімут"
+    }
+  },
+  {
+    "name": "Plzeň",
+    "country": "Czech Republic",
+    "latitude": 49.74774149951065,
+    "longitude": 13.3775249,
+    "other_names": {
+      "name": "Plzeň",
+      "name:ar": "بلزن",
+      "name:cs": "Plzeň",
+      "name:de": "Pilsen",
+      "name:el": "Πίλζεν",
+      "name:fa": "پلزن",
+      "name:hu": "Pilzen",
+      "name:la": "Pilsna",
+      "name:lt": "Pilzenas",
+      "name:nl": "Pilsen",
+      "name:pl": "Pilzno",
+      "name:ru": "Пльзень",
+      "name:sr": "Плзењ",
+      "name:ur": "پلزین",
+      "int_name": "Pilsen",
+      "name:hsb": "Pilzeń",
+      "nat_name": "Plzeň",
+      "alt_name:la": "Pilsenum;Pilsena"
+    }
+  },
+  {
+    "name": "Poá",
+    "country": "Brazil",
+    "latitude": -23.52490819999363,
+    "longitude": -46.3445663,
+    "other_names": {
+      "name": "Poá"
+    }
+  },
+  {
+    "name": "Pobè",
+    "country": "Benin",
+    "latitude": 6.9820237994057734,
+    "longitude": 2.6667910000000004,
+    "other_names": {
+      "name": "Pobè",
+      "name:ar": "بوبه",
+      "name:ru": "Побе",
+      "alt_name": "Pobé"
+    }
+  },
+  {
+    "name": "Pocatello",
+    "country": "United States Of America",
+    "latitude": 42.868861300532856,
+    "longitude": -112.4401098,
+    "other_names": {
+      "name": "Pocatello",
+      "name:en": "Pocatello",
+      "name:ru": "Покателло",
+      "name:uk": "Покателло"
+    }
+  },
+  {
+    "name": "Pocheon-si",
+    "country": "South Korea",
+    "latitude": 37.89482669996725,
+    "longitude": 127.2007295,
+    "other_names": {
+      "name": "포천시",
+      "name:de": "Pocheon",
+      "name:en": "Pocheon-si",
+      "name:es": "Pocheon",
+      "name:et": "Pocheon",
+      "name:fr": "Pocheon",
+      "name:ja": "抱川市",
+      "name:ko": "포천시",
+      "name:vi": "Pocheon",
+      "name:zh": "抱川市",
+      "int_name": "Pocheon",
+      "alt_name:vi": "Bão Xuyên",
+      "name:ko-Hani": "抱川市"
+    }
+  },
+  {
+    "name": "Poços de Caldas",
+    "country": "Brazil",
+    "latitude": -21.79003180022142,
+    "longitude": -46.5647928,
+    "other_names": {
+      "name": "Poços de Caldas"
+    }
+  },
+  {
+    "name": "Podgorica",
+    "country": "Montenegro",
+    "latitude": 42.44152380051456,
+    "longitude": 19.262108099999995,
+    "other_names": {
+      "name": "Podgorica",
+      "name:am": "ፖድጎሪጻ",
+      "name:ar": "بودغوريتسا",
+      "name:az": "Podqoritsa",
+      "name:be": "Падгорыца",
+      "name:bg": "Подгорица",
+      "name:cu": "Подъгорица",
+      "name:cv": "Подгорица",
+      "name:de": "Podgorica",
+      "name:el": "Ποντγκόριτσα",
+      "name:en": "Podgorica",
+      "name:eo": "Podgorico",
+      "name:es": "Podgorica",
+      "name:fa": "پودگوریتسا",
+      "name:fr": "Podgorica",
+      "name:fy": "Podgorytsa",
+      "name:ga": "Podgairítse",
+      "name:gl": "Podgorica",
+      "name:he": "פודגוריצה",
+      "name:hu": "Podgorica",
+      "name:hy": "Պոդգորիցա",
+      "name:is": "Podgorica",
+      "name:it": "Podgorizza",
+      "name:ja": "ポドゴリツァ",
+      "name:ka": "პოდგორიცა",
+      "name:kk": "Подгорица",
+      "name:ko": "포드고리차",
+      "name:ku": "Podgorica",
+      "name:la": "Birziminium",
+      "name:mk": "Подгорица",
+      "name:mr": "पॉडगोरिका",
+      "name:no": "Podgorica",
+      "name:os": "Подгорицæ",
+      "name:pl": "Podgorica",
+      "name:ru": "Подгорица",
+      "name:sh": "Podgorica",
+      "name:sl": "Podgorica",
+      "name:sr": "Подгорица",
+      "name:sv": "Podgorica",
+      "name:ta": "பத்கரீத்சா",
+      "name:tg": "Подгоритса",
+      "name:th": "พอดกอรีตซา",
+      "name:tr": "Podgoritsa",
+      "name:uk": "Подгориця",
+      "name:ur": "پوڈگوریکا",
+      "name:vi": "Podgorica",
+      "name:wo": "Podgorika",
+      "name:zh": "波德戈里察",
+      "name:ast": "Podgorica",
+      "name:ckb": "پۆدگۆریسا",
+      "name:diq": "Podgorika",
+      "name:mhr": "Подгорица",
+      "name:nah": "Podgoritza",
+      "name:nov": "Podgoritsa",
+      "name:sah": "Подгорица",
+      "name:scn": "Podgòrica",
+      "old_name": "Titograd",
+      "old_name:bs": "Titograd",
+      "old_name:de": "Titograd;Podgoritza",
+      "old_name:fr": "Titograde;Podgoritsa",
+      "old_name:hr": "Titograd",
+      "old_name:it": "Titogrado",
+      "old_name:sh": "Titograd",
+      "old_name:sr": "Титоград",
+      "old_name:vi": "Titograd",
+      "name:sr-Latn": "Podgorica",
+      "name:be-tarask": "Падгорыца",
+      "old_name:sr-Latn": "Titograd"
+    }
+  }
+]

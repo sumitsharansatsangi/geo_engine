@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Marikina",
+    "country": "Philippines",
+    "latitude": 14.647098875730197,
+    "longitude": 121.10513452303341,
+    "other_names": {
+      "name": "Marikina",
+      "name:ja": "マリキナ",
+      "name:ru": "Марикина"
+    }
+  },
+  {
+    "name": "Marikina",
+    "country": "Philippines",
+    "latitude": 14.633108399863959,
+    "longitude": 121.09935410000001,
+    "other_names": {
+      "name": "Marikina",
+      "name:ja": "マリキナ",
+      "name:ru": "Марикина"
+    }
+  },
+  {
+    "name": "Marília",
+    "country": "Brazil",
+    "latitude": -22.217108000169862,
+    "longitude": -49.95006,
+    "other_names": {
+      "name": "Marília",
+      "name:ru": "Марилия",
+      "old_name": "Alto Cafezal"
+    }
+  },
+  {
+    "name": "Marín",
+    "country": "Venezuela",
+    "latitude": 10.386146588462681,
+    "longitude": -68.68131601689994,
+    "other_names": {
+      "name": "Marín"
+    }
+  },
+  {
+    "name": "Marín",
+    "country": "Venezuela",
+    "latitude": 10.387864499458793,
+    "longitude": -68.67980060000001,
+    "other_names": {
+      "name": "Marín"
+    }
+  },
+  {
+    "name": "Maringá",
+    "country": "Brazil",
+    "latitude": -23.42526900000779,
+    "longitude": -51.9382078,
+    "other_names": {
+      "name": "Maringá",
+      "name:bg": "Маринга",
+      "name:ja": "マリンガ",
+      "name:ko": "마링가",
+      "name:mk": "Маринга",
+      "name:ru": "Маринга",
+      "name:sr": "Маринга",
+      "name:zh": "馬林加"
+    }
+  },
+  {
+    "name": "Marinha Grande",
+    "country": "Portugal",
+    "latitude": 39.7495952002329,
+    "longitude": -8.9298895,
+    "other_names": {
+      "name": "Marinha Grande"
+    }
+  },
+  {
+    "name": "Marituba",
+    "country": "Brazil",
+    "latitude": -1.3595305998701575,
+    "longitude": -48.336150399999994,
+    "other_names": {
+      "name": "Marituba"
+    }
+  },
+  {
+    "name": "Mariupol",
+    "country": "Ukraine",
+    "latitude": 47.09576480014141,
+    "longitude": 37.54996210000001,
+    "other_names": {
+      "name": "Маріуполь",
+      "name:am": "ማሪኡፖል",
+      "name:ar": "ماريوبول",
+      "name:az": "Mariupol",
+      "name:be": "Марыупаль",
+      "name:bg": "Мариупол",
+      "name:bn": "মরিউপল্",
+      "name:ca": "Mariupol",
+      "name:ce": "Мариуполь",
+      "name:cs": "Mariupol",
+      "name:cu": "Марїоуполь",
+      "name:cv": "Мариуполь",
+      "name:cy": "Mariupol",
+      "name:da": "Mariupol",
+      "name:de": "Mariupol",
+      "name:el": "Μαριούπολη",
+      "name:en": "Mariupol",
+      "name:eo": "Mariupolo",
+      "name:es": "Mariupol",
+      "name:et": "Mariupol",
+      "name:eu": "Mariupol",
+      "name:fa": "ماریوپول",
+      "name:fi": "Mariupol",
+      "name:fr": "Marioupol",
+      "name:ga": "Mariupol",
+      "name:gl": "Mariupol",
+      "name:gu": "મરિઉપોલ",
+      "name:he": "מריאופול",
+      "name:hi": "मरिउपल",
+      "name:hr": "Mariupolj",
+      "name:hu": "Mariupol",
+      "name:hy": "Մարիուպոլ",
+      "name:id": "Mariupol",
+      "name:io": "Mariupol",
+      "name:it": "Mariupol'",
+      "name:ja": "マリウポリ",
+      "name:jv": "Mariupol",
+      "name:ka": "მარიუპოლი",
+      "name:kk": "Мариуполь",
+      "name:kl": "Mariupol",
+      "name:km": "ហ្មរិឩពឡ",
+      "name:kn": "ಮರಿಉಪೊಲ್",
+      "name:ko": "마리우폴",
+      "name:kv": "Мариуполь",
+      "name:ky": "Мариуполь",
+      "name:la": "Mariupolis",
+      "name:lo": "ມະຣິວຸລ",
+      "name:lt": "Mariupolis",
+      "name:lv": "Mariupole",
+      "name:mk": "Мариупол",
+      "name:mn": "Мариуполь",
+      "name:mr": "मरिउपोल",
+      "name:ms": "Mariupol",
+      "name:mt": "Mariupol",
+      "name:nl": "Marioepol",
+      "name:nn": "Mariupol",
+      "name:no": "Mariupol",
+      "name:oc": "Mariupol",
+      "name:os": "Мариуполь",
+      "name:pl": "Mariupol",
+      "name:pt": "Mariupol",
+      "name:ro": "Mariupol",
+      "name:ru": "Мариуполь",
+      "name:sk": "Mariupoľ",
+      "name:sq": "Mariupol",
+      "name:sr": "Маријупољ",
+      "name:sv": "Mariupol",
+      "name:sw": "Mariupol",
+      "name:te": "మరిఉపొల్",
+      "name:tg": "Мариуполь",
+      "name:th": "มารีอูปัล",
+      "name:ti": "ማሪኡፖል",
+      "name:tk": "Mariupol",
+      "name:tl": "Mariupol",
+      "name:tr": "Mariupol",
+      "name:uk": "Маріуполь",
+      "name:ur": "مروپل",
+      "name:uz": "Mariupol",
+      "name:vi": "Mariupol",
+      "name:vo": "Mariupol",
+      "name:yi": "מאריופאל",
+      "name:zh": "马里乌波尔",
+      "name:crh": "Mariupol",
+      "name:hsb": "Mariupol",
+      "name:kbd": "Мариупол",
+      "name:mdf": "Мариуполь",
+      "name:mrj": "Мариуполь",
+      "name:rue": "Маріуполь",
+      "name:vep": "Mariupol'",
+      "name:war": "Mariupol",
+      "name:be-tarask": "Марыюпаль"
+    }
+  },
+  {
+    "name": "Marj",
+    "country": "Libya",
+    "latitude": 32.48531669959422,
+    "longitude": 20.832738,
+    "other_names": {
+      "name": "المرج",
+      "name:ar": "المرج",
+      "name:cs": "Mardž",
+      "name:de": "El Merdj",
+      "name:en": "Marj",
+      "name:es": "Al Marj",
+      "name:fr": "Al Marj",
+      "name:it": "Barce",
+      "name:pl": "Al-Mardż",
+      "name:ru": "Эль-Мардж",
+      "name:uk": "Ель-Мардж",
+      "alt_name": "El Merj",
+      "int_name": "Al Marj",
+      "old_name": "Barce",
+      "alt_name:it": "Barca",
+      "old_name:cs": "Barka"
+    }
+  },
+  {
+    "name": "Markam",
+    "country": "China",
+    "latitude": 29.682917799769015,
+    "longitude": 98.5940023,
+    "other_names": {
+      "name": "芒康县",
+      "name:bo": "སྨར་ཁམས",
+      "name:en": "Markam",
+      "name:vi": "Markam",
+      "name:zh": "芒康县",
+      "alt_name": "芒康;Mangkang County;Ning-ching;Markham;Ka-t'o;Chiang-k'a-tsung;Ningtsin;Ning-ching-hsien;Mangkang;Mang-k'ang;Chiang-k'a;Chiang-ch'ia",
+      "int_name": "Markhan",
+      "alt_name:vi": "Mang Khang",
+      "name:zh-Hant": "芒康縣",
+      "name:zh_pinyin": "Mángkāng Xiàn"
+    }
+  },
+  {
+    "name": "Markham",
+    "country": "Canada",
+    "latitude": 43.85637070053684,
+    "longitude": -79.33768249999999,
+    "other_names": {
+      "name": "Markham"
+    }
+  },
+  {
+    "name": "Marlborough",
+    "country": "United States Of America",
+    "latitude": 42.3459271005092,
+    "longitude": -71.5522874,
+    "other_names": {
+      "name": "Marlborough"
+    }
+  },
+  {
+    "name": "Maro",
+    "country": "Chad",
+    "latitude": 8.415206999391831,
+    "longitude": 18.7676943,
+    "other_names": {
+      "name": "Maro مارو",
+      "name:ar": "مارو",
+      "name:de": "Maro",
+      "name:en": "Maro",
+      "name:fr": "Maro"
+    }
+  },
+  {
+    "name": "Maroochydore",
+    "country": "Australia",
+    "latitude": -26.655652299553964,
+    "longitude": 153.09466839999996,
+    "other_names": {
+      "name": "Maroochydore",
+      "name:ja": "マルーチードール",
+      "name:zh": "马卢奇郡"
+    }
+  },
+  {
+    "name": "Maroua",
+    "country": "Cameroon",
+    "latitude": 10.603308299471857,
+    "longitude": 14.328162499999998,
+    "other_names": {
+      "name": "Maroua",
+      "name:ar": "مروة",
+      "name:en": "Maroua",
+      "name:ko": "마루아",
+      "name:ru": "Маруа",
+      "name:uk": "Маруа",
+      "alt_name:ar": "ماروا"
+    }
+  },
+  {
+    "name": "Marquette",
+    "country": "United States Of America",
+    "latitude": 46.54349140025021,
+    "longitude": -87.396433,
+    "other_names": {
+      "name": "Marquette",
+      "name:en": "Marquette"
+    }
+  },
+  {
+    "name": "Marrakesh",
+    "country": "Morocco",
+    "latitude": 31.625825699624816,
+    "longitude": -7.9891608000000005,
+    "other_names": {
+      "name": "Marrakech ⵎⵕⵕⴰⴽⵛ مراكش",
+      "name:ar": "مراكش",
+      "name:cs": "Marrákeš",
+      "name:de": "Marrakesch",
+      "name:en": "Marrakesh",
+      "name:eo": "Marakeŝo",
+      "name:es": "Marrakesh",
+      "name:et": "Marrakech",
+      "name:fa": "مراکش",
+      "name:fr": "Marrakech",
+      "name:gl": "Marraquex",
+      "name:he": "מרקש",
+      "name:hi": "मराकेश",
+      "name:ku": "Marakeş",
+      "name:pl": "Marrakesz",
+      "name:pt": "Marraquexe",
+      "name:ru": "Марракеш",
+      "name:ur": "مراکش",
+      "int_name": "Marrakech",
+      "name:ber": "ⵎⵕⵕⴰⴽⵯⵛ",
+      "name:zgh": "ⵎⵕⵕⴰⴽⵛ",
+      "alt_name:gl": "Marrakech"
+    }
+  },
+  {
+    "name": "Marsa Alam",
+    "country": "Egypt",
+    "latitude": 25.06999200025197,
+    "longitude": 34.893817,
+    "other_names": {
+      "name": "مرسى علم",
+      "name:ar": "مرسى علم",
+      "name:de": "Marsa Alam",
+      "name:en": "Marsa Alam",
+      "name:es": "Marsa Alam",
+      "name:fa": "مرسی علم",
+      "name:fr": "Marsa Alam",
+      "name:hi": "मरसा आलम",
+      "name:ru": "Марса Алам",
+      "name:azb": "مرسی علم"
+    }
+  },
+  {
+    "name": "Marsa Alam City",
+    "country": "Egypt",
+    "latitude": 25.076169933439328,
+    "longitude": 34.880069436439285,
+    "other_names": {
+      "name": "مدينة مرسى علم",
+      "name:ar": "مدينة مرسى علم",
+      "name:en": "Marsa Alam City"
+    }
+  }
+]

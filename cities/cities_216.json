@@ -1,0 +1,349 @@
+[
+  {
+    "name": "Jizhou",
+    "country": "China",
+    "latitude": 40.044438100273325,
+    "longitude": 117.4026482,
+    "other_names": {
+      "name": "蓟州区",
+      "name:en": "Jizhou",
+      "name:zh": "蓟州区",
+      "name:zh-Hant": "薊州區"
+    }
+  },
+  {
+    "name": "Jizhou",
+    "country": "China",
+    "latitude": 27.145536000041766,
+    "longitude": 114.99037269999998,
+    "other_names": {
+      "name": "吉州区",
+      "name:en": "Jizhou",
+      "name:vi": "Cát Châu",
+      "name:zh": "吉州区",
+      "alt_name": "吉州;Jizhou District",
+      "name:zh-Hant": "吉州區",
+      "name:zh_pinyin": "jízhōu qū"
+    }
+  },
+  {
+    "name": "Jizhou",
+    "country": "China",
+    "latitude": 37.543721999919015,
+    "longitude": 115.57955929999999,
+    "other_names": {
+      "name": "冀州区",
+      "name:de": "Jizhou",
+      "name:en": "Jizhou",
+      "name:fr": "Jizhou",
+      "name:ja": "冀州区",
+      "name:vi": "Ký Châu",
+      "name:zh": "冀州区",
+      "alt_name": "冀州;Jizhou District",
+      "name:zh-Hant": "冀州區",
+      "official_name": "冀州镇",
+      "name:zh_pinyin": "Jìzhōu Qū"
+    }
+  },
+  {
+    "name": "Jizzax",
+    "country": "Uzbekistan",
+    "latitude": 40.13317970028521,
+    "longitude": 67.8234081,
+    "other_names": {
+      "name": "Jizzax",
+      "name:en": "Jizzax",
+      "name:fr": "Djizak",
+      "name:ja": "ジザフ",
+      "name:ru": "Джизак",
+      "name:uk": "Джізак",
+      "name:uz": "Jizzax",
+      "int_name": "Jizzakh"
+    }
+  },
+  {
+    "name": "Jizzax",
+    "country": "Uzbekistan",
+    "latitude": 40.12416731068046,
+    "longitude": 67.8400189951009,
+    "other_names": {
+      "name": "Jizzax",
+      "name:en": "Jizzax",
+      "name:ja": "ジザフ",
+      "name:ru": "Джизак",
+      "name:uk": "Джизак",
+      "name:uz": "Jizzax",
+      "int_name": "Jizzakh"
+    }
+  },
+  {
+    "name": "João Pessoa",
+    "country": "Brazil",
+    "latitude": -7.121598099716009,
+    "longitude": -34.882028,
+    "other_names": {
+      "name": "João Pessoa",
+      "name:ar": "جواو بيسوا",
+      "name:be": "Жуан-Песоа",
+      "name:bg": "Жоао Песоа",
+      "name:de": "João Pessoa",
+      "name:en": "João Pessoa",
+      "name:eo": "Ĵoan-Pesoo",
+      "name:fa": "ژوائوپسوا",
+      "name:he": "ז'ואאו פסואה",
+      "name:hy": "Ժուան Պեսոա",
+      "name:ja": "ジョアンペソア",
+      "name:ka": "ჟუან-პესოა",
+      "name:kk": "Жуан-Песоа",
+      "name:ko": "주앙페소아",
+      "name:lt": "Žoan Pesoa",
+      "name:lv": "Žuaunpesoa",
+      "name:mk": "Јоô Песоа",
+      "name:mr": "होआव पेसोआ",
+      "name:os": "Жуан-Песоæ",
+      "name:pl": "João Pessoa",
+      "name:pt": "João Pessoa",
+      "name:ru": "Жуан-Песоа",
+      "name:sh": "Žoao Pesoa",
+      "name:sr": "Жоао Песоа",
+      "name:tg": "Жуан-Песоа",
+      "name:uk": "Жуан-Пессоа",
+      "name:uz": "Juan-Pesoa",
+      "name:zh": "若昂佩索阿",
+      "int_name": "Joao Pessoa",
+      "loc_name": "Jampa"
+    }
+  },
+  {
+    "name": "Jocoaitique",
+    "country": "El Salvador",
+    "latitude": 13.90628179977937,
+    "longitude": -88.1581769,
+    "other_names": {
+      "name": "Jocoaitique"
+    }
+  },
+  {
+    "name": "Jocoro",
+    "country": "El Salvador",
+    "latitude": 13.612095599746032,
+    "longitude": -88.0248098,
+    "other_names": {
+      "name": "Jocoro"
+    }
+  },
+  {
+    "name": "Jodhpur",
+    "country": "India",
+    "latitude": 26.29677190013368,
+    "longitude": 73.0351433,
+    "other_names": {
+      "name": "Jodhpur",
+      "name:ar": "جودبور",
+      "name:en": "Jodhpur",
+      "name:fa": "جوداپور",
+      "name:gu": "જોધપુર",
+      "name:he": "ג'ודפור",
+      "name:hi": "जोधपुर",
+      "name:ja": "ジョードプル",
+      "name:kn": "ಜೋಧ್ಪುರ್",
+      "name:pt": "Jodhpur",
+      "name:ru": "Джодхпур",
+      "name:ta": "சோத்பூர்",
+      "name:uk": "Джодхпур",
+      "name:ur": "جودھ پور",
+      "name:zh": "焦特布尔"
+    }
+  },
+  {
+    "name": "Jodhpur",
+    "country": "India",
+    "latitude": 26.27314362240929,
+    "longitude": 73.02586804703056,
+    "other_names": {
+      "name": "Jodhpur",
+      "name:ar": "جودبور",
+      "name:en": "Jodhpur",
+      "name:fa": "جوداپور",
+      "name:he": "ג'ודפור",
+      "name:hi": "जोधपुर",
+      "name:pa": "ਜੋਧਪੁਰ",
+      "name:ta": "சோத்பூர்",
+      "name:ur": "جودھ پور",
+      "alt_name:ar": "جوده بور"
+    }
+  },
+  {
+    "name": "Joensuu",
+    "country": "Finland",
+    "latitude": 62.600625701263176,
+    "longitude": 29.7584591,
+    "other_names": {
+      "name": "Joensuu",
+      "name:fi": "Joensuu",
+      "name:lt": "Joensū",
+      "name:ru": "Йоэнсуу",
+      "name:uk": "Йоенсуу"
+    }
+  },
+  {
+    "name": "Joetsu",
+    "country": "Japan",
+    "latitude": 37.147881599866984,
+    "longitude": 138.2359501,
+    "other_names": {
+      "name": "上越市",
+      "name:ar": "جويتسو، نييغاتا",
+      "name:de": "Jōetsu",
+      "name:en": "Joetsu",
+      "name:es": "Jōetsu",
+      "name:fr": "Jōetsu",
+      "name:ja": "上越市",
+      "name:ko": "조에쓰시",
+      "name:pl": "Jōetsu",
+      "name:ru": "Дзёэцу",
+      "name:uk": "Дзьоецу",
+      "int_name": "Jōetsu",
+      "name:ja_rm": "Jōetsu-shi",
+      "name:ja_kana": "じょうえつし"
+    }
+  },
+  {
+    "name": "Johannesburg",
+    "country": "South Africa",
+    "latitude": -26.204999999611275,
+    "longitude": 28.049721999999996,
+    "other_names": {
+      "name": "Johannesburg",
+      "name:ar": "جوهانسبرغ",
+      "name:be": "Яганэсбург",
+      "name:eo": "Johanesburgo",
+      "name:es": "Johannesburgo",
+      "name:fr": "Johannesbourg",
+      "name:hi": "जोहान्सबर्ग",
+      "name:ja": "ヨハネスブルグ",
+      "name:kn": "ಜೊಹಣೆಸ್ಬೆರ್ಗ್",
+      "name:ko": "요하네스버그",
+      "name:oc": "Johannesburg",
+      "name:pt": "Joanesburgo",
+      "name:ru": "Йоханнесбург",
+      "name:uk": "Йоханнесбург",
+      "name:zh": "約翰内斯堡",
+      "name:zu": "iGoli",
+      "alt_name:be": "Іаганесбург"
+    }
+  },
+  {
+    "name": "Johannesburg",
+    "country": "South Africa And Lesotho",
+    "latitude": -26.204999999611275,
+    "longitude": 28.049721999999996,
+    "other_names": {
+      "name": "Johannesburg",
+      "name:ar": "جوهانسبرغ",
+      "name:be": "Яганэсбург",
+      "name:eo": "Johanesburgo",
+      "name:es": "Johannesburgo",
+      "name:fr": "Johannesbourg",
+      "name:hi": "जोहान्सबर्ग",
+      "name:ja": "ヨハネスブルグ",
+      "name:kn": "ಜೊಹಣೆಸ್ಬೆರ್ಗ್",
+      "name:ko": "요하네스버그",
+      "name:oc": "Johannesburg",
+      "name:pt": "Joanesburgo",
+      "name:ru": "Йоханнесбург",
+      "name:uk": "Йоханнесбург",
+      "name:zh": "約翰内斯堡",
+      "name:zu": "iGoli",
+      "alt_name:be": "Іаганесбург"
+    }
+  },
+  {
+    "name": "Joharabad",
+    "country": "Pakistan",
+    "latitude": 32.286406699599176,
+    "longitude": 72.2878819,
+    "other_names": {
+      "name": "جوہرآباد",
+      "name:en": "Joharabad"
+    }
+  },
+  {
+    "name": "Johns Creek",
+    "country": "United States Of America",
+    "latitude": 34.018155699602296,
+    "longitude": -84.190196,
+    "other_names": {
+      "name": "Johns Creek"
+    }
+  },
+  {
+    "name": "Johnson City",
+    "country": "United States Of America",
+    "latitude": 36.31343979976809,
+    "longitude": -82.35347279999999,
+    "other_names": {
+      "name": "Johnson City",
+      "name:en": "Johnson City",
+      "name:ru": "Джонсон-Сити"
+    }
+  },
+  {
+    "name": "Johnstown",
+    "country": "United States Of America",
+    "latitude": 43.00686890053673,
+    "longitude": -74.3676437,
+    "other_names": {
+      "name": "Johnstown"
+    }
+  },
+  {
+    "name": "Johor Bahru",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 1.4728118998434512,
+    "longitude": 103.76426509999999,
+    "other_names": {
+      "name": "Johor Bahru",
+      "name:ar": "جوهر بهرو",
+      "name:el": "Τζοχόρ Μπάχρου",
+      "name:en": "Johor Bahru",
+      "name:fa": "جوهور بهرو",
+      "name:ja": "ジョホールバル",
+      "name:ko": "조호르바루",
+      "name:lt": "Džohor Baru",
+      "name:ru": "Джохор-Бару",
+      "name:ta": "ஜொகூர் பாரு",
+      "name:th": "โจโฮร์บะฮ์รู",
+      "name:uk": "Джохор-Бару",
+      "name:ur": "جوھر بھرو ضلع",
+      "name:zh": "新山",
+      "short_name": "JB",
+      "name:zh_pinyin": "Xīnshān"
+    }
+  },
+  {
+    "name": "Joinville",
+    "country": "Brazil",
+    "latitude": -26.304489799598286,
+    "longitude": -48.84867259999999,
+    "other_names": {
+      "name": "Joinville",
+      "name:bg": "Жойнвили",
+      "name:he": "ז'וינווילי",
+      "name:ja": "ジョインヴィレ",
+      "name:ka": "ჟოინვილი",
+      "name:ko": "조인빌리",
+      "name:la": "Ioannevilla",
+      "name:lt": "Žoinvilis",
+      "name:lv": "Žoinvile",
+      "name:mk": "Џоинвил",
+      "name:os": "Жоинвили",
+      "name:pt": "Joinville",
+      "name:ru": "Жоинвили",
+      "name:sr": "Жоинвиле",
+      "name:zh": "若茵维莱",
+      "loc_name": "Chuville",
+      "reg_name": "Cidade das Flores;Cidade dos Príncipes;Cidade da Dança;Cidade das Bicicletas;Manchester Catarinense"
+    }
+  }
+]

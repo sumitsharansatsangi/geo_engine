@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Flint",
+    "country": "United States Of America",
+    "latitude": 43.01616930053695,
+    "longitude": -83.6900211,
+    "other_names": {
+      "name": "Flint",
+      "name:en": "Flint",
+      "name:fa": "فلینت",
+      "name:ru": "Флинт",
+      "name:uk": "Флінт"
+    }
+  },
+  {
+    "name": "Florence",
+    "country": "United States Of America",
+    "latitude": 34.79980999963885,
+    "longitude": -87.677251,
+    "other_names": {
+      "name": "Florence"
+    }
+  },
+  {
+    "name": "Florence",
+    "country": "Italy",
+    "latitude": 43.76987120053877,
+    "longitude": 11.255575699999998,
+    "other_names": {
+      "name": "Firenze",
+      "name:ar": "فلورنسا",
+      "name:be": "Фларэнцыя",
+      "name:ca": "Florència",
+      "name:cs": "Florencie",
+      "name:de": "Florenz",
+      "name:el": "Φλωρεντία",
+      "name:en": "Florence",
+      "name:eo": "Florenco",
+      "name:es": "Florencia",
+      "name:fa": "فلورانس",
+      "name:fr": "Florence",
+      "name:gl": "Florencia",
+      "name:he": "פירנצה",
+      "name:hr": "Firenca",
+      "name:it": "Firenze",
+      "name:ja": "フィレンツェ",
+      "name:la": "Florentia",
+      "name:lb": "Florenz",
+      "name:lt": "Florencija",
+      "name:nl": "Florence",
+      "name:pl": "Florencja",
+      "name:pt": "Florença",
+      "name:ru": "Флоренция",
+      "name:sk": "Florencia",
+      "name:sl": "Firence",
+      "name:sv": "Florens",
+      "name:tt": "Флоренция",
+      "name:uk": "Флоренція",
+      "name:zh": "佛罗伦萨",
+      "int_name": "Florence",
+      "old_name": "Florentia",
+      "alt_name:gl": "Florenza"
+    }
+  },
+  {
+    "name": "Florence",
+    "country": "United States Of America",
+    "latitude": 34.19844349960879,
+    "longitude": -79.7671658,
+    "other_names": {
+      "name": "Florence"
+    }
+  },
+  {
+    "name": "Florencia",
+    "country": "Colombia",
+    "latitude": 1.6158665998280073,
+    "longitude": -75.61430449999999,
+    "other_names": {
+      "name": "Florencia",
+      "name:ru": "Флоренсия"
+    }
+  },
+  {
+    "name": "Florencio Varela",
+    "country": "Argentina",
+    "latitude": -34.80443839984772,
+    "longitude": -58.2783224,
+    "other_names": {
+      "name": "Florencio Varela",
+      "short_name": "Fcio. Varela",
+      "official_name": "San Juan Bautista"
+    }
+  },
+  {
+    "name": "Flores",
+    "country": "Guatemala",
+    "latitude": 16.929852400127963,
+    "longitude": -89.89148170000001,
+    "other_names": {
+      "name": "Flores",
+      "name:ru": "Флорес",
+      "alt_name": "Noh Petén",
+      "alt_name_1": "Nojpetén"
+    }
+  },
+  {
+    "name": "Florianópolis",
+    "country": "Brazil",
+    "latitude": -27.597300199449386,
+    "longitude": -48.5496098,
+    "other_names": {
+      "name": "Florianópolis",
+      "name:ar": "فلوريانوبوليس",
+      "name:be": "Фларыянопаліс",
+      "name:bg": "Флорианополис",
+      "name:de": "Florianópolis",
+      "name:en": "Florianópolis",
+      "name:eo": "Florianopolo",
+      "name:fa": "فلرینو پولیس",
+      "name:he": "פלוריאנופוליס",
+      "name:hy": "Ֆլորիանոպոլիս",
+      "name:ja": "フロリアノーポリス",
+      "name:ka": "ფლორიანოპოლისი",
+      "name:ko": "플로리아노폴리스",
+      "name:la": "Florianopolis",
+      "name:lt": "Florianopolis",
+      "name:lv": "Florjanopolisa",
+      "name:mk": "Флорианополис",
+      "name:mr": "फ्लोरियानोपोलिस",
+      "name:os": "Флорианополис",
+      "name:pl": "Florianópolis",
+      "name:pt": "Florianópolis",
+      "name:ru": "Флорианополис",
+      "name:sr": "Флоријанополис",
+      "name:tg": "Флорианополис",
+      "name:th": "โฟลเรียนอโปลิส",
+      "name:uk": "Флоріанополіс",
+      "name:uz": "Florianopolis",
+      "name:zh": "弗洛里亚诺波利斯",
+      "loc_name": "Floripa",
+      "old_name": "Nossa Senhora do Desterro"
+    }
+  },
+  {
+    "name": "Florida",
+    "country": "Uruguay",
+    "latitude": -34.10085439970889,
+    "longitude": -56.21478539999999,
+    "other_names": {
+      "name": "Florida"
+    }
+  },
+  {
+    "name": "Florida",
+    "country": "Cuba",
+    "latitude": 21.526886100409996,
+    "longitude": -78.22581059999999,
+    "other_names": {
+      "name": "Florida",
+      "name:de": "Florida",
+      "name:en": "Florida",
+      "name:fr": "Floride",
+      "name:hu": "Florida",
+      "name:it": "Florida",
+      "name:ru": "Флорида",
+      "name:zh": "弗洛里達"
+    }
+  },
+  {
+    "name": "Florina",
+    "country": "Greece",
+    "latitude": 40.77947380036676,
+    "longitude": 21.4076115,
+    "other_names": {
+      "name": "Φλώρινα",
+      "name:ar": "فلورينا",
+      "name:bg": "Лерин",
+      "name:ca": "Flórina",
+      "name:cu": "Лєринъ",
+      "name:de": "Florina",
+      "name:el": "Φλώρινα",
+      "name:en": "Florina",
+      "name:es": "Flórina",
+      "name:et": "Flórina",
+      "name:fa": "فلورینا",
+      "name:fi": "Flórina",
+      "name:fr": "Florina",
+      "name:he": "פלורינה",
+      "name:hr": "Florina",
+      "name:hu": "Lerin",
+      "name:it": "Florina",
+      "name:ja": "フロリナ",
+      "name:ko": "플로리나",
+      "name:la": "Florina",
+      "name:lt": "Florina",
+      "name:mk": "Лерин",
+      "name:nl": "Florina",
+      "name:nn": "Flórina",
+      "name:pl": "Florina",
+      "name:ro": "Florina",
+      "name:ru": "Флорина",
+      "name:sk": "Florina",
+      "name:sq": "Follorina",
+      "name:sr": "Лерин",
+      "name:sv": "Florina",
+      "name:tr": "Florina",
+      "name:uk": "Флорина",
+      "name:vi": "Florina",
+      "name:zh": "弗勞利納"
+    }
+  },
+  {
+    "name": "Focșani",
+    "country": "Romania",
+    "latitude": 45.69727400038683,
+    "longitude": 27.1856921,
+    "other_names": {
+      "name": "Focșani",
+      "name:de": "Fokschan",
+      "name:hu": "Foksány",
+      "name:ru": "Фокшаны",
+      "name:sr": "Фокшани",
+      "name:uk": "Фокшани"
+    }
+  },
+  {
+    "name": "FÖFÖMÈRÈ",
+    "country": "Guinea",
+    "latitude": 9.704023299424575,
+    "longitude": -13.532881799999998,
+    "other_names": {
+      "name": "FÖFÖMÈRÈ"
+    }
+  },
+  {
+    "name": "Fogang",
+    "country": "China",
+    "latitude": 23.882580200340165,
+    "longitude": 113.52627639999999,
+    "other_names": {
+      "name": "佛冈县",
+      "name:de": "Fogang",
+      "name:en": "Fogang",
+      "name:fa": "شهرستان فوگانگ",
+      "name:fr": "Xian de Fogang",
+      "name:it": "Contea di Fogang",
+      "name:ja": "仏岡県",
+      "name:ko": "포강현",
+      "name:no": "Fogang",
+      "name:sv": "Fogang",
+      "name:uk": "Фоґан",
+      "name:vi": "Phật Cương",
+      "name:zh": "佛冈县",
+      "alt_name": "佛冈;Fogang County",
+      "name:hak": "Fu̍t-kông-yen",
+      "name:mwl": "Fogang",
+      "name:nan": "Hu̍t-kong-koān",
+      "name:yue": "佛冈厅",
+      "old_name": "佛冈厅",
+      "old_name:en": "Fogang Council",
+      "name:zh-Hant": "佛岡縣",
+      "name:zh_pinyin": "Fógāng Xiàn",
+      "old_name:zh-Hant": "佛岡廳"
+    }
+  },
+  {
+    "name": "Foggia",
+    "country": "Italy",
+    "latitude": 41.46204820044029,
+    "longitude": 15.543259499999998,
+    "other_names": {
+      "name": "Foggia",
+      "name:ar": "فوجا",
+      "name:el": "Φότζα",
+      "name:en": "Foggia",
+      "name:it": "Foggia",
+      "name:lt": "Fodža",
+      "name:ru": "Фоджа",
+      "name:uk": "Фоджа",
+      "name:zh": "福賈"
+    }
+  },
+  {
+    "name": "Fomboni",
+    "country": "Comores",
+    "latitude": -12.28405400014086,
+    "longitude": 43.742726999999995,
+    "other_names": {
+      "name": "فومبوني Fomboni",
+      "name:ar": "فومبوني",
+      "name:de": "Fomboni",
+      "name:en": "Fomboni",
+      "name:es": "Fomboni",
+      "name:fr": "Fomboni"
+    }
+  },
+  {
+    "name": "Fond du Lac",
+    "country": "United States Of America",
+    "latitude": 43.77487630053867,
+    "longitude": -88.4458033,
+    "other_names": {
+      "name": "Fond du Lac"
+    }
+  },
+  {
+    "name": "Fontana",
+    "country": "United States Of America",
+    "latitude": 34.09223349960483,
+    "longitude": -117.43504799999998,
+    "other_names": {
+      "name": "Fontana"
+    }
+  },
+  {
+    "name": "Foping",
+    "country": "China",
+    "latitude": 33.52160099959049,
+    "longitude": 107.98499609999999,
+    "other_names": {
+      "name": "佛坪县",
+      "name:en": "Foping",
+      "name:ja": "仏坪県",
+      "name:ru": "Юаньцзячжуан",
+      "name:zh": "佛坪县",
+      "alt_name": "佛坪;袁家庄街道;Yuanjiazhuang Zhen;袁家庄;Foping Xian;Yuan-chia-chuang;Fo-p'ing-hsien;Yuanjiazhuang",
+      "old_name": "袁家庄镇",
+      "name:zh-Hant": "佛坪縣"
+    }
+  },
+  {
+    "name": "Forlì",
+    "country": "Italy",
+    "latitude": 44.22272780052369,
+    "longitude": 12.041272999999999,
+    "other_names": {
+      "name": "Forlì",
+      "name:el": "Φορλί",
+      "name:en": "Forlì",
+      "name:ru": "Форли",
+      "name:zh": "福尔尔伊德尔桑尼奥",
+      "name:rgn": "Furlè",
+      "old_name:lat": "Forum Livii"
+    }
+  }
+]

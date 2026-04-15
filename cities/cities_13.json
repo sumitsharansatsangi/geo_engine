@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Al-Qadarif",
+    "country": "Sudan",
+    "latitude": 14.040940999794836,
+    "longitude": 35.39883199999999,
+    "other_names": {
+      "name": "القضارف",
+      "name:ar": "القضارف",
+      "name:de": "al Qadarif",
+      "name:en": "Al-Qadarif",
+      "name:et": "Al-Qaḑārif",
+      "name:fr": "Al-Qadarif",
+      "name:it": "Gadaref",
+      "name:ru": "Гедареф",
+      "name:uk": "Гедареф",
+      "alt_name": "Gedaref;Al-Gadarif;El Gedaref",
+      "int_name": "Al Quadarif",
+      "alt_name:en": "El-Gadarif"
+    }
+  },
+  {
+    "name": "Al Qadisiyah",
+    "country": "Iraq",
+    "latitude": 31.6990159996213,
+    "longitude": 44.4771069,
+    "other_names": {
+      "name": "القادسية",
+      "name:ar": "القادسية",
+      "name:de": "Al Qadisiyah",
+      "name:en": "Al Qadisiyah",
+      "name:fr": "Al Qadisiyah",
+      "alt_name": "القادسية",
+      "int_name": "Al Qadisiyah - القادسية",
+      "name:ar1": "القادسية"
+    }
+  },
+  {
+    "name": "Al-Qa'im",
+    "country": "Iraq",
+    "latitude": 34.39577149961723,
+    "longitude": 40.9943684,
+    "other_names": {
+      "name": "القائم",
+      "name:ar": "القائم",
+      "name:de": "Al-Qa'im",
+      "name:en": "Al-Qa'im",
+      "name:es": "Al-Kaim",
+      "name:fr": "Al Qa'ïm",
+      "name:he": "אל-קאאם",
+      "name:hi": "अल क़ैम",
+      "name:tr": "El Kaim",
+      "alt_name": "القائم",
+      "int_name": "Al Qaim - القائم"
+    }
+  },
+  {
+    "name": "Al-Qantara Gharb",
+    "country": "Egypt",
+    "latitude": 30.855094499671054,
+    "longitude": 32.3096054,
+    "other_names": {
+      "name": "القنطرة غرب",
+      "name:ar": "القنطرة غرب",
+      "name:de": "Al-Qantara Gharb",
+      "name:en": "Al-Qantara Gharb",
+      "name:fr": "Al-Qantara Gharb",
+      "alt_name": "القنطرة الغربية",
+      "int_name": "El-Qanṭara el-Gharbîya, Al Qantara al Gharbiya, Al Qantarah Gharb",
+      "name:ar1": "القنطرة الغربية"
+    }
+  },
+  {
+    "name": "Al-Qassim",
+    "country": "Iraq",
+    "latitude": 32.29799299959884,
+    "longitude": 44.682816,
+    "other_names": {
+      "name": "القاسم",
+      "name:ar": "قضاء القاسم",
+      "name:de": "Al-Qassim",
+      "name:en": "Al-Qassim",
+      "name:et": "Al-Qāsim",
+      "name:fr": "Al-Qassim",
+      "name:ku": "قضاء القاسم",
+      "alt_name": "Al Qāsim, Imam Qasim, Nāḩiyat al Qāsim, Qāsim, القاسم, ناحية القاسم, Al Qasim, Imam Qasim, Nahiyat al Qasim, Qasim, القاسم, ناحية القاسم",
+      "int_name": "Al Qasim - القاسم"
+    }
+  },
+  {
+    "name": "Al Qurna",
+    "country": "Iraq",
+    "latitude": 31.014924099660135,
+    "longitude": 47.43348859999999,
+    "other_names": {
+      "name": "القرنة",
+      "name:ar": "القرنة",
+      "name:de": "Al Qurna",
+      "name:en": "Al Qurna",
+      "name:es": "Al-Qurnah",
+      "name:et": "Al-Qurnah",
+      "name:fr": "Al Qurna",
+      "name:ku": "Elqurne",
+      "name:ru": "Эль-Курна",
+      "alt_name": "القرنة",
+      "int_name": "Al Qurna - القرنة"
+    }
+  },
+  {
+    "name": "Al Qusair City",
+    "country": "Egypt",
+    "latitude": 26.142786883002717,
+    "longitude": 34.23770502569026,
+    "other_names": {
+      "name": "مدينه القصير",
+      "name:ar": "مدينه القصير",
+      "name:en": "Al Qusair City"
+    }
+  },
+  {
+    "name": "Al Quwaysi",
+    "country": "Sudan",
+    "latitude": 13.334250299715228,
+    "longitude": 34.0869653,
+    "other_names": {
+      "name": "الدندر ,القويسي",
+      "name:ar": "الدندر القويسي",
+      "name:en": "Al Quwaysi",
+      "name:fr": "Al Quwaysi",
+      "alt_name": "El Quwaysi;Al Quwaysi;El Qweisi;El Gueisi;Al Quwaysī",
+      "alt_name:ar": "القويسي"
+    }
+  },
+  {
+    "name": "Al-Rahmaniya",
+    "country": "Egypt",
+    "latitude": 31.104460532063385,
+    "longitude": 30.64226367272877,
+    "other_names": {
+      "name": "الرحمانية",
+      "name:ar": "الرحمانية",
+      "name:en": "Al-Rahmaniya",
+      "name:fr": "El Rahmanieh"
+    }
+  },
+  {
+    "name": "Al-Rumaitha",
+    "country": "Iraq",
+    "latitude": 31.5290775996297,
+    "longitude": 45.2109126,
+    "other_names": {
+      "name": "الرميثة",
+      "name:ar": "الرميثة",
+      "name:de": "Al Rumitha",
+      "name:en": "Al-Rumaitha",
+      "name:et": "Ar-Rumaythah",
+      "name:fr": "Al-Rumaitha",
+      "name:ru": "Эр-Румайта",
+      "alt_name": "الرميثة",
+      "int_name": "Al Rumitha"
+    }
+  },
+  {
+    "name": "Al Ruseifa",
+    "country": "Jordan",
+    "latitude": 32.02159264586948,
+    "longitude": 36.03014134330156,
+    "other_names": {
+      "name": "الرصيفة",
+      "name:en": "Al Ruseifa",
+      "name:fr": "Russeifa"
+    }
+  },
+  {
+    "name": "Al-Ruseifa",
+    "country": "Jordan",
+    "latitude": 32.017498899607936,
+    "longitude": 36.043461099999995,
+    "other_names": {
+      "name": "الرصيفة",
+      "name:ar": "الرصيفة",
+      "name:de": "Russeifa",
+      "name:en": "Al-Ruseifa",
+      "name:es": "Russeifa",
+      "name:fr": "Russeifa",
+      "int_name": "Er Refeia;Al Refeia;Al Rusayfah;Ruseifa"
+    }
+  },
+  {
+    "name": "Al Shalaten",
+    "country": "Egypt",
+    "latitude": 23.10618320037982,
+    "longitude": 35.5639423,
+    "other_names": {
+      "name": "شلاتين",
+      "name:ar": "شلاتين",
+      "name:de": "Asch-Schalatin",
+      "name:en": "Al Shalaten",
+      "name:fr": "Alshalateen",
+      "name:ru": "Шалатейн"
+    }
+  },
+  {
+    "name": "Al-Shatrah",
+    "country": "Iraq",
+    "latitude": 31.410357499636063,
+    "longitude": 46.1752772,
+    "other_names": {
+      "name": "الشطرة",
+      "name:ar": "الشطرة",
+      "name:de": "Al-Shatrah",
+      "name:en": "Al-Shatrah",
+      "name:et": "Ash-Shaţrah",
+      "name:fr": "Al-Shatrah",
+      "name:ru": "Эш-Шатра",
+      "alt_name": "Ash Shaţrah, Shatra, Shatrat al Muntafiq, Shatreh, Shatret el Muntefiq, Shattra, Shattrah el Muntifik, الشطرة, Ash Shatrah, Shatra, Shatrat al Muntafiq, Shatreh, Shatret el Muntefiq, Shattra, Shattrah el Muntifik, الشطرة",
+      "int_name": "Ash Shatrah - الشطرة"
+    }
+  },
+  {
+    "name": "Al Showmaly",
+    "country": "Iraq",
+    "latitude": 32.32711599959805,
+    "longitude": 44.916496499999994,
+    "other_names": {
+      "name": "الشوملي",
+      "name:ar": "الشوملي",
+      "name:de": "Al Showmaly",
+      "name:en": "Al Showmaly",
+      "name:fr": "Al Showmaly",
+      "alt_name": "الشوملي",
+      "int_name": "Al Showmaly, Ash Shawmalī, Ash Shūmalī, Shomeli, الشوملي, Al Showmaly, Ash Shawmali, Ash Shumali, Shomeli, الشوملي"
+    }
+  },
+  {
+    "name": "Al Shuwairif",
+    "country": "Libya",
+    "latitude": 29.98238009974132,
+    "longitude": 14.259466,
+    "other_names": {
+      "name": "الشويرف",
+      "name:ar": "الشويرف",
+      "name:en": "Al Shuwairif",
+      "name:fr": "Ash Shurayf",
+      "alt_name": "Shuwairif"
+    }
+  },
+  {
+    "name": "Al-Tabqah",
+    "country": "Syria",
+    "latitude": 35.83236479971928,
+    "longitude": 38.54146969999999,
+    "other_names": {
+      "name": "الطبقة",
+      "name:cs": "Tabka",
+      "name:de": "Syria",
+      "name:en": "Al-Tabqah",
+      "name:es": "Ath Thawrah",
+      "name:fr": "Al-Thawrah",
+      "name:ku": "Tebqa",
+      "name:ru": "Эс-Саура",
+      "name:tr": "Al-Thawra",
+      "alt_name": "الرقة",
+      "int_name": "Al-Tabqah",
+      "alt_name:en": "Al-Tabqah",
+      "alt_name:ru": "Эт-Табка"
+    }
+  },
+  {
+    "name": "Altagracia de Orituco",
+    "country": "Venezuela",
+    "latitude": 9.85766849943128,
+    "longitude": -66.3715391,
+    "other_names": {
+      "name": "Altagracia de Orituco"
+    }
+  },
+  {
+    "name": "Altai",
+    "country": "Mongolia",
+    "latitude": 46.364338900282355,
+    "longitude": 96.25324979999999,
+    "other_names": {
+      "name": "Алтай",
+      "name:ar": "التاي",
+      "name:de": "Altai",
+      "name:en": "Altai",
+      "name:es": "Altai",
+      "name:fr": "Altay",
+      "name:ja": "アルタイ",
+      "name:lt": "Altajus",
+      "name:mn": "Алтай",
+      "name:ru": "Алтай",
+      "alt_name": "Yesönbulag",
+      "int_name": "Алтай",
+      "name:mn-mong": "ᠠᠯᠲᠠᠢ"
+    }
+  },
+  {
+    "name": "Altai",
+    "country": "Mongolia",
+    "latitude": 46.36528991220025,
+    "longitude": 96.24738697409866,
+    "other_names": {
+      "name": "Алтай",
+      "name:en": "Altai",
+      "name:ru": "Алтай"
+    }
+  }
+]

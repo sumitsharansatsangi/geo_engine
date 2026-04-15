@@ -1,0 +1,311 @@
+[
+  {
+    "name": "Nefteyugansk",
+    "country": "Russia",
+    "latitude": 61.09030900174685,
+    "longitude": 72.61009999999999,
+    "other_names": {
+      "name": "Нефтеюганск",
+      "name:de": "Neftejugansk",
+      "name:en": "Nefteyugansk",
+      "name:et": "Neftejugansk",
+      "name:ja": "ネフチェユガンスク",
+      "name:ko": "넵테유간스크",
+      "name:lt": "Neftejuganskas",
+      "name:pl": "Nieftiejugansk",
+      "name:ru": "Нефтеюганск",
+      "name:uk": "Нефтеюганськ",
+      "int_name": "Nefteyugansk"
+    }
+  },
+  {
+    "name": "Negombo",
+    "country": "Sri Lanka",
+    "latitude": 7.209428199400062,
+    "longitude": 79.83311699999999,
+    "other_names": {
+      "name": "මීගමුව",
+      "name:de": "Negombo",
+      "name:en": "Negombo",
+      "name:ja": "ニゴンボ",
+      "name:kn": "ನೆಗೊಂಬೊ",
+      "name:ru": "Негомбо",
+      "name:si": "මීගමුව",
+      "name:ta": "நீர்கொழும்பு"
+    }
+  },
+  {
+    "name": "NÉGUEYA",
+    "country": "Guinea",
+    "latitude": 9.789545599428232,
+    "longitude": -13.4858036,
+    "other_names": {
+      "name": "NÉGUEYA"
+    }
+  },
+  {
+    "name": "Nehe",
+    "country": "China",
+    "latitude": 48.4812342998208,
+    "longitude": 124.87682379999998,
+    "other_names": {
+      "name": "讷河市",
+      "name:en": "Nehe",
+      "name:ru": "Нэхэ",
+      "name:vi": "Nột Hà",
+      "name:zh": "讷河市",
+      "alt_name": "讷河;Nehe City",
+      "name:zh-Hant": "訥河市",
+      "name:zh_pinyin": "Nēhé Shì"
+    }
+  },
+  {
+    "name": "Neiba",
+    "country": "Haiti And Domrep",
+    "latitude": 18.485350500275555,
+    "longitude": -71.41992459999999,
+    "other_names": {
+      "name": "Neiba",
+      "name:ru": "Нейба",
+      "alt_name": "Neyba"
+    }
+  },
+  {
+    "name": "Neihuang",
+    "country": "China",
+    "latitude": 35.954054399731,
+    "longitude": 114.90053989999998,
+    "other_names": {
+      "name": "内黄县",
+      "name:en": "Neihuang",
+      "name:vi": "Nội Hoàng",
+      "name:zh": "内黄县",
+      "alt_name": "内黄;Neihuang County",
+      "name:zh-Hant": "內黃縣",
+      "name:zh_pinyin": "Neihuang Xian"
+    }
+  },
+  {
+    "name": "Neijiang",
+    "country": "China",
+    "latitude": 29.582720299778636,
+    "longitude": 105.05445749999998,
+    "other_names": {
+      "name": "内江市",
+      "name:en": "Neijiang",
+      "name:et": "Neijiang",
+      "name:zh": "内江市",
+      "name:zh-Hant": "內江市"
+    }
+  },
+  {
+    "name": "Neiqiu",
+    "country": "China",
+    "latitude": 37.28050519988411,
+    "longitude": 114.50888769999999,
+    "other_names": {
+      "name": "内丘县",
+      "name:en": "Neiqiu",
+      "name:vi": "Nội Khâu",
+      "name:zh": "内丘县",
+      "alt_name": "内丘;Neiqiu County",
+      "name:zh-Hant": "內丘縣",
+      "official_name": "内丘镇",
+      "name:zh_pinyin": "Neiqiu Xian"
+    }
+  },
+  {
+    "name": "Neiva",
+    "country": "Colombia",
+    "latitude": 2.92631269968994,
+    "longitude": -75.2891733,
+    "other_names": {
+      "name": "Neiva",
+      "name:ru": "Нейва",
+      "name:ckb": "نیڤا"
+    }
+  },
+  {
+    "name": "Neixiang",
+    "country": "China",
+    "latitude": 33.0489045995875,
+    "longitude": 111.8362274,
+    "other_names": {
+      "name": "内乡县",
+      "name:en": "Neixiang",
+      "name:ja": "内郷県",
+      "name:vi": "Nội Hương",
+      "name:zh": "内乡县",
+      "alt_name": "内乡;Neixiang County;Nei-hsiang-hsien;Nei-hsiang;Nei-siang;Neixiang",
+      "int_name": "Neixiang",
+      "name:zh-Hant": "內鄉縣"
+    }
+  },
+  {
+    "name": "Nekemt City Municipality",
+    "country": "Ethiopia",
+    "latitude": 9.090745546907423,
+    "longitude": 36.54810737286538,
+    "other_names": {
+      "name": "Nekemt City Municipality"
+    }
+  },
+  {
+    "name": "Nekemte",
+    "country": "Ethiopia",
+    "latitude": 9.087967899403617,
+    "longitude": 36.54730970000001,
+    "other_names": {
+      "name": "ነቀምት / Nekemte",
+      "name:am": "ነቀምት",
+      "name:ar": "نقمتي",
+      "name:en": "Nekemte",
+      "name:fr": "Nekemte",
+      "name:ru": "Нэкэмте"
+    }
+  },
+  {
+    "name": "Nekhel",
+    "country": "Egypt",
+    "latitude": 29.91145389974774,
+    "longitude": 33.7459874,
+    "other_names": {
+      "name": "نخل",
+      "name:ar": "نخل",
+      "name:de": "Nakhl",
+      "name:en": "Nekhel",
+      "name:fa": "نخل",
+      "name:fr": "Nakhl",
+      "name:ks": "نخل",
+      "name:ur": "نخل",
+      "name:azb": "نخل",
+      "alt_name:ar": "نِخِل"
+    }
+  },
+  {
+    "name": "Nellore",
+    "country": "India",
+    "latitude": 14.449371699842361,
+    "longitude": 79.98737629999998,
+    "other_names": {
+      "name": "Nellore",
+      "name:ar": "نيلور",
+      "name:en": "Nellore",
+      "name:fa": "نلور",
+      "name:hi": "नेल्लौर",
+      "name:ja": "ネルール",
+      "name:kn": "ನೆಲ್ಲೂರು",
+      "name:pa": "ਨੇੱਲੋਰ",
+      "name:ps": "نيلوری",
+      "name:ru": "Неллор",
+      "name:ta": "நெல்லூர்",
+      "name:te": "నెల్లూరు",
+      "name:uk": "Неллор",
+      "name:ur": "نیلور",
+      "name:azb": "نلور",
+      "name:pnb": "نیلور",
+      "old_name": "Simhapuri"
+    }
+  },
+  {
+    "name": "Nelson",
+    "country": "Canada",
+    "latitude": 49.494890999570984,
+    "longitude": -117.29003899999998,
+    "other_names": {
+      "name": "Nelson"
+    }
+  },
+  {
+    "name": "Nelson",
+    "country": "New Zealand",
+    "latitude": -41.271084901025425,
+    "longitude": 173.28367560000004,
+    "other_names": {
+      "name": "Nelson",
+      "name:en": "Nelson",
+      "name:fa": "نلسون",
+      "name:ja": "ネルソン",
+      "name:mi": "Whakatū",
+      "name:mk": "Нелсон",
+      "name:ru": "Нельсон",
+      "name:uk": "Нельсон",
+      "name:ckb": "نیڵسۆن"
+    }
+  },
+  {
+    "name": "Ñemby",
+    "country": "Paraguay",
+    "latitude": -25.392454199722817,
+    "longitude": -57.5471112,
+    "other_names": {
+      "name": "Ñemby",
+      "alt_name:es": "San Lorenzo de la Frontera"
+    }
+  },
+  {
+    "name": "Nemuro",
+    "country": "Japan",
+    "latitude": 43.330115400541665,
+    "longitude": 145.5829068,
+    "other_names": {
+      "name": "根室市",
+      "name:ar": "نيمورو، هوكايدو",
+      "name:de": "Nemuro",
+      "name:en": "Nemuro",
+      "name:es": "Nemuro",
+      "name:fr": "Nemuro",
+      "name:hu": "Nemuro",
+      "name:ja": "根室市",
+      "name:ko": "네무로시",
+      "name:pl": "Nemuro",
+      "name:ru": "Немуро",
+      "name:uk": "Немуро",
+      "int_name": "Nemuro",
+      "name:ja_rm": "Nemuro-shi",
+      "name:ja_kana": "ねむろし"
+    }
+  },
+  {
+    "name": "Nenjiang",
+    "country": "China",
+    "latitude": 49.17348349964948,
+    "longitude": 125.23122799999997,
+    "other_names": {
+      "name": "嫩江市",
+      "name:en": "Nenjiang",
+      "name:ja": "嫩江市",
+      "name:ru": "Нэньцзян",
+      "name:vi": "Nộn Giang",
+      "name:zh": "嫩江市",
+      "alt_name": "嫩江",
+      "alt_name:en": "Mergen",
+      "name:zh-Hant": "嫩江市",
+      "official_name": "嫩江镇",
+      "name:zh_pinyin": "Nènjiāng zhen"
+    }
+  },
+  {
+    "name": "Nerima",
+    "country": "Japan",
+    "latitude": 35.74835999971147,
+    "longitude": 139.638735,
+    "other_names": {
+      "name": "練馬区",
+      "name:ar": "نيريما، طوكيو",
+      "name:de": "Nerima",
+      "name:en": "Nerima",
+      "name:es": "Nerima",
+      "name:fr": "Nerima",
+      "name:it": "Nerima",
+      "name:ja": "練馬区",
+      "name:ko": "네리마구",
+      "name:lt": "Nerimos seniūnija",
+      "name:pl": "Nerima",
+      "name:ru": "Нерима",
+      "name:uk": "Неріма",
+      "name:ja-Hira": "ねりまく",
+      "name:ja-Latn": "Nerima-ku"
+    }
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "name": "Villa Madero",
+    "country": "Argentina",
+    "latitude": -34.68844339982378,
+    "longitude": -58.49994110000001,
+    "other_names": {
+      "name": "Villa Madero",
+      "alt_name": "Ciudad Madero",
+      "official_name": "Villa Eduardo Madero"
+    }
+  },
+  {
+    "name": "Villa Mercedes",
+    "country": "Argentina",
+    "latitude": -33.6745794996331,
+    "longitude": -65.4617562,
+    "other_names": {
+      "name": "Villa Mercedes"
+    }
+  },
+  {
+    "name": "Villa Montes",
+    "country": "Bolivia",
+    "latitude": -21.258900100280155,
+    "longitude": -63.4722606,
+    "other_names": {
+      "name": "Villa Montes",
+      "alt_name": "Villamontes"
+    }
+  },
+  {
+    "name": "Villa Nueva City",
+    "country": "Guatemala",
+    "latitude": 14.53088259985193,
+    "longitude": -90.59633249999999,
+    "other_names": {
+      "name": "Villa Nueva",
+      "name:en": "Villa Nueva City",
+      "alt_name": "Villa Nueva",
+      "short_name": "VN",
+      "official_name": "Villa Nueva"
+    }
+  },
+  {
+    "name": "Villarrica",
+    "country": "Paraguay",
+    "latitude": -25.7809838996684,
+    "longitude": -56.44787649999999,
+    "other_names": {
+      "name": "Villarrica",
+      "name:lt": "Viljarika",
+      "name:ru": "Вильяррика",
+      "name:uk": "Вільярріка",
+      "official_name": "Villarrica del Espíritu Santo"
+    }
+  },
+  {
+    "name": "Villavicencio",
+    "country": "Colombia",
+    "latitude": 4.131511299575919,
+    "longitude": -73.6206667,
+    "other_names": {
+      "name": "Villavicencio",
+      "name:en": "Villavicencio",
+      "name:ru": "Вильявисенсьо",
+      "name:uk": "Віявісенсіо"
+    }
+  },
+  {
+    "name": "Villazón",
+    "country": "Bolivia",
+    "latitude": -22.09072700018549,
+    "longitude": -65.5956943,
+    "other_names": {
+      "name": "Villazón",
+      "name:lt": "Viljasonas",
+      "name:ru": "Вильясон",
+      "old_name": "La Quiaca Boliviana"
+    }
+  },
+  {
+    "name": "Villeta",
+    "country": "Paraguay",
+    "latitude": -25.504733899706924,
+    "longitude": -57.569182000000005,
+    "other_names": {
+      "name": "Villeta",
+      "official_name:es": "San Felipe de Borbón del Valle del Bastán"
+    }
+  },
+  {
+    "name": "Villeurbanne",
+    "country": "France",
+    "latitude": 45.7733124003762,
+    "longitude": 4.886899,
+    "other_names": {
+      "name": "Villeurbanne"
+    }
+  },
+  {
+    "name": "Vilnius",
+    "country": "Lithuania",
+    "latitude": 54.68704579933195,
+    "longitude": 25.282911099999996,
+    "other_names": {
+      "name": "Vilnius",
+      "name:ab": "Вилниус",
+      "name:am": "ቪልኒውስ",
+      "name:an": "Vilna",
+      "name:ar": "فيلنيوس",
+      "name:ay": "Wilñus",
+      "name:az": "Vilnüs",
+      "name:be": "Вільня",
+      "name:bg": "Вилнюс",
+      "name:bn": "ভিলনিউস",
+      "name:bo": "ལྦེ་ནི་སུ་ནི།",
+      "name:ca": "Vílnius",
+      "name:ce": "Вильнюс",
+      "name:cs": "Vilnius",
+      "name:cu": "Вилн҄ь",
+      "name:cv": "Вилнӳс",
+      "name:de": "Wilna",
+      "name:el": "Βίλνιους",
+      "name:en": "Vilnius",
+      "name:eo": "Vilno",
+      "name:es": "Vilna",
+      "name:fa": "ویلنیوس",
+      "name:fi": "Vilna",
+      "name:fr": "Vilnius",
+      "name:fy": "Vilnjûs",
+      "name:ga": "Vilnias",
+      "name:he": "וילנה",
+      "name:hr": "Vilnius",
+      "name:ht": "Vilnis",
+      "name:hu": "Vilnius",
+      "name:hy": "Վիլնյուս",
+      "name:is": "Vilníus",
+      "name:it": "Vilna",
+      "name:iu": "ᕕᓪᓂᐅᔅ",
+      "name:ja": "ヴィリニュス",
+      "name:ka": "ვილნიუსი",
+      "name:kk": "Вильнюс",
+      "name:ko": "빌뉴스",
+      "name:ku": "Vîlnûs",
+      "name:kv": "Вильнюс",
+      "name:ky": "Вильнюс",
+      "name:la": "Vilna",
+      "name:ln": "Wilna",
+      "name:lt": "Vilnius",
+      "name:lv": "Viļņa",
+      "name:mk": "Вилнус",
+      "name:ml": "വിൽനുസ്",
+      "name:mo": "Вильнюс",
+      "name:mr": "व्हिल्नियस",
+      "name:nl": "Vilnius",
+      "name:no": "Vilnius",
+      "name:oc": "Vílnius",
+      "name:os": "Вильнюс",
+      "name:pa": "ਵਿਲਨਸ",
+      "name:pl": "Wilno",
+      "name:ru": "Вильнюс",
+      "name:sa": "विल्नियस्",
+      "name:sc": "Vìlnius",
+      "name:sk": "Vilnius",
+      "name:sl": "Vilna",
+      "name:sr": "Вилњус",
+      "name:sv": "Vilnius",
+      "name:ta": "வில்னியஸ்",
+      "name:tg": "Вилнюс",
+      "name:th": "วิลนีอุส",
+      "name:tl": "Vilna",
+      "name:uk": "Вільнюс",
+      "name:ur": "ولنیس",
+      "name:uz": "Vilnyus",
+      "name:wo": "Wilniyus",
+      "name:yi": "ווילנע",
+      "name:yo": "Filnius",
+      "name:zh": "維爾紐斯",
+      "name:zu": "IVilnyusi",
+      "alt_name": "Vilna",
+      "int_name": "Vilnius",
+      "name:arz": "فيلنيوس",
+      "name:ast": "Vilnius",
+      "name:ckb": "ڤیلنیوس",
+      "name:crh": "Vilnüs",
+      "name:csb": "Wilna",
+      "name:diq": "Vilniyus",
+      "name:gag": "Vilnüs",
+      "name:lad": "Vilna",
+      "name:lrc": "ویلینوس",
+      "name:ltg": "Viļne",
+      "name:mdf": "Вильнюс",
+      "name:mhr": "Вильнюс",
+      "name:mrj": "Вильнюс",
+      "name:myv": "Вильнюс",
+      "name:nds": "Wilne",
+      "name:pnb": "ولنیس",
+      "name:sah": "Вильнюс",
+      "name:szl": "Wilno",
+      "name:udm": "Вильнюс",
+      "name:vec": "Vilna",
+      "name:vep": "Vil'nüs",
+      "name:yue": "維爾紐斯",
+      "alt_name:be": "Вільнюс",
+      "alt_name:de": "Wilna",
+      "old_name:en": "Vilna",
+      "old_name:ru": "Вильна",
+      "old_name:sk": "Vilno",
+      "name:bat-smg": "Vėlnios",
+      "name:iu-Latn": "vilnius",
+      "name:be-tarask": "Вільня"
+    }
+  },
+  {
+    "name": "Viña del Mar",
+    "country": "Chile",
+    "latitude": -33.02445349953155,
+    "longitude": -71.5517636,
+    "other_names": {
+      "name": "Viña del Mar",
+      "name:ar": "فينيا ديل مار",
+      "name:ru": "Винья-дель-Мар",
+      "alt_name:ar": "فينا دل مار"
+    }
+  },
+  {
+    "name": "Vineland",
+    "country": "United States Of America",
+    "latitude": 39.48627770019584,
+    "longitude": -75.0254256,
+    "other_names": {
+      "name": "Vineland"
+    }
+  },
+  {
+    "name": "Vinh",
+    "country": "Vietnam",
+    "latitude": 18.669244500290105,
+    "longitude": 105.6881594,
+    "other_names": {
+      "name": "Vinh",
+      "name:en": "Vinh",
+      "name:ja": "ヴィン",
+      "name:ko": "빈",
+      "name:ru": "Винь",
+      "name:uk": "Вінь",
+      "name:zh": "荣市",
+      "name:vi-Hani": "永",
+      "name:zh-Hans": "荣市",
+      "name:zh-Hant": "榮市"
+    }
+  },
+  {
+    "name": "Vinh Long",
+    "country": "Vietnam",
+    "latitude": 10.254428099451241,
+    "longitude": 105.96696649999998,
+    "other_names": {
+      "name": "Vĩnh Long",
+      "name:en": "Vinh Long",
+      "name:ja": "ヴィンロン",
+      "name:ko": "빈롱",
+      "name:ru": "Виньлонг"
+    }
+  },
+  {
+    "name": "Vĩnh Yên",
+    "country": "Vietnam",
+    "latitude": 21.308847900408615,
+    "longitude": 105.59163219999999,
+    "other_names": {
+      "name": "Vĩnh Yên",
+      "name:en": "Vĩnh Yên",
+      "name:fr": "Vinh-Yên",
+      "name:ja": "ヴィンイエン",
+      "name:ko": "빈옌",
+      "name:ru": "Виньйен",
+      "name:zh": "永安市"
+    }
+  },
+  {
+    "name": "Vinnytsia",
+    "country": "Ukraine",
+    "latitude": 49.23201619963506,
+    "longitude": 28.467974999999996,
+    "other_names": {
+      "name": "Вінниця",
+      "name:ar": "فينيتسا",
+      "name:be": "Вінніца",
+      "name:cs": "Vinnycja",
+      "name:de": "Winnyzja",
+      "name:en": "Vinnytsia",
+      "name:eo": "Vinico",
+      "name:es": "Vinnytsia",
+      "name:et": "Vinnõtsja",
+      "name:fr": "Vinnytsia",
+      "name:he": "ויניצה",
+      "name:hu": "Vinnicja",
+      "name:it": "Vinnycja",
+      "name:ko": "빈니차",
+      "name:la": "Vinnycia",
+      "name:lt": "Vinycia",
+      "name:nl": "Vinnytsja",
+      "name:os": "Винницæ",
+      "name:pl": "Winnica",
+      "name:ro": "Vinița",
+      "name:ru": "Винница",
+      "name:sr": "Виница",
+      "name:tr": "Vinnitsya",
+      "name:uk": "Вінниця",
+      "name:szl": "Winńica",
+      "alt_name:de": "Winniza"
+    }
+  },
+  {
+    "name": "Vinto",
+    "country": "Bolivia",
+    "latitude": -17.39679330047438,
+    "longitude": -66.3135814,
+    "other_names": {
+      "name": "Vinto",
+      "name:qu": "Wintu"
+    }
+  },
+  {
+    "name": "Virginia Beach",
+    "country": "United States Of America",
+    "latitude": 36.85298409983019,
+    "longitude": -75.9774183,
+    "other_names": {
+      "name": "Virginia Beach",
+      "name:zh-Hans": "弗吉尼亚海滩",
+      "name:zh-Hant": "維珍尼亞海灘"
+    }
+  },
+  {
+    "name": "Virrey Del Pino",
+    "country": "Argentina",
+    "latitude": -34.858862199859075,
+    "longitude": -58.6643444,
+    "other_names": {
+      "name": "Virrey Del Pino"
+    }
+  },
+  {
+    "name": "Visakhapatnam",
+    "country": "India",
+    "latitude": 17.723127600208212,
+    "longitude": 83.30128419999998,
+    "other_names": {
+      "name": "Visakhapatnam",
+      "name:ar": "فشاكاباتنم",
+      "name:en": "Visakhapatnam",
+      "name:fa": "وشاکاپاتنم",
+      "name:he": "וישאכאתפאטנם",
+      "name:hi": "विशाखापट्नम",
+      "name:ja": "ヴィシャーカパトナム",
+      "name:kn": "ವಿಶಾಖಪಟ್ಟಣ",
+      "name:ko": "비샤카파트남",
+      "name:ml": "വിശാഖപട്ടണം",
+      "name:mr": "विशाखापट्टणम",
+      "name:or": "ବିଶାଖାପାଟଣା",
+      "name:pa": "ਵਿਸ਼ਾਖਾਪਟਨਮ",
+      "name:ru": "Вишакхапатнам",
+      "name:ta": "விசாகப்பட்டினம்",
+      "name:te": "విశాఖపట్నం",
+      "name:uk": "Вішакхапатнам",
+      "name:ur": "وشاکھاپٹنم",
+      "name:zh": "维沙卡帕特南",
+      "alt_name": "Vizag"
+    }
+  }
+]

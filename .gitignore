@@ -1,4 +1,5 @@
 /target
+/release-assets/
 
 # Generated release assets (all versions)
 geo-*.db

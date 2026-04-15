@@ -1,0 +1,404 @@
+[
+  {
+    "name": "Sfax",
+    "country": "Tunisia",
+    "latitude": 34.73979859963527,
+    "longitude": 10.7600021,
+    "other_names": {
+      "name": "صفاقس",
+      "name:ar": "صفاقس",
+      "name:ca": "Sfax",
+      "name:cs": "Sfax",
+      "name:de": "Sfax",
+      "name:en": "Sfax",
+      "name:eo": "Sfakso",
+      "name:es": "Sfax",
+      "name:et": "Sfax",
+      "name:fi": "Sfax",
+      "name:fr": "Sfax",
+      "name:it": "Sfax",
+      "name:ja": "スファックス",
+      "name:ko": "스팍스",
+      "name:la": "Thaenae",
+      "name:lt": "Sfaksas",
+      "name:nl": "Sfax",
+      "name:pl": "Safakis",
+      "name:pt": "Sfax",
+      "name:ru": "Сфакс",
+      "name:tn": "Sfax",
+      "name:tr": "Safakes",
+      "name:zh": "斯法克斯",
+      "int_name": "Sfax",
+      "name:ber": "ⵚⴼⴰⵇⴻⵙ",
+      "name:kab": "Ṣfaqes",
+      "alt_name:eo": "Sfax"
+    }
+  },
+  {
+    "name": "Sha",
+    "country": "China",
+    "latitude": 26.39985800012283,
+    "longitude": 117.78776659999998,
+    "other_names": {
+      "name": "沙县区",
+      "name:de": "Shaxian District",
+      "name:en": "Sha",
+      "name:es": "Distrito de Shaxian",
+      "name:fa": "شا کانتی",
+      "name:fr": "District de Shaxian",
+      "name:it": "Shaxian",
+      "name:ja": "沙県",
+      "name:ko": "사현",
+      "name:no": "Shaxian",
+      "name:sv": "Shaxian",
+      "name:vi": "Shaxian",
+      "name:zh": "沙县区",
+      "alt_name": "沙;Sha;Shaxian District",
+      "name:cdo": "Să-gâing",
+      "name:hak": "Sâ-yen",
+      "name:nan": "Soa-koān",
+      "name:yue": "沙縣區",
+      "old_name": "沙县;Sha County",
+      "name:zh-Hant": "沙縣區",
+      "name:zh_pinyin": "Shā Xiàn"
+    }
+  },
+  {
+    "name": "Shabqadar",
+    "country": "Pakistan",
+    "latitude": 34.21465339960944,
+    "longitude": 71.5559253,
+    "other_names": {
+      "name": "شبقدر",
+      "name:en": "Shabqadar"
+    }
+  },
+  {
+    "name": "Shache",
+    "country": "China",
+    "latitude": 38.41704340004146,
+    "longitude": 77.2411446,
+    "other_names": {
+      "name": "莎车县",
+      "name:de": "Yarkant",
+      "name:en": "Shache",
+      "name:es": "Yarkanda",
+      "name:fr": "Yarkand",
+      "name:ja": "ヤルカンド県",
+      "name:lt": "Jarkantas",
+      "name:pl": "Jarkend",
+      "name:ru": "Яркенд",
+      "name:ug": "يەكەن ناھىيىسى",
+      "name:uk": "Яркенд",
+      "name:vi": "Yarkand",
+      "name:zh": "莎车县",
+      "alt_name:ru": "Шачэ",
+      "alt_name:vi": "Toa Xa",
+      "name:zh-Hant": "莎車縣"
+    }
+  },
+  {
+    "name": "Shafa Amr",
+    "country": "Israel And Palestine",
+    "latitude": 32.80457649958907,
+    "longitude": 35.1723866,
+    "other_names": {
+      "name": "شفا عمرو",
+      "name:ar": "شفا عمرو",
+      "name:de": "Schefar’am",
+      "name:en": "Shafa Amr",
+      "name:es": "Shefa-'Amr",
+      "name:fr": "Shefa'ram",
+      "name:he": "שפרעם",
+      "name:ru": "Шефарам",
+      "alt_name:ar": "شفارعم",
+      "alt_name:en": "Shefaram;Shfaram;Shefa-'Amr"
+    }
+  },
+  {
+    "name": "Shafa Amr",
+    "country": "Israel And Palestine",
+    "latitude": 32.80663210012075,
+    "longitude": 35.17130707131332,
+    "other_names": {
+      "name": "شفا عمرو",
+      "name:ar": "شفا عمرو",
+      "name:en": "Shafa Amr",
+      "name:fr": "Shefa Amr",
+      "name:he": "שפרעם",
+      "name:it": "Shefaram",
+      "name:ru": "Шефарам",
+      "alt_name:ar": "شفارعم",
+      "alt_name:en": "Shefaram;Shefa-'Amr"
+    }
+  },
+  {
+    "name": "Shah Alam",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 3.073364399675157,
+    "longitude": 101.51951489999999,
+    "other_names": {
+      "name": "Shah Alam",
+      "name:ar": "شاه عالم",
+      "name:ja": "シャー・アラム",
+      "name:ko": "샤알람",
+      "name:ms": "Shah Alam",
+      "name:my": "ရှားအလမ်မြို့",
+      "name:ta": "ஷா ஆலாம்",
+      "name:th": "ชะฮ์อาลัม",
+      "name:zh": "莎亚南",
+      "alt_name:zh": "沙亚南",
+      "official_name:zh": "沙阿南"
+    }
+  },
+  {
+    "name": "Shahdadkot",
+    "country": "Pakistan",
+    "latitude": 27.84680139996336,
+    "longitude": 67.90811599999999,
+    "other_names": {
+      "name": "شہدادکوٹ‎",
+      "name:de": "Shahdadkot",
+      "name:en": "Shahdadkot",
+      "name:es": "Shahdadkot",
+      "name:fr": "Shahdadkot",
+      "name:ja": "シャッフダッドコット",
+      "name:ru": "Шахдадкот",
+      "name:ur": "شہداد کوٹ"
+    }
+  },
+  {
+    "name": "Shahe",
+    "country": "China",
+    "latitude": 36.86162649983125,
+    "longitude": 114.51129150000001,
+    "other_names": {
+      "name": "沙河市",
+      "name:de": "Shahe",
+      "name:en": "Shahe",
+      "name:fr": "Shahe",
+      "name:ja": "沙河市",
+      "name:vi": "Sa Hà",
+      "name:zh": "沙河市",
+      "name:zh-Hant": "沙河市",
+      "name:zh_pinyin": "Shāhé Shì"
+    }
+  },
+  {
+    "name": "Shahekou",
+    "country": "China",
+    "latitude": 38.903858600111974,
+    "longitude": 121.59152949999998,
+    "other_names": {
+      "name": "沙河口区",
+      "name:en": "Shahekou",
+      "name:ja": "沙河口区",
+      "name:ko": "사허커우구",
+      "name:zh": "沙河口区",
+      "alt_name": "沙河口;Shahekou District",
+      "name:zh-Hant": "沙河口區"
+    }
+  },
+  {
+    "name": "Shahr-e Kord",
+    "country": "Iran",
+    "latitude": 32.325736599598095,
+    "longitude": 50.849736899999996,
+    "other_names": {
+      "name": "شهرکرد",
+      "name:ar": "شهركرد",
+      "name:cs": "Šahr-e Kord",
+      "name:de": "Schahr-e Kord",
+      "name:en": "Shahr-e Kord",
+      "name:es": "Shahr-e Kord",
+      "name:et": "Shahr-e Kord",
+      "name:fr": "Shahre kord",
+      "name:ja": "シャフレ・コルド",
+      "name:ku": "Şarîkurd",
+      "name:pl": "Szahr-e Kord",
+      "name:ru": "Шехре-Корд",
+      "name:uk": "Шехре-Корд",
+      "alt_name:ar": "شهر كورد"
+    }
+  },
+  {
+    "name": "Shahrisabz",
+    "country": "Uzbekistan",
+    "latitude": 39.064505718262005,
+    "longitude": 66.82672924343564,
+    "other_names": {
+      "name": "Shahrisabz",
+      "name:fr": "Chakhrisabz",
+      "name:ja": "シャフリサブス",
+      "name:ko": "샤흐리삽스",
+      "name:lt": "Šahrisabzas",
+      "name:ru": "Шахрисабз",
+      "name:uk": "Шахрісабз"
+    }
+  },
+  {
+    "name": "Shahrisabz",
+    "country": "Uzbekistan",
+    "latitude": 39.03885910013155,
+    "longitude": 66.81770189999999,
+    "other_names": {
+      "name": "Shahrisabz",
+      "name:de": "Shahrisabz",
+      "name:en": "Shahrisabz",
+      "name:fr": "Chakhrisabz",
+      "name:ko": "샤흐리삽스",
+      "name:ru": "Шахрисабз"
+    }
+  },
+  {
+    "name": "Shahriyar",
+    "country": "Iran",
+    "latitude": 35.65890149970336,
+    "longitude": 51.0586022,
+    "other_names": {
+      "name": "شهریار",
+      "name:de": "Schahrijar",
+      "name:en": "Shahriyar",
+      "name:es": "Shahriar",
+      "name:fr": "Shahriar",
+      "name:hi": "शहरियार"
+    }
+  },
+  {
+    "name": "Shahrud",
+    "country": "Iran",
+    "latitude": 36.419502599779705,
+    "longitude": 54.96499149999999,
+    "other_names": {
+      "name": "شاهرود",
+      "name:ar": "شاهرود",
+      "name:de": "Schahrud",
+      "name:en": "Shahrud",
+      "name:es": "Shahrud",
+      "name:et": "Emāmrūd",
+      "name:fr": "Shahroud",
+      "name:hi": "शाहरूद",
+      "name:ja": "シャールード",
+      "name:ru": "Имамшехр"
+    }
+  },
+  {
+    "name": "Shakar Garh",
+    "country": "Pakistan",
+    "latitude": 32.26295759959985,
+    "longitude": 75.1604119,
+    "other_names": {
+      "name": "شکرگڑھ",
+      "name:en": "Shakar Garh",
+      "name:hi": "शकरगढ़",
+      "name:ru": "Шакаргарх",
+      "alt_name": "Shakargarh"
+    }
+  },
+  {
+    "name": "Shakhty",
+    "country": "Russia",
+    "latitude": 47.72693450451594,
+    "longitude": 40.228836157328445,
+    "other_names": {
+      "name": "Шахты",
+      "name:ar": "شاختاي",
+      "name:az": "Şaxtı",
+      "name:be": "Шахты",
+      "name:bg": "Шахти",
+      "name:da": "Sjakhty",
+      "name:de": "Schachty",
+      "name:el": "Σάχτη",
+      "name:en": "Shakhty",
+      "name:es": "Shajty",
+      "name:et": "Šahtõ",
+      "name:fa": "شاختی",
+      "name:fi": "Šahty",
+      "name:fr": "Chakhty",
+      "name:it": "Šachty",
+      "name:lt": "Šachtos",
+      "name:lv": "Šahti",
+      "name:nl": "Sjachty",
+      "name:pl": "Szachty",
+      "name:ro": "Șahtî",
+      "name:ru": "Шахты",
+      "name:sr": "Шахти",
+      "name:sv": "Sjachty",
+      "name:tr": "Şahti",
+      "name:uk": "Шахти",
+      "name:zh": "沙赫特",
+      "name:hsb": "Šachty"
+    }
+  },
+  {
+    "name": "Shakhty",
+    "country": "Russia",
+    "latitude": 47.71191670000538,
+    "longitude": 40.2115699,
+    "other_names": {
+      "name": "Шахты",
+      "name:ar": "شاختاي",
+      "name:az": "Şaxtı",
+      "name:bg": "Шахти",
+      "name:cs": "Šachty",
+      "name:de": "Schachty",
+      "name:en": "Shakhty",
+      "name:eo": "Ŝaĥti",
+      "name:et": "Šahtõ",
+      "name:fi": "Šahty",
+      "name:fr": "Chakhty",
+      "name:hy": "Շախտի",
+      "name:it": "Šachty",
+      "name:ko": "샤흐티",
+      "name:lt": "Šachtos",
+      "name:nl": "Sjachty",
+      "name:pl": "Szachty",
+      "name:ro": "Șahtî",
+      "name:ru": "Шахты",
+      "name:sr": "Шахти",
+      "name:tr": "Şahti",
+      "name:uk": "Шахти",
+      "name:zh": "沙赫特",
+      "name:crh": "Şahtı",
+      "name:hsb": "Šachty"
+    }
+  },
+  {
+    "name": "Shaliuhe",
+    "country": "China",
+    "latitude": 37.32671559989016,
+    "longitude": 100.14024849999998,
+    "other_names": {
+      "name": "刚察县",
+      "name:en": "Shaliuhe",
+      "name:ru": "Шалюхэ",
+      "name:vi": "Sa Liễu Hà",
+      "name:zh": "刚察",
+      "alt_name": "刚察;沙柳河",
+      "name:zh-Hant": "剛察縣",
+      "official_name": "沙柳河镇"
+    }
+  },
+  {
+    "name": "Shamda",
+    "country": "China",
+    "latitude": 32.20368419960162,
+    "longitude": 96.4786438,
+    "other_names": {
+      "name": "囊谦县",
+      "name:bo": "ནང་ཆེན་",
+      "name:en": "Shamda",
+      "name:ru": "Нангчен",
+      "name:uk": "Нангчен",
+      "name:vi": "Nangqên",
+      "name:zh": "囊谦县",
+      "alt_name": "香达;囊谦;Xiangda;Xangda;Shorda",
+      "alt_name:bo": "ཤར་མདའ།;ཤོར་མདའ",
+      "alt_name:en": "Hsiang-ta;Nangqen;Nang-ch'ien;Xiangda Zhen;Nangqian;Nangqian Xian",
+      "alt_name:vi": "Nang Khiêm",
+      "name:zh-Hant": "囊謙縣",
+      "official_name": "香达镇",
+      "name:zh_pinyin": "Xiāngdá Zhèn"
+    }
+  }
+]

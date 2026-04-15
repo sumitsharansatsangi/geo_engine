@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Butwal",
+    "country": "Nepal",
+    "latitude": 27.699893999979817,
+    "longitude": 83.46599599999999,
+    "other_names": {
+      "name": "Butwal",
+      "name:en": "Butwal",
+      "name:ja": "ブトワル",
+      "name:ne": "बुटवल नगरपालिका",
+      "alt_name": "Butwal",
+      "int_name": "Butwal",
+      "loc_name": "Batauli",
+      "nat_name": "Butwal",
+      "old_name": "Khasauli",
+      "reg_name": "Butwal",
+      "alt_name_1": "Butwaī",
+      "alt_name_2": "Butaul",
+      "short_name": "Btl",
+      "official_name": "Butwal"
+    }
+  },
+  {
+    "name": "Buurhakaba",
+    "country": "Somalia",
+    "latitude": 2.7947849997033254,
+    "longitude": 44.07845489999999,
+    "other_names": {
+      "name": "Buurhakaba بورحكب",
+      "name:ar": "بورحكب",
+      "name:de": "Buurhakaba",
+      "name:en": "Buurhakaba",
+      "name:es": "Buurhakaba",
+      "name:fr": "Buur Hakaba",
+      "name:it": "Bur Acaba",
+      "name:pl": "Buur Gaabo",
+      "name:ro": "Buurhakaba",
+      "name:so": "Buurhakaba",
+      "name:sw": "Buurhakaba",
+      "name:ur": "برہاکابا",
+      "name:zu": "Burhakaba",
+      "alt_name": "Bur Hakkaba;Buur-Hakba;Bur Acaba"
+    }
+  },
+  {
+    "name": "Buxar",
+    "country": "India",
+    "latitude": 25.571619500206342,
+    "longitude": 83.9729568,
+    "other_names": {
+      "name": "Buxar",
+      "name:hi": "बक्सर",
+      "name:pa": "ਬਕਸਰ",
+      "name:ta": "பக்ஸார்",
+      "name:zh": "布克萨尔"
+    }
+  },
+  {
+    "name": "Buzău",
+    "country": "Romania",
+    "latitude": 45.148785173062095,
+    "longitude": 26.81683847280656,
+    "other_names": {
+      "name": "Buzău"
+    }
+  },
+  {
+    "name": "Buzău",
+    "country": "Romania",
+    "latitude": 45.149006400453345,
+    "longitude": 26.8306557,
+    "other_names": {
+      "name": "Buzău",
+      "name:el": "Μπουζάου",
+      "name:he": "בוזאו",
+      "name:hu": "Bodzavásár",
+      "name:lt": "Buzeu",
+      "name:ru": "Бузэу",
+      "name:sr": "Бузау",
+      "name:uk": "Бузеу",
+      "old_name": "Busäu",
+      "alt_name:hu": "Oláhbodza"
+    }
+  },
+  {
+    "name": "Buzen",
+    "country": "Japan",
+    "latitude": 33.61149939959197,
+    "longitude": 131.13044089999997,
+    "other_names": {
+      "name": "豊前市",
+      "name:ar": "بوزين، فوكوكا",
+      "name:de": "Buzen",
+      "name:en": "Buzen",
+      "name:es": "Buzen",
+      "name:fr": "Buzen",
+      "name:ja": "豊前市",
+      "name:ko": "부젠시",
+      "name:lt": "Budzenas",
+      "name:pl": "Buzen",
+      "name:ru": "Будзен",
+      "name:uk": "Будзен",
+      "name:zh": "丰前市",
+      "int_name": "Buzen",
+      "name:ja-Hira": "ぶぜんし",
+      "name:zh-Hans": "丰前市",
+      "name:zh-Hant": "豊前市"
+    }
+  },
+  {
+    "name": "Bydgoszcz",
+    "country": "Poland",
+    "latitude": 53.121964799092545,
+    "longitude": 18.0002529,
+    "other_names": {
+      "name": "Bydgoszcz",
+      "name:ar": "بيدغوز",
+      "name:be": "Быдгошч",
+      "name:cs": "Bydhošť",
+      "name:de": "Bromberg",
+      "name:eo": "Bidgoŝto",
+      "name:he": "בידגושץ",
+      "name:ja": "ブィドゴシュチュ",
+      "name:ko": "비드고슈치",
+      "name:la": "Bidgostia",
+      "name:lt": "Bydgoščius",
+      "name:lv": "Bidgošča",
+      "name:mk": "Бидгошч",
+      "name:pl": "Bydgoszcz",
+      "name:ru": "Быдгощ",
+      "name:sr": "Бидгошч",
+      "name:uk": "Бидгощ",
+      "name:zh": "比得哥什",
+      "name:szl": "Bydgošč",
+      "old_name": "Bromberg",
+      "name:zh-Hans": "比得哥什",
+      "name:zh-Hant": "比得哥什"
+    }
+  },
+  {
+    "name": "Bytom",
+    "country": "Poland",
+    "latitude": 50.34703869937598,
+    "longitude": 18.923185699999998,
+    "other_names": {
+      "name": "Bytom",
+      "name:be": "Бытам",
+      "name:bg": "Битом",
+      "name:de": "Beuthen",
+      "name:fa": "بیتوم",
+      "name:he": "ביטום",
+      "name:ja": "ビトム",
+      "name:ko": "비톰",
+      "name:la": "Bithomia",
+      "name:lt": "Bytomas",
+      "name:lv": "Bitoma",
+      "name:mk": "Битом",
+      "name:pl": "Bytom",
+      "name:ru": "Бытом",
+      "name:sr": "Битом",
+      "name:uk": "Битом",
+      "name:zh": "比托姆",
+      "name:crh": "Bıtom",
+      "name:szl": "Bytůń"
+    }
+  },
+  {
+    "name": "Caacupé",
+    "country": "Paraguay",
+    "latitude": -25.385565399723802,
+    "longitude": -57.1401431,
+    "other_names": {
+      "name": "Caacupé",
+      "name:en": "Caacupé",
+      "name:gn": "Ka'akupe",
+      "name:ru": "Каакупе",
+      "name:uk": "Каакупе",
+      "old_name": "ka'a kupe",
+      "alt_name:gn": "Ka´aguy kupe",
+      "official_name:es": "Valle de Caacupé"
+    }
+  },
+  {
+    "name": "Caaguazú",
+    "country": "Paraguay",
+    "latitude": -25.466175599712372,
+    "longitude": -56.0181685,
+    "other_names": {
+      "name": "Caaguazú"
+    }
+  },
+  {
+    "name": "Cabadbaran",
+    "country": "Philippines",
+    "latitude": 9.12329859940456,
+    "longitude": 125.53222029999999,
+    "other_names": {
+      "name": "Cabadbaran"
+    }
+  },
+  {
+    "name": "Cabanatuan",
+    "country": "Philippines",
+    "latitude": 15.490504499965168,
+    "longitude": 120.96842640000001,
+    "other_names": {
+      "name": "Cabanatuan",
+      "name:ja": "カバナトゥアン"
+    }
+  },
+  {
+    "name": "Cabimas",
+    "country": "Venezuela",
+    "latitude": 10.39736464837165,
+    "longitude": -71.43769199455627,
+    "other_names": {
+      "name": "Cabimas"
+    }
+  },
+  {
+    "name": "Cabimas",
+    "country": "Venezuela",
+    "latitude": 10.399533399459475,
+    "longitude": -71.4609626,
+    "other_names": {
+      "name": "Cabimas"
+    }
+  },
+  {
+    "name": "Cabinda",
+    "country": "Angola",
+    "latitude": -5.557643499680451,
+    "longitude": 12.1919468,
+    "other_names": {
+      "name": "Cabinda",
+      "name:el": "Καμπίντα",
+      "name:ko": "카빈다",
+      "name:ru": "Кабинда",
+      "name:uk": "Кабінда"
+    }
+  },
+  {
+    "name": "Cabo de Santo Agostinho",
+    "country": "Brazil",
+    "latitude": -8.283894499778528,
+    "longitude": -35.032098399999995,
+    "other_names": {
+      "name": "Cabo de Santo Agostinho",
+      "name:ru": "Кабу-ди-Санту-Агостинью",
+      "alt_name": "Cabo"
+    }
+  },
+  {
+    "name": "Cabo Frio",
+    "country": "Brazil",
+    "latitude": -22.88043690008337,
+    "longitude": -42.01892269999999,
+    "other_names": {
+      "name": "Cabo Frio"
+    }
+  },
+  {
+    "name": "Caboolture",
+    "country": "Australia",
+    "latitude": -27.08393359950355,
+    "longitude": 152.9510863,
+    "other_names": {
+      "name": "Caboolture",
+      "name:ja": "カブルチャー",
+      "name:ru": "Кабулчер",
+      "name:zh": "卡布丘"
+    }
+  },
+  {
+    "name": "Cabo San Lucas",
+    "country": "Mexico",
+    "latitude": 22.893888400387915,
+    "longitude": -109.92006039999998,
+    "other_names": {
+      "name": "Cabo San Lucas",
+      "name:en": "Cabo San Lucas",
+      "name:ru": "Кабо-Сан-Лукас",
+      "name:uk": "Кабо-Сан-Лукас"
+    }
+  },
+  {
+    "name": "Cabudare",
+    "country": "Venezuela",
+    "latitude": 10.027944699439383,
+    "longitude": -69.25523049999998,
+    "other_names": {
+      "name": "Cabudare"
+    }
+  }
+]

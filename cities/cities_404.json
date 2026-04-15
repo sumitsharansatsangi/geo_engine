@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Safed",
+    "country": "Israel And Palestine",
+    "latitude": 32.96463009958781,
+    "longitude": 35.502451,
+    "other_names": {
+      "name": "צפת",
+      "name:ar": "صفد",
+      "name:cs": "Safed",
+      "name:de": "Safed",
+      "name:en": "Safed",
+      "name:es": "Safed",
+      "name:et": "Tsfat",
+      "name:fr": "Safed",
+      "name:he": "צפת",
+      "name:hi": "सफ़त",
+      "name:ru": "Цфат",
+      "alt_name:en": "Safad;Safed;Sfat;Tsefat;Tzfas"
+    }
+  },
+  {
+    "name": "Safi",
+    "country": "Morocco",
+    "latitude": 32.29942399959881,
+    "longitude": -9.239533,
+    "other_names": {
+      "name": "Safi ⴰⵙⴼⵉ آسفي",
+      "name:ar": "آسفي",
+      "name:cs": "Safi",
+      "name:de": "Safi",
+      "name:en": "Safi",
+      "name:es": "Safí",
+      "name:et": "Safi",
+      "name:fa": "اسفی",
+      "name:fr": "Safi",
+      "name:pl": "Safi",
+      "name:ru": "Сафи",
+      "name:ur": "اسفی",
+      "int_name": "Safi ⴰⵙⴼⵉ آسفي",
+      "name:ber": "ⴰⵙⴼⵉ",
+      "name:zgh": "ⴰⵙⴼⵉ"
+    }
+  },
+  {
+    "name": "Saga",
+    "country": "Japan",
+    "latitude": 33.26391339958788,
+    "longitude": 130.30083779999998,
+    "other_names": {
+      "name": "佐賀市",
+      "name:ar": "ساغا، ساغا",
+      "name:cs": "Saga",
+      "name:de": "Saga",
+      "name:en": "Saga",
+      "name:eo": "Saga",
+      "name:es": "Saga",
+      "name:et": "Saga",
+      "name:fa": "ساگا",
+      "name:fr": "Saga",
+      "name:gl": "Saga, Xapón",
+      "name:hu": "Szaga",
+      "name:id": "Saga, Saga",
+      "name:it": "Saga",
+      "name:ja": "佐賀市",
+      "name:ko": "사가시",
+      "name:nl": "Saga",
+      "name:pl": "Saga",
+      "name:pt": "Saga",
+      "name:ro": "Saga, Saga",
+      "name:ru": "Сага",
+      "name:sh": "Saga",
+      "name:sr": "Сага",
+      "name:sv": "Saga",
+      "name:sw": "Saga, Saga",
+      "name:th": "ซะงะ",
+      "name:tl": "Lungsod ng Saga",
+      "name:uk": "Саґа",
+      "name:vi": "Saga",
+      "name:zh": "佐贺市",
+      "int_name": "Saga",
+      "name:mzn": "ساگا",
+      "name:nan": "Saga-chhī",
+      "name:war": "Saga, Saga",
+      "name:ja_rm": "Saga-shi",
+      "name:ja_kana": "さがし",
+      "name:roa-rup": "Saga",
+      "name:zh-Hans": "佐贺市",
+      "name:zh-Hant": "佐賀市"
+    }
+  },
+  {
+    "name": "Saga",
+    "country": "China",
+    "latitude": 29.331373299803428,
+    "longitude": 85.23034149999998,
+    "other_names": {
+      "name": "萨嘎县",
+      "name:de": "Saga",
+      "name:en": "Saga",
+      "name:es": "Saga",
+      "name:fr": "Saga",
+      "name:vi": "Saga",
+      "name:zh": "萨嘎县",
+      "alt_name": "萨噶;Sa-ka Hsien;Saga County",
+      "alt_name:vi": "Tát Dát",
+      "name:zh-Hant": "薩嘎縣",
+      "name:zh_pinyin": "Saga Xian"
+    }
+  },
+  {
+    "name": "Sagae",
+    "country": "Japan",
+    "latitude": 38.380873100036254,
+    "longitude": 140.2759709,
+    "other_names": {
+      "name": "寒河江市",
+      "name:ar": "ساغاي، ياماغاتا",
+      "name:de": "Sagae",
+      "name:en": "Sagae",
+      "name:es": "Sagae",
+      "name:fr": "Sagae",
+      "name:ja": "寒河江市",
+      "name:ko": "사가에시",
+      "name:pl": "Sagae",
+      "name:ru": "Сагаэ",
+      "name:uk": "Саґае",
+      "int_name": "Sagae",
+      "name:ja_rm": "Sagae-shi",
+      "name:ja_kana": "さがえし"
+    }
+  },
+  {
+    "name": "Sagaing",
+    "country": "Myanmar",
+    "latitude": 21.87742150040938,
+    "longitude": 95.98399559999999,
+    "other_names": {
+      "name": "စစ်ကိုင်း",
+      "pcode": "MMR005001701",
+      "name:ca": "Sagaing",
+      "name:de": "Sagaing",
+      "name:en": "Sagaing",
+      "name:es": "Sagaing",
+      "name:et": "Sagaing",
+      "name:fa": "زاگاین",
+      "name:fr": "Sagaing",
+      "name:hi": "सगाइंग",
+      "name:it": "Sagaing",
+      "name:ja": "サガイン",
+      "name:ko": "사가잉",
+      "name:la": "Sagain",
+      "name:lt": "Sagainas",
+      "name:my": "စစ်ကိုင်း",
+      "name:nl": "Sagaing",
+      "name:pl": "Sikong",
+      "name:ru": "Сикайн",
+      "name:sl": "Sagaing",
+      "name:sv": "Sagaing",
+      "name:th": "สะกาย",
+      "name:uk": "Сікайн",
+      "name:ur": "ساگاینگ",
+      "name:vi": "Sagaing",
+      "name:zh": "实皆",
+      "alt_name": "စစ်ကိုင်းမြို့"
+    }
+  },
+  {
+    "name": "Sagamihara",
+    "country": "Japan",
+    "latitude": 35.56558999969519,
+    "longitude": 139.236215,
+    "other_names": {
+      "name": "相模原市",
+      "name:ar": "ساغاميهارا، كاناغاوا",
+      "name:de": "Sagamihara",
+      "name:en": "Sagamihara",
+      "name:es": "Sagamihara",
+      "name:et": "Sagamihara",
+      "name:fr": "Sagamihara",
+      "name:ja": "相模原市",
+      "name:ko": "사가미하라시",
+      "name:pl": "Sagamihara",
+      "name:ru": "Сагамихара",
+      "name:uk": "Саґаміхара",
+      "int_name": "Sagamihara",
+      "name:ja_rm": "Sagamihara-shi",
+      "name:ja_kana": "さがみはらし"
+    }
+  },
+  {
+    "name": "Sagamu",
+    "country": "Nigeria",
+    "latitude": 6.847716499409749,
+    "longitude": 3.644055099999999,
+    "other_names": {
+      "name": "Sagamu",
+      "name:ru": "Шагаму"
+    }
+  },
+  {
+    "name": "Sagar",
+    "country": "India",
+    "latitude": 23.84177930034263,
+    "longitude": 78.7466817,
+    "other_names": {
+      "name": "Sagar",
+      "name:bn": "সাগর",
+      "name:hi": "सागर",
+      "name:ja": "サーガル",
+      "name:kn": "ಸಾಗರ್",
+      "name:ml": "സാഗർ",
+      "name:pa": "ਸਾਗਰ",
+      "name:ru": "Сагар",
+      "name:ta": "சாகர்"
+    }
+  },
+  {
+    "name": "Sagay",
+    "country": "Philippines",
+    "latitude": 10.89606809949128,
+    "longitude": 123.41546169999998,
+    "other_names": {
+      "name": "Sagay"
+    }
+  },
+  {
+    "name": "Saginaw",
+    "country": "United States Of America",
+    "latitude": 43.420038700542,
+    "longitude": -83.9490365,
+    "other_names": {
+      "name": "Saginaw",
+      "name:en": "Saginaw",
+      "name:fa": "سگینو",
+      "name:ru": "Сагино",
+      "name:uk": "Сеґіно"
+    }
+  },
+  {
+    "name": "Sagua la Grande",
+    "country": "Cuba",
+    "latitude": 22.806031000390902,
+    "longitude": -80.07204259999999,
+    "other_names": {
+      "name": "Sagua la Grande",
+      "name:ru": "Сагуа-ла-Гранде",
+      "name:uk": "Сагуа-ла-Гранде"
+    }
+  },
+  {
+    "name": "Saguenay",
+    "country": "Canada",
+    "latitude": 48.40595899983932,
+    "longitude": -71.069183,
+    "other_names": {
+      "name": "Saguenay"
+    }
+  },
+  {
+    "name": "Sa'gya",
+    "country": "China",
+    "latitude": 28.9023832998477,
+    "longitude": 88.0191415,
+    "other_names": {
+      "name": "萨迦县",
+      "name:en": "Sa'gya",
+      "name:vi": "Sa’gya",
+      "name:zh": "萨迦县",
+      "alt_name": "萨迦;Sa-chia Hsien;Sa'gya Xian;Sajia County;Sajia",
+      "alt_name:vi": "Tát Già",
+      "name:zh-Hant": "薩迦縣",
+      "name:zh_pinyin": "Sàjiā Xiàn"
+    }
+  },
+  {
+    "name": "Saharanpur",
+    "country": "India",
+    "latitude": 29.963743799743,
+    "longitude": 77.5427464,
+    "other_names": {
+      "name": "Saharanpur",
+      "name:ar": "سهارنبر",
+      "name:de": "Saharanpur",
+      "name:en": "Saharanpur",
+      "name:es": "Saharanpur",
+      "name:fr": "Saharanpur",
+      "name:hi": "सहारनपुर",
+      "name:ja": "サハーランプル",
+      "name:kn": "ಸಹರನ್‌ಪುರ್",
+      "name:pa": "ਸਹਾਰਨਪੁਰ",
+      "name:ru": "Сахаранпур",
+      "name:uk": "Сахаранпур",
+      "name:ur": "سهارنپر"
+    }
+  },
+  {
+    "name": "Saharsa",
+    "country": "India",
+    "latitude": 25.875896200176697,
+    "longitude": 86.5926702,
+    "other_names": {
+      "name": "Saharsa",
+      "name:bn": "সহর্সা",
+      "name:hi": "सहरसा",
+      "name:pa": "ਸਹਰਸਾ"
+    }
+  },
+  {
+    "name": "Sahiwal",
+    "country": "Pakistan",
+    "latitude": 30.67150979968439,
+    "longitude": 73.11105719999999,
+    "other_names": {
+      "name": "ساہِيوال",
+      "name:ar": "ساهيوال",
+      "name:de": "Sahiwal",
+      "name:en": "Sahiwal",
+      "name:es": "Sahiwal",
+      "name:et": "Sāhīwāl",
+      "name:fr": "Sahiwal",
+      "name:hi": "सहिवाल",
+      "name:ja": "サーヒーワール",
+      "name:kn": "ಸಹಿವಾಲ್",
+      "name:ru": "Сахивал"
+    }
+  },
+  {
+    "name": "Sahiwal Tehsil",
+    "country": "Pakistan",
+    "latitude": 31.977584299609443,
+    "longitude": 72.32944990000001,
+    "other_names": {
+      "name": "تحصیل ساہیوال",
+      "name:ar": "تحصيل ساهيوال",
+      "name:en": "Sahiwal Tehsil",
+      "name:fa": "تحصیل ساهیوال",
+      "name:fr": "Sahiwal Tehsil",
+      "name:ks": "تحصیل ساہیوال",
+      "name:ur": "تحصیل ساہیوال",
+      "name:pnb": "تحصیل ساہیوال"
+    }
+  },
+  {
+    "name": "Saida",
+    "country": "Algeria",
+    "latitude": 34.84164049964141,
+    "longitude": 0.15099119999999996,
+    "other_names": {
+      "name": "Saïda",
+      "name:ar": "سعيدة",
+      "name:el": "Σαϊντά",
+      "name:en": "Saida",
+      "name:fa": "سعیده",
+      "name:fr": "Saïda",
+      "name:lt": "Saida",
+      "name:ur": "سعیدہ",
+      "name:azb": "سعیده",
+      "name:ber": "ⵙⵄⵉⴷⴰ",
+      "name:kab": "Sɛida"
+    }
+  },
+  {
+    "name": "Saigon",
+    "country": "Vietnam",
+    "latitude": 10.771551199482786,
+    "longitude": 106.6983801,
+    "other_names": {
+      "name": "Sài Gòn",
+      "name:en": "Saigon",
+      "name:fr": "Saigon",
+      "name:ru": "Сайгон",
+      "name:vi": "Sài Gòn",
+      "name:zh": "西贡",
+      "name:zh-Hant": "西貢"
+    }
+  }
+]

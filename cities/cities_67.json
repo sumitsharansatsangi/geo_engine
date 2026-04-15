@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Bumba",
+    "country": "Congo Democratic Republic",
+    "latitude": 2.1837440997671353,
+    "longitude": 22.466526,
+    "other_names": {
+      "name": "Bumba",
+      "name:en": "Bumba",
+      "name:ru": "Бумба",
+      "name:uk": "Бумба"
+    }
+  },
+  {
+    "name": "Bunbury",
+    "country": "Australia",
+    "latitude": -33.326779699576555,
+    "longitude": 115.63669800000001,
+    "other_names": {
+      "name": "Bunbury",
+      "name:ja": "バンバリー",
+      "name:ru": "Банбери"
+    }
+  },
+  {
+    "name": "Bundaberg",
+    "country": "Australia",
+    "latitude": -24.865325299798748,
+    "longitude": 152.3516785,
+    "other_names": {
+      "name": "Bundaberg",
+      "name:ar": "بوندابيرج",
+      "name:en": "Bundaberg",
+      "name:ja": "バンダバーグ",
+      "name:ru": "Бундаберг",
+      "name:uk": "Бундаберг",
+      "name:zh": "班达伯格"
+    }
+  },
+  {
+    "name": "Bundi",
+    "country": "India",
+    "latitude": 25.441613700218575,
+    "longitude": 75.6375815,
+    "other_names": {
+      "name": "Bundi",
+      "name:hi": "बूंदी",
+      "name:kn": "ಬುಂಡಿ"
+    }
+  },
+  {
+    "name": "Bungo-Ono",
+    "country": "Japan",
+    "latitude": 32.97756429958774,
+    "longitude": 131.58411779999997,
+    "other_names": {
+      "name": "豊後大野市",
+      "name:ar": "بونغو-أونو، أويتا",
+      "name:de": "Bungo-Ōno",
+      "name:en": "Bungo-Ono",
+      "name:es": "Bungoōno",
+      "name:fr": "Bungo-ōno",
+      "name:ja": "豊後大野市",
+      "name:ko": "분고오노시",
+      "name:pl": "Bungo-ōno",
+      "name:ru": "Бунгооно",
+      "name:uk": "Бунґо-Оно",
+      "name:zh": "丰后大野市",
+      "int_name": "Bungo Ohno",
+      "name:ja-Hira": "ぶんごおおのし",
+      "name:ja-Latn": "Bungo-ōno-shi",
+      "name:zh-Hans": "丰后大野市",
+      "name:zh-Hant": "豊後大野市"
+    }
+  },
+  {
+    "name": "Bungo-Takada",
+    "country": "Japan",
+    "latitude": 33.556213599591025,
+    "longitude": 131.44690249999996,
+    "other_names": {
+      "name": "豊後高田市",
+      "name:ar": "بونغوتاكادا، أويتا",
+      "name:de": "Bungotakada",
+      "name:en": "Bungo-Takada",
+      "name:es": "Bungotakada",
+      "name:fr": "Bungotakada",
+      "name:ja": "豊後高田市",
+      "name:ko": "분고타카다시",
+      "name:pl": "Bungotakada",
+      "name:ru": "Бунготакада",
+      "name:uk": "Бунґо-Такада",
+      "name:zh": "丰后高田市",
+      "int_name": "Bungo Takada",
+      "name:ja-Hira": "ぶんごたかだし",
+      "name:zh-Hans": "丰后高田市",
+      "name:zh-Hant": "豊後高田市"
+    }
+  },
+  {
+    "name": "Bunia",
+    "country": "Congo Democratic Republic",
+    "latitude": 1.5620528998338143,
+    "longitude": 30.247884400000004,
+    "other_names": {
+      "name": "Bunia",
+      "name:ru": "Буниа"
+    }
+  },
+  {
+    "name": "Bunkyo",
+    "country": "Japan",
+    "latitude": 35.71880999970876,
+    "longitude": 139.74473199999997,
+    "other_names": {
+      "name": "文京区",
+      "name:ar": "بونكيو، طوكيو",
+      "name:de": "Bunkyō",
+      "name:en": "Bunkyo",
+      "name:es": "Bunkyō",
+      "name:fr": "Bunkyō",
+      "name:it": "Bunkyo",
+      "name:ja": "文京区",
+      "name:ko": "분쿄구",
+      "name:lt": "Bunkijas",
+      "name:pl": "Bunkyō",
+      "name:ru": "Бункё",
+      "name:uk": "Бункьо",
+      "name:ja-Hira": "ぶんきょうく",
+      "name:ja-Latn": "Bunkyō-ku"
+    }
+  },
+  {
+    "name": "Buôn Ma Thuột",
+    "country": "Vietnam",
+    "latitude": 12.679682699645998,
+    "longitude": 108.04473679999998,
+    "other_names": {
+      "name": "Buôn Ma Thuột",
+      "name:en": "Buôn Ma Thuột",
+      "name:ja": "バンメトート",
+      "name:ko": "부온마투옷",
+      "name:ru": "Буонметхуот",
+      "name:uk": "Буонметхуот",
+      "name:vi": "Buôn Ma Thuột",
+      "name:zh": "邦美蜀市",
+      "alt_name": "Buôn Mê Thuột;Ban Mê Thuột",
+      "name:rad": "Buôn Ma Thuột",
+      "old_name": "Lac Giao",
+      "old_name:en": "Ban Me Thuot",
+      "old_name:vi": "Ban Mê Thuột",
+      "name:vi-Hani": "班迷屬",
+      "official_name": "Thành phố Buôn Ma Thuột",
+      "official_name:en": "Buon Ma Thuot City",
+      "official_name:vi": "Thành phố Buôn Ma Thuột"
+    }
+  },
+  {
+    "name": "Buram",
+    "country": "Sudan",
+    "latitude": 10.861661699488904,
+    "longitude": 25.158329099999996,
+    "other_names": {
+      "name": "بورام",
+      "name:ar": "بورام",
+      "name:en": "Buram",
+      "name:fr": "Buram"
+    }
+  },
+  {
+    "name": "Burang",
+    "country": "China",
+    "latitude": 30.296200299714137,
+    "longitude": 81.17477579999999,
+    "other_names": {
+      "name": "普兰县",
+      "name:bo": "སྤུ་ཧྲེང",
+      "name:de": "Burang",
+      "name:en": "Burang",
+      "name:es": "Burang",
+      "name:fr": "Burang",
+      "name:ru": "Буранг",
+      "name:zh": "普兰县",
+      "alt_name": "普兰;普兰县;Taklakot;Purang;P'u-lan Hsien;Burang County;Pulan",
+      "int_name": "pu lan",
+      "name:zh-Hant": "普蘭縣",
+      "name:zh_pinyin": "pǔlán xiàn"
+    }
+  },
+  {
+    "name": "Burao",
+    "country": "Somalia",
+    "latitude": 9.52748999941759,
+    "longitude": 45.537472,
+    "other_names": {
+      "name": "Burco برعو",
+      "pcode": "NC-3811-M12-004",
+      "name:ar": "برعو",
+      "name:de": "Burao",
+      "name:en": "Burao",
+      "name:es": "Burao",
+      "name:fr": "Burao",
+      "name:ru": "Буръо",
+      "name:so": "Burco",
+      "name:uk": "Бур'о",
+      "alt_name": "Burao برعو"
+    }
+  },
+  {
+    "name": "Burbank",
+    "country": "United States Of America",
+    "latitude": 34.181648199608134,
+    "longitude": -118.32585540000001,
+    "other_names": {
+      "name": "Burbank"
+    }
+  },
+  {
+    "name": "Bur Bartazoga",
+    "country": "Sudan",
+    "latitude": 21.848640000409556,
+    "longitude": 33.5651734,
+    "other_names": {
+      "name": "بر بارتازوجا",
+      "name:en": "Bur Bartazoga",
+      "name:es": "Bur Bartazoga",
+      "name:fr": "Bur Bartazoga"
+    }
+  },
+  {
+    "name": "Burdur",
+    "country": "Turkey",
+    "latitude": 37.724839399943676,
+    "longitude": 30.288728600000002,
+    "other_names": {
+      "name": "Burdur",
+      "name:ar": "بوردور",
+      "name:hu": "Burdur",
+      "name:ru": "Бурдур",
+      "name:uk": "Бурдур"
+    }
+  },
+  {
+    "name": "Burewala",
+    "country": "Pakistan",
+    "latitude": 30.158800499725796,
+    "longitude": 72.6796973,
+    "other_names": {
+      "name": "بُوریوالا",
+      "name:en": "Burewala",
+      "name:ja": "ブレワラ",
+      "name:ur": "بورے والا",
+      "name:pa-Arab": "بوریوالہ"
+    }
+  },
+  {
+    "name": "Burg Al Burullous",
+    "country": "Egypt",
+    "latitude": 31.58272799962695,
+    "longitude": 30.977438799999998,
+    "other_names": {
+      "name": "برج البرلس",
+      "name:ar": "برج البرلس",
+      "name:de": "Burg Al Burullous",
+      "name:en": "Burg Al Burullous",
+      "name:fr": "Burg Al Burullous",
+      "alt_name": "عزبة البرج",
+      "int_name": "Ezbet al Burg, Ezbet al Burg",
+      "name:ar1": "عزبة البرج"
+    }
+  },
+  {
+    "name": "Burgas",
+    "country": "Bulgaria",
+    "latitude": 42.49366160051729,
+    "longitude": 27.472127599999997,
+    "other_names": {
+      "name": "Бургас",
+      "name:bg": "Бургас",
+      "name:ca": "Burgàs",
+      "name:cs": "Burgas",
+      "name:de": "Burgas",
+      "name:el": "Πύργος",
+      "name:en": "Burgas",
+      "name:et": "Burgas",
+      "name:fa": "بورگاس",
+      "name:fr": "Bourgas",
+      "name:hr": "Burgas",
+      "name:hu": "Burgasz",
+      "name:lt": "Burgasas",
+      "name:lv": "Burgasa",
+      "name:nl": "Boergas",
+      "name:pl": "Burgas",
+      "name:ro": "Burgas",
+      "name:ru": "Бургас",
+      "name:sk": "Burgas",
+      "name:sr": "Бургас",
+      "name:tr": "Burgaz",
+      "name:uk": "Бургас",
+      "name:zh": "布爾加斯",
+      "int_name": "Burgas",
+      "name:zh-Hans": "布尔加斯",
+      "name:zh-Hant": "布爾加斯"
+    }
+  },
+  {
+    "name": "Burgos",
+    "country": "Spain",
+    "latitude": 42.343926000509086,
+    "longitude": -3.696977,
+    "other_names": {
+      "name": "Burgos",
+      "name:ar": "برغش",
+      "name:be": "Бургас",
+      "name:el": "Μπούργος",
+      "name:es": "Burgos",
+      "name:ja": "ブルゴス",
+      "name:ru": "Бургос",
+      "name:sr": "Бургос",
+      "alt_name:ar": "بورغوس"
+    }
+  },
+  {
+    "name": "Burhanpur",
+    "country": "India",
+    "latitude": 21.311883900408645,
+    "longitude": 76.22919919999998,
+    "other_names": {
+      "name": "Burhanpur",
+      "name:en": "Burhanpur",
+      "name:hi": "बुरहानपुर",
+      "name:kn": "ಬುರ್ಹಾನಪುರ",
+      "name:mr": "बुरहानपुर",
+      "name:pa": "ਬੁਰਹਾਨਪੁਰ",
+      "name:ru": "Бурханпур"
+    }
+  }
+]

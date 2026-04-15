@@ -1,0 +1,345 @@
+[
+  {
+    "name": "Duhok",
+    "country": "Iraq",
+    "latitude": 36.854259799830345,
+    "longitude": 42.9924528,
+    "other_names": {
+      "name": "دهۆک",
+      "name:ar": "دهوك",
+      "name:cs": "Dahúk",
+      "name:de": "Dohuk",
+      "name:en": "Duhok",
+      "name:et": "Dahūk",
+      "name:fa": "دهوک",
+      "name:fr": "Dahouk",
+      "name:hi": "दुहोक",
+      "name:ja": "ドホーク",
+      "name:ku": "Dihok",
+      "name:pl": "Dahuk",
+      "name:ru": "Дахук",
+      "name:tr": "Duhok",
+      "name:uk": "Дахук",
+      "name:ur": "دہوک",
+      "int_name": "Dahūk, Dihōk, Dohuk, Duhok, Dûhok, Duhuk, دَهُکْ, دهوک, دھۆک, Dahuk",
+      "name:azb": "دهوک",
+      "name:ckb": "دهۆک‎",
+      "name:kmr": "Dihok",
+      "name:mzn": "دهوک",
+      "name:pnb": "دهوك"
+    }
+  },
+  {
+    "name": "Duisburg",
+    "country": "Germany",
+    "latitude": 51.43499899918137,
+    "longitude": 6.759561999999999,
+    "other_names": {
+      "name": "Duisburg",
+      "name:ar": "دويسبورغ",
+      "name:de": "Duisburg",
+      "name:fr": "Duisbourg",
+      "name:ja": "デュースブルク",
+      "name:la": "Thuiscoburgum",
+      "name:ru": "Дуйсбург",
+      "name:sr": "Дуизбург",
+      "name:uk": "Дуйсбург",
+      "name:zh": "杜伊斯堡",
+      "name:nds": "Duisborg",
+      "name:zh-Hans": "杜伊斯堡",
+      "name:zh-Hant": "杜伊斯堡"
+    }
+  },
+  {
+    "name": "Duitama",
+    "country": "Colombia",
+    "latitude": 5.827705499454004,
+    "longitude": -73.03389389999998,
+    "other_names": {
+      "name": "Duitama"
+    }
+  },
+  {
+    "name": "Duji",
+    "country": "China",
+    "latitude": 33.99318859960149,
+    "longitude": 116.82269860000001,
+    "other_names": {
+      "name": "杜集区",
+      "name:en": "Duji",
+      "name:zh": "杜集区",
+      "name:zh-Hant": "杜集區"
+    }
+  },
+  {
+    "name": "Dujiangyan",
+    "country": "China",
+    "latitude": 30.99652539966136,
+    "longitude": 103.6142723,
+    "other_names": {
+      "name": "都江堰市",
+      "name:de": "Dujiangyan",
+      "name:en": "Dujiangyan",
+      "name:fr": "Dūjiāngyàn",
+      "name:ja": "都江堰市",
+      "name:ru": "Дуцзянъянь",
+      "name:vi": "Đô Giang Yển",
+      "name:zh": "都江堰市",
+      "alt_name": "都江堰;Dujiangyan City",
+      "name:zh-Hant": "都江堰市",
+      "name:zh_pinyin": "Dūjiāngyàn Shi"
+    }
+  },
+  {
+    "name": "Duluth",
+    "country": "United States Of America",
+    "latitude": 46.772932200206725,
+    "longitude": -92.1251218,
+    "other_names": {
+      "name": "Duluth",
+      "name:ja": "ダルース",
+      "name:oj": "Onigamiinsing",
+      "name:ru": "Дулут"
+    }
+  },
+  {
+    "name": "Dumaguete",
+    "country": "Philippines",
+    "latitude": 9.30547769940992,
+    "longitude": 123.3080446,
+    "other_names": {
+      "name": "Dumaguete",
+      "name:en": "Dumaguete",
+      "name:ja": "ドゥマゲテ",
+      "official_name": "City of Dumaguete"
+    }
+  },
+  {
+    "name": "Dumai",
+    "country": "Indonesia",
+    "latitude": 1.6631966998229026,
+    "longitude": 101.44703689999999,
+    "other_names": {
+      "name": "Dumai",
+      "name:zh": "杜迈"
+    }
+  },
+  {
+    "name": "Dundee",
+    "country": "Scotland",
+    "latitude": 56.460593799994484,
+    "longitude": -2.97019,
+    "other_names": {
+      "name": "Dundee",
+      "name:ar": "دندي",
+      "name:be": "Данды",
+      "name:en": "Dundee",
+      "name:fa": "داندی",
+      "name:gd": "Dùn Dèagh",
+      "name:hu": "Dundee",
+      "name:ko": "던디",
+      "name:la": "Taodunum",
+      "name:lt": "Dandi",
+      "name:lv": "Dandī",
+      "name:mk": "Данди",
+      "name:ru": "Данди",
+      "name:sr": "Данди",
+      "name:uk": "Данді",
+      "name:ur": "ڈنڈی",
+      "alt_name:gd": "Dùn Dè"
+    }
+  },
+  {
+    "name": "Dunedin",
+    "country": "New Zealand",
+    "latitude": -45.87409840021149,
+    "longitude": 170.50357549999998,
+    "other_names": {
+      "name": "Dunedin",
+      "name:en": "Dunedin",
+      "name:ja": "ダニーデン",
+      "name:ko": "더니든",
+      "name:mi": "Ōtepoti",
+      "name:mk": "Данидн",
+      "name:ru": "Данидин",
+      "name:uk": "Данідін"
+    }
+  },
+  {
+    "name": "Dungun",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 4.764397199524222,
+    "longitude": 103.41844629999999,
+    "other_names": {
+      "name": "Dungun",
+      "name:ta": "டுங்குங்",
+      "name:zh": "龙运",
+      "alt_name": "Kuala Dungun"
+    }
+  },
+  {
+    "name": "Dunhua",
+    "country": "China",
+    "latitude": 43.36869630054188,
+    "longitude": 128.2269345,
+    "other_names": {
+      "name": "敦化市",
+      "name:de": "Dunhua",
+      "name:en": "Dunhua",
+      "name:fr": "Dunhua",
+      "name:ja": "敦化市",
+      "name:ko": "돈화시",
+      "name:ru": "Дуньхуа",
+      "name:uk": "Дуньхуа",
+      "name:vi": "Đôn Hóa",
+      "name:zh": "敦化市",
+      "alt_name": "敦化;Dunhua City;둔화",
+      "alt_name:vi": "Đôn Hoá",
+      "name:zh-Hant": "敦化市",
+      "name:zh_pinyin": "Dunhua Shi"
+    }
+  },
+  {
+    "name": "Dunhuang",
+    "country": "China",
+    "latitude": 40.1414182002863,
+    "longitude": 94.6612931,
+    "other_names": {
+      "name": "敦煌市",
+      "name:de": "Dunhuang",
+      "name:en": "Dunhuang",
+      "name:eo": "Dunhŭango",
+      "name:fr": "Dunhuang",
+      "name:he": "נווה המדבר של דוןחואן",
+      "name:ja": "敦煌市",
+      "name:ru": "Дуньхуан",
+      "name:uk": "Дуньхуан",
+      "name:vi": "Đôn Hoàng",
+      "name:zh": "敦煌",
+      "alt_name": "Tunhuang",
+      "int_name": "Dunhuang",
+      "name:zh-Hant": "敦煌市",
+      "name:zh_pinyin": "Dūnhuáng Shì"
+    }
+  },
+  {
+    "name": "Dunkirk",
+    "country": "France",
+    "latitude": 51.03477079924348,
+    "longitude": 2.3772525,
+    "other_names": {
+      "name": "Dunkerque",
+      "name:ar": "دونكيرك",
+      "name:de": "Dünkirchen",
+      "name:el": "Δουνκέρκη",
+      "name:en": "Dunkirk",
+      "name:eo": "Dunkirko",
+      "name:es": "Dunkerque",
+      "name:fr": "Dunkerque",
+      "name:he": "דנקרק",
+      "name:hu": "Dunkerque",
+      "name:it": "Dunkerque",
+      "name:ja": "ダンケルク",
+      "name:ko": "됭케르크",
+      "name:la": "Dunquerca",
+      "name:lt": "Diunkerkas",
+      "name:nl": "Duinkerke",
+      "name:pl": "Dunkierka",
+      "name:pt": "Dunquerque",
+      "name:ru": "Дюнкерк",
+      "name:sr": "Денкерк",
+      "name:uk": "Дюнкерк",
+      "name:zh": "敦刻尔克",
+      "name:vls": "Duunkerke",
+      "name:zh-Hant": "敦克爾克"
+    }
+  },
+  {
+    "name": "Duodao",
+    "country": "China",
+    "latitude": 30.976219999662725,
+    "longitude": 112.2024364,
+    "other_names": {
+      "name": "掇刀区",
+      "name:en": "Duodao",
+      "name:vi": "Xuyết Đao",
+      "name:zh": "掇刀区",
+      "name:zh-Hant": "掇刀區",
+      "name:zh_pinyin": "Duodao Qu"
+    }
+  },
+  {
+    "name": "Duolun",
+    "country": "China",
+    "latitude": 42.19921430050013,
+    "longitude": 116.4744958,
+    "other_names": {
+      "name": "多伦县",
+      "name:en": "Duolun",
+      "name:zh": "多伦县",
+      "name:zh-Hant": "多倫縣"
+    }
+  },
+  {
+    "name": "Duque de Caxias",
+    "country": "Brazil",
+    "latitude": -22.789622500095618,
+    "longitude": -43.309929,
+    "other_names": {
+      "name": "Duque de Caxias",
+      "name:ar": "دوق دي كاكسياس",
+      "name:bg": "Дуки ди Кашиас",
+      "name:ja": "デューク・デ・カシアス",
+      "name:ka": "დუკე დე კაშიასი",
+      "name:kk": "Дуки-ди-Кашиас",
+      "name:ko": "두키지카시아스",
+      "name:lt": "Duke de Kašijasas",
+      "name:lv": "Duki di Kašiasa",
+      "name:pt": "Duque de Caxias",
+      "name:ru": "Дуки-ди-Кашиас",
+      "name:sr": "Дуке де Кашијас",
+      "name:th": "ดูกีจีกาเชียส",
+      "name:zh": "卡希亞斯公爵城",
+      "name:zh-Hans": "卡希亚斯公爵城"
+    }
+  },
+  {
+    "name": "Durán",
+    "country": "Ecuador",
+    "latitude": -2.1688547998050574,
+    "longitude": -79.8340647,
+    "other_names": {
+      "name": "Durán",
+      "official_name": "Eloy Alfaro"
+    }
+  },
+  {
+    "name": "Durango",
+    "country": "Mexico",
+    "latitude": 24.02200800033144,
+    "longitude": -104.65474149999999,
+    "other_names": {
+      "name": "Durango",
+      "name:ar": "دورانغو",
+      "name:en": "Durango",
+      "name:es": "Victoria de Durango",
+      "name:pl": "Durango",
+      "name:ru": "Виктория-де-Дуранго",
+      "name:uk": "Дуранґо",
+      "alt_name": "Victoria de Durango",
+      "int_name": "Durango",
+      "old_name": "Tepēhuahcān",
+      "alt_name:ar": "دورانجو",
+      "official_name": "Victoria de Durango"
+    }
+  },
+  {
+    "name": "Durazno",
+    "country": "Uruguay",
+    "latitude": -33.38045169958496,
+    "longitude": -56.5224396,
+    "other_names": {
+      "name": "Durazno"
+    }
+  }
+]

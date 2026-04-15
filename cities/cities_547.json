@@ -1,0 +1,369 @@
+[
+  {
+    "name": "Yun",
+    "country": "China",
+    "latitude": 24.440058100302576,
+    "longitude": 100.1312339,
+    "other_names": {
+      "name": "云县",
+      "name:en": "Yun",
+      "name:zh": "云县",
+      "alt_name": "云;Yun County;Yun Hsien;Yunxian",
+      "name:zh-Hant": "雲縣"
+    }
+  },
+  {
+    "name": "Yun'an",
+    "country": "China",
+    "latitude": 23.07309570038116,
+    "longitude": 111.9975982,
+    "other_names": {
+      "name": "云安区",
+      "name:en": "Yun'an",
+      "name:zh": "云安区",
+      "alt_name": "云安;Yun'an District",
+      "old_name": "云安县;Yun'an County",
+      "name:zh-Hant": "雲安區",
+      "name:zh_pinyin": "yúnān qū"
+    }
+  },
+  {
+    "name": "Yunan",
+    "country": "China",
+    "latitude": 23.24595970037383,
+    "longitude": 111.5359282,
+    "other_names": {
+      "name": "郁南县",
+      "name:en": "Yunan",
+      "name:zh": "郁南县",
+      "alt_name": "郁南;Yunan County",
+      "name:zh-Hant": "鬱南縣"
+    }
+  },
+  {
+    "name": "Yuncheng",
+    "country": "China",
+    "latitude": 35.601486699698306,
+    "longitude": 115.93871929999997,
+    "other_names": {
+      "name": "郓城县",
+      "name:en": "Yuncheng",
+      "name:zh": "郓城县",
+      "name:zh-Hant": "鄆城縣"
+    }
+  },
+  {
+    "name": "Yuncheng",
+    "country": "China",
+    "latitude": 22.931461700386574,
+    "longitude": 112.0381445,
+    "other_names": {
+      "name": "云城区",
+      "name:en": "Yuncheng",
+      "name:uk": "Юньчен",
+      "name:zh": "云城区",
+      "alt_name": "云城;Yuncheng District",
+      "name:zh-Hant": "雲城區"
+    }
+  },
+  {
+    "name": "Yuncheng",
+    "country": "China",
+    "latitude": 35.02763699965354,
+    "longitude": 111.00214099999998,
+    "other_names": {
+      "name": "运城市",
+      "name:de": "Yuncheng",
+      "name:en": "Yuncheng",
+      "name:et": "Yuncheng",
+      "name:fr": "Yuncheng",
+      "name:ja": "運城市",
+      "name:ru": "Юньчэн",
+      "name:vi": "Vận Thành",
+      "name:zh": "运城市",
+      "int_name": "Yuncheng",
+      "name:zh-Hant": "運城市",
+      "name:zh_pinyin": "Yùnchéng Shì"
+    }
+  },
+  {
+    "name": "Yunfu",
+    "country": "China",
+    "latitude": 22.917370300387084,
+    "longitude": 112.03962460000001,
+    "other_names": {
+      "name": "云浮市",
+      "name:ar": "يانفو",
+      "name:cs": "Jün-fu",
+      "name:cy": "Yunfu",
+      "name:da": "Yunfu",
+      "name:de": "Yunfu",
+      "name:en": "Yunfu",
+      "name:es": "Yunfu",
+      "name:et": "Yunfu",
+      "name:eu": "Yunfu",
+      "name:fa": "یانفو",
+      "name:fi": "Yunfu",
+      "name:fr": "Yunfu",
+      "name:id": "Yunfu",
+      "name:it": "Yunfu",
+      "name:ja": "雲浮市",
+      "name:ki": "Yunfu",
+      "name:kk": "Юньфу",
+      "name:ko": "윈푸시",
+      "name:mg": "Yunfu",
+      "name:nl": "Yunfu",
+      "name:nn": "Yunfu",
+      "name:no": "Yunfu",
+      "name:pl": "Yunfu",
+      "name:ru": "Юньфу",
+      "name:sv": "Yunfu",
+      "name:sw": "Yunfu",
+      "name:tr": "Yunfu",
+      "name:uk": "Юньфу",
+      "name:ur": "یونفو",
+      "name:vi": "Vân Phù",
+      "name:zh": "云浮市",
+      "name:cdo": "Hùng-pù",
+      "name:ceb": "Yunfu",
+      "name:nan": "Hûn-phû-chhī",
+      "name:pam": "Yunfu",
+      "name:pnb": "ینفو",
+      "name:yue": "雲浮",
+      "name:zh-Hant": "雲浮市",
+      "name:zh_pinyin": "Yúnfú Shì"
+    }
+  },
+  {
+    "name": "Yunhe",
+    "country": "China",
+    "latitude": 38.3116670000263,
+    "longitude": 116.84999999999998,
+    "other_names": {
+      "name": "运河区",
+      "name:en": "Yunhe",
+      "name:vi": "Vận Hà",
+      "name:zh": "运河区",
+      "alt_name": "运河;Yunhe District",
+      "name:zh-Hant": "運河區",
+      "name:zh_pinyin": "Yunhe Qu"
+    }
+  },
+  {
+    "name": "Yunhe County",
+    "country": "China",
+    "latitude": 28.118531799933045,
+    "longitude": 119.56840019999997,
+    "other_names": {
+      "name": "云和县",
+      "name:de": "Yunhe",
+      "name:en": "Yunhe County",
+      "name:es": "Yunhe",
+      "name:fa": "شهرستان یونهه",
+      "name:fr": "Xian de Yunhe",
+      "name:it": "Contea di Yunhe",
+      "name:ja": "雲和県",
+      "name:ko": "윈허현",
+      "name:no": "Yunhe",
+      "name:ru": "Юньхэ",
+      "name:sv": "Yunhe",
+      "name:uk": "Юньхе повіт",
+      "name:ur": "یونہی کاؤنٹی",
+      "name:vi": "Vân Hòa",
+      "name:zh": "云和县",
+      "name:ceb": "Yunhe Xian",
+      "name:nan": "Hûn-hô-koān",
+      "name:wuu": "云和县",
+      "name:yue": "雲和",
+      "name:zh-Hant": "雲和縣",
+      "name:zh_pinyin": "Yúnhé Xiàn"
+    }
+  },
+  {
+    "name": "Yunlong",
+    "country": "China",
+    "latitude": 34.214966699609434,
+    "longitude": 117.26449690000001,
+    "other_names": {
+      "name": "云龙区",
+      "name:en": "Yunlong",
+      "name:zh": "云龙区",
+      "name:zh-Hant": "雲龍區"
+    }
+  },
+  {
+    "name": "Yunlong",
+    "country": "China",
+    "latitude": 25.88816220017548,
+    "longitude": 99.36912209999998,
+    "other_names": {
+      "name": "云龙县",
+      "name:en": "Yunlong",
+      "name:vi": "Vân Long",
+      "name:zh": "云龙县",
+      "alt_name": "云龙;Yunlong County",
+      "int_name": "Yunlong",
+      "name:zh-Hant": "雲龍縣",
+      "name:zh_pinyin": "Yúnlóng xiàn"
+    }
+  },
+  {
+    "name": "Yunmeng",
+    "country": "China",
+    "latitude": 31.023848299659544,
+    "longitude": 113.7469482,
+    "other_names": {
+      "name": "云梦县",
+      "name:en": "Yunmeng",
+      "name:uk": "Юньмин",
+      "name:zh": "云梦县",
+      "alt_name": "云梦;Yunmeng County;Yun-meng Hsien",
+      "name:zh-Hant": "雲夢縣"
+    }
+  },
+  {
+    "name": "Yunxi",
+    "country": "China",
+    "latitude": 32.99478279958767,
+    "longitude": 110.42059039999998,
+    "other_names": {
+      "name": "郧西县",
+      "name:en": "Yunxi",
+      "name:ja": "ウン西県",
+      "name:ru": "Юньси",
+      "name:uk": "Юньсі",
+      "name:vi": "Vân Tây",
+      "name:zh": "郧西县",
+      "alt_name": "郧西城关镇",
+      "name:zh-Hant": "鄖西縣"
+    }
+  },
+  {
+    "name": "Yunxi",
+    "country": "China",
+    "latitude": 29.476322799789013,
+    "longitude": 113.2663859,
+    "other_names": {
+      "name": "云溪区",
+      "name:de": "Yunxi",
+      "name:en": "Yunxi",
+      "name:fr": "District de Yunxi",
+      "name:it": "Distretto di Yunxi",
+      "name:ja": "雲渓区",
+      "name:ko": "윈시구",
+      "name:no": "Yunxi",
+      "name:ru": "Юньси",
+      "name:sv": "Yunxi",
+      "name:uk": "Юньсі район",
+      "name:ur": "ینگزی ضلع",
+      "name:vi": "Vân Khê",
+      "name:zh": "云溪区",
+      "alt_name": "云溪;Yun-hsi;云溪镇;Yunxi District",
+      "name:nan": "Hûn-khe-khu",
+      "name:yue": "雲溪區",
+      "name:zh-Hant": "云溪區",
+      "official_name": "云溪镇",
+      "name:zh_pinyin": "yúnxī qū"
+    }
+  },
+  {
+    "name": "Yunxiao",
+    "country": "China",
+    "latitude": 23.96039040033536,
+    "longitude": 117.33504710000001,
+    "other_names": {
+      "name": "云霄县",
+      "name:de": "Yunxiao",
+      "name:en": "Yunxiao",
+      "name:fr": "Yunxiao",
+      "name:it": "Yunxiao",
+      "name:ja": "雲霄県",
+      "name:ko": "윈샤오현",
+      "name:uk": "Юньсяо повіт",
+      "name:vi": "Vân Tiêu",
+      "name:zh": "云霄县",
+      "alt_name": "云霄;Yunxiao County",
+      "name:cdo": "Hùng-siĕu",
+      "name:hak": "Yùn-siâu-yen",
+      "name:nan": "Ûn-sio-kōan",
+      "name:yue": "雲霄",
+      "name:zh-Hant": "雲霄縣",
+      "name:zh_pinyin": "yúnxiāo xiàn"
+    }
+  },
+  {
+    "name": "Yunyan",
+    "country": "China",
+    "latitude": 26.607870900100636,
+    "longitude": 106.71979129999998,
+    "other_names": {
+      "name": "云岩区",
+      "name:en": "Yunyan",
+      "name:vi": "Vân Nham",
+      "name:zh": "云岩区",
+      "alt_name": "Yunyan District",
+      "name:zh-Hant": "雲巖區",
+      "name:zh_pinyin": "Yunyan Qu"
+    }
+  },
+  {
+    "name": "Yunyang",
+    "country": "China",
+    "latitude": 32.83670719958874,
+    "longitude": 110.8068432,
+    "other_names": {
+      "name": "郧阳区",
+      "name:en": "Yunyang",
+      "name:ja": "ウン陽区",
+      "name:uk": "Юньян",
+      "name:zh": "郧阳",
+      "name:zh-Hant": "鄖陽區",
+      "official_name": "郧阳区"
+    }
+  },
+  {
+    "name": "Yunyang",
+    "country": "China",
+    "latitude": 30.932819799665666,
+    "longitude": 108.69209299999999,
+    "other_names": {
+      "name": "云阳县",
+      "name:en": "Yunyang",
+      "name:ja": "雲陽県",
+      "name:ru": "Юньян",
+      "name:uk": "Юньян",
+      "name:zh": "云阳县",
+      "alt_name": "云阳;Yun-yang-hsien",
+      "int_name": "yun yang",
+      "name:zh-Hant": "雲陽縣"
+    }
+  },
+  {
+    "name": "Yunzhou",
+    "country": "China",
+    "latitude": 40.03706370027231,
+    "longitude": 113.60712079999999,
+    "other_names": {
+      "name": "云州区",
+      "name:en": "Yunzhou",
+      "name:ja": "雲州区",
+      "name:zh": "云州区",
+      "alt_name": "云州;Yunzhou District",
+      "old_name": "大同;大同县;Datong;Datong County;Dàtóng Xiàn",
+      "name:zh-Hant": "雲州區"
+    }
+  },
+  {
+    "name": "Yuping",
+    "country": "China",
+    "latitude": 27.23892270003138,
+    "longitude": 108.9030505,
+    "other_names": {
+      "name": "玉屏县",
+      "name:en": "Yuping",
+      "name:zh": "玉屏县",
+      "alt_name": "玉屏县;玉屏",
+      "name:zh-Hant": "玉屏縣"
+    }
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Ovar",
+    "country": "Portugal",
+    "latitude": 40.85948190037614,
+    "longitude": -8.6252174,
+    "other_names": {
+      "name": "Ovar"
+    }
+  },
+  {
+    "name": "Overland Park",
+    "country": "United States Of America",
+    "latitude": 38.97425020012218,
+    "longitude": -94.68517019999999,
+    "other_names": {
+      "name": "Overland Park"
+    }
+  },
+  {
+    "name": "Oviedo",
+    "country": "Spain",
+    "latitude": 43.360597700541845,
+    "longitude": -5.844898899999999,
+    "other_names": {
+      "name": "Oviedo/Uviéu",
+      "name:ar": "أوفييدو",
+      "name:be": "Аўеда",
+      "name:ca": "Oviedo",
+      "name:el": "Οβιέδο",
+      "name:en": "Oviedo",
+      "name:es": "Oviedo",
+      "name:et": "Oviedo",
+      "name:fr": "Oviède",
+      "name:ru": "Овьедо",
+      "alt_name": "Uviéu",
+      "name:ast": "Uviéu",
+      "reg_name": "Uviéu",
+      "official_name": "Oviedo/Uviéu"
+    }
+  },
+  {
+    "name": "Owariasahi",
+    "country": "Japan",
+    "latitude": 35.208147999666444,
+    "longitude": 137.03721999999996,
+    "other_names": {
+      "name": "尾張旭市",
+      "name:ar": "أواري أساهي، آيتشي",
+      "name:de": "Owariasahi",
+      "name:en": "Owariasahi",
+      "name:es": "Owariasahi",
+      "name:fr": "Owariasahi",
+      "name:ja": "尾張旭市",
+      "name:ko": "오와리아사히시",
+      "name:pl": "Owariasahi",
+      "name:ru": "Овариасахи",
+      "name:uk": "Оварі-Асахі",
+      "name:ja_rm": "Owariasahi-shi",
+      "name:ja_kana": "おわりあさひし"
+    }
+  },
+  {
+    "name": "Owase",
+    "country": "Japan",
+    "latitude": 34.070781499604074,
+    "longitude": 136.19113939999997,
+    "other_names": {
+      "name": "尾鷲市",
+      "name:ar": "أواسي، ميه",
+      "name:de": "Owase",
+      "name:en": "Owase",
+      "name:es": "Owase",
+      "name:fr": "Owase",
+      "name:ja": "尾鷲市",
+      "name:ko": "오와세시",
+      "name:pl": "Owase",
+      "name:ru": "Овасэ",
+      "name:uk": "Овасе",
+      "int_name": "Owase",
+      "name:ja_rm": "Owase",
+      "name:ja_kana": "おわせし"
+    }
+  },
+  {
+    "name": "Owensboro",
+    "country": "United States Of America",
+    "latitude": 37.77421519995049,
+    "longitude": -87.1133304,
+    "other_names": {
+      "name": "Owensboro"
+    }
+  },
+  {
+    "name": "Owen Sound",
+    "country": "Canada",
+    "latitude": 44.56781050050369,
+    "longitude": -80.9430094,
+    "other_names": {
+      "name": "Owen Sound"
+    }
+  },
+  {
+    "name": "Owerri",
+    "country": "Nigeria",
+    "latitude": 5.489735999473838,
+    "longitude": 7.0341973,
+    "other_names": {
+      "name": "Owerri",
+      "name:ar": "أوري",
+      "name:ko": "오웨리",
+      "name:ru": "Оверри",
+      "name:uk": "Оверрі"
+    }
+  },
+  {
+    "name": "Owo",
+    "country": "Nigeria",
+    "latitude": 7.196201199400357,
+    "longitude": 5.586801599999999,
+    "other_names": {
+      "name": "Owo"
+    }
+  },
+  {
+    "name": "Oxford",
+    "country": "England",
+    "latitude": 51.75201309914178,
+    "longitude": -1.2578498999999999,
+    "other_names": {
+      "name": "Oxford",
+      "name:ar": "أكسفورد",
+      "name:cy": "Rhydychen",
+      "name:el": "Οξφόρδη",
+      "name:en": "Oxford",
+      "name:eo": "Oksfordo",
+      "name:ga": "Ocsanphort",
+      "name:gd": "Àth nan Damh",
+      "name:hu": "Oxford",
+      "name:kn": "ಆಕ್ಸ್‌ಫರ್ಡ್",
+      "name:ko": "옥스퍼드",
+      "name:la": "Oxonia",
+      "name:lt": "Oksfordas",
+      "name:mk": "Оксфорд",
+      "name:pl": "Oksford",
+      "name:ru": "Оксфорд",
+      "name:sr": "Оксфорд",
+      "name:uk": "Оксфорд",
+      "name:zh": "牛津",
+      "name:ckb": "ئۆکسفۆرد"
+    }
+  },
+  {
+    "name": "Oxnard",
+    "country": "United States Of America",
+    "latitude": 34.19763079960877,
+    "longitude": -119.1803818,
+    "other_names": {
+      "name": "Oxnard"
+    }
+  },
+  {
+    "name": "Oyabe",
+    "country": "Japan",
+    "latitude": 36.675589499808986,
+    "longitude": 136.8688637,
+    "other_names": {
+      "name": "小矢部市",
+      "name:en": "Oyabe",
+      "name:fr": "Oyabe",
+      "name:ja": "小矢部市",
+      "name:ko": "오야베시",
+      "name:pl": "Oyabe",
+      "name:ru": "Оябе",
+      "name:uk": "Оябе",
+      "name:ja_rm": "Oyabe-shi",
+      "name:ja_kana": "おやべし"
+    }
+  },
+  {
+    "name": "Oyala",
+    "country": "Equatorial Guinea",
+    "latitude": 1.5994534998297778,
+    "longitude": 10.8268276,
+    "other_names": {
+      "name": "Oyala",
+      "name:ar": "سيوداد دي لا باز",
+      "name:fa": "سیوداد دلاپاز",
+      "name:fr": "Oyala",
+      "name:ur": "سیوداد دے لا پاز",
+      "alt_name": "Ciudad de La Paz"
+    }
+  },
+  {
+    "name": "Oyama",
+    "country": "Japan",
+    "latitude": 36.314737299768225,
+    "longitude": 139.800148,
+    "other_names": {
+      "name": "小山市",
+      "name:ar": "أوياما، توتشيغي",
+      "name:de": "Oyama",
+      "name:en": "Oyama",
+      "name:es": "Oyama",
+      "name:fr": "Oyama",
+      "name:ja": "小山市",
+      "name:ko": "오야마시",
+      "name:pl": "Oyama",
+      "name:ru": "Ояма",
+      "name:uk": "Ояма",
+      "name:ja_rm": "FIXME"
+    }
+  },
+  {
+    "name": "Oyo",
+    "country": "Nigeria",
+    "latitude": 7.84105369939107,
+    "longitude": 3.931536299999999,
+    "other_names": {
+      "name": "Oyo",
+      "name:ru": "Ойо"
+    }
+  },
+  {
+    "name": "Ozamiz",
+    "country": "Philippines",
+    "latitude": 8.14701749939041,
+    "longitude": 123.8459793,
+    "other_names": {
+      "name": "Ozamiz",
+      "name:en": "Ozamiz",
+      "name:ja": "オザミス"
+    }
+  },
+  {
+    "name": "Ozu",
+    "country": "Japan",
+    "latitude": 33.50648799959027,
+    "longitude": 132.5446842,
+    "other_names": {
+      "name": "大洲市",
+      "name:ar": "اوزو، إهيمه",
+      "name:de": "Ōzu",
+      "name:en": "Ozu",
+      "name:es": "Ōzu",
+      "name:fr": "Ōzu",
+      "name:ja": "大洲市",
+      "name:ko": "오즈시",
+      "name:pl": "Ōzu",
+      "name:ru": "Одзу",
+      "name:uk": "Одзу",
+      "name:zh": "大洲市",
+      "int_name": "Ōzu",
+      "name:ja-Hira": "おおずし",
+      "name:zh-Hans": "大洲市",
+      "name:zh-Hant": "大洲市"
+    }
+  },
+  {
+    "name": "Pachuca",
+    "country": "Mexico",
+    "latitude": 20.11654130037752,
+    "longitude": -98.7413535,
+    "other_names": {
+      "name": "Pachuca",
+      "name:es": "Pachuca",
+      "name:pl": "Pachuca",
+      "name:ru": "Пачука-де-Сото",
+      "name:uk": "Пачука-де-Сото",
+      "alt_name": "Pachuca de Soto",
+      "old_name": "Pachyohcān"
+    }
+  },
+  {
+    "name": "Paço do Lumiar",
+    "country": "Brazil",
+    "latitude": -2.532590199779571,
+    "longitude": -44.1591104,
+    "other_names": {
+      "name": "Paço do Lumiar"
+    }
+  },
+  {
+    "name": "Padang",
+    "country": "Indonesia",
+    "latitude": -0.924758699909289,
+    "longitude": 100.36325609999999,
+    "other_names": {
+      "name": "Padang",
+      "name:en": "Padang",
+      "name:ja": "パダン",
+      "name:pt": "Padang",
+      "name:ru": "Паданг",
+      "name:uk": "Паданг",
+      "name:zh": "巴东",
+      "name:zh-Hant": "巴東"
+    }
+  }
+]

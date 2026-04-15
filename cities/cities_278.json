@@ -1,0 +1,385 @@
+[
+  {
+    "name": "Luannan",
+    "country": "China",
+    "latitude": 39.51912190020049,
+    "longitude": 118.6776509,
+    "other_names": {
+      "name": "滦南县",
+      "name:en": "Luannan",
+      "name:vi": "Loan Nam",
+      "name:zh": "滦南县",
+      "alt_name": "滦南;Luan-nan Hsien",
+      "name:zh-Hant": "灤南縣",
+      "name:zh_pinyin": "Luannan Xian"
+    }
+  },
+  {
+    "name": "Luanping",
+    "country": "China",
+    "latitude": 40.93503580038484,
+    "longitude": 117.33075449999997,
+    "other_names": {
+      "name": "滦平县",
+      "name:en": "Luanping",
+      "name:vi": "Loan Bình",
+      "name:zh": "滦平县",
+      "alt_name": "滦平;Luanping County",
+      "name:zh-Hant": "灤平縣",
+      "name:zh_pinyin": "Luanping Xian"
+    }
+  },
+  {
+    "name": "Luanshya",
+    "country": "Zambia",
+    "latitude": -13.138326400224763,
+    "longitude": 28.4179933,
+    "other_names": {
+      "name": "Luanshya",
+      "name:ko": "루안샤",
+      "name:ru": "Луаншья"
+    }
+  },
+  {
+    "name": "Luanzhou",
+    "country": "China",
+    "latitude": 39.73972480023151,
+    "longitude": 118.69755949999998,
+    "other_names": {
+      "name": "滦州市",
+      "name:en": "Luanzhou",
+      "name:zh": "滦州市",
+      "alt_name": "滦州;Luanzhou City",
+      "old_name": "滦县",
+      "old_name:en": "Luanxian",
+      "name:zh-Hant": "灤州市"
+    }
+  },
+  {
+    "name": "Lubango",
+    "country": "Angola",
+    "latitude": -14.919177900374244,
+    "longitude": 13.489631599999997,
+    "other_names": {
+      "name": "Lubango",
+      "name:el": "Λουμπάνγκο",
+      "name:ko": "루방구",
+      "name:ru": "Лубанго",
+      "name:uk": "Лубанго",
+      "old_name:de": "Sá da Bandeira",
+      "old_name:en": "Sá da Bandeira",
+      "old_name:es": "Sá da Bandeira",
+      "old_name:fr": "Sá da Bandeira",
+      "old_name:it": "Sá da Bandeira",
+      "old_name:nl": "Sá da Bandeira",
+      "old_name:pl": "Sá da Bandeira",
+      "old_name:pt": "Sá da Bandeira",
+      "old_name:ru": "Сан-да-Бандейра"
+    }
+  },
+  {
+    "name": "Lubbock",
+    "country": "United States Of America",
+    "latitude": 33.56352059959114,
+    "longitude": -101.87933599999998,
+    "other_names": {
+      "name": "Lubbock",
+      "name:en": "Lubbock",
+      "name:ru": "Лаббок",
+      "name:uk": "Лаббок"
+    }
+  },
+  {
+    "name": "Lübeck",
+    "country": "Germany",
+    "latitude": 53.86644399916413,
+    "longitude": 10.684738,
+    "other_names": {
+      "name": "Lübeck",
+      "name:ar": "لوبك",
+      "name:cs": "Lubek",
+      "name:de": "Lübeck",
+      "name:en": "Lübeck",
+      "name:eo": "Lubeko",
+      "name:es": "Lubeca",
+      "name:fa": "لوبک",
+      "name:fi": "Lyypekki",
+      "name:fr": "Lübeck",
+      "name:hu": "Lübeck",
+      "name:it": "Lubecca",
+      "name:ja": "リューベック",
+      "name:la": "Lubeca",
+      "name:lt": "Liubekas",
+      "name:lv": "Lībeka",
+      "name:pl": "Lubeka",
+      "name:ru": "Любек",
+      "name:sq": "Lybeku",
+      "name:sr": "Либек",
+      "name:uk": "Любек",
+      "name:ur": "لوبک",
+      "name:hsb": "Lubica",
+      "name:nds": "Lübeck",
+      "official_name": "Hansestadt Lübeck",
+      "official_name:af": "Hansestad Lübeck",
+      "official_name:an": "Ciudat Hanseatica de Lübeck",
+      "official_name:ar": "مدينة لوبك الهانزية",
+      "official_name:az": "Hanzey şəhəri Lübek",
+      "official_name:be": "Ганзейскі горад Любек",
+      "official_name:ca": "Ciutat Lliure i Hanseàtica de Lübeck",
+      "official_name:cv": "Любек ханза хули",
+      "official_name:da": "Hansestaden Lybæk",
+      "official_name:de": "Hansestadt Lübeck",
+      "official_name:en": "Hanseatic City of Lübeck",
+      "official_name:eo": "Hanso-urbo Lubeko",
+      "official_name:es": "Ciudad Hanseática de Lübeck",
+      "official_name:et": "Hansalinn Lübeck",
+      "official_name:eu": "Lübeckeko Hansar Hiria",
+      "official_name:fy": "Hânzestêd Lübeck",
+      "official_name:gl": "Cidade Hanseática de Lübeck",
+      "official_name:hr": "Hanzeatski grad Lübeck",
+      "official_name:id": "Kota Hanseatik Lübeck",
+      "official_name:it": "libera città anseatica di Lubecca",
+      "official_name:ja": "ハンザ都市リューベック",
+      "official_name:jv": "Kota Hanseatik Lübeck",
+      "official_name:la": "Lubeca urbs Hansica",
+      "official_name:lb": "Hansestad Lübeck",
+      "official_name:mk": "Ханзин град Либек",
+      "official_name:nl": "Hanzestad Lübeck",
+      "official_name:no": "Hansestadt Lübeck",
+      "official_name:pt": "Cidade Hanseática de Lübeck",
+      "official_name:th": "นครฮันเซอแห่งลือเบค",
+      "official_name:tr": "Hanseatik Dönemin Lübeck Şehri",
+      "official_name:vi": "Thành phố Hanse Lübeck",
+      "official_name:zh": "汉萨同盟城市吕贝克",
+      "official_name:ast": "Ciudá Hanseática de Lübeck",
+      "official_name:bar": "Hansestod Lübeck",
+      "official_name:hsb": "Hansowe město Lubica",
+      "official_name:sco": "Hanseatic Ceety o Lübeck",
+      "official_name:yue": "漢莎城市呂碧克",
+      "official_name:nds-nl": "Hanzestad Lubeek",
+      "official_name:be-tarask": "Ганзейскі горад Любэк"
+    }
+  },
+  {
+    "name": "Lubei",
+    "country": "China",
+    "latitude": 39.62313300021519,
+    "longitude": 118.19453640000002,
+    "other_names": {
+      "name": "路北区",
+      "name:en": "Lubei",
+      "name:vi": "Lộ Bắc",
+      "name:zh": "路北区",
+      "alt_name": "路北",
+      "name:zh-Hant": "路北區",
+      "name:zh_pinyin": "Lubei Qu"
+    }
+  },
+  {
+    "name": "Lublin",
+    "country": "Poland",
+    "latitude": 51.250558999208415,
+    "longitude": 22.570102199999997,
+    "other_names": {
+      "name": "Lublin",
+      "name:be": "Люблін",
+      "name:el": "Λούμπλιν",
+      "name:en": "Lublin",
+      "name:fa": "لوبلین",
+      "name:he": "לובלין",
+      "name:ja": "ルブリン",
+      "name:lt": "Liublinas",
+      "name:mk": "Лублин",
+      "name:pl": "Lublin",
+      "name:ru": "Люблин",
+      "name:uk": "Люблін"
+    }
+  },
+  {
+    "name": "Lubuklinggau",
+    "country": "Indonesia",
+    "latitude": -3.2919135997349347,
+    "longitude": 102.87157320000001,
+    "other_names": {
+      "name": "Lubuklinggau"
+    }
+  },
+  {
+    "name": "Lubumbashi",
+    "country": "Congo Democratic Republic",
+    "latitude": -11.664231600078217,
+    "longitude": 27.4826264,
+    "other_names": {
+      "name": "Lubumbashi",
+      "name:ar": "لوبومباشي",
+      "name:en": "Lubumbashi",
+      "name:eo": "Lubumbaŝo",
+      "name:ko": "루붐바시",
+      "name:pt": "Lubumbashi",
+      "name:ru": "Лубумбаши",
+      "name:uk": "Лубумбаші",
+      "name:zh": "卢本巴希",
+      "old_name": "Elisabethville"
+    }
+  },
+  {
+    "name": "Lubutu",
+    "country": "Congo Democratic Republic",
+    "latitude": -0.7403355999266381,
+    "longitude": 26.581552499999997,
+    "other_names": {
+      "name": "Lubutu"
+    }
+  },
+  {
+    "name": "Lucapa",
+    "country": "Angola",
+    "latitude": -8.4195243997876,
+    "longitude": 20.7410918,
+    "other_names": {
+      "name": "Lucapa",
+      "name:ru": "Лукапа",
+      "name:uk": "Лукапа"
+    }
+  },
+  {
+    "name": "Lucca",
+    "country": "Italy",
+    "latitude": 43.842838100537186,
+    "longitude": 10.502876,
+    "other_names": {
+      "name": "Lucca",
+      "name:el": "Λούκκα",
+      "name:en": "Lucca",
+      "name:fr": "Lucques",
+      "name:ru": "Лукка",
+      "name:zh": "卢卡"
+    }
+  },
+  {
+    "name": "Lucena",
+    "country": "Philippines",
+    "latitude": 13.92604269978163,
+    "longitude": 121.6141793,
+    "other_names": {
+      "ref": "045624000",
+      "name": "Lucena",
+      "name:ja": "ルセナ"
+    }
+  },
+  {
+    "name": "Lucheng",
+    "country": "China",
+    "latitude": 36.33239959977015,
+    "longitude": 113.22291750000001,
+    "other_names": {
+      "name": "潞城区",
+      "name:de": "Lucheng",
+      "name:en": "Lucheng",
+      "name:fr": "Lucheng",
+      "name:ja": "ロ城市",
+      "name:vi": "Lộ Thành",
+      "name:zh": "潞城区",
+      "alt_name": "潞城;Lucheng District",
+      "old_name": "潞城市;Lucheng City;;Lucheng Xian;Lu-ch'eng Hsien;Lucheng Shi",
+      "name:zh-Hant": "潞城區"
+    }
+  },
+  {
+    "name": "Luchuan",
+    "country": "China",
+    "latitude": 22.324240600403517,
+    "longitude": 110.2598698,
+    "other_names": {
+      "name": "陆川县",
+      "name:de": "Luchuan",
+      "name:en": "Luchuan",
+      "name:fa": "شهرستان لوچوان",
+      "name:fr": "Xian de Luchuan",
+      "name:it": "Contea di Luchuan",
+      "name:ja": "陸川県",
+      "name:ko": "루촨현",
+      "name:no": "Luchuan",
+      "name:sv": "Luchuan",
+      "name:vi": "Lục Xuyên",
+      "name:zh": "陆川县",
+      "alt_name": "陆川;Luchuan County",
+      "name:ceb": "Luchuan Xian",
+      "name:hak": "Liu̍k-chhôn-yen",
+      "name:nan": "Lio̍k-chhoan-koān",
+      "name:yue": "陆川县",
+      "alt_name:vi": "Arishang",
+      "name:zh-Hant": "陸川縣",
+      "name:yue-Latn": "Lukcyun-jyun",
+      "name:zh_pinyin": "lùchuān xiàn"
+    }
+  },
+  {
+    "name": "Lüchun",
+    "country": "China",
+    "latitude": 22.996347400384167,
+    "longitude": 102.39088919999999,
+    "other_names": {
+      "name": "绿春县",
+      "name:en": "Lüchun",
+      "name:vi": "Lục Xuân",
+      "name:zh": "绿春县",
+      "alt_name": "绿春;Lüchun;Daxing Zhen;Ta-hsing-chieh;Ta-hsing-chen;Ta-hsing-chai;Luchun County;大兴",
+      "name:zh-Hant": "綠春縣"
+    }
+  },
+  {
+    "name": "Lucknow",
+    "country": "India",
+    "latitude": 26.83810000007566,
+    "longitude": 80.9346001,
+    "other_names": {
+      "name": "Lucknow",
+      "name:ar": "لكنو",
+      "name:bn": "লখনউ",
+      "name:en": "Lucknow",
+      "name:eo": "Laknaŭo",
+      "name:fa": "لکهنو",
+      "name:he": "לאקנאו",
+      "name:hi": "लखनऊ",
+      "name:ja": "ラクナウ",
+      "name:kn": "ಲಖ್ನೌ",
+      "name:ml": "ലഖ്‌നൗ",
+      "name:ne": "लखनऊ",
+      "name:oc": "Lakhnau",
+      "name:or": "ଲକ୍ଷ୍ନୌ",
+      "name:pa": "ਲਖਨਊ",
+      "name:ru": "Лакхнау",
+      "name:ta": "இலக்னோ",
+      "name:te": "లక్నో",
+      "name:tr": "Lucknow",
+      "name:uk": "Лакнау",
+      "name:ur": "لکھنو",
+      "name:zh": "勒克瑙",
+      "alt_name:ar": "لكهنؤ;لكناو"
+    }
+  },
+  {
+    "name": "Ludhiana",
+    "country": "India",
+    "latitude": 30.909015699667297,
+    "longitude": 75.851601,
+    "other_names": {
+      "name": "Ludhiana",
+      "name:de": "Ludhiana",
+      "name:en": "Ludhiana",
+      "name:es": "Ludhiana",
+      "name:fr": "Ludhiana",
+      "name:he": "לודיאנה",
+      "name:hi": "लुधियाना",
+      "name:ja": "ルディヤーナー",
+      "name:kn": "ಲುಧಿಅನಾ",
+      "name:ko": "루디아나",
+      "name:ml": "ലുധിയാന",
+      "name:pa": "ਲੁਧਿਆਣਾ",
+      "name:ru": "Лудхияна",
+      "name:ta": "லூதியானா",
+      "name:zh": "卢迪亚纳"
+    }
+  }
+]

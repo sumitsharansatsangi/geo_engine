@@ -1,0 +1,289 @@
+[
+  {
+    "name": "Ferraz de Vasconcelos",
+    "country": "Brazil",
+    "latitude": -23.541055999991336,
+    "longitude": -46.37097,
+    "other_names": {
+      "name": "Ferraz de Vasconcelos"
+    }
+  },
+  {
+    "name": "Ferrol",
+    "country": "Spain",
+    "latitude": 43.484686200541944,
+    "longitude": -8.233161999999998,
+    "other_names": {
+      "name": "Ferrol",
+      "name:ar": "فيرول",
+      "name:el": "Φερρόλ",
+      "name:es": "Ferrol",
+      "name:gl": "Ferrol",
+      "alt_name:el": "Φερόλ"
+    }
+  },
+  {
+    "name": "Fetești",
+    "country": "Romania",
+    "latitude": 44.401102675569554,
+    "longitude": 27.83136018108312,
+    "other_names": {
+      "name": "Fetești",
+      "name:ru": "Фетешти"
+    }
+  },
+  {
+    "name": "Fez",
+    "country": "Morocco",
+    "latitude": 34.03465339960285,
+    "longitude": -5.0161926,
+    "other_names": {
+      "name": "Fès ⴼⴰⵙ فاس",
+      "name:ar": "فاس",
+      "name:cs": "Fes",
+      "name:de": "Fès",
+      "name:en": "Fez",
+      "name:es": "Fez",
+      "name:et": "Fès",
+      "name:fa": "فاس",
+      "name:fr": "Fès",
+      "name:he": "פאס",
+      "name:hi": "फेज़",
+      "name:hr": "Fes",
+      "name:it": "Fes",
+      "name:pl": "Fez",
+      "name:ru": "Фес",
+      "name:uk": "Фес",
+      "name:ur": "فاس",
+      "name:zh": "非斯",
+      "alt_name": "Fes",
+      "name:ber": "ⴼⴰⵙ",
+      "name:zgh": "ⴼⴰⵙ"
+    }
+  },
+  {
+    "name": "Fez",
+    "country": "Morocco",
+    "latitude": 34.02725454079313,
+    "longitude": -5.009351296672522,
+    "other_names": {
+      "name": "Fès ⴼⴰⵙ فاس",
+      "name:ar": "فاس",
+      "name:cs": "Fes",
+      "name:de": "Fès",
+      "name:en": "Fez",
+      "name:eo": "Feso",
+      "name:es": "Fez",
+      "name:fr": "Fès",
+      "name:he": "פאס",
+      "name:hi": "फेज़",
+      "name:it": "Fes",
+      "name:ru": "Фес",
+      "name:uk": "Фес",
+      "alt_name": "Fes",
+      "name:ber": "ⴼⴰⵙ",
+      "alt_name:cs": "Fes"
+    }
+  },
+  {
+    "name": "Fiães",
+    "country": "Portugal",
+    "latitude": 40.99458590039154,
+    "longitude": -8.5247192,
+    "other_names": {
+      "name": "Fiães"
+    }
+  },
+  {
+    "name": "Fianarantsoa",
+    "country": "Madagascar",
+    "latitude": -21.45644400025905,
+    "longitude": 47.085148999999994,
+    "other_names": {
+      "name": "Fianarantsoa",
+      "name:ko": "피아나란초아",
+      "name:ru": "Фианаранцуа"
+    }
+  },
+  {
+    "name": "Fianga",
+    "country": "Chad",
+    "latitude": 9.915178699433936,
+    "longitude": 15.1409031,
+    "other_names": {
+      "name": "Fianga",
+      "name:ar": "فيانكا",
+      "name:fr": "Fianga"
+    }
+  },
+  {
+    "name": "Fier",
+    "country": "Albania",
+    "latitude": 40.72533030202987,
+    "longitude": 19.558515439411504,
+    "other_names": {
+      "name": "Fier",
+      "name:bg": "Фиер",
+      "name:de": "Fier",
+      "name:el": "Φίερι",
+      "name:en": "Fier",
+      "name:fr": "Fier",
+      "name:it": "Fier",
+      "name:mk": "Фиер",
+      "name:ru": "Фиери",
+      "name:sq": "Fier",
+      "old_name": "Fieri"
+    }
+  },
+  {
+    "name": "Fier",
+    "country": "Albania",
+    "latitude": 40.72511180036031,
+    "longitude": 19.558207900000003,
+    "other_names": {
+      "name": "Fier",
+      "name:al": "Fier",
+      "name:be": "Фіер",
+      "name:bg": "Фиер",
+      "name:de": "Fier",
+      "name:el": "Φίερι",
+      "name:en": "Fier",
+      "name:fr": "Fier",
+      "name:it": "Fier",
+      "name:mk": "Фиер",
+      "name:ru": "Фиери",
+      "name:sr": "Фјер",
+      "old_name": "Fieri",
+      "name:be-tarask": "Фіер"
+    }
+  },
+  {
+    "name": "Figueira da Foz",
+    "country": "Portugal",
+    "latitude": 40.148580800287256,
+    "longitude": -8.855655,
+    "other_names": {
+      "name": "Figueira da Foz",
+      "name:lt": "Figeira da Fosas"
+    }
+  },
+  {
+    "name": "Figuig",
+    "country": "Morocco",
+    "latitude": 32.1150479996045,
+    "longitude": -1.2303959999999998,
+    "other_names": {
+      "name": "Figuig ⵉⴼⵉⵢⵢⵉⵢ فكيك",
+      "name:ar": "فكيك",
+      "name:de": "Fikīk",
+      "name:en": "Figuig",
+      "name:fr": "Figuig",
+      "name:ru": "Фигит",
+      "alt_name": "فگيگ;فڭيڭ",
+      "name:ber": "ⵉⴼⵉⵢⵢⵉⵢ",
+      "name:zgh": "ⵉⴼⵉⵢⵢⵉⵢ",
+      "alt_name:ar": "فجيج"
+    }
+  },
+  {
+    "name": "Figuig",
+    "country": "Algeria",
+    "latitude": 32.1150479996045,
+    "longitude": -1.2303959999999998,
+    "other_names": {
+      "name": "Figuig ⵉⴼⵉⵢⵢⵉⵢ فكيك",
+      "name:ar": "فكيك",
+      "name:de": "Fikīk",
+      "name:en": "Figuig",
+      "name:fr": "Figuig",
+      "name:ru": "Фигит",
+      "alt_name": "فگيگ;فڭيڭ",
+      "name:ber": "ⵉⴼⵉⵢⵢⵉⵢ",
+      "name:zgh": "ⵉⴼⵉⵢⵢⵉⵢ",
+      "alt_name:ar": "فجيج"
+    }
+  },
+  {
+    "name": "Filadelfia",
+    "country": "Paraguay",
+    "latitude": -22.352455200152804,
+    "longitude": -60.035174,
+    "other_names": {
+      "name": "Filadelfia",
+      "name:lt": "Filadelfija",
+      "name:ru": "Филадельфия",
+      "alt_name": "Colonia Fernheim"
+    }
+  },
+  {
+    "name": "Findlay",
+    "country": "United States Of America",
+    "latitude": 41.041387300396735,
+    "longitude": -83.6503982,
+    "other_names": {
+      "name": "Findlay"
+    }
+  },
+  {
+    "name": "Firozkoh",
+    "country": "Afghanistan",
+    "latitude": 34.51896349962321,
+    "longitude": 65.2554797,
+    "other_names": {
+      "name": "فیروزکوه",
+      "name:en": "Firozkoh",
+      "name:fa": "فیروزکوه",
+      "name:hi": "फ़िरोज़कोह",
+      "name:ps": "آهنګران",
+      "alt_name": "Chakhcheran",
+      "old_name": "Āhangarān;آهنګران;آهنگران"
+    }
+  },
+  {
+    "name": "Firozpur",
+    "country": "India",
+    "latitude": 30.961178399663734,
+    "longitude": 74.6092483,
+    "other_names": {
+      "name": "Firozpur",
+      "name:en": "Firozpur",
+      "name:hi": "फिरोजपुर",
+      "name:ja": "フィールーズプル",
+      "name:kn": "ಫಿರೋಜ್ಪುರ್",
+      "name:pa": "ਫ਼ਿਰੋਜ਼ਪੁਰ"
+    }
+  },
+  {
+    "name": "Fitchburg",
+    "country": "United States Of America",
+    "latitude": 42.590366100521976,
+    "longitude": -71.81198369999998,
+    "other_names": {
+      "name": "Fitchburg"
+    }
+  },
+  {
+    "name": "Flagstaff",
+    "country": "United States Of America",
+    "latitude": 35.198752199665755,
+    "longitude": -111.6518229,
+    "other_names": {
+      "name": "Flagstaff",
+      "name:en": "Flagstaff",
+      "name:ru": "Флагстафф",
+      "name:uk": "Флегстафф"
+    }
+  },
+  {
+    "name": "Flin Flon",
+    "country": "Canada",
+    "latitude": 54.76980099935409,
+    "longitude": -101.878967,
+    "other_names": {
+      "name": "Flin Flon",
+      "name:en": "Flin Flon",
+      "name:ru": "Флин-Флон",
+      "name:uk": "Флін-Флон"
+    }
+  }
+]

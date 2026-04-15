@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Chakdaha",
+    "country": "India",
+    "latitude": 23.077498300380988,
+    "longitude": 88.53203989999999,
+    "other_names": {
+      "name": "Chakdaha",
+      "name:bn": "চাকদহ"
+    }
+  },
+  {
+    "name": "Chakwal",
+    "country": "Pakistan",
+    "latitude": 32.93282699958799,
+    "longitude": 72.8629763,
+    "other_names": {
+      "name": "چکوال",
+      "name:en": "Chakwal",
+      "name:hi": "चकवाल",
+      "name:ja": "チャクワール",
+      "name:ru": "Чаквал"
+    }
+  },
+  {
+    "name": "Chalatenango",
+    "country": "El Salvador",
+    "latitude": 14.041386799794891,
+    "longitude": -88.93940820000002,
+    "other_names": {
+      "name": "Chalatenango"
+    }
+  },
+  {
+    "name": "Chalchuapa",
+    "country": "El Salvador",
+    "latitude": 13.985321599788437,
+    "longitude": -89.6802434,
+    "other_names": {
+      "name": "Chalchuapa",
+      "name:hu": "Chalchuapa"
+    }
+  },
+  {
+    "name": "Chaling",
+    "country": "China",
+    "latitude": 26.780949200081892,
+    "longitude": 113.53376619999999,
+    "other_names": {
+      "name": "茶陵县",
+      "name:de": "Chaling",
+      "name:en": "Chaling",
+      "name:es": "Chaling",
+      "name:fa": "شهرستان چالینگ",
+      "name:fr": "Xian de Chaling",
+      "name:it": "Contea di Chaling",
+      "name:ja": "茶陵県",
+      "name:ko": "차링현",
+      "name:no": "Chaling",
+      "name:ru": "Чалин",
+      "name:sv": "Chaling",
+      "name:vi": "Trà Lăng",
+      "name:zh": "茶陵县",
+      "alt_name": "茶陵;Chaling County",
+      "name:ceb": "Chaling Xian",
+      "name:gan": "茶陵",
+      "name:hak": "Chhà-lîn-yen",
+      "name:nan": "Tê-lêng-koān",
+      "name:yue": "茶陵",
+      "name:zh-Hant": "茶陵縣",
+      "name:zh_pinyin": "Chálíng Xiàn"
+    }
+  },
+  {
+    "name": "Chalkida",
+    "country": "Greece",
+    "latitude": 38.46244120004801,
+    "longitude": 23.5947651,
+    "other_names": {
+      "name": "Χαλκίδα",
+      "name:el": "Χαλκίδα",
+      "name:en": "Chalkida",
+      "name:et": "Chalkída",
+      "name:fr": "Chalcis",
+      "name:hu": "Chalcis",
+      "name:lt": "Chalkidė",
+      "name:mk": "Халкида",
+      "name:ru": "Халкис",
+      "name:sr": "Халкида",
+      "int_name": "Chalkida",
+      "name:sr-Latn": "Halkida"
+    }
+  },
+  {
+    "name": "Challapata",
+    "country": "Bolivia",
+    "latitude": -18.902156500451344,
+    "longitude": -66.7750462,
+    "other_names": {
+      "name": "Challapata"
+    }
+  },
+  {
+    "name": "Chaman",
+    "country": "Pakistan",
+    "latitude": 30.915947999666816,
+    "longitude": 66.4631051,
+    "other_names": {
+      "name": "چمن",
+      "name:ar": "شامان",
+      "name:de": "Chaman",
+      "name:en": "Chaman",
+      "name:es": "Chaman",
+      "name:et": "Chaman",
+      "name:fr": "Chaman",
+      "name:hi": "चमन",
+      "name:ja": "チャマン",
+      "name:ru": "Чаман",
+      "name:uk": "Чаман"
+    }
+  },
+  {
+    "name": "Chambéry",
+    "country": "France",
+    "latitude": 45.56626720040436,
+    "longitude": 5.9203636,
+    "other_names": {
+      "name": "Chambéry",
+      "name:it": "Ciamberì",
+      "name:ja": "シャンベリ",
+      "name:oc": "Chambèri",
+      "name:frp": "Chambèri",
+      "old_name:de": "Kamrach"
+    }
+  },
+  {
+    "name": "Chamdo",
+    "country": "China",
+    "latitude": 31.144971799651753,
+    "longitude": 97.16988959999999,
+    "other_names": {
+      "name": "昌都市",
+      "name:bo": "ཆབ་མདོ་ས་ཁུལ།",
+      "name:en": "Chamdo",
+      "name:et": "Qamdo",
+      "name:ja": "チャムド市",
+      "name:ru": "Чамдо",
+      "name:uk": "Чамдо",
+      "name:vi": "Qamdo",
+      "name:zh": "昌都市",
+      "alt_name": "昌都;Qamdo City;Qamdo;Changdu;Changdu City;ཆབ་མདོ་ས་གནས",
+      "int_name": "chang du",
+      "old_name": "昌都地区",
+      "alt_name:vi": "Xương Đô",
+      "name:zh-Hant": "昌都市",
+      "name:zh_pinyin": "Chāngdū shì"
+    }
+  },
+  {
+    "name": "Chamgolak",
+    "country": "Iran",
+    "latitude": 32.44634383581968,
+    "longitude": 48.44312033876335,
+    "other_names": {
+      "name": "چم گلک",
+      "name:en": "Chamgolak"
+    }
+  },
+  {
+    "name": "Chamla",
+    "country": "Pakistan",
+    "latitude": 34.375646770875974,
+    "longitude": 72.50991729579334,
+    "other_names": {
+      "name": "Chamla"
+    }
+  },
+  {
+    "name": "Champaign",
+    "country": "United States Of America",
+    "latitude": 40.116484100282975,
+    "longitude": -88.24309319999999,
+    "other_names": {
+      "name": "Champaign"
+    }
+  },
+  {
+    "name": "Champaknagar",
+    "country": "Bangladesh",
+    "latitude": 23.96700389763348,
+    "longitude": 91.21361556503604,
+    "other_names": {
+      "name": "চম্পকনগর",
+      "name:bn": "চম্পকনগর",
+      "name:en": "Champaknagar"
+    }
+  },
+  {
+    "name": "Chanasma",
+    "country": "India",
+    "latitude": 23.719753629527297,
+    "longitude": 72.10891413732716,
+    "other_names": {
+      "name": "Chanasma"
+    }
+  },
+  {
+    "name": "Chancheng",
+    "country": "China",
+    "latitude": 23.011907100383567,
+    "longitude": 113.1169511,
+    "other_names": {
+      "name": "禅城区",
+      "name:de": "Chancheng",
+      "name:en": "Chancheng",
+      "name:es": "Chancheng",
+      "name:fa": "ناحیه چانچنگ",
+      "name:fr": "District de Chancheng",
+      "name:it": "Distretto di Chancheng",
+      "name:ja": "禅城区",
+      "name:ko": "찬청구",
+      "name:no": "Chancheng",
+      "name:ru": "Чаньчэн",
+      "name:sv": "Chancheng",
+      "name:vi": "Thiền Thành",
+      "name:zh": "禅城区",
+      "alt_name": "禅城;Chancheng District",
+      "name:ceb": "Chancheng Qu",
+      "name:hak": "Sen-sàng-khî",
+      "name:mwl": "Chancheng",
+      "name:nan": "Siân-siâⁿ-khu",
+      "name:yue": "禪城",
+      "name:zh-Hant": "禪城區",
+      "name:zh_pinyin": "Chánchéng Qū"
+    }
+  },
+  {
+    "name": "Chandannagar",
+    "country": "India",
+    "latitude": 22.86147200038904,
+    "longitude": 88.37060709999999,
+    "other_names": {
+      "name": "Chandannagar",
+      "name:bn": "চন্দননগর",
+      "name:de": "Chandannagar",
+      "name:en": "Chandannagar",
+      "name:eo": "Ĉandanagaro",
+      "name:es": "Chandernagor",
+      "name:fr": "Chandernagor",
+      "name:hi": "चन्दननगर",
+      "name:ja": "チャンダンナガル",
+      "name:kn": "ಚಂದನನಗರ",
+      "old_name": "Chandernagore"
+    }
+  },
+  {
+    "name": "Chandausi",
+    "country": "India",
+    "latitude": 28.449103999896533,
+    "longitude": 78.7828513,
+    "other_names": {
+      "name": "Chandausi",
+      "name:en": "Chandausi",
+      "name:hi": "चन्दौसी",
+      "name:kn": "ಚಂದೌಸೀ"
+    }
+  },
+  {
+    "name": "Chandigarh",
+    "country": "India",
+    "latitude": 30.733442099679806,
+    "longitude": 76.7797143,
+    "other_names": {
+      "name": "Chandigarh",
+      "name:ar": "شانديغار",
+      "name:cs": "Čandígarh",
+      "name:de": "Chandigarh",
+      "name:en": "Chandigarh",
+      "name:eo": "Ĉandigaro",
+      "name:es": "Chandigarh",
+      "name:fr": "Chandigarh",
+      "name:he": "צ'אנדיגאר",
+      "name:hi": "चण्डीगढ़",
+      "name:ja": "チャンディーガル",
+      "name:kn": "ಚಂಡೀಗಡ",
+      "name:ko": "찬디가르",
+      "name:ku": "Çandîgar",
+      "name:ml": "ചണ്ഡീഗഢ്",
+      "name:pa": "ਚੰਡੀਗੜ੍ਹ",
+      "name:ru": "Чандигарх",
+      "name:ta": "சண்டிகர்",
+      "name:uk": "Чандігарх",
+      "name:ur": "چندی گڑھ",
+      "name:zh": "昌迪加尔",
+      "alt_name": "चंडीगढ़"
+    }
+  },
+  {
+    "name": "Chandler",
+    "country": "United States Of America",
+    "latitude": 33.30616049958814,
+    "longitude": -111.84125,
+    "other_names": {
+      "name": "Chandler",
+      "name:lt": "Čandleris",
+      "name:ru": "Чандлер",
+      "name:uk": "Чандлер"
+    }
+  }
+]

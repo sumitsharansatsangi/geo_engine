@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Nishio",
+    "country": "Japan",
+    "latitude": 34.82249799964023,
+    "longitude": 137.069626,
+    "other_names": {
+      "name": "西尾市",
+      "name:ar": "نيشيو، آيتشي",
+      "name:de": "Nishio",
+      "name:en": "Nishio",
+      "name:es": "Nishio",
+      "name:fr": "Nishio",
+      "name:ja": "西尾市",
+      "name:ko": "니시오시",
+      "name:pl": "Nishio",
+      "name:ru": "Нисио",
+      "name:uk": "Нісіо",
+      "name:ja_rm": "Nishio-shi"
+    }
+  },
+  {
+    "name": "Nishitokyo",
+    "country": "Japan",
+    "latitude": 35.73545999971028,
+    "longitude": 139.55022799999998,
+    "other_names": {
+      "name": "西東京市",
+      "name:ar": "نيشي طوكيو، طوكيو",
+      "name:de": "Nishitōkyō",
+      "name:en": "Nishitokyo",
+      "name:es": "Nishitōkyō",
+      "name:fr": "Nishitōkyō",
+      "name:ja": "西東京市",
+      "name:ko": "니시토쿄시",
+      "name:lt": "Nišitokijas",
+      "name:pl": "Nishitōkyō",
+      "name:ru": "Ниситокё",
+      "name:uk": "Нісі-Токьо",
+      "name:ja_rm": "Nishitokyo-shi",
+      "name:ja_kana": "にしとうきょうし"
+    }
+  },
+  {
+    "name": "Nishiwaki",
+    "country": "Japan",
+    "latitude": 35.012575499652506,
+    "longitude": 134.996262,
+    "other_names": {
+      "name": "西脇市",
+      "name:ar": "نيشيواكا، هيوغو",
+      "name:de": "Nishiwaki",
+      "name:en": "Nishiwaki",
+      "name:es": "Nishiwaki",
+      "name:fr": "Nishiwaki",
+      "name:ja": "西脇市",
+      "name:ko": "니시와키시",
+      "name:pl": "Nishiwaki",
+      "name:ru": "Нисиваки",
+      "name:uk": "Ніші-Вакі",
+      "name:ja_rm": "Nishiwaki-shi"
+    }
+  },
+  {
+    "name": "Nisshin",
+    "country": "Japan",
+    "latitude": 35.13930299966139,
+    "longitude": 137.053708,
+    "other_names": {
+      "name": "日進市",
+      "name:ar": "نيشين، آيتشي",
+      "name:de": "Nisshin",
+      "name:en": "Nisshin",
+      "name:es": "Nisshin",
+      "name:fr": "Nisshin",
+      "name:ja": "日進市",
+      "name:ko": "닛신시",
+      "name:pl": "Nisshin",
+      "name:ru": "Ниссин",
+      "name:uk": "Ніссін",
+      "name:ja_rm": "Nisshin-shi",
+      "name:ja-Hira": "にっしんし"
+    }
+  },
+  {
+    "name": "Niterói",
+    "country": "Brazil",
+    "latitude": -22.883237100082994,
+    "longitude": -43.1154552,
+    "other_names": {
+      "name": "Niterói",
+      "old_name": "Vila Real da Praia Grande"
+    }
+  },
+  {
+    "name": "Nitra",
+    "country": "Slovakia",
+    "latitude": 48.312949999862084,
+    "longitude": 18.089459299999998,
+    "other_names": {
+      "name": "Nitra",
+      "name:ar": "نيترا",
+      "name:de": "Neutra",
+      "name:en": "Nitra",
+      "name:eo": "Nitro",
+      "name:es": "Nitra",
+      "name:fr": "Nitra",
+      "name:hu": "Nyitra",
+      "name:ka": "ნიტრა",
+      "name:pl": "Nitra",
+      "name:ru": "Нитра",
+      "name:sr": "Њитра",
+      "name:uk": "Нітра",
+      "loc_name": "Neutra,Nyitra"
+    }
+  },
+  {
+    "name": "Nixa",
+    "country": "United States Of America",
+    "latitude": 37.04393579985381,
+    "longitude": -93.30985339999998,
+    "other_names": {
+      "name": "Nixa"
+    }
+  },
+  {
+    "name": "Niye",
+    "country": "China",
+    "latitude": 37.06422309985636,
+    "longitude": 82.69335199999999,
+    "other_names": {
+      "name": "民丰县",
+      "name:de": "Niya",
+      "name:en": "Niye",
+      "name:es": "Minfeng",
+      "name:fr": "Minfeng",
+      "name:ug": "نىيە بازىرى",
+      "name:zh": "民丰县",
+      "alt_name": "民丰县;Minfeng;尼雅",
+      "name:zh-Hant": "民豐縣",
+      "name:zh_pinyin": "ming feng xian"
+    }
+  },
+  {
+    "name": "Nizamabad",
+    "country": "India",
+    "latitude": 18.673269300290414,
+    "longitude": 78.0978477,
+    "other_names": {
+      "name": "Nizamabad",
+      "name:en": "Nizamabad",
+      "name:hi": "निज़ामाबाद",
+      "name:ja": "ニザーマーバード",
+      "name:kn": "ನಿಜಾಮಾಬಾದು",
+      "name:pa": "ਨਿਜ਼ਾਮਾਬਾਦ",
+      "name:ru": "Низамабад",
+      "name:te": "నిజామాబాదు"
+    }
+  },
+  {
+    "name": "Nizhnekamsk",
+    "country": "Russia",
+    "latitude": 55.64128789964237,
+    "longitude": 51.8160376,
+    "other_names": {
+      "name": "Нижнекамск",
+      "name:cs": "Nižněkamsk",
+      "name:de": "Nischnekamsk",
+      "name:en": "Nizhnekamsk",
+      "name:es": "Nizhnekamsk",
+      "name:et": "Nižnekamsk",
+      "name:fr": "Nijnekamsk",
+      "name:ja": "ニジネカムスク",
+      "name:ko": "니즈네캄스크",
+      "name:lt": "Nižnekamskas",
+      "name:pl": "Niżniekamsk",
+      "name:ru": "Нижнекамск",
+      "name:tt": "Түбән Кама",
+      "name:uk": "Нижньокамськ"
+    }
+  },
+  {
+    "name": "Nizhnekamsk",
+    "country": "Russia",
+    "latitude": 55.61374183444627,
+    "longitude": 51.86846864000236,
+    "other_names": {
+      "name": "Нижнекамск",
+      "name:de": "Nischnekamsk",
+      "name:en": "Nizhnekamsk",
+      "name:ja": "ニジネカムスク",
+      "name:tt": "Түбән Кама"
+    }
+  },
+  {
+    "name": "Nizhnevartovsk",
+    "country": "Russia",
+    "latitude": 60.93394110175063,
+    "longitude": 76.5814274,
+    "other_names": {
+      "name": "Нижневартовск",
+      "name:de": "Nischnewartowsk",
+      "name:en": "Nizhnevartovsk",
+      "name:et": "Nižnevartovsk",
+      "name:ja": "ニジネヴァルトフスク",
+      "name:ko": "니즈네바르톱스크",
+      "name:lt": "Nižnevartovskas",
+      "name:pl": "Niżniewartowsk",
+      "name:ru": "Нижневартовск",
+      "name:uk": "Нижньовартовськ",
+      "int_name": "Nizhnevartovsk"
+    }
+  },
+  {
+    "name": "Nizhnevartovsk",
+    "country": "Russia",
+    "latitude": 60.93673974604785,
+    "longitude": 76.5379661298997,
+    "other_names": {
+      "name": "Нижневартовск",
+      "name:de": "Nischnewartowsk",
+      "name:en": "Nizhnevartovsk",
+      "name:ja": "ニジネヴァルトフスク",
+      "name:ru": "Нижневартовск"
+    }
+  },
+  {
+    "name": "Nizhny Novgorod",
+    "country": "Russia",
+    "latitude": 56.29529686333406,
+    "longitude": 43.88924542257485,
+    "other_names": {
+      "name": "Нижний Новгород",
+      "name:cs": "Nižnij Novgorod",
+      "name:de": "Nischni Nowgorod",
+      "name:en": "Nizhny Novgorod",
+      "name:es": "Nizhni Novgorod",
+      "name:fi": "Nižni Novgorod",
+      "name:fr": "Nijni Novgorod",
+      "name:hr": "Nižni Novogorod",
+      "name:hu": "Nyizsnij Novgorod",
+      "name:it": "Niznij Novgorod",
+      "name:ja": "ニジニ・ノヴゴロド",
+      "name:ku": "Nîjnî Novgorod",
+      "name:nb": "Nizjnij Novgorod",
+      "name:nl": "Nizjni Novgorod",
+      "name:pt": "Nijni Novgorod",
+      "name:ru": "Нижний Новгород",
+      "name:sk": "Nižný Novgorod",
+      "name:sl": "Nižni Novgorod",
+      "name:sr": "Нижњи Новгород",
+      "name:tt": "Нижгар",
+      "name:zh": "下诺夫哥罗德",
+      "int_name": "Nizhny Novgorod",
+      "name:chm": "Угарман",
+      "old_name:ku": "Gorkî"
+    }
+  },
+  {
+    "name": "Nizhny Novgorod",
+    "country": "Russia",
+    "latitude": 56.32857099993332,
+    "longitude": 44.003505999999994,
+    "other_names": {
+      "name": "Нижний Новгород",
+      "name:ar": "نيجني نوفغورود",
+      "name:az": "Nijni Novqorod",
+      "name:bg": "Нижни Новгород",
+      "name:ca": "Nijni Nóvgorod",
+      "name:ce": "Нижни Новгород",
+      "name:cs": "Nižnij Novgorod",
+      "name:cv": "Чулхула",
+      "name:de": "Nischni Nowgorod",
+      "name:el": "Νίζνι Νόβγκοροντ",
+      "name:en": "Nizhny Novgorod",
+      "name:es": "Nizhni Novgorod",
+      "name:et": "Nižni Novgorod",
+      "name:fi": "Nižni Novgorod",
+      "name:fr": "Nijni Novgorod",
+      "name:hi": "निज्नी नॊव्गोरोद",
+      "name:hr": "Nižni Novogorod",
+      "name:hu": "Nyizsnij Novgorod",
+      "name:hy": "Նիժնի Նովգորոդ",
+      "name:it": "Niznij Novgorod",
+      "name:ja": "ニジニ・ノヴゴロド",
+      "name:ka": "ნიჟნი-ნოვგოროდი",
+      "name:kn": "ನಿಜ್ನೀ ನೊವ್ಗೋರೋದ್",
+      "name:ko": "니즈니노브고로드",
+      "name:lt": "Žemutinis Naugardas",
+      "name:nb": "Nizjnij Novgorod",
+      "name:nl": "Nizjni Novgorod",
+      "name:oc": "Nizhniy Novgorod",
+      "name:os": "Дæллаг Новгород",
+      "name:pl": "Niżny Nowogród",
+      "name:pt": "Nijni Novgorod",
+      "name:ro": "Nijni Novgorod",
+      "name:ru": "Нижний Новгород",
+      "name:sk": "Nižný Novgorod",
+      "name:sl": "Nižni Novgorod",
+      "name:sr": "Нижњи Новгород",
+      "name:tt": "Түбән Новгород",
+      "name:uk": "Нижній Новгород",
+      "name:zh": "下诺夫哥罗德",
+      "int_name": "Nizhny Novgorod",
+      "loc_name": "Нижний",
+      "name:chm": "Угарман",
+      "name:hsb": "Nižny Nowgorod",
+      "old_name:en": "Gorky",
+      "official_name": "город Нижний Новгород",
+      "old_name:1932-10-07--1990-10-22": "Горький"
+    }
+  },
+  {
+    "name": "Nizhny Tagil",
+    "country": "Russia",
+    "latitude": 57.90514900072689,
+    "longitude": 59.9508466,
+    "other_names": {
+      "name": "Нижний Тагил",
+      "name:ar": "نيجني تاجيل",
+      "name:de": "Nischni Tagil",
+      "name:en": "Nizhny Tagil",
+      "name:es": "Nizhni Tagil",
+      "name:et": "Nižni Tagil",
+      "name:fr": "Nijni Taguil",
+      "name:ja": "ニジニ・タギル",
+      "name:ko": "니즈니타길",
+      "name:lt": "Žemutinis Tagilas",
+      "name:pl": "Niżny Tagił",
+      "name:ru": "Нижний Тагил",
+      "name:uk": "Нижній Тагіл",
+      "int_name": "Nizhny Tagil",
+      "name:ru:word_stress": "Ни́жний Таги́л"
+    }
+  },
+  {
+    "name": "Nizhny Tagil",
+    "country": "Russia",
+    "latitude": 57.93277767171081,
+    "longitude": 59.974320112237464,
+    "other_names": {
+      "name": "Нижний Тагил",
+      "name:de": "Nischni Tagil",
+      "name:en": "Nizhny Tagil",
+      "name:et": "Nižni Tagil",
+      "name:ja": "ニジニ・タギル",
+      "name:ru": "Нижний Тагил",
+      "int_name": "Nizhny Tagil"
+    }
+  },
+  {
+    "name": "Njeru",
+    "country": "Uganda",
+    "latitude": 0.4306999999551911,
+    "longitude": 33.1503623,
+    "other_names": {
+      "name": "Njeru"
+    }
+  },
+  {
+    "name": "Nkongsamba",
+    "country": "Cameroon",
+    "latitude": 4.952511499510187,
+    "longitude": 9.939166899999998,
+    "other_names": {
+      "name": "Nkongsamba"
+    }
+  },
+  {
+    "name": "Nkpor",
+    "country": "Nigeria",
+    "latitude": 6.15054999943739,
+    "longitude": 6.842825999999999,
+    "other_names": {
+      "name": "Nkpor"
+    }
+  }
+]

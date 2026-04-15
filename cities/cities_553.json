@@ -1,0 +1,391 @@
+[
+  {
+    "name": "Zhanjiang",
+    "country": "China",
+    "latitude": 21.27370790040827,
+    "longitude": 110.35483180000001,
+    "other_names": {
+      "name": "湛江市",
+      "name:cs": "Čan-ťiang",
+      "name:de": "Zhanjiang",
+      "name:en": "Zhanjiang",
+      "name:et": "Zhanjiang",
+      "name:fr": "Zhanjiang",
+      "name:ja": "湛江市",
+      "name:ko": "잔장시",
+      "name:pt": "Zhanjiang",
+      "name:ru": "Чжаньцзян",
+      "name:uk": "Чжаньцзян",
+      "name:vi": "Trạm Giang",
+      "name:zh": "湛江市",
+      "alt_name": "湛江;Zhanjiang City",
+      "int_name": "Zhanjiang",
+      "name:yue": "湛江市",
+      "old_name": "Fort Bayard;广州湾;白瓦特城",
+      "name:zh-Hant": "湛江市",
+      "name:yue-Latn": "Zaamgong-si",
+      "name:zh_pinyin": "Zhànjiāng Shì"
+    }
+  },
+  {
+    "name": "Zhanqian",
+    "country": "China",
+    "latitude": 40.67152500035386,
+    "longitude": 122.25482909999997,
+    "other_names": {
+      "name": "站前区",
+      "name:en": "Zhanqian",
+      "name:ja": "站前区",
+      "name:ko": "잔첸구",
+      "name:zh": "站前区",
+      "alt_name": "站前;Zhanqian City",
+      "name:zh-Hant": "站前區"
+    }
+  },
+  {
+    "name": "Zhanyi",
+    "country": "China",
+    "latitude": 25.60820570020285,
+    "longitude": 103.8219637,
+    "other_names": {
+      "name": "沾益区",
+      "name:en": "Zhanyi",
+      "name:zh": "沾益区",
+      "alt_name": "沾益;Zhanyi District;Ch'u-ching;Chanyichow;Chanyi;Chan-i-hsien;Chan-i-chen;Chan-i;Chanyi-hsien",
+      "old_name": "沾益县;Zhanyi County",
+      "name:zh-Hant": "霑益區",
+      "short_name:zh-Hant": "霑益"
+    }
+  },
+  {
+    "name": "Zhao'an",
+    "country": "China",
+    "latitude": 23.71368790035009,
+    "longitude": 117.17038130000002,
+    "other_names": {
+      "name": "诏安县",
+      "name:de": "Zhao’an",
+      "name:en": "Zhao'an",
+      "name:es": "Zhào'ān Xiàn",
+      "name:fr": "Xian de Zhao'an",
+      "name:it": "Contea di Zhao'an",
+      "name:ja": "詔安県",
+      "name:ko": "자오안현",
+      "name:vi": "Chiếu An",
+      "name:zh": "诏安县",
+      "alt_name": "诏安;Zhao'an County",
+      "name:cdo": "Ciéu-ăng",
+      "name:hak": "Chau-ôn-yen",
+      "name:nan": "Chiàu-an-koān",
+      "name:yue": "詔安",
+      "name:zh-Hant": "詔安縣",
+      "name:zh_pinyin": "zhàoān xiàn"
+    }
+  },
+  {
+    "name": "Zhaodong",
+    "country": "China",
+    "latitude": 46.07205000033119,
+    "longitude": 125.9871513,
+    "other_names": {
+      "name": "肇东市",
+      "name:de": "Zhaodong",
+      "name:en": "Zhaodong",
+      "name:fr": "Zhaodong",
+      "name:ja": "肇東市",
+      "name:ru": "Чжаодун",
+      "name:vi": "Triệu Đông",
+      "name:zh": "肇东市",
+      "int_name": "Zhaodong",
+      "name:zh-Hant": "肇東市",
+      "name:zh_pinyin": "Zhàodōng Shì"
+    }
+  },
+  {
+    "name": "Zhaohua",
+    "country": "China",
+    "latitude": 32.32384059959814,
+    "longitude": 105.96261959999998,
+    "other_names": {
+      "name": "昭化区",
+      "name:en": "Zhaohua",
+      "name:vi": "Nguyên Bá",
+      "name:zh": "昭化区",
+      "alt_name": "昭化;Zhaohua District",
+      "old_name": "元坝区;Yuanba Qu",
+      "name:zh-Hant": "昭化區",
+      "name:zh_pinyin": "Zhàohuà Qū"
+    }
+  },
+  {
+    "name": "Zhaojue",
+    "country": "China",
+    "latitude": 28.014104399944664,
+    "longitude": 102.8434467,
+    "other_names": {
+      "name": "昭觉县 ꆺꃅꏪꐦ",
+      "name:en": "Zhaojue",
+      "name:ii": "ꆺꃅꏪꐦ",
+      "name:ja": "昭覚県",
+      "name:ru": "Синчэн",
+      "name:vi": "Chiêu Giác",
+      "name:zh": "昭觉县",
+      "alt_name": "昭觉;新城镇;新城;Zhaojue County",
+      "int_name": "Zhaojue",
+      "name:zh-Hant": "昭覺縣"
+    }
+  },
+  {
+    "name": "Zhaoping",
+    "country": "China",
+    "latitude": 24.172675100321502,
+    "longitude": 110.80649609999999,
+    "other_names": {
+      "name": "昭平县",
+      "name:en": "Zhaoping",
+      "name:zh": "昭平县",
+      "alt_name": "昭平;Zhaoping County;Chao-p'ing Hsien",
+      "name:yue": "昭平县",
+      "name:zh-Hant": "昭平縣",
+      "name:yue-Latn": "Ziubing-jyun"
+    }
+  },
+  {
+    "name": "Zhaoqing",
+    "country": "China",
+    "latitude": 23.049620100382093,
+    "longitude": 112.45930529999998,
+    "other_names": {
+      "name": "肇庆市",
+      "name:ar": "زاوشينغ",
+      "name:ca": "Zhaoqing",
+      "name:cs": "Čao-čching",
+      "name:cy": "Zhaoqing",
+      "name:da": "Zhaoqing",
+      "name:de": "Zhaoqing",
+      "name:en": "Zhaoqing",
+      "name:es": "Zhaoqing",
+      "name:et": "Zhaoqing",
+      "name:eu": "Zhaoqing",
+      "name:fa": "ژاوکینگ",
+      "name:fi": "Zhaoqing",
+      "name:fr": "Zhaoqing",
+      "name:he": "ג'אוצ'ינג",
+      "name:id": "Zhaoqing",
+      "name:it": "Zhaoqing",
+      "name:ja": "肇慶市",
+      "name:ki": "Zhaoqing",
+      "name:ko": "자오칭시",
+      "name:mg": "Zhaoqing",
+      "name:mk": "Џаоќинг",
+      "name:nl": "Zhaoqing",
+      "name:nn": "Zhaoqing",
+      "name:no": "Zhaoqing",
+      "name:pl": "Zhaoqing",
+      "name:pt": "Zhaoqing",
+      "name:ru": "Чжаоцин",
+      "name:sr": "Џаоћинг",
+      "name:sv": "Zhaoqing",
+      "name:sw": "Zhaoqing",
+      "name:tr": "Zhaoqing",
+      "name:uk": "Чжаоцін",
+      "name:ur": "ژاوچنگ",
+      "name:vi": "Triệu Khánh",
+      "name:zh": "肇庆市",
+      "alt_name": "肇庆;Zhaoqing City",
+      "int_name": "Zhaoqing",
+      "name:cdo": "Diêu-kéng",
+      "name:ceb": "Zhaoqing",
+      "name:hak": "Sau-khin-sṳ",
+      "name:nan": "Tiāu-khèng-chhī",
+      "name:pam": "Zhaoqing",
+      "name:pnb": "ژاؤچینگ",
+      "name:war": "Zhaoqing",
+      "name:yue": "肇庆市",
+      "old_name": "高要县",
+      "old_name:en": "Gaoyao County",
+      "name:zh-Hant": "肇慶市",
+      "name:yue-Latn": "Siuhing-si",
+      "name:zh_pinyin": "Zhàoqìng Shì",
+      "old_name:zh-Hant": "高要縣",
+      "old_name:yue-Latn": "Goujiu-jyun"
+    }
+  },
+  {
+    "name": "Zhaotong",
+    "country": "China",
+    "latitude": 27.341750800019913,
+    "longitude": 103.71469229999998,
+    "other_names": {
+      "name": "昭通市",
+      "name:cs": "Čao-tchung",
+      "name:de": "Zhaotong",
+      "name:en": "Zhaotong",
+      "name:et": "Zhaotong",
+      "name:fr": "Zhaotong",
+      "name:ja": "昭通市",
+      "name:ru": "Чжаотун",
+      "name:uk": "Чжаотун",
+      "name:vi": "Chiêu Thông",
+      "name:zh": "昭通市",
+      "alt_name": "昭通;Zhaotong Diqu;Zhaotong Xian;Chao-t'ung Hsien;Chao-t'ung Ti-ch'u;Chao-t'ung Chuan-ch'u;Zhaotong Shi",
+      "int_name": "Zhaotong",
+      "name:zh-Hant": "昭通市",
+      "name:zh_pinyin": "Zhāotōng Shì"
+    }
+  },
+  {
+    "name": "Zhaoxian",
+    "country": "China",
+    "latitude": 37.74913759994702,
+    "longitude": 114.76996189999997,
+    "other_names": {
+      "name": "赵县",
+      "name:en": "Zhaoxian",
+      "name:ja": "趙県",
+      "name:vi": "Triệu",
+      "name:zh": "赵县",
+      "alt_name": "赵;Zhaoxian;Zhao County",
+      "name:zh-Hant": "趙縣",
+      "name:zh_pinyin": "Zhao Xian"
+    }
+  },
+  {
+    "name": "Zhaoyang",
+    "country": "China",
+    "latitude": 27.323606200021942,
+    "longitude": 103.7039262,
+    "other_names": {
+      "name": "昭阳区",
+      "name:en": "Zhaoyang",
+      "name:vi": "Chiêu Dương",
+      "name:zh": "昭阳区",
+      "alt_name": "昭阳;Zhaoyang District",
+      "name:zh-Hant": "昭陽區",
+      "name:zh_pinyin": "Zhaoyang Qu"
+    }
+  },
+  {
+    "name": "Zhaoyuan",
+    "country": "China",
+    "latitude": 45.518963300410455,
+    "longitude": 125.07780920000002,
+    "other_names": {
+      "name": "肇源县",
+      "name:en": "Zhaoyuan",
+      "name:ja": "肇源県",
+      "name:ru": "Чжаоюань",
+      "name:vi": "Triệu Nguyên",
+      "name:zh": "肇源县",
+      "alt_name": "肇源;Zhaoyuan County",
+      "name:zh-Hant": "肇源縣",
+      "official_name": "肇源镇",
+      "name:zh_pinyin": "Zhàoyuán zhèn"
+    }
+  },
+  {
+    "name": "Zhaoyuan",
+    "country": "China",
+    "latitude": 37.35472199989383,
+    "longitude": 120.40222199999998,
+    "other_names": {
+      "name": "招远市",
+      "name:de": "Zhaoyuan",
+      "name:en": "Zhaoyuan",
+      "name:fr": "Zhaoyuan",
+      "name:ja": "招遠市",
+      "name:ru": "Чжаоюань",
+      "name:vi": "Chiêu Viễn",
+      "name:zh": "招远市",
+      "name:zh-Hant": "招遠市",
+      "name:zh_pinyin": "Zhāoyuǎn Shì"
+    }
+  },
+  {
+    "name": "Zhaozhou",
+    "country": "China",
+    "latitude": 45.7069347003855,
+    "longitude": 125.26697989999997,
+    "other_names": {
+      "name": "肇州县",
+      "name:en": "Zhaozhou",
+      "name:ja": "肇州県",
+      "name:ru": "Чжаочжоу",
+      "name:vi": "Triệu Châu",
+      "name:zh": "肇州县",
+      "alt_name": "肇州",
+      "name:zh-Hant": "肇州縣",
+      "official_name": "肇州",
+      "name:zh_pinyin": "Zhàozhōu zhen"
+    }
+  },
+  {
+    "name": "Zhashui",
+    "country": "China",
+    "latitude": 33.68114119959332,
+    "longitude": 109.10623029999999,
+    "other_names": {
+      "name": "柞水县",
+      "name:en": "Zhashui",
+      "name:ja": "柞水県",
+      "name:ru": "Цянью",
+      "name:vi": "Tạc Thủy",
+      "name:zh": "柞水县",
+      "alt_name:vi": "Tạc Thuỷ",
+      "name:zh-Hant": "柞水縣"
+    }
+  },
+  {
+    "name": "Zhecheng",
+    "country": "China",
+    "latitude": 34.0832982996045,
+    "longitude": 115.30816790000002,
+    "other_names": {
+      "name": "柘城县",
+      "name:en": "Zhecheng",
+      "name:zh": "柘城县",
+      "alt_name": "柘城;Zhecheng County",
+      "name:zh-Hant": "柘城縣"
+    }
+  },
+  {
+    "name": "Zhen'an",
+    "country": "China",
+    "latitude": 33.4217852995892,
+    "longitude": 109.1580335,
+    "other_names": {
+      "name": "镇安县",
+      "name:en": "Zhen'an",
+      "name:ja": "鎮安県",
+      "name:zh": "镇安县",
+      "alt_name": "镇安;永乐镇;永乐;Yongle",
+      "name:zh-Hant": "鎮安縣"
+    }
+  },
+  {
+    "name": "Zhen'an",
+    "country": "China",
+    "latitude": 40.1557863002882,
+    "longitude": 124.42737549999998,
+    "other_names": {
+      "name": "振安区",
+      "name:en": "Zhen'an",
+      "name:ja": "振安区",
+      "name:ko": "전안구",
+      "alt_name": "振安;Zhen'an District",
+      "name:zh-Hant": "振安區"
+    }
+  },
+  {
+    "name": "Zhenfeng",
+    "country": "China",
+    "latitude": 25.393062300223082,
+    "longitude": 105.63839269999998,
+    "other_names": {
+      "name": "贞丰县",
+      "name:en": "Zhenfeng",
+      "name:zh": "贞丰县",
+      "name:zh-Hant": "貞豐縣"
+    }
+  }
+]

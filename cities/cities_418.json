@@ -1,0 +1,259 @@
+[
+  {
+    "name": "Santa Comba Dão",
+    "country": "Portugal",
+    "latitude": 40.3957876003195,
+    "longitude": -8.1305121,
+    "other_names": {
+      "name": "Santa Comba Dão"
+    }
+  },
+  {
+    "name": "Santa Cruz",
+    "country": "United States Of America",
+    "latitude": 36.97436259984512,
+    "longitude": -122.02946729999996,
+    "other_names": {
+      "name": "Santa Cruz",
+      "name:ar": "سانتا كروز",
+      "name:en": "Santa Cruz",
+      "name:ru": "Санта-Крус",
+      "name:uk": "Санта-Круз"
+    }
+  },
+  {
+    "name": "Santa Cruz de Barahona",
+    "country": "Haiti And Domrep",
+    "latitude": 18.21018890025249,
+    "longitude": -71.1012325,
+    "other_names": {
+      "name": "Santa Cruz de Barahona",
+      "name:hu": "Barahona",
+      "name:ru": "Бараона",
+      "official_name": "Santa Cruz de Barahona"
+    }
+  },
+  {
+    "name": "Santa Cruz de El Seibo",
+    "country": "Haiti And Domrep",
+    "latitude": 18.76393050029732,
+    "longitude": -69.0372923,
+    "other_names": {
+      "name": "Santa Cruz de El Seibo",
+      "name:hu": "El Seibo",
+      "name:ru": "Эль-Сейбо",
+      "official_name": "Santa Cruz de El Seibo"
+    }
+  },
+  {
+    "name": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "latitude": -17.783493600474994,
+    "longitude": -63.18208529999998,
+    "other_names": {
+      "name": "Santa Cruz de la Sierra",
+      "name:ar": "سانتا كروز دي لا سييرا",
+      "name:ay": "Santa Krus",
+      "name:de": "Santa Cruz de la Sierra",
+      "name:en": "Santa Cruz de la Sierra",
+      "name:fa": "سانتا کروس د لا سیرا",
+      "name:fr": "Santa Cruz de la Sierra",
+      "name:gn": "Santa Cruz de la Sierra",
+      "name:it": "Santa Cruz de la Sierra",
+      "name:nl": "Santa Cruz de la Sierra",
+      "name:pt": "Santa Cruz de la Sierra",
+      "name:qu": "Santa Krus",
+      "name:ru": "Санта-Крус-де-ла-Сьерра",
+      "name:ur": "سانتا کروز دے لا سیئرا",
+      "old_name": "Las Llanuras del Grigotá"
+    }
+  },
+  {
+    "name": "Santa Cruz del Quiché",
+    "country": "Guatemala",
+    "latitude": 15.02950979991077,
+    "longitude": -91.1496179,
+    "other_names": {
+      "name": "Santa Cruz del Quiché"
+    }
+  },
+  {
+    "name": "Santa Cruz do Capibaribe",
+    "country": "Brazil",
+    "latitude": -7.948018999757582,
+    "longitude": -36.20609199999999,
+    "other_names": {
+      "name": "Santa Cruz do Capibaribe"
+    }
+  },
+  {
+    "name": "Santa Cruz do Sul",
+    "country": "Brazil",
+    "latitude": -29.714186899322545,
+    "longitude": -52.4285914,
+    "other_names": {
+      "name": "Santa Cruz do Sul"
+    }
+  },
+  {
+    "name": "Santa Fe",
+    "country": "Argentina",
+    "latitude": -31.618695099377643,
+    "longitude": -60.7019561,
+    "other_names": {
+      "name": "Santa Fe",
+      "name:ar": "سانتا في",
+      "name:el": "Σάντα Φε",
+      "name:en": "Santa Fe",
+      "name:fa": "سانتافه",
+      "name:he": "סנטה פה",
+      "name:ru": "Санта-Фе",
+      "name:uk": "Санта-Фе",
+      "name:ur": "سانتا فے",
+      "name:azb": "سانتا فه",
+      "name:pnb": "سانتا فے",
+      "official_name": "Santa Fe de la Vera Cruz",
+      "official_name:ar": "سانتا في دي لا فيرا كروز"
+    }
+  },
+  {
+    "name": "Santa Fe",
+    "country": "United States Of America",
+    "latitude": 35.687609599705944,
+    "longitude": -105.93845689999999,
+    "other_names": {
+      "name": "Santa Fe",
+      "name:ar": "سانتا فيه",
+      "name:bg": "Санта Фе",
+      "name:cs": "Santa Fé",
+      "name:en": "Santa Fe",
+      "name:fa": "سنتا فه",
+      "name:he": "סנטה פה",
+      "name:ka": "სანტა-ფე",
+      "name:ko": "샌타페이",
+      "name:lt": "Santa Fė",
+      "name:mr": "सांता फे",
+      "name:nv": "Yootó",
+      "name:pl": "Santa Fe",
+      "name:pt": "Santa Fé",
+      "name:ru": "Санта-Фе",
+      "name:sr": "Санта Фе",
+      "name:ta": "சான்டா ஃபே",
+      "name:uk": "Санта-Фе",
+      "name:zh": "圣菲 / 聖塔菲 / 聖達菲",
+      "name:cdo": "Santa Fe",
+      "name:hak": "Santa Fe",
+      "name:nah": "Santa Fe Ānalco",
+      "name:nan": "Santa Fe",
+      "name:wuu": "圣菲",
+      "name:yue": "聖達菲",
+      "name:zh-hk": "聖達菲",
+      "name:zh-tw": "聖塔菲",
+      "name:zh-Hans": "圣菲",
+      "name:zh-Hant": "聖塔菲 / 聖達菲"
+    }
+  },
+  {
+    "name": "Santai",
+    "country": "China",
+    "latitude": 31.09571729965487,
+    "longitude": 105.08894119999998,
+    "other_names": {
+      "name": "三台县",
+      "name:en": "Santai",
+      "name:zh": "三台县",
+      "alt_name": "三台;Santai County",
+      "name:zh-Hant": "三臺縣"
+    }
+  },
+  {
+    "name": "Santa Lucía",
+    "country": "Uruguay",
+    "latitude": -34.45509289977682,
+    "longitude": -56.3893012,
+    "other_names": {
+      "name": "Santa Lucía",
+      "name:es": "Santa Lucía",
+      "name:lt": "Santa Lusija",
+      "name:ru": "Санта-Лусия"
+    }
+  },
+  {
+    "name": "Santa Lucía del Tuy",
+    "country": "Venezuela",
+    "latitude": 10.306021099454112,
+    "longitude": -66.65884869999998,
+    "other_names": {
+      "name": "Santa Lucía del Tuy"
+    }
+  },
+  {
+    "name": "Santa Luzia",
+    "country": "Brazil",
+    "latitude": -19.77020970040677,
+    "longitude": -43.8505291,
+    "other_names": {
+      "name": "Santa Luzia"
+    }
+  },
+  {
+    "name": "Santa Maria",
+    "country": "Brazil",
+    "latitude": -16.01712290043762,
+    "longitude": -48.0131328,
+    "other_names": {
+      "name": "Santa Maria",
+      "alt_name": "RA XIII",
+      "loc_name": "RA 13",
+      "reg_name": "Região Administrativa Treze"
+    }
+  },
+  {
+    "name": "Santa Maria",
+    "country": "Brazil",
+    "latitude": -29.68605119932302,
+    "longitude": -53.8069214,
+    "other_names": {
+      "name": "Santa Maria",
+      "name:ru": "Санта-Мария",
+      "old_name": "Santa Maria da Boca do Monte"
+    }
+  },
+  {
+    "name": "Santa Maria",
+    "country": "El Salvador",
+    "latitude": 13.34756419971669,
+    "longitude": -88.4163954,
+    "other_names": {
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "name": "Santa Maria",
+    "country": "United States Of America",
+    "latitude": 34.95312949964854,
+    "longitude": -120.43585769999999,
+    "other_names": {
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "name": "Santa María",
+    "country": "Argentina",
+    "latitude": -34.56588949979891,
+    "longitude": -58.7432807,
+    "other_names": {
+      "name": "Santa María"
+    }
+  },
+  {
+    "name": "Santa Maria da Feira",
+    "country": "Portugal",
+    "latitude": 40.92541790038373,
+    "longitude": -8.542668799999998,
+    "other_names": {
+      "name": "Santa Maria da Feira",
+      "name:ru": "Санта-Мария-да-Фейра"
+    }
+  }
+]

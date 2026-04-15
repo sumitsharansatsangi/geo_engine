@@ -1,0 +1,376 @@
+[
+  {
+    "name": "Urachiche",
+    "country": "Venezuela",
+    "latitude": 10.158639838923804,
+    "longitude": -69.00791518560827,
+    "other_names": {
+      "name": "Urachiche"
+    }
+  },
+  {
+    "name": "Urachiche",
+    "country": "Venezuela",
+    "latitude": 10.158766999446083,
+    "longitude": -69.0053934,
+    "other_names": {
+      "name": "Urachiche"
+    }
+  },
+  {
+    "name": "Urad Front Banner",
+    "country": "China",
+    "latitude": 40.72730970036055,
+    "longitude": 108.6590311,
+    "other_names": {
+      "name": "乌拉特前旗",
+      "name:en": "Urad Front Banner",
+      "name:zh": "乌拉特前旗",
+      "name:zh-Hant": "烏拉特前旗"
+    }
+  },
+  {
+    "name": "Urad Middle Banner",
+    "country": "China",
+    "latitude": 41.57556650045094,
+    "longitude": 108.50700649999999,
+    "other_names": {
+      "name": "乌拉特中旗",
+      "name:en": "Urad Middle Banner",
+      "name:vi": "Trung kỳ Urat",
+      "name:zh": "乌拉特中旗",
+      "alt_name:vi": "Ô Lạp Đặc Trung kỳ",
+      "name:zh-Hant": "烏拉特中旗",
+      "name:zh_pinyin": "Urad Zhongqi"
+    }
+  },
+  {
+    "name": "Urad Rear Banner",
+    "country": "China",
+    "latitude": 41.08180500040119,
+    "longitude": 107.0737956,
+    "other_names": {
+      "name": "乌拉特后旗",
+      "name:en": "Urad Rear Banner",
+      "name:mn": "ᠤᠷᠠᠳ ᠤᠨ ᠬᠣᠶᠢᠲᠤ ᠬᠣᠰᠢᠭᠤ",
+      "name:zh": "乌拉特后旗",
+      "name:zh-Hant": "烏拉特後旗"
+    }
+  },
+  {
+    "name": "Urasoe",
+    "country": "Japan",
+    "latitude": 26.249754000138587,
+    "longitude": 127.716591,
+    "other_names": {
+      "name": "浦添市",
+      "name:ar": "يوراسوي، أوكيناوا",
+      "name:de": "Urasoe",
+      "name:en": "Urasoe",
+      "name:es": "Urasoe",
+      "name:et": "Urasoe",
+      "name:fr": "Urasoe",
+      "name:hu": "Uraszoe",
+      "name:ja": "浦添市",
+      "name:ko": "우라소에시",
+      "name:pl": "Urasoe",
+      "name:ru": "Урасоэ",
+      "name:uk": "Урасое",
+      "name:zh": "浦添市",
+      "int_name": "Urasoe",
+      "name:ja_rm": "Urasoe-shi",
+      "name:ja_kana": "うらそえし",
+      "name:zh-Hans": "浦添市",
+      "name:zh-Hant": "浦添市"
+    }
+  },
+  {
+    "name": "Urayasu",
+    "country": "Japan",
+    "latitude": 35.653051799702844,
+    "longitude": 139.9018495,
+    "other_names": {
+      "name": "浦安市",
+      "name:en": "Urayasu",
+      "name:es": "Urayasu",
+      "name:fr": "Urayasu",
+      "name:ja": "浦安市",
+      "name:ko": "우라야스시",
+      "name:pl": "Urayasu",
+      "name:ru": "Ураясу",
+      "name:uk": "Ураясу",
+      "name:ja_rm": "Urayasu-shi",
+      "name:ja_kana": "うらやすし"
+    }
+  },
+  {
+    "name": "Urbana",
+    "country": "United States Of America",
+    "latitude": 40.11171740028235,
+    "longitude": -88.207301,
+    "other_names": {
+      "name": "Urbana",
+      "name:ru": "Урбана"
+    }
+  },
+  {
+    "name": "Urdaneta",
+    "country": "Philippines",
+    "latitude": 15.975999500021727,
+    "longitude": 120.56689919999998,
+    "other_names": {
+      "name": "Urdaneta",
+      "name:ja": "アーダネータ"
+    }
+  },
+  {
+    "name": "Ureshino",
+    "country": "Japan",
+    "latitude": 33.12791089958745,
+    "longitude": 130.05990739999996,
+    "other_names": {
+      "name": "嬉野市",
+      "name:ar": "يوريشينو، ساغا",
+      "name:de": "Ureshino",
+      "name:en": "Ureshino",
+      "name:es": "Ureshino",
+      "name:fr": "Ureshino",
+      "name:ja": "嬉野市",
+      "name:ko": "우레시노시",
+      "name:pl": "Ureshino",
+      "name:ru": "Уресино",
+      "name:uk": "Урешіно",
+      "int_name": "Ureshino"
+    }
+  },
+  {
+    "name": "Urgench",
+    "country": "Uzbekistan",
+    "latitude": 41.55178090044875,
+    "longitude": 60.63131610000001,
+    "other_names": {
+      "name": "Urganch",
+      "name:en": "Urgench",
+      "name:fa": "گرگانج",
+      "name:fr": "Ourguentch",
+      "name:ja": "ウルゲンチ",
+      "name:ko": "우르겐치",
+      "name:ru": "Ургенч",
+      "name:tk": "Urgenç",
+      "int_name": "Urgench",
+      "old_name": "Гургандж",
+      "old_name:ru": "Гургандж"
+    }
+  },
+  {
+    "name": "Urgench",
+    "country": "Uzbekistan",
+    "latitude": 41.55333524728877,
+    "longitude": 60.63171458968133,
+    "other_names": {
+      "name": "Urganch",
+      "name:en": "Urgench",
+      "name:fa": "گرگانج",
+      "name:fr": "Ourguentch",
+      "name:ja": "ウルゲンチ",
+      "name:ru": "Ургенч",
+      "int_name": "Urgench",
+      "old_name": "Гургандж",
+      "old_name:ru": "Гургандж"
+    }
+  },
+  {
+    "name": "Urho",
+    "country": "China",
+    "latitude": 46.08899100032849,
+    "longitude": 85.6918091,
+    "other_names": {
+      "name": "乌尔禾区",
+      "name:en": "Urho",
+      "name:ru": "Уэрхэ",
+      "name:ug": "ئورقۇ رايونى",
+      "name:zh": "乌尔禾区",
+      "name:zh-Hant": "烏爾禾區"
+    }
+  },
+  {
+    "name": "Uriangato",
+    "country": "Mexico",
+    "latitude": 20.14158880037857,
+    "longitude": -101.1775433,
+    "other_names": {
+      "name": "Uriangato"
+    }
+  },
+  {
+    "name": "Urmia",
+    "country": "Iran",
+    "latitude": 37.549347299919795,
+    "longitude": 45.0682863,
+    "other_names": {
+      "name": "ارومیه",
+      "name:ar": "أرومية",
+      "name:cs": "Orumíje",
+      "name:de": "Urmia",
+      "name:en": "Urmia",
+      "name:es": "Urmía",
+      "name:et": "Urmia",
+      "name:fi": "Urmia",
+      "name:fr": "Orumie",
+      "name:hi": "ओरुमिये",
+      "name:ja": "オルーミーイェ",
+      "name:ku": "Ûrmiye",
+      "name:pl": "Orumia",
+      "name:ru": "Урмия",
+      "name:tr": "Orumiye",
+      "name:uk": "Урмія",
+      "name:zh": "乌尔米耶",
+      "name:ckb": "ورمێ",
+      "name:yue": "烏爾米耶",
+      "old_name": "رضائیه",
+      "alt_name:en": "Orumiyeh",
+      "old_name:cs": "Rezáíje",
+      "old_name:en": "Rezaiyeh",
+      "name:zh-Hans": "乌尔米耶",
+      "name:zh-Hant": "烏爾米耶"
+    }
+  },
+  {
+    "name": "Uruapan",
+    "country": "Mexico",
+    "latitude": 19.414726900341456,
+    "longitude": -102.0522647,
+    "other_names": {
+      "name": "Uruapan"
+    }
+  },
+  {
+    "name": "Uruguaiana",
+    "country": "Brazil",
+    "latitude": -29.7560725993219,
+    "longitude": -57.0867546,
+    "other_names": {
+      "name": "Uruguaiana",
+      "name:ru": "Уругваяна"
+    }
+  },
+  {
+    "name": "Uruma",
+    "country": "Japan",
+    "latitude": 26.38470500012444,
+    "longitude": 127.851324,
+    "other_names": {
+      "name": "うるま市",
+      "name:ar": "يوروما، أوكيناوا",
+      "name:de": "Uruma",
+      "name:en": "Uruma",
+      "name:es": "Uruma",
+      "name:fr": "Uruma",
+      "name:hu": "Uruma",
+      "name:ja": "うるま市",
+      "name:ko": "우루마시",
+      "name:pl": "Uruma",
+      "name:ru": "Урума",
+      "name:uk": "Урума",
+      "name:zh": "宇流麻市",
+      "int_name": "Uruma",
+      "name:ang": "Uruma",
+      "name:ja_rm": "Uruma-shi",
+      "name:ja_kana": "うるまし",
+      "name:zh-Hans": "宇流麻市",
+      "name:zh-Hant": "宇流麻市"
+    }
+  },
+  {
+    "name": "Ürümqi",
+    "country": "China",
+    "latitude": 43.82440740053761,
+    "longitude": 87.61390379999999,
+    "other_names": {
+      "name": "乌鲁木齐市",
+      "name:ar": "أورومتشي",
+      "name:az": "Urumçi",
+      "name:bg": "Урумчи",
+      "name:bo": "ཨུ་རུམ་ཆི་གྲོང་ཁྱེར།",
+      "name:br": "Ürümqi",
+      "name:ca": "Ürümqi",
+      "name:ce": "Урумчи",
+      "name:cs": "Urumči",
+      "name:cv": "Урумчи",
+      "name:cy": "Ürümqi",
+      "name:da": "Ürümqi",
+      "name:de": "Urumtschi",
+      "name:el": "Ουρούμτσι",
+      "name:en": "Ürümqi",
+      "name:eo": "Urumĉio",
+      "name:es": "Urumchi",
+      "name:et": "Ürümqi",
+      "name:eu": "Ürümqi",
+      "name:fa": "اورومچی",
+      "name:fi": "Ürümqi",
+      "name:fr": "Ürümqi",
+      "name:fy": "Ürümqi",
+      "name:he": "אורומצ'י",
+      "name:hi": "उरुमची",
+      "name:hr": "Urumqi",
+      "name:hu": "Ürümcsi",
+      "name:hy": "Ուրումչի",
+      "name:id": "Ürümqi",
+      "name:it": "Ürümqi",
+      "name:ja": "ウルムチ",
+      "name:kk": "Үрімжі",
+      "name:kn": "ಉರೂಮ್ಚಿ",
+      "name:ko": "우루무치 시",
+      "name:ky": "Үрүмчү",
+      "name:la": "Ürümqi",
+      "name:lt": "Urumčis",
+      "name:lv": "Urumči",
+      "name:mg": "Ürümqi",
+      "name:mn": "Өрөмч хот",
+      "name:mr": "उरुम्छी",
+      "name:ms": "Ürümqi",
+      "name:nl": "Ürümqi",
+      "name:nn": "Ürümqi",
+      "name:no": "Ürümqi",
+      "name:oc": "Ürümqi",
+      "name:os": "Урумчи",
+      "name:pa": "ਉਰੂਮਕੀ",
+      "name:pl": "Urumczi",
+      "name:pt": "Ürümqi",
+      "name:ro": "Ürümqi",
+      "name:ru": "Урумчи",
+      "name:sk": "Urumči",
+      "name:sr": "Урумћи",
+      "name:sv": "Ürümqi",
+      "name:ta": "உருமுச்சி",
+      "name:th": "อุรุมชี",
+      "name:tl": "Ürümqi",
+      "name:tr": "Urumçi",
+      "name:tt": "Öremçe",
+      "name:ug": "ئۈرۈمچى",
+      "name:uk": "Урумчі",
+      "name:ur": "ارومچی",
+      "name:uz": "Urumchi",
+      "name:vi": "Ürümqi",
+      "name:za": "Ürümqi",
+      "name:zh": "乌鲁木齐市",
+      "int_name": "Urumqi",
+      "alt_name:vi": "Ô Lỗ Mộc Tề",
+      "name:zh-Hant": "烏魯木齊市",
+      "name:zh_pinyin": "Wūlǔmùqí"
+    }
+  },
+  {
+    "name": "Urumqi County",
+    "country": "China",
+    "latitude": 43.46956550054198,
+    "longitude": 87.4061103,
+    "other_names": {
+      "name": "乌鲁木齐县",
+      "name:en": "Urumqi County",
+      "name:zh": "乌鲁木齐县",
+      "alt_name": "乌鲁木齐县;板房沟;Banfanggou",
+      "name:zh-Hant": "烏魯木齊縣"
+    }
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "name": "Zuunmod",
+    "country": "Mongolia",
+    "latitude": 47.70826820000621,
+    "longitude": 106.9544868,
+    "other_names": {
+      "name": "Зуунмод",
+      "name:ar": "زونمود",
+      "name:de": "Dsuunmod",
+      "name:en": "Zuunmod",
+      "name:es": "Zuunmod",
+      "name:fr": "Zuunmod",
+      "name:ja": "ゾーンモド",
+      "name:lt": "Zunmodas",
+      "name:mn": "Зуунмод",
+      "name:ru": "Зуунмод"
+    }
+  },
+  {
+    "name": "Zwolle",
+    "country": "Netherlands",
+    "latitude": 52.508975899087865,
+    "longitude": 6.094376500000001,
+    "other_names": {
+      "name": "Zwolle",
+      "name:ar": "زفوله",
+      "name:de": "Zwolle",
+      "name:en": "Zwolle",
+      "name:es": "Zwolle",
+      "name:fr": "Zwolle",
+      "name:fy": "Swol",
+      "name:ja": "ズヴォレ",
+      "name:la": "Suvolla",
+      "name:nl": "Zwolle",
+      "name:ru": "Зволле",
+      "name:sr": "Зволе",
+      "name:nds": "Zwolle",
+      "name:zh-Hans": "兹沃勒",
+      "name:zh-Hant": "茲沃勒",
+      "name:carnaval": "Sassendonk"
+    }
+  },
+  {
+    "name": "Назрань",
+    "country": "Russia",
+    "latitude": 43.23118838043571,
+    "longitude": 44.761858735760306,
+    "other_names": {
+      "name": "Назрань"
+    }
+  },
+  {
+    "name": "Орехово-Зуево",
+    "country": "Russia",
+    "latitude": 55.80832779970842,
+    "longitude": 38.979003799999994,
+    "other_names": {
+      "name": "Орехово-Зуево",
+      "name:ar": "أوريخوفو-زويفو",
+      "name:az": "Orexovo-Zuyevo",
+      "name:be": "Арэхава-Зуева",
+      "name:ca": "Orékhovo-Zúievo",
+      "name:cs": "Orechovo-Zujevo",
+      "name:cv": "Орехово-Зуево",
+      "name:de": "Orechowo-Sujewo",
+      "name:eo": "Oreĥovo-Zujevo",
+      "name:es": "Oréjovo-Zúyevo",
+      "name:et": "Orehhovo-Zujevo",
+      "name:fa": "اورخوفو-زویفو",
+      "name:fi": "Orehovo-Zujevo",
+      "name:fr": "Orekhovo-Zouïevo",
+      "name:hr": "Orehovo-Zujevo",
+      "name:hu": "Orehovo-Zujevo",
+      "name:hy": "Օրեխովո-Զուևո",
+      "name:it": "Orechovo-Zuevo",
+      "name:ja": "オレホヴォ＝ズエヴォ",
+      "name:ko": "오레호보주예보",
+      "name:lt": "Orechovas-Zujevas",
+      "name:lv": "Orehovozujeva",
+      "name:nl": "Orechovo-Zoejevo",
+      "name:nn": "Orekhovo-Zujevo",
+      "name:no": "Orekhovo-Zujevo",
+      "name:pl": "Oriechowo-Zujewo",
+      "name:pt": "Orekhovo-Zuyevo",
+      "name:ro": "Orehovo-Zuevo",
+      "name:ru": "Орехово-Зуево",
+      "name:sl": "Orehovo-Zujevo",
+      "name:sr": "Орехово-Зуево",
+      "name:sv": "Orechovo-Zujevo",
+      "name:tl": "Orekhovo-Zuyevo",
+      "name:tr": "Orehovo-Zuyevo",
+      "name:uk": "Орєхово-Зуєво",
+      "name:uz": "Orexovo-zuyevo",
+      "name:vi": "Orekhovo-Zuyevo",
+      "name:zh": "奧列霍沃-祖耶沃"
+    }
+  },
+  {
+    "name": "ערד",
+    "country": "Israel And Palestine",
+    "latitude": 31.25917790506284,
+    "longitude": 35.2142052137485,
+    "other_names": {
+      "name": "ערד",
+      "name:fr": "Arad",
+      "name:he": "ערד"
+    }
+  },
+  {
+    "name": "إيتاي البارود",
+    "country": "Egypt",
+    "latitude": 30.886089105474316,
+    "longitude": 30.664719674403965,
+    "other_names": {
+      "name": "إيتاي البارود",
+      "name:ar": "إيتاي البارود",
+      "name:fr": "Atay Al Baroud"
+    }
+  },
+  {
+    "name": "الابراهيمية",
+    "country": "Egypt",
+    "latitude": 30.72139080017885,
+    "longitude": 31.56240591705173,
+    "other_names": {
+      "name": "الابراهيمية"
+    }
+  },
+  {
+    "name": "البشارية",
+    "country": "Sudan",
+    "latitude": 21.885591300409313,
+    "longitude": 33.8272593,
+    "other_names": {
+      "name": "البشارية",
+      "name:es": "albasharia",
+      "name:fr": "Al Basharia"
+    }
+  },
+  {
+    "name": "الحاسي",
+    "country": "Algeria",
+    "latitude": 35.771613129908765,
+    "longitude": 1.0534380253812856,
+    "other_names": {
+      "name": "الحاسي"
+    }
+  },
+  {
+    "name": "الرميلة",
+    "country": "Sudan",
+    "latitude": 21.969337300408633,
+    "longitude": 33.4451168,
+    "other_names": {
+      "name": "الرميلة",
+      "name:fr": "Rumaila"
+    }
+  },
+  {
+    "name": "المدينة الجديدة",
+    "country": "Tunisia",
+    "latitude": 36.74294599981697,
+    "longitude": 10.2507635,
+    "other_names": {
+      "name": "المدينة الجديدة",
+      "name:ar": "المدينة الجديدة",
+      "name:fr": "Nouvelle Medina"
+    }
+  },
+  {
+    "name": "امیدیه",
+    "country": "Iran",
+    "latitude": 30.75642643794694,
+    "longitude": 49.70161666051757,
+    "other_names": {
+      "name": "امیدیه"
+    }
+  },
+  {
+    "name": "بئر طويل",
+    "country": "Sudan",
+    "latitude": 21.8415247004096,
+    "longitude": 33.77410749999999,
+    "other_names": {
+      "name": "بئر طويل",
+      "name:es": "Bir Tawil",
+      "name:fr": "Bir Tawil"
+    }
+  },
+  {
+    "name": "بابکان",
+    "country": "Iran",
+    "latitude": 36.450332699783154,
+    "longitude": 52.45820599999999,
+    "other_names": {
+      "name": "بابکان",
+      "nat_name": "اجبارکلا"
+    }
+  },
+  {
+    "name": "باغا سولا Baga-Sola",
+    "country": "Chad",
+    "latitude": 13.537049099737644,
+    "longitude": 14.313011699999999,
+    "other_names": {
+      "name": "باغا سولا Baga-Sola",
+      "name:ar": "باغا سولا",
+      "name:fr": "Baga-Sola",
+      "alt_name": "Baga Sola"
+    }
+  },
+  {
+    "name": "بيجي",
+    "country": "Iraq",
+    "latitude": 34.92931249964699,
+    "longitude": 43.4945615,
+    "other_names": {
+      "name": "بيجي"
+    }
+  },
+  {
+    "name": "جبرة الشيخ",
+    "country": "Sudan",
+    "latitude": 14.559752799855325,
+    "longitude": 30.7522666,
+    "other_names": {
+      "name": "جبرة الشيخ",
+      "name:fr": "Jabra Al Sheikh"
+    }
+  },
+  {
+    "name": "چم گلک",
+    "country": "Iran",
+    "latitude": 32.44483069959512,
+    "longitude": 48.4418611,
+    "other_names": {
+      "name": "چم گلک"
+    }
+  },
+  {
+    "name": "حميرة",
+    "country": "Sudan",
+    "latitude": 21.94162870040888,
+    "longitude": 34.0379386,
+    "other_names": {
+      "name": "حميرة",
+      "name:es": "humayra",
+      "name:fr": "Humera"
+    }
+  },
+  {
+    "name": "صرين",
+    "country": "Syria",
+    "latitude": 36.57244158397849,
+    "longitude": 38.30522072093903,
+    "other_names": {
+      "name": "صرين"
+    }
+  }
+]

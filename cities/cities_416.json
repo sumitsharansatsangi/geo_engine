@@ -1,0 +1,310 @@
+[
+  {
+    "name": "San Miguel de Cozumel",
+    "country": "Mexico",
+    "latitude": 20.501430500391837,
+    "longitude": -86.94358509999999,
+    "other_names": {
+      "name": "San Miguel de Cozumel",
+      "short_name": "Cozumel"
+    }
+  },
+  {
+    "name": "San Miguel de Tucumán",
+    "country": "Argentina",
+    "latitude": -26.83037029953287,
+    "longitude": -65.2038133,
+    "other_names": {
+      "name": "San Miguel de Tucumán",
+      "name:el": "Σαν Μιγκέλ ντε Τουκουμάν",
+      "name:en": "San Miguel de Tucumán",
+      "name:he": "טוקומאן",
+      "name:pt": "São Miguel de Tucumã",
+      "name:ru": "Сан-Мигель-де-Тукуман",
+      "name:uk": "Сан-Мігель-де-Тукуман",
+      "int_name": "San Miguel de Tucuman",
+      "old_name": "San Miguel de Tucumán y Nueva Tierra de Promisión",
+      "short_name": "Tucumán"
+    }
+  },
+  {
+    "name": "Sanming",
+    "country": "China",
+    "latitude": 26.267153100136778,
+    "longitude": 117.63400800000001,
+    "other_names": {
+      "name": "三明市",
+      "name:da": "Sanming",
+      "name:de": "Sanming",
+      "name:en": "Sanming",
+      "name:es": "Sanming",
+      "name:et": "Sanming",
+      "name:fi": "Sanming",
+      "name:fr": "Sanming",
+      "name:it": "Sanming",
+      "name:ja": "三明市",
+      "name:ko": "싼밍시",
+      "name:nl": "Sanming",
+      "name:pl": "Sanming",
+      "name:ru": "Саньмин",
+      "name:tl": "Sanming",
+      "name:uk": "Саньмін",
+      "name:vi": "Tam Minh",
+      "name:zh": "三明市",
+      "alt_name": "三明;Sanming City",
+      "int_name": "Sanming",
+      "name:hak": "Sâm-mìn-sṳ",
+      "name:nan": "Sam-bêng-chhī",
+      "name:wuu": "三明市",
+      "name:yue": "三明",
+      "name:zh-Hant": "三明市",
+      "name:zh_pinyin": "Sānmíng Shì"
+    }
+  },
+  {
+    "name": "Sanmu",
+    "country": "Japan",
+    "latitude": 35.60287499969841,
+    "longitude": 140.4134292,
+    "other_names": {
+      "name": "山武市",
+      "name:ar": "سانمو، تشيبا",
+      "name:de": "Sammu",
+      "name:en": "Sanmu",
+      "name:es": "Sammu",
+      "name:fr": "Sammu",
+      "name:ja": "山武市",
+      "name:ko": "산무시",
+      "name:ru": "Самму",
+      "int_name": "Sammu",
+      "name:ja_rm": "Sanmu-shi",
+      "name:ja_kana": "さんむし"
+    }
+  },
+  {
+    "name": "San Nicolás de los Arroyos",
+    "country": "Argentina",
+    "latitude": -33.32770889957669,
+    "longitude": -60.2165909,
+    "other_names": {
+      "name": "San Nicolás de los Arroyos",
+      "name:el": "Σαν Νικολάς ντε λος Αρόγιος",
+      "name:ru": "Сан-Николас-де-лос-Арройос",
+      "short_name": "San Nicolás"
+    }
+  },
+  {
+    "name": "San Nicolás de los Garza",
+    "country": "Mexico",
+    "latitude": 25.736743300190426,
+    "longitude": -100.26980699999999,
+    "other_names": {
+      "name": "San Nicolás de los Garza",
+      "int_name": "San Nicolas de los Garza"
+    }
+  },
+  {
+    "name": "Sano",
+    "country": "Japan",
+    "latitude": 36.3144118997682,
+    "longitude": 139.578429,
+    "other_names": {
+      "name": "佐野市",
+      "name:ar": "سانو، توتشيغي",
+      "name:de": "Sano",
+      "name:en": "Sano",
+      "name:es": "Sano",
+      "name:fr": "Sano",
+      "name:ja": "佐野市",
+      "name:ko": "사노시",
+      "name:pl": "Sano",
+      "name:ru": "Сано",
+      "name:uk": "Сано",
+      "name:ja_rm": "Sano shi"
+    }
+  },
+  {
+    "name": "San Pablo",
+    "country": "Philippines",
+    "latitude": 14.070050199798196,
+    "longitude": 121.32559740000002,
+    "other_names": {
+      "name": "San Pablo",
+      "name:en": "San Pablo",
+      "name:ja": "サン・パブロ",
+      "name:ru": "Сан-Пабло",
+      "name:tl": "San Pablo",
+      "name:zh": "圣巴勃罗",
+      "official_name:en": "City of San Pablo",
+      "official_name:tl": "Lungsod ng San Pablo"
+    }
+  },
+  {
+    "name": "San Pedro",
+    "country": "Philippines",
+    "latitude": 14.363943499832358,
+    "longitude": 121.05677100000001,
+    "other_names": {
+      "name": "San Pedro",
+      "name:en": "San Pedro",
+      "name:es": "San Pedro",
+      "name:ja": "サンペドロ",
+      "name:tl": "San Pedro",
+      "old_name": "San Pedro Tunasan",
+      "official_name:en": "City of San Pedro",
+      "official_name:es": "Ciudad de San Pedro",
+      "official_name:tl": "Lungsod ng San Pedro"
+    }
+  },
+  {
+    "name": "San-Pédro",
+    "country": "Ivory Coast",
+    "latitude": 4.758159199524697,
+    "longitude": -6.641549,
+    "other_names": {
+      "name": "San-Pédro",
+      "name:ar": "سان بيدرو"
+    }
+  },
+  {
+    "name": "San Pedro de la Paz",
+    "country": "Chile",
+    "latitude": -36.841418300308575,
+    "longitude": -73.1039909,
+    "other_names": {
+      "name": "San Pedro de la Paz"
+    }
+  },
+  {
+    "name": "San Pedro de Macorís",
+    "country": "Haiti And Domrep",
+    "latitude": 18.46170930027363,
+    "longitude": -69.30318469999999,
+    "other_names": {
+      "name": "San Pedro de Macorís",
+      "name:hu": "San Pedro de Macorís",
+      "name:ru": "Сан-Педро-де-Макорис"
+    }
+  },
+  {
+    "name": "San Pedro Sula",
+    "country": "Honduras",
+    "latitude": 15.506215599967012,
+    "longitude": -88.02489369999999,
+    "other_names": {
+      "name": "San Pedro Sula",
+      "name:hu": "San Pedro Sula",
+      "name:ru": "Сан-Педро-Сула"
+    }
+  },
+  {
+    "name": "San Pedro Sula",
+    "country": "Honduras",
+    "latitude": 15.498182486798752,
+    "longitude": -88.00197997024831,
+    "other_names": {
+      "name": "San Pedro Sula",
+      "name:lt": "San Pedro Sula"
+    }
+  },
+  {
+    "name": "San Rafael",
+    "country": "Argentina",
+    "latitude": -34.612602499808325,
+    "longitude": -68.33051399999998,
+    "other_names": {
+      "name": "San Rafael",
+      "name:es": "San Rafael"
+    }
+  },
+  {
+    "name": "San Rafael",
+    "country": "United States Of America",
+    "latitude": 37.973534599978265,
+    "longitude": -122.5310874,
+    "other_names": {
+      "name": "San Rafael",
+      "name:en": "San Rafael",
+      "name:es": "San Rafael",
+      "name:pronunciation": "ˌsæn rəˈfɛl",
+      "name:en:pronunciation": "ˌsæn rəˈfɛl",
+      "name:es:pronunciation": "san rafaˈel"
+    }
+  },
+  {
+    "name": "San Rafael de Onoto",
+    "country": "Venezuela",
+    "latitude": 9.67501086557511,
+    "longitude": -68.97389249382196,
+    "other_names": {
+      "name": "San Rafael de Onoto"
+    }
+  },
+  {
+    "name": "San Rafael de Onoto",
+    "country": "Venezuela",
+    "latitude": 9.674367699423346,
+    "longitude": -68.97317659999999,
+    "other_names": {
+      "name": "San Rafael de Onoto"
+    }
+  },
+  {
+    "name": "San Rafael Oriente",
+    "country": "El Salvador",
+    "latitude": 13.37844379972008,
+    "longitude": -88.35402549999999,
+    "other_names": {
+      "name": "San Rafael Oriente"
+    }
+  },
+  {
+    "name": "San Salvador",
+    "country": "El Salvador",
+    "latitude": 13.698993899755807,
+    "longitude": -89.19142489999999,
+    "other_names": {
+      "name": "San Salvador",
+      "name:am": "ሳን ሳልቫዶር",
+      "name:ar": "سان سلفادور",
+      "name:be": "Сан-Сальвадор",
+      "name:bg": "Сан Салвадор",
+      "name:bo": "སན་སལ་ཝ་ཌོར།",
+      "name:de": "San Salvador",
+      "name:el": "Σαν Σαλβαδόρ",
+      "name:en": "San Salvador",
+      "name:eo": "San-Salvadoro",
+      "name:fa": "سان سالوادور",
+      "name:fr": "San Salvador",
+      "name:he": "סן סלוודור",
+      "name:ht": "San Salvadò",
+      "name:hu": "San Salvador",
+      "name:hy": "Սան Սալվադոր",
+      "name:is": "San Salvador",
+      "name:ja": "サンサルバドル",
+      "name:ka": "სან-სალვადორი",
+      "name:ko": "산살바도르",
+      "name:la": "Urbs Sancti Salvatoris",
+      "name:lt": "San Salvadoras",
+      "name:lv": "Sansalvadora",
+      "name:mk": "Сан Салвадор",
+      "name:mr": "सान साल्व्हाडोर",
+      "name:oc": "San Salvador",
+      "name:os": "Сан-Сальвадор",
+      "name:pl": "San Salvador",
+      "name:pt": "São Salvador",
+      "name:ru": "Сан-Сальвадор",
+      "name:sq": "San Salvadori",
+      "name:sr": "Сан Салвадор",
+      "name:sv": "San Salvador",
+      "name:ta": "சான் சல்வடோர்",
+      "name:th": "ซันซัลวาดอร์",
+      "name:ug": "سان سالۋادور",
+      "name:uk": "Сан-Сальвадор",
+      "name:ur": "سان سلواڈور",
+      "name:zh": "聖薩爾瓦多",
+      "name:sah": "Сан Салвадор",
+      "name:be-tarask": "Сан-Сальвадор"
+    }
+  }
+]

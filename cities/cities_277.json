@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Louis Trichardt",
+    "country": "South Africa",
+    "latitude": -23.03832600006183,
+    "longitude": 29.906664999999997,
+    "other_names": {
+      "name": "Louis Trichardt",
+      "name:ru": "Луис-Тричард",
+      "alt_name": "Makhado"
+    }
+  },
+  {
+    "name": "Louis Trichardt",
+    "country": "South Africa And Lesotho",
+    "latitude": -23.03832600006183,
+    "longitude": 29.906664999999997,
+    "other_names": {
+      "name": "Louis Trichardt",
+      "name:ru": "Луис-Тричард",
+      "alt_name": "Makhado"
+    }
+  },
+  {
+    "name": "Louisville",
+    "country": "United States Of America",
+    "latitude": 38.25423760001809,
+    "longitude": -85.759407,
+    "other_names": {
+      "name": "Louisville",
+      "name:ar": "لويفيل",
+      "name:ru": "Луисвилл"
+    }
+  },
+  {
+    "name": "Lourdes",
+    "country": "El Salvador",
+    "latitude": 13.72615649975888,
+    "longitude": -89.36861119999999,
+    "other_names": {
+      "name": "Lourdes",
+      "name:el": "Λούρδη"
+    }
+  },
+  {
+    "name": "Lourosa",
+    "country": "Portugal",
+    "latitude": 40.98354100039031,
+    "longitude": -8.549918799999999,
+    "other_names": {
+      "name": "Lourosa"
+    }
+  },
+  {
+    "name": "Loushan",
+    "country": "China",
+    "latitude": 32.20610229960154,
+    "longitude": 114.50757579999998,
+    "other_names": {
+      "name": "罗山县",
+      "name:en": "Loushan",
+      "name:ja": "羅山県",
+      "name:vi": "La Sơn",
+      "name:zh": "罗山县",
+      "name:zh-Hant": "羅山縣",
+      "name:zh_pinyin": "Luoshan Xian"
+    }
+  },
+  {
+    "name": "Louxing",
+    "country": "China",
+    "latitude": 27.733133099976097,
+    "longitude": 111.9963063,
+    "other_names": {
+      "name": "娄星区",
+      "name:de": "Louxing",
+      "name:en": "Louxing",
+      "name:es": "Louxing",
+      "name:fr": "District de Louxing",
+      "name:it": "Distretto di Louxing",
+      "name:ja": "婁星区",
+      "name:ko": "뤄싱구",
+      "name:no": "Louxing",
+      "name:ru": "Лоусин",
+      "name:sv": "Louxing",
+      "name:vi": "Lâu Tinh",
+      "name:zh": "娄星区",
+      "alt_name": "娄星;Louxing District",
+      "name:ceb": "Louxing Qu",
+      "name:nan": "Lô͘-seng-khu",
+      "name:yue": "婁星區",
+      "name:zh-Hant": "婁星區",
+      "name:zh_pinyin": "Lóuxīng Qū"
+    }
+  },
+  {
+    "name": "Lovech",
+    "country": "Bulgaria",
+    "latitude": 43.13499710053938,
+    "longitude": 24.715431,
+    "other_names": {
+      "name": "Ловеч",
+      "name:bg": "Ловеч",
+      "name:de": "Lowetsch",
+      "name:el": "Λόβετς",
+      "name:en": "Lovech",
+      "name:et": "Loveč",
+      "name:fi": "Lovetš",
+      "name:fr": "Lovetch",
+      "name:hr": "Loveč",
+      "name:la": "Melta",
+      "name:nl": "Lovetsj",
+      "name:pl": "Łowecz",
+      "name:pt": "Lovech",
+      "name:ru": "Ловеч",
+      "name:sr": "Ловеч",
+      "name:sv": "Lovetj",
+      "name:tr": "Loveç",
+      "int_name": "Lovech"
+    }
+  },
+  {
+    "name": "Lowell",
+    "country": "United States Of America",
+    "latitude": 42.633424700523925,
+    "longitude": -71.31617179999999,
+    "other_names": {
+      "name": "Lowell"
+    }
+  },
+  {
+    "name": "Lower Hutt",
+    "country": "New Zealand",
+    "latitude": -41.21257510102353,
+    "longitude": 174.9057626,
+    "other_names": {
+      "name": "Lower Hutt",
+      "name:ja": "ロワーハット",
+      "name:mi": "Awakairangi",
+      "name:mk": "Долен Хат",
+      "alt_name:mk": "Лоуер Хат"
+    }
+  },
+  {
+    "name": "Loznica",
+    "country": "Serbia",
+    "latitude": 44.52982640050625,
+    "longitude": 19.222066099999996,
+    "other_names": {
+      "name": "Лозница",
+      "name:de": "Loznica",
+      "name:en": "Loznica",
+      "name:ru": "Лозница",
+      "name:sr": "Лозница",
+      "name:sr-Latn": "Loznica"
+    }
+  },
+  {
+    "name": "Lu",
+    "country": "China",
+    "latitude": 29.153921899821462,
+    "longitude": 105.3788947,
+    "other_names": {
+      "name": "泸县",
+      "name:en": "Lu",
+      "name:vi": "Lô",
+      "name:zh": "泸县",
+      "alt_name": "泸县;Lu County;Luxian",
+      "name:zh-Hant": "瀘縣",
+      "name:zh_pinyin": "Lú Xiàn"
+    }
+  },
+  {
+    "name": "Lu'an",
+    "country": "China",
+    "latitude": 31.738348699619475,
+    "longitude": 116.51422519999998,
+    "other_names": {
+      "name": "六安市",
+      "name:af": "Lu'an",
+      "name:ar": "لوان",
+      "name:cs": "Lu-an",
+      "name:cy": "Lu'an",
+      "name:da": "Lu'an",
+      "name:de": "Lu’an",
+      "name:en": "Lu'an",
+      "name:es": "Lu'an",
+      "name:et": "Lu'an",
+      "name:eu": "Lu'an",
+      "name:fa": "لوآن",
+      "name:fi": "Lu’an",
+      "name:fr": "Lu'an",
+      "name:hy": "Լուան",
+      "name:id": "Lu'an",
+      "name:it": "Lu'an",
+      "name:ja": "六安市",
+      "name:ki": "Lu'an",
+      "name:ko": "루안시",
+      "name:mg": "Lu'an",
+      "name:nl": "Lu'an",
+      "name:nn": "Lu'an",
+      "name:no": "Lu'an",
+      "name:pl": "Lu’an",
+      "name:ru": "Луань",
+      "name:sv": "Lu'an",
+      "name:ta": "லுவான்",
+      "name:tl": "Lu'an",
+      "name:tr": "Lu'an",
+      "name:ur": "لوآن",
+      "name:vi": "Lục An",
+      "name:zh": "六安市",
+      "alt_name": "六安;Lu'an City",
+      "int_name": "Lu'an",
+      "name:cdo": "Lĕ̤k-ăng",
+      "name:ceb": "Lu'an Shi",
+      "name:nan": "Lio̍k-an-chhī",
+      "name:pam": "Lu'an",
+      "name:pnb": "لوآن",
+      "name:war": "Lu'an",
+      "name:wuu": "六安市",
+      "name:yue": "六安",
+      "old_name": "六侯国;六县;九江王国;淮南王国;六安王国;六安县;六安军;六安州;六邑",
+      "name:zh-Hant": "六安市",
+      "name:zh_pinyin": "Lù'ān Shì"
+    }
+  },
+  {
+    "name": "Luancheng",
+    "country": "China",
+    "latitude": 37.88340109996565,
+    "longitude": 114.65192449999998,
+    "other_names": {
+      "name": "栾城区",
+      "name:en": "Luancheng",
+      "name:ja": "欒城県",
+      "name:vi": "Loan Thành",
+      "name:zh": "栾城区",
+      "alt_name": "栾城;Luancheng District",
+      "old_name": "栾城县;Luancheng County",
+      "name:zh-Hant": "欒城區",
+      "official_name": "栾城镇",
+      "name:zh_pinyin": "Luancheng Qū"
+    }
+  },
+  {
+    "name": "Luanchuan",
+    "country": "China",
+    "latitude": 33.78481069959565,
+    "longitude": 111.6166183,
+    "other_names": {
+      "name": "栾川县",
+      "name:en": "Luanchuan",
+      "name:ja": "欒川県",
+      "name:zh": "栾川县",
+      "name:zh-Hant": "欒川縣"
+    }
+  },
+  {
+    "name": "Luanda",
+    "country": "Angola",
+    "latitude": -8.857278823940797,
+    "longitude": 13.244205560010649,
+    "other_names": {
+      "name": "Luanda",
+      "name:de": "Luanda",
+      "name:en": "Luanda",
+      "name:es": "Luanda",
+      "name:fr": "Luanda",
+      "name:it": "Luanda",
+      "name:ja": "ルアンダ",
+      "name:nl": "Luanda",
+      "name:pl": "Luanda",
+      "name:pt": "Luanda",
+      "name:ru": "Луанда",
+      "name:zh-Hans": "罗安达",
+      "name:zh-Hant": "羅安達"
+    }
+  },
+  {
+    "name": "Luanda",
+    "country": "Angola",
+    "latitude": -8.827269899816873,
+    "longitude": 13.243951199999998,
+    "other_names": {
+      "name": "Luanda",
+      "name:am": "ሏንዳ",
+      "name:ar": "لواندا",
+      "name:be": "Луанда",
+      "name:bg": "Луанда",
+      "name:bn": "লুয়ান্ডা",
+      "name:bo": "ལའུན་ཌ།",
+      "name:ce": "Луанда",
+      "name:cs": "Luanda",
+      "name:de": "Luanda",
+      "name:el": "Λουάντα",
+      "name:en": "Luanda",
+      "name:eo": "Luando",
+      "name:es": "Luanda",
+      "name:fa": "لوآندا",
+      "name:fr": "Luanda",
+      "name:he": "לואנדה",
+      "name:ht": "Louanda",
+      "name:hu": "Luanda",
+      "name:hy": "Լուանդա",
+      "name:is": "Lúanda",
+      "name:ja": "ルアンダ",
+      "name:ka": "ლუანდა",
+      "name:kg": "Lwanda",
+      "name:kn": "ಲೂಆಂಡ",
+      "name:ko": "루안다",
+      "name:ku": "Luanda",
+      "name:ky": "Луанда",
+      "name:ln": "Lwanda",
+      "name:lt": "Luanda",
+      "name:mk": "Луанда",
+      "name:mr": "लुआंडा",
+      "name:nl": "Luanda",
+      "name:oc": "Luanda",
+      "name:os": "Луандæ",
+      "name:pl": "Luanda",
+      "name:ru": "Луанда",
+      "name:sr": "Луанда",
+      "name:sv": "Luanda",
+      "name:ta": "லுவாண்டா",
+      "name:tg": "Луанда",
+      "name:th": "ลูอันดา",
+      "name:uk": "Луанда",
+      "name:ur": "لواندا",
+      "name:zh": "罗安达",
+      "name:ckb": "لواندا",
+      "name:mrj": "Луанда",
+      "name:pnb": "لونڈا",
+      "name:udm": "Луанда",
+      "name:vep": "Luand",
+      "name:zh-Hans": "罗安达",
+      "name:be-tarask": "Луанда"
+    }
+  },
+  {
+    "name": "Luang Namtha",
+    "country": "Laos",
+    "latitude": 21.007220500404483,
+    "longitude": 101.4076361,
+    "other_names": {
+      "name": "ຫຼວງນ້ຳທາ",
+      "name:en": "Luang Namtha",
+      "name:es": "Luang Namtha",
+      "name:fr": "Louangnamtha",
+      "name:ja": "ルアンナムター",
+      "name:ru": "Луангнамтха",
+      "name:uk": "Луангнамтха",
+      "name:vi": "Luồng Nậm Tha"
+    }
+  },
+  {
+    "name": "Luang Namtha",
+    "country": "Laos",
+    "latitude": 21.00489224068567,
+    "longitude": 101.40804039265082,
+    "other_names": {
+      "name": "Luang Namtha"
+    }
+  },
+  {
+    "name": "Luang Prabang",
+    "country": "Laos",
+    "latitude": 19.888743800367195,
+    "longitude": 102.135898,
+    "other_names": {
+      "name": "ຫຼວງພະບາງ",
+      "name:de": "Luang Prabang",
+      "name:en": "Luang Prabang",
+      "name:es": "Luang Prabang",
+      "name:fr": "Luang Prabang",
+      "name:ja": "ルアンパバーン",
+      "name:lo": "ຫຼວງພະບາງ",
+      "name:ru": "Луангпхабанг",
+      "name:uk": "Луангпхабанг",
+      "name:vi": "Luổng Phạ Bang",
+      "name:zh": "琅勃拉邦"
+    }
+  }
+]

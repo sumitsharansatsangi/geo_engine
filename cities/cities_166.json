@@ -1,0 +1,399 @@
+[
+  {
+    "name": "Gympie",
+    "country": "Australia",
+    "latitude": -26.190044699613242,
+    "longitude": 152.6600256,
+    "other_names": {
+      "name": "Gympie",
+      "name:ja": "ギンピー",
+      "name:ru": "Гимпи",
+      "name:zh": "金皮"
+    }
+  },
+  {
+    "name": "Gyoda",
+    "country": "Japan",
+    "latitude": 36.13860519974959,
+    "longitude": 139.4559001,
+    "other_names": {
+      "name": "行田市",
+      "name:ar": "غيودا، سايتاما",
+      "name:de": "Gyōda",
+      "name:en": "Gyoda",
+      "name:es": "Gyōda",
+      "name:fr": "Gyōda",
+      "name:ja": "行田市",
+      "name:ko": "교다시",
+      "name:pl": "Gyōda",
+      "name:ru": "Гёда",
+      "name:uk": "Ґьода",
+      "name:ja-Hira": "ぎょうだし"
+    }
+  },
+  {
+    "name": "Győr",
+    "country": "Hungary",
+    "latitude": 47.68760900001097,
+    "longitude": 17.634681499999996,
+    "other_names": {
+      "name": "Győr",
+      "name:de": "Raab",
+      "name:ka": "დიორი",
+      "name:la": "Arrabona",
+      "name:ru": "Дьёр",
+      "name:sk": "Ráb",
+      "name:sr": "Ђер",
+      "name:uk": "Дьйор"
+    }
+  },
+  {
+    "name": "Gyumri",
+    "country": "Armenia",
+    "latitude": 40.785208500367446,
+    "longitude": 43.84160949999999,
+    "other_names": {
+      "name": "Գյումրի",
+      "name:ar": "غيومري",
+      "name:cs": "Gjumri",
+      "name:de": "Gjumri",
+      "name:el": "Γκιούμρι",
+      "name:en": "Gyumri",
+      "name:es": "Guiumri",
+      "name:et": "Gjumri",
+      "name:fr": "Gyumri",
+      "name:hy": "Գյումրի",
+      "name:ja": "ギュムリ",
+      "name:ka": "გიუმრი",
+      "name:ku": "Gumrî",
+      "name:lt": "Giumris",
+      "name:ml": "ഗ്യൂംറി",
+      "name:ru": "Гюмри",
+      "name:uk": "Ґюмрі",
+      "int_name": "Gyumri",
+      "alt_name:es": "Gyumri"
+    }
+  },
+  {
+    "name": "Haarlem",
+    "country": "Netherlands",
+    "latitude": 52.388531699092255,
+    "longitude": 4.6388048,
+    "other_names": {
+      "name": "Haarlem",
+      "name:ar": "هارلم",
+      "name:de": "Haarlem",
+      "name:en": "Haarlem",
+      "name:eo": "Harlemo",
+      "name:es": "Haarlem",
+      "name:fr": "Haarlem",
+      "name:fy": "Haarlim",
+      "name:he": "הארלם",
+      "name:ja": "ハールレム",
+      "name:ka": "ჰაარლემი",
+      "name:la": "Harlemum",
+      "name:lt": "Harlemas",
+      "name:nl": "Haarlem",
+      "name:ru": "Харлем",
+      "name:sr": "Харлем",
+      "name:uk": "Гарлем",
+      "name:zh": "哈勒姆",
+      "name:zh-Hans": "哈勒姆",
+      "name:zh-Hant": "哈倫",
+      "name:carnaval": "Muggendonk"
+    }
+  },
+  {
+    "name": "Habikino",
+    "country": "Japan",
+    "latitude": 34.541579999624375,
+    "longitude": 135.599097,
+    "other_names": {
+      "name": "羽曳野市",
+      "name:ar": "هابيكينو، أوساكا",
+      "name:de": "Habikino",
+      "name:en": "Habikino",
+      "name:es": "Habikino",
+      "name:fr": "Habikino",
+      "name:ja": "羽曳野市",
+      "name:ko": "하비키노시",
+      "name:pl": "Habikino",
+      "name:ru": "Хабикино",
+      "name:uk": "Хабікіно",
+      "name:ja_rm": "Habikino-shi"
+    }
+  },
+  {
+    "name": "Habra",
+    "country": "India",
+    "latitude": 22.844667900389613,
+    "longitude": 88.6618466,
+    "other_names": {
+      "name": "Habra",
+      "name:bn": "হাবরা",
+      "name:uk": "Габра"
+    }
+  },
+  {
+    "name": "Hachimantai",
+    "country": "Japan",
+    "latitude": 39.9564706002614,
+    "longitude": 141.07094509999996,
+    "other_names": {
+      "name": "八幡平市",
+      "name:ar": "هاتشيمانتاي، إيواته",
+      "name:de": "Hachimantai",
+      "name:en": "Hachimantai",
+      "name:es": "Hachimantai",
+      "name:fr": "Hachimantai",
+      "name:ja": "八幡平市",
+      "name:ko": "하치만타이시",
+      "name:lt": "Hačimantajus",
+      "name:pl": "Hachimantai",
+      "name:ru": "Хатимантай",
+      "name:uk": "Хатімантай",
+      "int_name": "Hachimantai",
+      "name:ja_rm": "Hachimantai-shi",
+      "name:ja_kana": "はちまんたいし"
+    }
+  },
+  {
+    "name": "Hachinohe",
+    "country": "Japan",
+    "latitude": 40.512238800334224,
+    "longitude": 141.4882959,
+    "other_names": {
+      "name": "八戸市",
+      "name:ar": "هاتشينوه، آوموري",
+      "name:cs": "Hačinohe",
+      "name:de": "Hachinohe",
+      "name:en": "Hachinohe",
+      "name:es": "Hachinohe",
+      "name:fr": "Hachinohe",
+      "name:ja": "八戸市",
+      "name:ko": "하치노헤시",
+      "name:pl": "Hachinohe",
+      "name:ru": "Хатинохе",
+      "name:uk": "Хатінохе",
+      "int_name": "Hachinohe",
+      "name:ja_rm": "Hachinohe-shi",
+      "name:ja_kana": "はちのへし"
+    }
+  },
+  {
+    "name": "Hachioji",
+    "country": "Japan",
+    "latitude": 35.660174999703486,
+    "longitude": 139.283071,
+    "other_names": {
+      "name": "八王子市",
+      "name:ar": "هاتشيؤوجي، طوكيو",
+      "name:bg": "Хачиоджи",
+      "name:de": "Hachiōji",
+      "name:en": "Hachioji",
+      "name:eo": "Haĉioĵi",
+      "name:es": "Hachiōji",
+      "name:et": "Hachiōji",
+      "name:fa": "هاچی‌اوجی، توکیو",
+      "name:fi": "Hachiōji",
+      "name:fr": "Hachiōji",
+      "name:gl": "Hachiōji",
+      "name:it": "Hachiōji",
+      "name:ja": "八王子市",
+      "name:ko": "하치오지시",
+      "name:lt": "Hačiodžis",
+      "name:ms": "Hachioji",
+      "name:nl": "Hachioji",
+      "name:pl": "Hachiōji",
+      "name:pt": "Hachioji",
+      "name:ro": "Hachioji, Tokyo",
+      "name:ru": "Хатиодзи",
+      "name:sh": "Hačiodži",
+      "name:sr": "Хачиоџи",
+      "name:tg": "Ҳачиоҷи",
+      "name:th": "ฮะชิโอจิ",
+      "name:uk": "Хатіодзі",
+      "name:zh": "八王子市",
+      "int_name": "Hachioji",
+      "name:mzn": "هاچی‌اوجی، توکیو",
+      "name:nan": "Hatiôzi-chhī",
+      "name:yue": "八王子市",
+      "name:ja_rm": "Hachiōji-shi",
+      "name:ja_kana": "はちおうじし"
+    }
+  },
+  {
+    "name": "Hadano",
+    "country": "Japan",
+    "latitude": 35.374661899679325,
+    "longitude": 139.24207289999998,
+    "other_names": {
+      "name": "秦野市",
+      "name:en": "Hadano",
+      "name:ja": "秦野市",
+      "name:ja-Hira": "はだのし"
+    }
+  },
+  {
+    "name": "Hadejia",
+    "country": "Nigeria",
+    "latitude": 12.452609799623287,
+    "longitude": 10.0418934,
+    "other_names": {
+      "name": "Hadejia",
+      "name:en": "Hadejia",
+      "name:lt": "Hadedžija"
+    }
+  },
+  {
+    "name": "Hadera",
+    "country": "Israel And Palestine",
+    "latitude": 32.436491141618504,
+    "longitude": 34.91770856309358,
+    "other_names": {
+      "name": "חדרה",
+      "name:am": "ሐዴራ",
+      "name:ar": "الخضيرة",
+      "name:cs": "Chadera",
+      "name:en": "Hadera",
+      "name:fr": "Hadera",
+      "name:he": "חדרה",
+      "name:hi": "हदेरा",
+      "name:ru": "Хадера",
+      "int_name": "Hadera",
+      "name:ru1": "Хедера"
+    }
+  },
+  {
+    "name": "Hadera",
+    "country": "Israel And Palestine",
+    "latitude": 32.4369899995953,
+    "longitude": 34.9198258,
+    "other_names": {
+      "name": "חדרה",
+      "name:ar": "الخضيرة",
+      "name:de": "Chadera",
+      "name:en": "Hadera",
+      "name:es": "Hadera",
+      "name:fr": "Hadera",
+      "name:he": "חדרה",
+      "name:hi": "हदेरा",
+      "name:ru": "Хадера",
+      "int_name": "Hadera"
+    }
+  },
+  {
+    "name": "Haditha",
+    "country": "Iraq",
+    "latitude": 34.13525939960638,
+    "longitude": 42.37783670000001,
+    "other_names": {
+      "name": "حديثة",
+      "name:ar": "حديثة",
+      "name:de": "Haditha",
+      "name:en": "Haditha",
+      "name:fr": "Haditha",
+      "name:hi": "हदीथा",
+      "name:ru": "Эль-Хадита",
+      "int_name": "Haditha - حديثة",
+      "name:ar1": "قضاء حديثة"
+    }
+  },
+  {
+    "name": "Haeju",
+    "country": "North Korea",
+    "latitude": 38.040114399987644,
+    "longitude": 125.71400859999997,
+    "other_names": {
+      "name": "해주시",
+      "name:cs": "Hedžu",
+      "name:de": "Haeju",
+      "name:el": "Χέτζου",
+      "name:en": "Haeju",
+      "name:es": "Haeju",
+      "name:et": "Haeju",
+      "name:fr": "Haeju",
+      "name:ja": "海州市",
+      "name:ko": "해주시",
+      "name:lt": "Hedžu",
+      "name:ru": "Хэджу",
+      "name:uk": "Хеджу",
+      "name:vi": "Hải Châu",
+      "name:zh": "海州市",
+      "int_name": "Haeju",
+      "name:ja_kana": "へじゅ",
+      "name:ko-Hani": "海州市",
+      "name:ko-Latn": "Haeju"
+    }
+  },
+  {
+    "name": "Hafizabad",
+    "country": "Pakistan",
+    "latitude": 32.072545999605964,
+    "longitude": 73.68575579999998,
+    "other_names": {
+      "name": "حافظ آباد",
+      "name:en": "Hafizabad",
+      "name:ja": "ハーフィザーバード",
+      "name:ru": "Хафизабад"
+    }
+  },
+  {
+    "name": "Hagen",
+    "country": "Germany",
+    "latitude": 51.35829449919227,
+    "longitude": 7.4732959999999995,
+    "other_names": {
+      "name": "Hagen",
+      "name:ar": "هاغن",
+      "name:de": "Hagen",
+      "name:el": "Χάγκεν",
+      "name:fa": "هاگن",
+      "name:ja": "ハーゲン",
+      "name:la": "Hagenium",
+      "name:ru": "Хаген",
+      "name:sr": "Хаген",
+      "name:ur": "حاگن",
+      "name:azb": "هاقن",
+      "name:nds": "Hagen",
+      "name:pnb": "ہاگن",
+      "alt_name:ar": "هاجن"
+    }
+  },
+  {
+    "name": "Hagerstown",
+    "country": "United States Of America",
+    "latitude": 39.64192190021784,
+    "longitude": -77.7202641,
+    "other_names": {
+      "name": "Hagerstown",
+      "name:en": "Hagerstown",
+      "name:ru": "Хейгерстаун"
+    }
+  },
+  {
+    "name": "Hagi",
+    "country": "Japan",
+    "latitude": 34.40748149961777,
+    "longitude": 131.399194,
+    "other_names": {
+      "name": "萩市",
+      "name:ar": "هاغي، ياماغوتشي",
+      "name:de": "Hagi",
+      "name:en": "Hagi",
+      "name:es": "Hagi",
+      "name:fr": "Hagi",
+      "name:ja": "萩市",
+      "name:ko": "하기시",
+      "name:pl": "Hagi",
+      "name:ru": "Хаги",
+      "name:uk": "Хаґі",
+      "name:zh": "萩市",
+      "int_name": "Hagi",
+      "name:ja_rm": "Hagi-shi",
+      "name:ja_kana": "はぎし",
+      "name:zh-Hans": "萩市",
+      "name:zh-Hant": "萩市"
+    }
+  }
+]

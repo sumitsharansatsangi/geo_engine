@@ -1,0 +1,313 @@
+[
+  {
+    "name": "Weichang",
+    "country": "China",
+    "latitude": 41.935558300481375,
+    "longitude": 117.75795059999997,
+    "other_names": {
+      "name": "围场县",
+      "name:en": "Weichang",
+      "name:ru": "Вэйчан",
+      "name:vi": "Vi Trường",
+      "name:zh": "围场县",
+      "name:zh-Hant": "圍場縣"
+    }
+  },
+  {
+    "name": "Weicheng",
+    "country": "China",
+    "latitude": 36.72779649981515,
+    "longitude": 119.01911859999998,
+    "other_names": {
+      "name": "潍城区",
+      "name:en": "Weicheng",
+      "name:zh": "潍城区",
+      "name:zh-Hant": "濰城區"
+    }
+  },
+  {
+    "name": "Weicheng",
+    "country": "China",
+    "latitude": 34.36384409961576,
+    "longitude": 108.73443529999999,
+    "other_names": {
+      "name": "渭城区",
+      "name:en": "Weicheng",
+      "name:zh": "渭城区",
+      "name:zh-Hant": "渭城區"
+    }
+  },
+  {
+    "name": "Weidong",
+    "country": "China",
+    "latitude": 33.7364537995945,
+    "longitude": 113.33022979999998,
+    "other_names": {
+      "name": "卫东区",
+      "name:en": "Weidong",
+      "name:vi": "Vệ Đông",
+      "name:zh": "卫东区",
+      "alt_name": "卫东;Weidong District",
+      "name:zh-Hant": "衛東區",
+      "name:zh_pinyin": "Weidong Qu"
+    }
+  },
+  {
+    "name": "Weidu",
+    "country": "China",
+    "latitude": 34.034042199602816,
+    "longitude": 113.8209973,
+    "other_names": {
+      "name": "魏都区",
+      "name:en": "Weidu",
+      "name:vi": "Ngụy Đô",
+      "name:zh": "魏都区",
+      "alt_name": "魏都;Weidu District",
+      "alt_name:vi": "Nguỵ Đô",
+      "name:zh-Hant": "魏都區",
+      "name:zh_pinyin": "Weidu Qu"
+    }
+  },
+  {
+    "name": "Weifang",
+    "country": "China",
+    "latitude": 36.7071590998127,
+    "longitude": 119.1557441,
+    "other_names": {
+      "name": "潍坊市",
+      "name:en": "Weifang",
+      "name:et": "Weifang",
+      "name:fr": "Weifang",
+      "name:hi": "वेफ़ांग",
+      "name:ja": "イ坊市",
+      "name:lt": "Veifangas",
+      "name:ru": "Вэйфан",
+      "name:sr": "Вејфанг",
+      "name:vi": "Duy Phường",
+      "name:zh": "潍坊市",
+      "name:zh-Hant": "濰坊市"
+    }
+  },
+  {
+    "name": "Weifang Binhai Economic-Technological Development Area",
+    "country": "China",
+    "latitude": 37.13047759986476,
+    "longitude": 119.17301029999997,
+    "other_names": {
+      "name": "潍坊滨海区",
+      "name:en": "Weifang Binhai Economic-Technological Development Area",
+      "name:zh": "潍坊滨海区"
+    }
+  },
+  {
+    "name": "Weifang High-tech Industrial Development Zone",
+    "country": "China",
+    "latitude": 36.71185249981326,
+    "longitude": 119.2100015,
+    "other_names": {
+      "name": "潍坊高新区",
+      "name:en": "Weifang High-tech Industrial Development Zone",
+      "name:zh": "潍坊国家高新技术产业开发区",
+      "name:zh-Hant": "濰坊高新區"
+    }
+  },
+  {
+    "name": "Weifangjingji",
+    "country": "China",
+    "latitude": 36.769072099820086,
+    "longitude": 119.09686659999998,
+    "other_names": {
+      "name": "潍坊经济区",
+      "name:en": "Weifangjingji",
+      "name:zh": "潍坊经济区",
+      "name:zh-Hant": "濰坊經濟區",
+      "official_name": "山东潍坊经济开发区"
+    }
+  },
+  {
+    "name": "Weihai",
+    "country": "China",
+    "latitude": 37.51209969991477,
+    "longitude": 122.11525989999997,
+    "other_names": {
+      "name": "威海市",
+      "name:ar": "ويهاي",
+      "name:de": "Weihai",
+      "name:en": "Weihai",
+      "name:et": "Weihai",
+      "name:fr": "Weihai",
+      "name:hi": "वैहाइ",
+      "name:ja": "威海市",
+      "name:ko": "웨이하이시",
+      "name:ru": "Вэйхай",
+      "name:sr": "Вејхај",
+      "name:vi": "Uy Hải",
+      "name:zh": "威海市",
+      "int_name": "Weihai",
+      "old_name": "威海卫",
+      "name:zh-Hant": "威海市",
+      "name:zh_pinyin": "Wēihǎi Shì"
+    }
+  },
+  {
+    "name": "Weihui",
+    "country": "China",
+    "latitude": 35.41264249968237,
+    "longitude": 114.06330949999999,
+    "other_names": {
+      "name": "卫辉市",
+      "name:de": "Weihui",
+      "name:en": "Weihui",
+      "name:fr": "Weihui",
+      "name:ja": "衛輝市",
+      "name:ru": "Вэйхой",
+      "name:vi": "Vệ Huy",
+      "name:zh": "卫辉市",
+      "alt_name": "卫辉;Weihui City",
+      "name:zh-Hant": "衛輝市",
+      "name:zh_pinyin": "Wèihūi Shì"
+    }
+  },
+  {
+    "name": "Weinan",
+    "country": "China",
+    "latitude": 34.50374369962244,
+    "longitude": 109.4572848,
+    "other_names": {
+      "name": "渭南市",
+      "name:de": "Weinan",
+      "name:en": "Weinan",
+      "name:et": "Weinan",
+      "name:fr": "Weinan",
+      "name:ja": "渭南市",
+      "name:ru": "Вэйнань",
+      "name:vi": "Vị Nam",
+      "name:zh": "渭南市",
+      "name:zh-Hant": "渭南市",
+      "name:zh_pinyin": "Wèinán Shì"
+    }
+  },
+  {
+    "name": "Weining",
+    "country": "China",
+    "latitude": 26.863234800072902,
+    "longitude": 104.28590859999998,
+    "other_names": {
+      "name": "威宁县",
+      "name:en": "Weining",
+      "name:zh": "威宁县",
+      "name:zh-Hant": "威寧縣"
+    }
+  },
+  {
+    "name": "Weishan",
+    "country": "China",
+    "latitude": 34.80718639963929,
+    "longitude": 117.1230989,
+    "other_names": {
+      "name": "微山县",
+      "name:en": "Weishan",
+      "name:vi": "Vi Sơn",
+      "name:zh": "微山县",
+      "alt_name": "微山;Weishan County",
+      "name:zh-Hant": "微山縣",
+      "name:zh_pinyin": "Weishan Xian"
+    }
+  },
+  {
+    "name": "Weishan",
+    "country": "China",
+    "latitude": 25.230448700237847,
+    "longitude": 100.3055185,
+    "other_names": {
+      "name": "巍山县",
+      "name:en": "Weishan",
+      "name:vi": "Nguy Sơn",
+      "name:zh": "巍山县",
+      "alt_name": "巍山;Weishan Yi and Hui Autonomous County;Weishan County",
+      "name:zh-Hant": "巍山縣",
+      "official_name": "巍山彝族回族自治县",
+      "name:zh_pinyin": "Wēishān Xiàn",
+      "official_name:zh": "巍山彝族回族自治县",
+      "official_name:zh_pinyin": "Wēishān yízú huízú zìzhì xiàn"
+    }
+  },
+  {
+    "name": "Weishi",
+    "country": "China",
+    "latitude": 34.40691189961775,
+    "longitude": 114.18090550000001,
+    "other_names": {
+      "name": "尉氏县",
+      "name:en": "Weishi",
+      "name:vi": "Úy Thị",
+      "name:zh": "尉氏县",
+      "alt_name": "尉氏;Weishi County",
+      "name:zh-Hant": "尉氏縣"
+    }
+  },
+  {
+    "name": "Weixi",
+    "country": "China",
+    "latitude": 27.184510300037434,
+    "longitude": 99.28529259999999,
+    "other_names": {
+      "name": "维西县",
+      "name:en": "Weixi",
+      "name:ru": "Баохэ",
+      "name:vi": "Duy Tây",
+      "name:zh": "维西县",
+      "alt_name": "维西;Weixi County;Weixi Lisu Autonomous County",
+      "short_name": "维西县",
+      "name:zh-Hant": "維西縣",
+      "official_name": "维西傈僳族自治县",
+      "name:zh_pinyin": "Wéixī Xiàn",
+      "official_name:bo": "འབའ་ལུང་ལི་སུའུ་རིགས་རང་སྐྱོང་རྫོང་།",
+      "official_name:zh": "维西傈僳族自治县",
+      "official_name:zh_pinyin": "Wéixī lìsùzú zìzhì xiàn"
+    }
+  },
+  {
+    "name": "Weixin",
+    "country": "China",
+    "latitude": 27.847367399963307,
+    "longitude": 105.0410075,
+    "other_names": {
+      "name": "威信县",
+      "name:en": "Weixin",
+      "name:ja": "威信県",
+      "name:vi": "Uy Tín",
+      "name:zh": "威信县",
+      "alt_name": "威信;Weixin County",
+      "int_name": "Weixin",
+      "name:zh-Hant": "威信縣",
+      "name:zh_pinyin": "wēixìn xiàn"
+    }
+  },
+  {
+    "name": "Weiyang",
+    "country": "China",
+    "latitude": 34.295799899612774,
+    "longitude": 108.95141529999998,
+    "other_names": {
+      "name": "未央区",
+      "name:en": "Weiyang",
+      "name:zh": "未央区",
+      "name:zh-Hant": "未央區"
+    }
+  },
+  {
+    "name": "Weiyuan",
+    "country": "China",
+    "latitude": 29.53035629978372,
+    "longitude": 104.6659458,
+    "other_names": {
+      "name": "威远县",
+      "name:en": "Weiyuan",
+      "name:zh": "威远县",
+      "alt_name": "威远;Wei-yuan Hsien;Weiyuan County",
+      "name:zh-Hant": "威遠縣",
+      "name:zh_pinyin": "Wēiyuǎn Xiàn"
+    }
+  }
+]

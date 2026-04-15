@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Baramulla",
+    "country": "India",
+    "latitude": 34.20869029960918,
+    "longitude": 74.34349799999998,
+    "other_names": {
+      "name": "Baramulla",
+      "name:ar": "بارامولا",
+      "name:hi": "बारामूला",
+      "name:sk": "Varahamula",
+      "name:ur": "بارہمولہ",
+      "alt_name": "Baramula"
+    }
+  },
+  {
+    "name": "Baran",
+    "country": "India",
+    "latitude": 25.09819040024953,
+    "longitude": 76.51698759999998,
+    "other_names": {
+      "name": "Baran",
+      "name:hi": "बारां",
+      "name:ja": "バーラン"
+    }
+  },
+  {
+    "name": "Baranavichy",
+    "country": "Belarus",
+    "latitude": 53.132292499093026,
+    "longitude": 26.018415599999997,
+    "other_names": {
+      "name": "Барановичи",
+      "name:be": "Баранавічы",
+      "name:de": "Baranawitschy",
+      "name:en": "Baranavichy",
+      "name:eo": "Baranaviĉi",
+      "name:es": "Baránavichi",
+      "name:et": "Baranavitšõ",
+      "name:fr": "Baranavitchy",
+      "name:lt": "Baranovičiai",
+      "name:nl": "Baranovitsji",
+      "name:pl": "Baranowicze",
+      "name:ru": "Барановичи",
+      "name:sr": "Баранавичи",
+      "name:uk": "Баранавічи",
+      "int_name": "Baranavičy",
+      "old_name:uk": "Барановичі",
+      "name:be-tarask": "Баранавічы"
+    }
+  },
+  {
+    "name": "Baraut",
+    "country": "India",
+    "latitude": 29.102788599826738,
+    "longitude": 77.2587454,
+    "other_names": {
+      "name": "Baraut",
+      "name:ar": "بروت",
+      "name:ur": "بروت"
+    }
+  },
+  {
+    "name": "Barbacena",
+    "country": "Brazil",
+    "latitude": -21.22545240028363,
+    "longitude": -43.7735087,
+    "other_names": {
+      "name": "Barbacena",
+      "name:ru": "Барбасена"
+    }
+  },
+  {
+    "name": "Barbacoas",
+    "country": "Venezuela",
+    "latitude": 9.481027684216187,
+    "longitude": -66.97258687341554,
+    "other_names": {
+      "name": "Barbacoas"
+    }
+  },
+  {
+    "name": "Barbacoas",
+    "country": "Venezuela",
+    "latitude": 9.480633199415868,
+    "longitude": -66.97327819999998,
+    "other_names": {
+      "name": "Barbacoas"
+    }
+  },
+  {
+    "name": "Barcarena",
+    "country": "Brazil",
+    "latitude": -1.5107944998571807,
+    "longitude": -48.61906789999999,
+    "other_names": {
+      "name": "Barcarena"
+    }
+  },
+  {
+    "name": "Barcelona",
+    "country": "Spain",
+    "latitude": 41.382893900432556,
+    "longitude": 2.1774322,
+    "other_names": {
+      "name": "Barcelona",
+      "name:ar": "برشلونة",
+      "name:be": "Барселона",
+      "name:ca": "Barcelona",
+      "name:de": "Barcelona",
+      "name:el": "Βαρκελώνη",
+      "name:es": "Barcelona",
+      "name:eu": "Bartzelona",
+      "name:fr": "Barcelone",
+      "name:gl": "Barcelona",
+      "name:hi": "बार्सॆलोना",
+      "name:it": "Barcellona",
+      "name:ja": "バルセロナ",
+      "name:kn": "ಬಾರ್ಸೆಲೋನಾ",
+      "name:lt": "Barselona",
+      "name:mk": "Барселона",
+      "name:oc": "Barcelona",
+      "name:pl": "Barcelona",
+      "name:pt": "Barcelona",
+      "name:ru": "Барселона",
+      "name:sr": "Барселона",
+      "name:uk": "Барселона",
+      "name:zh": "巴塞罗那",
+      "name:ckb": "بارسێلۆنا",
+      "alt_name:gl": "Barna",
+      "name:zh-Hans": "巴塞罗那",
+      "name:zh-Hant": "巴塞隆納"
+    }
+  },
+  {
+    "name": "Barcelona",
+    "country": "Venezuela",
+    "latitude": 10.13730059944496,
+    "longitude": -64.68625319999998,
+    "other_names": {
+      "name": "Barcelona",
+      "name:hu": "Barcelona",
+      "name:mk": "Барселона"
+    }
+  },
+  {
+    "name": "Barcelos",
+    "country": "Portugal",
+    "latitude": 41.531449600446855,
+    "longitude": -8.6192306,
+    "other_names": {
+      "name": "Barcelos",
+      "name:lt": "Barselosas",
+      "name:ru": "Барселус",
+      "name:sr": "Барселос",
+      "name:uk": "Барселуш"
+    }
+  },
+  {
+    "name": "Barda",
+    "country": "Azerbaijan",
+    "latitude": 40.381245700317635,
+    "longitude": 47.1246287,
+    "other_names": {
+      "name": "Bərdə",
+      "name:ar": "بردعة",
+      "name:az": "Bərdə",
+      "name:de": "Bərdə",
+      "name:en": "Barda",
+      "name:es": "Bərdə",
+      "name:fa": "بردع",
+      "name:fr": "Barda",
+      "name:ja": "バルダ",
+      "name:ru": "Барда",
+      "name:uk": "Барда",
+      "name:ur": "بردع",
+      "int_name": "Barda",
+      "name:azb": "برده"
+    }
+  },
+  {
+    "name": "Barda",
+    "country": "Azerbaijan",
+    "latitude": 40.37473993824833,
+    "longitude": 47.12542561064318,
+    "other_names": {
+      "name": "Bərdə",
+      "name:ar": "بردعة",
+      "name:az": "Bərdə",
+      "name:en": "Barda",
+      "name:fa": "بردع",
+      "name:ru": "Барда",
+      "name:uk": "Барда",
+      "name:ur": "بردع",
+      "name:azb": "برده"
+    }
+  },
+  {
+    "name": "Bardai",
+    "country": "Chad",
+    "latitude": 21.354950600409015,
+    "longitude": 17.0005053,
+    "other_names": {
+      "name": "Bardaï برداي",
+      "name:ar": "برداي",
+      "name:de": "Bardai",
+      "name:en": "Bardai",
+      "name:es": "Bardaï",
+      "name:fa": "بردای",
+      "name:fr": "Bardaï",
+      "name:ru": "Бардаи",
+      "name:ur": "باردائی",
+      "name:azb": "بردای",
+      "name:tuq": "Goumodi"
+    }
+  },
+  {
+    "name": "Bardera",
+    "country": "Somalia",
+    "latitude": 2.337244899750892,
+    "longitude": 42.28493079999999,
+    "other_names": {
+      "name": "Baardheere بااردىرآ",
+      "name:ar": "بااردىرآ",
+      "name:ca": "Bardera",
+      "name:da": "Baardheere",
+      "name:de": "Baardheere",
+      "name:en": "Bardera",
+      "name:es": "Bardera",
+      "name:fa": "باردیرا",
+      "name:fr": "Bardera",
+      "name:gl": "Bardera - Baardheere",
+      "name:it": "Bardera",
+      "name:ja": "バルデラ",
+      "name:lt": "Barderė",
+      "name:pl": "Baardheere",
+      "name:pt": "Bardera",
+      "name:ro": "Bardera",
+      "name:ru": "Бардере",
+      "name:so": "Bardhere",
+      "name:sw": "Baardheere",
+      "name:uk": "Бардере",
+      "name:ur": "باردیرا",
+      "name:zh": "巴爾代雷",
+      "name:zu": "Bardera",
+      "alt_name": "Bardera"
+    }
+  },
+  {
+    "name": "Bardhaman",
+    "country": "India",
+    "latitude": 23.24405100037392,
+    "longitude": 87.86894219999999,
+    "other_names": {
+      "name": "Bardhaman",
+      "name:bn": "বর্ধমান",
+      "name:de": "Bardhaman",
+      "name:en": "Bardhaman",
+      "name:es": "Bardhaman",
+      "name:fr": "Bardhaman",
+      "name:hi": "बर्धमान",
+      "name:ja": "バルダマーン",
+      "name:kn": "ಬರ್ಧಮಾನ್",
+      "name:pa": "ਬਰਧਮਾਨ",
+      "name:ru": "Бардхаман",
+      "name:uk": "Бардхаман"
+    }
+  },
+  {
+    "name": "Bareilly",
+    "country": "India",
+    "latitude": 28.352360899907158,
+    "longitude": 79.40965419999999,
+    "other_names": {
+      "name": "Bareilly",
+      "name:de": "Bareilly",
+      "name:en": "Bareilly",
+      "name:es": "Bareilly",
+      "name:fr": "Bareli",
+      "name:hi": "बरेली",
+      "name:ja": "バレーリー",
+      "name:kn": "ಬರೇಲಿ",
+      "name:pa": "ਬਰੇਲੀ",
+      "name:ru": "Барели",
+      "name:sr": "Барејли",
+      "name:ta": "பரேலி"
+    }
+  },
+  {
+    "name": "Bari",
+    "country": "Italy",
+    "latitude": 41.12578430040596,
+    "longitude": 16.862029299999996,
+    "other_names": {
+      "name": "Bari",
+      "name:ar": "باري",
+      "name:be": "Бары",
+      "name:el": "Μπάρι",
+      "name:en": "Bari",
+      "name:fa": "باری",
+      "name:ja": "バーリ",
+      "name:ks": "باری",
+      "name:mk": "Бари",
+      "name:ru": "Бари",
+      "name:sr": "Бари",
+      "name:uk": "Барі",
+      "name:ur": "باری",
+      "name:zh": "巴里",
+      "name:zh-Hant": "巴里"
+    }
+  },
+  {
+    "name": "Ba Ria",
+    "country": "Vietnam",
+    "latitude": 10.496269599465235,
+    "longitude": 107.1688433,
+    "other_names": {
+      "name": "Bà Rịa",
+      "name:en": "Ba Ria",
+      "name:fr": "Ba Ria",
+      "name:ja": "バリア",
+      "name:ko": "바리어",
+      "name:ru": "Бариа",
+      "name:vi": "Bà Rịa",
+      "name:zh": "巴地市",
+      "official_name": "Thành phố Bà Rịa",
+      "official_name:en": "Ba Ria City",
+      "official_name:fr": "Ba Ria-ville",
+      "official_name:vi": "Thành phố Bà Rịa",
+      "name:pronunciation": "ɓa̤ː˨˩␣ɹḭʔə˨˩"
+    }
+  },
+  {
+    "name": "Barika",
+    "country": "Algeria",
+    "latitude": 35.384504199680116,
+    "longitude": 5.3705996,
+    "other_names": {
+      "name": "Barika ⴱⴰⵔⵉⴽⴰ بريكة",
+      "name:ar": "بريكة",
+      "name:de": "Barika",
+      "name:en": "Barika",
+      "name:fa": "بریکه",
+      "name:fr": "Barika",
+      "name:hu": "Barika",
+      "name:lt": "Barika",
+      "name:azb": "بریکه",
+      "name:ber": "ⴱⴰⵔⵉⴽⴰ",
+      "name:kab": "Barika",
+      "alt_name:ar": "البريكة;بريكه"
+    }
+  }
+]

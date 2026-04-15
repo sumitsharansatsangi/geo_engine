@@ -1,0 +1,406 @@
+[
+  {
+    "name": "Jingkou District",
+    "country": "China",
+    "latitude": 32.20164839960169,
+    "longitude": 119.48077259999998,
+    "other_names": {
+      "name": "京口区",
+      "name:de": "Jingkou",
+      "name:en": "Jingkou District",
+      "name:fr": "District de Jingkou",
+      "name:it": "Distretto di Jingkou",
+      "name:ja": "京口区",
+      "name:ko": "징커우구",
+      "name:no": "Jingkou",
+      "name:ru": "Цзинкоу",
+      "name:sv": "Jingkou",
+      "name:vi": "Kinh Khẩu",
+      "name:zh": "京口区",
+      "name:ceb": "Jingkou Qu",
+      "name:nan": "Kiaⁿ-kháu-khu",
+      "name:yue": "京口區",
+      "name:zh-Hant": "京口區",
+      "name:zh_pinyin": "Jīngkǒu Qū"
+    }
+  },
+  {
+    "name": "Jingle",
+    "country": "China",
+    "latitude": 38.35473190003248,
+    "longitude": 111.93041029999999,
+    "other_names": {
+      "name": "静乐县",
+      "name:en": "Jingle",
+      "name:ja": "静楽県",
+      "name:ru": "Цзинлэ",
+      "name:vi": "Nga Thành",
+      "name:zh": "静乐县",
+      "alt_name": "静乐;Ching-lo;Ching-le;Dzinle;Jingle;Tsinglohsien;Tsinglo;Ching-lo-hsien;Echeng;Echeng Zhen",
+      "name:zh-Hant": "靜樂縣"
+    }
+  },
+  {
+    "name": "Jingmen",
+    "country": "China",
+    "latitude": 31.037524799658648,
+    "longitude": 112.1937979,
+    "other_names": {
+      "name": "荆门市",
+      "name:ar": "مدينة جينغمن",
+      "name:cs": "Ťing-men",
+      "name:da": "Jingmen",
+      "name:de": "Jingmen",
+      "name:en": "Jingmen",
+      "name:es": "Jingmen",
+      "name:et": "Jingmen",
+      "name:eu": "Jingmen",
+      "name:fa": "جینگمن",
+      "name:fi": "Jingmen",
+      "name:fr": "Jingmen",
+      "name:it": "Jingmen",
+      "name:ja": "荊門市",
+      "name:ki": "Jingmen",
+      "name:ko": "징먼시",
+      "name:mg": "Jingmen",
+      "name:nl": "Jingmen",
+      "name:nn": "Jingmen",
+      "name:no": "Jingmen",
+      "name:pl": "Jingmen",
+      "name:pt": "Jingmen",
+      "name:ru": "Цзинмэнь",
+      "name:sv": "Jingmen",
+      "name:tl": "Jingmen",
+      "name:tr": "Jingmen",
+      "name:ur": "جنگمین",
+      "name:vi": "Kinh Môn",
+      "name:zh": "荆门市",
+      "name:cdo": "Gĭng-muòng",
+      "name:ceb": "Jingmen Shi",
+      "name:nan": "Keng-bûn-chhī",
+      "name:pam": "Jingmen",
+      "name:war": "Jingmen",
+      "name:wuu": "荆门市",
+      "name:yue": "荊門",
+      "name:zh-Hant": "荊門市",
+      "name:zh_pinyin": "Jīngmén Shì"
+    }
+  },
+  {
+    "name": "Jingning",
+    "country": "China",
+    "latitude": 35.52325909969157,
+    "longitude": 105.72845659999999,
+    "other_names": {
+      "name": "静宁县",
+      "name:en": "Jingning",
+      "name:ja": "静寧県",
+      "name:ru": "Цзиннин",
+      "name:vi": "Tĩnh Ninh",
+      "name:zh": "静宁",
+      "alt_name": "静宁县;城关",
+      "name:zh-Hant": "靜寧縣",
+      "name:zh_pinyin": "jìngníng xiàn"
+    }
+  },
+  {
+    "name": "Jingning She Autonomous County",
+    "country": "China",
+    "latitude": 27.997116299946562,
+    "longitude": 119.6338226,
+    "other_names": {
+      "name": "景宁畲族自治县",
+      "name:de": "Jingning",
+      "name:en": "Jingning She Autonomous County",
+      "name:fr": "Xian autonome she de Jingning",
+      "name:it": "Contea autonoma She di Jingning",
+      "name:ja": "景寧シェ族自治県",
+      "name:ko": "징닝 서족 자치현",
+      "name:no": "Jingning She",
+      "name:ru": "Цзиннин-Шэский автономный уезд",
+      "name:sv": "Jingning",
+      "name:vi": "Cảnh Ninh",
+      "name:zh": "景宁畲族自治县",
+      "name:hak": "Kín-nèn Tshiâ-tshu̍k Tshṳ-tshṳ-yen",
+      "name:nan": "Kéng-lêng Siâ-cho̍k Chū-tī-koān",
+      "name:wuu": "景宁畲族自治县",
+      "name:yue": "景寧",
+      "name:zh-Hant": "景寧畲族自治縣",
+      "official_name": "景宁畲族自治县",
+      "name:zh_pinyin": "Jǐngníng Shēzú Zìzhìxiàn"
+    }
+  },
+  {
+    "name": "Jingshan",
+    "country": "China",
+    "latitude": 31.01610469966006,
+    "longitude": 113.12806789999999,
+    "other_names": {
+      "name": "京山市",
+      "name:en": "Jingshan",
+      "name:zh": "京山市",
+      "old_name": "京山县",
+      "name:zh-Hant": "京山市"
+    }
+  },
+  {
+    "name": "Jingtai",
+    "country": "China",
+    "latitude": 37.18103769987123,
+    "longitude": 104.0599948,
+    "other_names": {
+      "name": "景泰县",
+      "name:en": "Jingtai",
+      "name:ja": "景泰県",
+      "name:ru": "Итяошань",
+      "name:vi": "Cảnh Thái",
+      "name:zh": "景泰县",
+      "alt_name": "一条山;Yitiaoshan;景泰",
+      "name:zh-Hant": "景泰縣",
+      "name:zh_pinyin": "jǐngtài xiàn"
+    }
+  },
+  {
+    "name": "Jingxi",
+    "country": "China",
+    "latitude": 23.137189600378534,
+    "longitude": 106.41386029999998,
+    "other_names": {
+      "name": "靖西市",
+      "name:en": "Jingxi",
+      "name:zh": "靖西市",
+      "alt_name": "靖西;Ching-hsi Hsien",
+      "old_name": "靖西县;Jingxi Xian",
+      "name:zh-Hant": "靖西市",
+      "name:zh_pinyin": "jìngxī xiàn"
+    }
+  },
+  {
+    "name": "Jingxian",
+    "country": "China",
+    "latitude": 37.69055599993898,
+    "longitude": 116.260833,
+    "other_names": {
+      "name": "景县",
+      "name:en": "Jingxian",
+      "name:vi": "Cảnh",
+      "name:zh": "景县",
+      "alt_name": "景;Jing;Jingxian;Jing County",
+      "name:zh-Hant": "景縣",
+      "name:zh_pinyin": "Jing Xian"
+    }
+  },
+  {
+    "name": "Jingxing",
+    "country": "China",
+    "latitude": 38.0327328999866,
+    "longitude": 114.1354742,
+    "other_names": {
+      "name": "井陉县",
+      "name:en": "Jingxing",
+      "name:ja": "井ケイ県",
+      "name:vi": "Tỉnh Hình",
+      "name:zh": "井陉县",
+      "alt_name": "井陉;Jingxing County",
+      "name:zh-Hant": "井陘縣",
+      "name:zh_pinyin": "Jingxing Xian"
+    }
+  },
+  {
+    "name": "Jingxing Mining",
+    "country": "China",
+    "latitude": 38.070930599991996,
+    "longitude": 114.05042169999999,
+    "other_names": {
+      "name": "井陉矿区",
+      "name:en": "Jingxing Mining",
+      "name:ja": "井ケイ鉱区",
+      "name:vi": "Tỉnh Hình",
+      "name:zh": "井陉矿区",
+      "alt_name": "井陉矿;Jingxing Mining District",
+      "name:zh-Hant": "井陘礦區",
+      "name:zh_pinyin": "Jǐngxíng Kuàngqū"
+    }
+  },
+  {
+    "name": "Jingyan",
+    "country": "China",
+    "latitude": 29.65310699977186,
+    "longitude": 104.0674826,
+    "other_names": {
+      "name": "井研县",
+      "name:en": "Jingyan",
+      "name:ja": "井研県",
+      "name:vi": "Tỉnh Nghiên",
+      "name:zh": "井研县",
+      "alt_name": "井研;Jingyan County",
+      "int_name": "Jing Yan",
+      "name:zh-Hant": "井研縣"
+    }
+  },
+  {
+    "name": "Jingyang",
+    "country": "China",
+    "latitude": 32.53846159959313,
+    "longitude": 107.89113249999998,
+    "other_names": {
+      "name": "镇巴县",
+      "name:en": "Jingyang",
+      "name:vi": "Kính Dương",
+      "name:zh": "镇巴县",
+      "alt_name": "镇巴;泾洋;泾洋街道;Ching-yang;Zhenba Xian",
+      "old_name": "泾洋镇",
+      "alt_name:en": "Ching-yang;Zhenba Xian",
+      "name:zh-Hant": "鎮巴縣"
+    }
+  },
+  {
+    "name": "Jingyang",
+    "country": "China",
+    "latitude": 34.53068809962381,
+    "longitude": 108.8311281,
+    "other_names": {
+      "name": "泾阳县",
+      "name:en": "Jingyang",
+      "name:ja": "ケイ陽県",
+      "name:zh": "泾阳县",
+      "name:zh-Hant": "涇陽縣"
+    }
+  },
+  {
+    "name": "Jingyang",
+    "country": "China",
+    "latitude": 31.140421099652027,
+    "longitude": 104.39223579999998,
+    "other_names": {
+      "name": "旌阳区",
+      "name:en": "Jingyang",
+      "name:vi": "Tinh Dương",
+      "name:zh": "旌阳区",
+      "alt_name": "旌阳;Jingyang District",
+      "name:zh-Hant": "旌陽區",
+      "name:zh_pinyin": "Jingyang Qu"
+    }
+  },
+  {
+    "name": "Jingyu",
+    "country": "China",
+    "latitude": 42.386555400511526,
+    "longitude": 126.80780069999999,
+    "other_names": {
+      "name": "靖宇县",
+      "name:de": "Jingyu",
+      "name:en": "Jingyu",
+      "name:ja": "靖宇県",
+      "name:ru": "Цзинъюй",
+      "name:vi": "Tĩnh Vũ",
+      "name:zh": "靖宇县",
+      "name:zh-Hant": "靖宇縣",
+      "official_name": "靖宇镇",
+      "name:zh_pinyin": "Jingyu Xian"
+    }
+  },
+  {
+    "name": "Jingyuan",
+    "country": "China",
+    "latitude": 35.49047099968881,
+    "longitude": 106.33614959999998,
+    "other_names": {
+      "name": "泾源县",
+      "name:en": "Jingyuan",
+      "name:ja": "ケイ源県",
+      "name:sd": "دٍﻳُﻮًا ﺷِﯿًﺎ",
+      "name:zh": "泾源县",
+      "alt_name": "泾源;Jingyuan County",
+      "name:zh-Hant": "涇源縣"
+    }
+  },
+  {
+    "name": "Jingyuan",
+    "country": "China",
+    "latitude": 36.559630499795524,
+    "longitude": 104.6822413,
+    "other_names": {
+      "name": "靖远县",
+      "name:en": "Jingyuan",
+      "name:ja": "靖遠県",
+      "name:ru": "Цзинъюань",
+      "name:vi": "Tĩnh Viễn",
+      "name:zh": "靖远县",
+      "alt_name": "靖远;乌兰镇;Wulan",
+      "name:zh-Hant": "靖遠縣",
+      "name:zh_pinyin": "jìngyuǎn xiàn"
+    }
+  },
+  {
+    "name": "Jingzhou",
+    "country": "China",
+    "latitude": 30.337513399710705,
+    "longitude": 112.23377919999999,
+    "other_names": {
+      "name": "荆州市",
+      "name:af": "Jingzhou",
+      "name:ar": "جينغتشو",
+      "name:bg": "Дзинджоу",
+      "name:ca": "Jingzhou",
+      "name:cs": "Ťing-čou",
+      "name:da": "Jingzhou",
+      "name:de": "Jingzhou",
+      "name:en": "Jingzhou",
+      "name:es": "Jingzhou",
+      "name:et": "Jingzhou",
+      "name:eu": "Jingzhou",
+      "name:fa": "جیانگژو",
+      "name:fi": "Jingzhou",
+      "name:fr": "Jingzhou",
+      "name:hr": "Jingzhou",
+      "name:id": "Jingzhou",
+      "name:it": "Jingzhou",
+      "name:ja": "荊州市",
+      "name:ki": "Jingzhou",
+      "name:ko": "징저우시",
+      "name:mg": "Jingzhou",
+      "name:nl": "Jingzhou",
+      "name:nn": "Jingzhou",
+      "name:no": "Jingzhou",
+      "name:pl": "Jingzhou",
+      "name:pt": "Jingzhou",
+      "name:ru": "Цзинчжоу",
+      "name:sh": "Jingzhou",
+      "name:sv": "Jingzhou",
+      "name:tl": "Jingzhou",
+      "name:tr": "Jingzhou",
+      "name:uk": "Цзінчжоу",
+      "name:ur": "جنگژوو",
+      "name:vi": "Kinh Châu",
+      "name:zh": "荆州市",
+      "int_name": "Jingzhou",
+      "name:cdo": "Gĭng-ciŭ",
+      "name:nan": "Keng-chiu-chhī",
+      "name:pam": "Jingzhou",
+      "name:war": "Jingzhou",
+      "name:wuu": "荆州市",
+      "name:yue": "荊州",
+      "name:zh-Hant": "荊州市",
+      "name:zh_pinyin": "Jīngzhōu Shì"
+    }
+  },
+  {
+    "name": "Jingzhou",
+    "country": "China",
+    "latitude": 26.578602000103782,
+    "longitude": 109.691719,
+    "other_names": {
+      "name": "靖州县",
+      "name:cs": "Ťing-čou",
+      "name:en": "Jingzhou",
+      "name:vi": "Tĩnh Châu",
+      "name:zh": "靖州苗族侗族自治县",
+      "alt_name": "靖州;Jingzhou Miao and Dong Autonomous County;Jingzhou County",
+      "short_name": "靖州县",
+      "name:zh-Hant": "靖州縣",
+      "official_name": "靖州苗族侗族自治县",
+      "name:zh_pinyin": "jìngzhōu miáozú dòngzú zìzhì xiàn"
+    }
+  }
+]

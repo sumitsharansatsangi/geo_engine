@@ -1,0 +1,195 @@
+[
+  {
+    "name": "صرين",
+    "country": "Syria",
+    "latitude": 36.57244158397849,
+    "longitude": 38.30522072093903,
+    "other_names": {
+      "name": "صرين"
+    }
+  },
+  {
+    "name": "طناح",
+    "country": "Egypt",
+    "latitude": 31.03582069965875,
+    "longitude": 31.553647499999997,
+    "other_names": {
+      "name": "طناح",
+      "name:ar": "طناح",
+      "name:fr": "Tanah"
+    }
+  },
+  {
+    "name": "قرية القطايع",
+    "country": "Egypt",
+    "latitude": 30.72750545358149,
+    "longitude": 31.46328008061322,
+    "other_names": {
+      "name": "قرية القطايع",
+      "name:ar": "قرية القطايع",
+      "name:fr": "Al Qatayee"
+    }
+  },
+  {
+    "name": "كاليت Kalait",
+    "country": "Chad",
+    "latitude": 15.84042950000605,
+    "longitude": 20.896115799999997,
+    "other_names": {
+      "name": "كاليت Kalait",
+      "name:ar": "كاليت",
+      "name:fr": "Kalaït"
+    }
+  },
+  {
+    "name": "گلبهار",
+    "country": "Iran",
+    "latitude": 36.567777011181064,
+    "longitude": 59.17328938175156,
+    "other_names": {
+      "name": "گلبهار"
+    }
+  },
+  {
+    "name": "میانه",
+    "country": "Iran",
+    "latitude": 37.42617318491463,
+    "longitude": 47.71512071303636,
+    "other_names": {
+      "name": "میانه"
+    }
+  },
+  {
+    "name": "ناحیه ۲",
+    "country": "Iran",
+    "latitude": 27.816783362344772,
+    "longitude": 52.32387081049702,
+    "other_names": {
+      "name": "ناحیه ۲"
+    }
+  },
+  {
+    "name": "ناحیه ۹",
+    "country": "Iran",
+    "latitude": 27.813746299410933,
+    "longitude": 52.321595307525364,
+    "other_names": {
+      "name": "ناحیه ۹"
+    }
+  },
+  {
+    "name": "نجف‌آباد",
+    "country": "Iran",
+    "latitude": 32.635074299591366,
+    "longitude": 51.36368039999999,
+    "other_names": {
+      "name": "نجف‌آباد"
+    }
+  },
+  {
+    "name": "وادي عمر",
+    "country": "Sudan",
+    "latitude": 21.81011550040976,
+    "longitude": 33.9527414,
+    "other_names": {
+      "name": "وادي عمر",
+      "name:es": "Wadi Omar",
+      "name:fr": "Wadi Omar"
+    }
+  },
+  {
+    "name": "ورديه خارج",
+    "country": "Iraq",
+    "latitude": 32.48459899959424,
+    "longitude": 44.489469899999996,
+    "other_names": {
+      "name": "ورديه خارج"
+    }
+  },
+  {
+    "name": "আগ্রাবাদ",
+    "country": "Bangladesh",
+    "latitude": 22.32531793466773,
+    "longitude": 91.81136248301266,
+    "other_names": {
+      "name": "আগ্রাবাদ",
+      "name:bn": "আগ্রাবাদ"
+    }
+  },
+  {
+    "name": "ဟိုပန်",
+    "country": "Myanmar",
+    "latitude": 23.42400901862337,
+    "longitude": 98.75152052262105,
+    "other_names": {
+      "name": "ဟိုပန်"
+    }
+  },
+  {
+    "name": "ဟိုပန်",
+    "country": "China",
+    "latitude": 23.42400901862337,
+    "longitude": 98.75152052262105,
+    "other_names": {
+      "name": "ဟိုပန်"
+    }
+  },
+  {
+    "name": "台州湾新区",
+    "country": "China",
+    "latitude": 28.59388249988075,
+    "longitude": 121.53574210000001,
+    "other_names": {
+      "name": "台州湾新区"
+    }
+  },
+  {
+    "name": "埼玉県春日部地方庁舎",
+    "country": "Japan",
+    "latitude": 35.96791634987479,
+    "longitude": 139.74654270010842,
+    "other_names": {
+      "name": "埼玉県春日部地方庁舎"
+    }
+  },
+  {
+    "name": "第七师",
+    "country": "China",
+    "latitude": 44.42975770051259,
+    "longitude": 84.90138349999998,
+    "other_names": {
+      "name": "第七师",
+      "official_name": "新疆生产建设兵团第七师"
+    }
+  },
+  {
+    "name": "第九师",
+    "country": "China",
+    "latitude": 46.51805620025486,
+    "longitude": 83.6090523,
+    "other_names": {
+      "name": "第九师",
+      "name:zh-Hant": "第九師",
+      "official_name": "新疆生产建设兵团第九师"
+    }
+  },
+  {
+    "name": "第八师",
+    "country": "China",
+    "latitude": 44.29883430051991,
+    "longitude": 86.07764749999998,
+    "other_names": {
+      "name": "第八师",
+      "official_name": "新疆生产建设兵团第八师"
+    }
+  },
+  {
+    "name": "第十三师",
+    "country": "China",
+    "latitude": 42.8245423005314,
+    "longitude": 93.5469908,
+    "other_names": {
+      "name": "第十三师"
+    }
+  }
+]

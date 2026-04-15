@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Elkhart",
+    "country": "United States Of America",
+    "latitude": 41.68199350046048,
+    "longitude": -85.9766671,
+    "other_names": {
+      "name": "Elkhart"
+    }
+  },
+  {
+    "name": "El Limon",
+    "country": "Venezuela",
+    "latitude": 10.301198799453841,
+    "longitude": -67.6329506,
+    "other_names": {
+      "name": "El Limón",
+      "name:en": "El Limon"
+    }
+  },
+  {
+    "name": "Elliot Lake",
+    "country": "Canada",
+    "latitude": 46.37346400028078,
+    "longitude": -82.65289300000002,
+    "other_names": {
+      "name": "Elliot Lake"
+    }
+  },
+  {
+    "name": "El Mahalla El Kubra",
+    "country": "Egypt",
+    "latitude": 30.97235169966299,
+    "longitude": 31.168300199999997,
+    "other_names": {
+      "name": "المحلة الكبرى",
+      "name:ar": "محلة الكبرى",
+      "name:de": "Mahalla al Kubra",
+      "name:en": "El Mahalla El Kubra",
+      "name:et": "Al-Maḩallah al-Kubrá",
+      "name:eu": "Al-Mahalla al-Kubra",
+      "name:fr": "Mahalla al Kubra",
+      "name:ru": "Эль-Махалла-эль-Кубра",
+      "alt_name": "محلة الكبرى",
+      "int_name": "Mahalla el Kubra, Mahalla al Kubra",
+      "name:ar1": "محلة الكبرى"
+    }
+  },
+  {
+    "name": "El Manzano",
+    "country": "Venezuela",
+    "latitude": 10.037267699439843,
+    "longitude": -69.3123074,
+    "other_names": {
+      "name": "El Manzano"
+    }
+  },
+  {
+    "name": "Elmira",
+    "country": "United States Of America",
+    "latitude": 42.08979650049273,
+    "longitude": -76.80773379999998,
+    "other_names": {
+      "name": "Elmira",
+      "name:ru": "Элмайра"
+    }
+  },
+  {
+    "name": "El Monte",
+    "country": "United States Of America",
+    "latitude": 34.075157099604226,
+    "longitude": -118.03684899999998,
+    "other_names": {
+      "name": "El Monte"
+    }
+  },
+  {
+    "name": "El Nogal",
+    "country": "Venezuela",
+    "latitude": 10.341032899456097,
+    "longitude": -66.6434139,
+    "other_names": {
+      "name": "El Nogal"
+    }
+  },
+  {
+    "name": "El Nogal",
+    "country": "Venezuela",
+    "latitude": 10.340361803213378,
+    "longitude": -66.6433523810951,
+    "other_names": {
+      "name": "El Nogal"
+    }
+  },
+  {
+    "name": "El Oued",
+    "country": "Algeria",
+    "latitude": 33.36117659958858,
+    "longitude": 6.8603492,
+    "other_names": {
+      "name": "El Oued ⵍⵡⴰⴷ الوادي",
+      "name:ar": "الوادي",
+      "name:de": "Al-Wādī",
+      "name:el": "Ελ Ουέντ",
+      "name:en": "El Oued",
+      "name:es": "El Oued",
+      "name:fr": "El Oued",
+      "name:it": "El Oued",
+      "name:ja": "エル・ウェッド",
+      "name:lt": "Uedas",
+      "name:ru": "Эль-Уэд",
+      "name:zh": "瓦德",
+      "name:ber": "ⵍⵡⴰⴷ",
+      "name:kab": "Lwad",
+      "alt_name:ar": "وادي سوف;واد سوف",
+      "alt_name:ber": "ⴰⵙⵉⴼ"
+    }
+  },
+  {
+    "name": "El Paso",
+    "country": "United States Of America",
+    "latitude": 31.775415199617807,
+    "longitude": -106.46463399999999,
+    "other_names": {
+      "name": "El Paso",
+      "name:en": "El Paso",
+      "name:ko": "엘파소",
+      "name:ru": "Эль-Пасо",
+      "name:uk": "Ель-Пасо"
+    }
+  },
+  {
+    "name": "El Qoseir",
+    "country": "Egypt",
+    "latitude": 26.10483600015356,
+    "longitude": 34.279764,
+    "other_names": {
+      "name": "القصير",
+      "name:ar": "القصير",
+      "name:cs": "Quseir",
+      "name:de": "El Quseir",
+      "name:en": "El Qoseir",
+      "name:es": "Al-Qusair",
+      "name:fr": "Al-Qusair",
+      "name:hi": "अल क़ोसियर",
+      "name:hu": "Kuszeir",
+      "name:ru": "Эль-Кусейр"
+    }
+  },
+  {
+    "name": "El Rahmaniya",
+    "country": "Egypt",
+    "latitude": 31.104554899654296,
+    "longitude": 30.6424526,
+    "other_names": {
+      "name": "الرحمانية",
+      "name:ar": "الرحمانية",
+      "name:en": "El Rahmaniya",
+      "name:fa": "رحمانیه",
+      "name:fr": "El Rahmanieh",
+      "name:pl": "Ar-Rahmanijja"
+    }
+  },
+  {
+    "name": "El Salvador",
+    "country": "Philippines",
+    "latitude": 8.560693699393385,
+    "longitude": 124.5227662,
+    "other_names": {
+      "name": "El Salvador",
+      "name:ja": "エル・サルバドール"
+    }
+  },
+  {
+    "name": "El Sauce",
+    "country": "El Salvador",
+    "latitude": 13.668660899752387,
+    "longitude": -87.7986966,
+    "other_names": {
+      "name": "El Sauce"
+    }
+  },
+  {
+    "name": "El Socorro",
+    "country": "Venezuela",
+    "latitude": 8.998157399401366,
+    "longitude": -65.7461571,
+    "other_names": {
+      "name": "El Socorro"
+    }
+  },
+  {
+    "name": "El Sombrero",
+    "country": "Venezuela",
+    "latitude": 9.388739299412647,
+    "longitude": -67.06108249999998,
+    "other_names": {
+      "name": "El Sombrero"
+    }
+  },
+  {
+    "name": "El Suki",
+    "country": "Sudan",
+    "latitude": 13.324617599714173,
+    "longitude": 33.8904559,
+    "other_names": {
+      "name": "السوكي",
+      "name:ar": "السوكي",
+      "name:en": "El Suki",
+      "name:fr": "El Suki",
+      "alt_name": "As Suki;Es Suki;As Sūkī",
+      "alt_name:en": "As Suki"
+    }
+  },
+  {
+    "name": "El Tigre",
+    "country": "Venezuela",
+    "latitude": 8.885618299398843,
+    "longitude": -64.2486608,
+    "other_names": {
+      "name": "El Tigre",
+      "name:ru": "Эль-Тигре"
+    }
+  },
+  {
+    "name": "El Tocuyo",
+    "country": "Venezuela",
+    "latitude": 9.788449099428185,
+    "longitude": -69.79414009999999,
+    "other_names": {
+      "name": "El Tocuyo"
+    }
+  }
+]

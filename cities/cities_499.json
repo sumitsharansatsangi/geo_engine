@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Valsad",
+    "country": "India",
+    "latitude": 20.606776700395056,
+    "longitude": 72.9272881,
+    "other_names": {
+      "name": "Valsad",
+      "name:en": "Valsad",
+      "name:gu": "વલસાડ",
+      "name:hi": "वलसाड",
+      "name:ja": "ヴァルサール",
+      "name:kn": "ವಲಸಾಡ್",
+      "name:mr": "वलसाड",
+      "old_name": "Bulsar"
+    }
+  },
+  {
+    "name": "Van",
+    "country": "Turkey",
+    "latitude": 38.50836010005463,
+    "longitude": 43.3745322,
+    "other_names": {
+      "name": "Van",
+      "name:ar": "وان",
+      "name:el": "Βαν",
+      "name:fa": "وان",
+      "name:hi": "वान",
+      "name:hu": "Van",
+      "name:hy": "Վան",
+      "name:ku": "Wan",
+      "name:pt": "Van",
+      "name:ru": "Ван",
+      "name:tr": "Van",
+      "name:ckb": "وان"
+    }
+  },
+  {
+    "name": "Vancouver",
+    "country": "United States Of America",
+    "latitude": 45.630695400395865,
+    "longitude": -122.6744557,
+    "other_names": {
+      "name": "Vancouver",
+      "name:ar": "فانكوفر",
+      "name:bg": "Ванкувър",
+      "name:de": "Vancouver",
+      "name:en": "Vancouver",
+      "name:es": "Vancouver",
+      "name:fa": "ونکوور",
+      "name:fr": "Vancouver",
+      "name:it": "Vancouver",
+      "name:ja": "バンクーバー",
+      "name:ko": "밴쿠버",
+      "name:pt": "Vancouver",
+      "name:ru": "Ванкувер",
+      "name:uk": "Ванкувер",
+      "name:vi": "Vancouver",
+      "name:zh": "溫哥華",
+      "name:zh-Hans": "温哥华"
+    }
+  },
+  {
+    "name": "Vancouver",
+    "country": "Canada",
+    "latitude": 49.26087239962798,
+    "longitude": -123.11395289999999,
+    "other_names": {
+      "name": "Vancouver",
+      "name:ar": "فانكوفر",
+      "name:bn": "বাংকূবর",
+      "name:en": "Vancouver",
+      "name:hi": "वांकूवर",
+      "name:ja": "バンクーバー",
+      "name:kn": "ವಾಂಕೂವರ್",
+      "name:ko": "밴쿠버",
+      "name:oc": "Vancouver",
+      "name:ru": "Ванкувер",
+      "name:sr": "Ванкувер",
+      "name:uk": "Ванкувер",
+      "name:zh": "温哥华",
+      "name:ckb": "ڤانکوڤەر",
+      "name:zh-Hans": "温哥华",
+      "name:zh-Hant": "溫哥華"
+    }
+  },
+  {
+    "name": "Vantaa",
+    "country": "Finland",
+    "latitude": 60.309187101691066,
+    "longitude": 25.0364526,
+    "other_names": {
+      "name": "Vantaa",
+      "name:fi": "Vantaa",
+      "name:lt": "Vanta",
+      "name:ru": "Вантаа",
+      "name:sv": "Vanda"
+    }
+  },
+  {
+    "name": "Vapi",
+    "country": "India",
+    "latitude": 20.37160300038745,
+    "longitude": 72.9166501,
+    "other_names": {
+      "name": "Vapi",
+      "name:he": "ואפי",
+      "name:ja": "バピ",
+      "name:kn": "ವಪಿ"
+    }
+  },
+  {
+    "name": "Varadero",
+    "country": "Cuba",
+    "latitude": 23.149578000378018,
+    "longitude": -81.26002500000001,
+    "other_names": {
+      "name": "Varadero",
+      "name:ru": "Варадеро",
+      "name:zh": "巴拉德罗"
+    }
+  },
+  {
+    "name": "Varamin",
+    "country": "Iran",
+    "latitude": 35.32832549967565,
+    "longitude": 51.64603069999999,
+    "other_names": {
+      "name": "ورامین",
+      "name:en": "Varamin",
+      "name:hi": "वारमीन",
+      "name:ja": "ヴァラーミーン"
+    }
+  },
+  {
+    "name": "Varanasi",
+    "country": "India",
+    "latitude": 25.33564910022834,
+    "longitude": 83.00762919999998,
+    "other_names": {
+      "name": "Varanasi",
+      "name:ar": "وارانسي",
+      "name:en": "Varanasi",
+      "name:eo": "Varanasio",
+      "name:es": "Benarés",
+      "name:fa": "وارانسی",
+      "name:he": "ואראנסי",
+      "name:hi": "वाराणसी",
+      "name:ja": "ワーラーナシー",
+      "name:kn": "ವಾರಾಣಸಿ",
+      "name:ml": "വാരാണസി",
+      "name:oc": "Benarès",
+      "name:pa": "ਵਾਰਾਣਸੀ",
+      "name:pl": "Waranasi",
+      "name:ru": "Варанаси",
+      "name:ta": "வாரணாசி",
+      "name:ur": "وارانسی",
+      "old_name:fr": "Bénarès",
+      "old_name:pl": "Benares"
+    }
+  },
+  {
+    "name": "Varaždin",
+    "country": "Croatia",
+    "latitude": 46.30796450029214,
+    "longitude": 16.3378198,
+    "other_names": {
+      "name": "Varaždin",
+      "name:ar": "فارازدين",
+      "name:be": "Горад Вараждзін",
+      "name:bg": "Вараждин",
+      "name:ce": "Вараждин",
+      "name:cs": "Varaždín",
+      "name:de": "Warasdin",
+      "name:el": "Βαράζντιν",
+      "name:fa": "واراژدین",
+      "name:he": "ואראז'דין",
+      "name:hu": "Varasd",
+      "name:ja": "ヴァラジュディン",
+      "name:ka": "ვარაჟდინი",
+      "name:ko": "바라주딘",
+      "name:la": "Varasdinum",
+      "name:lt": "Varaždinas",
+      "name:mk": "Вараждин",
+      "name:nl": "Varaždin",
+      "name:ru": "Вараждин",
+      "name:sq": "Varazhdin",
+      "name:sr": "Вараждин",
+      "name:tt": "Вараждин",
+      "name:uk": "Вараждин",
+      "name:ur": "واراژدن",
+      "name:zh": "瓦拉日丁"
+    }
+  },
+  {
+    "name": "Varese",
+    "country": "Italy",
+    "latitude": 45.817549000369844,
+    "longitude": 8.8263532,
+    "other_names": {
+      "name": "Varese",
+      "name:de": "Väris",
+      "name:el": "Βαρέζε",
+      "name:en": "Varese",
+      "name:fr": "Varèse",
+      "name:it": "Varese",
+      "name:lt": "Varezė",
+      "name:ru": "Варезе",
+      "name:uk": "Варезе",
+      "name:zh": "瓦雷澤",
+      "name:lmo": "Vares",
+      "name:zh-Hans": "瓦雷泽"
+    }
+  },
+  {
+    "name": "Varginha",
+    "country": "Brazil",
+    "latitude": -21.556591400248013,
+    "longitude": -45.4340674,
+    "other_names": {
+      "name": "Varginha"
+    }
+  },
+  {
+    "name": "Varna",
+    "country": "Bulgaria",
+    "latitude": 43.20738730054049,
+    "longitude": 27.9166653,
+    "other_names": {
+      "name": "Варна",
+      "name:bg": "Варна",
+      "name:de": "Warna",
+      "name:el": "Βάρνα",
+      "name:en": "Varna",
+      "name:et": "Varna",
+      "name:fr": "Varna",
+      "name:hr": "Varna",
+      "name:hu": "Várna",
+      "name:ja": "ヴァルナ",
+      "name:ku": "Varna",
+      "name:la": "Odessus",
+      "name:lt": "Varna",
+      "name:nl": "Varna",
+      "name:pl": "Warna",
+      "name:ro": "Varna",
+      "name:ru": "Варна",
+      "name:sk": "Varna",
+      "name:sr": "Варна",
+      "name:uk": "Варна",
+      "name:zh": "瓦爾納",
+      "int_name": "Varna",
+      "name:zh-Hans": "瓦尔纳",
+      "name:zh-Hant": "瓦爾納",
+      "old_name:bg:1949-1956": "Сталин"
+    }
+  },
+  {
+    "name": "Várzea Grande",
+    "country": "Brazil",
+    "latitude": -15.645816000419247,
+    "longitude": -56.132218,
+    "other_names": {
+      "name": "Várzea Grande",
+      "name:ja": "ヴァルゼア・グランヂ",
+      "name:ka": "ვარზეა გრანდე",
+      "name:ko": "바르제아그란지",
+      "name:lt": "Varzea Grandė",
+      "name:pt": "Várzea Grande",
+      "name:ru": "Варзеа-Гранди",
+      "name:sr": "Варзеа Гранде",
+      "name:zh": "大瓦尔泽亚"
+    }
+  },
+  {
+    "name": "Várzea Paulista",
+    "country": "Brazil",
+    "latitude": -23.211388900037853,
+    "longitude": -46.8283333,
+    "other_names": {
+      "name": "Várzea Paulista"
+    }
+  },
+  {
+    "name": "Vasai-Virar",
+    "country": "India",
+    "latitude": 19.425878800342122,
+    "longitude": 72.8224901,
+    "other_names": {
+      "name": "Vasai-Virar",
+      "name:ar": "وسائي-ويرار",
+      "name:en": "Vasai-Virar",
+      "name:hi": "वसई-विरार",
+      "name:ja": "ヴァサイー・ヴィラール",
+      "name:kn": "ವಸಾಯಿ-ವಿಹಾರ್",
+      "name:mr": "वसई-विरार",
+      "name:pt": "Vasai-Virar",
+      "name:ru": "Васаи-Вирар",
+      "alt_name:ar": "فاساي فيرار"
+    }
+  },
+  {
+    "name": "Vaslui",
+    "country": "Romania",
+    "latitude": 46.638343500232544,
+    "longitude": 27.731868099999996,
+    "other_names": {
+      "name": "Vaslui",
+      "name:de": "Wassluy",
+      "name:hu": "Vászló",
+      "name:ru": "Васлуй",
+      "name:sr": "Васлуј",
+      "name:uk": "Васлуй"
+    }
+  },
+  {
+    "name": "Västerås",
+    "country": "Sweden",
+    "latitude": 59.61109920150445,
+    "longitude": 16.5463679,
+    "other_names": {
+      "name": "Västerås",
+      "name:he": "וסטרוס",
+      "name:lt": "Vesterosas",
+      "name:ru": "Вестерос",
+      "name:sv": "Västerås",
+      "name:yi": "וועסטעראס"
+    }
+  },
+  {
+    "name": "Vaughan",
+    "country": "Canada",
+    "latitude": 43.79415440053828,
+    "longitude": -79.52680229999999,
+    "other_names": {
+      "name": "Vaughan"
+    }
+  },
+  {
+    "name": "Vavuniya",
+    "country": "Sri Lanka",
+    "latitude": 8.759351699396392,
+    "longitude": 80.50007779999999,
+    "other_names": {
+      "name": "வவுனியா",
+      "name:en": "Vavuniya",
+      "name:ja": "バブニヤ",
+      "name:kn": "ವವುನಿಯ",
+      "name:ru": "Вавуния",
+      "name:ta": "வவுனியா",
+      "alt_name": "Vavuniya NP"
+    }
+  }
+]

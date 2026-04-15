@@ -1,0 +1,405 @@
+[
+  {
+    "name": "Newburyport",
+    "country": "United States Of America",
+    "latitude": 42.812591300531,
+    "longitude": -70.8772751,
+    "other_names": {
+      "name": "Newburyport"
+    }
+  },
+  {
+    "name": "New Cairo City",
+    "country": "Egypt",
+    "latitude": 30.02881979973718,
+    "longitude": 31.475265800000003,
+    "other_names": {
+      "name": "مدينة القاهرة الجديدة",
+      "name:ar": "مدينة القاهرة الجديدة",
+      "name:en": "New Cairo City",
+      "name:fa": "قاهره جدید",
+      "name:fr": "Nouveau Caire",
+      "name:ur": "جدید قاہرہ"
+    }
+  },
+  {
+    "name": "Newcastle",
+    "country": "South Africa",
+    "latitude": -27.76277799943358,
+    "longitude": 29.923889,
+    "other_names": {
+      "name": "Newcastle",
+      "name:ru": "Ньюкасл"
+    }
+  },
+  {
+    "name": "Newcastle",
+    "country": "United States Of America",
+    "latitude": 43.85474590053689,
+    "longitude": -104.20512559999999,
+    "other_names": {
+      "name": "Newcastle"
+    }
+  },
+  {
+    "name": "Newcastle",
+    "country": "South Africa And Lesotho",
+    "latitude": -27.76277799943358,
+    "longitude": 29.923889,
+    "other_names": {
+      "name": "Newcastle",
+      "name:ru": "Ньюкасл"
+    }
+  },
+  {
+    "name": "Newcastle",
+    "country": "Australia",
+    "latitude": -32.92728809951794,
+    "longitude": 151.7812534,
+    "other_names": {
+      "name": "Newcastle",
+      "name:en": "Newcastle",
+      "name:eo": "Novkastelo",
+      "name:ja": "ニューカッスル",
+      "name:lt": "Niukaslas",
+      "name:ru": "Ньюкасл",
+      "name:uk": "Ньюкасл",
+      "name:zh": "纽卡斯尔"
+    }
+  },
+  {
+    "name": "New Castle",
+    "country": "United States Of America",
+    "latitude": 40.999920200392125,
+    "longitude": -80.34718559999999,
+    "other_names": {
+      "name": "New Castle"
+    }
+  },
+  {
+    "name": "Newcastle upon Tyne",
+    "country": "England",
+    "latitude": 54.973847399412655,
+    "longitude": -1.6131571999999998,
+    "other_names": {
+      "name": "Newcastle upon Tyne",
+      "name:ar": "نيوكاسل أبون تاين",
+      "name:az": "Nyukasl apon Tayn",
+      "name:be": "Ньюкасл-апан-Тайн",
+      "name:bg": "Нюкасъл ъпон Тайн",
+      "name:bn": "নিউক্যাসল আপন ট্যাইন",
+      "name:el": "Νιούκασλ",
+      "name:fa": "نیوکاسل آپون تاین",
+      "name:fr": "Newcastle upon Tyne",
+      "name:gd": "An Caisteal Nuadh",
+      "name:he": "ניוקאסל",
+      "name:hu": "Newcastle",
+      "name:ja": "ニューカッスル・アポン・タイン",
+      "name:ka": "ნიუკასლ-აპონ-ტაინი",
+      "name:ko": "뉴캐슬어폰타인",
+      "name:la": "Novum Castellum super Tinam",
+      "name:lt": "Niukaslas prie Taino",
+      "name:lv": "Ņūkāsla pie Tainas",
+      "name:mk": "Њукасл на Тајн",
+      "name:mr": "न्यूकॅसल अपॉन टाईन",
+      "name:pa": "نیوکاسل",
+      "name:ru": "Ньюкасл-апон-Тайн",
+      "name:sr": "Њукасл на Тајну",
+      "name:ta": "டைன் ஆற்றங்கரை நியூ காசில்",
+      "name:th": "นิวคาสเซิลอะพอนไทน์",
+      "name:uk": "Ньюкасл-апон-Тайн",
+      "name:ur": "نیوکاسڵ",
+      "name:vi": "Newcastle trên sông Tyne",
+      "name:yi": "ניוקאסטל",
+      "name:zh": "紐卡素",
+      "alt_name": "Newcastle",
+      "alt_name:la": "Novum Castellum",
+      "alt_name:mk": "Њукасл",
+      "name:zh-Hans": "泰恩河畔纽卡斯尔 ",
+      "name:zh-Hant": "泰恩河畔新堡"
+    }
+  },
+  {
+    "name": "new chwarchra 3",
+    "country": "Iraq",
+    "latitude": 35.55182542999741,
+    "longitude": 45.403735705933144,
+    "other_names": {
+      "name": "new chwarchra 3"
+    }
+  },
+  {
+    "name": "New Damietta",
+    "country": "Egypt",
+    "latitude": 31.43645029963463,
+    "longitude": 31.678142,
+    "other_names": {
+      "name": "دمياط الجديدة",
+      "name:ar": "دمياط الجديدة",
+      "name:en": "New Damietta",
+      "name:fr": "Nouveau Damiette",
+      "name:ru": "Новый Думьят",
+      "alt_name": "دمياط الجديدة"
+    }
+  },
+  {
+    "name": "New Delhi",
+    "country": "India",
+    "latitude": 28.61389539987858,
+    "longitude": 77.20900569999999,
+    "other_names": {
+      "name": "New Delhi",
+      "name:af": "Nieu-Delhi",
+      "name:am": "ኒው ዴሊ",
+      "name:an": "Nueva Delhi",
+      "name:ar": "دلهي الجديدة",
+      "name:be": "Нью-Дэлі",
+      "name:bg": "Ню Делхи",
+      "name:bn": "নতুন দিল্লি",
+      "name:bo": "ནེའུ་དིལ་ལི།",
+      "name:br": "New Delhi",
+      "name:bs": "New Delhi",
+      "name:ca": "Nova Delhi",
+      "name:co": "New Delhi",
+      "name:cs": "Nové Dillí",
+      "name:cy": "Delhi Newydd",
+      "name:da": "New Delhi",
+      "name:de": "Neu-Delhi",
+      "name:dv": "ނިއުދިއްލީ",
+      "name:el": "Νέο Δελχί",
+      "name:en": "New Delhi",
+      "name:eo": "Nov-Delhio",
+      "name:es": "Nueva Delhi",
+      "name:et": "New Delhi",
+      "name:eu": "New Delhi",
+      "name:fa": "دهلی نو",
+      "name:fi": "New Delhi",
+      "name:fr": "New Delhi",
+      "name:fy": "Nij Delly",
+      "name:ga": "Nua-Deilí",
+      "name:gd": "New Delhi",
+      "name:gl": "Nova Deli - नई दिल्ली",
+      "name:gv": "Delhi Noa",
+      "name:he": "ניו דלהי",
+      "name:hi": "नई दिल्ली",
+      "name:hr": "New Delhi",
+      "name:ht": "Niou Deli",
+      "name:hu": "Újdelhi",
+      "name:hy": "Նյու Դելի",
+      "name:ia": "Nove Delhi",
+      "name:id": "New Delhi",
+      "name:io": "Nova-Delhi",
+      "name:is": "Nýja Delí",
+      "name:it": "Nuova Delhi",
+      "name:ja": "ニューデリー",
+      "name:jv": "New Delhi",
+      "name:ka": "ნიუ-დელი",
+      "name:kk": "Нью-Дели",
+      "name:kl": "New Delhi",
+      "name:kn": "ಹೊಸ ದೆಹಲಿ",
+      "name:ko": "뉴델리",
+      "name:ks": "نٔو دلھی",
+      "name:ku": "Delhiya Nû",
+      "name:la": "Dellium Novum",
+      "name:lb": "Nei-Delhi",
+      "name:lt": "Naujasis Delis",
+      "name:lv": "Ņūdeli",
+      "name:mg": "New Delhi",
+      "name:mi": "New Delhi",
+      "name:mk": "Њу Делхи",
+      "name:ml": "ന്യൂ ഡെൽഹി",
+      "name:mn": "Шинэ Дели",
+      "name:mr": "नवी दिल्ली",
+      "name:ms": "New Delhi",
+      "name:my": "နယူးဒေလီမြို့",
+      "name:ne": "नयाँ दिल्ली",
+      "name:nl": "New Delhi",
+      "name:nn": "New Delhi",
+      "name:no": "New Delhi",
+      "name:oc": "Nòva Delhi",
+      "name:os": "Нью-Дели",
+      "name:pa": "ਨਵੀਂ ਦਿੱਲੀ",
+      "name:pl": "Nowe Delhi",
+      "name:pt": "Nova Deli",
+      "name:qu": "Musuq Dilhi",
+      "name:ro": "New Delhi",
+      "name:ru": "Нью-Дели",
+      "name:sa": "नवदेहली",
+      "name:si": "නව දිල්ලිය",
+      "name:sk": "Naí Dillí",
+      "name:sl": "New Delhi",
+      "name:so": "New Delhi",
+      "name:sq": "New Delhi",
+      "name:sr": "Њу Делхи",
+      "name:sv": "New Delhi",
+      "name:sw": "New Delhi",
+      "name:ta": "புது தில்லி",
+      "name:te": "క్రొత్త ఢిల్లీ",
+      "name:tg": "Ню-Дели",
+      "name:th": "นิวเดลี",
+      "name:tl": "Bagong Delhi",
+      "name:tr": "Yeni Delhi",
+      "name:ug": "Yéngi Déhli",
+      "name:uk": "Нью-Делі",
+      "name:ur": "نئی دہلی",
+      "name:vi": "Tân Delhi",
+      "name:yi": "ניי דעלי",
+      "name:yo": "New Delhi",
+      "name:zh": "新德里",
+      "name:ace": "New delhi",
+      "name:ang": "Nīƿe Delhi",
+      "name:bpy": "নুৱা দিল্লী",
+      "name:ckb": "نیودلھی",
+      "name:crh": "Nyu Deli",
+      "name:diq": "Delhiyo Newe",
+      "name:ext": "Nueva Delhi",
+      "name:hif": "New Delhi",
+      "name:lij": "Neuva Delhi",
+      "name:lmo": "New Delhi",
+      "name:mzn": "نو دهلی",
+      "name:nah": "Yancuīc Deli",
+      "name:nan": "Sin Delhi",
+      "name:nov": "Novi Deli",
+      "name:pam": "New Delhi",
+      "name:pms": "New Delhi",
+      "name:pnb": "نئی دلی",
+      "name:sah": "Саҥа Дели",
+      "name:scn": "Nova Delhi",
+      "name:sco": "New Delhi",
+      "name:war": "New Delhi",
+      "name:yue": "新德里",
+      "alt_name:ar": "نيودلهي",
+      "name:simple": "New Delhi",
+      "name:bat-smg": "Naujasės Delės",
+      "name:cbk-zam": "Nueva Delhi",
+      "name:fiu-vro": "New Delhi",
+      "name:be-tarask": "Нью-Дэлі"
+    }
+  },
+  {
+    "name": "New Haven",
+    "country": "United States Of America",
+    "latitude": 41.308213800425065,
+    "longitude": -72.9250518,
+    "other_names": {
+      "name": "New Haven",
+      "name:en": "New Haven",
+      "name:ru": "Нью-Хейвен"
+    }
+  },
+  {
+    "name": "New London",
+    "country": "United States Of America",
+    "latitude": 41.355618700429844,
+    "longitude": -72.09978039999999,
+    "other_names": {
+      "name": "New London"
+    }
+  },
+  {
+    "name": "Newmarket",
+    "country": "Canada",
+    "latitude": 44.05625800053069,
+    "longitude": -79.46170799999999,
+    "other_names": {
+      "name": "Newmarket"
+    }
+  },
+  {
+    "name": "New Orleans",
+    "country": "United States Of America",
+    "latitude": 29.94993229974425,
+    "longitude": -90.0701156,
+    "other_names": {
+      "name": "New Orleans",
+      "name:br": "Orleañs Nevez",
+      "name:ca": "Nova Orleans",
+      "name:es": "Nueva Orleans",
+      "name:fr": "La Nouvelle-Orléans",
+      "name:ja": "ニューオーリンズ",
+      "name:kn": "ಹೊಸ ಒರ್ಲೀನ್ಸ್",
+      "name:oc": "Nòva Orleans",
+      "name:ru": "Новый Орлеан",
+      "name:vi": "New Orleans",
+      "name:zh": "新奥尔良/紐奧良",
+      "loc_name": "NOLA",
+      "short_name": "N.O.",
+      "alt_name:vi": "Níu Liên",
+      "loc_name:en": "NOLA",
+      "loc_name:vi": "Ngọc Lân",
+      "name:zh-Hans": "新奥尔良",
+      "name:zh-Hant": "紐奧良",
+      "name:pronunciation": "nu ˈɔːrlənz",
+      "name:en:pronunciation": "nu ˈɔːrlənz"
+    }
+  },
+  {
+    "name": "New Plymouth",
+    "country": "New Zealand",
+    "latitude": -39.057994100781286,
+    "longitude": 174.0806474,
+    "other_names": {
+      "name": "New Plymouth",
+      "name:en": "New Plymouth",
+      "name:ja": "ニュープリマス",
+      "name:mi": "Ngāmotu",
+      "name:mk": "Њу Плимут",
+      "name:ru": "Нью-Плимут",
+      "name:uk": "Нью-Плімут"
+    }
+  },
+  {
+    "name": "Newport",
+    "country": "United States Of America",
+    "latitude": 41.48998270044295,
+    "longitude": -71.3137707,
+    "other_names": {
+      "name": "Newport",
+      "name:en": "Newport",
+      "name:ru": "Ньюпорт",
+      "name:uk": "Ньюпорт"
+    }
+  },
+  {
+    "name": "Newport",
+    "country": "United States Of America",
+    "latitude": 35.96704119973228,
+    "longitude": -83.18765779999998,
+    "other_names": {
+      "name": "Newport"
+    }
+  },
+  {
+    "name": "Newport",
+    "country": "Wales",
+    "latitude": 51.58823319916111,
+    "longitude": -2.9974966999999997,
+    "other_names": {
+      "name": "Newport",
+      "name:be": "Ньюпарт",
+      "name:br": "Casnewydd",
+      "name:cy": "Casnewydd",
+      "name:el": "Νηούπορτ",
+      "name:en": "Newport",
+      "name:hu": "Newport",
+      "name:ja": "ニューポート",
+      "name:ko": "뉴포트",
+      "name:la": "Novus Burgus",
+      "name:mk": "Њупорт",
+      "name:ru": "Ньюпорт",
+      "name:sr": "Њупорт",
+      "name:uk": "Ньюпорт"
+    }
+  },
+  {
+    "name": "Newport News",
+    "country": "United States Of America",
+    "latitude": 36.97750159984551,
+    "longitude": -76.42977,
+    "other_names": {
+      "name": "Newport News",
+      "name:zh-Hans": "纽波特纽斯",
+      "name:zh-Hant": "紐波特紐斯"
+    }
+  }
+]

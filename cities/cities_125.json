@@ -1,0 +1,347 @@
+[
+  {
+    "name": "El Baúl",
+    "country": "Venezuela",
+    "latitude": 8.960313599400479,
+    "longitude": -68.29557279999999,
+    "other_names": {
+      "name": "El Baúl"
+    }
+  },
+  {
+    "name": "Elbląg",
+    "country": "Poland",
+    "latitude": 54.15587079921254,
+    "longitude": 19.4044583,
+    "other_names": {
+      "name": "Elbląg",
+      "name:de": "Elbing",
+      "name:eo": "Elblongo",
+      "name:ja": "エルブロンク",
+      "name:lt": "Elbingas",
+      "name:mk": "Елблонг",
+      "name:pl": "Elbląg",
+      "name:ru": "Эльблонг",
+      "name:uk": "Ельблонг",
+      "name:prg": "Elbings"
+    }
+  },
+  {
+    "name": "El Cajon",
+    "country": "United States Of America",
+    "latitude": 32.794773099589165,
+    "longitude": -116.96252689999997,
+    "other_names": {
+      "name": "El Cajon"
+    }
+  },
+  {
+    "name": "El Centro",
+    "country": "United States Of America",
+    "latitude": 32.7919999995892,
+    "longitude": -115.5630514,
+    "other_names": {
+      "name": "El Centro"
+    }
+  },
+  {
+    "name": "El Dakhla Oasis",
+    "country": "Egypt",
+    "latitude": 25.51206220021197,
+    "longitude": 29.258160099999994,
+    "other_names": {
+      "name": "الواحات الداخلة",
+      "name:ar": "الواحات الداخلة",
+      "name:de": "Dachla",
+      "name:en": "El Dakhla Oasis",
+      "name:es": "Dachla",
+      "name:fr": "Ad-Dakhla",
+      "name:hu": "Dakhla-oázis",
+      "name:lt": "Dachla",
+      "name:ru": "Дахла",
+      "alt_name": "الداخلة;الداخله",
+      "alt_name:ar": "الداخلة;الداخله"
+    }
+  },
+  {
+    "name": "Eldoret",
+    "country": "Kenya",
+    "latitude": 0.5198328999457759,
+    "longitude": 35.2715481,
+    "other_names": {
+      "name": "Eldoret",
+      "name:en": "Eldoret",
+      "name:ko": "엘도레트",
+      "name:ru": "Элдорет",
+      "name:uk": "Елдорет",
+      "alt_name": "Sisibo"
+    }
+  },
+  {
+    "name": "Eldoret",
+    "country": "Kenya",
+    "latitude": 0.4946492448010145,
+    "longitude": 35.27862597719197,
+    "other_names": {
+      "name": "Eldoret"
+    }
+  },
+  {
+    "name": "Elektrostal",
+    "country": "Russia",
+    "latitude": 55.78499637820592,
+    "longitude": 38.453649607190194,
+    "other_names": {
+      "name": "Электросталь",
+      "name:ar": "إيليكتروستال",
+      "name:az": "Elektrostal",
+      "name:be": "Электрасталь",
+      "name:bg": "Електростал",
+      "name:ca": "Elektrostal",
+      "name:cs": "Elektrostal",
+      "name:cv": "Электросталь",
+      "name:de": "Elektrostal",
+      "name:en": "Elektrostal",
+      "name:eo": "Elektrostal",
+      "name:et": "Elektrostal",
+      "name:eu": "Elektrostal",
+      "name:fa": "الکتروستال",
+      "name:fi": "Elektrostal",
+      "name:fr": "Elektrostal",
+      "name:hr": "Elektrostalj",
+      "name:it": "Ėlektrostal'",
+      "name:ja": "エレクトロスタリ",
+      "name:ko": "옐렉트로스탈",
+      "name:lt": "Elektrostalė",
+      "name:lv": "Elektrostaļa",
+      "name:nl": "Elektrostal",
+      "name:nn": "Elektrostal",
+      "name:no": "Elektrostal",
+      "name:pl": "Elektrostal",
+      "name:pt": "Elektrostal",
+      "name:ro": "Elektrostal",
+      "name:ru": "Электросталь",
+      "name:sr": "Електростаљ",
+      "name:sv": "Elektrostal",
+      "name:tg": "Электростал",
+      "name:th": "เอเลคโตรสตัล",
+      "name:tl": "Elektrostal",
+      "name:uk": "Електросталь",
+      "name:uz": "Elektrostal",
+      "name:vi": "Elektrostal",
+      "name:zh": "埃列克特羅斯塔爾",
+      "old_name": "Затишье"
+    }
+  },
+  {
+    "name": "Elektrostal",
+    "country": "Russia",
+    "latitude": 55.79037849970115,
+    "longitude": 38.44057109999999,
+    "other_names": {
+      "name": "Электросталь",
+      "name:ar": "إيليكتروستال",
+      "name:az": "Elektrostal",
+      "name:be": "Электрасталь",
+      "name:bg": "Електростал",
+      "name:ca": "Elektrostal",
+      "name:cs": "Elektrostal",
+      "name:cv": "Электросталь",
+      "name:de": "Elektrostal",
+      "name:en": "Elektrostal",
+      "name:eo": "Elektrostal",
+      "name:et": "Elektrostal",
+      "name:eu": "Elektrostal",
+      "name:fa": "الکتروستال",
+      "name:fi": "Elektrostal",
+      "name:fr": "Elektrostal",
+      "name:hr": "Elektrostalj",
+      "name:hu": "Elektrosztal",
+      "name:it": "Ėlektrostal'",
+      "name:ja": "エレクトロスタリ",
+      "name:ko": "옐렉트로스탈",
+      "name:lt": "Elektrostalė",
+      "name:lv": "Elektrostaļa",
+      "name:nl": "Elektrostal",
+      "name:nn": "Elektrostal",
+      "name:no": "Elektrostal",
+      "name:pl": "Elektrostal",
+      "name:pt": "Elektrostal",
+      "name:ro": "Elektrostal",
+      "name:ru": "Электросталь",
+      "name:sr": "Електростаљ",
+      "name:sv": "Elektrostal",
+      "name:tg": "Электростал",
+      "name:th": "เอเลคโตรสตัล",
+      "name:tl": "Elektrostal",
+      "name:uk": "Електросталь",
+      "name:uz": "Elektrostal",
+      "name:vi": "Elektrostal",
+      "name:zh": "埃列克特羅斯塔爾",
+      "old_name": "Затишье"
+    }
+  },
+  {
+    "name": "El Eulma",
+    "country": "Algeria",
+    "latitude": 36.152905699751074,
+    "longitude": 5.6911588,
+    "other_names": {
+      "name": "El Eulma ⵍⵄⴻⵍⵎⴰ العلمة",
+      "name:ar": "العلمة",
+      "name:en": "El Eulma",
+      "name:fr": "El Eulma",
+      "name:he": "אל עולמה",
+      "name:lt": "Elma",
+      "name:ru": "Эль-Эулма",
+      "name:zh": "欧勒马",
+      "int_name": "El Eulma",
+      "name:ber": "ⵍⵄⴻⵍⵎⴰ",
+      "name:kab": "Lɛelma",
+      "old_name": "Saint Arnaud"
+    }
+  },
+  {
+    "name": "El Farafra Oasis",
+    "country": "Egypt",
+    "latitude": 27.064173300050783,
+    "longitude": 27.9683927,
+    "other_names": {
+      "name": "واحة الفرافرة",
+      "name:ar": "واحة الفرافرة",
+      "name:de": "al-Farafra",
+      "name:en": "El Farafra Oasis",
+      "name:es": "Farafra",
+      "name:fr": "Al-Farafra",
+      "name:hu": "Farafra-oázis",
+      "name:lt": "Farafra",
+      "name:ru": "Фарафра",
+      "alt_name:ru": "Эль-Фарафра"
+    }
+  },
+  {
+    "name": "Elgin",
+    "country": "United States Of America",
+    "latitude": 42.037260000488985,
+    "longitude": -88.28109939999999,
+    "other_names": {
+      "name": "Elgin",
+      "name:ru": "Элгин"
+    }
+  },
+  {
+    "name": "El Hawata",
+    "country": "Sudan",
+    "latitude": 13.417625899724392,
+    "longitude": 34.6336766,
+    "other_names": {
+      "name": "الحواتة",
+      "name:ar": "الحواتة",
+      "name:en": "El Hawata",
+      "name:fr": "El Hawata",
+      "name:ru": "Эль-Хавата",
+      "name:uk": "Ель-Хавата",
+      "alt_name": "Al Hawatah;El Hawata;Al Hawwata;Al Ḩawātah",
+      "alt_name:ar": "الهوّت",
+      "alt_name:en": "Al Hawatah"
+    }
+  },
+  {
+    "name": "Elista",
+    "country": "Russia",
+    "latitude": 46.30699900029231,
+    "longitude": 44.270187,
+    "other_names": {
+      "name": "Элиста",
+      "name:de": "Elista",
+      "name:en": "Elista",
+      "name:es": "Elistá",
+      "name:et": "Elista",
+      "name:fr": "Elista",
+      "name:hu": "Eliszta",
+      "name:lt": "Elista",
+      "name:pl": "Elista",
+      "name:ru": "Элиста",
+      "name:sk": "Elista",
+      "name:sr": "Елиста",
+      "name:uk": "Еліста",
+      "name:vi": "Elista",
+      "name:zh": "埃利斯塔",
+      "int_name": "Elista",
+      "name:xal": "Элст",
+      "old_name:ru": "Степной"
+    }
+  },
+  {
+    "name": "Elista",
+    "country": "Russia",
+    "latitude": 46.30981958538329,
+    "longitude": 44.270098832788435,
+    "other_names": {
+      "name": "Элиста",
+      "name:de": "Elista",
+      "name:en": "Elista",
+      "name:ru": "Элиста"
+    }
+  },
+  {
+    "name": "Elizabeth",
+    "country": "United States Of America",
+    "latitude": 40.66399160035294,
+    "longitude": -74.21070059999998,
+    "other_names": {
+      "name": "Elizabeth"
+    }
+  },
+  {
+    "name": "Elizabethtown",
+    "country": "United States Of America",
+    "latitude": 37.69395199993945,
+    "longitude": -85.8591285,
+    "other_names": {
+      "name": "Elizabethtown"
+    }
+  },
+  {
+    "name": "El Jadida",
+    "country": "Morocco",
+    "latitude": 33.24333089958777,
+    "longitude": -8.49884,
+    "other_names": {
+      "name": "El Jadida ⵊⴷⵉⴷⴰ الجديدة",
+      "name:ar": "الجديدة",
+      "name:de": "El Jadida",
+      "name:en": "El Jadida",
+      "name:es": "El-Yadida",
+      "name:et": "El Jadida",
+      "name:fr": "El Jadida",
+      "name:he": "אל-ג'דידה",
+      "name:hi": "एल जादिदा",
+      "name:pl": "Al-Dżadida",
+      "name:ru": "Эль-Джадида",
+      "int_name": "El Jadida ⵍⵊⴰⴷⵉⴷⴰ الجديدة",
+      "name:ber": "ⵊⴷⵉⴷⴰ",
+      "name:zgh": "ⵊⴷⵉⴷⴰ"
+    }
+  },
+  {
+    "name": "El Kala",
+    "country": "Algeria",
+    "latitude": 36.889912462574785,
+    "longitude": 8.440569268363026,
+    "other_names": {
+      "name": "El Kala",
+      "name:ar": "القالة",
+      "name:fr": "El Kala"
+    }
+  },
+  {
+    "name": "Elk Grove",
+    "country": "United States Of America",
+    "latitude": 38.408799300040265,
+    "longitude": -121.3716178,
+    "other_names": {
+      "name": "Elk Grove"
+    }
+  }
+]

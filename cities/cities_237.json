@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Kilinochchi",
+    "country": "Sri Lanka",
+    "latitude": 9.384006799412491,
+    "longitude": 80.4087224,
+    "other_names": {
+      "name": "கிளிநொச்சி",
+      "name:en": "Kilinochchi",
+      "name:hi": "किलिनोच्ची",
+      "name:ja": "キリノッチ",
+      "name:kn": "ಕಿಲಿನೊಚ್ಚಿ",
+      "name:ru": "Килиноччи",
+      "name:si": "කිළිනොච්චි",
+      "name:ta": "கிளிநொச்சி"
+    }
+  },
+  {
+    "name": "Kilis",
+    "country": "Turkey",
+    "latitude": 36.716572199813825,
+    "longitude": 37.114664000000005,
+    "other_names": {
+      "name": "Kilis",
+      "name:ar": "كلس",
+      "name:de": "Kilis",
+      "name:el": "Κιλίς",
+      "name:en": "Kilis",
+      "name:es": "Kilis",
+      "name:fa": "کیلیس",
+      "name:fr": "Kilis",
+      "name:hy": "Քիլիս",
+      "name:ka": "ქილისი",
+      "name:ku": "Kilîs",
+      "name:ru": "Килис",
+      "name:ug": "كىلىس",
+      "name:ur": "کیلیس",
+      "name:azb": "کیلیس",
+      "name:ckb": "کلیس",
+      "name:lrc": "کیلیس",
+      "name:pnb": "کیلس",
+      "alt_name:ar": "كلز;كيليس"
+    }
+  },
+  {
+    "name": "Kilkis",
+    "country": "Greece",
+    "latitude": 40.993587400391434,
+    "longitude": 22.8741455,
+    "other_names": {
+      "name": "Κιλκίς",
+      "name:bg": "Кукуш",
+      "name:de": "Kilkis",
+      "name:el": "Κιλκίς",
+      "name:en": "Kilkis",
+      "name:et": "Kilkís",
+      "name:fr": "Kilkís",
+      "name:hu": "Kilkísz",
+      "name:it": "Kilkis",
+      "name:la": "Cilcis",
+      "name:mk": "Кукуш",
+      "name:pl": "Kilkis",
+      "name:ro": "Kilkis",
+      "name:ru": "Килкис",
+      "name:sr": "Кукуш",
+      "name:tr": "Kılkış",
+      "int_name": "Kilkis"
+    }
+  },
+  {
+    "name": "Killeen",
+    "country": "United States Of America",
+    "latitude": 31.117144099653498,
+    "longitude": -97.72779599999998,
+    "other_names": {
+      "name": "Killeen"
+    }
+  },
+  {
+    "name": "Kimberley",
+    "country": "Canada",
+    "latitude": 49.68508759952546,
+    "longitude": -115.9819477,
+    "other_names": {
+      "name": "Kimberley"
+    }
+  },
+  {
+    "name": "Kimberley",
+    "country": "South Africa And Lesotho",
+    "latitude": -28.731139933034527,
+    "longitude": 24.755065210648134,
+    "other_names": {
+      "name": "Kimberley"
+    }
+  },
+  {
+    "name": "Kimberley",
+    "country": "South Africa And Lesotho",
+    "latitude": -28.738301199359324,
+    "longitude": 24.764225099999997,
+    "other_names": {
+      "name": "Kimberley",
+      "name:ko": "킴벌리"
+    }
+  },
+  {
+    "name": "Kimberley",
+    "country": "South Africa",
+    "latitude": -28.731139933034527,
+    "longitude": 24.755065210648134,
+    "other_names": {
+      "name": "Kimberley"
+    }
+  },
+  {
+    "name": "Kimberley",
+    "country": "South Africa",
+    "latitude": -28.738301199359324,
+    "longitude": 24.764225099999997,
+    "other_names": {
+      "name": "Kimberley",
+      "name:ko": "킴벌리"
+    }
+  },
+  {
+    "name": "Kimch'aek",
+    "country": "North Korea",
+    "latitude": 40.67426500035418,
+    "longitude": 129.1994761,
+    "other_names": {
+      "name": "김책시",
+      "name:de": "Kimch'aek",
+      "name:el": "Γκίμτσεκ",
+      "name:en": "Kimch'aek",
+      "name:eo": "Kimĉekurbo",
+      "name:es": "Kimch'aek",
+      "name:et": "Kimch'aek",
+      "name:fr": "Kimch'aek",
+      "name:ja": "金策",
+      "name:ko": "김책시",
+      "name:ru": "Кимчхэк",
+      "name:zh": "金策市",
+      "alt_name:ko": "성진시",
+      "old_name:ru": "Сонджин",
+      "name:ko-Hani": "金策市"
+    }
+  },
+  {
+    "name": "Kimitsu",
+    "country": "Japan",
+    "latitude": 35.330237499675796,
+    "longitude": 139.902551,
+    "other_names": {
+      "name": "君津市",
+      "name:ar": "كيميتسو، تشيبا",
+      "name:de": "Kimitsu",
+      "name:en": "Kimitsu",
+      "name:es": "Kimitsu",
+      "name:fr": "Kimitsu",
+      "name:ja": "君津市",
+      "name:ko": "기미쓰시",
+      "name:pl": "Kimitsu",
+      "name:ru": "Кимицу",
+      "name:uk": "Кіміцу",
+      "name:ja_rm": "Kimitsu-shi",
+      "name:ja_kana": "きみつし"
+    }
+  },
+  {
+    "name": "Kindia",
+    "country": "Guinea",
+    "latitude": 10.049247599440445,
+    "longitude": -12.8577997,
+    "other_names": {
+      "name": "Kindia",
+      "name:ko": "킨디아",
+      "name:ru": "Киндия",
+      "name:uk": "Кіндія"
+    }
+  },
+  {
+    "name": "KINDIADI",
+    "country": "Guinea",
+    "latitude": 9.753977399426688,
+    "longitude": -13.459367799999999,
+    "other_names": {
+      "name": "KINDIADI"
+    }
+  },
+  {
+    "name": "Kindu",
+    "country": "Congo Democratic Republic",
+    "latitude": -2.9493765997535752,
+    "longitude": 25.918449899999995,
+    "other_names": {
+      "name": "Kindu",
+      "name:en": "Kindu",
+      "name:ko": "킨두",
+      "name:ru": "Кинду",
+      "name:uk": "Кінду"
+    }
+  },
+  {
+    "name": "Kingman",
+    "country": "United States Of America",
+    "latitude": 35.189442999665054,
+    "longitude": -114.0530065,
+    "other_names": {
+      "name": "Kingman"
+    }
+  },
+  {
+    "name": "Kingsport",
+    "country": "United States Of America",
+    "latitude": 36.550237999794454,
+    "longitude": -82.55942929999999,
+    "other_names": {
+      "name": "Kingsport",
+      "name:ru": "Кингспорт"
+    }
+  },
+  {
+    "name": "Kingston",
+    "country": "Jamaica",
+    "latitude": 17.971214800231294,
+    "longitude": -76.7928128,
+    "other_names": {
+      "name": "Kingston",
+      "name:am": "ኪንግስቶን",
+      "name:ar": "كينغستون",
+      "name:az": "Kinqston",
+      "name:be": "Кінгстан",
+      "name:bg": "Кингстън",
+      "name:bo": "ཁིང་སི་ཐོན།",
+      "name:cv": "Кингстон",
+      "name:de": "Kingston",
+      "name:el": "Κίνγκστον",
+      "name:en": "Kingston",
+      "name:eo": "Kingstono",
+      "name:es": "Kingston",
+      "name:fa": "کینگستون",
+      "name:fr": "Kingston",
+      "name:gd": "Kingston",
+      "name:he": "קינגסטון",
+      "name:ht": "Kinstòn",
+      "name:hu": "Kingston",
+      "name:hy": "Քինգստոն",
+      "name:is": "Kingston",
+      "name:ja": "キングストン",
+      "name:ka": "კინგსტონი",
+      "name:ko": "킹스턴",
+      "name:la": "Regiopolis",
+      "name:lt": "Kingstonas",
+      "name:lv": "Kingstona",
+      "name:mk": "Кингстон",
+      "name:mr": "किंग्स्टन",
+      "name:oc": "Kingston",
+      "name:os": "Кингстон",
+      "name:pl": "Kingstone",
+      "name:ru": "Кингстон",
+      "name:sr": "Кингстон",
+      "name:sv": "Kingston",
+      "name:ta": "கிங்ஸ்டன்",
+      "name:th": "คิงส์ตัน",
+      "name:uk": "Кінгстон",
+      "name:ur": "کنگسٹن",
+      "name:zh": "金斯敦",
+      "name:ang": "Cyninȝestūn",
+      "name:sah": "Киҥстон",
+      "name:zh-Hans": "京斯敦",
+      "name:zh-Hant": "京斯敦",
+      "name:be-tarask": "Кінгстан"
+    }
+  },
+  {
+    "name": "Kingston",
+    "country": "Canada",
+    "latitude": 44.2306870005233,
+    "longitude": -76.48132299999999,
+    "other_names": {
+      "name": "Kingston",
+      "name:de": "Kingston",
+      "name:en": "Kingston",
+      "name:fr": "Kingston",
+      "name:ru": "Кингстон",
+      "name:uk": "Кінгстон"
+    }
+  },
+  {
+    "name": "Kinokawa",
+    "country": "Japan",
+    "latitude": 34.269710199611666,
+    "longitude": 135.3636692,
+    "other_names": {
+      "name": "紀の川市",
+      "name:en": "Kinokawa",
+      "name:fr": "Kinokawa",
+      "name:ja": "紀の川市",
+      "name:ko": "기노카와시",
+      "name:lt": "Kinokava",
+      "name:pl": "Kinokawa",
+      "name:ru": "Кинокава",
+      "name:uk": "Кінокава",
+      "name:zh": "纪之川市",
+      "name:ja_rm": "Kinokawa-shi",
+      "name:ja_kana": "きのかわし"
+    }
+  },
+  {
+    "name": "Kinshasa",
+    "country": "Congo Democratic Republic",
+    "latitude": -4.32170549969484,
+    "longitude": 15.312597400000001,
+    "other_names": {
+      "name": "Kinshasa",
+      "name:am": "ኪንሻሳ",
+      "name:ar": "كينشاسا",
+      "name:az": "Kinşasa",
+      "name:be": "Кіншаса",
+      "name:bg": "Киншаса",
+      "name:bo": "ཀིན་ཤ་ས།",
+      "name:cs": "Kinshasa",
+      "name:de": "Kinshasa",
+      "name:el": "Κινσάσα",
+      "name:en": "Kinshasa",
+      "name:eo": "Kinŝaso",
+      "name:es": "Kinsasa",
+      "name:fa": "کینشاسا",
+      "name:fr": "Kinshasa",
+      "name:fy": "Kinsjasa",
+      "name:he": "קינשאסה",
+      "name:hi": "किन्शासा",
+      "name:ht": "Kinchasa",
+      "name:hu": "Kinshasa",
+      "name:hy": "Կինշասա",
+      "name:is": "Kinsasa",
+      "name:ja": "キンシャサ",
+      "name:ka": "კინშასა",
+      "name:kg": "Kinsasa",
+      "name:kk": "Киншаса",
+      "name:kn": "ಕಿನ್ಶಾಸಾ",
+      "name:ko": "킨샤사",
+      "name:ku": "Kînşasa",
+      "name:ky": "Киншаса",
+      "name:ln": "Kinsásá",
+      "name:lt": "Kinšasa",
+      "name:lv": "Kinšasa",
+      "name:mk": "Киншаса",
+      "name:ml": "കിൻഷസ",
+      "name:mr": "किन्शासा",
+      "name:my": "ကင်ရှာဆာမြို့",
+      "name:nl": "Kinshasa",
+      "name:oc": "Kinshasa",
+      "name:os": "Киншаса",
+      "name:pl": "Kinszasa",
+      "name:pt": "Quinxassa",
+      "name:ru": "Киншаса",
+      "name:sr": "Киншаса",
+      "name:sv": "Kinshasa",
+      "name:sw": "Kinshasa",
+      "name:ta": "கின்ஷாசா",
+      "name:tg": "Киншаса",
+      "name:th": "กินชาซา",
+      "name:tk": "Kinşasa",
+      "name:tr": "Kinşasa",
+      "name:uk": "Кіншаса",
+      "name:ur": "کنشاسا",
+      "name:yi": "קינשאזע",
+      "name:zh": "金沙薩",
+      "name:arz": "كينشاسا",
+      "name:ckb": "کینشاسا",
+      "name:mhr": "Киншаса",
+      "name:mrj": "Киншаса",
+      "name:pnb": "کنشاسہ",
+      "name:rue": "Кіншаса",
+      "name:sah": "Киншаса",
+      "name:udm": "Киншаса",
+      "name:yue": "金沙薩",
+      "old_name": "Léopoldville",
+      "name:bat-smg": "Kinšasa"
+    }
+  }
+]

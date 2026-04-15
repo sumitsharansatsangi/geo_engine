@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Amami",
+    "country": "Japan",
+    "latitude": 28.37766139990437,
+    "longitude": 129.4938985,
+    "other_names": {
+      "name": "奄美市",
+      "name:ar": "أمامي، كاغوشيما",
+      "name:cs": "Amami",
+      "name:de": "Amami",
+      "name:en": "Amami",
+      "name:es": "Amami",
+      "name:fr": "Amami",
+      "name:ja": "奄美市",
+      "name:ko": "아마미시",
+      "name:zh": "奄美市",
+      "int_name": "Amami",
+      "name:ja_rm": "Amami-Shi",
+      "name:ja_kana": "あまみし",
+      "name:zh-Hans": "奄美市",
+      "name:zh-Hant": "奄美市"
+    }
+  },
+  {
+    "name": "Amarah",
+    "country": "Iraq",
+    "latitude": 31.849770799614586,
+    "longitude": 47.1496466,
+    "other_names": {
+      "name": "العمارة‎",
+      "name:ar": "العمارة‎",
+      "name:cs": "Amára",
+      "name:de": "Amara",
+      "name:en": "Amarah",
+      "name:es": "Amara",
+      "name:et": "Al-‘Amārah",
+      "name:fi": "Amara",
+      "name:fr": "Al-Amara",
+      "name:hi": "अमारा",
+      "name:ja": "アマーラ",
+      "name:pl": "Al-Amara",
+      "name:ru": "Эль-Амара",
+      "name:uk": "Ель-Амара",
+      "name:ar-Latn": "Al ‘Amārah"
+    }
+  },
+  {
+    "name": "Amaravati",
+    "country": "India",
+    "latitude": 16.509667900082206,
+    "longitude": 80.5184535,
+    "other_names": {
+      "name": "Amaravati",
+      "name:hi": "अमरावती",
+      "name:kn": "ಅಮರಾವತೀ",
+      "name:te": "అమరావతి"
+    }
+  },
+  {
+    "name": "Amarillo",
+    "country": "United States Of America",
+    "latitude": 35.20721849966638,
+    "longitude": -101.83382460000001,
+    "other_names": {
+      "name": "Amarillo",
+      "name:en": "Amarillo",
+      "name:ru": "Амарилло",
+      "name:uk": "Амарилло"
+    }
+  },
+  {
+    "name": "Amasya",
+    "country": "Turkey",
+    "latitude": 40.65032480035128,
+    "longitude": 35.8329148,
+    "other_names": {
+      "name": "Amasya",
+      "name:ar": "أماصيا",
+      "name:el": "Αμάσεια",
+      "name:hu": "Amasya",
+      "name:hy": "Ամասիայի մարզ",
+      "name:ka": "ამასია",
+      "name:ru": "Амасья"
+    }
+  },
+  {
+    "name": "Ambala",
+    "country": "India",
+    "latitude": 30.384367399706868,
+    "longitude": 76.77042100000001,
+    "other_names": {
+      "name": "Ambala",
+      "name:de": "Ambala",
+      "name:en": "Ambala",
+      "name:es": "Ambala",
+      "name:fr": "Ambala",
+      "name:he": "אמבלה",
+      "name:hi": "अम्बाला",
+      "name:ja": "アンバーラー",
+      "name:kn": "ಅಂಬಾಲ",
+      "name:ml": "അംബാല",
+      "name:pa": "ਅੰਬਾਲਾ",
+      "name:ru": "Амбала",
+      "name:ta": "அம்பாலா"
+    }
+  },
+  {
+    "name": "Ambam",
+    "country": "Cameroon",
+    "latitude": 2.385964299745763,
+    "longitude": 11.272196499999998,
+    "other_names": {
+      "name": "Ambam"
+    }
+  },
+  {
+    "name": "Ambato",
+    "country": "Ecuador",
+    "latitude": -1.242241299880454,
+    "longitude": -78.6287594,
+    "other_names": {
+      "name": "Ambato",
+      "official_name": "San Juan de Ambato"
+    }
+  },
+  {
+    "name": "Ambikapur",
+    "country": "India",
+    "latitude": 23.122634300379147,
+    "longitude": 83.1981886,
+    "other_names": {
+      "name": "Ambikapur",
+      "name:en": "Ambikapur",
+      "name:he": "אמביקפור",
+      "name:hi": "अम्बिकापुर",
+      "name:kn": "ಅಂಭಿಕಪುರ್",
+      "alt_name:hi": "अंबिकापुर"
+    }
+  },
+  {
+    "name": "Ambo",
+    "country": "Ethiopia",
+    "latitude": 8.982103999400984,
+    "longitude": 37.8554406,
+    "other_names": {
+      "name": "አምቦ / Ambo",
+      "name:am": "አምቦ",
+      "name:en": "Ambo",
+      "name:fr": "Ambo"
+    }
+  },
+  {
+    "name": "Ambon",
+    "country": "Indonesia",
+    "latitude": -3.695943399716277,
+    "longitude": 128.178785,
+    "other_names": {
+      "name": "Ambon",
+      "name:en": "Ambon",
+      "name:ja": "アンボン",
+      "name:ru": "Амбон",
+      "name:uk": "Амбон",
+      "name:zh": "安汶"
+    }
+  },
+  {
+    "name": "Am-Djarass",
+    "country": "Chad",
+    "latitude": 16.06628790003211,
+    "longitude": 22.835044799999995,
+    "other_names": {
+      "name": "Amdjarass أم جرس",
+      "name:ar": "أم جرس",
+      "name:en": "Am-Djarass",
+      "name:fa": "ام جرس",
+      "name:fr": "Amdjarass",
+      "name:ks": "ام جرس",
+      "name:ur": "ام جرس",
+      "alt_name": "Amdjarass;Am Djarass"
+    }
+  },
+  {
+    "name": "Amdo",
+    "country": "China",
+    "latitude": 32.26761519959971,
+    "longitude": 91.68107129999999,
+    "other_names": {
+      "name": "安多县",
+      "name:bo": "ཨ་མདོ",
+      "name:en": "Amdo",
+      "name:ja": "アムド 県",
+      "name:ru": "Амдо",
+      "name:uk": "Амдо",
+      "name:vi": "Amdo",
+      "name:zh": "安多县",
+      "alt_name": "安多;Amdo;An-to-mai-ma-chan;An-to-mai-ma;Pagnag;An-tu-mai;An-to;Pana;བྲག་ནག་;ཨ་མདོ་རྫོང་",
+      "alt_name:vi": "An Đa",
+      "name:zh-Hant": "安多縣",
+      "name:zh_pinyin": "Ānduō"
+    }
+  },
+  {
+    "name": "Amenab",
+    "country": "Sudan",
+    "latitude": 21.77522290040992,
+    "longitude": 33.58937709999999,
+    "other_names": {
+      "name": "أميناب",
+      "name:en": "Amenab",
+      "name:es": "Amenab",
+      "name:fr": "Amenab"
+    }
+  },
+  {
+    "name": "Americana",
+    "country": "Brazil",
+    "latitude": -22.739246300102355,
+    "longitude": -47.3306032,
+    "other_names": {
+      "name": "Americana"
+    }
+  },
+  {
+    "name": "Amersfoort",
+    "country": "Netherlands",
+    "latitude": 52.15624989910535,
+    "longitude": 5.389694399999999,
+    "other_names": {
+      "name": "Amersfoort",
+      "name:el": "Αμερσφόρτ",
+      "name:fy": "Amersfoart",
+      "name:lt": "Amersfortas",
+      "name:nl": "Amersfoort",
+      "name:ru": "Амерсфорт",
+      "name:sr": "Амерсфорт",
+      "name:uk": "Амерсфорт",
+      "name:zh": "阿默斯福特",
+      "name:carnaval": "Trekkersgat"
+    }
+  },
+  {
+    "name": "Ames",
+    "country": "United States Of America",
+    "latitude": 42.026770300488224,
+    "longitude": -93.6170554,
+    "other_names": {
+      "name": "Ames",
+      "name:ru": "Эймс"
+    }
+  },
+  {
+    "name": "Amesbury",
+    "country": "United States Of America",
+    "latitude": 42.85795360053251,
+    "longitude": -70.93009209999998,
+    "other_names": {
+      "name": "Amesbury"
+    }
+  },
+  {
+    "name": "Amiens",
+    "country": "France",
+    "latitude": 49.89417079947651,
+    "longitude": 2.2956951,
+    "other_names": {
+      "name": "Amiens",
+      "name:ar": "أميان",
+      "name:be": "Ам’ен",
+      "name:br": "Añmieñ",
+      "name:el": "Αμιένη",
+      "name:eo": "Amieno",
+      "name:fa": "امیان",
+      "name:fr": "Amiens",
+      "name:he": "אמיין",
+      "name:hu": "Amiens",
+      "name:hy": "Ամյեն",
+      "name:ja": "アミアン",
+      "name:ka": "ამიენი",
+      "name:ko": "아미앵",
+      "name:la": "Samarobriva",
+      "name:lt": "Amjenas",
+      "name:mr": "आमियां",
+      "name:oc": "Amians",
+      "name:ru": "Амьен",
+      "name:sr": "Амјен",
+      "name:th": "อาเมียง",
+      "name:uk": "Ам’ен",
+      "name:ur": "امیان",
+      "name:zh": "亞眠",
+      "name:pcd": "Anmien",
+      "name:zh-Hans": "亚眠",
+      "name:zh-Hant": "亞眠"
+    }
+  },
+  {
+    "name": "Amman",
+    "country": "Jordan",
+    "latitude": 31.95156939961044,
+    "longitude": 35.9239625,
+    "other_names": {
+      "name": "عمان",
+      "name:am": "አማን",
+      "name:ar": "عمان",
+      "name:be": "Аман",
+      "name:bg": "Аман",
+      "name:bn": "আম্মান",
+      "name:bo": "ཨམ་མན།",
+      "name:bs": "Aman",
+      "name:cs": "Ammán",
+      "name:cv": "Амман",
+      "name:da": "Amman",
+      "name:de": "Amman",
+      "name:el": "Αμμάν",
+      "name:en": "Amman",
+      "name:eo": "Amano",
+      "name:es": "Ammán",
+      "name:et": "Amman",
+      "name:eu": "Amman",
+      "name:fa": "امان",
+      "name:fi": "Amman",
+      "name:fr": "Amman",
+      "name:gl": "Amán - عمان",
+      "name:he": "רבת עמון",
+      "name:hi": "अम्मान",
+      "name:hr": "Amman",
+      "name:ht": "Amàn",
+      "name:hu": "Ammán",
+      "name:hy": "Ամման",
+      "name:is": "Amman",
+      "name:it": "Amman",
+      "name:ja": "アンマン",
+      "name:ka": "ამანი",
+      "name:kk": "Амман",
+      "name:kn": "ಅಮ್ಮಾನ್",
+      "name:ko": "암만",
+      "name:ks": "عمان",
+      "name:ku": "Amman",
+      "name:lt": "Amanas",
+      "name:lv": "Ammāna",
+      "name:mk": "Аман",
+      "name:ml": "അമ്മാൻ",
+      "name:mn": "Амман",
+      "name:mr": "अम्मान",
+      "name:nl": "Amman",
+      "name:oc": "Amman",
+      "name:os": "Амман",
+      "name:pl": "Amman",
+      "name:pt": "Amã",
+      "name:ru": "Амман",
+      "name:sk": "Ammán",
+      "name:sl": "Aman",
+      "name:sr": "Аман",
+      "name:sv": "Amman",
+      "name:ta": "அம்மான்",
+      "name:tg": "Аммон",
+      "name:th": "อัมมาน",
+      "name:tt": "Амман",
+      "name:ug": "ئاممان",
+      "name:uk": "Амман",
+      "name:ur": "عمان",
+      "name:yi": "אמאן",
+      "name:zh": "安曼",
+      "int_name": "Amman",
+      "name:arc": "ܥܡܐܢ",
+      "name:ckb": "عەممان",
+      "name:mzn": "امان",
+      "name:nah": "Ammān",
+      "name:nov": "Aman",
+      "name:pnb": "عمان شہر",
+      "name:wuu": "安曼",
+      "alt_name:ar": "عمّان",
+      "name:bat-smg": "Amans",
+      "name:zh-Hans": "安曼",
+      "name:zh-Hant": "安曼"
+    }
+  }
+]

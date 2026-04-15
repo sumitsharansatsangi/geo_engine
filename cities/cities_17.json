@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Anápolis",
+    "country": "Brazil",
+    "latitude": -16.33328280045057,
+    "longitude": -48.9525756,
+    "other_names": {
+      "name": "Anápolis",
+      "name:bg": "Анаполис",
+      "name:ja": "アナポリス",
+      "name:kk": "Анаполис",
+      "name:ko": "아나폴리스",
+      "name:lt": "Anapolis",
+      "name:mk": "Анаполис",
+      "name:pt": "Anápolis",
+      "name:ru": "Анаполис",
+      "name:sr": "Анаполис",
+      "name:zh": "阿纳波利斯"
+    }
+  },
+  {
+    "name": "Anchorage",
+    "country": "United States Of America",
+    "latitude": 61.21631290173794,
+    "longitude": -149.89485199999996,
+    "other_names": {
+      "name": "Anchorage",
+      "name:ar": "أنكوريج",
+      "name:en": "Anchorage",
+      "name:he": "אנקורג'",
+      "name:ko": "앵커리지",
+      "name:lt": "Ankoridžas",
+      "name:ru": "Анкоридж",
+      "name:sr": "Енкориџ",
+      "name:uk": "Анкоридж",
+      "name:zh": "安克雷奇 / 安克拉治",
+      "name:ast": "Anchorage",
+      "name:hak": "Anchorage",
+      "name:nan": "Anchorage",
+      "name:tfn": "Dgheyaytnu",
+      "name:zh-Hans": "安克雷奇",
+      "name:zh-Hant": "安克拉治"
+    }
+  },
+  {
+    "name": "Ancona",
+    "country": "Italy",
+    "latitude": 43.617013700541065,
+    "longitude": 13.517098199999998,
+    "other_names": {
+      "name": "Ancona",
+      "name:ar": "أنكونا",
+      "name:el": "Ανκόνα",
+      "name:en": "Ancona",
+      "name:fa": "آنکونا",
+      "name:fr": "Ancône",
+      "name:he": "אנקונה",
+      "name:it": "Ancona",
+      "name:lt": "Ankona",
+      "name:pl": "Ankona",
+      "name:ru": "Анкона",
+      "name:sl": "Ankona",
+      "name:sr": "Анкона",
+      "name:uk": "Анкона",
+      "name:zh": "安科纳",
+      "name:zh-Hant": "安科納"
+    }
+  },
+  {
+    "name": "Anda",
+    "country": "China",
+    "latitude": 46.411433100274074,
+    "longitude": 125.32855719999998,
+    "other_names": {
+      "name": "安达市",
+      "name:en": "Anda",
+      "name:vi": "An Đạt",
+      "name:zh": "安达市",
+      "alt_name": "安达;An-ta Hsien;Anda Xian",
+      "name:zh-Hant": "安達市"
+    }
+  },
+  {
+    "name": "Anderson",
+    "country": "United States Of America",
+    "latitude": 34.50686009962259,
+    "longitude": -82.6506264,
+    "other_names": {
+      "name": "Anderson"
+    }
+  },
+  {
+    "name": "Andijan",
+    "country": "Uzbekistan",
+    "latitude": 40.77398304415682,
+    "longitude": 72.3435943043043,
+    "other_names": {
+      "name": "Andijon",
+      "name:en": "Andijan",
+      "name:fr": "Andijan",
+      "name:ja": "アンディジャン",
+      "name:ru": "Андижан",
+      "name:uk": "Андижан"
+    }
+  },
+  {
+    "name": "Andijan",
+    "country": "Uzbekistan",
+    "latitude": 40.78334710036724,
+    "longitude": 72.3506746,
+    "other_names": {
+      "name": "Andijon",
+      "name:en": "Andijan",
+      "name:fr": "Andijan",
+      "name:ja": "アンディジャン",
+      "name:nl": "Andizan",
+      "name:ru": "Андижан",
+      "name:uk": "Андижан",
+      "name:uz-cyr": "Андижон"
+    }
+  },
+  {
+    "name": "Andimeshk",
+    "country": "Iran",
+    "latitude": 32.45832499959482,
+    "longitude": 48.35211369999999,
+    "other_names": {
+      "name": "اندیمشک",
+      "name:cs": "Andimešk",
+      "name:en": "Andimeshk",
+      "name:ja": "アンディーメシュク",
+      "name:ku": "Andimesk",
+      "name:ru": "Эндимешк"
+    }
+  },
+  {
+    "name": "Anding",
+    "country": "China",
+    "latitude": 35.581421499696546,
+    "longitude": 104.6080096,
+    "other_names": {
+      "name": "安定区",
+      "name:en": "Anding",
+      "name:vi": "An Định",
+      "name:zh": "安定",
+      "alt_name": "安定区;Anding District",
+      "name:zh-Hant": "安定區",
+      "name:zh_pinyin": "Anding Qu"
+    }
+  },
+  {
+    "name": "Andong-si",
+    "country": "South Korea",
+    "latitude": 36.563488599795974,
+    "longitude": 128.7260798,
+    "other_names": {
+      "name": "안동시",
+      "name:be": "Андон",
+      "name:de": "Andong",
+      "name:en": "Andong-si",
+      "name:es": "Andong",
+      "name:et": "Andong",
+      "name:fr": "Andong",
+      "name:ja": "安東市",
+      "name:ko": "안동시",
+      "name:ru": "Андон",
+      "name:uk": "Андон",
+      "name:zh": "安东市",
+      "int_name": "Andong",
+      "name:ko-Hani": "安東市",
+      "name:ko-Latn": "Andong-si",
+      "name:zh-Hant": "安東市"
+    }
+  },
+  {
+    "name": "Andria",
+    "country": "Italy",
+    "latitude": 41.227646300416765,
+    "longitude": 16.2954346,
+    "other_names": {
+      "name": "Andria",
+      "name:ar": "أندريا",
+      "name:el": "Άντρια",
+      "name:ru": "Андрия",
+      "name:zh": "安德里亞"
+    }
+  },
+  {
+    "name": "Anfu",
+    "country": "China",
+    "latitude": 27.394517000014023,
+    "longitude": 114.61543149999999,
+    "other_names": {
+      "name": "安福县",
+      "name:en": "Anfu",
+      "name:vi": "An Phúc",
+      "name:zh": "安福县",
+      "alt_name": "安福;Anfu County",
+      "name:zh-Hant": "安福縣",
+      "name:zh_pinyin": "Anfu Xian"
+    }
+  },
+  {
+    "name": "Ang'angxi",
+    "country": "China",
+    "latitude": 47.1571075001285,
+    "longitude": 123.8018548,
+    "other_names": {
+      "name": "昂昂溪区",
+      "name:en": "Ang'angxi",
+      "name:ru": "Анъанси",
+      "name:vi": "Ngang Ngang Khê",
+      "name:zh": "昂昂溪区",
+      "alt_name": "昂昂溪",
+      "name:zh-Hant": "昂昂溪區",
+      "name:zh_pinyin": "Áng'ángxī Qū"
+    }
+  },
+  {
+    "name": "Angarsk",
+    "country": "Russia",
+    "latitude": 52.5311116990872,
+    "longitude": 103.8826109,
+    "other_names": {
+      "name": "Ангарск",
+      "name:de": "Angarsk",
+      "name:en": "Angarsk",
+      "name:et": "Angarsk",
+      "name:fr": "Angarsk",
+      "name:ja": "アンガルスク",
+      "name:ko": "안가르스크",
+      "name:lt": "Angarskas",
+      "name:pl": "Angarsk",
+      "name:ru": "Ангарск",
+      "name:uk": "Ангарськ",
+      "int_name": "Angarsk"
+    }
+  },
+  {
+    "name": "Angarsk",
+    "country": "Russia",
+    "latitude": 52.52353133107093,
+    "longitude": 103.90353096462002,
+    "other_names": {
+      "name": "Ангарск",
+      "name:de": "Angarsk",
+      "name:en": "Angarsk",
+      "name:et": "Angarsk",
+      "name:fr": "Angarsk",
+      "name:ja": "アンガルスク",
+      "name:ru": "Ангарск",
+      "name:uk": "Ангарськ",
+      "name:zh": "安加尔斯克",
+      "int_name": "Angarsk"
+    }
+  },
+  {
+    "name": "Angeles",
+    "country": "Philippines",
+    "latitude": 15.139965899923833,
+    "longitude": 120.58791820000002,
+    "other_names": {
+      "name": "Angeles",
+      "name:en": "Angeles",
+      "name:ja": "アンヘレス",
+      "name:ru": "Анхелес",
+      "name:tl": "Angeles",
+      "name:uk": "Анхелес",
+      "name:zh": "安赫勒斯",
+      "name:pam": "Angeles",
+      "alt_name:pam": "Angeles Lakanbalen",
+      "official_name:en": "City of Angeles",
+      "official_name:es": "Ciudad de Ángeles",
+      "official_name:tl": "Lungsod ng Angeles",
+      "official_name:pam": "Lakanbalen ning Angeles"
+    }
+  },
+  {
+    "name": "Angers",
+    "country": "France",
+    "latitude": 47.473988400059476,
+    "longitude": -0.5515588,
+    "other_names": {
+      "name": "Angers",
+      "name:am": "አንዤ",
+      "name:ar": "أنجيه",
+      "name:az": "Anje",
+      "name:be": "Анжэ",
+      "name:bg": "Анже",
+      "name:br": "Añje",
+      "name:el": "Ανζέ",
+      "name:eo": "Anĝero",
+      "name:fa": "آنژه",
+      "name:fr": "Angers",
+      "name:he": "אנז'ה",
+      "name:ht": "Anje",
+      "name:ja": "アンジェ",
+      "name:ka": "ანჟე",
+      "name:ko": "앙제",
+      "name:la": "Andecavis",
+      "name:lt": "Anžė",
+      "name:lv": "Anžē",
+      "name:mr": "अँजी",
+      "name:oc": "Angieus",
+      "name:ru": "Анже",
+      "name:sr": "Анже",
+      "name:uk": "Анже",
+      "name:ur": "آنژہ",
+      "name:uz": "Anje",
+      "name:zh": "昂热",
+      "name:crh": "Anje",
+      "name:mrj": "Анже",
+      "name:mzn": "آنژو",
+      "name:pnb": "اینگرز",
+      "name:vec": "Anzier",
+      "alt_name:eo": "Anĝevo",
+      "old_name:la": "Juliomagus"
+    }
+  },
+  {
+    "name": "Angol",
+    "country": "Chile",
+    "latitude": -37.79878700052751,
+    "longitude": -72.7086097,
+    "other_names": {
+      "name": "Angol"
+    }
+  },
+  {
+    "name": "Angra do Heroísmo",
+    "country": "Portugal",
+    "latitude": 38.65491467158659,
+    "longitude": -27.219511242350407,
+    "other_names": {
+      "name": "Angra do Heroísmo"
+    }
+  },
+  {
+    "name": "Angra do Heroísmo",
+    "country": "Portugal",
+    "latitude": 38.65931670007649,
+    "longitude": -27.219557799999997,
+    "other_names": {
+      "name": "Angra do Heroísmo",
+      "name:ar": "آنغرا دو هروئيسمو",
+      "name:hu": "Angra do Heroismo",
+      "name:lt": "Angra do Heroišmas",
+      "name:ru": "Ангра-ду-Эроижму",
+      "name:sr": "Ангра до Ероизмо",
+      "alt_name": "Angra"
+    }
+  }
+]

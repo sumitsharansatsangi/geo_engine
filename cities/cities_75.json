@@ -1,0 +1,333 @@
+[
+  {
+    "name": "Cape Town",
+    "country": "South Africa",
+    "latitude": -33.92899199967751,
+    "longitude": 18.417396,
+    "other_names": {
+      "name": "Cape Town",
+      "name:af": "Kaapstad",
+      "name:ar": "كيب تون",
+      "name:cs": "Kapské město",
+      "name:da": "Kapstaden",
+      "name:de": "Kapstadt",
+      "name:en": "Cape Town",
+      "name:eo": "Kaburbo",
+      "name:es": "Ciudad del Cabo",
+      "name:et": "Kaplinn",
+      "name:fa": "کیپ تاون",
+      "name:fi": "Kapkaupunki",
+      "name:fr": "Le Cap",
+      "name:he": "קייפטאון",
+      "name:hu": "Fokváros",
+      "name:is": "Höfðaborg",
+      "name:it": "Città del Capo",
+      "name:ja": "ケープ タウン",
+      "name:kn": "ಕೇಪ್ಟೌನ್",
+      "name:ko": "케이프타운",
+      "name:lt": "Keiptaunas",
+      "name:mi": "Kēpa Tāone",
+      "name:nl": "Kaapstad",
+      "name:oc": "Lo Cap",
+      "name:pl": "Kapsztad",
+      "name:pt": "Cidade do Cabo",
+      "name:ru": "Кейптаун",
+      "name:sk": "Kapské mesto",
+      "name:sr": "Кејптаун",
+      "name:sv": "Kapstaden",
+      "name:ta": "கேப் டவுன்",
+      "name:ur": "کیپ ٹاؤن",
+      "name:xh": "iKapa",
+      "name:zh": "開普敦",
+      "name:ckb": "کەیپ تاون",
+      "alt_name:ar": "كيب تاون",
+      "name:zh-Hans": "开普敦"
+    }
+  },
+  {
+    "name": "Cap-Haitien",
+    "country": "Haiti And Domrep",
+    "latitude": 19.759523600360733,
+    "longitude": -72.2008068,
+    "other_names": {
+      "name": "Cap-Haïtien",
+      "name:en": "Cap-Haitien",
+      "name:es": "Cabo Haitiano",
+      "name:fr": "Cap-Haïtien",
+      "name:ht": "Okap",
+      "name:hu": "Cap-Haitien",
+      "name:oc": "Cap Aïcian",
+      "name:ru": "Кап-Аитьен",
+      "loc_name": "Okap",
+      "old_name": "Cap-François",
+      "alt_name:ht": "Kap Ayisyen",
+      "old_name:en": "Cape Haytian"
+    }
+  },
+  {
+    "name": "Capiatá",
+    "country": "Paraguay",
+    "latitude": -25.354817099728173,
+    "longitude": -57.4427315,
+    "other_names": {
+      "name": "Capiatá"
+    }
+  },
+  {
+    "name": "Capital Smart City Islamabad",
+    "country": "Pakistan",
+    "latitude": 33.45526525976501,
+    "longitude": 72.87354243245935,
+    "other_names": {
+      "name": "Capital Smart City Islamabad"
+    }
+  },
+  {
+    "name": "Caraballeda",
+    "country": "Venezuela",
+    "latitude": 10.61283869947246,
+    "longitude": -66.8498125,
+    "other_names": {
+      "name": "Caraballeda"
+    }
+  },
+  {
+    "name": "Caracas",
+    "country": "Venezuela",
+    "latitude": 10.506097999465833,
+    "longitude": -66.9146017,
+    "other_names": {
+      "name": "Caracas",
+      "name:ab": "Каракас",
+      "name:am": "ካራካስ",
+      "name:ar": "كراكاس",
+      "name:az": "Karakas",
+      "name:be": "Каракас",
+      "name:bg": "Каракас",
+      "name:bn": "কারাকাস",
+      "name:bo": "ཁ་ར་ཁ་སི",
+      "name:de": "Caracas",
+      "name:el": "Καράκας",
+      "name:en": "Caracas",
+      "name:eo": "Karakaso",
+      "name:es": "Caracas",
+      "name:fa": "کاراکاس",
+      "name:fr": "Caracas",
+      "name:fy": "Karakas",
+      "name:gu": "કારાકાસ",
+      "name:he": "קראקס",
+      "name:hi": "काराकास",
+      "name:ht": "Karakas",
+      "name:hu": "Caracas",
+      "name:hy": "Կարակաս",
+      "name:is": "Karakas",
+      "name:ja": "カラカス",
+      "name:ka": "კარაკასი",
+      "name:kn": "ಕಾರಕಸ್",
+      "name:ko": "카라카스",
+      "name:ku": "Caracas",
+      "name:la": "Caracae",
+      "name:lt": "Karakasas",
+      "name:lv": "Karakasa",
+      "name:mk": "Каракас",
+      "name:mr": "केरकस",
+      "name:my": "ကရာကက်စ်မြို့",
+      "name:nl": "Caracas",
+      "name:oc": "Caracas",
+      "name:os": "Каракас",
+      "name:pl": "Caracas",
+      "name:ru": "Каракас",
+      "name:sq": "Karakas",
+      "name:sr": "Каракас",
+      "name:sv": "Caracas",
+      "name:ta": "கரகஸ்",
+      "name:th": "การากัส",
+      "name:ug": "Karakas",
+      "name:uk": "Каракас",
+      "name:ur": "کراکس",
+      "name:yi": "קאראקאס",
+      "name:zh": "卡拉卡斯",
+      "name:ast": "Caraques",
+      "name:nov": "Karakas",
+      "name:pnb": "کراکس",
+      "name:tet": "Karakas",
+      "name:cbk-zam": "Ciudad de Caracas",
+      "name:be-tarask": "Каракас"
+    }
+  },
+  {
+    "name": "Caraguatatuba",
+    "country": "Brazil",
+    "latitude": -23.620279999980013,
+    "longitude": -45.41306,
+    "other_names": {
+      "name": "Caraguatatuba"
+    }
+  },
+  {
+    "name": "Caranavi",
+    "country": "Bolivia",
+    "latitude": -15.833975600428975,
+    "longitude": -67.5659334,
+    "other_names": {
+      "name": "Caranavi"
+    }
+  },
+  {
+    "name": "Carapicuíba",
+    "country": "Brazil",
+    "latitude": -23.52346729999384,
+    "longitude": -46.840680799999994,
+    "other_names": {
+      "name": "Carapicuíba"
+    }
+  },
+  {
+    "name": "Caraquet",
+    "country": "Canada",
+    "latitude": 47.79095809998701,
+    "longitude": -64.9491778,
+    "other_names": {
+      "name": "Caraquet"
+    }
+  },
+  {
+    "name": "Carbon Hill",
+    "country": "United States Of America",
+    "latitude": 33.896252322760716,
+    "longitude": -87.52418026163461,
+    "other_names": {
+      "name": "Carbon Hill"
+    }
+  },
+  {
+    "name": "Carbon Hill",
+    "country": "United States Of America",
+    "latitude": 33.87385678428737,
+    "longitude": -87.5027396155647,
+    "other_names": {
+      "name": "Carbon Hill"
+    }
+  },
+  {
+    "name": "Carcar",
+    "country": "Philippines",
+    "latitude": 10.10629389944335,
+    "longitude": 123.63936249999998,
+    "other_names": {
+      "name": "Carcar"
+    }
+  },
+  {
+    "name": "Cárdenas",
+    "country": "Cuba",
+    "latitude": 23.037140000382593,
+    "longitude": -81.20258159999999,
+    "other_names": {
+      "name": "Cárdenas",
+      "name:ru": "Карденас"
+    }
+  },
+  {
+    "name": "Cárdenas",
+    "country": "Mexico",
+    "latitude": 17.990878000233078,
+    "longitude": -93.3753314,
+    "other_names": {
+      "name": "Cárdenas",
+      "alt_name": "Heroica Cárdenas"
+    }
+  },
+  {
+    "name": "Cardiff",
+    "country": "Wales",
+    "latitude": 51.481654599174966,
+    "longitude": -3.1791934,
+    "other_names": {
+      "name": "Cardiff",
+      "name:ar": "كارديف",
+      "name:be": "Кардыф",
+      "name:br": "Kerdiz",
+      "name:cy": "Caerdydd",
+      "name:el": "Κάρντιφ",
+      "name:en": "Cardiff",
+      "name:eo": "Kardifo",
+      "name:fa": "کاردیف",
+      "name:fr": "Cardiff",
+      "name:gv": "Cayr Deeth",
+      "name:he": "קרדיף",
+      "name:hi": "कार्डिफ़",
+      "name:is": "Cardiff",
+      "name:ja": "カーディフ",
+      "name:kn": "ಕಾರ್ಡಿಫ್",
+      "name:ko": "카디프",
+      "name:lv": "Kārdifa",
+      "name:mk": "Кардиф",
+      "name:ru": "Кардифф",
+      "name:sr": "Кардиф",
+      "name:sv": "Cardiff",
+      "name:uk": "Кардіфф",
+      "name:ur": "کارڈف",
+      "name:zh": "卡迪夫"
+    }
+  },
+  {
+    "name": "Cariacica",
+    "country": "Brazil",
+    "latitude": -20.26320200037156,
+    "longitude": -40.416549,
+    "other_names": {
+      "name": "Cariacica",
+      "name:bg": "Кариасика",
+      "name:ja": "カリアシカ",
+      "name:kk": "Кариасика",
+      "name:lt": "Kariasika",
+      "name:lv": "Karjakika",
+      "name:mk": "Кариасика",
+      "name:pt": "Cariacica",
+      "name:ru": "Кариасика",
+      "name:sr": "Каријасика",
+      "name:zh": "卡里亞西卡"
+    }
+  },
+  {
+    "name": "Caribou",
+    "country": "United States Of America",
+    "latitude": 46.86055670018944,
+    "longitude": -68.01196769999999,
+    "other_names": {
+      "name": "Caribou",
+      "name:ko": "카리부"
+    }
+  },
+  {
+    "name": "Caripito",
+    "country": "Venezuela",
+    "latitude": 10.112385799443661,
+    "longitude": -63.103437,
+    "other_names": {
+      "name": "Caripito",
+      "name:ru": "Карипито"
+    }
+  },
+  {
+    "name": "Carlisle",
+    "country": "England",
+    "latitude": 54.89484779938932,
+    "longitude": -2.9362310999999996,
+    "other_names": {
+      "name": "Carlisle",
+      "name:cy": "Caerliwelydd",
+      "name:en": "Carlisle",
+      "name:gd": "Cathair Luail",
+      "name:hu": "Carlisle",
+      "name:ko": "칼라일",
+      "name:la": "Carliolum",
+      "name:lt": "Karlailas",
+      "name:mk": "Карлајл",
+      "name:ru": "Карлайл",
+      "name:sr": "Карлајл",
+      "name:uk": "Карлайл"
+    }
+  }
+]

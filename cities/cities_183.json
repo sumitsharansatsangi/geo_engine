@@ -1,0 +1,321 @@
+[
+  {
+    "name": "Hongta",
+    "country": "China",
+    "latitude": 24.344171500309553,
+    "longitude": 102.539067,
+    "other_names": {
+      "name": "红塔区",
+      "name:en": "Hongta",
+      "name:zh": "红塔区",
+      "alt_name": "红塔;Hongta District",
+      "name:zh-Hant": "紅塔區",
+      "name:zh_pinyin": "Hóngtǎ Qū"
+    }
+  },
+  {
+    "name": "Hongtong",
+    "country": "China",
+    "latitude": 36.252026299761496,
+    "longitude": 111.6705315,
+    "other_names": {
+      "name": "洪洞县",
+      "name:en": "Hongtong",
+      "name:zh": "洪洞县",
+      "alt_name": "洪洞;Hongtong Xian;Hung-tung Hsien;Hongdong Xian;Hongdong;Hongdong Hongtong County",
+      "name:zh-Hant": "洪洞縣"
+    }
+  },
+  {
+    "name": "Hongwei",
+    "country": "China",
+    "latitude": 41.214821300415444,
+    "longitude": 123.1910699,
+    "other_names": {
+      "name": "宏伟区",
+      "name:en": "Hongwei",
+      "name:ja": "宏偉区",
+      "name:ko": "훙웨이구",
+      "name:zh": "宏伟区",
+      "alt_name": "宏伟;Hongwei District",
+      "name:zh-Hant": "宏偉區"
+    }
+  },
+  {
+    "name": "Hongya",
+    "country": "China",
+    "latitude": 29.907642199748096,
+    "longitude": 103.37051869999999,
+    "other_names": {
+      "name": "洪雅县",
+      "name:en": "Hongya",
+      "name:ja": "洪雅県",
+      "name:ru": "Хунчуань",
+      "name:zh": "洪雅县",
+      "alt_name": "洪雅;Hongya County",
+      "name:zh-Hant": "洪雅縣"
+    }
+  },
+  {
+    "name": "Hongyuan",
+    "country": "China",
+    "latitude": 32.79680029958916,
+    "longitude": 102.5414069,
+    "other_names": {
+      "name": "红原县",
+      "name:en": "Hongyuan",
+      "name:zh": "红原县",
+      "alt_name": "红原;邛溪镇;Hongyuan County",
+      "name:zh-Hant": "紅原縣"
+    }
+  },
+  {
+    "name": "Hongze",
+    "country": "China",
+    "latitude": 33.29265969958806,
+    "longitude": 118.8415007,
+    "other_names": {
+      "name": "洪泽区",
+      "name:en": "Hongze",
+      "name:zh": "洪泽区",
+      "name:zh-Hant": "洪澤區"
+    }
+  },
+  {
+    "name": "Honiara",
+    "country": "Solomon Islands",
+    "latitude": -9.43107689986523,
+    "longitude": 159.95525519999998,
+    "other_names": {
+      "name": "Honiara",
+      "name:am": "ሆኒያራ",
+      "name:ar": "هونيارا",
+      "name:be": "Ханіяра",
+      "name:bg": "Хониара",
+      "name:bn": "হনিয়ারা",
+      "name:bo": "ཧོ་ཉི་ཡ་ར།",
+      "name:de": "Honiara",
+      "name:el": "Ονιάρα",
+      "name:en": "Honiara",
+      "name:eo": "Honiaro",
+      "name:es": "Honiara",
+      "name:fa": "هونیارا",
+      "name:fr": "Honiara",
+      "name:he": "הוניארה",
+      "name:ht": "Onyara",
+      "name:hu": "Honiara",
+      "name:is": "Honíara",
+      "name:ja": "ホニアラ",
+      "name:ka": "ჰონიარა",
+      "name:ko": "호니아라",
+      "name:lt": "Honiara",
+      "name:mk": "Хонијара",
+      "name:mr": "होनियारा",
+      "name:oc": "Honiara",
+      "name:pl": "Honiara",
+      "name:ru": "Хониара",
+      "name:sr": "Хонијара",
+      "name:sv": "Honiara",
+      "name:ta": "ஓனியாரா",
+      "name:th": "โฮนีอารา",
+      "name:uk": "Хоніара",
+      "name:ur": "ہونیارا",
+      "name:zh": "霍尼亞拉",
+      "name:sah": "Хониара",
+      "name:zh-Hans": "霍尼亚拉",
+      "name:zh-Hant": "荷尼阿拉",
+      "name:be-tarask": "Ханіяра"
+    }
+  },
+  {
+    "name": "Honjo",
+    "country": "Japan",
+    "latitude": 36.243593699760595,
+    "longitude": 139.1916278,
+    "other_names": {
+      "name": "本庄市",
+      "name:en": "Honjo",
+      "name:fr": "Honjō",
+      "name:ja": "本庄市",
+      "name:ko": "혼조시",
+      "name:ru": "Хондзё",
+      "name:uk": "Хондзьо",
+      "name:ja-Hira": "ほんじょうし"
+    }
+  },
+  {
+    "name": "Honolulu",
+    "country": "United States Of America",
+    "latitude": 21.304547000408572,
+    "longitude": -157.855676,
+    "other_names": {
+      "name": "Honolulu",
+      "name:de": "Honolulu",
+      "name:en": "Honolulu",
+      "name:ja": "ホノルル",
+      "name:lt": "Honolulu",
+      "name:pl": "Honolulu",
+      "name:ru": "Гонолулу",
+      "name:uk": "Гонолулу",
+      "name:zh": "檀香山 / 火奴鲁鲁",
+      "name:haw": "Honolulu"
+    }
+  },
+  {
+    "name": "Hopang",
+    "country": "China",
+    "latitude": 23.424843900365413,
+    "longitude": 98.75230689999998,
+    "other_names": {
+      "name": "ဟိုပန်",
+      "pcode": "MMR015021701",
+      "name:en": "Hopang",
+      "name:my": "ဟိုပန်",
+      "name:ur": "ہوپانگ",
+      "name:zh": "户板",
+      "name:shn": "ႁူဝ်ပၢင်ႇ"
+    }
+  },
+  {
+    "name": "Hopang",
+    "country": "Myanmar",
+    "latitude": 23.424843900365413,
+    "longitude": 98.75230689999998,
+    "other_names": {
+      "name": "ဟိုပန်",
+      "pcode": "MMR015021701",
+      "name:en": "Hopang",
+      "name:my": "ဟိုပန်",
+      "name:ur": "ہوپانگ",
+      "name:zh": "户板",
+      "name:shn": "ႁူဝ်ပၢင်ႇ"
+    }
+  },
+  {
+    "name": "Hopkinsville",
+    "country": "United States Of America",
+    "latitude": 36.86576509983174,
+    "longitude": -87.4889532,
+    "other_names": {
+      "name": "Hopkinsville"
+    }
+  },
+  {
+    "name": "Horinger",
+    "country": "China",
+    "latitude": 40.379187000317366,
+    "longitude": 111.8159709,
+    "other_names": {
+      "name": "和林格尔县",
+      "name:en": "Horinger",
+      "name:ja": "ホリンゴル県",
+      "name:mn": "ᠬᠣᠷᠢᠨ ᠭᠡᠷ ᠰᠢᠶᠠᠨ",
+      "name:ru": "Хорингэр",
+      "name:zh": "和林格尔县",
+      "name:zh-Hant": "和林格爾縣",
+      "name:zh_pinyin": "Hé lín gé ěr xiàn"
+    }
+  },
+  {
+    "name": "Horlivka",
+    "country": "Ukraine",
+    "latitude": 48.30586859986382,
+    "longitude": 38.002766400000006,
+    "other_names": {
+      "name": "Горлівка",
+      "name:de": "Horliwka",
+      "name:en": "Horlivka",
+      "name:eo": "Horlivka",
+      "name:es": "Hórlivka",
+      "name:et": "Gorlivka",
+      "name:fr": "Horlivka",
+      "name:hu": "Horlivka",
+      "name:it": "Horlivka",
+      "name:nl": "Horlivka",
+      "name:pl": "Gorłówka",
+      "name:ru": "Горловка",
+      "name:sr": "Горловка",
+      "name:tt": "Һорливка",
+      "name:uk": "Горлівка",
+      "alt_name:de": "Gorlowka",
+      "alt_name:en": "Gorlovka"
+    }
+  },
+  {
+    "name": "Horqin Left Back Banner",
+    "country": "China",
+    "latitude": 42.95748340053546,
+    "longitude": 122.33458849999997,
+    "other_names": {
+      "name": "科尔沁左翼后旗",
+      "name:en": "Horqin Left Back Banner",
+      "name:ja": "ホルチン左翼後旗",
+      "name:mn": "Қорчин Жэгүн арун Қоыиту",
+      "name:zh": "科尔沁左翼后旗",
+      "old_name": "Büve vang qosigu",
+      "alt_name:mn": "ᠬᠣᠷᠴᠢᠨ ᠵᠡᠭᠦᠨ ᠭᠠᠷᠤᠨ ᠬᠣᠶᠢᠲᠤ ᠬᠣᠰᠢᠭᠤ;Qorčin Jegün Ɣarun Qoyitu qosiɣu;Qorcin jegün garun qoyidu qosigu",
+      "name:zh-Hant": "科爾沁左翼後旗",
+      "name:zh_pinyin": "Kē'ěrqìn Zuǒyì Hòuqí"
+    }
+  },
+  {
+    "name": "Horqin Left Middle Banner",
+    "country": "China",
+    "latitude": 44.12671230052793,
+    "longitude": 123.3129394,
+    "other_names": {
+      "name": "科尔沁左翼中旗",
+      "name:en": "Horqin Left Middle Banner",
+      "name:zh": "科尔沁左翼中旗",
+      "alt_name": "科尔沁左翼",
+      "name:zh-Hant": "科爾沁左翼中旗",
+      "official_name": "科尔沁左翼中旗"
+    }
+  },
+  {
+    "name": "Horqin Right Front Banner",
+    "country": "China",
+    "latitude": 46.07787840033025,
+    "longitude": 121.9468553,
+    "other_names": {
+      "name": "科尔沁右翼前旗",
+      "name:en": "Horqin Right Front Banner",
+      "name:zh": "科尔沁右翼前旗",
+      "name:zh-Hant": "科爾沁右翼前旗"
+    }
+  },
+  {
+    "name": "Horqin Right Middle Banner",
+    "country": "China",
+    "latitude": 45.04464040046392,
+    "longitude": 121.45599019999999,
+    "other_names": {
+      "name": "科尔沁右翼中旗",
+      "name:en": "Horqin Right Middle Banner",
+      "name:zh": "科尔沁右翼中旗",
+      "name:zh-Hant": "科爾沁右翼中旗"
+    }
+  },
+  {
+    "name": "Horsens",
+    "country": "Denmark",
+    "latitude": 55.861169599729955,
+    "longitude": 9.844477399999999,
+    "other_names": {
+      "name": "Horsens",
+      "name:lt": "Horsensas",
+      "name:ru": "Хорсенс",
+      "name:uk": "Хорсенс"
+    }
+  },
+  {
+    "name": "Horsham",
+    "country": "Australia",
+    "latitude": -36.71480990027898,
+    "longitude": 142.2018105,
+    "other_names": {
+      "name": "Horsham",
+      "name:ru": "Хоршем"
+    }
+  }
+]

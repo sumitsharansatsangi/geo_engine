@@ -1,0 +1,294 @@
+[
+  {
+    "name": "Vereeniging",
+    "country": "South Africa And Lesotho",
+    "latitude": -26.67472219955163,
+    "longitude": 27.926111099999996,
+    "other_names": {
+      "name": "Vereeniging",
+      "name:ar": "فيرينخن",
+      "name:en": "Vereeniging",
+      "name:ko": "페레이니힝",
+      "name:ru": "Феринихинг",
+      "name:uk": "Ферінігінг",
+      "alt_name:ar": "فيرينجنغ"
+    }
+  },
+  {
+    "name": "Veria",
+    "country": "Greece",
+    "latitude": 40.52153420033539,
+    "longitude": 22.2036834,
+    "other_names": {
+      "name": "Βέροια",
+      "name:bg": "Бер",
+      "name:de": "Veria",
+      "name:el": "Βέροια",
+      "name:en": "Veria",
+      "name:es": "Véria",
+      "name:et": "Véroia",
+      "name:fr": "Véria",
+      "name:hu": "Veria",
+      "name:it": "Veria",
+      "name:la": "Beroea",
+      "name:lt": "Verija",
+      "name:mk": "Бер",
+      "name:pt": "Véria",
+      "name:ro": "Veria",
+      "name:ru": "Верия",
+      "name:sr": "Бер",
+      "int_name": "Veroia"
+    }
+  },
+  {
+    "name": "Vermillion",
+    "country": "United States Of America",
+    "latitude": 42.7795273005298,
+    "longitude": -96.929101,
+    "other_names": {
+      "name": "Vermillion",
+      "name:ru": "Вермиллион"
+    }
+  },
+  {
+    "name": "Vernon",
+    "country": "Canada",
+    "latitude": 50.26686709939314,
+    "longitude": -119.27181569999999,
+    "other_names": {
+      "name": "Vernon"
+    }
+  },
+  {
+    "name": "Verona",
+    "country": "Italy",
+    "latitude": 45.43849580042049,
+    "longitude": 10.9924122,
+    "other_names": {
+      "name": "Verona",
+      "name:ar": "فيرونا",
+      "name:de": "Welsch-Bern",
+      "name:el": "Βερόνα",
+      "name:en": "Verona",
+      "name:eo": "Verono",
+      "name:fa": "ورونا",
+      "name:fr": "Vérone",
+      "name:hu": "Verona",
+      "name:it": "Verona",
+      "name:pl": "Werona",
+      "name:ru": "Верона",
+      "name:sr": "Верона",
+      "name:uk": "Верона",
+      "name:ur": "ویرونا",
+      "name:zh": "维罗纳",
+      "name:fur": "Verone",
+      "alt_name:de": "Dietrichsbern",
+      "old_name:de": "Welsch-Bern"
+    }
+  },
+  {
+    "name": "Vespasiano",
+    "country": "Brazil",
+    "latitude": -19.69409580041158,
+    "longitude": -43.9186521,
+    "other_names": {
+      "name": "Vespasiano"
+    }
+  },
+  {
+    "name": "Veszprém",
+    "country": "Hungary",
+    "latitude": 47.09280580014203,
+    "longitude": 17.9140147,
+    "other_names": {
+      "name": "Veszprém",
+      "name:de": "Wesprim",
+      "name:ru": "Веспрем",
+      "name:sk": "Vesprím",
+      "name:sr": "Веспрем",
+      "name:uk": "Веспрем",
+      "old_name:de": "Weißbrunn"
+    }
+  },
+  {
+    "name": "Viacha",
+    "country": "Bolivia",
+    "latitude": -16.65348640046103,
+    "longitude": -68.3021891,
+    "other_names": {
+      "name": "Viacha",
+      "name:ay": "Wiyacha",
+      "old_name:1551": "Tambo de Viacha"
+    }
+  },
+  {
+    "name": "Viamão",
+    "country": "Brazil",
+    "latitude": -30.081933799319614,
+    "longitude": -51.026192699999996,
+    "other_names": {
+      "name": "Viamão"
+    }
+  },
+  {
+    "name": "Viana do Castelo",
+    "country": "Portugal",
+    "latitude": 41.6948670004616,
+    "longitude": -8.831088,
+    "other_names": {
+      "name": "Viana do Castelo",
+      "name:ar": "فيانا دو كاستيلو",
+      "name:el": "Βιάνα ντο Καστέλο",
+      "name:zh-Hans": "维亚纳堡",
+      "name:zh-Hant": "維亞納堡"
+    }
+  },
+  {
+    "name": "Vibo Valentia",
+    "country": "Italy",
+    "latitude": 38.675932900078884,
+    "longitude": 16.099818599999995,
+    "other_names": {
+      "name": "Vibo Valentia",
+      "name:zh-Hans": "维博瓦伦蒂亚",
+      "name:zh-Hant": "維博瓦倫蒂亞"
+    }
+  },
+  {
+    "name": "Vicente López",
+    "country": "Argentina",
+    "latitude": -34.52444839979061,
+    "longitude": -58.50362819999999,
+    "other_names": {
+      "name": "Vicente López"
+    }
+  },
+  {
+    "name": "Vicenza",
+    "country": "Italy",
+    "latitude": 45.548830600406625,
+    "longitude": 11.547882499999998,
+    "other_names": {
+      "name": "Vicenza",
+      "name:el": "Βιτσέντσα",
+      "name:en": "Vicenza",
+      "name:fr": "Vicence",
+      "name:he": "ויצ'נצה",
+      "name:it": "Vicenza",
+      "name:ru": "Виченца",
+      "name:sr": "Виченца",
+      "name:uk": "Віченца",
+      "name:zh": "维琴察",
+      "name:fur": "Vicenze",
+      "name:vec": "Vicensa"
+    }
+  },
+  {
+    "name": "Victoria",
+    "country": "Malta",
+    "latitude": 36.042890699739836,
+    "longitude": 14.239847899999997,
+    "other_names": {
+      "name": "Ir-Rabat",
+      "name:ar": "الرباط",
+      "name:en": "Victoria",
+      "name:fr": "Rabat (Victoria)",
+      "name:it": "Rabat",
+      "name:ru": "Виктория",
+      "alt_name": "Rabat;Il-Belt Victoria",
+      "nat_name": "Rabat",
+      "alt_name:ar": "الرابات",
+      "old_name:ar": "فكتوريا",
+      "old_name:it": "Rabato del Castello"
+    }
+  },
+  {
+    "name": "Victoria",
+    "country": "Seychelles",
+    "latitude": -4.62320849968786,
+    "longitude": 55.452359,
+    "other_names": {
+      "name": "Victoria",
+      "name:ar": "فيكتوريا",
+      "name:en": "Victoria",
+      "name:fr": "Victoria",
+      "name:hu": "Victoria",
+      "name:ku": "Vîktorya",
+      "name:sv": "Victoria",
+      "name:ckb": "ڤیکتۆریا"
+    }
+  },
+  {
+    "name": "Victoria",
+    "country": "Canada",
+    "latitude": 48.428318199833846,
+    "longitude": -123.3649533,
+    "other_names": {
+      "name": "Victoria",
+      "name:ar": "فيكتوريا",
+      "name:en": "Victoria",
+      "name:oc": "Victòria",
+      "name:pl": "Victoria",
+      "name:ru": "Виктория",
+      "name:uk": "Вікторія"
+    }
+  },
+  {
+    "name": "Victoria",
+    "country": "United States Of America",
+    "latitude": 28.8202925998564,
+    "longitude": -96.98486459999998,
+    "other_names": {
+      "name": "Victoria",
+      "name:ru": "Виктория",
+      "name:uk": "Вікторія"
+    }
+  },
+  {
+    "name": "Victorias",
+    "country": "Philippines",
+    "latitude": 10.901341199491647,
+    "longitude": 123.0714943,
+    "other_names": {
+      "name": "Victorias",
+      "name:en": "Victorias",
+      "name:ja": "ビクトリアス",
+      "name:hil": "Victorias",
+      "alt_name:hil": "Syudad sang Victorias",
+      "official_name:hil": "Dakbanwa sang Victorias"
+    }
+  },
+  {
+    "name": "Victorville",
+    "country": "United States Of America",
+    "latitude": 34.536106699624085,
+    "longitude": -117.29115650000001,
+    "other_names": {
+      "name": "Victorville"
+    }
+  },
+  {
+    "name": "Vidin",
+    "country": "Romania",
+    "latitude": 43.985880900533125,
+    "longitude": 22.8773117,
+    "other_names": {
+      "name": "Видин",
+      "name:bg": "Видин",
+      "name:de": "Widin",
+      "name:el": "Βιδίνιο",
+      "name:en": "Vidin",
+      "name:et": "Vidin",
+      "name:fr": "Vidin",
+      "name:hr": "Vidin",
+      "name:nl": "Vidin",
+      "name:pl": "Widyń",
+      "name:ro": "Vidin",
+      "name:ru": "Видин",
+      "name:sr": "Видин",
+      "int_name": "Vidin",
+      "reg_name": "Diiu",
+      "old_name:ro": "Diiu"
+    }
+  }
+]

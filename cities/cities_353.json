@@ -1,0 +1,313 @@
+[
+  {
+    "name": "Padang Panjang",
+    "country": "Indonesia",
+    "latitude": -0.4654635999532328,
+    "longitude": 100.3932441,
+    "other_names": {
+      "name": "Padang Panjang",
+      "name:id": "Padang Panjang",
+      "name:ja": "パダン・パンジャン",
+      "name:ru": "Падангпанджанг",
+      "alt_name": "Padangpanjang"
+    }
+  },
+  {
+    "name": "Padang Sidempuan",
+    "country": "Indonesia",
+    "latitude": 1.3823339023240095,
+    "longitude": 99.26914829314877,
+    "other_names": {
+      "name": "Padang Sidempuan",
+      "name:en": "Padang Sidempuan",
+      "name:ja": "パダン サイデンプアン",
+      "name:lt": "Padang Sidempuanas",
+      "name:pl": "Padang Sidempuan",
+      "name:ru": "Падангсидемпуан",
+      "name:zh": "巴东石林潘"
+    }
+  },
+  {
+    "name": "Padang Sidempuan",
+    "country": "Indonesia",
+    "latitude": 1.372695999854266,
+    "longitude": 99.2727172,
+    "other_names": {
+      "name": "Padang Sidempuan",
+      "name:en": "Padang Sidempuan",
+      "name:ja": "パダン サイデンプアン",
+      "name:lt": "Padang Sidempuanas",
+      "name:pl": "Padang Sidempuan",
+      "name:ru": "Падангсидемпуан"
+    }
+  },
+  {
+    "name": "Paderborn",
+    "country": "Germany",
+    "latitude": 51.71770439914564,
+    "longitude": 8.752653,
+    "other_names": {
+      "name": "Paderborn",
+      "name:ar": "بادربورن",
+      "name:de": "Paderborn",
+      "name:en": "Paderborn",
+      "name:es": "Paderborn",
+      "name:fa": "پادربورن",
+      "name:fr": "Paderborn",
+      "name:it": "Paderborn",
+      "name:ja": "パーダーボルン",
+      "name:la": "Paderbronna",
+      "name:ru": "Падерборн",
+      "name:sr": "Падерборн",
+      "name:ur": "پادربورن"
+    }
+  },
+  {
+    "name": "Padua",
+    "country": "Italy",
+    "latitude": 45.40771720042422,
+    "longitude": 11.873445499999999,
+    "other_names": {
+      "name": "Padova",
+      "name:ar": "بادوفا",
+      "name:be": "Падуя",
+      "name:ca": "Pàdua",
+      "name:cs": "Padova",
+      "name:de": "Padua",
+      "name:el": "Πάδοβα",
+      "name:en": "Padua",
+      "name:es": "Padua",
+      "name:fi": "Padova",
+      "name:fr": "Padoue",
+      "name:it": "Padova",
+      "name:la": "Patavium",
+      "name:nl": "Padua",
+      "name:pl": "Padwa",
+      "name:pt": "Pádua",
+      "name:ru": "Падуя",
+      "name:sk": "Padova",
+      "name:sv": "Padua",
+      "name:uk": "Падуя",
+      "name:zh": "帕多瓦",
+      "name:fur": "Padue",
+      "name:vec": "Pàdova",
+      "old_name:de": "Esten"
+    }
+  },
+  {
+    "name": "Paducah",
+    "country": "United States Of America",
+    "latitude": 37.08338929985879,
+    "longitude": -88.6000478,
+    "other_names": {
+      "name": "Paducah",
+      "name:ru": "Падьюка"
+    }
+  },
+  {
+    "name": "Paein Ganj Afrooz",
+    "country": "Iran",
+    "latitude": 36.456314799783826,
+    "longitude": 52.7011396,
+    "other_names": {
+      "name": "گنج افروز",
+      "name:en": "Paein Ganj Afrooz"
+    }
+  },
+  {
+    "name": "Pafos",
+    "country": "Cyprus",
+    "latitude": 34.77439879963732,
+    "longitude": 32.4231586,
+    "other_names": {
+      "name": "Πάφος",
+      "name:ar": "بافوس",
+      "name:de": "Paphos",
+      "name:el": "Πάφος",
+      "name:en": "Pafos",
+      "name:et": "Paphos",
+      "name:fr": "Paphos",
+      "name:it": "Pafo",
+      "name:ru": "Пафос",
+      "name:uk": "Пафос"
+    }
+  },
+  {
+    "name": "Pagadian",
+    "country": "Philippines",
+    "latitude": 7.82497169939117,
+    "longitude": 123.43658160000001,
+    "other_names": {
+      "name": "Pagadian",
+      "name:en": "Pagadian",
+      "name:es": "Pagadían",
+      "name:ja": "パガディアン",
+      "name:ru": "Пагадиан",
+      "name:tl": "Pagadian",
+      "name:uk": "Паґадіан",
+      "name:zh": "帕嘎蒂安",
+      "name:ceb": "Pagadian",
+      "official_name:en": "City of Pagadian",
+      "official_name:es": "Ciudad de Pagadían",
+      "official_name:tl": "Lungsod ng Pagadian",
+      "official_name:cbk": "Ciudad de Pagadian",
+      "official_name:ceb": "Dakbayan sa Pagadian"
+    }
+  },
+  {
+    "name": "Pagar Alam",
+    "country": "Indonesia",
+    "latitude": -4.020952599703987,
+    "longitude": 103.25016029999999,
+    "other_names": {
+      "name": "Pagar Alam",
+      "name:ja": "パガララム",
+      "alt_name": "Pageralam"
+    }
+  },
+  {
+    "name": "Pailin",
+    "country": "Cambodia",
+    "latitude": 12.855138399664037,
+    "longitude": 102.60517759999999,
+    "other_names": {
+      "name": "ក្រុងប៉ៃលិន",
+      "name:en": "Pailin",
+      "name:fr": "Païlin",
+      "name:ja": "パイリン",
+      "name:ru": "Пайлин"
+    }
+  },
+  {
+    "name": "Paita",
+    "country": "Peru",
+    "latitude": -5.0910295996814465,
+    "longitude": -81.1061383,
+    "other_names": {
+      "name": "Paita",
+      "name:en": "Paita",
+      "name:ru": "Пайта",
+      "name:uk": "Пайта"
+    }
+  },
+  {
+    "name": "Paju",
+    "country": "South Korea",
+    "latitude": 37.75989549994852,
+    "longitude": 126.78015020000001,
+    "other_names": {
+      "name": "파주시",
+      "name:en": "Paju",
+      "name:ja": "坡州市",
+      "name:ko": "파주시",
+      "name:zh": "坡州市",
+      "name:ko-Hani": "坡州市"
+    }
+  },
+  {
+    "name": "Pak Kret",
+    "country": "Thailand",
+    "latitude": 13.912148199780043,
+    "longitude": 100.49760439999999,
+    "other_names": {
+      "name": "ปากเกร็ด",
+      "name:en": "Pak Kret",
+      "name:et": "Pak Kret",
+      "name:ja": "パックレット",
+      "name:ru": "Пак-Крет",
+      "name:th": "ปากเกร็ด",
+      "official_name": "เทศบาลนครปากเกร็ด"
+    }
+  },
+  {
+    "name": "Pakpattan",
+    "country": "Pakistan",
+    "latitude": 30.342250299710322,
+    "longitude": 73.3891875,
+    "other_names": {
+      "name": "پاکپتّن",
+      "name:ar": "باكبتن",
+      "name:de": "Pakpattan",
+      "name:en": "Pakpattan",
+      "name:es": "Pakpattan",
+      "name:et": "Pākpattan",
+      "name:fr": "Pakpattan",
+      "name:hi": "पकपट्टन",
+      "name:ja": "パークパッタン",
+      "name:ru": "Пакпаттан",
+      "name:ur": "پاکپتّن"
+    }
+  },
+  {
+    "name": "Pakse",
+    "country": "Laos",
+    "latitude": 15.120146099921495,
+    "longitude": 105.80439709999999,
+    "other_names": {
+      "name": "ປາກເຊ",
+      "name:en": "Pakse",
+      "name:et": "Pakxé",
+      "name:fr": "Pakse",
+      "name:ja": "パークセー",
+      "name:lo": "ປາກເຊ",
+      "name:ru": "Паксе",
+      "name:uk": "Паксе",
+      "name:zh": "巴色",
+      "alt_name": "Laos Pakxe",
+      "name:lo_rm": "Pakxé"
+    }
+  },
+  {
+    "name": "Pakxan",
+    "country": "Laos",
+    "latitude": 18.392399300267936,
+    "longitude": 103.65928849999999,
+    "other_names": {
+      "name": "ປາກຊັນ",
+      "name:en": "Pakxan",
+      "name:ja": "パクサン",
+      "name:ru": "Паксане",
+      "alt_name": "Paksan",
+      "name:lo_rm": "Pakxan"
+    }
+  },
+  {
+    "name": "Pala",
+    "country": "Chad",
+    "latitude": 9.366280199411896,
+    "longitude": 14.909702799999998,
+    "other_names": {
+      "name": "Pala بالا",
+      "name:ar": "بالا",
+      "name:en": "Pala",
+      "name:fr": "Pala",
+      "name:ru": "Пала",
+      "name:uk": "Пала",
+      "alt_name": "Palla;Pala"
+    }
+  },
+  {
+    "name": "palakkad",
+    "country": "India",
+    "latitude": 10.769214699482635,
+    "longitude": 76.6512509,
+    "other_names": {
+      "name": "palakkad"
+    }
+  },
+  {
+    "name": "Palangka Raya",
+    "country": "Indonesia",
+    "latitude": -2.207291899802246,
+    "longitude": 113.9164372,
+    "other_names": {
+      "name": "Palangka Raya",
+      "name:en": "Palangka Raya",
+      "name:id": "Palangkaraya",
+      "name:ja": "パランカラヤ",
+      "name:ru": "Паланкарая",
+      "name:uk": "Паланкарая",
+      "name:zh": "帕朗卡拉亚"
+    }
+  }
+]

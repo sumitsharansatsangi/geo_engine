@@ -1,0 +1,405 @@
+[
+  {
+    "name": "Yangyuan",
+    "country": "China",
+    "latitude": 40.10247420028111,
+    "longitude": 114.1437511,
+    "other_names": {
+      "name": "阳原县",
+      "name:en": "Yangyuan",
+      "name:ja": "陽原県",
+      "name:ru": "Сичэн",
+      "name:zh": "阳原县",
+      "name:zh-Hant": "陽原縣"
+    }
+  },
+  {
+    "name": "Yangzhong",
+    "country": "China",
+    "latitude": 32.23752969960059,
+    "longitude": 119.79219129999998,
+    "other_names": {
+      "name": "扬中市",
+      "name:de": "Yangzhong",
+      "name:en": "Yangzhong",
+      "name:fa": "یانگژانگ",
+      "name:fr": "Yangzhong",
+      "name:it": "Yangzhong",
+      "name:ja": "揚中市",
+      "name:ki": "Yangzhong",
+      "name:ko": "양중시",
+      "name:nl": "Yangzhong",
+      "name:no": "Yangzhong",
+      "name:ru": "Янчжун",
+      "name:sv": "Yangzhong",
+      "name:tl": "Yangzhong",
+      "name:ur": "یانگژونگ",
+      "name:vi": "Dương Trung",
+      "name:zh": "扬中市",
+      "name:nan": "Iông-tiong-chhī",
+      "name:wuu": "扬中市",
+      "name:yue": "揚中",
+      "name:zh-Hant": "揚中市",
+      "name:zh_pinyin": "Yángzhōng Shì"
+    }
+  },
+  {
+    "name": "Yangzhou",
+    "country": "China",
+    "latitude": 32.396993499596256,
+    "longitude": 119.4077008,
+    "other_names": {
+      "name": "扬州市",
+      "name:af": "Yangzhou",
+      "name:ar": "يانغتشو",
+      "name:bg": "Янджоу",
+      "name:bo": "ཡྰང་ཀྲོའུ།",
+      "name:br": "Yangzhou",
+      "name:ca": "Yangzhou",
+      "name:cs": "Jang-čou",
+      "name:cy": "Yangzhou",
+      "name:da": "Yangzhou",
+      "name:de": "Yangzhou",
+      "name:en": "Yangzhou",
+      "name:et": "Yangzhou",
+      "name:fr": "Yangzhou",
+      "name:he": "יאנגג'ואו",
+      "name:hi": "यंग्ज़हौ",
+      "name:id": "Yangzhou",
+      "name:it": "Yangzhou",
+      "name:ja": "揚州市",
+      "name:ki": "Yangzhou",
+      "name:ko": "양저우시",
+      "name:mg": "Yangzhou",
+      "name:nl": "Yangzhou",
+      "name:nn": "Yangzhou",
+      "name:no": "Yangzhou",
+      "name:pl": "Yangzhou",
+      "name:pt": "Yangzhou",
+      "name:ru": "Янчжоу",
+      "name:sh": "Yangzhou",
+      "name:sr": "Јангџоу",
+      "name:sv": "Yangzhou",
+      "name:tl": "Yangzhou",
+      "name:tr": "Yangzhou",
+      "name:ug": "Yangjo shehiri",
+      "name:uk": "Янчжоу",
+      "name:ur": "یانگژو",
+      "name:vi": "Dương Châu",
+      "name:zh": "扬州市",
+      "name:als": "Yangzhou",
+      "name:ast": "Yangzhou",
+      "name:cdo": "Iòng-ciŭ",
+      "name:ceb": "Yangzhou",
+      "name:nan": "Iông-chiu-chhī",
+      "name:war": "Yangzhou",
+      "name:wuu": "扬州市",
+      "name:yue": "揚州",
+      "name:zh-Hant": "揚州市",
+      "name:zh_pinyin": "Yángzhōu Shì"
+    }
+  },
+  {
+    "name": "Yanhe",
+    "country": "China",
+    "latitude": 28.56773129988359,
+    "longitude": 108.4989684,
+    "other_names": {
+      "name": "沿河县",
+      "name:en": "Yanhe",
+      "name:zh": "沿河土家族自治县",
+      "name:zh-Hant": "沿河縣",
+      "official_name": "沿河土家族自治县"
+    }
+  },
+  {
+    "name": "Yanhu",
+    "country": "China",
+    "latitude": 35.01382989965259,
+    "longitude": 110.9972761,
+    "other_names": {
+      "name": "盐湖区",
+      "name:en": "Yanhu",
+      "name:zh": "盐湖区",
+      "alt_name": "盐湖;Yanhu District",
+      "name:zh-Hant": "鹽湖區"
+    }
+  },
+  {
+    "name": "Yanji",
+    "country": "China",
+    "latitude": 42.88885520053348,
+    "longitude": 129.5008425,
+    "other_names": {
+      "name": "延吉市",
+      "name:cs": "Jen-ťi",
+      "name:de": "Yanji",
+      "name:en": "Yanji",
+      "name:et": "Yanji",
+      "name:fr": "Yanji",
+      "name:ja": "延吉市",
+      "name:ko": "연길시",
+      "name:ru": "Яньцзи",
+      "name:sr": "Јанђи",
+      "name:uk": "Яньцзі",
+      "name:vi": "Diên Cát",
+      "name:zh": "延吉市",
+      "alt_name": "延吉;Yanji City",
+      "int_name": "Yanji",
+      "name:ko-Hani": "延吉市",
+      "name:zh-Hant": "延吉市",
+      "name:zh_pinyin": "Yanji Shi"
+    }
+  },
+  {
+    "name": "Yanjiang",
+    "country": "China",
+    "latitude": 30.12482389972874,
+    "longitude": 104.64679769999998,
+    "other_names": {
+      "name": "雁江区",
+      "name:en": "Yanjiang",
+      "name:vi": "Nhạn Giang",
+      "name:zh": "雁江区",
+      "alt_name": "雁江;Yanjiang District",
+      "name:zh-Hant": "雁江區",
+      "name:zh_pinyin": "Yànjiāng Qū"
+    }
+  },
+  {
+    "name": "Yanjin",
+    "country": "China",
+    "latitude": 28.11260079993369,
+    "longitude": 104.23288779999999,
+    "other_names": {
+      "name": "盐津县",
+      "name:en": "Yanjin",
+      "name:vi": "Diêm Tân",
+      "name:zh": "盐津县",
+      "alt_name": "盐津;Yanjin County",
+      "name:zh-Hant": "鹽津縣",
+      "name:zh_pinyin": "Yánjīn xiàn"
+    }
+  },
+  {
+    "name": "Yanjin",
+    "country": "China",
+    "latitude": 35.149110899662105,
+    "longitude": 114.1946384,
+    "other_names": {
+      "name": "延津县",
+      "name:en": "Yanjin",
+      "name:vi": "Diên Tân",
+      "name:zh": "延津县",
+      "alt_name:vi": "Duyên Tân",
+      "name:zh-Hant": "延津縣",
+      "name:zh_pinyin": "Yanjin Xian"
+    }
+  },
+  {
+    "name": "Yankton",
+    "country": "United States Of America",
+    "latitude": 42.871293800532925,
+    "longitude": -97.3967011,
+    "other_names": {
+      "name": "Yankton",
+      "name:ru": "Янктон"
+    }
+  },
+  {
+    "name": "Yanling",
+    "country": "China",
+    "latitude": 34.10953279960543,
+    "longitude": 114.1671725,
+    "other_names": {
+      "name": "鄢陵县",
+      "name:en": "Yanling",
+      "name:zh": "鄢陵县",
+      "alt_name": "鄢陵;Yanling County",
+      "name:zh-Hant": "鄢陵縣"
+    }
+  },
+  {
+    "name": "Yanling",
+    "country": "China",
+    "latitude": 26.493014100112944,
+    "longitude": 113.76812399999999,
+    "other_names": {
+      "name": "炎陵县",
+      "name:de": "Yanling",
+      "name:en": "Yanling",
+      "name:es": "Yanling",
+      "name:fa": "شهرستان یانلینگ",
+      "name:fr": "Xian de Yanling",
+      "name:it": "Contea di Yanling",
+      "name:ja": "炎陵県",
+      "name:ko": "옌링현",
+      "name:no": "Yanling",
+      "name:ru": "Яньлин",
+      "name:sv": "Yanling",
+      "name:vi": "Viêm Lăng",
+      "name:zh": "炎陵县",
+      "alt_name": "炎陵;Ling-chen;Ling;Yanling County;霞阳镇;Lingxian;Ninghsien;Ling-hsien;Xiayang",
+      "name:ceb": "Yanling Xian",
+      "name:gan": "酃縣",
+      "name:hak": "Yàm-lîn-yen",
+      "name:nan": "Iâm-lêng-koān",
+      "name:yue": "炎陵",
+      "name:zh-Hant": "炎陵縣",
+      "name:zh_pinyin": "Yánlíng Xiàn"
+    }
+  },
+  {
+    "name": "Yanping",
+    "country": "China",
+    "latitude": 26.640832300097085,
+    "longitude": 118.17787729999999,
+    "other_names": {
+      "name": "延平区",
+      "name:de": "Yanping",
+      "name:en": "Yanping",
+      "name:es": "Yánpíng",
+      "name:fr": "Yanping",
+      "name:it": "Yanping",
+      "name:ja": "延平区",
+      "name:ko": "옌핑구",
+      "name:no": "Yanping",
+      "name:sv": "Yanping",
+      "name:vi": "Duyên Bình",
+      "name:zh": "延平区",
+      "alt_name": "延平;Yanping District",
+      "name:cdo": "Iòng-bìng-kṳ̆",
+      "name:hak": "Yèn-phìn-khî",
+      "name:mwl": "Yanping",
+      "name:nan": "Iân-pêng-khu",
+      "name:yue": "延平",
+      "name:zh-Hant": "延平區",
+      "name:zh_pinyin": "yánpíng qū"
+    }
+  },
+  {
+    "name": "Yanqi",
+    "country": "China",
+    "latitude": 42.05821530049049,
+    "longitude": 86.5723962,
+    "other_names": {
+      "name": "焉耆回族自治县",
+      "name:en": "Yanqi",
+      "name:ko": "옌치후이족자치현",
+      "name:uk": "Яньці-Хуейський автономний повіт",
+      "name:vi": "Yên Kỳ",
+      "name:zh": "焉耆回族自治县",
+      "alt_name": "焉耆;Yanqi Hui Autonomous County",
+      "short_name": "焉耆县",
+      "alt_name:vi": "Yên Kì",
+      "name:zh-Hant": "焉耆回族自治縣",
+      "name:zh_pinyin": "Yanqi Huizu Zizhixian"
+    }
+  },
+  {
+    "name": "Yanqing",
+    "country": "China",
+    "latitude": 40.45681270032726,
+    "longitude": 115.97057909999995,
+    "other_names": {
+      "name": "延庆区",
+      "name:cs": "Jen-čching",
+      "name:en": "Yanqing",
+      "name:ja": "延慶区",
+      "name:mk": "Јенќинг",
+      "name:ru": "Яньцин",
+      "name:uk": "Яньцін",
+      "name:vi": "Diên Khánh",
+      "name:zh": "延庆区",
+      "int_name": "Yan Qing",
+      "name:zh-Hant": "延慶區"
+    }
+  },
+  {
+    "name": "Yanshan",
+    "country": "China",
+    "latitude": 23.6088397003559,
+    "longitude": 104.33479849999999,
+    "other_names": {
+      "name": "砚山县",
+      "name:en": "Yanshan",
+      "name:zh": "砚山县",
+      "alt_name": "砚山;Yen-shan Hsien;Yanshan County",
+      "name:zh-Hant": "硯山縣"
+    }
+  },
+  {
+    "name": "Yanshan",
+    "country": "China",
+    "latitude": 38.05799949999015,
+    "longitude": 117.22199679999997,
+    "other_names": {
+      "name": "盐山县",
+      "name:en": "Yanshan",
+      "name:vi": "Diêm Sơn",
+      "name:zh": "盐山县",
+      "alt_name": "盐山;Yanshan County",
+      "name:zh-Hant": "鹽山縣",
+      "official_name": "盐山镇",
+      "name:zh_pinyin": "Yanshan Xian"
+    }
+  },
+  {
+    "name": "Yanshan",
+    "country": "China",
+    "latitude": 25.06301160025258,
+    "longitude": 110.30449759999999,
+    "other_names": {
+      "name": "雁山区",
+      "name:en": "Yanshan",
+      "name:zh": "雁山区",
+      "alt_name": "雁山;Yanshan District",
+      "name:zh-Hant": "雁山區"
+    }
+  },
+  {
+    "name": "Yanshan County",
+    "country": "China",
+    "latitude": 28.30044489991287,
+    "longitude": 117.7291881,
+    "other_names": {
+      "name": "铅山县",
+      "name:de": "Yanshan",
+      "name:en": "Yanshan County",
+      "name:fr": "Xian de Yanshan",
+      "name:ja": "鉛山県",
+      "name:ko": "옌산현",
+      "name:no": "Yanshan",
+      "name:ru": "Яньшань",
+      "name:sv": "Yanshan",
+      "name:vi": "Duyên Sơn",
+      "name:zh": "铅山县",
+      "name:ceb": "Yanshan Xian",
+      "name:gan": "鉛山",
+      "name:nan": "Iân-san-koān",
+      "name:wuu": "铅山县",
+      "name:yue": "鉛山",
+      "name:zh-Hant": "鉛山縣",
+      "name:zh_pinyin": "Yánshān Xiàn"
+    }
+  },
+  {
+    "name": "Yanshi",
+    "country": "China",
+    "latitude": 34.73330749963489,
+    "longitude": 112.76771549999998,
+    "other_names": {
+      "name": "偃师区",
+      "name:de": "Yanshi",
+      "name:en": "Yanshi",
+      "name:fr": "Yanshi",
+      "name:ja": "偃師市",
+      "name:vi": "Yển Sư",
+      "name:zh": "偃师区",
+      "alt_name": "偃师;Yanshi District",
+      "old_name": "偃师县;Yanshi County;偃师市;Yanshi City",
+      "name:zh-Hant": "偃師區",
+      "name:zh_pinyin": "Yǎnshī Shì"
+    }
+  }
+]

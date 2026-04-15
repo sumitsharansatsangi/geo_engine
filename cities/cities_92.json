@@ -1,0 +1,334 @@
+[
+  {
+    "name": "Chuanying",
+    "country": "China",
+    "latitude": 43.835507900537365,
+    "longitude": 126.52926859999998,
+    "other_names": {
+      "name": "船营区",
+      "name:en": "Chuanying",
+      "name:zh": "船营区",
+      "alt_name": "船营;Chuanying District",
+      "name:zh-Hant": "船營區"
+    }
+  },
+  {
+    "name": "Chukai",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 4.219306499568361,
+    "longitude": 103.42251579999999,
+    "other_names": {
+      "name": "Chukai",
+      "name:ja": "チュカイ",
+      "name:zh": "朱盖",
+      "alt_name": "Cukai;Kemaman"
+    }
+  },
+  {
+    "name": "Chula Vista",
+    "country": "United States Of America",
+    "latitude": 32.64005409959128,
+    "longitude": -117.0841955,
+    "other_names": {
+      "name": "Chula Vista"
+    }
+  },
+  {
+    "name": "Chun'an County",
+    "country": "China",
+    "latitude": 29.611846699775825,
+    "longitude": 119.03677410000002,
+    "other_names": {
+      "name": "淳安县",
+      "name:de": "Chun’an",
+      "name:en": "Chun'an County",
+      "name:eu": "Chun'an konderria",
+      "name:fa": "شهرستان چونان",
+      "name:fr": "Xian de Chun'an",
+      "name:it": "Contea di Chun'an",
+      "name:ja": "淳安県",
+      "name:ko": "춘안현",
+      "name:no": "Chun'an",
+      "name:sv": "Chun'an",
+      "name:vi": "Thuần An",
+      "name:zh": "淳安县",
+      "name:ceb": "Chun'an Xian",
+      "name:hak": "Sùn-ôn-yen",
+      "name:nan": "Sûn-an-koān",
+      "name:wuu": "淳安县",
+      "name:yue": "淳安",
+      "name:zh-Hant": "淳安縣",
+      "name:zh_pinyin": "Chún'ān Xiàn"
+    }
+  },
+  {
+    "name": "Chuncheon-si",
+    "country": "South Korea",
+    "latitude": 37.88105689996532,
+    "longitude": 127.7297641,
+    "other_names": {
+      "name": "춘천시",
+      "name:de": "Chuncheon",
+      "name:el": "Τσούντσον",
+      "name:en": "Chuncheon-si",
+      "name:es": "Chuncheon",
+      "name:et": "Chuncheon",
+      "name:fr": "Chuncheon",
+      "name:ja": "春川市",
+      "name:ko": "춘천시",
+      "name:lt": "Čunčonas",
+      "name:ru": "Чхунчхон",
+      "name:uk": "Чхунчхон",
+      "name:vi": "Chuncheon",
+      "name:zh": "春川市",
+      "int_name": "Chuncheon",
+      "alt_name:vi": "Xuân Xuyên",
+      "name:ko-Hani": "春川市"
+    }
+  },
+  {
+    "name": "Chungju-si",
+    "country": "South Korea",
+    "latitude": 36.99073339984715,
+    "longitude": 127.9259891,
+    "other_names": {
+      "name": "충주시",
+      "name:el": "Τσούνγκτζου",
+      "name:en": "Chungju-si",
+      "name:et": "Chungju",
+      "name:fr": "Chongju",
+      "name:ja": "忠州市",
+      "name:ko": "충주시",
+      "name:lt": "Čungdžu",
+      "name:ru": "Чхунджу",
+      "name:zh": "忠州市",
+      "name:ko-Hani": "忠州市",
+      "name:ko-Latn": "Chungju-si"
+    }
+  },
+  {
+    "name": "Chunhua",
+    "country": "China",
+    "latitude": 34.8008743996389,
+    "longitude": 108.57564619999998,
+    "other_names": {
+      "name": "淳化县",
+      "name:en": "Chunhua",
+      "name:ja": "淳化県",
+      "name:ru": "Чуньхуа",
+      "name:zh": "淳化县",
+      "alt_name": "城关街道 ;Chengguan",
+      "old_name": "城关镇;淳化城关镇",
+      "name:zh-Hant": "淳化縣"
+    }
+  },
+  {
+    "name": "Chuo",
+    "country": "Japan",
+    "latitude": 35.589198999697224,
+    "longitude": 138.52099199999998,
+    "other_names": {
+      "name": "中央市",
+      "name:ar": "تشويو ياماناشي",
+      "name:de": "Chūō",
+      "name:en": "Chuo",
+      "name:es": "Chūō",
+      "name:fr": "Chūō",
+      "name:ja": "中央市",
+      "name:ko": "주오시",
+      "name:pl": "Chūō",
+      "name:ru": "Тюо",
+      "name:uk": "Чюо",
+      "name:ja_rm": "Chuo-shi",
+      "name:ja_kana": "ちゅうおうし"
+    }
+  },
+  {
+    "name": "Chuo",
+    "country": "Japan",
+    "latitude": 35.66625499970402,
+    "longitude": 139.775565,
+    "other_names": {
+      "name": "中央区",
+      "name:ar": "تشوأو، طوكيو",
+      "name:de": "Chūō",
+      "name:en": "Chuo",
+      "name:es": "Chūō",
+      "name:fr": "Chūō",
+      "name:it": "Chuo",
+      "name:ja": "中央区",
+      "name:ko": "주오구",
+      "name:lt": "Čiūo",
+      "name:pl": "Chūō",
+      "name:ru": "Тюо",
+      "name:uk": "Тюо",
+      "name:zh": "中央区",
+      "name:ja-Hira": "ちゅうおうく",
+      "name:ja-Latn": "Chūō-ku",
+      "name:zh-Hans": "中央区",
+      "name:zh-Hant": "中央區"
+    }
+  },
+  {
+    "name": "Chur",
+    "country": "Switzerland",
+    "latitude": 46.85474700019061,
+    "longitude": 9.526490399999998,
+    "other_names": {
+      "name": "Chur",
+      "name:ar": "خور",
+      "name:be": "Кур",
+      "name:ca": "Coira",
+      "name:de": "Chur",
+      "name:eo": "Koiro",
+      "name:es": "Coira",
+      "name:fr": "Coire",
+      "name:it": "Coira",
+      "name:ja": "クール",
+      "name:la": "Curia Raetorum",
+      "name:lt": "Kūras",
+      "name:pt": "Coira",
+      "name:rm": "Cuira",
+      "name:ro": "Cuira",
+      "name:ru": "Кур",
+      "name:sq": "Kuri",
+      "name:uk": "Кур",
+      "name:als": "Khûr",
+      "name:frp": "Couère",
+      "name:gsw": "Khur"
+    }
+  },
+  {
+    "name": "Church Hill",
+    "country": "United States Of America",
+    "latitude": 36.52232069979128,
+    "longitude": -82.7134921,
+    "other_names": {
+      "name": "Church Hill"
+    }
+  },
+  {
+    "name": "Churchill",
+    "country": "Canada",
+    "latitude": 58.769310101158446,
+    "longitude": -94.17368429999999,
+    "other_names": {
+      "name": "Churchill",
+      "name:iu": "ᑯᒡᔪᐊᖅ",
+      "name:ru": "Черчилл",
+      "name:uk": "Черчилл",
+      "name:iu-Latn": "Kuugjuaq"
+    }
+  },
+  {
+    "name": "Churu",
+    "country": "India",
+    "latitude": 28.298334999913116,
+    "longitude": 74.9679308,
+    "other_names": {
+      "name": "Churu",
+      "name:hi": "चूरू",
+      "name:ru": "Чуру",
+      "name:ta": "சுரு"
+    }
+  },
+  {
+    "name": "Chuxiong",
+    "country": "China",
+    "latitude": 25.044637100254164,
+    "longitude": 101.54138669999999,
+    "other_names": {
+      "name": "楚雄州",
+      "name:en": "Chuxiong",
+      "name:vi": "Sở Hùng",
+      "name:zh": "楚雄州",
+      "alt_name": "楚雄;Ch'u-hsiung Hsien;Chuxiong Chuxiong Yi Autonomous Prefecture;Chuxiong",
+      "short_name": "楚雄州",
+      "name:zh-Hant": "楚雄州",
+      "official_name": "楚雄彝族自治州",
+      "official_name:zh": "楚雄彝族自治州",
+      "official_name:zh_pinyin": "Chǔxióng Yízú Zìzhì zhōu"
+    }
+  },
+  {
+    "name": "Chuxiong",
+    "country": "China",
+    "latitude": 25.03595990025491,
+    "longitude": 101.5440836,
+    "other_names": {
+      "name": "楚雄市",
+      "name:de": "Lucheng",
+      "name:en": "Chuxiong",
+      "name:et": "Lucheng",
+      "name:fr": "Chuxiong",
+      "name:ja": "楚雄市",
+      "name:ru": "Чусюн",
+      "name:vi": "Sở Hùng",
+      "name:zh": "楚雄市",
+      "alt_name": "楚雄;Ch'u-hsiung Hsien;Chuxiong City;Lucheng",
+      "name:zh-Hant": "楚雄市",
+      "name:zh_pinyin": "Chǔxíong Shì"
+    }
+  },
+  {
+    "name": "Chuzhou",
+    "country": "China",
+    "latitude": 32.254590099600094,
+    "longitude": 118.3280486,
+    "other_names": {
+      "name": "滁州市",
+      "name:de": "Chuzhou",
+      "name:en": "Chuzhou",
+      "name:et": "Chuzhou",
+      "name:fr": "Chuzhou",
+      "name:ja": "ジョ州市",
+      "name:vi": "Trừ Châu",
+      "name:zh": "滁州市",
+      "name:zh-Hant": "滁州市",
+      "name:zh_pinyin": "Chúzhōu shì"
+    }
+  },
+  {
+    "name": "Cianjur",
+    "country": "Indonesia",
+    "latitude": -6.822444799704696,
+    "longitude": 107.1392952,
+    "other_names": {
+      "name": "Cianjur",
+      "name:id": "Cianjur",
+      "name:ja": "チアンジュール"
+    }
+  },
+  {
+    "name": "Cibitoke",
+    "country": "Burundi",
+    "latitude": -2.8919230997569465,
+    "longitude": 29.124407400000003,
+    "other_names": {
+      "name": "Cibitoke",
+      "name:ru": "Чибитоке"
+    }
+  },
+  {
+    "name": "Ciego de Ávila",
+    "country": "Cuba",
+    "latitude": 21.841976200409594,
+    "longitude": -78.7601053,
+    "other_names": {
+      "name": "Ciego de Ávila",
+      "name:ru": "Сьего-де-Авила"
+    }
+  },
+  {
+    "name": "Cienfuegos",
+    "country": "Cuba",
+    "latitude": 22.145750100406534,
+    "longitude": -80.4526242,
+    "other_names": {
+      "name": "Cienfuegos",
+      "name:hu": "Cienfuegos",
+      "name:ru": "Сьенфуэгос",
+      "name:uk": "Сьєнфуегос"
+    }
+  }
+]

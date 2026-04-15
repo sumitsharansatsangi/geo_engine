@@ -1,0 +1,321 @@
+[
+  {
+    "name": "Dazhu",
+    "country": "China",
+    "latitude": 30.739203399679372,
+    "longitude": 107.20113529999999,
+    "other_names": {
+      "name": "大竹县",
+      "name:en": "Dazhu",
+      "name:zh": "大竹县",
+      "alt_name": "大竹;Dazhu County",
+      "name:zh-Hant": "大竹縣"
+    }
+  },
+  {
+    "name": "Dazu",
+    "country": "China",
+    "latitude": 29.708576999766585,
+    "longitude": 105.71818260000002,
+    "other_names": {
+      "name": "大足区",
+      "name:en": "Dazu",
+      "name:zh": "大足区",
+      "alt_name": "大足;Dazu District",
+      "name:zh-Hant": "大足區"
+    }
+  },
+  {
+    "name": "De'an",
+    "country": "China",
+    "latitude": 29.303915199806198,
+    "longitude": 115.76340109999995,
+    "other_names": {
+      "name": "德安县",
+      "name:en": "De'an",
+      "name:zh": "德安县",
+      "alt_name": "德安;De'an County",
+      "name:zh-Hant": "德安縣",
+      "name:zh_pinyin": "déān xiàn"
+    }
+  },
+  {
+    "name": "Dearborn",
+    "country": "United States Of America",
+    "latitude": 42.32225990050781,
+    "longitude": -83.17631450000002,
+    "other_names": {
+      "name": "Dearborn"
+    }
+  },
+  {
+    "name": "Debao",
+    "country": "China",
+    "latitude": 23.32655740037014,
+    "longitude": 106.6119199,
+    "other_names": {
+      "name": "德保县",
+      "name:en": "Debao",
+      "name:vi": "Đức Bảo",
+      "name:zh": "德保县",
+      "alt_name": "德保;Debao County",
+      "name:zh-Hant": "德保縣",
+      "name:zh_pinyin": "débǎo xiàn"
+    }
+  },
+  {
+    "name": "Debre Birhan",
+    "country": "Ethiopia",
+    "latitude": 9.67521169942338,
+    "longitude": 39.5324899,
+    "other_names": {
+      "name": "ደብረ ብርሃን / Debre Birhan",
+      "name:am": "ደብረ ብርሃን",
+      "name:en": "Debre Birhan",
+      "name:fr": "Debre Berhan",
+      "name:ru": "Дэбрэ-Бырхан"
+    }
+  },
+  {
+    "name": "Debrecen",
+    "country": "Hungary",
+    "latitude": 47.531399000046584,
+    "longitude": 21.625978199999995,
+    "other_names": {
+      "name": "Debrecen",
+      "name:cs": "Debrecín",
+      "name:de": "Debrezin",
+      "name:hu": "Debrecen",
+      "name:pl": "Debreczyn",
+      "name:ro": "Debrețin",
+      "name:ru": "Дебрецен",
+      "name:sk": "Debrecín",
+      "name:sr": "Дебрецин",
+      "name:uk": "Дебречин",
+      "alt_name:uk": "Дебрецен"
+    }
+  },
+  {
+    "name": "Debre Markos",
+    "country": "Ethiopia",
+    "latitude": 10.335690699455794,
+    "longitude": 37.72881139999999,
+    "other_names": {
+      "name": "ደብረ ማርቆስ",
+      "name:am": "ደብረ ማርቆስ",
+      "name:ar": "دبري ماركوس",
+      "name:en": "Debre Markos",
+      "name:fr": "Debre Markos",
+      "name:ru": "Дэбрэ-Маркос",
+      "alt_name:ar": "ديبري ماركوس"
+    }
+  },
+  {
+    "name": "Decatur",
+    "country": "United States Of America",
+    "latitude": 34.60602029962775,
+    "longitude": -86.98381649999999,
+    "other_names": {
+      "name": "Decatur"
+    }
+  },
+  {
+    "name": "Dechang",
+    "country": "China",
+    "latitude": 27.406278000012705,
+    "longitude": 102.17409139999998,
+    "other_names": {
+      "name": "德昌县",
+      "name:en": "Dechang",
+      "name:ii": "ꄓꍣꑤ",
+      "name:vi": "Đức Xương",
+      "name:zh": "德昌县",
+      "alt_name": "德昌;Te-ch'ang Hsien;Dechang County",
+      "name:zh-Hant": "德昌縣",
+      "name:zh_pinyin": "Déchāng Xiàn"
+    }
+  },
+  {
+    "name": "Deerfield Beach",
+    "country": "United States Of America",
+    "latitude": 26.318342000131413,
+    "longitude": -80.0996306,
+    "other_names": {
+      "name": "Deerfield Beach"
+    }
+  },
+  {
+    "name": "Deesa",
+    "country": "India",
+    "latitude": 24.259497700315528,
+    "longitude": 72.18033479999998,
+    "other_names": {
+      "name": "Deesa",
+      "alt_name": "Disa"
+    }
+  },
+  {
+    "name": "Dêgê",
+    "country": "China",
+    "latitude": 31.80767779961639,
+    "longitude": 98.58136189999999,
+    "other_names": {
+      "name": "德格县",
+      "name:en": "Dêgê",
+      "name:zh": "德格县",
+      "alt_name": "德格;Te-ko Hsien;Dêgê County;སྡེ་དགེ",
+      "name:zh-Hant": "德格縣",
+      "name:zh_pinyin": "Dêgê Xian"
+    }
+  },
+  {
+    "name": "Dehong",
+    "country": "China",
+    "latitude": 24.436381900302848,
+    "longitude": 98.5850386,
+    "other_names": {
+      "name": "德宏州",
+      "name:en": "Dehong",
+      "name:vi": "Đức Hoành",
+      "name:zh": "德宏州",
+      "alt_name": "德宏;Dehong;Tamhong;Sakhkung",
+      "short_name": "德宏州",
+      "name:zh-Hant": "德宏州",
+      "official_name": "德宏傣族景颇族自治州",
+      "official_name:my": "တယ်ဟုန် တိုင် နှင့် ဂျိမ်းဖော ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ ခရိုင် ကြီးများ",
+      "official_name:zh": "德宏傣族景颇族自治州",
+      "official_name:atb": "Sikung Sam Zaizo Byumyu Yumsing Upkang Mau",
+      "official_name:kac": "Sakhkung Sam Jinghpo Amyu Madu Uphkang Mungdo",
+      "official_name:tdd": "ᥟᥪᥒᥱ ᥙᥪᥴ ᥓᥝᥲ ᥙᥩᥒ ᥛᥥᥝᥰ ᥖᥭᥰ ᥓᥤᥒ ᥚᥨᥲ ᥖᥬᥲ ᥑᥨᥒᥰ",
+      "official_name:zh_pinyin": "Dehong Daizu Jingpozu Zizhizhou"
+    }
+  },
+  {
+    "name": "Dehradun",
+    "country": "India",
+    "latitude": 30.325564599711697,
+    "longitude": 78.0436813,
+    "other_names": {
+      "name": "Dehradun",
+      "name:ar": "دهرادون",
+      "name:cs": "Déhrádún",
+      "name:de": "Dehradun",
+      "name:en": "Dehradun",
+      "name:es": "Dehradun",
+      "name:fa": "دهرادون",
+      "name:fr": "Dehradun",
+      "name:he": "דהרה דון",
+      "name:hi": "देहरादून",
+      "name:ja": "デヘラードゥーン",
+      "name:kn": "ದೆಹರದೂನ್",
+      "name:ml": "ഡെറാഡൂൺ",
+      "name:pa": "ਦੇਹਰਾਦੂਨ",
+      "name:ru": "Дехрадун",
+      "name:ta": "தேராதூன்",
+      "name:te": "డెహ్రాడూన్",
+      "name:ur": "دہرہ دون",
+      "alt_name": "Dehra Dun",
+      "alt_name:ar": "دهرا دون",
+      "alt_name:ur": "ڈیرہ دون;دہرا دون"
+    }
+  },
+  {
+    "name": "Dehri",
+    "country": "India",
+    "latitude": 24.912911300512278,
+    "longitude": 84.18471599775974,
+    "other_names": {
+      "name": "Dehri",
+      "name:ar": "ديهري",
+      "name:hi": "डेहरी",
+      "name:pa": "ਡੇਹਰੀ",
+      "name:ur": "دیہری"
+    }
+  },
+  {
+    "name": "Dehri",
+    "country": "India",
+    "latitude": 24.907760000265764,
+    "longitude": 84.1901412,
+    "other_names": {
+      "name": "Dehri",
+      "name:ar": "ديهري",
+      "name:hi": "डेहरी",
+      "name:pa": "ਡੇਹਰੀ",
+      "name:ur": "دیہری",
+      "alt_name": "Dehri-on-Sone"
+    }
+  },
+  {
+    "name": "Dehua",
+    "country": "China",
+    "latitude": 25.494548400213624,
+    "longitude": 118.2362336,
+    "other_names": {
+      "name": "德化县",
+      "name:de": "Dehua",
+      "name:en": "Dehua",
+      "name:es": "Déhuà",
+      "name:fr": "Dehua",
+      "name:id": "Dehua",
+      "name:it": "Dehua",
+      "name:ja": "徳化県",
+      "name:zh": "德化县",
+      "alt_name": "德化;Dehua County",
+      "name:cdo": "Dáik-huá",
+      "name:hak": "Tet-fa-yen",
+      "name:nan": "Tek-hoè-koān",
+      "name:wuu": "德化县",
+      "name:yue": "德化",
+      "name:zh-Hant": "德化縣",
+      "name:zh_pinyin": "déhuà xiàn"
+    }
+  },
+  {
+    "name": "Dehui",
+    "country": "China",
+    "latitude": 44.53501410050592,
+    "longitude": 125.69543630000001,
+    "other_names": {
+      "name": "德惠市",
+      "name:de": "Dehui",
+      "name:en": "Dehui",
+      "name:fr": "Dehui",
+      "name:ja": "徳恵市",
+      "name:ru": "Дэхой",
+      "name:vi": "Đức Huệ",
+      "name:zh": "德惠市",
+      "alt_name": "德惠;Dehui City",
+      "name:zh-Hant": "德惠市",
+      "name:zh_pinyin": "Déhuì Shì"
+    }
+  },
+  {
+    "name": "Deir el-Balah",
+    "country": "Israel And Palestine",
+    "latitude": 31.41834549963562,
+    "longitude": 34.350247599999996,
+    "other_names": {
+      "name": "دير البلح",
+      "name:ar": "دير البلح",
+      "name:cs": "Dajr al-Balah",
+      "name:cy": "Deir al-Balah",
+      "name:de": "Dair al-Balah",
+      "name:en": "Deir el-Balah",
+      "name:eo": "Deir el-Balah",
+      "name:es": "Dair Al Balah",
+      "name:eu": "Deir al-Balah",
+      "name:fr": "Deir el-Balah",
+      "name:he": "דיר אל-בלאח",
+      "name:hi": "दीर अल बाला",
+      "name:it": "Dayr al-Balah",
+      "name:nl": "Dayr al-Balah",
+      "name:no": "Deir al-Balah",
+      "name:pl": "Dajr al-Balah",
+      "name:pt": "Deir al-Balah",
+      "name:ru": "Дейр-эль-Балах",
+      "name:tr": "Deir al Balah",
+      "name:sco": "Deir al-Balah"
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Palanpur",
+    "country": "India",
+    "latitude": 24.170527989954547,
+    "longitude": 72.43213238640287,
+    "other_names": {
+      "name": "Palanpur"
+    }
+  },
+  {
+    "name": "Palanpur",
+    "country": "India",
+    "latitude": 24.170979400321617,
+    "longitude": 72.4366375,
+    "other_names": {
+      "name": "Palanpur",
+      "name:en": "Palanpur",
+      "name:gu": "પાલનપુર",
+      "name:hi": "पालनपुर",
+      "name:kn": "ಪಲಾನಪುರ್"
+    }
+  },
+  {
+    "name": "Palayan",
+    "country": "Philippines",
+    "latitude": 15.540866599971078,
+    "longitude": 121.0842988,
+    "other_names": {
+      "name": "Palayan",
+      "name:en": "Palayan",
+      "name:ja": "パラヤン",
+      "name:tl": "Palayan",
+      "official_name:en": "City of Palayan",
+      "official_name:tl": "Lungsod ng Palayan"
+    }
+  },
+  {
+    "name": "Palembang",
+    "country": "Indonesia",
+    "latitude": -2.9888296997513,
+    "longitude": 104.75685699999998,
+    "other_names": {
+      "name": "Palembang",
+      "name:en": "Palembang",
+      "name:ja": "パレンバン",
+      "name:kn": "ಪಲೆಂಬಂಗ್",
+      "name:ru": "Палембанг",
+      "name:uk": "Палембанг",
+      "name:zh": "巨港"
+    }
+  },
+  {
+    "name": "Palencia",
+    "country": "Spain",
+    "latitude": 42.01088560048704,
+    "longitude": -4.532873499999999,
+    "other_names": {
+      "name": "Palencia",
+      "name:an": "Palenzia",
+      "name:ar": "بالنثيا",
+      "name:be": "Паленсія",
+      "name:ca": "Palència",
+      "name:el": "Παλένθια",
+      "name:es": "Palencia",
+      "name:eu": "Palentzia",
+      "name:fa": "پالنسیا",
+      "name:ja": "パレンシア",
+      "name:la": "Palantia",
+      "name:oc": "Paléncia",
+      "name:pt": "Palência",
+      "name:ru": "Паленсия",
+      "name:sr": "Паленсија"
+    }
+  },
+  {
+    "name": "Palermo",
+    "country": "Italy",
+    "latitude": 38.11122679999771,
+    "longitude": 13.3524434,
+    "other_names": {
+      "name": "Palermo",
+      "name:ar": "بلرم",
+      "name:be": "Палерма",
+      "name:ca": "Palerm",
+      "name:de": "Palermo",
+      "name:el": "Παλέρμο",
+      "name:en": "Palermo",
+      "name:eo": "Palermo",
+      "name:es": "Palermo",
+      "name:fa": "پالرمو",
+      "name:fi": "Palermo",
+      "name:fr": "Palerme",
+      "name:he": "פלרמו",
+      "name:it": "Palermo",
+      "name:ja": "パレルモ",
+      "name:kn": "ಪಲೇರ್ಮೋ",
+      "name:la": "Panormus",
+      "name:lt": "Palermas",
+      "name:oc": "Palèrme",
+      "name:pl": "Palermo",
+      "name:pt": "Palermo",
+      "name:ru": "Палермо",
+      "name:uk": "Палермо",
+      "name:zh": "巴勒莫",
+      "name:scn": "Palermu",
+      "alt_name:ar": "بلرمة;باليرمو",
+      "old_name:el": "Πάνορμος"
+    }
+  },
+  {
+    "name": "Palhoça",
+    "country": "Brazil",
+    "latitude": -27.644777399444763,
+    "longitude": -48.6646323,
+    "other_names": {
+      "name": "Palhoça"
+    }
+  },
+  {
+    "name": "Pali",
+    "country": "India",
+    "latitude": 25.780785969166885,
+    "longitude": 73.32235143940726,
+    "other_names": {
+      "name": "Pali",
+      "name:en": "Pali",
+      "name:hi": "पाली",
+      "name:ja": "パーリー"
+    }
+  },
+  {
+    "name": "Pali",
+    "country": "India",
+    "latitude": 25.768237600187344,
+    "longitude": 73.32751349999998,
+    "other_names": {
+      "name": "Pali",
+      "name:gu": "પાલી",
+      "name:hi": "पाली",
+      "name:ja": "パーリー",
+      "name:kn": "ಪಾಲಿ",
+      "name:pa": "ਪਾਲੀ",
+      "name:ta": "பாலி"
+    }
+  },
+  {
+    "name": "Palma",
+    "country": "Mozambique",
+    "latitude": -10.775809299989243,
+    "longitude": 40.4673261,
+    "other_names": {
+      "name": "Palma"
+    }
+  },
+  {
+    "name": "Palma",
+    "country": "Spain",
+    "latitude": 39.56958180020764,
+    "longitude": 2.6500744999999997,
+    "other_names": {
+      "name": "Palma",
+      "name:ar": "ميورقة",
+      "name:be": "Пальма",
+      "name:bg": "Палма",
+      "name:ca": "Palma",
+      "name:el": "Πάλμα",
+      "name:fa": "پالما",
+      "name:he": "פלמה",
+      "name:ja": "パルマ",
+      "name:ka": "პალმა",
+      "name:ko": "팔마데",
+      "name:lt": "Maljorkos Palma",
+      "name:mr": "पाल्मा",
+      "name:pt": "Palma",
+      "name:ru": "Пальма",
+      "name:sr": "Палма",
+      "name:th": "ปัลมา",
+      "name:uk": "Пальма",
+      "name:zh": "帕爾馬",
+      "alt_name": "Palma de Mallorca",
+      "int_name": "Palma de Mallorca",
+      "alt_name:ar": "مدينة مَيُورَقَة",
+      "alt_name:be": "Пальма-дэ-Мальёрка",
+      "alt_name:bg": "Палма де Майорка",
+      "alt_name:el": "Πάλμα ντε Μαγιόρκα",
+      "alt_name:eu": "Palma Mallorcakoa",
+      "alt_name:fa": "پالما د مایورکا",
+      "alt_name:fr": "Palma de Majorque",
+      "alt_name:he": "פלמה דה מיורקה",
+      "alt_name:it": "Palma di Maiorca",
+      "alt_name:ja": "パルマ・デ・マリョルカ",
+      "alt_name:ko": "팔마데마요르카",
+      "alt_name:lt": "Maljorkos Palma",
+      "alt_name:lv": "Palma de Maļorka",
+      "alt_name:mr": "पाल्मा दे मायोर्का",
+      "alt_name:pt": "Palma de Maiorca",
+      "alt_name:ru": "Пальма-де-Мальорка",
+      "alt_name:sr": "Палма де Мајорка",
+      "name:zh-Hans": "帕尔马",
+      "name:zh-Hant": "帕爾馬",
+      "official_name": "Palma",
+      "official_name:ca": "Palma"
+    }
+  },
+  {
+    "name": "Palmas",
+    "country": "Brazil",
+    "latitude": -10.183785199932418,
+    "longitude": -48.3336423,
+    "other_names": {
+      "name": "Palmas",
+      "name:ar": "بلمس",
+      "name:be": "Палмас",
+      "name:bg": "Палмас",
+      "name:de": "Palmas",
+      "name:en": "Palmas",
+      "name:fa": "پالماس",
+      "name:he": "פלמס",
+      "name:hy": "Պալմաս",
+      "name:ja": "パルマス",
+      "name:ka": "პალმასი",
+      "name:kk": "Палмас",
+      "name:ko": "파우마스",
+      "name:lt": "Palmasas",
+      "name:lv": "Palmasa",
+      "name:mk": "Палмаш",
+      "name:mr": "पाल्मास",
+      "name:pl": "Palmas",
+      "name:pt": "Palmas",
+      "name:ru": "Палмас",
+      "name:sr": "Палмас",
+      "name:tg": "Палмас",
+      "name:uk": "Палмас",
+      "name:zh": "帕尔马斯"
+    }
+  },
+  {
+    "name": "Palma Soriano",
+    "country": "Cuba",
+    "latitude": 20.212668600381466,
+    "longitude": -75.9973941,
+    "other_names": {
+      "name": "Palma Soriano",
+      "name:ru": "Пальма-Сорьяно"
+    }
+  },
+  {
+    "name": "Palm Bay",
+    "country": "United States Of America",
+    "latitude": 27.994696899946838,
+    "longitude": -80.6366144,
+    "other_names": {
+      "name": "Palm Bay"
+    }
+  },
+  {
+    "name": "Palm Coast",
+    "country": "United States Of America",
+    "latitude": 29.554143199781418,
+    "longitude": -81.22076729999999,
+    "other_names": {
+      "name": "Palm Coast",
+      "name:en": "Palm Coast",
+      "name:ru": "Палм-Кост",
+      "name:uk": "Палм-Кост"
+    }
+  },
+  {
+    "name": "Palmdale",
+    "country": "United States Of America",
+    "latitude": 34.57931309962633,
+    "longitude": -118.1171108,
+    "other_names": {
+      "name": "Palmdale"
+    }
+  },
+  {
+    "name": "Palmerston North",
+    "country": "New Zealand",
+    "latitude": -40.35631700096478,
+    "longitude": 175.6112388,
+    "other_names": {
+      "name": "Palmerston North",
+      "name:en": "Palmerston North",
+      "name:ja": "パーマストンノース",
+      "name:mi": "Te Papa-i-Oea",
+      "name:mk": "Палмерстон Норт",
+      "name:ru": "Палмерстон-Норт",
+      "name:uk": "Палмерстон-Норт"
+    }
+  },
+  {
+    "name": "Palm Harbor",
+    "country": "United States Of America",
+    "latitude": 28.07807179993754,
+    "longitude": -82.7637127,
+    "other_names": {
+      "name": "Palm Harbor"
+    }
+  },
+  {
+    "name": "Palmira",
+    "country": "Colombia",
+    "latitude": 3.5308372996305684,
+    "longitude": -76.2988048,
+    "other_names": {
+      "name": "Palmira",
+      "name:ckb": "پالمیرا"
+    }
+  },
+  {
+    "name": "Palm Springs",
+    "country": "United States Of America",
+    "latitude": 33.82462689959664,
+    "longitude": -116.54030300000001,
+    "other_names": {
+      "name": "Palm Springs",
+      "name:zh": "棕榈泉"
+    }
+  }
+]

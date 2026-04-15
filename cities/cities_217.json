@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Joliet",
+    "country": "United States Of America",
+    "latitude": 41.52636030044638,
+    "longitude": -88.08402119999998,
+    "other_names": {
+      "name": "Joliet",
+      "name:en": "Joliet",
+      "name:ru": "Джолиет",
+      "name:uk": "Джолієт"
+    }
+  },
+  {
+    "name": "Joliette",
+    "country": "Canada",
+    "latitude": 46.023979800338765,
+    "longitude": -73.44199359999999,
+    "other_names": {
+      "name": "Joliette",
+      "name:ru": "Жольет"
+    }
+  },
+  {
+    "name": "Jombang",
+    "country": "Indonesia",
+    "latitude": -7.538452799735142,
+    "longitude": 112.2379884,
+    "other_names": {
+      "name": "Jombang",
+      "name:id": "Jombang",
+      "name:ja": "ジョンバン",
+      "name:nl": "Djombang"
+    }
+  },
+  {
+    "name": "Jomda",
+    "country": "China",
+    "latitude": 31.501822099631113,
+    "longitude": 98.21770779999999,
+    "other_names": {
+      "name": "江达县",
+      "name:bo": "འཇོ་མདའ",
+      "name:en": "Jomda",
+      "name:vi": "Jomda",
+      "name:zh": "江达县",
+      "alt_name": "江达;Jiangda",
+      "alt_name:vi": "Giang Đạt",
+      "name:zh-Hant": "江達縣",
+      "name:zh_pinyin": "Jiāngdá Xiàn"
+    }
+  },
+  {
+    "name": "Jonê",
+    "country": "China",
+    "latitude": 34.59079399962694,
+    "longitude": 103.5084477,
+    "other_names": {
+      "name": "卓尼县",
+      "name:bo": "ཅོ་ནེ་རྫོང་།",
+      "name:en": "Jonê",
+      "name:zh": "卓尼县",
+      "alt_name:en": "Cone; Chone; Choni; Zhuoni",
+      "name:zh-Hant": "卓尼縣"
+    }
+  },
+  {
+    "name": "Jonesboro",
+    "country": "United States Of America",
+    "latitude": 35.84286459972027,
+    "longitude": -90.70345219999999,
+    "other_names": {
+      "name": "Jonesboro",
+      "name:ru": "Джонсборо"
+    }
+  },
+  {
+    "name": "Jongju",
+    "country": "North Korea",
+    "latitude": 39.692922500224974,
+    "longitude": 125.21012969999998,
+    "other_names": {
+      "name": "정주시",
+      "name:de": "Chongju",
+      "name:en": "Jongju",
+      "name:es": "Chongju",
+      "name:et": "Chŏngju",
+      "name:fr": "Chongju",
+      "name:ja": "定州市",
+      "name:ko": "정주시",
+      "name:ru": "Чонджу",
+      "name:zh": "定州市",
+      "int_name": "Chongju",
+      "name:ko-Hani": "定州市"
+    }
+  },
+  {
+    "name": "Jönköping",
+    "country": "Sweden",
+    "latitude": 57.78256340066304,
+    "longitude": 14.165719,
+    "other_names": {
+      "name": "Jönköping",
+      "name:la": "Junecopia",
+      "name:ru": "Йёнчёпинг",
+      "name:sv": "Jönköping",
+      "name:zh": "延雪平"
+    }
+  },
+  {
+    "name": "Joondalup",
+    "country": "Australia",
+    "latitude": -31.74307659938742,
+    "longitude": 115.7721181,
+    "other_names": {
+      "name": "Joondalup",
+      "name:ja": "ジュンダラップ"
+    }
+  },
+  {
+    "name": "Joplin",
+    "country": "United States Of America",
+    "latitude": 37.08417999985889,
+    "longitude": -94.51323,
+    "other_names": {
+      "name": "Joplin"
+    }
+  },
+  {
+    "name": "Jos",
+    "country": "Nigeria",
+    "latitude": 9.917512499434046,
+    "longitude": 8.8979401,
+    "other_names": {
+      "name": "Jos",
+      "name:ar": "جوس",
+      "name:ko": "조스",
+      "name:pl": "Dżos",
+      "name:ru": "Джос",
+      "name:uk": "Джос"
+    }
+  },
+  {
+    "name": "José C. Paz",
+    "country": "Argentina",
+    "latitude": -34.51190599978809,
+    "longitude": -58.77767769999998,
+    "other_names": {
+      "name": "José C. Paz"
+    }
+  },
+  {
+    "name": "José Falcón",
+    "country": "Paraguay",
+    "latitude": -25.215937999748036,
+    "longitude": -57.7130949,
+    "other_names": {
+      "name": "José Falcón"
+    }
+  },
+  {
+    "name": "Jose Pedro Varela",
+    "country": "Uruguay",
+    "latitude": -33.455342741492046,
+    "longitude": -54.536993131964785,
+    "other_names": {
+      "name": "Jose Pedro Varela"
+    }
+  },
+  {
+    "name": "Joso",
+    "country": "Japan",
+    "latitude": 36.023568499737884,
+    "longitude": 139.9938714,
+    "other_names": {
+      "name": "常総市",
+      "name:ar": "جوسو، إيباراكي",
+      "name:de": "Jōsō",
+      "name:en": "Joso",
+      "name:es": "Jōsō",
+      "name:fr": "Jōsō",
+      "name:ja": "常総市",
+      "name:ko": "조소시",
+      "name:ru": "Дзёсо",
+      "name:uk": "Дзьосо",
+      "int_name": "Jōsō",
+      "name:ja_rm": "Joso-shi",
+      "name:ja_kana": "じょうそうし"
+    }
+  },
+  {
+    "name": "Jounieh",
+    "country": "Lebanon",
+    "latitude": 33.9741505996009,
+    "longitude": 35.6200633,
+    "other_names": {
+      "name": "جونيه",
+      "name:ar": "جونيه",
+      "name:de": "Jounieh",
+      "name:en": "Jounieh",
+      "name:es": "Joünié",
+      "name:fr": "Jounieh",
+      "name:ml": "ജൂണിയെ"
+    }
+  },
+  {
+    "name": "Jowhar",
+    "country": "Somalia",
+    "latitude": 2.7797295997048668,
+    "longitude": 45.5042168,
+    "other_names": {
+      "name": "Jowhar جوهر",
+      "name:ar": "جوهر",
+      "name:de": "Jawhar",
+      "name:en": "Jowhar",
+      "name:fr": "Jowhar",
+      "name:it": "Giohar",
+      "name:ko": "조하르",
+      "name:pt": "Jowhar",
+      "name:ru": "Джоухар",
+      "name:uk": "Джоухар",
+      "old_name:it": "Villaggio Duca degli Abruzzi",
+      "old_name:it:2": "Villabruzzi"
+    }
+  },
+  {
+    "name": "Joyo",
+    "country": "Japan",
+    "latitude": 34.845796499641665,
+    "longitude": 135.798831,
+    "other_names": {
+      "name": "城陽市",
+      "name:ar": "جويو، كيوتو",
+      "name:de": "Jōyō",
+      "name:en": "Joyo",
+      "name:es": "Jōyō",
+      "name:fr": "Jōyō",
+      "name:ja": "城陽市",
+      "name:ko": "조요시",
+      "name:lt": "Džiojas",
+      "name:pl": "Jōyō",
+      "name:ru": "Дзёё",
+      "name:uk": "Джьойо",
+      "name:ja_rm": "Jōyō-shi",
+      "name:ja_kana": "じょうようし"
+    }
+  },
+  {
+    "name": "Juancheng",
+    "country": "China",
+    "latitude": 35.56381889969503,
+    "longitude": 115.5040382,
+    "other_names": {
+      "name": "鄄城县",
+      "name:en": "Juancheng",
+      "name:vi": "Quyên Thành",
+      "name:zh": "鄄城县",
+      "alt_name:vi": "Quyện Thành",
+      "name:zh-Hant": "鄄城縣",
+      "name:zh_pinyin": "Juancheng Xian"
+    }
+  },
+  {
+    "name": "Juan Griego",
+    "country": "Venezuela",
+    "latitude": 11.07765369950426,
+    "longitude": -63.967238900000005,
+    "other_names": {
+      "name": "Juan Griego"
+    }
+  }
+]

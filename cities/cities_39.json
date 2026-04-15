@@ -1,0 +1,412 @@
+[
+  {
+    "name": "Baoji",
+    "country": "China",
+    "latitude": 34.36458109961582,
+    "longitude": 107.23321839999998,
+    "other_names": {
+      "name": "宝鸡市",
+      "name:de": "Baoji",
+      "name:en": "Baoji",
+      "name:et": "Baoji",
+      "name:fr": "Baoji",
+      "name:ja": "宝鶏市",
+      "name:pt": "Baoji",
+      "name:ru": "Баоцзи",
+      "name:uk": "Баоцзі",
+      "name:vi": "Bảo Kê",
+      "name:zh": "宝鸡市",
+      "name:zh-Hant": "寶雞市",
+      "name:zh_pinyin": "Bǎojī Shì"
+    }
+  },
+  {
+    "name": "Baojing",
+    "country": "China",
+    "latitude": 28.703425399868923,
+    "longitude": 109.65539609999999,
+    "other_names": {
+      "name": "保靖县",
+      "name:en": "Baojing",
+      "name:vi": "Bảo Tĩnh",
+      "name:zh": "保靖县",
+      "alt_name": "保靖;Baojing County",
+      "name:zh-Hant": "保靖縣",
+      "name:zh_pinyin": "Bǎojìng Xiàn"
+    }
+  },
+  {
+    "name": "Baokang",
+    "country": "China",
+    "latitude": 31.87993379961332,
+    "longitude": 111.25558529999999,
+    "other_names": {
+      "name": "保康县",
+      "name:en": "Baokang",
+      "name:ja": "保康県",
+      "name:ru": "Баокан",
+      "name:zh": "保康县",
+      "name:zh-Hant": "保康縣"
+    }
+  },
+  {
+    "name": "Bảo Lộc",
+    "country": "Vietnam",
+    "latitude": 11.550694099541268,
+    "longitude": 107.80925109999998,
+    "other_names": {
+      "name": "Bảo Lộc",
+      "name:en": "Bảo Lộc",
+      "name:ja": "バオロク",
+      "name:ko": "바오록",
+      "name:ru": "Баолок",
+      "name:uk": "Баолок",
+      "name:zh": "宝禄市"
+    }
+  },
+  {
+    "name": "Baoqing",
+    "country": "China",
+    "latitude": 46.323553100289445,
+    "longitude": 132.1986841,
+    "other_names": {
+      "name": "宝清县",
+      "name:en": "Baoqing",
+      "name:ru": "Баоцин",
+      "name:vi": "Bảo Thanh",
+      "name:zh": "宝清县",
+      "alt_name": "宝清;Baoqing County",
+      "name:zh-Hant": "寶清縣",
+      "official_name": "宝清镇",
+      "name:zh_pinyin": "Bǎoqīng Xiàn"
+    }
+  },
+  {
+    "name": "Baoshan",
+    "country": "China",
+    "latitude": 25.114886800248076,
+    "longitude": 99.1607283,
+    "other_names": {
+      "name": "保山市",
+      "name:de": "Baoshan",
+      "name:en": "Baoshan",
+      "name:et": "Baoshan",
+      "name:fi": "Baoshan",
+      "name:fr": "Baoshan",
+      "name:ja": "保山市",
+      "name:ru": "Баошань",
+      "name:uk": "Баошань",
+      "name:vi": "Bảo Sơn",
+      "name:zh": "保山市",
+      "name:zh-Hant": "保山市",
+      "name:zh_pinyin": "Bǎoshān Shì"
+    }
+  },
+  {
+    "name": "Baoshan",
+    "country": "China",
+    "latitude": 46.56484440024627,
+    "longitude": 131.40096829999996,
+    "other_names": {
+      "name": "宝山区",
+      "name:en": "Baoshan",
+      "name:vi": "Bảo Sơn",
+      "name:zh": "宝山区",
+      "alt_name": "宝山;Baoshan District",
+      "name:zh-Hant": "寶山區",
+      "name:zh_pinyin": "Baoshan Qu"
+    }
+  },
+  {
+    "name": "Baoshan District",
+    "country": "China",
+    "latitude": 31.401568399636545,
+    "longitude": 121.44529929999999,
+    "other_names": {
+      "name": "宝山区",
+      "name:cs": "Pao-šan",
+      "name:de": "Baoshan",
+      "name:en": "Baoshan District",
+      "name:es": "Distrito de Baoshan",
+      "name:eu": "Baoshan Barrutia",
+      "name:fa": "باوشان",
+      "name:fi": "Baoshan",
+      "name:fr": "District de Baoshan",
+      "name:gl": "Distrito de Baoshan",
+      "name:id": "Distrik Baoshan",
+      "name:it": "Distretto di Baoshan",
+      "name:ja": "宝山区",
+      "name:ko": "바오산구",
+      "name:lt": "Baošanas",
+      "name:nl": "Baoshan",
+      "name:no": "Baoshan",
+      "name:ru": "Баошань",
+      "name:sv": "Baoshan, Shanghai",
+      "name:tr": "Baoshan, Şanghay",
+      "name:uk": "Район Баошань",
+      "name:ur": "باوشان ضلع، شنگھائی",
+      "name:vi": "Bảo Sơn",
+      "name:zh": "宝山区",
+      "name:ceb": "Baoshan Qu",
+      "name:nan": "Pó-san-khu",
+      "name:wuu": "宝山区",
+      "name:yue": "寶山區",
+      "name:zh-Hant": "寶山區",
+      "name:zh_pinyin": "Bǎoshān Qū"
+    }
+  },
+  {
+    "name": "Baotou",
+    "country": "China",
+    "latitude": 40.654915700351836,
+    "longitude": 109.83445859999999,
+    "other_names": {
+      "name": "包头市",
+      "name:ar": "باوتو",
+      "name:ca": "Baotou",
+      "name:cs": "Pao-tchou",
+      "name:de": "Baotou",
+      "name:en": "Baotou",
+      "name:eo": "Baŭtoŭo",
+      "name:es": "Baotou",
+      "name:et": "Baotou",
+      "name:fa": "بائوتو",
+      "name:fi": "Baotou",
+      "name:fr": "Baotou",
+      "name:hi": "बाओटौ",
+      "name:ja": "包頭市",
+      "name:lt": "Baotou",
+      "name:mn": "ᠪᠤᠭᠠᠲ ᠬᠣᠲᠠ",
+      "name:oc": "Baotou",
+      "name:pt": "Baotou",
+      "name:ru": "Баотоу",
+      "name:uk": "Баотоу",
+      "name:ur": "بائوتو",
+      "name:vi": "Bao Đầu",
+      "name:zh": "包头市",
+      "alt_name:ar": "بوتو",
+      "name:zh-Hant": "包頭市",
+      "name:zh_pinyin": "Baotou Shi"
+    }
+  },
+  {
+    "name": "Baoxing",
+    "country": "China",
+    "latitude": 30.384928599706818,
+    "longitude": 102.8129527,
+    "other_names": {
+      "name": "宝兴县",
+      "name:en": "Baoxing",
+      "name:zh": "宝兴县",
+      "alt_name": "宝兴;Baoxing County",
+      "name:zh-Hant": "寶興縣"
+    }
+  },
+  {
+    "name": "Baoying County",
+    "country": "China",
+    "latitude": 33.23982759958775,
+    "longitude": 119.31341529999999,
+    "other_names": {
+      "name": "宝应县",
+      "name:de": "Baoying",
+      "name:en": "Baoying County",
+      "name:es": "Baoying",
+      "name:fa": "شهرستان باویینگ",
+      "name:fr": "Xian de Baoying",
+      "name:it": "Contea di Baoying",
+      "name:ja": "宝応県",
+      "name:ko": "바오잉현",
+      "name:no": "Baoying",
+      "name:ru": "Баоин",
+      "name:sv": "Baoying",
+      "name:ur": "باوئینگ کاؤنٹی",
+      "name:vi": "Bảo Ứng",
+      "name:zh": "宝应县",
+      "name:ceb": "Baoying Xian",
+      "name:nan": "Pó-eng-koān",
+      "name:yue": "寶應",
+      "name:zh-Hant": "寶應縣",
+      "name:zh_pinyin": "Bǎoyìng Xiàn"
+    }
+  },
+  {
+    "name": "Baqên",
+    "country": "China",
+    "latitude": 31.920556799611678,
+    "longitude": 94.05231389999999,
+    "other_names": {
+      "name": "巴青县",
+      "name:en": "Baqên",
+      "name:ja": "バチェン県",
+      "name:zh": "巴青县",
+      "alt_name": "巴青;Baqen;Pa-ch'ing Hsien;Baqen Xian;Baqing Xian",
+      "name:zh-Hant": "巴青縣",
+      "name:zh_pinyin": "Bāqīng Xiàn"
+    }
+  },
+  {
+    "name": "Baqiao",
+    "country": "China",
+    "latitude": 34.274808499611886,
+    "longitude": 109.05647210000001,
+    "other_names": {
+      "name": "灞桥区",
+      "name:en": "Baqiao",
+      "name:zh": "灞桥区",
+      "name:zh-Hant": "灞橋區"
+    }
+  },
+  {
+    "name": "Baqubah",
+    "country": "Iraq",
+    "latitude": 33.74372669959468,
+    "longitude": 44.6495225,
+    "other_names": {
+      "name": "بعقوبة",
+      "name:ar": "بعقوبة",
+      "name:cs": "Bakúba",
+      "name:de": "Baquba",
+      "name:en": "Baqubah",
+      "name:es": "Baquba",
+      "name:et": "Ba‘qūbah",
+      "name:fr": "Bakouba",
+      "name:hi": "बक़ुबाह",
+      "name:ja": "バアクーバ",
+      "name:ku": "Baqûba",
+      "name:pl": "Bakuba",
+      "name:ru": "Баакуба",
+      "name:uk": "Бакуба",
+      "alt_name": "Ba‘qūbah - بعقوبة, Baqūbah, Baqūba, Bakuba, Baquba, Baqubeh, بعقوبة, Baqubah, Baquba, Bakuba, Baquba, Baqubeh, بعقوبة",
+      "int_name": "Baqubah - بعقوبة",
+      "alt_name:fr": "Baqouba, Baaqouba",
+      "alt_name:uk": "Баакуба"
+    }
+  },
+  {
+    "name": "Bar",
+    "country": "Montenegro",
+    "latitude": 42.0979745004933,
+    "longitude": 19.0954528,
+    "other_names": {
+      "name": "Bar",
+      "name:ar": "بار",
+      "name:be": "Бар",
+      "name:bg": "Бар",
+      "name:bs": "Bar",
+      "name:ca": "Bar",
+      "name:ce": "Бар",
+      "name:cs": "Bar",
+      "name:da": "Bar",
+      "name:de": "Bar",
+      "name:el": "Μπαρ",
+      "name:en": "Bar",
+      "name:es": "Bar",
+      "name:et": "Bar",
+      "name:eu": "Bar",
+      "name:fa": "بار",
+      "name:fi": "Bar",
+      "name:fo": "Bar",
+      "name:fr": "Bar",
+      "name:he": "בר",
+      "name:hr": "Bar",
+      "name:hu": "Bar",
+      "name:id": "Bar",
+      "name:is": "Bar",
+      "name:it": "Antivari",
+      "name:ja": "バール",
+      "name:ka": "ბარი",
+      "name:kl": "Bar",
+      "name:ko": "바르",
+      "name:la": "Antibarium",
+      "name:lt": "Baras",
+      "name:mk": "Бар",
+      "name:nb": "Bar",
+      "name:nl": "Bar",
+      "name:nn": "Bar",
+      "name:oc": "Bar",
+      "name:pl": "Bar",
+      "name:pt": "Bar",
+      "name:ro": "Bar",
+      "name:ru": "Бар",
+      "name:sh": "Bar",
+      "name:sk": "Bar",
+      "name:sl": "Bar",
+      "name:sq": "Tivari",
+      "name:sr": "Бар",
+      "name:sv": "Bar",
+      "name:tr": "Bar",
+      "name:uk": "Бар",
+      "name:ur": "بار",
+      "name:ceb": "Bar",
+      "name:gag": "Bar",
+      "name:sco": "Bar",
+      "alt_name:it": "Antibari",
+      "name:sr-Latn": "Bar",
+      "name:zh-Hans": "巴尔",
+      "name:zh-Hant": "巴爾"
+    }
+  },
+  {
+    "name": "Barabanki",
+    "country": "India",
+    "latitude": 26.92740970006586,
+    "longitude": 81.19483749999999,
+    "other_names": {
+      "name": "Barabanki",
+      "name:en": "Barabanki",
+      "name:hi": "बाराबंकी",
+      "name:ja": "バラバンキ",
+      "name:kn": "ಬಾರಬಂಕಿ"
+    }
+  },
+  {
+    "name": "Baracoa",
+    "country": "Cuba",
+    "latitude": 20.347786900386602,
+    "longitude": -74.4968647,
+    "other_names": {
+      "name": "Baracoa",
+      "name:hu": "Baracoa",
+      "name:ru": "Баракоа"
+    }
+  },
+  {
+    "name": "Barah",
+    "country": "Sudan",
+    "latitude": 13.696832499755567,
+    "longitude": 30.3703697,
+    "other_names": {
+      "name": "بارا",
+      "name:ar": "بارا",
+      "name:de": "Barah",
+      "name:en": "Barah",
+      "name:es": "Barah",
+      "name:fr": "Barah",
+      "alt_name": "Barah;Bāra;Bara;Bārah",
+      "alt_name:ar": "بار;بارة"
+    }
+  },
+  {
+    "name": "Baraka",
+    "country": "Congo Democratic Republic",
+    "latitude": -4.105613199701194,
+    "longitude": 29.0950688,
+    "other_names": {
+      "name": "Baraka"
+    }
+  },
+  {
+    "name": "Barakaldo",
+    "country": "Spain",
+    "latitude": 43.29548000054141,
+    "longitude": -2.9900933,
+    "other_names": {
+      "name": "Barakaldo",
+      "name:es": "Baracaldo",
+      "name:eu": "Barakaldo",
+      "name:ru": "Баракальдо",
+      "official_name": "Barakaldo"
+    }
+  }
+]

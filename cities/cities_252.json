@@ -1,0 +1,255 @@
+[
+  {
+    "name": "La Carlota",
+    "country": "Philippines",
+    "latitude": 10.425355999460992,
+    "longitude": 122.9224865,
+    "other_names": {
+      "name": "La Carlota"
+    }
+  },
+  {
+    "name": "La Ceiba",
+    "country": "Honduras",
+    "latitude": 15.783374299999421,
+    "longitude": -86.79177489999998,
+    "other_names": {
+      "name": "La Ceiba",
+      "name:en": "La Ceiba",
+      "name:hu": "La Ceiba",
+      "name:lt": "La Seiba",
+      "name:ru": "Ла-Сейба",
+      "name:uk": "Ла-Сейба"
+    }
+  },
+  {
+    "name": "Lachin / Berdzor",
+    "country": "Azerbaijan",
+    "latitude": 39.64018250021759,
+    "longitude": 46.548837799999994,
+    "other_names": {
+      "name": "Laçın / Բերձոր",
+      "name:ar": "لاشن",
+      "name:az": "Laçın",
+      "name:en": "Lachin / Berdzor",
+      "name:fa": "لاچین",
+      "name:hi": "लाचीन",
+      "name:hy": "Բերձոր",
+      "name:pl": "Laczyn / Berdzor",
+      "name:ru": "Лачин / Бердзор",
+      "name:tr": "Laçın",
+      "name:azb": "لاچن",
+      "name:ckb": "لاچین",
+      "name:kmr": "لاچین",
+      "name:ota": "لاچن",
+      "name:pnb": "لاچن",
+      "alt_name:en": "Lachin / Berdzor",
+      "alt_name:pl": "Laczin",
+      "name:ku-Arab": "لاچین"
+    }
+  },
+  {
+    "name": "Lacombe",
+    "country": "Canada",
+    "latitude": 52.47275149908899,
+    "longitude": -113.733215,
+    "other_names": {
+      "name": "Lacombe"
+    }
+  },
+  {
+    "name": "Laconia",
+    "country": "United States Of America",
+    "latitude": 43.52785460054178,
+    "longitude": -71.470351,
+    "other_names": {
+      "name": "Laconia"
+    }
+  },
+  {
+    "name": "La Crosse",
+    "country": "United States Of America",
+    "latitude": 43.80140530053812,
+    "longitude": -91.2395429,
+    "other_names": {
+      "name": "La Crosse"
+    }
+  },
+  {
+    "name": "Ladysmith",
+    "country": "South Africa And Lesotho",
+    "latitude": -28.551943999370813,
+    "longitude": 29.778332999999996,
+    "other_names": {
+      "name": "Ladysmith",
+      "name:ko": "레이디스미스",
+      "name:ru": "Ледисмит"
+    }
+  },
+  {
+    "name": "Ladysmith",
+    "country": "South Africa",
+    "latitude": -28.551943999370813,
+    "longitude": 29.778332999999996,
+    "other_names": {
+      "name": "Ladysmith",
+      "name:ko": "레이디스미스",
+      "name:ru": "Ледисмит"
+    }
+  },
+  {
+    "name": "Lae",
+    "country": "Papua New Guinea",
+    "latitude": -6.7301975997016275,
+    "longitude": 147.0008109,
+    "other_names": {
+      "name": "Lae",
+      "name:en": "Lae",
+      "name:ja": "ラエ",
+      "name:ru": "Лаэ",
+      "name:uk": "Лае"
+    }
+  },
+  {
+    "name": "Laem Chabang",
+    "country": "Thailand",
+    "latitude": 13.09705549968955,
+    "longitude": 100.91522659999998,
+    "other_names": {
+      "name": "แหลมฉบัง",
+      "name:en": "Laem Chabang",
+      "name:ja": "レムチャバン",
+      "name:ru": "Лаем Чабанг",
+      "official_name": "เทศบาลนครแหลมฉบัง"
+    }
+  },
+  {
+    "name": "La Esperanza",
+    "country": "Honduras",
+    "latitude": 14.30808739982583,
+    "longitude": -88.1766263,
+    "other_names": {
+      "name": "La Esperanza",
+      "name:hu": "La Esperanza"
+    }
+  },
+  {
+    "name": "Lafayette",
+    "country": "United States Of America",
+    "latitude": 40.41670220032216,
+    "longitude": -86.8752869,
+    "other_names": {
+      "name": "Lafayette",
+      "name:en": "Lafayette",
+      "name:ru": "Лафайетт"
+    }
+  },
+  {
+    "name": "Lafayette",
+    "country": "United States Of America",
+    "latitude": 30.224089699720206,
+    "longitude": -92.0198427,
+    "other_names": {
+      "name": "Lafayette",
+      "name:ru": "Лафайетт"
+    }
+  },
+  {
+    "name": "Lafia",
+    "country": "Nigeria",
+    "latitude": 9.651933199422436,
+    "longitude": 11.8176813,
+    "other_names": {
+      "name": "Lafia",
+      "name:ko": "라피아",
+      "name:ru": "Лафиа"
+    }
+  },
+  {
+    "name": "Lafia",
+    "country": "Nigeria",
+    "latitude": 8.496045899392627,
+    "longitude": 8.5147636,
+    "other_names": {
+      "name": "Lafia",
+      "name:ar": "لافيا",
+      "name:ko": "라피아",
+      "name:ru": "Лафиа"
+    }
+  },
+  {
+    "name": "Lagarto",
+    "country": "Brazil",
+    "latitude": -10.914179100002888,
+    "longitude": -37.67153079999999,
+    "other_names": {
+      "name": "Lagarto",
+      "name:lt": "Lagartas",
+      "name:pt": "Lagarto",
+      "name:ru": "Лагарту"
+    }
+  },
+  {
+    "name": "Lages",
+    "country": "Brazil",
+    "latitude": -27.816566399428638,
+    "longitude": -50.32588299999999,
+    "other_names": {
+      "name": "Lages",
+      "alt_name": "Lajes"
+    }
+  },
+  {
+    "name": "Laghouat",
+    "country": "Algeria",
+    "latitude": 33.80635179959617,
+    "longitude": 2.8808616,
+    "other_names": {
+      "name": "Laghouat ⵍⴰⴴⵡⴰⵟ الأغواط",
+      "name:ar": "الأغواط",
+      "name:el": "Λαγκουάτ",
+      "name:en": "Laghouat",
+      "name:fa": "الاغواط",
+      "name:fr": "Laghouat",
+      "name:lt": "Laguatas",
+      "name:ru": "Лагуат",
+      "name:uk": "Лагуат",
+      "name:ur": "الاغواط",
+      "name:azb": "الاغواط",
+      "name:ber": "ⵍⴰⴴⵡⴰⵟ",
+      "name:kab": "Leɣwaṭ"
+    }
+  },
+  {
+    "name": "Lagoa",
+    "country": "Portugal",
+    "latitude": 37.74476189089643,
+    "longitude": -25.56677771136576,
+    "other_names": {
+      "name": "Lagoa"
+    }
+  },
+  {
+    "name": "Lagos",
+    "country": "Nigeria",
+    "latitude": 6.455057499423898,
+    "longitude": 3.3941795,
+    "other_names": {
+      "name": "Lagos",
+      "name:ar": "لاغوس",
+      "name:de": "Lagos",
+      "name:el": "Λάγος",
+      "name:eo": "Lagoso",
+      "name:hi": "लागोस्",
+      "name:it": "Lagos",
+      "name:kn": "ಲಾಗೋಸ್",
+      "name:ko": "라고스",
+      "name:oc": "Lagos",
+      "name:pl": "Lagos",
+      "name:ru": "Лагос",
+      "name:uk": "Лаґос",
+      "name:ckb": "لاگۆس",
+      "alt_name:eo": "Lejgoso"
+    }
+  }
+]

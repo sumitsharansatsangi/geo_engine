@@ -1,0 +1,363 @@
+[
+  {
+    "name": "Antioch",
+    "country": "United States Of America",
+    "latitude": 38.00492139998267,
+    "longitude": -121.80578899999999,
+    "other_names": {
+      "name": "Antioch"
+    }
+  },
+  {
+    "name": "Antipolo",
+    "country": "Philippines",
+    "latitude": 14.587026199858533,
+    "longitude": 121.1758611,
+    "other_names": {
+      "name": "Antipolo",
+      "name:ja": "アンティポロ",
+      "name:ru": "Антиполо",
+      "name:zh": "安蒂波洛"
+    }
+  },
+  {
+    "name": "Antofagasta",
+    "country": "Chile",
+    "latitude": -23.64637409997627,
+    "longitude": -70.3980033,
+    "other_names": {
+      "name": "Antofagasta",
+      "name:en": "Antofagasta",
+      "name:ru": "Антофагаста",
+      "name:uk": "Антофагаста"
+    }
+  },
+  {
+    "name": "Antsirabe",
+    "country": "Madagascar",
+    "latitude": -19.87140300040011,
+    "longitude": 47.03466699999999,
+    "other_names": {
+      "name": "Antsirabe",
+      "name:ar": "أنتسيرابي",
+      "name:ja": "アンツィラベ",
+      "name:ko": "안치라베",
+      "name:ru": "Анцирабе",
+      "name:zh": "安齐拉贝"
+    }
+  },
+  {
+    "name": "Antsiranana",
+    "country": "Madagascar",
+    "latitude": -12.277913400140244,
+    "longitude": 49.2913394,
+    "other_names": {
+      "name": "Antsiranana",
+      "name:fr": "Antsiranana",
+      "name:ja": "アンツィラナナ",
+      "name:ko": "안치라나나",
+      "name:ru": "Анциранана",
+      "loc_name": "Diégo",
+      "old_name": "Diégo-Suarez"
+    }
+  },
+  {
+    "name": "Antwerp",
+    "country": "Belgium",
+    "latitude": 51.22110969921299,
+    "longitude": 4.399708099999999,
+    "other_names": {
+      "name": "Antwerpen",
+      "name:ar": "أنتويرب",
+      "name:ca": "Anvers",
+      "name:cs": "Antverpy",
+      "name:de": "Antwerpen",
+      "name:el": "Αμβέρσα",
+      "name:en": "Antwerp",
+      "name:eo": "Antverpeno",
+      "name:es": "Amberes",
+      "name:fi": "Antwerpen",
+      "name:fr": "Anvers",
+      "name:he": "אנטוורפן",
+      "name:hr": "Antwerpen",
+      "name:hy": "Անտվերպեն",
+      "name:it": "Anversa",
+      "name:ja": "アントワープ",
+      "name:ka": "ანტვერპენი",
+      "name:kn": "ಆಂಟ್ವೆರ್ಪ್",
+      "name:la": "Antverpia",
+      "name:lt": "Antverpenas",
+      "name:lv": "Antverpene",
+      "name:mk": "Антверпен",
+      "name:nl": "Antwerpen",
+      "name:pl": "Antwerpia",
+      "name:pt": "Antuérpia",
+      "name:ru": "Антверпен",
+      "name:sk": "Antverpy",
+      "name:sr": "Антверпен",
+      "name:uk": "Антверпен",
+      "name:wa": "Anverse",
+      "name:zh": "安特卫普",
+      "name:nds": "Antwarp",
+      "name:pcd": "Anvérse",
+      "name:vls": "Antwerpn",
+      "alt_name:ar": "أنتفيرب",
+      "alt_name:es": "Antuerpia",
+      "alt_name:mk": "Антверп",
+      "name:nds-nl": "Antwaarp",
+      "old_name:de": "Antorf"
+    }
+  },
+  {
+    "name": "Anur",
+    "country": "India",
+    "latitude": 16.453190000075914,
+    "longitude": 74.2699404,
+    "other_names": {
+      "name": "Anur"
+    }
+  },
+  {
+    "name": "Anuradhapura",
+    "country": "Sri Lanka",
+    "latitude": 8.33498499939121,
+    "longitude": 80.4106096,
+    "other_names": {
+      "name": "Anuradhapura",
+      "name:ar": "أنورادابورا",
+      "name:hi": "अनुराधापुर",
+      "name:ja": "アヌラーダプラ",
+      "name:kn": "ಅನು಼ರಾದಪುರಂ",
+      "name:ml": "അനുരാധപുരം",
+      "name:ru": "Анурадхапура",
+      "name:si": "අනුරාධපුරය",
+      "name:ta": "அனுராதபுரம்",
+      "name:uk": "Анурадхапура"
+    }
+  },
+  {
+    "name": "Anxi",
+    "country": "China",
+    "latitude": 25.058284300252982,
+    "longitude": 118.18170649999999,
+    "other_names": {
+      "name": "安溪县",
+      "name:de": "Anxi",
+      "name:en": "Anxi",
+      "name:es": "Ānxī",
+      "name:fr": "Anxi",
+      "name:it": "Anxi",
+      "name:ja": "安渓県",
+      "name:ko": "안시현",
+      "name:ru": "Аньси",
+      "name:vi": "An Khê",
+      "name:zh": "安溪县",
+      "alt_name": "安溪;Anxi County",
+      "name:cdo": "Ăng-kă̤",
+      "name:hak": "Ôn-hâi-yen",
+      "name:nan": "An-khoe-koān",
+      "name:zh-Hant": "安溪縣",
+      "name:zh_pinyin": "ānxī xiàn"
+    }
+  },
+  {
+    "name": "Anxiang",
+    "country": "China",
+    "latitude": 29.41355959979522,
+    "longitude": 112.1652707,
+    "other_names": {
+      "name": "安乡县",
+      "name:en": "Anxiang",
+      "name:vi": "An Hương",
+      "name:zh": "安乡县",
+      "alt_name": "安乡",
+      "name:zh-Hant": "安鄉縣",
+      "name:zh_pinyin": "Anxiang Xian"
+    }
+  },
+  {
+    "name": "Anxin",
+    "country": "China",
+    "latitude": 38.928626800115566,
+    "longitude": 115.9309289,
+    "other_names": {
+      "name": "安新县",
+      "name:en": "Anxin",
+      "name:zh": "安新县",
+      "alt_name": "安新;Anxin County",
+      "name:zh-Hant": "安新縣",
+      "name:zh_pinyin": "ānxīn xian"
+    }
+  },
+  {
+    "name": "Anyama",
+    "country": "Ivory Coast",
+    "latitude": 5.495889799473457,
+    "longitude": -4.056921,
+    "other_names": {
+      "name": "Anyama",
+      "name:ar": "أنياما",
+      "alt_name": "Aniama"
+    }
+  },
+  {
+    "name": "Anyang",
+    "country": "China",
+    "latitude": 36.08378439974396,
+    "longitude": 114.46642259999999,
+    "other_names": {
+      "name": "安阳县",
+      "name:en": "Anyang",
+      "name:vi": "An Dương",
+      "name:zh": "安阳县",
+      "alt_name": "安阳;Anyang County",
+      "name:zh-Hant": "安陽縣",
+      "name:zh_pinyin": "Anyang Xian"
+    }
+  },
+  {
+    "name": "Anyang",
+    "country": "China",
+    "latitude": 36.102355199745865,
+    "longitude": 114.33632999999999,
+    "other_names": {
+      "name": "安阳市",
+      "name:de": "Anyang",
+      "name:en": "Anyang",
+      "name:et": "Anyang",
+      "name:fr": "Anyang",
+      "name:hi": "अन्यांग",
+      "name:ja": "安陽市",
+      "name:pt": "Anyang",
+      "name:ru": "Аньян",
+      "name:sr": "Анјанг",
+      "name:uk": "Аньян",
+      "name:vi": "An Dương",
+      "name:zh": "安阳市",
+      "alt_name": "安阳;An-yang Shih;Anyang City",
+      "int_name": "Anyang",
+      "name:zh-Hant": "安陽市",
+      "name:zh_pinyin": "Ānyáng Shì"
+    }
+  },
+  {
+    "name": "Anyang-si",
+    "country": "South Korea",
+    "latitude": 37.393852799898994,
+    "longitude": 126.95706049999998,
+    "other_names": {
+      "name": "안양시",
+      "name:de": "Anyang",
+      "name:en": "Anyang-si",
+      "name:es": "Anyang",
+      "name:et": "Anyang",
+      "name:fr": "Anyang",
+      "name:ja": "安養市",
+      "name:ko": "안양시",
+      "name:lt": "Anjangas",
+      "name:zh": "安养市",
+      "int_name": "Anyang",
+      "name:ko-Hani": "安養市",
+      "name:zh-Hant": "安養市"
+    }
+  },
+  {
+    "name": "Anyi County",
+    "country": "China",
+    "latitude": 28.847734499853495,
+    "longitude": 115.54444709999999,
+    "other_names": {
+      "name": "安义县",
+      "name:de": "Anyi",
+      "name:en": "Anyi County",
+      "name:eu": "Anyi konderria",
+      "name:fa": "شهرستان آنیی",
+      "name:fr": "Xian d'Anyi",
+      "name:it": "Contea di Anyi",
+      "name:ja": "安義県",
+      "name:ko": "안이현",
+      "name:no": "Anyi",
+      "name:ru": "Аньи",
+      "name:sv": "Anyi",
+      "name:vi": "An Nghĩa",
+      "name:zh": "安义县",
+      "name:ceb": "Anyi Xian",
+      "name:gan": "安義",
+      "name:nan": "An-gī-koān",
+      "name:yue": "安義",
+      "name:zh-Hant": "安義縣",
+      "name:zh_pinyin": "Ānyì Xiàn"
+    }
+  },
+  {
+    "name": "Anyuan",
+    "country": "China",
+    "latitude": 27.6189172999889,
+    "longitude": 113.8671885,
+    "other_names": {
+      "name": "安源区",
+      "name:en": "Anyuan",
+      "name:vi": "An Nguyên",
+      "name:zh": "安源区",
+      "alt_name": "安源;Anyuan District",
+      "name:zh-Hant": "安源區",
+      "name:zh_pinyin": "ānyuán qū"
+    }
+  },
+  {
+    "name": "Anyuan",
+    "country": "China",
+    "latitude": 25.139216500245933,
+    "longitude": 115.38837730000002,
+    "other_names": {
+      "name": "安远县",
+      "name:de": "Anyuan",
+      "name:en": "Anyuan",
+      "name:fa": "شهرستان آنیوان",
+      "name:fr": "Xian d'Anyuan",
+      "name:it": "Contea di Anyuan",
+      "name:ja": "安遠県",
+      "name:ko": "안위안현",
+      "name:no": "Anyuan",
+      "name:ru": "Аньюань",
+      "name:sv": "Anyuan",
+      "name:vi": "An Viễn",
+      "name:zh": "安远县",
+      "alt_name": "安远;Anyuan County",
+      "name:ceb": "Anyuan Xian",
+      "name:gan": "安遠",
+      "name:nan": "An-oán-koān",
+      "name:yue": "安遠",
+      "name:zh-Hant": "安遠縣",
+      "name:zh_pinyin": "ānyuǎn xiàn"
+    }
+  },
+  {
+    "name": "Anyue",
+    "country": "China",
+    "latitude": 30.10515649973046,
+    "longitude": 105.33520629999998,
+    "other_names": {
+      "name": "安岳县",
+      "name:en": "Anyue",
+      "name:zh": "安岳县",
+      "alt_name": "安岳;Anyue County",
+      "name:zh-Hant": "安嶽縣"
+    }
+  },
+  {
+    "name": "Anze",
+    "country": "China",
+    "latitude": 36.14412609975017,
+    "longitude": 112.24273079999999,
+    "other_names": {
+      "name": "安泽县",
+      "name:en": "Anze",
+      "name:ja": "安沢県",
+      "name:ru": "Фучэн",
+      "name:zh": "安泽县",
+      "alt_name": "安泽;An-tse;Anze County",
+      "name:zh-Hant": "安澤縣"
+    }
+  }
+]

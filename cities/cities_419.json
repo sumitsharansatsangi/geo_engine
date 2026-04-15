@@ -1,0 +1,253 @@
+[
+  {
+    "name": "Santa Marta",
+    "country": "Colombia",
+    "latitude": 11.242228899516624,
+    "longitude": -74.2055606,
+    "other_names": {
+      "name": "Santa Marta",
+      "name:en": "Santa Marta",
+      "name:ru": "Санта-Марта",
+      "name:uk": "Санта-Марта"
+    }
+  },
+  {
+    "name": "Santa Monica",
+    "country": "United States Of America",
+    "latitude": 34.01947039960234,
+    "longitude": -118.49122729999999,
+    "other_names": {
+      "name": "Santa Monica",
+      "name:ar": "سانتا مونيكا",
+      "name:he": "סנטה מוניקה",
+      "name:ru": "Санта-Моника",
+      "name:zh-Hans": "圣莫尼卡",
+      "name:zh-Hant": "聖塔莫尼卡"
+    }
+  },
+  {
+    "name": "Santana",
+    "country": "Brazil",
+    "latitude": -0.030706799996856052,
+    "longitude": -51.178966599999995,
+    "other_names": {
+      "name": "Santana",
+      "name:bg": "Сантана",
+      "name:ka": "სანტანა",
+      "name:pt": "Santana",
+      "name:ru": "Сантана"
+    }
+  },
+  {
+    "name": "Santana de Parnaíba",
+    "country": "Brazil",
+    "latitude": -23.444671500005043,
+    "longitude": -46.9167722,
+    "other_names": {
+      "name": "Santana de Parnaíba"
+    }
+  },
+  {
+    "name": "Santander",
+    "country": "Spain",
+    "latitude": 43.46204120054198,
+    "longitude": -3.8099718999999985,
+    "other_names": {
+      "name": "Santander",
+      "name:ar": "سانتاندير",
+      "name:be": "Сантандэр",
+      "name:bg": "Сантандер",
+      "name:ca": "Santander",
+      "name:el": "Σανταντέρ",
+      "name:en": "Santander",
+      "name:eo": "Santandero",
+      "name:es": "Santander",
+      "name:fa": "سانتاندر",
+      "name:fr": "Santander",
+      "name:he": "סנטנדר",
+      "name:hu": "Santander",
+      "name:ja": "サンタンデール",
+      "name:lt": "Santanderas",
+      "name:os": "Сантандер",
+      "name:ru": "Сантандер",
+      "name:zh": "桑坦德"
+    }
+  },
+  {
+    "name": "Sant Antoni",
+    "country": "Spain",
+    "latitude": 41.84458789828294,
+    "longitude": 3.097431843047704,
+    "other_names": {
+      "name": "Sant Antoni"
+    }
+  },
+  {
+    "name": "Santarém",
+    "country": "Portugal",
+    "latitude": 39.23636370016007,
+    "longitude": -8.6867081,
+    "other_names": {
+      "name": "Santarém",
+      "name:ar": "شنترين",
+      "name:el": "Σανταρέμ",
+      "name:hu": "Santarém",
+      "name:lt": "Santarenas",
+      "name:ru": "Сантарен",
+      "name:sr": "Сантарем"
+    }
+  },
+  {
+    "name": "Santarém",
+    "country": "Brazil",
+    "latitude": -2.4384889997859225,
+    "longitude": -54.69961099999999,
+    "other_names": {
+      "name": "Santarém",
+      "name:he": "סנטרם",
+      "name:ja": "サンタレン",
+      "name:ka": "სანტარემი",
+      "name:kk": "Сантарен",
+      "name:ko": "산타렝",
+      "name:lt": "Santarenas",
+      "name:pt": "Santarém",
+      "name:ru": "Сантарен",
+      "name:sr": "Сантарем",
+      "name:zh": "聖塔倫"
+    }
+  },
+  {
+    "name": "Santa Rita",
+    "country": "Brazil",
+    "latitude": -7.128464999716292,
+    "longitude": -34.98461859999999,
+    "other_names": {
+      "name": "Santa Rita",
+      "name:ka": "სანტა-რიტა",
+      "name:kk": "Санта-Рита",
+      "name:pt": "Santa Rita",
+      "name:ru": "Санта-Рита"
+    }
+  },
+  {
+    "name": "Santa Rita",
+    "country": "Venezuela",
+    "latitude": 10.542344599468056,
+    "longitude": -71.5177785,
+    "other_names": {
+      "name": "Santa Rita"
+    }
+  },
+  {
+    "name": "Santa Rita",
+    "country": "Venezuela",
+    "latitude": 10.20687189944865,
+    "longitude": -67.5587748,
+    "other_names": {
+      "name": "Santa Rita"
+    }
+  },
+  {
+    "name": "Santa Rosa",
+    "country": "Argentina",
+    "latitude": -36.62035030025687,
+    "longitude": -64.2905765,
+    "other_names": {
+      "name": "Santa Rosa",
+      "name:el": "Σάντα Ρόσα",
+      "name:en": "Santa Rosa",
+      "name:he": "סנטה רוסה",
+      "name:ru": "Санта-Роса",
+      "name:uk": "Санта-Роса"
+    }
+  },
+  {
+    "name": "Santa Rosa",
+    "country": "United States Of America",
+    "latitude": 38.44049250004484,
+    "longitude": -122.7141049,
+    "other_names": {
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "name": "Santa Rosa",
+    "country": "Philippines",
+    "latitude": 14.314604199826594,
+    "longitude": 121.11374659999998,
+    "other_names": {
+      "name": "Santa Rosa",
+      "name:en": "Santa Rosa",
+      "name:es": "Santa Rosa",
+      "name:ja": "サンタ・ローサ",
+      "name:tl": "Santa Rosa",
+      "name:abbr": "Sta. Rosa",
+      "official_name:en": "City of Santa Rosa",
+      "official_name:es": "Ciudad de Santa Rosa",
+      "official_name:tl": "Lungsod ng Santa Rosa"
+    }
+  },
+  {
+    "name": "Santa Rosa de Copán",
+    "country": "Honduras",
+    "latitude": 14.772733399880424,
+    "longitude": -88.7785635,
+    "other_names": {
+      "name": "Santa Rosa de Copán",
+      "name:hu": "Santa Rosa de Copán",
+      "alt_name": "SRC",
+      "int_name": "Santa Rosa",
+      "old_name": "Santa Rosa de los Llanos"
+    }
+  },
+  {
+    "name": "Santa Rosa del Aguaray",
+    "country": "Paraguay",
+    "latitude": -23.825978299950403,
+    "longitude": -56.52070340000001,
+    "other_names": {
+      "name": "Santa Rosa del Aguaray"
+    }
+  },
+  {
+    "name": "Santa Rosa de Lima",
+    "country": "El Salvador",
+    "latitude": 13.625919599747585,
+    "longitude": -87.8911322,
+    "other_names": {
+      "name": "Santa Rosa de Lima",
+      "name:hu": "Santa Rosa de Lima"
+    }
+  },
+  {
+    "name": "Santa Tecla",
+    "country": "El Salvador",
+    "latitude": 13.674298499753021,
+    "longitude": -89.2880412,
+    "other_names": {
+      "name": "Santa Tecla",
+      "name:hu": "Santa Tecla",
+      "name:ru": "Санта-Текла"
+    }
+  },
+  {
+    "name": "Santa Teresa del Tuy",
+    "country": "Venezuela",
+    "latitude": 10.238856699450386,
+    "longitude": -66.6722608,
+    "other_names": {
+      "name": "Santa Teresa del Tuy"
+    }
+  },
+  {
+    "name": "Santiago",
+    "country": "Philippines",
+    "latitude": 16.69159630010225,
+    "longitude": 121.54786370000001,
+    "other_names": {
+      "ref": "023135000",
+      "name": "Santiago",
+      "name:ja": "サンティアゴ"
+    }
+  }
+]

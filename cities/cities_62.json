@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Boye",
+    "country": "China",
+    "latitude": 38.4575837000473,
+    "longitude": 115.46039559999998,
+    "other_names": {
+      "name": "博野县",
+      "name:en": "Boye",
+      "name:vi": "Bác Dã",
+      "name:zh": "博野县",
+      "alt_name": "博野;Boye County",
+      "name:zh-Hant": "博野縣",
+      "official_name": "博野镇",
+      "name:zh_pinyin": "Boye Xian"
+    }
+  },
+  {
+    "name": "Boynton Beach",
+    "country": "United States Of America",
+    "latitude": 26.525617900109463,
+    "longitude": -80.0666026,
+    "other_names": {
+      "name": "Boynton Beach"
+    }
+  },
+  {
+    "name": "Bozeman",
+    "country": "United States Of America",
+    "latitude": 45.67942930038928,
+    "longitude": -111.044047,
+    "other_names": {
+      "name": "Bozeman",
+      "name:ru": "Бозмен"
+    }
+  },
+  {
+    "name": "Bozhou",
+    "country": "China",
+    "latitude": 27.539631599997783,
+    "longitude": 106.82144129999999,
+    "other_names": {
+      "name": "播州区",
+      "name:en": "Bozhou",
+      "name:zh": "播州区",
+      "name:zh-Hant": "播州區"
+    }
+  },
+  {
+    "name": "Bozhou",
+    "country": "China",
+    "latitude": 33.85795939959751,
+    "longitude": 115.772453,
+    "other_names": {
+      "name": "亳州市",
+      "name:de": "Bozhou",
+      "name:en": "Bozhou",
+      "name:et": "Bozhou",
+      "name:fr": "Bozhou",
+      "name:ja": "亳州市",
+      "name:uk": "Бочжоу",
+      "name:vi": "Bặc Châu",
+      "name:zh": "亳州市",
+      "int_name": "Bozhou",
+      "alt_name:vi": "Bạc Châu",
+      "name:zh-Hant": "亳州市",
+      "name:zh_pinyin": "Bózhōu Shì"
+    }
+  },
+  {
+    "name": "Bozoum",
+    "country": "Central African Republic",
+    "latitude": 6.314737899429845,
+    "longitude": 16.3806392,
+    "other_names": {
+      "name": "Bozoum",
+      "name:ru": "Бозум",
+      "name:uk": "Бозум"
+    }
+  },
+  {
+    "name": "Bradenton",
+    "country": "United States Of America",
+    "latitude": 27.498927800002342,
+    "longitude": -82.57481939999998,
+    "other_names": {
+      "name": "Bradenton"
+    }
+  },
+  {
+    "name": "Bradford",
+    "country": "England",
+    "latitude": 53.79442289915391,
+    "longitude": -1.7519185999999998,
+    "other_names": {
+      "name": "Bradford",
+      "name:be": "Брэдфард",
+      "name:en": "Bradford",
+      "name:hu": "Bradford",
+      "name:ja": "ブラッドフォード",
+      "name:ko": "브래드퍼드",
+      "name:lt": "Bradfordas",
+      "name:mk": "Брадфорд",
+      "name:ru": "Брэдфорд",
+      "name:sr": "Бредфорд",
+      "name:uk": "Бредфорд",
+      "alt_name": "Curry Capital of Britain 2011-2016",
+      "alt_name:mk": "Бредфорд"
+    }
+  },
+  {
+    "name": "Braga",
+    "country": "Portugal",
+    "latitude": 41.55105830044868,
+    "longitude": -8.4280045,
+    "other_names": {
+      "name": "Braga",
+      "name:ar": "براغا",
+      "name:el": "Μπράγκα",
+      "name:he": "בראגה",
+      "name:hu": "Braga",
+      "name:ja": "ブラガ",
+      "name:la": "Bracara Augusta",
+      "name:lt": "Braga",
+      "name:ru": "Брага",
+      "name:sr": "Брага",
+      "name:uk": "Брага",
+      "name:zh": "布拉加",
+      "name:ckb": "براگا",
+      "old_name": "Bracara Augusta"
+    }
+  },
+  {
+    "name": "Bragança",
+    "country": "Portugal",
+    "latitude": 41.80711820047112,
+    "longitude": -6.7589839,
+    "other_names": {
+      "name": "Bragança",
+      "name:ar": "براغانزا",
+      "name:el": "Μπραγκάντσα",
+      "name:es": "Braganza",
+      "name:fr": "Bragance",
+      "name:hu": "Braganca",
+      "name:lt": "Bragansa",
+      "name:ru": "Браганса",
+      "name:uk": "Bragance",
+      "name:zh": "布拉干薩",
+      "name:ast": "Bregancia",
+      "name:mwl": "Bergança"
+    }
+  },
+  {
+    "name": "Bragança",
+    "country": "Brazil",
+    "latitude": -1.0573966998970765,
+    "longitude": -46.7635406,
+    "other_names": {
+      "name": "Bragança",
+      "name:ru": "Браганса"
+    }
+  },
+  {
+    "name": "Bragança Paulista",
+    "country": "Brazil",
+    "latitude": -22.952023500073643,
+    "longitude": -46.5418586,
+    "other_names": {
+      "name": "Bragança Paulista"
+    }
+  },
+  {
+    "name": "Brahmanbaria",
+    "country": "Bangladesh",
+    "latitude": 23.969145200334804,
+    "longitude": 91.1104549,
+    "other_names": {
+      "name": "ব্রাহ্মণবাড়িয়া",
+      "name:ar": "براهمنباريا",
+      "name:bn": "ব্রাহ্মণবাড়িয়া",
+      "name:en": "Brahmanbaria",
+      "name:et": "Brāhmanbāria",
+      "name:fr": "Brahmanbaria",
+      "name:hi": "ब्राह्मनबरिआ",
+      "name:ja": "ブラーマンバーリア",
+      "name:kn": "ಬ್ರಹ್ಮನ್ಬರಿಯ",
+      "name:ur": "برہمنباریا",
+      "alt_name:ar": "براهمانباريا"
+    }
+  },
+  {
+    "name": "Brahmapur",
+    "country": "India",
+    "latitude": 19.309813400335003,
+    "longitude": 84.79715619999999,
+    "other_names": {
+      "name": "Brahmapur",
+      "name:bn": "ব্রহ্মপুর",
+      "name:en": "Brahmapur",
+      "name:hi": "ब्रह्मपुर",
+      "name:ja": "ベーランプル",
+      "name:kn": "ಬ್ರಹ್ಮಪುರ",
+      "name:or": "ବ୍ରହ୍ମପୁର",
+      "name:pa": "ਬ੍ਰਹਮਾਪੁਰ",
+      "name:ru": "Берхампур",
+      "name:ta": "பெர்காம்பூர்",
+      "name:te": "బరంపురం",
+      "name:uk": "Берхампур",
+      "name:bpy": "ব্রহ্মাপুর",
+      "name:new": "ब्रह्मपुर"
+    }
+  },
+  {
+    "name": "Brăila",
+    "country": "Romania",
+    "latitude": 45.27160920044005,
+    "longitude": 27.9742932,
+    "other_names": {
+      "name": "Brăila",
+      "name:hu": "Brajla",
+      "name:la": "Proilabum",
+      "name:lt": "Breila",
+      "name:ru": "Брэила",
+      "name:sr": "Браила",
+      "alt_name:la": "Proilava"
+    }
+  },
+  {
+    "name": "Brampton",
+    "country": "Canada",
+    "latitude": 43.68581460054022,
+    "longitude": -79.75993369999999,
+    "other_names": {
+      "name": "Brampton"
+    }
+  },
+  {
+    "name": "Brandon",
+    "country": "United States Of America",
+    "latitude": 27.937800999953186,
+    "longitude": -82.2859247,
+    "other_names": {
+      "name": "Brandon"
+    }
+  },
+  {
+    "name": "Brandon",
+    "country": "Canada",
+    "latitude": 49.85111429948649,
+    "longitude": -99.9608924,
+    "other_names": {
+      "name": "Brandon",
+      "name:en": "Brandon",
+      "name:ru": "Брендон",
+      "name:uk": "Брендон",
+      "name:zh": "布兰登"
+    }
+  },
+  {
+    "name": "Brantford",
+    "country": "Canada",
+    "latitude": 43.14081570053948,
+    "longitude": -80.2631733,
+    "other_names": {
+      "name": "Brantford"
+    }
+  },
+  {
+    "name": "Brasília",
+    "country": "Brazil",
+    "latitude": -15.793403600426943,
+    "longitude": -47.882317199999996,
+    "other_names": {
+      "name": "Brasília",
+      "name:ab": "Бразилиа",
+      "name:am": "ብራዚሊያ",
+      "name:ar": "برازيليا",
+      "name:ay": "Brasilia",
+      "name:az": "Brazilia",
+      "name:be": "Бразілія",
+      "name:bg": "Бразилия",
+      "name:bo": "པུ་རུ་ཟི་ལི་ཡ།",
+      "name:bs": "Brazilija",
+      "name:ce": "Бразилиа",
+      "name:co": "Brasilia",
+      "name:cv": "Бразилиа",
+      "name:de": "Brasilia",
+      "name:dv": "ބްރަސީލިއާ",
+      "name:el": "Μπραζίλια",
+      "name:en": "Brasília",
+      "name:eo": "Braziljo",
+      "name:es": "Brasilia",
+      "name:et": "Brasília",
+      "name:eu": "Brasilia",
+      "name:fa": "برازیلیا",
+      "name:fr": "Brasilia",
+      "name:gl": "Brasilia",
+      "name:gn": "Brasilia",
+      "name:he": "בראזיליא",
+      "name:hr": "Brazilija",
+      "name:ht": "Brazilia",
+      "name:hu": "Brazíliaváros",
+      "name:hy": "Բրազիլիա",
+      "name:ia": "Brasilia",
+      "name:ie": "Brasilia",
+      "name:io": "Brasilia",
+      "name:is": "Brasilía",
+      "name:it": "Brasilia",
+      "name:ja": "ブラジリア",
+      "name:jv": "Brasilia",
+      "name:ka": "ბრაზილია",
+      "name:kk": "Бразилиа",
+      "name:kl": "Brasilia",
+      "name:kn": "ಬ್ರಾಸಿಲ್ಯಾ",
+      "name:ko": "브라질리아",
+      "name:la": "Brasiliopolis",
+      "name:ln": "Brazilia",
+      "name:lt": "Brazilija",
+      "name:lv": "Brazilja",
+      "name:mk": "Бразилија",
+      "name:mn": "Бразилиа",
+      "name:mr": "ब्राझिलिया",
+      "name:my": "ဘရာစေးလေးယားမြို့",
+      "name:nl": "Brasilia",
+      "name:oc": "Brasília",
+      "name:or": "ବ୍ରାସିଲିଆ",
+      "name:os": "Бразилиа",
+      "name:pa": "ਬ੍ਰਾਜ਼ੀਲੀਆ",
+      "name:pl": "Brasília",
+      "name:pt": "Brasília",
+      "name:qu": "Brasilia",
+      "name:rm": "Brasilia",
+      "name:ro": "Brazilia",
+      "name:ru": "Бразилиа",
+      "name:sh": "Brazilija",
+      "name:sk": "Brazília",
+      "name:sl": "Brasilia",
+      "name:sq": "Brazilia",
+      "name:sr": "Бразилија",
+      "name:sv": "Brasília",
+      "name:sw": "Brasilia",
+      "name:ta": "பிரசிலியா",
+      "name:tg": "Бразилиа",
+      "name:th": "บราซีเลีย",
+      "name:tl": "Brasilia",
+      "name:tt": "Бразилиа",
+      "name:uk": "Бразилія",
+      "name:ur": "براسیلیا",
+      "name:vi": "Brasilia",
+      "name:yi": "בראזיליא",
+      "name:yo": "Bràsílíà",
+      "name:zh": "巴西利亞",
+      "alt_name": "RA I",
+      "loc_name": "BSB",
+      "name:arz": "برازيليا",
+      "name:ast": "Brasilia",
+      "name:bar": "Brasilia",
+      "name:bpy": "ব্রাসিলিয়া",
+      "name:ckb": "برازیلیا",
+      "name:eml": "Brasilia",
+      "name:ext": "Brasilia",
+      "name:frp": "Brasilia",
+      "name:lez": "Бразилиа",
+      "name:lij": "Braxilia",
+      "name:lmo": "Brasilia",
+      "name:mzn": "برازیلیا",
+      "name:nah": "Brasilia",
+      "name:pms": "Brasilia",
+      "name:pnb": "برازیلیہ",
+      "name:tet": "Brazília",
+      "name:vec": "Braxiłia",
+      "name:wuu": "巴西利亚",
+      "name:yue": "巴西利亞",
+      "reg_name": "Região Administrativa Um",
+      "name:bat-smg": "Brazilėjė",
+      "name:cbk-zam": "Distrito Federal de Brasil",
+      "name:be-tarask": "Бразылія"
+    }
+  }
+]

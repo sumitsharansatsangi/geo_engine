@@ -1,0 +1,367 @@
+[
+  {
+    "name": "Bengkulu",
+    "country": "Indonesia",
+    "latitude": -3.7922857997123782,
+    "longitude": 102.2623797,
+    "other_names": {
+      "name": "Bengkulu",
+      "name:en": "Bengkulu",
+      "name:ja": "ブンクル",
+      "name:ru": "Бенкулу",
+      "name:uk": "Бенкулу",
+      "name:zh": "明古鲁市"
+    }
+  },
+  {
+    "name": "Bengshan",
+    "country": "China",
+    "latitude": 32.9459919995879,
+    "longitude": 117.3621199,
+    "other_names": {
+      "name": "蚌山区",
+      "name:de": "Bengshan",
+      "name:en": "Bengshan",
+      "name:eo": "Bengshan",
+      "name:es": "Bengshan",
+      "name:fr": "Bengshan",
+      "name:ja": "蚌山区",
+      "name:ko": "벙산 구",
+      "name:pt": "Bengshan",
+      "name:sv": "Bengshan",
+      "name:vi": "Bạng Sơn",
+      "name:zh": "蚌山区",
+      "name:zh-Hant": "蚌山區",
+      "name:zh_pinyin": "Bengshan Qu"
+    }
+  },
+  {
+    "name": "Benguela",
+    "country": "Angola",
+    "latitude": -12.579004800170312,
+    "longitude": 13.4037117,
+    "other_names": {
+      "name": "Benguela",
+      "name:el": "Μπενγκέλα",
+      "name:fa": "بنگوئلا",
+      "name:ko": "벵겔라",
+      "name:pt": "بنغيلا",
+      "name:ru": "Бенгела",
+      "name:uk": "Бенгела",
+      "name:ur": "بینگوئلا"
+    }
+  },
+  {
+    "name": "Ben Guerir",
+    "country": "Morocco",
+    "latitude": 32.2385468007034,
+    "longitude": -7.948423636837329,
+    "other_names": {
+      "name": "Ben Guerir ابن جرير",
+      "name:ar": "ابن جرير",
+      "name:ca": "Ben Guerir",
+      "name:de": "Ben Guerir",
+      "name:en": "Ben Guerir",
+      "name:fa": "ابن جریر",
+      "name:fr": "Ben Guerir",
+      "name:it": "Ben Guerir",
+      "name:ks": "ابن جریر",
+      "name:nl": "Ben Guerir",
+      "name:pl": "Ibn Dżarir",
+      "name:pt": "Ben Guerir",
+      "name:ru": "Бен-Герир",
+      "name:sh": "Ben Guerir",
+      "name:sv": "Ben Guerir",
+      "name:uk": "Бен-Герір",
+      "name:ur": "ابن جریر",
+      "name:zh": "本傑里爾",
+      "name:azb": "ابن جریر",
+      "name:ceb": "Ben Guerir",
+      "alt_name:ar": "بن جرير;بن كرير;بنكرير"
+    }
+  },
+  {
+    "name": "Ben Guerir",
+    "country": "Morocco",
+    "latitude": 32.239033999600544,
+    "longitude": -7.958131,
+    "other_names": {
+      "name": "Ben Guerir ⴱⴰⵏⴳⵔⵉⵔ ابن جرير",
+      "name:ar": "ابن جرير",
+      "name:de": "Ben Guerir",
+      "name:en": "Ben Guerir",
+      "name:fa": "ابن جریر",
+      "name:fr": "Ben Guerir",
+      "name:ks": "ابن جریر",
+      "name:ru": "Бен-Герир",
+      "name:ur": "ابن جریر",
+      "name:azb": "ابن جریر",
+      "name:ber": "ⴱⴰⵏⴳⵔⵉⵔ",
+      "name:zgh": "ⴱⴰⵏⴳⵔⵉⵔ",
+      "alt_name:ar": "بن جرير;بن كرير;بنكرير"
+    }
+  },
+  {
+    "name": "Beni",
+    "country": "Congo Democratic Republic",
+    "latitude": 0.4939334999485159,
+    "longitude": 29.465322199999996,
+    "other_names": {
+      "name": "Beni"
+    }
+  },
+  {
+    "name": "Beni Mellal",
+    "country": "Morocco",
+    "latitude": 32.33419299959786,
+    "longitude": -6.3533349999999995,
+    "other_names": {
+      "name": "Beni Mellal ⴰⵢⵜ ⵎⵍⵍⴰⵍ بني ملال",
+      "name:ar": "بني ملال",
+      "name:en": "Beni Mellal",
+      "name:fr": "Beni Mellal",
+      "name:lt": "Beni Melalis",
+      "name:ru": "Бени-Меллаль",
+      "name:ber": "ⴰⵢⵜ ⵎⵍⵍⴰⵍ",
+      "name:zgh": "ⴰⵢⵜ ⵎⵍⵍⴰⵍ"
+    }
+  },
+  {
+    "name": "Benin City",
+    "country": "Nigeria",
+    "latitude": 6.333058599429043,
+    "longitude": 5.622105799999999,
+    "other_names": {
+      "name": "Benin City",
+      "name:ar": "مدينة بنين",
+      "name:de": "Benin-Stadt",
+      "name:eo": "Beninurbo",
+      "name:fa": "شهر بنین",
+      "name:ko": "베닌시티",
+      "name:pl": "Benin",
+      "name:ru": "Бенин-Сити",
+      "name:uk": "Бенін-Сіті",
+      "name:ur": "بینن شہر",
+      "alt_name:eo": "Benin-urbo",
+      "short_name:ar": "بنين",
+      "short_name:fa": "بنین"
+    }
+  },
+  {
+    "name": "Beni Suef",
+    "country": "Egypt",
+    "latitude": 29.07298119982983,
+    "longitude": 31.098256199999994,
+    "other_names": {
+      "name": "بني سويف",
+      "name:ar": "بني سويف",
+      "name:de": "Beni Suef",
+      "name:en": "Beni Suef",
+      "name:eo": "Beni Suef",
+      "name:et": "Banī Suwayf",
+      "name:fi": "Beni Suef",
+      "name:fr": "Beni Suef",
+      "name:hi": "बेनी सुएफ़",
+      "name:hu": "Bani Szuvajf kormányzóság",
+      "name:ko": "베니수에프",
+      "name:pl": "Bani Suwajf",
+      "name:ru": "Бени-Суэйф",
+      "alt_name": "بني سويف",
+      "int_name": "Beni Sue, Beni Sue, Beni Souef, Bani Suwayf",
+      "alt_name:pl": "Beni Suef"
+    }
+  },
+  {
+    "name": "Benoy",
+    "country": "Chad",
+    "latitude": 8.985203899401059,
+    "longitude": 16.318438199999996,
+    "other_names": {
+      "name": "Benoy بينوي",
+      "name:ar": "بينوي",
+      "name:en": "Benoy",
+      "name:fr": "Benoy"
+    }
+  },
+  {
+    "name": "Bentiu",
+    "country": "South Sudan",
+    "latitude": 9.255847799408373,
+    "longitude": 29.803549699999994,
+    "other_names": {
+      "name": "Bentiu",
+      "name:ar": "بانتيو‎",
+      "name:de": "Bentiu",
+      "name:en": "Bentiu",
+      "name:es": "Bentiu",
+      "name:fr": "Bentiu",
+      "name:ko": "벤티우",
+      "name:ru": "Бантио",
+      "name:uk": "Бантіо"
+    }
+  },
+  {
+    "name": "Bento Gonçalves",
+    "country": "Brazil",
+    "latitude": -29.16540139933824,
+    "longitude": -51.519762699999994,
+    "other_names": {
+      "name": "Bento Gonçalves"
+    }
+  },
+  {
+    "name": "Bentong",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 3.522584599631352,
+    "longitude": 101.90917749999998,
+    "other_names": {
+      "name": "Bentong",
+      "name:fa": "بنتونگ",
+      "name:ta": "பெந்தோங்",
+      "name:zh": "文冬"
+    }
+  },
+  {
+    "name": "Ben Tre",
+    "country": "Vietnam",
+    "latitude": 10.244821399450714,
+    "longitude": 106.37348229999999,
+    "other_names": {
+      "name": "Bến Tre",
+      "name:en": "Ben Tre",
+      "name:ja": "ベンチェ",
+      "name:ko": "벤째",
+      "name:ru": "Бенче",
+      "name:zh": "槟椥市",
+      "old_name": "Trúc Giang"
+    }
+  },
+  {
+    "name": "Benxi",
+    "country": "China",
+    "latitude": 41.29757700042398,
+    "longitude": 123.76465619999998,
+    "other_names": {
+      "name": "本溪市",
+      "name:ar": "بنشي",
+      "name:de": "Benxi",
+      "name:en": "Benxi",
+      "name:et": "Benxi",
+      "name:fr": "Benxi",
+      "name:ja": "本渓市",
+      "name:ko": "번시시",
+      "name:pt": "Benxi",
+      "name:ru": "Бэньси",
+      "name:vi": "Bản Khê",
+      "name:zh": "本溪市",
+      "alt_name": "本溪;Benxi City",
+      "name:zh-Hant": "本溪市",
+      "name:zh_pinyin": "Běnxī shì"
+    }
+  },
+  {
+    "name": "Benxi Manchu Autonomous County",
+    "country": "China",
+    "latitude": 41.300552400424294,
+    "longitude": 124.1245195,
+    "other_names": {
+      "name": "本溪县",
+      "name:ar": "بنشي",
+      "name:de": "Benxi",
+      "name:en": "Benxi Manchu Autonomous County",
+      "name:es": "Benxi",
+      "name:fr": "Benxi",
+      "name:ja": "本渓満族自治県",
+      "name:ko": "번시만족자치현",
+      "name:ru": "Бэньси-Маньчжурский автономный уезд",
+      "name:vi": "Bản Khê",
+      "name:zh": "本溪县",
+      "int_name": "Benxi",
+      "name:mnc": "ᠪᡝᠨᠰᡳ ᠮᠠᠨᠵᡠ ᠪᡝᠶᡝ ᡩᠠᠰᠠᠩᡤᠠ ᠰᡳᠶᠠᠨ",
+      "name:zh-Hant": "本溪縣",
+      "official_name": "本溪满族自治县",
+      "official_name:zh_pinyin": "Benxi Manzu Zizhixian"
+    }
+  },
+  {
+    "name": "Beppu",
+    "country": "Japan",
+    "latitude": 33.284575199588,
+    "longitude": 131.49130629999996,
+    "other_names": {
+      "name": "別府市",
+      "name:ar": "يبو، أويتا",
+      "name:de": "Beppu",
+      "name:en": "Beppu",
+      "name:es": "Beppu",
+      "name:et": "Beppu",
+      "name:fr": "Beppu",
+      "name:hu": "Beppu",
+      "name:ja": "別府市",
+      "name:ko": "벳푸시",
+      "name:lt": "Bepu",
+      "name:pl": "Beppu",
+      "name:ru": "Беппу",
+      "name:uk": "Беппу",
+      "name:zh": "别府市",
+      "int_name": "Beppu",
+      "name:ja_rm": "Beppu",
+      "name:ja_kana": "べっぷし",
+      "name:zh-Hans": "别府市",
+      "name:zh-Hant": "別府市"
+    }
+  },
+  {
+    "name": "Berat",
+    "country": "Albania",
+    "latitude": 40.70186360035751,
+    "longitude": 19.958075799999996,
+    "other_names": {
+      "name": "Berat",
+      "name:al": "Berat",
+      "name:be": "Берат",
+      "name:bg": "Берат",
+      "name:de": "Berat",
+      "name:el": "Βεράτι",
+      "name:en": "Berat",
+      "name:fr": "Berat",
+      "name:ja": "ベラト",
+      "name:lt": "Beratis",
+      "name:mk": "Белград",
+      "name:ru": "Берат",
+      "name:sr": "Берат",
+      "name:uk": "Берат",
+      "name:zh": "培拉特",
+      "old_name": "Berati",
+      "name:sr-Latn": "Berat",
+      "name:be-tarask": "Бэрат"
+    }
+  },
+  {
+    "name": "Berazategui",
+    "country": "Argentina",
+    "latitude": -34.76326769983918,
+    "longitude": -58.21166039999999,
+    "other_names": {
+      "name": "Berazategui"
+    }
+  },
+  {
+    "name": "Berbera",
+    "country": "Somalia",
+    "latitude": 10.438621499461778,
+    "longitude": 45.0134007,
+    "other_names": {
+      "name": "Berbera بربرة",
+      "name:ar": "بربرة",
+      "name:de": "Berbera",
+      "name:en": "Berbera",
+      "name:es": "Berbera",
+      "name:et": "Berbera",
+      "name:fr": "Berbera",
+      "name:ko": "베르베라",
+      "name:ru": "Бербера",
+      "name:uk": "Бербера"
+    }
+  }
+]

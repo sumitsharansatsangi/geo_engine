@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Montmagny",
+    "country": "Canada",
+    "latitude": 46.982632800164815,
+    "longitude": -70.555916,
+    "other_names": {
+      "name": "Montmagny"
+    }
+  },
+  {
+    "name": "Montpelier",
+    "country": "United States Of America",
+    "latitude": 44.26021640052187,
+    "longitude": -72.575114,
+    "other_names": {
+      "name": "Montpelier",
+      "name:en": "Montpelier",
+      "name:pl": "Montpelier",
+      "name:ru": "Монтпилиер",
+      "name:ta": "மான்ட்பீலியர்",
+      "name:uk": "Монтпілієр"
+    }
+  },
+  {
+    "name": "Montpellier",
+    "country": "France",
+    "latitude": 43.611242200541135,
+    "longitude": 3.876733699999999,
+    "other_names": {
+      "name": "Montpellier",
+      "name:ar": "مونبيلييه",
+      "name:bg": "Монпелие",
+      "name:ca": "Montpeller",
+      "name:el": "Μονπελιέ",
+      "name:eo": "Montpeliero",
+      "name:fa": "مون‌پلیه",
+      "name:fr": "Montpellier",
+      "name:he": "מונפלייה",
+      "name:ja": "モンペリエ",
+      "name:ko": "몽펠리에",
+      "name:la": "Monspessulanus",
+      "name:lt": "Monpeljė",
+      "name:oc": "Montpelhièr",
+      "name:ru": "Монпелье",
+      "name:sr": "Монпеље",
+      "name:uk": "Монпельє",
+      "name:zh": "蒙彼利埃",
+      "name:frp": "Montpelyiér",
+      "alt_name:eo": "Monpeljero",
+      "name:zh-Hans": "蒙彼利埃",
+      "name:zh-Hant": "蒙佩利爾"
+    }
+  },
+  {
+    "name": "Montreal",
+    "country": "Canada",
+    "latitude": 45.4972159004132,
+    "longitude": -73.6103642,
+    "other_names": {
+      "name": "Montréal",
+      "name:ar": "مونتريال",
+      "name:ca": "Mont-real",
+      "name:en": "Montreal",
+      "name:eo": "Montrealo",
+      "name:fa": "مونترال",
+      "name:fr": "Montréal",
+      "name:ja": "モントリオール",
+      "name:kn": "ಹ್ಯುಸ್ಟಣ್",
+      "name:nl": "Montreal",
+      "name:oc": "Montreal",
+      "name:pl": "Montreal",
+      "name:pt": "Montreal",
+      "name:ru": "Монреаль",
+      "name:uk": "Монреаль",
+      "name:zh": "蒙特利尔",
+      "name:kab": "Montreal",
+      "name:zh-Hans": "蒙特利尔",
+      "name:zh-Hant": "蒙特利爾"
+    }
+  },
+  {
+    "name": "Montreuil",
+    "country": "France",
+    "latitude": 48.86233569972648,
+    "longitude": 2.4412183999999995,
+    "other_names": {
+      "name": "Montreuil",
+      "name:bg": "Монтрьой",
+      "name:el": "Μοντρέιγ",
+      "name:eo": "Montrojlo",
+      "name:ru": "Монтрёй",
+      "name:uk": "Монтрей",
+      "old_name": "Montreuil-sous-Bois"
+    }
+  },
+  {
+    "name": "Monywa",
+    "country": "Myanmar",
+    "latitude": 22.118217500406917,
+    "longitude": 95.13247469999999,
+    "other_names": {
+      "name": "မုံရွာ",
+      "pcode": "MMR005012701",
+      "name:de": "Monywa",
+      "name:en": "Monywa",
+      "name:es": "Monywa",
+      "name:et": "Mônywa",
+      "name:fr": "Monywa",
+      "name:ja": "モンユワ",
+      "name:my": "မုံရွာ",
+      "name:ru": "Монива",
+      "name:zh": "蒙育瓦",
+      "alt_name": "မုံရွာမြို့",
+      "int_name": "Monywa"
+    }
+  },
+  {
+    "name": "Monza",
+    "country": "Italy",
+    "latitude": 45.58344180040212,
+    "longitude": 9.2735257,
+    "other_names": {
+      "name": "Monza",
+      "name:bg": "Монца",
+      "name:de": "Monza",
+      "name:el": "Μόντσα",
+      "name:en": "Monza",
+      "name:es": "Monza",
+      "name:fr": "Monza",
+      "name:pt": "Monza",
+      "name:ru": "Монца",
+      "name:uk": "Монца",
+      "name:zh": "蒙扎"
+    }
+  },
+  {
+    "name": "Mooka",
+    "country": "Japan",
+    "latitude": 36.440445199782054,
+    "longitude": 140.01315779999996,
+    "other_names": {
+      "name": "真岡市",
+      "name:ar": "موكا، توتشيغي",
+      "name:de": "Mooka",
+      "name:en": "Mooka",
+      "name:es": "Mooka",
+      "name:fr": "Mooka",
+      "name:ja": "真岡市",
+      "name:ko": "모카시",
+      "name:pl": "Mo'oka",
+      "name:ru": "Мока",
+      "name:uk": "Моока",
+      "name:ja_rm": "FIXME"
+    }
+  },
+  {
+    "name": "Moose Jaw",
+    "country": "Canada",
+    "latitude": 50.40151499936448,
+    "longitude": -105.54290799999998,
+    "other_names": {
+      "name": "Moose Jaw",
+      "name:en": "Moose Jaw",
+      "name:ru": "Мус-Джо",
+      "name:uk": "Мус-Джо"
+    }
+  },
+  {
+    "name": "Mopti",
+    "country": "Mali",
+    "latitude": 14.48772749984686,
+    "longitude": -4.1892469,
+    "other_names": {
+      "name": "Mopti",
+      "name:ar": "موبتي",
+      "name:en": "Mopti",
+      "name:fr": "Mopti",
+      "name:ko": "몹티",
+      "name:ru": "Мопти"
+    }
+  },
+  {
+    "name": "Moquegua",
+    "country": "Peru",
+    "latitude": -17.19380250047229,
+    "longitude": -70.93456359999999,
+    "other_names": {
+      "name": "Moquegua",
+      "name:de": "Moquegua",
+      "name:en": "Moquegua",
+      "name:es": "Moquegua",
+      "name:pl": "Moquegua",
+      "name:ru": "Мокегуа",
+      "name:uk": "Мокеґуа"
+    }
+  },
+  {
+    "name": "Mora",
+    "country": "Cameroon",
+    "latitude": 11.048418899502122,
+    "longitude": 14.1342057,
+    "other_names": {
+      "name": "Mora",
+      "name:ar": "مورا"
+    }
+  },
+  {
+    "name": "Moradabad",
+    "country": "India",
+    "latitude": 28.833498199855004,
+    "longitude": 78.77328639999999,
+    "other_names": {
+      "name": "Moradabad",
+      "name:ar": "مراد آباد",
+      "name:de": "Moradabad",
+      "name:en": "Moradabad",
+      "name:es": "Moradabad",
+      "name:fa": "مرادآباد",
+      "name:fr": "Moradabad",
+      "name:he": "מוראדאבאד",
+      "name:hi": "मुरादाबाद",
+      "name:ja": "ムラーダーバード",
+      "name:kn": "ಮೊರದಬಾದ್",
+      "name:ru": "Мурадабад",
+      "name:uk": "Морадабад",
+      "name:ur": "مرادآباد"
+    }
+  },
+  {
+    "name": "Morbi",
+    "country": "India",
+    "latitude": 22.817666200390523,
+    "longitude": 70.83459279999998,
+    "other_names": {
+      "name": "Morbi",
+      "name:gu": "મોરબી",
+      "name:hi": "मोरबी",
+      "name:kn": "ಮೋರಬೀ",
+      "name:pa": "ਮੋਰਬੀ"
+    }
+  },
+  {
+    "name": "Morden",
+    "country": "Canada",
+    "latitude": 49.192705499644724,
+    "longitude": -98.10145669999999,
+    "other_names": {
+      "name": "Morden"
+    }
+  },
+  {
+    "name": "Morelia",
+    "country": "Mexico",
+    "latitude": 19.702711600357762,
+    "longitude": -101.19238179999999,
+    "other_names": {
+      "name": "Morelia",
+      "name:ar": "موريليا",
+      "name:bg": "Морелия",
+      "name:en": "Morelia",
+      "name:es": "Morelia",
+      "name:hu": "Morelia",
+      "name:ja": "モレリア",
+      "name:ka": "მორელია",
+      "name:lt": "Morelija",
+      "name:pl": "Morelia",
+      "name:ru": "Морелия",
+      "name:sr": "Морелија",
+      "name:sw": "Morelia, Michoacán",
+      "name:uk": "Морелія",
+      "name:zh": "莫雷利亚",
+      "name:war": "Morelia, Michoacán"
+    }
+  },
+  {
+    "name": "Morena",
+    "country": "India",
+    "latitude": 26.49099140011316,
+    "longitude": 77.98136559999999,
+    "other_names": {
+      "name": "Morena",
+      "name:hi": "मुरैना",
+      "name:pa": "ਮੁਰੈਨਾ",
+      "name:ta": "மோரினா"
+    }
+  },
+  {
+    "name": "Moreni",
+    "country": "Romania",
+    "latitude": 44.98491506012327,
+    "longitude": 25.641264840481128,
+    "other_names": {
+      "name": "Moreni",
+      "name:ru": "Морени"
+    }
+  },
+  {
+    "name": "Moreno",
+    "country": "Argentina",
+    "latitude": -34.63965559981382,
+    "longitude": -58.789832600000004,
+    "other_names": {
+      "name": "Moreno",
+      "name:ru": "Морено",
+      "alt_name": "Mariano Moreno"
+    }
+  },
+  {
+    "name": "Moreno Valley",
+    "country": "United States Of America",
+    "latitude": 33.93751699959978,
+    "longitude": -117.23059440000002,
+    "other_names": {
+      "name": "Moreno Valley"
+    }
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Auburn",
+    "country": "United States Of America",
+    "latitude": 44.09785090052909,
+    "longitude": -70.2311655,
+    "other_names": {
+      "name": "Auburn"
+    }
+  },
+  {
+    "name": "Auburn",
+    "country": "United States Of America",
+    "latitude": 32.65866814504221,
+    "longitude": -85.45538911234777,
+    "other_names": {
+      "name": "Auburn"
+    }
+  },
+  {
+    "name": "Auburn",
+    "country": "United States Of America",
+    "latitude": 32.6098565995918,
+    "longitude": -85.4807825,
+    "other_names": {
+      "name": "Auburn"
+    }
+  },
+  {
+    "name": "Auburn",
+    "country": "United States Of America",
+    "latitude": 32.5421279262549,
+    "longitude": -85.58079823136613,
+    "other_names": {
+      "name": "Auburn"
+    }
+  },
+  {
+    "name": "Auburn",
+    "country": "United States Of America",
+    "latitude": 32.684803712837606,
+    "longitude": -85.48828052302903,
+    "other_names": {
+      "name": "Auburn"
+    }
+  },
+  {
+    "name": "Auburn",
+    "country": "United States Of America",
+    "latitude": 32.57157308095729,
+    "longitude": -85.40768684544969,
+    "other_names": {
+      "name": "Auburn"
+    }
+  },
+  {
+    "name": "Auburn",
+    "country": "United States Of America",
+    "latitude": 32.71226597747151,
+    "longitude": -85.50685660234805,
+    "other_names": {
+      "name": "Auburn"
+    }
+  },
+  {
+    "name": "Auburn",
+    "country": "United States Of America",
+    "latitude": 32.52680213231628,
+    "longitude": -85.43680769532855,
+    "other_names": {
+      "name": "Auburn"
+    }
+  },
+  {
+    "name": "Auburn",
+    "country": "United States Of America",
+    "latitude": 32.5457527764635,
+    "longitude": -85.4188898040084,
+    "other_names": {
+      "name": "Auburn"
+    }
+  },
+  {
+    "name": "Auburn",
+    "country": "United States Of America",
+    "latitude": 32.535449433685145,
+    "longitude": -85.48675574584016,
+    "other_names": {
+      "name": "Auburn"
+    }
+  },
+  {
+    "name": "Auburn",
+    "country": "United States Of America",
+    "latitude": 32.54273828405433,
+    "longitude": -85.53106031318352,
+    "other_names": {
+      "name": "Auburn"
+    }
+  },
+  {
+    "name": "Auburn",
+    "country": "United States Of America",
+    "latitude": 32.541202252119135,
+    "longitude": -85.53392870002946,
+    "other_names": {
+      "name": "Auburn"
+    }
+  },
+  {
+    "name": "Auburn",
+    "country": "United States Of America",
+    "latitude": 32.64047090411755,
+    "longitude": -85.45613295084664,
+    "other_names": {
+      "name": "Auburn"
+    }
+  },
+  {
+    "name": "Auckland",
+    "country": "New Zealand",
+    "latitude": -36.85209500031107,
+    "longitude": 174.76318029999996,
+    "other_names": {
+      "name": "Auckland",
+      "name:ar": "أوكلاند",
+      "name:bn": "অকল্যান্ড",
+      "name:en": "Auckland",
+      "name:eo": "Aŭklando",
+      "name:ja": "オークランド",
+      "name:ko": "오클랜드",
+      "name:mi": "Tāmaki Makaurau",
+      "name:mk": "Окленд",
+      "name:pt": "Auckland",
+      "name:ru": "Окленд",
+      "name:sr": "Окланд",
+      "name:zh": "奥克兰",
+      "loc_name": "AKL",
+      "alt_name:mk": "Окланд",
+      "name:etymology": "George Eden, 1st Earl of Auckland"
+    }
+  },
+  {
+    "name": "Augsburg",
+    "country": "Germany",
+    "latitude": 48.36680409984893,
+    "longitude": 10.8986971,
+    "other_names": {
+      "name": "Augsburg",
+      "name:ar": "أوغسبورغ",
+      "name:br": "Augsburg",
+      "name:cs": "Augšpurk",
+      "name:de": "Augsburg",
+      "name:en": "Augsburg",
+      "name:es": "Augsburgo",
+      "name:eu": "Augsburg",
+      "name:fa": "اوگسبورگ",
+      "name:fr": "Augsbourg",
+      "name:hy": "Աուգսբուրգ",
+      "name:it": "Augusta",
+      "name:ja": "アウクスブルク",
+      "name:ka": "აუგსბურგი",
+      "name:la": "Augusta Vindelicorum",
+      "name:lv": "Augsburga",
+      "name:ru": "Аугсбург",
+      "name:sr": "Аугзбург",
+      "name:th": "เอาก์สบูร์ก",
+      "name:tr": "Augsburg",
+      "name:uk": "Аугсбург",
+      "name:zh": "奥格斯堡",
+      "name:als": "Augschburg",
+      "name:bar": "Augschburg",
+      "name:zh-Hant": "奧格斯堡"
+    }
+  },
+  {
+    "name": "Augusta",
+    "country": "United States Of America",
+    "latitude": 33.470971399589786,
+    "longitude": -81.9748429,
+    "other_names": {
+      "name": "Augusta",
+      "name:en": "Augusta",
+      "name:ru": "Огаста",
+      "name:uk": "Огаста"
+    }
+  },
+  {
+    "name": "Augusta",
+    "country": "United States Of America",
+    "latitude": 44.3105450005193,
+    "longitude": -69.7792759,
+    "other_names": {
+      "name": "Augusta",
+      "name:en": "Augusta",
+      "name:pl": "Augusta",
+      "name:ru": "Огаста",
+      "name:ta": "அகஸ்தா",
+      "name:uk": "Огаста"
+    }
+  },
+  {
+    "name": "Aurangabad",
+    "country": "India",
+    "latitude": 19.87726300036664,
+    "longitude": 75.33902409999999,
+    "other_names": {
+      "name": "Aurangabad",
+      "name:ar": "أورنك آباد",
+      "name:en": "Aurangabad",
+      "name:fa": "اورنگ‌آباد",
+      "name:hi": "औरंगाबाद",
+      "name:ja": "アウランガーバード",
+      "name:kn": "ಔರಂಗಾಬಾದ್",
+      "name:mr": "औरंगाबाद",
+      "name:pa": "ਔਰੰਗਾਬਾਦ",
+      "name:ru": "Аурангабад",
+      "name:ta": "அவுரங்காபாத்",
+      "name:te": "ఔరంగాబాద్",
+      "name:uk": "Аурангабад",
+      "name:ur": "اورنگ آباد",
+      "name:pnb": "اورنگ آباد"
+    }
+  },
+  {
+    "name": "Aurangabad",
+    "country": "India",
+    "latitude": 24.75366960027839,
+    "longitude": 84.3746725,
+    "other_names": {
+      "name": "Aurangabad",
+      "name:ar": "أورنك آباد",
+      "name:hi": "औरंगाबाद",
+      "name:ja": "アウランガーバード",
+      "name:kn": "ಔರಂಗಾಬಾದ್",
+      "name:ta": "அவுரங்காபாத்",
+      "name:ur": "اورنگ آباد"
+    }
+  },
+  {
+    "name": "Aurora",
+    "country": "United States Of America",
+    "latitude": 41.757170100466965,
+    "longitude": -88.31475389999999,
+    "other_names": {
+      "name": "Aurora",
+      "name:ru": "Орора"
+    }
+  }
+]

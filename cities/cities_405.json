@@ -1,0 +1,340 @@
+[
+  {
+    "name": "Saihan",
+    "country": "China",
+    "latitude": 40.79442200036853,
+    "longitude": 111.698796,
+    "other_names": {
+      "name": "赛罕区",
+      "name:en": "Saihan",
+      "name:vi": "Tái Hãn",
+      "name:zh": "赛罕区",
+      "alt_name": "赛罕;Saihan District;Saihan Qu;Сайхан",
+      "name:zh-Hant": "賽罕區",
+      "name:zh_pinyin": "Saihan Qu"
+    }
+  },
+  {
+    "name": "Saijo",
+    "country": "Japan",
+    "latitude": 33.91944659959924,
+    "longitude": 133.18132679999997,
+    "other_names": {
+      "name": "西条市",
+      "name:ar": "ساجيو، إهيمه",
+      "name:de": "Saijō",
+      "name:en": "Saijo",
+      "name:es": "Saijō",
+      "name:fr": "Saijō",
+      "name:ja": "西条市",
+      "name:ko": "사이조시",
+      "name:pl": "Saijō",
+      "name:ru": "Сайдзё",
+      "name:uk": "Сайджьо",
+      "name:zh": "西条市",
+      "int_name": "Saijō",
+      "name:zh-Hans": "西条市",
+      "name:zh-Hant": "西条市"
+    }
+  },
+  {
+    "name": "Saikai",
+    "country": "Japan",
+    "latitude": 32.93319359958799,
+    "longitude": 129.6430585,
+    "other_names": {
+      "name": "西海市",
+      "name:ar": "سايكاي، ناغاساكي",
+      "name:de": "Saikai",
+      "name:en": "Saikai",
+      "name:es": "Saikai",
+      "name:fr": "Saikai",
+      "name:ja": "西海市",
+      "name:ko": "사이카이시",
+      "name:pl": "Saikai",
+      "name:ru": "Сайкай",
+      "name:uk": "Сайкай",
+      "name:zh": "西海市",
+      "int_name": "Saikai",
+      "name:ja-Hira": "さいかいし",
+      "name:ja-Latn": "Saikai-Shi",
+      "name:zh-Hans": "西海市",
+      "name:zh-Hant": "西海市"
+    }
+  },
+  {
+    "name": "Saiki",
+    "country": "Japan",
+    "latitude": 32.96017319958783,
+    "longitude": 131.8996704,
+    "other_names": {
+      "name": "佐伯市",
+      "name:ar": "سايكي، أويتا",
+      "name:de": "Saiki",
+      "name:en": "Saiki",
+      "name:es": "Saiki",
+      "name:fr": "Saiki",
+      "name:ja": "佐伯市",
+      "name:ko": "사이키시",
+      "name:pl": "Saiki",
+      "name:ru": "Саики",
+      "name:uk": "Саїкі",
+      "name:zh": "佐伯市",
+      "int_name": "Saiki",
+      "name:ja_rm": "Saiki-shi",
+      "name:ja_kana": "さいきし",
+      "name:zh-Hans": "佐伯市",
+      "name:zh-Hant": "佐伯市"
+    }
+  },
+  {
+    "name": "Sainshand",
+    "country": "Mongolia",
+    "latitude": 44.888391300478524,
+    "longitude": 110.1431263,
+    "other_names": {
+      "name": "Сайншанд",
+      "name:ar": "سينشند",
+      "name:de": "Sainschand",
+      "name:en": "Sainshand",
+      "name:es": "Sainshand",
+      "name:fr": "Sainshand",
+      "name:ja": "サインシャンド",
+      "name:lt": "Sainšandas",
+      "name:mn": "Сайншанд",
+      "name:ru": "Сайншанд",
+      "name:zh": "赛音山达",
+      "alt_name": "Saynshand",
+      "int_name": "Sainshand",
+      "name:zht": "賽音山達",
+      "name:mn-mong": "ᠳᠠᠯᠠᠨᠵᠠᠳᠠᠭᠠᠳ"
+    }
+  },
+  {
+    "name": "Sainshand",
+    "country": "Mongolia",
+    "latitude": 44.899198900915216,
+    "longitude": 110.13851915491249,
+    "other_names": {
+      "name": "Сайншанд",
+      "name:ar": "سينشند",
+      "name:de": "Sainschand",
+      "name:en": "Sainshand",
+      "name:es": "Sainshand",
+      "name:fr": "Sainshand",
+      "name:ja": "サインシャンド",
+      "name:lt": "Sainšandas",
+      "name:mn": "Сайншанд",
+      "name:ru": "Сайншанд",
+      "name:zh": "赛音山达",
+      "alt_name": "Saynshand",
+      "int_name": "Sainshand",
+      "name:zht": "賽音山達",
+      "name:mn-mong": "ᠳᠠᠯᠠᠨᠵᠠᠳᠠᠭᠠᠳ"
+    }
+  },
+  {
+    "name": "Saint Charles",
+    "country": "United States Of America",
+    "latitude": 38.7946252000961,
+    "longitude": -90.519829,
+    "other_names": {
+      "name": "Saint Charles"
+    }
+  },
+  {
+    "name": "Saint Cloud",
+    "country": "United States Of America",
+    "latitude": 45.561607500404975,
+    "longitude": -94.1642004,
+    "other_names": {
+      "name": "Saint Cloud",
+      "name:ru": "Сент-Клауд"
+    }
+  },
+  {
+    "name": "Saint-Denis",
+    "country": "France",
+    "latitude": -20.87998890031798,
+    "longitude": 55.448136999999996,
+    "other_names": {
+      "name": "Saint-Denis",
+      "name:ar": "سان ديني",
+      "name:be": "Сен-Дэні",
+      "name:bg": "Сен Дьони",
+      "name:cy": "Saint-Denis",
+      "name:da": "Saint-Denis",
+      "name:el": "Σαν Ντενί",
+      "name:en": "Saint-Denis",
+      "name:fa": "سن-دونی، رئونیون",
+      "name:fi": "Saint-Denis",
+      "name:he": "סן-דני",
+      "name:id": "Saint-Denis",
+      "name:io": "Saint-Denis",
+      "name:ja": "サン＝ドニ",
+      "name:jv": "Saint-Denis",
+      "name:ka": "სენ-დენი",
+      "name:ko": "생드니",
+      "name:la": "Sanctus Dionysius",
+      "name:lt": "Sen Deni",
+      "name:lv": "Sendenī",
+      "name:mg": "Saint-Denis",
+      "name:mk": "Сен Дени",
+      "name:mr": "सेंट डेनिस",
+      "name:ms": "Saint-Denis",
+      "name:ru": "Сен-Дени",
+      "name:sr": "Сен Дени",
+      "name:sv": "Saint-Denis",
+      "name:tr": "Saint-Denis",
+      "name:uk": "Сен-Дені",
+      "name:vi": "Saint-Denis",
+      "name:yo": "Saint-Denis",
+      "name:zh": "聖但尼",
+      "name:ceb": "Saint-Denis",
+      "name:ckb": "سەینت دێنیس",
+      "name:frp": "Sant-Denis",
+      "name:mzn": "سنت دنی، رئونیون",
+      "name:war": "Saint-Denis",
+      "name:roa-rup": "Saint Denis",
+      "name:be-tarask": "Сэн-Дэні"
+    }
+  },
+  {
+    "name": "Saint-Denis",
+    "country": "France",
+    "latitude": 48.93577299970824,
+    "longitude": 2.3580232,
+    "other_names": {
+      "name": "Saint-Denis",
+      "name:ar": "سان دوني",
+      "name:el": "Σαιν-Ντενί",
+      "name:eo": "Sankta-Denizo",
+      "name:fr": "Saint-Denis",
+      "name:ja": "サン＝ドニ",
+      "name:uk": "Сен-Дені",
+      "alt_name:ar": "سان دونيس"
+    }
+  },
+  {
+    "name": "sainte anne",
+    "country": "Haiti And Domrep",
+    "latitude": 19.60930615045003,
+    "longitude": -72.616515300002,
+    "other_names": {
+      "name": "sainte anne"
+    }
+  },
+  {
+    "name": "Saint-Étienne",
+    "country": "France",
+    "latitude": 45.44014670042027,
+    "longitude": 4.3873058,
+    "other_names": {
+      "name": "Saint-Étienne",
+      "name:ar": "سانت إتيان",
+      "name:el": "Σαιντ-Ετιέν",
+      "name:eo": "Sankta-Stefano",
+      "name:fr": "Saint-Étienne",
+      "name:hu": "Saint-Étienne",
+      "name:ja": "サン＝テティエンヌ",
+      "name:lt": "Sent Etjenas",
+      "name:oc": "Sant Estève",
+      "name:ru": "Сент-Этьен",
+      "name:sr": "Сент Етјен",
+      "name:uk": "Сент-Етьєн",
+      "alt_name:eo": "San-Stefano"
+    }
+  },
+  {
+    "name": "Saint-Georges",
+    "country": "Canada",
+    "latitude": 46.12298700032301,
+    "longitude": -70.671959,
+    "other_names": {
+      "name": "Saint-Georges",
+      "name:ko": "셍죠흐쥬",
+      "old_name": "Saint-Georges-de-Beauce"
+    }
+  },
+  {
+    "name": "Saint-Hyacinthe",
+    "country": "Canada",
+    "latitude": 45.6274840003963,
+    "longitude": -72.940636,
+    "other_names": {
+      "name": "Saint-Hyacinthe"
+    }
+  },
+  {
+    "name": "Saint-Jean-sur-Richelieu",
+    "country": "Canada",
+    "latitude": 45.30568790043619,
+    "longitude": -73.2533401,
+    "other_names": {
+      "name": "Saint-Jean-sur-Richelieu"
+    }
+  },
+  {
+    "name": "Saint-Jérôme",
+    "country": "Canada",
+    "latitude": 45.7754260003759,
+    "longitude": -74.013176,
+    "other_names": {
+      "name": "Saint-Jérôme",
+      "name:en": "Saint-Jérôme",
+      "name:ru": "Сен-Жером",
+      "name:uk": "Сен-Жером"
+    }
+  },
+  {
+    "name": "Saint John",
+    "country": "Canada",
+    "latitude": 45.27875200043924,
+    "longitude": -66.058044,
+    "other_names": {
+      "name": "Saint John"
+    }
+  },
+  {
+    "name": "Saint Joseph",
+    "country": "United States Of America",
+    "latitude": 39.768605500235545,
+    "longitude": -94.84663219999999,
+    "other_names": {
+      "name": "Saint Joseph"
+    }
+  },
+  {
+    "name": "Saint Louis",
+    "country": "United States Of America",
+    "latitude": 38.62642560007171,
+    "longitude": -90.1995853,
+    "other_names": {
+      "name": "Saint Louis",
+      "name:es": "San Luis (Misuri)",
+      "name:fr": "Saint-Louis",
+      "name:he": "סנט לואיס",
+      "name:kn": "ಸೈಂಟ್ ಲೂಯಿಸ್",
+      "name:lt": "Sent Luisas",
+      "name:oc": "Saint-Louis",
+      "name:ru": "Сент-Луис",
+      "name:uk": "Сент-Луїс"
+    }
+  },
+  {
+    "name": "Saint-Louis",
+    "country": "Senegal And Gambia",
+    "latitude": 16.02804450002772,
+    "longitude": -16.5048686,
+    "other_names": {
+      "name": "Saint-Louis",
+      "name:ar": "سانت لويس",
+      "name:en": "Saint-Louis",
+      "name:he": "סן-לואי",
+      "name:ko": "생루이",
+      "name:ru": "Сен-Луи",
+      "name:uk": "Сен-Луї",
+      "name:wo": "Ndar"
+    }
+  }
+]

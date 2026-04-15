@@ -1,0 +1,248 @@
+[
+  {
+    "name": "Corner Brook",
+    "country": "Canada",
+    "latitude": 48.953169999703945,
+    "longitude": -57.94738799999998,
+    "other_names": {
+      "name": "Corner Brook",
+      "name:en": "Corner Brook",
+      "name:ru": "Корнер-Брук",
+      "name:uk": "Корнер-Брук"
+    }
+  },
+  {
+    "name": "Cornwall",
+    "country": "Canada",
+    "latitude": 45.018441700466475,
+    "longitude": -74.72870299999998,
+    "other_names": {
+      "name": "Cornwall",
+      "name:en": "Cornwall",
+      "name:uk": "Корнвол"
+    }
+  },
+  {
+    "name": "Cornwall",
+    "country": "Canada",
+    "latitude": 45.018441700466475,
+    "longitude": -74.72870299999998,
+    "other_names": {
+      "name": "Cornwall",
+      "name:en": "Cornwall",
+      "name:uk": "Корнвол"
+    }
+  },
+  {
+    "name": "Coro",
+    "country": "Venezuela",
+    "latitude": 11.405579599529437,
+    "longitude": -69.6679115,
+    "other_names": {
+      "name": "Coro",
+      "name:en": "Coro",
+      "name:ru": "Коро",
+      "name:uk": "Коро",
+      "loc_name": "Coro"
+    }
+  },
+  {
+    "name": "Corona",
+    "country": "United States Of America",
+    "latitude": 33.87529449959799,
+    "longitude": -117.56644490000001,
+    "other_names": {
+      "name": "Corona",
+      "name:fa": "کرونا"
+    }
+  },
+  {
+    "name": "Coronel",
+    "country": "Chile",
+    "latitude": -37.016471200349386,
+    "longitude": -73.15619529999998,
+    "other_names": {
+      "name": "Coronel"
+    }
+  },
+  {
+    "name": "Coronel Fabriciano",
+    "country": "Brazil",
+    "latitude": -19.520006700421934,
+    "longitude": -42.62826859999999,
+    "other_names": {
+      "name": "Coronel Fabriciano"
+    }
+  },
+  {
+    "name": "Coronel Oviedo",
+    "country": "Paraguay",
+    "latitude": -25.45005499971464,
+    "longitude": -56.44069939999999,
+    "other_names": {
+      "name": "Coronel Oviedo",
+      "name:lt": "Koronel Ovjedas",
+      "name:ru": "Коронель-Овьедо",
+      "name:uk": "Коронель-Овьєдо"
+    }
+  },
+  {
+    "name": "Corpus Christi",
+    "country": "United States Of America",
+    "latitude": 27.795148199969145,
+    "longitude": -97.3942053,
+    "other_names": {
+      "name": "Corpus Christi",
+      "name:en": "Corpus Christi",
+      "name:ru": "Корпус-Кристи",
+      "name:uk": "Корпус-Крісті"
+    }
+  },
+  {
+    "name": "Corrientes",
+    "country": "Argentina",
+    "latitude": -27.468700399462257,
+    "longitude": -58.8312304,
+    "other_names": {
+      "name": "Corrientes",
+      "name:el": "Κορριέντες"
+    }
+  },
+  {
+    "name": "Çorum",
+    "country": "Turkey",
+    "latitude": 40.549149600338836,
+    "longitude": 34.9602453,
+    "other_names": {
+      "name": "Çorum",
+      "name:ar": "جوروم",
+      "name:el": "Τσορούμ",
+      "name:en": "Çorum",
+      "name:hi": "छोरुम",
+      "name:hu": "Corum",
+      "name:hy": "Չորում",
+      "name:ka": "ჩორუმი",
+      "name:ru": "Чорум",
+      "name:tr": "Çorum",
+      "name:grc": "Εὐχάνεια"
+    }
+  },
+  {
+    "name": "Corumbá",
+    "country": "Brazil",
+    "latitude": -19.00163650044739,
+    "longitude": -57.65343159999999,
+    "other_names": {
+      "name": "Corumbá",
+      "name:en": "Corumbá",
+      "name:es": "Corumbá",
+      "name:pt": "Corumbá",
+      "name:ru": "Корумба",
+      "name:uk": "Корумба",
+      "alt_name": "Corumba",
+      "loc_name": "Cidade Branca"
+    }
+  },
+  {
+    "name": "Corvallis",
+    "country": "United States Of America",
+    "latitude": 44.56456590050393,
+    "longitude": -123.26204350000002,
+    "other_names": {
+      "name": "Corvallis",
+      "name:ja": "コーバリス",
+      "name:ru": "Корваллис"
+    }
+  },
+  {
+    "name": "Cosamaloapan",
+    "country": "Mexico",
+    "latitude": 18.367299517201484,
+    "longitude": -95.79671654127792,
+    "other_names": {
+      "name": "Cosamaloapan"
+    }
+  },
+  {
+    "name": "Cosenza",
+    "country": "Italy",
+    "latitude": 39.309993100170644,
+    "longitude": 16.2501929,
+    "other_names": {
+      "name": "Cosenza",
+      "name:ar": "كشنتة",
+      "name:el": "Κοζέντσα",
+      "name:fa": "کزنتزا",
+      "name:ru": "Козенца",
+      "name:sr": "Козенца",
+      "name:ur": "کوزینتسا",
+      "name:zh": "科森扎",
+      "name:scn": "Cusenza",
+      "alt_name:ar": "كوزنسا;كوسنزا"
+    }
+  },
+  {
+    "name": "Costa Mesa",
+    "country": "United States Of America",
+    "latitude": 33.66333859959296,
+    "longitude": -117.90331699999999,
+    "other_names": {
+      "name": "Costa Mesa"
+    }
+  },
+  {
+    "name": "Cotabato City",
+    "country": "Philippines",
+    "latitude": 7.197034399400339,
+    "longitude": 124.23517140000001,
+    "other_names": {
+      "name": "Cotabato City",
+      "name:ja": "コタバト",
+      "name:zh": "哥打巴托",
+      "name:mdh": "Kuta Wato",
+      "alt_name:hil": "Syudad sang Cotabato",
+      "official_name:en": "City of Cotabato",
+      "official_name:es": "Ciudad de Cotabato",
+      "official_name:tl": "Lungsod ng Cotabato",
+      "official_name:ceb": "Dakbayan sa Cotabato",
+      "official_name:hil": "Dakbanwa sang Cotabato"
+    }
+  },
+  {
+    "name": "Cotia",
+    "country": "Brazil",
+    "latitude": -23.60388899998236,
+    "longitude": -46.91888900000001,
+    "other_names": {
+      "name": "Cotia"
+    }
+  },
+  {
+    "name": "Cotoca",
+    "country": "Bolivia",
+    "latitude": -17.7545038004751,
+    "longitude": -62.996223500000006,
+    "other_names": {
+      "name": "Cotoca"
+    }
+  },
+  {
+    "name": "Cotonou",
+    "country": "Benin",
+    "latitude": 6.367695299427548,
+    "longitude": 2.4252507,
+    "other_names": {
+      "name": "Cotonou",
+      "name:ar": "كوتونو",
+      "name:he": "קוטונו",
+      "name:ja": "コトヌー",
+      "name:ko": "코토누",
+      "name:lt": "Kotonu",
+      "name:pl": "Kotonu",
+      "name:ru": "Котону",
+      "name:uk": "Котону",
+      "name:zh": "科托努",
+      "name:fon": "Kùtɔ́nû"
+    }
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "name": "Sar-e Pol",
+    "country": "Afghanistan",
+    "latitude": 36.214965499757575,
+    "longitude": 65.933303,
+    "other_names": {
+      "name": "سر پل",
+      "name:ar": "سربل",
+      "name:cs": "Sar-e Pol",
+      "name:de": "Sar-i Pul",
+      "name:el": "Σαρ-ε Πολ",
+      "name:en": "Sar-e Pol",
+      "name:es": "Sar-e Pol",
+      "name:et": "Sar-e Pol",
+      "name:fa": "سر پل",
+      "name:fr": "Sar-é Pol",
+      "name:hi": "सर-ए-पोल",
+      "name:ja": "サーレポル",
+      "name:ru": "Сари-Пуль",
+      "name:uk": "Сарі-Пуль",
+      "alt_name": "Sari Pul"
+    }
+  },
+  {
+    "name": "Sargodha",
+    "country": "Pakistan",
+    "latitude": 32.08980049960537,
+    "longitude": 72.67825739999999,
+    "other_names": {
+      "name": "سرگودھا",
+      "name:ar": "سرغودها",
+      "name:de": "Sargodha",
+      "name:en": "Sargodha",
+      "name:es": "Sargodha",
+      "name:et": "Sargodha",
+      "name:fr": "Sargodha",
+      "name:hi": "सरगौधा",
+      "name:ja": "サルゴーダー",
+      "name:kn": "ಸರ್ಗೋಧಾ",
+      "name:ru": "Саргодха",
+      "name:uk": "Сарґодга"
+    }
+  },
+  {
+    "name": "Sarh",
+    "country": "Chad",
+    "latitude": 9.140647099405035,
+    "longitude": 18.3937969,
+    "other_names": {
+      "name": "Sarh سارة",
+      "name:ar": "سارة",
+      "name:de": "Sarh",
+      "name:en": "Sarh",
+      "name:es": "Sarh",
+      "name:et": "Sarh",
+      "name:fa": "ساره",
+      "name:fr": "Sarh",
+      "name:ko": "사르",
+      "name:ru": "Сарх",
+      "name:uk": "Сарх",
+      "name:ur": "صرح",
+      "alt_name": "صارح;ساره;سار",
+      "name:azb": "ساره",
+      "alt_name:ar": "صارح;ساره;سار",
+      "old_name:ar": "فور آرشامبو",
+      "old_name:fr": "Fort Archambault"
+    }
+  },
+  {
+    "name": "Sari",
+    "country": "Iran",
+    "latitude": 36.56595979979625,
+    "longitude": 53.05872289999999,
+    "other_names": {
+      "name": "ساری",
+      "name:ar": "ساري",
+      "name:cs": "Sárí",
+      "name:de": "Sari",
+      "name:en": "Sari",
+      "name:es": "Sári",
+      "name:et": "Sārī",
+      "name:fr": "Sari",
+      "name:hi": "सारी",
+      "name:ja": "サーリー",
+      "name:ko": "사리",
+      "name:ku": "Sarî",
+      "name:pl": "Sari",
+      "name:ru": "Сари",
+      "name:uk": "Сарі"
+    }
+  },
+  {
+    "name": "Sarikei",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 2.1294845997729035,
+    "longitude": 111.52305859999998,
+    "other_names": {
+      "name": "Sarikei",
+      "name:zh": "泗里街"
+    }
+  },
+  {
+    "name": "Sari Khosor - Shahidon",
+    "country": "Tajikistan",
+    "latitude": 38.53308010248266,
+    "longitude": 69.83406367378194,
+    "other_names": {
+      "name": "Sari Khosor - Shahidon"
+    }
+  },
+  {
+    "name": "Sariwon",
+    "country": "North Korea",
+    "latitude": 38.50935000005478,
+    "longitude": 125.75554469999999,
+    "other_names": {
+      "name": "사리원시",
+      "name:cs": "Sariwon",
+      "name:de": "Sariwŏn",
+      "name:el": "Σάριουον",
+      "name:en": "Sariwon",
+      "name:es": "Sariwon",
+      "name:fr": "Sariwon",
+      "name:ja": "沙里院市",
+      "name:ko": "사리원시",
+      "name:lt": "Sarivonas",
+      "name:ru": "Саривон",
+      "name:zh": "沙里院市",
+      "alt_name": "Sariwŏn",
+      "int_name": "Sariwon",
+      "name:pnb": "ساریون",
+      "name:ko-Hani": "沙里院市"
+    }
+  },
+  {
+    "name": "Sarnia",
+    "country": "Canada",
+    "latitude": 42.97461370053592,
+    "longitude": -82.40655849999999,
+    "other_names": {
+      "name": "Sarnia",
+      "name:ar": "سارنيا"
+    }
+  },
+  {
+    "name": "Sarpsborg",
+    "country": "Norway",
+    "latitude": 59.283879201382646,
+    "longitude": 11.1096115,
+    "other_names": {
+      "name": "Sarpsborg",
+      "name:ru": "Сарпсборг"
+    }
+  },
+  {
+    "name": "Sasaram",
+    "country": "India",
+    "latitude": 24.95096560026214,
+    "longitude": 84.0148733,
+    "other_names": {
+      "name": "Sasaram",
+      "name:en": "Sasaram",
+      "name:he": "סאסארם",
+      "name:hi": "सासाराम",
+      "name:kn": "ಸಸರಾಂ",
+      "name:pa": "ਸਾਸਾਰਾਮ"
+    }
+  },
+  {
+    "name": "Sasebo",
+    "country": "Japan",
+    "latitude": 33.17999649958754,
+    "longitude": 129.7152872,
+    "other_names": {
+      "name": "佐世保市",
+      "name:ar": "ساسيبو، ناغاساكي",
+      "name:de": "Sasebo",
+      "name:en": "Sasebo",
+      "name:es": "Sasebo",
+      "name:et": "Sasebo",
+      "name:fr": "Sasebo",
+      "name:hu": "Szaszebo",
+      "name:ja": "佐世保市",
+      "name:ko": "사세보시",
+      "name:pl": "Sasebo",
+      "name:ru": "Сасебо",
+      "name:uk": "Сасебо",
+      "name:zh": "佐世保市",
+      "int_name": "Sasebo",
+      "name:ja_rm": "Sasebo-Shi",
+      "name:ja_kana": "させぼし",
+      "name:zh-Hans": "佐世保市",
+      "name:zh-Hant": "佐世保市"
+    }
+  },
+  {
+    "name": "Saskatoon",
+    "country": "Canada",
+    "latitude": 52.13180199910708,
+    "longitude": -106.660767,
+    "other_names": {
+      "name": "Saskatoon",
+      "name:ar": "ساسكاتون",
+      "name:en": "Saskatoon",
+      "name:lt": "Saskatūnas",
+      "name:ru": "Саскатун",
+      "name:uk": "Саскатун"
+    }
+  },
+  {
+    "name": "Sassari",
+    "country": "Italy",
+    "latitude": 40.72326430036007,
+    "longitude": 8.5610074,
+    "other_names": {
+      "name": "Sassari",
+      "name:ar": "ساساري",
+      "name:be": "Сасары",
+      "name:ca": "Sàsser",
+      "name:co": "Sassari",
+      "name:el": "Σάσσαρι",
+      "name:fa": "ساساری",
+      "name:fr": "Sassari",
+      "name:hu": "Sassari",
+      "name:it": "Sassari",
+      "name:ru": "Сассари",
+      "name:sc": "Tàtari",
+      "name:uk": "Сассарі",
+      "name:ur": "ساساری",
+      "name:zh": "薩薩里",
+      "name:sdc": "Sassari",
+      "alt_name:sc": "Tàttari",
+      "name:zh-Hans": "萨萨里"
+    }
+  },
+  {
+    "name": "Satara",
+    "country": "India",
+    "latitude": 17.68832100020488,
+    "longitude": 74.0041726,
+    "other_names": {
+      "name": "Satara",
+      "name:hi": "सातारा",
+      "name:ja": "サーターラー",
+      "name:kn": "ಸಾತಾರಾ",
+      "name:mr": "सातारा",
+      "name:pa": "ਸਾਤਾਰਾ"
+    }
+  },
+  {
+    "name": "Satna",
+    "country": "India",
+    "latitude": 24.57241164614093,
+    "longitude": 80.83770302932231,
+    "other_names": {
+      "name": "Satna",
+      "name:hi": "सतना",
+      "name:ja": "サトナー",
+      "name:pa": "ਸਤਨਾ",
+      "name:ta": "சத்னா"
+    }
+  },
+  {
+    "name": "Satsumasendai",
+    "country": "Japan",
+    "latitude": 31.81342099961614,
+    "longitude": 130.3039789,
+    "other_names": {
+      "name": "薩摩川内市",
+      "name:ar": "ساتسوماسينداي، كاغوشيما",
+      "name:de": "Satsumasendai",
+      "name:en": "Satsumasendai",
+      "name:es": "Satsumasendai",
+      "name:fr": "Satsumasendai",
+      "name:ja": "薩摩川内市",
+      "name:ko": "사쓰마센다이시",
+      "name:ru": "Сацума-Сендай",
+      "name:uk": "Сацума-Сендай",
+      "name:zh": "萨摩川内市",
+      "int_name": "Satsumasendai",
+      "name:ja_kana": "さつませんだいし",
+      "name:zh-Hans": "萨摩川内市",
+      "name:zh-Hant": "薩摩川內市"
+    }
+  },
+  {
+    "name": "Satte",
+    "country": "Japan",
+    "latitude": 36.07788269974338,
+    "longitude": 139.7254086,
+    "other_names": {
+      "name": "幸手市",
+      "name:ar": "ساتي، سايتاما",
+      "name:de": "Satte",
+      "name:en": "Satte",
+      "name:es": "Satte",
+      "name:fr": "Satte",
+      "name:ja": "幸手市",
+      "name:ko": "삿테시",
+      "name:pl": "Satte",
+      "name:ru": "Сатте",
+      "name:uk": "Сатте",
+      "int_name": "Satte"
+    }
+  },
+  {
+    "name": "Satu Mare",
+    "country": "Romania",
+    "latitude": 47.78512050139896,
+    "longitude": 22.878033003487477,
+    "other_names": {
+      "name": "Satu Mare",
+      "name:de": "Sathmar",
+      "name:hu": "Szatmárnémeti"
+    }
+  },
+  {
+    "name": "Satu Mare",
+    "country": "Romania",
+    "latitude": 47.789176299987446,
+    "longitude": 22.8725598,
+    "other_names": {
+      "name": "Satu Mare",
+      "name:de": "Sathmar",
+      "name:el": "Σάτου Μάρε",
+      "name:hu": "Szatmárnémeti",
+      "name:lt": "Satu Marė",
+      "name:ro": "Satu Mare",
+      "name:ru": "Сату-Маре",
+      "name:sk": "Satmár",
+      "name:sr": "Сату Маре",
+      "name:uk": "Сату-Маре"
+    }
+  },
+  {
+    "name": "Sault Ste. Marie",
+    "country": "Canada",
+    "latitude": 46.523910000253814,
+    "longitude": -84.32006799999999,
+    "other_names": {
+      "name": "Sault Ste. Marie",
+      "name:de": "Sault Ste. Marie",
+      "name:fr": "Sault-Sainte-Marie",
+      "name:uk": "Су-Сен-Марі"
+    }
+  }
+]

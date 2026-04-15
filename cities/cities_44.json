@@ -1,0 +1,363 @@
+[
+  {
+    "name": "Batumi",
+    "country": "Georgia",
+    "latitude": 41.61817781931239,
+    "longitude": 41.63171508133427,
+    "other_names": {
+      "name": "ბათუმი",
+      "name:ab": "Баҭым",
+      "name:ar": "باطومي",
+      "name:az": "Batumi",
+      "name:bg": "Батуми",
+      "name:ca": "Batumi",
+      "name:de": "Batumi",
+      "name:en": "Batumi",
+      "name:es": "Batumi",
+      "name:fa": "باتومی",
+      "name:fr": "Batoumi",
+      "name:he": "בתומי",
+      "name:hr": "Batumi",
+      "name:hu": "Batumi",
+      "name:hy": "Բաթում",
+      "name:ja": "バトゥミ",
+      "name:ka": "ბათუმი",
+      "name:ku": "Batûmî",
+      "name:lt": "Batumis",
+      "name:nl": "Batoemi",
+      "name:os": "Батуми",
+      "name:pl": "Batumi",
+      "name:ru": "Батуми",
+      "name:sr": "Батуми",
+      "name:tr": "Batum",
+      "name:uk": "Батумі",
+      "name:zh": "巴統",
+      "int_name": "Batumi",
+      "name:xmf": "ბათუმი"
+    }
+  },
+  {
+    "name": "Batumi",
+    "country": "Turkey",
+    "latitude": 41.61817781931239,
+    "longitude": 41.63171508133427,
+    "other_names": {
+      "name": "ბათუმი",
+      "name:ab": "Баҭым",
+      "name:ar": "باطومي",
+      "name:az": "Batumi",
+      "name:bg": "Батуми",
+      "name:ca": "Batumi",
+      "name:de": "Batumi",
+      "name:en": "Batumi",
+      "name:es": "Batumi",
+      "name:fa": "باتومی",
+      "name:fr": "Batoumi",
+      "name:he": "בתומי",
+      "name:hr": "Batumi",
+      "name:hu": "Batumi",
+      "name:hy": "Բաթում",
+      "name:ja": "バトゥミ",
+      "name:ka": "ბათუმი",
+      "name:ku": "Batûmî",
+      "name:lt": "Batumis",
+      "name:nl": "Batoemi",
+      "name:os": "Батуми",
+      "name:pl": "Batumi",
+      "name:ru": "Батуми",
+      "name:sr": "Батуми",
+      "name:tr": "Batum",
+      "name:uk": "Батумі",
+      "name:zh": "巴統",
+      "int_name": "Batumi",
+      "name:xmf": "ბათუმი"
+    }
+  },
+  {
+    "name": "Batu Pahat",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 1.847258399803092,
+    "longitude": 102.93466970000001,
+    "other_names": {
+      "name": "Batu Pahat",
+      "name:fa": "باتو پاهات",
+      "name:ja": "バトゥ・パハッ",
+      "name:ko": "바투파핫",
+      "name:ms": "Bandar Penggaram",
+      "name:ru": "Бату-Пахат",
+      "name:ta": "பத்து பகாட்",
+      "name:ur": "باتو پاہت",
+      "name:zh": "峇株巴辖",
+      "alt_name": "Bandar Penggaram",
+      "name:pnb": "ضلع باتو پاہٹ",
+      "alt_name:zh": "帆加兰;峇株"
+    }
+  },
+  {
+    "name": "Bat Yam",
+    "country": "Israel And Palestine",
+    "latitude": 32.01772638175024,
+    "longitude": 34.749854045979006,
+    "other_names": {
+      "name": "בת ים",
+      "name:en": "Bat Yam",
+      "name:fr": "Bat Yam",
+      "name:he": "בת ים"
+    }
+  },
+  {
+    "name": "Bat Yam",
+    "country": "Israel And Palestine",
+    "latitude": 32.01545649960802,
+    "longitude": 34.7505283,
+    "other_names": {
+      "name": "בת ים",
+      "name:ar": "بات يام",
+      "name:cs": "Bat Jam",
+      "name:de": "Bat Yam",
+      "name:en": "Bat Yam",
+      "name:es": "Bat Yam",
+      "name:et": "Bat Yam",
+      "name:fr": "Bat Yam",
+      "name:he": "בת ים",
+      "name:hi": "बात याम",
+      "name:lt": "Bat Jamas",
+      "name:pl": "Bat Jam",
+      "name:ru": "Бат-Ям",
+      "name:uk": "Бат-Ям",
+      "alt_name:cs": "Dcera Moře"
+    }
+  },
+  {
+    "name": "Baubau",
+    "country": "Indonesia",
+    "latitude": -5.462029799680214,
+    "longitude": 122.60576550000002,
+    "other_names": {
+      "name": "Baubau",
+      "name:id": "Baubau",
+      "name:ja": "バウバウ",
+      "name:ko": "바우바우",
+      "name:cia": "파우파우"
+    }
+  },
+  {
+    "name": "Bauchi",
+    "country": "Nigeria",
+    "latitude": 10.314761799454606,
+    "longitude": 9.845441699999999,
+    "other_names": {
+      "name": "Bauchi",
+      "name:ar": "بوتشي",
+      "name:ko": "바우치",
+      "name:pl": "Bauczi",
+      "name:ru": "Баучи",
+      "name:uk": "Баучі"
+    }
+  },
+  {
+    "name": "Bauru",
+    "country": "Brazil",
+    "latitude": -22.3218102001567,
+    "longitude": -49.0705863,
+    "other_names": {
+      "name": "Bauru",
+      "name:ru": "Бауру"
+    }
+  },
+  {
+    "name": "Bavet",
+    "country": "Cambodia",
+    "latitude": 11.069127199503637,
+    "longitude": 106.14362259999999,
+    "other_names": {
+      "name": "ក្រុងបាវិត",
+      "name:en": "Bavet",
+      "name:km": "ក្រុងបាវិត",
+      "name:ru": "Бавет",
+      "name:vi": "Bavet",
+      "name:zh": "巴域"
+    }
+  },
+  {
+    "name": "Bavet",
+    "country": "Vietnam",
+    "latitude": 11.069127199503637,
+    "longitude": 106.14362259999999,
+    "other_names": {
+      "name": "ក្រុងបាវិត",
+      "name:en": "Bavet",
+      "name:km": "ក្រុងបាវិត",
+      "name:ru": "Бавет",
+      "name:vi": "Bavet",
+      "name:zh": "巴域"
+    }
+  },
+  {
+    "name": "Baxoi",
+    "country": "China",
+    "latitude": 30.056030599734758,
+    "longitude": 96.9177513,
+    "other_names": {
+      "name": "八宿县",
+      "name:bo": "དཔའ་ཤོད་རྫོང་",
+      "name:en": "Baxoi",
+      "name:ja": "パシュー県",
+      "name:ru": "Башё",
+      "name:vi": "Baxoi",
+      "name:zh": "八宿县",
+      "alt_name": "八宿;八宿县人民政府;白玛镇;白玛;Basu;Baima",
+      "alt_name:vi": "Bát Túc",
+      "name:zh-Hant": "八宿縣",
+      "name:zh_pinyin": "Bāsù Xiàn"
+    }
+  },
+  {
+    "name": "Bayamo",
+    "country": "Cuba",
+    "latitude": 20.37342320038752,
+    "longitude": -76.64918929999999,
+    "other_names": {
+      "name": "Bayamo",
+      "name:hu": "Bayamo",
+      "name:ru": "Баямо",
+      "name:uk": "Баямо"
+    }
+  },
+  {
+    "name": "Bayan",
+    "country": "China",
+    "latitude": 46.077784800330264,
+    "longitude": 127.39968150000001,
+    "other_names": {
+      "name": "巴彦县",
+      "name:en": "Bayan",
+      "name:ru": "Баянь",
+      "name:vi": "Ba Ngạn",
+      "name:zh": "巴彦县",
+      "alt_name": "巴彦",
+      "int_name": "Bayan",
+      "name:zh-Hant": "巴彥縣",
+      "official_name": "巴彦镇"
+    }
+  },
+  {
+    "name": "Bayankhongor",
+    "country": "Mongolia",
+    "latitude": 46.19366490031144,
+    "longitude": 100.71426539999999,
+    "other_names": {
+      "name": "Баянхонгор",
+      "name:ar": "محافظة بايانخونغور",
+      "name:de": "Bajanchongor",
+      "name:en": "Bayankhongor",
+      "name:es": "Bayanhongor",
+      "name:fr": "Bayanhongor",
+      "name:hu": "Bajanhongor",
+      "name:ja": "バヤンホンゴル",
+      "name:lt": "Bajanchongoras",
+      "name:mn": "Баянхонгор",
+      "name:ru": "Баянхонгор",
+      "name:uk": "Баянхонгор",
+      "int_name": "Баянхонгор"
+    }
+  },
+  {
+    "name": "Bayannur",
+    "country": "China",
+    "latitude": 40.741920200362316,
+    "longitude": 107.38195719999999,
+    "other_names": {
+      "name": "巴彦淖尔市",
+      "name:de": "Bayannur",
+      "name:en": "Bayannur",
+      "name:eo": "Bajan-Nuro",
+      "name:et": "Baynnur",
+      "name:fr": "Bayannur",
+      "name:hi": "बायानूर",
+      "name:ja": "バヤンノール",
+      "name:mn": "ᠪᠠᠶᠠᠨᠨᠠᠭᠤᠷ ᠬᠣᠲᠠ",
+      "name:pt": "Bayan Nur",
+      "name:ru": "Баян-Нур",
+      "name:vi": "Bayan Nur",
+      "name:zh": "巴彦淖尔市",
+      "alt_name:vi": "Ba Ngạn Náo Nhĩ",
+      "name:zh-Hant": "巴彥淖爾市",
+      "name:zh_pinyin": "bāyànnàoěr shì"
+    }
+  },
+  {
+    "name": "Bayan Obo",
+    "country": "China",
+    "latitude": 41.76883600046794,
+    "longitude": 109.97039150000002,
+    "other_names": {
+      "name": "白云鄂博矿区",
+      "name:de": "Bayan Kuang",
+      "name:en": "Bayan Obo",
+      "name:vi": "Bayan Obo",
+      "name:zh": "白云矿区",
+      "alt_name:vi": "Bạch Vân Ngạc Bác",
+      "name:zh-Hant": "白雲鄂博礦區",
+      "name:zh_pinyin": "báiyúnkuàng qū"
+    }
+  },
+  {
+    "name": "Bayawan",
+    "country": "Philippines",
+    "latitude": 9.366153299411891,
+    "longitude": 122.804837,
+    "other_names": {
+      "name": "Bayawan",
+      "name:ja": "バヤワン"
+    }
+  },
+  {
+    "name": "Baybay",
+    "country": "Philippines",
+    "latitude": 10.677194599476584,
+    "longitude": 124.7970693,
+    "other_names": {
+      "name": "Baybay",
+      "name:ja": "バイバイ",
+      "official_name": "Baybay City"
+    }
+  },
+  {
+    "name": "Bayburt",
+    "country": "Turkey",
+    "latitude": 40.25569000030138,
+    "longitude": 40.224098999999995,
+    "other_names": {
+      "name": "Bayburt",
+      "name:ar": "بايبورت",
+      "name:hi": "बेबर्ट",
+      "name:hu": "Bayburt",
+      "name:hy": "Բաբերդ",
+      "name:ku": "Bayburt",
+      "name:ru": "Байбурт",
+      "alt_name": "Papert;Baberc;Baybert",
+      "name:zza": "Bayburt",
+      "alt_name:hy": "Բայբերդ;Բաբերձ"
+    }
+  },
+  {
+    "name": "Bayda",
+    "country": "Libya",
+    "latitude": 32.76095289958956,
+    "longitude": 21.7577175,
+    "other_names": {
+      "name": "البيضاء",
+      "name:ar": "البيضاء",
+      "name:de": "al-Baida",
+      "name:en": "Bayda",
+      "name:et": "Al-Bayḑā’",
+      "name:fi": "Beida",
+      "name:fr": "Al Baïda",
+      "name:pl": "Al-Bajda",
+      "name:ru": "Аль-Байда",
+      "name:uk": "Аль-Байда",
+      "alt_name": "El Beida"
+    }
+  }
+]

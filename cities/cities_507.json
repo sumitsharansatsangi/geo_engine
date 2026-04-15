@@ -1,0 +1,374 @@
+[
+  {
+    "name": "Wakiso",
+    "country": "Uganda",
+    "latitude": 0.39857349995857416,
+    "longitude": 32.4800899,
+    "other_names": {
+      "name": "Wakiso"
+    }
+  },
+  {
+    "name": "Wakkanai",
+    "country": "Japan",
+    "latitude": 45.415810800423245,
+    "longitude": 141.67303089999996,
+    "other_names": {
+      "name": "稚内市",
+      "name:ar": "واكاناي، هوكايدو",
+      "name:de": "Wakkanai",
+      "name:en": "Wakkanai",
+      "name:es": "Wakkanai",
+      "name:fr": "Wakkanai",
+      "name:hu": "Vakkanai",
+      "name:ja": "稚内市",
+      "name:ko": "왓카나이시",
+      "name:pl": "Wakkanai",
+      "name:ru": "Вакканай",
+      "name:uk": "Вакканай",
+      "int_name": "Wakkanai",
+      "name:ja_rm": "Wakkanai-shi",
+      "name:ja_kana": "わっかないし"
+    }
+  },
+  {
+    "name": "Wako",
+    "country": "Japan",
+    "latitude": 35.78170529971454,
+    "longitude": 139.60586920000003,
+    "other_names": {
+      "name": "和光市",
+      "name:ar": "واكو، سايتاما",
+      "name:de": "Wakō",
+      "name:en": "Wako",
+      "name:es": "Wakō",
+      "name:fr": "Wakō",
+      "name:ja": "和光市",
+      "name:ko": "와코시",
+      "name:pl": "Wakō",
+      "name:ru": "Вако",
+      "name:uk": "Вако",
+      "name:ja_rm": "Wakō"
+    }
+  },
+  {
+    "name": "Wałbrzych",
+    "country": "Poland",
+    "latitude": 50.765905399291825,
+    "longitude": 16.2825424,
+    "other_names": {
+      "name": "Wałbrzych",
+      "name:be": "Валбжых",
+      "name:cs": "Valbřich",
+      "name:de": "Waldenburg",
+      "name:ja": "ヴァウブジフ",
+      "name:lt": "Valbžychas",
+      "name:mk": "Валбжих",
+      "name:ru": "Валбжих",
+      "name:uk": "Валбжих",
+      "name:szl": "Wałbrzich",
+      "alt_name:cs": "Valdenburk"
+    }
+  },
+  {
+    "name": "Walla Walla",
+    "country": "United States Of America",
+    "latitude": 46.06672770033204,
+    "longitude": -118.33934560000002,
+    "other_names": {
+      "name": "Walla Walla",
+      "name:ar": "والا والا",
+      "name:de": "Walla Walla",
+      "name:es": "Walla Walla",
+      "name:fa": "والا والا",
+      "name:fr": "Walla Walla",
+      "name:it": "Walla Walla",
+      "name:ja": "ワラワラ",
+      "name:ko": "왈라왈라",
+      "name:pt": "Walla Walla",
+      "name:zh": "瓦拉瓦拉"
+    }
+  },
+  {
+    "name": "Walvis Bay",
+    "country": "Namibia",
+    "latitude": -22.954250100073338,
+    "longitude": 14.507457699999996,
+    "other_names": {
+      "name": "Walvis Bay",
+      "name:af": "Walvisbaai",
+      "name:ar": "ولفس بي",
+      "name:be": "Уолвіс-Бэй",
+      "name:bg": "Уолфиш Бей",
+      "name:de": "Walfischbucht",
+      "name:es": "Walvis Bay",
+      "name:he": "ואלוויס ביי",
+      "name:ja": "ウォルビスベイ",
+      "name:ko": "월비스베이",
+      "name:lt": "Volvis Bėjus",
+      "name:nl": "Walvisbaai",
+      "name:ru": "Уолфиш-Бей",
+      "name:sr": "Валвис Беј",
+      "name:uk": "Волфіш-Бей",
+      "name:zh": "鲸湾港",
+      "name:bxr": "Уолфиш-Бей"
+    }
+  },
+  {
+    "name": "Wan'an",
+    "country": "China",
+    "latitude": 26.461578900116283,
+    "longitude": 114.75631259999997,
+    "other_names": {
+      "name": "万安县",
+      "name:en": "Wan'an",
+      "name:ru": "Фужун",
+      "name:zh": "万安县",
+      "alt_name": "万安;Wan'an County",
+      "name:zh-Hant": "萬安縣",
+      "name:zh_pinyin": "wànān xiàn"
+    }
+  },
+  {
+    "name": "Wanbailin",
+    "country": "China",
+    "latitude": 37.85909799996226,
+    "longitude": 112.5115619,
+    "other_names": {
+      "name": "万柏林区",
+      "name:en": "Wanbailin",
+      "name:vi": "Vạn Bách Lâm",
+      "name:zh": "万柏林区",
+      "alt_name": "万柏林",
+      "int_name": "Wanbailin District",
+      "name:zh-Hant": "萬柏林區",
+      "name:zh_pinyin": "Wanbailin Qu"
+    }
+  },
+  {
+    "name": "Wancheng",
+    "country": "China",
+    "latitude": 33.00681099958762,
+    "longitude": 112.53702,
+    "other_names": {
+      "name": "宛城区",
+      "name:en": "Wancheng",
+      "name:zh": "宛城区",
+      "alt_name": "宛城;Wancheng District",
+      "name:zh-Hant": "宛城區"
+    }
+  },
+  {
+    "name": "Wangaratta",
+    "country": "Australia",
+    "latitude": -36.35625090019508,
+    "longitude": 146.3230914,
+    "other_names": {
+      "name": "Wangaratta",
+      "name:en": "Wangaratta",
+      "name:ja": "ウォンガラッタ",
+      "name:ru": "Уонгаратта",
+      "name:uk": "Вангаратта",
+      "name:zh": "旺加拉塔"
+    }
+  },
+  {
+    "name": "Wangcang",
+    "country": "China",
+    "latitude": 32.230209199600814,
+    "longitude": 106.28554219999998,
+    "other_names": {
+      "name": "旺苍县",
+      "name:en": "Wangcang",
+      "name:vi": "Vượng Thương",
+      "name:zh": "旺苍县",
+      "alt_name": "旺苍;Wangcang County",
+      "name:zh-Hant": "旺蒼縣"
+    }
+  },
+  {
+    "name": "Wangcheng",
+    "country": "China",
+    "latitude": 28.36447619990582,
+    "longitude": 112.8123133,
+    "other_names": {
+      "name": "望城区",
+      "name:de": "Wangcheng",
+      "name:en": "Wangcheng",
+      "name:es": "Wangcheng",
+      "name:eu": "Wangcheng konderria",
+      "name:fr": "Xian de Wangcheng",
+      "name:id": "Distrik Wangcheng",
+      "name:it": "Distretto di Wangcheng",
+      "name:ja": "望城区",
+      "name:ko": "왕청구",
+      "name:no": "Wangcheng",
+      "name:pt": "Wangcheng",
+      "name:ru": "Ванчэн",
+      "name:sv": "Wangcheng",
+      "name:vi": "Vọng Thành",
+      "name:zh": "望城区",
+      "alt_name": "望城;Wangcheng District",
+      "name:ceb": "Wangcheng County",
+      "name:hak": "Mong-sàng-khî",
+      "name:nan": "Bōng-siâⁿ-khu",
+      "name:yue": "望城",
+      "old_name": "望城县;Wangcheng County",
+      "name:zh-Hant": "望城區",
+      "name:zh_pinyin": "Wàngchéng Qū"
+    }
+  },
+  {
+    "name": "Wangdu",
+    "country": "China",
+    "latitude": 38.7057028000832,
+    "longitude": 115.14450630000002,
+    "other_names": {
+      "name": "望都县",
+      "name:en": "Wangdu",
+      "name:vi": "Vọng Đô",
+      "name:zh": "望都县",
+      "alt_name": "望都;Wangdu County",
+      "name:zh-Hant": "望都縣",
+      "official_name": "望都镇",
+      "name:zh_pinyin": "Wàngdū Xian"
+    }
+  },
+  {
+    "name": "Wanghua",
+    "country": "China",
+    "latitude": 41.85191800047477,
+    "longitude": 123.7788388,
+    "other_names": {
+      "name": "望花区",
+      "name:en": "Wanghua",
+      "name:ja": "望花区",
+      "name:ko": "왕화구",
+      "name:zh": "望花区",
+      "alt_name": "望花;Wanghua City",
+      "name:zh-Hant": "望花區"
+    }
+  },
+  {
+    "name": "Wangjiang",
+    "country": "China",
+    "latitude": 30.130981099728206,
+    "longitude": 116.7013688,
+    "other_names": {
+      "name": "望江县",
+      "name:en": "Wangjiang",
+      "name:ru": "Ванцзян",
+      "name:zh": "望江县",
+      "alt_name": "望江;Wangjiang County",
+      "name:zh-Hant": "望江縣",
+      "name:zh_pinyin": "Wàngjiāng Xiàn"
+    }
+  },
+  {
+    "name": "Wangkui",
+    "country": "China",
+    "latitude": 46.83283100019495,
+    "longitude": 126.47767899999998,
+    "other_names": {
+      "name": "望奎县",
+      "name:en": "Wangkui",
+      "name:ru": "Ванкуй",
+      "name:zh": "望奎县",
+      "alt_name": "望奎;Wangkui Zhen;Wangkui Xian;Wang-k'uei;Wang-k'uei-hsien;Ta-wu-ching-tzu;Wang-k'uei-chen;Shuang-lung",
+      "name:zh-Hant": "望奎縣",
+      "official_name": "望奎镇"
+    }
+  },
+  {
+    "name": "Wangmo",
+    "country": "China",
+    "latitude": 25.169366600243283,
+    "longitude": 106.08757689999999,
+    "other_names": {
+      "name": "望谟县",
+      "name:en": "Wangmo",
+      "name:vi": "Vọng Mô",
+      "name:zh": "望谟县",
+      "alt_name": "望谟;Wang-mo-pu-i-tsu-miao-tsu Tzu-chih-hsien;Wangmo Bouyeizu Miaozu Zizhixian;Wang-mo Puyi-Miao Autonomous Hsien;Wang-mo Hsien",
+      "name:zh-Hant": "望謨縣",
+      "name:zh_pinyin": "Wangmo Xian"
+    }
+  },
+  {
+    "name": "Wannian County",
+    "country": "China",
+    "latitude": 28.69630609986968,
+    "longitude": 117.05386470000002,
+    "other_names": {
+      "name": "万年县",
+      "name:de": "Wannian",
+      "name:en": "Wannian County",
+      "name:fa": "شهرستان واننیان",
+      "name:fr": "Xian de Wannian",
+      "name:it": "Contea di Wannian",
+      "name:ja": "万年県",
+      "name:ko": "완녠현",
+      "name:no": "Wannian",
+      "name:ru": "Ваньнянь",
+      "name:sv": "Wannian",
+      "name:vi": "Vạn Niên",
+      "name:zh": "万年县",
+      "int_name": "Wannian",
+      "name:ceb": "Wannian Xian",
+      "name:gan": "萬年",
+      "name:nan": "Bān-nî-koān",
+      "name:yue": "萬年縣",
+      "name:zh-Hant": "萬年縣",
+      "name:zh_pinyin": "Wànnián Xiàn"
+    }
+  },
+  {
+    "name": "Wanning",
+    "country": "China",
+    "latitude": 18.796137600299726,
+    "longitude": 110.3872565,
+    "other_names": {
+      "name": "万宁市",
+      "name:ar": "واننينغ",
+      "name:da": "Wanning",
+      "name:de": "Wanning",
+      "name:en": "Wanning",
+      "name:es": "Wanning",
+      "name:eu": "Wanning",
+      "name:fr": "Wanning",
+      "name:it": "Wanning",
+      "name:ja": "万寧市",
+      "name:ki": "Wanning",
+      "name:ko": "완닝시",
+      "name:mg": "Wanning",
+      "name:nl": "Wanning",
+      "name:no": "Wanning",
+      "name:pl": "Wanning",
+      "name:sv": "Wanning",
+      "name:tr": "Wanning",
+      "name:ur": "واننینگ",
+      "name:vi": "Vạn Ninh",
+      "name:zh": "万宁市",
+      "int_name": "Wanning",
+      "name:ceb": "Wanning",
+      "name:nan": "Bān-lêng-chhī",
+      "name:pam": "Wanning",
+      "name:yue": "萬寧",
+      "name:zh-Hant": "萬寧市",
+      "name:zh_pinyin": "Wànníng Shì"
+    }
+  },
+  {
+    "name": "Wanquan",
+    "country": "China",
+    "latitude": 40.76598180036516,
+    "longitude": 114.73159759999999,
+    "other_names": {
+      "name": "万全区",
+      "name:en": "Wanquan",
+      "name:zh": "万全区",
+      "alt_name": "万全;Wanquan District",
+      "name:zh-Hant": "萬全區"
+    }
+  }
+]

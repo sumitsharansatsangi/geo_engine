@@ -1,0 +1,413 @@
+[
+  {
+    "name": "Meherpur",
+    "country": "India",
+    "latitude": 23.77514750034656,
+    "longitude": 88.6311437,
+    "other_names": {
+      "name": "মেহেরপুর",
+      "name:ar": "مهربور",
+      "name:bn": "মেহেরপুর",
+      "name:de": "Meherpur",
+      "name:en": "Meherpur",
+      "name:es": "Meherpur",
+      "name:et": "Meherpur",
+      "name:fa": "مهرپور",
+      "name:fr": "Meherpur",
+      "name:kn": "ಮೇಹೇರ್ ಪುರ",
+      "name:ur": "مہر پور",
+      "alt_name:ar": "ميهربور"
+    }
+  },
+  {
+    "name": "Mehrabpur",
+    "country": "Pakistan",
+    "latitude": 27.101868500046603,
+    "longitude": 68.41712949999999,
+    "other_names": {
+      "name": "محراب پور‎",
+      "name:en": "Mehrabpur",
+      "name:ru": "Михрабпур",
+      "alt_name": "Mahrabpur Junction"
+    }
+  },
+  {
+    "name": "Meiganga",
+    "country": "Cameroon",
+    "latitude": 6.517200299421413,
+    "longitude": 14.294692699999999,
+    "other_names": {
+      "name": "Meiganga",
+      "name:ru": "Меиганга"
+    }
+  },
+  {
+    "name": "Meihekou",
+    "country": "China",
+    "latitude": 42.5358335005194,
+    "longitude": 125.6925277,
+    "other_names": {
+      "name": "梅河口市",
+      "name:de": "Meihekou",
+      "name:en": "Meihekou",
+      "name:fr": "Meihekou",
+      "name:ja": "梅河口市",
+      "name:ko": "메이허커우 시",
+      "name:ru": "Мэйхэкоу",
+      "name:vi": "Mai Hà Khẩu",
+      "name:zh": "梅河口市",
+      "int_name": "Meihekou",
+      "name:zh-Hant": "梅河口市",
+      "name:zh_pinyin": "Méihékǒu Shì"
+    }
+  },
+  {
+    "name": "Meijiang",
+    "country": "China",
+    "latitude": 24.31320620031175,
+    "longitude": 116.1119122,
+    "other_names": {
+      "name": "梅江区",
+      "name:de": "Meijiang",
+      "name:en": "Meijiang",
+      "name:fa": "میژیانگ",
+      "name:fr": "District de Meijiang",
+      "name:id": "Meijiang",
+      "name:it": "Distretto di Meijiang",
+      "name:ja": "梅江区",
+      "name:ko": "메이장구",
+      "name:no": "Meijiang",
+      "name:sv": "Meijiang",
+      "name:vi": "Mai Giang",
+      "name:zh": "梅江区",
+      "alt_name": "梅江;Meijiang District",
+      "name:hak": "Mòi-kông-khî",
+      "name:mwl": "Meijiang",
+      "name:nan": "Mûi-kang-khu",
+      "name:yue": "梅江",
+      "name:zh-Hant": "梅江區",
+      "name:zh_pinyin": "Méijiāng Qū"
+    }
+  },
+  {
+    "name": "Meiktila",
+    "country": "Myanmar",
+    "latitude": 20.881423300402002,
+    "longitude": 95.8619463,
+    "other_names": {
+      "name": "မိတ္ထီလာမြို့",
+      "pcode": "MMR010028701",
+      "name:en": "Meiktila",
+      "name:fr": "Meiktila",
+      "name:ja": "メイッティーラ",
+      "name:kn": "ಮೇಕ್ತಿಲ",
+      "name:my": "မိတ္ထီလာမြို့",
+      "name:ru": "Миктила",
+      "name:zh": "密铁拉"
+    }
+  },
+  {
+    "name": "Meilan District",
+    "country": "China",
+    "latitude": 20.030784400373793,
+    "longitude": 110.3624003,
+    "other_names": {
+      "name": "美兰区",
+      "name:de": "Meilan",
+      "name:en": "Meilan District",
+      "name:eu": "Meilan Barrutia",
+      "name:fr": "District de Meilan",
+      "name:it": "Distretto di Meilan",
+      "name:ja": "美蘭区",
+      "name:ko": "메이란구",
+      "name:no": "Meilan",
+      "name:sv": "Meilan",
+      "name:vi": "Mỹ Lan",
+      "name:zh": "美兰区",
+      "name:ceb": "Meilan Qu",
+      "name:nan": "Bí-lân-khu",
+      "name:yue": "美蘭",
+      "name:zh-Hant": "美蘭區",
+      "name:zh_pinyin": "Meilan Qu"
+    }
+  },
+  {
+    "name": "Meilisi",
+    "country": "China",
+    "latitude": 47.3121509000952,
+    "longitude": 123.75328220000002,
+    "other_names": {
+      "name": "梅里斯达斡尔族区",
+      "name:en": "Meilisi",
+      "name:ru": "Мэйлисы",
+      "name:vi": "Mai Lý Tư",
+      "name:zh": "梅里斯达斡尔族区",
+      "alt_name": "梅里斯区;梅里斯",
+      "name:zh-Hant": "梅里斯達斡爾族區",
+      "name:zh_pinyin": "Méilǐsī Dáwò'ěrzú Qū"
+    }
+  },
+  {
+    "name": "Meishan",
+    "country": "China",
+    "latitude": 30.07906099973274,
+    "longitude": 103.84582009999998,
+    "other_names": {
+      "name": "眉山市",
+      "name:de": "Meishan",
+      "name:en": "Meishan",
+      "name:et": "Meishan",
+      "name:fr": "Meishan",
+      "name:ja": "眉山市",
+      "name:ru": "Мэйшань",
+      "name:vi": "Mi Sơn",
+      "name:zh": "眉山市",
+      "alt_name": "眉山;Meishan City",
+      "int_name": "Meishan",
+      "old_name:vi": "Mi Châu",
+      "name:zh-Hant": "眉山市",
+      "name:zh_pinyin": "Méishān Shì"
+    }
+  },
+  {
+    "name": "Meitan",
+    "country": "China",
+    "latitude": 27.751120899974076,
+    "longitude": 107.45747809999999,
+    "other_names": {
+      "name": "湄潭县",
+      "name:en": "Meitan",
+      "name:vi": "Mi Đàm",
+      "name:zh": "湄潭县",
+      "alt_name:vi": "My Đàm",
+      "name:zh-Hant": "湄潭縣",
+      "name:zh_pinyin": "Meitan Xian"
+    }
+  },
+  {
+    "name": "Meixian",
+    "country": "China",
+    "latitude": 24.26944840031484,
+    "longitude": 116.0761056,
+    "other_names": {
+      "name": "梅县区",
+      "name:de": "Meixian",
+      "name:en": "Meixian",
+      "name:fa": "میشیان",
+      "name:fr": "Xian de Mei",
+      "name:id": "Meixian",
+      "name:it": "Distretto di Meixian",
+      "name:ja": "梅県区",
+      "name:ko": "메이셴구",
+      "name:nl": "Meixian",
+      "name:no": "Mei",
+      "name:ru": "Мэйсянь",
+      "name:sv": "Meixian",
+      "name:vi": "Mai Huyện",
+      "name:zh": "梅县区",
+      "alt_name": "梅县;Meixian District",
+      "name:hak": "Mòi-yen",
+      "name:mwl": "Meixian",
+      "name:nan": "Mûi-koān-khu",
+      "name:yue": "梅縣",
+      "old_name": "梅县;Mei;Mei Xian",
+      "name:zh-Hant": "梅縣區",
+      "name:zh_pinyin": "méixiàn qū"
+    }
+  },
+  {
+    "name": "Meixian",
+    "country": "China",
+    "latitude": 34.274615699611886,
+    "longitude": 107.7493046,
+    "other_names": {
+      "name": "眉县",
+      "name:en": "Meixian",
+      "name:ja": "眉県",
+      "name:zh": "眉县",
+      "alt_name": "眉;首善街道;首善;Shoushan",
+      "old_name": "郿縣;郿县;首善镇",
+      "name:zh-Hant": "郿縣"
+    }
+  },
+  {
+    "name": "Meizhou",
+    "country": "China",
+    "latitude": 24.291841400313267,
+    "longitude": 116.11714279999998,
+    "other_names": {
+      "name": "梅州市",
+      "name:ar": "ماوزو",
+      "name:cs": "Mej-čou",
+      "name:cy": "Meizhou",
+      "name:da": "Meizhou",
+      "name:de": "Meizhou",
+      "name:en": "Meizhou",
+      "name:es": "Meizhóu",
+      "name:et": "Meizhou",
+      "name:eu": "Meizhou",
+      "name:fa": "ماوژوا",
+      "name:fi": "Meizhou",
+      "name:fr": "Meizhou",
+      "name:id": "Meizhou",
+      "name:it": "Meizhou",
+      "name:ja": "梅州市",
+      "name:ki": "Meizhou",
+      "name:kk": "Мэйчжоу",
+      "name:ko": "메이저우시",
+      "name:mg": "Meizhou",
+      "name:nl": "Meizhou",
+      "name:nn": "Meizhou",
+      "name:no": "Meizhou",
+      "name:pl": "Meizhou",
+      "name:pt": "Meizhou",
+      "name:ru": "Мэйчжоу",
+      "name:sv": "Meizhou",
+      "name:sw": "Meizhou",
+      "name:tl": "Meizhou",
+      "name:tr": "Meizhou",
+      "name:ur": "مئیژو",
+      "name:vi": "Mai Châu",
+      "name:zh": "梅州市",
+      "alt_name": "梅州;Meizhou City",
+      "name:cdo": "Mùi-ciŭ",
+      "name:ceb": "Meizhou",
+      "name:hak": "Mòi-chû-sṳ",
+      "name:nan": "Mûi-chiu-chhī",
+      "name:pam": "Meizhou",
+      "name:pnb": "میئیژوؤ",
+      "name:war": "Meizhou",
+      "name:yue": "梅州市",
+      "old_name": "嘉应州",
+      "old_name:en": "Jiaying Zhou",
+      "name:zh-Hant": "梅州市",
+      "name:zh_pinyin": "Méizhōu shì",
+      "old_name:zh-Hans": "嘉应州",
+      "old_name:zh-Hant": "嘉應州"
+    }
+  },
+  {
+    "name": "Mekele",
+    "country": "Ethiopia",
+    "latitude": 13.493068999732747,
+    "longitude": 39.47805699999999,
+    "other_names": {
+      "name": "መቐለ Mekele",
+      "name:en": "Mekele",
+      "name:fr": "Mekele",
+      "name:ti": "መቐለ"
+    }
+  },
+  {
+    "name": "Mek'elē",
+    "country": "Ethiopia",
+    "latitude": 13.49660959973314,
+    "longitude": 39.47678569999999,
+    "other_names": {
+      "name": "መቐለ  Mek'elē",
+      "name:ar": "ميكيلي",
+      "name:de": "Mek’ele",
+      "name:en": "Mek'elē",
+      "name:es": "Mekele",
+      "name:et": "Mek’ele",
+      "name:fr": "Mekele",
+      "name:ko": "메켈레",
+      "name:ru": "Мэкэле",
+      "name:ti": "መቐለ",
+      "name:uk": "Мекеле",
+      "alt_name": "(2) Mekelle, Mekele."
+    }
+  },
+  {
+    "name": "Meknes",
+    "country": "Morocco",
+    "latitude": 33.89787699959863,
+    "longitude": -5.5320345,
+    "other_names": {
+      "name": "Meknès ⴰⵎⴽⵏⴰⵙ مكناس",
+      "name:ar": "مكناس",
+      "name:cs": "Meknes",
+      "name:de": "Meknès",
+      "name:en": "Meknes",
+      "name:et": "Meknès",
+      "name:fa": "مکناس",
+      "name:fr": "Meknès",
+      "name:he": "מקנס",
+      "name:hi": "मेकनेस",
+      "name:pl": "Meknes",
+      "name:ru": "Мекнес",
+      "name:ur": "مکناس",
+      "name:zh": "メクネス",
+      "name:ber": "ⴰⵎⴽⵏⴰⵙ"
+    }
+  },
+  {
+    "name": "Melbourne",
+    "country": "Australia",
+    "latitude": -37.81421760053092,
+    "longitude": 144.9631608,
+    "other_names": {
+      "name": "Melbourne",
+      "name:ar": "ملبورن",
+      "name:de": "Melbourne",
+      "name:el": "Μελβούρνη",
+      "name:eo": "Melburno",
+      "name:es": "Melbourne",
+      "name:fi": "Melbourne",
+      "name:fr": "Melbourne",
+      "name:he": "מלבורן",
+      "name:hi": "मॆल्बोर्न्",
+      "name:is": "Melbourne",
+      "name:ja": "メルボルン",
+      "name:kn": "ಮೆಲ್ಬೋರ್ನ್",
+      "name:ko": "멜버른",
+      "name:lt": "Melburnas",
+      "name:mi": "Poipiripi",
+      "name:mk": "Мелбурн",
+      "name:oc": "Melbourne",
+      "name:pl": "Melbourne",
+      "name:ru": "Мельбурн",
+      "name:sr": "Мелбурн",
+      "name:sv": "Melbourne",
+      "name:uk": "Мельбурн",
+      "name:zh": "墨爾本",
+      "name:zh-Hans": "墨尔本",
+      "name:pronunciation": "ˈmɛlbn̩",
+      "name:en:pronunciation": "ˈmɛlbn̩"
+    }
+  },
+  {
+    "name": "Melbourne",
+    "country": "United States Of America",
+    "latitude": 28.106470999934377,
+    "longitude": -80.6371513,
+    "other_names": {
+      "name": "Melbourne",
+      "name:en": "Melbourne",
+      "name:ja": "メルボーン",
+      "name:ru": "Мельбурн",
+      "name:uk": "Мелборн"
+    }
+  },
+  {
+    "name": "Melfi",
+    "country": "Chad",
+    "latitude": 11.06371699950324,
+    "longitude": 17.9348134,
+    "other_names": {
+      "name": "Melfi ملفي",
+      "name:ar": "ملفي",
+      "name:en": "Melfi",
+      "name:fr": "Melfi"
+    }
+  },
+  {
+    "name": "Melfort",
+    "country": "Canada",
+    "latitude": 52.861370699084844,
+    "longitude": -104.61355440000001,
+    "other_names": {
+      "name": "Melfort"
+    }
+  }
+]

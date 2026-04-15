@@ -1,0 +1,345 @@
+[
+  {
+    "name": "Newry",
+    "country": "Ireland And Northern Ireland",
+    "latitude": 54.177528299216654,
+    "longitude": -6.337505999999999,
+    "other_names": {
+      "name": "Newry",
+      "name:ga": "An tIúr",
+      "name:ko": "뉴리",
+      "name:lt": "Niūris",
+      "name:mk": "Њури",
+      "name:ru": "Ньюри",
+      "name:uk": "Ньюрі"
+    }
+  },
+  {
+    "name": "Newry",
+    "country": "Ireland And Northern Ireland",
+    "latitude": 54.17637614774543,
+    "longitude": -6.336341416536555,
+    "other_names": {
+      "name": "Newry"
+    }
+  },
+  {
+    "name": "New Taipei",
+    "country": "Taiwan",
+    "latitude": 25.011997000256965,
+    "longitude": 121.4656619,
+    "other_names": {
+      "name": "新北市",
+      "name:ar": "تايبيه الجديدة",
+      "name:de": "Neu-Taipeh",
+      "name:en": "New Taipei",
+      "name:es": "Nuevo Taipéi",
+      "name:et": "Xinbei",
+      "name:eu": "Taipei Berria",
+      "name:fr": "Nouveau Taipei",
+      "name:id": "Kota Taipei Baru",
+      "name:it": "Nuova Taipei",
+      "name:ja": "新北市",
+      "name:ko": "신베이 시",
+      "name:ru": "Новый Тайбэй",
+      "name:th": "ซินเป่ย์",
+      "name:vi": "Tân Bắc",
+      "name:zh": "新北市",
+      "name:cdo": "Sĭng-báe̤k",
+      "name:ceb": "Taipei (lalawigan)",
+      "name:hak": "Sîn-pet-sṳ",
+      "name:nan": "Sin-pak-chhī",
+      "name:wuu": "新北市",
+      "name:yue": "新北市",
+      "old_name": "台北縣 (Taipei County)",
+      "name:nan-HJ": "新北市",
+      "name:nan-TL": "Sin-pak-tshī",
+      "old_name:en": "Taipei County",
+      "old_name:vi": "Đài Bắc",
+      "old_name:zh": "台北縣",
+      "name:nan-POJ": "Sin-pak-chhī",
+      "name:zh_pinyin": "Xīnběi Shì",
+      "old_name:nan-HJ": "台北縣",
+      "old_name:nan-TL": "Tâi-pak-kuān",
+      "old_name:nan-POJ": "Tâi-pak-koān"
+    }
+  },
+  {
+    "name": "Newton",
+    "country": "United States Of America",
+    "latitude": 42.33704140050868,
+    "longitude": -71.20922139999999,
+    "other_names": {
+      "name": "Newton"
+    }
+  },
+  {
+    "name": "New Westminster",
+    "country": "Canada",
+    "latitude": 49.20677259964128,
+    "longitude": -122.91088179999997,
+    "other_names": {
+      "name": "New Westminster"
+    }
+  },
+  {
+    "name": "New York",
+    "country": "United States Of America",
+    "latitude": 40.71272810035882,
+    "longitude": -74.0060152,
+    "other_names": {
+      "name": "New York",
+      "name:ar": "نيويورك",
+      "name:be": "Нью-Ёрк",
+      "name:ca": "Nova York",
+      "name:cy": "Efrog Newydd",
+      "name:de": "New York",
+      "name:el": "Νέα Υόρκη",
+      "name:en": "New York",
+      "name:eo": "Novjorko",
+      "name:es": "Nueva York",
+      "name:fa": "نیویورک",
+      "name:fr": "New York",
+      "name:gl": "Nova York",
+      "name:he": "ניו יורק",
+      "name:hi": "न्यूयॊर्क्",
+      "name:is": "Nýja Jórvík",
+      "name:it": "New York",
+      "name:ja": "ニューヨーク",
+      "name:kn": "ನ್ಯೂಯೊರ್ಕ್",
+      "name:ko": "뉴욕",
+      "name:oc": "Nòva York",
+      "name:pl": "Nowy Jork",
+      "name:pt": "Nova Iorque",
+      "name:ru": "Нью-Йорк",
+      "name:te": "న్యూయొర్క్",
+      "name:uk": "Нью-Йорк",
+      "name:vi": "New York",
+      "name:zh": "纽约/紐約",
+      "alt_name": "New York City",
+      "name:jbo": ".nu,IORK.",
+      "short_name": "NYC",
+      "alt_name:pt": "Cidade de Nova Iorque",
+      "alt_name:vi": "Thành phố New York;Thành phố Nữu Ước;Thành phố Nữu Ước;Niu Oóc;Thành phố Niu Oóc",
+      "old_name:it": "Nuova York",
+      "name:zh-Hans": "纽约",
+      "name:zh-Hant": "紐約",
+      "official_name": "City of New York",
+      "name:be-tarask": "Нью-Ёрк"
+    }
+  },
+  {
+    "name": "Neyagawa",
+    "country": "Japan",
+    "latitude": 34.76750999963691,
+    "longitude": 135.633907,
+    "other_names": {
+      "name": "寝屋川市",
+      "name:ar": "نياغاوا، أوساكا",
+      "name:de": "Neyagawa",
+      "name:en": "Neyagawa",
+      "name:es": "Neyagawa",
+      "name:fr": "Neyagawa",
+      "name:ja": "寝屋川市",
+      "name:ko": "네야가와시",
+      "name:pl": "Neyagawa",
+      "name:ru": "Неягава",
+      "name:uk": "Неяґава",
+      "name:ja_rm": "Neyagawa-shi"
+    }
+  },
+  {
+    "name": "Neyshabur",
+    "country": "Iran",
+    "latitude": 36.21059499975711,
+    "longitude": 58.792280500000004,
+    "other_names": {
+      "name": "نیشابور",
+      "name:ar": "نيسابور",
+      "name:de": "Nischapur",
+      "name:en": "Neyshabur",
+      "name:eo": "Nejŝaburo",
+      "name:es": "Nishapur",
+      "name:et": "Neyshābūr",
+      "name:fr": "Nishapur",
+      "name:hi": "निशापुर",
+      "name:ja": "ニシャプー",
+      "name:ko": "니샤푸르",
+      "name:ku": "Nîşabûr",
+      "name:ru": "Нишапур"
+    }
+  },
+  {
+    "name": "Nezahualcóyotl",
+    "country": "Mexico",
+    "latitude": 19.40790280034104,
+    "longitude": -99.0181547,
+    "other_names": {
+      "name": "Nezahualcóyotl",
+      "alt_name": "Ciudad Nezahualcóyotl",
+      "short_name": "Neza"
+    }
+  },
+  {
+    "name": "Ngã Bảy",
+    "country": "Vietnam",
+    "latitude": 9.815833099429398,
+    "longitude": 105.819098,
+    "other_names": {
+      "name": "Ngã Bảy",
+      "name:en": "Ngã Bảy",
+      "name:ko": "응아바이",
+      "name:vi": "Ngã Bảy",
+      "name:zh": "我罢市"
+    }
+  },
+  {
+    "name": "Ngamring",
+    "country": "China",
+    "latitude": 29.299022099806695,
+    "longitude": 87.2325121,
+    "other_names": {
+      "name": "昂仁县",
+      "name:bo": "ངམ་རིང་རྫོང",
+      "name:en": "Ngamring",
+      "name:ru": "Нгамринг",
+      "name:vi": "Ngamring",
+      "name:zh": "昂仁县",
+      "alt_name": "昂仁;Ang-jen Hsien;Angren Xian;Angren",
+      "alt_name:vi": "Ngang Nhân",
+      "name:zh-Hant": "昂仁縣",
+      "name:zh_pinyin": "Ángrén Xiàn"
+    }
+  },
+  {
+    "name": "Ngandajika",
+    "country": "Congo Democratic Republic",
+    "latitude": -6.7342538997017565,
+    "longitude": 23.951437799999997,
+    "other_names": {
+      "name": "Ngandajika",
+      "name:ru": "Гандажика",
+      "alt_name": "Gandajika"
+    }
+  },
+  {
+    "name": "Ngaoundéré",
+    "country": "Cameroon",
+    "latitude": 7.32119619939773,
+    "longitude": 13.5877302,
+    "other_names": {
+      "name": "Ngaoundéré",
+      "name:ko": "응가운데레"
+    }
+  },
+  {
+    "name": "Ngathaingchaung",
+    "country": "Myanmar",
+    "latitude": 17.393657300175988,
+    "longitude": 95.06914389999999,
+    "other_names": {
+      "name": "ငသိုင်းချောင်းမြို့",
+      "name:en": "Ngathaingchaung",
+      "name:my": "ငသိုင်းချောင်းမြို့"
+    }
+  },
+  {
+    "name": "Ngawa",
+    "country": "China",
+    "latitude": 31.901569399612445,
+    "longitude": 102.22292369999998,
+    "other_names": {
+      "name": "阿坝州",
+      "name:bo": "རྔ་བ་བོད་རིགས་ཆ་བ༹ང་རིགས་རང་སྐྱོང་ཁུལ་",
+      "name:en": "Ngawa",
+      "name:vi": "Ngawa",
+      "name:zh": "阿坝州",
+      "alt_name": "阿坝藏族自治州;Ssu-ch'uan-sheng-tsang-tsu Tzu-chih-ch'u;Ngawa Zangzu Zizhizhou;A-pa-tsang-tsu Tzu-chih-chou;Szechwan Tibetan Autonomous District;Ahpa Tibetan Autonomous Chou;A-pa Tibetan Autonomous District;Aba;Aba Zangzu Qiangzu Zizhizhou",
+      "short_name": "阿坝州",
+      "alt_name:vi": "A Bá",
+      "name:zh-Hant": "阿壩州",
+      "official_name": "阿坝藏族羌族自治州",
+      "name:zh_pinyin": "Aba Zangzu Qiangzu Zizhizhou"
+    }
+  },
+  {
+    "name": "Ngawa",
+    "country": "China",
+    "latitude": 32.90265489958819,
+    "longitude": 101.70592709999998,
+    "other_names": {
+      "name": "阿坝县",
+      "name:en": "Ngawa",
+      "name:zh": "阿坝县",
+      "alt_name": "阿坝;Ngawa;Ngaba;Aba;阿坝市;རྔ་བ་རྫོང",
+      "name:zh-Hant": "阿壩縣"
+    }
+  },
+  {
+    "name": "Ngoura",
+    "country": "Chad",
+    "latitude": 12.878632599666481,
+    "longitude": 16.4497186,
+    "other_names": {
+      "name": "Ngoura نكورا",
+      "name:ar": "نكورا",
+      "name:en": "Ngoura",
+      "name:fr": "Ngoura",
+      "alt_name": "N’Gousa;N'Gousa;Ngourra;Ngourag;Ngoura"
+    }
+  },
+  {
+    "name": "Ngouri",
+    "country": "Chad",
+    "latitude": 13.636824999748807,
+    "longitude": 15.370146599999996,
+    "other_names": {
+      "name": "نقوري Ngouri",
+      "name:ar": "نقوري",
+      "name:en": "Ngouri",
+      "name:fr": "Ngouri",
+      "alt_name": "Fort Millot;Ngouri"
+    }
+  },
+  {
+    "name": "Ngozi",
+    "country": "Burundi",
+    "latitude": -2.909090999755932,
+    "longitude": 29.82304419999999,
+    "other_names": {
+      "name": "Ngozi",
+      "name:ru": "Нгози"
+    }
+  },
+  {
+    "name": "Nha Trang",
+    "country": "Vietnam",
+    "latitude": 12.243169299603023,
+    "longitude": 109.1898675,
+    "other_names": {
+      "name": "Nha Trang",
+      "name:am": "ኛ ትራንግ",
+      "name:ar": "نها ترانج",
+      "name:be": "Горад Нячанг",
+      "name:bg": "Ня Чанг",
+      "name:de": "Nha Trang",
+      "name:el": "Να Τρανγκ",
+      "name:en": "Nha Trang",
+      "name:fa": "نها ترنگ",
+      "name:hi": "ना त्राङ्ग",
+      "name:ja": "ニャチャン",
+      "name:ko": "냐짱(나트랑)",
+      "name:lo": "ຍາຈາງ",
+      "name:lt": "Niačangas",
+      "name:lv": "Ņačana",
+      "name:mn": "Нячанг",
+      "name:ru": "Нячанг",
+      "name:sr": "Ња Чанг",
+      "name:th": "ญาจาง",
+      "name:uk": "Нячанґ",
+      "name:ur": "نہاترنگ",
+      "name:zh": "芽庄市",
+      "name:zu": "INhatrang"
+    }
+  }
+]

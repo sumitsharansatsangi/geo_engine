@@ -1,0 +1,331 @@
+[
+  {
+    "name": "Tsuruga",
+    "country": "Japan",
+    "latitude": 35.64451349970209,
+    "longitude": 136.0734634,
+    "other_names": {
+      "name": "敦賀市",
+      "name:en": "Tsuruga",
+      "name:fr": "Tsuruga",
+      "name:ja": "敦賀市",
+      "name:ko": "쓰루가시",
+      "name:pl": "Tsuruga",
+      "name:ru": "Цуруга",
+      "name:uk": "Цуруґа",
+      "name:ja_rm": "Tsuruga-shi",
+      "name:ja_kana": "つるがし"
+    }
+  },
+  {
+    "name": "Tsurugashima",
+    "country": "Japan",
+    "latitude": 35.93468119972911,
+    "longitude": 139.39297349999998,
+    "other_names": {
+      "name": "鶴ヶ島市",
+      "name:en": "Tsurugashima",
+      "name:fr": "Tsurugashima",
+      "name:ja": "鶴ヶ島市",
+      "name:ko": "쓰루가시마시",
+      "name:pl": "Tsurugashima",
+      "name:ru": "Цуругасима",
+      "name:uk": "Цуруґасіма",
+      "name:ja_rm": "Tsurugashima-shi",
+      "name:ja_kana": "つるがしまし"
+    }
+  },
+  {
+    "name": "Tsuruoka",
+    "country": "Japan",
+    "latitude": 38.72721870008635,
+    "longitude": 139.8266292,
+    "other_names": {
+      "name": "鶴岡市",
+      "name:ar": "تسوروكا، ياماغاتا",
+      "name:de": "Tsuruoka",
+      "name:en": "Tsuruoka",
+      "name:es": "Tsuruoka",
+      "name:fr": "Tsuruoka",
+      "name:ja": "鶴岡市",
+      "name:ko": "쓰루오카시",
+      "name:pl": "Tsuruoka",
+      "name:ru": "Цуруока",
+      "name:uk": "Цуруока",
+      "int_name": "Tsuruoka",
+      "name:ja_rm": "Tsuruoka-shi",
+      "name:ja_kana": "つるおかし"
+    }
+  },
+  {
+    "name": "Tsushima",
+    "country": "Japan",
+    "latitude": 34.20537169960906,
+    "longitude": 129.2946547,
+    "other_names": {
+      "name": "対馬市",
+      "name:de": "Tsushima",
+      "name:en": "Tsushima",
+      "name:es": "Tsushima",
+      "name:fr": "Tsushima",
+      "name:ja": "対馬市",
+      "name:ko": "쓰시마시",
+      "name:ru": "Цусима",
+      "name:uk": "Цушіма",
+      "name:zh": "对马市",
+      "int_name": "Tsushima",
+      "name:ja_rm": "Tsushima-shi",
+      "name:ja_kana": "つしまし",
+      "name:zh-Hans": "对马市",
+      "name:zh-Hant": "对馬市"
+    }
+  },
+  {
+    "name": "Tsushima",
+    "country": "Japan",
+    "latitude": 35.1667842996634,
+    "longitude": 136.75821339999996,
+    "other_names": {
+      "name": "津島市",
+      "name:ar": "تسوشيما، آيتشي",
+      "name:de": "Tsushima",
+      "name:en": "Tsushima",
+      "name:es": "Tsushima",
+      "name:fr": "Tsushima",
+      "name:ja": "津島市",
+      "name:ko": "쓰시마시",
+      "name:lt": "Cušima",
+      "name:pl": "Tsushima",
+      "name:ru": "Цусима",
+      "name:uk": "Цусіма",
+      "name:ja_rm": "Tsushima-shi",
+      "name:ja_kana": "つしまし"
+    }
+  },
+  {
+    "name": "Tsuyama",
+    "country": "Japan",
+    "latitude": 35.06912839965641,
+    "longitude": 134.00433549999997,
+    "other_names": {
+      "name": "津山市",
+      "name:ar": "تسوياما، أوكاياما",
+      "name:de": "Tsuyama",
+      "name:en": "Tsuyama",
+      "name:es": "Tsuyama",
+      "name:fr": "Tsuyama",
+      "name:ja": "津山市",
+      "name:ko": "쓰야마시",
+      "name:pl": "Tsuyama",
+      "name:ru": "Цуяма",
+      "name:uk": "Цуяма",
+      "int_name": "Tsuyama",
+      "name:ja-Hira": "つやまし",
+      "name:ja-Latn": "Tsuyama-shi"
+    }
+  },
+  {
+    "name": "Tual",
+    "country": "Indonesia",
+    "latitude": -5.6443093996808615,
+    "longitude": 132.74168189999997,
+    "other_names": {
+      "name": "Tual"
+    }
+  },
+  {
+    "name": "Tuanfeng",
+    "country": "China",
+    "latitude": 30.646052799686306,
+    "longitude": 114.86715869999998,
+    "other_names": {
+      "name": "团风县",
+      "name:de": "Tuanfeng",
+      "name:en": "Tuanfeng",
+      "name:es": "Tuanfeng",
+      "name:fa": "شهرستان توانفنگ",
+      "name:fr": "Xian de Tuanfeng",
+      "name:it": "Contea di Tuanfeng",
+      "name:ja": "団風県",
+      "name:ko": "퇀펑현",
+      "name:no": "Tuanfeng",
+      "name:ru": "Туаньфэн",
+      "name:sv": "Tuanfeng",
+      "name:vi": "Đoàn Phong",
+      "name:zh": "团风县",
+      "name:ceb": "Tuanfeng Xian",
+      "name:nan": "Thoân-hong-koān",
+      "name:yue": "團風",
+      "name:zh-Hant": "團風縣",
+      "name:zh_pinyin": "Tuanfeng Xian"
+    }
+  },
+  {
+    "name": "Tubarão",
+    "country": "Brazil",
+    "latitude": -28.47148799937619,
+    "longitude": -49.014132,
+    "other_names": {
+      "name": "Tubarão"
+    }
+  },
+  {
+    "name": "Tucacas",
+    "country": "Venezuela",
+    "latitude": 10.792041599484165,
+    "longitude": -68.324601,
+    "other_names": {
+      "name": "Tucacas"
+    }
+  },
+  {
+    "name": "Tucson",
+    "country": "United States Of America",
+    "latitude": 32.22287649960103,
+    "longitude": -110.9748477,
+    "other_names": {
+      "name": "Tucson",
+      "name:ar": "توسان",
+      "name:en": "Tucson",
+      "name:he": "טוסון",
+      "name:ru": "Тусон",
+      "name:uk": "Тусон"
+    }
+  },
+  {
+    "name": "Tucupido",
+    "country": "Venezuela",
+    "latitude": 9.274164299408937,
+    "longitude": -65.7710586,
+    "other_names": {
+      "name": "Tucupido"
+    }
+  },
+  {
+    "name": "Tucupita",
+    "country": "Venezuela",
+    "latitude": 9.060085099402896,
+    "longitude": -62.04797209999999,
+    "other_names": {
+      "name": "Tucupita"
+    }
+  },
+  {
+    "name": "Tucuruí",
+    "country": "Brazil",
+    "latitude": -3.7738508997131075,
+    "longitude": -49.67082039999999,
+    "other_names": {
+      "name": "Tucuruí"
+    }
+  },
+  {
+    "name": "Tuguegarao",
+    "country": "Philippines",
+    "latitude": 17.61188580019752,
+    "longitude": 121.73003769999998,
+    "other_names": {
+      "ref": "021529000",
+      "name": "Tuguegarao",
+      "name:en": "Tuguegarao",
+      "name:ja": "トゥゲガラオ",
+      "name:ru": "Тугегарао",
+      "name:tl": "Tuguegarao",
+      "name:uk": "Тугегарао",
+      "name:ceb": "Tuguegarao",
+      "name:ibg": "Tuguegarao",
+      "name:ilo": "Tuguegarao",
+      "official_name:en": "City of Tuguegarao",
+      "official_name:es": "Ciudad de Tuguegarao",
+      "official_name:tl": "Lungsod ng Tuguegarao",
+      "official_name:ceb": "Dakbayan sa Tuguegarao",
+      "official_name:ibg": "Siudad nat Tuguegarao",
+      "official_name:ilo": "Ciudad ti Tuguegarao"
+    }
+  },
+  {
+    "name": "Tula",
+    "country": "Russia",
+    "latitude": 54.18376515065716,
+    "longitude": 37.61303972315307,
+    "other_names": {
+      "name": "Тула",
+      "name:be": "Тула",
+      "name:de": "Tula",
+      "name:en": "Tula",
+      "name:et": "Tula",
+      "name:fr": "Toula",
+      "name:hu": "Tula",
+      "name:lt": "Tula",
+      "name:pl": "Tuła",
+      "name:ro": "Tula",
+      "name:ru": "Тула",
+      "name:sr": "Тула",
+      "name:uk": "Тула",
+      "int_name": "Tula"
+    }
+  },
+  {
+    "name": "Tula",
+    "country": "Russia",
+    "latitude": 54.193032099219614,
+    "longitude": 37.61753999999999,
+    "other_names": {
+      "name": "Тула",
+      "name:be": "Тула",
+      "name:de": "Tula",
+      "name:en": "Tula",
+      "name:et": "Tula",
+      "name:fr": "Toula",
+      "name:hu": "Tula",
+      "name:ko": "툴라",
+      "name:lt": "Tula",
+      "name:pl": "Tuła",
+      "name:ro": "Tula",
+      "name:ru": "Тула",
+      "name:sk": "Tula",
+      "name:sr": "Тула",
+      "name:uk": "Тула",
+      "int_name": "Tula"
+    }
+  },
+  {
+    "name": "Tulancingo",
+    "country": "Mexico",
+    "latitude": 20.083958500376127,
+    "longitude": -98.3635381,
+    "other_names": {
+      "name": "Tulancingo"
+    }
+  },
+  {
+    "name": "Tulcea",
+    "country": "Romania",
+    "latitude": 45.177518000450334,
+    "longitude": 28.801634800000002,
+    "other_names": {
+      "name": "Tulcea",
+      "name:de": "Tultscha",
+      "name:el": "Τούλτσεα",
+      "name:he": "טולצ'אה",
+      "name:hu": "Tulcsa",
+      "name:la": "Aegyssos",
+      "name:lt": "Tulča",
+      "name:pl": "Tulcza",
+      "name:ru": "Тулча",
+      "name:sr": "Тулча",
+      "name:tr": "Tulça",
+      "name:uk": "Тульча"
+    }
+  },
+  {
+    "name": "Tulcea",
+    "country": "Romania",
+    "latitude": 45.17860268313684,
+    "longitude": 28.788802489380817,
+    "other_names": {
+      "name": "Tulcea",
+      "name:ru": "Тулча"
+    }
+  }
+]

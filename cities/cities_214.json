@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Jinshi",
+    "country": "China",
+    "latitude": 29.60887589977611,
+    "longitude": 111.8717902,
+    "other_names": {
+      "name": "津市市",
+      "name:de": "Jinshi",
+      "name:en": "Jinshi",
+      "name:fr": "Jinshi",
+      "name:ja": "津市市",
+      "name:ru": "Цзиньши",
+      "name:vi": "Tân Thị",
+      "name:zh": "津市市",
+      "alt_name": "津市;Jinshi City",
+      "name:zh-Hant": "津市市",
+      "name:zh_pinyin": "Jīnshì Shì"
+    }
+  },
+  {
+    "name": "Jinta",
+    "country": "China",
+    "latitude": 39.98342630026506,
+    "longitude": 98.9009359,
+    "other_names": {
+      "name": "金塔县",
+      "name:en": "Jinta",
+      "name:ja": "金塔県",
+      "name:ru": "Цзиньта",
+      "name:vi": "Kim Tháp",
+      "name:zh": "金塔县",
+      "alt_name": "金塔;Jinta County",
+      "int_name": "Jinta",
+      "name:zh-Hant": "金塔縣",
+      "name:zh_pinyin": "Jīntǎ Xiàn"
+    }
+  },
+  {
+    "name": "Jintan",
+    "country": "China",
+    "latitude": 31.72374769962015,
+    "longitude": 119.58259210000001,
+    "other_names": {
+      "name": "金坛区",
+      "name:de": "Jintan",
+      "name:en": "Jintan",
+      "name:fr": "Jintan",
+      "name:vi": "Kim Đàn",
+      "name:zh": "金坛区",
+      "name:zh-Hant": "金壇區",
+      "name:zh_pinyin": "Jīntán Shì"
+    }
+  },
+  {
+    "name": "Jintang",
+    "country": "China",
+    "latitude": 30.864742499670374,
+    "longitude": 104.40950129999999,
+    "other_names": {
+      "name": "金堂县",
+      "name:en": "Jintang",
+      "name:ja": "金堂県",
+      "name:zh": "金堂县",
+      "alt_name": "金堂;Jintang County",
+      "name:zh-Hant": "金堂縣",
+      "name:zh_pinyin": "Jīntáng Xiàn"
+    }
+  },
+  {
+    "name": "Jinwan",
+    "country": "China",
+    "latitude": 22.149829200406476,
+    "longitude": 113.35791119999999,
+    "other_names": {
+      "name": "金湾区",
+      "name:de": "Jinwan",
+      "name:en": "Jinwan",
+      "name:fa": "ناحیه جینوان",
+      "name:fr": "District de Jinwan",
+      "name:it": "Distretto di Jinwan",
+      "name:ja": "金湾区",
+      "name:ko": "진완구",
+      "name:no": "Jinwan",
+      "name:sv": "Jinwan",
+      "name:ur": "جنوان ضلع",
+      "name:vi": "Kim Loan",
+      "name:zh": "金湾区",
+      "alt_name": "金湾;Jinwan District",
+      "name:ceb": "Jinwan Qu",
+      "name:hak": "Kîm-vân-khî",
+      "name:mwl": "Jinwan",
+      "name:nan": "Kim-oan-khu",
+      "name:yue": "金灣",
+      "name:zh-Hans": "金湾区",
+      "name:zh-Hant": "金灣區",
+      "name:zh_pinyin": "Jīnwān qū"
+    }
+  },
+  {
+    "name": "Jinxi",
+    "country": "China",
+    "latitude": 27.921111699955055,
+    "longitude": 116.74921510000001,
+    "other_names": {
+      "name": "金溪县",
+      "name:de": "Jinxi",
+      "name:en": "Jinxi",
+      "name:fa": "شهرستان جینشی",
+      "name:fr": "Xian de Jinxi",
+      "name:it": "Contea di Jinxi",
+      "name:ja": "金渓県",
+      "name:ko": "진시현",
+      "name:nn": "Jinxi",
+      "name:no": "Jinxi",
+      "name:ru": "Сюгу",
+      "name:sr": "Хулудао",
+      "name:sv": "Jinxi",
+      "name:vi": "Kim Khê, Phủ Châu",
+      "name:zh": "金溪县",
+      "alt_name": "金溪;Jinxi County",
+      "name:ceb": "Jinxi Xian",
+      "name:gan": "金溪",
+      "name:nan": "Kim-khe-koān",
+      "name:yue": "金谿",
+      "name:zh-Hant": "金溪縣",
+      "name:zh_pinyin": "jīnxī xiàn"
+    }
+  },
+  {
+    "name": "Jinxian County",
+    "country": "China",
+    "latitude": 28.379088899904215,
+    "longitude": 116.2375292,
+    "other_names": {
+      "name": "进贤县",
+      "name:de": "Jinxian",
+      "name:en": "Jinxian County",
+      "name:eu": "Jinxian konderria",
+      "name:fa": "شهرستان جینشیان",
+      "name:fr": "Xian de Jinxian",
+      "name:it": "Contea di Jinxian",
+      "name:ja": "進賢県",
+      "name:ko": "진셴현",
+      "name:no": "Jinxian",
+      "name:ru": "Цзиньсянь",
+      "name:sv": "Jinxian",
+      "name:vi": "Tiến Hiền",
+      "name:zh": "进贤县",
+      "name:ceb": "Jinxian Xian",
+      "name:gan": "進賢",
+      "name:nan": "Chìn-hiân-koān",
+      "name:yue": "進賢",
+      "name:zh-Hant": "進賢縣",
+      "name:zh_pinyin": "Jìnxián Xiàn"
+    }
+  },
+  {
+    "name": "Jinxiang",
+    "country": "China",
+    "latitude": 35.07449799965679,
+    "longitude": 116.3141927,
+    "other_names": {
+      "name": "金乡县",
+      "name:en": "Jinxiang",
+      "name:vi": "Kim Hương",
+      "name:zh": "金乡县",
+      "name:zh-Hant": "金鄉縣",
+      "name:zh_pinyin": "Jinxiang Xian"
+    }
+  },
+  {
+    "name": "Jinxiu",
+    "country": "China",
+    "latitude": 24.133624100324127,
+    "longitude": 110.1849745,
+    "other_names": {
+      "name": "金秀县",
+      "name:en": "Jinxiu",
+      "name:zh": "金秀县",
+      "alt_name": "金秀;Jinxiu Yao Autonomous County",
+      "name:zh-Hant": "金秀縣",
+      "official_name": "金秀瑶族自治县",
+      "name:zh_pinyin": "jīnxiù yáozú zìzhì xiàn"
+    }
+  },
+  {
+    "name": "Jinyang",
+    "country": "China",
+    "latitude": 27.6992196999799,
+    "longitude": 103.2492812,
+    "other_names": {
+      "name": "金阳县",
+      "name:en": "Jinyang",
+      "name:ii": "ꄮꌅꑤ",
+      "name:zh": "金阳县",
+      "alt_name": "金阳;Jinyang County",
+      "name:zh-Hant": "金陽縣",
+      "name:zh_pinyin": "Jīnyáng Xiàn"
+    }
+  },
+  {
+    "name": "Jinyuan",
+    "country": "China",
+    "latitude": 37.713752899942165,
+    "longitude": 112.47082299999998,
+    "other_names": {
+      "name": "晋源区",
+      "name:en": "Jinyuan",
+      "name:vi": "Tấn Nguyên",
+      "name:zh": "晋源区",
+      "alt_name": "晋源;Jinyuan District",
+      "int_name": "Jinyuan District",
+      "name:zh-Hant": "晉源區",
+      "name:zh_pinyin": "Jinyuan Qu"
+    }
+  },
+  {
+    "name": "Jinyun County",
+    "country": "China",
+    "latitude": 28.661552899873424,
+    "longitude": 120.0869565,
+    "other_names": {
+      "name": "缙云县",
+      "name:de": "Jinyun",
+      "name:en": "Jinyun County",
+      "name:fa": "شهرستان جینیون",
+      "name:fr": "Xian de Jinyun",
+      "name:it": "Contea di Jinyun",
+      "name:ja": "縉雲県",
+      "name:ko": "진윈현",
+      "name:no": "Jinyun",
+      "name:ru": "Цзиньюнь",
+      "name:sv": "Jinyun",
+      "name:vi": "Tấn Vân",
+      "name:zh": "缙云县",
+      "name:ceb": "Jinyun Xian",
+      "name:nan": "Chìn-hûn-koān",
+      "name:wuu": "缙云县",
+      "name:yue": "縉雲",
+      "name:zh-Hant": "縉雲縣",
+      "name:zh_pinyin": "Jìnyún Xiàn"
+    }
+  },
+  {
+    "name": "Jinzhai",
+    "country": "China",
+    "latitude": 31.729716599619874,
+    "longitude": 115.9289147,
+    "other_names": {
+      "name": "金寨县",
+      "name:en": "Jinzhai",
+      "name:ja": "金寨県",
+      "name:ru": "Мэйшань",
+      "name:vi": "Kim Trại",
+      "name:zh": "金寨县",
+      "alt_name": "金寨;Jinzhai County",
+      "old_name": "立煌县",
+      "name:zh-Hant": "金寨縣",
+      "name:zh_pinyin": "Jīnzhài Xiàn"
+    }
+  },
+  {
+    "name": "Jinzhong",
+    "country": "China",
+    "latitude": 37.68667959993844,
+    "longitude": 112.7383414,
+    "other_names": {
+      "name": "晋中市",
+      "name:de": "Jinzhong",
+      "name:en": "Jinzhong",
+      "name:et": "Jinzhong",
+      "name:fr": "Jinzhong",
+      "name:ja": "晋中市",
+      "name:ru": "Цзиньчжун",
+      "name:vi": "Tấn Trung",
+      "name:zh": "晋中市",
+      "int_name": "Jinzhong",
+      "name:zh-Hant": "晉中市",
+      "name:zh_pinyin": "Jinzhong Shi"
+    }
+  },
+  {
+    "name": "Jinzhou",
+    "country": "China",
+    "latitude": 38.03289359998662,
+    "longitude": 115.03410550000001,
+    "other_names": {
+      "name": "晋州市",
+      "name:ar": "جينتشو",
+      "name:de": "Jinzhou",
+      "name:en": "Jinzhou",
+      "name:fr": "Jinzhou",
+      "name:ja": "晋州市",
+      "name:ru": "Цзиньчжоу",
+      "name:vi": "Tấn Châu",
+      "name:zh": "晋州市",
+      "alt_name": "晋州;Jinzhou City",
+      "name:zh-Hant": "晉州市",
+      "official_name": "晋州镇",
+      "name:zh_pinyin": "Jìnzhōu Shì"
+    }
+  },
+  {
+    "name": "Jinzhou",
+    "country": "China",
+    "latitude": 41.10852800040409,
+    "longitude": 121.1194219,
+    "other_names": {
+      "name": "锦州市",
+      "name:ar": "جينتشو",
+      "name:de": "Jinzhou",
+      "name:en": "Jinzhou",
+      "name:et": "Jinzhou",
+      "name:fi": "Jinzhou",
+      "name:fr": "Jinzhou",
+      "name:ja": "錦州市",
+      "name:ko": "진저우시",
+      "name:ru": "Цзиньчжоу",
+      "name:vi": "Cẩm Châu",
+      "name:zh": "锦州市",
+      "name:zh-Hant": "錦州市",
+      "name:zh_pinyin": "Jinzhou Shi"
+    }
+  },
+  {
+    "name": "Jinzhou",
+    "country": "China",
+    "latitude": 39.04958570013309,
+    "longitude": 121.7810437,
+    "other_names": {
+      "name": "金州区",
+      "name:en": "Jinzhou",
+      "name:ja": "金州区",
+      "name:ko": "진저우구",
+      "name:vi": "Kim Châu",
+      "name:zh": "金州区",
+      "alt_name": "金州;Jinzhou City;Jinzhou District",
+      "name:zh-Hant": "金州區",
+      "name:zh_pinyin": "Jinzhou Qu"
+    }
+  },
+  {
+    "name": "Ji-Paraná",
+    "country": "Brazil",
+    "latitude": -10.877814799999292,
+    "longitude": -61.927785400000005,
+    "other_names": {
+      "name": "Ji-Paraná",
+      "name:ka": "ჟი-პარანა",
+      "name:kk": "Жи-Парана",
+      "name:lt": "Ži-Parana",
+      "name:lv": "Žiparana",
+      "name:pt": "Ji-Paraná",
+      "name:ru": "Жи-Парана",
+      "loc_name": "Jipa"
+    }
+  },
+  {
+    "name": "Jiquilisco",
+    "country": "El Salvador",
+    "latitude": 13.3266646997144,
+    "longitude": -88.57020919999998,
+    "other_names": {
+      "name": "Jiquilisco"
+    }
+  },
+  {
+    "name": "Jiroft",
+    "country": "Iran",
+    "latitude": 28.669736699872544,
+    "longitude": 57.7373382,
+    "other_names": {
+      "name": "جیرفت",
+      "name:ar": "جيروفت",
+      "name:de": "Dschiroft",
+      "name:en": "Jiroft",
+      "name:es": "Jiroft",
+      "name:et": "Jīroft",
+      "name:fr": "Jiroft",
+      "name:hi": "जिरोफ्ट",
+      "name:ja": "ジーロフト",
+      "name:ko": "지로프트",
+      "name:ru": "Джирофт",
+      "int_name": "Jiroft",
+      "old_name": "Sabzvārān"
+    }
+  }
+]

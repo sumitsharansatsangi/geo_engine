@@ -1,0 +1,358 @@
+[
+  {
+    "name": "Deir Ez Zor",
+    "country": "Syria",
+    "latitude": 35.33333349967604,
+    "longitude": 40.14999989999999,
+    "other_names": {
+      "name": "دير الزور",
+      "name:cs": "Dajr az-Zaur",
+      "name:de": "Deir Ezzor",
+      "name:en": "Deir Ez Zor",
+      "name:es": "Deir ez-Zor",
+      "name:et": "Dayr az-Zawr",
+      "name:fr": "Deïr ez Zôr",
+      "name:he": "דיר א-זור",
+      "name:hi": "दीर एज़ ज़ोर",
+      "name:hu": "Dajr ez-Zaur",
+      "name:hy": "Դեր Զոր",
+      "name:ja": "デリゾール",
+      "name:ko": "데이르에즈조르",
+      "name:ku": "Dêrazor",
+      "name:lt": "Deir ez Zoras",
+      "name:ml": "ദെയ്ർ എസ്-സോർ",
+      "name:ru": "Дейр-эз-Зор",
+      "name:tr": "Deyrizor",
+      "name:zh": "代尔祖尔",
+      "alt_name": "دير الزور;Deyrazor;Deir Ezzor;Deir Al-Zor;Dayr Al-Zawr;Der Ezzor;Dair az-Zaur;Deyr-i Zor;Deyru'z-Zur;Der Zor;Der ez-Zor",
+      "int_name": "Azaura, Dayr al-Zor, Dayr az Zur, Dayr az Zūr, Deir Zzor, Deir ez Zoar, Deir ez Zor, Deïr ez Zor, Dayr az Zawr",
+      "alt_name:de": "Deir ez-Zor",
+      "alt_name:fr": "Deir Ez-Zar;Deir-Ezzor"
+    }
+  },
+  {
+    "name": "Dej",
+    "country": "Romania",
+    "latitude": 47.134341078463116,
+    "longitude": 23.899606231805375,
+    "other_names": {
+      "name": "Dej",
+      "name:hu": "Dés"
+    }
+  },
+  {
+    "name": "Dej",
+    "country": "Romania",
+    "latitude": 47.1438201642351,
+    "longitude": 23.8766688481514,
+    "other_names": {
+      "name": "Dej",
+      "name:hu": "Dés"
+    }
+  },
+  {
+    "name": "Dejiang",
+    "country": "China",
+    "latitude": 28.266430299916642,
+    "longitude": 108.11146949999998,
+    "other_names": {
+      "name": "德江县",
+      "name:en": "Dejiang",
+      "name:vi": "Đức Giang",
+      "name:zh": "德江县",
+      "alt_name": "Dejiang County",
+      "name:zh-Hant": "德江縣",
+      "name:zh_pinyin": "Dejiang Xian"
+    }
+  },
+  {
+    "name": "Delft",
+    "country": "Netherlands",
+    "latitude": 52.01140169911648,
+    "longitude": 4.358389999999999,
+    "other_names": {
+      "name": "Delft",
+      "name:el": "Ντελφτ",
+      "name:fa": "دلفت",
+      "name:he": "דלפט",
+      "name:ja": "デルフト",
+      "name:ko": "델프트",
+      "name:la": "Delphi",
+      "name:ru": "Делфт",
+      "name:sr": "Делфт",
+      "name:zh": "代尔夫特",
+      "name:nds": "Delft",
+      "name:zh-Hans": "代尔夫特",
+      "name:zh-Hant": "代爾夫特",
+      "name:carnaval": "Kabbelgat"
+    }
+  },
+  {
+    "name": "Delhi",
+    "country": "India",
+    "latitude": 28.651717799874486,
+    "longitude": 77.2219388,
+    "other_names": {
+      "name": "Delhi",
+      "name:ar": "دلهي",
+      "name:bn": "দিল্লি",
+      "name:cs": "Dillí",
+      "name:de": "Delhi",
+      "name:el": "Δελχί",
+      "name:en": "Delhi",
+      "name:eo": "Delhio",
+      "name:es": "Delhi",
+      "name:fa": "دهلی",
+      "name:fr": "Delhi",
+      "name:he": "דלהי",
+      "name:hi": "दिल्ली",
+      "name:ja": "デリー",
+      "name:kn": "ದೆಹಲಿ",
+      "name:ko": "델리",
+      "name:ku": "Delhî",
+      "name:lv": "Deli",
+      "name:ml": "ഡെൽഹി",
+      "name:ms": "Delhi",
+      "name:my": "ဒေလီမြို့",
+      "name:ne": "दिल्ली",
+      "name:oc": "Delhi",
+      "name:pa": "ਦਿੱਲੀ",
+      "name:pt": "Deli",
+      "name:ru": "Дели",
+      "name:ta": "தில்லி",
+      "name:te": "ఢిల్లీ",
+      "name:th": "เดลี",
+      "name:uk": "Делі",
+      "name:ur": "دہلی",
+      "name:zh": "德里",
+      "name:ckb": "دێلهی"
+    }
+  },
+  {
+    "name": "Delicias",
+    "country": "Mexico",
+    "latitude": 28.19098139992499,
+    "longitude": -105.469426,
+    "other_names": {
+      "name": "Delicias",
+      "name:ru": "Делисьяс"
+    }
+  },
+  {
+    "name": "Delingha",
+    "country": "China",
+    "latitude": 37.369081899895725,
+    "longitude": 97.36010999999999,
+    "other_names": {
+      "name": "德令哈市",
+      "name:bo": "གཏེར་ལེན་ཁ་",
+      "name:de": "Delhi",
+      "name:en": "Delingha",
+      "name:fr": "Delingha",
+      "name:ja": "デリンハ市",
+      "name:mn": "Дэлхий",
+      "name:ru": "Дэлинха",
+      "name:uk": "Делінха",
+      "name:vi": "Đức Linh Cáp",
+      "name:zh": "德令哈市",
+      "alt_name": "Delhi",
+      "name:zh-Hant": "德令哈市",
+      "name:zh_pinyin": "Délìnghā Shì"
+    }
+  },
+  {
+    "name": "Delmas",
+    "country": "Haiti And Domrep",
+    "latitude": 18.551846400280894,
+    "longitude": -72.2920071,
+    "other_names": {
+      "name": "Delmas",
+      "name:ht": "Dèlma",
+      "name:hu": "Delmas"
+    }
+  },
+  {
+    "name": "Delray Beach",
+    "country": "United States Of America",
+    "latitude": 26.461462500116294,
+    "longitude": -80.0728201,
+    "other_names": {
+      "name": "Delray Beach"
+    }
+  },
+  {
+    "name": "Del Rio",
+    "country": "United States Of America",
+    "latitude": 29.365540499800005,
+    "longitude": -100.8946984,
+    "other_names": {
+      "name": "Del Rio",
+      "name:ru": "Дель-Рио"
+    }
+  },
+  {
+    "name": "Delta",
+    "country": "Canada",
+    "latitude": 49.08462579967139,
+    "longitude": -123.05793840000001,
+    "other_names": {
+      "name": "Delta"
+    }
+  },
+  {
+    "name": "Deltona",
+    "country": "United States Of America",
+    "latitude": 28.900544599847898,
+    "longitude": -81.2636738,
+    "other_names": {
+      "name": "Deltona"
+    }
+  },
+  {
+    "name": "Demra",
+    "country": "Bangladesh",
+    "latitude": 23.723452700349537,
+    "longitude": 90.4964171,
+    "other_names": {
+      "name": "ডেমরা",
+      "name:en": "Demra"
+    }
+  },
+  {
+    "name": "Dengfeng",
+    "country": "China",
+    "latitude": 34.45517719962004,
+    "longitude": 113.04444549999998,
+    "other_names": {
+      "name": "登封市",
+      "name:ar": "دنغفنغ",
+      "name:ca": "Dengfeng",
+      "name:cs": "Teng-feng",
+      "name:de": "Dengfeng",
+      "name:en": "Dengfeng",
+      "name:es": "Dengfeng",
+      "name:eu": "Dengfeng",
+      "name:fa": "دنگ فنگ",
+      "name:fr": "Dengfeng",
+      "name:he": "דנגפנג",
+      "name:hr": "Dengfeng",
+      "name:it": "Dengfeng",
+      "name:ja": "登封市",
+      "name:ka": "დენგფენგი",
+      "name:ki": "Dengfeng",
+      "name:ko": "덩펑시",
+      "name:ml": "ഡെങ്ഫെങ്",
+      "name:nl": "Dengfeng",
+      "name:nn": "Dengfeng",
+      "name:no": "Dengfeng",
+      "name:pl": "Dengfeng",
+      "name:pt": "Dengfeng",
+      "name:ru": "Дэнфэн",
+      "name:sh": "Dengfeng",
+      "name:sq": "Dengfeng",
+      "name:sv": "Dengfeng",
+      "name:tr": "Dengfeng",
+      "name:ur": "دینگفینگ",
+      "name:vi": "Đăng Phong",
+      "name:zh": "登封市",
+      "alt_name": "登封;Dengfeng City",
+      "name:ast": "Dengfeng",
+      "name:ceb": "Dengfeng Shi",
+      "name:nan": "Teng-hong-chhī",
+      "name:pam": "Dengfeng",
+      "name:xmf": "დენგფენგი",
+      "name:yue": "登封",
+      "name:zh-Hant": "登封市",
+      "name:zh_pinyin": "Dēngfēng Shì"
+    }
+  },
+  {
+    "name": "Dengkou",
+    "country": "China",
+    "latitude": 40.333419100311474,
+    "longitude": 107.00204829999998,
+    "other_names": {
+      "name": "磴口县",
+      "name:en": "Dengkou",
+      "name:zh": "磴口县",
+      "name:zh-Hant": "磴口縣"
+    }
+  },
+  {
+    "name": "Dêngqên",
+    "country": "China",
+    "latitude": 31.415578799635764,
+    "longitude": 95.5950803,
+    "other_names": {
+      "name": "丁青县",
+      "name:bo": "སྟེང་ཆེན།",
+      "name:en": "Dêngqên",
+      "name:vi": "Dêngqên",
+      "name:zh": "丁青县",
+      "alt_name": "丁青;Ting-ch'ing Hsien;Dingqing County;Dengqen County;Dengqen;Dingqing",
+      "alt_name:vi": "Đinh Thanh",
+      "name:zh-Hant": "丁青縣",
+      "name:zh_pinyin": "Dīngqīng Xiàn"
+    }
+  },
+  {
+    "name": "Dengta",
+    "country": "China",
+    "latitude": 41.42448660043665,
+    "longitude": 123.33351389999999,
+    "other_names": {
+      "name": "灯塔市",
+      "name:de": "Dengta",
+      "name:en": "Dengta",
+      "name:fr": "Dengta",
+      "name:ja": "灯塔市",
+      "name:ko": "덩타시",
+      "name:ru": "Дэнта",
+      "name:vi": "Đăng Tháp",
+      "name:zh": "灯塔市",
+      "int_name": "Dengta",
+      "name:zh-Hant": "燈塔市",
+      "name:zh_pinyin": "Dēngtǎ Shì"
+    }
+  },
+  {
+    "name": "Dengzhou",
+    "country": "China",
+    "latitude": 32.68805369959054,
+    "longitude": 112.08189010000001,
+    "other_names": {
+      "name": "邓州市",
+      "name:de": "Dengzhou",
+      "name:en": "Dengzhou",
+      "name:fr": "Dengzhou",
+      "name:ja": "トウ州市",
+      "name:ru": "Дэнчжоу",
+      "name:vi": "Đặng Châu",
+      "name:zh": "邓州",
+      "int_name": "Dengzhou",
+      "name:zh-Hant": "鄧州市",
+      "name:zh_pinyin": "Dèngzhōu Shì"
+    }
+  },
+  {
+    "name": "Denizli",
+    "country": "Turkey",
+    "latitude": 37.77331969995036,
+    "longitude": 29.086927300000003,
+    "other_names": {
+      "name": "Denizli",
+      "name:ar": "دنيزلي",
+      "name:el": "Ντενιζλί",
+      "name:en": "Denizli",
+      "name:fa": "دنیزلی",
+      "name:hi": "डेनिज़ली",
+      "name:hu": "Denizli",
+      "name:ja": "デニズリ",
+      "name:ku": "Denizlî",
+      "name:pt": "Denizli",
+      "name:ru": "Денизли",
+      "name:ur": "دنیزلی",
+      "alt_name:ar": "دينزلي"
+    }
+  }
+]

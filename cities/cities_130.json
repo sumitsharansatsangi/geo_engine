@@ -1,0 +1,286 @@
+[
+  {
+    "name": "Éséka",
+    "country": "Cameroon",
+    "latitude": 3.6412876996201606,
+    "longitude": 10.7741803,
+    "other_names": {
+      "name": "Éséka"
+    }
+  },
+  {
+    "name": "Esenguly",
+    "country": "Turkmenistan",
+    "latitude": 37.478005399910195,
+    "longitude": 53.9740361,
+    "other_names": {
+      "name": "Esenguly",
+      "name:ru": "Эсенгулы",
+      "name:tk": "Esenguly",
+      "alt_name": "Hasan Kuli",
+      "old_name": "Hasan-Kuli",
+      "old_name:ru": "Гасан-Кули"
+    }
+  },
+  {
+    "name": "Eshan",
+    "country": "China",
+    "latitude": 24.17225490032153,
+    "longitude": 102.40176499999998,
+    "other_names": {
+      "name": "峨山县",
+      "name:en": "Eshan",
+      "name:vi": "Nga Sơn",
+      "name:zh": "峨山县",
+      "alt_name": "峨山;Eshan Yi Autonomous County;Eshan County",
+      "short_name": "峨山县",
+      "name:zh-Hant": "峨山縣",
+      "official_name": "峨山彝族自治县",
+      "name:zh_pinyin": "Éshān Xiàn",
+      "official_name:zh": "峨山彝族自治县",
+      "official_name:zh_pinyin": "Éshān Yízú Zìzhì Xiàn"
+    }
+  },
+  {
+    "name": "Eskilstuna",
+    "country": "Sweden",
+    "latitude": 59.37173790141717,
+    "longitude": 16.5051474,
+    "other_names": {
+      "name": "Eskilstuna",
+      "name:lt": "Eskilstiuna",
+      "name:ru": "Эскильстуна",
+      "name:sv": "Eskilstuna"
+    }
+  },
+  {
+    "name": "Eskisehir",
+    "country": "Turkey",
+    "latitude": 39.76668130023527,
+    "longitude": 30.525594700000003,
+    "other_names": {
+      "name": "Eskişehir",
+      "name:ar": "إسكي شهر",
+      "name:el": "Εσκισεχίρ",
+      "name:en": "Eskisehir",
+      "name:hu": "Eskişehir",
+      "name:ku": "Eskîşehîr",
+      "name:lt": "Eskišechiras",
+      "name:ru": "Эскишехир",
+      "name:tr": "Eskişehir",
+      "name:uk": "Ескішехір"
+    }
+  },
+  {
+    "name": "Eslamshahr",
+    "country": "Iran",
+    "latitude": 35.547851299693654,
+    "longitude": 51.231867599999994,
+    "other_names": {
+      "name": "اسلامشهر",
+      "name:de": "Eslamschahr",
+      "name:en": "Eslamshahr",
+      "name:fr": "Eslamchahr",
+      "name:hi": "इस्लामशहर"
+    }
+  },
+  {
+    "name": "Esmeraldas",
+    "country": "Ecuador",
+    "latitude": 0.9668152998980436,
+    "longitude": -79.65238469999998,
+    "other_names": {
+      "name": "Esmeraldas"
+    }
+  },
+  {
+    "name": "Esmoriz",
+    "country": "Portugal",
+    "latitude": 40.96025260038768,
+    "longitude": -8.6228198,
+    "other_names": {
+      "name": "Esmoriz"
+    }
+  },
+  {
+    "name": "Espinho",
+    "country": "Portugal",
+    "latitude": 41.00836430039308,
+    "longitude": -8.6394111,
+    "other_names": {
+      "name": "Espinho"
+    }
+  },
+  {
+    "name": "Espoo",
+    "country": "Finland",
+    "latitude": 60.22418690167455,
+    "longitude": 24.6603626,
+    "other_names": {
+      "name": "Espoo",
+      "name:fi": "Espoo",
+      "name:hu": "Espoo",
+      "name:lt": "Espas",
+      "name:ru": "Эспоо",
+      "name:sv": "Esbo"
+    }
+  },
+  {
+    "name": "Esposende",
+    "country": "Portugal",
+    "latitude": 41.531525100446856,
+    "longitude": -8.779253799999998,
+    "other_names": {
+      "name": "Esposende",
+      "name:lt": "Espozendė",
+      "name:ru": "Эшпозенде",
+      "name:uk": "Ешпозенде"
+    }
+  },
+  {
+    "name": "Espuma",
+    "country": "Mexico",
+    "latitude": 18.72773500978855,
+    "longitude": -90.59260537120788,
+    "other_names": {
+      "name": "Espuma"
+    }
+  },
+  {
+    "name": "Essaouira",
+    "country": "Morocco",
+    "latitude": 31.511828099630595,
+    "longitude": -9.7620903,
+    "other_names": {
+      "name": "Essaouira ⵚⵚⵡⵉⵕⴰ الصويرة",
+      "name:ar": "الصويرة",
+      "name:de": "Essaouira",
+      "name:en": "Essaouira",
+      "name:es": "Mogadur",
+      "name:fr": "Essaouira",
+      "name:pt": "Mogdura",
+      "name:ru": "Эс-Сувейра",
+      "name:ber": "ⵎⵓⴳⴰⴹⵓⵔ",
+      "name:zgh": "ⵚⵚⵡⵉⵕⴰ",
+      "old_name:fr": "Mogador"
+    }
+  },
+  {
+    "name": "Essen",
+    "country": "Germany",
+    "latitude": 51.45822349917816,
+    "longitude": 7.015817099999999,
+    "other_names": {
+      "name": "Essen",
+      "name:ar": "إسن",
+      "name:bg": "Есен",
+      "name:el": "Έσση",
+      "name:fa": "اسن",
+      "name:he": "אסן",
+      "name:hu": "Essen",
+      "name:ja": "エッセン",
+      "name:ka": "ესენი",
+      "name:kk": "Эссен",
+      "name:ko": "에센",
+      "name:la": "Assindia",
+      "name:li": "Esse",
+      "name:lt": "Esenas",
+      "name:lv": "Esene",
+      "name:mr": "एसेन",
+      "name:ru": "Эссен",
+      "name:sr": "Есен",
+      "name:th": "เอสเซิน",
+      "name:ug": "Ésén",
+      "name:uk": "Ессен",
+      "name:zh": "埃森",
+      "name:ksh": "Äßße",
+      "name:nds": "Essen",
+      "name:zh-Hans": "埃森",
+      "name:zh-Hant": "埃森"
+    }
+  },
+  {
+    "name": "Estanzuelas",
+    "country": "El Salvador",
+    "latitude": 13.643201099749527,
+    "longitude": -88.49356739999999,
+    "other_names": {
+      "name": "Estanzuelas"
+    }
+  },
+  {
+    "name": "Estarreja",
+    "country": "Portugal",
+    "latitude": 40.75234940036356,
+    "longitude": -8.5703455,
+    "other_names": {
+      "name": "Estarreja"
+    }
+  },
+  {
+    "name": "Esteli",
+    "country": "Nicaragua",
+    "latitude": 13.093124099689136,
+    "longitude": -86.3554436,
+    "other_names": {
+      "name": "Estelí",
+      "name:en": "Esteli",
+      "name:hu": "Estelí",
+      "old_name": "Villa de San Antonio de Pavía de Estelí"
+    }
+  },
+  {
+    "name": "Estevan",
+    "country": "Canada",
+    "latitude": 49.14280759965703,
+    "longitude": -102.9910752,
+    "other_names": {
+      "name": "Estevan"
+    }
+  },
+  {
+    "name": "Etah",
+    "country": "India",
+    "latitude": 27.560019999995497,
+    "longitude": 78.6578425,
+    "other_names": {
+      "name": "Etah",
+      "name:hi": "एटा",
+      "name:ja": "エーター",
+      "name:kn": "ಏಟ",
+      "name:ta": "எடஹ்"
+    }
+  },
+  {
+    "name": "Etajima",
+    "country": "Japan",
+    "latitude": 34.17496189960788,
+    "longitude": 132.4622276,
+    "other_names": {
+      "name": "江田島市",
+      "name:ar": "يتاجيما، هيروشيما",
+      "name:cs": "Etadžima",
+      "name:de": "Etajima",
+      "name:en": "Etajima",
+      "name:es": "Etajima",
+      "name:fr": "Etajima",
+      "name:id": "Etajima",
+      "name:it": "Etajima",
+      "name:ja": "江田島市",
+      "name:ko": "에타지마시",
+      "name:pl": "Etajima",
+      "name:pt": "Etajima",
+      "name:ro": "Etajima",
+      "name:ru": "Этадзима",
+      "name:tg": "Етаҷима",
+      "name:tl": "Etajima",
+      "name:uk": "Етадзіма",
+      "name:vi": "Etajima",
+      "name:zh": "江田島市",
+      "int_name": "Etajima",
+      "name:ja-Hira": "えたじまし",
+      "name:ja-Latn": "Etajima-shi",
+      "name:ja_kana": "エタジマシ"
+    }
+  }
+]

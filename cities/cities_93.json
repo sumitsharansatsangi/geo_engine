@@ -1,0 +1,270 @@
+[
+  {
+    "name": "Cilacap",
+    "country": "Indonesia",
+    "latitude": -7.7267966997450275,
+    "longitude": 109.009662,
+    "other_names": {
+      "name": "Cilacap",
+      "name:id": "Cilacap",
+      "name:ja": "チラチャプ",
+      "name:ru": "Чилачап",
+      "name:zh": "芝拉扎"
+    }
+  },
+  {
+    "name": "Cilegon",
+    "country": "Indonesia",
+    "latitude": -6.017388999684751,
+    "longitude": 106.0537688,
+    "other_names": {
+      "name": "Cilegon",
+      "name:en": "Cilegon",
+      "name:ja": "チレゴン",
+      "name:ko": "칠레곤",
+      "name:ms": "Kota Cilegon",
+      "name:ta": "சிலெகோன்",
+      "name:zh": "芝勒贡"
+    }
+  },
+  {
+    "name": "Cili",
+    "country": "China",
+    "latitude": 29.432743899793323,
+    "longitude": 111.1339552,
+    "other_names": {
+      "name": "慈利县",
+      "name:de": "Cili",
+      "name:en": "Cili",
+      "name:es": "Cili",
+      "name:fa": "شهرستان سیلی",
+      "name:fr": "Xian de Cili",
+      "name:it": "Contea di Cili",
+      "name:ja": "慈利県",
+      "name:ko": "츠리현",
+      "name:no": "Cili",
+      "name:ru": "Цыли",
+      "name:sv": "Cili",
+      "name:vi": "Từ Lợi",
+      "name:zh": "慈利县",
+      "alt_name": "慈利;Cili County",
+      "name:ceb": "Cili Xian",
+      "name:lzh": "慈利縣",
+      "name:nan": "Chû-lī-koān",
+      "name:yue": "慈利",
+      "name:zh-Hant": "慈利縣"
+    }
+  },
+  {
+    "name": "Cimahi",
+    "country": "Indonesia",
+    "latitude": -6.873152699706467,
+    "longitude": 107.5423099,
+    "other_names": {
+      "name": "Cimahi",
+      "name:ja": "チマヒ",
+      "name:nl": "Tjimahi",
+      "name:zh": "芝馬墟"
+    }
+  },
+  {
+    "name": "Cincinnati",
+    "country": "United States Of America",
+    "latitude": 39.101453700140596,
+    "longitude": -84.5124602,
+    "other_names": {
+      "name": "Cincinnati",
+      "name:ar": "سيسيناتي",
+      "name:bg": "Синсинати",
+      "name:fa": "سینسینتی",
+      "name:he": "סינסינטי",
+      "name:ja": "シンシナティ",
+      "name:ka": "ცინცინატი",
+      "name:ko": "신시내티",
+      "name:la": "Cincinnatopolis",
+      "name:lt": "Cincinatis",
+      "name:mr": "सिनसिनाटी",
+      "name:oc": "Cincinnati",
+      "name:os": "Цинциннати",
+      "name:ru": "Цинциннати",
+      "name:sr": "Синсинати",
+      "name:ta": "சின்சினாட்டி",
+      "name:uk": "Цинциннаті",
+      "name:zh": "辛辛那提",
+      "alt_name": "Cincy;Cinti;Cin’ti;Zinzinnati",
+      "old_name": "Losantiville"
+    }
+  },
+  {
+    "name": "Cipolletti",
+    "country": "Argentina",
+    "latitude": -38.92781730075785,
+    "longitude": -67.9925103,
+    "other_names": {
+      "name": "Cipolletti"
+    }
+  },
+  {
+    "name": "Cirebon",
+    "country": "Indonesia",
+    "latitude": -6.713704399701099,
+    "longitude": 108.56084829999999,
+    "other_names": {
+      "name": "Cirebon",
+      "name:en": "Cirebon",
+      "name:ja": "チレボン",
+      "name:mk": "Чиребон",
+      "name:nl": "Tjirebon",
+      "name:ru": "Чиребон",
+      "name:uk": "Чиребон",
+      "name:zh": "井裡汶"
+    }
+  },
+  {
+    "name": "Cité Soleil",
+    "country": "Haiti And Domrep",
+    "latitude": 18.578276800282996,
+    "longitude": -72.3356015,
+    "other_names": {
+      "name": "Cité Soleil",
+      "name:ht": "Site Soley",
+      "name:hu": "Port-au-Prince",
+      "name:ja": "シテ・ソレイユ",
+      "name:ru": "Сите-Солей"
+    }
+  },
+  {
+    "name": "Citronelle",
+    "country": "United States Of America",
+    "latitude": 31.0981842552509,
+    "longitude": -88.24172650695549,
+    "other_names": {
+      "name": "Citronelle"
+    }
+  },
+  {
+    "name": "City Hall",
+    "country": "United States Of America",
+    "latitude": 40.70374564655885,
+    "longitude": -89.40350538534503,
+    "other_names": {
+      "name": "City Hall"
+    }
+  },
+  {
+    "name": "City of London",
+    "country": "England",
+    "latitude": 51.51561769917048,
+    "longitude": -0.09199829999999999,
+    "other_names": {
+      "name": "City of London",
+      "name:en": "City of London",
+      "name:es": "City de Londres",
+      "name:fr": "Cité de Londres",
+      "name:he": "הסיטי של לונדון",
+      "name:hi": "सिटी ऑफ़ लंदन",
+      "name:ko": "시티오브런던",
+      "name:lt": "Londono Sitis",
+      "name:ru": "Сити",
+      "name:uk": "Лондонське Сіті",
+      "name:zh": "倫敦市",
+      "alt_name": "The City",
+      "name:zh-Hans": "伦敦市"
+    }
+  },
+  {
+    "name": "Ciudad Acuña",
+    "country": "Mexico",
+    "latitude": 29.31960399980462,
+    "longitude": -100.9478409,
+    "other_names": {
+      "name": "Ciudad Acuña",
+      "name:ru": "Сьюдад-Акунья"
+    }
+  },
+  {
+    "name": "Ciudad Adolfo Lopez Mateos",
+    "country": "Mexico",
+    "latitude": 19.573397500350698,
+    "longitude": -99.24394899999999,
+    "other_names": {
+      "name": "Ciudad Adolfo Lopez Mateos",
+      "alt_name": "Ciudad López Mateos"
+    }
+  },
+  {
+    "name": "Ciudad Barrios",
+    "country": "El Salvador",
+    "latitude": 13.766061399763398,
+    "longitude": -88.27034099999999,
+    "other_names": {
+      "name": "Ciudad Barrios"
+    }
+  },
+  {
+    "name": "Ciudad Bolívar",
+    "country": "Venezuela",
+    "latitude": 8.108095499390357,
+    "longitude": -63.551078000000004,
+    "other_names": {
+      "name": "Ciudad Bolívar",
+      "name:en": "Ciudad Bolívar",
+      "name:es": "Ciudad Bolívar",
+      "name:mk": "Боливар",
+      "name:ru": "Сьюдад-Боливар",
+      "name:uk": "Сьюдад-Болівар",
+      "old_name": "Santo Tomé de Guayana;Santo Tomé de la Guayana de la Angostura del Orinoco;Angostura",
+      "alt_name:mk": "Сјудад Боливар"
+    }
+  },
+  {
+    "name": "Ciudad Bolivia",
+    "country": "Venezuela",
+    "latitude": 8.353779899391338,
+    "longitude": -70.57323759999998,
+    "other_names": {
+      "name": "Ciudad Bolivia"
+    }
+  },
+  {
+    "name": "Ciudad Constitución",
+    "country": "Mexico",
+    "latitude": 25.03211490025523,
+    "longitude": -111.65804550000001,
+    "other_names": {
+      "name": "Ciudad Constitución"
+    }
+  },
+  {
+    "name": "Ciudad de la Costa",
+    "country": "Uruguay",
+    "latitude": -34.82558329985211,
+    "longitude": -55.95895599999999,
+    "other_names": {
+      "name": "Ciudad de la Costa"
+    }
+  },
+  {
+    "name": "Ciudad del Carmen",
+    "country": "Mexico",
+    "latitude": 18.651739000288746,
+    "longitude": -91.81491999999999,
+    "other_names": {
+      "name": "Ciudad del Carmen"
+    }
+  },
+  {
+    "name": "Ciudad del Este",
+    "country": "Paraguay",
+    "latitude": -25.516901499705206,
+    "longitude": -54.61686449999999,
+    "other_names": {
+      "name": "Ciudad del Este",
+      "name:en": "Ciudad del Este",
+      "name:pt": "Cidade do Leste",
+      "name:ru": "Сьюдад-дель-Эсте",
+      "name:uk": "Сьюдад-дель-Есте",
+      "old_name": "Puerto Flor de Lis, Puerto Presidente Stroessner"
+    }
+  }
+]

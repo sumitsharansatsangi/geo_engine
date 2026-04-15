@@ -1,0 +1,242 @@
+[
+  {
+    "name": "San Juan de Marcona",
+    "country": "Peru",
+    "latitude": -15.361968700403018,
+    "longitude": -75.1671392,
+    "other_names": {
+      "name": "San Juan de Marcona"
+    }
+  },
+  {
+    "name": "San Juan Nepomuceno",
+    "country": "Paraguay",
+    "latitude": -26.111627499623616,
+    "longitude": -55.93743609999999,
+    "other_names": {
+      "name": "San Juan Nepomuceno"
+    }
+  },
+  {
+    "name": "San Julián",
+    "country": "Bolivia",
+    "latitude": -16.910497000467412,
+    "longitude": -62.61537269999999,
+    "other_names": {
+      "name": "San Julián"
+    }
+  },
+  {
+    "name": "San Justo",
+    "country": "Argentina",
+    "latitude": -34.67741859982152,
+    "longitude": -58.560783699999995,
+    "other_names": {
+      "name": "San Justo"
+    }
+  },
+  {
+    "name": "Sankhar",
+    "country": "Nepal",
+    "latitude": 27.896523399957807,
+    "longitude": 83.92143899999999,
+    "other_names": {
+      "name": "Sankhar",
+      "name:hi": "साँखर",
+      "name:ne": "साँखर",
+      "name:pl": "Sakhar",
+      "int_name": "Sankhar"
+    }
+  },
+  {
+    "name": "Şanlıurfa",
+    "country": "Turkey",
+    "latitude": 37.14938919986717,
+    "longitude": 38.7902129,
+    "other_names": {
+      "name": "Şanlıurfa",
+      "name:ar": "شانلورفا",
+      "name:de": "Şanlıurfa",
+      "name:el": "Σανλιούρφα",
+      "name:en": "Şanlıurfa",
+      "name:es": "Sanliurfa",
+      "name:fr": "Şanlıurfa",
+      "name:hi": "शानलिउर्फा",
+      "name:hy": "Եդեսիա",
+      "name:ka": "შანლიურფა",
+      "name:ku": "Riha",
+      "name:ru": "Шанлыурфа",
+      "name:tr": "Şanlıurfa",
+      "alt_name": "Urfa;Edessa",
+      "name:zza": "Rıha"
+    }
+  },
+  {
+    "name": "San Lorenzo",
+    "country": "Paraguay",
+    "latitude": -25.34252239972992,
+    "longitude": -57.50939700000001,
+    "other_names": {
+      "name": "San Lorenzo"
+    }
+  },
+  {
+    "name": "San Lucas Sacatepéquez",
+    "country": "Guatemala",
+    "latitude": 14.612554299861536,
+    "longitude": -90.6527373,
+    "other_names": {
+      "name": "San Lucas Sacatepéquez"
+    }
+  },
+  {
+    "name": "San Luis",
+    "country": "Argentina",
+    "latitude": -33.301969599572715,
+    "longitude": -66.3369903,
+    "other_names": {
+      "name": "San Luis",
+      "name:el": "Σαν Λουίς",
+      "name:en": "San Luis",
+      "name:he": "סן לואיס",
+      "name:ru": "Сан-Луис",
+      "name:uk": "Сан-Луїс",
+      "official_name": "San Luis"
+    }
+  },
+  {
+    "name": "San Luis Coyotzingo",
+    "country": "Mexico",
+    "latitude": 19.195498616214408,
+    "longitude": -98.44317690170897,
+    "other_names": {
+      "name": "San Luis Coyotzingo"
+    }
+  },
+  {
+    "name": "San Luis Obispo",
+    "country": "United States Of America",
+    "latitude": 35.2827524996721,
+    "longitude": -120.65961559999997,
+    "other_names": {
+      "name": "San Luis Obispo"
+    }
+  },
+  {
+    "name": "San Luis Potosí",
+    "country": "Mexico",
+    "latitude": 22.151647200406444,
+    "longitude": -100.9763993,
+    "other_names": {
+      "name": "San Luis Potosí",
+      "name:ar": "سان لويس بوتوسي",
+      "name:ru": "Сан-Луис-Потоси",
+      "name:uk": "Сан-Луїс-Потосі"
+    }
+  },
+  {
+    "name": "San Luis Río Colorado",
+    "country": "Mexico",
+    "latitude": 32.45179569959496,
+    "longitude": -114.76525419999999,
+    "other_names": {
+      "name": "San Luis Río Colorado"
+    }
+  },
+  {
+    "name": "San Marcos",
+    "country": "El Salvador",
+    "latitude": 13.657874899751171,
+    "longitude": -89.18299569999999,
+    "other_names": {
+      "name": "San Marcos"
+    }
+  },
+  {
+    "name": "San Mateo",
+    "country": "Venezuela",
+    "latitude": 10.21538329944911,
+    "longitude": -67.41801539999999,
+    "other_names": {
+      "name": "San Mateo"
+    }
+  },
+  {
+    "name": "San Mateo",
+    "country": "United States Of America",
+    "latitude": 37.54396839991906,
+    "longitude": -122.30667799999999,
+    "other_names": {
+      "name": "San Mateo",
+      "name:oc": "San Mateo",
+      "name:zh": "圣马特奥/聖馬刁"
+    }
+  },
+  {
+    "name": "Sanmen County",
+    "country": "China",
+    "latitude": 29.10581699982642,
+    "longitude": 121.39115559999998,
+    "other_names": {
+      "name": "三门县",
+      "name:de": "Sanmen",
+      "name:en": "Sanmen County",
+      "name:fa": "شهرستان سانمن",
+      "name:fr": "Xian de Sanmen",
+      "name:it": "Contea di Sanmen",
+      "name:ja": "三門県",
+      "name:ko": "싼먼현",
+      "name:no": "Sanmen",
+      "name:sv": "Sanmen",
+      "name:vi": "Tam Môn",
+      "name:zh": "三门县",
+      "name:ceb": "Sanmen Xian",
+      "name:nan": "Sam-bûn-koān",
+      "name:wuu": "三门县",
+      "name:yue": "三門",
+      "name:zh-Hant": "三門縣",
+      "name:zh_pinyin": "Sānmén Xiàn"
+    }
+  },
+  {
+    "name": "Sanmenxia",
+    "country": "China",
+    "latitude": 34.767884199636924,
+    "longitude": 111.1908398,
+    "other_names": {
+      "name": "三门峡市",
+      "name:de": "Sanmenxia",
+      "name:en": "Sanmenxia",
+      "name:et": "Sanmenxia",
+      "name:fr": "Sanmenxia",
+      "name:ja": "三門峡市",
+      "name:pt": "Sanmenxia",
+      "name:ru": "Саньмынься",
+      "name:vi": "Tam Môn Hiệp",
+      "name:zh": "三门峡市",
+      "int_name": "Sanmenxia",
+      "alt_name:vi": "Tam Môn Hạp",
+      "name:zh-Hant": "三門峽市",
+      "name:zh_pinyin": "Sānménxiá Shì"
+    }
+  },
+  {
+    "name": "San Miguel",
+    "country": "El Salvador",
+    "latitude": 13.480389899731339,
+    "longitude": -88.17722,
+    "other_names": {
+      "name": "San Miguel",
+      "name:es": "San Miguel"
+    }
+  },
+  {
+    "name": "San Miguel",
+    "country": "Argentina",
+    "latitude": -34.54034899979378,
+    "longitude": -58.7157491,
+    "other_names": {
+      "name": "San Miguel"
+    }
+  }
+]

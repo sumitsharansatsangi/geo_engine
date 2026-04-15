@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Colcapirhua",
+    "country": "Bolivia",
+    "latitude": -17.388448400474317,
+    "longitude": -66.2407672,
+    "other_names": {
+      "name": "Colcapirhua",
+      "name:qu": "Qullqapirwa"
+    }
+  },
+  {
+    "name": "Cold Lake",
+    "country": "Canada",
+    "latitude": 54.46045999927618,
+    "longitude": -110.192871,
+    "other_names": {
+      "name": "Cold Lake"
+    }
+  },
+  {
+    "name": "Colima",
+    "country": "Mexico",
+    "latitude": 19.245190900330904,
+    "longitude": -103.72082799999998,
+    "other_names": {
+      "name": "Colima",
+      "name:en": "Colima",
+      "name:es": "Colima",
+      "name:pl": "Colima",
+      "name:ru": "Колима",
+      "name:uk": "Коліма",
+      "old_name": "Cōlimān"
+    }
+  },
+  {
+    "name": "Colina",
+    "country": "Chile",
+    "latitude": -33.20247199955757,
+    "longitude": -70.67491469999999,
+    "other_names": {
+      "name": "Colina"
+    }
+  },
+  {
+    "name": "College Station",
+    "country": "United States Of America",
+    "latitude": 30.59552889969015,
+    "longitude": -96.3071042,
+    "other_names": {
+      "name": "College Station"
+    }
+  },
+  {
+    "name": "Cologne",
+    "country": "Germany",
+    "latitude": 50.93836099926024,
+    "longitude": 6.959974,
+    "other_names": {
+      "name": "Köln",
+      "name:af": "Keulen",
+      "name:ar": "كولونيا",
+      "name:be": "Кёльн",
+      "name:bg": "Кьолн",
+      "name:bs": "Köln",
+      "name:ca": "Colònia",
+      "name:cs": "Kolín nad Rýnem",
+      "name:cy": "Cwlen",
+      "name:da": "Köln",
+      "name:de": "Köln",
+      "name:el": "Κολωνία",
+      "name:en": "Cologne",
+      "name:eo": "Kolonjo",
+      "name:es": "Colonia",
+      "name:et": "Köln",
+      "name:eu": "Kolonia",
+      "name:fa": "کلن",
+      "name:fi": "Köln",
+      "name:fr": "Cologne",
+      "name:fy": "Keulen",
+      "name:ga": "Köln",
+      "name:gl": "Colonia",
+      "name:he": "קלן",
+      "name:hi": "कलोन्",
+      "name:hr": "Köln",
+      "name:hu": "Köln",
+      "name:ia": "Colonia",
+      "name:id": "Köln",
+      "name:io": "Köln",
+      "name:is": "Köln",
+      "name:it": "Colonia",
+      "name:ja": "ケルン",
+      "name:ka": "კელნი",
+      "name:kn": "ಕಲೋನ್",
+      "name:ko": "쾰른",
+      "name:ku": "Köln",
+      "name:la": "Colonia Agrippina",
+      "name:lb": "Köln",
+      "name:li": "Kölle",
+      "name:lt": "Kelnas",
+      "name:lv": "Ķelne",
+      "name:mk": "Келн",
+      "name:mr": "क्योल्न",
+      "name:ms": "Cologne",
+      "name:nl": "Keulen",
+      "name:nn": "Köln",
+      "name:no": "Köln",
+      "name:oc": "Colonha",
+      "name:pl": "Kolonia",
+      "name:pt": "Colônia",
+      "name:qu": "Köln",
+      "name:ro": "Köln",
+      "name:ru": "Кёльн",
+      "name:sh": "Köln",
+      "name:sk": "Kolín nad Rýnom",
+      "name:sl": "Köln",
+      "name:sq": "Këllni",
+      "name:sr": "Келн",
+      "name:sv": "Köln",
+      "name:sw": "Köln",
+      "name:th": "โคโลญ",
+      "name:tl": "Cologne",
+      "name:tr": "Köln",
+      "name:uk": "Кельн",
+      "name:vi": "Köln",
+      "name:vo": "Köln",
+      "name:yi": "קעלן",
+      "name:zh": "科隆",
+      "name:zu": "Köln",
+      "loc_name": "Kölle",
+      "name:als": "Köln",
+      "name:dsb": "Köln",
+      "name:ksh": "Kölle",
+      "name:nds": "Köln",
+      "name:pam": "Cologne",
+      "name:scn": "Culonia",
+      "name:vec": "Cołogna",
+      "name:wuu": "看勒尔",
+      "name:yue": "古龍",
+      "old_name": "Cöln;Coellen",
+      "reg_name": "Kölle",
+      "alt_name:gl": "Köln",
+      "alt_name:la": "Colonia Claudia Ara Agrippinensium",
+      "name:bat-smg": "Kiolns",
+      "name:zh-Hans": "科隆",
+      "name:zh-Hant": "科隆",
+      "name:zh_pinyin": "Kēlóng"
+    }
+  },
+  {
+    "name": "Colombo",
+    "country": "Sri Lanka",
+    "latitude": 6.938746899407006,
+    "longitude": 79.85411339999999,
+    "other_names": {
+      "name": "කොළඹ",
+      "name:am": "ኮሎምቦ",
+      "name:ar": "كولمبو",
+      "name:az": "Kolombo",
+      "name:be": "Каломба",
+      "name:bg": "Коломбо",
+      "name:bn": "কলম্বো",
+      "name:bo": "ཁོ་ལུམ་པོ།",
+      "name:cs": "Kolombo",
+      "name:de": "Colombo",
+      "name:dv": "ކޮޅުނބު",
+      "name:el": "Κολόμπο",
+      "name:en": "Colombo",
+      "name:eo": "Kolombo",
+      "name:es": "Colombo",
+      "name:et": "Colombo",
+      "name:eu": "Kolonbo",
+      "name:fa": "کلمبو",
+      "name:fr": "Colombo",
+      "name:fy": "Kolombo",
+      "name:gu": "કોલંબો",
+      "name:he": "קולומבו",
+      "name:hi": "कोलंबो",
+      "name:ht": "Kolonbo",
+      "name:hu": "Colombo",
+      "name:id": "Kolombo",
+      "name:it": "Colombo",
+      "name:ja": "コロンボ",
+      "name:ka": "კოლომბო",
+      "name:kn": "ಕೊಲಂಬೊ",
+      "name:ko": "콜롬보",
+      "name:lt": "Kolombas",
+      "name:lv": "Kolombo",
+      "name:ml": "കൊളംബോ",
+      "name:mn": "Коломбо",
+      "name:mr": "कोलंबो",
+      "name:nl": "Colombo",
+      "name:oc": "Colombo",
+      "name:os": "Коломбо",
+      "name:pl": "Kolombo",
+      "name:ru": "Коломбо",
+      "name:si": "කොළඹ",
+      "name:sk": "Kolombo",
+      "name:so": "Kolonbo",
+      "name:sr": "Коломбо",
+      "name:sv": "Colombo",
+      "name:ta": "கொழும்பு",
+      "name:te": "కొలంబో",
+      "name:tg": "Коломбо",
+      "name:th": "โคลัมโบ",
+      "name:tr": "Kolombo",
+      "name:ug": "كولومبو",
+      "name:uk": "Коломбо",
+      "name:ur": "کولمبو",
+      "name:zh": "科伦坡",
+      "int_name": "Colombo",
+      "name:nov": "Kolombo",
+      "name:yue": "哥林堡",
+      "name:zh-Hant": "可倫坡"
+    }
+  },
+  {
+    "name": "Colombo",
+    "country": "Brazil",
+    "latitude": -25.292543899737055,
+    "longitude": -49.2243472,
+    "other_names": {
+      "name": "Colombo"
+    }
+  },
+  {
+    "name": "Colón",
+    "country": "Cuba",
+    "latitude": 22.71620130039374,
+    "longitude": -80.9052014,
+    "other_names": {
+      "name": "Colón",
+      "name:ru": "Колон",
+      "name:uk": "Колон"
+    }
+  },
+  {
+    "name": "Coloncito",
+    "country": "Venezuela",
+    "latitude": 8.329676199391173,
+    "longitude": -72.0891631,
+    "other_names": {
+      "name": "Coloncito"
+    }
+  },
+  {
+    "name": "Colonia del Sacramento",
+    "country": "Uruguay",
+    "latitude": -34.46985919977975,
+    "longitude": -57.843367900000004,
+    "other_names": {
+      "name": "Colonia del Sacramento",
+      "name:pt": "Colônia do Sacramento",
+      "name:abbreviation": "Colonia"
+    }
+  },
+  {
+    "name": "Colonia Tovar",
+    "country": "Venezuela",
+    "latitude": 10.40865709946001,
+    "longitude": -67.283695,
+    "other_names": {
+      "name": "Colonia Tovar"
+    }
+  },
+  {
+    "name": "Colorado Springs",
+    "country": "United States Of America",
+    "latitude": 38.83395780010182,
+    "longitude": -104.8253485,
+    "other_names": {
+      "name": "Colorado Springs",
+      "name:ru": "Колорадо-Спрингс"
+    }
+  },
+  {
+    "name": "Columbia",
+    "country": "United States Of America",
+    "latitude": 34.000749299601736,
+    "longitude": -81.0343313,
+    "other_names": {
+      "name": "Columbia",
+      "name:en": "Columbia",
+      "name:pl": "Columbia",
+      "name:ru": "Колумбия",
+      "name:ta": "கொலம்பியா",
+      "name:uk": "Колумбія"
+    }
+  },
+  {
+    "name": "Columbia",
+    "country": "United States Of America",
+    "latitude": 38.95188300011894,
+    "longitude": -92.33373659999998,
+    "other_names": {
+      "name": "Columbia"
+    }
+  },
+  {
+    "name": "Columbia",
+    "country": "United States Of America",
+    "latitude": 39.21562130015708,
+    "longitude": -76.8582049,
+    "other_names": {
+      "name": "Columbia"
+    }
+  },
+  {
+    "name": "Columbus",
+    "country": "United States Of America",
+    "latitude": 39.962260100262185,
+    "longitude": -83.0007065,
+    "other_names": {
+      "name": "Columbus",
+      "name:ar": "كولومبوس",
+      "name:en": "Columbus",
+      "name:pl": "Columbus",
+      "name:ru": "Колумбус",
+      "name:ta": "கொலம்பஸ்",
+      "name:uk": "Колумбус"
+    }
+  },
+  {
+    "name": "Columbus",
+    "country": "United States Of America",
+    "latitude": 41.429625800437144,
+    "longitude": -97.36842939999998,
+    "other_names": {
+      "name": "Columbus"
+    }
+  },
+  {
+    "name": "Columbus",
+    "country": "United States Of America",
+    "latitude": 32.46107079959475,
+    "longitude": -84.98804490000002,
+    "other_names": {
+      "name": "Columbus",
+      "name:en": "Columbus",
+      "name:ru": "Колумбус",
+      "name:uk": "Колумбус"
+    }
+  },
+  {
+    "name": "Comai",
+    "country": "China",
+    "latitude": 28.441366499897377,
+    "longitude": 91.4319753,
+    "other_names": {
+      "name": "措美县",
+      "name:bo": "མཚོ་སམད",
+      "name:en": "Comai",
+      "name:ru": "Цомэ",
+      "name:uk": "Цоме",
+      "name:zh": "措美县",
+      "alt_name": "措美县;措美镇",
+      "int_name": "cuomei xian",
+      "name:zh-Hant": "措美縣",
+      "name:zh_pinyin": "Cuòměi Xiàn"
+    }
+  }
+]

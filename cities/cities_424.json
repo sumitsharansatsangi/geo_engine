@@ -1,0 +1,291 @@
+[
+  {
+    "name": "Saurimo",
+    "country": "Angola",
+    "latitude": -9.658930299884846,
+    "longitude": 20.398111799999995,
+    "other_names": {
+      "name": "Saurimo",
+      "name:el": "Σαουρίμο",
+      "name:ru": "Сауримо",
+      "name:uk": "Сауримо"
+    }
+  },
+  {
+    "name": "Savalou",
+    "country": "Benin",
+    "latitude": 7.9297323993906295,
+    "longitude": 1.9780951,
+    "other_names": {
+      "name": "Savalou",
+      "name:ar": "سافالو",
+      "name:ru": "Савалу",
+      "name:uk": "Савалу"
+    }
+  },
+  {
+    "name": "Savannah",
+    "country": "United States Of America",
+    "latitude": 32.080926299605665,
+    "longitude": -81.09117679999999,
+    "other_names": {
+      "name": "Savannah",
+      "name:en": "Savannah",
+      "name:ru": "Саванна",
+      "name:uk": "Саванна"
+    }
+  },
+  {
+    "name": "Savannakhet",
+    "country": "Laos",
+    "latitude": 16.563604400088177,
+    "longitude": 104.75098559999999,
+    "other_names": {
+      "name": "ສະຫວັນນະເຂດ",
+      "name:en": "Savannakhet",
+      "name:lo": "ສະຫວັນນະເຂດ",
+      "name:th": "ไกสอน พมวิหาน",
+      "old_name": "ຄັນທະບູລີ",
+      "old_name:en": "Khanthabouli",
+      "old_name:lo": "ຄັນທະບູລີ",
+      "official_name": "ໄກສອນ ພົມວິຫານ",
+      "official_name:en": "Kaysone Phomvihane",
+      "official_name:lo": "ໄກສອນ ພົມວິຫານ"
+    }
+  },
+  {
+    "name": "Savar",
+    "country": "Bangladesh",
+    "latitude": 23.847700000342268,
+    "longitude": 90.2587,
+    "other_names": {
+      "name": "সাভার",
+      "name:bn": "সাভার",
+      "name:de": "Sabhar",
+      "name:en": "Savar",
+      "name:es": "Savar",
+      "name:fr": "Sabhar",
+      "name:ja": "シャバール",
+      "name:kn": "ಸಾಭಾರ್",
+      "name:ru": "Савар",
+      "alt_name:en": "Shabhar"
+    }
+  },
+  {
+    "name": "Saveh",
+    "country": "Iran",
+    "latitude": 35.020613299653064,
+    "longitude": 50.35848339999999,
+    "other_names": {
+      "name": "ساوه",
+      "name:en": "Saveh",
+      "name:hi": "सावे",
+      "name:ru": "Саве",
+      "name:sl": "Saveh",
+      "int_name": "Saveh"
+    }
+  },
+  {
+    "name": "Savona",
+    "country": "Italy",
+    "latitude": 44.30802510051944,
+    "longitude": 8.4810315,
+    "other_names": {
+      "name": "Savona",
+      "name:el": "Σαβόνα",
+      "name:en": "Savona",
+      "name:eo": "Savono",
+      "name:fr": "Savone",
+      "name:it": "Savona",
+      "name:oc": "Savòna",
+      "name:ru": "Савона",
+      "name:zh": "萨沃纳",
+      "name:lij": "Sann-a"
+    }
+  },
+  {
+    "name": "Sawahlunto",
+    "country": "Indonesia",
+    "latitude": -0.6818140999322291,
+    "longitude": 100.778552,
+    "other_names": {
+      "name": "Sawahlunto",
+      "name:ja": "サワルント"
+    }
+  },
+  {
+    "name": "Sawai Madhopur",
+    "country": "India",
+    "latitude": 26.018891900162323,
+    "longitude": 76.3522441,
+    "other_names": {
+      "name": "Sawai Madhopur",
+      "name:hi": "सवाई माधोपुर"
+    }
+  },
+  {
+    "name": "Sawakin",
+    "country": "Sudan",
+    "latitude": 19.10307100032154,
+    "longitude": 37.331236,
+    "other_names": {
+      "name": "سواكن",
+      "name:ar": "سواكن",
+      "name:de": "Sawakin",
+      "name:en": "Sawakin",
+      "name:es": "Suakin",
+      "name:fr": "Suakin",
+      "alt_name": "Suakin",
+      "alt_name:ar": "سأكن"
+    }
+  },
+  {
+    "name": "Sawdiri",
+    "country": "Sudan",
+    "latitude": 14.412297599838013,
+    "longitude": 29.102615800000002,
+    "other_names": {
+      "name": "سودري",
+      "name:ar": "سودري",
+      "name:en": "Sawdiri",
+      "name:fr": "Sudri",
+      "alt_name": "Sawdiri;Sodiri;Soderi;Sodari;Sawdirī",
+      "alt_name:ar": "سودر"
+    }
+  },
+  {
+    "name": "Sayaboury",
+    "country": "Laos",
+    "latitude": 19.26531070033219,
+    "longitude": 101.70592289999999,
+    "other_names": {
+      "name": "ໄຊຍະບູລີ",
+      "name:en": "Sayaboury",
+      "name:eo": "Sainjabuli",
+      "name:fa": "ساینیابولی",
+      "name:id": "Xaignabouli",
+      "name:it": "Sainyabuli",
+      "name:ja": "サイニャブリー",
+      "name:ka": "საინიაბული",
+      "name:lo": "ໄຊຍະບູລີ",
+      "name:lt": "Sainjabulis",
+      "name:nl": "Muang Sayaburi",
+      "name:pl": "Muang Xaignabouli",
+      "name:ru": "Сайнябули",
+      "name:th": "ไชยบุรี",
+      "name:uk": "Сайнябулі",
+      "name:ur": "سائنیابولی",
+      "name:vi": "Xay Nha Bu Ly",
+      "name:zh": "沙耶武里",
+      "alt_name": "Sainyabuli;Xaignabouli;Xayaburi;Xayaboury",
+      "name:lo_rm": "Xaignabouli",
+      "alt_name:vi": "Xay Nha Bu Li; Xaynhabuly; Xaynhabuli; Xayabury; Xayaburi"
+    }
+  },
+  {
+    "name": "Sayama",
+    "country": "Japan",
+    "latitude": 35.85289709972123,
+    "longitude": 139.4122999,
+    "other_names": {
+      "name": "狭山市",
+      "name:en": "Sayama",
+      "name:fr": "Sayama",
+      "name:ja": "狭山市",
+      "name:ko": "사야마시",
+      "name:pl": "Sayama",
+      "name:ru": "Саяма",
+      "name:uk": "Саяма",
+      "name:ja_rm": "Sayama-shi",
+      "name:ja_kana": "さやまし"
+    }
+  },
+  {
+    "name": "Sayat",
+    "country": "Turkmenistan",
+    "latitude": 38.78275320009439,
+    "longitude": 63.88301019999999,
+    "other_names": {
+      "name": "Saýat",
+      "name:en": "Sayat",
+      "name:tk": "Saýat"
+    }
+  },
+  {
+    "name": "Saybagh",
+    "country": "China",
+    "latitude": 43.79987730053815,
+    "longitude": 87.59478949999999,
+    "other_names": {
+      "name": "沙依巴克区",
+      "name:en": "Saybagh",
+      "name:ug": "سايباغ رايونى",
+      "name:uk": "Шайбах",
+      "name:zh": "沙依巴克区",
+      "alt_name": "沙依巴克区;Saybagh District;Saybagh Qu;Shayibake",
+      "name:zh-Hant": "沙依巴克區"
+    }
+  },
+  {
+    "name": "Say'un",
+    "country": "Yemen",
+    "latitude": 15.94408110001805,
+    "longitude": 48.7925786,
+    "other_names": {
+      "name": "سيئون",
+      "name:ar": "سيئون",
+      "name:de": "Say'un",
+      "name:en": "Say'un",
+      "name:fr": "Say'un",
+      "alt_name": "Saiwun;Saywūn;Saywun;Saiwūn;Sai'un;Sai’un",
+      "int_name": "Say’ūn"
+    }
+  },
+  {
+    "name": "Sayyid Dakhil",
+    "country": "Iraq",
+    "latitude": 31.130960699652626,
+    "longitude": 46.433779,
+    "other_names": {
+      "name": "سيد دخيل",
+      "name:ar": "سيد دخيل",
+      "name:de": "Sayyid Dakhil",
+      "name:en": "Sayyid Dakhil",
+      "name:fr": "Sayyid Dakhil",
+      "alt_name": "Sayyid Dakhīl, Sayyid Dakhil",
+      "int_name": "Sayyid Dakhil - سيد دخيل"
+    }
+  },
+  {
+    "name": "Schenectady",
+    "country": "United States Of America",
+    "latitude": 42.814243200531045,
+    "longitude": -73.9395687,
+    "other_names": {
+      "name": "Schenectady",
+      "name:en": "Schenectady",
+      "name:ru": "Скенектади",
+      "name:uk": "Скенектаді"
+    }
+  },
+  {
+    "name": "Scottsbluff",
+    "country": "United States Of America",
+    "latitude": 41.86230200047561,
+    "longitude": -103.66270879999999,
+    "other_names": {
+      "name": "Scottsbluff"
+    }
+  },
+  {
+    "name": "Scottsdale",
+    "country": "United States Of America",
+    "latitude": 33.4942188995901,
+    "longitude": -111.92601839999999,
+    "other_names": {
+      "name": "Scottsdale",
+      "name:ru": "Скоттсдейл",
+      "name:uk": "Скоттсдейл"
+    }
+  }
+]

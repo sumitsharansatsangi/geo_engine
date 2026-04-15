@@ -1,0 +1,300 @@
+[
+  {
+    "name": "McAllen",
+    "country": "United States Of America",
+    "latitude": 26.204369100143307,
+    "longitude": -98.230082,
+    "other_names": {
+      "name": "McAllen"
+    }
+  },
+  {
+    "name": "McKinney",
+    "country": "United States Of America",
+    "latitude": 33.19764959958759,
+    "longitude": -96.6154471,
+    "other_names": {
+      "name": "McKinney"
+    }
+  },
+  {
+    "name": "Meadow Lake",
+    "country": "Canada",
+    "latitude": 54.130259999207766,
+    "longitude": -108.435059,
+    "other_names": {
+      "name": "Meadow Lake"
+    }
+  },
+  {
+    "name": "Mealhada",
+    "country": "Portugal",
+    "latitude": 40.37920030031738,
+    "longitude": -8.451773299999997,
+    "other_names": {
+      "name": "Mealhada",
+      "name:uk": "Меальяда"
+    }
+  },
+  {
+    "name": "Mecheria",
+    "country": "Algeria",
+    "latitude": 33.542841499590814,
+    "longitude": -0.2750523999999999,
+    "other_names": {
+      "name": "Méchria ⵎⴻⵛⵔⵉⵢⴰ المشرية",
+      "name:ar": "المشرية",
+      "name:el": "Μετσερία",
+      "name:en": "Mecheria",
+      "name:fr": "Méchria",
+      "name:ber": "ⵎⴻⵛⵔⵉⵢⴰ",
+      "name:kab": "Mecriya",
+      "alt_name:ar": "مشرية"
+    }
+  },
+  {
+    "name": "Mêda",
+    "country": "Portugal",
+    "latitude": 40.96629620038838,
+    "longitude": -7.2637352,
+    "other_names": {
+      "name": "Mêda"
+    }
+  },
+  {
+    "name": "Medan",
+    "country": "Indonesia",
+    "latitude": 3.5896653996250065,
+    "longitude": 98.6738261,
+    "other_names": {
+      "name": "Medan",
+      "name:en": "Medan",
+      "name:hi": "मॆदान्",
+      "name:id": "Medan",
+      "name:ja": "メダン",
+      "name:kn": "ಮೆದಾನ್",
+      "name:lt": "Medanas",
+      "name:oc": "Medan",
+      "name:pt": "Medan",
+      "name:ru": "Медан",
+      "name:uk": "Медан",
+      "name:zh": "棉兰",
+      "official_name": "Kota Medan"
+    }
+  },
+  {
+    "name": "Medea",
+    "country": "Algeria",
+    "latitude": 36.26534399976292,
+    "longitude": 2.7669569999999997,
+    "other_names": {
+      "name": "Médéa ⵎⴷⵉⵢⵢⴰ المدية",
+      "name:ar": "المدية",
+      "name:el": "Μεντέα",
+      "name:en": "Medea",
+      "name:es": "Médéa",
+      "name:fr": "Médéa",
+      "name:it": "Médéa",
+      "name:ja": "メデア",
+      "name:lt": "Medėja",
+      "name:ru": "Медеа",
+      "name:zh": "麦迪亚",
+      "name:ber": "ⵍⴻⵎⴷⵉⵢⴰ",
+      "name:kab": "Lemdiya"
+    }
+  },
+  {
+    "name": "Medellín",
+    "country": "Colombia",
+    "latitude": 6.244338199433004,
+    "longitude": -75.573553,
+    "other_names": {
+      "name": "Medellín",
+      "name:ar": "ميديلين",
+      "name:en": "Medellín",
+      "name:fa": "مدئین",
+      "name:mk": "Медељин",
+      "name:oc": "Medellín",
+      "name:pt": "Medellín",
+      "name:ru": "Медельин",
+      "name:uk": "Медельїн",
+      "name:ur": "میڈیئن",
+      "name:arz": "ميديللين",
+      "name:pnb": "میڈیلن"
+    }
+  },
+  {
+    "name": "Medford",
+    "country": "United States Of America",
+    "latitude": 42.32641810050805,
+    "longitude": -122.87186050000001,
+    "other_names": {
+      "name": "Medford",
+      "name:en": "Medford",
+      "name:ja": "メドフォード",
+      "name:ru": "Медфорд",
+      "name:uk": "Медфорд"
+    }
+  },
+  {
+    "name": "Medgidia",
+    "country": "Romania",
+    "latitude": 44.25913042765686,
+    "longitude": 28.268508597314952,
+    "other_names": {
+      "name": "Medgidia",
+      "name:ru": "Меджидия"
+    }
+  },
+  {
+    "name": "Medgidia",
+    "country": "Romania",
+    "latitude": 44.24117938962687,
+    "longitude": 28.27907439052712,
+    "other_names": {
+      "name": "Medgidia",
+      "name:ru": "Меджидия"
+    }
+  },
+  {
+    "name": "Medgidia",
+    "country": "Romania",
+    "latitude": 44.24430010052264,
+    "longitude": 28.269625,
+    "other_names": {
+      "name": "Medgidia",
+      "name:lt": "Medžidija",
+      "name:ru": "Меджидия",
+      "name:sr": "Меџидија",
+      "name:uk": "Меджидія"
+    }
+  },
+  {
+    "name": "Mediaș",
+    "country": "Romania",
+    "latitude": 46.16252120031656,
+    "longitude": 24.347385499999998,
+    "other_names": {
+      "name": "Mediaș",
+      "name:de": "Mediasch",
+      "name:hu": "Medgyes",
+      "name:lt": "Mediašas",
+      "name:ru": "Медиаш",
+      "name:sr": "Медијаш",
+      "name:uk": "Медіаш",
+      "name:gem": "Medwesch"
+    }
+  },
+  {
+    "name": "Medicine Hat",
+    "country": "Canada",
+    "latitude": 50.04302999944258,
+    "longitude": -110.679016,
+    "other_names": {
+      "name": "Medicine Hat",
+      "name:en": "Medicine Hat",
+      "name:ru": "Медисин-Хат",
+      "name:uk": "Медисин-Гет"
+    }
+  },
+  {
+    "name": "Medog",
+    "country": "China",
+    "latitude": 29.328451499803727,
+    "longitude": 95.3308869,
+    "other_names": {
+      "name": "墨脱县",
+      "name:bo": "མེ་ཏོག",
+      "name:en": "Medog",
+      "name:zh": "墨脱县",
+      "alt_name": "墨脱;Motuo;Motuo County;Medog County;Metok",
+      "int_name": "Motuo",
+      "name:zh-Hant": "墨脫縣",
+      "name:zh_pinyin": "mòtuō xiàn"
+    }
+  },
+  {
+    "name": "Meerut",
+    "country": "India",
+    "latitude": 28.99632959983782,
+    "longitude": 77.7061915,
+    "other_names": {
+      "name": "Meerut",
+      "name:ar": "ميرت",
+      "name:de": "Meerut",
+      "name:en": "Meerut",
+      "name:es": "Meerut",
+      "name:fa": "میرت",
+      "name:fr": "Meerut",
+      "name:he": "מירוט",
+      "name:hi": "मेरठ",
+      "name:ja": "メーラト",
+      "name:kn": "ಮೀರಟ್",
+      "name:pa": "ਮੇਰਠ",
+      "name:ru": "Мирут",
+      "name:ta": "மீரட்",
+      "name:uk": "Мірут",
+      "name:ur": "میرٹھ",
+      "old_name": "मयराष्ट्र",
+      "alt_name:ar": "ميروت",
+      "alt_name:fa": "میروت;مرتا",
+      "alt_name:hi": "मेरठ"
+    }
+  },
+  {
+    "name": "Meguro",
+    "country": "Japan",
+    "latitude": 35.621249999700034,
+    "longitude": 139.688014,
+    "other_names": {
+      "name": "目黒区",
+      "name:ar": "ميغورو، طوكيو",
+      "name:de": "Meguro",
+      "name:en": "Meguro",
+      "name:es": "Meguro",
+      "name:fr": "Meguro",
+      "name:it": "Meguro",
+      "name:ja": "目黒区",
+      "name:ko": "메구로구",
+      "name:lt": "Meguras",
+      "name:pl": "Meguro",
+      "name:ru": "Мэгуро",
+      "name:uk": "Меґуро",
+      "int_name": "Meguro",
+      "name:ja-Hira": "めぐろく",
+      "name:ja-Latn": "Meguro-ku"
+    }
+  },
+  {
+    "name": "Mehar",
+    "country": "Pakistan",
+    "latitude": 27.17974000003797,
+    "longitude": 67.8227579,
+    "other_names": {
+      "name": "میہڑ‎",
+      "name:en": "Mehar",
+      "name:ru": "Мехар",
+      "alt_name": "Mihar"
+    }
+  },
+  {
+    "name": "Meherpur",
+    "country": "India",
+    "latitude": 23.77514750034656,
+    "longitude": 88.6311437,
+    "other_names": {
+      "name": "মেহেরপুর",
+      "name:ar": "مهربور",
+      "name:bn": "মেহেরপুর",
+      "name:de": "Meherpur",
+      "name:en": "Meherpur",
+      "name:es": "Meherpur",
+      "name:et": "Meherpur",
+      "name:fa": "مهرپور",
+      "name:fr": "Meherpur",
+      "name:kn": "ಮೇಹೇರ್ ಪುರ",
+      "name:ur": "مہر پور",
+      "alt_name:ar": "ميهربور"
+    }
+  }
+]

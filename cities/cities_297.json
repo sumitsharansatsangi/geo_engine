@@ -1,0 +1,334 @@
+[
+  {
+    "name": "Mazar i sharif",
+    "country": "Afghanistan",
+    "latitude": 36.70993109981304,
+    "longitude": 67.10921449999998,
+    "other_names": {
+      "name": "مزار شريف",
+      "name:ar": "مزار شريف",
+      "name:cs": "Mazár-e Šaríf",
+      "name:de": "Masar-e Scharif",
+      "name:el": "Μαζάρι Σαρίφ",
+      "name:en": "Mazar i sharif",
+      "name:es": "Mazari Sharif",
+      "name:et": "Mazār-e Sharīf",
+      "name:fa": "‏مزار شريف",
+      "name:fr": "Mazar-e-Charif",
+      "name:hi": "मज़ार-ए-शरीफ़",
+      "name:hu": "Mazari Sharif",
+      "name:ja": "マザーリシャリーフ",
+      "name:lt": "Mazari Šarifas",
+      "name:ru": "Мазари-Шариф",
+      "name:uk": "Мазарі-Шаріф",
+      "int_name": "Mazâr-e Sharîf"
+    }
+  },
+  {
+    "name": "Mazatenango",
+    "country": "Guatemala",
+    "latitude": 14.533148999852198,
+    "longitude": -91.5060031,
+    "other_names": {
+      "name": "Mazatenango"
+    }
+  },
+  {
+    "name": "Mazatlán",
+    "country": "Mexico",
+    "latitude": 23.231305300374487,
+    "longitude": -106.41531440000001,
+    "other_names": {
+      "name": "Mazatlán",
+      "name:en": "Mazatlán",
+      "name:km": "ក្រុងម៉ាសាត្លាន",
+      "name:ru": "Масатлан"
+    }
+  },
+  {
+    "name": "Mazhang",
+    "country": "China",
+    "latitude": 21.26650030040819,
+    "longitude": 110.3291701,
+    "other_names": {
+      "name": "麻章区",
+      "name:de": "Mazhang",
+      "name:en": "Mazhang",
+      "name:fa": "ناحیه ماژانگ",
+      "name:fr": "District de Mazhang",
+      "name:it": "Distretto di Mazhang",
+      "name:ja": "麻章区",
+      "name:ko": "마장구",
+      "name:no": "Mazhang",
+      "name:sv": "Mazhang",
+      "name:vi": "Ma Chương",
+      "name:zh": "麻章区",
+      "alt_name": "麻章;Mazhang District",
+      "name:ceb": "Mazhang Qu",
+      "name:hak": "Mà-chông-khî",
+      "name:mwl": "Mazhang",
+      "name:nan": "Moâ-chiong-khu",
+      "name:yue": "麻章",
+      "name:zh-Hant": "麻章區",
+      "name:zh_pinyin": "Mázhāng Qū"
+    }
+  },
+  {
+    "name": "Mazyr",
+    "country": "Belarus",
+    "latitude": 52.04754639911351,
+    "longitude": 29.2667179,
+    "other_names": {
+      "name": "Мозырь",
+      "name:az": "Mozir",
+      "name:be": "Мазыр",
+      "name:cs": "Mazyr",
+      "name:da": "Mazyr",
+      "name:de": "Masyr",
+      "name:en": "Mazyr",
+      "name:eo": "Mazir",
+      "name:es": "Mazyr",
+      "name:et": "Mazõr",
+      "name:fi": "Mazyr",
+      "name:fr": "Mazyr",
+      "name:hu": "Mazir",
+      "name:ka": "მოზირი",
+      "name:km": "មសមុទ្រ",
+      "name:ko": "마지르",
+      "name:lt": "Mozyrius",
+      "name:lv": "Mazira",
+      "name:nl": "Mozir",
+      "name:pl": "Mozyrz",
+      "name:pt": "Masyr",
+      "name:ro": "Mazâr",
+      "name:ru": "Мозырь",
+      "name:sr": "Мозир",
+      "name:th": "มาซีร์",
+      "name:uk": "Мазир",
+      "name:uz": "Mozir",
+      "name:yi": "מאזיר",
+      "name:zh": "莫济里",
+      "int_name": "Mazyr",
+      "old_name:es": "Mózyr",
+      "old_name:hu": "Mozir",
+      "old_name:uk": "Мозир",
+      "name:bat-smg": "Mozīrios",
+      "name:be-tarask": "Мазыр"
+    }
+  },
+  {
+    "name": "Mbabane",
+    "country": "Swaziland",
+    "latitude": -26.325744999595543,
+    "longitude": 31.144663,
+    "other_names": {
+      "name": "Mbabane",
+      "name:am": "ምባባኔ",
+      "name:ar": "مبابان",
+      "name:be": "Мбабанэ",
+      "name:bg": "Мбабане",
+      "name:bo": "མ་པ་པན།",
+      "name:de": "Mbabane",
+      "name:el": "Μπαμπάνε",
+      "name:en": "Mbabane",
+      "name:eo": "Mbabano",
+      "name:es": "Mbabane",
+      "name:fa": "مبابانه",
+      "name:fr": "Mbabane",
+      "name:he": "מבבנה",
+      "name:ht": "Mbabàn",
+      "name:hu": "Mbabane",
+      "name:hy": "Մբաբանե",
+      "name:is": "Mbabane",
+      "name:ja": "ムババーネ",
+      "name:ka": "მბაბანე",
+      "name:ko": "음바바네",
+      "name:ky": "Мбабане",
+      "name:lt": "Mbabanė",
+      "name:mk": "Мбабане",
+      "name:mr": "अंबाबाने",
+      "name:pl": "Mbabane",
+      "name:ru": "Мбабане",
+      "name:so": "Mabane",
+      "name:sr": "Мбабане",
+      "name:ss": "ÉMbábáne",
+      "name:sv": "Mbabane",
+      "name:ta": "இம்பபான்",
+      "name:tg": "Мбабане",
+      "name:th": "อัมบาบาเน",
+      "name:uk": "Мбабане",
+      "name:ur": "مبابنے",
+      "name:zh": "姆巴巴內",
+      "name:ckb": "مبابانێ",
+      "name:pnb": "مبابین",
+      "name:udm": "Мбабане"
+    }
+  },
+  {
+    "name": "Mbaïki",
+    "country": "Central African Republic",
+    "latitude": 3.8728277995988507,
+    "longitude": 17.9860847,
+    "other_names": {
+      "name": "Mbaïki",
+      "name:ru": "Мбаики",
+      "name:uk": "Мбаїкі"
+    }
+  },
+  {
+    "name": "Mbale",
+    "country": "Uganda",
+    "latitude": 1.0711895998868088,
+    "longitude": 34.174950599999995,
+    "other_names": {
+      "name": "Mbale",
+      "name:ru": "Мбале"
+    }
+  },
+  {
+    "name": "Mbalmayo",
+    "country": "Cameroon",
+    "latitude": 3.5151969996320545,
+    "longitude": 11.503113999999998,
+    "other_names": {
+      "name": "Mbalmayo",
+      "name:ru": "Мбальмайо",
+      "alt_name": "Vimili"
+    }
+  },
+  {
+    "name": "Mbandaka",
+    "country": "Congo Democratic Republic",
+    "latitude": 0.04707319999516596,
+    "longitude": 18.256480299999996,
+    "other_names": {
+      "name": "Mbandaka",
+      "name:en": "Mbandaka",
+      "name:ko": "음반다카",
+      "name:ru": "Мбандака",
+      "name:uk": "Мбандака"
+    }
+  },
+  {
+    "name": "Mbandaka",
+    "country": "Congo Democratic Republic",
+    "latitude": 0.0396310698647487,
+    "longitude": 18.268412404108062,
+    "other_names": {
+      "name": "Mbandaka",
+      "name:ru": "Моандака"
+    }
+  },
+  {
+    "name": "M'banza Congo",
+    "country": "Angola",
+    "latitude": -6.267820399689282,
+    "longitude": 14.241795699999999,
+    "other_names": {
+      "name": "M'banza Congo",
+      "name:el": "Μ'μπάνζα Κόνγκο",
+      "name:ko": "음반자콩구",
+      "name:ru": "Мбанза-Конго",
+      "name:uk": "М'Банза-Конго"
+    }
+  },
+  {
+    "name": "Mbanza-Ngungu",
+    "country": "Congo Democratic Republic",
+    "latitude": -5.250008599680499,
+    "longitude": 14.866661400000002,
+    "other_names": {
+      "name": "Mbanza-Ngungu",
+      "name:ko": "음반자응궁구",
+      "name:ru": "Мбанза-Нгунгу",
+      "old_name": "Thysville"
+    }
+  },
+  {
+    "name": "Mbarara",
+    "country": "Uganda",
+    "latitude": -0.6107895999390672,
+    "longitude": 30.653318100000003,
+    "other_names": {
+      "name": "Mbarara",
+      "name:ko": "음바라라",
+      "name:ru": "Мбарара",
+      "loc_name": "Mutti"
+    }
+  },
+  {
+    "name": "Mbeya",
+    "country": "Tanzania",
+    "latitude": -8.906507999822894,
+    "longitude": 33.468672000000005,
+    "other_names": {
+      "name": "Mbeya",
+      "name:en": "Mbeya",
+      "name:ko": "므베야",
+      "name:lt": "Mbeja",
+      "name:ru": "Мбея",
+      "name:uk": "Мбея"
+    }
+  },
+  {
+    "name": "Mbombela (Nelspruit)",
+    "country": "South Africa",
+    "latitude": -25.48194399971014,
+    "longitude": 30.984722,
+    "other_names": {
+      "name": "Mbombela (Nelspruit)",
+      "name:ko": "넬스프루이트",
+      "name:ru": "Нелспрёйт",
+      "old_name": "Nelspruit"
+    }
+  },
+  {
+    "name": "Mbombela (Nelspruit)",
+    "country": "South Africa And Lesotho",
+    "latitude": -25.48194399971014,
+    "longitude": 30.984722,
+    "other_names": {
+      "name": "Mbombela (Nelspruit)",
+      "name:ko": "넬스프루이트",
+      "name:ru": "Нелспрёйт",
+      "old_name": "Nelspruit"
+    }
+  },
+  {
+    "name": "Mbouda",
+    "country": "Cameroon",
+    "latitude": 5.627373999465466,
+    "longitude": 10.254744,
+    "other_names": {
+      "name": "Mbouda"
+    }
+  },
+  {
+    "name": "M'bour",
+    "country": "Senegal And Gambia",
+    "latitude": 14.41179399983796,
+    "longitude": -16.9657124,
+    "other_names": {
+      "name": "M'bour",
+      "name:ar": "امبور"
+    }
+  },
+  {
+    "name": "Mbuji-Mayi",
+    "country": "Congo Democratic Republic",
+    "latitude": -6.1258941996865275,
+    "longitude": 23.599811099999997,
+    "other_names": {
+      "name": "Mbuji-Mayi",
+      "name:ar": "مبوجي-مايي",
+      "name:fr": "Mbuji-Mayi",
+      "name:ko": "음부지마이",
+      "name:ru": "Мбужи-Майи",
+      "name:zh": "姆布吉马伊",
+      "alt_name": "Mbujimayi",
+      "old_name": "Bakwanga",
+      "alt_name:ar": "مبوجيمايي",
+      "alt_name:fr": "Mbujimayi"
+    }
+  }
+]

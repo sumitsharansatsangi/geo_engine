@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Mityana",
+    "country": "Uganda",
+    "latitude": 0.40205089995820825,
+    "longitude": 32.0450101,
+    "other_names": {
+      "name": "Mityana"
+    }
+  },
+  {
+    "name": "Miura",
+    "country": "Japan",
+    "latitude": 35.155049899662544,
+    "longitude": 139.6406823,
+    "other_names": {
+      "name": "三浦市",
+      "name:en": "Miura",
+      "name:fr": "Miura",
+      "name:ja": "三浦市",
+      "name:ko": "미우라시",
+      "name:pl": "Miura",
+      "name:ru": "Миура",
+      "name:uk": "Міура",
+      "name:ja_rm": "Miura-shi",
+      "name:ja_kana": "みうらし"
+    }
+  },
+  {
+    "name": "Mixco",
+    "country": "Guatemala",
+    "latitude": 14.630717499863678,
+    "longitude": -90.60615949999999,
+    "other_names": {
+      "name": "Mixco",
+      "name:hu": "Villa De Mixco"
+    }
+  },
+  {
+    "name": "Miyako",
+    "country": "Japan",
+    "latitude": 39.63958350021751,
+    "longitude": 141.9461177,
+    "other_names": {
+      "name": "宮古市",
+      "name:ar": "مايكو، إيواته",
+      "name:de": "Miyako",
+      "name:en": "Miyako",
+      "name:es": "Miyako",
+      "name:fr": "Miyako",
+      "name:ja": "宮古市",
+      "name:ko": "미야코시",
+      "name:lt": "Mijakas",
+      "name:pl": "Miyako",
+      "name:ru": "Мияко",
+      "name:uk": "Міяко",
+      "int_name": "Miyako",
+      "name:ja_rm": "Miyako-shi",
+      "name:ja_kana": "みやこし"
+    }
+  },
+  {
+    "name": "Miyakojima",
+    "country": "Japan",
+    "latitude": 24.805464700274204,
+    "longitude": 125.28112959999997,
+    "other_names": {
+      "name": "宮古島市",
+      "name:ar": "مياكوجيما، أوكيناوا",
+      "name:de": "Miyakojima",
+      "name:en": "Miyakojima",
+      "name:es": "Miyakojima",
+      "name:fr": "Miyakojima",
+      "name:he": "מיאקוג'ימה",
+      "name:ja": "宮古島市",
+      "name:ko": "미야코지마시",
+      "name:pl": "Miyakojima",
+      "name:ru": "Миякодзима",
+      "name:uk": "Міякоджіма",
+      "name:zh": "宫古岛市",
+      "int_name": "Miyakojima",
+      "name:ja_rm": "Miyakojima-shi",
+      "name:ja_kana": "みやこじまし",
+      "name:zh-Hans": "宫古岛市",
+      "name:zh-Hant": "宮古島市"
+    }
+  },
+  {
+    "name": "Miyakonojo",
+    "country": "Japan",
+    "latitude": 31.71961059962034,
+    "longitude": 131.0612029,
+    "other_names": {
+      "name": "都城市",
+      "name:ar": "مياكونوجو، ميازاكي",
+      "name:de": "Miyakonojō",
+      "name:en": "Miyakonojo",
+      "name:es": "Miyakonojō",
+      "name:et": "Miyakonojō",
+      "name:fr": "Miyakonojō",
+      "name:hu": "Mijakonodzsó",
+      "name:ja": "都城市",
+      "name:ko": "미야코노조시",
+      "name:pl": "Miyakonojō",
+      "name:ru": "Мияконодзё",
+      "name:uk": "Міяконоджьо",
+      "name:zh": "都城市",
+      "int_name": "Miyakonojō",
+      "name:zh-Hans": "都城市",
+      "name:zh-Hant": "都城市"
+    }
+  },
+  {
+    "name": "Miyama",
+    "country": "Japan",
+    "latitude": 33.15236749958747,
+    "longitude": 130.4746267,
+    "other_names": {
+      "name": "みやま市",
+      "name:ar": "مياما، فوكوكا",
+      "name:de": "Miyama",
+      "name:en": "Miyama",
+      "name:es": "Miyama",
+      "name:fr": "Miyama",
+      "name:ja": "みやま市",
+      "name:ko": "미야마시",
+      "name:ru": "Мияма",
+      "name:uk": "Міяма",
+      "name:zh": "三山市",
+      "int_name": "Miyama",
+      "name:zh-Hans": "三山市",
+      "name:zh-Hant": "三山市"
+    }
+  },
+  {
+    "name": "Miyawaka",
+    "country": "Japan",
+    "latitude": 33.723589399594225,
+    "longitude": 130.6667511,
+    "other_names": {
+      "name": "宮若市",
+      "name:ar": "مياواكا، فوكوكا",
+      "name:de": "Miyawaka",
+      "name:en": "Miyawaka",
+      "name:es": "Miyawaka",
+      "name:fr": "Miyawaka",
+      "name:ja": "宮若市",
+      "name:ko": "미야와카시",
+      "name:ru": "Миявака",
+      "name:uk": "Міявака",
+      "name:zh": "宫若市",
+      "int_name": "Miyawaka",
+      "name:ja-Hira": "みやわかし",
+      "name:zh-Hans": "宫若市",
+      "name:zh-Hant": "宮若市"
+    }
+  },
+  {
+    "name": "Miyazaki",
+    "country": "Japan",
+    "latitude": 31.90763339961219,
+    "longitude": 131.4204022,
+    "other_names": {
+      "name": "宮崎市",
+      "name:ar": "يازاكي، ميازاكي",
+      "name:ca": "Miyazaki",
+      "name:cs": "Mijazaki",
+      "name:de": "Miyazaki",
+      "name:en": "Miyazaki",
+      "name:es": "Miyazaki",
+      "name:et": "Miyazaki",
+      "name:fr": "Miyazaki",
+      "name:hu": "Mijazaki",
+      "name:ja": "宮崎市",
+      "name:ko": "미야자키시",
+      "name:lt": "Mijadzakis",
+      "name:pl": "Miyazaki",
+      "name:ru": "Миядзаки",
+      "name:sr": "Мијазаки",
+      "name:uk": "Міядзакі",
+      "name:zh": "宫崎市",
+      "int_name": "Miyazaki",
+      "name:ja_rm": "Miyazaki-shi",
+      "name:ja_kana": "みやざきし",
+      "name:zh-Hans": "宫崎市",
+      "name:zh-Hant": "宮崎市"
+    }
+  },
+  {
+    "name": "Miyazu",
+    "country": "Japan",
+    "latitude": 35.581560499696565,
+    "longitude": 135.19927400000003,
+    "other_names": {
+      "name": "宮津市",
+      "name:ar": "ميازو، كيوتو",
+      "name:de": "Miyazu",
+      "name:en": "Miyazu",
+      "name:es": "Miyazu",
+      "name:fr": "Miyazu",
+      "name:ja": "宮津市",
+      "name:ko": "미야즈시",
+      "name:lt": "Mijadzu",
+      "name:pl": "Miyazu",
+      "name:ru": "Миядзу",
+      "name:uk": "Міядзу",
+      "name:ja_rm": "Miyazu-shi",
+      "name:ja_kana": "みやづし"
+    }
+  },
+  {
+    "name": "Miyi",
+    "country": "China",
+    "latitude": 26.895483600069372,
+    "longitude": 102.11016099999999,
+    "other_names": {
+      "name": "米易县",
+      "name:en": "Miyi",
+      "name:uk": "Мії",
+      "name:vi": "Mễ Dịch",
+      "name:zh": "米易县",
+      "alt_name": "Mi-i Hsien;Miyi County;米易",
+      "name:zh-Hant": "米易縣"
+    }
+  },
+  {
+    "name": "Miyoshi",
+    "country": "Japan",
+    "latitude": 34.02574969960254,
+    "longitude": 133.8071946,
+    "other_names": {
+      "name": "三好市",
+      "name:ar": "ميوشي، توكوشيما",
+      "name:de": "Miyoshi",
+      "name:en": "Miyoshi",
+      "name:es": "Miyoshi",
+      "name:fr": "Miyoshi",
+      "name:ja": "三好市",
+      "name:ko": "미요시시",
+      "name:ru": "Миёси",
+      "name:uk": "Мійоші",
+      "name:zh": "三好市",
+      "int_name": "Miyoshi",
+      "name:zh-Hans": "三好市",
+      "name:zh-Hant": "三好市"
+    }
+  },
+  {
+    "name": "Miyoshi",
+    "country": "Japan",
+    "latitude": 35.09933229965854,
+    "longitude": 137.099531,
+    "other_names": {
+      "name": "みよし市",
+      "name:ar": "ميوشي",
+      "name:de": "Miyoshi",
+      "name:en": "Miyoshi",
+      "name:es": "Miyoshi",
+      "name:fr": "Miyoshi",
+      "name:ja": "みよし市",
+      "name:ko": "미요시시",
+      "name:ru": "Миёси",
+      "name:uk": "Мійосі",
+      "name:zh": "三好市",
+      "name:ja_rm": "Miyoshi-shi"
+    }
+  },
+  {
+    "name": "Miyoshi",
+    "country": "Japan",
+    "latitude": 34.810239999639485,
+    "longitude": 132.851691,
+    "other_names": {
+      "name": "三次市",
+      "name:ar": "میوشي، هیروشیما",
+      "name:de": "Miyoshi",
+      "name:en": "Miyoshi",
+      "name:es": "Miyoshi",
+      "name:fr": "Miyoshi",
+      "name:ja": "三次市",
+      "name:ko": "미요시시",
+      "name:pl": "Miyoshi",
+      "name:ru": "Миёси",
+      "name:uk": "Мійосі",
+      "int_name": "Miyoshi"
+    }
+  },
+  {
+    "name": "Miyun",
+    "country": "China",
+    "latitude": 40.37510320031686,
+    "longitude": 116.8371838,
+    "other_names": {
+      "name": "密云区",
+      "name:en": "Miyun",
+      "name:ja": "密雲区",
+      "name:ru": "Миюнь",
+      "name:vi": "Mật Vân",
+      "name:zh": "密云区",
+      "alt_name": "密云;Miyun Xian;Mi-yun Hsien",
+      "name:zh-Hant": "密雲區",
+      "name:zh_pinyin": "Mìyún qū"
+    }
+  },
+  {
+    "name": "Mizda",
+    "country": "Libya",
+    "latitude": 31.446185814572864,
+    "longitude": 12.97821937158188,
+    "other_names": {
+      "name": "مزدة",
+      "name:ar": "مزدة",
+      "name:en": "Mizda",
+      "name:fr": "Mizda"
+    }
+  },
+  {
+    "name": "Mizhi",
+    "country": "China",
+    "latitude": 37.75885299994836,
+    "longitude": 110.1750103,
+    "other_names": {
+      "name": "米脂县",
+      "name:en": "Mizhi",
+      "name:ja": "米脂県",
+      "name:vi": "Ngân Châu",
+      "name:zh": "米脂县",
+      "alt_name": "米脂;银州街道;Yinzhou",
+      "int_name": "Yinzhou",
+      "old_name": "银州镇",
+      "name:zh-Hant": "米脂縣"
+    }
+  },
+  {
+    "name": "Mizuho",
+    "country": "Japan",
+    "latitude": 35.39196139968071,
+    "longitude": 136.6911268,
+    "other_names": {
+      "name": "瑞穂市",
+      "name:en": "Mizuho",
+      "name:fr": "Mizuho",
+      "name:ja": "瑞穂市",
+      "name:ko": "미즈호시",
+      "name:pl": "Mizuho",
+      "name:ru": "Мидзухо",
+      "name:uk": "Мідзухо",
+      "name:ja_rm": "Mizuho-shi",
+      "name:ja_kana": "みずほし"
+    }
+  },
+  {
+    "name": "Mizunami",
+    "country": "Japan",
+    "latitude": 35.361992899678306,
+    "longitude": 137.2541668,
+    "other_names": {
+      "name": "瑞浪市",
+      "name:en": "Mizunami",
+      "name:fr": "Mizunami",
+      "name:ja": "瑞浪市",
+      "name:ko": "미즈나미시",
+      "name:pl": "Mizunami",
+      "name:ru": "Мидзунами",
+      "name:uk": "Мідзунамі",
+      "name:ja_rm": "Mizunami-shi",
+      "name:ja_kana": "みずなみし"
+    }
+  },
+  {
+    "name": "Moa",
+    "country": "Cuba",
+    "latitude": 20.655959300396457,
+    "longitude": -74.94304939999999,
+    "other_names": {
+      "name": "Moa",
+      "name:ru": "Моа"
+    }
+  }
+]

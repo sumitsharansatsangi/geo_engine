@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Dartmouth",
+    "country": "Canada",
+    "latitude": 44.679970700495616,
+    "longitude": -63.5720232,
+    "other_names": {
+      "name": "Dartmouth"
+    }
+  },
+  {
+    "name": "Darwin",
+    "country": "Australia",
+    "latitude": -12.460440000158519,
+    "longitude": 130.84104690000004,
+    "other_names": {
+      "name": "Darwin",
+      "name:ar": "داروين",
+      "name:eo": "Darvino",
+      "name:es": "Darwin",
+      "name:ja": "ダーウィン",
+      "name:kn": "ಡಾರ್ವಿನ್",
+      "name:mk": "Дарвин",
+      "name:ru": "Дарвин",
+      "name:uk": "Дарвін",
+      "name:zh": "达尔文市"
+    }
+  },
+  {
+    "name": "Dashiqiao",
+    "country": "China",
+    "latitude": 40.634818300349394,
+    "longitude": 122.50427939999997,
+    "other_names": {
+      "name": "大石桥市",
+      "name:de": "Dashiqiao",
+      "name:en": "Dashiqiao",
+      "name:fr": "Dashiqiao",
+      "name:ja": "大石橋市",
+      "name:ko": "다스차오시",
+      "name:ru": "Дашицяо",
+      "name:vi": "Đại Thạch Kiều",
+      "name:zh": "大石桥市",
+      "name:zh-Hant": "大石橋市",
+      "name:zh_pinyin": "Dàshíqiáo Shì"
+    }
+  },
+  {
+    "name": "Dashoguz",
+    "country": "Turkmenistan",
+    "latitude": 41.833580000473276,
+    "longitude": 59.95900790000001,
+    "other_names": {
+      "name": "Daşoguz",
+      "name:de": "Daschogus",
+      "name:en": "Dashoguz",
+      "name:es": "Daşoguz",
+      "name:fr": "Daşoguz",
+      "name:ja": "ダショグズ",
+      "name:ru": "Дашогуз",
+      "name:tk": "Daşoguz",
+      "name:uk": "Дашогуз",
+      "old_name": "Ташауз",
+      "old_name:de": "Taschaus",
+      "old_name:en": "Tashauz",
+      "old_name:ru": "Ташауз"
+    }
+  },
+  {
+    "name": "Daska",
+    "country": "Pakistan",
+    "latitude": 32.335396499597834,
+    "longitude": 74.3540308,
+    "other_names": {
+      "name": "ڈسکہ",
+      "name:ar": "دسكة",
+      "name:en": "Daska",
+      "name:fa": "دسکه",
+      "name:ja": "ダスカ",
+      "name:ks": "ڈسکہ",
+      "name:pa": "ڈسکا",
+      "name:ps": "ډسکه",
+      "name:ur": "ڈسکہ",
+      "name:azb": "دسکه",
+      "name:pnb": "ڈسکا",
+      "name:pa-Arab": "ڈسکا"
+    }
+  },
+  {
+    "name": "Daska",
+    "country": "Pakistan",
+    "latitude": 32.3315432181473,
+    "longitude": 74.35378660916885,
+    "other_names": {
+      "name": "ڈسکہ",
+      "name:ar": "دسكة",
+      "name:en": "Daska",
+      "name:fa": "دسکه",
+      "name:ja": "ダスカ",
+      "name:ks": "ڈسکہ",
+      "name:pa": "ڈسکا",
+      "name:ps": "ډسکه",
+      "name:ur": "ڈسکہ",
+      "name:azb": "دسکه",
+      "name:pnb": "ڈسکا",
+      "name:pa-Arab": "ڈسکا"
+    }
+  },
+  {
+    "name": "Dasmariñas",
+    "country": "Philippines",
+    "latitude": 14.327081899828052,
+    "longitude": 120.93708709999999,
+    "other_names": {
+      "name": "Dasmariñas",
+      "name:ja": "ダスマリニャス",
+      "name:ko": "다스마리냐스",
+      "name:ru": "Дасмариньяс"
+    }
+  },
+  {
+    "name": "Dassa-Zoumé",
+    "country": "Benin",
+    "latitude": 7.781540199391481,
+    "longitude": 2.183606,
+    "other_names": {
+      "name": "Dassa-Zoumé",
+      "name:ar": "دسا زومه",
+      "alt_name": "Igbo Ìdàáshà",
+      "name:idd": "Igbo Ìdàáshà",
+      "short_name:idd": "Ìdàáshà"
+    }
+  },
+  {
+    "name": "Date",
+    "country": "Japan",
+    "latitude": 42.47176010051616,
+    "longitude": 140.8646839,
+    "other_names": {
+      "name": "伊達市",
+      "name:ar": "داتا، هوكايدو",
+      "name:de": "Date",
+      "name:en": "Date",
+      "name:es": "Date",
+      "name:fr": "Date",
+      "name:hu": "Date",
+      "name:ja": "伊達市",
+      "name:ko": "다테시",
+      "name:pl": "Date",
+      "name:ru": "Дате",
+      "name:uk": "Дате",
+      "int_name": "Date",
+      "name:ja_rm": "Date-shi",
+      "name:ja_kana": "だてし"
+    }
+  },
+  {
+    "name": "Date",
+    "country": "Japan",
+    "latitude": 37.819104399956714,
+    "longitude": 140.5624838,
+    "other_names": {
+      "name": "伊達市",
+      "name:ar": "داتا، فوكوشيما",
+      "name:en": "Date",
+      "name:es": "Date",
+      "name:fr": "Date",
+      "name:ja": "伊達市",
+      "name:ko": "다테시",
+      "name:pl": "Date",
+      "name:ru": "Датэ",
+      "name:uk": "Дате",
+      "int_name": "Date",
+      "name:ja_rm": "Date-shi",
+      "name:ja_kana": "だてし"
+    }
+  },
+  {
+    "name": "Datia",
+    "country": "India",
+    "latitude": 25.66503990019739,
+    "longitude": 78.4586499,
+    "other_names": {
+      "name": "Datia",
+      "name:hi": "दतिया",
+      "name:ja": "ダティヤー",
+      "name:kn": "ದತಿಯ",
+      "name:ta": "டாடிய"
+    }
+  },
+  {
+    "name": "Datian",
+    "country": "China",
+    "latitude": 25.691784200194803,
+    "longitude": 117.84110019999999,
+    "other_names": {
+      "name": "大田县",
+      "name:de": "Datian",
+      "name:en": "Datian",
+      "name:es": "Dàtián",
+      "name:fr": "Datian",
+      "name:it": "Datian",
+      "name:ja": "大田県",
+      "name:ko": "다톈현",
+      "name:vi": "Đại Điền",
+      "name:zh": "大田县",
+      "alt_name": "大田;Datian County",
+      "name:cdo": "Dâi-dièng",
+      "name:hak": "Thai-thièn-yen",
+      "name:nan": "Tāi-chhân-koān",
+      "name:yue": "大田",
+      "name:zh-Hant": "大田縣",
+      "name:zh_pinyin": "Dàtián Xiàn"
+    }
+  },
+  {
+    "name": "Datong",
+    "country": "China",
+    "latitude": 46.03519640033701,
+    "longitude": 124.8140828,
+    "other_names": {
+      "name": "大同区",
+      "name:cs": "Ta-tchung",
+      "name:en": "Datong",
+      "name:vi": "Đại Đồng",
+      "name:zh": "大同区",
+      "alt_name": "大同;Datong District",
+      "name:zh-Hant": "大同區",
+      "name:zh_pinyin": "Datong Qu"
+    }
+  },
+  {
+    "name": "Datong",
+    "country": "China",
+    "latitude": 32.633587199591396,
+    "longitude": 117.04716730000001,
+    "other_names": {
+      "name": "大通区",
+      "name:cs": "Ta-tchung",
+      "name:en": "Datong",
+      "name:ja": "大通区",
+      "name:vi": "Đại Thông",
+      "name:zh": "大通区",
+      "name:zh-Hant": "大通區",
+      "name:zh_pinyin": "Datong Qu"
+    }
+  },
+  {
+    "name": "Datong",
+    "country": "China",
+    "latitude": 36.93654639984043,
+    "longitude": 101.68540929999999,
+    "other_names": {
+      "name": "大通县",
+      "name:en": "Datong",
+      "name:ru": "Цяотоу",
+      "name:zh": "大通县",
+      "alt_name": "大通;大通回族土族自治县;桥头;Qiaotou;Datong Huizu Tuzu Zizhixian;桥头;Ta-t'ung;Ch'iao-t'ou;Qiaotou;Ch'iao-t'ou-chen;Ta-t'ung-hsien;Hsiang-shan",
+      "name:zh-Hant": "大通縣",
+      "official_name": "桥头镇"
+    }
+  },
+  {
+    "name": "Datong",
+    "country": "China",
+    "latitude": 40.091981700279696,
+    "longitude": 113.2951122,
+    "other_names": {
+      "name": "大同市",
+      "name:ar": "داتونغ [عدل]",
+      "name:cs": "Ta-tchung",
+      "name:de": "Datong",
+      "name:en": "Datong",
+      "name:eo": "Datongo",
+      "name:et": "Datong",
+      "name:fr": "Datong",
+      "name:hi": "दातुंग",
+      "name:ja": "大同市",
+      "name:pt": "Datong",
+      "name:ru": "Датун",
+      "name:uk": "Датун",
+      "name:vi": "Đại Đồng",
+      "name:zh": "大同市",
+      "alt_name": "大同;Datong City",
+      "int_name": "Datong",
+      "old_name": "平城",
+      "old_name:en": "Pingcheng",
+      "name:zh-Hant": "大同市",
+      "name:zh_pinyin": "Dàtóng shì"
+    }
+  },
+  {
+    "name": "Daugavpils",
+    "country": "Latvia",
+    "latitude": 55.87122669973408,
+    "longitude": 26.515933699999998,
+    "other_names": {
+      "name": "Daugavpils",
+      "name:ar": "دوغفبلس",
+      "name:be": "Даўгаўпілс",
+      "name:de": "Dünaburg",
+      "name:en": "Daugavpils",
+      "name:es": "Daugavpils",
+      "name:fi": "Väinänlinna",
+      "name:fr": "Daugavpils",
+      "name:la": "Duneburgum",
+      "name:lt": "Daugpilis",
+      "name:pl": "Dyneburg",
+      "name:ru": "Даугавпилс",
+      "name:uk": "Даугавпілс",
+      "name:yi": "דינעבורג",
+      "int_name": "Daugavpils",
+      "alt_name:be": "Дзьвінск",
+      "old_name:pl": "Dźwińsk",
+      "name:be-tarask": "Дзьвінск"
+    }
+  },
+  {
+    "name": "Dauphin",
+    "country": "Canada",
+    "latitude": 51.15350899922374,
+    "longitude": -100.04424999999999,
+    "other_names": {
+      "name": "Dauphin",
+      "name:en": "Dauphin",
+      "name:ru": "Дофин",
+      "name:uk": "Дофін"
+    }
+  },
+  {
+    "name": "Davanagere",
+    "country": "India",
+    "latitude": 14.466126599844328,
+    "longitude": 75.92063609999998,
+    "other_names": {
+      "name": "Davanagere",
+      "name:ar": "دافاناجير",
+      "name:en": "Davanagere",
+      "name:hi": "दावणगेरे",
+      "name:ja": "ダーヴァナゲレ",
+      "name:kn": "ದಾವಣಗೆರೆ",
+      "name:ml": "ദാവൺഗരെ",
+      "name:pa": "ਦਾਵਣਗੇਰੇ",
+      "name:ru": "Давангере",
+      "name:ta": "தாவண்கரே",
+      "name:te": "దావణగెరె",
+      "name:kn:iso15919": "Dāvaṇagere"
+    }
+  },
+  {
+    "name": "Davao City",
+    "country": "Philippines",
+    "latitude": 7.06454509940355,
+    "longitude": 125.6084371,
+    "other_names": {
+      "ref": "112402000",
+      "name": "Davao City",
+      "name:af": "Davao Stad",
+      "name:ar": "مدينة دافاو",
+      "name:bg": "Давао",
+      "name:ce": "Давао",
+      "name:eo": "Dabao Urbo",
+      "name:es": "Ciudad de Dávao",
+      "name:fa": "داوائو سیتی",
+      "name:he": "דבאו סיטי",
+      "name:hi": "डेवाओ शहर",
+      "name:hy": "Դավաո",
+      "name:id": "Kota Davao",
+      "name:is": "Davaó",
+      "name:ja": "ダバオ",
+      "name:ka": "დავაო",
+      "name:kn": "ದಾಬವ್",
+      "name:ko": "다바오시",
+      "name:ky": "Давао",
+      "name:la": "Urbs Davaensis",
+      "name:mn": "Давао",
+      "name:ms": "Bandar Davao",
+      "name:my": "ဒါဗောင်းမြို့",
+      "name:ru": "Давао",
+      "name:sr": "Давао",
+      "name:ta": "டவாவோ நகரம்",
+      "name:th": "ดาเบา",
+      "name:tl": "Lungsod ng Davao",
+      "name:tt": "Давао-Сити",
+      "name:uk": "Давао",
+      "name:ur": "داوائو شہر",
+      "name:zh": "纳卯市",
+      "name:ast": "Ciudá de Dávao",
+      "name:bcl": "Syudad nin Davao",
+      "name:ceb": "Dakbayan sa Davao",
+      "name:hil": "Syudad sang Davao",
+      "name:ilo": "Siudad ti Davao",
+      "name:nan": "Davao Chhī",
+      "name:pag": "Siyudad na Davao",
+      "name:pam": "Davao Lakanbalen",
+      "name:sah": "Давао",
+      "name:war": "Syudad han Davao",
+      "name:yue": "達沃",
+      "old_name": "Nueva Vergara",
+      "name:zh-hk": "達沃市",
+      "name:zh-Hans": "达沃市",
+      "name:zh-Hant": "纳卯市/達沃市",
+      "official_name": "City of Davao",
+      "short_name:ar": "دافاو",
+      "short_name:fa": "داوائو",
+      "short_name:ur": "داوائو",
+      "official_name:hil": "Dakbanwa sang Davao"
+    }
+  }
+]

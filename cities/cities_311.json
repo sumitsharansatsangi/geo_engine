@@ -1,0 +1,376 @@
+[
+  {
+    "name": "Mongolküre",
+    "country": "China",
+    "latitude": 43.15614890053974,
+    "longitude": 81.1279502,
+    "other_names": {
+      "name": "昭苏县",
+      "name:en": "Mongolküre",
+      "name:mn": "ᠮᡆᡊᡎᡆᠯᡘᡉᠷᡄᡃ",
+      "name:ru": "Монголкюре",
+      "name:ug": "موڭغۇلكۈرە ناھىيىسى",
+      "name:zh": "昭苏县",
+      "alt_name": "昭苏县;Hüryee;Chao-su;Zhaosu",
+      "name:kk-Arab": "موڭعۇلكۇرە اۋدانى",
+      "name:zh-Hant": "昭蘇縣"
+    }
+  },
+  {
+    "name": "Mongomo",
+    "country": "Equatorial Guinea",
+    "latitude": 1.6261639998268962,
+    "longitude": 11.311975,
+    "other_names": {
+      "name": "Mongomo",
+      "name:ar": "مونغومو",
+      "name:ko": "몽고모",
+      "name:ru": "Монгомо",
+      "name:zh": "蒙戈诺",
+      "old_name": "Mongomo de Guadalupe",
+      "name:zh-Hans": "蒙戈诺"
+    }
+  },
+  {
+    "name": "Monroe",
+    "country": "United States Of America",
+    "latitude": 34.98542749965068,
+    "longitude": -80.54951119999998,
+    "other_names": {
+      "name": "Monroe"
+    }
+  },
+  {
+    "name": "Monroe",
+    "country": "United States Of America",
+    "latitude": 32.509310899593714,
+    "longitude": -92.1193012,
+    "other_names": {
+      "name": "Monroe"
+    }
+  },
+  {
+    "name": "Monrovia",
+    "country": "Liberia",
+    "latitude": 6.328033999429262,
+    "longitude": -10.797788,
+    "other_names": {
+      "name": "Monrovia",
+      "name:am": "ሞንሮቪያ",
+      "name:ar": "مونروفيا",
+      "name:az": "Monroviya",
+      "name:be": "Манровія",
+      "name:bg": "Монровия",
+      "name:bo": "མོང་རོ་ཝི་ཡ།",
+      "name:ca": "Monròvia",
+      "name:de": "Monrovia",
+      "name:el": "Μονρόβια",
+      "name:en": "Monrovia",
+      "name:eo": "Monrovio",
+      "name:es": "Monrovia",
+      "name:fa": "مونروویا",
+      "name:fr": "Monrovia",
+      "name:he": "מונרוביה",
+      "name:hu": "Monrovia",
+      "name:hy": "Մոնրովիա",
+      "name:is": "Mondróvía",
+      "name:ja": "モンロビア",
+      "name:ka": "მონროვია",
+      "name:ko": "몬로비아",
+      "name:ky": "Монровия",
+      "name:lt": "Monrovija",
+      "name:lv": "Monrovija",
+      "name:mk": "Монровија",
+      "name:mr": "मोन्रोव्हिया",
+      "name:oc": "Monròvia",
+      "name:pl": "Monrovia",
+      "name:pt": "Monróvia",
+      "name:ru": "Монровия",
+      "name:so": "Monrofia",
+      "name:sr": "Монровија",
+      "name:sv": "Monrovia",
+      "name:ta": "மொன்ரோவியா",
+      "name:tg": "Монровия",
+      "name:th": "มันโรเวีย",
+      "name:uk": "Монровія",
+      "name:ur": "مونروویا",
+      "name:zh": "蒙羅維亞",
+      "name:ckb": "مۆنرۆڤیا",
+      "name:mrj": "Монрови",
+      "name:pnb": "مونروویا",
+      "name:udm": "Монровия"
+    }
+  },
+  {
+    "name": "Mons",
+    "country": "Belgium",
+    "latitude": 50.45495679935337,
+    "longitude": 3.951958,
+    "other_names": {
+      "name": "Mons",
+      "name:ar": "مونس",
+      "name:de": "Bergen",
+      "name:fr": "Mons",
+      "name:la": "Montes",
+      "name:mk": "Монсерат",
+      "name:nl": "Bergen",
+      "name:ru": "Монс",
+      "name:sr": "Монс",
+      "name:zh": "蒙斯",
+      "nat_name": "La cité du Doudou",
+      "alt_name:pcd": "Mont",
+      "name:zh-Hans": "蒙斯",
+      "name:zh-Hant": "蒙斯"
+    }
+  },
+  {
+    "name": "Montana",
+    "country": "Bulgaria",
+    "latitude": 43.40889840054197,
+    "longitude": 23.2203193,
+    "other_names": {
+      "name": "Монтана",
+      "name:bg": "Монтана",
+      "name:de": "Montana",
+      "name:el": "Μοντάνα",
+      "name:en": "Montana",
+      "name:et": "Montana",
+      "name:fr": "Montana",
+      "name:hr": "Montana",
+      "name:ro": "Montana",
+      "name:ru": "Монтана",
+      "name:sk": "Montana",
+      "name:sr": "Монтана",
+      "name:tr": "Kutlu Viçe",
+      "int_name": "Montana",
+      "old_name:bg:-1891": "Кутловица",
+      "old_name:bg:1891-1945": "Фердинанд",
+      "old_name:bg:1945-1993": "Михайловград"
+    }
+  },
+  {
+    "name": "Montego Bay",
+    "country": "Jamaica",
+    "latitude": 18.47246030027451,
+    "longitude": -77.92173569999999,
+    "other_names": {
+      "name": "Montego Bay"
+    }
+  },
+  {
+    "name": "Montego Bay",
+    "country": "Jamaica",
+    "latitude": 18.470622526430994,
+    "longitude": -77.91964178380589,
+    "other_names": {
+      "name": "Montego Bay",
+      "name:en": "Montego Bay",
+      "name:hu": "Montego Bay",
+      "name:ru": "Монтего-Бей"
+    }
+  },
+  {
+    "name": "Monte Grande",
+    "country": "Argentina",
+    "latitude": -34.819771299850906,
+    "longitude": -58.46602740000001,
+    "other_names": {
+      "name": "Monte Grande"
+    }
+  },
+  {
+    "name": "Monte Plata",
+    "country": "Haiti And Domrep",
+    "latitude": 18.81006430030076,
+    "longitude": -69.7875354,
+    "other_names": {
+      "name": "Monte Plata",
+      "name:hu": "Monte Plata",
+      "name:ru": "Монте-Плата"
+    }
+  },
+  {
+    "name": "Montepuez",
+    "country": "Mozambique",
+    "latitude": -13.125304800223516,
+    "longitude": 39.00169629999999,
+    "other_names": {
+      "name": "Montepuez"
+    }
+  },
+  {
+    "name": "Monterey",
+    "country": "United States Of America",
+    "latitude": 36.600255999800204,
+    "longitude": -121.8946388,
+    "other_names": {
+      "name": "Monterey",
+      "name:en": "Monterey",
+      "name:es": "Monterrey",
+      "name:ru": "Монтерей",
+      "name:uk": "Monterey",
+      "name:zh": "蒙特雷"
+    }
+  },
+  {
+    "name": "Montería",
+    "country": "Colombia",
+    "latitude": 8.755892099396332,
+    "longitude": -75.88702899999998,
+    "other_names": {
+      "name": "Montería",
+      "name:en": "Montería",
+      "name:ru": "Монтерия",
+      "name:uk": "Монтерія"
+    }
+  },
+  {
+    "name": "Montero",
+    "country": "Bolivia",
+    "latitude": -17.342020200473936,
+    "longitude": -63.255768700000004,
+    "other_names": {
+      "name": "Montero",
+      "name:en": "Montero",
+      "name:ru": "Монтеро"
+    }
+  },
+  {
+    "name": "Monterrey",
+    "country": "Mexico",
+    "latitude": 25.680201900195915,
+    "longitude": -100.31525799999999,
+    "other_names": {
+      "name": "Monterrey",
+      "name:ar": "مونتيري",
+      "name:oc": "Monterrey",
+      "name:pt": "Monterrei",
+      "name:zh": "蒙特雷"
+    }
+  },
+  {
+    "name": "Montes Claros",
+    "country": "Brazil",
+    "latitude": -16.727353800463053,
+    "longitude": -43.8717676,
+    "other_names": {
+      "name": "Montes Claros",
+      "name:ru": "Монтис-Кларус"
+    }
+  },
+  {
+    "name": "Montevideo",
+    "country": "Uruguay",
+    "latitude": -34.90589159986896,
+    "longitude": -56.191309499999996,
+    "other_names": {
+      "name": "Montevideo",
+      "name:ab": "Монтевидео",
+      "name:am": "ሞንቴቪዴዎ",
+      "name:ar": "مونتيفيديو",
+      "name:ay": "Muntividëw",
+      "name:be": "Мантэвідэа",
+      "name:bg": "Монтевидео",
+      "name:bn": "মোন্তেবিদেও",
+      "name:bo": "མཱོན་ཊི་ཝི་ཌོ།",
+      "name:de": "Montevideo",
+      "name:el": "Μοντεβιδέο",
+      "name:en": "Montevideo",
+      "name:fa": "مونته‌ویدئو",
+      "name:fr": "Montevideo",
+      "name:gl": "Montevideo",
+      "name:he": "מונטווידאו",
+      "name:hi": "मोण्टेवीडियो",
+      "name:hu": "Montevideo",
+      "name:hy": "Մոնտեվիդեո",
+      "name:is": "Montevídeó",
+      "name:ja": "モンテビデオ",
+      "name:ka": "მონტევიდეო",
+      "name:ko": "몬테비데오",
+      "name:ku": "Montevideo",
+      "name:la": "Monsvideus",
+      "name:lt": "Montevidėjas",
+      "name:mk": "Монтевидео",
+      "name:ml": "മൊണ്ടേവീഡിയോ",
+      "name:mr": "मोन्तेविदेओ",
+      "name:my": "မွန်တီဗစ်ဒီအိုမြို့",
+      "name:nl": "Montevideo",
+      "name:oc": "Montevideo",
+      "name:os": "Монтевидео",
+      "name:pa": "ਮੋਂਤੇਵੀਦਿਓ",
+      "name:pl": "Montevideo",
+      "name:pt": "Montevidéu",
+      "name:ru": "Монтевидео",
+      "name:sk": "Montevideo",
+      "name:sr": "Монтевидео",
+      "name:sv": "Montevideo",
+      "name:ta": "மொண்டிவிடியோ",
+      "name:th": "มอนเตวิเดโอ",
+      "name:ug": "مونتېۋىدېئو",
+      "name:uk": "Монтевідео",
+      "name:ur": "مونٹیویڈیو",
+      "name:yi": "מאנטעווידעא",
+      "name:zh": "蒙得維的亞",
+      "name:ckb": "مۆنتێڤیدیۆ",
+      "name:pap": "Montevidéu",
+      "name:scn": "Muntividèu",
+      "name:tet": "Montevideu",
+      "name:xmf": "მონტევიდეო",
+      "old_name": "San Felipe y Santiago de Montevideo",
+      "name:bat-smg": "Montevidiejos",
+      "name:cbk-zam": "Montevideo ciudad",
+      "official_name": "San Felipe y Santiago de Montevideo",
+      "name:be-tarask": "Мантэвідэо"
+    }
+  },
+  {
+    "name": "Montgomery",
+    "country": "United States Of America",
+    "latitude": 32.366965599597,
+    "longitude": -86.3006485,
+    "other_names": {
+      "name": "Montgomery",
+      "name:ar": "مونتغومري",
+      "name:be": "Мантгомеры",
+      "name:bg": "Монтгомъри",
+      "name:ce": "Монтгомери",
+      "name:el": "Μοντγκόμερι",
+      "name:en": "Montgomery",
+      "name:fa": "مونتگمری",
+      "name:he": "מונטגומרי",
+      "name:hy": "Մոնտգոմերի",
+      "name:ja": "モンゴメリー",
+      "name:ka": "მონტგომერი",
+      "name:kn": "ಮಾಂಟ್ಗಾಮೆರಿ",
+      "name:ko": "몽고메리",
+      "name:la": "Mons Gomerici",
+      "name:lt": "Montgomeris",
+      "name:lv": "Montgomeri",
+      "name:mk": "Монтгомери",
+      "name:mr": "माँटगोमेरी",
+      "name:pl": "Montgomery",
+      "name:ru": "Монтгомери",
+      "name:sa": "मान्टगोमेरी",
+      "name:sr": "Монтгомери",
+      "name:ta": "மான்ட்கமரி",
+      "name:uk": "Монтґомері",
+      "name:yi": "מאנטגאמערי",
+      "name:zh": "蒙哥马利 / 蒙哥馬利",
+      "name:hak": "Montgomery",
+      "name:nan": "Montgomery",
+      "name:wuu": "蒙哥马利",
+      "name:yue": "蒙哥馬利",
+      "name:zh-Hans": "蒙哥马利",
+      "name:zh-Hant": "蒙哥馬利"
+    }
+  },
+  {
+    "name": "Mont-Laurier",
+    "country": "Canada",
+    "latitude": 46.55240710024859,
+    "longitude": -75.4968899,
+    "other_names": {
+      "name": "Mont-Laurier"
+    }
+  }
+]

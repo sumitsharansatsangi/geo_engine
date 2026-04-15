@@ -1,0 +1,281 @@
+[
+  {
+    "name": "San Francisco Gotera",
+    "country": "El Salvador",
+    "latitude": 13.695214799755384,
+    "longitude": -88.1060728,
+    "other_names": {
+      "name": "San Francisco Gotera",
+      "name:hu": "San Francisco Gotera",
+      "name:ru": "Сан-Франсиско-Готера"
+    }
+  },
+  {
+    "name": "Sanghar",
+    "country": "Pakistan",
+    "latitude": 26.04704470015947,
+    "longitude": 68.9492402,
+    "other_names": {
+      "name": "سانگھڑ‎",
+      "name:en": "Sanghar",
+      "name:ru": "Сангхар",
+      "alt_name": "Sanghar"
+    }
+  },
+  {
+    "name": "Sangju-si",
+    "country": "South Korea",
+    "latitude": 36.41044779977871,
+    "longitude": 128.1590614,
+    "other_names": {
+      "name": "상주시",
+      "name:de": "Sangju",
+      "name:en": "Sangju-si",
+      "name:es": "Sangju",
+      "name:et": "Sangju",
+      "name:fr": "Sangju",
+      "name:ja": "尚州市",
+      "name:ko": "상주시",
+      "name:ru": "Санджу",
+      "name:zh": "尚州市",
+      "int_name": "Sangju",
+      "name:ja_kana": "さんじゅ",
+      "name:ko-Hani": "尚州市",
+      "name:ko-Latn": "Sangju-si"
+    }
+  },
+  {
+    "name": "Sangli",
+    "country": "India",
+    "latitude": 16.850253400119446,
+    "longitude": 74.5948885,
+    "other_names": {
+      "name": "Sangli",
+      "name:ar": "سانغلي",
+      "name:en": "Sangli",
+      "name:hi": "सांगली",
+      "name:ja": "サーングリー",
+      "name:kn": "ಸಾಂಗಲೀ",
+      "name:mr": "सांगली",
+      "name:ru": "Сангли",
+      "name:ur": "سانگلی",
+      "alt_name": "Sangli Miraj Kupwad",
+      "old_name": "Sahagalli",
+      "alt_name:ar": "سانجلي"
+    }
+  },
+  {
+    "name": "Sangmélima",
+    "country": "Cameroon",
+    "latitude": 2.9361759996889423,
+    "longitude": 11.975645999999998,
+    "other_names": {
+      "name": "Sangmélima"
+    }
+  },
+  {
+    "name": "Sangolqui",
+    "country": "Ecuador",
+    "latitude": -0.32888219996674617,
+    "longitude": -78.4483476,
+    "other_names": {
+      "name": "Sangolqui"
+    }
+  },
+  {
+    "name": "Sangri",
+    "country": "China",
+    "latitude": 29.26200119981043,
+    "longitude": 92.0146579,
+    "other_names": {
+      "name": "桑日县",
+      "name:bo": "ཟངས་རི་རྫོང",
+      "name:en": "Sangri",
+      "name:vi": "Sangri",
+      "name:zh": "桑日县",
+      "alt_name": "桑日;Sangri County;Zangri;Sang-jih Hsien",
+      "alt_name:vi": "Tang Nhật",
+      "name:zh-Hant": "桑日縣",
+      "name:zh_pinyin": "sāngrì xiàn"
+    }
+  },
+  {
+    "name": "Sangzhi",
+    "country": "China",
+    "latitude": 29.416508099794928,
+    "longitude": 110.1999197,
+    "other_names": {
+      "name": "桑植县",
+      "name:de": "Sangzhi",
+      "name:en": "Sangzhi",
+      "name:fa": "شهرستان سانگژی",
+      "name:fr": "Xian de Sangzhi",
+      "name:it": "Contea di Sangzhi",
+      "name:ja": "桑植県",
+      "name:ko": "쌍즈현",
+      "name:no": "Sangzhi",
+      "name:ru": "Санчжи",
+      "name:sv": "Sangzhi",
+      "name:vi": "Tang Thực",
+      "name:zh": "桑植县",
+      "alt_name": "桑植;Sangzhi County;Sang-chih Hsien",
+      "name:ceb": "Sangzhi Xian",
+      "name:hak": "Sông-chhṳ̍t-yen",
+      "name:nan": "Song-si̍t-koān",
+      "name:yue": "桑植",
+      "name:zh-Hant": "桑植縣",
+      "official_name": "澧源镇",
+      "name:zh_pinyin": "sāngzhí xiàn"
+    }
+  },
+  {
+    "name": "Sanhe",
+    "country": "China",
+    "latitude": 39.981555200264815,
+    "longitude": 117.07148729999999,
+    "other_names": {
+      "name": "三河市",
+      "name:de": "Sanhe",
+      "name:en": "Sanhe",
+      "name:fr": "Sanhe",
+      "name:ja": "三河市",
+      "name:ru": "Саньхэ",
+      "name:vi": "Tam Hà",
+      "name:zh": "三河市",
+      "name:zh-Hant": "三河市",
+      "name:zh_pinyin": "Sanhe Shi"
+    }
+  },
+  {
+    "name": "San Ignacio de Moxos",
+    "country": "Bolivia",
+    "latitude": -14.996158100379535,
+    "longitude": -65.641067,
+    "other_names": {
+      "name": "San Ignacio de Moxos",
+      "alt_name": "Moxos;Mojos",
+      "old_name:1689": "La Misión de San Ignacio;San Ignacio de Pampas;San Ignacio de Mojos"
+    }
+  },
+  {
+    "name": "San Ignacio de Moxos",
+    "country": "Bolivia",
+    "latitude": -14.99293105609388,
+    "longitude": -65.64099641134683,
+    "other_names": {
+      "name": "San Ignacio de Moxos"
+    }
+  },
+  {
+    "name": "San Ignacio de Sabaneta",
+    "country": "Haiti And Domrep",
+    "latitude": 19.477175500345172,
+    "longitude": -71.3407565,
+    "other_names": {
+      "name": "San Ignacio de Sabaneta",
+      "official_name": "San Ignacio de Sabaneta"
+    }
+  },
+  {
+    "name": "San Ignacio de Velasco",
+    "country": "Bolivia",
+    "latitude": -16.37388810045205,
+    "longitude": -60.9598466,
+    "other_names": {
+      "name": "San Ignacio de Velasco",
+      "old_name:1749": "San Ignacio de Loyola"
+    }
+  },
+  {
+    "name": "San Ignacio Guazú",
+    "country": "Paraguay",
+    "latitude": -26.890580599525766,
+    "longitude": -57.02456260000001,
+    "other_names": {
+      "name": "San Ignacio Guazú"
+    }
+  },
+  {
+    "name": "San Isidro",
+    "country": "El Salvador",
+    "latitude": 13.834476499771169,
+    "longitude": -88.718096,
+    "other_names": {
+      "name": "San Isidro"
+    }
+  },
+  {
+    "name": "Sanjiang Dong Autonomous County",
+    "country": "China",
+    "latitude": 25.787030600185496,
+    "longitude": 109.6031323,
+    "other_names": {
+      "name": "三江县",
+      "name:en": "Sanjiang Dong Autonomous County",
+      "name:vi": "Tam Giang",
+      "name:zh": "三江县",
+      "alt_name": "三江;Sanjiang Dong Autonomous County;Sanjiang County",
+      "name:zh-Hant": "三江縣",
+      "official_name": "三江侗族自治县",
+      "name:zh_pinyin": "Sānjiāng Dòngzú Zìzhì Xiàn",
+      "official_name:en": "Sanjiang Dong Autonomous County"
+    }
+  },
+  {
+    "name": "Sanjiaocheng",
+    "country": "China",
+    "latitude": 36.89914559983582,
+    "longitude": 100.99612799999998,
+    "other_names": {
+      "name": "海晏县",
+      "name:en": "Sanjiaocheng",
+      "name:ja": "海晏県",
+      "name:ru": "Саньдзяочэн",
+      "name:zh": "海晏",
+      "alt_name": "海晏县;三角城",
+      "name:zh-Hant": "海晏縣",
+      "official_name": "三角城镇"
+    }
+  },
+  {
+    "name": "Sanjo",
+    "country": "Japan",
+    "latitude": 37.63611739993155,
+    "longitude": 138.96139709999997,
+    "other_names": {
+      "name": "三条市",
+      "name:ar": "سانجو، نييغاتا",
+      "name:de": "Sanjō",
+      "name:en": "Sanjo",
+      "name:es": "Sanjō",
+      "name:fr": "Sanjō",
+      "name:ja": "三条市",
+      "name:ko": "산조시",
+      "name:pl": "Sanjō",
+      "name:ru": "Сандзё",
+      "name:uk": "Сандзьо",
+      "int_name": "Sanjō",
+      "name:ja_kana": "さんじょうし"
+    }
+  },
+  {
+    "name": "San Joaquín",
+    "country": "Venezuela",
+    "latitude": 10.256755999451368,
+    "longitude": -67.80154589999998,
+    "other_names": {
+      "name": "San Joaquín"
+    }
+  },
+  {
+    "name": "San Jose",
+    "country": "Philippines",
+    "latitude": 15.791740800000394,
+    "longitude": 120.98914499999997,
+    "other_names": {
+      "name": "San Jose",
+      "name:ja": "サン・ホセ",
+      "old_name": "Cabaritan"
+    }
+  }
+]

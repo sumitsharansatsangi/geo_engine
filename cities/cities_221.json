@@ -1,0 +1,348 @@
+[
+  {
+    "name": "Kairouan",
+    "country": "Tunisia",
+    "latitude": 35.671010099704446,
+    "longitude": 10.10062,
+    "other_names": {
+      "name": "القيروان",
+      "name:ar": "القيروان",
+      "name:cs": "Kairuán",
+      "name:en": "Kairouan",
+      "name:eo": "Kajruano",
+      "name:es": "Kairuán",
+      "name:et": "Kairouan",
+      "name:fa": "قیروان",
+      "name:fr": "Kairouan",
+      "name:hr": "Kairuan",
+      "name:ja": "ケルアン",
+      "name:pl": "Kairuan",
+      "name:pt": "Cairuão",
+      "name:ru": "Кайруан",
+      "name:tr": "Kayravan",
+      "name:ur": "قیروان",
+      "name:zh": "凯鲁万",
+      "name:azb": "قیروان",
+      "name:pnb": "قیروان"
+    }
+  },
+  {
+    "name": "Kaiserslautern",
+    "country": "Germany",
+    "latitude": 49.44321739958348,
+    "longitude": 7.7689951,
+    "other_names": {
+      "name": "Kaiserslautern",
+      "name:ar": "كايزرسلوترن",
+      "name:ja": "カイザースラウテルン",
+      "name:ru": "Кайзерслаутерн",
+      "name:sr": "Кајзерслаутерн",
+      "name:zh": "凯撒斯劳滕"
+    }
+  },
+  {
+    "name": "Kaithal",
+    "country": "India",
+    "latitude": 29.79965879975804,
+    "longitude": 76.3989903,
+    "other_names": {
+      "name": "Kaithal",
+      "name:de": "Kaithal",
+      "name:en": "Kaithal",
+      "name:es": "Kaithal",
+      "name:fr": "Kaithal",
+      "name:hi": "कैथल",
+      "name:ja": "カイサル",
+      "name:kn": "ಕೈತಾಲ್",
+      "name:pa": "ਕੈਥਲ"
+    }
+  },
+  {
+    "name": "Kaiyang",
+    "country": "China",
+    "latitude": 27.060922000051143,
+    "longitude": 106.9655857,
+    "other_names": {
+      "name": "开阳县",
+      "name:en": "Kaiyang",
+      "name:zh": "开阳县",
+      "alt_name": "开阳;开阳城关镇;Chengguan",
+      "name:zh-Hant": "開陽縣",
+      "official_name": "城关镇"
+    }
+  },
+  {
+    "name": "Kaiyuan",
+    "country": "China",
+    "latitude": 23.71834990034983,
+    "longitude": 103.2674592,
+    "other_names": {
+      "name": "开远市",
+      "name:de": "Kaiyuan",
+      "name:en": "Kaiyuan",
+      "name:fr": "Kaiyuan",
+      "name:ja": "開遠市",
+      "name:ru": "Кайюань",
+      "name:sr": "Кајуен",
+      "name:vi": "Khai Viễn",
+      "name:zh": "开远市",
+      "alt_name": "开远;Kaiyuan City",
+      "name:zh-Hant": "開遠市",
+      "name:zh_pinyin": "Kāiyuǎn Shì"
+    }
+  },
+  {
+    "name": "Kaiyuan",
+    "country": "China",
+    "latitude": 42.543467400519766,
+    "longitude": 124.03828939999998,
+    "other_names": {
+      "name": "开原市",
+      "name:de": "Kaiyuan",
+      "name:en": "Kaiyuan",
+      "name:fr": "Kaiyuan",
+      "name:ja": "開原市",
+      "name:ko": "카이위안시",
+      "name:ru": "Кайюань",
+      "name:uk": "Кайюань",
+      "name:vi": "Khai Nguyên",
+      "name:zh": "开原市",
+      "alt_name": "开原;Kaiyuan City",
+      "name:zh-Hant": "開原市",
+      "name:zh_pinyin": "Kāiyuán Shì"
+    }
+  },
+  {
+    "name": "Kaizhou",
+    "country": "China",
+    "latitude": 31.162664899650643,
+    "longitude": 108.38854929999998,
+    "other_names": {
+      "name": "开州区",
+      "name:de": "Kaizhou",
+      "name:en": "Kaizhou",
+      "name:fr": "Kaizhou",
+      "name:ja": "開州區",
+      "name:ru": "Ханьфын",
+      "name:zh": "开州区",
+      "int_name": "Kaizhou Qu",
+      "alt_name:vi": "Khai huyện",
+      "name:zh-Hant": "開州區",
+      "name:zh_pinyin": "Kāizhōu Qū"
+    }
+  },
+  {
+    "name": "Kaizu",
+    "country": "Japan",
+    "latitude": 35.22050869966738,
+    "longitude": 136.63721099999998,
+    "other_names": {
+      "name": "海津市",
+      "name:en": "Kaizu",
+      "name:fr": "Kaizu",
+      "name:ja": "海津市",
+      "name:ko": "가이즈시",
+      "name:pl": "Kaizu",
+      "name:ru": "Кайдзу",
+      "name:uk": "Кайдзу",
+      "name:ja_rm": "Kaizu-shi",
+      "name:ja_kana": "かいづし"
+    }
+  },
+  {
+    "name": "Kaizuka",
+    "country": "Japan",
+    "latitude": 34.43285599961897,
+    "longitude": 135.360043,
+    "other_names": {
+      "name": "貝塚市",
+      "name:ar": "كايزوكا، أوساكا",
+      "name:de": "Kaizuka",
+      "name:en": "Kaizuka",
+      "name:es": "Kaizuka",
+      "name:fr": "Kaizuka",
+      "name:ja": "貝塚市",
+      "name:ko": "가이즈카시",
+      "name:pl": "Kaizuka",
+      "name:ru": "Кайдзука",
+      "name:uk": "Кайдзука",
+      "name:zh": "贝冢市",
+      "name:ja_rm": "Kaizuka-shi"
+    }
+  },
+  {
+    "name": "Kajaani",
+    "country": "Finland",
+    "latitude": 64.22408719983123,
+    "longitude": 27.733422700000002,
+    "other_names": {
+      "name": "Kajaani",
+      "name:fi": "Kajaani",
+      "name:ru": "Каяани",
+      "name:sv": "Kajana"
+    }
+  },
+  {
+    "name": "Kajang",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 2.994843699683026,
+    "longitude": 101.7896595,
+    "other_names": {
+      "name": "Kajang",
+      "name:ja": "カジャン",
+      "name:ta": "காஜாங்",
+      "name:zh": "加影"
+    }
+  },
+  {
+    "name": "Kaka",
+    "country": "Turkmenistan",
+    "latitude": 37.34639139989273,
+    "longitude": 59.61610819999999,
+    "other_names": {
+      "name": "Kaka",
+      "name:ru": "Кака",
+      "name:tk": "Kaka",
+      "old_name": "Kaahka",
+      "old_name:ru": "Каахка"
+    }
+  },
+  {
+    "name": "Kakamega",
+    "country": "Kenya",
+    "latitude": 0.28329999997066346,
+    "longitude": 34.75,
+    "other_names": {
+      "name": "Kakamega",
+      "name:ru": "Какамега"
+    }
+  },
+  {
+    "name": "Kakamigahara",
+    "country": "Japan",
+    "latitude": 35.399583099681315,
+    "longitude": 136.8485648,
+    "other_names": {
+      "name": "各務原市",
+      "name:en": "Kakamigahara",
+      "name:fr": "Kakamigahara",
+      "name:ja": "各務原市",
+      "name:ko": "가카미가하라시",
+      "name:pl": "Kakamigahara",
+      "name:ru": "Какамигахара",
+      "name:uk": "Какаміґахара",
+      "name:ja_rm": "Kakamigahara-shi",
+      "name:ja_kana": "かかみがはらし"
+    }
+  },
+  {
+    "name": "Kakatpur",
+    "country": "India",
+    "latitude": 20.004557107468184,
+    "longitude": 86.19932121080453,
+    "other_names": {
+      "name": "Kakatpur"
+    }
+  },
+  {
+    "name": "Kakegawa",
+    "country": "Japan",
+    "latitude": 34.79346899963846,
+    "longitude": 138.018733,
+    "other_names": {
+      "name": "掛川市",
+      "name:en": "Kakegawa",
+      "name:ja": "掛川市",
+      "name:ko": "가케가와시",
+      "name:pl": "Kakegawa",
+      "name:ru": "Какегава",
+      "name:uk": "Какеґава",
+      "name:ja_rm": "Kakegawa-shi",
+      "name:ja_kana": "かけがわし"
+    }
+  },
+  {
+    "name": "Kakinada",
+    "country": "India",
+    "latitude": 16.94373850012944,
+    "longitude": 82.2350607,
+    "other_names": {
+      "name": "Kakinada",
+      "name:en": "Kakinada",
+      "name:hi": "काकीनाड़ा",
+      "name:ja": "カーキナーダ",
+      "name:kn": "ಕಾಕಿನಾಡ",
+      "name:ml": "കാക്കിനാട",
+      "name:or": "କାକିନାଡ",
+      "name:pa": "ਕਾਕੀਨਾੜਾ",
+      "name:ru": "Какинада",
+      "name:ta": "காக்கிநாடா",
+      "name:te": "కాకినాడ"
+    }
+  },
+  {
+    "name": "Kakogawa",
+    "country": "Japan",
+    "latitude": 34.78677099963806,
+    "longitude": 134.8498955,
+    "other_names": {
+      "name": "加古川市",
+      "name:ar": "كاكوغاوا، هيوغو",
+      "name:de": "Kakogawa",
+      "name:en": "Kakogawa",
+      "name:es": "Kakogawa",
+      "name:fr": "Kakogawa",
+      "name:ja": "加古川市",
+      "name:ko": "가코가와시",
+      "name:pl": "Kakogawa",
+      "name:ru": "Какогава",
+      "name:uk": "Какоґава",
+      "name:ja_rm": "Kakogawa-shi"
+    }
+  },
+  {
+    "name": "Kakuda",
+    "country": "Japan",
+    "latitude": 37.97702149997876,
+    "longitude": 140.7820521,
+    "other_names": {
+      "name": "角田市",
+      "name:ar": "كاكودا، مياغي",
+      "name:de": "Kakuda",
+      "name:en": "Kakuda",
+      "name:es": "Kakuda",
+      "name:fr": "Kakuda",
+      "name:ja": "角田市",
+      "name:ko": "가쿠다시",
+      "name:pl": "Kakuda",
+      "name:ru": "Какуда",
+      "name:uk": "Какуда",
+      "int_name": "Kakuda",
+      "name:ja_rm": "Kakuda-shi",
+      "name:ja_kana": "かくだし"
+    }
+  },
+  {
+    "name": "Kalaburagi",
+    "country": "India",
+    "latitude": 17.33100030016967,
+    "longitude": 76.83342279999998,
+    "other_names": {
+      "name": "Kalaburagi",
+      "name:ar": "كلبركة",
+      "name:en": "Kalaburagi",
+      "name:hi": "कलबुर्गी",
+      "name:ja": "グルバルガ",
+      "name:kn": "ಕಲಬುರಗಿ",
+      "name:mr": "गुलबर्गा",
+      "name:pa": "ਗੁਲਬਰਗ",
+      "name:ru": "Гулбарга",
+      "name:te": "కలబురగి",
+      "name:ur": "گلبرگاح",
+      "alt_name": "Kalburgi",
+      "old_name": "Gulbarga",
+      "alt_name:hi": "गुलबर्ग",
+      "name:kn:iso15919": "Kalaburagi"
+    }
+  }
+]

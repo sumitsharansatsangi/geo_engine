@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Wanrong",
+    "country": "China",
+    "latitude": 35.41430269968252,
+    "longitude": 110.8332604,
+    "other_names": {
+      "name": "万荣县",
+      "name:en": "Wanrong",
+      "name:ja": "万栄県",
+      "name:zh": "万荣县",
+      "alt_name": "万荣;Wanrong County;Wan-jung;Wan-ch'uan;Wanrong Xian",
+      "name:zh-Hant": "萬榮縣"
+    }
+  },
+  {
+    "name": "Wanshan",
+    "country": "China",
+    "latitude": 27.674137699982705,
+    "longitude": 109.14891189999999,
+    "other_names": {
+      "name": "万山区",
+      "name:en": "Wanshan",
+      "name:vi": "Vạn Sơn",
+      "name:zh": "万山区",
+      "alt_name": "万山;Wan-shan Hsien;Wanshan Xian",
+      "old_name": "万山特区",
+      "old_name:en": "Wanshan Tequ",
+      "old_name:zh": "万山特区",
+      "name:zh-Hant": "萬山區",
+      "official_name": "万山区",
+      "name:zh_pinyin": "Wànshān Qū",
+      "old_name:zh_pinyin": "Wànshān Tèqū"
+    }
+  },
+  {
+    "name": "Wanxiu",
+    "country": "China",
+    "latitude": 23.475273100362894,
+    "longitude": 111.315559,
+    "other_names": {
+      "name": "万秀区",
+      "name:de": "Wanxiu",
+      "name:en": "Wanxiu",
+      "name:fr": "District de Wanxiu",
+      "name:it": "Distretto di Wanxiu",
+      "name:ja": "万秀区",
+      "name:ko": "완슈구",
+      "name:no": "Wanxiu",
+      "name:ru": "Ваньсю",
+      "name:sv": "Wanxiu",
+      "name:vi": "Vạn Tú",
+      "name:zh": "万秀区",
+      "alt_name": "万秀;Wanxiu District",
+      "name:ceb": "Wanxiu Qu",
+      "name:hak": "Van-siu-khî",
+      "name:nan": "Bān-siù-khu",
+      "name:yue": "万秀区",
+      "name:zh-Hant": "萬秀區",
+      "name:yue-Latn": "Maansau-kyu",
+      "name:zh_pinyin": "Wànxiù Qū"
+    }
+  },
+  {
+    "name": "Wanyuan",
+    "country": "China",
+    "latitude": 32.071641299605986,
+    "longitude": 108.03596229999998,
+    "other_names": {
+      "name": "万源市",
+      "name:en": "Wanyuan",
+      "name:fr": "Wanyuan",
+      "name:ja": "万源市",
+      "name:vi": "Vạn Nguyên",
+      "name:zh": "万源市",
+      "alt_name": "万源;Wanyuan",
+      "int_name": "Wanyuan",
+      "name:zh-Hant": "萬源市",
+      "name:zh_pinyin": "Wànyuán Shì"
+    }
+  },
+  {
+    "name": "Wanzai",
+    "country": "China",
+    "latitude": 28.108463399934152,
+    "longitude": 114.4408498,
+    "other_names": {
+      "name": "万载县",
+      "name:de": "Wanzai",
+      "name:en": "Wanzai",
+      "name:fa": "شهرستان وانزای",
+      "name:fr": "Xian de Wanzai",
+      "name:it": "Contea di Wanzai",
+      "name:ja": "万載県",
+      "name:ko": "완짜이현",
+      "name:no": "Wanzai",
+      "name:pt": "Wanzai",
+      "name:ru": "Ваньцзай",
+      "name:sv": "Wanzai",
+      "name:vi": "Vạn Tái",
+      "name:zh": "万载县",
+      "alt_name": "万载;Wanzai County",
+      "name:ceb": "Wanzai Xian",
+      "name:gan": "萬載",
+      "name:nan": "Bān-chài-koān",
+      "name:yue": "萬載",
+      "name:zh-Hant": "萬載縣",
+      "name:zh_pinyin": "wànzài xiàn"
+    }
+  },
+  {
+    "name": "Wanzhi",
+    "country": "China",
+    "latitude": 31.13672819965227,
+    "longitude": 118.57053019999998,
+    "other_names": {
+      "name": "湾沚区",
+      "name:de": "Wanzhi",
+      "name:en": "Wanzhi",
+      "name:eo": "Wanzhi",
+      "name:es": "Wanzhi",
+      "name:fr": "Wanzhi",
+      "name:ja": "湾沚区",
+      "name:ko": "만지 구",
+      "name:pt": "Wanzhi",
+      "name:sv": "Wanzhi",
+      "name:vi": "Loan Chỉ",
+      "name:zh": "湾沚区",
+      "alt_name": "湾沚;Wanzhi District",
+      "old_name": "芜湖县;Wuhu County;鸠兹;鳩茲",
+      "name:zh-Hant": "灣沚區"
+    }
+  },
+  {
+    "name": "Wanzhou",
+    "country": "China",
+    "latitude": 30.810472899674224,
+    "longitude": 108.40308409999999,
+    "other_names": {
+      "name": "万州区",
+      "name:en": "Wanzhou",
+      "name:ja": "万州区",
+      "name:ru": "Ваньчжоу",
+      "name:uk": "Ваньчжоу",
+      "name:vi": "Vạn Châu",
+      "name:zh": "万州区",
+      "alt_name": "万州;chongqing",
+      "int_name": "wan zhou",
+      "old_name": "万县;wànxiàn",
+      "name:zh-Hant": "萬州區",
+      "name:zh_pinyin": "Wànzhōu Qū"
+    }
+  },
+  {
+    "name": "Warabi",
+    "country": "Japan",
+    "latitude": 35.82563979971866,
+    "longitude": 139.6797632,
+    "other_names": {
+      "name": "蕨市",
+      "name:en": "Warabi",
+      "name:fr": "Warabi",
+      "name:ja": "蕨市",
+      "name:ko": "와라비시",
+      "name:ru": "Вараби",
+      "name:uk": "Варабі"
+    }
+  },
+  {
+    "name": "Warangal",
+    "country": "India",
+    "latitude": 17.980609400232147,
+    "longitude": 79.59821150000002,
+    "other_names": {
+      "name": "Warangal",
+      "name:ar": "وارنغل",
+      "name:en": "Warangal",
+      "name:fa": "وارانگل",
+      "name:hi": "वारंगल",
+      "name:ja": "ワランガル",
+      "name:kn": "ವರಂಗಲ್",
+      "name:mr": "वारंगळ",
+      "name:or": "ୱାରଙ୍ଗଲ",
+      "name:pa": "ਵਾਰੰਗਲ",
+      "name:ps": "وارانگل",
+      "name:ru": "Варангал",
+      "name:ta": "வாரங்கல்",
+      "name:te": "వరంగల్",
+      "name:uk": "Варангал",
+      "name:ur": "وارنگل",
+      "alt_name:ar": "ورنجل",
+      "alt_name:de": "Varangal"
+    }
+  },
+  {
+    "name": "Wardha",
+    "country": "India",
+    "latitude": 20.746494100398852,
+    "longitude": 78.5997922,
+    "other_names": {
+      "name": "Wardha",
+      "name:hi": "वर्धा",
+      "name:kn": "ವರ್ಧಾ",
+      "name:mr": "वर्धा",
+      "name:ta": "வர்தா"
+    }
+  },
+  {
+    "name": "Wariyapola",
+    "country": "Sri Lanka",
+    "latitude": 7.619812199393057,
+    "longitude": 80.24611639999999,
+    "other_names": {
+      "name": "වාරියපොල",
+      "name:en": "Wariyapola",
+      "name:si": "වාරියපොල"
+    }
+  },
+  {
+    "name": "Warner Robins",
+    "country": "United States Of America",
+    "latitude": 32.62009729959161,
+    "longitude": -83.60656799999998,
+    "other_names": {
+      "name": "Warner Robins"
+    }
+  },
+  {
+    "name": "Warnes",
+    "country": "Bolivia",
+    "latitude": -17.510081800475014,
+    "longitude": -63.1647184,
+    "other_names": {
+      "name": "Warnes",
+      "old_name:1790-1891": "Enconada"
+    }
+  },
+  {
+    "name": "Warren",
+    "country": "United States Of America",
+    "latitude": 42.49325750051727,
+    "longitude": -83.0062746,
+    "other_names": {
+      "name": "Warren",
+      "name:fa": "وارن"
+    }
+  },
+  {
+    "name": "Warren",
+    "country": "United States Of America",
+    "latitude": 41.2375570004178,
+    "longitude": -80.818417,
+    "other_names": {
+      "name": "Warren"
+    }
+  },
+  {
+    "name": "Warrensburg",
+    "country": "United States Of America",
+    "latitude": 38.76243730009145,
+    "longitude": -93.74095959999998,
+    "other_names": {
+      "name": "Warrensburg"
+    }
+  },
+  {
+    "name": "Warri",
+    "country": "Nigeria",
+    "latitude": 5.516999999472151,
+    "longitude": 5.75,
+    "other_names": {
+      "name": "Warri",
+      "name:en": "Warri",
+      "name:ko": "와리",
+      "name:ru": "Варри",
+      "name:uk": "Варрі"
+    }
+  },
+  {
+    "name": "Warrior",
+    "country": "United States Of America",
+    "latitude": 33.82397660751452,
+    "longitude": -86.77560195984847,
+    "other_names": {
+      "name": "Warrior"
+    }
+  },
+  {
+    "name": "Warrior",
+    "country": "United States Of America",
+    "latitude": 33.82555481196931,
+    "longitude": -86.7705498626715,
+    "other_names": {
+      "name": "Warrior"
+    }
+  },
+  {
+    "name": "Warrior",
+    "country": "United States Of America",
+    "latitude": 33.81128044151378,
+    "longitude": -86.81817928355935,
+    "other_names": {
+      "name": "Warrior"
+    }
+  }
+]

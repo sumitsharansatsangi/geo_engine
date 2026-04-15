@@ -1,0 +1,300 @@
+[
+  {
+    "name": "Mostar",
+    "country": "Bosnia Herzegovina",
+    "latitude": 43.342494300541745,
+    "longitude": 17.8075104,
+    "other_names": {
+      "name": "Mostar",
+      "name:la": "Mandetrium",
+      "name:sr": "Мостар",
+      "int_name": "Mostar",
+      "alt_name:la": "Monstarum"
+    }
+  },
+  {
+    "name": "Mosteiros",
+    "country": "Cape Verde",
+    "latitude": 15.034725699911384,
+    "longitude": -24.327742099999995,
+    "other_names": {
+      "name": "Mosteiros"
+    }
+  },
+  {
+    "name": "Móstoles",
+    "country": "Spain",
+    "latitude": 40.323852500310245,
+    "longitude": -3.8649214,
+    "other_names": {
+      "name": "Móstoles",
+      "name:ar": "موستولس",
+      "name:el": "Μόστολες",
+      "name:en": "Móstoles",
+      "name:fa": "موستولس",
+      "name:hu": "Móstoles",
+      "name:ja": "モストレス",
+      "name:ru": "Мостолес",
+      "name:sr": "Мостолес",
+      "name:ur": "موستولس",
+      "name:zh": "莫斯托莱斯",
+      "alt_name:ar": "موستوليس",
+      "name:zh-Hans": "莫斯托莱斯",
+      "name:zh-Hant": ""
+    }
+  },
+  {
+    "name": "Mosul",
+    "country": "Iraq",
+    "latitude": 36.34158429977115,
+    "longitude": 43.1291386,
+    "other_names": {
+      "name": "الموصل",
+      "name:ar": "الموصل",
+      "name:cs": "Mosul",
+      "name:de": "Mossul",
+      "name:en": "Mosul",
+      "name:es": "Mosul",
+      "name:et": "Mosul",
+      "name:fi": "Mosul",
+      "name:fr": "Mossoul",
+      "name:he": "מוסול",
+      "name:hi": "मोसुल",
+      "name:ku": "Mûsil",
+      "name:nl": "Mosoel",
+      "name:no": "Mosul",
+      "name:ru": "Мосул",
+      "name:tr": "Musul",
+      "name:arc": "ܡܘܨܠ",
+      "name:syc": "ܡܘܨܠ",
+      "alt_name:arc": "ܡܘܨܠܐ;ܡܕܝܢܬܐ ܕܡܘܨܠ;ܢܝܢܒ݂ܐ",
+      "alt_name:syc": "ܡܘܨܠܐ;ܡܕܝܢܬܐ ܕܡܘܨܠ;ܢܝܢܒ݂ܐ"
+    }
+  },
+  {
+    "name": "Motihari",
+    "country": "India",
+    "latitude": 26.64762030009635,
+    "longitude": 84.9143193,
+    "other_names": {
+      "name": "Motihari",
+      "name:bn": "মোতিহারি",
+      "name:hi": "मोतिहारी",
+      "name:ja": "モーティーハーリー"
+    }
+  },
+  {
+    "name": "Motihari",
+    "country": "India",
+    "latitude": 26.64630797005101,
+    "longitude": 84.91307300811597,
+    "other_names": {
+      "name": "Motihari",
+      "name:bn": "মোতিহারী",
+      "name:hi": "मोतिहारी",
+      "name:ja": "モーティーハーリー",
+      "name:pa": "ਮੋਤੀਹਾਰੀ",
+      "name:ta": "மோதிஹாரி"
+    }
+  },
+  {
+    "name": "Motomiya",
+    "country": "Japan",
+    "latitude": 37.5131393999149,
+    "longitude": 140.3939799,
+    "other_names": {
+      "name": "本宮市",
+      "name:ar": "موتومايا، فوكوشيما",
+      "name:de": "Motomiya",
+      "name:en": "Motomiya",
+      "name:es": "Motomiya",
+      "name:fr": "Motomiya",
+      "name:ja": "本宮市",
+      "name:ko": "모토미야시",
+      "name:pl": "Motomiya",
+      "name:ru": "Мотомия",
+      "name:uk": "Мотомія",
+      "int_name": "Motomiya",
+      "name:ja_rm": "Motomiya-shi",
+      "name:ja_kana": "もとみやし"
+    }
+  },
+  {
+    "name": "Motosu",
+    "country": "Japan",
+    "latitude": 35.483026099688175,
+    "longitude": 136.67805539999998,
+    "other_names": {
+      "name": "本巣市",
+      "name:en": "Motosu",
+      "name:fr": "Motosu",
+      "name:ja": "本巣市",
+      "name:ko": "모토스시",
+      "name:pl": "Motosu",
+      "name:ru": "Мотосу",
+      "name:uk": "Мотосу",
+      "name:ja_rm": "Motosu-shi",
+      "name:ja_kana": "もとすし"
+    }
+  },
+  {
+    "name": "Mouding",
+    "country": "China",
+    "latitude": 25.315658800230167,
+    "longitude": 101.54552599999998,
+    "other_names": {
+      "name": "牟定县",
+      "name:en": "Mouding",
+      "name:vi": "Mưu Định",
+      "name:zh": "牟定县",
+      "alt_name": "牟定;Mou-ting Hsien;Mouding County",
+      "name:zh-Hant": "牟定縣",
+      "name:zh_pinyin": "Mouding Xian"
+    }
+  },
+  {
+    "name": "Moundou",
+    "country": "Chad",
+    "latitude": 8.565463699393444,
+    "longitude": 16.073830999999995,
+    "other_names": {
+      "name": "Moundou موندو",
+      "name:ar": "موندو",
+      "name:en": "Moundou",
+      "name:et": "Moundou",
+      "name:fr": "Moundou",
+      "name:ko": "문두",
+      "name:ru": "Мунду",
+      "name:uk": "Мунду"
+    }
+  },
+  {
+    "name": "Mountain View",
+    "country": "United States Of America",
+    "latitude": 37.38938889989841,
+    "longitude": -122.0832101,
+    "other_names": {
+      "name": "Mountain View",
+      "name:ar": "مونتن فيو",
+      "name:zh": "山景城",
+      "alt_name:ar": "ماونتن فيو",
+      "name:zh-Hans": "山景城",
+      "name:zh-Hant": "山景城"
+    }
+  },
+  {
+    "name": "Mount Gambier",
+    "country": "Australia",
+    "latitude": -37.830138600534426,
+    "longitude": 140.78426270000003,
+    "other_names": {
+      "name": "Mount Gambier",
+      "name:en": "Mount Gambier",
+      "name:ja": "マウントガンビア",
+      "name:ru": "Маунт-Гамбир",
+      "name:uk": "Маунт Гамб’єр",
+      "name:xbg": "Berrin",
+      "old_name": "Berrin"
+    }
+  },
+  {
+    "name": "Mount Hagen",
+    "country": "Papua New Guinea",
+    "latitude": -5.858783999682678,
+    "longitude": 144.23163649999998,
+    "other_names": {
+      "name": "Mount Hagen",
+      "name:de": "Hagensberg",
+      "name:en": "Mount Hagen",
+      "name:ja": "マウントハーゲン",
+      "name:ru": "Маунт-Хаген",
+      "name:uk": "Маунт-Хаген"
+    }
+  },
+  {
+    "name": "Mount Isa",
+    "country": "Australia",
+    "latitude": -20.72898980033203,
+    "longitude": 139.49315219999997,
+    "other_names": {
+      "name": "Mount Isa",
+      "name:en": "Mount Isa",
+      "name:ja": "マウントアイザ",
+      "name:ru": "Маунт-Айза",
+      "name:uk": "Маунт-Айза"
+    }
+  },
+  {
+    "name": "Mount Rainier",
+    "country": "United States Of America",
+    "latitude": 38.94150000011742,
+    "longitude": -76.9649751,
+    "other_names": {
+      "name": "Mount Rainier"
+    }
+  },
+  {
+    "name": "Mouping",
+    "country": "China",
+    "latitude": 37.389114199898366,
+    "longitude": 121.5960004,
+    "other_names": {
+      "name": "牟平区",
+      "name:en": "Mouping",
+      "name:vi": "Mưu Bình",
+      "name:zh": "牟平区",
+      "name:zh-Hant": "牟平區",
+      "name:zh_pinyin": "Móupíng qū"
+    }
+  },
+  {
+    "name": "Mouping",
+    "country": "China",
+    "latitude": 37.38652689989802,
+    "longitude": 121.5932458,
+    "other_names": {
+      "name": "牟平区",
+      "name:en": "Mouping",
+      "name:zh": "牟平区",
+      "name:zh-Hant": "牟平區"
+    }
+  },
+  {
+    "name": "Moussoro",
+    "country": "Chad",
+    "latitude": 13.640570299749227,
+    "longitude": 16.490775899999996,
+    "other_names": {
+      "name": "Moussoro موسورو",
+      "name:ar": "موسورو",
+      "name:en": "Moussoro",
+      "name:fr": "Moussoro",
+      "name:ru": "Муссоро",
+      "alt_name": "Bahr el Ghazal;Moussoro"
+    }
+  },
+  {
+    "name": "Moyobamba",
+    "country": "Peru",
+    "latitude": -6.034730199685018,
+    "longitude": -76.97467729999998,
+    "other_names": {
+      "name": "Moyobamba",
+      "name:de": "Moyobamba",
+      "name:en": "Moyobamba",
+      "name:es": "Moyobamba",
+      "name:pl": "Moyobamba",
+      "name:ru": "Мойобамба",
+      "name:uk": "Мойобамба"
+    }
+  },
+  {
+    "name": "Mpigi",
+    "country": "Uganda",
+    "latitude": 0.22833129997639928,
+    "longitude": 32.3198552,
+    "other_names": {
+      "name": "Mpigi"
+    }
+  }
+]

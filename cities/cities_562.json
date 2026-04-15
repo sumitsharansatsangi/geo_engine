@@ -1,0 +1,41 @@
+[
+  {
+    "name": "第十二师",
+    "country": "China",
+    "latitude": 43.91329820053535,
+    "longitude": 87.53495329999998,
+    "other_names": {
+      "name": "第十二师",
+      "official_name": "新疆生产建设兵团第十二师"
+    }
+  },
+  {
+    "name": "第十师",
+    "country": "China",
+    "latitude": 47.32336690009275,
+    "longitude": 87.8290844,
+    "other_names": {
+      "name": "第十师",
+      "official_name": "新疆生产建设兵团第十师"
+    }
+  },
+  {
+    "name": "金水区",
+    "country": "China",
+    "latitude": 34.80160269963895,
+    "longitude": 113.65615009999999,
+    "other_names": {
+      "name": "金水区"
+    }
+  },
+  {
+    "name": "麻山区",
+    "country": "China",
+    "latitude": 45.209535000446884,
+    "longitude": 130.4702281,
+    "other_names": {
+      "name": "麻山区",
+      "name:zh-Hant": "麻山區"
+    }
+  }
+]

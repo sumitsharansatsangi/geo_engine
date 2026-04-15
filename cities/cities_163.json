@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Guiping",
+    "country": "China",
+    "latitude": 23.39163570036704,
+    "longitude": 110.07406399999999,
+    "other_names": {
+      "name": "桂平市",
+      "name:en": "Guiping",
+      "name:vi": "Quế Bình",
+      "name:zh": "桂平市",
+      "alt_name": "桂平;Kuei-p'ing Hsien;Guiping Xian;Guiping Shi",
+      "name:yue": "桂平市",
+      "old_name": "桂平县",
+      "old_name:zh": "桂平县",
+      "name:zh-Hant": "桂平市",
+      "name:yue-Latn": "Gwaiping-si",
+      "name:zh_pinyin": "Guìpíng Shì"
+    }
+  },
+  {
+    "name": "Guixi",
+    "country": "China",
+    "latitude": 28.294769399913505,
+    "longitude": 117.24012379999999,
+    "other_names": {
+      "name": "贵溪市",
+      "name:de": "Guixi",
+      "name:en": "Guixi",
+      "name:es": "Guixi",
+      "name:fr": "Guixi",
+      "name:it": "Guixi",
+      "name:ja": "貴渓市",
+      "name:ki": "Guixi",
+      "name:ko": "구이시시",
+      "name:mg": "Guixi",
+      "name:no": "Guixi",
+      "name:ru": "Гуйси",
+      "name:sv": "Guixi",
+      "name:vi": "Quý Khê",
+      "name:zh": "贵溪市",
+      "alt_name": "贵溪;Guixi City",
+      "name:ceb": "Guixi",
+      "name:gan": "貴溪",
+      "name:nan": "Kùi-khe-chhī",
+      "name:yue": "貴溪",
+      "name:zh-Hant": "貴溪市"
+    }
+  },
+  {
+    "name": "Guiyang",
+    "country": "China",
+    "latitude": 25.756164700188524,
+    "longitude": 112.72964,
+    "other_names": {
+      "name": "桂阳县",
+      "name:de": "Guiyang",
+      "name:en": "Guiyang",
+      "name:eo": "Gŭijango",
+      "name:fa": "شهرستان گوییانگ",
+      "name:fr": "Xian de Guiyang",
+      "name:hi": "गुईयांग",
+      "name:it": "Contea di Guiyang",
+      "name:ja": "桂陽県",
+      "name:ko": "구이양현",
+      "name:no": "Guiyang",
+      "name:ru": "Гуйян",
+      "name:sv": "Guiyang Xian",
+      "name:vi": "Quế Dương",
+      "name:zh": "桂阳县",
+      "alt_name": "桂阳;Guiyang County",
+      "name:ceb": "Guiyang Xian",
+      "name:hak": "Kui-yòng-yen",
+      "name:nan": "Kùi-iông-koān",
+      "name:yue": "桂陽",
+      "name:zh-Hant": "桂陽縣",
+      "name:zh_pinyin": "guìyáng xiàn"
+    }
+  },
+  {
+    "name": "Guiyang",
+    "country": "China",
+    "latitude": 26.649992200096097,
+    "longitude": 106.6246178,
+    "other_names": {
+      "name": "贵阳市",
+      "name:cs": "Kuej-jang",
+      "name:da": "Guiyang",
+      "name:de": "Guiyang",
+      "name:en": "Guiyang",
+      "name:es": "Guiyang",
+      "name:et": "Guiyang",
+      "name:fr": "Guiyang",
+      "name:hi": "गुईयांग",
+      "name:ja": "貴陽市",
+      "name:lt": "Guijangas",
+      "name:nl": "Guiyang",
+      "name:oc": "Guiyang",
+      "name:ru": "Гуйян",
+      "name:uk": "Гуйян",
+      "name:vi": "Quý Dương",
+      "name:zh": "贵阳市",
+      "alt_name": "林城",
+      "alt_name:en": "Lincheng",
+      "name:zh-Hant": "貴陽市",
+      "name:zh_pinyin": "Guiyang Shi"
+    }
+  },
+  {
+    "name": "Gujarat International Finance Tec-City",
+    "country": "India",
+    "latitude": 23.16397400802561,
+    "longitude": 72.6841903072355,
+    "other_names": {
+      "name": "Gujarat International Finance Tec-City"
+    }
+  },
+  {
+    "name": "Gujar Khan",
+    "country": "Pakistan",
+    "latitude": 33.25432049958782,
+    "longitude": 73.3065712,
+    "other_names": {
+      "name": "گوجر خان",
+      "name:en": "Gujar Khan",
+      "name:es": "Gujar Khan",
+      "name:fr": "Gujar Khan",
+      "name:ur": "گوجر خان"
+    }
+  },
+  {
+    "name": "Gujiao",
+    "country": "China",
+    "latitude": 37.908252999969115,
+    "longitude": 112.16960309999999,
+    "other_names": {
+      "name": "古交市",
+      "name:de": "Gujiao",
+      "name:en": "Gujiao",
+      "name:fr": "Gujiao",
+      "name:ja": "古交市",
+      "name:ru": "Гуцзяо",
+      "name:vi": "Cổ Giao",
+      "name:zh": "古交市",
+      "int_name": "Gujiao",
+      "name:zh-Hant": "古交市",
+      "name:zh_pinyin": "Gǔjiāo Shì"
+    }
+  },
+  {
+    "name": "Gujo",
+    "country": "Japan",
+    "latitude": 35.748416999711466,
+    "longitude": 136.9643095,
+    "other_names": {
+      "name": "郡上市",
+      "name:en": "Gujo",
+      "name:fr": "Gujō",
+      "name:ja": "郡上市",
+      "name:ko": "구조시",
+      "name:pl": "Gujō",
+      "name:ru": "Гудзё",
+      "name:uk": "Ґудзьо",
+      "name:ja_rm": "Gujō",
+      "name:ja_kana": "ぐじょうし"
+    }
+  },
+  {
+    "name": "Gujranwala",
+    "country": "Pakistan",
+    "latitude": 32.152531199603246,
+    "longitude": 74.1933745,
+    "other_names": {
+      "name": "گوجرانوالہ",
+      "name:ar": "جوجرانوالا",
+      "name:de": "Gujranwala",
+      "name:en": "Gujranwala",
+      "name:es": "Gujranwala",
+      "name:et": "Gujrānwāla",
+      "name:fr": "Gujranwala",
+      "name:hi": "गुजराँवाला",
+      "name:ja": "グジュラーンワーラー",
+      "name:kn": "ಗುಜ್ರನ್ವಾಲಾ",
+      "name:pt": "Gujranwala",
+      "name:ru": "Гуджранвала",
+      "name:uk": "Гуджранвала",
+      "name:ur": "گوجرانوالہ",
+      "name:zh": "古吉兰瓦拉",
+      "name:pnb": "گجرانوالہ"
+    }
+  },
+  {
+    "name": "Gujrat",
+    "country": "Pakistan",
+    "latitude": 32.57902840462296,
+    "longitude": 74.08702567587974,
+    "other_names": {
+      "name": "گجرات",
+      "name:ar": "كجرات",
+      "name:de": "Gujrat",
+      "name:en": "Gujrat",
+      "name:fa": "گجرات",
+      "name:ks": "گجرات",
+      "name:pa": "ਗੁਜਰਾਤ",
+      "name:ps": "گجرات",
+      "name:sd": "گجرات",
+      "name:ur": "گجرات",
+      "name:azb": "گوجرات",
+      "name:pnb": "گجرات"
+    }
+  },
+  {
+    "name": "Gujrat",
+    "country": "Pakistan",
+    "latitude": 32.56867819959254,
+    "longitude": 74.071481,
+    "other_names": {
+      "name": "گجرات",
+      "name:ar": "كجرات",
+      "name:de": "Gujrat",
+      "name:en": "Gujrat",
+      "name:es": "Gujrat",
+      "name:et": "Gujrāt",
+      "name:fa": "گجرات",
+      "name:fr": "Gujrat",
+      "name:hi": "गुजरात",
+      "name:ja": "グジュラート",
+      "name:ks": "گجرات",
+      "name:pa": "ਗੁਜਰਾਤ",
+      "name:ps": "گجرات",
+      "name:ru": "Гуджрат",
+      "name:sd": "گجرات",
+      "name:ur": "گجرات",
+      "name:azb": "گوجرات",
+      "name:pnb": "گجرات"
+    }
+  },
+  {
+    "name": "Gulang",
+    "country": "China",
+    "latitude": 37.47050869990921,
+    "longitude": 102.8956847,
+    "other_names": {
+      "name": "古浪县",
+      "name:de": "Gulang",
+      "name:en": "Gulang",
+      "name:es": "Gulang",
+      "name:fr": "Gulang",
+      "name:ja": "古浪県",
+      "name:zh": "古浪县",
+      "alt_name": "古浪;Gulang County;古浪镇",
+      "name:zh-Hant": "古浪縣"
+    }
+  },
+  {
+    "name": "Gulfport",
+    "country": "United States Of America",
+    "latitude": 30.367419799708248,
+    "longitude": -89.09281549999999,
+    "other_names": {
+      "name": "Gulfport"
+    }
+  },
+  {
+    "name": "Gulin",
+    "country": "China",
+    "latitude": 28.042100399941546,
+    "longitude": 105.80883849999998,
+    "other_names": {
+      "name": "古蔺县",
+      "name:en": "Gulin",
+      "name:ja": "古藺県",
+      "name:vi": "Cổ Lận",
+      "name:zh": "古蔺县",
+      "alt_name": "古蔺;Gulin County",
+      "alt_name:en": "Ku-lin-hsien;Ku-lin",
+      "name:zh-Hant": "古藺縣",
+      "name:zh_pinyin": "Gǔlìn Xiàn"
+    }
+  },
+  {
+    "name": "Gulou",
+    "country": "China",
+    "latitude": 34.790768099638285,
+    "longitude": 114.34662039999999,
+    "other_names": {
+      "name": "鼓楼区",
+      "name:en": "Gulou",
+      "name:zh": "鼓楼区",
+      "alt_name": "鼓楼;Gulou District",
+      "name:zh-Hant": "鼓樓區"
+    }
+  },
+  {
+    "name": "Gulou",
+    "country": "China",
+    "latitude": 34.29069429961256,
+    "longitude": 117.17811519999998,
+    "other_names": {
+      "name": "鼓楼区",
+      "name:en": "Gulou",
+      "name:zh": "鼓楼区",
+      "name:zh-Hant": "鼓樓區"
+    }
+  },
+  {
+    "name": "Gulou",
+    "country": "China",
+    "latitude": 26.085084400155583,
+    "longitude": 119.29908810000002,
+    "other_names": {
+      "name": "鼓楼区",
+      "name:de": "Gulou",
+      "name:en": "Gulou",
+      "name:es": "Gŭlóu",
+      "name:fr": "Gulou",
+      "name:it": "Gulou",
+      "name:ja": "鼓楼区",
+      "name:ko": "구러우구",
+      "name:vi": "Cổ Lâu",
+      "name:zh": "鼓楼区",
+      "alt_name": "鼓楼;Gulou District",
+      "name:cdo": "Gū-làu",
+      "name:hak": "Kú-lèu-khî",
+      "name:nan": "Kó͘-lâu-khu",
+      "name:yue": "鼓樓",
+      "name:zh-Hant": "鼓樓區",
+      "name:zh_pinyin": "gǔlóu qū"
+    }
+  },
+  {
+    "name": "Gulou District",
+    "country": "China",
+    "latitude": 32.06890189960609,
+    "longitude": 118.76476840000001,
+    "other_names": {
+      "name": "鼓楼区",
+      "name:de": "Gulou",
+      "name:en": "Gulou District",
+      "name:es": "Gulou",
+      "name:eu": "Gulou Barrutia",
+      "name:fr": "District de Gulou",
+      "name:id": "Distrik Gulou",
+      "name:it": "Distretto di Gulou",
+      "name:ja": "鼓楼区",
+      "name:ko": "구러우구",
+      "name:no": "Gulou",
+      "name:pt": "Distrito de Gulou",
+      "name:ru": "Гулоу",
+      "name:sv": "Gulou",
+      "name:ur": "گولوو ضلع، نانجنگ",
+      "name:vi": "Cổ Lâu",
+      "name:zh": "鼓楼区",
+      "name:nan": "Kó͘-lâu-khu",
+      "name:wuu": "鼓楼区",
+      "name:yue": "鼓樓區",
+      "name:zh-Hant": "鼓樓區",
+      "name:zh_pinyin": "Gulou Qu"
+    }
+  },
+  {
+    "name": "Gulu",
+    "country": "Uganda",
+    "latitude": 2.770238999705839,
+    "longitude": 32.3044273,
+    "other_names": {
+      "name": "Gulu",
+      "name:en": "Gulu",
+      "name:ko": "굴루",
+      "name:ru": "Гулу",
+      "name:uk": "Гулу"
+    }
+  },
+  {
+    "name": "Guma",
+    "country": "China",
+    "latitude": 37.60689279992755,
+    "longitude": 78.27959289999998,
+    "other_names": {
+      "name": "皮山县",
+      "name:de": "Guma",
+      "name:en": "Guma",
+      "name:es": "Pishan",
+      "name:fr": "Pishan",
+      "name:ja": "グマ県",
+      "name:ru": "Пиша́нь",
+      "name:ug": "گۇما بازىرى",
+      "name:uk": "Пиша́нь",
+      "name:vi": "Bì Sơn",
+      "name:zh": "皮山县",
+      "alt_name": "皮山;Pishan County;Guma County",
+      "int_name": "Guma",
+      "name:zh-Hant": "皮山縣",
+      "official_name": "皮山县",
+      "name:zh_pinyin": "Píshān Xiàn"
+    }
+  }
+]

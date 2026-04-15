@@ -1,0 +1,351 @@
+[
+  {
+    "name": "Yongqing",
+    "country": "China",
+    "latitude": 39.320821300172206,
+    "longitude": 116.4901636,
+    "other_names": {
+      "name": "永清县",
+      "name:en": "Yongqing",
+      "name:zh": "永清县",
+      "name:zh-Hant": "永清縣"
+    }
+  },
+  {
+    "name": "Yongren",
+    "country": "China",
+    "latitude": 26.059775700158177,
+    "longitude": 101.6683181,
+    "other_names": {
+      "name": "永仁县",
+      "name:en": "Yongren",
+      "name:uk": "Юнжень",
+      "name:vi": "Vĩnh Nhân",
+      "name:zh": "永仁县",
+      "alt_name": "永仁;永定镇;永定;Yongding",
+      "name:zh-Hant": "永仁縣",
+      "name:zh_pinyin": "Yǒngrén Xiàn"
+    }
+  },
+  {
+    "name": "Yongshan",
+    "country": "China",
+    "latitude": 28.23873609991971,
+    "longitude": 103.6346693,
+    "other_names": {
+      "name": "永善县",
+      "name:en": "Yongshan",
+      "name:uk": "Юншань",
+      "name:vi": "Vĩnh Thiện",
+      "name:zh": "永善县",
+      "alt_name": "永善;Xiluodu",
+      "name:zh-Hant": "永善縣",
+      "name:zh_pinyin": "Yǒngshànxiàn"
+    }
+  },
+  {
+    "name": "Yongsheng",
+    "country": "China",
+    "latitude": 26.693049900091438,
+    "longitude": 100.7487354,
+    "other_names": {
+      "name": "永胜县",
+      "name:en": "Yongsheng",
+      "name:ko": "융성현",
+      "name:uk": "Юншен повіт",
+      "name:vi": "Vĩnh Thắng",
+      "name:zh": "永胜县",
+      "alt_name": "永胜;Yung-sheng Hsien;Yongsheng County",
+      "name:zh-Hant": "永勝縣",
+      "name:zh_pinyin": "Yongsheng Xian"
+    }
+  },
+  {
+    "name": "Yongshou",
+    "country": "China",
+    "latitude": 34.69187049963251,
+    "longitude": 108.1403799,
+    "other_names": {
+      "name": "永寿县",
+      "name:en": "Yongshou",
+      "name:ja": "永寿県",
+      "name:ru": "Цзяньцзюнь",
+      "name:uk": "Юншоу",
+      "name:zh": "永寿县",
+      "alt_name": "永寿县;监军镇;永寿;Yung-shou-hsien;Yung-shou;Ku-tun;Chien-chun-chen;Chien-chun",
+      "name:zh-Hant": "永壽縣"
+    }
+  },
+  {
+    "name": "Yongshun",
+    "country": "China",
+    "latitude": 28.984036399839116,
+    "longitude": 109.85237399999998,
+    "other_names": {
+      "name": "永顺县",
+      "name:en": "Yongshun",
+      "name:uk": "Юншунь",
+      "name:vi": "Vĩnh Thuận",
+      "name:zh": "永顺县",
+      "alt_name": "灵溪;Lingxi;Yongshun County",
+      "name:zh-Hant": "永順縣",
+      "official_name": "永顺县",
+      "name:zh_pinyin": "Yǒngshùn Xiàn"
+    }
+  },
+  {
+    "name": "Yongtai County",
+    "country": "China",
+    "latitude": 25.869596100177336,
+    "longitude": 118.9279542,
+    "other_names": {
+      "name": "永泰县",
+      "name:de": "Yongtai",
+      "name:en": "Yongtai County",
+      "name:es": "Yŏngtài Xiàn",
+      "name:fr": "Xian de Yongtai",
+      "name:it": "Contea di Yongtai",
+      "name:ja": "永泰県",
+      "name:ko": "융타이현",
+      "name:ru": "Чжанчэн",
+      "name:uk": "Юнтай",
+      "name:vi": "Vĩnh Thái",
+      "name:zh": "永泰县",
+      "alt_name": "永泰;Yongtai County",
+      "name:cdo": "Īng-tái",
+      "name:hak": "Yún-thai-yen",
+      "name:nan": "Éng-thài-koān",
+      "name:yue": "永泰",
+      "name:zh-Hant": "永泰縣",
+      "name:zh_pinyin": "yǒngtài xiàn"
+    }
+  },
+  {
+    "name": "Yongxin",
+    "country": "China",
+    "latitude": 26.948340100063565,
+    "longitude": 114.23796410000001,
+    "other_names": {
+      "name": "永新县",
+      "name:en": "Yongxin",
+      "name:zh": "永新县",
+      "alt_name": "永新;Yongxin County",
+      "name:zh-Hant": "永新縣",
+      "name:zh_pinyin": "yǒngxīn xiàn"
+    }
+  },
+  {
+    "name": "Yongxing",
+    "country": "China",
+    "latitude": 26.13028110015095,
+    "longitude": 113.11066389999999,
+    "other_names": {
+      "name": "永兴县",
+      "name:de": "Yongxing",
+      "name:en": "Yongxing",
+      "name:fa": "شهرستان یونگشینگ",
+      "name:fr": "Xian de Yongxing",
+      "name:it": "Contea di Yongxing",
+      "name:ja": "永興県",
+      "name:ko": "융싱현",
+      "name:no": "Yongxing",
+      "name:ru": "Юнсин",
+      "name:sv": "Yongxing",
+      "name:uk": "Юнсін",
+      "name:ur": "ونگشنگ کاؤنٹی",
+      "name:vi": "Vĩnh Hưng",
+      "name:zh": "永兴县",
+      "alt_name": "永兴;Yongxing County",
+      "name:ceb": "Yongxing Xian",
+      "name:gan": "永興",
+      "name:nan": "Éng-heng-koān",
+      "name:yue": "永興縣",
+      "name:zh-Hant": "永興縣",
+      "name:zh_pinyin": "yǒngxīng xiàn"
+    }
+  },
+  {
+    "name": "Yongxiu",
+    "country": "China",
+    "latitude": 29.012987999836078,
+    "longitude": 115.8271029,
+    "other_names": {
+      "name": "永修县",
+      "name:en": "Yongxiu",
+      "name:ru": "Туцзябу",
+      "name:uk": "Юнсю",
+      "name:zh": "永修县",
+      "alt_name": "永修;Yongxiu County",
+      "name:zh-Hant": "永修縣",
+      "name:zh_pinyin": "yǒngxiū xiàn"
+    }
+  },
+  {
+    "name": "Yongzhou",
+    "country": "China",
+    "latitude": 26.423568000120326,
+    "longitude": 111.6081495,
+    "other_names": {
+      "name": "永州市",
+      "name:ar": "يونغتشو",
+      "name:cs": "Jung-čou",
+      "name:da": "Yongzhou",
+      "name:de": "Yongzhou",
+      "name:en": "Yongzhou",
+      "name:es": "Yongzhou",
+      "name:et": "Yongzhou",
+      "name:eu": "Yongzhou",
+      "name:fa": "یونگژو",
+      "name:fi": "Yongzhou",
+      "name:fr": "Yongzhou",
+      "name:id": "Yongzhou",
+      "name:it": "Yongzhou",
+      "name:ja": "永州市",
+      "name:ki": "Yongzhou",
+      "name:ko": "융저우시",
+      "name:mg": "Yongzhou",
+      "name:nl": "Yongzhou",
+      "name:nn": "Yongzhou",
+      "name:no": "Yongzhou",
+      "name:pl": "Yongzhou",
+      "name:pt": "Yongzhou",
+      "name:ru": "Юнчжоу",
+      "name:sv": "Yongzhou",
+      "name:tr": "Yongzhou",
+      "name:ur": "یونگژو",
+      "name:vi": "Vĩnh Châu",
+      "name:zh": "永州市",
+      "int_name": "Yongzhou",
+      "name:cdo": "Īng-ciŭ",
+      "name:ceb": "Yongzhou",
+      "name:nan": "Éng-chiu-chhī",
+      "name:pam": "Yongzhou",
+      "name:war": "Yongzhou",
+      "name:wuu": "永州市",
+      "name:yue": "永州",
+      "name:zh-Hant": "永州市",
+      "name:zh_pinyin": "Yǒngzhōu Shì"
+    }
+  },
+  {
+    "name": "Yonkers",
+    "country": "United States Of America",
+    "latitude": 40.93120990038439,
+    "longitude": -73.8987469,
+    "other_names": {
+      "name": "Yonkers"
+    }
+  },
+  {
+    "name": "Yopal",
+    "country": "Colombia",
+    "latitude": 5.335666199483677,
+    "longitude": -72.3936931,
+    "other_names": {
+      "name": "Yopal",
+      "name:en": "Yopal",
+      "name:ru": "Йопаль",
+      "official_name": "El Yopal"
+    }
+  },
+  {
+    "name": "Yopougon",
+    "country": "Ivory Coast",
+    "latitude": 5.335193999483708,
+    "longitude": -4.075755999999999,
+    "other_names": {
+      "name": "Yopougon",
+      "short_name": "Yop"
+    }
+  },
+  {
+    "name": "Yopurgha",
+    "country": "China",
+    "latitude": 39.23578010015999,
+    "longitude": 76.7696146,
+    "other_names": {
+      "name": "岳普湖县",
+      "name:de": "Yopurga",
+      "name:en": "Yopurgha",
+      "name:es": "Yopurga",
+      "name:fr": "Yopurga",
+      "name:ug": "يوپۇرغا بازىرى",
+      "name:uk": "Юпурґа",
+      "name:zh": "岳普湖县",
+      "name:zh-Hant": "嶽普湖縣",
+      "official_name": "岳普湖县"
+    }
+  },
+  {
+    "name": "York",
+    "country": "United States Of America",
+    "latitude": 39.96239800026221,
+    "longitude": -76.727392,
+    "other_names": {
+      "name": "York"
+    }
+  },
+  {
+    "name": "York",
+    "country": "England",
+    "latitude": 53.95905549917835,
+    "longitude": -1.0815360999999997,
+    "other_names": {
+      "name": "York",
+      "name:ar": "يورك",
+      "name:cy": "Efrog",
+      "name:el": "Υόρκη",
+      "name:en": "York",
+      "name:eo": "Jorko",
+      "name:fa": "یورک",
+      "name:ga": "Eabhrac",
+      "name:he": "יורק",
+      "name:hu": "York",
+      "name:is": "Jórvík",
+      "name:ko": "요크",
+      "name:lt": "Jorkas",
+      "name:lv": "Jorka",
+      "name:mk": "Јорк",
+      "name:pt": "Iorque",
+      "name:ru": "Йорк",
+      "name:sr": "Јорк",
+      "name:uk": "Йорк",
+      "name:ur": "یورک",
+      "alt_name": "York City Centre",
+      "int_name": "York",
+      "name:ckb": "یۆرک",
+      "old_name": "Eboracum"
+    }
+  },
+  {
+    "name": "York",
+    "country": "United States Of America",
+    "latitude": 34.99406539965127,
+    "longitude": -81.24214029999999,
+    "other_names": {
+      "name": "York"
+    }
+  },
+  {
+    "name": "Yorkton",
+    "country": "Canada",
+    "latitude": 51.21204499921441,
+    "longitude": -102.461243,
+    "other_names": {
+      "name": "Yorkton",
+      "name:en": "Yorkton",
+      "name:ru": "Йорктон",
+      "name:uk": "Йорктон"
+    }
+  },
+  {
+    "name": "Yoro",
+    "country": "Honduras",
+    "latitude": 15.1388179999237,
+    "longitude": -87.12700799999999,
+    "other_names": {
+      "name": "Yoro",
+      "name:hu": "Yoro"
+    }
+  }
+]

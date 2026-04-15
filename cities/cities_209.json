@@ -1,0 +1,409 @@
+[
+  {
+    "name": "Jiaokou",
+    "country": "China",
+    "latitude": 36.98287759984618,
+    "longitude": 111.1764312,
+    "other_names": {
+      "name": "交口县",
+      "name:en": "Jiaokou",
+      "name:zh": "交口县",
+      "alt_name": "交口;Jiaokou County",
+      "name:zh-Hant": "交口縣"
+    }
+  },
+  {
+    "name": "Jiaoling",
+    "country": "China",
+    "latitude": 24.661358200285722,
+    "longitude": 116.16650919999998,
+    "other_names": {
+      "name": "蕉岭县",
+      "name:de": "Jiaoling",
+      "name:en": "Jiaoling",
+      "name:fa": "شهرستان جیاولینگ",
+      "name:fr": "Xian de Jiaoling",
+      "name:id": "Jiaoling",
+      "name:it": "Contea di Jiaoling",
+      "name:ja": "蕉嶺県",
+      "name:ko": "자오링현",
+      "name:no": "Jiaoling",
+      "name:ru": "Цзяолин",
+      "name:sv": "Jiaoling",
+      "name:vi": "Tiêu Lĩnh",
+      "name:zh": "蕉岭县",
+      "alt_name": "蕉岭;Jiaoling County",
+      "name:ceb": "Jiaoling Xian",
+      "name:hak": "Chiâu-liâng-yen",
+      "name:mwl": "Jiaoling",
+      "name:nan": "Chiau-niá-koān",
+      "name:yue": "蕉嶺",
+      "name:zh-Hant": "蕉嶺縣",
+      "name:zh_pinyin": "Jiāolǐng Xiàn"
+    }
+  },
+  {
+    "name": "Jiaoqu",
+    "country": "China",
+    "latitude": 37.94049759997363,
+    "longitude": 113.5726649,
+    "other_names": {
+      "name": "郊区",
+      "name:en": "Jiaoqu",
+      "name:ja": "郊区",
+      "name:zh": "郊区",
+      "alt_name": "郊;Jiaoqu District",
+      "name:zh-Hant": "郊區"
+    }
+  },
+  {
+    "name": "Jiaozhou",
+    "country": "China",
+    "latitude": 36.26408659976278,
+    "longitude": 120.0284928,
+    "other_names": {
+      "name": "胶州市",
+      "name:en": "Jiaozhou",
+      "name:ja": "膠州市",
+      "name:ru": "Цзяочжоу",
+      "name:zh": "胶州市",
+      "name:zh-Hant": "膠州市"
+    }
+  },
+  {
+    "name": "Jiaozuo",
+    "country": "China",
+    "latitude": 35.20757289966641,
+    "longitude": 113.25339769999998,
+    "other_names": {
+      "name": "焦作市",
+      "name:de": "Jiaozuo",
+      "name:en": "Jiaozuo",
+      "name:et": "Jiaozuo",
+      "name:fr": "Jiaozuo",
+      "name:ja": "焦作市",
+      "name:ru": "Цзяоцзо",
+      "name:vi": "Tiêu Tác",
+      "name:zh": "焦作市",
+      "name:zh-Hant": "焦作市",
+      "name:zh_pinyin": "Jiaozuo Shi"
+    }
+  },
+  {
+    "name": "Jiashan County",
+    "country": "China",
+    "latitude": 30.832351999672653,
+    "longitude": 120.92186800000002,
+    "other_names": {
+      "name": "嘉善县",
+      "name:de": "Jiashan",
+      "name:en": "Jiashan County",
+      "name:fa": "شهرستان جیاشان",
+      "name:fr": "Xian de Jiashan",
+      "name:it": "Contea di Jiashan",
+      "name:ja": "嘉善県",
+      "name:ko": "자산현",
+      "name:no": "Jiashan",
+      "name:pt": "Condado de Jiashan",
+      "name:ru": "Цзяшань",
+      "name:sv": "Jiashan",
+      "name:vi": "Gia Thiện",
+      "name:zh": "嘉善县",
+      "name:ceb": "Jiashan Xian",
+      "name:nan": "Ka-siān-koān",
+      "name:wuu": "嘉善",
+      "name:yue": "嘉善",
+      "name:zh-Hant": "嘉善縣",
+      "name:zh_pinyin": "Jiāshàn Xiàn"
+    }
+  },
+  {
+    "name": "Jiawang",
+    "country": "China",
+    "latitude": 34.440345099619336,
+    "longitude": 117.44689610000002,
+    "other_names": {
+      "name": "贾汪区",
+      "name:en": "Jiawang",
+      "name:vi": "Giả Uông",
+      "name:zh": "贾汪区",
+      "name:zh-Hant": "賈汪區",
+      "name:zh_pinyin": "Jiawang Qu"
+    }
+  },
+  {
+    "name": "Jiaxian",
+    "country": "China",
+    "latitude": 38.01906119998468,
+    "longitude": 110.4891824,
+    "other_names": {
+      "name": "佳县",
+      "name:en": "Jiaxian",
+      "name:vi": "Giai",
+      "name:zh": "佳县",
+      "alt_name": "葭;佳;Chia Hsien",
+      "old_name": "葭縣;葭县",
+      "name:zh-Hant": "葭縣",
+      "name:zh_pinyin": "Jia Xian"
+    }
+  },
+  {
+    "name": "Jiaxiang",
+    "country": "China",
+    "latitude": 35.40895739968208,
+    "longitude": 116.3368106,
+    "other_names": {
+      "name": "嘉祥县",
+      "name:en": "Jiaxiang",
+      "name:vi": "Gia Tường",
+      "name:zh": "嘉祥县",
+      "name:zh-Hant": "嘉祥縣",
+      "name:zh_pinyin": "Jiaxiang Xian"
+    }
+  },
+  {
+    "name": "Jiaxing",
+    "country": "China",
+    "latitude": 30.74744249967878,
+    "longitude": 120.75109710000001,
+    "other_names": {
+      "name": "嘉兴市",
+      "name:ar": "جياشينغ",
+      "name:bg": "Дзясин",
+      "name:cs": "Ťia-sing",
+      "name:da": "Jiaxing",
+      "name:de": "Jiaxing",
+      "name:en": "Jiaxing",
+      "name:es": "Jiaxing",
+      "name:et": "Jiaxing",
+      "name:eu": "Jiaxing",
+      "name:fa": "جیشانگ",
+      "name:fi": "Jiaxing",
+      "name:fr": "Jiaxing",
+      "name:hi": "जिआज़िंग",
+      "name:id": "Jiaxing",
+      "name:it": "Jiaxing",
+      "name:ja": "嘉興市",
+      "name:ki": "Jiaxing",
+      "name:ko": "자싱시",
+      "name:lt": "Dziasingas",
+      "name:mg": "Jiaxing",
+      "name:nl": "Jiaxing",
+      "name:nn": "Jiaxing",
+      "name:no": "Jiaxing",
+      "name:pl": "Jiaxing",
+      "name:pt": "Jiaxing",
+      "name:ru": "Цзясин",
+      "name:sr": "Ђасинг",
+      "name:sv": "Jiaxing",
+      "name:tl": "Jiaxing",
+      "name:tr": "Jiaxing",
+      "name:uk": "Цзясін",
+      "name:ur": "جیاشنگ",
+      "name:vi": "Gia Hưng",
+      "name:zh": "嘉兴市",
+      "name:cdo": "Gă-hĭng",
+      "name:ceb": "Jiaxing",
+      "name:hak": "Kâ-hîn-sṳ",
+      "name:lzh": "嘉興市",
+      "name:nan": "Ka-heng-chhī",
+      "name:war": "Jiaxing",
+      "name:wuu": "嘉興",
+      "name:yue": "嘉興",
+      "name:zh-Hant": "嘉興市",
+      "name:zh_pinyin": "Jiāxīng Shì"
+    }
+  },
+  {
+    "name": "Jiayin",
+    "country": "China",
+    "latitude": 48.89186599971914,
+    "longitude": 130.3998613,
+    "other_names": {
+      "name": "嘉荫县",
+      "name:en": "Jiayin",
+      "name:ru": "Цзяинь",
+      "name:zh": "嘉荫县",
+      "alt_name": "嘉荫;Chia-yin Hsien;Jiayin County",
+      "name:zh-Hant": "嘉蔭縣"
+    }
+  },
+  {
+    "name": "Jiayin",
+    "country": "Russia",
+    "latitude": 48.89186599971914,
+    "longitude": 130.3998613,
+    "other_names": {
+      "name": "嘉荫县",
+      "name:en": "Jiayin",
+      "name:ru": "Цзяинь",
+      "name:zh": "嘉荫县",
+      "alt_name": "嘉荫;Chia-yin Hsien;Jiayin County",
+      "name:zh-Hant": "嘉蔭縣"
+    }
+  },
+  {
+    "name": "Jiayu County",
+    "country": "China",
+    "latitude": 29.97242089974222,
+    "longitude": 113.93353259999999,
+    "other_names": {
+      "name": "嘉鱼县",
+      "name:de": "Jiayu",
+      "name:en": "Jiayu County",
+      "name:fa": "شهرستان جیایو",
+      "name:fr": "Xian de Jiayu",
+      "name:it": "Contea di Jiayu",
+      "name:ja": "嘉魚県",
+      "name:ko": "자위현",
+      "name:no": "Jiayu",
+      "name:sv": "Jiayu",
+      "name:vi": "Gia Ngư",
+      "name:zh": "嘉鱼县",
+      "name:gan": "嘉魚",
+      "name:nan": "Ka-hî-koān",
+      "name:yue": "嘉魚",
+      "name:zh-Hant": "嘉魚縣",
+      "name:zh_pinyin": "Jiayu Xian"
+    }
+  },
+  {
+    "name": "Jiayuguan",
+    "country": "China",
+    "latitude": 39.772229400236036,
+    "longitude": 98.2885388,
+    "other_names": {
+      "name": "嘉峪关市",
+      "name:ca": "Jiayuguan",
+      "name:cs": "Ťia-jü-kuan",
+      "name:da": "Jiayuguan (Gansu)",
+      "name:de": "Jiayuguan",
+      "name:en": "Jiayuguan",
+      "name:es": "Jiayuguan",
+      "name:et": "Jiayuguan",
+      "name:eu": "Jiayuguan",
+      "name:fr": "Jiayuguan",
+      "name:he": "החומה הסינית.",
+      "name:hy": "Ցզյայույգուան",
+      "name:it": "Jiayuguan",
+      "name:ja": "嘉峪関市",
+      "name:ko": "자위관 시",
+      "name:nl": "Jiayuguan",
+      "name:nn": "Jiayuguan",
+      "name:no": "Jiayuguan (Gansu)",
+      "name:pl": "Jiayuguan",
+      "name:pt": "Jiayuguan",
+      "name:ru": "Цзяюйгуань",
+      "name:sv": "Jiayuguan",
+      "name:tl": "Jiayuguan",
+      "name:uk": "Цзяюйгуань",
+      "name:ur": "جائیوگوان شہر",
+      "name:vi": "Gia Dục Quan",
+      "name:zh": "嘉峪关市",
+      "alt_name": "嘉峪关;Jiayuguan City",
+      "int_name": "Jiayuguan",
+      "name:zh-Hant": "嘉峪關市",
+      "name:zh_pinyin": "Jiāyùguān Shì"
+    }
+  },
+  {
+    "name": "Jidong",
+    "country": "China",
+    "latitude": 45.25281740044214,
+    "longitude": 131.13351279999998,
+    "other_names": {
+      "name": "鸡东县",
+      "name:en": "Jidong",
+      "name:es": "Jidong",
+      "name:ru": "Цзидун",
+      "name:zh": "鸡东县",
+      "alt_name": "鸡东",
+      "name:zh-Hant": "雞東縣",
+      "official_name": "鸡东镇"
+    }
+  },
+  {
+    "name": "Jiedong",
+    "country": "China",
+    "latitude": 23.56916040035803,
+    "longitude": 116.40716249999997,
+    "other_names": {
+      "name": "揭东区",
+      "name:en": "Jiedong",
+      "name:fr": "Comté de Jiēdōng",
+      "name:vi": "Yết Đông",
+      "name:zh": "揭东区",
+      "alt_name": "揭东;Jiedong District",
+      "old_name": "揭东县;Jiedong County",
+      "name:zh-Hant": "揭東區",
+      "name:zh_pinyin": "Jiēdōng xiàn"
+    }
+  },
+  {
+    "name": "Jiefang",
+    "country": "China",
+    "latitude": 35.242295799669016,
+    "longitude": 113.2152587,
+    "other_names": {
+      "name": "解放区",
+      "name:en": "Jiefang",
+      "name:vi": "Giải Phóng",
+      "name:zh": "解放区",
+      "alt_name": "解放;Jiefang District",
+      "name:zh-Hant": "解放區",
+      "name:zh_pinyin": "Jiefang Qu"
+    }
+  },
+  {
+    "name": "Jieshou",
+    "country": "China",
+    "latitude": 33.261905499587854,
+    "longitude": 115.3540362,
+    "other_names": {
+      "name": "界首市",
+      "name:de": "Jieshou",
+      "name:en": "Jieshou",
+      "name:fr": "Jieshou",
+      "name:ja": "界首市",
+      "name:ru": "Цзешоу",
+      "name:vi": "Giới Thủ",
+      "name:zh": "界首市",
+      "int_name": "Jieshou",
+      "name:zh-Hant": "界首市",
+      "name:zh_pinyin": "Jièshǒu Shì"
+    }
+  },
+  {
+    "name": "Jiexi",
+    "country": "China",
+    "latitude": 23.43379910036498,
+    "longitude": 115.83784540000002,
+    "other_names": {
+      "name": "揭西县",
+      "name:en": "Jiexi",
+      "name:zh": "揭西县",
+      "alt_name": "揭西;Jiexi County",
+      "name:zh-Hant": "揭西縣",
+      "name:zh_pinyin": "Jiēxī Xiàn"
+    }
+  },
+  {
+    "name": "Jiexiu",
+    "country": "China",
+    "latitude": 37.031003599852184,
+    "longitude": 111.91541819999999,
+    "other_names": {
+      "name": "介休市",
+      "name:de": "Jiexiu",
+      "name:en": "Jiexiu",
+      "name:fr": "Jiexiu",
+      "name:ja": "介休市",
+      "name:ru": "Цзесю",
+      "name:vi": "Giới Hưu",
+      "name:zh": "介休市",
+      "int_name": "Jiexiu",
+      "name:zh-Hant": "介休市",
+      "name:zh_pinyin": "Jièxiū Shì"
+    }
+  }
+]

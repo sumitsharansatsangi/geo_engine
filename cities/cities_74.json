@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Cangyuan",
+    "country": "China",
+    "latitude": 23.150448800377983,
+    "longitude": 99.2485069,
+    "other_names": {
+      "name": "沧源县",
+      "name:en": "Cangyuan",
+      "name:ru": "Мындун",
+      "name:vi": "Thương Nguyên",
+      "name:zh": "沧源县",
+      "alt_name": "沧源;Cangyuan",
+      "short_name": "沧源县",
+      "name:zh-Hant": "滄源縣",
+      "official_name": "沧源佤族自治县",
+      "official_name:zh": "沧源佤族自治县",
+      "official_name:zh_pinyin": "Cāngyuán wǎzú zìzhì xiàn"
+    }
+  },
+  {
+    "name": "Cangzhou",
+    "country": "China",
+    "latitude": 38.304279600025254,
+    "longitude": 116.8511597,
+    "other_names": {
+      "name": "沧州市",
+      "name:cs": "Cchang-čou",
+      "name:de": "Cangzhou",
+      "name:en": "Cangzhou",
+      "name:et": "Cangzhou",
+      "name:fr": "Cangzhou",
+      "name:ja": "滄州市",
+      "name:ru": "Цанчжоу",
+      "name:vi": "Thương Châu",
+      "name:zh": "沧州市",
+      "name:zh-Hant": "滄州市",
+      "name:zh_pinyin": "Cāngzhōu Shì"
+    }
+  },
+  {
+    "name": "Çankırı",
+    "country": "Turkey",
+    "latitude": 40.59719470034478,
+    "longitude": 33.6212704,
+    "other_names": {
+      "name": "Çankırı",
+      "name:ar": "جانقري",
+      "name:el": "Γάγγρα",
+      "name:en": "Çankırı",
+      "name:hy": "Չանկիրի",
+      "name:ka": "ჩანქირი",
+      "name:tr": "Çankırı",
+      "name:zza": "Çanqıriye",
+      "old_name": "Germanicopolis;Gangra;Γάγγρα;Γερμανικόπολις;Changra;Kandari;Kanghari",
+      "official_name": "Çankırı"
+    }
+  },
+  {
+    "name": "Cankuzo",
+    "country": "Burundi",
+    "latitude": -3.220492199738612,
+    "longitude": 30.549577399999993,
+    "other_names": {
+      "name": "Cankuzo",
+      "name:ru": "Чанкузо"
+    }
+  },
+  {
+    "name": "Canlaon",
+    "country": "Philippines",
+    "latitude": 10.386610099458725,
+    "longitude": 123.22449379999998,
+    "other_names": {
+      "name": "Canlaon",
+      "official_name": "City of Canlaon"
+    }
+  },
+  {
+    "name": "Canning",
+    "country": "India",
+    "latitude": 22.312637106620535,
+    "longitude": 88.66162126111722,
+    "other_names": {
+      "name": "Canning",
+      "name:bn": "ক্যানিং",
+      "name:hi": "कैनिंग"
+    }
+  },
+  {
+    "name": "Canoas",
+    "country": "Brazil",
+    "latitude": -29.92160449932012,
+    "longitude": -51.17995249999999,
+    "other_names": {
+      "name": "Canoas"
+    }
+  },
+  {
+    "name": "Cantanhede",
+    "country": "Portugal",
+    "latitude": 40.34618790031313,
+    "longitude": -8.5940128,
+    "other_names": {
+      "name": "Cantanhede"
+    }
+  },
+  {
+    "name": "Cantaura",
+    "country": "Venezuela",
+    "latitude": 9.300006999409746,
+    "longitude": -64.35212259999999,
+    "other_names": {
+      "name": "Cantaura"
+    }
+  },
+  {
+    "name": "Canterbury",
+    "country": "England",
+    "latitude": 51.28002749920391,
+    "longitude": 1.0802532999999999,
+    "other_names": {
+      "name": "Canterbury",
+      "name:ar": "كانتربيري",
+      "name:br": "Canterbury",
+      "name:cy": "Caergaint",
+      "name:en": "Canterbury",
+      "name:fr": "Cantorbéry",
+      "name:hu": "Canterbury",
+      "name:ko": "캔터베리",
+      "name:la": "Cantuaria",
+      "name:lt": "Kenterberis",
+      "name:lv": "Kanterburija",
+      "name:mk": "Кантербери",
+      "name:ru": "Кентербери",
+      "name:sr": "Кентербери",
+      "name:uk": "Кентербері",
+      "old_name:nl": "Kantelberg"
+    }
+  },
+  {
+    "name": "Can Tho",
+    "country": "Vietnam",
+    "latitude": 10.045185899440241,
+    "longitude": 105.7448944,
+    "other_names": {
+      "name": "Cần Thơ",
+      "name:en": "Can Tho",
+      "name:ja": "カントー",
+      "name:pt": "Can Tho",
+      "name:ru": "Кантхо",
+      "name:uk": "Кантхо",
+      "name:vi": "Cần Thơ",
+      "name:zh": "芹苴市",
+      "old_name": "Tây Đô",
+      "alt_name:en": "Cantho",
+      "official_name": "Cần Thơ",
+      "official_name:en": "Can Tho",
+      "official_name:vi": "Cần Thơ"
+    }
+  },
+  {
+    "name": "Canton",
+    "country": "United States Of America",
+    "latitude": 40.79854640036901,
+    "longitude": -81.3749508,
+    "other_names": {
+      "name": "Canton",
+      "name:en": "Canton",
+      "name:ru": "Кантон",
+      "name:uk": "Кантон"
+    }
+  },
+  {
+    "name": "Cao Bằng",
+    "country": "Vietnam",
+    "latitude": 22.666662100395218,
+    "longitude": 106.2588039,
+    "other_names": {
+      "name": "Cao Bằng",
+      "name:en": "Cao Bằng",
+      "name:ja": "カオバン",
+      "name:ko": "까오방",
+      "name:lt": "Kaobangas",
+      "name:ru": "Каобанг",
+      "name:uk": "Каобанг",
+      "name:zh": "高平市"
+    }
+  },
+  {
+    "name": "Caofeidian",
+    "country": "China",
+    "latitude": 39.27252950016528,
+    "longitude": 118.45403489999998,
+    "other_names": {
+      "name": "曹妃甸区",
+      "name:en": "Caofeidian",
+      "name:vi": "Tào Phi Điện",
+      "name:zh": "曹妃甸区",
+      "alt_name": "曹妃甸;Caofeidian District",
+      "old_name": "唐海县",
+      "old_name:en": "Tanghai Country",
+      "name:zh-Hant": "曹妃甸區",
+      "name:zh_pinyin": "Cáofēidiān Qū"
+    }
+  },
+  {
+    "name": "Cao Lanh",
+    "country": "Vietnam",
+    "latitude": 10.462032199463172,
+    "longitude": 105.6357948,
+    "other_names": {
+      "name": "Cao Lãnh",
+      "name:en": "Cao Lanh",
+      "name:fr": "Cao Lãnh",
+      "name:ko": "까올라인",
+      "name:ru": "Каулань",
+      "name:zh": "高领市",
+      "alt_name": "Cao Lãnh",
+      "official_name": "Thành phố Cao Lãnh"
+    }
+  },
+  {
+    "name": "Caoxian",
+    "country": "China",
+    "latitude": 34.82629699964045,
+    "longitude": 115.5367183,
+    "other_names": {
+      "name": "曹县",
+      "name:en": "Caoxian",
+      "name:vi": "Tào",
+      "name:zh": "曹县",
+      "name:zh-Hant": "曹縣",
+      "name:zh_pinyin": "Cao Xian"
+    }
+  },
+  {
+    "name": "Cape Coast",
+    "country": "Ghana",
+    "latitude": 5.107466999499122,
+    "longitude": -1.2430793,
+    "other_names": {
+      "name": "Cape Coast",
+      "name:ar": "كيب كوست",
+      "name:ru": "Кейп-Кост",
+      "name:uk": "Кейп-Кост"
+    }
+  },
+  {
+    "name": "Cape Coral",
+    "country": "United States Of America",
+    "latitude": 26.605943200100842,
+    "longitude": -81.9806771,
+    "other_names": {
+      "name": "Cape Coral",
+      "name:ru": "Кейп-Корал"
+    }
+  },
+  {
+    "name": "Cape Girardeau",
+    "country": "United States Of America",
+    "latitude": 37.303493299887116,
+    "longitude": -89.5230357,
+    "other_names": {
+      "name": "Cape Girardeau",
+      "name:ru": "Кейп-Джирардо"
+    }
+  },
+  {
+    "name": "Cape Town",
+    "country": "South Africa And Lesotho",
+    "latitude": -33.92899199967751,
+    "longitude": 18.417396,
+    "other_names": {
+      "name": "Cape Town",
+      "name:af": "Kaapstad",
+      "name:ar": "كيب تون",
+      "name:cs": "Kapské město",
+      "name:da": "Kapstaden",
+      "name:de": "Kapstadt",
+      "name:en": "Cape Town",
+      "name:eo": "Kaburbo",
+      "name:es": "Ciudad del Cabo",
+      "name:et": "Kaplinn",
+      "name:fa": "کیپ تاون",
+      "name:fi": "Kapkaupunki",
+      "name:fr": "Le Cap",
+      "name:he": "קייפטאון",
+      "name:hu": "Fokváros",
+      "name:is": "Höfðaborg",
+      "name:it": "Città del Capo",
+      "name:ja": "ケープ タウン",
+      "name:kn": "ಕೇಪ್ಟೌನ್",
+      "name:ko": "케이프타운",
+      "name:lt": "Keiptaunas",
+      "name:mi": "Kēpa Tāone",
+      "name:nl": "Kaapstad",
+      "name:oc": "Lo Cap",
+      "name:pl": "Kapsztad",
+      "name:pt": "Cidade do Cabo",
+      "name:ru": "Кейптаун",
+      "name:sk": "Kapské mesto",
+      "name:sr": "Кејптаун",
+      "name:sv": "Kapstaden",
+      "name:ta": "கேப் டவுன்",
+      "name:ur": "کیپ ٹاؤن",
+      "name:xh": "iKapa",
+      "name:zh": "開普敦",
+      "name:ckb": "کەیپ تاون",
+      "alt_name:ar": "كيب تاون",
+      "name:zh-Hans": "开普敦"
+    }
+  }
+]

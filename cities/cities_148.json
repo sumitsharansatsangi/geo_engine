@@ -1,0 +1,278 @@
+[
+  {
+    "name": "Garden City",
+    "country": "United States Of America",
+    "latitude": 37.97168979997801,
+    "longitude": -100.87266179999999,
+    "other_names": {
+      "name": "Garden City"
+    }
+  },
+  {
+    "name": "Garden Grove",
+    "country": "United States Of America",
+    "latitude": 33.774629199595395,
+    "longitude": -117.94637169999997,
+    "other_names": {
+      "name": "Garden Grove"
+    }
+  },
+  {
+    "name": "Gardez",
+    "country": "Afghanistan",
+    "latitude": 33.6008473164448,
+    "longitude": 69.22031245541011,
+    "other_names": {
+      "name": "ګردېزښار",
+      "name:cs": "Gardéz",
+      "name:de": "Gardez",
+      "name:el": "Γκαρντέζ",
+      "name:en": "Gardez",
+      "name:es": "Gardez",
+      "name:fa": "گردیز",
+      "name:fr": "Gardêz",
+      "name:ja": "ガルデーズ",
+      "name:lt": "GardezasGardezas",
+      "name:ps": "ګردېز",
+      "name:ru": "Гардез",
+      "name:uk": "Гардез"
+    }
+  },
+  {
+    "name": "Gardez",
+    "country": "Afghanistan",
+    "latitude": 33.60145329959179,
+    "longitude": 69.22355179999998,
+    "other_names": {
+      "name": "ګردېزښار",
+      "name:cs": "Gardéz",
+      "name:de": "Gardez",
+      "name:el": "Γκαρντέζ",
+      "name:en": "Gardez",
+      "name:es": "Gardez",
+      "name:fa": "گردیز",
+      "name:fr": "Gardêz",
+      "name:hi": "गरदेज़",
+      "name:ja": "ガルデーズ",
+      "name:lt": "GardezasGardezas",
+      "name:ps": "ګردېز",
+      "name:ru": "Гардез",
+      "name:uk": "Гардез"
+    }
+  },
+  {
+    "name": "Gardner",
+    "country": "United States Of America",
+    "latitude": 42.58235640052162,
+    "longitude": -71.9831716,
+    "other_names": {
+      "name": "Gardner"
+    }
+  },
+  {
+    "name": "Garissa",
+    "country": "Kenya",
+    "latitude": -0.4567098999540931,
+    "longitude": 39.640471299999994,
+    "other_names": {
+      "name": "Garissa",
+      "name:ar": "غاريسا",
+      "name:fa": "گاریسا",
+      "name:ko": "가리사",
+      "name:ru": "Гарисса",
+      "name:ur": "گاریسا"
+    }
+  },
+  {
+    "name": "Garland",
+    "country": "United States Of America",
+    "latitude": 32.91262399958812,
+    "longitude": -96.63888330000002,
+    "other_names": {
+      "name": "Garland"
+    }
+  },
+  {
+    "name": "Garoowe",
+    "country": "Somalia",
+    "latitude": 8.406142999391752,
+    "longitude": 48.48319500000001,
+    "other_names": {
+      "name": "Garoowe غاروي",
+      "name:ar": "غاروي",
+      "name:de": "Garoowe",
+      "name:en": "Garoowe",
+      "name:es": "Garowe",
+      "name:fr": "Garowe",
+      "name:it": "Garoe",
+      "name:ko": "가로웨",
+      "name:ru": "Гароуэ",
+      "name:uk": "Гарове",
+      "alt_name": "Garowe"
+    }
+  },
+  {
+    "name": "Garoua",
+    "country": "Cameroon",
+    "latitude": 9.307069799409966,
+    "longitude": 13.393452699999997,
+    "other_names": {
+      "name": "Garoua",
+      "name:ar": "غاروا",
+      "name:de": "Garua",
+      "name:en": "Garoua",
+      "name:fa": "گاروا",
+      "name:ko": "가루아",
+      "name:ru": "Гаруа",
+      "name:uk": "Гаруа",
+      "name:ur": "گارؤا",
+      "name:azb": "قاروا"
+    }
+  },
+  {
+    "name": "Gary",
+    "country": "United States Of America",
+    "latitude": 41.602129200453355,
+    "longitude": -87.33713719999999,
+    "other_names": {
+      "name": "Gary"
+    }
+  },
+  {
+    "name": "Garze",
+    "country": "China",
+    "latitude": 31.62803549962469,
+    "longitude": 99.9908759,
+    "other_names": {
+      "name": "甘孜县",
+      "name:en": "Garze",
+      "name:zh": "甘孜县",
+      "alt_name": "甘孜;Ganzi Xian;Kan-tzu Hsien;Garze County",
+      "name:zh-Hant": "甘孜縣",
+      "name:zh_pinyin": "Gānzī Xiàn"
+    }
+  },
+  {
+    "name": "Garzê Tibetan Autonomous Prefecture",
+    "country": "China",
+    "latitude": 30.052149599735102,
+    "longitude": 101.96098389999999,
+    "other_names": {
+      "name": "甘孜州",
+      "name:bo": "དཀར་མཛེས",
+      "name:en": "Garzê Tibetan Autonomous Prefecture",
+      "name:hu": "Tibeti Autonóm Tartomány",
+      "name:ru": "Гардзе-Тибетский автономный округ",
+      "name:vi": "Garzê",
+      "name:zh": "甘孜藏族自治州",
+      "alt_name": "Kardze;Kandze;Garzê;Ganzi;Kandzé Tibetan Autonomous Prefecture",
+      "int_name": "Garzê",
+      "short_name": "甘孜州",
+      "alt_name:en": "Garze",
+      "alt_name:vi": "Cam Tư",
+      "name:zh-Hant": "甘孜州",
+      "official_name": "甘孜藏族自治州"
+    }
+  },
+  {
+    "name": "Gashua",
+    "country": "Nigeria",
+    "latitude": 12.872854599665878,
+    "longitude": 11.038780899999999,
+    "other_names": {
+      "name": "Gashua",
+      "name:ru": "Гашуа"
+    }
+  },
+  {
+    "name": "Gastonia",
+    "country": "United States Of America",
+    "latitude": 35.26221579967053,
+    "longitude": -81.1838794,
+    "other_names": {
+      "name": "Gastonia"
+    }
+  },
+  {
+    "name": "Gatineau",
+    "country": "Canada",
+    "latitude": 45.42790160042177,
+    "longitude": -75.71105689999999,
+    "other_names": {
+      "name": "Gatineau",
+      "name:zh-Hans": "加蒂诺",
+      "name:zh-Hant": "加蒂諾",
+      "official_name": "Ville de Gatineau"
+    }
+  },
+  {
+    "name": "Gävle",
+    "country": "Sweden",
+    "latitude": 60.67501320173983,
+    "longitude": 17.1467019,
+    "other_names": {
+      "name": "Gävle",
+      "name:he": "יבלה",
+      "name:hu": "Gävle",
+      "name:lt": "Jevlė",
+      "name:ru": "Евле",
+      "name:sv": "Gävle",
+      "old_name": "Gefle"
+    }
+  },
+  {
+    "name": "Gawler",
+    "country": "Australia",
+    "latitude": -34.597331099805245,
+    "longitude": 138.7448933,
+    "other_names": {
+      "name": "Gawler",
+      "name:ja": "ゴーラー"
+    }
+  },
+  {
+    "name": "Gaya",
+    "country": "Niger",
+    "latitude": 11.884753999570002,
+    "longitude": 3.4598849999999994,
+    "other_names": {
+      "name": "Gaya",
+      "name:ar": "غايا",
+      "name:ru": "Гая"
+    }
+  },
+  {
+    "name": "Gaya",
+    "country": "India",
+    "latitude": 24.79643550027494,
+    "longitude": 85.0079563,
+    "other_names": {
+      "name": "Gaya",
+      "name:ar": "غايا",
+      "name:bn": "গয়া",
+      "name:en": "Gaya",
+      "name:he": "גיאה",
+      "name:hi": "गया",
+      "name:ja": "ガヤー",
+      "name:kn": "ಗಯಾ",
+      "name:ml": "ഗയ",
+      "name:pa": "ਗਯਾ",
+      "name:ru": "Гая",
+      "name:ta": "கயை",
+      "name:uk": "Гая",
+      "name:ur": "گایا",
+      "alt_name:ar": "جايا"
+    }
+  },
+  {
+    "name": "Gaya",
+    "country": "Benin",
+    "latitude": 11.884753999570002,
+    "longitude": 3.4598849999999994,
+    "other_names": {
+      "name": "Gaya",
+      "name:ar": "غايا",
+      "name:ru": "Гая"
+    }
+  }
+]

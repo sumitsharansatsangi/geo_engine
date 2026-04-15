@@ -1,0 +1,358 @@
+[
+  {
+    "name": "Alashankou",
+    "country": "China",
+    "latitude": 45.17244440045088,
+    "longitude": 82.5532972,
+    "other_names": {
+      "name": "阿拉山口市",
+      "name:de": "Alashankou",
+      "name:en": "Alashankou",
+      "name:es": "Alashankou",
+      "name:fr": "Alashankou",
+      "name:kk": "Алашанькоу",
+      "name:ru": "Алашанькоу",
+      "name:ug": "ئالاتاۋ ئېغىزى",
+      "name:zh": "阿拉山口市",
+      "alt_name": "阿拉山口市;Alatav Ighizi;Alataw Pass",
+      "int_name": "Alashankou",
+      "name:zh-Hant": "阿拉山口市"
+    }
+  },
+  {
+    "name": "Al Aziziya",
+    "country": "Libya",
+    "latitude": 32.53309229959323,
+    "longitude": 13.017624199999998,
+    "other_names": {
+      "name": "العزيزية",
+      "name:ar": "العزيزية",
+      "name:de": "Al ’Azīziyah",
+      "name:en": "Al Aziziya",
+      "name:es": "Al Aziziya",
+      "name:fr": "El Azizia",
+      "name:it": "El-Azizia",
+      "name:ckb": "عەزیزیە"
+    }
+  },
+  {
+    "name": "Albacete",
+    "country": "Spain",
+    "latitude": 38.995092100125206,
+    "longitude": -1.8559154,
+    "other_names": {
+      "name": "Albacete",
+      "name:ar": "البسيط",
+      "name:be": "Альбасетэ",
+      "name:el": "Αλμπαθέτε",
+      "name:es": "Albacete",
+      "name:hu": "Albacete",
+      "name:ja": "アルバセテ",
+      "name:ru": "Альбасете",
+      "name:sr": "Албасете"
+    }
+  },
+  {
+    "name": "Alba Iulia",
+    "country": "Romania",
+    "latitude": 46.073406014729066,
+    "longitude": 23.574650846956608,
+    "other_names": {
+      "name": "Alba Iulia",
+      "name:cs": "Karlovský Bělehrad",
+      "name:ru": "Алба-Юлия"
+    }
+  },
+  {
+    "name": "Alba Iulia",
+    "country": "Romania",
+    "latitude": 46.068738500331726,
+    "longitude": 23.5704398,
+    "other_names": {
+      "name": "Alba Iulia",
+      "name:de": "Karlsburg",
+      "name:el": "Άλμπα Ιούλια",
+      "name:he": "אלבה יוליה",
+      "name:hu": "Gyulafehérvár",
+      "name:la": "Apulum",
+      "name:lt": "Alba Julija",
+      "name:ru": "Алба-Юлия",
+      "name:sr": "Алба Јулија",
+      "name:tr": "Erdel Belgradı",
+      "name:uk": "Алба-Юлія",
+      "old_name": "Bălgrad;Bălgărad",
+      "old_name:de": "Balgrad;Weißenburg"
+    }
+  },
+  {
+    "name": "Albany",
+    "country": "United States Of America",
+    "latitude": 42.651167400524706,
+    "longitude": -73.754968,
+    "other_names": {
+      "name": "Albany",
+      "name:en": "Albany",
+      "name:pl": "Albany",
+      "name:ru": "Олбани",
+      "name:ta": "ஆல்பெனி",
+      "name:uk": "Олбані",
+      "name:zh": "奥尔巴尼 / 阿伯尼",
+      "name:hak": "Albany",
+      "name:nan": "Albany",
+      "name:zh-Hans": "奥尔巴尼",
+      "name:zh-Hant": "阿伯尼"
+    }
+  },
+  {
+    "name": "Albany",
+    "country": "United States Of America",
+    "latitude": 44.636507100498854,
+    "longitude": -123.10593240000001,
+    "other_names": {
+      "name": "Albany",
+      "name:ja": "オールバニ"
+    }
+  },
+  {
+    "name": "Albany",
+    "country": "Australia",
+    "latitude": -35.02478219989419,
+    "longitude": 117.88360799999998,
+    "other_names": {
+      "name": "Albany",
+      "name:en": "Albany",
+      "name:ja": "アルバニー",
+      "name:ru": "Олбани",
+      "name:uk": "Албані",
+      "name:nys": "Kinjarling"
+    }
+  },
+  {
+    "name": "Albany",
+    "country": "United States Of America",
+    "latitude": 31.57820619962718,
+    "longitude": -84.1556809,
+    "other_names": {
+      "name": "Albany"
+    }
+  },
+  {
+    "name": "Albergaria-a-Velha",
+    "country": "Portugal",
+    "latitude": 40.69068880035616,
+    "longitude": -8.4792205,
+    "other_names": {
+      "name": "Albergaria-a-Velha",
+      "name:uk": "Албергарія-а-Велья"
+    }
+  },
+  {
+    "name": "Albuquerque",
+    "country": "United States Of America",
+    "latitude": 35.084103399657465,
+    "longitude": -106.650985,
+    "other_names": {
+      "name": "Albuquerque",
+      "name:ar": "ألباكركي",
+      "name:bg": "Албакърки",
+      "name:en": "Albuquerque",
+      "name:es": "Albuquerque",
+      "name:fa": "آلبوکرکی",
+      "name:he": "אלבקרקי",
+      "name:ja": "アルバカーキ",
+      "name:ka": "ალბუკერკე",
+      "name:ko": "앨버커키",
+      "name:lt": "Albukerkė",
+      "name:mk": "Албакерки",
+      "name:mr": "आल्बुकर्की",
+      "name:nv": "Bee'eldííldahsinil",
+      "name:ru": "Альбукерке",
+      "name:sr": "Албукерки",
+      "name:th": "อัลบูเคอร์คี",
+      "name:zh": "阿尔伯克基 / 阿布奎基 / 阿爾伯克基",
+      "name:yue": "阿爾伯克基",
+      "name:zh-hk": "阿爾伯克基",
+      "name:zh-tw": "阿布奎基",
+      "short_name": "ABQ",
+      "name:zh-Hans": "阿尔伯克基",
+      "name:zh-Hant": "阿布奎基 / 阿爾伯克基"
+    }
+  },
+  {
+    "name": "Albury",
+    "country": "Australia",
+    "latitude": -36.08047660013087,
+    "longitude": 146.91627949999997,
+    "other_names": {
+      "name": "Albury",
+      "name:en": "Albury",
+      "name:ja": "オルベリー",
+      "name:ru": "Олбери"
+    }
+  },
+  {
+    "name": "Alcalá de Henares",
+    "country": "Spain",
+    "latitude": 40.48183960033042,
+    "longitude": -3.3644972999999996,
+    "other_names": {
+      "name": "Alcalá de Henares",
+      "name:ar": "القلعة الحجارة",
+      "name:el": "Αλκαλά ντε Ενάρες",
+      "name:es": "Alcalá de Henares",
+      "name:fa": "الکالا د هنارس",
+      "name:hu": "Alcalá de Henares",
+      "name:lt": "Alkala de Henaresas",
+      "name:ru": "Алькала-де-Энарес",
+      "name:sr": "Алкала де Енарес",
+      "name:uk": "Алькала-де-Енарес",
+      "name:ur": "الکالا دے ایناریس",
+      "alt_name:ar": "ألكالا دي إيناريس"
+    }
+  },
+  {
+    "name": "Alchevsk",
+    "country": "Ukraine",
+    "latitude": 48.46966619982364,
+    "longitude": 38.7993994,
+    "other_names": {
+      "name": "Алчевськ",
+      "name:ar": "ألتشيفسك",
+      "name:bg": "Алчевск",
+      "name:cs": "Alčevsk",
+      "name:cv": "Алчевск",
+      "name:de": "Altschewsk",
+      "name:en": "Alchevsk",
+      "name:eo": "Alĉevsk",
+      "name:es": "Alchevsk",
+      "name:et": "Altševsk",
+      "name:fa": "آلچفسک",
+      "name:fi": "Altševsk",
+      "name:fr": "Altchevsk",
+      "name:hu": "Alcsevszk",
+      "name:id": "Alchevsk",
+      "name:it": "Alčevs'k",
+      "name:ko": "알체우시크",
+      "name:lt": "Alčevskas",
+      "name:nl": "Altsjevsk",
+      "name:nn": "Altsjevsk",
+      "name:pl": "Ałczewsk",
+      "name:ro": "Alcevsk",
+      "name:ru": "Алчевск",
+      "name:sr": "Алчевск",
+      "name:uk": "Алчевськ",
+      "name:vi": "Alchevsk",
+      "name:zh": "阿尔切夫斯克",
+      "name:hsb": "Alčewsk",
+      "name:rue": "Алчевск",
+      "name:war": "Alchevsk",
+      "name:simple": "Alchevsk",
+      "old_name:ru": "Коммунарск"
+    }
+  },
+  {
+    "name": "Alchevsk",
+    "country": "Ukraine",
+    "latitude": 48.47977217458276,
+    "longitude": 38.79336569638624,
+    "other_names": {
+      "name": "Алчевськ",
+      "name:ar": "ألتشيفسك",
+      "name:bg": "Алчевск",
+      "name:cs": "Alčevsk",
+      "name:cv": "Алчевск",
+      "name:de": "Altschewsk",
+      "name:en": "Alchevsk",
+      "name:eo": "Alĉevsk",
+      "name:es": "Alchevsk",
+      "name:et": "Altševsk",
+      "name:fa": "آلچفسک",
+      "name:fi": "Altševsk",
+      "name:fr": "Altchevsk",
+      "name:id": "Alchevsk",
+      "name:it": "Alčevs'k",
+      "name:ko": "알체우시크",
+      "name:lt": "Alčevskas",
+      "name:nl": "Altsjevsk",
+      "name:nn": "Altsjevsk",
+      "name:pl": "Ałczewsk",
+      "name:ro": "Alcevsk",
+      "name:ru": "Алчевск",
+      "name:sr": "Алчевск",
+      "name:uk": "Алчевськ",
+      "name:vi": "Alchevsk",
+      "name:zh": "阿尔切夫斯克",
+      "name:ast": "Alchevsk",
+      "name:hsb": "Alčewsk",
+      "name:rue": "Алчевск",
+      "name:war": "Alchevsk",
+      "official_name": "Україна"
+    }
+  },
+  {
+    "name": "Alcoa",
+    "country": "United States Of America",
+    "latitude": 35.789527099715265,
+    "longitude": -83.9737935,
+    "other_names": {
+      "name": "Alcoa"
+    }
+  },
+  {
+    "name": "Alcobaça",
+    "country": "Portugal",
+    "latitude": 39.55191990020515,
+    "longitude": -8.9763396,
+    "other_names": {
+      "name": "Alcobaça",
+      "name:el": "Αλκομπάσα"
+    }
+  },
+  {
+    "name": "Alcobendas",
+    "country": "Spain",
+    "latitude": 40.54000820033769,
+    "longitude": -3.6358493999999997,
+    "other_names": {
+      "name": "Alcobendas",
+      "name:ar": "ألكوبينداس",
+      "name:hu": "Alcobendas",
+      "name:ru": "Алькобендас",
+      "name:sr": "Алкобендас"
+    }
+  },
+  {
+    "name": "Alcorcón",
+    "country": "Spain",
+    "latitude": 40.34929980031353,
+    "longitude": -3.8284295,
+    "other_names": {
+      "name": "Alcorcón",
+      "name:en": "Alcorcón",
+      "name:hu": "Alcorcón",
+      "name:ja": "アルコルコン",
+      "name:lt": "Alkorkonas",
+      "name:ru": "Алькоркон",
+      "name:sr": "Алкоркон",
+      "name:uk": "Алькоркон",
+      "name:zh": "阿尔科尔孔"
+    }
+  },
+  {
+    "name": "Al Dabbah",
+    "country": "Sudan",
+    "latitude": 18.043988000237867,
+    "longitude": 30.95119,
+    "other_names": {
+      "name": "الدبة",
+      "name:ar": "الدبة",
+      "name:de": "Ad-Dabba",
+      "name:en": "Al Dabbah",
+      "name:es": "Al Dabbah",
+      "name:fr": "Al Dabbah",
+      "alt_name": "El Debba;Debbeh;Debbat el Muaskar;Ad Dabba;Dabbah;Ed Debba;Al Dabbah;Debba;Ad Dabbah",
+      "alt_name:ar": "الدبّ;دبّة;الدبّة",
+      "alt_name:en": "Ad Dabbah"
+    }
+  }
+]

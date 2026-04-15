@@ -1,0 +1,404 @@
+[
+  {
+    "name": "Växjö",
+    "country": "Sweden",
+    "latitude": 56.87871830019723,
+    "longitude": 14.8094385,
+    "other_names": {
+      "name": "Växjö",
+      "name:he": "וקשה",
+      "name:hu": "Växjö",
+      "name:la": "Wexionia",
+      "name:lt": "Vekšė",
+      "name:ru": "Векшё",
+      "name:sv": "Växjö"
+    }
+  },
+  {
+    "name": "Vehari",
+    "country": "Pakistan",
+    "latitude": 30.044787099735764,
+    "longitude": 72.3489871,
+    "other_names": {
+      "name": "وِہاڑی‎",
+      "name:en": "Vehari"
+    }
+  },
+  {
+    "name": "Vehari",
+    "country": "Pakistan",
+    "latitude": 30.045224119393954,
+    "longitude": 72.35528236383837,
+    "other_names": {
+      "name": "وہاڑی",
+      "name:ar": "وهاري",
+      "name:en": "Vehari",
+      "name:fa": "وهاری",
+      "name:ur": "وہاڑی"
+    }
+  },
+  {
+    "name": "Vejle",
+    "country": "Denmark",
+    "latitude": 55.700005699665205,
+    "longitude": 9.533323799999998,
+    "other_names": {
+      "name": "Vejle",
+      "name:bg": "Вайле",
+      "name:fa": "وایله",
+      "name:ja": "ヴァイレ",
+      "name:ka": "ვაილე",
+      "name:ko": "바일레",
+      "name:lt": "Vailė",
+      "name:mk": "Вајле",
+      "name:ru": "Вайле",
+      "name:sr": "Вејле",
+      "name:th": "ไวเล",
+      "name:zh": "瓦埃勒",
+      "old_name:de": "Weile"
+    }
+  },
+  {
+    "name": "Veles",
+    "country": "Macedonia",
+    "latitude": 41.718869000463684,
+    "longitude": 21.770569499999997,
+    "other_names": {
+      "name": "Велес",
+      "name:ar": "فيليس",
+      "name:bg": "Велес",
+      "name:de": "Veles",
+      "name:en": "Veles",
+      "name:es": "Veles",
+      "name:et": "Veles",
+      "name:fr": "Vélès",
+      "name:mk": "Велес",
+      "name:ru": "Велес",
+      "name:sq": "Velesi",
+      "name:sr": "Велес",
+      "name:tr": "Köprülü",
+      "int_name": "Veles",
+      "name:sr-Latn": "Veles"
+    }
+  },
+  {
+    "name": "Velikiye Luki",
+    "country": "Russia",
+    "latitude": 56.338613028964915,
+    "longitude": 30.54108889964424,
+    "other_names": {
+      "name": "Великие Луки",
+      "name:de": "Welikije Luki",
+      "name:en": "Velikiye Luki",
+      "name:lt": "Didieji Lukai",
+      "name:ru": "Великие Луки",
+      "alt_name": "Город Великие Луки"
+    }
+  },
+  {
+    "name": "Velikiye Luki",
+    "country": "Russia",
+    "latitude": 56.342360999939615,
+    "longitude": 30.527922,
+    "other_names": {
+      "name": "Великие Луки",
+      "name:be": "Вялікія Лукі",
+      "name:de": "Welikije Luki",
+      "name:en": "Velikiye Luki",
+      "name:es": "Velíkiye Luki",
+      "name:et": "Velikije Luki",
+      "name:fr": "Velikié Louki",
+      "name:hu": "Velikije Luki",
+      "name:lt": "Didieji Lukai",
+      "name:pl": "Wielkie Łuki",
+      "name:ru": "Великие Луки",
+      "name:sr": "Велики Луки",
+      "name:uk": "Великі Луки",
+      "name:full": "город Великие Луки"
+    }
+  },
+  {
+    "name": "Veliko Tarnovo",
+    "country": "Bulgaria",
+    "latitude": 43.08205840053839,
+    "longitude": 25.6321312,
+    "other_names": {
+      "name": "Велико Търново",
+      "name:bg": "Велико Търново",
+      "name:de": "Weliko Tarnowo",
+      "name:el": "Βελίκο Τίρνοβο",
+      "name:en": "Veliko Tarnovo",
+      "name:es": "Veliko Tarnovo",
+      "name:et": "Veliko Tǎrnovo",
+      "name:fr": "Veliko Tarnovo",
+      "name:hr": "Veliko Tarnovo",
+      "name:mk": "Велико Трново",
+      "name:nl": "Veliko Tarnovo",
+      "name:pl": "Wielkie Tyrnowo",
+      "name:pt": "Veliko Turnovo",
+      "name:ro": "Veliko Tărnovo",
+      "name:ru": "Велико-Тырново",
+      "name:sr": "Велико Трново",
+      "name:tr": "Veliko Tırnovo",
+      "int_name": "Veliko Tarnovo",
+      "short_name": "Търново",
+      "name:sr-Latn": "Veliko Trnovo",
+      "short_name:de": "Tarnowo",
+      "short_name:en": "Tarnovo",
+      "short_name:es": "Tarnovo",
+      "short_name:fr": "Tarnovo",
+      "short_name:hr": "Tarnovo",
+      "short_name:nl": "Tarnovo",
+      "short_name:pl": "Tyrnowo",
+      "short_name:pt": "Turnovo",
+      "short_name:ro": "Tărnovo",
+      "short_name:ru": "Тырново",
+      "short_name:sr": "Трново",
+      "short_name:tr": "Tırnovo"
+    }
+  },
+  {
+    "name": "Veliky Novgorod",
+    "country": "Russia",
+    "latitude": 58.52098620103957,
+    "longitude": 31.2757862,
+    "other_names": {
+      "name": "Великий Новгород",
+      "name:ar": "فيليكي نوفغورود",
+      "name:az": "Veliky Novqorod",
+      "name:be": "Вялікі Ноўгарад",
+      "name:ca": "Nòvgorod",
+      "name:cs": "Velký Novgorod",
+      "name:de": "Weliki Nowgorod",
+      "name:en": "Veliky Novgorod",
+      "name:es": "Nóvgorod",
+      "name:et": "Veliki Novgorod",
+      "name:eu": "Novgorod",
+      "name:fa": "ولیکی نووگورود",
+      "name:fi": "Veliki Novgorod",
+      "name:fr": "Novgorod",
+      "name:hu": "Velikij Novgorod",
+      "name:hy": "Մեծ Նովգորոդ",
+      "name:is": "Hólmgarður",
+      "name:ja": "ノヴゴロド",
+      "name:ka": "დიდი ნოვგოროდი",
+      "name:lt": "Naugardas",
+      "name:nl": "Veliki Novgorod",
+      "name:pl": "Nowogród Wielki",
+      "name:ru": "Великий Новгород",
+      "name:sk": "Velikij Novgorod",
+      "name:sr": "Велики Новгород",
+      "name:uk": "Великий Новгород",
+      "name:zh": "大诺夫哥罗德",
+      "int_name": "Velikiy Novgorod",
+      "name:hsb": "Wjelikij Nowgorod",
+      "old_name": "Новгород",
+      "alt_name:ca": "Veliki Nòvgorod",
+      "alt_name:de": "Groß-Nowgorod",
+      "alt_name:en": "Great Novgorod",
+      "name:be-tarask": "Вялікі Ноўгарад"
+    }
+  },
+  {
+    "name": "Veliky Novgorod",
+    "country": "Russia",
+    "latitude": 58.564202497521926,
+    "longitude": 31.28569912610958,
+    "other_names": {
+      "name": "Великий Новгород",
+      "name:en": "Veliky Novgorod",
+      "name:fi": "Novgorod",
+      "name:fr": "Novgorod",
+      "name:ru": "Великий Новгород"
+    }
+  },
+  {
+    "name": "Vellore",
+    "country": "India",
+    "latitude": 12.907175299669465,
+    "longitude": 79.13096949999999,
+    "other_names": {
+      "name": "Vellore",
+      "name:ar": "ويلور",
+      "name:en": "Vellore",
+      "name:fa": "ولور",
+      "name:he": "ולור",
+      "name:hi": "वेल्लोर",
+      "name:ja": "ヴェールール",
+      "name:kn": "ವೇಲೂರ್",
+      "name:ml": "വെല്ലൂർ",
+      "name:pa": "ਵੇਲੂਰ",
+      "name:ta": "வேலூர்",
+      "name:te": "వేలూర్",
+      "name:ur": "ویلور",
+      "alt_name:ar": "فيلوري"
+    }
+  },
+  {
+    "name": "Venice",
+    "country": "Italy",
+    "latitude": 45.43719080042064,
+    "longitude": 12.3345898,
+    "other_names": {
+      "name": "Venezia",
+      "name:ar": "البندقية",
+      "name:be": "Венецыя",
+      "name:bg": "Венеция",
+      "name:ca": "Venècia",
+      "name:cs": "Benátky",
+      "name:cy": "Fenis",
+      "name:da": "Venedig",
+      "name:de": "Venedig",
+      "name:el": "Βενετία",
+      "name:en": "Venice",
+      "name:eo": "Venecio",
+      "name:es": "Venecia",
+      "name:et": "Veneetsia",
+      "name:fa": "ونیز",
+      "name:fi": "Venetsia",
+      "name:fr": "Venise",
+      "name:fy": "Feneesje",
+      "name:he": "ונציה",
+      "name:hr": "Venecija",
+      "name:hu": "Velence",
+      "name:it": "Venezia",
+      "name:ja": "ヴェネツィア",
+      "name:kn": "ವೆನಿಸ್",
+      "name:ku": "Wênîs",
+      "name:la": "Venetiae",
+      "name:lb": "Venedeg",
+      "name:lt": "Venecija",
+      "name:nl": "Venetië",
+      "name:pl": "Wenecja",
+      "name:pt": "Veneza",
+      "name:rm": "Vnescha",
+      "name:ro": "Veneţia",
+      "name:ru": "Венеция",
+      "name:sk": "Benátky",
+      "name:sl": "Benetke",
+      "name:sr": "Венеција",
+      "name:sv": "Venedig",
+      "name:tr": "Venedik",
+      "name:tt": "Венеция",
+      "name:uk": "Венеція",
+      "name:ve": "Venesia",
+      "name:vi": "Vơ-ni-dơ",
+      "name:zh": "威尼斯",
+      "name:ast": "Venecia",
+      "name:fur": "Vignesie",
+      "name:hsb": "Benatki",
+      "name:vec": "Venesia",
+      "name:zh-Hans": "威尼斯",
+      "name:zh-Hant": "威尼斯"
+    }
+  },
+  {
+    "name": "Venlo",
+    "country": "Netherlands",
+    "latitude": 51.37021089919054,
+    "longitude": 6.168895399999999,
+    "other_names": {
+      "name": "Venlo",
+      "name:ar": "فينلو",
+      "name:de": "Venlo",
+      "name:fy": "Fenlo",
+      "name:la": "Venlonum",
+      "name:ru": "Венло",
+      "name:sr": "Венло",
+      "name:zh": "文洛",
+      "name:nds": "Venlo",
+      "name:carnaval": "Jocus Riék"
+    }
+  },
+  {
+    "name": "Ventspils",
+    "country": "Latvia",
+    "latitude": 57.39039180045847,
+    "longitude": 21.5635991,
+    "other_names": {
+      "name": "Ventspils",
+      "name:be": "Вентспілс",
+      "name:de": "Windau",
+      "name:fi": "Ventspils",
+      "name:lt": "Ventspilis",
+      "name:lv": "Ventspils",
+      "name:pl": "Windawa",
+      "name:ru": "Вентспилс",
+      "name:uk": "Вентспілс",
+      "name:liv": "Vǟnta",
+      "old_name:ru": "Виндава"
+    }
+  },
+  {
+    "name": "Ventura",
+    "country": "United States Of America",
+    "latitude": 34.278335499612034,
+    "longitude": -119.29317429999999,
+    "other_names": {
+      "name": "Ventura"
+    }
+  },
+  {
+    "name": "Veracruz",
+    "country": "Mexico",
+    "latitude": 19.17988580032666,
+    "longitude": -96.13564799999999,
+    "other_names": {
+      "name": "Veracruz",
+      "name:en": "Veracruz",
+      "name:ru": "Веракрус",
+      "name:uk": "Веракрус"
+    }
+  },
+  {
+    "name": "Veraval",
+    "country": "India",
+    "latitude": 20.91010990040261,
+    "longitude": 70.365279,
+    "other_names": {
+      "name": "Veraval",
+      "name:hi": "वेरावल",
+      "name:ru": "Веравал"
+    }
+  },
+  {
+    "name": "Verbania",
+    "country": "Italy",
+    "latitude": 45.93440820035256,
+    "longitude": 8.5580062,
+    "other_names": {
+      "name": "Verbania"
+    }
+  },
+  {
+    "name": "Vercelli",
+    "country": "Italy",
+    "latitude": 45.325155700433946,
+    "longitude": 8.4227666,
+    "other_names": {
+      "name": "Vercelli",
+      "name:el": "Βερτσέλλι",
+      "name:en": "Vercelli",
+      "name:eo": "Verĉelo",
+      "name:fr": "Verceil",
+      "name:ru": "Верчелли",
+      "name:zh": "韦尔切利",
+      "name:pms": "Vërsèj"
+    }
+  },
+  {
+    "name": "Vereeniging",
+    "country": "South Africa",
+    "latitude": -26.67472219955163,
+    "longitude": 27.926111099999996,
+    "other_names": {
+      "name": "Vereeniging",
+      "name:ar": "فيرينخن",
+      "name:en": "Vereeniging",
+      "name:ko": "페레이니힝",
+      "name:ru": "Феринихинг",
+      "name:uk": "Ферінігінг",
+      "alt_name:ar": "فيرينجنغ"
+    }
+  }
+]

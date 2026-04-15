@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Guasave",
+    "country": "Mexico",
+    "latitude": 25.573800000206127,
+    "longitude": -108.4674697,
+    "other_names": {
+      "name": "Guasave",
+      "name:ru": "Гуасаве",
+      "official_name": "Guasave"
+    }
+  },
+  {
+    "name": "Guasdualito",
+    "country": "Venezuela",
+    "latitude": 7.244382999399299,
+    "longitude": -70.7300492,
+    "other_names": {
+      "name": "Guasdualito"
+    }
+  },
+  {
+    "name": "Guatajiagua",
+    "country": "El Salvador",
+    "latitude": 13.66465769975194,
+    "longitude": -88.20831049999998,
+    "other_names": {
+      "name": "Guatajiagua"
+    }
+  },
+  {
+    "name": "Guatemala City",
+    "country": "Guatemala",
+    "latitude": 14.622232799862678,
+    "longitude": -90.51851879999998,
+    "other_names": {
+      "name": "Ciudad de Guatemala",
+      "name:af": "Guatemala-stad",
+      "name:ar": "مدينة غواتيمالا",
+      "name:ay": "Watimala marka",
+      "name:az": "Qvatemala",
+      "name:be": "Гватэмала",
+      "name:bg": "Гватемала",
+      "name:bn": "গুয়াতেমালা সিটি",
+      "name:bo": "གུ་ཝེ་ཐི་མ་ལ་གྲོང་ཁྱེར།",
+      "name:br": "Ciudad de Guatemala",
+      "name:bs": "Guatemala City",
+      "name:ca": "Ciutat de Guatemala",
+      "name:cs": "Ciudad de Guatemala",
+      "name:cy": "Dinas Guatemala",
+      "name:da": "Guatamala City",
+      "name:de": "Guatemala-Stadt",
+      "name:el": "Πόλη της Γουατεμάλας",
+      "name:en": "Guatemala City",
+      "name:eo": "Gvatemalurbo",
+      "name:es": "Ciudad de Guatemala",
+      "name:et": "Guatemala",
+      "name:eu": "Guatemalako Hiria",
+      "name:fa": "گواتمالاسیتی",
+      "name:fi": "Guatemala",
+      "name:fr": "Guatemala",
+      "name:fy": "Gûatemala-Stêd",
+      "name:gd": "Baile Guatemala",
+      "name:gl": "Cidade de Guatemala - Ciudad de Guatemala",
+      "name:he": "גואטמלה סיטי",
+      "name:hi": "ग्वाटेमाला नगर",
+      "name:hr": "Guatemala",
+      "name:ht": "Siwdad",
+      "name:hu": "Guatemalaváros",
+      "name:id": "Kota Guatemala",
+      "name:ie": "Guatemala Cité",
+      "name:io": "Guatemala-Urbo",
+      "name:is": "Gvatemalaborg",
+      "name:it": "Città del Guatemala",
+      "name:ja": "グアテマラシティ",
+      "name:ka": "გვატემალა",
+      "name:ko": "과테말라",
+      "name:ku": "Guatemala",
+      "name:lt": "Gvatemala",
+      "name:lv": "Gvatemala",
+      "name:mk": "Гватемала",
+      "name:mr": "ग्वातेमाला सिटी",
+      "name:nl": "Guatemala-Stad",
+      "name:nn": "Guatemala by",
+      "name:no": "Guatemala by",
+      "name:oc": "Ciutat de Guatemala",
+      "name:os": "Гватемалæ",
+      "name:pl": "Gwatemala",
+      "name:pt": "Cidade da Guatemala",
+      "name:qu": "Watimala llaqta",
+      "name:ro": "Ciudad de Guatemala",
+      "name:ru": "Гватемала",
+      "name:se": "Ciudad de Guatemala",
+      "name:sk": "Guatemala",
+      "name:sl": "Ciudad Guatemala",
+      "name:sr": "Град Гватемала",
+      "name:sv": "Guatemala City",
+      "name:sw": "Guatemala City",
+      "name:ta": "குவாத்தமாலா நகரம்",
+      "name:th": "กัวเตมาลาซิตี",
+      "name:tl": "Lungsod ng Guwatemala",
+      "name:tr": "Guatemala",
+      "name:ug": "گۋاتېمالا شەھىرى",
+      "name:uk": "Гватемала",
+      "name:ur": "گوئٹے مالا شہر",
+      "name:vi": "Thành phố Guatemala",
+      "name:vo": "Ciudad de Guatemala",
+      "name:yo": "Ìlú Guatẹmálà",
+      "name:zh": "危地馬拉城",
+      "name:ace": "Banda Guatemala",
+      "name:hif": "Guatemala City",
+      "name:lmo": "Cità del Guatemala",
+      "name:nah": "Āltepētl Cuauhtēmallān",
+      "name:nan": "Guatemala Chhī",
+      "name:nov": "Guatemala Urbe",
+      "name:pap": "Siudad di Guatemala",
+      "name:pms": "Sità ëd Guatemala",
+      "name:sah": "Гуатемала",
+      "name:sco": "Guatemala Ceety",
+      "name:udm": "Гватемала",
+      "name:war": "Syudad han Guatemala",
+      "name:roa-rup": "Guatemala casaba",
+      "official_name": "Nueva Guatemala de la Asunción"
+    }
+  },
+  {
+    "name": "Guatire",
+    "country": "Venezuela",
+    "latitude": 10.46845879946356,
+    "longitude": -66.5431115,
+    "other_names": {
+      "name": "Guatire",
+      "int_name": "Guatire"
+    }
+  },
+  {
+    "name": "Guayaquil",
+    "country": "Ecuador",
+    "latitude": -2.1900702998035024,
+    "longitude": -79.8868702,
+    "other_names": {
+      "name": "Guayaquil",
+      "name:ar": "غواياكيل",
+      "name:fa": "گوایاکیل",
+      "name:mk": "Гвајакил",
+      "name:oc": "Guayaquil",
+      "name:ru": "Гуаякиль",
+      "name:ur": "گوایاکل",
+      "name:pnb": "گوآیاکوئل",
+      "old_name": "Muy Noble y Muy Leal Ciudad de Santiago de Guayaquil",
+      "alt_name:ar": "جواياكيول;سانتياغو دي غواياكيول;غواياكيول",
+      "alt_name:fa": "گوایاکیول",
+      "official_name": "Santiago de Guayaquil"
+    }
+  },
+  {
+    "name": "Guayaramerín",
+    "country": "Brazil",
+    "latitude": -10.818914999993481,
+    "longitude": -65.35504549999999,
+    "other_names": {
+      "name": "Guayaramerín",
+      "name:en": "Guayaramerín",
+      "old_name:1892-1905": "Puerto Palmira",
+      "old_name:1905-1915": "Puerto Sucre"
+    }
+  },
+  {
+    "name": "Guaymas",
+    "country": "Mexico",
+    "latitude": 27.921644099954992,
+    "longitude": -110.89940589999999,
+    "other_names": {
+      "name": "Guaymas",
+      "name:en": "Guaymas",
+      "name:ru": "Гуаймас"
+    }
+  },
+  {
+    "name": "Guazhou",
+    "country": "China",
+    "latitude": 40.51871810033503,
+    "longitude": 95.78103989999998,
+    "other_names": {
+      "name": "瓜州县",
+      "name:de": "Guazhou",
+      "name:en": "Guazhou",
+      "name:es": "Guazhou",
+      "name:fr": "Guazhou",
+      "name:ja": "瓜州県",
+      "name:vi": "Qua Châu",
+      "name:zh": "瓜州县",
+      "alt_name": "瓜州;Guazhou County",
+      "int_name": "Guazhou",
+      "old_name": "安西县;Anxi",
+      "name:zh-Hant": "瓜州縣",
+      "name:zh_pinyin": "Guāzhōu Xiàn"
+    }
+  },
+  {
+    "name": "Gubadag",
+    "country": "Turkmenistan",
+    "latitude": 42.07076850049139,
+    "longitude": 59.956133699999995,
+    "other_names": {
+      "name": "Gubadag",
+      "name:ru": "Губадаг",
+      "name:tk": "Gubadag",
+      "alt_name": "Tel'mansk",
+      "alt_name:ru": "Кубадаг",
+      "old_name:ru": "Тельманск"
+    }
+  },
+  {
+    "name": "Gubadag",
+    "country": "Uzbekistan",
+    "latitude": 42.07076850049139,
+    "longitude": 59.956133699999995,
+    "other_names": {
+      "name": "Gubadag",
+      "name:ru": "Губадаг",
+      "name:tk": "Gubadag",
+      "alt_name": "Tel'mansk",
+      "alt_name:ru": "Кубадаг",
+      "old_name:ru": "Тельманск"
+    }
+  },
+  {
+    "name": "Gubadli",
+    "country": "Azerbaijan",
+    "latitude": 39.342583746214,
+    "longitude": 46.58261206159483,
+    "other_names": {
+      "name": "Qubadlı",
+      "name:az": "Qubadlı",
+      "name:en": "Gubadli",
+      "name:ru": "Кубадлы",
+      "name:tr": "Kubatlı"
+    }
+  },
+  {
+    "name": "Gubadly",
+    "country": "Azerbaijan",
+    "latitude": 39.34364250017548,
+    "longitude": 46.5809277,
+    "other_names": {
+      "name": "Qubadlı",
+      "name:az": "Qubadlı",
+      "name:en": "Gubadly",
+      "name:hy": "Քաշունիք",
+      "name:pl": "Gubadły",
+      "name:ru": "Кубадлы",
+      "name:tr": "Kubatlı",
+      "alt_name:pl": "Gubadly",
+      "old_name:en": "Qubadlı"
+    }
+  },
+  {
+    "name": "Gucheng",
+    "country": "China",
+    "latitude": 26.88064770007099,
+    "longitude": 100.22455929999998,
+    "other_names": {
+      "name": "古城区",
+      "name:en": "Gucheng",
+      "name:vi": "Cổ Thành",
+      "name:zh": "古城区",
+      "name:zh-Hant": "古城區",
+      "name:zh_pinyin": "Gucheng Qu"
+    }
+  },
+  {
+    "name": "Gucheng",
+    "country": "China",
+    "latitude": 37.34903479989308,
+    "longitude": 115.96468180000001,
+    "other_names": {
+      "name": "故城县",
+      "name:en": "Gucheng",
+      "name:vi": "Cố Thành",
+      "name:zh": "故城县",
+      "alt_name": "故城;Gucheng County",
+      "name:zh-Hant": "故城縣",
+      "name:zh_pinyin": "Gucheng Xian"
+    }
+  },
+  {
+    "name": "Gucheng",
+    "country": "China",
+    "latitude": 32.26564509959977,
+    "longitude": 111.6474338,
+    "other_names": {
+      "name": "谷城县",
+      "name:en": "Gucheng",
+      "name:ja": "谷城県",
+      "name:ru": "Гучэн",
+      "name:zh": "谷城县",
+      "name:zh-Hant": "谷城縣"
+    }
+  },
+  {
+    "name": "Gudivada",
+    "country": "India",
+    "latitude": 16.432997600073655,
+    "longitude": 80.99371509999999,
+    "other_names": {
+      "name": "Gudivada",
+      "name:en": "Gudivada",
+      "name:hi": "गुडिवाडा",
+      "name:ja": "グディバーダ",
+      "name:kn": "ಗುಡಿವಾಡಾ",
+      "name:pa": "ਗੁਡੀਵਾਡਾ",
+      "name:te": "గుడివాడ"
+    }
+  },
+  {
+    "name": "Guéckédou",
+    "country": "Liberia",
+    "latitude": 8.561648999393395,
+    "longitude": -10.132821,
+    "other_names": {
+      "name": "Guéckédou",
+      "name:ar": "غيكيدو",
+      "name:ru": "Гекеду",
+      "alt_name": "Guékédou",
+      "alt_name:ar": "جيكيدوغو;غوكيدو"
+    }
+  },
+  {
+    "name": "Guéckédou",
+    "country": "Guinea",
+    "latitude": 8.561648999393395,
+    "longitude": -10.132821,
+    "other_names": {
+      "name": "Guéckédou",
+      "name:ar": "غيكيدو",
+      "name:ru": "Гекеду",
+      "alt_name": "Guékédou",
+      "alt_name:ar": "جيكيدوغو;غوكيدو"
+    }
+  },
+  {
+    "name": "Guédiawaye",
+    "country": "Senegal And Gambia",
+    "latitude": 14.777120699880943,
+    "longitude": -17.390071,
+    "other_names": {
+      "name": "Guédiawaye",
+      "name:ar": "غيديوية",
+      "alt_name:ar": "غيدياوايى"
+    }
+  }
+]

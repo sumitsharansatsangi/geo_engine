@@ -1,0 +1,343 @@
+[
+  {
+    "name": "Davenport",
+    "country": "United States Of America",
+    "latitude": 41.52364360044613,
+    "longitude": -90.5776368,
+    "other_names": {
+      "name": "Davenport",
+      "name:ru": "Давенпорт"
+    }
+  },
+  {
+    "name": "Dawa",
+    "country": "China",
+    "latitude": 40.999852800392134,
+    "longitude": 122.071838,
+    "other_names": {
+      "name": "大洼区",
+      "name:en": "Dawa",
+      "name:ja": "大窪区",
+      "name:ko": "다와구",
+      "name:zh": "大洼区",
+      "alt_name": "大洼;Dawa District",
+      "old_name": "大洼镇",
+      "name:zh-Hant": "大窪區",
+      "official_name": "大洼街道"
+    }
+  },
+  {
+    "name": "Dawei",
+    "country": "Myanmar",
+    "latitude": 14.07972319979931,
+    "longitude": 98.19901909999999,
+    "other_names": {
+      "name": "ထားဝယ်မြို့",
+      "name:de": "Dawei",
+      "name:en": "Dawei",
+      "name:es": "Dawei",
+      "name:et": "Dawei",
+      "name:fr": "Tavoy",
+      "name:hi": "डवे",
+      "name:ja": "ダウェイ",
+      "name:ko": "다웨이",
+      "name:my": "ထားဝယ်မြို့",
+      "name:ru": "Тавой",
+      "name:uk": "Тавой",
+      "name:zh": "土瓦",
+      "alt_name": "Tavoy",
+      "old_name": "Tavoy"
+    }
+  },
+  {
+    "name": "Dawson Creek",
+    "country": "Canada",
+    "latitude": 55.7605305996892,
+    "longitude": -120.23644530000001,
+    "other_names": {
+      "name": "Dawson Creek",
+      "name:en": "Dawson Creek",
+      "name:ru": "Досон-Крик",
+      "name:uk": "Досон-Крік"
+    }
+  },
+  {
+    "name": "Dawu",
+    "country": "China",
+    "latitude": 30.979392899662507,
+    "longitude": 101.1238815,
+    "other_names": {
+      "name": "道孚县",
+      "name:bo": "རྟ་འུ་རྫོང་",
+      "name:en": "Dawu",
+      "name:vi": "Đạo Phu",
+      "name:zh": "道孚县",
+      "alt_name": "道孚;Tao-wu;Daou;Tao-tu;Tao-fu-hsien;Dawu;Tao-fu;Tao-fou;Tawu;Tawu County;Daofu County",
+      "name:zh-Hant": "道孚縣",
+      "name:zh_pinyin": "Dàofú Xiàn"
+    }
+  },
+  {
+    "name": "Dawu",
+    "country": "China",
+    "latitude": 31.562840499627953,
+    "longitude": 114.12080529999999,
+    "other_names": {
+      "name": "大悟县",
+      "name:en": "Dawu",
+      "name:zh": "大悟",
+      "alt_name": "大悟;Dawu Xian;Dawu;Ta-wu Hsien;Dawu County",
+      "name:zh-Hant": "大悟縣"
+    }
+  },
+  {
+    "name": "Dawukou",
+    "country": "China",
+    "latitude": 39.0186505001286,
+    "longitude": 106.3620755,
+    "other_names": {
+      "name": "大武口区",
+      "name:en": "Dawukou",
+      "name:zh": "大武口区",
+      "name:zh-Hant": "大武口區"
+    }
+  },
+  {
+    "name": "Daxiang",
+    "country": "China",
+    "latitude": 27.224589300032985,
+    "longitude": 111.4334252,
+    "other_names": {
+      "name": "大祥区",
+      "name:de": "Daxiang",
+      "name:en": "Daxiang",
+      "name:fr": "District de Daxiang",
+      "name:it": "Distretto di Daxiang",
+      "name:ja": "大祥区",
+      "name:ko": "다샹구",
+      "name:no": "Daxiang",
+      "name:ru": "Дасян",
+      "name:sv": "Daxiang",
+      "name:vi": "Đại Tường",
+      "name:zh": "大祥区",
+      "alt_name": "大祥;Daxiang District",
+      "name:ceb": "Daxiang Qu",
+      "name:hak": "Thai-siông-khî",
+      "name:nan": "Tāi-siông-khu",
+      "name:yue": "大祥區",
+      "name:zh-Hant": "大祥區",
+      "name:zh_pinyin": "dàxiáng qū"
+    }
+  },
+  {
+    "name": "Daxin",
+    "country": "China",
+    "latitude": 22.839314600389798,
+    "longitude": 107.2107083,
+    "other_names": {
+      "name": "大新县",
+      "name:en": "Daxin",
+      "name:vi": "Đại Tân",
+      "name:zh": "大新县",
+      "alt_name": "大新;Daxin County",
+      "name:yue": "大新县",
+      "name:zh-Hant": "大新縣",
+      "name:yue-Latn": "Daaislan-hyun",
+      "name:zh_pinyin": "Daxin Xian"
+    }
+  },
+  {
+    "name": "Daxing",
+    "country": "China",
+    "latitude": 39.725413000229544,
+    "longitude": 116.33544169999999,
+    "other_names": {
+      "name": "大兴区",
+      "name:en": "Daxing",
+      "name:vi": "Đại Hưng",
+      "name:zh": "大兴区",
+      "name:zh-Hant": "大興區",
+      "name:zh_pinyin": "Daxing Qu"
+    }
+  },
+  {
+    "name": "Daxing'anling",
+    "country": "China",
+    "latitude": 50.40939269936284,
+    "longitude": 124.11016699999999,
+    "other_names": {
+      "name": "大兴安岭地区",
+      "name:en": "Daxing'anling",
+      "name:ru": "Джагдачи",
+      "name:vi": "Đại Hưng An Lĩnh",
+      "name:zh": "大兴安岭地区",
+      "alt_name": "大兴安岭;Ta-hsing-an-ling Ti-ch'u;Dahingganling Diqu;Dahingganling Prefecture;Daxing'anling Diqu;Da Hinggan Ling Prefecture",
+      "name:zh-Hant": "大興安嶺地區",
+      "name:zh_pinyin": "dàxīngānlǐng dìqū"
+    }
+  },
+  {
+    "name": "Dayao",
+    "country": "China",
+    "latitude": 25.7247294001916,
+    "longitude": 101.322128,
+    "other_names": {
+      "name": "大姚县",
+      "name:en": "Dayao",
+      "name:ru": "Даяо",
+      "name:vi": "Đại Diêu",
+      "name:zh": "大姚县",
+      "alt_name": "大姚;金碧镇;金碧;Jinbi;Dayao County",
+      "alt_name:en": "Ta-yao-hsien;Ta-yao;Chin-pi-chieh;Chin-pi-chen;Chin-pi",
+      "name:zh-Hant": "大姚縣",
+      "name:zh_pinyin": "Dàyáoxiàn"
+    }
+  },
+  {
+    "name": "Daye",
+    "country": "China",
+    "latitude": 30.098185399731058,
+    "longitude": 114.97471620000002,
+    "other_names": {
+      "name": "大冶市",
+      "name:de": "Daye",
+      "name:en": "Daye",
+      "name:fr": "Daye",
+      "name:ja": "大冶市",
+      "name:ru": "Дае",
+      "name:vi": "Đại Dã",
+      "name:zh": "大冶市",
+      "name:zh-Hant": "大冶市",
+      "name:zh_pinyin": "Dàyě Shì"
+    }
+  },
+  {
+    "name": "Dayi",
+    "country": "China",
+    "latitude": 30.590196499690563,
+    "longitude": 103.5212874,
+    "other_names": {
+      "name": "大邑县",
+      "name:en": "Dayi",
+      "name:fr": "Xian de Dàyì",
+      "name:vi": "Đại Ấp",
+      "name:zh": "大邑县",
+      "alt_name": "大邑;Dayi County",
+      "name:zh-Hant": "大邑縣",
+      "name:zh_pinyin": "Dàyì Xiàn"
+    }
+  },
+  {
+    "name": "Daying",
+    "country": "China",
+    "latitude": 30.597329299690013,
+    "longitude": 105.23358729999998,
+    "other_names": {
+      "name": "大英县",
+      "name:en": "Daying",
+      "name:vi": "Đại Anh",
+      "name:zh": "大英县",
+      "alt_name": "大英;Daying County",
+      "name:zh-Hant": "大英縣",
+      "name:zh_pinyin": "Daying Xian"
+    }
+  },
+  {
+    "name": "Dayton",
+    "country": "United States Of America",
+    "latitude": 39.75894780023421,
+    "longitude": -84.1916069,
+    "other_names": {
+      "name": "Dayton",
+      "name:ru": "Дейтон"
+    }
+  },
+  {
+    "name": "Daytona Beach",
+    "country": "United States Of America",
+    "latitude": 29.210814699815636,
+    "longitude": -81.0228331,
+    "other_names": {
+      "name": "Daytona Beach",
+      "name:en": "Daytona Beach",
+      "name:ru": "Дейтона-Бич",
+      "name:uk": "Дейтона-Біч"
+    }
+  },
+  {
+    "name": "Dayu",
+    "country": "China",
+    "latitude": 25.40304100022215,
+    "longitude": 114.3566689,
+    "other_names": {
+      "name": "大余县",
+      "name:cs": "Ta-jü",
+      "name:de": "Dayu",
+      "name:en": "Dayu",
+      "name:fa": "شهرستان دایو",
+      "name:fr": "Xian de Dayu",
+      "name:it": "Contea di Dayu",
+      "name:ja": "大余県",
+      "name:ko": "다위현",
+      "name:no": "Dayu",
+      "name:ru": "Даюй",
+      "name:sv": "Dayu",
+      "name:vi": "Đại Dư",
+      "name:zh": "大余县",
+      "alt_name": "大余;Dayu County",
+      "name:gan": "大庾",
+      "name:nan": "Tāi-û-koān",
+      "name:yue": "大庾",
+      "old_name": "大庾縣;大庾县",
+      "name:zh-Hans": "大余县",
+      "name:zh-Hant": "大庾縣",
+      "name:zh_pinyin": "dàyú xiàn"
+    }
+  },
+  {
+    "name": "Dazaifu",
+    "country": "Japan",
+    "latitude": 33.512864699590374,
+    "longitude": 130.5238111,
+    "other_names": {
+      "name": "太宰府市",
+      "name:ar": "دازايفو، فوكوكا",
+      "name:de": "Dazaifu",
+      "name:en": "Dazaifu",
+      "name:es": "Dazaifu",
+      "name:fr": "Dazaifu",
+      "name:ja": "太宰府市",
+      "name:ko": "다자이후시",
+      "name:pl": "Dazaifu",
+      "name:ru": "Дадзайфу",
+      "name:uk": "Дадзайфу",
+      "name:zh": "太宰府市",
+      "int_name": "Dazaifu",
+      "name:ja_rm": "Dazaifu-shi",
+      "name:ja_kana": "だざいふし",
+      "name:zh-Hans": "太宰府市",
+      "name:zh-Hant": "太宰府市"
+    }
+  },
+  {
+    "name": "Dazhou",
+    "country": "China",
+    "latitude": 31.216035999647357,
+    "longitude": 107.50275640000001,
+    "other_names": {
+      "name": "达州市",
+      "name:de": "Dazhou",
+      "name:en": "Dazhou",
+      "name:et": "Dazhou",
+      "name:fi": "Dazhou",
+      "name:fr": "Dazhou",
+      "name:ja": "達州市",
+      "name:ru": "Дачжоу",
+      "name:vi": "Đạt Châu",
+      "name:zh": "达州市",
+      "int_name": "Dazhou",
+      "name:zh-Hant": "達州市",
+      "name:zh_pinyin": "Dázhōu Shì"
+    }
+  }
+]

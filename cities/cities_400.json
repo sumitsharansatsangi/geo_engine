@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Ruda Śląska",
+    "country": "Poland",
+    "latitude": 50.285800099389064,
+    "longitude": 18.8747933,
+    "other_names": {
+      "name": "Ruda Śląska",
+      "name:bg": "Руда Силезка",
+      "name:de": "Ruda",
+      "name:fa": "رودا شلوسکا",
+      "name:ja": "ルダ・シロンスカ",
+      "name:ko": "루다실롱스카",
+      "name:lt": "Silezijos Ruda",
+      "name:lv": "Ruda Slonska",
+      "name:mk": "Руда Шлонска",
+      "name:pl": "Ruda Śląska",
+      "name:ru": "Руда-Слёнская",
+      "name:sr": "Руда Шлеска",
+      "name:th": "รูดาซลอนสกา",
+      "name:uk": "Руда-Шльонська",
+      "name:zh": "鲁达希隆斯卡",
+      "name:szl": "Ślůnsko Ruda"
+    }
+  },
+  {
+    "name": "Rudniy",
+    "country": "Kazakhstan",
+    "latitude": 53.01242959678966,
+    "longitude": 63.131759902800106,
+    "other_names": {
+      "name": "Рудный",
+      "name:de": "Rudnyi",
+      "name:en": "Rudniy",
+      "name:fr": "Roudny",
+      "name:ja": "ルードヌイ",
+      "name:kk": "Рудный",
+      "name:ru": "Рудный",
+      "int_name": "Rudniy"
+    }
+  },
+  {
+    "name": "Rudny",
+    "country": "Kazakhstan",
+    "latitude": 52.964457999086854,
+    "longitude": 63.13348800000001,
+    "other_names": {
+      "name": "Рудный",
+      "name:de": "Rudny",
+      "name:en": "Rudny",
+      "name:et": "Rudnõi",
+      "name:fr": "Roudny",
+      "name:ja": "ルードヌイ",
+      "name:kk": "Рудный",
+      "name:lt": "Rudnis",
+      "name:ru": "Рудный",
+      "int_name": "Rudniy"
+    }
+  },
+  {
+    "name": "Rudong",
+    "country": "China",
+    "latitude": 32.33395819959786,
+    "longitude": 121.18025020000002,
+    "other_names": {
+      "name": "如东县",
+      "name:en": "Rudong",
+      "name:ja": "如東県",
+      "name:ko": "루둥 현",
+      "name:zh": "如东县",
+      "name:zh-Hant": "如東縣"
+    }
+  },
+  {
+    "name": "Rudrapur",
+    "country": "India",
+    "latitude": 28.974743999840086,
+    "longitude": 79.3963951,
+    "other_names": {
+      "name": "Rudrapur",
+      "name:en": "Rudrapur",
+      "name:hi": "रुद्रपुर",
+      "int_name": "Rudrapur",
+      "name:new": "रुद्रपुर"
+    }
+  },
+  {
+    "name": "Rufaah",
+    "country": "Sudan",
+    "latitude": 14.767769199879842,
+    "longitude": 33.3659991,
+    "other_names": {
+      "name": "رفاعة",
+      "name:ar": "رفاعة",
+      "name:en": "Rufaah",
+      "name:fr": "Rufaa",
+      "alt_name": "Rufa`ah;Rufā‘ah;رفاع",
+      "alt_name:ar": "رفاعة;رفاع",
+      "alt_name:en": "Rufa`a"
+    }
+  },
+  {
+    "name": "Rufisque",
+    "country": "Senegal And Gambia",
+    "latitude": 14.716416999873779,
+    "longitude": -17.273844,
+    "other_names": {
+      "name": "Rufisque",
+      "name:ar": "روفسك",
+      "name:ko": "뤼피스크"
+    }
+  },
+  {
+    "name": "Rugao",
+    "country": "China",
+    "latitude": 32.393693999596344,
+    "longitude": 120.56274419999998,
+    "other_names": {
+      "name": "如皋市",
+      "name:de": "Rugao",
+      "name:en": "Rugao",
+      "name:fr": "Rugao",
+      "name:ja": "如皋市",
+      "name:ru": "Жугао",
+      "name:vi": "Như Cao",
+      "name:zh": "如皋市",
+      "int_name": "Rúgāo",
+      "name:zh-Hant": "如皋市",
+      "name:zh_pinyin": "Rúgāo Shì"
+    }
+  },
+  {
+    "name": "Rui'an",
+    "country": "China",
+    "latitude": 27.78090469997074,
+    "longitude": 120.65126520000001,
+    "other_names": {
+      "name": "瑞安市",
+      "name:de": "Rui’an",
+      "name:en": "Rui'an",
+      "name:fr": "Rui'an",
+      "name:it": "Rui'an",
+      "name:ja": "瑞安市",
+      "name:ki": "Rui'an",
+      "name:ko": "뤼안시",
+      "name:nl": "Rui'an",
+      "name:no": "Rui'an",
+      "name:ru": "Жуйань",
+      "name:sv": "Rui'an",
+      "name:tl": "Ruian",
+      "name:ur": "رویئان",
+      "name:vi": "Thụy An",
+      "name:zh": "瑞安市",
+      "int_name": "Rui'an",
+      "name:hak": "Sui-ôn-sṳ",
+      "name:nan": "Sūi-an-chhī",
+      "name:war": "Ruian",
+      "name:wuu": "瑞安市",
+      "name:yue": "瑞安",
+      "alt_name:ru": "Руиан",
+      "alt_name:vi": "Thuỵ An",
+      "name:zh-Hant": "瑞安市",
+      "name:zh_pinyin": "Ruì'ān Shì"
+    }
+  },
+  {
+    "name": "Ruichang",
+    "country": "China",
+    "latitude": 29.676580899769625,
+    "longitude": 115.67639599999998,
+    "other_names": {
+      "name": "瑞昌市",
+      "name:en": "Ruichang",
+      "name:zh": "瑞昌市",
+      "alt_name": "瑞昌;Ruichang City",
+      "name:zh-Hant": "瑞昌市",
+      "name:zh_pinyin": "ruìchāng shì"
+    }
+  },
+  {
+    "name": "Ruicheng",
+    "country": "China",
+    "latitude": 34.69665609963277,
+    "longitude": 110.6888662,
+    "other_names": {
+      "name": "芮城县",
+      "name:en": "Ruicheng",
+      "name:ja": "ゼイ城県",
+      "name:zh": "芮城县",
+      "alt_name": "古魏镇;古巍镇;芮城县;Ruicheng;Zhuychei;Jui-ch'eng-hsien;Jui-ch'eng;Guwei Zhen;Ruicheng Xian",
+      "name:zh-Hant": "芮城縣"
+    }
+  },
+  {
+    "name": "Ruijin",
+    "country": "China",
+    "latitude": 25.888605400175436,
+    "longitude": 116.022088,
+    "other_names": {
+      "name": "瑞金市",
+      "name:cs": "Žuej-ťin",
+      "name:de": "Ruijin",
+      "name:en": "Ruijin",
+      "name:es": "Ruijin",
+      "name:fr": "Ruijin",
+      "name:it": "Ruijin",
+      "name:ja": "瑞金市",
+      "name:ki": "Ruijin",
+      "name:ko": "루이진시",
+      "name:mg": "Ruijin",
+      "name:nl": "Ruijin",
+      "name:nn": "Ruijin",
+      "name:no": "Ruijin",
+      "name:pl": "Ruijin",
+      "name:ru": "Жуйцзинь",
+      "name:sv": "Ruijin",
+      "name:ur": "رویجین",
+      "name:vi": "Thụy Kim",
+      "name:zh": "瑞金市",
+      "alt_name": "瑞金;Ruijin City",
+      "name:gan": "瑞金",
+      "name:nan": "Sūi-kim-chhī",
+      "name:yue": "瑞金",
+      "name:zh-Hant": "瑞金市",
+      "name:zh_pinyin": "Ruìjīn Shì"
+    }
+  },
+  {
+    "name": "Ruili",
+    "country": "China",
+    "latitude": 24.020066200331566,
+    "longitude": 97.85541769999999,
+    "other_names": {
+      "name": "瑞丽市",
+      "name:de": "Ruili",
+      "name:en": "Ruili",
+      "name:fr": "Ruili",
+      "name:ja": "瑞麗市",
+      "name:vi": "Thụy Lệ",
+      "name:zh": "瑞丽市",
+      "name:kac": "Shuili Myu",
+      "old_name": "勐卯",
+      "short_name": "瑞丽",
+      "alt_name:vi": "Thuỵ Lệ",
+      "name:zh-Hant": "瑞麗市",
+      "name:zh_pinyin": "Ruìlì Shì",
+      "name:tai_tainua": "ᥝᥥᥒᥰ ᥛᥫᥒᥰ ᥛᥣᥝᥰ",
+      "official_name:en": "Ruili City"
+    }
+  },
+  {
+    "name": "Rumbek",
+    "country": "South Sudan",
+    "latitude": 6.806390099411063,
+    "longitude": 29.6767488,
+    "other_names": {
+      "name": "Rumbek",
+      "name:ar": "رمبك",
+      "name:de": "Rumbik",
+      "name:ko": "룸베크",
+      "name:pl": "Rumbek",
+      "name:ru": "Румбек",
+      "name:uk": "Румбек"
+    }
+  },
+  {
+    "name": "Rumoi",
+    "country": "Japan",
+    "latitude": 43.94102900053455,
+    "longitude": 141.6368171,
+    "other_names": {
+      "name": "留萌市",
+      "name:ar": "روموي، هوكايدو",
+      "name:de": "Rumoi",
+      "name:en": "Rumoi",
+      "name:es": "Rumoi",
+      "name:fr": "Rumoi",
+      "name:hu": "Rumoi",
+      "name:ja": "留萌市",
+      "name:ko": "루모이시",
+      "name:pl": "Rumoi",
+      "name:ru": "Румои",
+      "name:uk": "Румой",
+      "name:zh": "留萌市",
+      "int_name": "Rumoi",
+      "name:ja_rm": "Rumoi-shi",
+      "name:ja_kana": "るもいし"
+    }
+  },
+  {
+    "name": "Rumonge",
+    "country": "Burundi",
+    "latitude": -3.9745472997055913,
+    "longitude": 29.439294,
+    "other_names": {
+      "name": "Rumonge"
+    }
+  },
+  {
+    "name": "Runan",
+    "country": "China",
+    "latitude": 33.005856199587626,
+    "longitude": 114.34339659999999,
+    "other_names": {
+      "name": "汝南县",
+      "name:en": "Runan",
+      "name:ja": "汝南県",
+      "name:ru": "Жунин",
+      "name:vi": "Nhữ Nam",
+      "name:zh": "汝南县",
+      "alt_name": "汝南;Runan County",
+      "name:zh-Hant": "汝南縣",
+      "name:zh_pinyin": "Runan Xian"
+    }
+  },
+  {
+    "name": "Rundu",
+    "country": "Namibia",
+    "latitude": -17.913716000474196,
+    "longitude": 19.7672535,
+    "other_names": {
+      "name": "Rundu",
+      "name:ar": "روندو",
+      "name:fa": "روندو",
+      "name:ko": "룬두",
+      "name:lt": "Rundu",
+      "name:ru": "Рунду",
+      "name:ur": "روندو"
+    }
+  },
+  {
+    "name": "Runzhou District",
+    "country": "China",
+    "latitude": 32.19595249960185,
+    "longitude": 119.39804010000002,
+    "other_names": {
+      "name": "润州区",
+      "name:de": "Runzhou",
+      "name:en": "Runzhou District",
+      "name:fr": "District de Runzhou",
+      "name:it": "Distretto di Runzhou",
+      "name:ja": "潤州区",
+      "name:ko": "룬저우구",
+      "name:no": "Runzhou",
+      "name:ru": "Жуньчжоу",
+      "name:sv": "Runzhou",
+      "name:vi": "Nhuận Châu",
+      "name:zh": "润州区",
+      "name:ceb": "Runzhou Qu",
+      "name:nan": "Jūn-chiu-khu",
+      "name:yue": "潤州區",
+      "name:zh-Hant": "潤州區",
+      "name:zh_pinyin": "Rùnzhōu Qū"
+    }
+  },
+  {
+    "name": "Ruoqiang",
+    "country": "China",
+    "latitude": 39.02334360012928,
+    "longitude": 88.16579850000001,
+    "other_names": {
+      "name": "若羌县",
+      "name:de": "Qakilik",
+      "name:en": "Ruoqiang",
+      "name:es": "Qakilik",
+      "name:fr": "Ruoqiang",
+      "name:mn": "ᠴᠠᠺᠢᠯᠢᠺ ᠱᠢᠨᠢ",
+      "name:ru": "Чарклык",
+      "name:tr": "Çakılık",
+      "name:ug": "چاقىلىق بازىرى",
+      "name:uk": "Чарклик",
+      "name:vi": "Nhược Khương",
+      "name:zh": "若羌",
+      "alt_name": "若羌;Charklik;若羌县;Ruoqiang County",
+      "old_name": "婼羌縣",
+      "alt_name:vi": "Tạp Khắc Lý Khắc;Tạp Khắc Lí Khắc",
+      "name:zh-Hant": "婼羌縣",
+      "name:zh_pinyin": "Ruoqiang Xian"
+    }
+  }
+]

@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Tanta",
+    "country": "Egypt",
+    "latitude": 30.783366599676164,
+    "longitude": 30.998253599999998,
+    "other_names": {
+      "name": "طنطا",
+      "name:de": "Tanta",
+      "name:en": "Tanta",
+      "name:es": "Tanta",
+      "name:et": "Ţanţā",
+      "name:fr": "Tanta",
+      "name:hi": "टांटा",
+      "name:hu": "Tanta",
+      "name:ru": "Танта",
+      "int_name": "Tanta"
+    }
+  },
+  {
+    "name": "Tan-Tan",
+    "country": "Morocco",
+    "latitude": 28.437552999897797,
+    "longitude": -11.098663999999998,
+    "other_names": {
+      "name": "Tan-Tan ⵟⴰⵏⵟⴰⵏ طانطان",
+      "name:ar": "طانطان",
+      "name:en": "Tan-Tan",
+      "name:es": "Tan-Tan",
+      "name:fr": "Tan-Tan",
+      "name:lt": "Tantanas",
+      "name:ru": "Тан-Тан",
+      "int_name": "Tan-Tan",
+      "name:ber": "ⵟⴰⵏⵟⴰⵏ",
+      "name:ckb": "تەنتەن",
+      "name:zgh": "ⵟⴰⵏⵟⴰⵏ"
+    }
+  },
+  {
+    "name": "Taobei",
+    "country": "China",
+    "latitude": 45.6245088003967,
+    "longitude": 122.83758759999998,
+    "other_names": {
+      "name": "洮北区",
+      "name:en": "Taobei",
+      "name:zh": "洮北区",
+      "alt_name": "洮北;Taobei District;Taobei Qu",
+      "name:zh-Hant": "洮北區"
+    }
+  },
+  {
+    "name": "Taocheng",
+    "country": "China",
+    "latitude": 37.73338989994486,
+    "longitude": 115.6711004,
+    "other_names": {
+      "name": "桃城区",
+      "name:en": "Taocheng",
+      "name:zh": "桃城区",
+      "alt_name": "桃城;Taocheng District",
+      "name:zh-Hant": "桃城區"
+    }
+  },
+  {
+    "name": "Taojiang County",
+    "country": "China",
+    "latitude": 28.520090799888777,
+    "longitude": 112.148511,
+    "other_names": {
+      "name": "桃江县",
+      "name:de": "Taojiang",
+      "name:en": "Taojiang County",
+      "name:fa": "شهرستان تاوجیانگ",
+      "name:fr": "Xian de Taojiang",
+      "name:it": "Contea di Taojiang",
+      "name:ja": "桃江県",
+      "name:ko": "타오장현",
+      "name:no": "Taojiang",
+      "name:ru": "Таоцзян",
+      "name:sv": "Taojiang",
+      "name:ur": "تاوجیانگ کاؤنٹی",
+      "name:vi": "Đào Giang",
+      "name:zh": "桃江县",
+      "name:ceb": "Taojiang Xian",
+      "name:nan": "Thô-kang-koān",
+      "name:yue": "桃江",
+      "name:zh-Hant": "桃江縣",
+      "name:zh_pinyin": "Táojiāng Xiàn"
+    }
+  },
+  {
+    "name": "Taonan",
+    "country": "China",
+    "latitude": 45.32898250043351,
+    "longitude": 122.78319759999998,
+    "other_names": {
+      "name": "洮南市",
+      "name:en": "Taonan",
+      "name:ru": "Таонань",
+      "name:vi": "Thao Nam",
+      "name:zh": "洮南市",
+      "alt_name": "洮南;Taonan City",
+      "name:zh-Hant": "洮南市"
+    }
+  },
+  {
+    "name": "Taoshan",
+    "country": "China",
+    "latitude": 45.770694900376576,
+    "longitude": 130.980608,
+    "other_names": {
+      "name": "桃山区",
+      "name:en": "Taoshan",
+      "name:zh": "桃山区",
+      "alt_name": "桃山;Taoshan District",
+      "name:zh-Hant": "桃山區"
+    }
+  },
+  {
+    "name": "Taourirt",
+    "country": "Morocco",
+    "latitude": 34.413437999618054,
+    "longitude": -2.8938249999999996,
+    "other_names": {
+      "name": "Taourirt ⵜⴰⵡⵔⵉⵔⵜ تاوريرت",
+      "name:ar": "تاوريرت",
+      "name:de": "Taourirt",
+      "name:en": "Taourirt",
+      "name:fa": "تاوریرت",
+      "name:fr": "Taourirt",
+      "name:ks": "تاوریرت",
+      "name:lt": "Taurirtas",
+      "name:ru": "Таурирт",
+      "name:ur": "تاوریرت",
+      "name:azb": "تاوریرت",
+      "name:ber": "ⵜⴰⵡⵔⵉⵔⵜ",
+      "name:ota": "تاوریرت",
+      "name:pnb": "تاوریرت",
+      "name:zgh": "ⵜⴰⵡⵔⵉⵔⵜ",
+      "alt_name:ar": "توريرت"
+    }
+  },
+  {
+    "name": "Taoyuan",
+    "country": "Taiwan",
+    "latitude": 24.992999500258584,
+    "longitude": 121.30100029999998,
+    "other_names": {
+      "name": "桃園市",
+      "name:ar": "تاو يوان",
+      "name:de": "Taoyuan",
+      "name:en": "Taoyuan",
+      "name:es": "Taoyuan",
+      "name:et": "Taoyuan",
+      "name:fr": "Taoyuan",
+      "name:id": "Kota Taoyuan",
+      "name:ja": "桃園市",
+      "name:ko": "타오위안 시",
+      "name:ru": "Таоюань",
+      "name:th": "เถาหยวน",
+      "name:vi": "Đào Viên",
+      "name:zh": "桃園市",
+      "name:cdo": "Tò̤-huòng",
+      "name:ceb": "Taoyuan",
+      "name:hak": "Thò-yèn-sṳ",
+      "name:nan": "Thô-hn̂g-chhī",
+      "name:wuu": "桃園市",
+      "name:yue": "桃園市",
+      "old_name": "桃園縣",
+      "name:nan-HJ": "桃園市",
+      "name:nan-TL": "Thô-hn̂g-tshī",
+      "old_name:en": "Taoyuan County",
+      "old_name:zh": "桃園縣",
+      "name:nan-POJ": "Thô-hn̂g-chhī",
+      "old_name:nan": "Thô-hn̂g-koān",
+      "name:zh_pinyin": "Táoyuán",
+      "old_name:nan-HJ": "桃園縣",
+      "old_name:nan-TL": "Thô-hn̂g-kuān",
+      "old_name:nan-POJ": "Thô-hn̂g-koān"
+    }
+  },
+  {
+    "name": "Taoyuan",
+    "country": "China",
+    "latitude": 28.905612199847354,
+    "longitude": 111.4831705,
+    "other_names": {
+      "name": "桃源县",
+      "name:en": "Taoyuan",
+      "name:vi": "Đào Nguyên",
+      "name:zh": "桃源县",
+      "alt_name": "桃源;Taoyuan County",
+      "name:zh-Hant": "桃源縣",
+      "name:zh_pinyin": "Táoyuán Xiàn"
+    }
+  },
+  {
+    "name": "Tapachula",
+    "country": "Mexico",
+    "latitude": 14.90429049989597,
+    "longitude": -92.26092649999998,
+    "other_names": {
+      "name": "Tapachula",
+      "name:en": "Tapachula",
+      "name:hu": "Tapachula",
+      "name:ru": "Тапачула",
+      "name:uk": "Тапачула",
+      "alt_name": "Tapachula de Córdova y Ordóñez"
+    }
+  },
+  {
+    "name": "Tarakan",
+    "country": "Indonesia",
+    "latitude": 3.3000168996527823,
+    "longitude": 117.6330159,
+    "other_names": {
+      "name": "Tarakan",
+      "name:en": "Tarakan",
+      "name:ja": "タラカン",
+      "name:ru": "Таракан",
+      "name:uk": "Таракан",
+      "name:zh": "打拉根"
+    }
+  },
+  {
+    "name": "Taranto",
+    "country": "Italy",
+    "latitude": 40.47124270032909,
+    "longitude": 17.2432278,
+    "other_names": {
+      "name": "Taranto",
+      "name:ar": "تارانتو",
+      "name:be": "Таранта",
+      "name:ca": "Tàrent",
+      "name:de": "Tarent",
+      "name:el": "Τάραντας",
+      "name:en": "Taranto",
+      "name:es": "Tarento",
+      "name:fa": "تارانتو",
+      "name:fi": "Taranto",
+      "name:fr": "Tarente",
+      "name:it": "Taranto",
+      "name:la": "Tarentum",
+      "name:mk": "Таранто",
+      "name:nl": "Tarente",
+      "name:pl": "Tarent",
+      "name:pt": "Tarento",
+      "name:ru": "Таранто",
+      "name:sr": "Таранто",
+      "name:uk": "Таранто",
+      "name:ur": "تارانتو",
+      "name:zh": "塔兰托",
+      "name:ast": "Tarento"
+    }
+  },
+  {
+    "name": "Tarapoto",
+    "country": "Peru",
+    "latitude": -6.487719799694514,
+    "longitude": -76.35987079999998,
+    "other_names": {
+      "name": "Tarapoto",
+      "name:ru": "Тарапото",
+      "old_name": "Santa Cruz de los Motilones de Tarapoto"
+    }
+  },
+  {
+    "name": "Taraz",
+    "country": "Kazakhstan",
+    "latitude": 42.899266036669964,
+    "longitude": 71.37543290966437,
+    "other_names": {
+      "name": "Тараз",
+      "name:de": "Taras",
+      "name:en": "Taraz",
+      "name:et": "Taraz",
+      "name:fr": "Taraz",
+      "name:ja": "タラズ",
+      "name:kk": "Тараз",
+      "name:lt": "Tarazas",
+      "name:lv": "Taraza",
+      "name:ru": "Тараз",
+      "int_name": "Taraz",
+      "old_name": "Dzhambul"
+    }
+  },
+  {
+    "name": "Taraz",
+    "country": "Kazakhstan",
+    "latitude": 42.90159450053388,
+    "longitude": 71.3769302,
+    "other_names": {
+      "name": "Тараз",
+      "name:de": "Taras",
+      "name:en": "Taraz",
+      "name:et": "Taraz",
+      "name:fr": "Taraz",
+      "name:ja": "タラズ",
+      "name:kk": "Тараз",
+      "name:lt": "Tarazas",
+      "name:lv": "Taraza",
+      "name:pl": "Taraz",
+      "name:ru": "Тараз",
+      "int_name": "Taraz",
+      "old_name": "Жамбул"
+    }
+  },
+  {
+    "name": "Taree",
+    "country": "Australia",
+    "latitude": -31.912863999401992,
+    "longitude": 152.46084809999996,
+    "other_names": {
+      "name": "Taree",
+      "name:ja": "タリー"
+    }
+  },
+  {
+    "name": "Targovishte",
+    "country": "Bulgaria",
+    "latitude": 43.251196000541,
+    "longitude": 26.572794399999996,
+    "other_names": {
+      "name": "Търговище",
+      "name:bs": "Trgovište",
+      "name:de": "Targowischte",
+      "name:el": "Ταργκόβιστε",
+      "name:en": "Targovishte",
+      "name:et": "Tǎrgovište",
+      "name:fr": "Targovichte",
+      "name:hr": "Trgovište",
+      "name:mk": "Трговиште",
+      "name:nl": "Targovisjte",
+      "name:pl": "Tyrgowiszte",
+      "name:pt": "Turgovishte",
+      "name:ro": "Târgoviște",
+      "name:ru": "Тырговиште",
+      "name:sr": "Трговиште",
+      "name:tr": "Eski Cuma",
+      "int_name": "Targovishte",
+      "old_name": "Eski Cuma"
+    }
+  },
+  {
+    "name": "Târgoviște",
+    "country": "Romania",
+    "latitude": 44.92677090047507,
+    "longitude": 25.462816,
+    "other_names": {
+      "name": "Târgoviște",
+      "name:cs": "Trhoviště",
+      "name:de": "Tergowisch",
+      "name:he": "טרגובישטה",
+      "name:hu": "Tergovistye",
+      "name:lt": "Tirgovištė",
+      "name:ru": "Тырговиште",
+      "name:sr": "Трговиште",
+      "name:uk": "Тирговіште"
+    }
+  },
+  {
+    "name": "Târgu Jiu",
+    "country": "Romania",
+    "latitude": 45.04229470046415,
+    "longitude": 23.2728118,
+    "other_names": {
+      "name": "Târgu Jiu",
+      "name:ar": "ترجو جيو",
+      "name:de": "Tergoschwyl",
+      "name:el": "Τίργκου Ζίου",
+      "name:en": "Târgu Jiu",
+      "name:es": "Târgu Jiu",
+      "name:fr": "Târgu Jiu",
+      "name:hu": "Zsilvásárhely",
+      "name:lt": "Tirgu Žiu",
+      "name:ru": "Тыргу-Жиу",
+      "name:sr": "Таргу Жију",
+      "name:uk": "Тиргу-Жіу",
+      "alt_name": "Tîrgu Jiu",
+      "int_name": "Târgu Jiu"
+    }
+  }
+]

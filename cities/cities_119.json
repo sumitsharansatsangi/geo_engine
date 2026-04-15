@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Đồng Xoài",
+    "country": "Vietnam",
+    "latitude": 11.538958299540296,
+    "longitude": 106.9047378,
+    "other_names": {
+      "name": "Đồng Xoài",
+      "name:en": "Đồng Xoài",
+      "name:ja": "ドンソアイ",
+      "name:ko": "동쏘아이",
+      "name:ru": "Донгсоай",
+      "name:zh": "同帥市社"
+    }
+  },
+  {
+    "name": "Dongyang",
+    "country": "China",
+    "latitude": 29.290808199807522,
+    "longitude": 120.23665089999997,
+    "other_names": {
+      "name": "东阳市",
+      "name:ar": "دونغ يانغ",
+      "name:cs": "Tung-jang",
+      "name:de": "Dongyang",
+      "name:en": "Dongyang",
+      "name:fa": "دونگ‌یانگ",
+      "name:fr": "Dongyang",
+      "name:it": "Dongyang",
+      "name:ja": "東陽市",
+      "name:ki": "Dongyang",
+      "name:ko": "둥양시",
+      "name:mg": "Dongyang",
+      "name:nl": "Dongyang",
+      "name:no": "Dongyang",
+      "name:pl": "Dongyang",
+      "name:ru": "Дунъян",
+      "name:sv": "Dongyang",
+      "name:tl": "Dongyang",
+      "name:uk": "Донян",
+      "name:ur": "ڈونگیانگ",
+      "name:vi": "Đông Dương",
+      "name:zh": "东阳市",
+      "name:ceb": "Dongyang",
+      "name:nan": "Tong-iông-chhī",
+      "name:war": "Dongyang",
+      "name:wuu": "东阳市",
+      "name:yue": "東陽",
+      "name:zh-Hant": "東陽市",
+      "name:zh_pinyin": "Dōngyáng Shì"
+    }
+  },
+  {
+    "name": "Dongying",
+    "country": "China",
+    "latitude": 37.44760739990613,
+    "longitude": 118.5809312,
+    "other_names": {
+      "name": "东营区",
+      "name:en": "Dongying",
+      "name:zh": "东营区",
+      "name:zh-Hant": "東營區"
+    }
+  },
+  {
+    "name": "Dongying",
+    "country": "China",
+    "latitude": 37.43347379990426,
+    "longitude": 118.66893489999997,
+    "other_names": {
+      "name": "东营市",
+      "name:de": "Dongying",
+      "name:en": "Dongying",
+      "name:et": "Dongying",
+      "name:fr": "Dongying",
+      "name:ja": "東営市",
+      "name:pt": "Dongying",
+      "name:ru": "Дунъин",
+      "name:sr": "Дунгјинг",
+      "name:vi": "Đông Dinh",
+      "name:zh": "东营市",
+      "int_name": "Dongying",
+      "name:zh-Hant": "東營市",
+      "name:zh_pinyin": "Dōngyíng Shì"
+    }
+  },
+  {
+    "name": "Dongyuan",
+    "country": "China",
+    "latitude": 23.791422500345607,
+    "longitude": 114.74157939999999,
+    "other_names": {
+      "name": "东源县",
+      "name:de": "Dongyuan",
+      "name:en": "Dongyuan",
+      "name:fa": "شهرستان دونگیوان",
+      "name:fr": "Xian de Dongyuan",
+      "name:it": "Contea di Dongyuan",
+      "name:ja": "東源県",
+      "name:ko": "둥위안현",
+      "name:no": "Dongyuan",
+      "name:sv": "Dongyuan",
+      "name:vi": "Đông Nguyên",
+      "name:zh": "东源县",
+      "alt_name": "东源;Dongyuan County",
+      "name:ceb": "Dongyuan Xian",
+      "name:hak": "Tûng-ngièn-yen",
+      "name:mwl": "Dongyuan",
+      "name:nan": "Tong-goân-koān",
+      "name:yue": "東源",
+      "name:zh-Hant": "東源縣",
+      "name:zh_pinyin": "Dōngyuán Xiàn"
+    }
+  },
+  {
+    "name": "Dongzhi",
+    "country": "China",
+    "latitude": 30.112967099729765,
+    "longitude": 117.02209729999996,
+    "other_names": {
+      "name": "东至县",
+      "name:de": "Dongzhi",
+      "name:en": "Dongzhi",
+      "name:es": "Dōngzhì Xiàn",
+      "name:fa": "شهرستان دونگژی",
+      "name:fr": "Xian de Dongzhi",
+      "name:it": "Contea di Dongzhi",
+      "name:ja": "東至県",
+      "name:ko": "둥즈현",
+      "name:no": "Dongzhi",
+      "name:pl": "Dongzhi",
+      "name:ru": "Дунчжи",
+      "name:sv": "Dongzhi",
+      "name:vi": "Đông Chí",
+      "name:zh": "东至县",
+      "alt_name": "东至;Dongzhi County",
+      "int_name": "Dongzhi",
+      "name:ceb": "Dongzhi Xian",
+      "name:gan": "東至",
+      "name:mwl": "Dongzhi",
+      "name:nan": "Tong-chì-koān",
+      "name:yue": "東至",
+      "old_name": "東流;至德",
+      "name:zh-Hant": "東至縣",
+      "name:zh_pinyin": "Dōngzhì Xiàn"
+    }
+  },
+  {
+    "name": "Dongzhou",
+    "country": "China",
+    "latitude": 41.86618270047592,
+    "longitude": 124.03061219999996,
+    "other_names": {
+      "name": "东洲区",
+      "name:en": "Dongzhou",
+      "name:ja": "東洲区",
+      "name:ko": "둥저우구",
+      "name:zh": "东洲区",
+      "alt_name": "东洲;Dongzhou City",
+      "name:zh-Hant": "東洲區"
+    }
+  },
+  {
+    "name": "Donostia / San Sebastián",
+    "country": "Spain",
+    "latitude": 43.32242190054161,
+    "longitude": -1.9838888999999997,
+    "other_names": {
+      "name": "Donostia / San Sebastián",
+      "name:ar": "سان سيباستيان",
+      "name:be": "Сан-Себасцьян",
+      "name:ca": "Sant Sebastià",
+      "name:el": "Σαν Σεμπαστιάν",
+      "name:es": "San Sebastián",
+      "name:et": "Donostia",
+      "name:eu": "Donostia",
+      "name:fr": "Saint-Sébastien",
+      "name:hu": "Donostia-San Sebastián",
+      "name:lt": "San Sebastianas",
+      "name:oc": "Sant Sebastian",
+      "name:ru": "Доностия-Сан-Себастьян",
+      "alt_name:el": "Ντονόστια",
+      "name:zh-Hans": "圣塞瓦斯蒂安",
+      "name:zh-Hant": "多若斯迪亞"
+    }
+  },
+  {
+    "name": "Dorbod",
+    "country": "China",
+    "latitude": 41.53018100044673,
+    "longitude": 111.6911717,
+    "other_names": {
+      "name": "四子王旗",
+      "name:en": "Dorbod",
+      "name:zh": "四子王旗",
+      "alt_name": "四子王;Siziwang Banner;Siziwang;Dorbod Banner;Dorbod Qi;Siziwang Qi;Ssutzuwang Banner;Durben Khukhut Banner;Ssu-tzu-wang Ch'i",
+      "name:zh-Hant": "四子王旗"
+    }
+  },
+  {
+    "name": "Dordrecht",
+    "country": "Netherlands",
+    "latitude": 51.79588119913704,
+    "longitude": 4.6779351,
+    "other_names": {
+      "name": "Dordrecht",
+      "name:en": "Dordrecht",
+      "name:fr": "Dort",
+      "name:fy": "Doardt",
+      "name:la": "Dordracum",
+      "name:lt": "Dordrechtas",
+      "name:mk": "Дордрехт",
+      "name:nl": "Dordrecht",
+      "name:ru": "Дордрехт",
+      "name:sr": "Дордрехт",
+      "name:uk": "Дордрехт",
+      "loc_name": "Dordt",
+      "alt_name:la": "Dordrectum;Dorteraeum;Dortracum;Durdracum",
+      "name:zh-Hans": "多德雷赫特",
+      "name:zh-Hant": "多德雷赫特",
+      "name:carnaval": "Ooi- en Ramsgat"
+    }
+  },
+  {
+    "name": "Dortmund",
+    "country": "Germany",
+    "latitude": 51.51422729917062,
+    "longitude": 7.465278899999999,
+    "other_names": {
+      "name": "Dortmund",
+      "name:ar": "دورتمند",
+      "name:br": "Dortmund",
+      "name:de": "Dortmund",
+      "name:hu": "Dortmund",
+      "name:ja": "ドルトムント",
+      "name:la": "Tremonia",
+      "name:mk": "Дортмунд",
+      "name:ru": "Дортмунд",
+      "name:sr": "Дортмунд",
+      "name:uk": "Дортмунд",
+      "name:zh": "多特蒙德",
+      "name:nds": "Düörpm",
+      "name:zh-Hant": "多特蒙德"
+    }
+  },
+  {
+    "name": "Dos Hermanas",
+    "country": "Spain",
+    "latitude": 37.28368899988452,
+    "longitude": -5.922671799999999,
+    "other_names": {
+      "name": "Dos Hermanas",
+      "name:ar": "دوس إيرماناس",
+      "name:el": "Ντος Ερμάνας",
+      "name:hu": "Dos Hermanas",
+      "name:ru": "Дос-Эрманас",
+      "name:sr": "Дос Ерманас",
+      "alt_name:el": "Ντος Χερμάνας",
+      "name:zh-Hans": "多斯埃尔马纳斯",
+      "name:zh-Hant": "多斯埃爾馬納斯"
+    }
+  },
+  {
+    "name": "Dosso",
+    "country": "Niger",
+    "latitude": 13.049636899684494,
+    "longitude": 3.1944646999999997,
+    "other_names": {
+      "name": "Dosso",
+      "name:ar": "دوسو",
+      "name:en": "Dosso",
+      "name:ko": "도소",
+      "name:ru": "Досо"
+    }
+  },
+  {
+    "name": "Dostluk",
+    "country": "Turkmenistan",
+    "latitude": 37.74269889994615,
+    "longitude": 65.33691549999999,
+    "other_names": {
+      "name": "Dostluk",
+      "name:ru": "Достлук",
+      "name:tk": "Dostluk",
+      "old_name": "Yuzhnyy",
+      "alt_name:ru": "Южный",
+      "old_name:ru": "Южный"
+    }
+  },
+  {
+    "name": "Dothan",
+    "country": "United States Of America",
+    "latitude": 31.22374339964688,
+    "longitude": -85.3933906,
+    "other_names": {
+      "name": "Dothan",
+      "name:ru": "Дотан"
+    }
+  },
+  {
+    "name": "Douala",
+    "country": "Cameroon",
+    "latitude": 4.042940799583664,
+    "longitude": 9.706202999999999,
+    "other_names": {
+      "name": "Douala",
+      "name:ar": "دوالا",
+      "name:de": "Duala",
+      "name:en": "Douala",
+      "name:eo": "Dualao",
+      "name:ko": "두알라",
+      "name:pt": "Duala",
+      "name:ru": "Дуала",
+      "name:uk": "Дуала"
+    }
+  },
+  {
+    "name": "Douglas",
+    "country": "United States Of America",
+    "latitude": 42.75957080052907,
+    "longitude": -105.38262399999999,
+    "other_names": {
+      "name": "Douglas",
+      "name:ru": "Дуглас"
+    }
+  },
+  {
+    "name": "Doumen",
+    "country": "China",
+    "latitude": 22.212082000405513,
+    "longitude": 113.2910359,
+    "other_names": {
+      "name": "斗门区",
+      "name:de": "Doumen",
+      "name:en": "Doumen",
+      "name:fa": "ناحیه دوامین",
+      "name:fr": "District de Doumen",
+      "name:it": "Distretto di Doumen",
+      "name:ja": "斗門区",
+      "name:ko": "더우먼구",
+      "name:no": "Doumen",
+      "name:ru": "Доумэнь",
+      "name:sv": "Doumen",
+      "name:vi": "Đẩu Môn",
+      "name:zh": "斗门区",
+      "alt_name": "斗门;Doumen District",
+      "name:hak": "Téu-mùn-khî",
+      "name:mwl": "Doumen",
+      "name:nan": "Tó͘-mn̂g-khu",
+      "name:yue": "斗门区",
+      "name:zh-Hans": "斗门区",
+      "name:zh-Hant": "斗門區",
+      "name:yue-Latn": "Daumun-kui",
+      "name:zh_pinyin": "Dǒumén Qū"
+    }
+  },
+  {
+    "name": "Doun Kaev",
+    "country": "Cambodia",
+    "latitude": 10.987580499497735,
+    "longitude": 104.7830181,
+    "other_names": {
+      "name": "ក្រុងដូនកែវ",
+      "name:en": "Doun Kaev",
+      "name:ko": "타케오",
+      "name:ru": "Такео"
+    }
+  },
+  {
+    "name": "Dourados",
+    "country": "Brazil",
+    "latitude": -22.220614500169425,
+    "longitude": -54.81220799999999,
+    "other_names": {
+      "name": "Dourados",
+      "name:ar": "دورادوس",
+      "name:ka": "დოურადოსი",
+      "name:kk": "Дорадус",
+      "name:ko": "도라도스",
+      "name:lt": "Douradosas",
+      "name:mn": "Дорадус",
+      "name:pt": "Dourados",
+      "name:ru": "Дорадус",
+      "name:uk": "Дорадус",
+      "name:zh": "多拉杜斯"
+    }
+  }
+]

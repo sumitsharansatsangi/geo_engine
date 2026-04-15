@@ -1,0 +1,283 @@
+[
+  {
+    "name": "Barinas",
+    "country": "Venezuela",
+    "latitude": 8.618273699394152,
+    "longitude": -70.2274065,
+    "other_names": {
+      "name": "Barinas"
+    }
+  },
+  {
+    "name": "Barinitas",
+    "country": "Venezuela",
+    "latitude": 8.758142499396373,
+    "longitude": -70.40926309999999,
+    "other_names": {
+      "name": "Barinitas"
+    }
+  },
+  {
+    "name": "Baripada",
+    "country": "India",
+    "latitude": 21.93868768365951,
+    "longitude": 86.73313096838307,
+    "other_names": {
+      "name": "Baripada",
+      "name:bn": "বারিপাদা",
+      "name:ja": "バリーパーラー"
+    }
+  },
+  {
+    "name": "Baripada",
+    "country": "India",
+    "latitude": 21.934900000408938,
+    "longitude": 86.73239999999998,
+    "other_names": {
+      "name": "Baripada",
+      "name:bn": "বারিপদা",
+      "name:hi": "बारीपदा",
+      "name:ja": "バリーパーラー",
+      "name:or": "ବାରିପଦା"
+    }
+  },
+  {
+    "name": "Barishal",
+    "country": "Bangladesh",
+    "latitude": 22.704631400394096,
+    "longitude": 90.3711417,
+    "other_names": {
+      "name": "বরিশাল",
+      "name:ar": "باريسال",
+      "name:bn": "বরিশাল",
+      "name:en": "Barishal",
+      "name:et": "Barisāl",
+      "name:fa": "باریسال",
+      "name:hi": "बरिशाल",
+      "name:kn": "ಬರಿಶಾಲ",
+      "name:ur": "باریسال"
+    }
+  },
+  {
+    "name": "Barkam",
+    "country": "China",
+    "latitude": 31.907851599612183,
+    "longitude": 102.20452609999998,
+    "other_names": {
+      "name": "马尔康市",
+      "name:bo": "འབར་ཁམས་",
+      "name:en": "Barkam",
+      "name:et": "Barkam",
+      "name:ja": "馬爾康市",
+      "name:ru": "Баркам",
+      "name:uk": "Баркам",
+      "name:vi": "Mã Nhĩ Khang",
+      "name:zh": "马尔康市",
+      "alt_name": "马尔康市;Barkam",
+      "int_name": "Ma'erkang",
+      "short_name": "马尔康",
+      "alt_name:vi": "Barkam",
+      "name:zh-Hant": "馬爾康市",
+      "name:zh_pinyin": "Ma'erkang"
+    }
+  },
+  {
+    "name": "Barköl",
+    "country": "China",
+    "latitude": 43.597611100541265,
+    "longitude": 93.01505200000001,
+    "other_names": {
+      "name": "巴里坤哈萨克自治县",
+      "name:en": "Barköl",
+      "name:kk": "باركول قازاق اۆتونوميالى اۋدانى (Баркөл Қазақ аутономиялық ауданы)",
+      "name:ru": "Баркуль",
+      "name:ug": "بارىكۆل بازىرى",
+      "name:zh": "巴里坤哈萨克自治县",
+      "alt_name": "Balikun",
+      "short_name": "巴里坤",
+      "name:zh-Hant": "巴里坤哈薩克自治縣",
+      "official_name": "巴里坤哈萨克自治县"
+    }
+  },
+  {
+    "name": "Bârlad",
+    "country": "Romania",
+    "latitude": 46.227535000305785,
+    "longitude": 27.668969999999998,
+    "other_names": {
+      "name": "Bârlad",
+      "name:hu": "Barlád",
+      "name:lt": "Birladas",
+      "name:ru": "Бырлад",
+      "name:uk": "Бирлад",
+      "alt_name": "Bîrlad",
+      "old_name:de": "Bariach"
+    }
+  },
+  {
+    "name": "Barletta",
+    "country": "Italy",
+    "latitude": 41.32149760042641,
+    "longitude": 16.286869599999996,
+    "other_names": {
+      "name": "Barletta",
+      "name:ar": "بارليتا",
+      "name:el": "Μπαρλέττα",
+      "name:ru": "Барлетта",
+      "name:zh": "巴列塔"
+    }
+  },
+  {
+    "name": "Barmer",
+    "country": "India",
+    "latitude": 25.745304000189595,
+    "longitude": 71.3998217,
+    "other_names": {
+      "name": "Barmer",
+      "name:hi": "बाड़मेर",
+      "name:ja": "バールメール",
+      "name:ru": "Бармер"
+    }
+  },
+  {
+    "name": "Barnala",
+    "country": "India",
+    "latitude": 30.376201199707534,
+    "longitude": 75.5435927,
+    "other_names": {
+      "name": "Barnala",
+      "name:ar": "برنالا",
+      "name:en": "Barnala",
+      "name:hi": "बरनाला",
+      "name:ja": "バルナーラー",
+      "name:pa": "ਬਰਨਾਲਾ",
+      "name:ur": "برنالہ"
+    }
+  },
+  {
+    "name": "Barnaul",
+    "country": "Russia",
+    "latitude": 53.33316463053012,
+    "longitude": 83.75739611882959,
+    "other_names": {
+      "name": "Барнаул",
+      "name:en": "Barnaul",
+      "name:fr": "Barnaoul",
+      "name:ja": "バルナウル"
+    }
+  },
+  {
+    "name": "Barnaul",
+    "country": "Russia",
+    "latitude": 53.347401999106324,
+    "longitude": 83.7784496,
+    "other_names": {
+      "name": "Барнаул",
+      "name:ar": "بارناول",
+      "name:ca": "Barnaül",
+      "name:de": "Barnaul",
+      "name:en": "Barnaul",
+      "name:es": "Barnaúl",
+      "name:et": "Barnaul",
+      "name:fi": "Barnaul",
+      "name:fr": "Barnaoul",
+      "name:hr": "Barnaul",
+      "name:hu": "Barnaul",
+      "name:ja": "バルナウル",
+      "name:ko": "바르나울",
+      "name:lt": "Barnaulas",
+      "name:pl": "Barnauł",
+      "name:ro": "Barnaul",
+      "name:ru": "Барнаул",
+      "name:sk": "Barnaul",
+      "name:sl": "Barnaul",
+      "name:uk": "Барнаул",
+      "int_name": "Barnaul"
+    }
+  },
+  {
+    "name": "Barquisimeto",
+    "country": "Venezuela",
+    "latitude": 10.074037199441698,
+    "longitude": -69.32156669999999,
+    "other_names": {
+      "ref": "BRM",
+      "name": "Barquisimeto",
+      "name:be": "Баркісімета",
+      "name:bg": "Баркисимето",
+      "name:ja": "バルキシメト",
+      "name:ka": "ბარკისიმეტო",
+      "name:ko": "바르키시메토",
+      "name:la": "Barquisimetum",
+      "name:lt": "Barkisimetas",
+      "name:mk": "Баркисимето",
+      "name:pt": "Barquisimeto",
+      "name:ru": "Баркисимето",
+      "name:uk": "Баркісімето",
+      "name:zh": "巴基西梅托",
+      "alt_name": "Nueva Segovia de Barquisimeto"
+    }
+  },
+  {
+    "name": "Barra do Piraí",
+    "country": "Brazil",
+    "latitude": -22.470340300137686,
+    "longitude": -43.8263256,
+    "other_names": {
+      "name": "Barra do Piraí"
+    }
+  },
+  {
+    "name": "Barra Mansa",
+    "country": "Brazil",
+    "latitude": -22.53948430012871,
+    "longitude": -44.17351289999999,
+    "other_names": {
+      "name": "Barra Mansa"
+    }
+  },
+  {
+    "name": "Barrancas",
+    "country": "Venezuela",
+    "latitude": 8.701069199395404,
+    "longitude": -62.1988261,
+    "other_names": {
+      "name": "Barrancas"
+    }
+  },
+  {
+    "name": "Barranquilla",
+    "country": "Colombia",
+    "latitude": 10.979966899497192,
+    "longitude": -74.80130850000002,
+    "other_names": {
+      "name": "Barranquilla",
+      "name:ar": "بارانكيا",
+      "name:fa": "بارانکیلا",
+      "name:mk": "Баранкиља",
+      "name:oc": "Barranquilla",
+      "name:ur": "بارانکیلا",
+      "name:azb": "بارانكيلا",
+      "name:pnb": "بارانکولا"
+    }
+  },
+  {
+    "name": "Barreiras",
+    "country": "Brazil",
+    "latitude": -12.144003100126762,
+    "longitude": -44.9967406,
+    "other_names": {
+      "name": "Barreiras",
+      "name:ru": "Баррейрас"
+    }
+  },
+  {
+    "name": "Barretos",
+    "country": "Brazil",
+    "latitude": -20.553143700347643,
+    "longitude": -48.569750899999995,
+    "other_names": {
+      "name": "Barretos"
+    }
+  }
+]

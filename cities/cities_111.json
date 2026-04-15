@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Denov",
+    "country": "Uzbekistan",
+    "latitude": 38.270938141936746,
+    "longitude": 67.90473201958952,
+    "other_names": {
+      "name": "Denov",
+      "name:en": "Denov",
+      "name:fr": "Denaou",
+      "name:ja": "デナウ",
+      "name:ru": "Денау"
+    }
+  },
+  {
+    "name": "Denov",
+    "country": "Uzbekistan",
+    "latitude": 38.27537820002111,
+    "longitude": 67.8951071,
+    "other_names": {
+      "name": "Denov",
+      "name:en": "Denov",
+      "name:fa": "دهنو",
+      "name:fr": "Denaou",
+      "name:ja": "デナウ",
+      "name:ru": "Денау"
+    }
+  },
+  {
+    "name": "Denpasar",
+    "country": "Indonesia",
+    "latitude": -8.652497299803969,
+    "longitude": 115.2191175,
+    "other_names": {
+      "name": "Denpasar",
+      "name:en": "Denpasar",
+      "name:ja": "デンパサール",
+      "name:kn": "ಡೆಣ್ ಪಸರ್",
+      "name:mk": "Денпасар",
+      "name:ru": "Денпасар",
+      "name:uk": "Денпасар",
+      "name:zh": "登巴萨 / 丹帕沙"
+    }
+  },
+  {
+    "name": "Denton",
+    "country": "United States Of America",
+    "latitude": 33.21503859958764,
+    "longitude": -97.1330516,
+    "other_names": {
+      "name": "Denton"
+    }
+  },
+  {
+    "name": "Denver",
+    "country": "United States Of America",
+    "latitude": 39.739236400231455,
+    "longitude": -104.9848623,
+    "other_names": {
+      "name": "Denver",
+      "name:ar": "دنفر",
+      "name:en": "Denver",
+      "name:eo": "Denvero",
+      "name:ja": "デンバー",
+      "name:oc": "Denver",
+      "name:pl": "Denver",
+      "name:ru": "Денвер",
+      "name:ta": "டென்வர்",
+      "name:uk": "Денвер",
+      "name:zh": "丹佛",
+      "name:zh-Hans": "丹佛",
+      "name:zh-Hant": "丹佛"
+    }
+  },
+  {
+    "name": "Deogarh",
+    "country": "India",
+    "latitude": 21.536218940763437,
+    "longitude": 84.72888976115969,
+    "other_names": {
+      "name": "Deogarh"
+    }
+  },
+  {
+    "name": "Deoghar",
+    "country": "India",
+    "latitude": 24.490494500298826,
+    "longitude": 86.69771059999998,
+    "other_names": {
+      "name": "Deoghar",
+      "name:bn": "দেওঘর",
+      "name:en": "Deoghar",
+      "name:hi": "देवघर",
+      "name:ja": "デーオガル",
+      "name:kn": "ದೇವಘರ್",
+      "name:pa": "ਦੇਵਘਰ"
+    }
+  },
+  {
+    "name": "Depalpur",
+    "country": "Pakistan",
+    "latitude": 30.66917709968457,
+    "longitude": 73.6513733,
+    "other_names": {
+      "name": "دِيپالپُور‎",
+      "name:en": "Depalpur",
+      "name:ru": "Дипалпур",
+      "alt_name": "Dipalpur"
+    }
+  },
+  {
+    "name": "Depok",
+    "country": "Indonesia",
+    "latitude": -6.407190299692462,
+    "longitude": 106.81583479999999,
+    "other_names": {
+      "name": "Depok",
+      "name:ja": "デポック",
+      "name:zh": "德博"
+    }
+  },
+  {
+    "name": "Deqin",
+    "country": "China",
+    "latitude": 28.46752439989451,
+    "longitude": 98.9170641,
+    "other_names": {
+      "name": "德钦县",
+      "name:bo": "བདེ་ཆེན་རྫོང་",
+      "name:en": "Deqin",
+      "name:zh": "德钦县",
+      "alt_name": "德钦;Dêqên",
+      "name:zh-Hant": "德欽縣"
+    }
+  },
+  {
+    "name": "Deqing",
+    "country": "China",
+    "latitude": 23.14805500037808,
+    "longitude": 111.78026669999998,
+    "other_names": {
+      "name": "德庆县",
+      "name:de": "Deqing",
+      "name:en": "Deqing",
+      "name:fa": "شهرستان دیکینگ، گوانگ‌دونگ",
+      "name:fr": "Xian de Deqing",
+      "name:it": "Contea di Deqing",
+      "name:ja": "徳慶県",
+      "name:ko": "더칭현",
+      "name:no": "Deqing",
+      "name:sv": "Deqing",
+      "name:vi": "Đức Khánh",
+      "name:zh": "德庆县",
+      "alt_name": "德庆;Deqing County",
+      "name:ceb": "Deqing Xian",
+      "name:hak": "Tet-khin-yen",
+      "name:mwl": "Deqing",
+      "name:nan": "Tek-khèng-koān",
+      "name:yue": "德慶",
+      "name:zh-Hant": "德慶縣",
+      "name:zh_pinyin": "Déqìng Xiàn"
+    }
+  },
+  {
+    "name": "Deqing County",
+    "country": "China",
+    "latitude": 30.542972999694218,
+    "longitude": 119.97243319999997,
+    "other_names": {
+      "name": "德清县",
+      "name:de": "Deqing",
+      "name:en": "Deqing County",
+      "name:es": "Deqing",
+      "name:fa": "شهرستان دچینگ (چجیانگ)",
+      "name:fr": "Xian de Deqing",
+      "name:it": "Contea di Deqing",
+      "name:ja": "徳清県",
+      "name:ko": "더칭현",
+      "name:no": "Deqing",
+      "name:ru": "Дэцин",
+      "name:sv": "Deqing",
+      "name:vi": "Đức Thanh",
+      "name:zh": "德清县",
+      "name:ceb": "Deqing Xian",
+      "name:hak": "Tet-chhîn-yen",
+      "name:nan": "Tek-chheng-koān",
+      "name:wuu": "德清县",
+      "name:yue": "德清",
+      "name:zh-Hans": "德清县",
+      "name:zh-Hant": "德清縣",
+      "name:zh_pinyin": "Déqīng Xiàn"
+    }
+  },
+  {
+    "name": "Dera Allah Yar",
+    "country": "Pakistan",
+    "latitude": 28.377914899904333,
+    "longitude": 68.34398449999999,
+    "other_names": {
+      "name": "ڈیرہ اللہ یار",
+      "name:en": "Dera Allah Yar",
+      "alt_name": "Dera Allah Yaar"
+    }
+  },
+  {
+    "name": "Dera Ghazi Khan",
+    "country": "Pakistan",
+    "latitude": 30.032137399736882,
+    "longitude": 70.6401114,
+    "other_names": {
+      "name": "ڈیرہ غازی خان",
+      "name:ar": "ديرا غازي خان",
+      "name:de": "Dera Ghazi Khan",
+      "name:en": "Dera Ghazi Khan",
+      "name:es": "Dera Ghazi Khan",
+      "name:et": "Dera Ghāzi Khān",
+      "name:fr": "Dera Ghazi Khan",
+      "name:hi": "डेरा गाजी खान",
+      "name:ja": "デーラー・ガーズィー・ハーン",
+      "name:kn": "ಡೇರಾ ಗಾಜೀ ಖಾನ್",
+      "name:ru": "Дерагазихан",
+      "name:sr": "Дера Гази Хан",
+      "name:uk": "Дера Газі Хан",
+      "name:ur": "ڈیرہ غازی خان",
+      "alt_name": "DG Khan"
+    }
+  },
+  {
+    "name": "Dera Ismail Khan",
+    "country": "Pakistan",
+    "latitude": 31.827526999615532,
+    "longitude": 70.9090919,
+    "other_names": {
+      "name": "ڈیرہ اسماعیل خان",
+      "name:ar": "ديره اسماعيل خان",
+      "name:en": "Dera Ismail Khan",
+      "name:es": "Dera Ismail Khan",
+      "name:et": "Dera Ismāīl Khān",
+      "name:fr": "Dera Ismail Khan",
+      "name:hi": "डेरा इस्माइल खान",
+      "name:ja": "デーラー・イスマーイール・ハーン",
+      "name:kn": "ಡೇರಾ ಇಸ್ಮಾಇಲ್ ಖಾನ್",
+      "name:ru": "Дера-Исмаил-Хан",
+      "name:sr": "Дера Исмаил Хан",
+      "alt_name": "DI Khan"
+    }
+  },
+  {
+    "name": "Dera Murad Jamali",
+    "country": "Pakistan",
+    "latitude": 28.541833199886398,
+    "longitude": 68.21927219999999,
+    "other_names": {
+      "name": "ڈیرہ مراد جمالی",
+      "name:en": "Dera Murad Jamali"
+    }
+  },
+  {
+    "name": "Derbent",
+    "country": "Russia",
+    "latitude": 42.0745616135675,
+    "longitude": 48.28376566053674,
+    "other_names": {
+      "name": "Дербент",
+      "name:af": "Derbent",
+      "name:ar": "دربند",
+      "name:av": "Дербенд",
+      "name:az": "Dərbənd",
+      "name:be": "Дзербент",
+      "name:bg": "Дербент",
+      "name:de": "Derbent",
+      "name:el": "Ντερμπέντ",
+      "name:en": "Derbent",
+      "name:eo": "Derbent",
+      "name:es": "Derbent",
+      "name:fa": "دربند",
+      "name:fr": "Derbent",
+      "name:he": "דרבנט",
+      "name:hy": "Դերբենդ",
+      "name:ja": "デルベント",
+      "name:ka": "დერბენტი",
+      "name:la": "Derbentum",
+      "name:lt": "Derbentas",
+      "name:lv": "Derbenta",
+      "name:nl": "Derbent",
+      "name:os": "Дербент",
+      "name:pl": "Derbent",
+      "name:pt": "Derbente",
+      "name:sr": "Дербент",
+      "name:zh": "傑爾賓特",
+      "name:dar": "Чулли",
+      "name:hsb": "Derbent",
+      "name:kbd": "Темыркъалэ",
+      "name:lbe": "Дарбант",
+      "name:lez": "Кьвевар",
+      "name:rut": "Дербенд",
+      "name:az-cyr": "Дәрбәнд"
+    }
+  },
+  {
+    "name": "Derbent",
+    "country": "Russia",
+    "latitude": 42.05785800049048,
+    "longitude": 48.288764799999996,
+    "other_names": {
+      "name": "Дербент",
+      "name:ar": "دربند",
+      "name:av": "Дербенд",
+      "name:az": "Dərbənd",
+      "name:be": "Дзербент",
+      "name:ce": "Дербент",
+      "name:de": "Derbent",
+      "name:el": "Ντερμπέντ",
+      "name:en": "Derbent",
+      "name:eo": "Derbent",
+      "name:et": "Derbent",
+      "name:fa": "دربند",
+      "name:fr": "Derbent",
+      "name:he": "דרבנט",
+      "name:hy": "Դերբենդ",
+      "name:it": "Derbent",
+      "name:ja": "デルベント",
+      "name:ka": "დარუბანდი",
+      "name:ko": "데르벤트",
+      "name:la": "Derbentum",
+      "name:lt": "Derbentas",
+      "name:lv": "Derbenta",
+      "name:nl": "Derbent",
+      "name:os": "Дербент",
+      "name:pl": "Derbent",
+      "name:pt": "Derbente",
+      "name:ru": "Дербент",
+      "name:sr": "Дербент",
+      "name:sv": "Derbent",
+      "name:tt": "Дәрбәнт",
+      "name:uk": "Дербент",
+      "name:uz": "Darband",
+      "name:zh": "傑爾賓特",
+      "int_name": "Derbent",
+      "name:dar": "Чулли",
+      "name:hsb": "Derbent",
+      "name:ira": "Дарубанди",
+      "name:kbd": "Темыркъалэ",
+      "name:lbe": "Дарбант",
+      "name:lez": "Кьвевар",
+      "name:tab": "Шагьур",
+      "name:az-cyr": "Дәрбәнд"
+    }
+  },
+  {
+    "name": "Derby",
+    "country": "England",
+    "latitude": 52.92126169908585,
+    "longitude": -1.4761491,
+    "other_names": {
+      "name": "Derby",
+      "name:ar": "ديربي",
+      "name:en": "Derby",
+      "name:hu": "Derby",
+      "name:ko": "더비",
+      "name:lt": "Derbis",
+      "name:mk": "Дарби",
+      "name:ru": "Дерби",
+      "name:sr": "Дарби",
+      "name:uk": "Дербі",
+      "name:zh": "德比",
+      "alt_name:mk": "Дерби"
+    }
+  },
+  {
+    "name": "Derong",
+    "country": "China",
+    "latitude": 28.715893999867575,
+    "longitude": 99.2853717,
+    "other_names": {
+      "name": "得荣县",
+      "name:en": "Derong",
+      "name:zh": "得荣县",
+      "alt_name": "得荣;Derong County",
+      "name:zh-Hant": "得榮縣"
+    }
+  }
+]

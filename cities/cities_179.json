@@ -1,0 +1,334 @@
+[
+  {
+    "name": "Hildesheim",
+    "country": "Germany",
+    "latitude": 52.15216359910564,
+    "longitude": 9.951304599999999,
+    "other_names": {
+      "name": "Hildesheim",
+      "name:ar": "هلدسهايم",
+      "name:fa": "هلدس‌هایم",
+      "name:hu": "Hildesheim",
+      "name:ja": "ヒルデスハイム",
+      "name:la": "Hildesia",
+      "name:lt": "Hildesheimas",
+      "name:ru": "Хильдесхайм",
+      "name:sr": "Хилдесхајм",
+      "name:nds": "Hilmessen"
+    }
+  },
+  {
+    "name": "hill new chwarchra",
+    "country": "Iraq",
+    "latitude": 35.55528036787374,
+    "longitude": 45.403616852156816,
+    "other_names": {
+      "name": "hill new chwarchra"
+    }
+  },
+  {
+    "name": "Hillsboro",
+    "country": "United States Of America",
+    "latitude": 45.52289390040993,
+    "longitude": -122.989827,
+    "other_names": {
+      "name": "Hillsboro",
+      "name:ja": "ヒルズボロ"
+    }
+  },
+  {
+    "name": "Hilo",
+    "country": "United States Of America",
+    "latitude": 19.707373400358016,
+    "longitude": -155.0815803,
+    "other_names": {
+      "name": "Hilo",
+      "name:en": "Hilo",
+      "name:ja": "ヒロ",
+      "name:ru": "Хило",
+      "name:uk": "Хіло",
+      "name:haw": "Hilo"
+    }
+  },
+  {
+    "name": "Himamaylan",
+    "country": "Philippines",
+    "latitude": 10.099284099442984,
+    "longitude": 122.87053899999998,
+    "other_names": {
+      "name": "Himamaylan"
+    }
+  },
+  {
+    "name": "Himatnagar",
+    "country": "India",
+    "latitude": 23.59675240386314,
+    "longitude": 72.96704758973124,
+    "other_names": {
+      "name": "Himatnagar",
+      "name:gu": "હિંમતનગર",
+      "name:ja": "ヒマットナガル",
+      "name:ta": "இம்மத்நகர்"
+    }
+  },
+  {
+    "name": "Himeji",
+    "country": "Japan",
+    "latitude": 34.815352899639784,
+    "longitude": 134.6854793,
+    "other_names": {
+      "name": "姫路市",
+      "name:en": "Himeji",
+      "name:et": "Himeji",
+      "name:fr": "Himeji",
+      "name:ja": "姫路市",
+      "name:ko": "히메지시",
+      "name:pl": "Himeji",
+      "name:ru": "Химедзи",
+      "name:uk": "Хімедзі",
+      "name:ja_rm": "Himeji-shi",
+      "name:ja_kana": "ひめじし"
+    }
+  },
+  {
+    "name": "Himi",
+    "country": "Japan",
+    "latitude": 36.86459659983159,
+    "longitude": 136.9704027,
+    "other_names": {
+      "name": "氷見市",
+      "name:en": "Himi",
+      "name:fr": "Himi",
+      "name:ja": "氷見市",
+      "name:ko": "히미시",
+      "name:pl": "Himi",
+      "name:ru": "Хими",
+      "name:uk": "Хімі",
+      "int_name": "Himi",
+      "name:ja_rm": "Himi-shi",
+      "name:ja_kana": "ひみし"
+    }
+  },
+  {
+    "name": "Hîncești",
+    "country": "Moldova",
+    "latitude": 46.83020020019547,
+    "longitude": 28.5871433,
+    "other_names": {
+      "name": "Hîncești",
+      "name:ru": "Хынчешты",
+      "name:uk": "Хинчешти",
+      "old_name": "Котовск",
+      "old_name:ro": "Kotovsk",
+      "old_name:ru": "Котовск"
+    }
+  },
+  {
+    "name": "Hinche",
+    "country": "Haiti And Domrep",
+    "latitude": 19.14455410032432,
+    "longitude": -72.0087527,
+    "other_names": {
+      "name": "Hinche",
+      "name:en": "Hinche",
+      "name:es": "Hincha",
+      "name:fr": "Hinche",
+      "name:ht": "Ench",
+      "name:hu": "Hinche",
+      "name:oc": "Hincha",
+      "name:ru": "Энш",
+      "int_name": "Hinche"
+    }
+  },
+  {
+    "name": "Hindaun",
+    "country": "India",
+    "latitude": 26.732500600087167,
+    "longitude": 77.0363121,
+    "other_names": {
+      "name": "Hindaun",
+      "name:hi": "हिण्डौन"
+    }
+  },
+  {
+    "name": "Hindaun",
+    "country": "India",
+    "latitude": 26.744101316372607,
+    "longitude": 77.03211718992486,
+    "other_names": {
+      "name": "Hindaun",
+      "name:ta": "ஹின்டுன்"
+    }
+  },
+  {
+    "name": "Hindiya",
+    "country": "Iraq",
+    "latitude": 32.543212299593016,
+    "longitude": 44.22198079999999,
+    "other_names": {
+      "name": "الهندية",
+      "name:ar": "الهندية",
+      "name:de": "Hindiya",
+      "name:en": "Hindiya",
+      "name:et": "Al-Hindīyah",
+      "name:fr": "Hindiya",
+      "name:ru": "Эль-Хиндия",
+      "alt_name": "Al Hindīyah, Al Hindiyah",
+      "int_name": "Al Hindiyah"
+    }
+  },
+  {
+    "name": "Hinganghat",
+    "country": "India",
+    "latitude": 20.54969954008383,
+    "longitude": 78.84232679971866,
+    "other_names": {
+      "name": "Hinganghat",
+      "name:mr": "हिंगणघाट",
+      "name:ta": "ஹிங்கன்காட்"
+    }
+  },
+  {
+    "name": "Hinganghat",
+    "country": "India",
+    "latitude": 20.548413200393306,
+    "longitude": 78.84112059999998,
+    "other_names": {
+      "name": "Hinganghat",
+      "name:bn": "হিঙ্গানঘাট",
+      "name:kn": "ಹಿಂಗಣಘಾಟ",
+      "name:mr": "हिंगणघाट",
+      "name:ur": "ہنگن گھاٹ",
+      "name:zh": "欣冈格阿特",
+      "name:bpy": "হিঙ্গানঘাট",
+      "name:new": "हिन्गंघाट"
+    }
+  },
+  {
+    "name": "Hinggan",
+    "country": "China",
+    "latitude": 46.067008800332,
+    "longitude": 122.0479655,
+    "other_names": {
+      "name": "兴安盟",
+      "name:cs": "Chjangan",
+      "name:en": "Hinggan",
+      "name:ja": "ヒンガン盟",
+      "name:mn": "Хянган",
+      "name:ru": "Хянган",
+      "name:zh": "兴安盟",
+      "alt_name": "兴安;Хянган;Qingyan;Xing'an",
+      "name:zh-Hant": "興安盟",
+      "name:zh_pinyin": "Xīng'ān Méng"
+    }
+  },
+  {
+    "name": "Hino",
+    "country": "Japan",
+    "latitude": 35.66107149970355,
+    "longitude": 139.41470510000002,
+    "other_names": {
+      "name": "日野市",
+      "name:ar": "هينو، طوكيو",
+      "name:bg": "Хино",
+      "name:de": "Hino",
+      "name:en": "Hino",
+      "name:eo": "Hino",
+      "name:es": "Hino",
+      "name:fa": "هینو، توکیو",
+      "name:fi": "Hino",
+      "name:fr": "Hino",
+      "name:gl": "Hino",
+      "name:it": "Hino",
+      "name:ja": "日野市",
+      "name:ko": "히노시",
+      "name:lt": "Hinas",
+      "name:ms": "Hino",
+      "name:nl": "Hino",
+      "name:pl": "Hino",
+      "name:pt": "Hino",
+      "name:ru": "Хино",
+      "name:sh": "Hino",
+      "name:sr": "Хино",
+      "name:tg": "Ҳино",
+      "name:th": "ฮิโนะ",
+      "name:uk": "Хіно",
+      "name:zh": "日野市",
+      "name:mzn": "هینو، توکیو",
+      "name:yue": "日野市",
+      "name:ja_rm": "Hino-shi",
+      "name:ja_kana": "ひのし",
+      "name:roa-rup": "Hino"
+    }
+  },
+  {
+    "name": "Hinthada",
+    "country": "Myanmar",
+    "latitude": 17.6457472002008,
+    "longitude": 95.46095169999998,
+    "other_names": {
+      "name": "ဟင်္သာတမြို့",
+      "name:de": "Hinthada",
+      "name:en": "Hinthada",
+      "name:es": "Hinthada",
+      "name:et": "Hinthada",
+      "name:fr": "Henzada",
+      "name:ja": "ハインサダ",
+      "name:ko": "힌타다",
+      "name:my": "ဟင်္သာတမြို့",
+      "name:ru": "Хинтада",
+      "name:th": "ฮีนตาดะ",
+      "name:uk": "Хінтада"
+    }
+  },
+  {
+    "name": "Hioki",
+    "country": "Japan",
+    "latitude": 31.63369719962443,
+    "longitude": 130.40243609999996,
+    "other_names": {
+      "name": "日置市",
+      "name:ar": "هيوكي، كاغوشيما",
+      "name:de": "Hioki",
+      "name:en": "Hioki",
+      "name:es": "Hioki",
+      "name:fr": "Hioki",
+      "name:ja": "日置市",
+      "name:ko": "히오키시",
+      "name:pl": "Hioki",
+      "name:ru": "Хиоки",
+      "name:uk": "Хіокі",
+      "name:zh": "日置市",
+      "int_name": "Hioki",
+      "name:ja_rm": "Hioki-shi",
+      "name:ja_kana": "ひおきし",
+      "name:zh-Hans": "日置市",
+      "name:zh-Hant": "日置市"
+    }
+  },
+  {
+    "name": "Hirado",
+    "country": "Japan",
+    "latitude": 33.36807049958865,
+    "longitude": 129.55391529999997,
+    "other_names": {
+      "name": "平戸市",
+      "name:ar": "هيرادو، ناغاساكي",
+      "name:de": "Hirado",
+      "name:en": "Hirado",
+      "name:es": "Hirado",
+      "name:fr": "Hirado",
+      "name:ja": "平戸市",
+      "name:ko": "히라도시",
+      "name:pl": "Hirado",
+      "name:ru": "Хирадо",
+      "name:uk": "Хірадо",
+      "name:zh": "平户市",
+      "int_name": "Hirado",
+      "name:ja_rm": "Higado-Shi",
+      "name:ja-Hira": "ひらどし",
+      "name:zh-Hans": "平户市",
+      "name:zh-Hant": "平戶市"
+    }
+  }
+]

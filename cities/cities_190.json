@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Huizhou",
+    "country": "China",
+    "latitude": 23.114651500379473,
+    "longitude": 114.4107202,
+    "other_names": {
+      "name": "惠州市",
+      "name:af": "Huizhou",
+      "name:ar": "هويزو",
+      "name:ca": "Huizhou",
+      "name:cs": "Chuej-čou",
+      "name:cy": "Huizhou",
+      "name:da": "Huizhou",
+      "name:de": "Huizhou",
+      "name:en": "Huizhou",
+      "name:es": "Huizhou",
+      "name:et": "Huizhou",
+      "name:eu": "Huizhou",
+      "name:fa": "هویژو",
+      "name:fi": "Huizhou",
+      "name:fr": "Huizhou",
+      "name:id": "Huizhou",
+      "name:it": "Huizhou",
+      "name:ja": "恵州市",
+      "name:ki": "Huizhou",
+      "name:ko": "후이저우시",
+      "name:lv": "Huidžou",
+      "name:mg": "Huizhou",
+      "name:nl": "Huizhou",
+      "name:nn": "Huizhou",
+      "name:no": "Huizhou",
+      "name:pl": "Huizhou",
+      "name:pt": "Huizhou",
+      "name:ru": "Хойчжоу",
+      "name:sr": "Хуејџоу",
+      "name:sv": "Huizhou",
+      "name:sw": "Huizhou",
+      "name:tl": "Huizhou",
+      "name:tr": "Huizhou",
+      "name:ug": "Xuyjo shehiri",
+      "name:ur": "ہوئیژوو",
+      "name:vi": "Huệ Châu",
+      "name:zh": "惠州市",
+      "alt_name": "惠州;Huizhou City",
+      "name:ast": "Huizhou",
+      "name:cdo": "Hiê-ciŭ",
+      "name:ceb": "Huizhou",
+      "name:hak": "Fi-chû-sṳ",
+      "name:nan": "Hūi-chiu-chhī",
+      "name:pam": "Huizhou",
+      "name:pnb": "ہوئیژوؤ",
+      "name:war": "Huizhou",
+      "name:wuu": "惠州市",
+      "name:yue": "惠州市",
+      "old_name": "惠阳县",
+      "name:zh-Hant": "惠州市",
+      "name:yue-Latn": "Vuiziu-si",
+      "name:zh_pinyin": "Huìzhōu Shì",
+      "old_name:zh-Hans": "惠阳县",
+      "old_name:zh-Hant": "惠陽縣"
+    }
+  },
+  {
+    "name": "Huizhou",
+    "country": "China",
+    "latitude": 29.830820799755145,
+    "longitude": 118.33016319999997,
+    "other_names": {
+      "name": "徽州区",
+      "name:de": "Huizhou",
+      "name:en": "Huizhou",
+      "name:es": "Distrito de Huizhou",
+      "name:fr": "District de Huizhou",
+      "name:it": "Distretto di Huizhou",
+      "name:ja": "徽州区",
+      "name:ko": "후이저우구",
+      "name:no": "Huizhou",
+      "name:pl": "Huizhou",
+      "name:ru": "Хойчжоу",
+      "name:sv": "Huizhou",
+      "name:vi": "Huy Châu",
+      "name:zh": "徽州区",
+      "alt_name": "徽州;Huizhou District",
+      "name:ceb": "Huizhou Qu",
+      "name:mwl": "Huizhou",
+      "name:nan": "Hui-chiu-khu",
+      "name:wuu": "徽州区",
+      "name:yue": "徽州區",
+      "name:zh-Hant": "徽州區",
+      "name:zh_pinyin": "Huizhou Qu"
+    }
+  },
+  {
+    "name": "Hujra Shah Muqeem",
+    "country": "Pakistan",
+    "latitude": 30.739382799679365,
+    "longitude": 73.82456310000002,
+    "other_names": {
+      "name": "حجرہ شاہ مقیم",
+      "name:en": "Hujra Shah Muqeem"
+    }
+  },
+  {
+    "name": "Hukou",
+    "country": "China",
+    "latitude": 29.733245799764255,
+    "longitude": 116.2473706,
+    "other_names": {
+      "name": "湖口县",
+      "name:en": "Hukou",
+      "name:zh": "湖口县",
+      "alt_name": "湖口;Hukou County",
+      "name:zh-Hant": "湖口縣"
+    }
+  },
+  {
+    "name": "Hulan",
+    "country": "China",
+    "latitude": 45.88819350035949,
+    "longitude": 126.58503049999999,
+    "other_names": {
+      "name": "呼兰区",
+      "name:en": "Hulan",
+      "name:ru": "Хулань",
+      "name:zh": "呼兰区",
+      "name:zh-Hant": "呼蘭區"
+    }
+  },
+  {
+    "name": "Huli",
+    "country": "China",
+    "latitude": 24.514645600297012,
+    "longitude": 118.14205610000002,
+    "other_names": {
+      "name": "湖里区",
+      "name:de": "Huli",
+      "name:en": "Huli",
+      "name:es": "Huli",
+      "name:fa": "هولای",
+      "name:fr": "Huli",
+      "name:it": "Huli",
+      "name:ja": "湖里区",
+      "name:ko": "후리구",
+      "name:no": "Huli",
+      "name:sv": "Huli",
+      "name:ur": "ہولی ضلع",
+      "name:vi": "Hồ Lý",
+      "name:zh": "湖里区",
+      "alt_name": "湖里;Huli District",
+      "name:cdo": "Hù-lī",
+      "name:hak": "Fù-lî-khî",
+      "name:mwl": "Huli",
+      "name:nan": "Ô͘-lí-khu",
+      "name:yue": "湖里",
+      "alt_name:vi": "Hồ Lí",
+      "name:zh-Hant": "湖里區",
+      "name:zh_pinyin": "Húlǐ Qū"
+    }
+  },
+  {
+    "name": "Hulin",
+    "country": "China",
+    "latitude": 45.77243870037633,
+    "longitude": 132.9557472,
+    "other_names": {
+      "name": "虎林市",
+      "name:de": "Hulin",
+      "name:en": "Hulin",
+      "name:ru": "Хулинь",
+      "name:vi": "Hổ Lâm",
+      "name:zh": "虎林市",
+      "alt_name": "虎林",
+      "name:zh-Hant": "虎林市",
+      "official_name": "虎林镇",
+      "name:zh_pinyin": "Hǔlín zhèn"
+    }
+  },
+  {
+    "name": "Hull",
+    "country": "England",
+    "latitude": 53.74357219914708,
+    "longitude": -0.3394758,
+    "other_names": {
+      "name": "Hull",
+      "name:ar": "كينغستون أبون هال",
+      "name:fa": "کینگستون آپون هال",
+      "name:fr": "Hull",
+      "name:hu": "Hull",
+      "name:ko": "킹스턴어폰헐",
+      "name:mk": "Кингстон на Хал",
+      "name:ru": "Кингстон-апон-Халл",
+      "name:uk": "Кінгстон-апон-Галл",
+      "alt_name": "Kingston upon Hull",
+      "old_name": "King's town upon Hull",
+      "short_name": "Hull",
+      "alt_name:fr": "Kingston-upon-Hull",
+      "official_name": "Kingston upon Hull"
+    }
+  },
+  {
+    "name": "Huludao",
+    "country": "China",
+    "latitude": 40.751544300363456,
+    "longitude": 120.84047890000001,
+    "other_names": {
+      "name": "葫芦岛市",
+      "name:cs": "Chu-lu-tao",
+      "name:de": "Huludao",
+      "name:en": "Huludao",
+      "name:et": "Huludao",
+      "name:fr": "Huludao",
+      "name:ja": "葫芦島市",
+      "name:ko": "후루다오시",
+      "name:ru": "Хулудао",
+      "name:vi": "Hồ Lô Đảo",
+      "name:zh": "葫芦岛市",
+      "name:zh-Hant": "葫蘆島市",
+      "name:zh_pinyin": "Húlúdǎo Shì"
+    }
+  },
+  {
+    "name": "Hulunbuir",
+    "country": "China",
+    "latitude": 49.2187994996383,
+    "longitude": 119.7431228,
+    "other_names": {
+      "name": "呼伦贝尔市",
+      "name:de": "Hulunbuir",
+      "name:en": "Hulunbuir",
+      "name:et": "Hulunbuir",
+      "name:fr": "Hulunbuir",
+      "name:ja": "フルンボイル市",
+      "name:lt": "Hulunbuiras",
+      "name:ru": "Хайлар",
+      "name:vi": "Hulun Buir",
+      "name:zh": "呼伦贝尔市",
+      "int_name": "Hulunbuir",
+      "old_name": "呼伦布雨尔",
+      "alt_name:en": "Hulunbei'er",
+      "alt_name:vi": "Hô Luân Bối Nhĩ",
+      "name:zh-Hant": "呼倫貝爾市",
+      "name:zh_pinyin": "Hūlúnbèiěr Shì"
+    }
+  },
+  {
+    "name": "Humboldt",
+    "country": "Canada",
+    "latitude": 52.20207089910232,
+    "longitude": -105.1231093,
+    "other_names": {
+      "name": "Humboldt"
+    }
+  },
+  {
+    "name": "Hunchun",
+    "country": "China",
+    "latitude": 42.859235000532564,
+    "longitude": 130.3590996,
+    "other_names": {
+      "name": "珲春市",
+      "name:en": "Hunchun",
+      "name:et": "Hunchun",
+      "name:fr": "Hunchun",
+      "name:it": "Hunchun",
+      "name:ja": "琿春市",
+      "name:ko": "혼춘시",
+      "name:nl": "Hunchun",
+      "name:pl": "Hunchun",
+      "name:ru": "Хуньчунь",
+      "name:vi": "Hồn Xuân",
+      "name:zh": "珲春市",
+      "name:zh-Hant": "琿春市",
+      "name:zh_pinyin": "Hunchun Shi"
+    }
+  },
+  {
+    "name": "Hunedoara",
+    "country": "Romania",
+    "latitude": 45.75752210037844,
+    "longitude": 22.907379199999998,
+    "other_names": {
+      "name": "Hunedoara",
+      "name:de": "Eisenmarkt",
+      "name:el": "Χουνεντοάρα",
+      "name:he": "חונדוארה",
+      "name:hu": "Vajdahunyad",
+      "name:la": "Hunnopolis",
+      "name:ro": "Hunedoara",
+      "name:ru": "Хунедоара",
+      "name:uk": "Хунедоара",
+      "alt_name:la": "Hunyadiopolis"
+    }
+  },
+  {
+    "name": "Hưng Yên",
+    "country": "Vietnam",
+    "latitude": 20.649098300396258,
+    "longitude": 106.0509951,
+    "other_names": {
+      "name": "Hưng Yên",
+      "name:en": "Hưng Yên",
+      "name:ja": "フンイエン",
+      "name:ko": "흥옌시",
+      "name:ru": "Хынгйен",
+      "name:zh": "兴安市"
+    }
+  },
+  {
+    "name": "Hunjiang",
+    "country": "China",
+    "latitude": 41.943708300482,
+    "longitude": 126.41323490000002,
+    "other_names": {
+      "name": "浑江区",
+      "name:en": "Hunjiang",
+      "name:zh": "浑江区",
+      "alt_name": "浑江;Hunjiang Qu;Hunjiang District",
+      "name:zh-Hant": "渾江區"
+    }
+  },
+  {
+    "name": "Hunnan",
+    "country": "China",
+    "latitude": 41.71431180046329,
+    "longitude": 123.4510455,
+    "other_names": {
+      "name": "浑南区",
+      "name:en": "Hunnan",
+      "name:ja": "渾南区",
+      "name:ko": "훈난구",
+      "name:zh": "浑南区",
+      "alt_name": "浑南;Hunnan District",
+      "name:zh-Hant": "渾南區"
+    }
+  },
+  {
+    "name": "Huntington",
+    "country": "United States Of America",
+    "latitude": 38.41924960004178,
+    "longitude": -82.445154,
+    "other_names": {
+      "name": "Huntington"
+    }
+  },
+  {
+    "name": "Huntington Beach",
+    "country": "United States Of America",
+    "latitude": 33.67833359959325,
+    "longitude": -118.00001659999997,
+    "other_names": {
+      "name": "Huntington Beach",
+      "name:zh-Hans": "亨廷顿比奇",
+      "name:zh-Hant": "亨廷頓比奇"
+    }
+  },
+  {
+    "name": "Huntsville",
+    "country": "United States Of America",
+    "latitude": 34.72984699963468,
+    "longitude": -86.5859011,
+    "other_names": {
+      "name": "Huntsville",
+      "name:en": "Huntsville",
+      "name:ru": "Хантсвилл",
+      "name:uk": "Гантсвілл",
+      "loc_name": "Rocket City"
+    }
+  },
+  {
+    "name": "Hunyuan",
+    "country": "China",
+    "latitude": 39.69326200022504,
+    "longitude": 113.68786849999998,
+    "other_names": {
+      "name": "浑源县",
+      "name:en": "Hunyuan",
+      "name:ja": "渾源県",
+      "name:ru": "Хуньюань",
+      "name:vi": "Hồn Nguyên",
+      "name:zh": "浑源县",
+      "alt_name": "浑源;Hun-yuan Hsien;Hunyuan County",
+      "int_name": "Hunyuan",
+      "name:zh-Hant": "渾源縣",
+      "name:zh_pinyin": "húnyuán xiàn"
+    }
+  }
+]

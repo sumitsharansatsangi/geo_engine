@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Komoro",
+    "country": "Japan",
+    "latitude": 36.327252599769594,
+    "longitude": 138.42597179999999,
+    "other_names": {
+      "name": "小諸市",
+      "name:ar": "كومورو، ناغانو",
+      "name:de": "Komoro",
+      "name:en": "Komoro",
+      "name:es": "Komoro",
+      "name:fr": "Komoro",
+      "name:ja": "小諸市",
+      "name:ko": "고모로시",
+      "name:pl": "Komoro",
+      "name:ru": "Коморо",
+      "name:uk": "Коморо",
+      "name:ja_rm": "Komoro-shi"
+    }
+  },
+  {
+    "name": "Komotini",
+    "country": "Greece",
+    "latitude": 41.1178330004051,
+    "longitude": 25.4041307,
+    "other_names": {
+      "name": "Κομοτηνή",
+      "name:bg": "Гюмюрджина",
+      "name:de": "Komotini",
+      "name:el": "Κομοτηνή",
+      "name:en": "Komotini",
+      "name:es": "Komotiní",
+      "name:et": "Komotiní",
+      "name:fr": "Komotiní",
+      "name:gl": "Komotiní",
+      "name:hu": "Komotiní",
+      "name:lt": "Komotinė",
+      "name:mk": "Ѓумурџина",
+      "name:ro": "Komotini",
+      "name:ru": "Комотини",
+      "name:sq": "Komotini",
+      "name:sr": "Комотини",
+      "name:tr": "Gümülcine",
+      "int_name": "Komotini",
+      "old_name": "Gümülcine",
+      "name:sr-Latn": "Komotini"
+    }
+  },
+  {
+    "name": "Komsomolsk-on-Amur",
+    "country": "Russia",
+    "latitude": 50.575988525260165,
+    "longitude": 137.00385023194295,
+    "other_names": {
+      "name": "Комсомольск-на-Амуре",
+      "name:de": "Komsomolsk am Amur",
+      "name:en": "Komsomolsk-on-Amur",
+      "name:ja": "コムソモリスク=ナ=アムーレ",
+      "name:ru": "Комсомольск-на-Амуре"
+    }
+  },
+  {
+    "name": "Komsomolsk-on-Amur",
+    "country": "Russia",
+    "latitude": 50.55087699933381,
+    "longitude": 137.020782,
+    "other_names": {
+      "name": "Комсомольск-на-Амуре",
+      "name:cs": "Komsomolsk na Amuru",
+      "name:de": "Komsomolsk am Amur",
+      "name:en": "Komsomolsk-on-Amur",
+      "name:es": "Komsomolsk del Amur",
+      "name:et": "Komsomolsk Amuuri ääres",
+      "name:fr": "Komsomolsk-sur-l'Amour",
+      "name:it": "Komsomol'sk-na-Amure",
+      "name:ja": "コムソモリスク=ナ=アムーレ",
+      "name:ko": "콤소몰스크나아무레",
+      "name:pl": "Komsomolsk nad Amurem",
+      "name:ru": "Комсомольск-на-Амуре",
+      "name:uk": "Комсомольськ-на-Амурі",
+      "name:zh": "共青城（诸民）",
+      "int_name": "Komsomolsk-on-Amur"
+    }
+  },
+  {
+    "name": "Konan",
+    "country": "Japan",
+    "latitude": 35.00885709965227,
+    "longitude": 136.0722504,
+    "other_names": {
+      "name": "湖南市",
+      "name:ar": "كونان، شيغا",
+      "name:de": "Konan",
+      "name:en": "Konan",
+      "name:es": "Konan",
+      "name:fr": "Konan",
+      "name:ja": "湖南市",
+      "name:ko": "고난시",
+      "name:pl": "Konan",
+      "name:ru": "Конан",
+      "name:uk": "Конан",
+      "name:ja_rm": "Konan-shi",
+      "name:ja_kana": "こなんし"
+    }
+  },
+  {
+    "name": "Konan",
+    "country": "Japan",
+    "latitude": 35.34450799967692,
+    "longitude": 136.86674200000002,
+    "other_names": {
+      "name": "江南市",
+      "name:en": "Konan",
+      "name:fr": "Kōnan",
+      "name:ja": "江南市",
+      "name:ko": "고난시",
+      "name:pl": "Kōnan",
+      "name:ru": "Конан",
+      "name:uk": "Конан",
+      "int_name": "Kōnan",
+      "name:ja_rm": "Kōnan-shi",
+      "name:ja_kana": "こうなんし"
+    }
+  },
+  {
+    "name": "Konan",
+    "country": "Japan",
+    "latitude": 33.56449019959116,
+    "longitude": 133.7006682,
+    "other_names": {
+      "name": "香南市",
+      "name:ar": "كونان كوتشي",
+      "name:de": "Kōnan",
+      "name:en": "Konan",
+      "name:es": "Kōnan",
+      "name:fr": "Kōnan",
+      "name:ja": "香南市",
+      "name:ko": "고난시",
+      "name:pl": "Kōnan",
+      "name:ru": "Конан",
+      "name:uk": "Конан",
+      "name:zh": "香南市",
+      "int_name": "Kōnan",
+      "name:ja-Hira": "こうなんし",
+      "name:zh-Hans": "香南市",
+      "name:zh-Hant": "香南市"
+    }
+  },
+  {
+    "name": "Kongolo",
+    "country": "Congo Democratic Republic",
+    "latitude": -5.385643899680188,
+    "longitude": 26.9992427,
+    "other_names": {
+      "name": "Kongolo"
+    }
+  },
+  {
+    "name": "Kongtong",
+    "country": "China",
+    "latitude": 35.54319159969325,
+    "longitude": 106.67134519999999,
+    "other_names": {
+      "name": "崆峒区",
+      "name:en": "Kongtong",
+      "name:vi": "Không Đồng",
+      "name:zh": "崆峒区",
+      "alt_name": "崆峒;平凉市;Kongdong;Kongdong Qu",
+      "name:zh-Hant": "崆峒區",
+      "name:zh_pinyin": "kōngtóng qū"
+    }
+  },
+  {
+    "name": "Konin",
+    "country": "Poland",
+    "latitude": 52.23019329910053,
+    "longitude": 18.252111200000005,
+    "other_names": {
+      "name": "Konin",
+      "name:lt": "Koninas",
+      "name:mk": "Коњин",
+      "name:pl": "Konin",
+      "name:ru": "Конин",
+      "name:sr": "Конин",
+      "name:szl": "Kůńin"
+    }
+  },
+  {
+    "name": "Konosu",
+    "country": "Japan",
+    "latitude": 36.06575829974212,
+    "longitude": 139.52210549999998,
+    "other_names": {
+      "name": "鴻巣市",
+      "name:ar": "كونسو، سايتاما",
+      "name:de": "Kōnosu",
+      "name:en": "Konosu",
+      "name:es": "Kōnosu",
+      "name:fr": "Kōnosu",
+      "name:ja": "鴻巣市",
+      "name:ko": "고노스시",
+      "name:pl": "Kōnosu",
+      "name:ru": "Коносу",
+      "name:uk": "Коносу",
+      "name:ja_rm": "Kōnosu",
+      "name:ja-Hira": "こうのすし"
+    }
+  },
+  {
+    "name": "Kon Tum",
+    "country": "Vietnam",
+    "latitude": 14.361525599832076,
+    "longitude": 108.0039102,
+    "other_names": {
+      "name": "Kon Tum",
+      "name:en": "Kon Tum",
+      "name:fa": "کون توم",
+      "name:ja": "コントゥム",
+      "name:ko": "꼰뚬시",
+      "name:nl": "Kon Tum",
+      "name:ru": "Контум",
+      "name:sr": "Кон Тум",
+      "name:tg": "Вилояти Кон Тум",
+      "name:th": "กอนตูม",
+      "name:ur": "کون تم",
+      "name:vi": "Kon Tum",
+      "name:zh": "崑嵩市"
+    }
+  },
+  {
+    "name": "Konya",
+    "country": "Turkey",
+    "latitude": 37.87682399996472,
+    "longitude": 32.48657490000001,
+    "other_names": {
+      "name": "Konya",
+      "name:ar": "قوني",
+      "name:el": "Ικόνιο",
+      "name:fa": "قونیه",
+      "name:he": "קוניה",
+      "name:hi": "कोन्या",
+      "name:hu": "Konya",
+      "name:ja": "コンヤ",
+      "name:ku": "Qonye",
+      "name:lt": "Konija",
+      "name:ru": "Конья",
+      "name:uk": "Конья",
+      "name:zh": "科尼亞",
+      "alt_name": "Konyah;Konia",
+      "int_name": "Konya",
+      "name:zza": "Qonya",
+      "old_name": "Iconium;İkonium"
+    }
+  },
+  {
+    "name": "Konye-Urgench",
+    "country": "Turkmenistan",
+    "latitude": 42.32613360050803,
+    "longitude": 59.153070699999994,
+    "other_names": {
+      "name": "Köneürgenç",
+      "name:en": "Konye-Urgench",
+      "name:es": "Kunya-Urgench",
+      "name:fr": "Kounia-Ourguentch",
+      "name:ja": "クフナ・ウルゲンチ",
+      "name:ru": "Кёнеургенч",
+      "name:tk": "Köneürgenç",
+      "alt_name:ru": "Куня-Ургенч"
+    }
+  },
+  {
+    "name": "Kopeysk",
+    "country": "Russia",
+    "latitude": 55.11533294190766,
+    "longitude": 61.621970667913914,
+    "other_names": {
+      "name": "Копейск",
+      "name:de": "Kopeisk",
+      "name:en": "Kopeysk",
+      "name:fr": "Kopeïsk",
+      "name:ja": "コペイスク",
+      "name:ru": "Копейск",
+      "name:zh": "科佩伊斯克",
+      "int_name": "Kopeysk",
+      "old_name": "Челябинсккопи"
+    }
+  },
+  {
+    "name": "Korba",
+    "country": "India",
+    "latitude": 22.35474680040291,
+    "longitude": 82.7110855,
+    "other_names": {
+      "name": "Korba",
+      "name:en": "Korba",
+      "name:hi": "कोरबा",
+      "name:kn": "ಕೊರ್ಬ"
+    }
+  },
+  {
+    "name": "Korçë",
+    "country": "Albania",
+    "latitude": 40.61589130034709,
+    "longitude": 20.777201899999998,
+    "other_names": {
+      "name": "Korçë",
+      "name:bg": "Корча",
+      "name:el": "Κορυτσά",
+      "name:it": "Coriza",
+      "name:mk": "Горица",
+      "name:pl": "Korcza",
+      "name:ru": "Корча",
+      "name:sr": "Горица",
+      "alt_name": "Korca",
+      "int_name": "Korça"
+    }
+  },
+  {
+    "name": "Korhogo",
+    "country": "Ivory Coast",
+    "latitude": 9.457471899415035,
+    "longitude": -5.6342471,
+    "other_names": {
+      "name": "Korhogo",
+      "name:ar": "كورهوغو",
+      "name:en": "Korhogo",
+      "name:ko": "코로고",
+      "name:lt": "Korhogas",
+      "name:ru": "Корого",
+      "name:uk": "Корого"
+    }
+  },
+  {
+    "name": "Koriyama",
+    "country": "Japan",
+    "latitude": 37.404936999900464,
+    "longitude": 140.333381,
+    "other_names": {
+      "name": "郡山市",
+      "name:ar": "كورياما، فوكوشيما",
+      "name:de": "Kōriyama",
+      "name:en": "Koriyama",
+      "name:es": "Kōriyama",
+      "name:et": "Kōriyama",
+      "name:fr": "Kōriyama",
+      "name:ja": "郡山市",
+      "name:ko": "고리야마시",
+      "name:pl": "Kōriyama",
+      "name:ru": "Корияма",
+      "name:uk": "Коріяма",
+      "int_name": "Kōriyama",
+      "name:ja_rm": "Kōriyama-shi",
+      "name:ja_kana": "こおりやまし"
+    }
+  },
+  {
+    "name": "Korla",
+    "country": "China",
+    "latitude": 41.723874300464125,
+    "longitude": 86.17354099999999,
+    "other_names": {
+      "name": "库尔勒市",
+      "name:de": "Korla",
+      "name:en": "Korla",
+      "name:es": "Korla",
+      "name:et": "Korla",
+      "name:fr": "Korla",
+      "name:hi": "कोरला",
+      "name:ja": "コルラ市",
+      "name:ko": "코를라시",
+      "name:mn": "ᠬᠣᠷᠣᠯ ᠬᠣᠲᠠ (Хорл)",
+      "name:ru": "Корла",
+      "name:ug": "كورلا شەھىرى",
+      "name:vi": "Korla",
+      "name:zh": "库尔勒市",
+      "alt_name:en": "Kurla",
+      "alt_name:vi": "Khố Nhĩ Lặc",
+      "name:zh-Hant": "庫爾勒市",
+      "name:zh_pinyin": "kù'ěrlè"
+    }
+  }
+]

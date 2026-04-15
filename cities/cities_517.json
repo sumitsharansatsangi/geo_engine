@@ -1,0 +1,415 @@
+[
+  {
+    "name": "Wuqiang",
+    "country": "China",
+    "latitude": 38.03728359998725,
+    "longitude": 115.9684694,
+    "other_names": {
+      "name": "武强县",
+      "name:en": "Wuqiang",
+      "name:vi": "Vũ Cường",
+      "name:zh": "武强县",
+      "alt_name": "武强;Wuqiang County",
+      "name:zh-Hant": "武強縣",
+      "official_name": "武强镇",
+      "name:zh_pinyin": "Wuqiang Xian"
+    }
+  },
+  {
+    "name": "Wuqiao",
+    "country": "China",
+    "latitude": 37.62590619993016,
+    "longitude": 116.3863759,
+    "other_names": {
+      "name": "吴桥县",
+      "name:en": "Wuqiao",
+      "name:zh": "吴桥县",
+      "alt_name": "吴桥;Wuqiao County",
+      "name:zh-Hant": "吳橋縣"
+    }
+  },
+  {
+    "name": "Wuqing",
+    "country": "China",
+    "latitude": 39.37928530018059,
+    "longitude": 117.03349850000001,
+    "other_names": {
+      "name": "武清区",
+      "name:en": "Wuqing",
+      "name:ja": "武清区",
+      "name:vi": "Vũ Thanh",
+      "name:zh": "武清区",
+      "name:zh-Hant": "武清區"
+    }
+  },
+  {
+    "name": "Würzburg",
+    "country": "Germany",
+    "latitude": 49.79244999950018,
+    "longitude": 9.932965999999999,
+    "other_names": {
+      "name": "Würzburg",
+      "name:ar": "فورتسبور",
+      "name:bg": "Вюрцбург",
+      "name:de": "Würzburg",
+      "name:el": "Βύρτσμπουργκ",
+      "name:es": "Wurzburgo",
+      "name:fr": "Wurtzbourg",
+      "name:he": "וירצבורג",
+      "name:hu": "Würzburg",
+      "name:ja": "ヴュルツブルク",
+      "name:ko": "뷔르츠부르크",
+      "name:la": "Herbipolis",
+      "name:lt": "Viurcburgas",
+      "name:pt": "Wurtzburgo",
+      "name:ru": "Вюрцбург",
+      "name:sr": "Вирцбург",
+      "name:frr": "Würzbörj"
+    }
+  },
+  {
+    "name": "Wushan",
+    "country": "China",
+    "latitude": 34.72347979963431,
+    "longitude": 104.8919343,
+    "other_names": {
+      "name": "武山县",
+      "name:en": "Wushan",
+      "name:vi": "Thành Quan",
+      "name:zh": "武山县",
+      "alt_name": "武山县;武山城关镇;城关镇;Chengguan",
+      "name:zh-Hant": "武山縣",
+      "name:zh_pinyin": "wǔshān xiàn"
+    }
+  },
+  {
+    "name": "Wushan",
+    "country": "China",
+    "latitude": 31.077445999656046,
+    "longitude": 109.8754021,
+    "other_names": {
+      "name": "巫山县",
+      "name:en": "Wushan",
+      "name:vi": "Vu Sơn",
+      "name:zh": "巫山县",
+      "name:zh-Hant": "巫山縣",
+      "name:zh_pinyin": "Wushan Xian"
+    }
+  },
+  {
+    "name": "Wusheng",
+    "country": "China",
+    "latitude": 30.351018099709602,
+    "longitude": 106.2876067,
+    "other_names": {
+      "name": "武胜县",
+      "name:en": "Wusheng",
+      "name:zh": "武胜县",
+      "alt_name": "武胜;Wusheng County",
+      "name:zh-Hant": "武勝縣"
+    }
+  },
+  {
+    "name": "Wusu",
+    "country": "China",
+    "latitude": 44.41723570051333,
+    "longitude": 84.7111475,
+    "other_names": {
+      "name": "乌苏市",
+      "name:de": "Usu",
+      "name:en": "Wusu",
+      "name:es": "Wusu",
+      "name:et": "Usu",
+      "name:fr": "Wusu",
+      "name:ru": "Усу",
+      "name:ug": "شىخو شەھىرى",
+      "name:uk": "Усу",
+      "name:vi": "Ô Tô",
+      "name:zh": "乌苏市",
+      "alt_name": "乌苏市;Sixw",
+      "alt_name:vi": "Usu",
+      "name:kk-Arab": "شيحۋ قالاسى",
+      "name:zh-Hant": "烏蘇市",
+      "name:zh_pinyin": "Wūsū shì"
+    }
+  },
+  {
+    "name": "Wutai",
+    "country": "China",
+    "latitude": 38.73493970008745,
+    "longitude": 113.25761649999998,
+    "other_names": {
+      "name": "五台县",
+      "name:en": "Wutai",
+      "name:ja": "五台県",
+      "name:zh": "五台县",
+      "alt_name": "五台;Wutai Xian;Wutai",
+      "name:zh-Hant": "五臺縣"
+    }
+  },
+  {
+    "name": "Wutongqiao",
+    "country": "China",
+    "latitude": 29.408340299795736,
+    "longitude": 103.81520439999998,
+    "other_names": {
+      "name": "五通桥区",
+      "name:en": "Wutongqiao",
+      "name:vi": "Ngũ Thông",
+      "name:zh": "五通桥区",
+      "alt_name": "五通桥;Wutongqiao District",
+      "int_name": "wu tong qiao qu",
+      "name:zh-Hant": "五通橋區",
+      "name:zh_pinyin": "Wǔtōngqiáo Qū"
+    }
+  },
+  {
+    "name": "Wuwei",
+    "country": "China",
+    "latitude": 31.30735169964192,
+    "longitude": 117.8971034,
+    "other_names": {
+      "name": "无为市",
+      "name:de": "Wuwei",
+      "name:en": "Wuwei",
+      "name:eo": "Wuwei",
+      "name:es": "Wuwei",
+      "name:fr": "Wuwei",
+      "name:ja": "無為市",
+      "name:ko": "우웨이 현",
+      "name:pt": "Wuwei",
+      "name:sv": "Wuwei",
+      "name:vi": "Vô Vi",
+      "name:zh": "无为市",
+      "alt_name": "无为;Wuwei City",
+      "name:zh-Hans": "无为市",
+      "name:zh-Hant": "無爲市",
+      "name:zh_pinyin": "Wúwéi shì"
+    }
+  },
+  {
+    "name": "Wuwei",
+    "country": "China",
+    "latitude": 37.928880999971994,
+    "longitude": 102.63598859999999,
+    "other_names": {
+      "name": "武威市",
+      "name:ar": "ووي",
+      "name:de": "Wuwei",
+      "name:en": "Wuwei",
+      "name:es": "Wuwei",
+      "name:et": "Wuwei",
+      "name:fa": "وووی",
+      "name:fi": "Wuwei",
+      "name:fr": "Wuwei",
+      "name:ja": "武威市",
+      "name:pt": "Wuwei",
+      "name:ru": "Увэй",
+      "name:sr": "Вувеј",
+      "name:uk": "Увей",
+      "name:ur": "ووئی",
+      "name:vi": "Vũ Uy",
+      "name:zh": "武威市",
+      "alt_name": "武威;Wuwei;Wuwei City",
+      "int_name": "Wuwei",
+      "name:pnb": "وو وئی",
+      "name:zh-Hant": "武威市",
+      "name:zh_pinyin": "Wǔwēi Shì"
+    }
+  },
+  {
+    "name": "Wuxi",
+    "country": "China",
+    "latitude": 31.400235499636622,
+    "longitude": 109.56514359999998,
+    "other_names": {
+      "name": "巫溪县",
+      "name:en": "Wuxi",
+      "name:vi": "Vu Khê",
+      "name:zh": "巫溪县",
+      "alt_name": "巫溪;Wuxi County",
+      "name:zh-Hant": "巫溪縣",
+      "name:zh_pinyin": "Wuxi Xian"
+    }
+  },
+  {
+    "name": "Wuxi",
+    "country": "China",
+    "latitude": 31.49330739963156,
+    "longitude": 120.3074357,
+    "other_names": {
+      "name": "无锡市",
+      "name:af": "Wuxi",
+      "name:ar": "ووشي",
+      "name:az": "Usi",
+      "name:be": "Усі",
+      "name:bg": "Уси",
+      "name:bo": "ཝུའུ་ཞི།",
+      "name:ca": "Wuxi",
+      "name:cs": "Wu-si",
+      "name:cy": "Wuxi",
+      "name:da": "Wuxi",
+      "name:de": "Wuxi",
+      "name:en": "Wuxi",
+      "name:eo": "Vuŝio",
+      "name:es": "Wuxi",
+      "name:et": "Wuxi",
+      "name:eu": "Wuxi",
+      "name:fa": "ووشی",
+      "name:fi": "Wuxi",
+      "name:fr": "Wuxi",
+      "name:he": "וושי",
+      "name:hi": "वूशी",
+      "name:hu": "Vuhszi",
+      "name:ia": "Wuxi",
+      "name:id": "Wuxi",
+      "name:it": "Wuxi",
+      "name:ja": "無錫市",
+      "name:ki": "Wuxi",
+      "name:ko": "우시시",
+      "name:ky": "Уси",
+      "name:lt": "Usis",
+      "name:mg": "Wuxi",
+      "name:mn": "Үши",
+      "name:nl": "Wuxi",
+      "name:nn": "Wuxi",
+      "name:no": "Wuxi",
+      "name:pa": "ਵੁਕਸੀ",
+      "name:pl": "Wuxi",
+      "name:pt": "Wuxi",
+      "name:ro": "Wuxi",
+      "name:ru": "Уси",
+      "name:sr": "Вуси",
+      "name:sv": "Wuxi",
+      "name:th": "อู๋ซี",
+      "name:tl": "Wuxi",
+      "name:tr": "Wuxi",
+      "name:ug": "ۋۇشى شەھىرى",
+      "name:uk": "Усі",
+      "name:ur": "ووشی",
+      "name:vi": "Vô Tích",
+      "name:za": "Vuzsiz",
+      "name:zh": "无锡市",
+      "int_name": "Wúxī",
+      "name:ast": "Wuxi",
+      "name:cdo": "Ù-sék",
+      "name:ceb": "Wuxi",
+      "name:nan": "Bû-sek-chhī",
+      "name:sah": "Уси",
+      "name:sco": "Wuxi",
+      "name:war": "Wuxi",
+      "name:wuu": "无锡市",
+      "name:yue": "無錫",
+      "name:zh-Hant": "無錫市",
+      "name:zh_pinyin": "Wúxī Shì"
+    }
+  },
+  {
+    "name": "Wuxiang",
+    "country": "China",
+    "latitude": 36.83322939982779,
+    "longitude": 112.86169939999999,
+    "other_names": {
+      "name": "武乡县",
+      "name:en": "Wuxiang",
+      "name:ja": "武郷県",
+      "name:zh": "武乡县",
+      "alt_name": "武乡;丰州镇;丰州;Tuan-ts'un;Tuan-ts'un-chen;Wu-hsiang;Duancun;Fengzhou Zhen;Wuxiang Xian;Fengzhou",
+      "name:zh-Hant": "武鄉縣",
+      "name:zh_pinyin": "fēngzhōu zhèn"
+    }
+  },
+  {
+    "name": "Wúxīng",
+    "country": "China",
+    "latitude": 30.857488199670883,
+    "longitude": 120.18085599999998,
+    "other_names": {
+      "name": "吴兴区",
+      "name:en": "Wúxīng",
+      "name:fr": "Wúxīng",
+      "name:vi": "Ngô Hưng",
+      "name:zh": "吴兴区",
+      "name:zh-Hant": "吳興區",
+      "name:zh_pinyin": "Wúxīng qū"
+    }
+  },
+  {
+    "name": "Wuxuan",
+    "country": "China",
+    "latitude": 23.596582900356562,
+    "longitude": 109.6583496,
+    "other_names": {
+      "name": "武宣县",
+      "name:en": "Wuxuan",
+      "name:zh": "武宣县",
+      "alt_name": "武宣;Wuxuan County",
+      "name:zh-Hant": "武宣縣",
+      "name:zh_pinyin": "Wǔxuān Xiàn"
+    }
+  },
+  {
+    "name": "Wuxue",
+    "country": "China",
+    "latitude": 29.847034999753646,
+    "longitude": 115.55628610000001,
+    "other_names": {
+      "name": "武穴市",
+      "name:de": "Wuxue",
+      "name:en": "Wuxue",
+      "name:fa": "واشوی",
+      "name:fr": "Wuxue",
+      "name:it": "Wuxue",
+      "name:ja": "武穴市",
+      "name:ki": "Wuxue",
+      "name:ko": "우쉐시",
+      "name:mg": "Wuxue",
+      "name:no": "Wuxue",
+      "name:ru": "Усюэ",
+      "name:sr": "Вусјуе",
+      "name:sv": "Wuxue",
+      "name:vi": "Vũ Huyệt",
+      "name:zh": "武穴市",
+      "alt_name": "Wuxue Subdistrict",
+      "name:ceb": "Wuxue",
+      "name:nan": "Bú-hia̍t-chhī",
+      "name:pam": "Wuxue",
+      "name:war": "Wuxue",
+      "name:yue": "武穴",
+      "old_name": "广济县;Kuang-chi Hsien;Guangji Xian",
+      "name:zh-Hant": "武穴市",
+      "official_name": "武穴街道",
+      "name:zh_pinyin": "Wǔxué Shì"
+    }
+  },
+  {
+    "name": "Wuyang",
+    "country": "China",
+    "latitude": 33.44114989958942,
+    "longitude": 113.60422099999998,
+    "other_names": {
+      "name": "舞阳县",
+      "name:en": "Wuyang",
+      "name:vi": "Vũ Dương",
+      "name:zh": "舞阳县",
+      "name:zh-Hant": "舞陽縣",
+      "name:zh_pinyin": "Wuyang Xian"
+    }
+  },
+  {
+    "name": "Wuyi",
+    "country": "China",
+    "latitude": 37.800111099954066,
+    "longitude": 115.88055210000002,
+    "other_names": {
+      "name": "武邑县",
+      "name:en": "Wuyi",
+      "name:vi": "Vũ Ấp",
+      "name:zh": "武邑县",
+      "alt_name": "武邑;Wuyi County",
+      "name:zh-Hant": "武邑縣",
+      "official_name": "武邑镇",
+      "name:zh_pinyin": "Wuyi Xian"
+    }
+  }
+]

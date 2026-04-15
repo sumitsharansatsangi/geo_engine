@@ -1,0 +1,323 @@
+[
+  {
+    "name": "Xichong",
+    "country": "China",
+    "latitude": 31.00076089966107,
+    "longitude": 105.885841,
+    "other_names": {
+      "name": "西充县",
+      "name:en": "Xichong",
+      "name:vi": "Tây Sung",
+      "name:zh": "西充县",
+      "alt_name": "西充;Xichong County",
+      "int_name": "Xichong",
+      "name:zh-Hant": "西充縣",
+      "name:zh_pinyin": "Xichong Xian"
+    }
+  },
+  {
+    "name": "Xichou",
+    "country": "China",
+    "latitude": 23.438966300364722,
+    "longitude": 104.67065869999999,
+    "other_names": {
+      "name": "西畴县",
+      "name:en": "Xichou",
+      "name:vi": "Tây Trù",
+      "name:zh": "西畴县",
+      "alt_name": "西畴;Hsi-ch'ou Hsien;Xichou Xian",
+      "name:zh-Hant": "西疇縣",
+      "name:zh_pinyin": "Xichou Xian"
+    }
+  },
+  {
+    "name": "Xichuan",
+    "country": "China",
+    "latitude": 33.13796199958746,
+    "longitude": 111.4820499,
+    "other_names": {
+      "name": "淅川县",
+      "name:en": "Xichuan",
+      "name:ja": "淅川県",
+      "name:ru": "Сичуань",
+      "name:vi": "Tích Xuyên",
+      "name:zh": "淅川县",
+      "alt_name": "淅川;Xichuan County",
+      "int_name": "Xichuan",
+      "name:zh-Hant": "淅川縣"
+    }
+  },
+  {
+    "name": "Xico",
+    "country": "Mexico",
+    "latitude": 19.282153000333267,
+    "longitude": -98.94161219999998,
+    "other_names": {
+      "name": "Xico",
+      "alt_name": "Valle de Chalco Solidaridad"
+    }
+  },
+  {
+    "name": "Xicotepec de Juárez",
+    "country": "Mexico",
+    "latitude": 20.276705300383956,
+    "longitude": -97.9606968,
+    "other_names": {
+      "name": "Xicotepec de Juárez"
+    }
+  },
+  {
+    "name": "Xide",
+    "country": "China",
+    "latitude": 28.30890179991195,
+    "longitude": 102.4120049,
+    "other_names": {
+      "name": "喜德县",
+      "name:en": "Xide",
+      "name:ii": "ꑝꅇꑤ",
+      "name:ja": "喜徳県",
+      "name:zh": "喜德县",
+      "alt_name": "喜德;Xide County",
+      "name:zh-Hant": "喜德縣",
+      "name:zh_pinyin": "Xǐdé Xiàn"
+    }
+  },
+  {
+    "name": "Xiejiaji",
+    "country": "China",
+    "latitude": 32.60172879959193,
+    "longitude": 116.85438389999999,
+    "other_names": {
+      "name": "谢家集区",
+      "name:en": "Xiejiaji",
+      "name:ja": "謝家集区",
+      "name:vi": "Tạ Gia Tập",
+      "name:zh": "谢家集区",
+      "name:zh-Hant": "謝家集區",
+      "name:zh_pinyin": "Xiejiaji Qu"
+    }
+  },
+  {
+    "name": "Xifeng",
+    "country": "China",
+    "latitude": 27.099561200046864,
+    "longitude": 106.73168959999998,
+    "other_names": {
+      "name": "息烽县",
+      "name:en": "Xifeng",
+      "name:vi": "Tức Phong",
+      "name:zh": "息烽县",
+      "int_name": "Xifeng",
+      "name:zh-Hant": "息烽縣"
+    }
+  },
+  {
+    "name": "Xifeng",
+    "country": "China",
+    "latitude": 35.73003129970978,
+    "longitude": 107.6462537,
+    "other_names": {
+      "name": "西峰区",
+      "name:en": "Xifeng",
+      "name:vi": "Tây Phong",
+      "name:zh": "西峰",
+      "alt_name": "西峰区;Xifeng District",
+      "name:zh-Hant": "西峯區",
+      "name:zh_pinyin": "Xifeng Qu"
+    }
+  },
+  {
+    "name": "Xifeng",
+    "country": "China",
+    "latitude": 42.732730900528054,
+    "longitude": 124.71540879999999,
+    "other_names": {
+      "name": "西丰县",
+      "name:en": "Xifeng",
+      "name:ja": "西豊県",
+      "name:ru": "Сифын",
+      "name:vi": "Tây Phong",
+      "name:zh": "西丰县",
+      "alt_name": "西丰;Xifeng County",
+      "name:zh-Hant": "西豐縣",
+      "official_name": "西丰镇",
+      "name:zh_pinyin": "Xifeng Xian"
+    }
+  },
+  {
+    "name": "Xigang",
+    "country": "China",
+    "latitude": 38.915455900113656,
+    "longitude": 121.6065983,
+    "other_names": {
+      "name": "西岗区",
+      "name:en": "Xigang",
+      "name:ja": "西崗区",
+      "name:ko": "시강구",
+      "name:zh": "西岗区",
+      "alt_name": "西岗;Xigang District",
+      "name:zh-Hant": "西崗區"
+    }
+  },
+  {
+    "name": "Xigong",
+    "country": "China",
+    "latitude": 34.678227899631736,
+    "longitude": 112.43315879999999,
+    "other_names": {
+      "name": "西工区",
+      "name:en": "Xigong",
+      "name:vi": "Tây Công",
+      "name:zh": "西工区",
+      "alt_name": "西工;Xigong District",
+      "name:zh-Hant": "西工區",
+      "name:zh_pinyin": "Xigong Qu"
+    }
+  },
+  {
+    "name": "Xigu",
+    "country": "China",
+    "latitude": 36.099640799745586,
+    "longitude": 103.62040410000002,
+    "other_names": {
+      "name": "西固区",
+      "name:en": "Xigu",
+      "name:vi": "Tây Cố",
+      "name:zh": "西固区",
+      "name:zh-Hant": "西固區",
+      "name:zh_pinyin": "Xigu Qu"
+    }
+  },
+  {
+    "name": "Xihe",
+    "country": "China",
+    "latitude": 34.011627399602084,
+    "longitude": 105.2978074,
+    "other_names": {
+      "name": "西和县",
+      "name:en": "Xihe",
+      "name:ja": "西和県",
+      "name:zh": "西和县",
+      "alt_name": "西和;Hsi-ho Hsien;Xihe Xian;Xihe County;汉源镇;Hanyuan",
+      "name:zh-Hant": "西和縣",
+      "name:zh_pinyin": "xīhé xiàn"
+    }
+  },
+  {
+    "name": "Xihu",
+    "country": "China",
+    "latitude": 41.325779900426845,
+    "longitude": 123.76647880000002,
+    "other_names": {
+      "name": "溪湖区",
+      "name:en": "Xihu",
+      "name:ja": "渓湖区",
+      "name:ko": "시후구",
+      "name:zh": "溪湖区",
+      "alt_name": "溪湖;Xihu City",
+      "name:zh-Hant": "溪湖區"
+    }
+  },
+  {
+    "name": "Xihua",
+    "country": "China",
+    "latitude": 33.790138299595775,
+    "longitude": 114.52563829999998,
+    "other_names": {
+      "name": "西华县",
+      "name:en": "Xihua",
+      "name:ru": "Сихуа",
+      "name:vi": "Tây Hoa",
+      "name:zh": "西华县",
+      "alt_name": "西华;Xihua County",
+      "name:zh-Hant": "西華縣",
+      "name:zh_pinyin": "Xihua Xian"
+    }
+  },
+  {
+    "name": "Xihu District",
+    "country": "China",
+    "latitude": 30.26169579971702,
+    "longitude": 120.12566279999999,
+    "other_names": {
+      "name": "西湖区",
+      "name:de": "Xihu",
+      "name:en": "Xihu District",
+      "name:eu": "Xihu Barrutia",
+      "name:fr": "District de Xihu",
+      "name:it": "Distretto di Xihu",
+      "name:ja": "西湖区",
+      "name:ko": "시후구",
+      "name:no": "Xihu",
+      "name:sv": "Xihu",
+      "name:ur": "شیہو ضلع، ہانگژو",
+      "name:vi": "Tây Hồ",
+      "name:zh": "西湖区",
+      "name:ceb": "Xihu Qu",
+      "name:hak": "Sî-fù-khî",
+      "name:nan": "Sai-ô͘-khu",
+      "name:wuu": "西湖区",
+      "name:yue": "西湖區",
+      "name:zh-Hant": "西湖區",
+      "name:zh_pinyin": "Xīhú Qū"
+    }
+  },
+  {
+    "name": "Xihu District",
+    "country": "China",
+    "latitude": 28.65921669987368,
+    "longitude": 115.87199780000002,
+    "other_names": {
+      "name": "西湖区",
+      "name:de": "Xihu",
+      "name:en": "Xihu District",
+      "name:es": "Xihu",
+      "name:eu": "Xihu Barrutia",
+      "name:fr": "District de Xihu",
+      "name:it": "Distretto di Xihu",
+      "name:ja": "西湖区",
+      "name:ko": "시후구",
+      "name:no": "Xihu",
+      "name:ru": "Сиху",
+      "name:sv": "Xihu",
+      "name:vi": "Tây Hồ",
+      "name:zh": "西湖区",
+      "alt_name": "西湖",
+      "name:gan": "西湖區",
+      "name:nan": "Sai-ô͘-khu",
+      "name:yue": "西湖區",
+      "name:zh-Hant": "西湖區",
+      "name:zh_pinyin": "Xihú Qū"
+    }
+  },
+  {
+    "name": "Xiji",
+    "country": "China",
+    "latitude": 35.9652831997321,
+    "longitude": 105.7417568,
+    "other_names": {
+      "name": "西吉县",
+      "name:en": "Xiji",
+      "name:ja": "西吉県",
+      "name:sd": "ثِکِ ﺷِﯿًﺎ",
+      "name:zh": "西吉县",
+      "alt_name": "西吉;吉强镇;Xiji County",
+      "name:zh-Hant": "西吉縣"
+    }
+  },
+  {
+    "name": "Xilin",
+    "country": "China",
+    "latitude": 24.494923200298498,
+    "longitude": 105.09317279999999,
+    "other_names": {
+      "name": "西林县",
+      "name:en": "Xilin",
+      "name:vi": "Tây Lâm",
+      "name:zh": "西林县",
+      "alt_name": "西林;Xilin County",
+      "name:zh-Hant": "西林縣",
+      "name:zh_pinyin": "xīlín xiàn"
+    }
+  }
+]

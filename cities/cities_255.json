@@ -1,0 +1,319 @@
+[
+  {
+    "name": "Lancaster",
+    "country": "England",
+    "latitude": 54.04840679919319,
+    "longitude": -2.7990344999999994,
+    "other_names": {
+      "name": "Lancaster",
+      "name:be": "Ланкастэр",
+      "name:cy": "Caerhirfryn",
+      "name:eo": "Lankastro",
+      "name:fr": "Lancaster",
+      "name:hu": "Lancaster",
+      "name:ko": "랭커스터",
+      "name:lt": "Lankasteris",
+      "name:mk": "Ланкастер",
+      "name:ru": "Ланкастер",
+      "name:sr": "Ланкастер",
+      "name:uk": "Ланкастер"
+    }
+  },
+  {
+    "name": "Lander",
+    "country": "United States Of America",
+    "latitude": 42.833075500531685,
+    "longitude": -108.73070199999998,
+    "other_names": {
+      "name": "Lander"
+    }
+  },
+  {
+    "name": "Langao",
+    "country": "China",
+    "latitude": 32.31343559959843,
+    "longitude": 108.8946918,
+    "other_names": {
+      "name": "岚皋县",
+      "name:en": "Langao",
+      "name:ja": "嵐皋県",
+      "name:ru": "Ланьгао",
+      "name:zh": "岚皋县",
+      "alt_name": "岚皋县;城关镇;岚皋城关镇;Langao",
+      "name:zh-Hant": "嵐皋縣",
+      "name:zh_pinyin": "chéngguān zhèn"
+    }
+  },
+  {
+    "name": "Langfang",
+    "country": "China",
+    "latitude": 39.5128345001996,
+    "longitude": 116.69974460000002,
+    "other_names": {
+      "name": "廊坊市",
+      "name:de": "Langfang",
+      "name:en": "Langfang",
+      "name:et": "Langfang",
+      "name:fr": "Langfang",
+      "name:ja": "廊坊市",
+      "name:ru": "Ланфан",
+      "name:uk": "Ланфан",
+      "name:vi": "Lang Phường",
+      "name:zh": "廊坊市",
+      "alt_name": "廊坊;Langfang City",
+      "name:zh-Hant": "廊坊市"
+    }
+  },
+  {
+    "name": "Langford",
+    "country": "Canada",
+    "latitude": 48.44976929982855,
+    "longitude": -123.50466619999997,
+    "other_names": {
+      "name": "Langford"
+    }
+  },
+  {
+    "name": "Langley City",
+    "country": "Canada",
+    "latitude": 49.10392889966662,
+    "longitude": -122.657047,
+    "other_names": {
+      "name": "Langley City",
+      "official_name": "City of Langley"
+    }
+  },
+  {
+    "name": "Langsa",
+    "country": "Indonesia",
+    "latitude": 4.473089199547196,
+    "longitude": 97.96818409999999,
+    "other_names": {
+      "name": "Langsa",
+      "name:en": "Langsa",
+      "name:ja": "ランサ",
+      "name:ru": "Лангса",
+      "name:uk": "Лангса",
+      "name:zh": "冷沙"
+    }
+  },
+  {
+    "name": "Lạng Sơn",
+    "country": "China",
+    "latitude": 21.852875900409536,
+    "longitude": 106.75974579999999,
+    "other_names": {
+      "name": "Lạng Sơn",
+      "name:ko": "랑선",
+      "name:ru": "Лангшон",
+      "name:vi": "Lạng Sơn",
+      "name:zh": "谅山市",
+      "name:vi-Hani": "諒山",
+      "name:zh-Hans": "谅山市",
+      "name:zh-Hant": "諒山市"
+    }
+  },
+  {
+    "name": "Lạng Sơn",
+    "country": "Vietnam",
+    "latitude": 21.852875900409536,
+    "longitude": 106.75974579999999,
+    "other_names": {
+      "name": "Lạng Sơn",
+      "name:ko": "랑선",
+      "name:ru": "Лангшон",
+      "name:vi": "Lạng Sơn",
+      "name:zh": "谅山市",
+      "name:vi-Hani": "諒山",
+      "name:zh-Hans": "谅山市",
+      "name:zh-Hant": "諒山市"
+    }
+  },
+  {
+    "name": "Langxi",
+    "country": "China",
+    "latitude": 31.12877359965276,
+    "longitude": 119.1742385,
+    "other_names": {
+      "name": "郎溪县",
+      "name:en": "Langxi",
+      "name:ja": "郎渓県",
+      "name:vi": "Lang Khê",
+      "name:zh": "郎溪县",
+      "name:zh-Hant": "郎溪縣"
+    }
+  },
+  {
+    "name": "Langya",
+    "country": "China",
+    "latitude": 32.29661849959889,
+    "longitude": 118.30071789999998,
+    "other_names": {
+      "name": "琅琊区",
+      "name:en": "Langya",
+      "name:ja": "琅ヤ区",
+      "name:vi": "Lang Gia",
+      "name:zh": "琅琊区",
+      "name:zh-Hant": "瑯琊區",
+      "name:zh_pinyin": "Langya Qu"
+    }
+  },
+  {
+    "name": "Langzhong",
+    "country": "China",
+    "latitude": 31.579590999627104,
+    "longitude": 105.9694609,
+    "other_names": {
+      "name": "阆中市",
+      "name:de": "Langzhong",
+      "name:en": "Langzhong",
+      "name:fr": "Langzhong",
+      "name:ja": "ロウ中市",
+      "name:vi": "Lãng Trung",
+      "name:zh": "阆中市",
+      "alt_name": "阆中;Langzhong City",
+      "int_name": "Langzhong",
+      "name:zh-Hant": "閬中市",
+      "name:zh_pinyin": "Làngzhōng Shì"
+    }
+  },
+  {
+    "name": "Lankao",
+    "country": "China",
+    "latitude": 34.81790599963995,
+    "longitude": 114.8131028,
+    "other_names": {
+      "name": "兰考县",
+      "name:en": "Lankao",
+      "name:zh": "兰考县",
+      "alt_name": "兰考;Lankao County",
+      "name:zh-Hant": "蘭考縣"
+    }
+  },
+  {
+    "name": "Lankaran",
+    "country": "Azerbaijan",
+    "latitude": 38.76335781847576,
+    "longitude": 48.83828370654673,
+    "other_names": {
+      "name": "Lənkəran",
+      "name:ar": "لنكران",
+      "name:en": "Lankaran",
+      "name:hi": "लंकाराण",
+      "name:ja": "レンキャラン",
+      "name:ru": "Ленкорань",
+      "name:uk": "Ленкорань"
+    }
+  },
+  {
+    "name": "Lankaran",
+    "country": "Azerbaijan",
+    "latitude": 38.753731100090185,
+    "longitude": 48.853928599999996,
+    "other_names": {
+      "name": "Lənkəran",
+      "name:ar": "لنكران",
+      "name:az": "Lənkəran",
+      "name:de": "Lənkəran",
+      "name:en": "Lankaran",
+      "name:es": "Lankaran",
+      "name:fr": "Lankaran",
+      "name:hi": "लंकाराण",
+      "name:ja": "レンキャラン",
+      "name:pl": "Lenkoran",
+      "name:ru": "Ленкорань",
+      "name:uk": "Ленкорань",
+      "name:tly": "Ланкон"
+    }
+  },
+  {
+    "name": "Lanling",
+    "country": "China",
+    "latitude": 34.85861309964246,
+    "longitude": 118.0652879,
+    "other_names": {
+      "name": "兰陵县",
+      "name:en": "Lanling",
+      "name:vi": "Thương Sơn",
+      "name:zh": "兰陵县",
+      "old_name": "苍山县",
+      "name:zh-Hant": "蘭陵縣",
+      "name:zh_pinyin": "LanLing Xian"
+    }
+  },
+  {
+    "name": "Lanping",
+    "country": "China",
+    "latitude": 26.45524010011697,
+    "longitude": 99.41976769999998,
+    "other_names": {
+      "name": "兰坪县",
+      "name:en": "Lanping",
+      "name:vi": "Lan Bình",
+      "name:zh": "兰坪县",
+      "alt_name": "兰坪;Lanping Bai and Pumi Autonomous County",
+      "name:zh-Hant": "蘭坪縣",
+      "official_name": "兰坪白族普米族自治县",
+      "name:zh_pinyin": "Lánpíng Xiàn",
+      "official_name:zh": "兰坪白族普米族自治县",
+      "official_name:lisu": "ꓡꓽ-ꓒꓲꓽ ꓡꓽ-ꓐꓶꓽ ꓫꓵꓽ ꓒꓴ-ꓟꓲ ꓫꓵꓽ ꓚꓲꓸ ꓛꓬꓽ ꓗꓪꓼ ꓫꓵꓽ ꓫꓯꓹ",
+      "official_name:zh_pinyin": "Lánpíng báizú pǔmǐzú zìzhì xiàn"
+    }
+  },
+  {
+    "name": "Lanshan",
+    "country": "China",
+    "latitude": 25.372075500225,
+    "longitude": 112.191748,
+    "other_names": {
+      "name": "蓝山县",
+      "name:de": "Lanshan",
+      "name:en": "Lanshan",
+      "name:fa": "شهرستان لانشان",
+      "name:fr": "Xian de Lanshan",
+      "name:it": "Contea di Lanshan",
+      "name:ja": "藍山県",
+      "name:ko": "란산현",
+      "name:no": "Lanshan",
+      "name:ru": "Ланьшань",
+      "name:sv": "Lanshan",
+      "name:vi": "Lam Sơn",
+      "name:zh": "蓝山县",
+      "alt_name": "蓝山;Lanshan County",
+      "name:ceb": "Lanshan Xian",
+      "name:nan": "Lâm-san-koān",
+      "name:yue": "藍山",
+      "name:zh-Hant": "藍山縣",
+      "name:zh_pinyin": "lánshān xiàn"
+    }
+  },
+  {
+    "name": "Lanshan",
+    "country": "China",
+    "latitude": 35.12215619966017,
+    "longitude": 119.31152210000002,
+    "other_names": {
+      "name": "岚山区",
+      "name:en": "Lanshan",
+      "name:zh": "岚山区",
+      "name:zh-Hant": "嵐山區"
+    }
+  },
+  {
+    "name": "Lansing",
+    "country": "United States Of America",
+    "latitude": 42.73377120052809,
+    "longitude": -84.5553805,
+    "other_names": {
+      "name": "Lansing",
+      "name:en": "Lansing",
+      "name:fa": "لنسینگ",
+      "name:pl": "Lansing",
+      "name:ru": "Лансинг",
+      "name:ta": "லான்சிங்",
+      "name:uk": "Лансинг",
+      "name:zh-Hans": "兰辛",
+      "name:zh-Hant": "蘭辛"
+    }
+  }
+]

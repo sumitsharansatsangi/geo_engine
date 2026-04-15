@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Linyi",
+    "country": "China",
+    "latitude": 37.17671039987068,
+    "longitude": 116.8507744,
+    "other_names": {
+      "name": "临邑县",
+      "name:en": "Linyi",
+      "name:ru": "Линьи",
+      "name:vi": "Lâm Ấp",
+      "name:zh": "临邑县",
+      "name:zh-Hant": "臨邑縣",
+      "name:zh_pinyin": "Linyi Xian"
+    }
+  },
+  {
+    "name": "Linyi",
+    "country": "China",
+    "latitude": 35.14335329966169,
+    "longitude": 110.769063,
+    "other_names": {
+      "name": "临猗县",
+      "name:en": "Linyi",
+      "name:ja": "臨猗県",
+      "name:zh": "临猗县",
+      "alt_name": "临猗;Linyi;I-shih-chen;Lin-i-hsien;Lin-i;I-shih-hsien;I-shih-ch'eng;Linyi County",
+      "name:zh-Hant": "臨猗縣"
+    }
+  },
+  {
+    "name": "Linyi",
+    "country": "China",
+    "latitude": 35.10324029965883,
+    "longitude": 118.35069880000002,
+    "other_names": {
+      "name": "临沂市",
+      "name:ca": "Linyi",
+      "name:de": "Linyi",
+      "name:en": "Linyi",
+      "name:et": "Linyi",
+      "name:fr": "Linyi",
+      "name:hi": "लिन्यि",
+      "name:ja": "臨沂市",
+      "name:ru": "Линьи",
+      "name:sr": "Линји",
+      "name:uk": "Ліньі",
+      "name:vi": "Lâm Nghi",
+      "name:zh": "临沂市",
+      "int_name": "Linyi",
+      "name:zh-Hant": "臨沂市",
+      "name:zh_pinyin": "Línyí Shì"
+    }
+  },
+  {
+    "name": "Linying",
+    "country": "China",
+    "latitude": 33.8153509995964,
+    "longitude": 113.93444439999999,
+    "other_names": {
+      "name": "临颍县",
+      "name:en": "Linying",
+      "name:vi": "Lâm Dĩnh",
+      "name:zh": "临颍县",
+      "alt_name": "临颍;Linying County",
+      "name:zh-Hant": "臨潁縣",
+      "name:zh_pinyin": "Linying Xian"
+    }
+  },
+  {
+    "name": "Linyou",
+    "country": "China",
+    "latitude": 34.67957789963181,
+    "longitude": 107.7887208,
+    "other_names": {
+      "name": "麟游县",
+      "name:en": "Linyou",
+      "name:ja": "麟游県",
+      "name:zh": "麟游县",
+      "alt_name": "麟游;九成宫镇;九成;Jiuchenggong;Tangjiu Chenggong;Lingyu;Lin-yu-hsien;Lin-yu;Lin-yu-hsien-ch'eng",
+      "name:zh-Hant": "麟遊縣"
+    }
+  },
+  {
+    "name": "Linz",
+    "country": "Austria",
+    "latitude": 48.30590779986381,
+    "longitude": 14.286198,
+    "other_names": {
+      "name": "Linz",
+      "name:ar": "لنتس",
+      "name:be": "Лінц",
+      "name:bg": "Линц",
+      "name:cs": "Linec",
+      "name:en": "Linz",
+      "name:fr": "Linz",
+      "name:hu": "Linz",
+      "name:hy": "Լինց",
+      "name:ka": "ლინყი",
+      "name:la": "Lentia",
+      "name:mk": "Линц",
+      "name:ru": "Линц",
+      "name:sr": "Линц",
+      "name:uk": "Лінц",
+      "alt_name:mk": "Линец",
+      "name:be-tarask": "Лінц"
+    }
+  },
+  {
+    "name": "Linze",
+    "country": "China",
+    "latitude": 39.14955750014756,
+    "longitude": 100.16616589999998,
+    "other_names": {
+      "name": "临泽县",
+      "name:de": "Linze",
+      "name:en": "Linze",
+      "name:es": "Linze",
+      "name:fr": "Linze",
+      "name:ja": "臨沢県",
+      "name:ru": "Линьцзэ",
+      "name:zh": "临泽县",
+      "alt_name": "临泽;Linze County;Lin-tse Hsien",
+      "name:zh-Hant": "臨澤縣",
+      "name:zh_pinyin": "línzé xiàn"
+    }
+  },
+  {
+    "name": "Linzhang",
+    "country": "China",
+    "latitude": 36.33417889977034,
+    "longitude": 114.5976255,
+    "other_names": {
+      "name": "临漳县",
+      "name:en": "Linzhang",
+      "name:ja": "臨ショウ県",
+      "name:vi": "Lâm Chương",
+      "name:zh": "临漳县",
+      "alt_name": "临漳;Linzhang County",
+      "name:zh-Hant": "臨漳縣",
+      "official_name": "临漳镇",
+      "name:zh_pinyin": "Linzhang Xian"
+    }
+  },
+  {
+    "name": "Linzhou",
+    "country": "China",
+    "latitude": 36.067394899742304,
+    "longitude": 113.8105402,
+    "other_names": {
+      "name": "林州市",
+      "name:de": "Linzhou",
+      "name:en": "Linzhou",
+      "name:fr": "Linzhou",
+      "name:ja": "林州市",
+      "name:vi": "Lâm Châu",
+      "name:zh": "林州市",
+      "alt_name": "林州;Lin Xian;Lin Hsien;Linzhou Shi;Linzhou City",
+      "name:zh-Hant": "林州市",
+      "name:zh_pinyin": "Línzhōu Shì"
+    }
+  },
+  {
+    "name": "Linzi",
+    "country": "China",
+    "latitude": 36.82641129982697,
+    "longitude": 118.303246,
+    "other_names": {
+      "name": "临淄区",
+      "name:en": "Linzi",
+      "name:zh": "临淄区",
+      "name:zh-Hant": "臨淄區"
+    }
+  },
+  {
+    "name": "Lipa",
+    "country": "Philippines",
+    "latitude": 13.941468599783398,
+    "longitude": 121.16428770000002,
+    "other_names": {
+      "name": "Lipa",
+      "name:ja": "リパ"
+    }
+  },
+  {
+    "name": "Lipetsk",
+    "country": "Russia",
+    "latitude": 52.60418769908557,
+    "longitude": 39.593689899999994,
+    "other_names": {
+      "name": "Липецк",
+      "name:ar": "ليبيتسك",
+      "name:az": "Lipetsk",
+      "name:be": "Ліпецк",
+      "name:de": "Lipezk",
+      "name:el": "Λίπετσκ",
+      "name:en": "Lipetsk",
+      "name:et": "Lipetsk",
+      "name:fa": "لیپتسک",
+      "name:fr": "Lipetsk",
+      "name:hr": "Lipeck",
+      "name:hu": "Lipeck",
+      "name:hy": "Լիպեցկ",
+      "name:ja": "リペツク",
+      "name:ka": "ლიპეცკი",
+      "name:ko": "리페츠크",
+      "name:lt": "Lipeckas",
+      "name:lv": "Ļipecka",
+      "name:nl": "Lipetsk",
+      "name:pl": "Lipieck",
+      "name:ro": "Lipețk",
+      "name:ru": "Липецк",
+      "name:sk": "Lipeck",
+      "name:sr": "Липецк",
+      "name:uk": "Липецьк",
+      "name:zh": "利佩茨克",
+      "int_name": "Lipetsk",
+      "name:hsb": "Lipjeck"
+    }
+  },
+  {
+    "name": "Lipetsk",
+    "country": "Russia",
+    "latitude": 52.594270266355174,
+    "longitude": 39.61984706361373,
+    "other_names": {
+      "name": "Липецк",
+      "name:ar": "ليبيتسك",
+      "name:az": "Lipetsk",
+      "name:be": "Ліпецк",
+      "name:bg": "Липецк",
+      "name:ca": "Lípetsk",
+      "name:cs": "Lipeck",
+      "name:cv": "Липецк",
+      "name:da": "Lipetsk",
+      "name:de": "Lipezk",
+      "name:en": "Lipetsk",
+      "name:eo": "Lipeck",
+      "name:es": "Lípetsk",
+      "name:et": "Lipetsk",
+      "name:fi": "Lipetsk",
+      "name:fr": "Lipetsk",
+      "name:hr": "Lipeck",
+      "name:id": "Lipetsk",
+      "name:it": "Lipeck",
+      "name:ja": "リペツク",
+      "name:ko": "리페츠크",
+      "name:lt": "Lipeckas",
+      "name:lv": "Ļipecka",
+      "name:nl": "Lipetsk",
+      "name:nn": "Lipetsk",
+      "name:no": "Lipetsk",
+      "name:os": "Липецк",
+      "name:pl": "Lipieck",
+      "name:pt": "Lipetsk",
+      "name:ro": "Lipețk",
+      "name:ru": "Липецк",
+      "name:sk": "Lipeck",
+      "name:sl": "Lipeck",
+      "name:sr": "Липецк",
+      "name:sv": "Lipetsk",
+      "name:uk": "Липецьк",
+      "name:vi": "Lipetsk",
+      "name:zh": "利佩茨克"
+    }
+  },
+  {
+    "name": "Liping",
+    "country": "China",
+    "latitude": 26.237211500139896,
+    "longitude": 109.129955,
+    "other_names": {
+      "name": "黎平县",
+      "name:en": "Liping",
+      "name:ru": "Дэфын",
+      "name:zh": "黎平县",
+      "alt_name": "黎平县",
+      "name:zh-Hant": "黎平縣"
+    }
+  },
+  {
+    "name": "Lipu",
+    "country": "China",
+    "latitude": 24.49155640029874,
+    "longitude": 110.3904438,
+    "other_names": {
+      "name": "荔浦市",
+      "name:en": "Lipu",
+      "name:zh": "荔浦市",
+      "alt_name": "荔浦;Lipu City;Laipo",
+      "old_name": "荔浦县;Lipu County",
+      "name:zh-Hant": "荔浦市"
+    }
+  },
+  {
+    "name": "Liquan",
+    "country": "China",
+    "latitude": 34.48657929962158,
+    "longitude": 108.4188076,
+    "other_names": {
+      "name": "礼泉县",
+      "name:en": "Liquan",
+      "name:ja": "礼泉県",
+      "name:zh": "礼泉县",
+      "old_name": "醴泉;醴泉縣;醴泉县",
+      "name:zh-Hant": "醴泉縣"
+    }
+  },
+  {
+    "name": "Lira",
+    "country": "Uganda",
+    "latitude": 2.2456917997605657,
+    "longitude": 32.896244,
+    "other_names": {
+      "name": "Lira",
+      "name:ru": "Лира"
+    }
+  },
+  {
+    "name": "Liranga",
+    "country": "Congo Democratic Republic",
+    "latitude": -0.6621465999341171,
+    "longitude": 17.6107531,
+    "other_names": {
+      "name": "Liranga"
+    }
+  },
+  {
+    "name": "Lisala",
+    "country": "Congo Democratic Republic",
+    "latitude": 2.147393699770998,
+    "longitude": 21.5156742,
+    "other_names": {
+      "name": "Lisala",
+      "name:ru": "Лисала"
+    }
+  },
+  {
+    "name": "Lisbon",
+    "country": "Portugal",
+    "latitude": 38.7077507000835,
+    "longitude": -9.136591899999999,
+    "other_names": {
+      "name": "Lisboa",
+      "name:ar": "أشبونة",
+      "name:be": "Лісабон",
+      "name:cs": "Lisabon",
+      "name:de": "Lissabon",
+      "name:el": "Λισαβόνα",
+      "name:en": "Lisbon",
+      "name:eo": "Lisbono",
+      "name:es": "Lisboa",
+      "name:et": "Lissabon",
+      "name:fa": "لیسبون",
+      "name:fi": "Lissabon",
+      "name:fr": "Lisbonne",
+      "name:hr": "Lisabon",
+      "name:hu": "Lisszabon",
+      "name:ia": "Lisbona",
+      "name:it": "Lisbona",
+      "name:ku": "Lîsabon",
+      "name:mi": "Rihipane",
+      "name:mk": "Лисабон",
+      "name:nl": "Lissabon",
+      "name:oc": "Lisbona",
+      "name:pl": "Lizbona",
+      "name:pt": "Lisboa",
+      "name:ru": "Лиссабон",
+      "name:sk": "Lisabon",
+      "name:sr": "Лисабон",
+      "name:sv": "Lissabon",
+      "name:zh": "里斯本",
+      "int_name": "Lisbon",
+      "name:ckb": "لیسبۆن",
+      "alt_name:ku": "Lîzbon",
+      "name:zh-Hans": "里斯本",
+      "name:zh-Hant": "里斯本",
+      "old_name:-400": "Olissipo Felicitas Julia"
+    }
+  }
+]

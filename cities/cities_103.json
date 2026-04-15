@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Daguan",
+    "country": "China",
+    "latitude": 27.751249999974075,
+    "longitude": 103.89112409999998,
+    "other_names": {
+      "name": "大关县",
+      "name:en": "Daguan",
+      "name:ja": "大関県",
+      "name:ru": "Цуйхуа",
+      "name:uk": "Цуйхуа",
+      "name:vi": "Đại Quan",
+      "name:zh": "大关县",
+      "alt_name": "大关",
+      "name:zh-Hant": "大關縣",
+      "name:zh_pinyin": "Dàguān xiàn"
+    }
+  },
+  {
+    "name": "Daguan",
+    "country": "China",
+    "latitude": 30.515130699696396,
+    "longitude": 117.0289484,
+    "other_names": {
+      "name": "大观区",
+      "name:en": "Daguan",
+      "name:ja": "大観区",
+      "name:vi": "Đại Quan",
+      "name:zh": "大观区",
+      "alt_name": "大观;Daguan District",
+      "name:zh-Hant": "大觀區",
+      "name:zh_pinyin": "Dàguān Qū"
+    }
+  },
+  {
+    "name": "Dagupan",
+    "country": "Philippines",
+    "latitude": 16.042484800029378,
+    "longitude": 120.33756879999999,
+    "other_names": {
+      "name": "Dagupan",
+      "name:en": "Dagupan",
+      "name:ja": "ダグパン",
+      "name:ru": "Дагупан"
+    }
+  },
+  {
+    "name": "Dagzê",
+    "country": "China",
+    "latitude": 29.67223109977004,
+    "longitude": 91.34832,
+    "other_names": {
+      "name": "达孜区",
+      "name:bo": "སྟག་རྩེ",
+      "name:en": "Dagzê",
+      "name:zh": "达孜区",
+      "alt_name": "达孜;Dagzê District;Taktsé",
+      "old_name": "达孜县;Dagzê County",
+      "name:zh-Hant": "達孜區",
+      "name:zh_pinyin": "Dázī Xiàn"
+    }
+  },
+  {
+    "name": "Dahab",
+    "country": "Egypt",
+    "latitude": 28.496363299891367,
+    "longitude": 34.5145652,
+    "other_names": {
+      "name": "دهب",
+      "name:ar": "دهب",
+      "name:de": "Dahab",
+      "name:en": "Dahab",
+      "name:es": "Dahab",
+      "name:fr": "Dahab",
+      "name:hu": "Dahab",
+      "name:ko": "다합",
+      "name:ru": "Дахаб",
+      "int_name": "Dahab",
+      "name:zh-Hans": "达哈卜",
+      "name:zh-Hant": "達哈卜"
+    }
+  },
+  {
+    "name": "Daharki",
+    "country": "Pakistan",
+    "latitude": 28.052157999940427,
+    "longitude": 69.7030649,
+    "other_names": {
+      "name": "ڈھرکی‎",
+      "name:en": "Daharki"
+    }
+  },
+  {
+    "name": "Dahua",
+    "country": "China",
+    "latitude": 23.73829180034869,
+    "longitude": 107.99393039999998,
+    "other_names": {
+      "name": "大化瑶族自治县",
+      "name:en": "Dahua",
+      "name:zh": "大化瑶族自治县",
+      "alt_name": "大化;Dahua Yao Autonomous County;Dahua County",
+      "short_name": "大化县",
+      "name:zh-Hant": "大化瑤族自治縣",
+      "official_name": "大化瑶族自治县",
+      "name:zh_pinyin": "Dàhuà Yáozú Zìzhì xiàn",
+      "official_name:en": "Dahua Yao Autonomous County"
+    }
+  },
+  {
+    "name": "Dai",
+    "country": "China",
+    "latitude": 39.06998120013605,
+    "longitude": 112.9462883,
+    "other_names": {
+      "name": "代县",
+      "name:cs": "Taj",
+      "name:en": "Dai",
+      "name:ja": "代県",
+      "name:zh": "代县",
+      "alt_name": "代;Tai-hsien-ch'eng;Tai-hsien;Taichow;Tai-ch'eng;Tai;Daysyan';Daixian;上馆;Shangguan Zhen;Shangguan;Dai Xian",
+      "name:zh-Hant": "代縣"
+    }
+  },
+  {
+    "name": "Daisen",
+    "country": "Japan",
+    "latitude": 39.4530067001911,
+    "longitude": 140.4757635,
+    "other_names": {
+      "name": "大仙市",
+      "name:ar": "دايسين، أكيتا",
+      "name:de": "Daisen",
+      "name:en": "Daisen",
+      "name:es": "Daisen",
+      "name:fr": "Daisen",
+      "name:ja": "大仙市",
+      "name:ko": "다이센시",
+      "name:pl": "Daisen",
+      "name:ru": "Даисен",
+      "name:uk": "Дайсен",
+      "int_name": "Daisen",
+      "name:ja_rm": "Daisen-shi",
+      "name:ja_kana": "だいせんし"
+    }
+  },
+  {
+    "name": "Daishan",
+    "country": "China",
+    "latitude": 30.265206899716727,
+    "longitude": 122.22300719999998,
+    "other_names": {
+      "name": "岱山县",
+      "name:en": "Daishan",
+      "name:vi": "Đại Sơn",
+      "name:zh": "岱山县",
+      "name:zh-Hant": "岱山縣",
+      "name:zh_pinyin": "Daishan Xian"
+    }
+  },
+  {
+    "name": "Daito",
+    "country": "Japan",
+    "latitude": 34.71067899963358,
+    "longitude": 135.635478,
+    "other_names": {
+      "name": "大東市",
+      "name:ar": "دايتو، أوساكا",
+      "name:de": "Daitō",
+      "name:en": "Daito",
+      "name:es": "Daitō",
+      "name:fr": "Daitō",
+      "name:ja": "大東市",
+      "name:ko": "다이토시",
+      "name:pl": "Daitō",
+      "name:ru": "Дайто",
+      "name:uk": "Дайто",
+      "name:ja_rm": "Daitō-shi"
+    }
+  },
+  {
+    "name": "Daiyue",
+    "country": "China",
+    "latitude": 36.18666099975459,
+    "longitude": 117.0355841,
+    "other_names": {
+      "name": "岱岳区",
+      "name:en": "Daiyue",
+      "name:vi": "Đại Nhạc",
+      "name:zh": "岱岳区",
+      "name:zh-Hant": "岱嶽區",
+      "name:zh_pinyin": "Daiyue Qu"
+    }
+  },
+  {
+    "name": "Dajabón",
+    "country": "Haiti And Domrep",
+    "latitude": 19.550137600349377,
+    "longitude": -71.70390719999999,
+    "other_names": {
+      "name": "Dajabón",
+      "name:ru": "Дахабон"
+    }
+  },
+  {
+    "name": "Dajingshan",
+    "country": "China",
+    "latitude": 47.02629810015584,
+    "longitude": 129.0151533,
+    "other_names": {
+      "name": "大箐山县",
+      "name:en": "Dajingshan",
+      "name:ru": "Дайлин",
+      "name:zh": "大箐山县",
+      "alt_name": "带岭",
+      "name:zh-Hant": "大箐山縣",
+      "official_name": "带岭街道"
+    }
+  },
+  {
+    "name": "Dakar",
+    "country": "Senegal And Gambia",
+    "latitude": 14.693424999871066,
+    "longitude": -17.447938,
+    "other_names": {
+      "name": "Dakar",
+      "name:am": "ዳካር",
+      "name:ar": "داكار",
+      "name:be": "Дакар",
+      "name:bg": "Дакар",
+      "name:bm": "Dakaro",
+      "name:bn": "ডাকার",
+      "name:bo": "ཌ་ཀར།",
+      "name:cs": "Dakar",
+      "name:cv": "Дакар",
+      "name:de": "Dakar",
+      "name:el": "Ντακάρ",
+      "name:en": "Dakar",
+      "name:eo": "Dakaro",
+      "name:es": "Dakar",
+      "name:fa": "داکار",
+      "name:fr": "Dakar",
+      "name:ga": "Dacár",
+      "name:gl": "Dacar - Dakar",
+      "name:he": "דקאר",
+      "name:hi": "डकार",
+      "name:hu": "Dakar",
+      "name:hy": "Դակար",
+      "name:is": "Dakar",
+      "name:ja": "ダカール",
+      "name:ka": "დაკარი",
+      "name:kk": "Дакар",
+      "name:kn": "ಡಕಾರ್",
+      "name:ko": "다카르",
+      "name:ku": "Dakar",
+      "name:ky": "Дакар",
+      "name:lt": "Dakaras",
+      "name:lv": "Dakara",
+      "name:mk": "Дакар",
+      "name:ml": "ഡാക്കർ",
+      "name:mr": "डकार",
+      "name:oc": "Dakar",
+      "name:os": "Дакар",
+      "name:pl": "Dakar",
+      "name:ru": "Дакар",
+      "name:sr": "Дакар",
+      "name:sv": "Dakar",
+      "name:ta": "டக்கார்",
+      "name:tg": "Дакар",
+      "name:th": "ดาการ์",
+      "name:uk": "Дакар",
+      "name:ur": "ڈاکار",
+      "name:wo": "Ndakaaru",
+      "name:yi": "דאקאר",
+      "name:zh": "達喀爾",
+      "name:arz": "داكار",
+      "name:ckb": "داکار",
+      "name:mrj": "Дакар",
+      "name:pnb": "ڈا کار",
+      "name:udm": "Дакар",
+      "alt_name:ar": "دكار"
+    }
+  },
+  {
+    "name": "Dakhla",
+    "country": "Morocco",
+    "latitude": 23.694066300351203,
+    "longitude": -15.9431274,
+    "other_names": {
+      "name": "Dakhla ⴷⴰⵅⵍⴰ الداخلة",
+      "name:ar": "الداخلة",
+      "name:de": "Ad-Dakhla",
+      "name:en": "Dakhla",
+      "name:es": "Dajla - Villa Cisneros",
+      "name:et": "Ed Dâkhla",
+      "name:fr": "Dakhla",
+      "name:ko": "다클라",
+      "name:lt": "Dahla",
+      "name:ru": "Дахла",
+      "name:uk": "Дахла",
+      "int_name": "Dakhla",
+      "name:ber": "ⴷⴰⵅⵍⴰ",
+      "name:zgh": "ⴷⴰⵅⵍⴰ",
+      "old_name": "Villa Cisneros"
+    }
+  },
+  {
+    "name": "Dalad",
+    "country": "China",
+    "latitude": 40.3972902003197,
+    "longitude": 109.9980682,
+    "other_names": {
+      "name": "达拉特旗",
+      "name:en": "Dalad",
+      "name:zh": "达拉特旗",
+      "alt_name": "达拉特;Dalad;Dalat;Далт;Dalad Qi;Dalad Banner",
+      "name:zh-Hant": "達拉特旗"
+    }
+  },
+  {
+    "name": "Dalanzadgad",
+    "country": "Mongolia",
+    "latitude": 43.575090422569545,
+    "longitude": 104.41708029429047,
+    "other_names": {
+      "name": "Даланзадгад",
+      "name:en": "Dalanzadgad",
+      "name:mn": "Даланзадгад",
+      "name:ru": "Даланзадгад",
+      "int_name": "Dalanzadgad"
+    }
+  },
+  {
+    "name": "Dalanzadgad",
+    "country": "Mongolia",
+    "latitude": 43.57170420054148,
+    "longitude": 104.42595019999999,
+    "other_names": {
+      "name": "Даланзадгад",
+      "name:ar": "دالانزاغاد",
+      "name:en": "Dalanzadgad",
+      "name:es": "Dalanzadgad",
+      "name:fr": "Dalanzadgad",
+      "name:mn": "Даланзадгад",
+      "name:ru": "Даланзадгад",
+      "int_name": "Dalanzadgad",
+      "name:mn-mong": "ᠳᠠᠯᠠᠨᠵᠠᠳᠠᠭᠠᠳ"
+    }
+  },
+  {
+    "name": "Dalat",
+    "country": "Vietnam",
+    "latitude": 11.940241599574975,
+    "longitude": 108.4375758,
+    "other_names": {
+      "name": "Đà Lạt",
+      "name:be": "Горад Далат",
+      "name:de": "Dalat",
+      "name:el": "Νταλάτ",
+      "name:en": "Dalat",
+      "name:fa": "دا لات",
+      "name:he": "דה לאט",
+      "name:id": "Dalat",
+      "name:ja": "ダラット",
+      "name:ko": "달랏",
+      "name:lt": "Dalatas",
+      "name:lv": "Dalata",
+      "name:mr": "दा लात",
+      "name:no": "Dalat",
+      "name:ru": "Далат",
+      "name:sr": "Да Лат",
+      "name:th": "ด่าหลัต",
+      "name:uk": "Далат",
+      "name:ur": "دا لات",
+      "name:vi": "Đà Lạt",
+      "name:zh": "大叻市"
+    }
+  }
+]

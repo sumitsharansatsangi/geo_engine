@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Novosibirsk",
+    "country": "Russia",
+    "latitude": 54.99486375434825,
+    "longitude": 82.96760043845606,
+    "other_names": {
+      "name": "Новосибирск",
+      "name:en": "Novosibirsk",
+      "name:ja": "ノヴォシビルスク",
+      "name:ku": "Novosîbîrsk",
+      "name:ru": "Новосибирск",
+      "name:zh": "新西伯利亚",
+      "alt_name:cs": "Novonikolajevsk"
+    }
+  },
+  {
+    "name": "Novosibirsk",
+    "country": "Russia",
+    "latitude": 55.02821709942922,
+    "longitude": 82.92345089999999,
+    "other_names": {
+      "name": "Новосибирск",
+      "name:ar": "نوفوسيبيرسك",
+      "name:be": "Новасібірск",
+      "name:ca": "Novossibirsk",
+      "name:cs": "Novosibirsk",
+      "name:da": "Novosibirsk",
+      "name:de": "Nowosibirsk",
+      "name:en": "Novosibirsk",
+      "name:es": "Novosibirsk",
+      "name:et": "Novosibirsk",
+      "name:fi": "Novosibirsk",
+      "name:fr": "Novossibirsk",
+      "name:he": "נובוסיבירסק",
+      "name:hi": "नोवोसिबिर्स्क",
+      "name:hr": "Novosibirsk",
+      "name:ja": "ノヴォシビルスク",
+      "name:kn": "ನೋವೋಸಿಬಿರ್ಸ್ಕ್",
+      "name:ko": "노보시비르스크",
+      "name:lt": "Novosibirskas",
+      "name:lv": "Novosibirska",
+      "name:oc": "Novosibirsk",
+      "name:pl": "Nowosybirsk",
+      "name:pt": "Novosibirsk",
+      "name:ro": "Novosibirsk",
+      "name:ru": "Новосибирск",
+      "name:sk": "Novosibirsk",
+      "name:sl": "Novosibirsk",
+      "name:uk": "Новосибірськ",
+      "name:zh": "新西伯利亚",
+      "old_name": "Ново-Николаевск",
+      "old_name:en": "Novo-Nikolayevsk",
+      "old_name:fr": "Novonikolaïevsk",
+      "old_name:ru": "Ново-Николаевск",
+      "old_name:fr:1893-1925": "Novonikolaïevsk"
+    }
+  },
+  {
+    "name": "Novy Urengoy",
+    "country": "Russia",
+    "latitude": 66.09196150626678,
+    "longitude": 76.67052385186882,
+    "other_names": {
+      "name": "Новый Уренгой",
+      "name:de": "Nowy Urengoi",
+      "name:en": "Novy Urengoy",
+      "name:fr": "Novy Ourengoï",
+      "name:ja": "ノヴィ・ウレンゴイ",
+      "name:lt": "Naujasis Urengojus",
+      "name:pl": "Nowy Urengoj",
+      "name:ru": "Новый Уренгой",
+      "name:uk": "Новий Уренгой",
+      "int_name": "Novy Urengoy"
+    }
+  },
+  {
+    "name": "Novy Urengoy",
+    "country": "Russia",
+    "latitude": 66.08519599766744,
+    "longitude": 76.6799167,
+    "other_names": {
+      "name": "Новый Уренгой",
+      "name:de": "Nowy Urengoi",
+      "name:en": "Novy Urengoy",
+      "name:et": "Novõi Urengoi",
+      "name:ja": "ノヴィ・ウレンゴイ",
+      "name:ko": "노비우렌고이",
+      "name:lt": "Naujasis Urengojus",
+      "name:pl": "Nowy Urengoj",
+      "name:ru": "Новый Уренгой",
+      "name:uk": "Новий Уренгой",
+      "int_name": "Novy Urengoy",
+      "name:ru:word_stress": "Но́вый Уренго́й"
+    }
+  },
+  {
+    "name": "Nowshera",
+    "country": "Pakistan",
+    "latitude": 34.01556059960221,
+    "longitude": 71.981283,
+    "other_names": {
+      "name": "نوشہرہ‎",
+      "name:ar": "نوشيرا",
+      "name:de": "Nowshera",
+      "name:en": "Nowshera",
+      "name:es": "Nowshera",
+      "name:et": "Nowshera",
+      "name:fr": "Nowshera",
+      "name:hi": "नौशेरा",
+      "name:ja": "ノウシェラ",
+      "name:ps": "نوښار",
+      "name:ru": "Наушахра",
+      "name:uk": "Ноушера",
+      "name:ur": "نوشہرہ‎"
+    }
+  },
+  {
+    "name": "Nowy Sącz",
+    "country": "Poland",
+    "latitude": 49.62491729953975,
+    "longitude": 20.691345999999996,
+    "other_names": {
+      "name": "Nowy Sącz",
+      "name:be": "Новы Сонч",
+      "name:cs": "Nový Sadec",
+      "name:de": "Neu Sandez",
+      "name:eo": "Nova Sonĉo",
+      "name:hu": "Újszandec",
+      "name:ja": "ノヴィ・ソンチ",
+      "name:lt": "Naujasis Sončas",
+      "name:lv": "Novi Sonča",
+      "name:mk": "Нови Сонч",
+      "name:pl": "Nowy Sącz",
+      "name:ru": "Новы-Сонч",
+      "name:uk": "Новий Сонч",
+      "name:szl": "Nowy Sůncz",
+      "old_name:de": "Neu Sandec"
+    }
+  },
+  {
+    "name": "Noyabrsk",
+    "country": "Russia",
+    "latitude": 63.16411166927789,
+    "longitude": 75.64384944006487,
+    "other_names": {
+      "name": "Ноябрьск",
+      "name:de": "Nojabrsk",
+      "name:en": "Noyabrsk",
+      "name:ja": "ノヤブリスク",
+      "name:ru": "Ноябрьск",
+      "int_name": "Noyabrsk"
+    }
+  },
+  {
+    "name": "Noyabrsk",
+    "country": "Russia",
+    "latitude": 63.20029170083496,
+    "longitude": 75.4475807,
+    "other_names": {
+      "name": "Ноябрьск",
+      "name:de": "Nojabrsk",
+      "name:en": "Noyabrsk",
+      "name:et": "Nojabrsk",
+      "name:ja": "ノヤブリスク",
+      "name:ko": "노야브리스크",
+      "name:lt": "Nojabrskas",
+      "name:pl": "Nojabrsk",
+      "name:ru": "Ноябрьск",
+      "name:uk": "Ноябрськ",
+      "int_name": "Noyabrsk",
+      "name:ru:word_stress": "Ноя́брьск"
+    }
+  },
+  {
+    "name": "Ntui",
+    "country": "Cameroon",
+    "latitude": 4.445930699549411,
+    "longitude": 11.6281209,
+    "other_names": {
+      "name": "Ntui"
+    }
+  },
+  {
+    "name": "Nueiba",
+    "country": "Egypt",
+    "latitude": 29.03499999983378,
+    "longitude": 34.661667,
+    "other_names": {
+      "name": "نويبع",
+      "name:ar": "نويبع",
+      "name:de": "Nueiba",
+      "name:en": "Nueiba",
+      "name:es": "Nuweiba",
+      "name:fr": "Nueiba",
+      "name:ru": "Нувейба",
+      "alt_name": "نويبع",
+      "int_name": "Nueiba, Nueiba, Nuwaiba, Nuweiba"
+    }
+  },
+  {
+    "name": "Nueva Esparta",
+    "country": "El Salvador",
+    "latitude": 13.785315499765582,
+    "longitude": -87.8363952,
+    "other_names": {
+      "name": "Nueva Esparta"
+    }
+  },
+  {
+    "name": "Nueva Gerona",
+    "country": "Cuba",
+    "latitude": 21.884703000409324,
+    "longitude": -82.8038514,
+    "other_names": {
+      "name": "Nueva Gerona",
+      "name:hu": "Nueva Gerona",
+      "name:ru": "Нуэва-Херона",
+      "name:uk": "Нуева-Херона"
+    }
+  },
+  {
+    "name": "Nueva Guadalupe",
+    "country": "El Salvador",
+    "latitude": 13.535752299737494,
+    "longitude": -88.3502839,
+    "other_names": {
+      "name": "Nueva Guadalupe"
+    }
+  },
+  {
+    "name": "Nueva Helvecia",
+    "country": "Uruguay",
+    "latitude": -34.28491009974365,
+    "longitude": -57.233249099999995,
+    "other_names": {
+      "name": "Nueva Helvecia"
+    }
+  },
+  {
+    "name": "Nueva Ocotepeque",
+    "country": "Honduras",
+    "latitude": 14.435513299840737,
+    "longitude": -89.18447969999998,
+    "other_names": {
+      "name": "Nueva Ocotepeque",
+      "name:hu": "Nueva Ocotepeque",
+      "name:ru": "Нуэва-Окотепеке"
+    }
+  },
+  {
+    "name": "Nuevitas",
+    "country": "Cuba",
+    "latitude": 21.546185800410054,
+    "longitude": -77.2636941,
+    "other_names": {
+      "name": "Nuevitas",
+      "name:ru": "Нуэвитас",
+      "alt_name": "Nuevitas La Bella",
+      "old_name": "San Fernando de Nuevitas"
+    }
+  },
+  {
+    "name": "Nuevo Casas Grandes",
+    "country": "Mexico",
+    "latitude": 30.415453199704338,
+    "longitude": -107.90588039999999,
+    "other_names": {
+      "name": "Nuevo Casas Grandes"
+    }
+  },
+  {
+    "name": "Nuevo Laredo",
+    "country": "Mexico",
+    "latitude": 27.476150600004893,
+    "longitude": -99.51859919999998,
+    "other_names": {
+      "name": "Nuevo Laredo",
+      "name:ar": "نويفو لاريدو",
+      "name:de": "Nuevo Laredo",
+      "name:es": "Nuevo Laredo",
+      "name:fa": "نوئوو لاردو",
+      "name:fr": "Nuevo Laredo",
+      "name:ur": "نوئوو لاریدو",
+      "name:azb": "نووو لئیردو",
+      "name:az-Arab": "نووو لئیردو"
+    }
+  },
+  {
+    "name": "Nujiang",
+    "country": "China",
+    "latitude": 25.821118400182137,
+    "longitude": 98.85717979999998,
+    "other_names": {
+      "name": "怒江州",
+      "name:en": "Nujiang",
+      "name:vi": "Nộ Giang",
+      "name:zh": "怒江州",
+      "alt_name": "怒江;Nolmut;Nujiang Lisu Autonomous Prefecture",
+      "name:zh-Hant": "怒江州",
+      "official_name": "怒江傈僳族自治州",
+      "official_name:zh": "怒江傈僳族自治州",
+      "official_name:lisu": "ꓠꓳ-ꓟꓵ ꓡꓲ-ꓢꓴ ꓫꓵꓽ ꓚꓲꓸ ꓛꓬꓽ ꓗꓪꓼ ꓫꓵꓽ ꓝꓳꓴ",
+      "official_name:zh_pinyin": "Nujiang Lisuzu Zizhizhou"
+    }
+  },
+  {
+    "name": "Nuku'alofa",
+    "country": "Tonga",
+    "latitude": -21.134340100292977,
+    "longitude": -175.20180849999997,
+    "other_names": {
+      "name": "Nukuʻalofa",
+      "name:am": "ኑኩአሎፋ",
+      "name:ar": "نوكو ألوفا",
+      "name:az": "Nukualofa",
+      "name:be": "Нукуалофа",
+      "name:bg": "Нукуалофа",
+      "name:bo": "ནུ་ཁུ་ཨ་ལོ་ཧྥ།",
+      "name:ca": "Nuku'alofa",
+      "name:cs": "Nuku'alofa",
+      "name:cy": "Nuku'alofa",
+      "name:da": "Nuku'alofa",
+      "name:el": "Νουκουαλόφα",
+      "name:en": "Nuku'alofa",
+      "name:eo": "Nukualofo",
+      "name:es": "Nukualofa",
+      "name:et": "Nuku‘alofa",
+      "name:eu": "Nuku'alofa",
+      "name:fa": "نوکوآلوفا",
+      "name:fr": "Nukuʻalofa",
+      "name:fy": "Nuku'alofa",
+      "name:gd": "Nuku'alofa",
+      "name:gl": "Nuku'alofa",
+      "name:he": "נוקואלופה",
+      "name:hr": "Nuku'alofa",
+      "name:ht": "Noukou'alofa",
+      "name:hu": "Nuku'alofa",
+      "name:io": "Nuku'alofa",
+      "name:it": "Nuku'alofa",
+      "name:ja": "ヌクアロファ",
+      "name:ka": "ნუკუალოფა",
+      "name:ko": "누쿠알로파",
+      "name:ku": "Nukuelofa",
+      "name:la": "Nukualofa",
+      "name:lb": "Nuku'alofa",
+      "name:lt": "Nukualofa",
+      "name:mk": "Нукуалофа",
+      "name:mr": "नुकु-अलोफा",
+      "name:nl": "Nuku'alofa",
+      "name:nn": "Nuku'alofa",
+      "name:no": "Nuku'alofa",
+      "name:oc": "Nuku'alofa",
+      "name:pl": "Nuku'alofa",
+      "name:pt": "Nucualofa",
+      "name:ro": "Nuku'alofa",
+      "name:ru": "Нукуалофа",
+      "name:sh": "Nuku'alofa",
+      "name:sk": "Nuku’alofa",
+      "name:sr": "Нукуалофа",
+      "name:sv": "Nuku'alofa",
+      "name:sw": "Nuku'alofa",
+      "name:ta": "நுக்கு'அலோபா",
+      "name:th": "นูกูอะโลฟา",
+      "name:tl": "Nukualofa",
+      "name:tr": "Nuku'alofa",
+      "name:ty": "Nuku’alofa",
+      "name:uk": "Нуку'алофа",
+      "name:ur": "نوکوالوفا",
+      "name:zh": "努庫阿洛法",
+      "name:ast": "Nuku'alofa",
+      "name:ckb": "نوکوئەلۆفا",
+      "name:hif": "Nukualofa",
+      "name:lmo": "Nuku'alofa",
+      "name:mrj": "Нукуалофа",
+      "name:mzn": "نوکوآلوفا",
+      "name:nan": "Nuku'alofa",
+      "name:pms": "Nuku'alofa",
+      "name:be-tarask": "Нукуалофа"
+    }
+  }
+]

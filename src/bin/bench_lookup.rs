@@ -18,7 +18,8 @@ struct Config {
     geo_db: PathBuf,
     subdistrict_db: PathBuf,
     city_fst: PathBuf,
-    city_rkyv: PathBuf,
+    city_core: PathBuf,
+    city_meta: PathBuf,
     city_points: PathBuf,
     iterations: usize,
     warmup: usize,
@@ -79,10 +80,14 @@ fn parse_config_from_env_args() -> Config {
         .next()
         .map(PathBuf::from)
         .unwrap_or_else(|| PathBuf::from("cities-0.0.1.fst"));
-    let city_rkyv = args
+    let city_core = args
         .next()
         .map(PathBuf::from)
-        .unwrap_or_else(|| PathBuf::from("cities-0.0.1.rkyv"));
+        .unwrap_or_else(|| PathBuf::from("cities-0.0.1.core"));
+    let city_meta = args
+        .next()
+        .map(PathBuf::from)
+        .unwrap_or_else(|| PathBuf::from("cities-0.0.1.meta"));
     let city_points = args
         .next()
         .map(PathBuf::from)
@@ -101,7 +106,7 @@ fn parse_config_from_env_args() -> Config {
 
     if args.next().is_some() {
         eprintln!(
-            "Usage: cargo run --bin bench_lookup -- [geo-0.0.1.db] [subdistrict.db] [cities.fst] [cities.rkyv] [cities.points] [iterations] [warmup]"
+            "Usage: cargo run --bin bench_lookup -- [geo-0.0.1.db] [subdistrict.db] [cities.fst] [cities.core] [cities.meta] [cities.points] [iterations] [warmup]"
         );
         process::exit(2);
     }
@@ -110,7 +115,8 @@ fn parse_config_from_env_args() -> Config {
         geo_db,
         subdistrict_db,
         city_fst,
-        city_rkyv,
+        city_core,
+        city_meta,
         city_points,
         iterations,
         warmup,
@@ -118,22 +124,23 @@ fn parse_config_from_env_args() -> Config {
 }
 
 fn parse_config_from_iter(args: Vec<String>) -> Config {
-    if args.len() != 7 {
+    if args.len() != 8 {
         eprintln!(
-            "internal child usage: --child <disable_h3> <geo-0.0.1.db> <subdistrict.db> <cities.fst> <cities.rkyv> <cities.points> <iterations> <warmup>"
+            "internal child usage: --child <disable_h3> <geo-0.0.1.db> <subdistrict.db> <cities.fst> <cities.core> <cities.meta> <cities.points> <iterations> <warmup>"
         );
         process::exit(2);
     }
 
-    let iterations = args[5].parse::<usize>().unwrap_or(5000).max(100);
-    let warmup = args[6].parse::<usize>().unwrap_or(500).max(10);
+    let iterations = args[6].parse::<usize>().unwrap_or(5000).max(100);
+    let warmup = args[7].parse::<usize>().unwrap_or(500).max(10);
 
     Config {
         geo_db: PathBuf::from(&args[0]),
         subdistrict_db: PathBuf::from(&args[1]),
         city_fst: PathBuf::from(&args[2]),
-        city_rkyv: PathBuf::from(&args[3]),
-        city_points: PathBuf::from(&args[4]),
+        city_core: PathBuf::from(&args[3]),
+        city_meta: PathBuf::from(&args[4]),
+        city_points: PathBuf::from(&args[5]),
         iterations,
         warmup,
     }
@@ -157,7 +164,8 @@ fn run_parent(config: &Config) -> Result<(), Box<dyn std::error::Error>> {
     println!("  geo db: {}", config.geo_db.display());
     println!("  subdistrict db: {}", config.subdistrict_db.display());
     println!("  city fst: {}", config.city_fst.display());
-    println!("  city rkyv: {}", config.city_rkyv.display());
+    println!("  city core: {}", config.city_core.display());
+    println!("  city meta: {}", config.city_meta.display());
     println!("  city points: {}", config.city_points.display());
     println!("  iterations: {}", config.iterations);
     println!("  warmup: {}", config.warmup);
@@ -174,7 +182,8 @@ fn ensure_paths(config: &Config) -> Result<(), Box<dyn std::error::Error>> {
         &config.geo_db,
         &config.subdistrict_db,
         &config.city_fst,
-        &config.city_rkyv,
+        &config.city_core,
+        &config.city_meta,
         &config.city_points,
     ] {
         if !path.exists() {
@@ -192,7 +201,8 @@ fn run_child(config: &Config, disable_h3: bool) -> Result<BenchResult, Box<dyn s
         .arg(config.geo_db.as_os_str())
         .arg(config.subdistrict_db.as_os_str())
         .arg(config.city_fst.as_os_str())
-        .arg(config.city_rkyv.as_os_str())
+        .arg(config.city_core.as_os_str())
+        .arg(config.city_meta.as_os_str())
         .arg(config.city_points.as_os_str())
         .arg(config.iterations.to_string())
         .arg(config.warmup.to_string())

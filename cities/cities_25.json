@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Arta",
+    "country": "Greece",
+    "latitude": 39.161555000149285,
+    "longitude": 20.9858503,
+    "other_names": {
+      "name": "Άρτα",
+      "name:de": "Arta",
+      "name:el": "Άρτα",
+      "name:en": "Arta",
+      "name:et": "Árta",
+      "name:fr": "Arta",
+      "name:hu": "Arta",
+      "name:mk": "Aрта",
+      "name:ru": "Арта",
+      "name:sq": "Nartë"
+    }
+  },
+  {
+    "name": "Artemisa",
+    "country": "Cuba",
+    "latitude": 22.812771500390685,
+    "longitude": -82.7630555,
+    "other_names": {
+      "name": "Artemisa",
+      "name:ru": "Артемиса",
+      "name:uk": "Артеміса"
+    }
+  },
+  {
+    "name": "Artigas",
+    "country": "Uruguay",
+    "latitude": -30.39841359932217,
+    "longitude": -56.4638078,
+    "other_names": {
+      "name": "Artigas",
+      "name:lt": "Artigasas",
+      "name:pt": "Artigas",
+      "name:ru": "Артигас",
+      "name:uk": "Артиґас"
+    }
+  },
+  {
+    "name": "Artigas",
+    "country": "Brazil",
+    "latitude": -30.39841359932217,
+    "longitude": -56.4638078,
+    "other_names": {
+      "name": "Artigas",
+      "name:lt": "Artigasas",
+      "name:pt": "Artigas",
+      "name:ru": "Артигас",
+      "name:uk": "Артиґас"
+    }
+  },
+  {
+    "name": "Artush",
+    "country": "China",
+    "latitude": 39.71526100022811,
+    "longitude": 76.166016,
+    "other_names": {
+      "name": "阿图什市",
+      "name:de": "Artux",
+      "name:en": "Artush",
+      "name:es": "Artux",
+      "name:et": "Artux",
+      "name:fr": "Artux",
+      "name:ja": "アルトゥシュ市",
+      "name:ky": "Артыш",
+      "name:ru": "Атуши",
+      "name:ug": "ئاتۇش شەھىرى",
+      "name:vi": "Atush",
+      "name:zh": "阿图什市",
+      "int_name": "ئاتۇش",
+      "alt_name:en": "Atush",
+      "alt_name:vi": "A Đồ Thập",
+      "name:ky-Arab": "ارتىش شاارى",
+      "name:zh-Hans": "阿图什市",
+      "name:zh-Hant": "阿圖什市",
+      "name:zh_pinyin": "ātúshí shì"
+    }
+  },
+  {
+    "name": "Artvin",
+    "country": "Turkey",
+    "latitude": 41.18308110041209,
+    "longitude": 41.828744799999996,
+    "other_names": {
+      "name": "Artvin",
+      "name:ar": "أرتوين",
+      "name:de": "Artvin",
+      "name:el": "Αρτβίν",
+      "name:en": "Artvin",
+      "name:es": "Artvin",
+      "name:fr": "Artvin",
+      "name:hu": "Artvin",
+      "name:hy": "Արդվին",
+      "name:ka": "ართვინი",
+      "name:ku": "Artvin",
+      "name:ru": "Артвин"
+    }
+  },
+  {
+    "name": "Artyom",
+    "country": "Russia",
+    "latitude": 43.3742019374954,
+    "longitude": 132.20260672537424,
+    "other_names": {
+      "name": "Артём",
+      "name:de": "Artjom",
+      "name:en": "Artyom",
+      "name:ja": "アルチョーム",
+      "name:ru": "Артём",
+      "name:uk": "Артем"
+    }
+  },
+  {
+    "name": "Artyom",
+    "country": "Russia",
+    "latitude": 43.357037700541824,
+    "longitude": 132.18536289999997,
+    "other_names": {
+      "name": "Артём",
+      "name:ar": "أرتيوم",
+      "name:be": "Арцём",
+      "name:bg": "Артьом",
+      "name:de": "Artjom",
+      "name:en": "Artyom",
+      "name:et": "Artjom",
+      "name:fa": "آرتیوم",
+      "name:ja": "アルチョーム",
+      "name:ko": "아르툠",
+      "name:lt": "Artiomas",
+      "name:pl": "Artiom",
+      "name:ru": "Артём",
+      "name:uk": "Артем",
+      "name:ur": "رتیوم",
+      "name:zh": "阿爾喬姆"
+    }
+  },
+  {
+    "name": "Arua",
+    "country": "Uganda",
+    "latitude": 3.022507599680247,
+    "longitude": 30.9104823,
+    "other_names": {
+      "name": "Arua",
+      "name:ko": "아루아"
+    }
+  },
+  {
+    "name": "Arua",
+    "country": "Congo Democratic Republic",
+    "latitude": 3.022507599680247,
+    "longitude": 30.9104823,
+    "other_names": {
+      "name": "Arua",
+      "name:ko": "아루아"
+    }
+  },
+  {
+    "name": "Arun",
+    "country": "China",
+    "latitude": 48.12865229990684,
+    "longitude": 123.4585282,
+    "other_names": {
+      "name": "阿荣旗",
+      "name:en": "Arun",
+      "name:ja": "アロン旗",
+      "name:ru": "Нацзи",
+      "name:vi": "Na Cát",
+      "name:zh": "阿荣旗",
+      "alt_name": "阿荣;Arun;Arun Banner;Арын",
+      "name:zh-Hant": "阿榮旗"
+    }
+  },
+  {
+    "name": "Arusha",
+    "country": "Tanzania",
+    "latitude": -3.369682699731059,
+    "longitude": 36.6880794,
+    "other_names": {
+      "name": "Arusha",
+      "name:en": "Arusha",
+      "name:hu": "Arusha",
+      "name:ko": "아루샤",
+      "name:lt": "Aruša",
+      "name:ru": "Аруша",
+      "name:uk": "Аруша"
+    }
+  },
+  {
+    "name": "Arvaikheer",
+    "country": "Mongolia",
+    "latitude": 46.26818850029894,
+    "longitude": 102.7863148,
+    "other_names": {
+      "name": "Арвайхээр",
+      "name:de": "Arwaicheer",
+      "name:en": "Arvaikheer",
+      "name:es": "Arvaikheer",
+      "name:fr": "Arvaikheer",
+      "name:mn": "Арвайхээр",
+      "name:ru": "Арвайхээр",
+      "int_name": "Arvaikheer"
+    }
+  },
+  {
+    "name": "Arvaikheer",
+    "country": "Mongolia",
+    "latitude": 46.26063548429774,
+    "longitude": 102.78518456920874,
+    "other_names": {
+      "name": "Арвайхээр",
+      "name:en": "Arvaikheer",
+      "name:mn": "Арвайхээр",
+      "name:ru": "Арвайхээр",
+      "int_name": "Arvaikheer"
+    }
+  },
+  {
+    "name": "Arvi",
+    "country": "India",
+    "latitude": 20.993821992809302,
+    "longitude": 78.23386193368795,
+    "other_names": {
+      "name": "Arvi",
+      "name:ar": "آرفي",
+      "name:mr": "आर्वी",
+      "name:ta": "அர்வி",
+      "name:ur": "آروی"
+    }
+  },
+  {
+    "name": "Arxan",
+    "country": "China",
+    "latitude": 47.17469420012477,
+    "longitude": 119.93880929999999,
+    "other_names": {
+      "name": "阿尔山市",
+      "name:en": "Arxan",
+      "name:mn": "Рашаан",
+      "name:ru": "Аршан",
+      "name:uk": "Аршан",
+      "name:zh": "阿尔山市",
+      "int_name": "Arxan",
+      "name:zh-Hant": "阿爾山市"
+    }
+  },
+  {
+    "name": "Arzamas",
+    "country": "Russia",
+    "latitude": 55.39658554685962,
+    "longitude": 43.83964857039494,
+    "other_names": {
+      "name": "Арзамас",
+      "name:en": "Arzamas",
+      "name:ja": "アルザマス"
+    }
+  },
+  {
+    "name": "Arzamas",
+    "country": "Russia",
+    "latitude": 55.398946299552456,
+    "longitude": 43.8408129,
+    "other_names": {
+      "name": "Арзамас",
+      "name:de": "Arsamas",
+      "name:en": "Arzamas",
+      "name:et": "Arzamass",
+      "name:fr": "Arzamas",
+      "name:ja": "アルザマス",
+      "name:ko": "아르자마스",
+      "name:lt": "Arzamasas",
+      "name:pl": "Arzamas",
+      "name:ru": "Арзамас",
+      "name:sr": "Арзамас",
+      "name:uk": "Арзамас",
+      "official_name": "город Арзамас"
+    }
+  },
+  {
+    "name": "Asadabad",
+    "country": "Afghanistan",
+    "latitude": 34.872795099643355,
+    "longitude": 71.1508321,
+    "other_names": {
+      "name": "اسدابادښار",
+      "name:cs": "Asadábád",
+      "name:en": "Asadabad",
+      "name:hi": "असदाबाद",
+      "name:ps": "اسدابادښار",
+      "int_name": "Asadabad"
+    }
+  },
+  {
+    "name": "Asago",
+    "country": "Japan",
+    "latitude": 35.339840199676544,
+    "longitude": 134.8527042,
+    "other_names": {
+      "name": "朝来市",
+      "name:en": "Asago",
+      "name:fr": "Asago",
+      "name:ja": "朝来市",
+      "name:ko": "아사고시",
+      "name:pl": "Asago",
+      "name:ru": "Асаго",
+      "name:uk": "Асаґо",
+      "name:ja_rm": "Asago-shi"
+    }
+  }
+]

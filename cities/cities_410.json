@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Sambrial",
+    "country": "Pakistan",
+    "latitude": 32.47564809959444,
+    "longitude": 74.3529135,
+    "other_names": {
+      "name": "سمبڑیال",
+      "name:en": "Sambrial",
+      "name:ru": "Самбриял"
+    }
+  },
+  {
+    "name": "Samcheok-si",
+    "country": "South Korea",
+    "latitude": 37.44987449990644,
+    "longitude": 129.1652969,
+    "other_names": {
+      "name": "삼척시",
+      "name:de": "Samcheok",
+      "name:en": "Samcheok-si",
+      "name:es": "Samcheok",
+      "name:fr": "Samcheok",
+      "name:ja": "三陟市",
+      "name:ko": "삼척시",
+      "name:ru": "Самчхок",
+      "name:zh": "三陟市",
+      "int_name": "Samcheok",
+      "name:ko-Hani": "三陟市",
+      "name:ko-Latn": "Samcheok-si"
+    }
+  },
+  {
+    "name": "Samjiyon",
+    "country": "North Korea",
+    "latitude": 41.80580620047103,
+    "longitude": 128.3247859,
+    "other_names": {
+      "name": "삼지연시",
+      "name:en": "Samjiyon",
+      "name:ja": "三池淵市",
+      "name:ko": "삼지연시",
+      "name:ru": "Самджиён",
+      "name:zh": "三池渊市",
+      "name:ko-Hani": "三池淵市"
+    }
+  },
+  {
+    "name": "Samora Correia",
+    "country": "Portugal",
+    "latitude": 38.934874700116474,
+    "longitude": -8.8689911,
+    "other_names": {
+      "name": "Samora Correia"
+    }
+  },
+  {
+    "name": "Samraong",
+    "country": "Cambodia",
+    "latitude": 14.175805899810436,
+    "longitude": 103.5092331,
+    "other_names": {
+      "name": "ក្រុងសំរោង",
+      "name:en": "Samraong",
+      "name:fr": "Samraong",
+      "name:ru": "Самроунг"
+    }
+  },
+  {
+    "name": "Sam Son",
+    "country": "Vietnam",
+    "latitude": 19.737308100359588,
+    "longitude": 105.89330039999999,
+    "other_names": {
+      "name": "Sầm Sơn",
+      "name:en": "Sam Son",
+      "name:ko": "섬선"
+    }
+  },
+  {
+    "name": "Samsun",
+    "country": "Turkey",
+    "latitude": 41.28923340042313,
+    "longitude": 36.32856499999999,
+    "other_names": {
+      "name": "Samsun",
+      "name:ar": "سامسون",
+      "name:el": "Σαμψούντα",
+      "name:hi": "सैमसून",
+      "name:hy": "Սամսուն",
+      "name:ja": "サムスン",
+      "name:ka": "სამსუნი",
+      "name:ru": "Самсун"
+    }
+  },
+  {
+    "name": "Samundri",
+    "country": "Pakistan",
+    "latitude": 31.06514299965684,
+    "longitude": 72.9588416,
+    "other_names": {
+      "name": "سمندری",
+      "name:en": "Samundri",
+      "name:ru": "Самунджи"
+    }
+  },
+  {
+    "name": "Samut Prakan",
+    "country": "Thailand",
+    "latitude": 13.594957599744113,
+    "longitude": 100.59683949999999,
+    "other_names": {
+      "name": "สมุทรปราการ",
+      "name:en": "Samut Prakan",
+      "name:ja": "サムットプラーカーン",
+      "name:ru": "Самутпракан",
+      "name:th": "สมุทรปราการ",
+      "name:uk": "Самутпракан",
+      "official_name": "เทศบาลนครสมุทรปราการ"
+    }
+  },
+  {
+    "name": "Samut Sakhon",
+    "country": "Thailand",
+    "latitude": 13.54977819973906,
+    "longitude": 100.27428129999998,
+    "other_names": {
+      "name": "สมุทรสาคร",
+      "name:en": "Samut Sakhon",
+      "name:ja": "サムットサーコーン",
+      "name:ru": "Самутсакхон",
+      "name:th": "สมุทรสาคร",
+      "official_name": "เทศบาลนครสมุทรสาคร"
+    }
+  },
+  {
+    "name": "Samzhubzê",
+    "country": "China",
+    "latitude": 29.250431599811602,
+    "longitude": 88.8965231,
+    "other_names": {
+      "name": "桑珠孜区",
+      "name:en": "Samzhubzê",
+      "name:zh": "桑珠孜区",
+      "alt_name": "桑珠孜;Samzhubzê District",
+      "name:zh-Hant": "桑珠孜區",
+      "name:zh_pinyin": "Sāngzhūzī Qū"
+    }
+  },
+  {
+    "name": "Sana'a",
+    "country": "Yemen",
+    "latitude": 15.353856899949081,
+    "longitude": 44.20588409999999,
+    "other_names": {
+      "name": "صنعاء",
+      "name:ar": "صنعاء",
+      "name:be": "Сана",
+      "name:bg": "Сана",
+      "name:bn": "সানা",
+      "name:bo": "ས་ནཱ།",
+      "name:br": "Sana'a",
+      "name:bs": "Sana'a",
+      "name:ca": "Sanà",
+      "name:cs": "San'á",
+      "name:cy": "Sana'a",
+      "name:da": "Sanaá",
+      "name:de": "Sanaa",
+      "name:el": "Σαναά",
+      "name:en": "Sana'a",
+      "name:eo": "Sanao",
+      "name:es": "Saná",
+      "name:et": "Sanaa",
+      "name:eu": "Sana",
+      "name:fa": "صنعاء",
+      "name:fi": "Sanaa",
+      "name:fr": "Sanaa",
+      "name:fy": "Sana'a",
+      "name:ga": "San’a",
+      "name:gd": "Ṣan'ā'",
+      "name:gl": "Sana",
+      "name:he": "צנעא",
+      "name:hi": "साना",
+      "name:hr": "Sana",
+      "name:hu": "Szanaa",
+      "name:id": "Sana'a",
+      "name:ie": "Saná",
+      "name:is": "Sana",
+      "name:it": "San’a",
+      "name:ja": "サヌア",
+      "name:ka": "სანა",
+      "name:kk": "Сана",
+      "name:kl": "Sana'a",
+      "name:kn": "ಸನಾ",
+      "name:ko": "사나",
+      "name:ks": "صنعاء",
+      "name:ku": "Sana",
+      "name:la": "Sana",
+      "name:lb": "Sana´a",
+      "name:lt": "Sana",
+      "name:lv": "Sana",
+      "name:mk": "Сана",
+      "name:ml": "സാനാ",
+      "name:mn": "Санаа хот",
+      "name:mr": "साना",
+      "name:ms": "Sana'a",
+      "name:nn": "San'a",
+      "name:no": "Sanaá",
+      "name:oc": "Sanaa",
+      "name:os": "Санæ",
+      "name:pa": "ਸਨਾ",
+      "name:pl": "Sana",
+      "name:ps": "صنعا",
+      "name:pt": "Sana",
+      "name:ro": "Sana'a",
+      "name:ru": "Сана",
+      "name:sh": "Sana",
+      "name:sk": "Saná",
+      "name:sl": "Sana",
+      "name:sr": "Сана",
+      "name:sv": "Sana",
+      "name:sw": "Sana'a",
+      "name:ta": "சன்ஆ",
+      "name:tg": "Санъо",
+      "name:th": "ซานา",
+      "name:tr": "San'a",
+      "name:tt": "Сәнга",
+      "name:uk": "Сана",
+      "name:ur": "صنعاء",
+      "name:vi": "Sana’a",
+      "name:yi": "סאנא",
+      "name:yo": "Sana'a",
+      "name:zh": "薩那",
+      "alt_name": "San’ah;San'ah;Şan‘ā’",
+      "name:arz": "صنعا",
+      "name:azb": "صنعا",
+      "name:ckb": "سەنعا",
+      "name:hif": "Sana‘a",
+      "name:lmo": "San'a",
+      "name:lrc": "سٱنعا",
+      "name:nan": "Sana'a",
+      "name:nov": "Sana",
+      "name:pms": "San'a",
+      "name:pnb": "صنعا",
+      "name:sco": "Sana'a",
+      "name:war": "Sana'a",
+      "name:simple": "Sana'a",
+      "name:zh-Hans": "萨那",
+      "name:zh-Hant": "薩那",
+      "name:be-tarask": "Сана"
+    }
+  },
+  {
+    "name": "Sana'a City",
+    "country": "Yemen",
+    "latitude": 15.33318075725466,
+    "longitude": 44.21762630495604,
+    "other_names": {
+      "name": "مدينة صنعاء",
+      "name:ar": "مدينة صنعاء",
+      "name:en": "Sana'a City"
+    }
+  },
+  {
+    "name": "San Alejo",
+    "country": "El Salvador",
+    "latitude": 13.43272529972606,
+    "longitude": -87.961165,
+    "other_names": {
+      "name": "San Alejo"
+    }
+  },
+  {
+    "name": "Sanandaj",
+    "country": "Iran",
+    "latitude": 35.31260469967442,
+    "longitude": 46.99786389999999,
+    "other_names": {
+      "name": "سنندج",
+      "name:ar": "سنندج",
+      "name:cs": "Sanandadž",
+      "name:de": "Sanandadsch",
+      "name:en": "Sanandaj",
+      "name:es": "Sanandaj",
+      "name:et": "Sanandaj",
+      "name:fr": "Sanandaj",
+      "name:hi": "सिनंदाज (सिन्नेह)",
+      "name:ja": "サナンダジュ",
+      "name:ku": "Sine",
+      "name:pl": "Sanandadż",
+      "name:ru": "Сенендедж",
+      "name:tr": "Senendec",
+      "name:uk": "Сенендедж",
+      "name:ckb": "سنە"
+    }
+  },
+  {
+    "name": "San Andrés",
+    "country": "Colombia",
+    "latitude": 12.58301039963624,
+    "longitude": -81.69756819999999,
+    "other_names": {
+      "name": "San Andrés",
+      "name:en": "San Andrés",
+      "name:hu": "San Andrés",
+      "name:ru": "Сан-Андрес",
+      "name:uk": "Сан-Андрес"
+    }
+  },
+  {
+    "name": "San Angelo",
+    "country": "United States Of America",
+    "latitude": 31.46483569963309,
+    "longitude": -100.43984419999998,
+    "other_names": {
+      "name": "San Angelo",
+      "name:ru": "Сан-Анджело"
+    }
+  },
+  {
+    "name": "San Antonio",
+    "country": "Paraguay",
+    "latitude": -25.411515999720116,
+    "longitude": -57.5758258,
+    "other_names": {
+      "name": "San Antonio",
+      "official_name:es": "San Antonio de la Frontera"
+    }
+  },
+  {
+    "name": "San Antonio",
+    "country": "United States Of America",
+    "latitude": 29.42460019979412,
+    "longitude": -98.4951405,
+    "other_names": {
+      "name": "San Antonio",
+      "name:ar": "سان أنطونيو",
+      "name:en": "San Antonio",
+      "name:es": "San Antonio",
+      "name:ja": "サンアントニオ",
+      "name:kn": "ಸಾನ್ ಆಂಡೋನ್ಯೋ",
+      "name:ko": "샌안토니오",
+      "name:ms": "San Antonio",
+      "name:oc": "San Antonio",
+      "name:pt": "San Antonio",
+      "name:ru": "Сан-Антонио",
+      "name:zh": "圣安东尼奥/聖安東尼奧",
+      "name:zh-Hans": "圣安东尼奥",
+      "name:zh-Hant": "聖安東尼奧"
+    }
+  },
+  {
+    "name": "San Antonio",
+    "country": "Chile",
+    "latitude": -33.58086149961738,
+    "longitude": -71.6132377,
+    "other_names": {
+      "name": "San Antonio",
+      "name:ru": "Сан-Антонио"
+    }
+  }
+]

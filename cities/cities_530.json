@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Yachiyo",
+    "country": "Japan",
+    "latitude": 35.72253699970911,
+    "longitude": 140.09951309999997,
+    "other_names": {
+      "name": "八千代市",
+      "name:ar": "ياتشيو، تشيبا",
+      "name:de": "Yachiyo",
+      "name:en": "Yachiyo",
+      "name:es": "Yachiyo",
+      "name:fr": "Yachiyo",
+      "name:ja": "八千代市",
+      "name:ko": "야치요시",
+      "name:pl": "Yachiyo",
+      "name:ru": "Ятиё",
+      "name:uk": "Ятійо",
+      "int_name": "Yachiyo",
+      "name:ja_rm": "Yachiyo-shi",
+      "name:ja_kana": "やちよし"
+    }
+  },
+  {
+    "name": "Yadong",
+    "country": "India",
+    "latitude": 27.48930460000342,
+    "longitude": 88.90505789999999,
+    "other_names": {
+      "name": "亚东县",
+      "name:bo": "གྲོ་མོ་རྫོང",
+      "name:en": "Yadong",
+      "name:uk": "Ядун",
+      "name:zh": "亚东县",
+      "alt_name": "亚东;Yadong County",
+      "alt_name:en": "Yatung",
+      "name:zh-Hant": "亞東縣"
+    }
+  },
+  {
+    "name": "Yadong",
+    "country": "China",
+    "latitude": 27.48930460000342,
+    "longitude": 88.90505789999999,
+    "other_names": {
+      "name": "亚东县",
+      "name:bo": "གྲོ་མོ་རྫོང",
+      "name:en": "Yadong",
+      "name:uk": "Ядун",
+      "name:zh": "亚东县",
+      "alt_name": "亚东;Yadong County",
+      "alt_name:en": "Yatung",
+      "name:zh-Hant": "亞東縣"
+    }
+  },
+  {
+    "name": "Yagoua",
+    "country": "Chad",
+    "latitude": 10.344360999456285,
+    "longitude": 15.226548999999997,
+    "other_names": {
+      "name": "Yagoua"
+    }
+  },
+  {
+    "name": "Yagoua",
+    "country": "Cameroon",
+    "latitude": 10.344360999456285,
+    "longitude": 15.226548999999997,
+    "other_names": {
+      "name": "Yagoua"
+    }
+  },
+  {
+    "name": "Yaita",
+    "country": "Japan",
+    "latitude": 36.8066704998246,
+    "longitude": 139.9236292,
+    "other_names": {
+      "name": "矢板市",
+      "name:ar": "يايتا، توتشيغي",
+      "name:de": "Yaita",
+      "name:en": "Yaita",
+      "name:es": "Yaita",
+      "name:fr": "Yaita",
+      "name:ja": "矢板市",
+      "name:ko": "야이타시",
+      "name:pl": "Yaita",
+      "name:ru": "Яита",
+      "name:uk": "Яїта",
+      "name:ja_rm": "FIXME"
+    }
+  },
+  {
+    "name": "Yaizu",
+    "country": "Japan",
+    "latitude": 34.830311999640706,
+    "longitude": 138.30381,
+    "other_names": {
+      "name": "焼津市",
+      "name:ar": "يايزو، شيزوكا",
+      "name:de": "Yaizu",
+      "name:en": "Yaizu",
+      "name:es": "Yaizu",
+      "name:fr": "Yaizu",
+      "name:ja": "焼津市",
+      "name:ko": "야이즈시",
+      "name:pl": "Yaizu",
+      "name:ru": "Яидзу",
+      "name:uk": "Яйдзу",
+      "name:ja-Hira": "やいづし"
+    }
+  },
+  {
+    "name": "Yajiang County",
+    "country": "China",
+    "latitude": 30.035136199736613,
+    "longitude": 101.01392309999999,
+    "other_names": {
+      "name": "雅江县",
+      "name:en": "Yajiang County",
+      "name:zh": "雅江县",
+      "alt_name": "雅江;Yajiang;Nyagqu;Nyakchu;Nyachukha;Nyachukha County;ཉག་ཆུ་ཁ།",
+      "name:zh-Hant": "雅江縣",
+      "name:zh_pinyin": "Yǎjiāng Xiàn"
+    }
+  },
+  {
+    "name": "Yakeshi/Yaysi",
+    "country": "China",
+    "latitude": 49.28543699962196,
+    "longitude": 120.72830789999998,
+    "other_names": {
+      "name": "牙克石市",
+      "name:de": "Yakeshi",
+      "name:en": "Yakeshi/Yaysi",
+      "name:et": "Yakeshi",
+      "name:fr": "Yakeshi",
+      "name:ja": "牙克石市",
+      "name:ko": "야커스 시",
+      "name:mn": "Ягши хот",
+      "name:ru": "Якэши",
+      "name:uk": "Якеші",
+      "name:ur": "یکیشی",
+      "name:vi": "Nha Khắc Thạch",
+      "name:zh": "牙克石市",
+      "int_name": "Yakeshi",
+      "alt_name:mn": "ᠶᠠᠭᠰᠢᠬᠣᠲᠠ",
+      "old_name:en": "Xuguit Qi",
+      "name:zh-Hant": "牙克石市",
+      "name:zh_pinyin": "Yákèshí Shì"
+    }
+  },
+  {
+    "name": "Yakima",
+    "country": "United States Of America",
+    "latitude": 46.60155700023945,
+    "longitude": -120.5108421,
+    "other_names": {
+      "name": "Yakima",
+      "name:ar": "ياكيما",
+      "name:bg": "Якима",
+      "name:de": "Yakima",
+      "name:es": "Yakima",
+      "name:fa": "یاکیما",
+      "name:fr": "Yakima",
+      "name:it": "Yakima",
+      "name:ja": "ヤキマ",
+      "name:ko": "야키마",
+      "name:pt": "Yakima",
+      "name:ru": "Якима",
+      "name:uk": "Якіма",
+      "name:ur": "یکما",
+      "name:zh": "雅基馬"
+    }
+  },
+  {
+    "name": "Yakoma",
+    "country": "Congo Democratic Republic",
+    "latitude": 4.1061139995781275,
+    "longitude": 22.4449881,
+    "other_names": {
+      "name": "Yakoma"
+    }
+  },
+  {
+    "name": "Yakuach",
+    "country": "South Sudan",
+    "latitude": 8.944762399400124,
+    "longitude": 32.4094937,
+    "other_names": {
+      "name": "Yakuach",
+      "name:ar": "ياكوتش"
+    }
+  },
+  {
+    "name": "Yakutsk",
+    "country": "Russia",
+    "latitude": 62.02728700154653,
+    "longitude": 129.732086,
+    "other_names": {
+      "name": "Якутск",
+      "name:be": "Якуцк",
+      "name:ca": "Iakutsk",
+      "name:cs": "Jakutsk",
+      "name:da": "Jakutsk",
+      "name:de": "Jakutsk",
+      "name:en": "Yakutsk",
+      "name:es": "Yakutsk",
+      "name:et": "Jakutsk",
+      "name:fr": "Iakoutsk",
+      "name:hr": "Jakutsk",
+      "name:hu": "Jakutszk",
+      "name:ja": "ヤクーツク",
+      "name:ko": "야쿠츠크",
+      "name:lt": "Jakutskas",
+      "name:nl": "Jakoetsk",
+      "name:pl": "Jakuck",
+      "name:ru": "Якутск",
+      "name:sk": "Jakutsk",
+      "name:sv": "Jakutsk",
+      "name:uk": "Якутськ",
+      "name:zh": "雅庫茨克",
+      "alt_name": "Дьокуускай",
+      "int_name": "Yakutsk",
+      "name:sah": "Дьокуускай"
+    }
+  },
+  {
+    "name": "Yakutsk",
+    "country": "Russia",
+    "latitude": 62.062347044877754,
+    "longitude": 129.72083393139266,
+    "other_names": {
+      "name": "Якутск",
+      "name:be": "Якуцк",
+      "name:ca": "Iakutsk",
+      "name:da": "Jakutsk",
+      "name:de": "Jakutsk",
+      "name:en": "Yakutsk",
+      "name:es": "Yakutsk",
+      "name:et": "Jakutsk",
+      "name:fr": "Iakoutsk",
+      "name:hr": "Jakutsk",
+      "name:hu": "Jakutszk",
+      "name:ja": "ヤクーツク",
+      "name:lt": "Jakutskas",
+      "name:nl": "Jakoetsk",
+      "name:pl": "Jakuck",
+      "name:ru": "Якутск",
+      "name:sk": "Jakutsk",
+      "name:sv": "Jakutsk",
+      "name:uk": "Якутськ",
+      "alt_name": "Дьокуускай",
+      "int_name": "Yakutsk",
+      "name:sah": "Дьокуускай"
+    }
+  },
+  {
+    "name": "Yala",
+    "country": "Thailand",
+    "latitude": 6.542013699420445,
+    "longitude": 101.2788554,
+    "other_names": {
+      "name": "ยะลา",
+      "name:en": "Yala",
+      "name:ja": "ヤラー",
+      "name:ru": "Яла",
+      "name:th": "ยะลา",
+      "name:uk": "Яла",
+      "name:zh": "惹拉市",
+      "official_name": "เทศบาลนครยะลา"
+    }
+  },
+  {
+    "name": "Yalova",
+    "country": "Turkey",
+    "latitude": 40.65833610035226,
+    "longitude": 29.270000400000004,
+    "other_names": {
+      "name": "Yalova",
+      "name:ar": "يالوفا",
+      "name:hu": "Yalova",
+      "name:ru": "Ялова"
+    }
+  },
+  {
+    "name": "Yamaga",
+    "country": "Japan",
+    "latitude": 33.017745599587585,
+    "longitude": 130.6911907,
+    "other_names": {
+      "name": "山鹿市",
+      "name:ar": "ياماغا، كوماموتو",
+      "name:de": "Yamaga",
+      "name:en": "Yamaga",
+      "name:es": "Yamaga",
+      "name:fr": "Yamaga",
+      "name:ja": "山鹿市",
+      "name:ko": "야마가시",
+      "name:pl": "Yamaga",
+      "name:ru": "Ямага",
+      "name:uk": "Ямаґа",
+      "name:zh": "山鹿市",
+      "int_name": "Yamaga",
+      "name:zh-Hans": "山鹿市",
+      "name:zh-Hant": "山鹿市"
+    }
+  },
+  {
+    "name": "Yamagata",
+    "country": "Japan",
+    "latitude": 38.25533930001826,
+    "longitude": 140.34002049999998,
+    "other_names": {
+      "name": "山形市",
+      "name:ar": "ياماغاتا، ياماغاتا",
+      "name:cs": "Jamagata",
+      "name:de": "Yamagata",
+      "name:en": "Yamagata",
+      "name:es": "Yamagata",
+      "name:et": "Yamagata",
+      "name:fr": "Yamagata",
+      "name:ja": "山形市",
+      "name:ko": "야마가타시",
+      "name:lt": "Jamagata",
+      "name:pl": "Yamagata",
+      "name:ru": "Ямагата",
+      "name:sr": "Јамагата",
+      "name:uk": "Ямаґата",
+      "int_name": "Yamagata",
+      "name:ja_rm": "Yamagata-shi",
+      "name:ja_kana": "やまがたし"
+    }
+  },
+  {
+    "name": "Yamagata",
+    "country": "Japan",
+    "latitude": 35.506104899690115,
+    "longitude": 136.7817491,
+    "other_names": {
+      "name": "山県市",
+      "name:en": "Yamagata",
+      "name:fr": "Yamagata",
+      "name:ja": "山県市",
+      "name:ko": "야마가타시",
+      "name:pl": "Yamagata",
+      "name:ru": "Ямагата",
+      "name:uk": "Ямаґата",
+      "name:ja_rm": "Yamagata-shi",
+      "name:ja_kana": "やまがたし"
+    }
+  },
+  {
+    "name": "Yamaguchi",
+    "country": "Japan",
+    "latitude": 34.178131699608,
+    "longitude": 131.4737077,
+    "other_names": {
+      "name": "山口市",
+      "name:ar": "ياماغوتشي",
+      "name:cs": "Jamaguči",
+      "name:de": "Yamaguchi",
+      "name:en": "Yamaguchi",
+      "name:es": "Yamaguchi",
+      "name:et": "Yamaguchi",
+      "name:fr": "Yamaguchi",
+      "name:ja": "山口市",
+      "name:ko": "야마구치시",
+      "name:pl": "Yamaguchi",
+      "name:ru": "Ямагути",
+      "name:uk": "Ямаґучі",
+      "name:zh": "山口市",
+      "int_name": "Yamaguchi",
+      "name:ja_rm": "Yamaguchi-shi",
+      "name:ja_kana": "やまぐちし",
+      "name:zh-Hans": "山口市",
+      "name:zh-Hant": "山口市"
+    }
+  }
+]

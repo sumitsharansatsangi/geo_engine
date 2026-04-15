@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Salto del Guaira",
+    "country": "Brazil",
+    "latitude": -24.061463899916212,
+    "longitude": -54.3069971,
+    "other_names": {
+      "name": "Salto del Guairá",
+      "name:en": "Salto del Guaira",
+      "name:lt": "Salto del Gvaira",
+      "name:pt": "Salto do Guairá",
+      "name:ru": "Сальто-дель-Гуайра"
+    }
+  },
+  {
+    "name": "Salvador",
+    "country": "Brazil",
+    "latitude": -12.982249900209798,
+    "longitude": -38.4812772,
+    "other_names": {
+      "name": "Salvador",
+      "name:ar": "سالفادور",
+      "name:be": "Сальвадор",
+      "name:bg": "Салвадор",
+      "name:bn": "সালভাদোর",
+      "name:ce": "Салвадор",
+      "name:el": "Σαλβαδόρ",
+      "name:fa": "سالوادور",
+      "name:he": "סלבדור",
+      "name:hy": "Սալվադոր",
+      "name:ja": "サルヴァドール",
+      "name:ka": "სალვადორი",
+      "name:kk": "Салвадор",
+      "name:ko": "사우바도르",
+      "name:la": "Salvatoris",
+      "name:lt": "Salvadoras",
+      "name:lv": "Salvadora",
+      "name:mk": "Салвадор",
+      "name:mn": "Салвадор",
+      "name:mr": "साल्व्हादोर",
+      "name:os": "Салвадор",
+      "name:ru": "Салвадор",
+      "name:sr": "Салвадор",
+      "name:tg": "Салвадор",
+      "name:th": "ซัลวาดอร์",
+      "name:uk": "Салвадор",
+      "name:ur": "سلواڈور",
+      "name:zh": "萨尔瓦多",
+      "short_name": "SSA"
+    }
+  },
+  {
+    "name": "Salvaleón de Higüey",
+    "country": "Haiti And Domrep",
+    "latitude": 18.612798300285714,
+    "longitude": -68.7119822,
+    "other_names": {
+      "name": "Salvaleón de Higüey",
+      "name:hu": "Higüey",
+      "name:ru": "Игуэй",
+      "official_name": "Salvaleón de Higüey"
+    }
+  },
+  {
+    "name": "Salzburg",
+    "country": "Austria",
+    "latitude": 47.798134599985346,
+    "longitude": 13.0464806,
+    "other_names": {
+      "name": "Salzburg",
+      "name:ar": "زالتسبورغ",
+      "name:be": "Зальцбург",
+      "name:cs": "Salcburk",
+      "name:de": "Salzburg",
+      "name:el": "Σάλτσμπουργκ",
+      "name:en": "Salzburg",
+      "name:es": "Salzburgo",
+      "name:fr": "Salzbourg",
+      "name:he": "זלצבורג",
+      "name:hu": "Salzburg",
+      "name:it": "Salisburgo",
+      "name:ka": "ზალცბურგი",
+      "name:ko": "짤츠부르크",
+      "name:la": "Salisburgum",
+      "name:lt": "Zalcburgas",
+      "name:lv": "Zalcburga",
+      "name:mk": "Салцбург",
+      "name:ro": "Salzburg",
+      "name:ru": "Зальцбург",
+      "name:sk": "Soľnohrad",
+      "name:sl": "Solnograd",
+      "name:sr": "Салцбург",
+      "name:uk": "Зальцбург",
+      "name:zh": "萨尔茨堡",
+      "name:bar": "Soizburg",
+      "alt_name:cs": "Solnohrad",
+      "alt_name:mk": "Залцбург",
+      "name:zh-Hans": "萨尔茨堡",
+      "name:zh-Hant": "薩爾茨堡",
+      "name:be-tarask": "Зальцбург"
+    }
+  },
+  {
+    "name": "Salzgitter",
+    "country": "Germany",
+    "latitude": 52.15037209910577,
+    "longitude": 10.3593147,
+    "other_names": {
+      "name": "Salzgitter",
+      "name:ar": "زالتسغيتر",
+      "name:de": "Salzgitter",
+      "name:fa": "زالتسگیتر",
+      "name:ja": "ザルツギッター",
+      "name:lt": "Zalcgiteris",
+      "name:ru": "Зальцгиттер",
+      "name:sr": "Залцгитер",
+      "name:nds": "Soltgitter",
+      "old_name": "Watenstedt-Salzgitter"
+    }
+  },
+  {
+    "name": "Sama as-Sirhan",
+    "country": "Jordan",
+    "latitude": 32.467925168922605,
+    "longitude": 36.24969036251649,
+    "other_names": {
+      "name": "سما السرحان",
+      "name:en": "Sama as-Sirhan",
+      "name:fr": "Sama as-Sirhan"
+    }
+  },
+  {
+    "name": "Sama as-Sirhan",
+    "country": "Jordan",
+    "latitude": 32.46953059959456,
+    "longitude": 36.2427479,
+    "other_names": {
+      "name": "سما السرحان",
+      "name:en": "Sama as-Sirhan",
+      "name:fr": "Sama as-Sirhan",
+      "name:nl": "Sama as-Sirhan"
+    }
+  },
+  {
+    "name": "Sama as-Sirhan",
+    "country": "Syria",
+    "latitude": 32.467925168922605,
+    "longitude": 36.24969036251649,
+    "other_names": {
+      "name": "سما السرحان",
+      "name:en": "Sama as-Sirhan",
+      "name:fr": "Sama as-Sirhan"
+    }
+  },
+  {
+    "name": "Samal",
+    "country": "Philippines",
+    "latitude": 7.078026499403205,
+    "longitude": 125.71204369999997,
+    "other_names": {
+      "name": "Samal",
+      "name:ja": "サマル",
+      "name:abbr": "IGaCoS",
+      "official_name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "name": "Samambaia",
+    "country": "Brazil",
+    "latitude": -15.876998900431078,
+    "longitude": -48.088100399999995,
+    "other_names": {
+      "name": "Samambaia",
+      "alt_name": "RA XII",
+      "loc_name": "RA 12",
+      "reg_name": "Região Administrativa Doze"
+    }
+  },
+  {
+    "name": "Samaná",
+    "country": "Haiti And Domrep",
+    "latitude": 19.20550520032834,
+    "longitude": -69.33622519999999,
+    "other_names": {
+      "name": "Santa Bárbara de Samaná",
+      "name:en": "Samaná",
+      "name:ru": "Самана",
+      "official_name": "Santa Bárbara de Samaná"
+    }
+  },
+  {
+    "name": "Samara",
+    "country": "Russia",
+    "latitude": 53.19862699909648,
+    "longitude": 50.113986999999995,
+    "other_names": {
+      "name": "Самара",
+      "name:ar": "سمارا",
+      "name:ba": "Һамар",
+      "name:be": "Самара",
+      "name:ca": "Samara",
+      "name:cs": "Samara",
+      "name:cv": "Самар",
+      "name:da": "Samara",
+      "name:de": "Samara",
+      "name:en": "Samara",
+      "name:es": "Samara",
+      "name:et": "Samara",
+      "name:fi": "Samara",
+      "name:fr": "Samara",
+      "name:hi": "समारा",
+      "name:hr": "Samara",
+      "name:hu": "Szamara",
+      "name:hy": "Սամարա",
+      "name:it": "Samara",
+      "name:ja": "サマーラ",
+      "name:ka": "სამარა",
+      "name:kn": "ಸಮಾರ",
+      "name:ko": "사마라",
+      "name:lt": "Samara",
+      "name:oc": "Samara",
+      "name:pl": "Samara",
+      "name:pt": "Samara",
+      "name:ro": "Samara",
+      "name:ru": "Самара",
+      "name:sk": "Samara",
+      "name:sl": "Samara",
+      "name:uk": "Самара",
+      "name:zh": "薩馬拉",
+      "int_name": "Samara",
+      "alt_name:ar": "سامارا",
+      "alt_name:sk": "Kujbyšev",
+      "alt_name:sl": "Kujbišev",
+      "old_name:1935-01-27--1991-01-25": "Куйбышев",
+      "old_name:de:1935-01-27--1991-01-25": "Kuibyschew"
+    }
+  },
+  {
+    "name": "Samara",
+    "country": "Russia",
+    "latitude": 53.26923889371365,
+    "longitude": 50.154824096664235,
+    "other_names": {
+      "name": "Самара",
+      "name:ar": "سمارا",
+      "name:bg": "Самара",
+      "name:de": "Samara",
+      "name:en": "Samara",
+      "name:es": "Samara",
+      "name:eu": "Samara",
+      "name:fr": "Samara",
+      "name:ja": "サマーラ",
+      "name:ko": "사마라",
+      "name:ku": "Samara",
+      "name:mn": "Самар",
+      "name:pl": "Samara",
+      "name:pt": "Samara",
+      "name:ro": "Samara",
+      "name:tt": "Самара",
+      "name:uk": "Самара",
+      "name:zh": "薩馬拉",
+      "int_name": "Samara",
+      "alt_name:ar": "سامارا"
+    }
+  },
+  {
+    "name": "Samarinda",
+    "country": "Indonesia",
+    "latitude": -0.5017803999496716,
+    "longitude": 117.13930889999999,
+    "other_names": {
+      "name": "Samarinda",
+      "name:en": "Samarinda",
+      "name:ja": "サマリンダ",
+      "name:ko": "사마린다",
+      "name:ru": "Самаринда",
+      "name:uk": "Самарінда",
+      "name:zh": "沙马林达",
+      "alt_name:zh": "三马林达",
+      "name:zh-Hant": "沙馬林達"
+    }
+  },
+  {
+    "name": "Samarkand",
+    "country": "Uzbekistan",
+    "latitude": 39.65500170021967,
+    "longitude": 66.97569539999999,
+    "other_names": {
+      "name": "Samarqand",
+      "name:ar": "سمرقند",
+      "name:de": "Samarkand",
+      "name:en": "Samarkand",
+      "name:eo": "Samarkando",
+      "name:et": "Samarkand",
+      "name:fa": "سمرقند",
+      "name:fr": "Samarcande",
+      "name:it": "Samarcanda",
+      "name:ja": "サマルカンド",
+      "name:ko": "사마르칸트",
+      "name:ru": "Самарканд",
+      "name:tg": "Самарқанд",
+      "name:tk": "Samarkand",
+      "name:uk": "Самарканд",
+      "name:zh": "撒馬爾罕",
+      "alt_name": "Самарканд",
+      "old_name": "Согдиана;Мараканда",
+      "alt_name:en": "Samarkand"
+    }
+  },
+  {
+    "name": "Samarra",
+    "country": "Iraq",
+    "latitude": 34.19999999960885,
+    "longitude": 43.9,
+    "other_names": {
+      "name": "سامراء",
+      "name:ar": "سامراء",
+      "name:de": "Samarra",
+      "name:en": "Samarra",
+      "name:et": "Sāmarrā’",
+      "name:fa": "سامرا",
+      "name:fr": "Samarra",
+      "name:hi": "सामर्रा",
+      "name:ko": "사마라",
+      "name:ku": "Semara",
+      "name:ru": "Самарра",
+      "alt_name": "Qaḑā Sāmarrā, Sāmarrā, Sāmarrā Qadhā, Qada Samarra, Samarra, Samarra Qadha",
+      "int_name": "Samarra - سامراء",
+      "name:ckb": "سامەڕا"
+    }
+  },
+  {
+    "name": "SAMATRAN PLATEAU",
+    "country": "Guinea",
+    "latitude": 9.689682799423977,
+    "longitude": -13.554167799999998,
+    "other_names": {
+      "name": "SAMATRAN PLATEAU"
+    }
+  },
+  {
+    "name": "SAMATRAN VILLAGE",
+    "country": "Guinea",
+    "latitude": 9.695816699424231,
+    "longitude": -13.551764500000003,
+    "other_names": {
+      "name": "SAMATRAN VILLAGE"
+    }
+  },
+  {
+    "name": "Sambalpur",
+    "country": "India",
+    "latitude": 21.47053910040977,
+    "longitude": 83.9761511,
+    "other_names": {
+      "name": "Sambalpur",
+      "name:en": "Sambalpur",
+      "name:hi": "सम्बलपुर",
+      "name:ja": "サンバルプル",
+      "name:kn": "ಸಂಬಲಪುರ",
+      "name:or": "ସମ୍ବଲପୁର",
+      "name:pa": "ਸੰਬਲਪੁਰ",
+      "alt_name:hi": "संबलपुर"
+    }
+  },
+  {
+    "name": "Sambhal",
+    "country": "India",
+    "latitude": 28.585196999881695,
+    "longitude": 78.570932,
+    "other_names": {
+      "name": "Sambhal",
+      "name:hi": "सम्भल",
+      "name:pa": "ਸੰਭਲ",
+      "alt_name:hi": "संभल"
+    }
+  }
+]

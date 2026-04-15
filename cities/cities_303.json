@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Mianning",
+    "country": "China",
+    "latitude": 28.555581099884918,
+    "longitude": 102.163778,
+    "other_names": {
+      "name": "冕宁县",
+      "name:bo": "མེན་ཉིང་།",
+      "name:en": "Mianning",
+      "name:ii": "ꍿꆈꑤ",
+      "name:zh": "冕宁县",
+      "alt_name": "冕宁;Mianning County",
+      "name:zh-Hant": "冕寧縣",
+      "name:zh_pinyin": "Miǎnníng Xiàn"
+    }
+  },
+  {
+    "name": "Mianwali",
+    "country": "Pakistan",
+    "latitude": 32.570553299592504,
+    "longitude": 71.5239763,
+    "other_names": {
+      "name": "مِيانوالى‎",
+      "name:en": "Mianwali",
+      "name:hi": "मियांवाली",
+      "name:lt": "Mianvalis",
+      "name:ru": "Миянвали"
+    }
+  },
+  {
+    "name": "Mianxian",
+    "country": "China",
+    "latitude": 33.15511039958747,
+    "longitude": 106.66949949999999,
+    "other_names": {
+      "name": "勉县",
+      "name:en": "Mianxian",
+      "name:ru": "Мяньсянь",
+      "name:zh": "勉县",
+      "alt_name": "沔;勉;勉阳街道;勉阳;Mianyang",
+      "old_name": "沔縣;沔县",
+      "name:zh-Hant": "沔縣"
+    }
+  },
+  {
+    "name": "Mianyang",
+    "country": "China",
+    "latitude": 31.462734099633202,
+    "longitude": 104.74634319999998,
+    "other_names": {
+      "name": "绵阳市",
+      "name:de": "Mianyang",
+      "name:en": "Mianyang",
+      "name:et": "Mianyang",
+      "name:fr": "Mianyang",
+      "name:ja": "綿陽市",
+      "name:pt": "Mianyang",
+      "name:ru": "Мяньян",
+      "name:uk": "Мяньян",
+      "name:vi": "Miên Dương",
+      "name:zh": "绵阳市",
+      "alt_name": "绵阳;Mianyang City",
+      "int_name": "Mianyang",
+      "name:zh-Hant": "綿陽市",
+      "name:zh_pinyin": "Miányáng Shì"
+    }
+  },
+  {
+    "name": "Mianzhu",
+    "country": "China",
+    "latitude": 31.341388599639945,
+    "longitude": 104.19797779999999,
+    "other_names": {
+      "name": "绵竹市",
+      "name:de": "Mianzhu",
+      "name:en": "Mianzhu",
+      "name:fr": "Miánzhú",
+      "name:ja": "綿竹市",
+      "name:vi": "Miên Trúc",
+      "name:zh": "绵竹市",
+      "alt_name": "绵竹;剑南镇;剑南;Myan'chzhu;Mien-chu-hsien;Mien-chu;Jiannan;Mianzhu City",
+      "name:zh-Hant": "綿竹市",
+      "name:zh_pinyin": "Miánzhú Shì"
+    }
+  },
+  {
+    "name": "Miass",
+    "country": "Russia",
+    "latitude": 55.065746952919085,
+    "longitude": 60.11399170767005,
+    "other_names": {
+      "name": "Миасс",
+      "name:de": "Miass",
+      "name:en": "Miass",
+      "name:fr": "Miass",
+      "name:ja": "ミアス",
+      "name:ru": "Миасс",
+      "name:zh": "米阿斯",
+      "int_name": "Miass"
+    }
+  },
+  {
+    "name": "Miass",
+    "country": "Russia",
+    "latitude": 55.065303999440744,
+    "longitude": 60.10833699999999,
+    "other_names": {
+      "name": "Миасс",
+      "name:de": "Miass",
+      "name:en": "Miass",
+      "name:es": "Miass",
+      "name:et": "Miass",
+      "name:fr": "Miass",
+      "name:ja": "ミアス",
+      "name:ko": "미아스",
+      "name:lt": "Miasas",
+      "name:pl": "Miass",
+      "name:ru": "Миасс",
+      "name:uk": "Міас",
+      "name:zh": "米阿斯",
+      "int_name": "Miass",
+      "old_name": "Миясский завод",
+      "name:ru:word_stress": "Миа́сс"
+    }
+  },
+  {
+    "name": "Middelburg",
+    "country": "Netherlands",
+    "latitude": 51.49973019917256,
+    "longitude": 3.6136962,
+    "other_names": {
+      "name": "Middelburg",
+      "name:ar": "ميديلبورخ",
+      "name:de": "Middelburg",
+      "name:en": "Middelburg",
+      "name:es": "Middelburg",
+      "name:fr": "Middelbourg",
+      "name:fy": "Middelburch",
+      "name:ja": "ミデルブルフ",
+      "name:ko": "미델뷔르흐",
+      "name:la": "Medioburgum",
+      "name:nl": "Middelburg",
+      "name:ru": "Мидделбург",
+      "name:sr": "Миделбург",
+      "name:pcd": "Middelbourg",
+      "alt_name:la": "Middelburgum",
+      "name:zh-Hans": "米德尔堡",
+      "name:zh-Hant": "米德爾堡"
+    }
+  },
+  {
+    "name": "Middletown",
+    "country": "United States Of America",
+    "latitude": 41.562317800449726,
+    "longitude": -72.6509061,
+    "other_names": {
+      "name": "Middletown"
+    }
+  },
+  {
+    "name": "Midland",
+    "country": "United States Of America",
+    "latitude": 31.9973661996087,
+    "longitude": -102.0779482,
+    "other_names": {
+      "name": "Midland"
+    }
+  },
+  {
+    "name": "Midnapore",
+    "country": "India",
+    "latitude": 22.42070250040151,
+    "longitude": 87.3269963,
+    "other_names": {
+      "name": "Midnapore",
+      "name:bn": "মেদিনীপুর",
+      "name:ru": "Мединипур"
+    }
+  },
+  {
+    "name": "Midong",
+    "country": "China",
+    "latitude": 43.97309870053354,
+    "longitude": 87.6533335,
+    "other_names": {
+      "name": "米东区",
+      "name:en": "Midong",
+      "name:ug": "مىچۈەن-كۆكتاغ رايونى",
+      "name:zh": "米东区",
+      "alt_name": "米东区;Midong;Midong District;Michuan-Köktagh District",
+      "name:zh-Hant": "米東區"
+    }
+  },
+  {
+    "name": "Midori",
+    "country": "Japan",
+    "latitude": 36.39479879977698,
+    "longitude": 139.28097359999998,
+    "other_names": {
+      "name": "みどり市",
+      "name:en": "Midori",
+      "name:ja": "みどり市",
+      "name:ko": "미도리시",
+      "name:pl": "Midori",
+      "name:ru": "Мидори",
+      "name:uk": "Мідорі",
+      "name:zh": "綠市",
+      "name:ja_rm": "Midori-shi"
+    }
+  },
+  {
+    "name": "Midu",
+    "country": "China",
+    "latitude": 25.346435500227354,
+    "longitude": 100.49030179999998,
+    "other_names": {
+      "name": "弥渡县",
+      "name:en": "Midu",
+      "name:vi": "Di Độ",
+      "name:zh": "弥渡县",
+      "alt_name": "弥渡;Midu County",
+      "name:zh-Hant": "彌渡縣",
+      "name:zh_pinyin": "Mídùxiàn"
+    }
+  },
+  {
+    "name": "Miercurea Ciuc",
+    "country": "Romania",
+    "latitude": 46.36140420028287,
+    "longitude": 25.8026675,
+    "other_names": {
+      "name": "Miercurea Ciuc",
+      "name:de": "Szeklerburg",
+      "name:hu": "Csíkszereda",
+      "name:la": "Oppidum Mercurium",
+      "name:lt": "Mierkuria-Čukas",
+      "name:ru": "Меркуря-Чук",
+      "name:sr": "Мијеркуреја Чук",
+      "name:uk": "М'єркуря-Чук",
+      "alt_name": "Csíkszereda",
+      "alt_name:la": "Sicolsburgum"
+    }
+  },
+  {
+    "name": "Migdal Haemeq",
+    "country": "Israel And Palestine",
+    "latitude": 32.67785698147846,
+    "longitude": 35.24107581053634,
+    "other_names": {
+      "name": "Migdal Haemeq",
+      "name:en": "Migdal Haemeq"
+    }
+  },
+  {
+    "name": "Mihara",
+    "country": "Japan",
+    "latitude": 34.397440699617306,
+    "longitude": 133.07850459999997,
+    "other_names": {
+      "name": "三原市",
+      "name:en": "Mihara",
+      "name:eu": "Mihara",
+      "name:fr": "Mihara",
+      "name:ja": "三原市",
+      "name:ko": "미하라시",
+      "name:pl": "Mihara",
+      "name:ru": "Михара",
+      "name:uk": "Міхара",
+      "name:ja_rm": "Mihara-shi",
+      "name:ja_kana": "みはらし"
+    }
+  },
+  {
+    "name": "Mikasa",
+    "country": "Japan",
+    "latitude": 43.24575570054095,
+    "longitude": 141.8746092,
+    "other_names": {
+      "name": "三笠市",
+      "name:ar": "ميكاسا، هوكايدو",
+      "name:de": "Mikasa",
+      "name:en": "Mikasa",
+      "name:es": "Mikasa",
+      "name:fr": "Mikasa",
+      "name:hu": "Mikasza",
+      "name:ja": "三笠市",
+      "name:pl": "Mikasa",
+      "name:ru": "Микаса",
+      "name:uk": "Мікаса",
+      "int_name": "Mikasa",
+      "name:ja_rm": "Mikasa-shi",
+      "name:ja_kana": "みかさし"
+    }
+  },
+  {
+    "name": "Miki",
+    "country": "Japan",
+    "latitude": 34.853342199642135,
+    "longitude": 135.0765718,
+    "other_names": {
+      "name": "三木市",
+      "name:ar": "ميكي، هيوغو",
+      "name:de": "Miki",
+      "name:en": "Miki",
+      "name:es": "Miki",
+      "name:fr": "Miki",
+      "name:ja": "三木市",
+      "name:ko": "미키시",
+      "name:pl": "Miki",
+      "name:ru": "Мики",
+      "name:uk": "Мікі",
+      "name:ja_rm": "Miki-shi"
+    }
+  },
+  {
+    "name": "Mikkeli",
+    "country": "Finland",
+    "latitude": 61.6877956016558,
+    "longitude": 27.2726569,
+    "other_names": {
+      "name": "Mikkeli",
+      "name:fi": "Mikkeli",
+      "name:ru": "Миккели",
+      "name:sv": "S:t Michel",
+      "name:zh": "米凱利",
+      "alt_name:sv": "Sankt Michel"
+    }
+  }
+]

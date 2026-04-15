@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Ticul",
+    "country": "Mexico",
+    "latitude": 20.396670500388332,
+    "longitude": -89.53503229999998,
+    "other_names": {
+      "name": "Ticul",
+      "name:ru": "Тикуль"
+    }
+  },
+  {
+    "name": "Tidore Kepulauan",
+    "country": "Indonesia",
+    "latitude": 0.6786795999289008,
+    "longitude": 127.4483156,
+    "other_names": {
+      "name": "Tidore Kepulauan",
+      "name:zh": "蒂多雷",
+      "int_name": "Tidore"
+    }
+  },
+  {
+    "name": "Tiedong",
+    "country": "China",
+    "latitude": 43.1603648005398,
+    "longitude": 124.40402949999996,
+    "other_names": {
+      "name": "铁东区",
+      "name:en": "Tiedong",
+      "name:zh": "铁东区",
+      "name:zh-Hant": "鐵東區"
+    }
+  },
+  {
+    "name": "Tiedong",
+    "country": "China",
+    "latitude": 41.08774590040184,
+    "longitude": 122.98548400000001,
+    "other_names": {
+      "name": "铁东区",
+      "name:en": "Tiedong",
+      "name:ja": "鉄東区",
+      "name:ko": "톄둥구",
+      "name:vi": "Thiết Đông",
+      "name:zh": "铁东区",
+      "alt_name": "铁东;Tiedong District",
+      "name:zh-Hant": "鐵東區",
+      "name:zh_pinyin": "Tiedong Qu"
+    }
+  },
+  {
+    "name": "Tieli",
+    "country": "China",
+    "latitude": 46.984224900164506,
+    "longitude": 128.0256684,
+    "other_names": {
+      "name": "铁力市",
+      "name:de": "Tieli",
+      "name:en": "Tieli",
+      "name:ja": "鉄力市",
+      "name:ko": "톄리시",
+      "name:ru": "Тели",
+      "name:vi": "Thiết Lực",
+      "name:zh": "铁力市",
+      "alt_name": "鐵驪;铁骊;铁力",
+      "old_name": "鐵力縣;铁力县",
+      "name:zh-Hant": "鐵力市",
+      "official_name": "铁力市",
+      "name:zh_pinyin": "tiě lì zhèn"
+    }
+  },
+  {
+    "name": "Tieling",
+    "country": "China",
+    "latitude": 42.22108430050155,
+    "longitude": 123.723634,
+    "other_names": {
+      "name": "铁岭县",
+      "name:en": "Tieling",
+      "name:ja": "鉄嶺県",
+      "name:ko": "톄링현",
+      "name:vi": "Thiết Lĩnh",
+      "name:zh": "铁岭县",
+      "alt_name": "铁岭;Tieling County",
+      "name:zh-Hant": "鐵嶺縣",
+      "name:zh_pinyin": "Tieling Xian"
+    }
+  },
+  {
+    "name": "Tieling",
+    "country": "China",
+    "latitude": 42.28952330050582,
+    "longitude": 123.83948989999998,
+    "other_names": {
+      "name": "铁岭市",
+      "name:ar": "تيلينغ",
+      "name:de": "Tieling",
+      "name:en": "Tieling",
+      "name:et": "Tieling",
+      "name:fr": "Tieling",
+      "name:ja": "鉄嶺市",
+      "name:ko": "톄링시",
+      "name:ru": "Телин",
+      "name:vi": "Thiết Lĩnh",
+      "name:zh": "铁岭市",
+      "name:zh-Hant": "鐵嶺市",
+      "name:zh_pinyin": "Tiělǐng shì"
+    }
+  },
+  {
+    "name": "Tiemenguan",
+    "country": "China",
+    "latitude": 41.86285280047565,
+    "longitude": 85.66822929999998,
+    "other_names": {
+      "name": "铁门关市",
+      "name:de": "Tiemenguan",
+      "name:en": "Tiemenguan",
+      "name:es": "Tiemenguan",
+      "name:et": "Tiĕmenguan",
+      "name:fr": "Tiemenguan",
+      "name:tr": "Başegim",
+      "name:ug": "باشئەگىم شەھىرى",
+      "name:zh": "铁门关市",
+      "name:zh-Hant": "鐵門關市"
+    }
+  },
+  {
+    "name": "Tieshan",
+    "country": "China",
+    "latitude": 30.205581899721775,
+    "longitude": 114.8866294,
+    "other_names": {
+      "name": "铁山区",
+      "name:en": "Tieshan",
+      "name:vi": "Thiết Sơn",
+      "name:zh": "铁山区",
+      "name:zh-Hant": "鐵山區",
+      "name:zh_pinyin": "Tieshan Qu"
+    }
+  },
+  {
+    "name": "Tieshangang",
+    "country": "China",
+    "latitude": 21.531654000410008,
+    "longitude": 109.416961,
+    "other_names": {
+      "name": "铁山港区",
+      "name:de": "Tieshangang",
+      "name:en": "Tieshangang",
+      "name:fr": "District de Tieshangang",
+      "name:it": "Distretto di Tieshangang",
+      "name:ja": "鉄山港区",
+      "name:ko": "톄산강구",
+      "name:no": "Tieshangang",
+      "name:ru": "Тешаньган",
+      "name:sv": "Tieshangang",
+      "name:vi": "Thiết Sơn Cảng",
+      "name:zh": "铁山港区",
+      "alt_name": "铁山港;Tieshangang District",
+      "name:ceb": "Tieshangang Qu",
+      "name:hak": "Thiet-sân-kóng-khî",
+      "name:nan": "Thih-san-káng-khu",
+      "name:yue": "铁山港区",
+      "name:zh-Hant": "鐵山港區",
+      "name:yue-Latn": "Titsaangong-kei",
+      "name:zh_pinyin": "Tiěshāngǎng Qū"
+    }
+  },
+  {
+    "name": "Tiexi",
+    "country": "China",
+    "latitude": 43.145336900539554,
+    "longitude": 124.34051480000001,
+    "other_names": {
+      "name": "铁西区",
+      "name:en": "Tiexi",
+      "name:zh": "铁西区",
+      "name:zh-Hant": "鐵西區"
+    }
+  },
+  {
+    "name": "Tiexi",
+    "country": "China",
+    "latitude": 41.79890840047045,
+    "longitude": 123.35021789999999,
+    "other_names": {
+      "name": "铁西区",
+      "name:en": "Tiexi",
+      "name:ja": "鉄西区",
+      "name:ko": "톄시구",
+      "name:zh": "铁西区",
+      "alt_name": "铁西;Tiexi District",
+      "name:zh-Hant": "鐵西區"
+    }
+  },
+  {
+    "name": "Tiexi",
+    "country": "China",
+    "latitude": 41.11773330040509,
+    "longitude": 122.96387469999999,
+    "other_names": {
+      "name": "铁西区",
+      "name:en": "Tiexi",
+      "name:zh": "铁西区",
+      "alt_name": "铁西;Tiexi Qu;Tiexi District",
+      "name:zh-Hant": "鐵西區"
+    }
+  },
+  {
+    "name": "Tifton",
+    "country": "United States Of America",
+    "latitude": 31.45227649963377,
+    "longitude": -83.5096866,
+    "other_names": {
+      "name": "Tifton"
+    }
+  },
+  {
+    "name": "Tigard",
+    "country": "United States Of America",
+    "latitude": 45.43074730042142,
+    "longitude": -122.77193299999998,
+    "other_names": {
+      "name": "Tigard",
+      "name:ja": "タイガード"
+    }
+  },
+  {
+    "name": "Tignère",
+    "country": "Cameroon",
+    "latitude": 7.373247999396751,
+    "longitude": 12.652920999999997,
+    "other_names": {
+      "name": "Tignère"
+    }
+  },
+  {
+    "name": "Tijuana",
+    "country": "Mexico",
+    "latitude": 32.501018799593886,
+    "longitude": -116.96466200000002,
+    "other_names": {
+      "name": "Tijuana",
+      "name:ar": "تيخوانا",
+      "name:ru": "Тихуана",
+      "name:zh": "蒂华纳"
+    }
+  },
+  {
+    "name": "Tikrit",
+    "country": "Iraq",
+    "latitude": 34.615806999628276,
+    "longitude": 43.678605999999995,
+    "other_names": {
+      "name": "تكريت",
+      "name:ar": "تكريت",
+      "name:cs": "Tikrít",
+      "name:de": "Tikrit",
+      "name:en": "Tikrit",
+      "name:es": "Tikrit",
+      "name:et": "Tikrīt",
+      "name:fa": "تکریت",
+      "name:fr": "Tikrit",
+      "name:hi": "टिकरित",
+      "name:ja": "ティクリート",
+      "name:ku": "Tîkrît",
+      "name:ru": "Тикрит",
+      "name:ur": "تکریت",
+      "alt_name": "Tekrit, Tikret, Tekret, تكريت, Tekrit, Tikret, Tikrit, تكريت",
+      "name:arc": "ܬܓܪܝܬ",
+      "name:azb": "تکریت",
+      "name:ckb": "تکریت",
+      "name:mzn": "تکریت",
+      "name:pnb": "تكريت",
+      "name:syc": "ܬܓܪܝܬ",
+      "alt_name:arc": "ܬܟܪܝܬ;ܬܐܓܪܝܬ",
+      "alt_name:syc": "ܬܟܪܝܬ;ܬܐܓܪܝܬ"
+    }
+  },
+  {
+    "name": "Tilburg",
+    "country": "Netherlands",
+    "latitude": 51.556240399165155,
+    "longitude": 5.0886014,
+    "other_names": {
+      "name": "Tilburg",
+      "name:ar": "تيلبورخ",
+      "name:az": "Tilburq",
+      "name:be": "Тылбург",
+      "name:bg": "Тилбург",
+      "name:el": "Τίλμπουρχ",
+      "name:eo": "Tilburgo",
+      "name:es": "Tilburgo",
+      "name:fa": "تیلبورخ",
+      "name:fr": "Tilbourg",
+      "name:fy": "Tilburch",
+      "name:he": "טילבורך",
+      "name:hy": "Թիլբուրխ",
+      "name:ja": "ティルブルフ",
+      "name:ka": "ტილბურგი",
+      "name:ko": "틸뷔르흐",
+      "name:la": "Tillliburgis",
+      "name:lt": "Tilburgas",
+      "name:lv": "Tilburga",
+      "name:mk": "Тилбург",
+      "name:mn": "Тилбург",
+      "name:nl": "Tilburg",
+      "name:pt": "Tilburgo",
+      "name:ru": "Тилбург",
+      "name:sr": "Тилбург",
+      "name:th": "ติลบืร์ค",
+      "name:uk": "Тілбург",
+      "name:zh": "蒂尔堡",
+      "alt_name:la": "Tilia",
+      "name:zh-Hant": "蒂爾堡",
+      "name:carnaval": "Kruikenstad"
+    }
+  },
+  {
+    "name": "Tillabéri",
+    "country": "Niger",
+    "latitude": 14.2090124998143,
+    "longitude": 1.4546005999999998,
+    "other_names": {
+      "name": "Tillabéri",
+      "name:ar": "تيلابيري",
+      "name:ur": "تیلابےری"
+    }
+  }
+]

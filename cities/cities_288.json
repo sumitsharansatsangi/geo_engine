@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Malegaon",
+    "country": "India",
+    "latitude": 20.557606200393586,
+    "longitude": 74.5246514,
+    "other_names": {
+      "name": "Malegaon",
+      "name:en": "Malegaon",
+      "name:hi": "मालेगाँव",
+      "name:ja": "マーレーガオン",
+      "name:kn": "ಮಾಲೇಗಾಂವ",
+      "name:mr": "मालेगाव",
+      "name:pa": "ਮਾਲੇਗਾਓਂ",
+      "name:ru": "Манджлегаон",
+      "name:ta": "மாலேகான்",
+      "alt_name:hi": "मालेगांव"
+    }
+  },
+  {
+    "name": "Malerkotla",
+    "country": "India",
+    "latitude": 30.53312899969498,
+    "longitude": 75.8807604,
+    "other_names": {
+      "name": "Malerkotla"
+    }
+  },
+  {
+    "name": "Malindi",
+    "country": "Kenya",
+    "latitude": -3.2226511447046615,
+    "longitude": 40.111464510653384,
+    "other_names": {
+      "name": "Malindi"
+    }
+  },
+  {
+    "name": "Malindi",
+    "country": "Kenya",
+    "latitude": -3.216598699738815,
+    "longitude": 40.1165933,
+    "other_names": {
+      "name": "Malindi",
+      "name:ko": "말린디",
+      "name:ru": "Малинди",
+      "name:uk": "Малінді"
+    }
+  },
+  {
+    "name": "Malipo",
+    "country": "China",
+    "latitude": 23.128693000378888,
+    "longitude": 104.7001682,
+    "other_names": {
+      "name": "麻栗坡县",
+      "name:en": "Malipo",
+      "name:ru": "Малипо",
+      "name:vi": "Ma Lật Pha",
+      "name:zh": "麻栗坡县",
+      "alt_name": "麻栗坡;Malipo County",
+      "name:zh-Hant": "麻栗坡縣",
+      "name:zh_pinyin": "Málìpō xiàn"
+    }
+  },
+  {
+    "name": "Malkapur",
+    "country": "India",
+    "latitude": 20.88754320040213,
+    "longitude": 76.1984229,
+    "other_names": {
+      "name": "Malkapur",
+      "name:kn": "ಮಲ್ಕಾಪುರ್",
+      "name:mr": "मलकापुर"
+    }
+  },
+  {
+    "name": "Malkapur",
+    "country": "India",
+    "latitude": 20.882503315346483,
+    "longitude": 76.20459505129648,
+    "other_names": {
+      "name": "Malkapur",
+      "name:mr": "मलकापूर"
+    }
+  },
+  {
+    "name": "Malmo",
+    "country": "Sweden",
+    "latitude": 55.605293099628554,
+    "longitude": 13.000156599999999,
+    "other_names": {
+      "name": "Malmö",
+      "name:da": "Malmø",
+      "name:de": "Malmö",
+      "name:en": "Malmo",
+      "name:he": "מאלמה",
+      "name:hu": "Malmö",
+      "name:ja": "マルメ",
+      "name:ko": "말뫼",
+      "name:lt": "Malmė",
+      "name:mk": "Малме",
+      "name:ru": "Мальмё",
+      "name:yi": "מאלמע",
+      "name:zh": "马尔默",
+      "name:yue": "馬列麥",
+      "alt_name:he": "מאלמו"
+    }
+  },
+  {
+    "name": "Malolos",
+    "country": "Philippines",
+    "latitude": 14.843758999888816,
+    "longitude": 120.8113694,
+    "other_names": {
+      "name": "Malolos",
+      "name:en": "Malolos",
+      "name:ja": "マロロス",
+      "name:tl": "Malolos",
+      "name:zh": "马洛洛斯",
+      "official_name:en": "City of Malolos",
+      "official_name:tl": "Lungsod ng Malolos"
+    }
+  },
+  {
+    "name": "Malong",
+    "country": "China",
+    "latitude": 25.432423300219426,
+    "longitude": 103.578288,
+    "other_names": {
+      "name": "马龙区",
+      "name:en": "Malong",
+      "name:vi": "Mã Long",
+      "name:zh": "马龙区",
+      "alt_name": "马龙;Malong District",
+      "old_name": "马龙县;Malong County",
+      "name:zh-Hant": "馬龍區",
+      "name:zh_pinyin": "Mǎlóng Qu"
+    }
+  },
+  {
+    "name": "Mamou",
+    "country": "Guinea",
+    "latitude": 10.374073999457998,
+    "longitude": -12.083559999999999,
+    "other_names": {
+      "name": "Mamou",
+      "name:ko": "마무",
+      "name:ru": "Маму"
+    }
+  },
+  {
+    "name": "Mamuju",
+    "country": "Indonesia",
+    "latitude": -2.6756301997702523,
+    "longitude": 118.8847947,
+    "other_names": {
+      "name": "Mamuju"
+    }
+  },
+  {
+    "name": "Mamuju",
+    "country": "Indonesia",
+    "latitude": -2.6757442997702445,
+    "longitude": 118.88858390000001,
+    "other_names": {
+      "name": "Mamuju",
+      "name:en": "Mamuju",
+      "name:ja": "マムジュ",
+      "name:ru": "Мамуджу",
+      "name:uk": "Мамуджу",
+      "name:zh": "马穆朱"
+    }
+  },
+  {
+    "name": "Man",
+    "country": "Ivory Coast",
+    "latitude": 7.409081299396121,
+    "longitude": -7.550170199999999,
+    "other_names": {
+      "name": "Man",
+      "name:ar": "مان",
+      "name:ru": "Ман"
+    }
+  },
+  {
+    "name": "Manado",
+    "country": "Indonesia",
+    "latitude": 1.4900577998415878,
+    "longitude": 124.8408708,
+    "other_names": {
+      "name": "Manado",
+      "name:en": "Manado",
+      "name:ja": "マナド",
+      "name:ru": "Манадо",
+      "name:uk": "Манадо",
+      "name:zh": "万鸦老"
+    }
+  },
+  {
+    "name": "Managua",
+    "country": "Nicaragua",
+    "latitude": 12.145990699593861,
+    "longitude": -86.2746665,
+    "other_names": {
+      "name": "Managua",
+      "name:am": "ማናጓ",
+      "name:ar": "ماناغوا",
+      "name:az": "Manaqua",
+      "name:be": "Манагуа",
+      "name:bg": "Манагуа",
+      "name:bo": "མ་ན་གུ་འ།",
+      "name:de": "Managua",
+      "name:el": "Μανάγκουα",
+      "name:en": "Managua",
+      "name:eo": "Managvo",
+      "name:fa": "ماناگوآ",
+      "name:fr": "Managua",
+      "name:fy": "Managûa",
+      "name:he": "מנגואה",
+      "name:ht": "Managoua",
+      "name:hu": "Managua",
+      "name:hy": "Մանագուա",
+      "name:is": "Managva",
+      "name:ja": "マナグア",
+      "name:ka": "მანაგუა",
+      "name:ko": "마나과",
+      "name:lt": "Managva",
+      "name:lv": "Managva",
+      "name:mk": "Манагва",
+      "name:mn": "Манагуа",
+      "name:mr": "मानाग्वा",
+      "name:oc": "Managua",
+      "name:os": "Манагуæ",
+      "name:pl": "Managua",
+      "name:pt": "Manágua",
+      "name:ru": "Манагуа",
+      "name:sr": "Манагва",
+      "name:sv": "Managua",
+      "name:ta": "மனாகுவா",
+      "name:th": "มานากัว",
+      "name:ug": "ماناگۇئا",
+      "name:uk": "Манагуа",
+      "name:ur": "ماناگوا",
+      "name:zh": "馬那瓜",
+      "name:nah": "Mānāhuac",
+      "name:sah": "Манагуа",
+      "name:be-tarask": "Манагуа"
+    }
+  },
+  {
+    "name": "Manas",
+    "country": "China",
+    "latitude": 44.28983260052037,
+    "longitude": 86.2101239,
+    "other_names": {
+      "name": "玛纳斯县",
+      "name:de": "Manas",
+      "name:en": "Manas",
+      "name:es": "Manas",
+      "name:fr": "Manas",
+      "name:sd": "مَانَاسِ ﺷِﯿًﺎ",
+      "name:ug": "ماناس ناھىيىسى",
+      "name:zh": "玛纳斯县",
+      "alt_name": "玛纳斯县;Manasi",
+      "name:zh-Hant": "瑪納斯縣"
+    }
+  },
+  {
+    "name": "Manaus",
+    "country": "Brazil",
+    "latitude": -3.1316332997433416,
+    "longitude": -59.9825041,
+    "other_names": {
+      "name": "Manaus",
+      "name:ar": "ماناوس",
+      "name:be": "Манаус",
+      "name:bg": "Манаус",
+      "name:bn": "মানাউশ",
+      "name:ce": "Манаус",
+      "name:de": "Manaus",
+      "name:el": "Μανάους",
+      "name:en": "Manaus",
+      "name:eo": "Manaŭo",
+      "name:es": "Manaos",
+      "name:fa": "مانائوس",
+      "name:gn": "Manaos",
+      "name:he": "מנאוס",
+      "name:hy": "Մանաուս",
+      "name:ja": "マナウス",
+      "name:ka": "მანაუსი",
+      "name:kk": "Манаус",
+      "name:kn": "ಮಾನೌಸ್",
+      "name:ko": "마나우스",
+      "name:lt": "Manausas",
+      "name:lv": "Manausa",
+      "name:mk": "Манауш",
+      "name:mn": "Манаус",
+      "name:mr": "मानौस",
+      "name:oc": "Manaus",
+      "name:os": "Манаус",
+      "name:pl": "Manaus",
+      "name:pt": "Manaus",
+      "name:ru": "Манаус",
+      "name:sr": "Манаус",
+      "name:tg": "Манаус",
+      "name:th": "มาเนาส์",
+      "name:uk": "Манаус",
+      "name:yi": "מאנאוס",
+      "name:zh": "马瑙斯"
+    }
+  },
+  {
+    "name": "Manbij",
+    "country": "Syria",
+    "latitude": 36.5269241997918,
+    "longitude": 37.9559288,
+    "other_names": {
+      "name": "منبج",
+      "name:cs": "Manbidž",
+      "name:de": "Manbidsch",
+      "name:el": "Μεμβίτζ",
+      "name:en": "Manbij",
+      "name:fr": "Manbij",
+      "name:hi": "मनबिज",
+      "name:hy": "Մանբիջ",
+      "name:ku": "Minbic",
+      "name:ml": "മൻബിജ്",
+      "name:ru": "Манбидж",
+      "name:tr": "Menbiç",
+      "name:zh": "曼比季",
+      "alt_name": "Münbiç",
+      "int_name": "Manbij",
+      "old_name": "Mabbog;Hiérapolis Bambyce"
+    }
+  },
+  {
+    "name": "Mancheng",
+    "country": "China",
+    "latitude": 38.95235910011902,
+    "longitude": 115.3175649,
+    "other_names": {
+      "name": "满城区",
+      "name:en": "Mancheng",
+      "name:vi": "Mãn Thành",
+      "name:zh": "满城区",
+      "alt_name": "满城;Mancheng District",
+      "name:zh-Hant": "滿城區",
+      "official_name": "满城镇",
+      "name:zh_pinyin": "Mǎnchéng Qū"
+    }
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "name": "Xunhua",
+    "country": "China",
+    "latitude": 35.846930099720666,
+    "longitude": 102.47911359999999,
+    "other_names": {
+      "name": "循化县",
+      "name:bo": "ཡ་རྫི་",
+      "name:en": "Xunhua",
+      "name:zh": "循化",
+      "alt_name": "撒拉族自治县;积石镇;循化撒拉族自治县;积石峡坝;积石;Jishi;Xushan;Yazi gun",
+      "alt_name:en": "Jishi Zhen;Xunhua Salazu Zizhixian",
+      "name:zh-Hant": "循化縣",
+      "official_name": "积石镇"
+    }
+  },
+  {
+    "name": "Xunke",
+    "country": "China",
+    "latitude": 49.562242099554766,
+    "longitude": 128.4712654,
+    "other_names": {
+      "name": "逊克县",
+      "name:en": "Xunke",
+      "name:ru": "Цикэ",
+      "name:zh": "逊克县",
+      "name:zh-Hant": "遜克縣"
+    }
+  },
+  {
+    "name": "Xunke",
+    "country": "Russia",
+    "latitude": 49.562242099554766,
+    "longitude": 128.4712654,
+    "other_names": {
+      "name": "逊克县",
+      "name:en": "Xunke",
+      "name:ru": "Цикэ",
+      "name:zh": "逊克县",
+      "name:zh-Hant": "遜克縣"
+    }
+  },
+  {
+    "name": "Xunwu",
+    "country": "China",
+    "latitude": 24.971643500260395,
+    "longitude": 115.634799,
+    "other_names": {
+      "name": "寻乌县",
+      "name:de": "Xunwu",
+      "name:en": "Xunwu",
+      "name:fa": "شهرستان شونوو",
+      "name:fr": "Xian de Xunwu",
+      "name:it": "Contea di Xunwu",
+      "name:ja": "尋烏県",
+      "name:ko": "쉰우현",
+      "name:no": "Xunwu",
+      "name:ru": "Сюньу",
+      "name:sv": "Xunwu",
+      "name:vi": "Tầm Ô",
+      "name:zh": "寻乌县",
+      "alt_name": "寻乌;Xunwu County",
+      "name:ceb": "Xunwu Xian",
+      "name:gan": "尋鄔",
+      "name:nan": "Sîm-o͘-koān",
+      "name:yue": "尋鄔",
+      "old_name": "尋鄔縣;寻邬县",
+      "name:zh-Hant": "尋鄔縣",
+      "name:zh_pinyin": "xúnwū xiàn"
+    }
+  },
+  {
+    "name": "Xunxian",
+    "country": "China",
+    "latitude": 35.67305159970462,
+    "longitude": 114.5479074,
+    "other_names": {
+      "name": "浚县",
+      "name:en": "Xunxian",
+      "name:vi": "Tuấn",
+      "name:zh": "浚县",
+      "alt_name": "浚;Xun County;Hsun Hsien;Chun Hsien;Xunxian",
+      "name:zh-Hant": "浚縣",
+      "name:zh_pinyin": "xùn xiàn"
+    }
+  },
+  {
+    "name": "Xunyang",
+    "country": "China",
+    "latitude": 32.83288179958878,
+    "longitude": 109.37611579999998,
+    "other_names": {
+      "name": "旬阳市",
+      "name:en": "Xunyang",
+      "name:ja": "旬陽市",
+      "name:zh": "旬阳市",
+      "alt_name": "洵陽;洵阳;旬阳;城关镇;城关;旬阳城关镇;Chengguan",
+      "old_name": "洵陽縣;洵阳县",
+      "name:zh-Hant": "洵陽市"
+    }
+  },
+  {
+    "name": "Xunyang",
+    "country": "China",
+    "latitude": 29.707736699766667,
+    "longitude": 115.9967539,
+    "other_names": {
+      "name": "浔阳区",
+      "name:en": "Xunyang",
+      "name:ja": "潯陽区",
+      "name:vi": "Tầm Dương",
+      "name:zh": "浔阳区",
+      "alt_name": "浔阳;Xunyang District",
+      "name:zh-Hant": "潯陽區",
+      "name:zh_pinyin": "xúnyáng qū"
+    }
+  },
+  {
+    "name": "Xunyi",
+    "country": "China",
+    "latitude": 35.11121619965938,
+    "longitude": 108.33172569999999,
+    "other_names": {
+      "name": "旬邑县",
+      "name:en": "Xunyi",
+      "name:ja": "旬邑県",
+      "name:ru": "Сюньи",
+      "name:zh": "旬邑县",
+      "alt_name": "栒邑;旬邑;城关街道;城关;Xunyi Xian;Hsun-i;Xunyi;Xunyi Chengguanzhen;Chengguan;Hsun-i-hsien;San'shuy;San-shui;Kou-i;Hsun-i-hsien-ch'eng;Singyi;Sanshuihsien;Syun'i",
+      "old_name": "栒邑縣;栒邑县",
+      "name:zh-Hant": "栒邑縣"
+    }
+  },
+  {
+    "name": "Xupu",
+    "country": "China",
+    "latitude": 27.91200659995607,
+    "longitude": 110.59020579999999,
+    "other_names": {
+      "name": "溆浦县",
+      "name:de": "Xupu",
+      "name:en": "Xupu",
+      "name:es": "Xupu",
+      "name:fa": "شهرستان شوپو",
+      "name:fr": "Xian de Xupu",
+      "name:it": "Contea di Xupu",
+      "name:ja": "ジョ浦県",
+      "name:ko": "쉬푸현",
+      "name:no": "Xupu",
+      "name:pl": "Xupu",
+      "name:ru": "Сюйпу",
+      "name:sv": "Xupu",
+      "name:ur": "شوپو کاؤنٹی",
+      "name:vi": "Tự Phổ",
+      "name:zh": "溆浦县",
+      "alt_name": "卢峰;卢峰镇;Lufeng;溆浦;Xupu County;Supu-hsien;Supu;Hsu-p'u-hsien;Hsu-p'u",
+      "int_name": "xupu",
+      "name:ceb": "Xupu Xian",
+      "name:nan": "Sū-phó͘-koān",
+      "name:yue": "漵浦",
+      "name:zh-Hant": "漵浦縣",
+      "official_name": "溆浦县",
+      "name:zh_pinyin": "xùpǔ xiàn"
+    }
+  },
+  {
+    "name": "Xushuangbanna",
+    "country": "China",
+    "latitude": 22.010754900408216,
+    "longitude": 100.7960029,
+    "other_names": {
+      "name": "西双版纳州",
+      "name:en": "Xushuangbanna",
+      "name:vi": "Tây Song Bản Nạp",
+      "name:zh": "西双版纳州",
+      "alt_name": "西双版纳",
+      "short_name": "西双版纳州",
+      "name:zh-Hant": "西雙版納州",
+      "official_name": "西双版纳傣族自治州",
+      "official_name:en": "Xishuangbanna Dai Autonomous Prefecture",
+      "official_name:zh": "西双版纳傣族自治州",
+      "official_name:tai_tailu": "ᦈᦹᧈ ᦈᦹᧈ ᦵᦋᦲᧁᧈ ᦘᦱ ᦉᦱ ᦺᦑ ᧑᧒ ᦗᧃ ᦓᦱ",
+      "official_name:zh_pinyin": "Xishuangbanna Daizu Zizhizhou"
+    }
+  },
+  {
+    "name": "Xushui",
+    "country": "China",
+    "latitude": 39.016667000128315,
+    "longitude": 115.65,
+    "other_names": {
+      "name": "徐水区",
+      "name:en": "Xushui",
+      "name:vi": "Từ Thủy",
+      "name:zh": "徐水区",
+      "alt_name:vi": "Từ Thuỷ",
+      "name:zh-Hant": "徐水區",
+      "name:zh_pinyin": "Xúshuǐ Qū"
+    }
+  },
+  {
+    "name": "Xuwen",
+    "country": "China",
+    "latitude": 20.3286660003859,
+    "longitude": 110.1716047,
+    "other_names": {
+      "name": "徐闻县",
+      "name:de": "Xuwen",
+      "name:en": "Xuwen",
+      "name:fa": "شاون",
+      "name:fr": "Xian de Xuwen",
+      "name:it": "Contea di Xuwen",
+      "name:ja": "徐聞県",
+      "name:ko": "쉬원현",
+      "name:no": "Xuwen",
+      "name:sv": "Xuwen",
+      "name:vi": "Từ Văn",
+      "name:zh": "徐闻县",
+      "alt_name": "徐闻;Xuwen County",
+      "name:ceb": "Xuwen Xian",
+      "name:hak": "Chhì-vùn-yen",
+      "name:mwl": "Xuwen",
+      "name:nan": "Chhî-bûn-koān",
+      "name:yue": "徐聞",
+      "name:zh-Hant": "徐聞縣",
+      "name:zh_pinyin": "Xúwén Xiàn"
+    }
+  },
+  {
+    "name": "Xuyi County",
+    "country": "China",
+    "latitude": 33.00184529958764,
+    "longitude": 118.50339639999997,
+    "other_names": {
+      "name": "盱眙县",
+      "name:de": "Xuyi",
+      "name:en": "Xuyi County",
+      "name:fa": "شهرستان شویی",
+      "name:fr": "Xian de Xuyi",
+      "name:it": "Contea di Xuyi",
+      "name:ja": "盱眙県",
+      "name:ko": "쉬이현",
+      "name:no": "Xuyi",
+      "name:ru": "Сюйи",
+      "name:sv": "Xuyi",
+      "name:ur": "شوئی کاؤنٹی",
+      "name:vi": "Hu Dị",
+      "name:zh": "盱眙县",
+      "name:nan": "U-í-koān",
+      "name:wuu": "盱眙县",
+      "name:yue": "盱眙",
+      "name:zh-Hant": "盱眙縣",
+      "name:zh_pinyin": "Xūyí Xiàn"
+    }
+  },
+  {
+    "name": "Xuyong",
+    "country": "China",
+    "latitude": 28.15887739992855,
+    "longitude": 105.44125860000001,
+    "other_names": {
+      "name": "叙永县",
+      "name:en": "Xuyong",
+      "name:ja": "叙永県",
+      "name:ru": "Сюйюн",
+      "name:uk": "Сюйюн",
+      "name:vi": "Tự Vĩnh",
+      "name:zh": "叙永县",
+      "alt_name": "叙永;Yongning;Suyung;Hsu-yung;Yung-ning;Hsu-yung-hsien;Suyung-hsien;Yungninghsien",
+      "int_name": "Xuyong",
+      "name:zh-Hant": "敘永縣",
+      "name:zh_pinyin": "Xùyǒng Xiàn"
+    }
+  },
+  {
+    "name": "Xuzhou",
+    "country": "China",
+    "latitude": 34.20665909960912,
+    "longitude": 117.278286,
+    "other_names": {
+      "name": "徐州市",
+      "name:bg": "Сюджоу",
+      "name:cs": "Sü-čou",
+      "name:de": "Xuzhou",
+      "name:en": "Xuzhou",
+      "name:eo": "Ŝuĝoŭo",
+      "name:et": "Xuzhou",
+      "name:fr": "Xuzhou",
+      "name:hi": "ज़ुझाउ",
+      "name:hu": "Hszücsou",
+      "name:ja": "徐州市",
+      "name:ko": "쉬저우 시",
+      "name:nl": "Xuzhou",
+      "name:ru": "Сюйчжоу",
+      "name:vi": "Từ Châu",
+      "name:zh": "徐州市",
+      "old_name": "彭城",
+      "alt_name:en": "Suchow",
+      "old_name:cs": "Pcheng-čcheng",
+      "old_name:en": "Pengcheng",
+      "name:zh-Hant": "徐州市"
+    }
+  },
+  {
+    "name": "Xuzhou",
+    "country": "China",
+    "latitude": 28.693433599869994,
+    "longitude": 104.53062259999999,
+    "other_names": {
+      "name": "叙州区",
+      "name:en": "Xuzhou",
+      "name:zh": "叙州",
+      "name:zh-Hant": "敘州區"
+    }
+  },
+  {
+    "name": "Ya'an",
+    "country": "China",
+    "latitude": 29.985930999741004,
+    "longitude": 103.0087944,
+    "other_names": {
+      "name": "雅安市",
+      "name:de": "Ya'an",
+      "name:en": "Ya'an",
+      "name:et": "Ya'an",
+      "name:fr": "Yǎ'ān",
+      "name:ja": "雅安市",
+      "name:pt": "Yan",
+      "name:ru": "Яань",
+      "name:uk": "Яань",
+      "name:vi": "Nhã An",
+      "name:zh": "雅安市",
+      "old_name:en": "Yazhou-fu",
+      "old_name:fr": "Yazhou",
+      "name:zh-Hant": "雅安市",
+      "name:zh_pinyin": "Yǎ'ān"
+    }
+  },
+  {
+    "name": "Yabassi",
+    "country": "Cameroon",
+    "latitude": 4.460431999548226,
+    "longitude": 9.970905799999999,
+    "other_names": {
+      "name": "Yabassi"
+    }
+  },
+  {
+    "name": "Yabu",
+    "country": "Japan",
+    "latitude": 35.40446469968171,
+    "longitude": 134.7674637,
+    "other_names": {
+      "name": "養父市",
+      "name:ar": "يابو، هيوغو",
+      "name:de": "Yabu",
+      "name:en": "Yabu",
+      "name:es": "Yabu",
+      "name:fr": "Yabu",
+      "name:ja": "養父市",
+      "name:ko": "야부시",
+      "name:pl": "Yabu",
+      "name:ru": "Ябу",
+      "name:uk": "Ябу",
+      "name:ja_rm": "Yabu-shi"
+    }
+  },
+  {
+    "name": "Yachimata",
+    "country": "Japan",
+    "latitude": 35.66586069970399,
+    "longitude": 140.3178646,
+    "other_names": {
+      "name": "八街市",
+      "name:ar": "ياتشيماتا، تشيبا",
+      "name:de": "Yachimata",
+      "name:en": "Yachimata",
+      "name:es": "Yachimata",
+      "name:fr": "Yachimata",
+      "name:ja": "八街市",
+      "name:ko": "야치마타시",
+      "name:pl": "Yachimata",
+      "name:ru": "Ятимата",
+      "name:uk": "Ятімата",
+      "int_name": "Yachimata",
+      "name:ja_rm": "Yachimata-shi",
+      "name:ja_kana": "やちまたし"
+    }
+  }
+]

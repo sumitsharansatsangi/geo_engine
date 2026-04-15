@@ -1,0 +1,337 @@
+[
+  {
+    "name": "Sakib",
+    "country": "Jordan",
+    "latitude": 32.284402199599235,
+    "longitude": 35.8087299,
+    "other_names": {
+      "name": "ساكب",
+      "name:ar": "ساكب",
+      "name:de": "Sakib",
+      "name:en": "Sakib",
+      "name:es": "Sakib",
+      "name:fr": "Sakib",
+      "name:he": "סאקיב",
+      "name:ru": "Сакиб"
+    }
+  },
+  {
+    "name": "Sakon Nakhon",
+    "country": "Thailand",
+    "latitude": 17.16600160015278,
+    "longitude": 104.15193829999998,
+    "other_names": {
+      "name": "สกลนคร",
+      "name:en": "Sakon Nakhon",
+      "name:ja": "サコンナコーン",
+      "name:ru": "Сакон Накхон",
+      "name:th": "สกลนคร",
+      "name:uk": "Сакон Накхон",
+      "official_name": "เทศบาลนครสกลนคร"
+    }
+  },
+  {
+    "name": "Sakrand",
+    "country": "Pakistan",
+    "latitude": 26.13597150015036,
+    "longitude": 68.2734653,
+    "other_names": {
+      "name": "سکرنڈ",
+      "name:en": "Sakrand",
+      "name:ru": "Сакранд"
+    }
+  },
+  {
+    "name": "Saku",
+    "country": "Japan",
+    "latitude": 36.24880139976115,
+    "longitude": 138.4767695,
+    "other_names": {
+      "name": "佐久市",
+      "name:ar": "سوكو، ناغانو",
+      "name:de": "Saku",
+      "name:en": "Saku",
+      "name:es": "Saku",
+      "name:fr": "Saku",
+      "name:ja": "佐久市",
+      "name:ko": "사쿠시",
+      "name:pl": "Saku",
+      "name:ru": "Саку",
+      "name:uk": "Саку",
+      "name:ja_rm": "Saku-shi"
+    }
+  },
+  {
+    "name": "Sakura",
+    "country": "Japan",
+    "latitude": 35.723461899709186,
+    "longitude": 140.2240158,
+    "other_names": {
+      "name": "佐倉市",
+      "name:ar": "ساكورا، تشيبا",
+      "name:de": "Sakura",
+      "name:en": "Sakura",
+      "name:es": "Sakura",
+      "name:fr": "Sakura",
+      "name:ja": "佐倉市",
+      "name:ko": "사쿠라시",
+      "name:pl": "Sakura",
+      "name:ru": "Сакура",
+      "name:uk": "Сакура",
+      "name:ja_rm": "Sakura-shi",
+      "name:ja_kana": "さくらし"
+    }
+  },
+  {
+    "name": "Sakura",
+    "country": "Japan",
+    "latitude": 36.685292499810124,
+    "longitude": 139.9668761,
+    "other_names": {
+      "name": "さくら市",
+      "name:en": "Sakura",
+      "name:fr": "Sakura",
+      "name:ja": "さくら市",
+      "name:ko": "사쿠라시",
+      "name:pl": "Sakura",
+      "name:ru": "Сакура",
+      "name:uk": "Сакура",
+      "name:ja_rm": "Sakura-shi",
+      "name:ja_kana": "さくらし"
+    }
+  },
+  {
+    "name": "Sakuragawa",
+    "country": "Japan",
+    "latitude": 36.32724099976959,
+    "longitude": 140.09035869999997,
+    "other_names": {
+      "name": "桜川市",
+      "name:ar": "ساكوراغاوا، إيباراكي مدينة في محافظة إيباراكي اليابانية",
+      "name:de": "Sakuragawa",
+      "name:en": "Sakuragawa",
+      "name:es": "Sakuragawa",
+      "name:fr": "Sakuragawa",
+      "name:ja": "桜川市",
+      "name:ko": "사쿠라가와시",
+      "name:ja_kana": "さくらがわし"
+    }
+  },
+  {
+    "name": "Sakurai",
+    "country": "Japan",
+    "latitude": 34.5186315996232,
+    "longitude": 135.8434724,
+    "other_names": {
+      "name": "桜井市",
+      "name:en": "Sakurai",
+      "name:fr": "Sakurai",
+      "name:ja": "桜井市",
+      "name:ko": "사쿠라이시",
+      "name:pl": "Sakurai",
+      "name:ru": "Сакураи",
+      "name:uk": "Сакурай",
+      "name:ja_rm": "Sakurai-shi",
+      "name:ja_kana": "さくらいし"
+    }
+  },
+  {
+    "name": "Salamanca",
+    "country": "Mexico",
+    "latitude": 20.571358000394,
+    "longitude": -101.192444,
+    "other_names": {
+      "name": "Salamanca"
+    }
+  },
+  {
+    "name": "Salamanca",
+    "country": "Spain",
+    "latitude": 40.96515720038824,
+    "longitude": -5.6640182,
+    "other_names": {
+      "name": "Salamanca",
+      "name:ar": "شلمنقة",
+      "name:be": "Саламанка",
+      "name:el": "Σαλαμάνκα",
+      "name:es": "Salamanca",
+      "name:fa": "سالامانکا",
+      "name:fr": "Salamanque",
+      "name:ja": "サラマンカ",
+      "name:lt": "Salamanka",
+      "name:ru": "Саламанка",
+      "name:sr": "Саламанка",
+      "name:uk": "Саламанка",
+      "name:ur": "سالامانکا",
+      "alt_name:ar": "سلمانكا"
+    }
+  },
+  {
+    "name": "Salamiyah",
+    "country": "Syria",
+    "latitude": 35.01174599965247,
+    "longitude": 37.05463490000001,
+    "other_names": {
+      "name": "سلمية",
+      "name:ar": "سلمية",
+      "name:cs": "Salmíja",
+      "name:de": "Salamiyya",
+      "name:en": "Salamiyah",
+      "name:et": "Salamīyah",
+      "name:fr": "Salamiyah",
+      "name:hu": "Szalamijja",
+      "name:lt": "Salamija",
+      "name:ru": "Саламия",
+      "int_name": "Salamiyah"
+    }
+  },
+  {
+    "name": "Salatiga",
+    "country": "Indonesia",
+    "latitude": -7.330264199725105,
+    "longitude": 110.49953529999999,
+    "other_names": {
+      "name": "Salatiga",
+      "name:ja": "サラティガ",
+      "name:ko": "살라티가",
+      "name:ms": "Kota Salatiga",
+      "name:ru": "Салатига",
+      "name:ta": "சலாத்திகா",
+      "name:zh": "沙拉迪加"
+    }
+  },
+  {
+    "name": "Salavat",
+    "country": "Russia",
+    "latitude": 53.3784546847033,
+    "longitude": 55.90601576669815,
+    "other_names": {
+      "name": "Салават",
+      "name:ba": "Салауат",
+      "name:cv": "Салават",
+      "name:de": "Salawat",
+      "name:en": "Salavat",
+      "name:es": "Salavat",
+      "name:et": "Salavat",
+      "name:fr": "Salavat",
+      "name:ja": "サラヴァート",
+      "name:lt": "Salavatas",
+      "name:pl": "Saławat",
+      "name:ru": "Салават",
+      "name:uk": "Салават"
+    }
+  },
+  {
+    "name": "Salavat",
+    "country": "Russia",
+    "latitude": 53.361686999107434,
+    "longitude": 55.924640999999994,
+    "other_names": {
+      "name": "Салават",
+      "name:ba": "Салауат",
+      "name:cv": "Салават",
+      "name:de": "Salawat",
+      "name:en": "Salavat",
+      "name:es": "Salavat",
+      "name:et": "Salavat",
+      "name:fr": "Salavat",
+      "name:ja": "サラヴァート",
+      "name:lt": "Salavatas",
+      "name:pl": "Saławat",
+      "name:ru": "Салават",
+      "name:uk": "Салават"
+    }
+  },
+  {
+    "name": "Salcedo",
+    "country": "Haiti And Domrep",
+    "latitude": 19.378585000339267,
+    "longitude": -70.41826279999998,
+    "other_names": {
+      "name": "Salcedo",
+      "name:ru": "Сальседо"
+    }
+  },
+  {
+    "name": "Salé",
+    "country": "Morocco",
+    "latitude": 34.04488899960319,
+    "longitude": -6.814017,
+    "other_names": {
+      "name": "Salé ⵙⵍⴰ سلا",
+      "name:ar": "سلا",
+      "name:cs": "Salé",
+      "name:de": "Salé",
+      "name:en": "Salé",
+      "name:et": "Salé",
+      "name:fr": "Salé",
+      "name:hr": "Salé",
+      "name:ber": "ⵙⵍⴰ",
+      "name:zgh": "ⵙⵍⴰ"
+    }
+  },
+  {
+    "name": "Salem",
+    "country": "United States Of America",
+    "latitude": 42.51952920051858,
+    "longitude": -70.8967226,
+    "other_names": {
+      "name": "Salem"
+    }
+  },
+  {
+    "name": "Salem",
+    "country": "United States Of America",
+    "latitude": 44.939156500473935,
+    "longitude": -123.03312100000001,
+    "other_names": {
+      "name": "Salem",
+      "name:en": "Salem",
+      "name:ja": "セイラム",
+      "name:pl": "Salem",
+      "name:ru": "Сейлем",
+      "name:ta": "சேலம்",
+      "name:uk": "Сейлем"
+    }
+  },
+  {
+    "name": "Salem",
+    "country": "India",
+    "latitude": 11.661201199550543,
+    "longitude": 78.1602498,
+    "other_names": {
+      "name": "Salem",
+      "name:en": "Salem",
+      "name:gu": "સેલમ",
+      "name:he": "סילאם",
+      "name:hi": "सेलम",
+      "name:ja": "セーラム",
+      "name:kn": "ಸೇಲಂ‌",
+      "name:ml": "സേലം",
+      "name:pa": "ਸੇਲਮ",
+      "name:sr": "Салем",
+      "name:ta": "சேலம்"
+    }
+  },
+  {
+    "name": "Salerno",
+    "country": "Italy",
+    "latitude": 40.680360100354925,
+    "longitude": 14.7594542,
+    "other_names": {
+      "name": "Salerno",
+      "name:ca": "Salern",
+      "name:el": "Σαλέρνο",
+      "name:fr": "Salerne",
+      "name:it": "Salerno",
+      "name:ja": "サレルノ",
+      "name:la": "Salernum",
+      "name:lt": "Salernas",
+      "name:ru": "Салерно",
+      "name:uk": "Салерно",
+      "name:zh": "薩萊諾",
+      "name:zh-Hans": "萨莱诺",
+      "name:zh-Hant": "薩萊諾"
+    }
+  }
+]

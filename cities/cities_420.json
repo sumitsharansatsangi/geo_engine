@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Santiago",
+    "country": "Philippines",
+    "latitude": 16.69159630010225,
+    "longitude": 121.54786370000001,
+    "other_names": {
+      "ref": "023135000",
+      "name": "Santiago",
+      "name:ja": "サンティアゴ"
+    }
+  },
+  {
+    "name": "Santiago de Compostela",
+    "country": "Spain",
+    "latitude": 42.8804219005332,
+    "longitude": -8.5458608,
+    "other_names": {
+      "name": "Santiago de Compostela",
+      "name:ar": "شنت ياقب",
+      "name:be": "Сант'яга-дэ-Кампастэла",
+      "name:bg": "Сантяго де Компостела",
+      "name:br": "Sant-Jakez a Gompostela",
+      "name:ca": "Santiago de Compostel·la",
+      "name:el": "Σαντιάγο ντε Κομποστέλα",
+      "name:es": "Santiago de Compostela",
+      "name:eu": "Compostelako Donejakue",
+      "name:fa": "سانتیاگو د کامپوستلا",
+      "name:fr": "Saint-Jacques-de-Compostelle",
+      "name:gl": "Santiago de Compostela",
+      "name:he": "סנטיאגו דה קומפוסטלה",
+      "name:hr": "Santiago de Compostela",
+      "name:it": "Santiago di Compostela",
+      "name:ja": "サンティアゴ・デ・コンポステーラ",
+      "name:la": "Compostella",
+      "name:lt": "Santjago de Kompostela",
+      "name:nl": "Santiago de Compostella",
+      "name:oc": "Compostèla",
+      "name:ru": "Сантьяго-де-Компостела",
+      "name:sr": "Сантијаго де Компостела",
+      "name:th": "ซานเตียโกเดกอมโปสเตลา",
+      "name:uk": "Сантьяґо-де-Компостела",
+      "name:zh": "圣地亚哥－德孔波斯特拉",
+      "int_name": "Santiago de Compostela",
+      "alt_name:ar": "شنت ياقوه;شنت ياقوب;شنت ياق;سنتياغو دي كومبوستيلا;سانتياغو دي كومبوستيلا",
+      "alt_name:hr": "Sveti Jakov na Svjetlosnom Polju",
+      "old_name:ca": "Sant Jaume de Galícia",
+      "name:zh-Hans": "圣地亚哥－德孔波斯特拉",
+      "name:zh-Hant": "聖地亞哥德孔波斯特拉"
+    }
+  },
+  {
+    "name": "Santiago de Cuba",
+    "country": "Cuba",
+    "latitude": 20.021463700373378,
+    "longitude": -75.8294928,
+    "other_names": {
+      "name": "Santiago de Cuba",
+      "name:en": "Santiago de Cuba",
+      "name:hu": "Santiago de Cuba",
+      "name:ru": "Сантьяго-де-Куба",
+      "name:uk": "Сантьяго-де-Куба"
+    }
+  },
+  {
+    "name": "Santiago del Estero",
+    "country": "Argentina",
+    "latitude": -27.787714799431274,
+    "longitude": -64.2595062,
+    "other_names": {
+      "name": "Santiago del Estero",
+      "name:el": "Σαντιάγκο ντελ Εστέρο",
+      "name:en": "Santiago del Estero",
+      "name:he": "סנטיאגו דל אסטרו",
+      "name:pt": "Santiago do Estero",
+      "name:ru": "Сантьяго-дель-Эстеро",
+      "name:uk": "Сантьяго-дель-Естеро"
+    }
+  },
+  {
+    "name": "Santiago de los Caballeros",
+    "country": "Haiti And Domrep",
+    "latitude": 19.450393200343584,
+    "longitude": -70.6909047,
+    "other_names": {
+      "name": "Santiago de los Caballeros",
+      "name:en": "Santiago de los Caballeros",
+      "name:hu": "Santiago de los Caballeros",
+      "name:ru": "Сантьяго-де-лос-Трейнта-Кабальерос",
+      "name:zh": "圣地牙哥",
+      "alt_name": "Santiago"
+    }
+  },
+  {
+    "name": "Santiago de María",
+    "country": "El Salvador",
+    "latitude": 13.482227799731543,
+    "longitude": -88.46526469999999,
+    "other_names": {
+      "name": "Santiago de María"
+    }
+  },
+  {
+    "name": "Santiago Nonualco",
+    "country": "El Salvador",
+    "latitude": 13.512315499734889,
+    "longitude": -88.9401752,
+    "other_names": {
+      "name": "Santiago Nonualco"
+    }
+  },
+  {
+    "name": "Santiago Texacuangos",
+    "country": "El Salvador",
+    "latitude": 13.643054599749506,
+    "longitude": -89.1171188,
+    "other_names": {
+      "name": "Santiago Texacuangos"
+    }
+  },
+  {
+    "name": "Santo André",
+    "country": "Brazil",
+    "latitude": -23.6573394999747,
+    "longitude": -46.5322504,
+    "other_names": {
+      "name": "Santo André",
+      "int_name": "Santo Andre"
+    }
+  },
+  {
+    "name": "Santo Antônio de Jesus",
+    "country": "Brazil",
+    "latitude": -12.968936100208515,
+    "longitude": -39.260914,
+    "other_names": {
+      "name": "Santo Antônio de Jesus"
+    }
+  },
+  {
+    "name": "Santo Domingo",
+    "country": "Haiti And Domrep",
+    "latitude": 18.480197200275136,
+    "longitude": -69.942111,
+    "other_names": {
+      "name": "Santo Domingo",
+      "name:am": "ሳንቶ ዶሚንጎ",
+      "name:ar": "سانتو دومينجو",
+      "name:be": "Санта-Дамінга",
+      "name:bg": "Санто Доминго",
+      "name:bo": "སཱན་ཏོ་ཌོ་མིང་གོ",
+      "name:el": "Σάντο Ντομίγκο",
+      "name:en": "Santo Domingo",
+      "name:eo": "Sankta Domingo",
+      "name:fa": "سانتو دومینگو",
+      "name:fr": "Saint-Domingue",
+      "name:he": "סנטו דומינגו",
+      "name:hi": "सेंटो डोमिंगो",
+      "name:ht": "Sen Domeng",
+      "name:hu": "Santo Domingo",
+      "name:hy": "Սանտո Դոմինգո",
+      "name:is": "Santó Dómingó",
+      "name:ja": "サントドミンゴ",
+      "name:ka": "სანტო-დომინგო",
+      "name:ko": "산토도밍고",
+      "name:la": "Dominicopolis",
+      "name:lt": "Santo Domingas",
+      "name:mk": "Санто Доминго",
+      "name:mr": "सांतो दॉमिंगो",
+      "name:oc": "Sant Domingo",
+      "name:os": "Санто-Доминго",
+      "name:pl": "Santo Domingo",
+      "name:qu": "Santo Domingo llaqta",
+      "name:ru": "Санто-Доминго",
+      "name:sr": "Санто Доминго",
+      "name:sv": "Santo Domingo",
+      "name:tg": "Вилояти Санто Доминго",
+      "name:th": "ซันโตโดมิงโก",
+      "name:uk": "Санто-Домінго",
+      "name:ur": "سانتو دومنگو",
+      "name:zh": "聖多明各",
+      "name:sah": "Санто Доминго",
+      "name:war": "Santo Domingo de Guzmán",
+      "official_name": "Santo Domingo de Guzmán",
+      "name:be-tarask": "Санта-Дамінга"
+    }
+  },
+  {
+    "name": "Santo Domingo de los Tsachilas",
+    "country": "Ecuador",
+    "latitude": -0.2546211999741702,
+    "longitude": -79.16867239999999,
+    "other_names": {
+      "name": "Santo Domingo de los Tsachilas",
+      "name:en": "Santo Domingo de los Tsachilas",
+      "alt_name": "Santo Domingo"
+    }
+  },
+  {
+    "name": "Santos",
+    "country": "Brazil",
+    "latitude": -23.960832999930858,
+    "longitude": -46.333889,
+    "other_names": {
+      "name": "Santos",
+      "name:ru": "Сантус"
+    }
+  },
+  {
+    "name": "Santo Tomas",
+    "country": "Philippines",
+    "latitude": 14.10784429980256,
+    "longitude": 121.14533040000002,
+    "other_names": {
+      "name": "Santo Tomas",
+      "name:abbr": "Sto. Tomas",
+      "short_name": "Sto. Tomas"
+    }
+  },
+  {
+    "name": "Santo Tomás",
+    "country": "El Salvador",
+    "latitude": 13.6429911997495,
+    "longitude": -89.133566,
+    "other_names": {
+      "name": "Santo Tomás"
+    }
+  },
+  {
+    "name": "Sanuki",
+    "country": "Japan",
+    "latitude": 34.29318919961267,
+    "longitude": 134.1890881,
+    "other_names": {
+      "name": "さぬき市",
+      "name:ar": "سانوكي، كاغاوا",
+      "name:de": "Sanuki",
+      "name:en": "Sanuki",
+      "name:es": "Sanuki",
+      "name:fr": "Sanuki",
+      "name:ja": "さぬき市",
+      "name:ko": "사누키시",
+      "name:pl": "Sanuki",
+      "name:ru": "Сануки",
+      "name:uk": "Санукі",
+      "name:zh": "赞岐市",
+      "name:zh-Hans": "赞岐市",
+      "name:zh-Hant": "讚岐市"
+    }
+  },
+  {
+    "name": "San Vicente",
+    "country": "El Salvador",
+    "latitude": 13.643316899749536,
+    "longitude": -88.78363919999998,
+    "other_names": {
+      "name": "San Vicente",
+      "name:hu": "San Vicente",
+      "name:ru": "Сан-Висенте-де-Тагуа-Тагуа"
+    }
+  },
+  {
+    "name": "Sanya",
+    "country": "China",
+    "latitude": 18.25346580025622,
+    "longitude": 109.5034392,
+    "other_names": {
+      "name": "三亚市",
+      "name:ar": "سانيا",
+      "name:be": "Санья",
+      "name:bo": "སན་ཡ་གྲོང་ཁྱེར།",
+      "name:cs": "San-ja",
+      "name:cy": "Sanya",
+      "name:da": "Sanya",
+      "name:de": "Sanya",
+      "name:en": "Sanya",
+      "name:es": "Sanya",
+      "name:et": "Sanya",
+      "name:eu": "Sanya",
+      "name:fa": "سانیا (شهر)",
+      "name:fi": "Sanya",
+      "name:fr": "Sanya",
+      "name:hi": "सान्या",
+      "name:id": "Sanya",
+      "name:is": "Sanya",
+      "name:it": "Sanya",
+      "name:ja": "三亜市",
+      "name:ki": "Sanya",
+      "name:ko": "싼야시",
+      "name:mg": "Sanya",
+      "name:ms": "Sanya",
+      "name:nl": "Sanya",
+      "name:no": "Sanya",
+      "name:pl": "Sanya",
+      "name:pt": "Sanya",
+      "name:ro": "Sanya",
+      "name:ru": "Санья",
+      "name:sv": "Sanya",
+      "name:th": "ซานย่า",
+      "name:tl": "Sanya",
+      "name:tr": "Sanya",
+      "name:ug": "Senya shehiri",
+      "name:uk": "Санья",
+      "name:ur": "سانیا",
+      "name:vi": "Tam Á",
+      "name:zh": "三亚市",
+      "int_name": "Sanya",
+      "name:cdo": "Săng-ā",
+      "name:ceb": "Sanya",
+      "name:nan": "Sam-a-chhī",
+      "name:pam": "Sanya",
+      "name:sah": "Санья",
+      "name:vep": "Sanj",
+      "name:war": "Sanya",
+      "name:wuu": "三亚市",
+      "name:yue": "三亞",
+      "name:zh-Hant": "三亞市",
+      "name:zh_pinyin": "sānyà shì"
+    }
+  },
+  {
+    "name": "Sanyo-Onoda",
+    "country": "Japan",
+    "latitude": 34.00300449960181,
+    "longitude": 131.1819289,
+    "other_names": {
+      "name": "山陽小野田市",
+      "name:ar": "سانيو-أونودا، ياماغوتشي",
+      "name:de": "Sanyōonoda",
+      "name:en": "Sanyo-Onoda",
+      "name:es": "Sanyōonoda",
+      "name:fr": "Sanyōonoda",
+      "name:ja": "山陽小野田市",
+      "name:ko": "산요오노다시",
+      "name:pl": "San'yō-Onoda",
+      "name:ru": "Санъёонода",
+      "name:uk": "Санйо-Онода",
+      "name:zh": "山阳小野田市",
+      "int_name": "Sanyōonoda",
+      "name:ja_rm": "Sanyo-Onoda-shi",
+      "name:ja_kana": "さんようおのだし",
+      "name:zh-Hans": "山阳小野田市",
+      "name:zh-Hant": "山陽小野田市"
+    }
+  },
+  {
+    "name": "Sanyuan",
+    "country": "China",
+    "latitude": 34.62005059962851,
+    "longitude": 108.927063,
+    "other_names": {
+      "name": "三原县",
+      "name:en": "Sanyuan",
+      "name:ja": "三原県",
+      "name:ru": "Саньюань",
+      "name:vi": "Tam Nguyên",
+      "name:zh": "三原县",
+      "name:zh-Hant": "三原縣",
+      "name:zh_pinyin": "Sanyuan Xian"
+    }
+  }
+]

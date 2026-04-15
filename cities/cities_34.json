@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Baicheng",
+    "country": "China",
+    "latitude": 45.61562750039788,
+    "longitude": 122.83608110000002,
+    "other_names": {
+      "name": "白城市",
+      "name:ar": "بايتشنغ",
+      "name:de": "Baicheng",
+      "name:en": "Baicheng",
+      "name:et": "Baicheng",
+      "name:fr": "Baicheng",
+      "name:ja": "白城市",
+      "name:lt": "Baičengas",
+      "name:ru": "Байчэн",
+      "name:vi": "Bạch Thành",
+      "name:zh": "白城市",
+      "alt_name": "白城;Baicheng;Baicheng City;Chaghanhot",
+      "name:zh-Hant": "白城市",
+      "name:zh_pinyin": "Báichéng Shì"
+    }
+  },
+  {
+    "name": "Baicheng",
+    "country": "China",
+    "latitude": 41.796821100470275,
+    "longitude": 81.86676899999999,
+    "other_names": {
+      "name": "拜城县",
+      "name:de": "Bay",
+      "name:en": "Baicheng",
+      "name:es": "Baicheng",
+      "name:fr": "Baicheng",
+      "name:ru": "Бай",
+      "name:ug": "باي ناھىيىسى",
+      "name:zh": "拜城县",
+      "alt_name": "拜城县;Pai-ch'eng-chen;Pai-ch'eng;Pai-ch'eng-hsien;Pai;Bai;Bay;Baicheng Xian;Бай;باي",
+      "name:zh-Hant": "拜城縣"
+    }
+  },
+  {
+    "name": "Baidoa",
+    "country": "Somalia",
+    "latitude": 3.119950999670515,
+    "longitude": 43.644462,
+    "other_names": {
+      "name": "Baydhabo بيدوا",
+      "name:ar": "بيدوا",
+      "name:de": "Baidoa",
+      "name:en": "Baidoa",
+      "name:fr": "Baidoa",
+      "name:it": "Baidoa",
+      "name:ko": "바이다보",
+      "name:pt": "Baidoa",
+      "name:ru": "Байдабо"
+    }
+  },
+  {
+    "name": "Baie-Comeau",
+    "country": "Canada",
+    "latitude": 49.217596999638594,
+    "longitude": -68.152313,
+    "other_names": {
+      "name": "Baie-Comeau",
+      "name:ru": "Бе-Комо"
+    }
+  },
+  {
+    "name": "Baihe",
+    "country": "China",
+    "latitude": 32.812253399588975,
+    "longitude": 110.1085079,
+    "other_names": {
+      "name": "白河县",
+      "name:en": "Baihe",
+      "name:ja": "白河県",
+      "name:ru": "Байхэ",
+      "name:zh": "白河县",
+      "alt_name": "白河;白河城关镇;城关镇;Chengguan",
+      "alt_name:en": "Pai-ho-hsien;Pai-ho",
+      "name:zh-Hant": "白河縣"
+    }
+  },
+  {
+    "name": "Baiji",
+    "country": "Iraq",
+    "latitude": 34.92918487969352,
+    "longitude": 43.49130497807989,
+    "other_names": {
+      "name": "Baiji"
+    }
+  },
+  {
+    "name": "Baijiantan",
+    "country": "China",
+    "latitude": 45.68374900038868,
+    "longitude": 85.11588879999998,
+    "other_names": {
+      "name": "白碱滩区",
+      "name:en": "Baijiantan",
+      "name:ru": "Байцзяньтань",
+      "name:ug": "جەرەنبۇلاق رايونى‎",
+      "name:zh": "白碱滩区",
+      "name:zh-Hant": "白鹼灘區"
+    }
+  },
+  {
+    "name": "BAILOBAYA CENTRE",
+    "country": "Guinea",
+    "latitude": 9.686552399423848,
+    "longitude": -13.5236979,
+    "other_names": {
+      "name": "BAILOBAYA CENTRE"
+    }
+  },
+  {
+    "name": "BAILOBAYA PLATEAU",
+    "country": "Guinea",
+    "latitude": 9.685960199423825,
+    "longitude": -13.530435599999999,
+    "other_names": {
+      "name": "BAILOBAYA PLATEAU"
+    }
+  },
+  {
+    "name": "Bainang",
+    "country": "China",
+    "latitude": 29.111579499825833,
+    "longitude": 89.2596268,
+    "other_names": {
+      "name": "白朗县",
+      "name:bo": "པ་སྣམ།",
+      "name:en": "Bainang",
+      "name:vi": "Bainang",
+      "name:zh": "白朗县",
+      "alt_name": "白朗;Pai-lang Hsien;Bainang County;Bailang County;Bailang;Panam",
+      "alt_name:vi": "Bạch Lãng",
+      "name:zh-Hant": "白朗縣",
+      "name:zh_pinyin": "Báilǎng Xiàn"
+    }
+  },
+  {
+    "name": "Baingoin",
+    "country": "China",
+    "latitude": 31.394751799636925,
+    "longitude": 90.0070797,
+    "other_names": {
+      "name": "班戈县",
+      "name:en": "Baingoin",
+      "name:vi": "Baingoin",
+      "name:zh": "班戈县",
+      "alt_name": "班戈;Bange;Pan-ko Hsien;Baingoin Xian;Bangoin Xian;Bange Xian",
+      "alt_name:vi": "Ban Qua",
+      "name:zh-Hant": "班戈縣",
+      "name:zh_pinyin": "Bāngē Xiàn"
+    }
+  },
+  {
+    "name": "Baiquan",
+    "country": "China",
+    "latitude": 47.605998600029686,
+    "longitude": 126.08501499999997,
+    "other_names": {
+      "name": "拜泉县",
+      "name:en": "Baiquan",
+      "name:ru": "Байцюань",
+      "name:vi": "Bái Tuyền",
+      "name:zh": "拜泉县",
+      "alt_name": "拜泉",
+      "name:zh-Hant": "拜泉縣",
+      "official_name": "拜泉镇",
+      "name:zh_pinyin": "Bàiquán Xiàn"
+    }
+  },
+  {
+    "name": "Bairin Left Banner",
+    "country": "China",
+    "latitude": 43.97835280053338,
+    "longitude": 119.37477680000002,
+    "other_names": {
+      "name": "巴林左旗",
+      "name:en": "Bairin Left Banner",
+      "name:ja": "バイリン左旗",
+      "name:mn": "Баарин Жэгүн қосиу",
+      "name:zh": "巴林左旗",
+      "alt_name": "巴林左;Baarin Left Banner;Baarin Left;Bairin;Байран;Байран Зүүн",
+      "alt_name:mn": "ᠪᠠᠭᠠᠷᠢᠨ ᠵᠡᠭᠦᠨ ᠬᠣᠰᠢᠭᠤ;Baɣarin Jegün qosiɣu",
+      "name:zh-Hant": "巴林左旗",
+      "name:zh_pinyin": "Bālín Zuǒ Qí"
+    }
+  },
+  {
+    "name": "Bairin Right Banner",
+    "country": "China",
+    "latitude": 43.53213480054174,
+    "longitude": 118.65784560000002,
+    "other_names": {
+      "name": "巴林右旗",
+      "name:en": "Bairin Right Banner",
+      "name:mn": "Баарин Баруун қосиу",
+      "name:zh": "巴林右旗",
+      "alt_name": "巴林右;Байран Баруун;Baarin Right Banner;Baarin Right;Bairin Right;Baarin;Bairin",
+      "alt_name:mn": "ᠪᠠᠭᠠᠷᠢᠨ ᠪᠠᠷᠠᠭᠤᠨ ᠬᠣᠰᠢᠭᠤ;Baɣarin Baraɣun qosiɣu",
+      "name:zh-Hant": "巴林右旗",
+      "name:zh_pinyin": "Bālín Yòu Qí"
+    }
+  },
+  {
+    "name": "Bairnsdale",
+    "country": "Australia",
+    "latitude": -37.8254509005334,
+    "longitude": 147.6304752,
+    "other_names": {
+      "name": "Bairnsdale",
+      "name:ru": "Бэрнсдейл",
+      "name:zh": "拜恩斯代尔"
+    }
+  },
+  {
+    "name": "Bais",
+    "country": "Philippines",
+    "latitude": 9.591475899420034,
+    "longitude": 123.12130299999998,
+    "other_names": {
+      "ref": "074604000",
+      "name": "Bais"
+    }
+  },
+  {
+    "name": "Baise",
+    "country": "China",
+    "latitude": 23.90536050033877,
+    "longitude": 106.6148824,
+    "other_names": {
+      "name": "百色市",
+      "name:ar": "بايس",
+      "name:cs": "Paj-se",
+      "name:da": "Baise",
+      "name:de": "Bose",
+      "name:en": "Baise",
+      "name:es": "Baise",
+      "name:et": "Baise",
+      "name:eu": "Baise",
+      "name:fa": "بایسه",
+      "name:fi": "Baise",
+      "name:fr": "Baise",
+      "name:it": "Baise",
+      "name:ja": "百色市",
+      "name:ki": "Baise",
+      "name:ko": "바이써시",
+      "name:ku": "Baise",
+      "name:mg": "Baise",
+      "name:nl": "Baise",
+      "name:nn": "Baise i Guangxi",
+      "name:no": "Baise",
+      "name:pl": "Baise",
+      "name:pt": "Baise",
+      "name:ru": "Байсэ",
+      "name:sv": "Baise",
+      "name:tr": "Baise",
+      "name:uk": "Байсе",
+      "name:ur": "بائسی",
+      "name:vi": "Bách Sắc",
+      "name:za": "Baksaek",
+      "name:zh": "百色市",
+      "name:cdo": "Báh-sáik",
+      "name:ceb": "Baise Shi",
+      "name:hak": "Pak-set-sṳ",
+      "name:nan": "Pek-sek-chhī",
+      "name:pam": "Baise Lakanbalen",
+      "name:pnb": "بائیسے",
+      "name:war": "Baise",
+      "name:yue": "百色",
+      "old_name": "Bose",
+      "alt_name:en": "Baise",
+      "name:zh-Hant": "百色市",
+      "name:yue-Latn": "Baaksik-si",
+      "name:zh_pinyin": "Bǎisè Shì"
+    }
+  },
+  {
+    "name": "Baisha",
+    "country": "China",
+    "latitude": 19.22624870032968,
+    "longitude": 109.44751159999998,
+    "other_names": {
+      "name": "白沙县",
+      "name:en": "Baisha",
+      "name:ru": "Яча",
+      "name:zh": "白沙黎族自治县",
+      "name:zh-Hant": "白沙縣",
+      "official_name": "白沙黎族自治县"
+    }
+  },
+  {
+    "name": "Baishan",
+    "country": "China",
+    "latitude": 41.931638700481074,
+    "longitude": 126.4200169,
+    "other_names": {
+      "name": "白山市",
+      "name:de": "Baishan",
+      "name:en": "Baishan",
+      "name:et": "Baishan",
+      "name:fr": "Baishan",
+      "name:ja": "白山市",
+      "name:ko": "바이산시",
+      "name:ru": "Байшань",
+      "name:vi": "Bạch Sơn",
+      "name:zh": "白山市",
+      "name:zh-Hant": "白山市",
+      "name:zh_pinyin": "Báishān Shì"
+    }
+  },
+  {
+    "name": "Baishui",
+    "country": "China",
+    "latitude": 35.178512599664245,
+    "longitude": 109.5876073,
+    "other_names": {
+      "name": "白水县",
+      "name:en": "Baishui",
+      "name:ja": "白水県",
+      "name:vi": "Bạch Thủy",
+      "name:zh": "白水县",
+      "alt_name:vi": "Bạch Thuỷ",
+      "name:zh-Hant": "白水縣",
+      "name:zh_pinyin": "Baishui Xian"
+    }
+  }
+]

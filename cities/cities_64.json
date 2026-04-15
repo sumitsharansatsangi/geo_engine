@@ -1,0 +1,270 @@
+[
+  {
+    "name": "Breves",
+    "country": "Brazil",
+    "latitude": -1.680359999843057,
+    "longitude": -50.479085,
+    "other_names": {
+      "name": "Breves"
+    }
+  },
+  {
+    "name": "Bria",
+    "country": "Central African Republic",
+    "latitude": 6.539273199420553,
+    "longitude": 21.9871831,
+    "other_names": {
+      "name": "Bria",
+      "name:en": "Bria",
+      "name:ru": "Бриа",
+      "name:uk": "Бріа"
+    }
+  },
+  {
+    "name": "Bria",
+    "country": "Central African Republic",
+    "latitude": 6.533860650606182,
+    "longitude": 21.991008188873035,
+    "other_names": {
+      "name": "Bria",
+      "name:en": "Bria",
+      "name:ru": "Бриа",
+      "name:uk": "Бріа"
+    }
+  },
+  {
+    "name": "Bria",
+    "country": "Central African Republic",
+    "latitude": 6.526038240620373,
+    "longitude": 22.003447210719372,
+    "other_names": {
+      "name": "Bria",
+      "name:en": "Bria"
+    }
+  },
+  {
+    "name": "Bridgeport",
+    "country": "United States Of America",
+    "latitude": 41.16704120041038,
+    "longitude": -73.20483479999999,
+    "other_names": {
+      "name": "Bridgeport",
+      "name:en": "Bridgeport",
+      "name:ru": "Бриджпорт",
+      "name:uk": "Бріджпорт"
+    }
+  },
+  {
+    "name": "Brighton",
+    "country": "England",
+    "latitude": 50.841960378216214,
+    "longitude": -0.127884119111502,
+    "other_names": {
+      "name": "Brighton",
+      "name:en": "Brighton",
+      "name:mk": "Брајтон",
+      "name:ru": "Брайтон"
+    }
+  },
+  {
+    "name": "Brighton",
+    "country": "England",
+    "latitude": 50.82146259928143,
+    "longitude": -0.14005609999999996,
+    "other_names": {
+      "name": "Brighton",
+      "name:ar": "برايتن",
+      "name:bg": "Брайтън",
+      "name:fa": "برایتون",
+      "name:he": "ברייטון",
+      "name:ko": "브라이턴",
+      "name:lt": "Braitonas",
+      "name:mk": "Брајтон",
+      "name:ru": "Брайтон",
+      "name:sr": "Брајтон",
+      "name:uk": "Брайтон",
+      "name:ur": "برائٹن",
+      "alt_name:ar": "برايتون"
+    }
+  },
+  {
+    "name": "Brighton",
+    "country": "United States Of America",
+    "latitude": 39.97888680026444,
+    "longitude": -104.81749469999998,
+    "other_names": {
+      "name": "Brighton"
+    }
+  },
+  {
+    "name": "Brindisi",
+    "country": "Italy",
+    "latitude": 40.63952950034996,
+    "longitude": 17.945525999999997,
+    "other_names": {
+      "name": "Brindisi",
+      "name:ar": "أبرنطس",
+      "name:be": "Брындызі",
+      "name:el": "Mπρίντιζι",
+      "name:fa": "بریندیزی",
+      "name:mk": "Бриндизи",
+      "name:ru": "Бриндизи",
+      "name:sr": "Бриндизи",
+      "name:ur": "بریندیزی",
+      "name:zh": "布林迪西",
+      "alt_name:ar": "أبرندس;برينديزي"
+    }
+  },
+  {
+    "name": "Brisbane",
+    "country": "Australia",
+    "latitude": -27.468968199462225,
+    "longitude": 153.0234991,
+    "other_names": {
+      "name": "Brisbane",
+      "name:ar": "بريزبان",
+      "name:be": "Брысбэн",
+      "name:de": "Brisbane",
+      "name:eo": "Brisbano",
+      "name:es": "Brisbane",
+      "name:fr": "Brisbane",
+      "name:he": "בריסביין",
+      "name:is": "Brisbane",
+      "name:ja": "ブリスベン",
+      "name:lt": "Brisbenas",
+      "name:mi": "Piripane",
+      "name:mk": "Бризбејн",
+      "name:oc": "Brisbane",
+      "name:pt": "Brisbane",
+      "name:ru": "Брисбен",
+      "name:sr": "Бризбејн",
+      "name:sv": "Brisbane",
+      "name:uk": "Брісбен",
+      "name:zh": "布里斯班",
+      "name:aus": "Meanjin",
+      "name:pronunciation": "ˈbɹɪzbən"
+    }
+  },
+  {
+    "name": "Bristol",
+    "country": "England",
+    "latitude": 51.453802199178774,
+    "longitude": -2.5972984999999995,
+    "other_names": {
+      "name": "Bristol",
+      "name:ar": "برستل",
+      "name:cy": "Bryste",
+      "name:en": "Bristol",
+      "name:eo": "Bristolo",
+      "name:ja": "ブリストル",
+      "name:ko": "브리스틀",
+      "name:lt": "Bristolis",
+      "name:mk": "Бристол",
+      "name:ru": "Бристоль",
+      "name:sr": "Бристол",
+      "name:uk": "Бристоль"
+    }
+  },
+  {
+    "name": "Bristol",
+    "country": "England",
+    "latitude": 51.46699572508135,
+    "longitude": -2.601367613196911,
+    "other_names": {
+      "name": "Bristol",
+      "name:ar": "برستل",
+      "name:mk": "Бристол",
+      "name:zh": "布里斯托"
+    }
+  },
+  {
+    "name": "Bristol",
+    "country": "United States Of America",
+    "latitude": 36.59450339979955,
+    "longitude": -82.1885212,
+    "other_names": {
+      "name": "Bristol"
+    }
+  },
+  {
+    "name": "Bristol",
+    "country": "United States Of America",
+    "latitude": 41.67352090045974,
+    "longitude": -72.9464859,
+    "other_names": {
+      "name": "Bristol"
+    }
+  },
+  {
+    "name": "Bristol",
+    "country": "United States Of America",
+    "latitude": 36.59596849979971,
+    "longitude": -82.18850089999998,
+    "other_names": {
+      "name": "Bristol"
+    }
+  },
+  {
+    "name": "Bristol",
+    "country": "United States Of America",
+    "latitude": 36.59450339979955,
+    "longitude": -82.1885212,
+    "other_names": {
+      "name": "Bristol"
+    }
+  },
+  {
+    "name": "Brno",
+    "country": "Czech Republic",
+    "latitude": 49.19224429964485,
+    "longitude": 16.6113382,
+    "other_names": {
+      "name": "Brno",
+      "name:ar": "برنو",
+      "name:cs": "Brno",
+      "name:de": "Brünn",
+      "name:el": "Μπρνο",
+      "name:hu": "Brünn",
+      "name:kn": "ಬೃನೋ",
+      "name:la": "Bruna",
+      "name:lt": "Brno",
+      "name:ru": "Брно",
+      "name:sr": "Брно",
+      "name:uk": "Брно"
+    }
+  },
+  {
+    "name": "Brockton",
+    "country": "United States Of America",
+    "latitude": 42.083433500492276,
+    "longitude": -71.0183787,
+    "other_names": {
+      "name": "Brockton"
+    }
+  },
+  {
+    "name": "Brockville",
+    "country": "Canada",
+    "latitude": 44.589592500502214,
+    "longitude": -75.6843332,
+    "other_names": {
+      "name": "Brockville",
+      "name:en": "Brockville",
+      "name:ru": "Броквилл",
+      "name:uk": "Броквіль"
+    }
+  },
+  {
+    "name": "Broken Hill",
+    "country": "Australia",
+    "latitude": -31.964999999406754,
+    "longitude": 141.4511111,
+    "other_names": {
+      "name": "Broken Hill",
+      "name:en": "Broken Hill",
+      "name:ja": "ブロークンヒル",
+      "name:ru": "Брокен-Хилл",
+      "name:uk": "Брокен-Гілл"
+    }
+  }
+]

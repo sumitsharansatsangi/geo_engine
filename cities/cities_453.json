@@ -1,0 +1,375 @@
+[
+  {
+    "name": "St. Stephen",
+    "country": "Canada",
+    "latitude": 45.20040050044787,
+    "longitude": -67.2798634,
+    "other_names": {
+      "name": "St. Stephen"
+    }
+  },
+  {
+    "name": "St. Thomas",
+    "country": "Canada",
+    "latitude": 42.7790220005298,
+    "longitude": -81.19298819999999,
+    "other_names": {
+      "name": "St. Thomas"
+    }
+  },
+  {
+    "name": "Stueng Saen",
+    "country": "Cambodia",
+    "latitude": 12.712624199649353,
+    "longitude": 104.88910819999998,
+    "other_names": {
+      "name": "ក្រុងស្ទឹងសែន",
+      "name:en": "Stueng Saen",
+      "name:km": "ក្រុងស្ទឹងសែន",
+      "name:ko": "스텅상",
+      "name:ru": "Стынгсаен",
+      "name:vi": "Stueng Saen",
+      "name:zh": "斯登森"
+    }
+  },
+  {
+    "name": "Stung Treng",
+    "country": "Cambodia",
+    "latitude": 13.527120699736535,
+    "longitude": 105.96867269999998,
+    "other_names": {
+      "name": "ក្រុងស្ទឹងត្រែង",
+      "name:en": "Stung Treng",
+      "name:fr": "Stoeng Treng",
+      "name:ja": "ストゥントレン",
+      "name:km": "ក្រុងស្ទឹងត្រែង",
+      "name:ru": "Стынгтраенг"
+    }
+  },
+  {
+    "name": "Stuttgart",
+    "country": "Germany",
+    "latitude": 48.7784484997473,
+    "longitude": 9.1800132,
+    "other_names": {
+      "name": "Stuttgart",
+      "name:ar": "شتوتغارت",
+      "name:cs": "Štíhrad",
+      "name:de": "Stuttgart",
+      "name:el": "Στουτγκάρδη",
+      "name:en": "Stuttgart",
+      "name:eo": "Ŝtutgarto",
+      "name:fr": "Stuttgart",
+      "name:it": "Stoccarda",
+      "name:ja": "シュトゥットガルト",
+      "name:ko": "슈투트가르트",
+      "name:la": "Stutgardia",
+      "name:lt": "Štutgartas",
+      "name:lv": "Štutgarte",
+      "name:mk": "Штутгарт",
+      "name:pt": "Estugarda",
+      "name:ru": "Штутгарт",
+      "name:sr": "Штутгарт",
+      "name:th": "ชตุทท์การ์ท",
+      "name:uk": "Штутгарт",
+      "name:zh": "斯图加特",
+      "name:gsw": "Stuegert",
+      "name:pfl": "Schduggad",
+      "name:swg": "Schtugert",
+      "alt_name:cs": "Štukart;Štokart",
+      "old_name:fr": "Stutgard",
+      "name:zh-Hant": "斯圖加特"
+    }
+  },
+  {
+    "name": "Subang Jaya",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 3.051486999677343,
+    "longitude": 101.58233389999998,
+    "other_names": {
+      "name": "Subang Jaya",
+      "name:ja": "スバン・ジャヤ",
+      "name:ta": "சுபாங் ஜெயா",
+      "name:zh": "梳邦再也"
+    }
+  },
+  {
+    "name": "Subei",
+    "country": "China",
+    "latitude": 39.511766400199456,
+    "longitude": 94.8760723,
+    "other_names": {
+      "name": "肃北县",
+      "name:en": "Subei",
+      "name:ja": "粛北モンゴル族自治県",
+      "name:mn": "Сүбэй",
+      "name:zh": "肃北蒙古族自治县",
+      "alt_name": "肃北",
+      "short_name": "肃北县",
+      "name:zh-Hant": "肅北縣",
+      "official_name": "肃北蒙古族自治县",
+      "name:zh_pinyin": "Sùběi Měnggǔzú Zìzhìxiàn"
+    }
+  },
+  {
+    "name": "Subotica",
+    "country": "Serbia",
+    "latitude": 46.100205800326684,
+    "longitude": 19.6653273,
+    "other_names": {
+      "name": "Суботица",
+      "name:ar": "سوبتيتسا",
+      "name:da": "Subotica",
+      "name:de": "Subotica",
+      "name:el": "Σουμπότιτσα",
+      "name:en": "Subotica",
+      "name:es": "Subotica",
+      "name:et": "Subotica",
+      "name:fr": "Subotica",
+      "name:hr": "Subotica",
+      "name:hu": "Szabadka",
+      "name:lt": "Subotica",
+      "name:ru": "Суботица",
+      "name:sl": "Subotica",
+      "name:sr": "Суботица",
+      "name:uk": "Суботиця",
+      "old_name:de": "Maria-Theresianopel",
+      "name:sr-Latn": "Subotica"
+    }
+  },
+  {
+    "name": "Subulussalam",
+    "country": "Indonesia",
+    "latitude": 2.6403145997192214,
+    "longitude": 98.00524589999999,
+    "other_names": {
+      "name": "Subulussalam",
+      "name:id": "Bahasa Pakpak"
+    }
+  },
+  {
+    "name": "Suceava",
+    "country": "Romania",
+    "latitude": 47.64700100002029,
+    "longitude": 26.2522599,
+    "other_names": {
+      "name": "Suceava",
+      "name:cs": "Sučava",
+      "name:de": "Suczawa",
+      "name:el": "Σουτσεάβα",
+      "name:hu": "Szucsáva",
+      "name:lt": "Sučava",
+      "name:pl": "Suczawa",
+      "name:ru": "Сучава",
+      "name:sr": "Сучава",
+      "name:uk": "Сучава"
+    }
+  },
+  {
+    "name": "Sucheng District",
+    "country": "China",
+    "latitude": 33.96573029960064,
+    "longitude": 118.2371881,
+    "other_names": {
+      "name": "宿城区",
+      "name:de": "Sucheng",
+      "name:en": "Sucheng District",
+      "name:fr": "District de Sucheng",
+      "name:it": "Distretto di Sucheng",
+      "name:ja": "宿城区",
+      "name:ko": "쑤청구",
+      "name:no": "Sucheng",
+      "name:ru": "Сучэн",
+      "name:sr": "Сученг",
+      "name:sv": "Sucheng",
+      "name:vi": "Túc Thành",
+      "name:zh": "宿城区",
+      "name:ceb": "Sucheng Qu",
+      "name:nan": "Siok-siâⁿ-khu",
+      "name:wuu": "宿城區",
+      "name:yue": "宿城區",
+      "name:ja-Hira": "しゅくじょう-く",
+      "name:zh-Hant": "宿城區",
+      "name:yue-Hans": "宿城区",
+      "name:yue-Hant": "宿城區",
+      "name:zh_pinyin": "Sùchéng Qū"
+    }
+  },
+  {
+    "name": "Suchitoto",
+    "country": "El Salvador",
+    "latitude": 13.936722799782856,
+    "longitude": -89.02593449999999,
+    "other_names": {
+      "name": "Suchitoto"
+    }
+  },
+  {
+    "name": "Sucre",
+    "country": "Bolivia",
+    "latitude": -19.047725100445465,
+    "longitude": -65.2594306,
+    "other_names": {
+      "name": "Sucre",
+      "name:ar": "سوكري",
+      "name:ay": "Sukri",
+      "name:az": "Sukre",
+      "name:be": "Сукрэ",
+      "name:bg": "Сукре",
+      "name:bo": "སུ་ཁུ་རེ།",
+      "name:de": "Sucre",
+      "name:el": "Σούκρε",
+      "name:en": "Sucre",
+      "name:eo": "Sukro",
+      "name:fa": "سوکره",
+      "name:fr": "Sucre",
+      "name:gn": "Sucre",
+      "name:he": "סוקרה",
+      "name:ht": "Sik",
+      "name:hu": "Sucre történelmi óvárosa",
+      "name:hy": "Սուկրե",
+      "name:id": "Sucre",
+      "name:is": "Súkre",
+      "name:ja": "スクレ",
+      "name:ka": "სუკრე",
+      "name:kn": "ಸುಕ್ರೆ",
+      "name:ko": "수크레",
+      "name:lt": "Sukrė",
+      "name:lv": "Sukre",
+      "name:mk": "Сукре",
+      "name:mr": "सुक्रे",
+      "name:oc": "Sucre",
+      "name:os": "Сукре",
+      "name:pl": "Sucre",
+      "name:qu": "Chuqichaka",
+      "name:ru": "Сукре",
+      "name:sr": "Сукре",
+      "name:sv": "Sucre",
+      "name:ta": "சூக்ரே",
+      "name:tg": "Иёлоти Сукре",
+      "name:th": "ซูเกร",
+      "name:ug": "سۇكرې",
+      "name:uk": "Сукре",
+      "name:ur": "سکرے",
+      "name:zh": "蘇克雷",
+      "old_name:1538": "Chuquisaca",
+      "name:be-tarask": "Сукрэ",
+      "old_name:1538-1825": "La Plata"
+    }
+  },
+  {
+    "name": "Sudbury",
+    "country": "Canada",
+    "latitude": 46.492720000259496,
+    "longitude": -80.991211,
+    "other_names": {
+      "name": "Sudbury",
+      "name:ru": "Большой Садбери",
+      "name:uk": "Садбері",
+      "name:ckb": "سەدبێری",
+      "official_name": "Greater Sudbury"
+    }
+  },
+  {
+    "name": "Suez",
+    "country": "Egypt",
+    "latitude": 29.974497999742038,
+    "longitude": 32.537085999999995,
+    "other_names": {
+      "name": "السويس",
+      "name:ar": "السويس",
+      "name:de": "Sues",
+      "name:en": "Suez",
+      "name:eo": "Suezo",
+      "name:et": "Suess",
+      "name:fi": "Suez",
+      "name:fr": "Suez",
+      "name:hi": "स्वेज़",
+      "name:hu": "Szuez",
+      "name:kn": "ಸುವೈಸ್",
+      "name:ko": "수에즈",
+      "name:nl": "Suez",
+      "name:pl": "Suez",
+      "name:ru": "Суэц",
+      "name:sk": "Suez",
+      "name:zh": "蘇伊士/苏伊士",
+      "int_name": "Suez, Al Suweis, Al Suways",
+      "name:csb": "Suez",
+      "name:yue": "蘇伊士",
+      "name:zh-Hans": "苏伊士",
+      "name:zh-Hant": "蘇伊士"
+    }
+  },
+  {
+    "name": "Suffolk",
+    "country": "United States Of America",
+    "latitude": 36.728209599815195,
+    "longitude": -76.58357029999999,
+    "other_names": {
+      "name": "Suffolk"
+    }
+  },
+  {
+    "name": "Sugar Land",
+    "country": "United States Of America",
+    "latitude": 29.619678699775076,
+    "longitude": -95.6349463,
+    "other_names": {
+      "name": "Sugar Land"
+    }
+  },
+  {
+    "name": "Suginami",
+    "country": "Japan",
+    "latitude": 35.69949289970702,
+    "longitude": 139.6362876,
+    "other_names": {
+      "name": "杉並区",
+      "name:de": "Suginami",
+      "name:en": "Suginami",
+      "name:es": "Suginami",
+      "name:fr": "Suginami",
+      "name:it": "Suginami",
+      "name:ja": "杉並区",
+      "name:ko": "스기나미구",
+      "name:lt": "Suginamis",
+      "name:pl": "Suginami",
+      "name:ru": "Сугинами",
+      "name:uk": "Суґінамі",
+      "name:zh": "杉並區",
+      "name:ja-Hira": "すぎなみく",
+      "name:ja-Latn": "Suginami-ku"
+    }
+  },
+  {
+    "name": "Sui",
+    "country": "China",
+    "latitude": 34.42772149961873,
+    "longitude": 115.06361890000001,
+    "other_names": {
+      "name": "睢县",
+      "name:en": "Sui",
+      "name:fr": "Xian de Sui",
+      "name:ru": "Суйсянь",
+      "name:zh": "睢县",
+      "alt_name": "睢;Suixian;Sui County",
+      "name:zh-Hant": "睢縣"
+    }
+  },
+  {
+    "name": "Suibin",
+    "country": "China",
+    "latitude": 47.286087400100854,
+    "longitude": 131.8478467,
+    "other_names": {
+      "name": "绥滨县",
+      "name:en": "Suibin",
+      "name:ru": "Суйбинь",
+      "name:vi": "Tuy Tân",
+      "name:zh": "绥滨县",
+      "name:zh-Hant": "綏濱縣",
+      "official_name": "绥滨县",
+      "name:zh_pinyin": "Suíbīn County"
+    }
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Tahoua",
+    "country": "Niger",
+    "latitude": 14.889921999894268,
+    "longitude": 5.262148999999999,
+    "other_names": {
+      "name": "Tahoua",
+      "name:ar": "طاوة",
+      "name:en": "Tahoua",
+      "name:ko": "타우아",
+      "name:ru": "Тахуа",
+      "name:uk": "Тахуа"
+    }
+  },
+  {
+    "name": "Tai'an",
+    "country": "China",
+    "latitude": 36.200296799756025,
+    "longitude": 117.0809316,
+    "other_names": {
+      "name": "泰安市",
+      "name:de": "Tai'an",
+      "name:en": "Tai'an",
+      "name:eo": "Tajan",
+      "name:es": "Tai'an",
+      "name:et": "Tai'an",
+      "name:fr": "Tai'an",
+      "name:hi": "ताइआन",
+      "name:ja": "泰安市",
+      "name:ko": "타이안 시",
+      "name:mr": "ताईआन",
+      "name:pl": "Tai’an",
+      "name:pt": "Tai'an",
+      "name:ru": "Тайань",
+      "name:sr": "Тајан",
+      "name:tr": "Tai'an",
+      "name:vi": "Thái An",
+      "name:zh": "泰安市",
+      "name:lzh": "泰安",
+      "name:yue": "泰安市",
+      "name:zh-Hant": "泰安市",
+      "name:zh_pinyin": "Tài'ān shì"
+    }
+  },
+  {
+    "name": "Taian",
+    "country": "China",
+    "latitude": 41.37854790043211,
+    "longitude": 122.42683429999998,
+    "other_names": {
+      "name": "台安县",
+      "name:en": "Taian",
+      "name:ja": "台安県",
+      "name:ko": "타이안현",
+      "name:vi": "Đài An",
+      "name:zh": "台安县",
+      "name:zh-Hant": "檯安縣",
+      "name:zh_pinyin": "Tai'an Xian"
+    }
+  },
+  {
+    "name": "Taibai",
+    "country": "China",
+    "latitude": 34.058057899603625,
+    "longitude": 107.3182771,
+    "other_names": {
+      "name": "太白县",
+      "name:en": "Taibai",
+      "name:ja": "太白県",
+      "name:vi": "Chủy Đầu",
+      "name:zh": "太白县",
+      "alt_name": "太白;咀头:咀头镇;嘴头镇;嘴头;Zuitou;Zuitou;T'ai-pai;Zuitoujie;Ta-pai;Zuitou Zhen;Tsui-t'ou-chen;Tszuytouchzhen';Tsui-t'ou;T'ai-pai-ch'u;Taibai Xian",
+      "alt_name:vi": "Chuỷ Đầu",
+      "name:zh-Hant": "太白縣",
+      "name:zh_pinyin": "Zuǐtóuzhèn"
+    }
+  },
+  {
+    "name": "Taibe",
+    "country": "Israel And Palestine",
+    "latitude": 32.26712489959972,
+    "longitude": 35.0089029,
+    "other_names": {
+      "name": "الطيبة",
+      "name:ar": "الطيبة",
+      "name:ca": "Tayibe",
+      "name:cs": "Tajbe",
+      "name:de": "Tayyibe",
+      "name:en": "Taibe",
+      "name:es": "Tayibe",
+      "name:fi": "Al-Tayyiba",
+      "name:fr": "Tayibe",
+      "name:he": "טייבה",
+      "name:hi": "ताइबे",
+      "name:id": "Tayibe",
+      "name:it": "Tayibe",
+      "name:lt": "Tajibė",
+      "name:nb": "Tayibe",
+      "name:nl": "Taibe",
+      "name:nn": "Tayibe",
+      "name:pl": "At-Tajjiba",
+      "name:pt": "Tayibe",
+      "name:ru": "Тайбе",
+      "name:sv": "Eṭ Ṭaiyiba",
+      "name:tl": "Tayibe",
+      "name:tr": "Tayyibe",
+      "name:vi": "Tayibe",
+      "name:yi": "טייבה",
+      "alt_name:ar": "الطيّبة‎"
+    }
+  },
+  {
+    "name": "Taibus",
+    "country": "China",
+    "latitude": 41.88007280047703,
+    "longitude": 115.27827419999997,
+    "other_names": {
+      "name": "太仆寺旗",
+      "name:en": "Taibus",
+      "name:vi": "Taibus",
+      "name:zh": "太仆寺旗",
+      "alt_name": "太仆寺;Taibus Banner;Тайвас",
+      "alt_name:vi": "Thái Phó Tự",
+      "name:zh-Hant": "太僕寺旗",
+      "name:zh_pinyin": "Taibus Qi"
+    }
+  },
+  {
+    "name": "Taicang",
+    "country": "China",
+    "latitude": 31.4590370996334,
+    "longitude": 121.12647720000001,
+    "other_names": {
+      "name": "太仓市",
+      "name:cs": "Tchaj-cchang",
+      "name:cy": "Taicang",
+      "name:de": "Taicang",
+      "name:en": "Taicang",
+      "name:es": "Taicang",
+      "name:fa": "تایکانگ",
+      "name:fr": "Taicang",
+      "name:it": "Taicang",
+      "name:ja": "太倉市",
+      "name:ki": "Taicang",
+      "name:ko": "타이창시",
+      "name:nl": "Taicang",
+      "name:no": "Taicang",
+      "name:pl": "Taicang",
+      "name:ru": "Тайцан",
+      "name:sv": "Taicang",
+      "name:tl": "Taicang",
+      "name:ur": "تایکانگ",
+      "name:vi": "Thái Thương",
+      "name:zh": "太仓市",
+      "int_name": "Taicang",
+      "name:nan": "Thài-chhng-chhī",
+      "name:wuu": "太倉",
+      "name:yue": "太倉",
+      "name:zh-Hant": "太倉市",
+      "name:zh_pinyin": "Tàicāng Shì"
+    }
+  },
+  {
+    "name": "Taichung",
+    "country": "Taiwan",
+    "latitude": 24.163162000322146,
+    "longitude": 120.64782819999998,
+    "other_names": {
+      "name": "臺中市",
+      "name:af": "Taichung",
+      "name:ar": "تاي شانغ",
+      "name:ce": "Тайчжун",
+      "name:cs": "Tchaj-čung",
+      "name:de": "Taichung",
+      "name:en": "Taichung",
+      "name:eo": "Tajĉung",
+      "name:es": "Taichung",
+      "name:et": "Taichung",
+      "name:fa": "تایچونگ",
+      "name:fi": "Taichung",
+      "name:fr": "Taichung",
+      "name:ga": "Taichung",
+      "name:he": "טאיג'ונג",
+      "name:hi": "ताइचुंग",
+      "name:id": "Kota Taichung",
+      "name:it": "Taichung",
+      "name:ja": "台中市",
+      "name:ko": "타이중 시",
+      "name:ky": "Тайчжун",
+      "name:lt": "Taičungas",
+      "name:lv": "Taidžuna",
+      "name:mn": "Тайжун",
+      "name:nl": "Taichung",
+      "name:no": "Taichung",
+      "name:pl": "Taizhong",
+      "name:pt": "Taichung",
+      "name:qu": "T'aychun",
+      "name:ro": "Taichung",
+      "name:ru": "Тайчжун",
+      "name:sv": "Taichung",
+      "name:th": "เมืองไถโจวง",
+      "name:tr": "Taichung",
+      "name:ug": "Teyjong shehiri",
+      "name:uk": "Тайчжун",
+      "name:ur": "تائچونگ",
+      "name:vi": "Đài Trung",
+      "name:za": "Daizcungh",
+      "name:zh": "臺中市",
+      "name:ast": "Taichung",
+      "name:cdo": "Dài-dṳ̆ng",
+      "name:gan": "臺中市",
+      "name:hak": "Thòi-chûng-sṳ",
+      "name:nan": "Tâi-tiong-chhī",
+      "name:sco": "Taichung",
+      "name:szl": "Taizhong",
+      "name:tay": "shangh",
+      "name:war": "Taichung",
+      "name:wuu": "臺中市",
+      "name:yue": "臺中市",
+      "name:nan-HJ": "臺中市",
+      "name:nan-TL": "Tâi-tiong-tshī",
+      "name:nan-POJ": "Tâi-tiong-chhī",
+      "name:zh_pinyin": "Táizhōng Shì"
+    }
+  },
+  {
+    "name": "Taigu",
+    "country": "China",
+    "latitude": 37.427278999903436,
+    "longitude": 112.5445933,
+    "other_names": {
+      "name": "太谷县",
+      "name:en": "Taigu",
+      "name:ja": "太谷県",
+      "name:ru": "Тайгу",
+      "name:vi": "Thái Cốc",
+      "name:zh": "太谷县",
+      "alt_name": "太谷",
+      "int_name": "Taigu",
+      "name:zh-Hant": "太谷縣",
+      "name:zh_pinyin": "Taigu Xian"
+    }
+  },
+  {
+    "name": "Taihe",
+    "country": "China",
+    "latitude": 26.8029102000795,
+    "longitude": 114.9167963,
+    "other_names": {
+      "name": "泰和县",
+      "name:en": "Taihe",
+      "name:zh": "泰和县",
+      "alt_name": "泰和;Taihe County",
+      "name:zh-Hant": "泰和縣"
+    }
+  },
+  {
+    "name": "Taihe",
+    "country": "China",
+    "latitude": 33.1673006995875,
+    "longitude": 115.61805559999999,
+    "other_names": {
+      "name": "太和县",
+      "name:en": "Taihe",
+      "name:ja": "太和県",
+      "name:zh": "太和县",
+      "name:zh-Hant": "太和縣"
+    }
+  },
+  {
+    "name": "Taihe",
+    "country": "China",
+    "latitude": 41.10651950040387,
+    "longitude": 121.09886140000002,
+    "other_names": {
+      "name": "太和区",
+      "name:en": "Taihe",
+      "name:ja": "太和区",
+      "name:ko": "타이허구",
+      "name:zh": "太和区",
+      "alt_name": "太和;Taihe District",
+      "name:zh-Hant": "太和區"
+    }
+  },
+  {
+    "name": "Taihu",
+    "country": "China",
+    "latitude": 30.460769899700697,
+    "longitude": 116.3193438,
+    "other_names": {
+      "name": "太湖县",
+      "name:de": "Taihu",
+      "name:en": "Taihu",
+      "name:fr": "Taihu",
+      "name:ja": "太湖県",
+      "name:ko": "타이후",
+      "name:ru": "Тайху",
+      "name:vi": "Thái Hồ",
+      "name:zh": "太湖县",
+      "alt_name": "太湖;Taihu County",
+      "old_name": "晋熙郡",
+      "name:zh-Hant": "太湖縣",
+      "name:zh_pinyin": "tàihú xiàn"
+    }
+  },
+  {
+    "name": "Taijiang",
+    "country": "China",
+    "latitude": 26.672687300093646,
+    "longitude": 108.30952,
+    "other_names": {
+      "name": "台江县",
+      "name:en": "Taijiang",
+      "name:vi": "Đài Giang",
+      "name:zh": "台江县",
+      "alt_name": "台拱街道;台拱;台江;Taikungting;T'ai-kung;Taijiang;Taihung;T'ai-chiang-miao-tsu-tzu-chih-ch'u;T'ai-chiang-hsien;T'ai-chiang;T'ai-kung-chen;Taigong Zhen;T'ai-chiang-miao-tsu-tzu-chih-hsien;Taigong;Taigong Subdistrict",
+      "old_name": "台拱镇",
+      "name:zh-Hant": "臺江縣",
+      "name:zh_pinyin": "Taijiang Xian"
+    }
+  },
+  {
+    "name": "Taijiang",
+    "country": "China",
+    "latitude": 26.055800100158574,
+    "longitude": 119.3092115,
+    "other_names": {
+      "name": "台江区",
+      "name:en": "Taijiang",
+      "name:es": "Táijiāng",
+      "name:fr": "Taijiang",
+      "name:it": "Taijiang",
+      "name:ja": "台江区",
+      "name:ko": "타이장구",
+      "name:vi": "Đài Giang",
+      "name:zh": "台江区",
+      "alt_name": "台江;Taijiang District",
+      "name:cdo": "Dài-gĕ̤ng",
+      "name:hak": "Thòi-kông-khî",
+      "name:nan": "Tâi-kang-khu",
+      "name:yue": "台江",
+      "name:zh-Hant": "臺江區",
+      "name:zh_pinyin": "táijiāng qū"
+    }
+  },
+  {
+    "name": "Taikang",
+    "country": "China",
+    "latitude": 34.066456099603926,
+    "longitude": 114.83238780000002,
+    "other_names": {
+      "name": "太康县",
+      "name:en": "Taikang",
+      "name:zh": "太康县",
+      "alt_name": "太康;Taikang County",
+      "name:zh-Hant": "太康縣"
+    }
+  },
+  {
+    "name": "Taikang",
+    "country": "China",
+    "latitude": 46.86027490018951,
+    "longitude": 124.43842320000002,
+    "other_names": {
+      "name": "杜尔伯特县",
+      "name:en": "Taikang",
+      "name:ru": "Тайкан",
+      "name:zh": "泰康镇",
+      "alt_name": "泰康;杜尔伯特;杜尔伯特蒙古族自治县;Tu-erh-po-t'e-meng-ku-tsu-tzu-chih-hsien;Syaokhaotszy;Tu-erh-po-t'e;T'ai-k'ang-hsien;T'ai-k'ang-chen;Hsiao-hao-tzu;Taykan;Durvet;Duerbotetsi;Tu-erh-po-t'e-ch'i;Dorbod",
+      "name:zh-Hant": "杜爾伯特縣",
+      "official_name": "泰康镇"
+    }
+  },
+  {
+    "name": "Tailai",
+    "country": "China",
+    "latitude": 46.391588800277574,
+    "longitude": 123.41357309999998,
+    "other_names": {
+      "name": "泰来县",
+      "name:en": "Tailai",
+      "name:ru": "Тайлай",
+      "name:zh": "泰来县",
+      "alt_name": "泰来;Tailai County",
+      "name:zh-Hant": "泰來縣",
+      "official_name": "泰来镇",
+      "name:zh_pinyin": "Tàilái zhèn"
+    }
+  },
+  {
+    "name": "Tailândia",
+    "country": "Brazil",
+    "latitude": -2.9360959997543485,
+    "longitude": -48.9523366,
+    "other_names": {
+      "name": "Tailândia"
+    }
+  },
+  {
+    "name": "Tainai",
+    "country": "Japan",
+    "latitude": 38.05968929999041,
+    "longitude": 139.4102658,
+    "other_names": {
+      "name": "胎内市",
+      "name:ar": "تايناي، نييغاتا",
+      "name:de": "Tainai",
+      "name:en": "Tainai",
+      "name:es": "Tainai",
+      "name:fr": "Tainai",
+      "name:ja": "胎内市",
+      "name:ko": "다이나이시",
+      "name:pl": "Tainai",
+      "name:ru": "Тайнай",
+      "name:uk": "Тайнай",
+      "int_name": "Tainai",
+      "name:ja_rm": "Tainai-shi",
+      "name:ja_kana": "たいないし"
+    }
+  }
+]

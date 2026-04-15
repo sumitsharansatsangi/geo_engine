@@ -1,0 +1,388 @@
+[
+  {
+    "name": "An Nil",
+    "country": "Iraq",
+    "latitude": 32.54124569959306,
+    "longitude": 44.5458951,
+    "other_names": {
+      "name": "النيل",
+      "name:ar": "النيل",
+      "name:de": "An Nil",
+      "name:en": "An Nil",
+      "name:fr": "An Nil",
+      "alt_name": "Nāḩiyat an Nīl, ناحية النيل, Nahiyat an Nil, ناحية النيل",
+      "int_name": "An Nil - النيل"
+    }
+  },
+  {
+    "name": "Anning",
+    "country": "China",
+    "latitude": 36.107374799746374,
+    "longitude": 103.7080952,
+    "other_names": {
+      "name": "安宁区",
+      "name:en": "Anning",
+      "name:vi": "An Ninh",
+      "name:zh": "安宁区",
+      "alt_name": "安宁;Anning District",
+      "name:zh-Hant": "安寧區",
+      "name:zh_pinyin": "Ānníng qū"
+    }
+  },
+  {
+    "name": "Anning",
+    "country": "China",
+    "latitude": 24.92487080026433,
+    "longitude": 102.48442869999998,
+    "other_names": {
+      "name": "安宁市",
+      "name:de": "Anning",
+      "name:en": "Anning",
+      "name:fr": "Anning",
+      "name:ja": "安寧市",
+      "name:ru": "Ляньжан",
+      "name:vi": "An Ninh",
+      "name:zh": "安宁市",
+      "alt_name": "安宁;Anning City",
+      "int_name": "Anning",
+      "name:zh-Hant": "安寧市",
+      "name:zh_pinyin": "Ānníng Shì"
+    }
+  },
+  {
+    "name": "Anniston",
+    "country": "United States Of America",
+    "latitude": 33.659442199592874,
+    "longitude": -85.83163259999999,
+    "other_names": {
+      "name": "Anniston"
+    }
+  },
+  {
+    "name": "Anouvong",
+    "country": "Laos",
+    "latitude": 18.897693600307175,
+    "longitude": 103.09247929999998,
+    "other_names": {
+      "name": "ອະນຸວົງ",
+      "name:en": "Anouvong",
+      "name:ja": "セゾーブン",
+      "name:lo": "ອະນຸວົງ",
+      "alt_name": "ໄຊສົມບູນ;Xaysomboun",
+      "name:alt": "Saysomboune"
+    }
+  },
+  {
+    "name": "Anping",
+    "country": "China",
+    "latitude": 38.22948810001454,
+    "longitude": 115.5137046,
+    "other_names": {
+      "name": "安平县",
+      "name:en": "Anping",
+      "name:vi": "An Bình",
+      "name:zh": "安平县",
+      "alt_name": "安平",
+      "alt_name:en": "Anping County",
+      "alt_name:zh": "安平",
+      "name:zh-Hans": "安平县",
+      "name:zh-Hant": "安平縣",
+      "official_name": "安平镇",
+      "name:zh_pinyin": "Anping Xian"
+    }
+  },
+  {
+    "name": "Anqing",
+    "country": "China",
+    "latitude": 30.52761609969542,
+    "longitude": 117.05159559999998,
+    "other_names": {
+      "name": "安庆市",
+      "name:de": "Anqing",
+      "name:en": "Anqing",
+      "name:eo": "Ankingo",
+      "name:et": "Anqing",
+      "name:fr": "Anqing",
+      "name:hi": "अंकिंग",
+      "name:ja": "安慶市",
+      "name:pt": "Anquim",
+      "name:ru": "Аньцин",
+      "name:uk": "Аньцін",
+      "name:vi": "An Khánh",
+      "name:zh": "安庆市",
+      "alt_name": "安庆;Anqing City;Anking",
+      "int_name": "Anqing",
+      "old_name": "安庆军;安庆府;安庆郡;安庆道;安庐滁和道",
+      "name:zh-Hant": "安慶市",
+      "name:zh_pinyin": "Ānqìng Shì"
+    }
+  },
+  {
+    "name": "Anqiu",
+    "country": "China",
+    "latitude": 36.47947049978642,
+    "longitude": 119.21298180000001,
+    "other_names": {
+      "name": "安丘市",
+      "name:de": "Anqiu",
+      "name:en": "Anqiu",
+      "name:fr": "Anqiu",
+      "name:ja": "安丘市",
+      "name:ru": "Аньцю",
+      "name:vi": "An Khâu",
+      "name:zh": "安丘市",
+      "name:zh-Hant": "安丘市",
+      "name:zh_pinyin": "Ānqiū Shì"
+    }
+  },
+  {
+    "name": "Anren",
+    "country": "China",
+    "latitude": 26.712946500089284,
+    "longitude": 113.26394850000001,
+    "other_names": {
+      "name": "安仁县",
+      "name:de": "Anren",
+      "name:en": "Anren",
+      "name:fa": "شهرستان آنرن",
+      "name:fr": "Xian d'Anren",
+      "name:it": "Contea di Anren",
+      "name:ja": "安仁県",
+      "name:ko": "안런현",
+      "name:no": "Anren",
+      "name:ru": "Аньжэнь",
+      "name:sv": "Anren",
+      "name:vi": "An Nhân",
+      "name:zh": "安仁县",
+      "alt_name": "安仁;An-jen Hsien;Anren County",
+      "name:ceb": "Anren Xian",
+      "name:gan": "安仁",
+      "name:hak": "Ôn-yìn-yen",
+      "name:nan": "An-jîn-koān",
+      "name:yue": "安仁",
+      "name:zh-Hant": "安仁縣",
+      "name:zh_pinyin": "ānrén xiàn"
+    }
+  },
+  {
+    "name": "Ansai",
+    "country": "China",
+    "latitude": 36.86317189983144,
+    "longitude": 109.3217915,
+    "other_names": {
+      "name": "安塞区",
+      "name:en": "Ansai",
+      "name:ru": "Чжэньудун",
+      "name:vi": "Chân Vũ Đỗng",
+      "name:zh": "安塞区",
+      "alt_name": "安塞;真武洞街道;真武洞;Zhenwudong",
+      "old_name": "真武洞镇;安塞县",
+      "name:zh-Hant": "安塞區"
+    }
+  },
+  {
+    "name": "Ansan-si",
+    "country": "South Korea",
+    "latitude": 37.3217151998895,
+    "longitude": 126.8308604,
+    "other_names": {
+      "name": "안산시",
+      "name:de": "Ansan",
+      "name:en": "Ansan-si",
+      "name:es": "Ansan",
+      "name:et": "Ansan",
+      "name:fr": "Ansan",
+      "name:ja": "安山市",
+      "name:ko": "안산시",
+      "name:zh": "安山市",
+      "int_name": "Ansan",
+      "name:ko-Hani": "安山市",
+      "name:zh-Hant": "安山市"
+    }
+  },
+  {
+    "name": "Anseong-si",
+    "country": "South Korea",
+    "latitude": 37.00777299984928,
+    "longitude": 127.27997099999999,
+    "other_names": {
+      "name": "안성시",
+      "name:de": "Anseong",
+      "name:en": "Anseong-si",
+      "name:es": "Anseong",
+      "name:et": "Anseong",
+      "name:fr": "Anseong",
+      "name:ja": "安城市",
+      "name:ko": "안성시",
+      "name:zh": "安城市",
+      "int_name": "Anseong",
+      "name:ko-Hani": "安城市"
+    }
+  },
+  {
+    "name": "Anshan",
+    "country": "China",
+    "latitude": 41.10751900040399,
+    "longitude": 122.99031370000002,
+    "other_names": {
+      "name": "鞍山市",
+      "name:de": "Anshan",
+      "name:en": "Anshan",
+      "name:eo": "Anŝano",
+      "name:et": "Anshan",
+      "name:fr": "Anshan",
+      "name:hi": "अनशन",
+      "name:ja": "鞍山市",
+      "name:ko": "안산시",
+      "name:oc": "Anshan",
+      "name:pt": "Anshan",
+      "name:ru": "Аньшань",
+      "name:vi": "An Sơn",
+      "name:zh": "鞍山市",
+      "name:zh-Hant": "鞍山市",
+      "name:zh_pinyin": "Ānshān Shì"
+    }
+  },
+  {
+    "name": "Anshun",
+    "country": "China",
+    "latitude": 26.25491100013805,
+    "longitude": 105.94377729999998,
+    "other_names": {
+      "name": "安顺市",
+      "name:de": "Anshun",
+      "name:en": "Anshun",
+      "name:et": "Anshun",
+      "name:fr": "Anshun",
+      "name:ja": "安順市",
+      "name:pt": "Anshun",
+      "name:ru": "Аньшунь",
+      "name:uk": "Аньшунь",
+      "name:vi": "An Thuận",
+      "name:zh": "安顺市",
+      "name:zh-Hant": "安順市",
+      "name:zh_pinyin": "Ānshùn Shì"
+    }
+  },
+  {
+    "name": "Ansonia",
+    "country": "United States Of America",
+    "latitude": 41.342992200428576,
+    "longitude": -73.0787468,
+    "other_names": {
+      "name": "Ansonia"
+    }
+  },
+  {
+    "name": "ANSOUMANIYA PLATEAU",
+    "country": "Guinea",
+    "latitude": 9.690232799424,
+    "longitude": -13.536958699999998,
+    "other_names": {
+      "name": "ANSOUMANIYA PLATEAU"
+    }
+  },
+  {
+    "name": "ANSOUMANYAH VILLAGE",
+    "country": "Guinea",
+    "latitude": 9.710452999424842,
+    "longitude": -13.541464800000002,
+    "other_names": {
+      "name": "ANSOUMANYAH VILLAGE"
+    }
+  },
+  {
+    "name": "Antalya",
+    "country": "Turkey",
+    "latitude": 36.90096409983605,
+    "longitude": 30.695484599999993,
+    "other_names": {
+      "name": "Antalya",
+      "name:ar": "أنطاليا",
+      "name:el": "Αττάλεια",
+      "name:en": "Antalya",
+      "name:he": "אנטליה",
+      "name:hi": "अंताल्या",
+      "name:ja": "アンタルヤ",
+      "name:lt": "Antalija",
+      "name:pt": "Antália",
+      "name:ru": "Анталья",
+      "name:sr": "Анталија",
+      "name:uk": "Анталія",
+      "old_name": "Adalia;Attaleia"
+    }
+  },
+  {
+    "name": "Antananarivo",
+    "country": "Madagascar",
+    "latitude": -18.91001220045104,
+    "longitude": 47.5255809,
+    "other_names": {
+      "name": "Antananarivo",
+      "name:am": "አንታናናሪቮ",
+      "name:ar": "أنتاناناريفو",
+      "name:az": "Antananarivu",
+      "name:be": "Антананарыву",
+      "name:bg": "Антананариво",
+      "name:bo": "ཨེན་ཊ་ན་ན་རི་བོ།",
+      "name:de": "Antananarivo",
+      "name:el": "Ανταναναρίβο",
+      "name:en": "Antananarivo",
+      "name:eo": "Antananarivo",
+      "name:es": "Antananarivo",
+      "name:eu": "Antananarivo",
+      "name:fa": "آنتاناناریوو",
+      "name:fr": "Antananarivo",
+      "name:he": "אנטננריבו",
+      "name:hi": "अन्टाननरीवो",
+      "name:hu": "Antananarivo",
+      "name:hy": "Անտանանարիվու",
+      "name:is": "Antananarívó",
+      "name:ja": "アンタナナリボ",
+      "name:ka": "ანტანანარივუ",
+      "name:kn": "ಅನ್ಟಾನನರೀವೋ",
+      "name:ko": "안타나나리보",
+      "name:ku": "Antananarivo",
+      "name:ky": "Антананариву",
+      "name:lt": "Antananaryvas",
+      "name:lv": "Antananarivu",
+      "name:mk": "Антананариво",
+      "name:ml": "ആന്റനനറീവൊ",
+      "name:mr": "अंतानानारिव्हो",
+      "name:oc": "Antananarivo",
+      "name:os": "Антананариву",
+      "name:pl": "Antananarywa",
+      "name:pt": "Antananarivo",
+      "name:ru": "Антананариву",
+      "name:so": "Antananarifo",
+      "name:sr": "Антананариво",
+      "name:sv": "Antananarivo",
+      "name:ta": "அண்டனானரீவோ",
+      "name:tg": "Антананариву",
+      "name:th": "อันตานานาริโว",
+      "name:uk": "Антананаріву",
+      "name:ur": "اینٹانانیریو",
+      "name:wo": "Antananariwo",
+      "name:zh": "塔那那利佛",
+      "loc_name": "Tana",
+      "name:ckb": "ئانتاناناریڤۆ",
+      "name:mrj": "Антананариву",
+      "name:pnb": "انٹاناناریوو",
+      "name:udm": "Антананариву",
+      "old_name": "Tananarive",
+      "name:be-tarask": "Антананарыва"
+    }
+  },
+  {
+    "name": "Antigua Guatemala",
+    "country": "Guatemala",
+    "latitude": 14.558987499855238,
+    "longitude": -90.73332579999999,
+    "other_names": {
+      "name": "Antigua Guatemala",
+      "name:de": "Alt-Guatemala",
+      "alt_name": "Muy Noble y Muy Leal Ciudad de Santiago de los Caballeros de Guatemala",
+      "short_name": "Antigua"
+    }
+  }
+]

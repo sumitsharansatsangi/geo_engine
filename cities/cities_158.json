@@ -1,0 +1,305 @@
+[
+  {
+    "name": "Gresham",
+    "country": "United States Of America",
+    "latitude": 45.49974750041287,
+    "longitude": -122.4309766,
+    "other_names": {
+      "name": "Gresham",
+      "name:ja": "グレシャム"
+    }
+  },
+  {
+    "name": "Griffith",
+    "country": "Australia",
+    "latitude": -34.287077199744076,
+    "longitude": 146.05510219999996,
+    "other_names": {
+      "name": "Griffith",
+      "name:en": "Griffith",
+      "name:ja": "グリフィス",
+      "name:ru": "Гриффит",
+      "name:uk": "Гріффіт"
+    }
+  },
+  {
+    "name": "Groningen",
+    "country": "Netherlands",
+    "latitude": 53.21906519909767,
+    "longitude": 6.5680077,
+    "other_names": {
+      "name": "Groningen",
+      "name:ar": "خرونينغن",
+      "name:de": "Groningen",
+      "name:en": "Groningen",
+      "name:eo": "Groningo",
+      "name:es": "Groninga",
+      "name:fr": "Groningue",
+      "name:fy": "Grins",
+      "name:hu": "Groningen",
+      "name:it": "Groninga",
+      "name:ja": "フローニンゲン",
+      "name:la": "Groninga",
+      "name:nl": "Groningen",
+      "name:pt": "Groninga",
+      "name:ru": "Гронинген",
+      "name:sr": "Гронинген",
+      "name:uk": "Гронінген",
+      "loc_name": "Stad",
+      "name:nds": "Grunnen",
+      "name:pcd": "Groningue",
+      "name:vls": "Groniengn",
+      "name:zh-Hans": "格罗宁根",
+      "name:zh-Hant": "格羅寧根"
+    }
+  },
+  {
+    "name": "Grosseto",
+    "country": "Italy",
+    "latitude": 42.75972610052908,
+    "longitude": 11.113738900000001,
+    "other_names": {
+      "name": "Grosseto",
+      "name:el": "Γκροσέτο",
+      "name:en": "Grosseto",
+      "name:eo": "Groseto",
+      "name:ru": "Гроссето",
+      "name:zh": "格罗塞托"
+    }
+  },
+  {
+    "name": "Grozny",
+    "country": "Russia",
+    "latitude": 43.31009381431153,
+    "longitude": 45.66358454349436,
+    "other_names": {
+      "name": "Грозный",
+      "name:ar": "غروزني",
+      "name:ce": "Соьлжа-ГӀала",
+      "name:de": "Grosny",
+      "name:en": "Grozny",
+      "name:fa": "گروزنی",
+      "name:it": "Grozny",
+      "name:sr": "Грозни",
+      "name:ur": "گروزنی",
+      "name:zh": "格罗兹尼",
+      "name:azb": "قروزنی"
+    }
+  },
+  {
+    "name": "Grozny",
+    "country": "Russia",
+    "latitude": 43.3197031005416,
+    "longitude": 45.693430799999994,
+    "other_names": {
+      "name": "Грозный",
+      "name:av": "Сунж-хъала",
+      "name:az": "Qroznı",
+      "name:ca": "Grozni",
+      "name:ce": "Соьлжа-ГӀала",
+      "name:de": "Grosny",
+      "name:en": "Grozny",
+      "name:es": "Grozni",
+      "name:et": "Groznõi",
+      "name:fr": "Grozny",
+      "name:hy": "Գրոզնի",
+      "name:ka": "გროზნო",
+      "name:ku": "Grosnî",
+      "name:lt": "Groznas",
+      "name:nl": "Grozny",
+      "name:os": "Грозна",
+      "name:pl": "Grozny",
+      "name:ru": "Грозный",
+      "name:sk": "Groznyj",
+      "name:sr": "Грозни",
+      "name:sv": "Groznyj",
+      "name:uk": "Грозний",
+      "name:uz": "Grozniy",
+      "name:zh": "格罗兹尼",
+      "int_name": "Grozny",
+      "name:hsb": "Groznyj",
+      "name:kbd": "Грознэ"
+    }
+  },
+  {
+    "name": "Grudziądz",
+    "country": "Poland",
+    "latitude": 53.4876476991183,
+    "longitude": 18.7557759,
+    "other_names": {
+      "name": "Grudziądz",
+      "name:be": "Грудзёндз",
+      "name:de": "Graudenz",
+      "name:ja": "グルジョンツ",
+      "name:lt": "Grudziondzas",
+      "name:mk": "Груѓонѕ",
+      "name:pl": "Grudziądz",
+      "name:ru": "Грудзёндз",
+      "name:uk": "Грудзьондз"
+    }
+  },
+  {
+    "name": "Gu",
+    "country": "China",
+    "latitude": 36.26305129976267,
+    "longitude": 111.9149253,
+    "other_names": {
+      "name": "古县",
+      "name:en": "Gu",
+      "name:ja": "古県",
+      "name:zh": "古县",
+      "alt_name": "古;Yueyang;Yueh-yang;Ku-hsien;Chiu-an-tse;An-tse-hsien;An-tse-ch'eng;An-tse;Guxian",
+      "name:zh-Hant": "古縣"
+    }
+  },
+  {
+    "name": "Guacara",
+    "country": "Venezuela",
+    "latitude": 10.227612799449776,
+    "longitude": -67.87755599999998,
+    "other_names": {
+      "name": "Guacara"
+    }
+  },
+  {
+    "name": "Guadalajara",
+    "country": "Spain",
+    "latitude": 40.632697900349115,
+    "longitude": -3.1646066999999998,
+    "other_names": {
+      "name": "Guadalajara",
+      "name:ar": "وادي الحجارة",
+      "name:be": "Гвадалахара",
+      "name:ca": "Guadalajara",
+      "name:el": "Γουαδαλαχάρα",
+      "name:es": "Guadalajara",
+      "name:fa": "گوادالاخارا",
+      "name:ja": "グアダラハラ",
+      "name:oc": "Guadalajara",
+      "name:ru": "Гвадалахара",
+      "name:sr": "Гвадалахара",
+      "name:ur": "گوادالاخارا",
+      "alt_name:ar": "غوادالاجارا",
+      "old_name:ar": "مدينة الفرج"
+    }
+  },
+  {
+    "name": "Guadalajara",
+    "country": "Mexico",
+    "latitude": 20.672037500396893,
+    "longitude": -103.33839599999999,
+    "other_names": {
+      "name": "Guadalajara",
+      "name:ar": "غوادالاخارا",
+      "name:en": "Guadalajara",
+      "name:es": "Guadalajara",
+      "name:pl": "Guadalajara",
+      "name:pt": "Guadalajara",
+      "name:ru": "Гвадалахара",
+      "name:uk": "Ґвадалахара",
+      "name:zh": "瓜达拉哈拉"
+    }
+  },
+  {
+    "name": "Guadalupe",
+    "country": "Mexico",
+    "latitude": 22.74703590039279,
+    "longitude": -102.51619879999998,
+    "other_names": {
+      "name": "Guadalupe"
+    }
+  },
+  {
+    "name": "Guadalupe",
+    "country": "Peru",
+    "latitude": -7.243320599721195,
+    "longitude": -79.4703695,
+    "other_names": {
+      "name": "Guadalupe",
+      "alt_name": "Guadalupe",
+      "int_name": "Guadalupe, Provincia Pacasmayo"
+    }
+  },
+  {
+    "name": "Guadalupe",
+    "country": "El Salvador",
+    "latitude": 13.618645799746766,
+    "longitude": -88.87995819999999,
+    "other_names": {
+      "name": "Guadalupe"
+    }
+  },
+  {
+    "name": "Guadalupe",
+    "country": "Mexico",
+    "latitude": 25.675111400196414,
+    "longitude": -100.21517529999998,
+    "other_names": {
+      "name": "Guadalupe"
+    }
+  },
+  {
+    "name": "Gualeguaychu",
+    "country": "Argentina",
+    "latitude": -33.0078584995292,
+    "longitude": -58.51034659999999,
+    "other_names": {
+      "name": "Gualeguaychú",
+      "name:en": "Gualeguaychu"
+    }
+  },
+  {
+    "name": "Guamúchil",
+    "country": "Mexico",
+    "latitude": 25.457549200217088,
+    "longitude": -108.07554369999998,
+    "other_names": {
+      "name": "Guamúchil",
+      "official_name": "Guamúchil"
+    }
+  },
+  {
+    "name": "Gu'an",
+    "country": "China",
+    "latitude": 39.444283200189865,
+    "longitude": 116.29714919999999,
+    "other_names": {
+      "name": "固安县",
+      "name:en": "Gu'an",
+      "name:vi": "Cố An",
+      "name:zh": "固安县",
+      "alt_name": "固安;Gu'an County",
+      "name:zh-Hant": "固安縣",
+      "official_name": "固安镇",
+      "name:zh_pinyin": "Gu'an Xian"
+    }
+  },
+  {
+    "name": "Guanajuato",
+    "country": "Mexico",
+    "latitude": 21.015884800404635,
+    "longitude": -101.2528406,
+    "other_names": {
+      "name": "Guanajuato",
+      "name:en": "Guanajuato",
+      "name:es": "Guanajuato",
+      "name:pl": "Guanajuato",
+      "name:ru": "Гуанахуато",
+      "name:uk": "Ґуанахуато",
+      "name:zh": "聯合花園"
+    }
+  },
+  {
+    "name": "Guanare",
+    "country": "Venezuela",
+    "latitude": 9.040785499402407,
+    "longitude": -69.7412593,
+    "other_names": {
+      "name": "Guanare",
+      "name:en": "Guanare",
+      "name:ru": "Гуанаре",
+      "name:uk": "Гуанаре",
+      "alt_name": "Guanaguanare"
+    }
+  }
+]

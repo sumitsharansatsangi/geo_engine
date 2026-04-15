@@ -1,0 +1,324 @@
+[
+  {
+    "name": "Ponte de Sor",
+    "country": "Portugal",
+    "latitude": 39.2519303001623,
+    "longitude": -8.008997,
+    "other_names": {
+      "name": "Ponte de Sor"
+    }
+  },
+  {
+    "name": "Pontevedra",
+    "country": "Spain",
+    "latitude": 42.43188760051403,
+    "longitude": -8.6431592,
+    "other_names": {
+      "name": "Pontevedra",
+      "name:ar": "بونتيفيدرا",
+      "name:be": "Пантэведра",
+      "name:ca": "Pontevedra",
+      "name:el": "Ποντεβέδρα",
+      "name:es": "Pontevedra",
+      "name:fa": "پنتبدرا",
+      "name:gl": "Pontevedra",
+      "name:ja": "ポンテベドラ",
+      "name:pt": "Ponte Vedra",
+      "name:ru": "Понтеведра",
+      "name:sr": "Понтеведра",
+      "name:zh": "蓬特韋德拉",
+      "alt_name": "Ponte Vedra",
+      "alt_name:gl": "Ponte Vedra",
+      "official_name": "Pontevedra"
+    }
+  },
+  {
+    "name": "Pontianak",
+    "country": "Indonesia",
+    "latitude": -0.022690299997676106,
+    "longitude": 109.3447488,
+    "other_names": {
+      "name": "Pontianak",
+      "name:en": "Pontianak",
+      "name:ja": "ポンティアナック",
+      "name:ru": "Понтианак",
+      "name:uk": "Понтіанак",
+      "name:zh": "坤甸"
+    }
+  },
+  {
+    "name": "Poonch",
+    "country": "India",
+    "latitude": 33.767000399595204,
+    "longitude": 74.0957143,
+    "other_names": {
+      "name": "Poonch",
+      "name:ar": "بونش",
+      "name:hi": "पुंछ",
+      "name:ta": "பூஞ்ச்",
+      "name:ur": "پونچھ",
+      "name:pnb": "پونچھ",
+      "alt_name:ar": "بونتش"
+    }
+  },
+  {
+    "name": "Popayán",
+    "country": "Colombia",
+    "latitude": 2.4422294997398564,
+    "longitude": -76.60723679999998,
+    "other_names": {
+      "name": "Popayán",
+      "name:en": "Popayán",
+      "name:ru": "Попаян",
+      "name:uk": "Попаян"
+    }
+  },
+  {
+    "name": "Poquoson",
+    "country": "United States Of America",
+    "latitude": 37.12198849986368,
+    "longitude": -76.3965772,
+    "other_names": {
+      "name": "Poquoson"
+    }
+  },
+  {
+    "name": "Porbandar",
+    "country": "India",
+    "latitude": 21.640900000410177,
+    "longitude": 69.611,
+    "other_names": {
+      "name": "Porbandar",
+      "name:ar": "بوربندر",
+      "name:en": "Porbandar",
+      "name:gu": "પોરબંદર",
+      "name:he": "פורבנדר",
+      "name:hi": "पोरबन्दर",
+      "name:ja": "ポールバンダル",
+      "name:kn": "ಪೋರ್ಬಂದರ್",
+      "name:ml": "പോർബന്തർ",
+      "name:mr": "पोरबन्दर",
+      "name:ru": "Порбандар",
+      "name:ta": "போர்பந்தர்",
+      "name:te": "పోర్‌బందర్",
+      "name:uk": "Порбандар"
+    }
+  },
+  {
+    "name": "Pordenone",
+    "country": "Italy",
+    "latitude": 45.95625030034924,
+    "longitude": 12.6597197,
+    "other_names": {
+      "name": "Pordenone",
+      "name:de": "Portenau",
+      "name:el": "Πορντενόνε",
+      "name:la": "Portus Naonis",
+      "name:ru": "Порденоне",
+      "name:sl": "Pordenon",
+      "name:zh": "波代諾內",
+      "name:fur": "Pordenon",
+      "name:vec": "Pordenon"
+    }
+  },
+  {
+    "name": "Pori",
+    "country": "Finland",
+    "latitude": 61.486554201700514,
+    "longitude": 21.796895099999997,
+    "other_names": {
+      "name": "Pori",
+      "name:fi": "Pori",
+      "name:hu": "Pori",
+      "name:la": "Arctopolis",
+      "name:no": "Björneborg",
+      "name:ru": "Пори",
+      "name:sr": "Пори",
+      "name:sv": "Björneborg",
+      "old_name:de": "Bjorneborgh",
+      "name:sr-Latn": "Peri"
+    }
+  },
+  {
+    "name": "Porirua",
+    "country": "New Zealand",
+    "latitude": -41.13546960102058,
+    "longitude": 174.8398067,
+    "other_names": {
+      "name": "Porirua",
+      "name:ja": "ポリルア",
+      "name:mi": "Pari-ā-Rua",
+      "name:mk": "Порируа",
+      "name:ru": "Порируа"
+    }
+  },
+  {
+    "name": "Porlamar",
+    "country": "Venezuela",
+    "latitude": 10.963857799496045,
+    "longitude": -63.850742399999994,
+    "other_names": {
+      "name": "Porlamar",
+      "name:ja": "ポルラマル",
+      "old_name": "Puerto de La Mar"
+    }
+  },
+  {
+    "name": "Porsgrunn",
+    "country": "Norway",
+    "latitude": 59.14075900132387,
+    "longitude": 9.6562495,
+    "other_names": {
+      "name": "Porsgrunn",
+      "name:ru": "Порсгрунн"
+    }
+  },
+  {
+    "name": "Portachuelo",
+    "country": "Bolivia",
+    "latitude": -17.354594900474044,
+    "longitude": -63.394647699999986,
+    "other_names": {
+      "name": "Portachuelo",
+      "old_name:1770-1826": "La Inmaculada Concepción de la Virgen María de Portachuelo"
+    }
+  },
+  {
+    "name": "Portage la Prairie",
+    "country": "Canada",
+    "latitude": 49.97242199945858,
+    "longitude": -98.289185,
+    "other_names": {
+      "name": "Portage la Prairie",
+      "name:en": "Portage la Prairie",
+      "name:uk": "Портедж-ла-Прері"
+    }
+  },
+  {
+    "name": "Port Alberni",
+    "country": "Canada",
+    "latitude": 49.234366799634486,
+    "longitude": -124.80565170000001,
+    "other_names": {
+      "name": "Port Alberni"
+    }
+  },
+  {
+    "name": "Portalegre",
+    "country": "Portugal",
+    "latitude": 39.29113470016795,
+    "longitude": -7.433388699999999,
+    "other_names": {
+      "name": "Portalegre",
+      "name:ar": "بورتاليغري",
+      "name:el": "Πορταλέγκρε",
+      "name:fa": "پرتالگره",
+      "name:hu": "Portalegre",
+      "name:lt": "Portalegrė",
+      "name:ur": "پورتالیگرے",
+      "alt_name:ar": "بورتاليجري"
+    }
+  },
+  {
+    "name": "Port Augusta",
+    "country": "Australia",
+    "latitude": -32.4908818994621,
+    "longitude": 137.76398739999996,
+    "other_names": {
+      "name": "Port Augusta",
+      "name:en": "Port Augusta",
+      "name:ja": "ポートオーガスタ",
+      "name:ru": "Порт-Огаста",
+      "name:uk": "Порт-Огаста"
+    }
+  },
+  {
+    "name": "Port-au-Prince",
+    "country": "Haiti And Domrep",
+    "latitude": 18.547327000280536,
+    "longitude": -72.3395928,
+    "other_names": {
+      "name": "Port-au-Prince",
+      "name:am": "ፖርቶፕሪንስ",
+      "name:ar": "بورت أو برنس",
+      "name:az": "Port-o-Prins",
+      "name:be": "Порт-о-Прэнс",
+      "name:bg": "Порт о Пренс",
+      "name:bn": "পোর্ট-অ-প্রিন্স",
+      "name:bo": "པོ་རོ་ཊི་ཨའུ་པི་རིན་སི་",
+      "name:de": "Port-au-Prince",
+      "name:el": "Πορτ-ο-Πρενς",
+      "name:en": "Port-au-Prince",
+      "name:eo": "Portoprinco",
+      "name:es": "Puerto Príncipe",
+      "name:eu": "Port-au-Prince",
+      "name:fa": "پورت او پرنس",
+      "name:fr": "Port-au-Prince",
+      "name:gl": "Porto Príncipe",
+      "name:he": "פורט-או-פרנס",
+      "name:hi": "पोर्ट-ऑ-प्रिंस",
+      "name:ht": "Pòtoprens",
+      "name:hu": "Port-au-Prince",
+      "name:hy": "Պորտ-օ-Պրենս",
+      "name:is": "Port-au-Prince",
+      "name:ja": "ポルトープランス",
+      "name:ka": "პორტ-ო-პრენსი",
+      "name:ko": "포르토프랭스",
+      "name:la": "Portus Principis",
+      "name:lt": "Port o Prensas",
+      "name:lv": "Portoprensa",
+      "name:mk": "Порт о Пренс",
+      "name:mr": "पोर्ट-औ-प्रिन्स",
+      "name:oc": "Port-au-Prince",
+      "name:os": "Порт-о-Пренс",
+      "name:pl": "Port-au-Prince",
+      "name:pt": "Porto Príncipe",
+      "name:qu": "Port au Prince",
+      "name:ru": "Порт-о-Пренс",
+      "name:sr": "Порт о Пренс",
+      "name:sv": "Port-au-Prince",
+      "name:ta": "போர்ட்-ஓ-பிரின்ஸ்",
+      "name:tg": "Порт-о-Пренс",
+      "name:th": "ปอร์โตแปรงซ์",
+      "name:uk": "Порт-о-Пренс",
+      "name:ur": "پورٹ او پرنس",
+      "name:zh": "太子港",
+      "name:pap": "Port au Prince",
+      "name:sah": "Порт-о-Пренс",
+      "name:yue": "太子港",
+      "short_name": "PAP",
+      "alt_name:mk": "Порт-о-Пренс",
+      "official_name": "Ville de Port-au-Prince",
+      "name:be-tarask": "Порт-о-Прэнс",
+      "official_name:ht": "Vil Pòtoprens"
+    }
+  },
+  {
+    "name": "Port Blair",
+    "country": "India",
+    "latitude": 11.664534799550829,
+    "longitude": 92.7390448,
+    "other_names": {
+      "name": "Port Blair",
+      "name:bn": "পোর্ট ব্লেয়ার",
+      "name:en": "Port Blair",
+      "name:he": "פורט בלייר",
+      "name:hi": "पोर्ट ब्लेयर",
+      "name:ja": "ポートブレア",
+      "name:kn": "ಪೋರ್ಟ್ ಬ್ಲೇರ್",
+      "name:ru": "Порт-Блэр",
+      "name:ta": "போர்ட் பிளேர்",
+      "name:uk": "Порт-Блер",
+      "name:zh": "布萊尔港"
+    }
+  },
+  {
+    "name": "Port-Bouët",
+    "country": "Ivory Coast",
+    "latitude": 5.256880999488893,
+    "longitude": -3.9586260000000006,
+    "other_names": {
+      "name": "Port-Bouët"
+    }
+  }
+]

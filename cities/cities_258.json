@@ -1,0 +1,311 @@
+[
+  {
+    "name": "Lashio",
+    "country": "Myanmar",
+    "latitude": 22.9333330003865,
+    "longitude": 97.75,
+    "other_names": {
+      "name": "လားရှိုး",
+      "pcode": "MMR015001701",
+      "name:ca": "Lashio",
+      "name:de": "Lashio",
+      "name:en": "Lashio",
+      "name:et": "Lashio",
+      "name:fr": "Lashio",
+      "name:it": "Lashio",
+      "name:ja": "ラーショー",
+      "name:ko": "라시오",
+      "name:lt": "Lašijas",
+      "name:my": "လားရှိုး",
+      "name:pl": "Lasho",
+      "name:ru": "Лашо",
+      "name:sv": "Lashio",
+      "name:uk": "Лашо",
+      "name:ur": "لاشیو",
+      "name:zh": "腊戌",
+      "alt_name": "ဝဵင်းလႃႈသဵဝ်ႈ",
+      "name:shn": "လႃႈသဵဝ်ႈ"
+    }
+  },
+  {
+    "name": "Lashkar Gah",
+    "country": "Afghanistan",
+    "latitude": 31.585227699626817,
+    "longitude": 64.3608959,
+    "other_names": {
+      "name": "لښکرګاه",
+      "name:ar": "لشكر كاه",
+      "name:cs": "Laškargáh",
+      "name:de": "Laschkar Gah",
+      "name:el": "Λασκάρ Γκαχ",
+      "name:en": "Lashkar Gah",
+      "name:es": "Lashkar Gah",
+      "name:fa": "لشکرگاه",
+      "name:fr": "Lashkar Gah",
+      "name:hi": "लश्करगाह",
+      "name:ja": "ラシュカルガー",
+      "name:lt": "Laškar Gahas",
+      "name:ps": "لښگرگاه",
+      "name:ru": "Лашкаргах",
+      "name:uk": "Лашкар Гах",
+      "int_name": "Lashkar Gah",
+      "old_name": "Bost",
+      "alt_name:cs": "Laškar Gáh"
+    }
+  },
+  {
+    "name": "Las Mercedes del Llano",
+    "country": "Venezuela",
+    "latitude": 9.107579899404135,
+    "longitude": -66.3993003,
+    "other_names": {
+      "name": "Las Mercedes del Llano"
+    }
+  },
+  {
+    "name": "La Spezia",
+    "country": "Italy",
+    "latitude": 44.10338710052888,
+    "longitude": 9.8217022,
+    "other_names": {
+      "name": "La Spezia",
+      "name:el": "Λα Σπέτσια",
+      "name:en": "La Spezia",
+      "name:fr": "La Spezia",
+      "name:ru": "Специя",
+      "name:uk": "Спеція",
+      "name:zh": "拉斯佩齐亚",
+      "name:lij": "Spèza",
+      "name:zh-Hant": "拉斯佩齊亞"
+    }
+  },
+  {
+    "name": "La Spezia",
+    "country": "Italy",
+    "latitude": 44.112620372722326,
+    "longitude": 9.822315131282775,
+    "other_names": {
+      "name": "La Spezia",
+      "name:zh": "拉斯佩齐亚",
+      "name:zh-Hant": "拉斯佩齊亞"
+    }
+  },
+  {
+    "name": "Las Piedras",
+    "country": "Uruguay",
+    "latitude": -34.72749039983179,
+    "longitude": -56.21649819999999,
+    "other_names": {
+      "name": "Las Piedras",
+      "name:lt": "Las Piedrasas",
+      "name:ru": "Лас-Пьедрас"
+    }
+  },
+  {
+    "name": "Las Piñas",
+    "country": "Philippines",
+    "latitude": 14.439379295993826,
+    "longitude": 120.99551049419811,
+    "other_names": {
+      "name": "Las Piñas",
+      "name:en": "Las Piñas"
+    }
+  },
+  {
+    "name": "Las Piñas",
+    "country": "Philippines",
+    "latitude": 14.480608899846027,
+    "longitude": 120.9819099,
+    "other_names": {
+      "name": "Las Piñas",
+      "name:en": "Las Piñas",
+      "name:ja": "ラスピニャス",
+      "name:ru": "Лас-Пиньяс"
+    }
+  },
+  {
+    "name": "Las Tejerías",
+    "country": "Venezuela",
+    "latitude": 10.253385699451186,
+    "longitude": -67.1733879,
+    "other_names": {
+      "name": "Las Tejerías"
+    }
+  },
+  {
+    "name": "Las Tunas",
+    "country": "Cuba",
+    "latitude": 20.956885800403544,
+    "longitude": -76.95372419999998,
+    "other_names": {
+      "name": "Las Tunas",
+      "name:hu": "Las Tunas",
+      "name:ru": "Лас-Тунас",
+      "name:uk": "Лас-Тунас"
+    }
+  },
+  {
+    "name": "Las Vegas",
+    "country": "Venezuela",
+    "latitude": 9.536857199417943,
+    "longitude": -68.6301609,
+    "other_names": {
+      "name": "Las Vegas"
+    }
+  },
+  {
+    "name": "Las Vegas",
+    "country": "United States Of America",
+    "latitude": 36.16725589975257,
+    "longitude": -115.14851599999997,
+    "other_names": {
+      "name": "Las Vegas",
+      "name:ar": "لاس فيغاس",
+      "name:bn": "লাস ভেগাস",
+      "name:fa": "لاس وگاس",
+      "name:he": "לאס וגאס",
+      "name:hy": "Լաս Վեգաս",
+      "name:ja": "ラスベガス",
+      "name:ka": "ლას-ვეგასი",
+      "name:ko": "라스베이거스",
+      "name:ml": "ലാസ് വെഗാസ്",
+      "name:mr": "लास व्हेगास",
+      "name:nv": "Na'azhoosh hatsoh",
+      "name:ru": "Лас-Вегас",
+      "name:sr": "Лас Вегас",
+      "name:ta": "லாஸ் வேகஸ்",
+      "name:te": "లాస్ వెగాస్",
+      "name:ur": "لاس ویگاس",
+      "name:yi": "לאס וועגאס",
+      "name:zh": "拉斯维加斯/拉斯維加斯",
+      "name:zh-Hans": "拉斯维加斯",
+      "name:zh-Hant": "拉斯維加斯"
+    }
+  },
+  {
+    "name": "Latacunga",
+    "country": "Ecuador",
+    "latitude": -0.9340310999084275,
+    "longitude": -78.61457579999998,
+    "other_names": {
+      "name": "Latacunga"
+    }
+  },
+  {
+    "name": "Latakia",
+    "country": "Syria",
+    "latitude": 35.5200184996913,
+    "longitude": 35.7781044,
+    "other_names": {
+      "name": "اللاذقية",
+      "name:ar": "اللاذقية",
+      "name:cs": "Latákia",
+      "name:de": "Latakia",
+      "name:el": "Λαοδικεία",
+      "name:en": "Latakia",
+      "name:es": "Latakia",
+      "name:et": "Latakia",
+      "name:fa": "لاذقیه",
+      "name:fi": "Lattakia",
+      "name:fr": "Lattaquié",
+      "name:he": "לטקיה",
+      "name:hi": "लैतकिया",
+      "name:hr": "Latakija",
+      "name:hu": "Latakia",
+      "name:it": "Laodicea",
+      "name:ja": "ラタキア",
+      "name:ko": "라타키아",
+      "name:ku": "Laziqiye",
+      "name:la": "Laodicea",
+      "name:lt": "Latakija",
+      "name:ml": "ലത്താക്ക്യ",
+      "name:nl": "Latakia",
+      "name:pt": "Lataquia",
+      "name:ru": "Латакия",
+      "name:tr": "Lazkiye",
+      "name:uk": "Латакія",
+      "name:ur": "لاذقیہ",
+      "name:zh": "拉塔基亚",
+      "int_name": "al-Lāḏikiyya",
+      "old_name": "Laodicea",
+      "alt_name:ar": "لاذقية العرب",
+      "alt_name:cs": "Lázikíja"
+    }
+  },
+  {
+    "name": "Latina",
+    "country": "Italy",
+    "latitude": 41.467282700440784,
+    "longitude": 12.903778899999999,
+    "other_names": {
+      "name": "Latina",
+      "name:el": "Λατίνα",
+      "name:en": "Latina",
+      "name:ru": "Латина",
+      "name:uk": "Латина",
+      "name:zh": "拉蒂纳"
+    }
+  },
+  {
+    "name": "Latur",
+    "country": "India",
+    "latitude": 18.398339300268425,
+    "longitude": 76.562087,
+    "other_names": {
+      "name": "Latur",
+      "name:ar": "لاتور",
+      "name:en": "Latur",
+      "name:hi": "लातूर",
+      "name:ja": "ラートゥール",
+      "name:kn": "ಲಾತುರ",
+      "name:mr": "लातूर",
+      "name:pa": "ਲਾਤੂਰ",
+      "name:ru": "Латур",
+      "name:uk": "Латур",
+      "name:ur": "لاتور"
+    }
+  },
+  {
+    "name": "Launceston",
+    "country": "Australia",
+    "latitude": -41.43408130102921,
+    "longitude": 147.13734959999996,
+    "other_names": {
+      "name": "Launceston",
+      "name:en": "Launceston",
+      "name:ja": "ローンセストン",
+      "name:mk": "Лонсестон",
+      "name:ru": "Лонсестон",
+      "name:uk": "Лонсестон",
+      "name:zh": "朗塞斯顿"
+    }
+  },
+  {
+    "name": "La Unión",
+    "country": "El Salvador",
+    "latitude": 13.337154599715547,
+    "longitude": -87.84305279999998,
+    "other_names": {
+      "name": "La Unión"
+    }
+  },
+  {
+    "name": "Laurel",
+    "country": "United States Of America",
+    "latitude": 39.104412300141036,
+    "longitude": -76.8669233,
+    "other_names": {
+      "name": "Laurel",
+      "name:ru": "Лорел"
+    }
+  },
+  {
+    "name": "Lauro de Freitas",
+    "country": "Brazil",
+    "latitude": -12.892420000201097,
+    "longitude": -38.3127691,
+    "other_names": {
+      "name": "Lauro de Freitas"
+    }
+  }
+]

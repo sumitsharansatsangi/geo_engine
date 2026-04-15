@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Itako",
+    "country": "Japan",
+    "latitude": 35.94717309973033,
+    "longitude": 140.55528189999998,
+    "other_names": {
+      "name": "潮来市",
+      "name:ar": "إتاكو، إيباراكي",
+      "name:de": "Itako",
+      "name:en": "Itako",
+      "name:es": "Itako",
+      "name:fr": "Itako",
+      "name:ja": "潮来市",
+      "name:ko": "이타코시",
+      "name:pl": "Itako",
+      "name:ru": "Итако",
+      "name:uk": "Ітако",
+      "int_name": "Itako",
+      "name:ja_rm": "Itako-shi",
+      "name:ja_kana": "いたこし"
+    }
+  },
+  {
+    "name": "Itami",
+    "country": "Japan",
+    "latitude": 34.78615899963801,
+    "longitude": 135.407994,
+    "other_names": {
+      "name": "伊丹市",
+      "name:ar": "إتامي، هيوغو",
+      "name:de": "Itami",
+      "name:en": "Itami",
+      "name:es": "Itami",
+      "name:fr": "Itami",
+      "name:ja": "伊丹市",
+      "name:ko": "이타미시",
+      "name:pl": "Itami",
+      "name:ru": "Итами",
+      "name:uk": "Ітамі",
+      "name:ja_rm": "Itami-shi",
+      "name:ja_kana": "いたみし"
+    }
+  },
+  {
+    "name": "Itanhaem",
+    "country": "Brazil",
+    "latitude": -24.184884699898205,
+    "longitude": -46.7921572,
+    "other_names": {
+      "name": "Itanhaém",
+      "name:en": "Itanhaem",
+      "name:pt": "Itanhaém"
+    }
+  },
+  {
+    "name": "Itapecerica da Serra",
+    "country": "Brazil",
+    "latitude": -23.717630299966032,
+    "longitude": -46.84924349999999,
+    "other_names": {
+      "name": "Itapecerica da Serra"
+    }
+  },
+  {
+    "name": "Itaperuna",
+    "country": "Brazil",
+    "latitude": -21.204800000285765,
+    "longitude": -41.88801,
+    "other_names": {
+      "name": "Itaperuna"
+    }
+  },
+  {
+    "name": "Itapetininga",
+    "country": "Brazil",
+    "latitude": -23.588606999984542,
+    "longitude": -48.048326,
+    "other_names": {
+      "name": "Itapetininga",
+      "name:ru": "Итапетинга"
+    }
+  },
+  {
+    "name": "Itapevi",
+    "country": "Brazil",
+    "latitude": -23.548879999990216,
+    "longitude": -46.93388899999999,
+    "other_names": {
+      "name": "Itapevi"
+    }
+  },
+  {
+    "name": "Itapipoca",
+    "country": "Brazil",
+    "latitude": -3.4993289997248973,
+    "longitude": -39.58357099999999,
+    "other_names": {
+      "name": "Itapipoca"
+    }
+  },
+  {
+    "name": "Itaquaquecetuba",
+    "country": "Brazil",
+    "latitude": -23.475449200000675,
+    "longitude": -46.351403299999994,
+    "other_names": {
+      "name": "Itaquaquecetuba"
+    }
+  },
+  {
+    "name": "Itatiba",
+    "country": "Brazil",
+    "latitude": -22.996586100067553,
+    "longitude": -46.8412042,
+    "other_names": {
+      "name": "Itatiba"
+    }
+  },
+  {
+    "name": "Itauguá",
+    "country": "Paraguay",
+    "latitude": -25.3947317997225,
+    "longitude": -57.353289200000006,
+    "other_names": {
+      "name": "Itauguá",
+      "alt_name:es": "Itagua"
+    }
+  },
+  {
+    "name": "Itea",
+    "country": "Greece",
+    "latitude": 38.432977671154276,
+    "longitude": 22.4263455658522,
+    "other_names": {
+      "name": "Itea"
+    }
+  },
+  {
+    "name": "Ithaca",
+    "country": "United States Of America",
+    "latitude": 42.439603900514456,
+    "longitude": -76.49680189999998,
+    "other_names": {
+      "name": "Ithaca",
+      "name:ru": "Итака",
+      "name:uk": "Ітака"
+    }
+  },
+  {
+    "name": "Ito",
+    "country": "Japan",
+    "latitude": 34.926733999646814,
+    "longitude": 139.087685,
+    "other_names": {
+      "name": "伊東市",
+      "name:ar": "إتو، شيزوكا",
+      "name:de": "Itō",
+      "name:en": "Ito",
+      "name:es": "Itō",
+      "name:fr": "Itō",
+      "name:ja": "伊東市",
+      "name:ko": "이토시",
+      "name:pl": "Itō",
+      "name:ru": "Ито",
+      "name:uk": "Іто",
+      "name:ja_rm": "Itō-shi",
+      "name:ja_kana": "いとうし"
+    }
+  },
+  {
+    "name": "Itoigawa",
+    "country": "Japan",
+    "latitude": 37.039034099853204,
+    "longitude": 137.8627939,
+    "other_names": {
+      "name": "糸魚川市",
+      "name:ar": "إتويغاوا، نييغاتا",
+      "name:de": "Itoigawa",
+      "name:en": "Itoigawa",
+      "name:es": "Itoigawa",
+      "name:fr": "Itoigawa",
+      "name:ja": "糸魚川市",
+      "name:ko": "이토이가와시",
+      "name:pl": "Itoigawa",
+      "name:ru": "Итоигава",
+      "name:uk": "Ітоїґава",
+      "int_name": "Itoigawa",
+      "name:ja_rm": "Itoigawa-shi",
+      "name:ja_kana": "いといがわし"
+    }
+  },
+  {
+    "name": "Itoman",
+    "country": "Japan",
+    "latitude": 26.106017000153443,
+    "longitude": 127.68606599999998,
+    "other_names": {
+      "name": "糸満市",
+      "name:ar": "إتومان، أوكيناوا",
+      "name:de": "Itoman",
+      "name:en": "Itoman",
+      "name:es": "Itoman",
+      "name:fr": "Itoman",
+      "name:ja": "糸満市",
+      "name:ko": "이토만시",
+      "name:pl": "Itoman",
+      "name:ru": "Итоман",
+      "name:uk": "Ітоман",
+      "name:zh": "丝满市",
+      "int_name": "Itoman",
+      "name:ja_rm": "Itoman-shi",
+      "name:ja_kana": "いとまんし",
+      "name:zh-Hans": "丝满市",
+      "name:zh-Hant": "絲滿市"
+    }
+  },
+  {
+    "name": "Itoshima",
+    "country": "Japan",
+    "latitude": 33.55724189959105,
+    "longitude": 130.19552419999997,
+    "other_names": {
+      "name": "糸島市",
+      "name:ar": "إيتوشيما",
+      "name:de": "Itoshima",
+      "name:en": "Itoshima",
+      "name:es": "Itoshima",
+      "name:fr": "Itoshima",
+      "name:ja": "糸島市",
+      "name:ko": "이토시마시",
+      "name:ru": "Итосима",
+      "name:uk": "Ітошіма",
+      "name:zh": "丝岛市",
+      "int_name": "Itoshima",
+      "alt_name:zh": "糸岛市",
+      "name:zh-Hans": "丝岛市",
+      "name:zh-Hant": "絲島市"
+    }
+  },
+  {
+    "name": "Itu",
+    "country": "Brazil",
+    "latitude": -23.263882800030526,
+    "longitude": -47.298892,
+    "other_names": {
+      "name": "Itu"
+    }
+  },
+  {
+    "name": "Ituiutaba",
+    "country": "Brazil",
+    "latitude": -18.96918870044871,
+    "longitude": -49.463933499999996,
+    "other_names": {
+      "name": "Ituiutaba",
+      "name:pt": "Ituiutaba",
+      "name:ru": "Итиютаба",
+      "name:uk": "Ітуютаба",
+      "name:zh": "伊图尤塔巴"
+    }
+  },
+  {
+    "name": "Itumbiara",
+    "country": "Brazil",
+    "latitude": -18.413586200466366,
+    "longitude": -49.21725959999999,
+    "other_names": {
+      "name": "Itumbiara"
+    }
+  }
+]

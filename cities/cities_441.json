@@ -1,0 +1,379 @@
+[
+  {
+    "name": "Sialkot",
+    "country": "Pakistan",
+    "latitude": 32.493537799594044,
+    "longitude": 74.5411575,
+    "other_names": {
+      "name": "سیالکوٹ",
+      "name:ar": "سيالكوت",
+      "name:de": "Sialkot",
+      "name:en": "Sialkot",
+      "name:es": "Sialkot",
+      "name:et": "Siālkot",
+      "name:fr": "Sialkot",
+      "name:hi": "सियालकोट",
+      "name:ja": "シアールコート",
+      "name:ru": "Сиялкот",
+      "name:sr": "Сијалкот",
+      "name:ur": "سیالکوٹ"
+    }
+  },
+  {
+    "name": "Šiauliai",
+    "country": "Lithuania",
+    "latitude": 55.93408229976019,
+    "longitude": 23.3157775,
+    "other_names": {
+      "name": "Šiauliai",
+      "name:ar": "شياولياي",
+      "name:ay": "Shawllay",
+      "name:az": "Şyaulyay",
+      "name:be": "Шаўляй",
+      "name:bg": "Шяуляй",
+      "name:de": "Schaulen",
+      "name:el": "Σιαουλιάι",
+      "name:en": "Šiauliai",
+      "name:es": "Šiauliai",
+      "name:fa": "شاولیای",
+      "name:fr": "Šiauliai",
+      "name:he": "שאולאי",
+      "name:ja": "シャウレイ",
+      "name:ka": "შიაულიაი",
+      "name:ko": "샤울랴이",
+      "name:lt": "Šiauliai",
+      "name:lv": "Šauļi",
+      "name:mn": "Шяуляй",
+      "name:mo": "Шяуляй",
+      "name:pl": "Szawle",
+      "name:ru": "Шяуляй",
+      "name:sr": "Шјауљај",
+      "name:th": "เชาเล",
+      "name:uk": "Шяуляй",
+      "name:ur": "شئولئی",
+      "name:uz": "Shyaulyay",
+      "name:yi": "שאַװל",
+      "name:zh": "希奥利艾",
+      "loc_name": "Saulės miestas",
+      "name:ltg": "Šauli",
+      "name:mhr": "Шяуляй",
+      "name:pnb": "شیاؤلیائی",
+      "name:vep": "Šäuläi",
+      "alt_name:ru": "Шауляй",
+      "old_name:be": "Шаўлі",
+      "old_name:lt": "Saule",
+      "old_name:ru": "Шавли",
+      "name:bat-smg": "Šiaulē"
+    }
+  },
+  {
+    "name": "Sibi",
+    "country": "Pakistan",
+    "latitude": 29.550009699781803,
+    "longitude": 67.88333979999999,
+    "other_names": {
+      "name": "سِبی",
+      "name:ar": "سبي",
+      "name:de": "Sibi",
+      "name:en": "Sibi",
+      "name:es": "Sibi",
+      "name:fr": "Sibi",
+      "name:hi": "सिबि",
+      "name:it": "Sibi",
+      "name:ja": "シビ",
+      "name:kn": "ಸಿಬಿ",
+      "name:pt": "Sibi",
+      "name:ru": "Сиби",
+      "name:ur": "سبی",
+      "name:ar1": "سيبي"
+    }
+  },
+  {
+    "name": "Sibiu",
+    "country": "Romania",
+    "latitude": 45.79739120037275,
+    "longitude": 24.1519202,
+    "other_names": {
+      "name": "Sibiu",
+      "name:ar": "سيبيو",
+      "name:de": "Hermannstadt",
+      "name:en": "Sibiu",
+      "name:es": "Sibiu",
+      "name:fr": "Sibiu",
+      "name:he": "סיביו",
+      "name:hu": "Nagyszeben",
+      "name:la": "Cibinium",
+      "name:pl": "Sybin",
+      "name:ru": "Сибиу",
+      "name:sk": "Sibiň",
+      "name:sr": "Сибињ",
+      "name:uk": "Сібіу",
+      "name:gem": "Härmeschtat",
+      "alt_name:de": "Herrmanstadt"
+    }
+  },
+  {
+    "name": "Sibolga",
+    "country": "Indonesia",
+    "latitude": 1.7369569998149552,
+    "longitude": 98.78461,
+    "other_names": {
+      "name": "Sibolga",
+      "name:en": "Sibolga",
+      "name:ja": "シボルガ",
+      "name:ru": "Сиболга",
+      "name:uk": "Сіболга",
+      "old_name": "Siboga"
+    }
+  },
+  {
+    "name": "Sibsagar",
+    "country": "India",
+    "latitude": 26.982730991070802,
+    "longitude": 94.64009238152572,
+    "other_names": {
+      "name": "Sibsagar"
+    }
+  },
+  {
+    "name": "Sibu",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 2.290643399755811,
+    "longitude": 111.8256158,
+    "other_names": {
+      "name": "Sibu",
+      "name:ja": "シブ",
+      "name:ru": "Сибу",
+      "name:uk": "Сібу",
+      "name:zh": "诗巫"
+    }
+  },
+  {
+    "name": "Sibut",
+    "country": "Central African Republic",
+    "latitude": 5.735082799459195,
+    "longitude": 19.0850538,
+    "other_names": {
+      "name": "Sibut",
+      "name:ru": "Сибю",
+      "name:uk": "Сіб'ю"
+    }
+  },
+  {
+    "name": "Siddipet",
+    "country": "India",
+    "latitude": 18.101773900243007,
+    "longitude": 78.8520128,
+    "other_names": {
+      "name": "Siddipet",
+      "name:en": "Siddipet",
+      "name:hi": "सिद्दिपेट",
+      "name:ja": "シディペット",
+      "name:kn": "ಸಿದ್ಧಿಪೇಟ್",
+      "name:te": "సిద్ధిపేట్"
+    }
+  },
+  {
+    "name": "Sidi Abdelrahman",
+    "country": "Egypt",
+    "latitude": 30.967356557358595,
+    "longitude": 28.737416481095256,
+    "other_names": {
+      "name": "سيدى عبد الرحمن Sidi Abdelrahman",
+      "name:ar": "سيدى عبد الرحمن",
+      "name:en": "Sidi Abdelrahman",
+      "name:fr": "Sidi-Abd-el-Rahman"
+    }
+  },
+  {
+    "name": "Sidi Abdel Rahman",
+    "country": "Egypt",
+    "latitude": 30.965152699663467,
+    "longitude": 28.743252199999997,
+    "other_names": {
+      "name": "سيدى عبد الرحمن",
+      "name:ar": "سيدى عبد الرحمن",
+      "name:de": "Sidi Abdelrahman",
+      "name:en": "Sidi Abdel Rahman",
+      "name:es": "Sidi Abdel Rahman",
+      "name:fr": "Sidi-Abd-el-Rahman",
+      "int_name": "Sīdī ‘Abd ar Raḩmān, Sidi Abd al Rahman"
+    }
+  },
+  {
+    "name": "Sidi Bel Abbes",
+    "country": "Algeria",
+    "latitude": 35.191168199665185,
+    "longitude": -0.6347284,
+    "other_names": {
+      "name": "Sidi Bel Abbès ⵙⵉⴷⵉ ⴱⵍⵄⴰⴱⴰⵙ سيدي بلعباس",
+      "name:ar": "سيدي بلعباس",
+      "name:el": "Σίντι Μπελ Αμπές",
+      "name:en": "Sidi Bel Abbes",
+      "name:fa": "سیدی بلعباس",
+      "name:fr": "Sidi Bel Abbès",
+      "name:ks": "سیدی بلعباس",
+      "name:lt": "Sidi bel Abesas",
+      "name:ur": "سیدی بلعباس",
+      "name:azb": "سیدی بلعباس",
+      "name:ber": "ⵙⵉⴷⵉ ⴱⵍⵄⴰⴱⴰⵙ",
+      "name:kab": "Sidi Belɛebbas",
+      "name:pnb": "سیدی بلعباس",
+      "name:zgh": "ⵙⵉⴷⵉ ⴱⵍⵄⴰⴱⴰⵙ"
+    }
+  },
+  {
+    "name": "Sidi Bouzid",
+    "country": "Tunisia",
+    "latitude": 35.03823859965427,
+    "longitude": 9.4865301,
+    "other_names": {
+      "name": "سيدي بوزيد",
+      "name:ar": "سيدي بوزيد",
+      "name:de": "Sayyidi Buzaid",
+      "name:en": "Sidi Bouzid",
+      "name:es": "Sidi Bouzid",
+      "name:fa": "سیدی بوزید",
+      "name:fr": "Sidi Bouzid",
+      "name:it": "Sidi Bouzid",
+      "name:ks": "سیدی بوزید",
+      "name:ru": "Сиди-Бу-Зид",
+      "name:ur": "سیدی بوزید",
+      "name:zh": "西迪布濟德",
+      "name:azb": "سیدی بوزید",
+      "name:kab": "سيدي بوزيد",
+      "official_name": "بلدية سيدي بوزيد",
+      "official_name:ar": "بلدية سيدي بوزيد"
+    }
+  },
+  {
+    "name": "Sidi Ifni",
+    "country": "Morocco",
+    "latitude": 29.379125299798652,
+    "longitude": -10.1715632,
+    "other_names": {
+      "name": "Sidi Ifni ⵙⵉⴷⵉ ⵉⴼⵏⵉ سيدي إفني",
+      "name:ar": "سيدي إفني",
+      "name:en": "Sidi Ifni",
+      "name:es": "Sidi Ifni",
+      "name:fr": "Sidi Ifni",
+      "name:ru": "Сиди-Ифни",
+      "name:ber": "ⵙⵉⴷⵉ ⵉⴼⵍⵉ",
+      "name:zgh": "ⵙⵉⴷⵉ ⵉⴼⵍⵉ"
+    }
+  },
+  {
+    "name": "Sidi Kacem",
+    "country": "Morocco",
+    "latitude": 34.22641199960991,
+    "longitude": -5.711434,
+    "other_names": {
+      "name": "Sidi Kacem ⵙⵉⴷⵉ ⵇⴰⵙⴰⵎ سيدي قاسم",
+      "name:ar": "سيدي قاسم",
+      "name:de": "Sidi Kacem",
+      "name:en": "Sidi Kacem",
+      "name:fr": "Sidi Kacem",
+      "name:ber": "ⵙⵉⴷⵉ ⵇⴰⵙⴰⵎ",
+      "name:zgh": "ⵙⵉⴷⵉ ⵇⴰⵙⴰⵎ"
+    }
+  },
+  {
+    "name": "Sidi Slimane",
+    "country": "Morocco",
+    "latitude": 34.25987799961127,
+    "longitude": -5.927253000000001,
+    "other_names": {
+      "name": "Sidi Slimane ⵙⵉⴷⵉ ⵙⵍⵉⵎⴰⵏ سيدي سليمان",
+      "name:ar": "سيدي سليمان",
+      "name:de": "Sidi Slimane",
+      "name:en": "Sidi Slimane",
+      "name:fr": "Sidi Slimane",
+      "int_name": "Sidi Slimane",
+      "name:ber": "ⵙⵉⴷⵉ ⵙⵍⵉⵎⴰⵏ",
+      "name:zgh": "ⵙⵉⴷⵉ ⵙⵍⵉⵎⴰ"
+    }
+  },
+  {
+    "name": "Sidon",
+    "country": "Lebanon",
+    "latitude": 33.561834499591114,
+    "longitude": 35.3780338,
+    "other_names": {
+      "name": "صيدا",
+      "name:ar": "صيدا",
+      "name:de": "Sidon",
+      "name:en": "Sidon",
+      "name:es": "Sidón",
+      "name:eu": "Sidon",
+      "name:fr": "Saïda",
+      "name:he": "צידון",
+      "name:hi": "सिदोन",
+      "name:ml": "സീദോൻ",
+      "name:nl": "Sidon",
+      "alt_name": "Saida"
+    }
+  },
+  {
+    "name": "Siedlce",
+    "country": "Poland",
+    "latitude": 52.16637509910466,
+    "longitude": 22.2765138,
+    "other_names": {
+      "name": "Siedlce",
+      "name:be": "Седльцы",
+      "name:bg": "Шедълце",
+      "name:de": "Siedlez",
+      "name:he": "שדליץ",
+      "name:hu": "Siedlce",
+      "name:ja": "シェドルツェ",
+      "name:ko": "시에들체",
+      "name:lt": "Sedlcos",
+      "name:lv": "Sedlce",
+      "name:mk": "Шедлце",
+      "name:mn": "Седльце",
+      "name:pl": "Siedlce",
+      "name:ru": "Седлец",
+      "name:sr": "Сједлице",
+      "name:uk": "Седльце",
+      "name:yi": "שעדליץ",
+      "name:zh": "謝德爾采",
+      "name:zh-Hans": "谢德尔采",
+      "name:zh-Hant": "謝德爾采",
+      "name:be-tarask": "Седльцы"
+    }
+  },
+  {
+    "name": "Siegen",
+    "country": "Germany",
+    "latitude": 50.87498039927162,
+    "longitude": 8.022723299999997,
+    "other_names": {
+      "name": "Siegen",
+      "name:ar": "زيغن",
+      "name:fa": "زیگن",
+      "name:ru": "Зиген",
+      "name:sr": "Зиген"
+    }
+  },
+  {
+    "name": "Siemianowice Śląskie",
+    "country": "Poland",
+    "latitude": 50.30520289938489,
+    "longitude": 19.027563499999996,
+    "other_names": {
+      "name": "Siemianowice Śląskie",
+      "name:bg": "Шемяновице Силезко",
+      "name:de": "Siemianowitz",
+      "name:ja": "シェミャノヴィツェ・シロンスキェ",
+      "name:ko": "시에미아노비체실롱스키에",
+      "name:lt": "Silezijos Semianovicai",
+      "name:lv": "Semjanovice Slonske",
+      "name:pl": "Siemianowice Śląskie",
+      "name:ru": "Семяновице-Слёнске",
+      "name:sr": "Сјемјановице Слонскје",
+      "name:uk": "Семяновіце-Шльонські",
+      "name:zh": "希隆斯克地區謝米亞諾維采",
+      "name:szl": "Śymjanowicy‎"
+    }
+  }
+]

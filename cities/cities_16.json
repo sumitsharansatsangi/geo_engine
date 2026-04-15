@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Amol",
+    "country": "Iran",
+    "latitude": 36.47189469978557,
+    "longitude": 52.3499009,
+    "other_names": {
+      "name": "آمل",
+      "name:de": "Amol",
+      "name:en": "Amol",
+      "name:es": "Amol",
+      "name:et": "Āmol",
+      "name:fr": "Amol",
+      "name:hi": "आमुल",
+      "name:ja": "アーモル",
+      "name:ku": "Amol",
+      "name:ru": "Амоль"
+    }
+  },
+  {
+    "name": "Ampang Jaya",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 3.127608699669754,
+    "longitude": 101.75386389999998,
+    "other_names": {
+      "name": "Ampang Jaya",
+      "name:ja": "アンパン",
+      "name:zh": "安邦再也"
+    }
+  },
+  {
+    "name": "Ampara",
+    "country": "Sri Lanka",
+    "latitude": 7.2978117993981915,
+    "longitude": 81.6790194,
+    "other_names": {
+      "name": "අම්පාර",
+      "name:en": "Ampara",
+      "name:et": "Amparai",
+      "name:ja": "アンパーラ",
+      "name:kn": "ಅಂಪರ",
+      "name:ru": "Ампара",
+      "name:si": "අම්පාර",
+      "name:ta": "அம்பாறை"
+    }
+  },
+  {
+    "name": "`Amran",
+    "country": "Yemen",
+    "latitude": 15.662833599985365,
+    "longitude": 43.942995,
+    "other_names": {
+      "name": "عمران",
+      "name:ar": "عمران",
+      "name:cs": "'Amrán",
+      "name:de": "`Amran",
+      "name:en": "`Amran",
+      "name:fr": "`Amran",
+      "alt_name": "`Umran; ‘Umrān",
+      "int_name": "‘Amrān"
+    }
+  },
+  {
+    "name": "Amravati",
+    "country": "India",
+    "latitude": 20.93162190040305,
+    "longitude": 77.7588455,
+    "other_names": {
+      "name": "Amravati",
+      "name:ar": "أمرافاتي",
+      "name:en": "Amravati",
+      "name:hi": "अमरावती",
+      "name:ja": "アムラーワティー",
+      "name:kn": "ಅಮ್ರಾವತಿ",
+      "name:mr": "अमरावती",
+      "name:pa": "ਅਮਰਾਵਤੀ",
+      "name:ru": "Амравати",
+      "name:ta": "அமராவதி",
+      "name:uk": "Амраваті",
+      "name:ur": "امراوتی"
+    }
+  },
+  {
+    "name": "Amreli",
+    "country": "India",
+    "latitude": 21.598140700410152,
+    "longitude": 71.21021390000001,
+    "other_names": {
+      "name": "Amreli",
+      "name:gu": "અમરેલી",
+      "name:hi": "अमरेली",
+      "name:ja": "アムレーリー",
+      "name:kn": "ಅಮ್ರೇಲಿ"
+    }
+  },
+  {
+    "name": "Amroha",
+    "country": "India",
+    "latitude": 28.90661999984725,
+    "longitude": 78.4707309,
+    "other_names": {
+      "name": "Amroha",
+      "name:de": "Amroha",
+      "name:en": "Amroha",
+      "name:es": "Amroha",
+      "name:fr": "Amroha",
+      "name:hi": "अमरोहा",
+      "name:ja": "アムロハ",
+      "name:kn": "ಅಮ್ರೋಹ",
+      "name:pa": "ਅਮਰੋਹਾ"
+    }
+  },
+  {
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "latitude": 52.37275979909294,
+    "longitude": 4.893604099999999,
+    "other_names": {
+      "name": "Amsterdam",
+      "name:am": "አምስተርዳም",
+      "name:ar": "أمستردام",
+      "name:ba": "Амстердам",
+      "name:be": "Амстэрдам",
+      "name:bg": "Амстердам",
+      "name:bn": "আমস্টারডাম",
+      "name:bo": "ཨེམ་སི་ཊར་ཌམ།",
+      "name:cv": "Амстердам",
+      "name:de": "Amsterdam",
+      "name:el": "Αμστελόδαμο",
+      "name:en": "Amsterdam",
+      "name:eo": "Amsterdamo",
+      "name:es": "Ámsterdam",
+      "name:fa": "آمستردام",
+      "name:fr": "Amsterdam",
+      "name:ga": "Amstardam",
+      "name:gl": "Ámsterdam",
+      "name:he": "אמסטרדם",
+      "name:hi": "ऐम्स्टर्डैम",
+      "name:ht": "Amstèdam",
+      "name:hu": "Amszterdam",
+      "name:hy": "Ամստերդամ",
+      "name:is": "Amsterdam",
+      "name:it": "Amsterdam",
+      "name:ja": "アムステルダム",
+      "name:ka": "ამსტერდამი",
+      "name:kk": "Амстердам",
+      "name:kn": "ಆಂಸ್ಟರ್ಡ್ಯಾಮ್",
+      "name:ko": "암스테르담",
+      "name:ku": "Amsterdam",
+      "name:kv": "Амстердам",
+      "name:la": "Amstelodamum",
+      "name:lt": "Amsterdamas",
+      "name:lv": "Amsterdama",
+      "name:mk": "Амстердам",
+      "name:ml": "ആംസ്റ്റർഡാം",
+      "name:mn": "Амстердам",
+      "name:mr": "अ‍ॅम्स्टरडॅम",
+      "name:my": "အမ်စတာဒမ်မြို့",
+      "name:ne": "आम्स्टर्डम",
+      "name:nl": "Amsterdam",
+      "name:no": "Amsterdam",
+      "name:oc": "Amsterdam",
+      "name:os": "Амстердам",
+      "name:pl": "Amsterdam",
+      "name:ps": "امسټرډام",
+      "name:pt": "Amsterdão",
+      "name:ru": "Амстердам",
+      "name:si": "ඈම්ස්ටර්ඩෑම්",
+      "name:sk": "Amsterdam",
+      "name:so": "Amistardam",
+      "name:sq": "Amsterdami",
+      "name:sr": "Амстердам",
+      "name:sv": "Amsterdam",
+      "name:ta": "ஆம்ஸ்டர்டம்",
+      "name:tg": "Амстердам",
+      "name:th": "อัมสเตอร์ดัม",
+      "name:tt": "Амстердам",
+      "name:ug": "ئامستېردام",
+      "name:uk": "Амстердам",
+      "name:ur": "ایمسٹرڈیم",
+      "name:yi": "אמסטערדאם",
+      "name:zh": "阿姆斯特丹",
+      "name:zu": "I-Amsterdami",
+      "name:arc": "ܐܡܣܛܪܕܐܡ",
+      "name:arz": "امستردام",
+      "name:ast": "Ámsterdam",
+      "name:ckb": "ئەمستەردام",
+      "name:ext": "Ámsterdam",
+      "name:koi": "Амстердам",
+      "name:krc": "Амстердам",
+      "name:lzh": "阿姆斯特丹",
+      "name:mdf": "Амстердам",
+      "name:mrj": "Амстердам",
+      "name:nds": "Amsterdam",
+      "name:new": "एम्स्टर्ड्याम",
+      "name:pms": "Àmsterdam",
+      "name:pnb": "ایمسٹرڈیم",
+      "name:rue": "Амстердам",
+      "name:sah": "Амстердам",
+      "name:srn": "Damsko",
+      "name:udm": "Амстердам",
+      "name:yue": "阿姆斯特丹",
+      "name:pt-BR": "Amsterdã",
+      "alt_name:el": "Άμστερνταμ",
+      "alt_name:gl": "Ámsterdan",
+      "name:bat-smg": "Amsterdams",
+      "name:be-tarask": "Амстэрдам"
+    }
+  },
+  {
+    "name": "Amsterdam",
+    "country": "United States Of America",
+    "latitude": 42.94336700053508,
+    "longitude": -74.18504359999999,
+    "other_names": {
+      "name": "Amsterdam"
+    }
+  },
+  {
+    "name": "Am Timan",
+    "country": "Chad",
+    "latitude": 11.039636799501487,
+    "longitude": 20.282642899999995,
+    "other_names": {
+      "name": "Am Timan أم تيمان",
+      "name:ar": "أم تيمان",
+      "name:en": "Am Timan",
+      "name:es": "Am Timan",
+      "name:fr": "Am Timan",
+      "name:hu": "Am Timan",
+      "name:ru": "Ам-Тиман",
+      "name:uk": "Ам-Тіман",
+      "alt_name": "Am Timam"
+    }
+  },
+  {
+    "name": "Anaco",
+    "country": "Venezuela",
+    "latitude": 9.432190999414146,
+    "longitude": -64.466834,
+    "other_names": {
+      "name": "Anaco",
+      "name:ru": "Анако"
+    }
+  },
+  {
+    "name": "Anadia",
+    "country": "Portugal",
+    "latitude": 40.44268330032548,
+    "longitude": -8.435958099999999,
+    "other_names": {
+      "name": "Anadia",
+      "name:uk": "Анадія"
+    }
+  },
+  {
+    "name": "Anaheim",
+    "country": "United States Of America",
+    "latitude": 33.834751599596906,
+    "longitude": -117.911732,
+    "other_names": {
+      "name": "Anaheim",
+      "name:zh": "阿纳海姆/安纳海姆",
+      "name:zh-Hans": "阿纳海姆",
+      "name:zh-Hant": "安纳海姆"
+    }
+  },
+  {
+    "name": "Anaka",
+    "country": "Uganda",
+    "latitude": 2.597303011900489,
+    "longitude": 31.950830058137157,
+    "other_names": {
+      "name": "Anaka"
+    }
+  },
+  {
+    "name": "Anamorós",
+    "country": "El Salvador",
+    "latitude": 13.741535899760619,
+    "longitude": -87.87152169999999,
+    "other_names": {
+      "name": "Anamorós"
+    }
+  },
+  {
+    "name": "Anan",
+    "country": "Japan",
+    "latitude": 33.92201019959932,
+    "longitude": 134.65969739999997,
+    "other_names": {
+      "name": "阿南市",
+      "name:ar": "أنان، توكوشيما",
+      "name:de": "Anan",
+      "name:en": "Anan",
+      "name:es": "Anan",
+      "name:fr": "Anan",
+      "name:ja": "阿南市",
+      "name:ko": "아난시",
+      "name:pl": "Anan",
+      "name:ru": "Анан",
+      "name:uk": "Анан",
+      "name:zh": "阿南市",
+      "int_name": "Anan",
+      "name:zh-Hans": "阿南市",
+      "name:zh-Hant": "阿南市"
+    }
+  },
+  {
+    "name": "Anand",
+    "country": "India",
+    "latitude": 22.55849950039819,
+    "longitude": 72.9625629,
+    "other_names": {
+      "name": "Anand",
+      "name:gu": "આણંદ",
+      "name:hi": "आणंद",
+      "name:ja": "アーナンド",
+      "name:kn": "ಆನಂದ್",
+      "name:pa": "ਆਣੰਦ"
+    }
+  },
+  {
+    "name": "Ananindeua",
+    "country": "Brazil",
+    "latitude": -1.3740349998688983,
+    "longitude": -48.40166229999999,
+    "other_names": {
+      "name": "Ananindeua",
+      "name:bg": "Ананиндеуа",
+      "name:he": "אננינדאואה",
+      "name:ja": "アナニンデウア",
+      "name:ka": "ანანინდეუა",
+      "name:kk": "Ананиндеуа",
+      "name:pt": "Ananindeua",
+      "name:ru": "Ананиндеуа",
+      "name:sr": "Ананиндеуа",
+      "name:zh": "阿納寧德瓦"
+    }
+  },
+  {
+    "name": "Anantapur",
+    "country": "India",
+    "latitude": 14.67832209986929,
+    "longitude": 77.6065039,
+    "other_names": {
+      "name": "Anantapur",
+      "name:en": "Anantapur",
+      "name:he": "אננטפור",
+      "name:hi": "अनन्तपुर",
+      "name:ja": "アナントプル",
+      "name:kn": "ಅನಂತಪುರ",
+      "name:ml": "അനന്തപുർ",
+      "name:mr": "अनंतपूर",
+      "name:pa": "ਅਨੰਤਪੁਰ",
+      "name:ta": "அனந்தபூர்",
+      "name:te": "అనంతపురం",
+      "name:uk": "Анантапур",
+      "alt_name:hi": "अनंतपुर"
+    }
+  },
+  {
+    "name": "Anantnag",
+    "country": "India",
+    "latitude": 33.73687729959452,
+    "longitude": 75.14551379999999,
+    "other_names": {
+      "name": "Anantnag",
+      "name:ar": "أننتناغ",
+      "name:fa": "انانتناگ",
+      "name:hi": "अनंतनाग",
+      "name:ks": "اننتناگ",
+      "name:ru": "Анантнаг",
+      "name:ur": "اننت ناگ",
+      "name:pnb": "اننت ناگ",
+      "alt_name:ar": "أنانتناج",
+      "alt_name:ks": "انَنت ناگ"
+    }
+  }
+]

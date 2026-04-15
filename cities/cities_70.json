@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Cabuyao",
+    "country": "Philippines",
+    "latitude": 14.279553799822505,
+    "longitude": 121.12357119999999,
+    "other_names": {
+      "name": "Cabuyao",
+      "name:en": "Cabuyao",
+      "name:es": "Cabúyao",
+      "name:ja": "カバヤオ",
+      "name:tl": "Cabuyao",
+      "official_name:en": "City of Cabuyao",
+      "official_name:es": "Ciudad de Cabúyao",
+      "official_name:tl": "Lungsod ng Cabuyao"
+    }
+  },
+  {
+    "name": "Čačak",
+    "country": "Serbia",
+    "latitude": 43.89143320053595,
+    "longitude": 20.349162399999997,
+    "other_names": {
+      "name": "Чачак",
+      "name:ar": "تشاتشاك",
+      "name:de": "Čačak",
+      "name:el": "Τσάτσακ",
+      "name:en": "Čačak",
+      "name:es": "Čačak",
+      "name:et": "Čačak",
+      "name:fr": "Čačak",
+      "name:ru": "Чачак",
+      "name:sl": "Čačak",
+      "name:sr": "Чачак",
+      "old_name": "Градац",
+      "old_name:de": "Zazach",
+      "name:sr-Latn": "Čačak"
+    }
+  },
+  {
+    "name": "Cáceres",
+    "country": "Spain",
+    "latitude": 39.47404172370228,
+    "longitude": -6.375783311325015,
+    "other_names": {
+      "name": "Cáceres",
+      "name:el": "Κάθερες",
+      "name:ru": "Касерес"
+    }
+  },
+  {
+    "name": "Cáceres",
+    "country": "Spain",
+    "latitude": 39.47451750019417,
+    "longitude": -6.3716761,
+    "other_names": {
+      "name": "Cáceres",
+      "name:ar": "قصرش",
+      "name:be": "Касерэс",
+      "name:ca": "Càceres",
+      "name:el": "Κάθερες",
+      "name:es": "Cáceres",
+      "name:fa": "کاسرس",
+      "name:ja": "カセレス",
+      "name:lt": "Kaseresas",
+      "name:ru": "Касерес",
+      "name:ur": "کاکیریس",
+      "name:zh": "卡塞雷斯",
+      "alt_name:ar": "قشرش;كاثيريس;كاثيرس"
+    }
+  },
+  {
+    "name": "Cachoeirinha",
+    "country": "Brazil",
+    "latitude": -29.949335299319944,
+    "longitude": -51.08989269999999,
+    "other_names": {
+      "name": "Cachoeirinha"
+    }
+  },
+  {
+    "name": "Cachoeiro de Itapemirim",
+    "country": "Brazil",
+    "latitude": -20.848084000320995,
+    "longitude": -41.11128999999999,
+    "other_names": {
+      "name": "Cachoeiro de Itapemirim",
+      "name:ru": "Кашуэйру-ди-Итапемирин",
+      "old_name": "Freguesia de São Pedro do Cachoeiro"
+    }
+  },
+  {
+    "name": "Cadiz",
+    "country": "Philippines",
+    "latitude": 10.956651999495536,
+    "longitude": 123.30570340000001,
+    "other_names": {
+      "name": "Cadiz",
+      "name:ja": "カディス"
+    }
+  },
+  {
+    "name": "Cádiz",
+    "country": "Spain",
+    "latitude": 36.5194804805226,
+    "longitude": -6.283937647631744,
+    "other_names": {
+      "name": "Cádiz",
+      "name:el": "Κάδιθ",
+      "name:ru": "Кадис",
+      "name:zh-Hans": "加的斯",
+      "name:zh-Hant": "加的斯"
+    }
+  },
+  {
+    "name": "Cádiz",
+    "country": "Spain",
+    "latitude": 36.529743799792115,
+    "longitude": -6.2928976,
+    "other_names": {
+      "name": "Cádiz",
+      "name:ar": "قادس",
+      "name:be": "Кадыс",
+      "name:ca": "Cadis",
+      "name:el": "Κάδιθ",
+      "name:eu": "Karize",
+      "name:fr": "Cadix",
+      "name:ja": "カディス",
+      "name:la": "Gadira",
+      "name:pl": "Kadyks",
+      "name:pt": "Cádis",
+      "name:ru": "Кадис",
+      "name:sr": "Кадиз",
+      "name:zh-Hans": "加的斯",
+      "name:zh-Hant": "加的斯"
+    }
+  },
+  {
+    "name": "Caen",
+    "country": "France",
+    "latitude": 49.181340299647545,
+    "longitude": -0.3635614999999999,
+    "other_names": {
+      "name": "Caen",
+      "name:ar": "كاين",
+      "name:el": "Καέν",
+      "name:en": "Caen",
+      "name:eo": "Kaeno",
+      "name:ja": "カーン",
+      "name:lt": "Kanas",
+      "name:nl": "Caen",
+      "name:oc": "Can",
+      "name:ru": "Кан",
+      "name:sr": "Кан",
+      "name:uk": "Кан",
+      "name:zh-Hans": "卡昂",
+      "name:zh-Hant": "康城"
+    }
+  },
+  {
+    "name": "Cagayan de Oro",
+    "country": "Philippines",
+    "latitude": 8.475487799392408,
+    "longitude": 124.64213169999996,
+    "other_names": {
+      "ref": "104305000",
+      "name": "Cagayan de Oro",
+      "name:en": "Cagayan de Oro",
+      "name:es": "Cagayán de Oro",
+      "name:fr": "Cagayán de Oro",
+      "name:ja": "カガヤン・デ・オロ",
+      "name:ru": "Кагаян-де-Оро",
+      "name:tl": "Cagayan de Oro",
+      "name:zh": "卡加延德奥罗",
+      "name:ceb": "Cagayan de Oro",
+      "short_name": "CDO",
+      "official_name:en": "City of Cagayan de Oro",
+      "official_name:es": "Ciudad de Cagayán de Oro",
+      "official_name:tl": "Lungsod ng Cagayan de Oro",
+      "official_name:ceb": "Dakbayan sa Cagayan de Oro"
+    }
+  },
+  {
+    "name": "Cagliari",
+    "country": "Italy",
+    "latitude": 39.21695250015726,
+    "longitude": 9.1128513,
+    "other_names": {
+      "name": "Casteddu/Cagliari",
+      "name:ar": "كالياري",
+      "name:be": "Кальяры",
+      "name:ca": "Càller",
+      "name:de": "Cagliari",
+      "name:el": "Κάλιαρι",
+      "name:en": "Cagliari",
+      "name:es": "Cagliari",
+      "name:et": "Cagliari",
+      "name:fa": "کالیاری",
+      "name:fr": "Cagliari",
+      "name:it": "Cagliari",
+      "name:ru": "Кальяри",
+      "name:sc": "Casteddu",
+      "name:uk": "Кальярі",
+      "name:zh": "卡利亚里",
+      "alt_name": "Casteddu"
+    }
+  },
+  {
+    "name": "Cagua",
+    "country": "Venezuela",
+    "latitude": 10.179663199447193,
+    "longitude": -67.4606765,
+    "other_names": {
+      "name": "Cagua"
+    }
+  },
+  {
+    "name": "Caguas",
+    "country": "United States Of America",
+    "latitude": 18.234539900254596,
+    "longitude": -66.0351316,
+    "other_names": {
+      "name": "Caguas",
+      "name:hu": "Caguas",
+      "name:ru": "Кагуас"
+    }
+  },
+  {
+    "name": "Cahul",
+    "country": "Moldova",
+    "latitude": 45.90440870035706,
+    "longitude": 28.194658299999997,
+    "other_names": {
+      "name": "Cahul",
+      "name:bg": "Кахул",
+      "name:pl": "Kaguł",
+      "name:ro": "Cahul",
+      "name:ru": "Кагул",
+      "name:uk": "Каугул",
+      "name:gag": "Kahul",
+      "old_name:de": "Kagul",
+      "old_name:en": "Kagul"
+    }
+  },
+  {
+    "name": "Cahul",
+    "country": "Moldova",
+    "latitude": 45.90406865006047,
+    "longitude": 28.196424113037992,
+    "other_names": {
+      "name": "Cahul",
+      "name:bg": "Кахул",
+      "name:pl": "Kaguł",
+      "name:ro": "Cahul",
+      "name:ru": "Кагул",
+      "name:gag": "Kahul",
+      "old_name:de": "Kagul",
+      "old_name:en": "Kagul"
+    }
+  },
+  {
+    "name": "Caibarién",
+    "country": "Cuba",
+    "latitude": 22.524317000399062,
+    "longitude": -79.471931,
+    "other_names": {
+      "name": "Caibarién",
+      "name:hu": "Caibarién",
+      "name:ru": "Кайбарьен"
+    }
+  },
+  {
+    "name": "Caicara del Orinoco",
+    "country": "Venezuela",
+    "latitude": 7.625702299392988,
+    "longitude": -66.161457,
+    "other_names": {
+      "name": "Caicara del Orinoco"
+    }
+  },
+  {
+    "name": "Caidian District",
+    "country": "China",
+    "latitude": 30.538928899694525,
+    "longitude": 114.08210559999999,
+    "other_names": {
+      "name": "蔡甸区",
+      "name:de": "Caidian",
+      "name:en": "Caidian District",
+      "name:es": "Caidian",
+      "name:eu": "Caidian Barrutia",
+      "name:fr": "District de Caidian",
+      "name:it": "Distretto di Caidian",
+      "name:ja": "蔡甸区",
+      "name:ko": "차이뎬구",
+      "name:no": "Caidian",
+      "name:ru": "Цайдянь",
+      "name:sv": "Caidian",
+      "name:vi": "Thái Điện",
+      "name:zh": "蔡甸区",
+      "name:ceb": "Caidian",
+      "name:nan": "Chhài-tiān-khu",
+      "name:yue": "蔡甸區",
+      "name:zh-Hant": "蔡甸區",
+      "name:zh_pinyin": "Càidiān Qū"
+    }
+  },
+  {
+    "name": "Caieiras",
+    "country": "Brazil",
+    "latitude": -23.36446210001639,
+    "longitude": -46.7484765,
+    "other_names": {
+      "name": "Caieiras"
+    }
+  }
+]

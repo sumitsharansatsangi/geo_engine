@@ -1,0 +1,368 @@
+[
+  {
+    "name": "Yuan'an County",
+    "country": "China",
+    "latitude": 31.063475799656942,
+    "longitude": 111.63494469999999,
+    "other_names": {
+      "name": "远安县",
+      "name:de": "Yuan’an",
+      "name:en": "Yuan'an County",
+      "name:es": "Yuan'an",
+      "name:fa": "شهرستان یوانان",
+      "name:fr": "Xian de Yuan'an",
+      "name:it": "Contea di Yuan'an",
+      "name:ja": "遠安県",
+      "name:ko": "위안안현",
+      "name:no": "Yuan'an",
+      "name:sv": "Yuan'an",
+      "name:uk": "Юаньань",
+      "name:vi": "Viễn An",
+      "name:zh": "远安县",
+      "alt_name": "Mingfeng",
+      "name:nan": "Oán-an-koān",
+      "name:yue": "遠安",
+      "name:zh-Hant": "遠安縣",
+      "official_name": "鸣凤镇",
+      "name:zh_pinyin": "Yuǎn'ān Xiàn"
+    }
+  },
+  {
+    "name": "Yuanbao",
+    "country": "North Korea",
+    "latitude": 40.13584110028556,
+    "longitude": 124.38995330000002,
+    "other_names": {
+      "name": "元宝区",
+      "name:en": "Yuanbao",
+      "name:ja": "元宝区",
+      "name:ko": "위안바오구",
+      "name:zh": "元宝区",
+      "alt_name": "元宝;Yuanbao District",
+      "name:zh-Hant": "元寶區"
+    }
+  },
+  {
+    "name": "Yuanbao",
+    "country": "China",
+    "latitude": 40.13584110028556,
+    "longitude": 124.38995330000002,
+    "other_names": {
+      "name": "元宝区",
+      "name:en": "Yuanbao",
+      "name:ja": "元宝区",
+      "name:ko": "위안바오구",
+      "name:zh": "元宝区",
+      "alt_name": "元宝;Yuanbao District",
+      "name:zh-Hant": "元寶區"
+    }
+  },
+  {
+    "name": "Yuanbaoshan",
+    "country": "China",
+    "latitude": 42.04525170048956,
+    "longitude": 119.2773282,
+    "other_names": {
+      "name": "元宝山区",
+      "name:en": "Yuanbaoshan",
+      "name:zh": "元宝山区",
+      "alt_name": "元宝山;Yuanbaoshan District;Yuanbaoshan Qu;Юаньбаошань",
+      "name:zh-Hant": "元寶山區"
+    }
+  },
+  {
+    "name": "Yuancheng",
+    "country": "China",
+    "latitude": 23.73670950034878,
+    "longitude": 114.6976517,
+    "other_names": {
+      "name": "源城区",
+      "name:en": "Yuancheng",
+      "name:zh": "源城区",
+      "alt_name": "源城;Yuancheng District",
+      "name:zh-Hant": "源城區",
+      "name:zh_pinyin": "Yuánchéng Qū"
+    }
+  },
+  {
+    "name": "Yuanhui",
+    "country": "China",
+    "latitude": 33.55710819959104,
+    "longitude": 114.0134858,
+    "other_names": {
+      "name": "源汇区",
+      "name:en": "Yuanhui",
+      "name:vi": "Nguyên Vị",
+      "name:zh": "源汇区",
+      "alt_name": "源汇;Yuanhui District",
+      "name:zh-Hant": "源匯區",
+      "name:zh_pinyin": "Yuanhui Qu"
+    }
+  },
+  {
+    "name": "Yuanjiang",
+    "country": "China",
+    "latitude": 23.599114800356418,
+    "longitude": 101.99476409999998,
+    "other_names": {
+      "name": "元江县",
+      "name:en": "Yuanjiang",
+      "name:ru": "Лицзян",
+      "name:vi": "Nguyên Giang",
+      "name:zh": "元江县",
+      "alt_name": "元江;Yuanjiang Hani, Yi and Dai Autonomous County",
+      "int_name": "Yuanjiang",
+      "short_name": "元江县",
+      "name:zh-Hant": "元江縣",
+      "official_name": "元江哈尼族彝族傣族自治县",
+      "official_name:zh": "元江哈尼族彝族傣族自治县",
+      "official_name:zh_pinyin": "Yuánjiāng Hānízú Yízú Dǎizú Zìzhì xiàn"
+    }
+  },
+  {
+    "name": "Yuanjiang",
+    "country": "China",
+    "latitude": 28.84792849985346,
+    "longitude": 112.3487701,
+    "other_names": {
+      "name": "沅江市",
+      "name:de": "Yuanjiang",
+      "name:en": "Yuanjiang",
+      "name:fr": "Yuanjiang",
+      "name:it": "Yuanjiang",
+      "name:ja": "ゲン江市",
+      "name:ki": "Yuanjiang",
+      "name:ko": "위안장시",
+      "name:no": "Yuanjiang",
+      "name:ru": "Юаньцзян",
+      "name:sv": "Yuanjiang",
+      "name:vi": "Nguyên Giang",
+      "name:zh": "沅江市",
+      "int_name": "Yuanjiang",
+      "name:ceb": "Yuanjiang Shi",
+      "name:hak": "Ngiên-kông-sṳ",
+      "name:nan": "Goân-kang-chhī",
+      "name:pam": "Yuanjiang",
+      "name:war": "Yuanjiang",
+      "name:yue": "沅江市",
+      "name:zh-Hant": "沅江市",
+      "name:zh_pinyin": "Yuánjiāng Shì"
+    }
+  },
+  {
+    "name": "Yuanling",
+    "country": "China",
+    "latitude": 28.456291599895742,
+    "longitude": 110.3888859,
+    "other_names": {
+      "name": "沅陵县",
+      "name:de": "Yuanling",
+      "name:en": "Yuanling",
+      "name:fa": "شهرستان یوانلینگ",
+      "name:fr": "Xian de Yuanling",
+      "name:it": "Contea di Yuanling",
+      "name:ja": "ゲン陵県",
+      "name:ko": "위안링현",
+      "name:no": "Yuanling",
+      "name:ru": "Юаньлин",
+      "name:sv": "Yuanling",
+      "name:uk": "Юаньлін",
+      "name:ur": "یوآنلنگ کاؤنٹی",
+      "name:vi": "Nguyên Lăng",
+      "name:zh": "沅陵县",
+      "alt_name": "沅陵;Yuan-ling Hsien;Yuanling County",
+      "name:ceb": "Yuanling Xian",
+      "name:nan": "Goân-lêng-koān",
+      "name:yue": "沅陵",
+      "name:zh-Hant": "沅陵縣",
+      "name:zh_pinyin": "yuánlíng xiàn"
+    }
+  },
+  {
+    "name": "Yuanmou",
+    "country": "China",
+    "latitude": 25.70753090019327,
+    "longitude": 101.87320589999999,
+    "other_names": {
+      "name": "元谋县",
+      "name:en": "Yuanmou",
+      "name:ru": "Юаньма",
+      "name:vi": "Nguyên Mưu",
+      "name:zh": "元谋县",
+      "alt_name": "元谋;Yuanmou County",
+      "name:zh-Hant": "元謀縣",
+      "name:zh_pinyin": "Yuánmóu xiàn"
+    }
+  },
+  {
+    "name": "Yuanping",
+    "country": "China",
+    "latitude": 38.73080940008687,
+    "longitude": 112.6994958,
+    "other_names": {
+      "name": "原平市",
+      "name:cs": "Jüan-pching",
+      "name:de": "Yuanping",
+      "name:en": "Yuanping",
+      "name:fr": "Yuanping",
+      "name:ja": "原平市",
+      "name:ru": "Юаньпин",
+      "name:vi": "Nguyên Bình",
+      "name:zh": "原平市",
+      "alt_name": "原平;Yuanping City",
+      "name:zh-Hant": "原平市",
+      "name:zh_pinyin": "Yuánpíng Shì"
+    }
+  },
+  {
+    "name": "Yuanqu",
+    "country": "China",
+    "latitude": 35.29564129967309,
+    "longitude": 111.6548847,
+    "other_names": {
+      "name": "垣曲县",
+      "name:en": "Yuanqu",
+      "name:zh": "垣曲县",
+      "alt_name": "新城镇",
+      "name:zh-Hant": "垣曲縣"
+    }
+  },
+  {
+    "name": "Yuanshi",
+    "country": "China",
+    "latitude": 37.7605205999486,
+    "longitude": 114.52152849999999,
+    "other_names": {
+      "name": "元氏县",
+      "name:en": "Yuanshi",
+      "name:vi": "Nguyên Thị",
+      "name:zh": "元氏县",
+      "alt_name": "元氏;Yuanshi County",
+      "name:zh-Hant": "元氏縣",
+      "name:zh_pinyin": "Yuanshi Xian"
+    }
+  },
+  {
+    "name": "Yuanyang",
+    "country": "China",
+    "latitude": 23.22345980037483,
+    "longitude": 102.834369,
+    "other_names": {
+      "name": "元阳县",
+      "name:en": "Yuanyang",
+      "name:vi": "Huyện Nguyên Dương",
+      "name:zh": "元阳县",
+      "alt_name": "元阳;Yuanyang County",
+      "int_name": "Yuanyang",
+      "name:zh-Hant": "元陽縣",
+      "name:zh_pinyin": "Yuányángxiàn"
+    }
+  },
+  {
+    "name": "Yuanyang",
+    "country": "China",
+    "latitude": 35.05653289965554,
+    "longitude": 113.958833,
+    "other_names": {
+      "name": "原阳县",
+      "name:en": "Yuanyang",
+      "name:fr": "Xian de Yuanyang",
+      "name:ja": "原陽県",
+      "name:vi": "Nguyên Dương",
+      "name:zh": "原阳县",
+      "alt_name": "原阳;Yuanyang County",
+      "name:zh-Hant": "原陽縣",
+      "name:zh_pinyin": "Yuanyang Xian"
+    }
+  },
+  {
+    "name": "Yuanzhou",
+    "country": "China",
+    "latitude": 27.79874999996874,
+    "longitude": 114.4227232,
+    "other_names": {
+      "name": "袁州区",
+      "name:cs": "Jüan-čou",
+      "name:de": "Yuanzhou",
+      "name:en": "Yuanzhou",
+      "name:fr": "District de Yuanzhou",
+      "name:it": "Distretto di Yuanzhou",
+      "name:ja": "袁州区",
+      "name:ko": "위안저우구",
+      "name:no": "Yuanzhou",
+      "name:ru": "Юаньчжоу",
+      "name:sv": "Yuanzhou",
+      "name:vi": "Viên Châu",
+      "name:zh": "袁州区",
+      "alt_name": "袁州;Yuanzhou District",
+      "name:ceb": "Yuanzhou Qu",
+      "name:gan": "袁州區",
+      "name:nan": "Oân-chiu-khu",
+      "name:yue": "袁州區",
+      "name:zh-Hant": "袁州區",
+      "name:zh_pinyin": "yuánzhōu qū"
+    }
+  },
+  {
+    "name": "Yuanzhou",
+    "country": "China",
+    "latitude": 36.00374239973591,
+    "longitude": 106.28365609999999,
+    "other_names": {
+      "name": "原州区 ﻳُﻮًاﺟِﻮْ ٿُو",
+      "name:en": "Yuanzhou",
+      "name:sd": "ﻳُﻮًاﺟِﻮْ ٿُو",
+      "name:zh": "原州区",
+      "alt_name": "原州;Ku-yuan Hsien;Guyuan Xian;Yuanzhou Qu;Yuanzhou District",
+      "name:zh-Hant": "原州區"
+    }
+  },
+  {
+    "name": "Yuba City",
+    "country": "United States Of America",
+    "latitude": 39.140447700146225,
+    "longitude": -121.6169108,
+    "other_names": {
+      "name": "Yuba City",
+      "name:en": "Yuba City",
+      "name:ru": "Юба-Сити",
+      "name:uk": "Юба-Сіті"
+    }
+  },
+  {
+    "name": "Yubari",
+    "country": "Japan",
+    "latitude": 43.05634550053787,
+    "longitude": 141.97390810000002,
+    "other_names": {
+      "name": "夕張市",
+      "name:ar": "يوباري، هوكايدو",
+      "name:de": "Yūbari",
+      "name:en": "Yubari",
+      "name:es": "Yūbari",
+      "name:fr": "Yūbari",
+      "name:hu": "Júbari",
+      "name:ja": "夕張市",
+      "name:pl": "Yūbari",
+      "name:ru": "Юбари",
+      "name:uk": "Юбарі",
+      "int_name": "Yūbari",
+      "name:ja_rm": "Yūbari-shi",
+      "name:ja_kana": "ゆうばりし"
+    }
+  },
+  {
+    "name": "Yubei",
+    "country": "China",
+    "latitude": 29.721635099765354,
+    "longitude": 106.6271094,
+    "other_names": {
+      "name": "渝北区",
+      "name:en": "Yubei",
+      "name:vi": "Du Bắc",
+      "name:zh": "渝北区",
+      "alt_name": "渝北;Yubei District",
+      "name:zh-Hant": "渝北區"
+    }
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Lingchuan",
+    "country": "China",
+    "latitude": 25.41142990022138,
+    "longitude": 110.32104849999999,
+    "other_names": {
+      "name": "灵川县",
+      "name:en": "Lingchuan",
+      "name:zh": "灵川县",
+      "alt_name": "灵川;Lingchuan County",
+      "name:zh-Hant": "靈川縣"
+    }
+  },
+  {
+    "name": "Lingdong",
+    "country": "China",
+    "latitude": 46.55958410024726,
+    "longitude": 131.1389816,
+    "other_names": {
+      "name": "岭东区",
+      "name:en": "Lingdong",
+      "name:zh": "岭东区",
+      "alt_name": "岭东;Lingdong District",
+      "name:zh-Hant": "嶺東區"
+    }
+  },
+  {
+    "name": "Linghai",
+    "country": "China",
+    "latitude": 41.16761420041044,
+    "longitude": 121.355281,
+    "other_names": {
+      "name": "凌海市",
+      "name:de": "Linghai",
+      "name:en": "Linghai",
+      "name:fr": "Linghai",
+      "name:ja": "凌海市",
+      "name:ko": "링하이시",
+      "name:vi": "Lăng Hải",
+      "name:zh": "凌海",
+      "int_name": "Linghai",
+      "name:zh-Hant": "凌海市",
+      "name:zh_pinyin": "Línghǎi Shì"
+    }
+  },
+  {
+    "name": "Linghe",
+    "country": "China",
+    "latitude": 41.11298640040458,
+    "longitude": 121.14692650000002,
+    "other_names": {
+      "name": "凌河区",
+      "name:en": "Linghe",
+      "name:ja": "凌河区",
+      "name:ko": "링허구",
+      "name:zh": "凌河区",
+      "alt_name": "凌河;Linghe District",
+      "name:zh-Hant": "淩河區"
+    }
+  },
+  {
+    "name": "Lingling",
+    "country": "China",
+    "latitude": 26.22547970014111,
+    "longitude": 111.6244711,
+    "other_names": {
+      "name": "零陵区",
+      "name:de": "Lingling",
+      "name:en": "Lingling",
+      "name:fr": "District de Lingling",
+      "name:it": "Distretto di Lingling",
+      "name:ja": "零陵区",
+      "name:ko": "링링구",
+      "name:no": "Lingling",
+      "name:ru": "Линлин",
+      "name:sv": "Lingling",
+      "name:vi": "Linh Lăng",
+      "name:zh": "零陵区",
+      "alt_name": "零陵;Lingling District",
+      "name:ceb": "Lingling Diqu",
+      "name:nan": "Lêng-lêng-khu",
+      "name:yue": "零陵區",
+      "name:zh-Hant": "零陵區",
+      "name:zh_pinyin": "línglíng qū"
+    }
+  },
+  {
+    "name": "Lingqiu",
+    "country": "China",
+    "latitude": 39.43963860018919,
+    "longitude": 114.22433359999998,
+    "other_names": {
+      "name": "灵丘县",
+      "name:cs": "Ling-čchiou",
+      "name:en": "Lingqiu",
+      "name:ja": "霊丘県",
+      "name:ru": "Линцю",
+      "name:zh": "灵丘县",
+      "alt_name": "灵丘",
+      "name:zh-Hant": "靈丘縣",
+      "official_name": "灵丘县"
+    }
+  },
+  {
+    "name": "Lingshan",
+    "country": "China",
+    "latitude": 22.422004400401477,
+    "longitude": 109.2911816,
+    "other_names": {
+      "name": "灵山县",
+      "name:en": "Lingshan",
+      "name:ru": "Линшань",
+      "name:vi": "Linh Sơn",
+      "name:zh": "灵山县",
+      "alt_name": "灵山;Lingshan",
+      "name:yue": "灵山县",
+      "name:zh-Hant": "靈山縣",
+      "name:yue-Latn": "Lingsaan-jin",
+      "name:zh_pinyin": "Língshān Xiàn"
+    }
+  },
+  {
+    "name": "Lingshi",
+    "country": "China",
+    "latitude": 36.84773249982956,
+    "longitude": 111.77222580000002,
+    "other_names": {
+      "name": "灵石县",
+      "name:en": "Lingshi",
+      "name:ja": "霊石県",
+      "name:zh": "灵石县",
+      "alt_name": "灵石;Lingshi;Ling-shih-hsien-ch'eng;Ling-shih-hsien;Ling-shih;Lingshi Xian;Linshi County",
+      "name:zh-Hant": "靈石縣"
+    }
+  },
+  {
+    "name": "Lingshou",
+    "country": "China",
+    "latitude": 38.307222000025675,
+    "longitude": 114.36805599999998,
+    "other_names": {
+      "name": "灵寿县",
+      "name:en": "Lingshou",
+      "name:ja": "霊寿県",
+      "name:vi": "Linh Thọ",
+      "name:zh": "灵寿县",
+      "alt_name": "灵寿",
+      "name:zh-Hant": "靈壽縣",
+      "official_name": "灵寿镇",
+      "name:zh_pinyin": "Língshòu Xiàn"
+    }
+  },
+  {
+    "name": "Lingshui Li Autonomous County",
+    "country": "China",
+    "latitude": 18.507104700277306,
+    "longitude": 110.03312889999998,
+    "other_names": {
+      "name": "陵水县",
+      "name:ar": "مقاطعة لونغشوي لي",
+      "name:de": "Lingshui",
+      "name:en": "Lingshui Li Autonomous County",
+      "name:es": "Lingshui",
+      "name:eu": "Lingshui Li Konderri autonomoa",
+      "name:fr": "Xian autonome li de Lingshui",
+      "name:it": "Contea autonoma li di Lingshui",
+      "name:ja": "陵水リー族自治県",
+      "name:ko": "링수이 리족 자치현",
+      "name:nl": "Autonome Li Prefectuur Lingshui",
+      "name:no": "Lingshui Li",
+      "name:pl": "Lingshui",
+      "name:sv": "Lingshui",
+      "name:ur": "لینگشوئی لی خود مختار کاؤنٹی",
+      "name:vi": "Lăng Thủy",
+      "name:zh": "陵水黎族自治县",
+      "int_name": "Lingshui",
+      "name:ceb": "Lingshui Li Autonomous County",
+      "name:nan": "Lêng-chúi Lê-cho̍k Chū-tī-koān",
+      "name:yue": "陵水",
+      "short_name": "陵水县",
+      "alt_name:vi": "Lăng Thuỷ",
+      "name:zh-Hant": "陵水縣",
+      "official_name": "陵水黎族自治县",
+      "name:zh_pinyin": "Língshuǐ Lízú Zìzhìxiàn"
+    }
+  },
+  {
+    "name": "Lingtai",
+    "country": "China",
+    "latitude": 35.066149399656204,
+    "longitude": 107.6166908,
+    "other_names": {
+      "name": "灵台县",
+      "name:en": "Lingtai",
+      "name:ja": "霊台県",
+      "name:zh": "灵台县",
+      "alt_name": "灵台县;中台镇;Zhongtai;Lingtai County",
+      "name:zh-Hant": "靈臺縣"
+    }
+  },
+  {
+    "name": "Lingui",
+    "country": "China",
+    "latitude": 25.241878800236826,
+    "longitude": 110.2077616,
+    "other_names": {
+      "name": "临桂区",
+      "name:en": "Lingui",
+      "name:zh": "临桂区",
+      "alt_name": "临桂;Lingui District",
+      "old_name": "临桂县",
+      "name:zh-Hant": "臨桂區"
+    }
+  },
+  {
+    "name": "Lingwu",
+    "country": "China",
+    "latitude": 38.1020473999964,
+    "longitude": 106.33557859999999,
+    "other_names": {
+      "name": "灵武市",
+      "name:de": "Lingwu",
+      "name:en": "Lingwu",
+      "name:fr": "Lingwu",
+      "name:ja": "霊武市",
+      "name:sd": "لٍءُ شِ",
+      "name:vi": "Linh Vũ",
+      "name:zh": "灵武市",
+      "alt_name": "灵武;Lingwu City",
+      "name:zh-Hant": "靈武市",
+      "name:zh_pinyin": "Língwǔ Shì"
+    }
+  },
+  {
+    "name": "Lingyuan",
+    "country": "China",
+    "latitude": 41.24076700041814,
+    "longitude": 119.3958124,
+    "other_names": {
+      "name": "凌源市",
+      "name:de": "Lingyuan",
+      "name:en": "Lingyuan",
+      "name:fr": "Lingyuan",
+      "name:ja": "凌源市",
+      "name:ru": "Линъюань",
+      "name:vi": "Lăng Nguyên",
+      "name:zh": "凌源市",
+      "name:zh-Hant": "凌源市",
+      "name:zh_pinyin": "Língyuán Shì"
+    }
+  },
+  {
+    "name": "Lingyun",
+    "country": "China",
+    "latitude": 24.34926100030918,
+    "longitude": 106.5606981,
+    "other_names": {
+      "name": "凌云县",
+      "name:en": "Lingyun",
+      "name:vi": "Lăng Vân",
+      "name:zh": "凌云县",
+      "alt_name": "凌云;Lingyun County",
+      "name:zh-Hant": "凌雲縣",
+      "name:zh_pinyin": "Lingyun Xian"
+    }
+  },
+  {
+    "name": "Linhai",
+    "country": "China",
+    "latitude": 28.860205799852164,
+    "longitude": 121.1419179,
+    "other_names": {
+      "name": "临海市",
+      "name:ar": "لينهاي",
+      "name:de": "Linhai",
+      "name:en": "Linhai",
+      "name:et": "Linhai",
+      "name:fr": "Linhai",
+      "name:it": "Linhai",
+      "name:ja": "臨海市",
+      "name:ki": "Linhai",
+      "name:ko": "린하이시",
+      "name:mg": "Linhai",
+      "name:no": "Linhai",
+      "name:ru": "Линьхай",
+      "name:sv": "Linhai",
+      "name:tl": "Linhai",
+      "name:vi": "Lâm Hải",
+      "name:zh": "临海市",
+      "name:nan": "Lîm-hái-chhī",
+      "name:war": "Linhai",
+      "name:wuu": "临海市",
+      "name:yue": "臨海",
+      "name:zh-Hant": "臨海市",
+      "name:zh_pinyin": "Línhǎi Shì"
+    }
+  },
+  {
+    "name": "Linhares",
+    "country": "Brazil",
+    "latitude": -19.38169440042952,
+    "longitude": -40.06122129999999,
+    "other_names": {
+      "name": "Linhares"
+    }
+  },
+  {
+    "name": "Linhe",
+    "country": "China",
+    "latitude": 40.763641500364905,
+    "longitude": 107.382774,
+    "other_names": {
+      "name": "临河区",
+      "name:en": "Linhe",
+      "name:zh": "临河区",
+      "name:zh-Hant": "臨河區"
+    }
+  },
+  {
+    "name": "Linjiang",
+    "country": "China",
+    "latitude": 41.80924860047129,
+    "longitude": 126.9128334,
+    "other_names": {
+      "name": "临江市",
+      "name:de": "Linjiang",
+      "name:en": "Linjiang",
+      "name:es": "Linjiang",
+      "name:et": "Linjiang",
+      "name:fr": "Linjiang",
+      "name:ja": "臨江市",
+      "name:ko": "린장시",
+      "name:ru": "Линьцзян",
+      "name:vi": "Lâm Giang",
+      "name:zh": "临江市",
+      "alt_name": "临江;Linjiang City",
+      "int_name": "Linjiang",
+      "name:zh-Hant": "臨江市",
+      "name:zh_pinyin": "Línjiāng Shì"
+    }
+  },
+  {
+    "name": "Linjiang",
+    "country": "North Korea",
+    "latitude": 41.80924860047129,
+    "longitude": 126.9128334,
+    "other_names": {
+      "name": "临江市",
+      "name:de": "Linjiang",
+      "name:en": "Linjiang",
+      "name:es": "Linjiang",
+      "name:et": "Linjiang",
+      "name:fr": "Linjiang",
+      "name:ja": "臨江市",
+      "name:ko": "린장시",
+      "name:ru": "Линьцзян",
+      "name:vi": "Lâm Giang",
+      "name:zh": "临江市",
+      "alt_name": "临江;Linjiang City",
+      "int_name": "Linjiang",
+      "name:zh-Hant": "臨江市",
+      "name:zh_pinyin": "Línjiāng Shì"
+    }
+  }
+]

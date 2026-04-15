@@ -1,0 +1,264 @@
+[
+  {
+    "name": "San Antonio de los Altos",
+    "country": "Venezuela",
+    "latitude": 10.375134699458055,
+    "longitude": -66.9665409,
+    "other_names": {
+      "name": "San Antonio de los Altos"
+    }
+  },
+  {
+    "name": "San Bernardino",
+    "country": "United States Of America",
+    "latitude": 34.1083448996054,
+    "longitude": -117.28976519999999,
+    "other_names": {
+      "name": "San Bernardino",
+      "name:en": "San Bernardino",
+      "name:ru": "Сан-Бернардино",
+      "name:uk": "Сан-Бернардіно"
+    }
+  },
+  {
+    "name": "San Borja",
+    "country": "Bolivia",
+    "latitude": -14.85821250036997,
+    "longitude": -66.74747359999999,
+    "other_names": {
+      "name": "San Borja",
+      "official_name": "San Francisco de Borja"
+    }
+  },
+  {
+    "name": "San Carlos",
+    "country": "Philippines",
+    "latitude": 15.926773000016048,
+    "longitude": 120.3475584,
+    "other_names": {
+      "name": "San Carlos",
+      "name:ja": "サン・カルロス",
+      "name:zh": "圣卡洛斯",
+      "name:pag": "Siyudad na San Carlos"
+    }
+  },
+  {
+    "name": "San Carlos",
+    "country": "Uruguay",
+    "latitude": -34.79203369984514,
+    "longitude": -54.92039479999999,
+    "other_names": {
+      "name": "San Carlos"
+    }
+  },
+  {
+    "name": "San Carlos",
+    "country": "Philippines",
+    "latitude": 10.486047999464619,
+    "longitude": 123.41903850000001,
+    "other_names": {
+      "name": "San Carlos"
+    }
+  },
+  {
+    "name": "San Carlos",
+    "country": "Nicaragua",
+    "latitude": 11.12353009950765,
+    "longitude": -84.7778379,
+    "other_names": {
+      "name": "San Carlos",
+      "name:hu": "San Carlos",
+      "name:ka": "სან-კარლოსი",
+      "name:lt": "San Karlosas",
+      "name:ru": "Сан-Карлос",
+      "name:zh": "聖卡洛斯"
+    }
+  },
+  {
+    "name": "San Carlos",
+    "country": "Venezuela",
+    "latitude": 9.663158899422891,
+    "longitude": -68.5869647,
+    "other_names": {
+      "name": "San Carlos",
+      "official_name": "San Carlos de Austria"
+    }
+  },
+  {
+    "name": "San Carlos de Bariloche",
+    "country": "Argentina",
+    "latitude": -41.133442101020506,
+    "longitude": -71.3098425,
+    "other_names": {
+      "name": "San Carlos de Bariloche",
+      "name:af": "Bariloche",
+      "name:ar": "باريلوتشي",
+      "name:bg": "Сан Карлос де Барилоче",
+      "name:de": "Bariloche",
+      "name:en": "San Carlos de Bariloche",
+      "name:eo": "Bariloĉe",
+      "name:fa": "باریلوچه",
+      "name:gn": "Bariloche",
+      "name:he": "בארילוצ'ה",
+      "name:hy": "Սան Կառլոս դե Բարիլոչե",
+      "name:is": "Bariloche",
+      "name:ja": "サン・カルロス・デ・バリローチェ",
+      "name:ka": "სან-კარლოს-დე-ბარილოჩე",
+      "name:ko": "산카를로스데바릴로체",
+      "name:lt": "San Karlos de Bariločė",
+      "name:nl": "Bariloche (Río Negro)",
+      "name:pl": "Bariloche",
+      "name:pt": "Bariloche",
+      "name:ru": "Сан-Карлос-де-Барилоче",
+      "name:uk": "Сан-Карлос-де-Барілоче",
+      "name:zh": "圣卡洛斯-德巴里洛切",
+      "alt_name": "Bariloche",
+      "name:arn": "Vuriloche"
+    }
+  },
+  {
+    "name": "Sanchahe",
+    "country": "China",
+    "latitude": 44.984150700469755,
+    "longitude": 126.03123869999999,
+    "other_names": {
+      "name": "扶余市",
+      "name:en": "Sanchahe",
+      "name:ru": "Саньчахэ",
+      "name:zh": "扶余市",
+      "alt_name": "三岔河;Sanchahe",
+      "name:zh-Hant": "扶余市",
+      "official_name": "三岔河镇"
+    }
+  },
+  {
+    "name": "San Clemente",
+    "country": "United States Of America",
+    "latitude": 33.42702749958926,
+    "longitude": -117.61241790000001,
+    "other_names": {
+      "name": "San Clemente"
+    }
+  },
+  {
+    "name": "San Cristóbal",
+    "country": "Mexico",
+    "latitude": 16.735377000107025,
+    "longitude": -92.63873,
+    "other_names": {
+      "name": "San Cristóbal",
+      "alt_name": "San Cristóbal de las Casas"
+    }
+  },
+  {
+    "name": "San Cristóbal",
+    "country": "Haiti And Domrep",
+    "latitude": 18.417453100270002,
+    "longitude": -70.11033459999999,
+    "other_names": {
+      "name": "San Cristóbal",
+      "name:hu": "San Cristóbal"
+    }
+  },
+  {
+    "name": "San Cristóbal",
+    "country": "Venezuela",
+    "latitude": 7.775666299391526,
+    "longitude": -72.2214154,
+    "other_names": {
+      "name": "San Cristóbal",
+      "name:ar": "سان كريستوبال",
+      "name:be": "Сан-Крыстобаль",
+      "name:bg": "Сан Кристобал",
+      "name:ka": "სან-კრისტობალი",
+      "name:ko": "산크리스토발",
+      "name:mk": "Сан Кристобал",
+      "name:ru": "Сан-Кристобаль",
+      "name:uk": "Сан-Крістобаль",
+      "name:zh": "聖克里斯托瓦爾"
+    }
+  },
+  {
+    "name": "Sancti Spiritus",
+    "country": "Cuba",
+    "latitude": 21.927567000409,
+    "longitude": -79.4431791,
+    "other_names": {
+      "name": "Sancti Spiritus",
+      "name:en": "Sancti Spiritus",
+      "name:hu": "Sancti Spiritus",
+      "name:ru": "Санкти-Спиритус"
+    }
+  },
+  {
+    "name": "Sanda",
+    "country": "Japan",
+    "latitude": 34.888988099644386,
+    "longitude": 135.2284629,
+    "other_names": {
+      "name": "三田市",
+      "name:en": "Sanda",
+      "name:es": "Sanda",
+      "name:fr": "Sanda",
+      "name:ja": "三田市",
+      "name:ko": "산다시",
+      "name:pl": "Sanda",
+      "name:ru": "Санда",
+      "name:uk": "Санда",
+      "name:ja_rm": "Sanda"
+    }
+  },
+  {
+    "name": "Sandakan",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 5.839133699453376,
+    "longitude": 118.1158919,
+    "other_names": {
+      "name": "Sandakan",
+      "name:en": "Sandakan",
+      "name:ja": "サンダカン",
+      "name:ru": "Сандакан",
+      "name:uk": "Сандакан",
+      "name:zh": "山打根"
+    }
+  },
+  {
+    "name": "Sandefjord",
+    "country": "Norway",
+    "latitude": 59.13001120131932,
+    "longitude": 10.2255602,
+    "other_names": {
+      "name": "Sandefjord",
+      "name:ru": "Саннефьорд"
+    }
+  },
+  {
+    "name": "San Diego",
+    "country": "Venezuela",
+    "latitude": 10.255835099451318,
+    "longitude": -67.95409879999998,
+    "other_names": {
+      "name": "San Diego",
+      "loc_name": "San Diego (Pueblo)"
+    }
+  },
+  {
+    "name": "San Diego",
+    "country": "United States Of America",
+    "latitude": 32.71742019959012,
+    "longitude": -117.16277279999998,
+    "other_names": {
+      "name": "San Diego",
+      "name:ar": "سان دييغو",
+      "name:he": "סן דייגו",
+      "name:lt": "San Diegas",
+      "name:oc": "San Diego",
+      "name:pt": "São Diego",
+      "name:ru": "Сан-Диего",
+      "name:uk": "Сан-Дієго",
+      "name:zh": "聖地牙哥",
+      "name:zh-Hans": "圣迭戈",
+      "name:zh-Hant": "聖地牙哥"
+    }
+  }
+]

@@ -1,0 +1,356 @@
+[
+  {
+    "name": "Muramvya",
+    "country": "Burundi",
+    "latitude": -3.2663247997362395,
+    "longitude": 29.6167289,
+    "other_names": {
+      "name": "Muramvya",
+      "name:ru": "Мурамвья"
+    }
+  },
+  {
+    "name": "Murayama",
+    "country": "Japan",
+    "latitude": 38.48364710005106,
+    "longitude": 140.3808616,
+    "other_names": {
+      "name": "村山市",
+      "name:ar": "موراياما، ياماغاتا",
+      "name:de": "Murayama",
+      "name:en": "Murayama",
+      "name:es": "Murayama",
+      "name:fr": "Murayama",
+      "name:ja": "村山市",
+      "name:ko": "무라야마시",
+      "name:pl": "Murayama",
+      "name:ru": "Мураяма",
+      "name:uk": "Мураяма",
+      "int_name": "Murayama",
+      "name:ja_rm": "Murayama-shi",
+      "name:ja_kana": "むらやまし"
+    }
+  },
+  {
+    "name": "Murcia",
+    "country": "Spain",
+    "latitude": 37.99237949998091,
+    "longitude": -1.1305430999999997,
+    "other_names": {
+      "name": "Murcia",
+      "name:ar": "مرسية",
+      "name:be": "Мурсія",
+      "name:ca": "Múrcia",
+      "name:el": "Μούρθια",
+      "name:es": "Murcia",
+      "name:eu": "Murtzia",
+      "name:fr": "Murcie",
+      "name:lt": "Mursija",
+      "name:pt": "Múrcia",
+      "name:ru": "Мурсия",
+      "name:sr": "Мурсија",
+      "name:uk": "Мурсія"
+    }
+  },
+  {
+    "name": "Murfreesboro",
+    "country": "United States Of America",
+    "latitude": 35.84603959972058,
+    "longitude": -86.39210959999998,
+    "other_names": {
+      "name": "Murfreesboro"
+    }
+  },
+  {
+    "name": "Murgap",
+    "country": "Turkmenistan",
+    "latitude": 37.496388999912675,
+    "longitude": 61.97388899999999,
+    "other_names": {
+      "name": "Murgap",
+      "name:en": "Murgap",
+      "name:ru": "Мургап",
+      "old_name:ru": "Сталино"
+    }
+  },
+  {
+    "name": "Muriaé",
+    "country": "Brazil",
+    "latitude": -21.13055600029336,
+    "longitude": -42.36638899999999,
+    "other_names": {
+      "name": "Muriaé"
+    }
+  },
+  {
+    "name": "Muridke",
+    "country": "Pakistan",
+    "latitude": 31.80108629961668,
+    "longitude": 74.2540999,
+    "other_names": {
+      "name": "مریدکے",
+      "name:en": "Muridke",
+      "name:ja": "ムリードケー",
+      "name:ru": "Муридке"
+    }
+  },
+  {
+    "name": "Murmansk",
+    "country": "Russia",
+    "latitude": 68.96562432783331,
+    "longitude": 33.110086265949114,
+    "other_names": {
+      "name": "Мурманск",
+      "name:be": "Мурманск",
+      "name:de": "Murmansk",
+      "name:en": "Murmansk",
+      "name:es": "Múrmansk",
+      "name:et": "Murmansk",
+      "name:fi": "Murmansk",
+      "name:fr": "Mourmansk",
+      "name:nl": "Moermansk",
+      "name:no": "Murmansk",
+      "name:pl": "Murmańsk",
+      "name:ru": "Мурманск",
+      "name:se": "Murmánska",
+      "name:sr": "Мурманск",
+      "alt_name": "Muurmanni",
+      "int_name": "Murmansk",
+      "name:sjd": "Мурман ланнҍ",
+      "name:sms": "Muurman"
+    }
+  },
+  {
+    "name": "Murmansk",
+    "country": "Russia",
+    "latitude": 68.97066499758992,
+    "longitude": 33.07496999999999,
+    "other_names": {
+      "name": "Мурманск",
+      "name:be": "Мурманск",
+      "name:ca": "Múrmansk",
+      "name:de": "Murmansk",
+      "name:en": "Murmansk",
+      "name:es": "Múrmansk",
+      "name:et": "Murmansk",
+      "name:fi": "Murmansk",
+      "name:fr": "Mourmansk",
+      "name:hu": "Murmanszk",
+      "name:ja": "ムルマンスク",
+      "name:ko": "무르만스크",
+      "name:lt": "Murmanskas",
+      "name:nl": "Moermansk",
+      "name:no": "Murmansk",
+      "name:pl": "Murmańsk",
+      "name:ru": "Мурманск",
+      "name:se": "Murmanska",
+      "name:sk": "Murmansk",
+      "name:sr": "Мурманск",
+      "name:sv": "Murmansk",
+      "name:uk": "Мурманськ",
+      "name:zh": "摩尔曼斯克",
+      "int_name": "Murmansk",
+      "name:sms": "Muurman",
+      "alt_name:fi": "Muurmanski",
+      "old_name:fi": "Muurmanni"
+    }
+  },
+  {
+    "name": "Murom",
+    "country": "Russia",
+    "latitude": 55.567992348138176,
+    "longitude": 42.030207781828075,
+    "other_names": {
+      "name": "Муром",
+      "name:de": "Murom",
+      "name:en": "Murom",
+      "name:fr": "Mourom",
+      "name:ru": "Муром",
+      "name:sr": "Муром",
+      "name:tt": "Мөрәм"
+    }
+  },
+  {
+    "name": "Murom",
+    "country": "Russia",
+    "latitude": 55.57379999961661,
+    "longitude": 42.044700000000006,
+    "other_names": {
+      "name": "Муром",
+      "name:de": "Murom",
+      "name:en": "Murom",
+      "name:et": "Murom",
+      "name:fr": "Mourom",
+      "name:ko": "무롬",
+      "name:lt": "Muromas",
+      "name:pl": "Murom",
+      "name:ru": "Муром",
+      "name:sr": "Муром",
+      "name:uk": "Муром"
+    }
+  },
+  {
+    "name": "Murom",
+    "country": "Russia",
+    "latitude": 55.567992348138176,
+    "longitude": 42.030207781828075,
+    "other_names": {
+      "name": "Муром",
+      "name:de": "Murom",
+      "name:en": "Murom",
+      "name:fr": "Mourom",
+      "name:ru": "Муром",
+      "name:sr": "Муром",
+      "name:tt": "Мөрәм"
+    }
+  },
+  {
+    "name": "Murom",
+    "country": "Russia",
+    "latitude": 55.57379999961661,
+    "longitude": 42.044700000000006,
+    "other_names": {
+      "name": "Муром",
+      "name:de": "Murom",
+      "name:en": "Murom",
+      "name:et": "Murom",
+      "name:fr": "Mourom",
+      "name:ko": "무롬",
+      "name:lt": "Muromas",
+      "name:pl": "Murom",
+      "name:ru": "Муром",
+      "name:sr": "Муром",
+      "name:uk": "Муром"
+    }
+  },
+  {
+    "name": "Muroran",
+    "country": "Japan",
+    "latitude": 42.315246100507395,
+    "longitude": 140.97407309999997,
+    "other_names": {
+      "name": "室蘭市",
+      "name:ar": "موروان، هوكايدو",
+      "name:de": "Muroran",
+      "name:en": "Muroran",
+      "name:es": "Muroran",
+      "name:fr": "Muroran",
+      "name:hu": "Muroran",
+      "name:ja": "室蘭市",
+      "name:ko": "무로란시",
+      "name:pl": "Muroran",
+      "name:ru": "Муроран",
+      "name:uk": "Муроран",
+      "int_name": "Muroran",
+      "name:ja_rm": "Muroran-Shi",
+      "name:ja_kana": "むろらんし"
+    }
+  },
+  {
+    "name": "Muroto",
+    "country": "Japan",
+    "latitude": 33.289852299588034,
+    "longitude": 134.1522806,
+    "other_names": {
+      "name": "室戸市",
+      "name:ar": "موروتو، كوتشي",
+      "name:de": "Muroto",
+      "name:en": "Muroto",
+      "name:es": "Muroto",
+      "name:fr": "Muroto",
+      "name:ja": "室戸市",
+      "name:ko": "무로토시",
+      "name:pl": "Muroto",
+      "name:ru": "Мурото",
+      "name:uk": "Мурото",
+      "name:zh": "室户市",
+      "int_name": "Muroto",
+      "name:ja_rm": "Muroto-Shi",
+      "name:ja_kana": "むろとし",
+      "name:zh-Hans": "室户市",
+      "name:zh-Hant": "室戶市"
+    }
+  },
+  {
+    "name": "Murrieta",
+    "country": "United States Of America",
+    "latitude": 33.560831999591095,
+    "longitude": -117.2106564,
+    "other_names": {
+      "name": "Murrieta"
+    }
+  },
+  {
+    "name": "Murun",
+    "country": "Mongolia",
+    "latitude": 49.628481099538924,
+    "longitude": 100.1745571,
+    "other_names": {
+      "name": "Мөрөн",
+      "name:de": "Mörön",
+      "name:en": "Murun",
+      "name:es": "Mörön",
+      "name:fr": "Mörön",
+      "name:ja": "モロン",
+      "name:ko": "무룽",
+      "name:lt": "Murenas",
+      "name:mn": "Мөрөн",
+      "name:ru": "Мурэн",
+      "alt_name:en": "Mörön",
+      "name:mn-mong": "ᠮᠥᠷᠡᠨ"
+    }
+  },
+  {
+    "name": "Murun",
+    "country": "Mongolia",
+    "latitude": 49.63686856915138,
+    "longitude": 100.17585311595175,
+    "other_names": {
+      "name": "Мөрөн",
+      "name:de": "Mörön",
+      "name:en": "Murun",
+      "name:es": "Mörön",
+      "name:fr": "Mörön",
+      "name:ja": "モロン",
+      "name:ko": "무룽",
+      "name:lt": "Murenas",
+      "name:mn": "Мөрөн",
+      "name:ru": "Мурэн",
+      "alt_name:en": "Mörön"
+    }
+  },
+  {
+    "name": "Murwara",
+    "country": "India",
+    "latitude": 23.82325849723392,
+    "longitude": 80.39693973553067,
+    "other_names": {
+      "name": "Murwara",
+      "name:hi": "मुड़वारा",
+      "name:pa": "ਮੁੜਵਾਰਾ"
+    }
+  },
+  {
+    "name": "Murzuq",
+    "country": "Libya",
+    "latitude": 25.914085200172888,
+    "longitude": 13.9197199,
+    "other_names": {
+      "name": "مرزق",
+      "name:ar": "مرزق",
+      "name:de": "Murzuk",
+      "name:en": "Murzuq",
+      "name:es": "Murzuq",
+      "name:fa": "مرزق",
+      "name:fr": "Mourzouq",
+      "name:it": "Murzuch",
+      "name:ko": "무르주크",
+      "name:ks": "مرزق",
+      "name:pl": "Murzuk",
+      "name:ru": "Марзук",
+      "name:uk": "Марзук",
+      "name:ur": "مرزق",
+      "name:azb": "مرزق"
+    }
+  }
+]

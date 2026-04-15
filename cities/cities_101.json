@@ -1,0 +1,323 @@
+[
+  {
+    "name": "Cuautitlán Izcalli",
+    "country": "Mexico",
+    "latitude": 19.653135600355103,
+    "longitude": -99.21450019999999,
+    "other_names": {
+      "name": "Cuautitlán Izcalli",
+      "int_name": "Cuautitlan Izcalli"
+    }
+  },
+  {
+    "name": "Cuautla",
+    "country": "Mexico",
+    "latitude": 18.829011800302165,
+    "longitude": -98.94322439999999,
+    "other_names": {
+      "name": "Cuautla"
+    }
+  },
+  {
+    "name": "Cubatão",
+    "country": "Brazil",
+    "latitude": -23.88579819994174,
+    "longitude": -46.424186899999995,
+    "other_names": {
+      "name": "Cubatão"
+    }
+  },
+  {
+    "name": "Cúcuta",
+    "country": "Colombia",
+    "latitude": 7.897145799390767,
+    "longitude": -72.5080387,
+    "other_names": {
+      "name": "Cúcuta",
+      "name:lt": "Kukuta",
+      "name:ru": "Кукута",
+      "name:uk": "Кукута",
+      "name:zh": "库库塔"
+    }
+  },
+  {
+    "name": "Cuddalore",
+    "country": "India",
+    "latitude": 11.75643289955872,
+    "longitude": 79.7634644,
+    "other_names": {
+      "name": "Cuddalore",
+      "name:ar": "كدالور",
+      "name:en": "Cuddalore",
+      "name:he": "קדאלור",
+      "name:hi": "कडलूर",
+      "name:ja": "カッダロール",
+      "name:kn": "ಕಡಲೂರು",
+      "name:ml": "കടലൂർ",
+      "name:ta": "கடலூர்"
+    }
+  },
+  {
+    "name": "Cuéllar",
+    "country": "Spain",
+    "latitude": 41.39976430043423,
+    "longitude": -4.3150702,
+    "other_names": {
+      "name": "Cuéllar"
+    }
+  },
+  {
+    "name": "Cuenca",
+    "country": "Spain",
+    "latitude": 40.06573237523595,
+    "longitude": -2.135437616696085,
+    "other_names": {
+      "name": "Cuenca"
+    }
+  },
+  {
+    "name": "Cuenca",
+    "country": "Ecuador",
+    "latitude": -2.897172499756635,
+    "longitude": -79.0043742,
+    "other_names": {
+      "name": "Cuenca",
+      "name:be": "Куэнка",
+      "name:he": "קואנקה",
+      "name:ja": "クエンカ",
+      "name:ka": "კუენკა",
+      "name:ko": "쿠엥카",
+      "name:lt": "Kuenka",
+      "name:os": "Куэнкæ",
+      "name:qu": "Tumipampa",
+      "name:ru": "Куэнка",
+      "name:th": "เกวงกา",
+      "name:uk": "Куенка",
+      "name:zh": "昆卡",
+      "official_name": "Santa Ana de los cuatro ríos de Cuenca"
+    }
+  },
+  {
+    "name": "Cuenca",
+    "country": "Spain",
+    "latitude": 40.06811560027651,
+    "longitude": -2.1348241,
+    "other_names": {
+      "name": "Cuenca",
+      "name:ar": "قونكة",
+      "name:be": "Куэнка",
+      "name:ca": "Conca",
+      "name:el": "Κουένκα",
+      "name:es": "Cuenca",
+      "name:la": "Concha",
+      "name:lt": "Kuenka",
+      "name:ru": "Куэнка",
+      "name:sr": "Куенка",
+      "alt_name:ar": "قونقة;كونيكا"
+    }
+  },
+  {
+    "name": "Cuernavaca",
+    "country": "Mexico",
+    "latitude": 18.921827400308917,
+    "longitude": -99.23422819999999,
+    "other_names": {
+      "name": "Cuernavaca",
+      "name:en": "Cuernavaca",
+      "name:es": "Cuernavaca",
+      "name:km": "ក្រុងក្វេរ៏ណាបាកា",
+      "name:pl": "Cuernavaca",
+      "name:ru": "Куэрнавака",
+      "name:uk": "Куернавака",
+      "old_name": "Cuauhnāhuac"
+    }
+  },
+  {
+    "name": "Cuiabá",
+    "country": "Brazil",
+    "latitude": -15.598668600416675,
+    "longitude": -56.099130099999996,
+    "other_names": {
+      "name": "Cuiabá",
+      "name:ar": "كويابا",
+      "name:be": "Куяба",
+      "name:bg": "Куяба",
+      "name:de": "Cuiabá",
+      "name:el": "Κουιαμπά",
+      "name:en": "Cuiabá",
+      "name:fa": "کویابا",
+      "name:he": "קויאבה",
+      "name:hy": "Կույաբա",
+      "name:ja": "クイアバ",
+      "name:ka": "კუიაბა",
+      "name:kk": "Куяба",
+      "name:ko": "쿠이아바",
+      "name:lt": "Kujaba",
+      "name:lv": "Kujaba",
+      "name:mk": "Кујаба",
+      "name:mr": "कुयाबा",
+      "name:pl": "Cuiabá",
+      "name:pt": "Cuiabá",
+      "name:ru": "Куяба",
+      "name:sh": "Kujaba",
+      "name:sr": "Кујаба",
+      "name:tg": "Куяба",
+      "name:th": "กุยาบา",
+      "name:uk": "Куяба",
+      "name:uz": "Kuyaba",
+      "name:zh": "库亚巴",
+      "int_name": "Cuiaba"
+    }
+  },
+  {
+    "name": "Cuiping",
+    "country": "China",
+    "latitude": 28.76942639986184,
+    "longitude": 104.617174,
+    "other_names": {
+      "name": "翠屏区",
+      "name:en": "Cuiping",
+      "name:vi": "Thúy Bình",
+      "name:zh": "翠屏区",
+      "alt_name": "翠屏;Cuiping District",
+      "alt_name:vi": "Thuý Bình",
+      "name:zh-Hant": "翠屏區",
+      "name:zh_pinyin": "Cuiping Qu"
+    }
+  },
+  {
+    "name": "Cuito",
+    "country": "Angola",
+    "latitude": -12.383131900150795,
+    "longitude": 16.942548399999996,
+    "other_names": {
+      "name": "Cuíto",
+      "name:de": "Kuito",
+      "name:el": "Cουίτο",
+      "name:en": "Cuito",
+      "name:es": "Cuito",
+      "name:fr": "Cuito",
+      "name:it": "Cuito",
+      "name:pt": "Cuíto",
+      "name:ru": "Cвито",
+      "old_name": "Silva Porto",
+      "old_name:de": "Silva Porto",
+      "old_name:en": "Silva Porto",
+      "old_name:es": "Silva Porto",
+      "old_name:fr": "Silva Porto",
+      "old_name:it": "Silva Porto",
+      "old_name:nl": "Silva Porto",
+      "old_name:pl": "Silva Porto",
+      "old_name:pt": "Silva Porto",
+      "old_name:ru": "Сильва Порту"
+    }
+  },
+  {
+    "name": "Culiacán",
+    "country": "Mexico",
+    "latitude": 24.797896500274817,
+    "longitude": -107.393395,
+    "other_names": {
+      "name": "Culiacán",
+      "name:ar": "كولياكان",
+      "name:en": "Culiacán",
+      "name:es": "Culiacán",
+      "name:km": "ក្រុងគុល៉្យាកាន",
+      "name:pl": "Culiacán",
+      "name:ru": "Кульякан",
+      "name:uk": "Кульякан",
+      "int_name": "Culiacan",
+      "official_name": "Culiacán Rosales"
+    }
+  },
+  {
+    "name": "Cumana",
+    "country": "Venezuela",
+    "latitude": 10.449446599462423,
+    "longitude": -64.1630154,
+    "other_names": {
+      "name": "Cumaná",
+      "name:en": "Cumana",
+      "name:ru": "Кумана",
+      "name:uk": "Кумана"
+    }
+  },
+  {
+    "name": "Cumberland",
+    "country": "United States Of America",
+    "latitude": 39.65264980021933,
+    "longitude": -78.762383,
+    "other_names": {
+      "name": "Cumberland",
+      "name:en": "Cumberland",
+      "name:ru": "Камберленд",
+      "name:uk": "Камберленд"
+    }
+  },
+  {
+    "name": "Cumilla",
+    "country": "Bangladesh",
+    "latitude": 23.461061500363616,
+    "longitude": 91.1808748,
+    "other_names": {
+      "name": "কুমিল্লা",
+      "name:ar": "كوميلا",
+      "name:bn": "কুমিল্লা",
+      "name:de": "Kumilla",
+      "name:en": "Cumilla",
+      "name:es": "Comilla",
+      "name:et": "Comilla",
+      "name:fr": "Comilla",
+      "name:hi": "कोमिला",
+      "name:ja": "クミッラ",
+      "name:kn": "ಕೊಮಿಲ್ಲ",
+      "name:ru": "Комилла",
+      "name:ur": "کومیلا",
+      "name:zh": "库米拉"
+    }
+  },
+  {
+    "name": "Cuneo",
+    "country": "Italy",
+    "latitude": 44.389633000514934,
+    "longitude": 7.5479007,
+    "other_names": {
+      "name": "Cuneo",
+      "name:ar": "كونيو",
+      "name:el": "Κούνεο",
+      "name:en": "Cuneo",
+      "name:fa": "کونیو",
+      "name:fr": "Coni",
+      "name:ks": "کونیو",
+      "name:oc": "Coni",
+      "name:ru": "Кунео",
+      "name:ur": "کونیو",
+      "name:zh": "庫內奧",
+      "name:azb": "کونیو",
+      "name:pms": "Coni",
+      "name:pnb": "کیونیو",
+      "name:zh-Hans": "库内奥"
+    }
+  },
+  {
+    "name": "Cupertino",
+    "country": "United States Of America",
+    "latitude": 37.32289339988965,
+    "longitude": -122.0322895,
+    "other_names": {
+      "name": "Cupertino",
+      "name:zh": "库柏蒂诺"
+    }
+  },
+  {
+    "name": "Curicó",
+    "country": "Chile",
+    "latitude": -34.98536799988579,
+    "longitude": -71.2393705,
+    "other_names": {
+      "name": "Curicó",
+      "name:ru": "Курико",
+      "name:uk": "Куріко"
+    }
+  }
+]

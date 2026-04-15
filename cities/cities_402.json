@@ -1,0 +1,367 @@
+[
+  {
+    "name": "Rybnik",
+    "country": "Poland",
+    "latitude": 50.09557929943078,
+    "longitude": 18.541993300000005,
+    "other_names": {
+      "name": "Rybnik",
+      "name:el": "Ρίμπνικ",
+      "name:ja": "リブニク",
+      "name:lt": "Rybnikas",
+      "name:mk": "Рибник",
+      "name:pl": "Rybnik",
+      "name:ru": "Рыбник",
+      "name:uk": "Рибник",
+      "name:szl": "Rybńik‎"
+    }
+  },
+  {
+    "name": "Rybnitsa",
+    "country": "Moldova",
+    "latitude": 47.76093857257623,
+    "longitude": 29.01483000997979,
+    "other_names": {
+      "name": "Рыбница",
+      "name:be": "Рыбніца",
+      "name:bg": "Ръбница",
+      "name:de": "Rybniza",
+      "name:en": "Rybnitsa",
+      "name:he": "ריבניצה",
+      "name:ja": "ルィブニツァ",
+      "name:ka": "რიბნიცა",
+      "name:md": "Рыбница",
+      "name:mk": "Рибница",
+      "name:os": "Рыбницæ",
+      "name:pl": "Rybnica",
+      "name:ro": "Rîbnița",
+      "name:ru": "Рыбница",
+      "name:uk": "Рибниця",
+      "name:yi": "ריבניץ",
+      "name:zh": "勒布尼察",
+      "alt_name": "Rîbnița",
+      "int_name": "Rybnitsa",
+      "name:gag": "Rıbniţa",
+      "old_name:ro": "Râbnița"
+    }
+  },
+  {
+    "name": "Rybnitsa",
+    "country": "Moldova",
+    "latitude": 47.76585259999287,
+    "longitude": 29.0078097,
+    "other_names": {
+      "name": "Рыбница",
+      "name:be": "Рыбніца",
+      "name:bg": "Ръбница",
+      "name:de": "Rybniza",
+      "name:en": "Rybnitsa",
+      "name:he": "ריבניצה",
+      "name:ja": "ルィブニツァ",
+      "name:ka": "რიბნიცა",
+      "name:md": "Рыбница",
+      "name:mk": "Рибница",
+      "name:os": "Рыбницæ",
+      "name:pl": "Rybnica",
+      "name:ro": "Rîbnița",
+      "name:ru": "Рыбница",
+      "name:uk": "Рибниця",
+      "name:yi": "ריבניץ",
+      "name:zh": "勒布尼察",
+      "alt_name": "Rîbnița",
+      "int_name": "Rybnitsa",
+      "name:gag": "Rıbniţa",
+      "old_name:ro": "Râbnița"
+    }
+  },
+  {
+    "name": "Rzeszów",
+    "country": "Poland",
+    "latitude": 50.0374530994438,
+    "longitude": 22.004717399999997,
+    "other_names": {
+      "name": "Rzeszów",
+      "name:be": "Жэшаў",
+      "name:cs": "Řešov",
+      "name:de": "Resche",
+      "name:ja": "ジェシュフ",
+      "name:la": "Resovia",
+      "name:lt": "Žešuvas",
+      "name:mk": "Жешув",
+      "name:pl": "Rzeszów",
+      "name:ru": "Жешув",
+      "name:uk": "Ряшів",
+      "name:yi": "רײַשע",
+      "name:szl": "Rzeszůw",
+      "alt_name:uk": "Же́шув"
+    }
+  },
+  {
+    "name": "Saarbrücken",
+    "country": "Germany",
+    "latitude": 49.234361999634494,
+    "longitude": 6.996379,
+    "other_names": {
+      "name": "Saarbrücken",
+      "name:ar": "ساربروكن",
+      "name:de": "Saarbrücken",
+      "name:fr": "Sarrebruck",
+      "name:ja": "ザールブリュッケン",
+      "name:ka": "ზაარბრიუკენი",
+      "name:la": "Saravipons",
+      "name:lb": "Saarbrécken",
+      "name:lt": "Sarbriukenas",
+      "name:ru": "Саарбрюккен",
+      "name:sr": "Сарбрикен",
+      "int_name": "Saarbruecken",
+      "loc_name": "Saabrigge",
+      "name:pfl": "Saarbrigge"
+    }
+  },
+  {
+    "name": "Šabac",
+    "country": "Serbia",
+    "latitude": 44.75715350048959,
+    "longitude": 19.6953972,
+    "other_names": {
+      "name": "Шабац",
+      "name:ar": "شاباتس",
+      "name:de": "Schabatz",
+      "name:en": "Šabac",
+      "name:es": "Šabac",
+      "name:et": "Šabac",
+      "name:fr": "Šabac",
+      "name:hr": "Šabac",
+      "name:hu": "Szabács",
+      "name:ru": "Шабац",
+      "name:sl": "Šabac",
+      "name:sr": "Шабац",
+      "old_name:de": "Schabatz;Sabatsch",
+      "name:sr-Latn": "Šabac"
+    }
+  },
+  {
+    "name": "Sabadell",
+    "country": "Spain",
+    "latitude": 41.54210130044785,
+    "longitude": 2.1138977,
+    "other_names": {
+      "name": "Sabadell",
+      "name:ca": "Sabadell",
+      "name:el": "Σαβαδέλ",
+      "name:lt": "Sabadelis",
+      "name:ru": "Сабадель"
+    }
+  },
+  {
+    "name": "Sabae",
+    "country": "Japan",
+    "latitude": 35.95650959973124,
+    "longitude": 136.1843593,
+    "other_names": {
+      "name": "鯖江市",
+      "name:en": "Sabae",
+      "name:fr": "Sabae",
+      "name:ja": "鯖江市",
+      "name:ko": "사바에시",
+      "name:pl": "Sabae",
+      "name:ru": "Сабаэ",
+      "name:uk": "Сабае",
+      "name:ja_rm": "Sabae",
+      "name:ja_kana": "さばえし"
+    }
+  },
+  {
+    "name": "Sabana de Parra",
+    "country": "Venezuela",
+    "latitude": 10.121067112845466,
+    "longitude": -69.03481660909519,
+    "other_names": {
+      "name": "Sabana de Parra"
+    }
+  },
+  {
+    "name": "Sabana de Parra",
+    "country": "Venezuela",
+    "latitude": 10.121308899444124,
+    "longitude": -69.0356499,
+    "other_names": {
+      "name": "Sabana de Parra"
+    }
+  },
+  {
+    "name": "Sabaneta de Barinas",
+    "country": "Venezuela",
+    "latitude": 8.75292859939628,
+    "longitude": -69.9345447,
+    "other_names": {
+      "name": "Sabaneta de Barinas"
+    }
+  },
+  {
+    "name": "Sabang",
+    "country": "Indonesia",
+    "latitude": 5.892745299450469,
+    "longitude": 95.3225751,
+    "other_names": {
+      "name": "Sabang",
+      "name:en": "Sabang",
+      "name:ja": "サバン",
+      "name:lt": "Sabangas",
+      "name:ru": "Сабанг",
+      "name:uk": "Сабанг",
+      "name:zh": "沙璜"
+    }
+  },
+  {
+    "name": "Sabará",
+    "country": "Brazil",
+    "latitude": -19.890037200398854,
+    "longitude": -43.8107916,
+    "other_names": {
+      "name": "Sabará",
+      "old_name": "Vila Real de Nossa Senhora da Conceição do Sabará"
+    }
+  },
+  {
+    "name": "Sabawanaag",
+    "country": "Somalia",
+    "latitude": 9.044889999402512,
+    "longitude": 44.58108,
+    "other_names": {
+      "name": "Sabawanaag",
+      "pcode": "NC-3810-Y24-003"
+    }
+  },
+  {
+    "name": "Sabha",
+    "country": "Chad",
+    "latitude": 27.036486400053843,
+    "longitude": 14.429039799999998,
+    "other_names": {
+      "name": "سبها",
+      "name:ar": "سبها",
+      "name:de": "Sabha",
+      "name:en": "Sabha",
+      "name:es": "Sabha",
+      "name:et": "Şabḩā",
+      "name:fa": "سبها",
+      "name:fr": "Sabha",
+      "name:it": "Seba",
+      "name:ko": "세바",
+      "name:ku": "Sabha",
+      "name:lt": "Sabha",
+      "name:pl": "Sabha",
+      "name:ru": "Себха",
+      "name:tr": "Sabha",
+      "name:uk": "Себха",
+      "name:ur": "سبها",
+      "name:azb": "سبها",
+      "name:ota": "سبها"
+    }
+  },
+  {
+    "name": "Sabha",
+    "country": "Niger",
+    "latitude": 27.036486400053843,
+    "longitude": 14.429039799999998,
+    "other_names": {
+      "name": "سبها",
+      "name:ar": "سبها",
+      "name:de": "Sabha",
+      "name:en": "Sabha",
+      "name:es": "Sabha",
+      "name:et": "Şabḩā",
+      "name:fa": "سبها",
+      "name:fr": "Sabha",
+      "name:it": "Seba",
+      "name:ko": "세바",
+      "name:ku": "Sabha",
+      "name:lt": "Sabha",
+      "name:pl": "Sabha",
+      "name:ru": "Себха",
+      "name:tr": "Sabha",
+      "name:uk": "Себха",
+      "name:ur": "سبها",
+      "name:azb": "سبها",
+      "name:ota": "سبها"
+    }
+  },
+  {
+    "name": "Sabha",
+    "country": "Algeria",
+    "latitude": 27.036486400053843,
+    "longitude": 14.429039799999998,
+    "other_names": {
+      "name": "سبها",
+      "name:ar": "سبها",
+      "name:de": "Sabha",
+      "name:en": "Sabha",
+      "name:es": "Sabha",
+      "name:et": "Şabḩā",
+      "name:fa": "سبها",
+      "name:fr": "Sabha",
+      "name:it": "Seba",
+      "name:ko": "세바",
+      "name:ku": "Sabha",
+      "name:lt": "Sabha",
+      "name:pl": "Sabha",
+      "name:ru": "Себха",
+      "name:tr": "Sabha",
+      "name:uk": "Себха",
+      "name:ur": "سبها",
+      "name:azb": "سبها",
+      "name:ota": "سبها"
+    }
+  },
+  {
+    "name": "Sabha",
+    "country": "Libya",
+    "latitude": 27.036486400053843,
+    "longitude": 14.429039799999998,
+    "other_names": {
+      "name": "سبها",
+      "name:ar": "سبها",
+      "name:de": "Sabha",
+      "name:en": "Sabha",
+      "name:es": "Sabha",
+      "name:et": "Şabḩā",
+      "name:fa": "سبها",
+      "name:fr": "Sabha",
+      "name:it": "Seba",
+      "name:ko": "세바",
+      "name:ku": "Sabha",
+      "name:lt": "Sabha",
+      "name:pl": "Sabha",
+      "name:ru": "Себха",
+      "name:tr": "Sabha",
+      "name:uk": "Себха",
+      "name:ur": "سبها",
+      "name:azb": "سبها",
+      "name:ota": "سبها"
+    }
+  },
+  {
+    "name": "Sabinas",
+    "country": "Mexico",
+    "latitude": 27.85240109996274,
+    "longitude": -101.11837769999998,
+    "other_names": {
+      "name": "Sabinas"
+    }
+  },
+  {
+    "name": "Sabirabad",
+    "country": "Azerbaijan",
+    "latitude": 40.00013564235402,
+    "longitude": 48.47266950096951,
+    "other_names": {
+      "name": "Sabirabad",
+      "name:ar": "صابر آباد",
+      "name:en": "Sabirabad",
+      "name:ru": "Сабирабад",
+      "int_name": "Sabirabad",
+      "alt_name:ar": "صابرآباد"
+    }
+  }
+]

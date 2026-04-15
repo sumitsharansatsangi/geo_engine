@@ -1,0 +1,421 @@
+[
+  {
+    "name": "Zalantun",
+    "country": "China",
+    "latitude": 47.99540519993878,
+    "longitude": 122.737009,
+    "other_names": {
+      "name": "扎兰屯市",
+      "name:de": "Zalantun",
+      "name:en": "Zalantun",
+      "name:fr": "Zalantun",
+      "name:ja": "ジャラントン市",
+      "name:ru": "Чжалантунь",
+      "name:vi": "Zalantun",
+      "name:zh": "扎兰屯市",
+      "alt_name": "扎兰屯;Жалан-Айл;Zalantun;Zhalantun;Zhalantun City",
+      "int_name": "Zalantun",
+      "old_name": "布特哈",
+      "alt_name:vi": "Trát Lan Đồn",
+      "old_name:en": "Buteha",
+      "old_name:vi": "Bố Đặc Cáp",
+      "name:zh-Hant": "扎蘭屯市",
+      "name:zh_pinyin": "Zālántún Shì"
+    }
+  },
+  {
+    "name": "Zalău",
+    "country": "Romania",
+    "latitude": 47.18194160012323,
+    "longitude": 23.0562143,
+    "other_names": {
+      "name": "Zalău",
+      "name:de": "Zillenmarkt",
+      "name:el": "Ζαλάου",
+      "name:hu": "Zilah",
+      "name:lt": "Zaleu",
+      "name:ru": "Залэу",
+      "name:sr": "Залау",
+      "name:uk": "Залеу",
+      "old_name": "Zilah",
+      "alt_name:de": "Waltenberg"
+    }
+  },
+  {
+    "name": "Zalingei",
+    "country": "Sudan",
+    "latitude": 12.913409599670116,
+    "longitude": 23.4738132,
+    "other_names": {
+      "name": "زالنجي",
+      "name:ar": "زالنجي",
+      "name:en": "Zalingei",
+      "name:fr": "Zalingei",
+      "alt_name": "Zalinje;Zalinji",
+      "alt_name:ar": "زلنج"
+    }
+  },
+  {
+    "name": "Zama",
+    "country": "Japan",
+    "latitude": 35.499204999689546,
+    "longitude": 139.420453,
+    "other_names": {
+      "name": "座間市",
+      "name:en": "Zama",
+      "name:fr": "Zama",
+      "name:ja": "座間市",
+      "name:ko": "자마시",
+      "name:pl": "Zama",
+      "name:ru": "Дзама",
+      "name:uk": "Дзама",
+      "int_name": "Zama",
+      "name:ja_rm": "Zama-shi",
+      "name:ja_kana": "ざまし"
+    }
+  },
+  {
+    "name": "Zamboanga City",
+    "country": "Philippines",
+    "latitude": 6.90460039940801,
+    "longitude": 122.0763695,
+    "other_names": {
+      "ref": "097332000",
+      "name": "Zamboanga City",
+      "name:es": "Ciudad de Zamboanga",
+      "name:ja": "サンボアンガ",
+      "name:ko": "잠보앙가",
+      "name:ru": "Замбоанга",
+      "name:uk": "Замбоанга",
+      "name:zh": "三宝颜",
+      "name:cbk": "Ciudad de Zamboanga"
+    }
+  },
+  {
+    "name": "Zamora",
+    "country": "Spain",
+    "latitude": 41.50565740044443,
+    "longitude": -5.7448039,
+    "other_names": {
+      "name": "Zamora",
+      "name:ar": "سمورة",
+      "name:be": "Самора",
+      "name:bn": "থামোরা",
+      "name:el": "Θαμόρα",
+      "name:es": "Zamora",
+      "name:fa": "سامرا",
+      "name:ja": "サモラ",
+      "name:la": "Ocellum Duri",
+      "name:ru": "Самора",
+      "name:sr": "Замора"
+    }
+  },
+  {
+    "name": "Zamora",
+    "country": "Mexico",
+    "latitude": 19.982894800371632,
+    "longitude": -102.28363,
+    "other_names": {
+      "name": "Zamora"
+    }
+  },
+  {
+    "name": "Zamość",
+    "country": "Poland",
+    "latitude": 50.71708539930109,
+    "longitude": 23.252571100000004,
+    "other_names": {
+      "name": "Zamość",
+      "name:ar": "زاموسك",
+      "name:be": "Замасць",
+      "name:de": "Zamosch",
+      "name:en": "Zamość",
+      "name:es": "Zamość",
+      "name:fr": "Zamość",
+      "name:he": "זמושץ'",
+      "name:ja": "ザモシチ",
+      "name:la": "Zamoscia",
+      "name:lt": "Zamostė",
+      "name:lv": "Zamosca",
+      "name:mk": "Замошќ",
+      "name:pl": "Zamość",
+      "name:ru": "Замосць",
+      "name:uk": "Замостя",
+      "name:zh": "扎莫希奇"
+    }
+  },
+  {
+    "name": "Zamtang",
+    "country": "China",
+    "latitude": 32.267479899599714,
+    "longitude": 100.97760429999998,
+    "other_names": {
+      "name": "壤塘县",
+      "name:en": "Zamtang",
+      "name:zh": "壤塘县",
+      "alt_name": "壤塘;Zamtang County;Zamthang;Dzamthang",
+      "name:zh-Hant": "壤塘縣"
+    }
+  },
+  {
+    "name": "Zangilan",
+    "country": "Azerbaijan",
+    "latitude": 39.08697556474352,
+    "longitude": 46.65161238431128,
+    "other_names": {
+      "name": "Zəngilan",
+      "name:az": "Zəngilan",
+      "name:en": "Zangilan",
+      "name:ru": "Зангилан",
+      "name:tr": "Zengilan"
+    }
+  },
+  {
+    "name": "Zangilan",
+    "country": "Azerbaijan",
+    "latitude": 39.086371700138415,
+    "longitude": 46.656448499999996,
+    "other_names": {
+      "name": "Zəngilan",
+      "name:az": "Zəngilan",
+      "name:de": "Zangеlan",
+      "name:en": "Zangilan",
+      "name:pl": "Zangilan",
+      "name:ru": "Зангелан",
+      "name:tr": "Zengilan",
+      "int_name": "Zangеlan"
+    }
+  },
+  {
+    "name": "Zanhuang",
+    "country": "China",
+    "latitude": 37.65972199993476,
+    "longitude": 114.383333,
+    "other_names": {
+      "name": "赞皇县",
+      "name:en": "Zanhuang",
+      "name:ja": "賛皇県",
+      "name:vi": "Tán Hoàng",
+      "name:zh": "赞皇县",
+      "alt_name": "赞皇;Zanhuang County",
+      "name:zh-Hant": "贊皇縣",
+      "official_name": "赞皇镇",
+      "name:zh_pinyin": "Zanhuang Xian"
+    }
+  },
+  {
+    "name": "Zanjan",
+    "country": "Iran",
+    "latitude": 36.66998089980833,
+    "longitude": 48.48593979999999,
+    "other_names": {
+      "name": "زنجان",
+      "name:ar": "زنجان",
+      "name:az": "Zəngan",
+      "name:cs": "Zandžán",
+      "name:de": "Zandschan",
+      "name:en": "Zanjan",
+      "name:es": "Zanjan",
+      "name:et": "Zanjān",
+      "name:fi": "Zanjan",
+      "name:fr": "Zanjan",
+      "name:hi": "ज़न्जान",
+      "name:ja": "ザンジャーン",
+      "name:ko": "잔잔",
+      "name:ku": "Zengan",
+      "name:pl": "Zandżan",
+      "name:ru": "Зенджан",
+      "name:tr": "Zencan",
+      "name:uk": "Зенджан"
+    }
+  },
+  {
+    "name": "Zanzibar City",
+    "country": "Tanzania",
+    "latitude": -6.166490799687266,
+    "longitude": 39.2074312,
+    "other_names": {
+      "name": "Zanzibar City مدينة زنجبار",
+      "name:ar": "مدينة زنجبار",
+      "name:cs": "Zanzibar",
+      "name:de": "Sansibar-Stadt",
+      "name:en": "Zanzibar City",
+      "name:es": "Zanzíbar",
+      "name:fa": "زنگبار",
+      "name:fi": "Sansibar",
+      "name:fr": "Zanzibar",
+      "name:hi": "ज़ांज़ीबार",
+      "name:ko": "잔지바르",
+      "name:ru": "Занзибар",
+      "name:sw": "Jiji la Zanzibar",
+      "name:ur": "زنجبار شہر",
+      "alt_name:ar": "زنزيبار"
+    }
+  },
+  {
+    "name": "Zaoqiang",
+    "country": "China",
+    "latitude": 37.50618739991397,
+    "longitude": 115.72047810000001,
+    "other_names": {
+      "name": "枣强县",
+      "name:en": "Zaoqiang",
+      "name:vi": "Tảo Cường",
+      "name:zh": "枣强县",
+      "alt_name": "枣强;Zaoqiang County",
+      "name:zh-Hant": "棗強縣",
+      "official_name": "枣强镇",
+      "name:zh_pinyin": "Zaoqiang Xian"
+    }
+  },
+  {
+    "name": "Zaoyang",
+    "country": "China",
+    "latitude": 32.129688199604,
+    "longitude": 112.7656433,
+    "other_names": {
+      "name": "枣阳市",
+      "name:de": "Zaoyang",
+      "name:en": "Zaoyang",
+      "name:fr": "Zaoyang",
+      "name:ja": "棗陽市",
+      "name:ru": "Цзаоян",
+      "name:vi": "Tảo Dương",
+      "name:zh": "枣阳市",
+      "name:zh-Hant": "棗陽市",
+      "name:zh_pinyin": "Zǎoyáng Shì"
+    }
+  },
+  {
+    "name": "Zaozhuang",
+    "country": "China",
+    "latitude": 34.811300599639544,
+    "longitude": 117.31782779999999,
+    "other_names": {
+      "name": "枣庄市",
+      "name:de": "Zaozhuang",
+      "name:en": "Zaozhuang",
+      "name:et": "Zaozhuang",
+      "name:fr": "Zaozhuang",
+      "name:hi": "ज़ाओज़ूंग",
+      "name:ja": "棗荘市",
+      "name:oc": "Zaozhuang",
+      "name:pt": "Zaoshuang",
+      "name:ru": "Цзаочжуан",
+      "name:sr": "Цаоџуанг",
+      "name:vi": "Tảo Trang",
+      "name:zh": "枣庄市",
+      "int_name": "Zǎozhuāng",
+      "name:zh-Hant": "棗莊市",
+      "name:zh_pinyin": "Zǎozhuāng shì"
+    }
+  },
+  {
+    "name": "Zapopan",
+    "country": "Mexico",
+    "latitude": 20.721120300398205,
+    "longitude": -103.3913671,
+    "other_names": {
+      "name": "Zapopan",
+      "name:pt": "Zapopan",
+      "name:ru": "Сапопан"
+    }
+  },
+  {
+    "name": "Zaporizhzhia",
+    "country": "Ukraine",
+    "latitude": 47.85078589997302,
+    "longitude": 35.11828669999999,
+    "other_names": {
+      "name": "Запоріжжя",
+      "name:ar": "زاباروجيا",
+      "name:az": "Zaporojya",
+      "name:be": "Запарожжа",
+      "name:cs": "Záporoží",
+      "name:de": "Saporischschja",
+      "name:en": "Zaporizhzhia",
+      "name:es": "Zaporiyia",
+      "name:et": "Zaporižžja",
+      "name:fr": "Zaporijia",
+      "name:hr": "Zaporižžja",
+      "name:hu": "Zaporizzsja",
+      "name:ko": "자포리자",
+      "name:lt": "Zaporižia",
+      "name:lv": "Zaporižja",
+      "name:nl": "Zaporizja",
+      "name:pl": "Zaporoże",
+      "name:pt": "Zaporizhzhya",
+      "name:ru": "Запорожье",
+      "name:sh": "Zaporižja",
+      "name:sk": "Zaporižžia",
+      "name:sr": "Запорожје",
+      "name:tr": "Zaporijjia",
+      "name:uk": "Запоріжжя",
+      "name:zh": "扎波里日扎",
+      "alt_name": "Saporischja",
+      "name:crh": "Zaporijjâ",
+      "name:rue": "Запоріжя",
+      "old_name": "Aleksandrovsk;Aleksandrowsk;Александровск;Oleksandrivsk",
+      "alt_name:ko": "자포로제",
+      "old_name:az": "Zaporojye",
+      "old_name:de": "Saporoschje",
+      "old_name:en": "Zaporozhye",
+      "old_name:hr": "Zaporožje",
+      "old_name:lt": "Zaporožė",
+      "old_name:sh": "Zaporožje",
+      "old_name:sk": "Záporožie",
+      "old_name:zh": "扎波罗热"
+    }
+  },
+  {
+    "name": "Zaporizhzhia",
+    "country": "Ukraine",
+    "latitude": 47.843493722505166,
+    "longitude": 35.16699102985224,
+    "other_names": {
+      "name": "Запоріжжя",
+      "name:ar": "زاباروجيا",
+      "name:az": "Zaporojya",
+      "name:be": "Запарожжа",
+      "name:cs": "Záporoží",
+      "name:de": "Saporischschja",
+      "name:en": "Zaporizhzhia",
+      "name:eo": "Zaporiĵo",
+      "name:es": "Zaporiyia",
+      "name:et": "Zaporižžja",
+      "name:fr": "Zaporijia",
+      "name:hr": "Zaporižžja",
+      "name:hu": "Zaporizzsja",
+      "name:ko": "자포리자",
+      "name:lt": "Zaporižia",
+      "name:lv": "Zaporižja",
+      "name:nl": "Zaporizja",
+      "name:pl": "Zaporoże",
+      "name:pt": "Zaporizhzhya",
+      "name:ru": "Запорожье",
+      "name:sh": "Zaporižja",
+      "name:sk": "Zaporižžia",
+      "name:sr": "Запорожје",
+      "name:tr": "Zaporijjia",
+      "name:uk": "Запоріжжя",
+      "name:zh": "扎波里日扎",
+      "alt_name": "Saporischja",
+      "name:crh": "Zaporijjâ",
+      "name:rue": "Запоріжя",
+      "name:szl": "Zaporoże",
+      "old_name": "Aleksandrovsk;Aleksandrowsk;Александровск;Oleksandrivsk",
+      "alt_name:ar": "زابوريجا",
+      "alt_name:en": "Zaporizhia",
+      "alt_name:ko": "자포로제",
+      "old_name:az": "Zaporojye",
+      "old_name:de": "Saporoschje",
+      "old_name:en": "Zaporozhye",
+      "old_name:hr": "Zaporožje",
+      "old_name:lt": "Zaporožė",
+      "old_name:lv": "Zaporožje",
+      "old_name:sh": "Zaporožje",
+      "old_name:sk": "Záporožie",
+      "old_name:zh": "扎波罗热"
+    }
+  }
+]

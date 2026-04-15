@@ -1,0 +1,375 @@
+[
+  {
+    "name": "Kamaishi",
+    "country": "Japan",
+    "latitude": 39.27574630016574,
+    "longitude": 141.8858151,
+    "other_names": {
+      "name": "釜石市",
+      "name:ar": "كامايشي، إيواته",
+      "name:de": "Kamaishi",
+      "name:en": "Kamaishi",
+      "name:es": "Kamaishi",
+      "name:fr": "Kamaishi",
+      "name:ja": "釜石市",
+      "name:ko": "가마이시시",
+      "name:lt": "Kamaišis",
+      "name:pl": "Kamaishi",
+      "name:ru": "Камаиси",
+      "name:uk": "Камаїсі",
+      "int_name": "Kamaishi",
+      "name:ja_rm": "Kamaishi-shi",
+      "name:ja_kana": "かまいしし"
+    }
+  },
+  {
+    "name": "Kamakura",
+    "country": "Japan",
+    "latitude": 35.32956399967574,
+    "longitude": 139.54442,
+    "other_names": {
+      "name": "鎌倉市",
+      "name:ar": "كاماكورا، كاناغاوا",
+      "name:de": "Kamakura",
+      "name:en": "Kamakura",
+      "name:es": "Kamakura",
+      "name:fr": "Kamakura",
+      "name:it": "Kamakura",
+      "name:ja": "鎌倉市",
+      "name:ko": "가마쿠라시",
+      "name:pl": "Kamakura",
+      "name:ru": "Камакура",
+      "name:uk": "Камакура",
+      "int_name": "Kamakura",
+      "name:ja-Hira": "かまくらし",
+      "name:ja-Latn": "Kamakura-shi"
+    }
+  },
+  {
+    "name": "Kamalia",
+    "country": "Pakistan",
+    "latitude": 30.726988299680272,
+    "longitude": 72.6450218,
+    "other_names": {
+      "name": "کمالیہ",
+      "name:ar": "كماليا",
+      "name:de": "Kamalia",
+      "name:en": "Kamalia",
+      "name:es": "Kamalia",
+      "name:fr": "Kamalia",
+      "name:ja": "カマリア",
+      "name:ru": "Камалия",
+      "name:ur": "کمالیہ"
+    }
+  },
+  {
+    "name": "Kambia",
+    "country": "Sierra Leone",
+    "latitude": 9.125072999404608,
+    "longitude": -12.919337,
+    "other_names": {
+      "name": "Kambia",
+      "name:ru": "Камбиа"
+    }
+  },
+  {
+    "name": "Kambove",
+    "country": "Congo Democratic Republic",
+    "latitude": -10.876068799999118,
+    "longitude": 26.5959708,
+    "other_names": {
+      "name": "Kambove"
+    }
+  },
+  {
+    "name": "Kamensk-Uralsky",
+    "country": "Russia",
+    "latitude": 56.41545099997339,
+    "longitude": 61.91779700000001,
+    "other_names": {
+      "name": "Каменск-Уральский",
+      "name:ar": "كامينسك-أورالسكي",
+      "name:de": "Kamensk-Uralski",
+      "name:en": "Kamensk-Uralsky",
+      "name:et": "Kamensk-Uralski",
+      "name:ja": "カメンスク=ウラリスキー",
+      "name:ko": "카멘스크우랄스키",
+      "name:lt": "Uralo Kamenskas",
+      "name:pl": "Kamieńsk Uralski",
+      "name:ru": "Каменск-Уральский",
+      "name:uk": "Каменськ-Уральський",
+      "name:ru:word_stress": "Ка́менск-Ура́льский"
+    }
+  },
+  {
+    "name": "Kamensk-Uralsky",
+    "country": "Russia",
+    "latitude": 56.40015781424553,
+    "longitude": 61.92723047678254,
+    "other_names": {
+      "name": "Каменск-Уральский",
+      "name:de": "Kamensk-Uralski",
+      "name:en": "Kamensk-Uralsky",
+      "name:et": "Kamensk-Uralski",
+      "name:ja": "カメンスク=ウラリスキー",
+      "name:ru": "Каменск-Уральский"
+    }
+  },
+  {
+    "name": "Kameoka",
+    "country": "Japan",
+    "latitude": 35.01344029965257,
+    "longitude": 135.5733728,
+    "other_names": {
+      "name": "亀岡市",
+      "name:ar": "كاميوكا",
+      "name:de": "Kameoka",
+      "name:en": "Kameoka",
+      "name:es": "Kameoka",
+      "name:fr": "Kameoka",
+      "name:ja": "亀岡市",
+      "name:ko": "가메오카시",
+      "name:lt": "Kameoka",
+      "name:pl": "Kameoka",
+      "name:ru": "Камеока",
+      "name:uk": "Камеока",
+      "int_name": "Kameoka",
+      "name:ja_rm": "Kameoka-shi",
+      "name:ja_kana": "かめおかし"
+    }
+  },
+  {
+    "name": "Kameyama",
+    "country": "Japan",
+    "latitude": 34.861988299642675,
+    "longitude": 136.446694,
+    "other_names": {
+      "name": "亀山市",
+      "name:ar": "كامياما، ميه",
+      "name:de": "Kameyama",
+      "name:en": "Kameyama",
+      "name:es": "Kameyama",
+      "name:fr": "Kameyama",
+      "name:ja": "亀山市",
+      "name:ko": "가메야마시",
+      "name:pl": "Kameyama",
+      "name:ru": "Камеяма",
+      "name:uk": "Камеяма",
+      "name:ja_rm": "Kameyama si"
+    }
+  },
+  {
+    "name": "Kamëz",
+    "country": "Albania",
+    "latitude": 41.38352590043262,
+    "longitude": 19.7604224,
+    "other_names": {
+      "name": "Kamez",
+      "name:bg": "Камза",
+      "name:de": "Kamza",
+      "name:en": "Kamëz",
+      "name:mk": "Камза",
+      "name:ru": "Камза",
+      "name:ur": "کامزا",
+      "name:zh": "卡姆扎"
+    }
+  },
+  {
+    "name": "Kami",
+    "country": "Japan",
+    "latitude": 33.60377699959183,
+    "longitude": 133.6860078,
+    "other_names": {
+      "name": "香美市",
+      "name:ar": "كامي، كوتشي",
+      "name:de": "Kami",
+      "name:en": "Kami",
+      "name:es": "Kami",
+      "name:fr": "Kami",
+      "name:ja": "香美市",
+      "name:ko": "가미시",
+      "name:pl": "Kami",
+      "name:ru": "Ками",
+      "name:uk": "Камі",
+      "name:zh": "香美市",
+      "int_name": "Kami",
+      "name:zh-Hans": "香美市",
+      "name:zh-Hant": "香美市"
+    }
+  },
+  {
+    "name": "Kami",
+    "country": "Ivory Coast",
+    "latitude": 6.889145582439058,
+    "longitude": -5.283091550090035,
+    "other_names": {
+      "name": "Kami"
+    }
+  },
+  {
+    "name": "Kamiamakusa",
+    "country": "Japan",
+    "latitude": 32.496301499593976,
+    "longitude": 130.3960215,
+    "other_names": {
+      "name": "上天草市",
+      "name:ar": "كامياماكوسا، كوماموتو",
+      "name:de": "Kami-Amakusa",
+      "name:en": "Kamiamakusa",
+      "name:es": "Kami-Amakusa",
+      "name:fr": "Kami-Amakusa",
+      "name:ja": "上天草市",
+      "name:ko": "가미아마쿠사시",
+      "name:ru": "Камиамакуса",
+      "name:uk": "Камі-Амакуса",
+      "name:zh": "上天草市",
+      "int_name": "Kami-Amakusa",
+      "name:zh-Hans": "上天草市",
+      "name:zh-Hant": "上天草市"
+    }
+  },
+  {
+    "name": "Kamianets-Podilskyi",
+    "country": "Ukraine",
+    "latitude": 48.67845969977207,
+    "longitude": 26.5852225,
+    "other_names": {
+      "name": "Кам’янець-Подільський",
+      "name:be": "Камянец-Падольскі",
+      "name:cs": "Kamenec Podolský",
+      "name:de": "Kamjanez-Podilskyj",
+      "name:en": "Kamianets-Podilskyi",
+      "name:eo": "Kamjanec-Podilskij",
+      "name:et": "Kamjanets-Podilskõi",
+      "name:fr": "Kamianets-Podilskyï",
+      "name:hu": "Kamjanec-Pogyilszkij",
+      "name:ko": "카미야네츠포딜스키",
+      "name:nl": "Kamjanets-Podilsky",
+      "name:pl": "Kamieniec Podolski",
+      "name:ro": "Cameniţa",
+      "name:ru": "Каменец-Подольский",
+      "name:sr": "Каменица",
+      "name:tr": "Kamaniçe",
+      "name:uk": "Кам’янець-Подільський",
+      "old_name": "Кам’янець"
+    }
+  },
+  {
+    "name": "Kamianske",
+    "country": "Ukraine",
+    "latitude": 48.516774799812055,
+    "longitude": 34.60687969999999,
+    "other_names": {
+      "name": "Кам’янське",
+      "name:de": "Kamjanske",
+      "name:en": "Kamianske",
+      "name:et": "Kamjanske",
+      "name:fr": "Kamianske",
+      "name:nl": "Kamjanske",
+      "name:ru": "Каменское",
+      "name:sr": "Камјанске",
+      "name:uk": "Кам’янське",
+      "old_name": "Дніпродзержинськ",
+      "old_name:de": "Dniprodserschynsk",
+      "old_name:en": "Dniprodzerzhynsk",
+      "old_name:fr": "Dniprodzerjynsk",
+      "old_name:hu": "Dnyiprodzserzsinszk",
+      "old_name:lt": "Dnieprodzeržinskas",
+      "old_name:nl": "Dniprodzerzjynsk",
+      "old_name:pl": "Dnieprodzierżyńsk",
+      "old_name:ru": "Днепродзержинск",
+      "old_name:uk": "Дніпродзержинськ"
+    }
+  },
+  {
+    "name": "Kamianske",
+    "country": "Ukraine",
+    "latitude": 48.51424880095569,
+    "longitude": 34.61427536028679,
+    "other_names": {
+      "name": "Кам’янське",
+      "name:en": "Kamianske",
+      "name:eo": "Kamjansko",
+      "name:hu": "Kamjanszke",
+      "name:pl": "Kamjanśke",
+      "name:ru": "Каменское",
+      "name:sr": "Камјанске",
+      "name:uk": "Кам’янське",
+      "old_name": "Дніпродзержинськ",
+      "old_name:de": "Dniprodserschynsk",
+      "old_name:en": "Dniprodzerzhynsk",
+      "old_name:eo": "Dniprodzerĵinsk",
+      "old_name:lt": "Dnieprodzeržinskas",
+      "old_name:pl": "Dnieprodzierżyńsk",
+      "old_name:ru": "Днепродзержинск",
+      "old_name:uk": "Дніпродзержинськ"
+    }
+  },
+  {
+    "name": "Kamina",
+    "country": "Congo Democratic Republic",
+    "latitude": -8.735182599810008,
+    "longitude": 25.003220099999997,
+    "other_names": {
+      "name": "Kamina",
+      "name:ko": "카미나",
+      "name:ru": "Камина"
+    }
+  },
+  {
+    "name": "Kaminoyama",
+    "country": "Japan",
+    "latitude": 38.14949560000314,
+    "longitude": 140.2677993,
+    "other_names": {
+      "name": "上山市",
+      "name:ar": "كامينوياما، ياماغاتا",
+      "name:de": "Kaminoyama",
+      "name:en": "Kaminoyama",
+      "name:es": "Kaminoyama",
+      "name:fr": "Kaminoyama",
+      "name:ja": "上山市",
+      "name:ko": "가미노야마시",
+      "name:pl": "Kaminoyama",
+      "name:ru": "Каминояма",
+      "name:uk": "Камінояма",
+      "int_name": "Kaminoyama",
+      "name:ja_rm": "Kaminoyama-shi",
+      "name:ja_kana": "かみのやまし"
+    }
+  },
+  {
+    "name": "Kamisu",
+    "country": "Japan",
+    "latitude": 35.88989989972477,
+    "longitude": 140.6645754,
+    "other_names": {
+      "name": "神栖市",
+      "name:ar": "كاميسو، إيباراكي",
+      "name:de": "Kamisu",
+      "name:en": "Kamisu",
+      "name:es": "Kamisu",
+      "name:fr": "Kamisu",
+      "name:ja": "神栖市",
+      "name:ko": "가미스시",
+      "name:pl": "Kamisu",
+      "name:ru": "Камису",
+      "name:uk": "Камісу",
+      "int_name": "Kamisu",
+      "name:ja_rm": "Kamisu-shi",
+      "name:ja_kana": "かみすし"
+    }
+  },
+  {
+    "name": "Kamloops",
+    "country": "Canada",
+    "latitude": 50.67582689930907,
+    "longitude": -120.33941499999997,
+    "other_names": {
+      "name": "Kamloops",
+      "name:en": "Kamloops",
+      "name:ru": "Камлупс",
+      "name:uk": "Камлупс"
+    }
+  }
+]

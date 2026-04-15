@@ -1,0 +1,414 @@
+[
+  {
+    "name": "Angra dos Reis",
+    "country": "Brazil",
+    "latitude": -23.006396600066207,
+    "longitude": -44.316326,
+    "other_names": {
+      "name": "Angra dos Reis"
+    }
+  },
+  {
+    "name": "Anguo",
+    "country": "China",
+    "latitude": 38.427747600043,
+    "longitude": 115.3303798,
+    "other_names": {
+      "name": "安国市",
+      "name:de": "Anguo",
+      "name:en": "Anguo",
+      "name:fr": "Anguo",
+      "name:ja": "安国市",
+      "name:ru": "Аньго",
+      "name:vi": "An Quốc",
+      "name:zh": "安国市",
+      "alt_name": "安国;Anguo City",
+      "name:zh-Hant": "安國市",
+      "name:zh_pinyin": "Ānguó Shì"
+    }
+  },
+  {
+    "name": "Anhua",
+    "country": "China",
+    "latitude": 28.37748219990439,
+    "longitude": 111.20751639999999,
+    "other_names": {
+      "name": "安化县",
+      "name:de": "Anhua",
+      "name:en": "Anhua",
+      "name:fa": "شهرستان آنهوا",
+      "name:fr": "Xian d'Anhua",
+      "name:it": "Contea di Anhua",
+      "name:ja": "安化県",
+      "name:ko": "안화현",
+      "name:no": "Anhua",
+      "name:ru": "Аньхуа",
+      "name:sv": "Anhua",
+      "name:vi": "An Hóa",
+      "name:zh": "安化县",
+      "alt_name": "安化;Anhua County",
+      "name:hak": "Ôn-fa-yen",
+      "name:nan": "An-hoà-koān",
+      "name:yue": "安化",
+      "name:zh-Hant": "安化縣",
+      "name:zh_pinyin": "Ānhuà Xiàn"
+    }
+  },
+  {
+    "name": "anijat",
+    "country": "Sudan",
+    "latitude": 21.950604400408803,
+    "longitude": 33.6186513,
+    "other_names": {
+      "name": "انجات",
+      "name:en": "anijat",
+      "name:es": "anijat",
+      "name:fr": "Anijat"
+    }
+  },
+  {
+    "name": "Anji",
+    "country": "China",
+    "latitude": 30.63831069968689,
+    "longitude": 119.67550060000002,
+    "other_names": {
+      "name": "安吉县",
+      "name:en": "Anji",
+      "name:vi": "An Cát",
+      "name:zh": "安吉县",
+      "name:zh-Hant": "安吉縣",
+      "name:zh_pinyin": "Ānjí xiàn"
+    }
+  },
+  {
+    "name": "Anjo",
+    "country": "Japan",
+    "latitude": 34.94776399964818,
+    "longitude": 137.075563,
+    "other_names": {
+      "name": "安城市",
+      "name:ar": "أنجو، آيتشي",
+      "name:de": "Anjō",
+      "name:en": "Anjo",
+      "name:es": "Anjō",
+      "name:fr": "Anjō",
+      "name:ja": "安城市",
+      "name:ko": "안조시",
+      "name:lt": "Andžijas",
+      "name:pl": "Anjō",
+      "name:ru": "Андзё",
+      "name:uk": "Андзьо",
+      "name:ja_rm": "Anjo-shi"
+    }
+  },
+  {
+    "name": "Anju",
+    "country": "North Korea",
+    "latitude": 39.61736860021437,
+    "longitude": 125.66113809999999,
+    "other_names": {
+      "name": "안주시",
+      "name:de": "Anju",
+      "name:en": "Anju",
+      "name:es": "Anju",
+      "name:et": "Anju",
+      "name:fr": "Anju",
+      "name:ja": "安州市",
+      "name:ko": "안주시",
+      "name:nl": "Anju",
+      "name:ru": "Анджу",
+      "name:zh": "安州市",
+      "int_name": "Anju",
+      "name:ko-Hani": "安州市"
+    }
+  },
+  {
+    "name": "Anju",
+    "country": "China",
+    "latitude": 30.352787099709452,
+    "longitude": 105.45896399999998,
+    "other_names": {
+      "name": "安居区",
+      "name:en": "Anju",
+      "name:zh": "安居区",
+      "alt_name": "安居",
+      "name:zh-Hant": "安居區"
+    }
+  },
+  {
+    "name": "Ankang",
+    "country": "China",
+    "latitude": 32.71651839959013,
+    "longitude": 108.99129889999999,
+    "other_names": {
+      "name": "安康市",
+      "name:de": "Ankang",
+      "name:en": "Ankang",
+      "name:et": "Ankang",
+      "name:fr": "Ankang",
+      "name:ja": "安康市",
+      "name:ru": "Анькан",
+      "name:vi": "An Khang",
+      "name:zh": "安康市",
+      "int_name": "Ankang",
+      "name:zh-Hant": "安康市",
+      "name:zh_pinyin": "Ānkāng Shì"
+    }
+  },
+  {
+    "name": "Ankara",
+    "country": "Turkey",
+    "latitude": 39.920789300256516,
+    "longitude": 32.8540412,
+    "other_names": {
+      "name": "Ankara",
+      "name:ab": "Анкара",
+      "name:am": "አንካራ",
+      "name:ar": "أنقرة",
+      "name:av": "Анкара",
+      "name:be": "Анкара",
+      "name:bg": "Анкара",
+      "name:bn": "আঙ্কারা",
+      "name:bo": "ཨན་ཁ་ར།",
+      "name:br": "Ankara",
+      "name:de": "Ankara",
+      "name:el": "Άγκυρα",
+      "name:en": "Ankara",
+      "name:eo": "Ankaro",
+      "name:eu": "Ankara",
+      "name:fa": "آنکارا",
+      "name:fr": "Ankara",
+      "name:gl": "Ancara",
+      "name:he": "אנקרה",
+      "name:hi": "अंकारा",
+      "name:hu": "Ankara",
+      "name:hy": "Անկարա",
+      "name:ie": "Ancara",
+      "name:is": "Ankara",
+      "name:ja": "アンカラ",
+      "name:ka": "ანკარა",
+      "name:kk": "Анкара",
+      "name:kn": "ಅಂಕಾರಾ",
+      "name:ko": "앙카라",
+      "name:ku": "Enqere",
+      "name:ky": "Анкара",
+      "name:la": "Ancyra",
+      "name:mi": "Anakara",
+      "name:mk": "Анкара",
+      "name:ml": "അങ്കാറ",
+      "name:mn": "Анкара",
+      "name:mr": "अंकारा",
+      "name:nl": "Ankara",
+      "name:oc": "Ankara",
+      "name:os": "Анкара",
+      "name:pl": "Ankara",
+      "name:ps": "انقره",
+      "name:pt": "Ancara",
+      "name:ru": "Анкара",
+      "name:sr": "Анкара",
+      "name:sv": "Ankara",
+      "name:ta": "அங்காரா",
+      "name:te": "అంకారా",
+      "name:tg": "Анкара",
+      "name:th": "อังการา",
+      "name:tt": "Әнкара",
+      "name:ug": "Enqere",
+      "name:uk": "Анкара",
+      "name:ur": "انقرہ",
+      "name:yi": "אנקארא",
+      "name:zh": "安卡拉",
+      "name:ang": "Ancyra",
+      "name:arc": "ܐܢܩܪܐ",
+      "name:arz": "انقره",
+      "name:bjn": "Angkara",
+      "name:cdo": "Ăng-kā-lá",
+      "name:ckb": "ئەنقەرە",
+      "name:koi": "Анкара",
+      "name:lbe": "Анкъара",
+      "name:mdf": "Анкара",
+      "name:mhr": "Анкара",
+      "name:mrj": "Анкара",
+      "name:mzn": "آنکارا",
+      "name:nah": "Ancara",
+      "name:pnb": "انکرہ",
+      "name:sah": "Анкара",
+      "name:udm": "Анкара",
+      "name:vep": "Ankar",
+      "name:wuu": "安卡拉",
+      "name:xmf": "ანკარა",
+      "name:yue": "安卡拉",
+      "name:zza": "Anqara",
+      "alt_name:gl": "Ankara",
+      "old_name:es": "Angora",
+      "name:roa-rup": "Ancara",
+      "name:be-tarask": "Анкара"
+    }
+  },
+  {
+    "name": "Ankleshwar",
+    "country": "India",
+    "latitude": 21.632631278251985,
+    "longitude": 72.99173183719373,
+    "other_names": {
+      "name": "Ankleshwar",
+      "name:ja": "アンクレーシュワル"
+    }
+  },
+  {
+    "name": "Ankoro",
+    "country": "Congo Democratic Republic",
+    "latitude": -6.755038499702433,
+    "longitude": 26.943241699999998,
+    "other_names": {
+      "name": "Ankoro"
+    }
+  },
+  {
+    "name": "Anlong",
+    "country": "China",
+    "latitude": 25.10384340024903,
+    "longitude": 105.4606866,
+    "other_names": {
+      "name": "安龙县",
+      "name:en": "Anlong",
+      "name:ru": "Аньлун",
+      "name:zh": "安龙县",
+      "alt_name": "安龙",
+      "name:zh-Hant": "安龍縣"
+    }
+  },
+  {
+    "name": "Anlu",
+    "country": "China",
+    "latitude": 31.25784829964483,
+    "longitude": 113.683285,
+    "other_names": {
+      "name": "安陆市",
+      "name:de": "Anlu",
+      "name:en": "Anlu",
+      "name:fr": "Anlu",
+      "name:ja": "安陸市",
+      "name:ru": "Аньлу",
+      "name:vi": "An Lục",
+      "name:zh": "安陆市",
+      "name:zh-Hant": "安陸市",
+      "name:zh_pinyin": "Ānlù Shì"
+    }
+  },
+  {
+    "name": "Annaba",
+    "country": "Algeria",
+    "latitude": 36.898216499835705,
+    "longitude": 7.754927200000001,
+    "other_names": {
+      "name": "Annaba ⵄⴻⵍⵍⴰⴱⴰ عنابة",
+      "name:ar": "عنابة",
+      "name:bg": "Анаба",
+      "name:de": "Annaba",
+      "name:el": "Αννάμπα",
+      "name:en": "Annaba",
+      "name:fa": "عنابه",
+      "name:fr": "Annaba",
+      "name:hu": "Annába",
+      "name:ja": "アンナバ",
+      "name:ko": "안나바",
+      "name:la": "Hippo Regius",
+      "name:lt": "Anaba",
+      "name:mk": "Анаба",
+      "name:ru": "Аннаба",
+      "name:ur": "عنابہ",
+      "name:zh": "安纳巴",
+      "name:azb": "عنابه",
+      "name:ber": "ⵄⴻⵍⵍⴰⴱⴰ",
+      "name:kab": "Ɛennaba",
+      "name:pnb": "عنابہ",
+      "old_name": "Hipponne Bône",
+      "old_name:ar": "إيبن بون",
+      "old_name:fr": "Hipponne Bône"
+    }
+  },
+  {
+    "name": "Annaka",
+    "country": "Japan",
+    "latitude": 36.32636529976949,
+    "longitude": 138.88783139999998,
+    "other_names": {
+      "name": "安中市",
+      "name:ar": "أناكا، غونما",
+      "name:de": "Annaka",
+      "name:en": "Annaka",
+      "name:es": "Annaka",
+      "name:fr": "Annaka",
+      "name:ja": "安中市",
+      "name:ko": "안나카시",
+      "name:pl": "Annaka",
+      "name:ru": "Аннака",
+      "name:uk": "Аннака",
+      "name:ja_rm": "Annaka-shi",
+      "name:ja_kana": "あんなかし"
+    }
+  },
+  {
+    "name": "Annapolis",
+    "country": "United States Of America",
+    "latitude": 38.97864010012282,
+    "longitude": -76.492786,
+    "other_names": {
+      "name": "Annapolis",
+      "name:en": "Annapolis",
+      "name:pl": "Annapolis",
+      "name:ru": "Аннаполис",
+      "name:ta": "அனாபொலிஸ்",
+      "name:uk": "Аннаполіс",
+      "name:zh": "安納波利斯",
+      "name:zh-Hans": "安纳波利斯",
+      "name:zh-Hant": "安納波利斯"
+    }
+  },
+  {
+    "name": "Ann Arbor",
+    "country": "United States Of America",
+    "latitude": 42.26815690050453,
+    "longitude": -83.7312291,
+    "other_names": {
+      "name": "Ann Arbor",
+      "name:en": "Ann Arbor",
+      "name:ru": "Энн-Арбор",
+      "name:uk": "Енн-Арбор",
+      "alt_name": "Ann Arbour"
+    }
+  },
+  {
+    "name": "Annau",
+    "country": "Turkmenistan",
+    "latitude": 37.90217249996826,
+    "longitude": 58.504499899999985,
+    "other_names": {
+      "name": "Änew",
+      "name:en": "Annau",
+      "name:ja": "アナウ",
+      "name:ru": "Аннау",
+      "name:tk": "Änew",
+      "name:tr": "Anav",
+      "name:uk": "Анау",
+      "alt_name:tk": "Annau"
+    }
+  },
+  {
+    "name": "Annecy",
+    "country": "France",
+    "latitude": 45.899234800357824,
+    "longitude": 6.1288847,
+    "other_names": {
+      "name": "Annecy",
+      "name:ar": "آنسي",
+      "name:el": "Ανεσύ",
+      "name:eo": "Anecio",
+      "name:ru": "Анси",
+      "name:frp": "Ènneci",
+      "alt_name:eo": "Anci'",
+      "name:zh-Hans": "阿讷西",
+      "name:zh-Hant": "阿訥西"
+    }
+  }
+]

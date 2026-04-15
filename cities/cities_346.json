@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Ölgii",
+    "country": "Mongolia",
+    "latitude": 48.960712478580035,
+    "longitude": 89.95891578345949,
+    "other_names": {
+      "name": "Өлгий",
+      "name:ar": "أولجي",
+      "name:en": "Ölgii",
+      "name:ja": "ウルギー",
+      "name:pl": "Ulgiy",
+      "name:ru": "Улгий"
+    }
+  },
+  {
+    "name": "Ölgii",
+    "country": "Mongolia",
+    "latitude": 48.971735099699345,
+    "longitude": 89.9619474,
+    "other_names": {
+      "name": "Өлгий",
+      "name:ar": "أولجي",
+      "name:de": "Ölgii",
+      "name:en": "Ölgii",
+      "name:fr": "Ölgii",
+      "name:ja": "ウルギー",
+      "name:mn": "Өлгий",
+      "name:pl": "Ulgiy",
+      "name:ru": "Улгий",
+      "alt_name": "Ulgii",
+      "int_name": "Ulgii",
+      "old_name:ru": "Улэгэй"
+    }
+  },
+  {
+    "name": "Olinda",
+    "country": "Brazil",
+    "latitude": -7.998640099760595,
+    "longitude": -34.8459552,
+    "other_names": {
+      "name": "Olinda",
+      "name:bg": "Олинда",
+      "name:he": "אולינדה",
+      "name:ja": "オリンダ",
+      "name:ka": "ოლინდა",
+      "name:kk": "Олинда",
+      "name:ko": "올린다",
+      "name:pt": "Olinda",
+      "name:ru": "Олинда",
+      "name:sr": "Олинда",
+      "name:th": "โอลิงดา",
+      "name:uk": "Олінда",
+      "name:zh": "奧林達"
+    }
+  },
+  {
+    "name": "Oliveira de Azeméis",
+    "country": "Portugal",
+    "latitude": 40.83901180037376,
+    "longitude": -8.4777807,
+    "other_names": {
+      "name": "Oliveira de Azeméis",
+      "name:uk": "Олівейра-де-Аземейш"
+    }
+  },
+  {
+    "name": "Oliveira do Bairro",
+    "country": "Portugal",
+    "latitude": 40.51382080033443,
+    "longitude": -8.4928163,
+    "other_names": {
+      "name": "Oliveira do Bairro"
+    }
+  },
+  {
+    "name": "Oliveira do Hospital",
+    "country": "Portugal",
+    "latitude": 40.35954020031485,
+    "longitude": -7.8617453,
+    "other_names": {
+      "name": "Oliveira do Hospital"
+    }
+  },
+  {
+    "name": "Olmaliq",
+    "country": "Uzbekistan",
+    "latitude": 40.848950645474595,
+    "longitude": 69.59763536447903,
+    "other_names": {
+      "name": "Olmaliq",
+      "name:ja": "アルマリク",
+      "name:ru": "Алмалык",
+      "alt_name": "Almalyk"
+    }
+  },
+  {
+    "name": "Olomouc",
+    "country": "Czech Republic",
+    "latitude": 49.59405669954715,
+    "longitude": 17.251143,
+    "other_names": {
+      "name": "Olomouc",
+      "name:ar": "أولوموتس",
+      "name:cs": "Olomouc",
+      "name:de": "Olmütz",
+      "name:el": "Όλομουτς",
+      "name:fa": "اولوموتس",
+      "name:ko": "올로모우츠",
+      "name:la": "Olomucium",
+      "name:lt": "Olomoucas",
+      "name:pl": "Ołomuniec",
+      "name:ru": "Оломоуц",
+      "name:sr": "Оломоуц",
+      "name:uk": "Оломоуц",
+      "name:ur": "اولوموتس"
+    }
+  },
+  {
+    "name": "Olongapo",
+    "country": "Philippines",
+    "latitude": 14.831467499887365,
+    "longitude": 120.2835205,
+    "other_names": {
+      "name": "Olongapo",
+      "name:en": "Olongapo",
+      "name:ja": "オロンガポ",
+      "name:ru": "Олонгапо"
+    }
+  },
+  {
+    "name": "Olsztyn",
+    "country": "Poland",
+    "latitude": 53.776683899151465,
+    "longitude": 20.476507,
+    "other_names": {
+      "name": "Olsztyn",
+      "name:be": "Ольштын",
+      "name:cs": "Olštýn",
+      "name:de": "Allenstein",
+      "name:eo": "Olŝtino",
+      "name:ja": "オルシュティン",
+      "name:lt": "Alnaštynas",
+      "name:lv": "Olština",
+      "name:mk": "Олштин",
+      "name:pl": "Olsztyn",
+      "name:ru": "Ольштын",
+      "name:uk": "Ольштин",
+      "name:szl": "Uolsztyn"
+    }
+  },
+  {
+    "name": "Olympia",
+    "country": "United States Of America",
+    "latitude": 47.045102200151966,
+    "longitude": -122.8950075,
+    "other_names": {
+      "name": "Olympia",
+      "name:ar": "أولمبيا",
+      "name:be": "Алімпія",
+      "name:bg": "Олимпия",
+      "name:de": "Olympia",
+      "name:en": "Olympia",
+      "name:es": "Olympia",
+      "name:fa": "اولمپیا",
+      "name:fr": "Olympia",
+      "name:he": "אולימפיה",
+      "name:hy": "Օլիմպիա",
+      "name:ja": "オリンピア",
+      "name:ko": "올림피아",
+      "name:mr": "ऑलिंपिया",
+      "name:pi": "ओलम्पिया",
+      "name:pl": "Olympia",
+      "name:pt": "Olympia",
+      "name:ru": "Олимпия",
+      "name:ta": "ஒலிம்பியா",
+      "name:tl": "Olympia",
+      "name:uk": "Олімпія",
+      "name:zh": "奧林匹亞"
+    }
+  },
+  {
+    "name": "Omachi",
+    "country": "Japan",
+    "latitude": 36.502909299789074,
+    "longitude": 137.8508885,
+    "other_names": {
+      "name": "大町市",
+      "name:ar": "أوماتشي، ناغانو",
+      "name:de": "Ōmachi",
+      "name:en": "Omachi",
+      "name:es": "Ōmachi",
+      "name:fr": "Ōmachi",
+      "name:ja": "大町市",
+      "name:ko": "오마치시",
+      "name:pl": "Ōmachi",
+      "name:ru": "Омати",
+      "name:uk": "Оматі",
+      "int_name": "Ōmachi",
+      "name:ja_rm": "Omachi-shi",
+      "name:ja-Hira": "おおまちし"
+    }
+  },
+  {
+    "name": "Omaezaki",
+    "country": "Japan",
+    "latitude": 34.64795599963004,
+    "longitude": 138.146936,
+    "other_names": {
+      "name": "御前崎市",
+      "name:ar": "أومازاكي، شيزوكا",
+      "name:de": "Omaezaki",
+      "name:en": "Omaezaki",
+      "name:es": "Omaezaki",
+      "name:fr": "Omaezaki",
+      "name:ja": "御前崎市",
+      "name:ko": "오마에자키시",
+      "name:pl": "Omaezaki",
+      "name:ru": "Омаэдзаки",
+      "name:uk": "Омаедзакі"
+    }
+  },
+  {
+    "name": "Omaha",
+    "country": "United States Of America",
+    "latitude": 41.258745900419996,
+    "longitude": -95.93837579999999,
+    "other_names": {
+      "name": "Omaha",
+      "name:ru": "Омаха"
+    }
+  },
+  {
+    "name": "Omdurman",
+    "country": "Sudan",
+    "latitude": 15.644553599983224,
+    "longitude": 32.4777311,
+    "other_names": {
+      "name": "أم درمان",
+      "name:ar": "أم درمان",
+      "name:de": "Omdurman",
+      "name:en": "Omdurman",
+      "name:es": "Omdurmán",
+      "name:et": "Umm Durmān",
+      "name:fr": "Omdourman",
+      "name:ko": "옴두르만",
+      "name:ru": "Омдурман",
+      "name:uk": "Омдурман",
+      "name:zh": "恩图曼"
+    }
+  },
+  {
+    "name": "Ome",
+    "country": "Japan",
+    "latitude": 35.80360099971657,
+    "longitude": 139.23812799999996,
+    "other_names": {
+      "name": "青梅市",
+      "name:ar": "أومه، طوكيو",
+      "name:bg": "Оме",
+      "name:de": "Ōme",
+      "name:en": "Ome",
+      "name:eo": "Ome",
+      "name:es": "Ōme",
+      "name:fa": "اومه، توکیو",
+      "name:fi": "Ōme",
+      "name:fr": "Oume",
+      "name:gl": "Ōme",
+      "name:it": "Ōme",
+      "name:ja": "青梅市",
+      "name:ko": "오메시",
+      "name:lt": "Omė",
+      "name:ms": "Ome",
+      "name:nl": "Ome",
+      "name:pl": "Ōme",
+      "name:pt": "Ome",
+      "name:ru": "Оме",
+      "name:sh": "Ome",
+      "name:sr": "Оме",
+      "name:tg": "Оме",
+      "name:th": "โอเมะ",
+      "name:uk": "Оме",
+      "name:zh": "青梅市",
+      "name:mzn": "اومه، توکیو",
+      "name:yue": "青梅市",
+      "name:ja_rm": "Ōme-shi",
+      "name:ja_kana": "おうめし",
+      "name:roa-rup": "Ōme"
+    }
+  },
+  {
+    "name": "Omihachiman",
+    "country": "Japan",
+    "latitude": 35.15279149966238,
+    "longitude": 136.0687365,
+    "other_names": {
+      "name": "近江八幡市",
+      "name:en": "Omihachiman",
+      "name:fr": "Ōmihachiman",
+      "name:ja": "近江八幡市",
+      "name:ko": "오미하치만시",
+      "name:pl": "Ōmihachiman",
+      "name:ru": "Омихатиман",
+      "name:uk": "Омі-Хачіман",
+      "name:ja_rm": "Ōmihachiman-shi",
+      "name:ja_kana": "おうみはちまんし"
+    }
+  },
+  {
+    "name": "Omitama",
+    "country": "Japan",
+    "latitude": 36.23897559976011,
+    "longitude": 140.3523684,
+    "other_names": {
+      "name": "小美玉市",
+      "name:ar": "أوميتاما، إيباراكي",
+      "name:de": "Omitama",
+      "name:en": "Omitama",
+      "name:es": "Omitama",
+      "name:fr": "Omitama",
+      "name:ja": "小美玉市",
+      "name:ko": "오미타마시",
+      "name:ru": "Омитама",
+      "name:uk": "Омітама",
+      "name:ja_rm": "Omitama-shi",
+      "name:ja_kana": "おみたまし"
+    }
+  },
+  {
+    "name": "Om Noi",
+    "country": "Thailand",
+    "latitude": 13.69902009975581,
+    "longitude": 100.314867,
+    "other_names": {
+      "name": "อ้อมน้อย",
+      "name:en": "Om Noi",
+      "name:th": "อ้อมน้อย",
+      "official_name": "เทศบาลนครอ้อมน้อย"
+    }
+  },
+  {
+    "name": "Omsk",
+    "country": "Russia",
+    "latitude": 54.97812626739751,
+    "longitude": 73.36948531647852,
+    "other_names": {
+      "name": "Омск",
+      "name:en": "Omsk",
+      "name:eo": "Omsko",
+      "name:ku": "Omsk"
+    }
+  }
+]

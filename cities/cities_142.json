@@ -1,0 +1,360 @@
+[
+  {
+    "name": "Fuliang County",
+    "country": "China",
+    "latitude": 29.354426499801118,
+    "longitude": 117.2099191,
+    "other_names": {
+      "name": "浮梁县",
+      "name:de": "Fuliang",
+      "name:en": "Fuliang County",
+      "name:fa": "شهرستان فولیانگ",
+      "name:fr": "Xian de Fuliang",
+      "name:it": "Contea di Fuliang",
+      "name:ja": "浮梁県",
+      "name:ko": "푸량현",
+      "name:no": "Fuliang",
+      "name:ru": "Фулян",
+      "name:sv": "Fuliang",
+      "name:vi": "Phù Lương",
+      "name:zh": "浮梁县",
+      "name:ceb": "Fuliang Xian",
+      "name:gan": "浮梁",
+      "name:nan": "Phû-liông-koān",
+      "name:yue": "浮梁",
+      "name:zh-Hant": "浮梁縣",
+      "name:zh_pinyin": "fúliáng xiàn"
+    }
+  },
+  {
+    "name": "Fuling",
+    "country": "China",
+    "latitude": 29.706540499766778,
+    "longitude": 107.39108090000002,
+    "other_names": {
+      "name": "涪陵区",
+      "name:en": "Fuling",
+      "name:ja": "フ陵区",
+      "name:ru": "Фулин",
+      "name:uk": "Фулін",
+      "name:vi": "Phù Lăng",
+      "name:zh": "涪陵区",
+      "name:zh-Hant": "涪陵區",
+      "name:zh_pinyin": "Fuling Qu"
+    }
+  },
+  {
+    "name": "Fullerton",
+    "country": "United States Of America",
+    "latitude": 33.87082149959785,
+    "longitude": -117.92941650000002,
+    "other_names": {
+      "name": "Fullerton"
+    }
+  },
+  {
+    "name": "Fultondale",
+    "country": "United States Of America",
+    "latitude": 33.617594143271546,
+    "longitude": -86.80189361775635,
+    "other_names": {
+      "name": "Fultondale"
+    }
+  },
+  {
+    "name": "Fultondale",
+    "country": "United States Of America",
+    "latitude": 33.63144244634226,
+    "longitude": -86.78329862691075,
+    "other_names": {
+      "name": "Fultondale"
+    }
+  },
+  {
+    "name": "Fultondale",
+    "country": "United States Of America",
+    "latitude": 33.635125736815816,
+    "longitude": -86.78849120567922,
+    "other_names": {
+      "name": "Fultondale"
+    }
+  },
+  {
+    "name": "Fumian",
+    "country": "China",
+    "latitude": 22.588205400397403,
+    "longitude": 110.0549865,
+    "other_names": {
+      "name": "福绵区",
+      "name:en": "Fumian",
+      "name:ja": "福綿区",
+      "name:ko": "푸몐구",
+      "name:vi": "Phúc Miên",
+      "name:zh": "福绵区",
+      "alt_name": "福绵;Fumian District;Fu-mien;Fu-mien-hsu",
+      "name:hak": "Fuk-mièn Kón-lî-khî",
+      "name:nan": "Hok-biân-khu",
+      "name:yue": "福绵区",
+      "name:zh-Hant": "福綿區",
+      "name:yue-Latn": "Fukmin-kyu",
+      "name:zh_pinyin": "fúmián qū"
+    }
+  },
+  {
+    "name": "Fumin",
+    "country": "China",
+    "latitude": 25.2220812002386,
+    "longitude": 102.49767789999999,
+    "other_names": {
+      "name": "富民县",
+      "name:en": "Fumin",
+      "name:vi": "Phú Dân",
+      "name:zh": "富民县",
+      "name:zh-Hant": "富民縣",
+      "name:zh_pinyin": "Fùmínxiàn"
+    }
+  },
+  {
+    "name": "Funabashi",
+    "country": "Japan",
+    "latitude": 35.699996999707054,
+    "longitude": 139.98866799999996,
+    "other_names": {
+      "name": "船橋市",
+      "name:ar": "فوناباشي، تشيبا",
+      "name:de": "Funabashi",
+      "name:en": "Funabashi",
+      "name:es": "Funabashi",
+      "name:fr": "Funabashi",
+      "name:ja": "船橋市",
+      "name:ko": "후나바시시",
+      "name:pl": "Funabashi",
+      "name:ru": "Фунабаси",
+      "name:uk": "Фунабасі",
+      "name:ja_rm": "Funabashi-shi",
+      "name:ja_kana": "ふなばしし"
+    }
+  },
+  {
+    "name": "Funan",
+    "country": "China",
+    "latitude": 32.64056539959128,
+    "longitude": 115.5836827,
+    "other_names": {
+      "name": "阜南县",
+      "name:en": "Funan",
+      "name:ja": "阜南県",
+      "name:ru": "Сюэцзи",
+      "name:vi": "Phụ Nam",
+      "name:zh": "阜南县",
+      "alt_name": "阜南县;阜南;鹿城",
+      "name:zh-Hant": "阜南縣"
+    }
+  },
+  {
+    "name": "Funchal",
+    "country": "Portugal",
+    "latitude": 32.649649699591116,
+    "longitude": -16.908678299999995,
+    "other_names": {
+      "name": "Funchal",
+      "name:ar": "فونشال",
+      "name:hu": "Funchal",
+      "name:lt": "Funšalis",
+      "name:ru": "Фуншал",
+      "name:sr": "Фуншал",
+      "name:uk": "Фуншал"
+    }
+  },
+  {
+    "name": "Funing",
+    "country": "China",
+    "latitude": 33.7834411995956,
+    "longitude": 119.7956535,
+    "other_names": {
+      "name": "阜宁县",
+      "name:en": "Funing",
+      "name:vi": "Phụ Ninh",
+      "name:zh": "阜宁县",
+      "name:zh-Hant": "阜寧縣",
+      "name:zh_pinyin": "Funing Xian"
+    }
+  },
+  {
+    "name": "Funing",
+    "country": "China",
+    "latitude": 23.627917000354863,
+    "longitude": 105.6278298,
+    "other_names": {
+      "name": "富宁县",
+      "name:en": "Funing",
+      "name:zh": "富宁县",
+      "alt_name": "富宁;Funing County",
+      "name:zh-Hant": "富寧縣"
+    }
+  },
+  {
+    "name": "Funing",
+    "country": "China",
+    "latitude": 39.88321700025138,
+    "longitude": 119.2443602,
+    "other_names": {
+      "name": "抚宁区",
+      "name:en": "Funing",
+      "name:ja": "撫寧区",
+      "name:ko": "푸닝구",
+      "name:vi": "Phủ Ninh",
+      "name:zh": "抚宁区",
+      "alt_name": "抚宁;Funing District",
+      "old_name": "抚宁县",
+      "name:zh-Hant": "撫寧區",
+      "official_name": "抚宁镇",
+      "name:zh_pinyin": "Funing Xian"
+    }
+  },
+  {
+    "name": "Fuping",
+    "country": "China",
+    "latitude": 38.84844800010392,
+    "longitude": 114.1905938,
+    "other_names": {
+      "name": "阜平县",
+      "name:en": "Fuping",
+      "name:ja": "阜平県",
+      "name:ru": "Фупин",
+      "name:vi": "Phụ Bình",
+      "name:zh": "阜平县",
+      "alt_name": "阜平;Fuping County",
+      "name:zh-Hant": "阜平縣",
+      "official_name": "阜平镇",
+      "name:zh_pinyin": "Fuping Xian"
+    }
+  },
+  {
+    "name": "Fuping County",
+    "country": "China",
+    "latitude": 34.74912929963581,
+    "longitude": 109.1787653,
+    "other_names": {
+      "name": "富平县",
+      "name:de": "Fuping",
+      "name:en": "Fuping County",
+      "name:fr": "Xian de Fuping",
+      "name:id": "County Fuping",
+      "name:ja": "富平県",
+      "name:ko": "푸핑현",
+      "name:no": "Fuping",
+      "name:ru": "Фупин",
+      "name:sv": "Fuping",
+      "name:vi": "Phú Bình",
+      "name:zh": "富平县",
+      "name:ceb": "Fuping Xian",
+      "name:nan": "Hù-pêng-koān",
+      "name:yue": "富平",
+      "name:zh-Hans": "富平县",
+      "name:zh-Hant": "富平縣",
+      "name:zh_pinyin": "Fùpíng Xiàn"
+    }
+  },
+  {
+    "name": "Fuqing",
+    "country": "China",
+    "latitude": 25.723732100191693,
+    "longitude": 119.37953769999999,
+    "other_names": {
+      "name": "福清市",
+      "name:ar": "فوكينغ",
+      "name:de": "Fuqing",
+      "name:en": "Fuqing",
+      "name:es": "Fúqīng",
+      "name:fr": "Fuqing",
+      "name:it": "Fuqing",
+      "name:ja": "福清市",
+      "name:ko": "푸칭시",
+      "name:pl": "Fuqing",
+      "name:ru": "Жунчэн",
+      "name:uk": "Фуцін",
+      "name:vi": "Phúc Thanh",
+      "name:zh": "福清市",
+      "int_name": "Fuqing",
+      "name:cdo": "Hók-chiăng",
+      "name:ceb": "Fuqing",
+      "name:hak": "Fuk-chhîn-sṳ",
+      "name:nan": "Hok-chheng-chhī",
+      "name:yue": "福清",
+      "name:zh-Hant": "福清市",
+      "name:zh_pinyin": "Fúqīng Shì"
+    }
+  },
+  {
+    "name": "Fuquan",
+    "country": "China",
+    "latitude": 26.704691900090175,
+    "longitude": 107.50856120000002,
+    "other_names": {
+      "name": "福泉市",
+      "name:de": "Fuquan",
+      "name:en": "Fuquan",
+      "name:fr": "Fuquan",
+      "name:ja": "福泉市",
+      "name:vi": "Phúc Tuyền",
+      "name:zh": "福泉市",
+      "alt_name": "金山街道;金山;Jinshan",
+      "name:zh-Hant": "福泉市",
+      "name:zh_pinyin": "Fuquan Shi"
+    }
+  },
+  {
+    "name": "Furano",
+    "country": "Japan",
+    "latitude": 43.34197440054174,
+    "longitude": 142.383188,
+    "other_names": {
+      "name": "富良野市",
+      "name:ar": "فورانو، هوكايدو",
+      "name:de": "Furano",
+      "name:en": "Furano",
+      "name:es": "Furano",
+      "name:fr": "Furano",
+      "name:hu": "Furano",
+      "name:ja": "富良野市",
+      "name:ko": "후라노시",
+      "name:pl": "Furano",
+      "name:ru": "Фурано",
+      "name:uk": "Фурано",
+      "int_name": "Furano",
+      "name:ja-Hira": "ふらのし",
+      "name:ja-Latn": "Furano-shi"
+    }
+  },
+  {
+    "name": "Furong",
+    "country": "China",
+    "latitude": 28.18782919992534,
+    "longitude": 113.02672149999998,
+    "other_names": {
+      "name": "芙蓉区",
+      "name:de": "Furong",
+      "name:en": "Furong",
+      "name:es": "Furong",
+      "name:eu": "Furong Barrutia",
+      "name:fr": "District de Furong",
+      "name:it": "Distretto di Furong",
+      "name:ja": "芙蓉区",
+      "name:ko": "푸룽구",
+      "name:no": "Furong",
+      "name:pl": "Furong",
+      "name:ru": "Фужун",
+      "name:sv": "Furong",
+      "name:vi": "Phù Dung",
+      "name:zh": "芙蓉区",
+      "alt_name": "芙蓉;Furong District",
+      "name:ceb": "Furong District",
+      "name:hak": "Fû-yûng-khî",
+      "name:nan": "Phû-iông-khu",
+      "name:yue": "芙蓉區",
+      "name:zh-Hant": "芙蓉區",
+      "name:zh_pinyin": "Fúróng Qū"
+    }
+  }
+]

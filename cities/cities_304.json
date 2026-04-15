@@ -1,0 +1,423 @@
+[
+  {
+    "name": "Milagro",
+    "country": "Ecuador",
+    "latitude": -2.1289135998080067,
+    "longitude": -79.59350049999999,
+    "other_names": {
+      "name": "Milagro"
+    }
+  },
+  {
+    "name": "Milan",
+    "country": "Italy",
+    "latitude": 45.46680000041699,
+    "longitude": 9.1905,
+    "other_names": {
+      "name": "Milano",
+      "name:ar": "ميلانو",
+      "name:be": "Мілан",
+      "name:ca": "Milà",
+      "name:cs": "Milán",
+      "name:de": "Mailand",
+      "name:el": "Μιλάνο",
+      "name:en": "Milan",
+      "name:eo": "Milano",
+      "name:es": "Milán",
+      "name:fa": "میلان",
+      "name:fi": "Milano",
+      "name:fr": "Milan",
+      "name:gl": "Milán",
+      "name:he": "מילנו",
+      "name:hi": "मिलानॊ",
+      "name:hr": "Milano",
+      "name:hu": "Milánó",
+      "name:it": "Milano",
+      "name:ja": "ミラノ",
+      "name:kn": "ಮಿಲಾನೊ",
+      "name:ko": "밀라노",
+      "name:la": "Mediolanum",
+      "name:lb": "Mailand",
+      "name:lt": "Milanas",
+      "name:nl": "Milaan",
+      "name:oc": "Milan",
+      "name:pl": "Mediolan",
+      "name:pt": "Milão",
+      "name:ru": "Милан",
+      "name:sk": "Miláno",
+      "name:sl": "Milan",
+      "name:sr": "Милано",
+      "name:tr": "Milano",
+      "name:uk": "Мілан",
+      "name:za": "Milaan",
+      "name:zh": "米蘭",
+      "loc_name": "Milán",
+      "name:fur": "Milan",
+      "name:lmo": "Milan",
+      "alt_name:gl": "Milano",
+      "name:zh-Hans": "米兰",
+      "name:zh-Hant": "米蘭"
+    }
+  },
+  {
+    "name": "Mildura",
+    "country": "Australia",
+    "latitude": -34.18472649972458,
+    "longitude": 142.1624972,
+    "other_names": {
+      "name": "Mildura",
+      "name:en": "Mildura",
+      "name:ja": "ミルデューラ",
+      "name:ru": "Милдьюра",
+      "name:uk": "Мілдьюра"
+    }
+  },
+  {
+    "name": "Mile",
+    "country": "China",
+    "latitude": 24.413921300304494,
+    "longitude": 103.4127023,
+    "other_names": {
+      "name": "弥勒市",
+      "name:de": "Mile",
+      "name:en": "Mile",
+      "name:fr": "Mile",
+      "name:ja": "弥勒市",
+      "name:ru": "Миян",
+      "name:vi": "Di Lặc",
+      "name:zh": "弥勒市",
+      "alt_name": "弥勒;Mile City",
+      "int_name": "Mile",
+      "name:zh-Hant": "彌勒市",
+      "name:zh_pinyin": "Mílè Shì"
+    }
+  },
+  {
+    "name": "Mililani",
+    "country": "United States Of America",
+    "latitude": 21.45083080040967,
+    "longitude": -158.00957829999996,
+    "other_names": {
+      "name": "Mililani"
+    }
+  },
+  {
+    "name": "Milpitas",
+    "country": "United States Of America",
+    "latitude": 37.42827239990355,
+    "longitude": -121.90662380000002,
+    "other_names": {
+      "name": "Milpitas"
+    }
+  },
+  {
+    "name": "Miluo",
+    "country": "China",
+    "latitude": 28.809526699857557,
+    "longitude": 113.06119659999999,
+    "other_names": {
+      "name": "汨罗市",
+      "name:de": "Miluo",
+      "name:en": "Miluo",
+      "name:fr": "Miluo",
+      "name:it": "Miluo",
+      "name:ja": "汨羅市",
+      "name:ki": "Miluo City",
+      "name:ko": "미뤄시",
+      "name:mg": "Miluo City",
+      "name:nl": "Miluo",
+      "name:no": "Miluo",
+      "name:pl": "Miluo",
+      "name:ru": "Мило",
+      "name:sv": "Miluo",
+      "name:vi": "Mịch La",
+      "name:zh": "汨罗市",
+      "alt_name": "汨罗;Miluo City",
+      "name:ceb": "Miluo Chengguanzhen",
+      "name:hak": "Kwun-lò-sṳ",
+      "name:nan": "Be̍k-lô-chhī",
+      "name:pam": "Miluo Lakanbalen",
+      "name:war": "Miluo, Hunan",
+      "name:yue": "汨羅",
+      "old_name": "汩罗市;汩罗;Guluo",
+      "name:zh-Hant": "汨羅市",
+      "name:zh_pinyin": "Mìluó Shì"
+    }
+  },
+  {
+    "name": "Milwaukee",
+    "country": "United States Of America",
+    "latitude": 43.034993100537385,
+    "longitude": -87.92249699999999,
+    "other_names": {
+      "name": "Milwaukee",
+      "name:ar": "ميلواكي",
+      "name:eo": "Milvokio",
+      "name:oc": "Milwaukee",
+      "name:ru": "Милуоки",
+      "name:zh": "密尔沃基/密爾瓦基",
+      "alt_name:ar": "ميلووكي",
+      "name:zh_pinyin": "Mì'ěrwòjī"
+    }
+  },
+  {
+    "name": "Mima",
+    "country": "Japan",
+    "latitude": 34.05379149960349,
+    "longitude": 134.1700644,
+    "other_names": {
+      "name": "美馬市",
+      "name:ar": "ميما، توكوشيما",
+      "name:de": "Mima",
+      "name:en": "Mima",
+      "name:es": "Mima",
+      "name:fr": "Mima",
+      "name:ja": "美馬市",
+      "name:ko": "미마시",
+      "name:ru": "Мима",
+      "name:uk": "Міма",
+      "name:zh": "美马市",
+      "int_name": "Mima",
+      "name:zh-Hans": "美马市",
+      "name:zh-Hant": "美馬市"
+    }
+  },
+  {
+    "name": "Mimasaka",
+    "country": "Japan",
+    "latitude": 35.00858539965225,
+    "longitude": 134.1485964,
+    "other_names": {
+      "name": "美作市",
+      "name:en": "Mimasaka",
+      "name:eu": "Mimasaka",
+      "name:fr": "Mimasaka",
+      "name:ja": "美作市",
+      "name:ko": "미마사카시",
+      "name:pl": "Mimasaka",
+      "name:ru": "Мимасака",
+      "name:uk": "Мімасака",
+      "name:ja-Hira": "みまさかし",
+      "name:ja-Latn": "Mimasaka-shi"
+    }
+  },
+  {
+    "name": "Min",
+    "country": "China",
+    "latitude": 34.437979299619215,
+    "longitude": 104.03385739999999,
+    "other_names": {
+      "name": "岷县",
+      "name:en": "Min",
+      "name:ja": "岷県",
+      "name:ru": "Миньсянь",
+      "name:vi": "Mân",
+      "name:zh": "岷县",
+      "alt_name": "岷阳;Min County;Minxian",
+      "int_name": "Min",
+      "alt_name:vi": "Dân",
+      "name:zh-Hant": "岷縣",
+      "official_name": "岷阳镇",
+      "name:zh_pinyin": "Mín Xiàn"
+    }
+  },
+  {
+    "name": "Minamata",
+    "country": "Japan",
+    "latitude": 32.21233759960136,
+    "longitude": 130.4087616,
+    "other_names": {
+      "name": "水俣市",
+      "name:ar": "ميناماتا، كوماموتو",
+      "name:de": "Minamata",
+      "name:en": "Minamata",
+      "name:es": "Minamata",
+      "name:fr": "Minamata",
+      "name:ja": "水俣市",
+      "name:ko": "미나마타시",
+      "name:pl": "Minamata",
+      "name:ru": "Минамата",
+      "name:uk": "Мінамата",
+      "name:zh": "水俣市",
+      "int_name": "Minamata",
+      "name:ja_rm": "Minamata-shi",
+      "name:ja_kana": "みなまたし",
+      "name:zh-Hans": "水俣市",
+      "name:zh-Hant": "水俁市"
+    }
+  },
+  {
+    "name": "Minami-Alps",
+    "country": "Japan",
+    "latitude": 35.60836169969891,
+    "longitude": 138.46498929999998,
+    "other_names": {
+      "name": "南アルプス市",
+      "name:ar": "مينامي-أربوسو، ياماناشي",
+      "name:de": "Minamiarupusu",
+      "name:en": "Minami-Alps",
+      "name:es": "Minamiarupusu",
+      "name:fr": "Minamiarupusu",
+      "name:ja": "南アルプス市",
+      "name:ko": "미나미알프스시",
+      "name:pl": "Minami-Arupusu",
+      "name:ru": "Минами-Альпс",
+      "name:uk": "Мінамі-Альпс",
+      "name:ja_rm": "Minami-Alps-shi",
+      "name:ja_kana": "みなみあるぷすし"
+    }
+  },
+  {
+    "name": "Minamiawaji",
+    "country": "Japan",
+    "latitude": 34.255669499611095,
+    "longitude": 134.762265,
+    "other_names": {
+      "name": "南あわじ市",
+      "name:ar": "مينامياواجي، هيوغو",
+      "name:de": "Minamiawaji",
+      "name:en": "Minamiawaji",
+      "name:es": "Minamiawaji",
+      "name:fr": "Minamiawaji",
+      "name:ja": "南あわじ市",
+      "name:ko": "미나미아와지시",
+      "name:pl": "Minami-Awaji",
+      "name:ru": "Минамиавадзи",
+      "name:uk": "Мінамі-Авадзі",
+      "name:ja_rm": "Minamiawaji-shi"
+    }
+  },
+  {
+    "name": "Minamiboso",
+    "country": "Japan",
+    "latitude": 35.038748599654305,
+    "longitude": 139.83713989999998,
+    "other_names": {
+      "name": "南房総市",
+      "name:ar": "مينامبيوسو، تشيبا",
+      "name:de": "Minamibōsō",
+      "name:en": "Minamiboso",
+      "name:es": "Minamibōsō",
+      "name:fr": "Minamibōsō",
+      "name:ja": "南房総市",
+      "name:ko": "미나미보소시",
+      "name:ru": "Минамибосо",
+      "name:uk": "Мінамі-Босо",
+      "name:ja-Hira": "みなみぼうそうし"
+    }
+  },
+  {
+    "name": "Minamikyushu",
+    "country": "Japan",
+    "latitude": 31.378284199637847,
+    "longitude": 130.4416754,
+    "other_names": {
+      "name": "南九州市",
+      "name:ar": "مينامايكيوشو، كاغوشيما",
+      "name:de": "Minamikyūshū",
+      "name:en": "Minamikyushu",
+      "name:es": "Minamikyūshū",
+      "name:fr": "Minamikyūshū",
+      "name:ja": "南九州市",
+      "name:ko": "미나미큐슈시",
+      "name:pl": "Minamikyūshū",
+      "name:ru": "Минамикюсю",
+      "name:uk": "Мінамі-Кюшю",
+      "name:zh": "南九州市",
+      "int_name": "Minamikyūshū",
+      "name:ja-Hira": "みなみきゅうしゅうし",
+      "name:ja-Latn": "Minamikyūshū-shi",
+      "name:zh-Hans": "南九州市",
+      "name:zh-Hant": "南九州市"
+    }
+  },
+  {
+    "name": "Minamisatsuma",
+    "country": "Japan",
+    "latitude": 31.416580499635714,
+    "longitude": 130.3236567,
+    "other_names": {
+      "name": "南さつま市",
+      "name:ar": "ميناميساتسوما، كاغوشيما",
+      "name:de": "Minamisatsuma",
+      "name:en": "Minamisatsuma",
+      "name:es": "Minamisatsuma",
+      "name:fr": "Minamisatsuma",
+      "name:ja": "南さつま市",
+      "name:ko": "미나미사쓰마시",
+      "name:pl": "Minamisatsuma",
+      "name:ru": "Минамисацума",
+      "name:uk": "Мінамі-Сацума",
+      "name:zh": "南萨摩市",
+      "int_name": "Minamisatsuma",
+      "name:ja_rm": "Minamisatsuma-shi",
+      "name:ja_kana": "みなみさつまし",
+      "name:zh-Hans": "南萨摩市",
+      "name:zh-Hant": "南薩摩市"
+    }
+  },
+  {
+    "name": "Minami-Shimabara",
+    "country": "Japan",
+    "latitude": 32.65973379959097,
+    "longitude": 130.2976992,
+    "other_names": {
+      "name": "南島原市",
+      "name:ar": "ميناميشيمبارا، ناغاساكي",
+      "name:de": "Minamishimabara",
+      "name:en": "Minami-Shimabara",
+      "name:es": "Minamishimabara",
+      "name:fr": "Minamishimabara",
+      "name:ja": "南島原市",
+      "name:ko": "미나미시마바라시",
+      "name:pl": "Minami-Shimabara",
+      "name:ru": "Минамисимабара",
+      "name:uk": "Мінамі-Шімабара",
+      "name:zh": "南岛原市",
+      "int_name": "Minamishimabara",
+      "name:ja_rm": "Minami Shimabara-Shi",
+      "name:ja_kana": "みなみしまばらし",
+      "name:zh-Hans": "南岛原市",
+      "name:zh-Hant": "南島原市"
+    }
+  },
+  {
+    "name": "Minamisoma",
+    "country": "Japan",
+    "latitude": 37.64219229993237,
+    "longitude": 140.9572649,
+    "other_names": {
+      "name": "南相馬市",
+      "name:ar": "ميناميسوما، فوكوشيما",
+      "name:de": "Minamisōma",
+      "name:en": "Minamisoma",
+      "name:es": "Minamisōma",
+      "name:fr": "Minamisōma",
+      "name:ja": "南相馬市",
+      "name:ko": "미나미소마시",
+      "name:pl": "Minami-Sōma",
+      "name:ru": "Минамисома",
+      "name:uk": "Мінамі-Сома",
+      "name:ja_rm": "Minamisōma-shi",
+      "name:ja_kana": "みなみそうまし"
+    }
+  },
+  {
+    "name": "Minamiuonuma",
+    "country": "Japan",
+    "latitude": 37.06557229985655,
+    "longitude": 138.87609889999996,
+    "other_names": {
+      "name": "南魚沼市",
+      "name:en": "Minamiuonuma",
+      "name:fr": "Minamiuonuma",
+      "name:ja": "南魚沼市",
+      "name:ko": "미나미우오누마시",
+      "name:pl": "Minami-Uonuma",
+      "name:ru": "Минамиуонума",
+      "name:uk": "Мінамі-Уонума",
+      "name:ja_rm": "Minamiuonuma-shi",
+      "name:ja_kana": "みなみうおぬまし"
+    }
+  }
+]

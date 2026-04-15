@@ -1,0 +1,346 @@
+[
+  {
+    "name": "Liaoyang",
+    "country": "China",
+    "latitude": 41.205541500414455,
+    "longitude": 123.0889656,
+    "other_names": {
+      "name": "辽阳县",
+      "name:en": "Liaoyang",
+      "name:ja": "遼陽県",
+      "name:ko": "랴오양현",
+      "name:zh": "辽阳县",
+      "alt_name": "辽阳;Liaoyang County",
+      "name:zh-Hant": "遼陽縣"
+    }
+  },
+  {
+    "name": "Liaoyuan",
+    "country": "China",
+    "latitude": 42.88638460053341,
+    "longitude": 125.13749049999998,
+    "other_names": {
+      "name": "辽源市",
+      "name:de": "Liaoyuan",
+      "name:en": "Liaoyuan",
+      "name:et": "Liaoyuan",
+      "name:fr": "Liaoyuan",
+      "name:ja": "遼源市",
+      "name:ru": "Ляоюань",
+      "name:uk": "Ляоюань",
+      "name:vi": "Liêu Nguyên",
+      "name:zh": "辽源市",
+      "name:zh-Hant": "遼源市",
+      "name:zh_pinyin": "Liáoyuán Shì"
+    }
+  },
+  {
+    "name": "Liaozhong",
+    "country": "China",
+    "latitude": 41.51269490044509,
+    "longitude": 122.72826600000002,
+    "other_names": {
+      "name": "辽中区",
+      "name:en": "Liaozhong",
+      "name:ja": "遼中区",
+      "name:ko": "랴오중구",
+      "name:zh": "辽中区",
+      "alt_name": "辽中;Liaozhong District",
+      "name:zh-Hant": "遼中區"
+    }
+  },
+  {
+    "name": "Libenge",
+    "country": "Congo Democratic Republic",
+    "latitude": 3.652937799619073,
+    "longitude": 18.6357362,
+    "other_names": {
+      "name": "Libenge"
+    }
+  },
+  {
+    "name": "Libenge",
+    "country": "Central African Republic",
+    "latitude": 3.652937799619073,
+    "longitude": 18.6357362,
+    "other_names": {
+      "name": "Libenge"
+    }
+  },
+  {
+    "name": "Liberec",
+    "country": "Czech Republic",
+    "latitude": 50.770264799291,
+    "longitude": 15.058394700000001,
+    "other_names": {
+      "name": "Liberec",
+      "name:ar": "ليبيريتس",
+      "name:cs": "Liberec",
+      "name:de": "Reichenberg",
+      "name:el": "Λίμπερετς",
+      "name:fa": "لیبرتس",
+      "name:he": "ליברץ",
+      "name:la": "Libercum",
+      "name:lt": "Liberecas",
+      "name:ru": "Либерец",
+      "name:sr": "Либерец",
+      "name:uk": "Ліберець",
+      "name:ur": "لیبرتس",
+      "name:hsb": "Liberec",
+      "old_name:la": "Reichenberga"
+    }
+  },
+  {
+    "name": "Liberia",
+    "country": "Costa Rica",
+    "latitude": 10.633340099473763,
+    "longitude": -85.4362722,
+    "other_names": {
+      "name": "Liberia",
+      "name:hu": "Liberia"
+    }
+  },
+  {
+    "name": "Libertad",
+    "country": "Argentina",
+    "latitude": -34.70037039982621,
+    "longitude": -58.6834869,
+    "other_names": {
+      "name": "Libertad"
+    }
+  },
+  {
+    "name": "Libertad",
+    "country": "Uruguay",
+    "latitude": -34.631015599812066,
+    "longitude": -56.6164899,
+    "other_names": {
+      "name": "Libertad"
+    }
+  },
+  {
+    "name": "Liberty",
+    "country": "United States Of America",
+    "latitude": 39.24647900016153,
+    "longitude": -94.41907899999998,
+    "other_names": {
+      "name": "Liberty"
+    }
+  },
+  {
+    "name": "Libo",
+    "country": "China",
+    "latitude": 25.408442700221652,
+    "longitude": 107.87856569999998,
+    "other_names": {
+      "name": "荔波县",
+      "name:en": "Libo",
+      "name:vi": "Lệ Ba",
+      "name:zh": "荔波县",
+      "name:zh-Hant": "荔波縣",
+      "name:zh_pinyin": "Libo Xian"
+    }
+  },
+  {
+    "name": "Libreville",
+    "country": "Gabon",
+    "latitude": 0.3900019999594759,
+    "longitude": 9.454001,
+    "other_names": {
+      "name": "Libreville",
+      "name:am": "ሊብረቪል",
+      "name:ar": "ليبرفيل",
+      "name:az": "Librevil",
+      "name:be": "Лібрэвіль",
+      "name:bg": "Либревил",
+      "name:bo": "ལིབ་རེ་ཝིལ།",
+      "name:cs": "Libreville",
+      "name:cv": "Либревиль",
+      "name:de": "Libreville",
+      "name:el": "Λιμπρβίλ",
+      "name:en": "Libreville",
+      "name:eo": "Librevilo",
+      "name:es": "Libreville",
+      "name:fa": "لیبرویل",
+      "name:fr": "Libreville",
+      "name:he": "ליברוויל",
+      "name:hi": "लिबरेविले",
+      "name:ht": "Libvil",
+      "name:hu": "Libreville",
+      "name:hy": "Լիբրևիլ",
+      "name:is": "Libreville",
+      "name:ja": "リーブルヴィル",
+      "name:ka": "ლიბრევილი",
+      "name:ko": "리브르빌",
+      "name:ky": "Либревил",
+      "name:la": "Liberopolis",
+      "name:lt": "Librevilis",
+      "name:lv": "Librevila",
+      "name:mk": "Либрвил",
+      "name:mr": "लिब्रेव्हिल",
+      "name:oc": "Liuravila",
+      "name:pl": "Libreville",
+      "name:ru": "Либревиль",
+      "name:so": "Librefille",
+      "name:sr": "Либрвил",
+      "name:sv": "Libreville",
+      "name:ta": "லிப்ரவில்",
+      "name:tg": "Либревил",
+      "name:th": "ลีเบรอวิล",
+      "name:uk": "Лібревіль",
+      "name:ur": "لبریویل",
+      "name:wo": "Libarwil",
+      "name:zh": "利伯维尔",
+      "name:ckb": "لیبرێڤیل",
+      "name:mrj": "Либревиль",
+      "name:nov": "Librevil",
+      "name:pnb": "لبرول",
+      "name:udm": "Либревиль",
+      "name:zh-Hans": "利伯维尔",
+      "name:zh-Hant": "利伯維爾"
+    }
+  },
+  {
+    "name": "Licang",
+    "country": "China",
+    "latitude": 36.14397459975015,
+    "longitude": 120.42835200000002,
+    "other_names": {
+      "name": "李沧区",
+      "name:en": "Licang",
+      "name:zh": "李沧区",
+      "name:zh-Hant": "李滄區"
+    }
+  },
+  {
+    "name": "Licheng",
+    "country": "China",
+    "latitude": 25.434540300219226,
+    "longitude": 119.010424,
+    "other_names": {
+      "name": "荔城区",
+      "name:de": "Licheng",
+      "name:en": "Licheng",
+      "name:es": "Licheng",
+      "name:fa": "لیچنگ",
+      "name:fr": "District de Licheng",
+      "name:it": "Distretto di Licheng",
+      "name:ja": "茘城区",
+      "name:ko": "리청구",
+      "name:no": "Licheng",
+      "name:sv": "Licheng",
+      "name:vi": "Lệ Thành",
+      "name:zh": "荔城区",
+      "alt_name": "荔城;Licheng District",
+      "name:cdo": "Lié-siàng",
+      "name:hak": "Lai-sàng-khî",
+      "name:mwl": "Licheng",
+      "name:nan": "Nāi-siâⁿ-khu",
+      "name:yue": "荔城區",
+      "name:zh-Hant": "荔城區",
+      "name:zh_pinyin": "lìchéng qū"
+    }
+  },
+  {
+    "name": "Licheng",
+    "country": "China",
+    "latitude": 36.50451139978925,
+    "longitude": 113.38207559999998,
+    "other_names": {
+      "name": "黎城县",
+      "name:en": "Licheng",
+      "name:ja": "黎城県",
+      "name:zh": "黎城县",
+      "alt_name": "黎城;黎侯镇;黎侯;Li-ch'eng-hsien;Lichen;Lihou Zhen;Licheng Xian;Lihou",
+      "name:zh-Hant": "黎城縣"
+    }
+  },
+  {
+    "name": "Licheng",
+    "country": "China",
+    "latitude": 24.910564000265524,
+    "longitude": 118.5822144,
+    "other_names": {
+      "name": "鲤城区",
+      "name:en": "Licheng",
+      "name:es": "Lĭchéng",
+      "name:ja": "鯉城区",
+      "name:ko": "리청구",
+      "name:vi": "Lý Thành",
+      "name:zh": "鲤城区",
+      "alt_name": "鲤城;Licheng District",
+      "name:cdo": "Lī-siàng",
+      "name:hak": "Lí-sàng-khî",
+      "name:nan": "Lí-siâⁿ-khu",
+      "name:wuu": "鲤城区",
+      "name:yue": "鯉城",
+      "alt_name:vi": "Lí Thành",
+      "name:zh-Hant": "鯉城區",
+      "name:zh_pinyin": "lǐchéng qū"
+    }
+  },
+  {
+    "name": "Licheng",
+    "country": "China",
+    "latitude": 36.68026019980953,
+    "longitude": 117.05909680000002,
+    "other_names": {
+      "name": "历城区",
+      "name:en": "Licheng",
+      "name:ja": "历城区",
+      "name:uk": "Лічен",
+      "name:vi": "Lịch Thành",
+      "name:zh": "历城区",
+      "alt_name": "历城",
+      "alt_name:zh": "历城",
+      "name:zh-Hant": "歷城區",
+      "name:zh_pinyin": "Lìchéngqū"
+    }
+  },
+  {
+    "name": "Lichfield",
+    "country": "England",
+    "latitude": 52.684369599084455,
+    "longitude": -1.8275286,
+    "other_names": {
+      "name": "Lichfield",
+      "name:bg": "Личфийлд",
+      "name:cy": "Caerlwytgoed",
+      "name:hu": "Lichfield",
+      "name:ko": "리치필드",
+      "name:mk": "Личфилд",
+      "name:ru": "Личфилд",
+      "name:uk": "Лічфілд"
+    }
+  },
+  {
+    "name": "Lichinga",
+    "country": "Mozambique",
+    "latitude": -13.299911800240016,
+    "longitude": 35.24586419999999,
+    "other_names": {
+      "name": "Lichinga",
+      "name:ko": "리싱가",
+      "name:ru": "Лишинга"
+    }
+  },
+  {
+    "name": "Lichuan",
+    "country": "China",
+    "latitude": 30.293931199714326,
+    "longitude": 108.93184769999999,
+    "other_names": {
+      "name": "利川市",
+      "name:de": "Lichuan",
+      "name:en": "Lichuan",
+      "name:fr": "Lichuan",
+      "name:ja": "利川市",
+      "name:ru": "Личуань",
+      "name:vi": "Lợi Xuyên",
+      "name:zh": "利川市",
+      "int_name": "Lichuan",
+      "name:zh-Hant": "利川市",
+      "name:zh_pinyin": "Lìchuān Shì"
+    }
+  }
+]

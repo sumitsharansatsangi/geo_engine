@@ -1,0 +1,399 @@
+[
+  {
+    "name": "Guanarito",
+    "country": "Venezuela",
+    "latitude": 8.69774669939535,
+    "longitude": -69.20749509999999,
+    "other_names": {
+      "name": "Guanarito"
+    }
+  },
+  {
+    "name": "Guancheng",
+    "country": "China",
+    "latitude": 34.75435719963612,
+    "longitude": 113.6720628,
+    "other_names": {
+      "name": "管城区",
+      "name:en": "Guancheng",
+      "name:vi": "Quản Thành",
+      "name:zh": "管城区",
+      "name:zh_pinyin": "Guǎnchéng Huízú qū"
+    }
+  },
+  {
+    "name": "Guandu",
+    "country": "China",
+    "latitude": 25.017834300256464,
+    "longitude": 102.7418768,
+    "other_names": {
+      "name": "官渡区",
+      "name:en": "Guandu",
+      "name:zh": "官渡区",
+      "alt_name": "官渡;Guandu District",
+      "name:zh-Hant": "官渡區"
+    }
+  },
+  {
+    "name": "Guang'an",
+    "country": "China",
+    "latitude": 30.459305099700824,
+    "longitude": 106.62866459999998,
+    "other_names": {
+      "name": "广安市",
+      "name:de": "Guang'an",
+      "name:en": "Guang'an",
+      "name:et": "Guang'an",
+      "name:fr": "Guang'an",
+      "name:ja": "広安市",
+      "name:vi": "Quảng An",
+      "name:zh": "广安市",
+      "name:zh-Hant": "廣安市",
+      "name:zh_pinyin": "Guang'an Shi"
+    }
+  },
+  {
+    "name": "Guang'an",
+    "country": "China",
+    "latitude": 30.476935299699406,
+    "longitude": 106.63726609999999,
+    "other_names": {
+      "name": "广安区",
+      "name:en": "Guang'an",
+      "name:vi": "Quảng An",
+      "name:zh": "广安区",
+      "alt_name": "广安;Guang'an District",
+      "name:zh-Hant": "廣安區",
+      "name:zh_pinyin": "Guang'an Qu"
+    }
+  },
+  {
+    "name": "Guangchang",
+    "country": "China",
+    "latitude": 26.84544030007485,
+    "longitude": 116.3309761,
+    "other_names": {
+      "name": "广昌县",
+      "name:en": "Guangchang",
+      "name:ru": "Сюйцзян",
+      "name:zh": "广昌县",
+      "alt_name": "广昌;Guangchang County",
+      "name:zh-Hant": "廣昌縣",
+      "name:zh_pinyin": "guǎngchāng xiàn"
+    }
+  },
+  {
+    "name": "Guangde",
+    "country": "China",
+    "latitude": 30.879125499669378,
+    "longitude": 119.4154062,
+    "other_names": {
+      "name": "广德市",
+      "name:de": "Guangde",
+      "name:en": "Guangde",
+      "name:es": "Guangde",
+      "name:fa": "شهرستان گوانگده",
+      "name:fi": "Guangde",
+      "name:fr": "Xian de Guangde",
+      "name:it": "Contea di Guangde",
+      "name:ja": "広徳市",
+      "name:ko": "광더현",
+      "name:no": "Guangde",
+      "name:pl": "Guangde",
+      "name:ru": "Гуандэ",
+      "name:sv": "Guangde",
+      "name:tr": "Guangde",
+      "name:vi": "Quảng Đức",
+      "name:zh": "广德市",
+      "alt_name": "广德;Guangde City",
+      "name:ceb": "Guangde Xian",
+      "name:mwl": "Guangde",
+      "name:nan": "Kóng-tek-koān",
+      "name:wuu": "广德",
+      "name:yue": "廣德",
+      "old_name": "广德县;Guangde County",
+      "name:zh-Hant": "廣德市",
+      "name:zh_pinyin": "guǎngdé shì"
+    }
+  },
+  {
+    "name": "Guangfeng District",
+    "country": "China",
+    "latitude": 28.466067999894673,
+    "longitude": 118.1840363,
+    "other_names": {
+      "name": "广丰区",
+      "name:de": "Guangfeng",
+      "name:en": "Guangfeng District",
+      "name:fr": "Xian de Guangfeng",
+      "name:it": "Distretto di Guangfeng",
+      "name:ja": "広豊区",
+      "name:ko": "광펑구",
+      "name:no": "Guangfeng",
+      "name:ru": "Гуанфэн",
+      "name:sv": "Guangfeng",
+      "name:vi": "Quảng Phong",
+      "name:zh": "广丰区",
+      "int_name": "Guangfeng",
+      "name:ceb": "Guangfeng Xian",
+      "name:gan": "廣豐",
+      "name:nan": "Kóng-hong-khu",
+      "name:wuu": "广丰区",
+      "name:yue": "廣豐",
+      "old_name": "广丰县",
+      "name:zh-Hant": "廣豐區",
+      "name:zh_pinyin": "Guǎngfēng Xiàn"
+    }
+  },
+  {
+    "name": "Guanghan",
+    "country": "China",
+    "latitude": 30.98180129966235,
+    "longitude": 104.2725546,
+    "other_names": {
+      "name": "广汉市",
+      "name:de": "Guanghan",
+      "name:en": "Guanghan",
+      "name:fr": "Guanghan",
+      "name:ja": "広漢市",
+      "name:ru": "Гуанхань",
+      "name:uk": "Гуанхань",
+      "name:vi": "Quảng Hán",
+      "name:zh": "广汉市",
+      "alt_name": "广汉;Guanghan City",
+      "int_name": "Guanghan",
+      "name:zh-Hant": "廣漢市",
+      "name:zh_pinyin": "Guǎnghàn Shi"
+    }
+  },
+  {
+    "name": "Guanghe",
+    "country": "China",
+    "latitude": 35.4881749996886,
+    "longitude": 103.5692954,
+    "other_names": {
+      "name": "广河县",
+      "name:en": "Guanghe",
+      "name:ja": "広河県",
+      "name:zh": "广河县",
+      "alt_name": "广河;广河城关镇;Chengguan",
+      "name:zh-Hant": "廣河縣",
+      "name:zh_pinyin": "guǎnghé xiàn"
+    }
+  },
+  {
+    "name": "Guangling",
+    "country": "China",
+    "latitude": 39.76364050023485,
+    "longitude": 114.27304009999999,
+    "other_names": {
+      "name": "广灵县",
+      "name:en": "Guangling",
+      "name:ja": "広霊県",
+      "name:ru": "Гуанлин",
+      "name:zh": "广灵县",
+      "alt_name": "广灵;壶泉镇;壶泉;Huquan;Huquan Zhen;Guangling Xian;Kwang-ling;Kuang-ling-hsien;Kuang-ling",
+      "name:zh-Hant": "廣靈縣"
+    }
+  },
+  {
+    "name": "Guangling District",
+    "country": "China",
+    "latitude": 32.39687459959626,
+    "longitude": 119.4262346,
+    "other_names": {
+      "name": "广陵区",
+      "name:de": "Guangling",
+      "name:en": "Guangling District",
+      "name:es": "Guangling",
+      "name:fr": "District de Guangling",
+      "name:it": "Distretto di Guangling",
+      "name:ja": "広陵区",
+      "name:ko": "광링구",
+      "name:no": "Guangling",
+      "name:ru": "Гуанлин",
+      "name:sv": "Guangling",
+      "name:vi": "Quảng Lăng",
+      "name:zh": "广陵区",
+      "name:ceb": "Guangling Qu",
+      "name:nan": "Kóng-lêng-khu",
+      "name:yue": "廣陵區",
+      "name:zh-Hant": "廣陵區",
+      "name:zh_pinyin": "Guǎnglíng Qū"
+    }
+  },
+  {
+    "name": "Guangming District",
+    "country": "China",
+    "latitude": 22.75168720039265,
+    "longitude": 113.93000609999999,
+    "other_names": {
+      "name": "光明区",
+      "name:de": "Guangming",
+      "name:en": "Guangming District",
+      "name:es": "Guangming",
+      "name:eu": "Guangming Barrutia",
+      "name:fa": "گوانگمینگ",
+      "name:fr": "Nouveau district de Guangming",
+      "name:it": "Distretto di Guangming",
+      "name:ja": "光明区",
+      "name:ko": "광밍구",
+      "name:vi": "Quang Minh, Thâm Quyến",
+      "name:zh": "光明区",
+      "name:hak": "Kông-mìn-sîn-khî",
+      "name:mwl": "Guangming",
+      "name:nan": "Kong-bêng Sin-khu",
+      "name:wuu": "光明区",
+      "name:yue": "光明區",
+      "name:zh-Hant": "光明區",
+      "name:zh_pinyin": "Guāngmíng Qū"
+    }
+  },
+  {
+    "name": "Guangnan",
+    "country": "China",
+    "latitude": 24.047943600329774,
+    "longitude": 105.0519035,
+    "other_names": {
+      "name": "广南县",
+      "name:en": "Guangnan",
+      "name:vi": "Quảng Nam",
+      "name:zh": "广南县",
+      "alt_name": "广南;Guangnan County",
+      "name:zh-Hant": "廣南縣",
+      "name:zh_pinyin": "Guangnan Xian"
+    }
+  },
+  {
+    "name": "Guangning",
+    "country": "China",
+    "latitude": 23.63489230035448,
+    "longitude": 112.43179719999999,
+    "other_names": {
+      "name": "广宁县",
+      "name:de": "Guangning",
+      "name:en": "Guangning",
+      "name:fa": "شهرستان گوانگنینگ",
+      "name:fr": "Xian de Guangning",
+      "name:it": "Contea di Guangning",
+      "name:ja": "広寧県",
+      "name:ko": "광닝현",
+      "name:no": "Guangning",
+      "name:sv": "Guangning",
+      "name:vi": "Quảng Ninh",
+      "name:zh": "广宁县",
+      "alt_name": "广宁;Guangning County",
+      "name:ceb": "Guangning Xian",
+      "name:hak": "Kóng-nèn-yen",
+      "name:mwl": "Guangning",
+      "name:nan": "Kóng-lêng-koān",
+      "name:yue": "廣寧",
+      "name:zh-Hant": "廣寧縣",
+      "name:zh_pinyin": "Guǎngníng Xiàn"
+    }
+  },
+  {
+    "name": "Guangping",
+    "country": "China",
+    "latitude": 36.48253809978676,
+    "longitude": 114.94545790000001,
+    "other_names": {
+      "name": "广平县",
+      "name:en": "Guangping",
+      "name:ja": "広平県",
+      "name:vi": "Quảng Bình",
+      "name:zh": "广平县",
+      "alt_name": "广平;Guangping County",
+      "name:zh-Hant": "廣平縣",
+      "official_name": "广平镇",
+      "name:zh_pinyin": "guǎngpíng xiàn"
+    }
+  },
+  {
+    "name": "Guangrao",
+    "country": "China",
+    "latitude": 37.048691699854416,
+    "longitude": 118.4129962,
+    "other_names": {
+      "name": "广饶县",
+      "name:en": "Guangrao",
+      "name:vi": "Quảng Nhiêu",
+      "name:zh": "广饶县",
+      "name:zh-Hant": "廣饒縣",
+      "name:zh_pinyin": "Guangrao Xian"
+    }
+  },
+  {
+    "name": "Guangshan",
+    "country": "China",
+    "latitude": 32.013175199608106,
+    "longitude": 114.8977873,
+    "other_names": {
+      "name": "光山县",
+      "name:en": "Guangshan",
+      "name:ja": "光山県",
+      "name:vi": "Quang Sơn",
+      "name:zh": "光山县",
+      "alt_name": "光山;Guangshan County",
+      "name:zh-Hant": "光山縣",
+      "name:zh_pinyin": "Guangshan Xian"
+    }
+  },
+  {
+    "name": "Guangshui",
+    "country": "China",
+    "latitude": 31.619005199625143,
+    "longitude": 113.8203522,
+    "other_names": {
+      "name": "广水市",
+      "name:ar": "غوانغشوي",
+      "name:de": "Guangshui",
+      "name:en": "Guangshui",
+      "name:fr": "Guangshui",
+      "name:it": "Guangshui",
+      "name:ja": "広水市",
+      "name:ki": "Guangshui",
+      "name:ko": "광수이시",
+      "name:mg": "Guangshui",
+      "name:no": "Guangshui",
+      "name:ru": "Гуаншуй",
+      "name:sv": "Guangshui",
+      "name:vi": "Quảng Thủy",
+      "name:zh": "广水市",
+      "int_name": "Guangshui",
+      "name:nan": "Kóng-súi-chhī",
+      "name:pam": "Guangshui",
+      "name:war": "Guangshui",
+      "name:yue": "廣水",
+      "old_name": "应山县",
+      "name:zh-Hant": "廣水市",
+      "name:zh_pinyin": "Guǎngshuǐ Shì"
+    }
+  },
+  {
+    "name": "Guangxin District",
+    "country": "China",
+    "latitude": 28.453164399896085,
+    "longitude": 117.903535,
+    "other_names": {
+      "name": "广信区",
+      "name:de": "Shangrao",
+      "name:en": "Guangxin District",
+      "name:fa": "شهرستان شانگراو",
+      "name:fr": "Xian de Shangrao",
+      "name:it": "Contea di Shangrao",
+      "name:ja": "広信区",
+      "name:ko": "상라오현",
+      "name:no": "Shangrao",
+      "name:ru": "Гуансинь",
+      "name:sv": "Shangrao",
+      "name:vi": "Quảng Tín",
+      "name:zh": "广信区",
+      "name:gan": "上饒縣",
+      "name:nan": "Siōng-jiâu-koān",
+      "name:yue": "上饒縣",
+      "name:zh-Hant": "廣信區",
+      "name:zh_pinyin": "Shàngráo Xiàn"
+    }
+  }
+]

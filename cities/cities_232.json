@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Kelowna",
+    "country": "Canada",
+    "latitude": 49.88791769947797,
+    "longitude": -119.49590249999999,
+    "other_names": {
+      "name": "Kelowna",
+      "name:en": "Kelowna",
+      "name:ru": "Келоуна",
+      "name:uk": "Келоуна"
+    }
+  },
+  {
+    "name": "Kemerovo",
+    "country": "Russia",
+    "latitude": 55.355090699536944,
+    "longitude": 86.08712129999999,
+    "other_names": {
+      "name": "Кемерово",
+      "name:ar": "كيميروفو",
+      "name:be": "Кемерава",
+      "name:cs": "Kemerovo",
+      "name:de": "Kemerowo",
+      "name:en": "Kemerovo",
+      "name:eo": "Kemerovo",
+      "name:et": "Kemerovo",
+      "name:fr": "Kemerovo",
+      "name:he": "קמרובו",
+      "name:hr": "Kemerovo",
+      "name:ja": "ケメロヴォ",
+      "name:ko": "케메로보",
+      "name:lt": "Kemerovas",
+      "name:pl": "Kemerowo",
+      "name:ro": "Kemerovo",
+      "name:ru": "Кемерово",
+      "name:sk": "Kemerovo",
+      "name:sl": "Kemerovo",
+      "name:uk": "Кемерово",
+      "name:zh": "克麦罗沃",
+      "int_name": "Kemerovo",
+      "old_name": "Щегловск",
+      "old_name:en": "Scheglovsk",
+      "old_name:ru": "Щегловск",
+      "name:be-tarask": "Кемерава"
+    }
+  },
+  {
+    "name": "Kemerovo",
+    "country": "Russia",
+    "latitude": 55.3798165691595,
+    "longitude": 86.08429050396586,
+    "other_names": {
+      "name": "Кемерово",
+      "name:de": "Kemerowo",
+      "name:en": "Kemerovo",
+      "name:fi": "Kemerovo",
+      "name:ja": "ケメロヴォ",
+      "name:ru": "Кемерово"
+    }
+  },
+  {
+    "name": "Kemmerer",
+    "country": "United States Of America",
+    "latitude": 41.79246060046991,
+    "longitude": -110.53771099999999,
+    "other_names": {
+      "name": "Kemmerer"
+    }
+  },
+  {
+    "name": "Kendall",
+    "country": "United States Of America",
+    "latitude": 25.66956489281843,
+    "longitude": -80.35551654579903,
+    "other_names": {
+      "name": "Kendall"
+    }
+  },
+  {
+    "name": "Kendall",
+    "country": "United States Of America",
+    "latitude": 25.679269500196007,
+    "longitude": -80.3172743,
+    "other_names": {
+      "name": "Kendall"
+    }
+  },
+  {
+    "name": "Kendari",
+    "country": "Indonesia",
+    "latitude": -3.9918067997049884,
+    "longitude": 122.5180066,
+    "other_names": {
+      "name": "Kendari",
+      "name:en": "Kendari",
+      "name:ja": "ケンダリ",
+      "name:ru": "Кендари",
+      "name:uk": "Кендарі",
+      "name:zh": "肯達里"
+    }
+  },
+  {
+    "name": "Kenema",
+    "country": "Sierra Leone",
+    "latitude": 7.88593599939082,
+    "longitude": -11.186389999999998,
+    "other_names": {
+      "name": "Kenema",
+      "name:ar": "كينيما",
+      "name:ko": "케네마",
+      "name:lt": "Kenema",
+      "name:ru": "Кенема",
+      "int_name": "Kenema"
+    }
+  },
+  {
+    "name": "KÉNENDÉ",
+    "country": "Guinea",
+    "latitude": 9.772079199427475,
+    "longitude": -13.488163999999998,
+    "other_names": {
+      "name": "KÉNENDÉ"
+    }
+  },
+  {
+    "name": "Kenge",
+    "country": "Congo Democratic Republic",
+    "latitude": -4.805950299684712,
+    "longitude": 17.038692,
+    "other_names": {
+      "name": "Kenge"
+    }
+  },
+  {
+    "name": "Keningau",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 5.33165719948394,
+    "longitude": 116.1522926,
+    "other_names": {
+      "name": "Keningau",
+      "name:ja": "クニンガウ",
+      "name:zh": "根地咬"
+    }
+  },
+  {
+    "name": "Kenitra",
+    "country": "Morocco",
+    "latitude": 34.26456999961147,
+    "longitude": -6.570169,
+    "other_names": {
+      "name": "Kénitra ⵇⵏⵉⵟⵔⴰ القنيطرة",
+      "name:ar": "القنيطرة",
+      "name:de": "Kenitra",
+      "name:en": "Kenitra",
+      "name:et": "Kénitra",
+      "name:fa": "قنیطره",
+      "name:fr": "Kénitra",
+      "name:he": "אל-קניטרה",
+      "name:lt": "Kenitra",
+      "name:pl": "Kenitra",
+      "name:ru": "Кенитра",
+      "name:ur": "قنیطرہ",
+      "name:ber": "ⵇⵏⵉⵟⵔⴰ",
+      "name:zgh": "ⵇⵏⵉⵟⵔⴰ",
+      "old_name": "Port-Lyautey",
+      "old_name:ar": "بور ليوطي"
+    }
+  },
+  {
+    "name": "Kenli",
+    "country": "China",
+    "latitude": 37.58594339992473,
+    "longitude": 118.54659899999999,
+    "other_names": {
+      "name": "垦利区",
+      "name:en": "Kenli",
+      "name:zh": "垦利区",
+      "name:zh-Hant": "墾利區"
+    }
+  },
+  {
+    "name": "Kennewick",
+    "country": "United States Of America",
+    "latitude": 46.20870660030893,
+    "longitude": -119.1199192,
+    "other_names": {
+      "name": "Kennewick"
+    }
+  },
+  {
+    "name": "Kenora",
+    "country": "Canada",
+    "latitude": 49.7662149995063,
+    "longitude": -94.4893528,
+    "other_names": {
+      "name": "Kenora",
+      "name:en": "Kenora",
+      "name:ru": "Кенора",
+      "name:uk": "Кенора",
+      "old_name": "Rat Portage",
+      "old_name:uk": "Рат Портаж"
+    }
+  },
+  {
+    "name": "Kenosha",
+    "country": "United States Of America",
+    "latitude": 42.584677300521726,
+    "longitude": -87.8212263,
+    "other_names": {
+      "name": "Kenosha"
+    }
+  },
+  {
+    "name": "Kep",
+    "country": "Cambodia",
+    "latitude": 10.486039599464618,
+    "longitude": 104.3148207,
+    "other_names": {
+      "name": "ក្រុងកែប",
+      "name:en": "Kep",
+      "name:fr": "Kep",
+      "name:ja": "ケップ",
+      "name:km": "ក្រុងកែប",
+      "name:ko": "케프",
+      "name:ru": "Каеп",
+      "name:vi": "Kep"
+    }
+  },
+  {
+    "name": "Keqiao",
+    "country": "China",
+    "latitude": 30.084726299732232,
+    "longitude": 120.49064919999998,
+    "other_names": {
+      "name": "柯桥区",
+      "name:en": "Keqiao",
+      "name:ja": "柯橋区",
+      "name:ko": "커차오 구",
+      "name:zh": "柯桥区",
+      "name:zh-Hant": "柯橋區"
+    }
+  },
+  {
+    "name": "Kerch",
+    "country": "Ukraine",
+    "latitude": 45.329236428070814,
+    "longitude": 36.45925618426247,
+    "other_names": {
+      "name": "Керчь",
+      "name:ar": "كرج",
+      "name:de": "Kertsch",
+      "name:el": "Κερτς",
+      "name:en": "Kerch",
+      "name:eo": "Kerĉo",
+      "name:es": "Kerch",
+      "name:et": "Kertš",
+      "name:fa": "کرچ",
+      "name:fi": "Kertš",
+      "name:fr": "Kertch",
+      "name:gr": "Βόσπορος",
+      "name:hr": "Kerč",
+      "name:hu": "Kercs",
+      "name:ks": "کرچ",
+      "name:ku": "Kerş",
+      "name:la": "Kertschia",
+      "name:lt": "Kerčė",
+      "name:mk": "Керч",
+      "name:nl": "Kertsj",
+      "name:no": "Kertsj",
+      "name:pl": "Kercz",
+      "name:ro": "Kerci",
+      "name:ru": "Керчь",
+      "name:sr": "Керч",
+      "name:sv": "Kertj",
+      "name:tr": "Kerç",
+      "name:uk": "Керч",
+      "name:ur": "کرچ",
+      "name:zh": "刻赤",
+      "name:azb": "کرچ",
+      "name:crh": "Keriç",
+      "name:grc": "Βόσπορος",
+      "name:mzn": "کرچ",
+      "name:ota": "کرش",
+      "old_name": "Пантікапей",
+      "old_name:ru": "Пантикапей",
+      "name:az-Arab": "کرچ",
+      "name:crh-cyr": "Керич"
+    }
+  },
+  {
+    "name": "Kerch",
+    "country": "Russia",
+    "latitude": 45.329236428070814,
+    "longitude": 36.45925618426247,
+    "other_names": {
+      "name": "Керчь",
+      "name:ar": "كرج",
+      "name:de": "Kertsch",
+      "name:el": "Κερτς",
+      "name:en": "Kerch",
+      "name:eo": "Kerĉo",
+      "name:es": "Kerch",
+      "name:et": "Kertš",
+      "name:fa": "کرچ",
+      "name:fi": "Kertš",
+      "name:fr": "Kertch",
+      "name:gr": "Βόσπορος",
+      "name:hr": "Kerč",
+      "name:hu": "Kercs",
+      "name:ks": "کرچ",
+      "name:ku": "Kerş",
+      "name:la": "Kertschia",
+      "name:lt": "Kerčė",
+      "name:mk": "Керч",
+      "name:nl": "Kertsj",
+      "name:no": "Kertsj",
+      "name:pl": "Kercz",
+      "name:ro": "Kerci",
+      "name:ru": "Керчь",
+      "name:sr": "Керч",
+      "name:sv": "Kertj",
+      "name:tr": "Kerç",
+      "name:uk": "Керч",
+      "name:ur": "کرچ",
+      "name:zh": "刻赤",
+      "name:azb": "کرچ",
+      "name:crh": "Keriç",
+      "name:grc": "Βόσπορος",
+      "name:mzn": "کرچ",
+      "name:ota": "کرش",
+      "old_name": "Пантікапей",
+      "old_name:ru": "Пантикапей",
+      "name:az-Arab": "کرچ",
+      "name:crh-cyr": "Керич"
+    }
+  }
+]

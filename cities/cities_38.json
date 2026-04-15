@@ -1,0 +1,359 @@
+[
+  {
+    "name": "Bani Walid",
+    "country": "Libya",
+    "latitude": 31.758430899618567,
+    "longitude": 14.0146898,
+    "other_names": {
+      "name": "بني وليد",
+      "name:ar": "بني وليد",
+      "name:en": "Bani Walid",
+      "name:es": "Bani Walid",
+      "name:fr": "Beni Ulid",
+      "name:it": "Beni Ulid",
+      "name:ru": "Бени-Валид",
+      "name:zh": "巴尼·瓦利德"
+    }
+  },
+  {
+    "name": "Banja Luka",
+    "country": "Bosnia Herzegovina",
+    "latitude": 44.7720845004884,
+    "longitude": 17.1917651,
+    "other_names": {
+      "name": "Banja Luka",
+      "name:ar": "بانيا لوكا",
+      "name:de": "Banja Luka",
+      "name:en": "Banja Luka",
+      "name:es": "Banja Luka",
+      "name:fr": "Banja Luka",
+      "name:hr": "Banja Luka",
+      "name:ko": "바냐루카",
+      "name:ru": "Баня-Лука",
+      "name:sl": "Banja Luka",
+      "name:sr": "Бањалука",
+      "name:zh": "巴尼亚卢卡",
+      "alt_name": "Banjaluka",
+      "int_name": "Banja Luka",
+      "alt_name:sr": "Бања Лука",
+      "name:sr-Latn": "Banjaluka",
+      "alt_name:sr-Latn": "Banja Luka"
+    }
+  },
+  {
+    "name": "Banjar",
+    "country": "Indonesia",
+    "latitude": -7.369564799726929,
+    "longitude": 108.5415225,
+    "other_names": {
+      "name": "Banjar",
+      "name:id": "Banjar",
+      "name:ja": "バンジャール",
+      "alt_name": "Banjar Patroman",
+      "loc_name": "Banjar",
+      "nat_name": "Kota Banjar",
+      "old_name": "Banjar Pataruman",
+      "reg_name": "Kota Banjar",
+      "short_name": "BJR"
+    }
+  },
+  {
+    "name": "Banjarbaru",
+    "country": "Indonesia",
+    "latitude": -3.447224099727328,
+    "longitude": 114.78113029999999,
+    "other_names": {
+      "name": "Banjarbaru",
+      "name:en": "Banjarbaru",
+      "name:ja": "バンジャルバル",
+      "name:zh": "班查巴鲁"
+    }
+  },
+  {
+    "name": "Banjarmasin",
+    "country": "Indonesia",
+    "latitude": -3.318749599733582,
+    "longitude": 114.59258280000002,
+    "other_names": {
+      "name": "Banjarmasin",
+      "name:en": "Banjarmasin",
+      "name:ja": "バンジャルマシン",
+      "name:ru": "Банджармасин",
+      "name:uk": "Банджармасин",
+      "name:zh": "馬辰",
+      "alt_name": "Bandjarmasin;Bandarmasih;Banjar-Masih;Bandjermasin;Banjarmasch;Bandjermasen;Bandjermassin;Bandjermassing;Benjarmassen",
+      "loc_name": "Banjar;Banua",
+      "short_name": "Banjar;BJM",
+      "official_name": "Kota Banjarmasin",
+      "official_name:en": "City of Banjarmasin"
+    }
+  },
+  {
+    "name": "Bankura",
+    "country": "India",
+    "latitude": 23.235601000374288,
+    "longitude": 87.0660229,
+    "other_names": {
+      "name": "Bankura",
+      "name:bn": "বাঁকুড়া",
+      "name:en": "Bankura",
+      "name:hi": "बंकुरा"
+    }
+  },
+  {
+    "name": "Banlung",
+    "country": "Cambodia",
+    "latitude": 13.741475399760608,
+    "longitude": 106.9873662,
+    "other_names": {
+      "name": "ក្រុង​បានលុង",
+      "name:en": "Banlung",
+      "name:fr": "Banlung",
+      "name:ja": "バンラング",
+      "name:ru": "Банлунг",
+      "name:uk": "Банлунґ"
+    }
+  },
+  {
+    "name": "Banma County",
+    "country": "China",
+    "latitude": 32.93602139958796,
+    "longitude": 100.7374327,
+    "other_names": {
+      "name": "班玛县",
+      "name:bo": "པད་མ་རྫོང་",
+      "name:de": "Baima",
+      "name:en": "Banma County",
+      "name:fa": "شهرستان بانما",
+      "name:fr": "Xian de Baima",
+      "name:it": "Contea di Banma",
+      "name:ja": "班瑪県",
+      "name:ko": "반마현",
+      "name:no": "Baima",
+      "name:pl": "Baima",
+      "name:ru": "Бэма",
+      "name:sv": "Päma",
+      "name:ur": "نانما کاؤنٹی",
+      "name:vi": "Baima",
+      "name:zh": "班玛县",
+      "alt_name": "班玛;赛来塘;Sailaitang;Pema;Seraitang;Seré Tang",
+      "name:nan": "Baima-koān",
+      "name:zh-Hans": "班玛县",
+      "name:zh-Hant": "班瑪縣",
+      "official_name": "赛来塘镇",
+      "name:zh_pinyin": "Bānmǎ Xiàn"
+    }
+  },
+  {
+    "name": "Bannu",
+    "country": "Pakistan",
+    "latitude": 32.9857006995877,
+    "longitude": 70.60360169999998,
+    "other_names": {
+      "name": "بنوں",
+      "name:ar": "بنو",
+      "name:de": "Bannu",
+      "name:en": "Bannu",
+      "name:es": "Bannu",
+      "name:fr": "Bannu",
+      "name:hi": "बन्नू",
+      "name:ja": "バンヌ",
+      "name:pt": "Bannu",
+      "name:ru": "Банну",
+      "name:tr": "Bannu",
+      "name:ur": "بنوں"
+    }
+  },
+  {
+    "name": "Banská Bystrica",
+    "country": "Slovakia",
+    "latitude": 48.73840279975721,
+    "longitude": 19.157349400000005,
+    "other_names": {
+      "name": "Banská Bystrica",
+      "name:ar": "بانسكا بيستريتسا",
+      "name:de": "Neusohl",
+      "name:en": "Banská Bystrica",
+      "name:es": "Banská Bystrica",
+      "name:fr": "Banská Bystrica",
+      "name:hu": "Besztercebánya",
+      "name:it": "Banská Bystrica",
+      "name:la": "Neosolium",
+      "name:pl": "Bańska Bystrzyca",
+      "name:ru": "Банска-Бистрица",
+      "name:sk": "Banská Bystrica",
+      "name:sr": "Банска Бистрица",
+      "name:uk": "Банська Бистриця",
+      "loc_name": "Banska Bystrica,Banská Bystrica,Bańska Bystrzyca,Besztercebanya",
+      "old_name": "Baňská Bystrica"
+    }
+  },
+  {
+    "name": "Banswara",
+    "country": "India",
+    "latitude": 23.550075000359037,
+    "longitude": 74.44629399999998,
+    "other_names": {
+      "name": "Banswara",
+      "name:bh": "बांसवाड़ा",
+      "name:bn": "বান্সওয়ারা",
+      "name:fr": "Bânsvâra",
+      "name:gu": "વાંસવાડા",
+      "name:hi": "बांसवाड़ा",
+      "name:ja": "バーンスワーラー",
+      "name:pa": "ਬਾਂਸਵਾੜਾ",
+      "name:ru": "Бансвара",
+      "name:ta": "பன்ஸ்வாரா"
+    }
+  },
+  {
+    "name": "Banting",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 2.8027573997025104,
+    "longitude": 101.49567669999999,
+    "other_names": {
+      "name": "Banting",
+      "name:zh": "万津"
+    }
+  },
+  {
+    "name": "Banyo",
+    "country": "Cameroon",
+    "latitude": 6.748546999412971,
+    "longitude": 11.804577599999998,
+    "other_names": {
+      "name": "Banyo"
+    }
+  },
+  {
+    "name": "Bao'an District",
+    "country": "China",
+    "latitude": 22.559857300398154,
+    "longitude": 113.8790404,
+    "other_names": {
+      "name": "宝安区",
+      "name:de": "Bao’an",
+      "name:en": "Bao'an District",
+      "name:es": "Bao'an",
+      "name:eu": "Bao'an Barrutia",
+      "name:fa": "باو ان",
+      "name:fr": "District de Bao'an",
+      "name:it": "Distretto di Bao'an",
+      "name:ja": "宝安区",
+      "name:ko": "바오안구",
+      "name:nl": "Bao'an",
+      "name:no": "Bao'an",
+      "name:pl": "Bao’an",
+      "name:ru": "Баоань",
+      "name:sv": "Bao'an",
+      "name:ur": "باوآن ضلع",
+      "name:vi": "Bảo An",
+      "name:zh": "宝安区",
+      "name:ceb": "Bao'an Qu",
+      "name:hak": "Pó-ôn-khî",
+      "name:mwl": "Bao'an",
+      "name:nan": "Pó-an-khu",
+      "name:wuu": "宝安区",
+      "name:yue": "寶安區",
+      "name:zh-Hant": "寶安區",
+      "name:zh_pinyin": "Bǎo'ān Qū"
+    }
+  },
+  {
+    "name": "Baocheng",
+    "country": "China",
+    "latitude": 18.640278000287857,
+    "longitude": 109.699444,
+    "other_names": {
+      "name": "保亭县",
+      "name:en": "Baocheng",
+      "name:zh": "保亭黎族苗族自治县",
+      "alt_name": "保亭;保亭县;Pao-t'ing-shih;Pao-t'ing-hsien;Baoting;Po Deng;Pao-t'ing-ying;Pao-ch'eng-chen;Pao-ch'eng;Pao-t'ing;Baoting Lizu Miaozu Zizhixian",
+      "name:zh-Hant": "保亭縣",
+      "official_name": "保亭黎族苗族自治县"
+    }
+  },
+  {
+    "name": "Baochi",
+    "country": "China",
+    "latitude": 39.71722320022838,
+    "longitude": 117.29621820000001,
+    "other_names": {
+      "name": "宝坻区",
+      "name:en": "Baochi",
+      "name:zh": "宝坻区",
+      "name:zh-Hant": "寶坻區"
+    }
+  },
+  {
+    "name": "Baode",
+    "country": "China",
+    "latitude": 39.01833660012857,
+    "longitude": 111.0748263,
+    "other_names": {
+      "name": "保德县",
+      "name:en": "Baode",
+      "name:ru": "Дунгуань",
+      "name:zh": "保德县",
+      "alt_name": "保德;Pao-te Hsien;Baode Xian",
+      "name:zh-Hant": "保德縣"
+    }
+  },
+  {
+    "name": "Baoding",
+    "country": "China",
+    "latitude": 38.857973500105295,
+    "longitude": 115.490696,
+    "other_names": {
+      "name": "保定市",
+      "name:de": "Baoding",
+      "name:en": "Baoding",
+      "name:et": "Baoding",
+      "name:fr": "Baoding",
+      "name:ja": "保定市",
+      "name:pt": "Baoding",
+      "name:ru": "Баодин",
+      "name:vi": "Bảo Định",
+      "name:zh": "保定市",
+      "alt_name": "保定;Paoting;Baoding City",
+      "name:zh-Hant": "保定市",
+      "name:zh_pinyin": "Bǎodìng Shì"
+    }
+  },
+  {
+    "name": "Baofeng",
+    "country": "China",
+    "latitude": 33.866847399597745,
+    "longitude": 113.0542631,
+    "other_names": {
+      "name": "宝丰县",
+      "name:en": "Baofeng",
+      "name:vi": "Bảo Phong",
+      "name:zh": "宝丰县",
+      "alt_name": "宝丰;Baofeng County",
+      "name:zh-Hant": "寶豐縣",
+      "name:zh_pinyin": "Baofeng Xian"
+    }
+  },
+  {
+    "name": "Baohe",
+    "country": "China",
+    "latitude": 31.795529499616915,
+    "longitude": 117.30524929999999,
+    "other_names": {
+      "name": "包河区",
+      "name:de": "Baohe",
+      "name:en": "Baohe",
+      "name:eo": "Baohe",
+      "name:es": "Baohe",
+      "name:fr": "Baohe",
+      "name:ja": "包河区",
+      "name:ko": "바오허 구",
+      "name:pt": "Baohe",
+      "name:sv": "Baohe",
+      "name:vi": "Bao Hà",
+      "name:zh": "包河区",
+      "name:zh-Hant": "包河區"
+    }
+  }
+]

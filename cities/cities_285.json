@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Magelang",
+    "country": "Indonesia",
+    "latitude": -7.477074699732083,
+    "longitude": 110.2182164,
+    "other_names": {
+      "name": "Magelang",
+      "name:ja": "マゲラン"
+    }
+  },
+  {
+    "name": "Magetan",
+    "country": "Indonesia",
+    "latitude": -7.656021899741224,
+    "longitude": 111.3281197,
+    "other_names": {
+      "name": "Magetan",
+      "name:id": "Magetan",
+      "name:ja": "マゲタン"
+    }
+  },
+  {
+    "name": "Maghnia",
+    "country": "Algeria",
+    "latitude": 34.84719899964176,
+    "longitude": -1.729658,
+    "other_names": {
+      "name": "Maghnia ⵎⴻⵖⵏⵉⵢⴰ مغنية",
+      "name:ar": "مغنية",
+      "name:de": "Maghnia",
+      "name:el": "Μαγκνία",
+      "name:en": "Maghnia",
+      "name:fa": "مغنیه",
+      "name:fr": "Maghnia",
+      "name:ru": "Магния",
+      "name:ur": "مغنیہ",
+      "name:azb": "مغنیه",
+      "name:ber": "ⵎⴰⵖⵏⵉⵢⴰ",
+      "name:kab": "Maɣniya",
+      "old_name:fr": "Marnia"
+    }
+  },
+  {
+    "name": "Magnitogorsk",
+    "country": "Russia",
+    "latitude": 53.39955221954681,
+    "longitude": 59.039130946743576,
+    "other_names": {
+      "name": "Магнитогорск",
+      "name:de": "Magnitogorsk",
+      "name:en": "Magnitogorsk",
+      "name:et": "Magnitogorsk",
+      "name:ja": "マグニトゴルスク",
+      "name:ru": "Магнитогорск",
+      "name:zh": "马格尼托哥尔斯克",
+      "int_name": "Magnitogorsk",
+      "alt_name:en": "Magnetogorsk"
+    }
+  },
+  {
+    "name": "Magnitogorsk",
+    "country": "Russia",
+    "latitude": 53.39955221954681,
+    "longitude": 59.039130946743576,
+    "other_names": {
+      "name": "Магнитогорск",
+      "name:de": "Magnitogorsk",
+      "name:en": "Magnitogorsk",
+      "name:et": "Magnitogorsk",
+      "name:ja": "マグニトゴルスク",
+      "name:ru": "Магнитогорск",
+      "name:zh": "马格尼托哥尔斯克",
+      "int_name": "Magnitogorsk",
+      "alt_name:en": "Magnetogorsk"
+    }
+  },
+  {
+    "name": "Magnitogorsk",
+    "country": "Russia",
+    "latitude": 53.424218399112554,
+    "longitude": 58.983136,
+    "other_names": {
+      "name": "Магнитогорск",
+      "name:ar": "مغنيتاغورسك",
+      "name:ba": "Магнитогорск",
+      "name:be": "Магнитагорск",
+      "name:cs": "Magnitogorsk",
+      "name:de": "Magnitogorsk",
+      "name:en": "Magnitogorsk",
+      "name:eo": "Magnitogorsk",
+      "name:es": "Magnitogorsk",
+      "name:et": "Magnitogorsk",
+      "name:fa": "ماگنیتوگورسک",
+      "name:fi": "Magnitogorsk",
+      "name:fr": "Magnitogorsk",
+      "name:he": "מגניטוגורסק",
+      "name:hy": "Մագնիտոգորսկ",
+      "name:ja": "マグニトゴルスク",
+      "name:ka": "მაგნიტოგორსკი",
+      "name:ko": "마그니토고르스크",
+      "name:ky": "Магнитогорск",
+      "name:lt": "Magnitogorskas",
+      "name:os": "Магнитогорск",
+      "name:pl": "Magnitogorsk",
+      "name:pt": "Magnitogorsk",
+      "name:ru": "Магнитогорск",
+      "name:sr": "Магнитогорск",
+      "name:tt": "Магнитогорск",
+      "name:uk": "Магнітогорськ",
+      "name:uz": "Magnitogorsk",
+      "name:zh": "马格尼托哥尔斯克",
+      "alt_name": "Магнитка",
+      "int_name": "Magnitogorsk",
+      "name:azb": "ماقنیتوقورسک",
+      "name:mhr": "Магнитогорск",
+      "old_name": "Станица Магнитная",
+      "alt_name:en": "Magnetogorsk",
+      "name:ru:word_stress": "Магнитого́рск"
+    }
+  },
+  {
+    "name": "Magtymguly",
+    "country": "Turkmenistan",
+    "latitude": 38.43636530004423,
+    "longitude": 56.2840092,
+    "other_names": {
+      "name": "Magtymguly",
+      "name:ru": "Махтумкули",
+      "name:tk": "Magtymguly",
+      "alt_name": "Garry Gala",
+      "old_name": "Garrygala;Kara Kala;Karakalinsk",
+      "old_name:ru": "Кара-Кала: Каракалинск"
+    }
+  },
+  {
+    "name": "Maguan",
+    "country": "China",
+    "latitude": 23.015639800383422,
+    "longitude": 104.39232049999998,
+    "other_names": {
+      "name": "马关县",
+      "name:en": "Maguan",
+      "name:zh": "马关县",
+      "alt_name": "马关;Maguan County",
+      "name:zh-Hant": "馬關縣"
+    }
+  },
+  {
+    "name": "Magway",
+    "country": "Myanmar",
+    "latitude": 20.14914580037889,
+    "longitude": 94.9213518,
+    "other_names": {
+      "name": "မကွေး",
+      "name:de": "Magwe",
+      "name:en": "Magway",
+      "name:es": "Magway",
+      "name:et": "Magway",
+      "name:fr": "Magwe",
+      "name:hi": "मगवे",
+      "name:ja": "マグウェ",
+      "name:kn": "ಮಾಗ್ವೆ",
+      "name:zh": "马圭",
+      "alt_name": "Magwe"
+    }
+  },
+  {
+    "name": "Mahajanga",
+    "country": "Madagascar",
+    "latitude": -15.718149200423081,
+    "longitude": 46.3172577,
+    "other_names": {
+      "name": "Mahajanga",
+      "name:en": "Mahajanga",
+      "name:fr": "Mahajanga",
+      "name:ko": "마하장가",
+      "name:mg": "Mahajanga",
+      "name:ru": "Махадзанга",
+      "name:uk": "Махадзанга",
+      "old_name": "Majunga",
+      "alt_name:fr": "Majunga"
+    }
+  },
+  {
+    "name": "Mahbubnagar",
+    "country": "India",
+    "latitude": 16.7434538001079,
+    "longitude": 77.99231909999999,
+    "other_names": {
+      "name": "Mahbubnagar",
+      "name:en": "Mahbubnagar",
+      "name:hi": "महबूबनगर",
+      "name:ja": "マフブーブナガル",
+      "name:kn": "ಮಹಬೂಬ್ ನಗರ",
+      "name:ta": "மகபூப்நகர்",
+      "name:te": "మహబూబ్నగర్",
+      "name:ur": "محبوب نگر"
+    }
+  },
+  {
+    "name": "Mahdia",
+    "country": "Tunisia",
+    "latitude": 35.503695199689915,
+    "longitude": 11.0682135,
+    "other_names": {
+      "name": "المهدية",
+      "name:ar": "المهدية",
+      "name:de": "Mahdia",
+      "name:en": "Mahdia",
+      "name:fa": "المهدیه",
+      "name:fr": "Mahdia",
+      "name:ru": "Махдия",
+      "name:ur": "مہدیہ",
+      "name:azb": "المهدیه",
+      "name:ckb": "مەهدیە"
+    }
+  },
+  {
+    "name": "Mahesana",
+    "country": "India",
+    "latitude": 23.60155570035629,
+    "longitude": 72.3867981,
+    "other_names": {
+      "name": "Mahesana",
+      "name:en": "Mahesana",
+      "name:gu": "મહેસાણા",
+      "name:hi": "मेहसाना",
+      "name:kn": "ಮಹೇಸಾಣ",
+      "name:mr": "महेसाणा",
+      "name:pa": "ਮਹਿਸਾਨਾ",
+      "name:ru": "Мехсана",
+      "name:ta": "மஹேஸாணா"
+    }
+  },
+  {
+    "name": "Maheshtala",
+    "country": "India",
+    "latitude": 22.50862100039945,
+    "longitude": 88.25321819999999,
+    "other_names": {
+      "name": "Maheshtala",
+      "name:bn": "মহেশতলা",
+      "name:hi": "महेशतला"
+    }
+  },
+  {
+    "name": "Mahikeng",
+    "country": "South Africa And Lesotho",
+    "latitude": -25.863610999657066,
+    "longitude": 25.658610999999997,
+    "other_names": {
+      "name": "Mahikeng",
+      "name:ko": "마피켕",
+      "name:ru": "Мафикенг",
+      "alt_name": "Mafikeng",
+      "old_name": "Mafeking"
+    }
+  },
+  {
+    "name": "Mahikeng",
+    "country": "South Africa",
+    "latitude": -25.863610999657066,
+    "longitude": 25.658610999999997,
+    "other_names": {
+      "name": "Mahikeng",
+      "name:ko": "마피켕",
+      "name:ru": "Мафикенг",
+      "alt_name": "Mafikeng",
+      "old_name": "Mafeking"
+    }
+  },
+  {
+    "name": "Mahilyow",
+    "country": "Belarus",
+    "latitude": 53.90902449917052,
+    "longitude": 30.3429838,
+    "other_names": {
+      "name": "Могилёв",
+      "name:ar": "موغيلوف",
+      "name:be": "Магілёў",
+      "name:cs": "Mohylev",
+      "name:de": "Mahiljou",
+      "name:en": "Mahilyow",
+      "name:eo": "Mahilovo",
+      "name:es": "Maguilov",
+      "name:et": "Magiljov",
+      "name:fr": "Mahiliow",
+      "name:lt": "Mahiļova",
+      "name:nl": "Mahiljow",
+      "name:pl": "Mohylew",
+      "name:ru": "Могилёв",
+      "name:sk": "Mahiľov",
+      "name:sr": "Могиљов",
+      "name:uk": "Могильов",
+      "int_name": "Mahilioŭ",
+      "name:szl": "Mohylew",
+      "old_name": "Могилёв",
+      "alt_name:ar": "موجيلوف",
+      "old_name:fr": "Moguilev",
+      "old_name:lt": "Mogiliavas (Mogiliovas)",
+      "name:sr-Latn": "Mogiljov"
+    }
+  },
+  {
+    "name": "Mahuva",
+    "country": "India",
+    "latitude": 21.0869055946324,
+    "longitude": 71.76067046103609,
+    "other_names": {
+      "name": "Mahuva"
+    }
+  },
+  {
+    "name": "Maibara",
+    "country": "Japan",
+    "latitude": 35.302483999673626,
+    "longitude": 136.3292136,
+    "other_names": {
+      "name": "米原市",
+      "name:en": "Maibara",
+      "name:fr": "Maibara",
+      "name:ja": "米原市",
+      "name:ko": "마이바라시",
+      "name:pl": "Maibara",
+      "name:ru": "Майбара",
+      "name:uk": "Майбара",
+      "name:ja_rm": "Maibara-shi",
+      "name:ja_kana": "まいばらし"
+    }
+  },
+  {
+    "name": "Maidan Shar",
+    "country": "Afghanistan",
+    "latitude": 34.39312579961711,
+    "longitude": 68.8641053,
+    "other_names": {
+      "name": "میدان ښار",
+      "name:ar": "ميدان شهر",
+      "name:cs": "Mejdán Šahr",
+      "name:el": "Μαϊντάν Σαρ",
+      "name:en": "Maidan Shar",
+      "name:es": "Maidan Shar",
+      "name:fa": "میدان شهر",
+      "name:fr": "Maydan Shahr",
+      "name:hi": "मैदान शार",
+      "name:ja": "マイダーンシャー",
+      "name:lt": "Maidanšaras",
+      "name:ps": "میدان ښار",
+      "name:ru": "Майданшахр",
+      "name:uk": "Майданшахр"
+    }
+  }
+]

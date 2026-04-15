@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Haskovo",
+    "country": "Bulgaria",
+    "latitude": 41.934572700481304,
+    "longitude": 25.555663899999995,
+    "other_names": {
+      "name": "Хасково",
+      "name:bg": "Хасково",
+      "name:ca": "Khàskovo",
+      "name:cs": "Chaskovo",
+      "name:de": "Chaskowo",
+      "name:el": "Χάσκοβο",
+      "name:en": "Haskovo",
+      "name:eo": "Ĥaskovo",
+      "name:et": "Haskovo",
+      "name:fr": "Khaskovo",
+      "name:hr": "Haskovo",
+      "name:lt": "Chaskovas",
+      "name:nl": "Chaskovo",
+      "name:pl": "Chaskowo",
+      "name:pt": "Haskovo",
+      "name:ro": "Haskovo",
+      "name:ru": "Хасково",
+      "name:sk": "Chaskovo",
+      "name:sr": "Хасково",
+      "name:sv": "Chaskovo",
+      "name:tr": "Hasköy",
+      "int_name": "Haskovo",
+      "name:sr-Latn": "Haskovo"
+    }
+  },
+  {
+    "name": "Hassan",
+    "country": "India",
+    "latitude": 13.007081699679981,
+    "longitude": 76.0992703,
+    "other_names": {
+      "name": "Hassan",
+      "name:hi": "हसन",
+      "name:ja": "ハーサン",
+      "name:kn": "ಹಾಸನ",
+      "name:ml": "ഹസൻ",
+      "name:kn:iso15919": "Hāsana"
+    }
+  },
+  {
+    "name": "Hastings",
+    "country": "United States Of America",
+    "latitude": 40.586132200343414,
+    "longitude": -98.3898883,
+    "other_names": {
+      "name": "Hastings"
+    }
+  },
+  {
+    "name": "Hastings",
+    "country": "New Zealand",
+    "latitude": -39.64176780087601,
+    "longitude": 176.84307809999999,
+    "other_names": {
+      "name": "Hastings",
+      "name:en": "Hastings",
+      "name:ja": "ヘイスティングズ",
+      "name:mi": "Heretaunga",
+      "name:mk": "Хејстингс",
+      "name:ru": "Хейстингс",
+      "name:uk": "Хейстінгс",
+      "old_name": "Karamu",
+      "name:etymology": "probably The Right Honourable Warren Hastings"
+    }
+  },
+  {
+    "name": "Hasuda",
+    "country": "Japan",
+    "latitude": 35.99409199973495,
+    "longitude": 139.6632547,
+    "other_names": {
+      "name": "蓮田市",
+      "name:ar": "هاسودا، سايتاما",
+      "name:de": "Hasuda",
+      "name:en": "Hasuda",
+      "name:es": "Hasuda",
+      "name:fr": "Hasuda",
+      "name:ja": "蓮田市",
+      "name:ko": "하스다시",
+      "name:pl": "Hasuda",
+      "name:ru": "Хасуда",
+      "name:uk": "Хасуда",
+      "int_name": "Hasuda"
+    }
+  },
+  {
+    "name": "Hatay",
+    "country": "Turkey",
+    "latitude": 36.20248869975626,
+    "longitude": 36.16027609999999,
+    "other_names": {
+      "name": "Hatay",
+      "name:ar": "هاتاي",
+      "name:el": "Χατάι",
+      "name:en": "Hatay",
+      "name:hi": "हैताय",
+      "name:hy": "Հաթայի մարզ",
+      "name:ka": "ჰათაის პროვინცია",
+      "name:ku": "Xetay",
+      "name:ru": "Хатай",
+      "name:zh": "哈塔伊省",
+      "name:diq": "Xetay"
+    }
+  },
+  {
+    "name": "Hathras",
+    "country": "India",
+    "latitude": 27.59579157184318,
+    "longitude": 78.05058996808447,
+    "other_names": {
+      "name": "Hathras",
+      "name:ja": "ハートラス",
+      "name:ru": "Хатхрас"
+    }
+  },
+  {
+    "name": "Hathras",
+    "country": "India",
+    "latitude": 27.5975887999913,
+    "longitude": 78.0545477,
+    "other_names": {
+      "name": "Hathras",
+      "name:en": "Hathras",
+      "name:he": "הת'רס",
+      "name:hi": "हाथरस",
+      "name:ja": "ハートラス",
+      "name:ru": "Хатхрас",
+      "name:uk": "Хатхрас"
+    }
+  },
+  {
+    "name": "Hà Tiên",
+    "country": "Vietnam",
+    "latitude": 10.382801899458503,
+    "longitude": 104.4859503,
+    "other_names": {
+      "name": "Hà Tiên",
+      "name:en": "Hà Tiên",
+      "name:ko": "하띠엔",
+      "name:ru": "Хатьен",
+      "name:vi": "Hà Tiên",
+      "name:zh": "河仙市社",
+      "official_name": "Thành phố Hà Tiên"
+    }
+  },
+  {
+    "name": "Hà Tĩnh",
+    "country": "Vietnam",
+    "latitude": 18.345274500264004,
+    "longitude": 105.90194819999999,
+    "other_names": {
+      "name": "Hà Tĩnh",
+      "name:cv": "Хатинь",
+      "name:en": "Hà Tĩnh",
+      "name:fa": "ها تین",
+      "name:ja": "ハティン",
+      "name:ko": "하띤시",
+      "name:nl": "Hà Tĩnh",
+      "name:ru": "Хатинь",
+      "name:sr": "Ха Тин",
+      "name:sv": "Ha Tinh",
+      "name:th": "ห่าติ๋ญ",
+      "name:uk": "Хатінь",
+      "name:ur": "ہا تنہ",
+      "name:vi": "Hà Tĩnh",
+      "name:zh": "河靜市"
+    }
+  },
+  {
+    "name": "Hato Mayor del Rey",
+    "country": "Haiti And Domrep",
+    "latitude": 18.763250200297264,
+    "longitude": -69.2571917,
+    "other_names": {
+      "name": "Hato Mayor del Rey",
+      "official_name": "Hato Mayor del Rey"
+    }
+  },
+  {
+    "name": "Hatsukaichi",
+    "country": "Japan",
+    "latitude": 34.34850479961508,
+    "longitude": 132.331833,
+    "other_names": {
+      "name": "廿日市市",
+      "name:ar": "هاتسوکایجي، هیروشیما",
+      "name:de": "Hatsukaichi",
+      "name:en": "Hatsukaichi",
+      "name:es": "Hatsukaichi",
+      "name:eu": "Hatsukaichi",
+      "name:fr": "Hatsukaichi",
+      "name:ja": "廿日市市",
+      "name:ko": "하쓰카이치시",
+      "name:pl": "Hatsukaichi",
+      "name:ru": "Хацукаити",
+      "name:uk": "Хацукаїті",
+      "int_name": "Hatsukaichi",
+      "name:ja_rm": "Hatsukaichi",
+      "name:ja_kana": "はつかいちし"
+    }
+  },
+  {
+    "name": "Hattiesburg",
+    "country": "United States Of America",
+    "latitude": 31.327118899640762,
+    "longitude": -89.29033919999999,
+    "other_names": {
+      "name": "Hattiesburg",
+      "name:ru": "Хаттисберг"
+    }
+  },
+  {
+    "name": "Hatton",
+    "country": "Sri Lanka",
+    "latitude": 6.891633299408401,
+    "longitude": 80.5984591,
+    "other_names": {
+      "name": "Hatton",
+      "name:ru": "Хэттон",
+      "name:si": "හැටන්"
+    }
+  },
+  {
+    "name": "Hat Yai",
+    "country": "Thailand",
+    "latitude": 7.002625699405203,
+    "longitude": 100.45774139999999,
+    "other_names": {
+      "name": "หาดใหญ่",
+      "name:de": "Hat Yai",
+      "name:en": "Hat Yai",
+      "name:et": "Hat Yai",
+      "name:ja": "ハートヤイ",
+      "name:ru": "Хатъяй",
+      "name:th": "หาดใหญ่",
+      "name:uk": "Хатяй",
+      "name:zh": "合艾市",
+      "official_name": "เทศบาลนครหาดใหญ่"
+    }
+  },
+  {
+    "name": "Haugesund",
+    "country": "Norway",
+    "latitude": 59.41382140143325,
+    "longitude": 5.268073499999999,
+    "other_names": {
+      "name": "Haugesund",
+      "name:ru": "Хёугесунн"
+    }
+  },
+  {
+    "name": "Havana",
+    "country": "Cuba",
+    "latitude": 23.135305000378615,
+    "longitude": -82.35896309999998,
+    "other_names": {
+      "name": "La Habana",
+      "name:af": "Havana",
+      "name:am": "ሀቫና",
+      "name:an": "L'Habana",
+      "name:ar": "هافانا",
+      "name:az": "Havana",
+      "name:be": "Гавана",
+      "name:bg": "Хавана",
+      "name:bo": "ཧ་ཝན",
+      "name:br": "La Habana",
+      "name:bs": "Havana",
+      "name:ca": "l'Havana",
+      "name:cs": "Havana",
+      "name:cv": "Гавана",
+      "name:cy": "La Habana",
+      "name:da": "Havana",
+      "name:de": "Havanna",
+      "name:el": "Αβάνα",
+      "name:en": "Havana",
+      "name:eo": "Havano",
+      "name:es": "La Habana",
+      "name:et": "Havanna",
+      "name:eu": "Habana",
+      "name:fa": "هاوانا",
+      "name:fi": "Havanna",
+      "name:fr": "La Havane",
+      "name:fy": "Havana",
+      "name:gd": "Havana",
+      "name:gl": "A Habana",
+      "name:he": "הוואנה",
+      "name:hr": "Havana",
+      "name:ht": "La Avàn",
+      "name:hu": "Havanna",
+      "name:hy": "Հավանա",
+      "name:id": "Havana",
+      "name:io": "Havana",
+      "name:is": "Havana",
+      "name:it": "L'Avana",
+      "name:ja": "ハバナ",
+      "name:ka": "ჰავანა",
+      "name:kn": "ಲಾ ಹಬನ",
+      "name:ko": "아바나",
+      "name:ku": "Havana",
+      "name:kw": "La Habana",
+      "name:la": "Havana",
+      "name:lt": "Havana",
+      "name:lv": "Havana",
+      "name:mk": "Хавана",
+      "name:mr": "हवाना",
+      "name:ms": "Havana",
+      "name:mt": "Ħavana",
+      "name:nl": "Havana",
+      "name:oc": "L'Avana",
+      "name:os": "Гаванæ",
+      "name:pl": "Hawana",
+      "name:pt": "Havana",
+      "name:qu": "La Habana",
+      "name:ro": "Havana",
+      "name:ru": "Гавана",
+      "name:rw": "Havana",
+      "name:sc": "S'Avana",
+      "name:sh": "Havana",
+      "name:sk": "Havana",
+      "name:sl": "Havana",
+      "name:sq": "Havana",
+      "name:sr": "Хавана",
+      "name:sv": "Havanna",
+      "name:sw": "Havana",
+      "name:ta": "அவானா",
+      "name:tg": "Ҳавана",
+      "name:th": "ฮาวานา",
+      "name:tl": "Havana",
+      "name:tr": "Havana",
+      "name:uk": "Гавана",
+      "name:ur": "ہوانا",
+      "name:vi": "La Habana",
+      "name:vo": "La Habana",
+      "name:yo": "Havana",
+      "name:zh": "哈瓦那",
+      "name:ace": "Havana",
+      "name:ang": "Hafana",
+      "name:ast": "L'Habana",
+      "name:bcl": "Habana",
+      "name:ceb": "La Habana",
+      "name:diq": "Havana",
+      "name:ext": "L'Avana",
+      "name:hif": "Havana",
+      "name:lij": "L'Avann-a",
+      "name:lmo": "L'Avana",
+      "name:nah": "La Ahuana",
+      "name:nan": "La Habana",
+      "name:nov": "Havana",
+      "name:pap": "Havana",
+      "name:pms": "L'Avan-a",
+      "name:pnb": "ہوانا",
+      "name:rmy": "La Habana",
+      "name:sah": "Хавана",
+      "name:scn": "L'Avana",
+      "name:sco": "Havana",
+      "name:srn": "Havana",
+      "name:vec": "Ł'Avana",
+      "name:war": "La Habana",
+      "name:yue": "夏灣拿",
+      "name:roa-rup": "La Habana",
+      "name:zh-Hans": "哈瓦那",
+      "name:zh-Hant": "哈瓦那",
+      "name:be-tarask": "Гавана"
+    }
+  },
+  {
+    "name": "Haverhill",
+    "country": "United States Of America",
+    "latitude": 42.77778290052975,
+    "longitude": -71.0767724,
+    "other_names": {
+      "name": "Haverhill"
+    }
+  },
+  {
+    "name": "Hayward",
+    "country": "United States Of America",
+    "latitude": 37.66882049993602,
+    "longitude": -122.08079599999998,
+    "other_names": {
+      "name": "Hayward",
+      "name:en": "Hayward",
+      "name:zh": "海沃德",
+      "name:zh-Hans": "海沃德",
+      "name:zh-Hant": "海沃德"
+    }
+  },
+  {
+    "name": "Hazar",
+    "country": "Turkmenistan",
+    "latitude": 39.40360250018406,
+    "longitude": 53.1259978,
+    "other_names": {
+      "name": "Hazar",
+      "name:en": "Hazar",
+      "name:ru": "Хазар",
+      "name:tk": "Hazar",
+      "old_name": "Cheleken",
+      "old_name:ru": "Челекен",
+      "old_name:tk": "Çeleken"
+    }
+  }
+]

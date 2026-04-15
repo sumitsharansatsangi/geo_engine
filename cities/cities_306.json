@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Minna",
+    "country": "Nigeria",
+    "latitude": 9.6187092994211,
+    "longitude": 6.547575200000001,
+    "other_names": {
+      "name": "Minna",
+      "name:ar": "منا",
+      "name:ko": "민나",
+      "name:ru": "Минна",
+      "name:uk": "Мінна",
+      "alt_name:ar": "مينا"
+    }
+  },
+  {
+    "name": "Minneapolis",
+    "country": "United States Of America",
+    "latitude": 44.9772995004704,
+    "longitude": -93.26546920000001,
+    "other_names": {
+      "name": "Minneapolis",
+      "name:ar": "منيابولس",
+      "name:fa": "مینیاپولیس",
+      "name:hi": "मिन्यापोलिस्",
+      "name:ja": "ミネアポリス",
+      "name:kn": "ಮಿನ್ಯಾಪೋಲಿಸ್",
+      "name:oc": "Minneapòlis",
+      "name:oj": "Gakaabikaang",
+      "name:ru": "Миннеаполис",
+      "name:zh": "明尼阿波利斯",
+      "alt_name:ar": "مينيابولس",
+      "name:zh-Hans": "明尼阿波利斯",
+      "name:zh-Hant": "明尼亞波利斯"
+    }
+  },
+  {
+    "name": "Mino",
+    "country": "Japan",
+    "latitude": 35.54426189969335,
+    "longitude": 136.9075182,
+    "other_names": {
+      "name": "美濃市",
+      "name:en": "Mino",
+      "name:fr": "Mino",
+      "name:ja": "美濃市",
+      "name:ko": "미노시",
+      "name:pl": "Mino",
+      "name:ru": "Мино",
+      "name:uk": "Міно",
+      "name:ja_rm": "Mino",
+      "name:ja_kana": "みのし"
+    }
+  },
+  {
+    "name": "Minoh",
+    "country": "Japan",
+    "latitude": 34.86289799964273,
+    "longitude": 135.475719,
+    "other_names": {
+      "name": "箕面市",
+      "name:ar": "مينوه، أوساكا",
+      "name:de": "Minō",
+      "name:en": "Minoh",
+      "name:es": "Minō",
+      "name:fr": "Minō",
+      "name:ja": "箕面市",
+      "name:ko": "미노오시",
+      "name:pl": "Minō",
+      "name:ru": "Миноо",
+      "name:uk": "Міно",
+      "name:ja_rm": "Minō-shi",
+      "name:ja-Hira": "みのおし"
+    }
+  },
+  {
+    "name": "Minokamo",
+    "country": "Japan",
+    "latitude": 35.44065509968466,
+    "longitude": 137.01550519999998,
+    "other_names": {
+      "name": "美濃加茂市",
+      "name:en": "Minokamo",
+      "name:fr": "Minokamo",
+      "name:ja": "美濃加茂市",
+      "name:ko": "미노카모시",
+      "name:pl": "Minokamo",
+      "name:ru": "Минокамо",
+      "name:uk": "Міно-Камо",
+      "name:ja_rm": "Minokamo-shi",
+      "name:ja_kana": "みのかもし"
+    }
+  },
+  {
+    "name": "Minot",
+    "country": "United States Of America",
+    "latitude": 48.232509999881685,
+    "longitude": -101.296273,
+    "other_names": {
+      "name": "Minot",
+      "name:ru": "Майнот",
+      "name:zh": "邁諾特"
+    }
+  },
+  {
+    "name": "Minqin",
+    "country": "China",
+    "latitude": 38.626481000071735,
+    "longitude": 103.0950181,
+    "other_names": {
+      "name": "民勤县",
+      "name:en": "Minqin",
+      "name:ja": "民勤県",
+      "name:ru": "Миньцинь",
+      "name:vi": "Dân Cần",
+      "name:zh": "民勤县",
+      "alt_name": "民勤;Minqin County;Sanlei",
+      "name:zh-Hant": "民勤縣",
+      "name:zh_pinyin": "mínqín xiàn"
+    }
+  },
+  {
+    "name": "Minqing County",
+    "country": "China",
+    "latitude": 26.22388300014127,
+    "longitude": 118.8590245,
+    "other_names": {
+      "name": "闽清县",
+      "name:en": "Minqing County",
+      "name:fr": "Xian de Minqing",
+      "name:it": "Contea di Minqing",
+      "name:ja": "ビン清県",
+      "name:ko": "민칭현",
+      "name:ru": "Ганьчжэ",
+      "name:vi": "Mân Thanh",
+      "name:zh": "闽清县",
+      "alt_name": "闽清;Minqing County",
+      "name:cdo": "Mìng-chiăng",
+      "name:hak": "Mèn-chhîn-yen",
+      "name:nan": "Bân-chheng-koān",
+      "name:yue": "閩清",
+      "name:zh-Hant": "閩清縣",
+      "name:zh_pinyin": "mǐnqīng xiàn"
+    }
+  },
+  {
+    "name": "Minquan",
+    "country": "China",
+    "latitude": 34.6453667996299,
+    "longitude": 115.13811530000001,
+    "other_names": {
+      "name": "民权县",
+      "name:en": "Minquan",
+      "name:zh": "民权县",
+      "alt_name": "民权;Minquan County",
+      "name:zh-Hant": "民權縣"
+    }
+  },
+  {
+    "name": "Minsk",
+    "country": "Belarus",
+    "latitude": 53.90233399916951,
+    "longitude": 27.561879099999995,
+    "other_names": {
+      "name": "Минск",
+      "name:ar": "مينسك",
+      "name:be": "Мінск",
+      "name:bg": "Минск",
+      "name:bo": "མིན་སིཀ།",
+      "name:cs": "Minsk",
+      "name:cu": "Мѣньскъ",
+      "name:cv": "Минск",
+      "name:de": "Minsk",
+      "name:el": "Μινσκ",
+      "name:en": "Minsk",
+      "name:eo": "Minsko",
+      "name:es": "Minsk",
+      "name:et": "Minsk",
+      "name:fa": "مینسک",
+      "name:fi": "Minsk",
+      "name:fr": "Minsk",
+      "name:ga": "Minsc",
+      "name:gl": "Minsk",
+      "name:he": "מינסק",
+      "name:hi": "मिन्‍स्‍क",
+      "name:hr": "Minsk",
+      "name:hu": "Minszk",
+      "name:hy": "Մինսկ",
+      "name:ia": "Minsk",
+      "name:io": "Minsk",
+      "name:is": "Minsk",
+      "name:it": "Minsk",
+      "name:ja": "ミンスク",
+      "name:ka": "მინსკი",
+      "name:kk": "Минск",
+      "name:kn": "ಮಿನ್ಸ್ಕ್",
+      "name:ko": "민스크",
+      "name:ku": "Mînsk",
+      "name:kv": "Минск",
+      "name:ky": "Минск",
+      "name:la": "Minscum",
+      "name:lt": "Minskas",
+      "name:lv": "Minska",
+      "name:mk": "Минск",
+      "name:ml": "മിൻസ്ക്",
+      "name:mr": "मिन्‍स्‍क",
+      "name:nl": "Minsk",
+      "name:no": "Minsk",
+      "name:oc": "Minsk",
+      "name:os": "Минск",
+      "name:pl": "Mińsk",
+      "name:pt": "Minsk",
+      "name:ru": "Минск",
+      "name:sk": "Minsk",
+      "name:sl": "Minsk",
+      "name:sr": "Минск",
+      "name:sv": "Minsk",
+      "name:ta": "மின்ஸ்க்",
+      "name:tg": "Минск",
+      "name:th": "มินสก์",
+      "name:tt": "Минск",
+      "name:ug": "مىنىسكى",
+      "name:uk": "Мінськ",
+      "name:ur": "منسک",
+      "name:vi": "Minxcơ",
+      "name:vo": "Minsk",
+      "name:yi": "מינסק",
+      "name:zh": "明斯克",
+      "int_name": "Minsk",
+      "name:ast": "Minsk",
+      "name:ckb": "مینسک",
+      "name:csb": "Mińsk",
+      "name:jbo": "misk",
+      "name:mhr": "Минск",
+      "name:myv": "Минск ош",
+      "name:nds": "Minsk",
+      "name:pnb": "منسک",
+      "name:rue": "Мінск",
+      "name:sah": "Минскай",
+      "name:szl": "Mińsk",
+      "name:udm": "Минск",
+      "name:wuu": "明斯克",
+      "nat_name": "Мінск",
+      "old_name": "Менск",
+      "alt_name:be": "Менск",
+      "alt_name:gl": "Мінск",
+      "alt_name:vi": "Minsk;Minxcơva",
+      "old_name:be": "Менск",
+      "name:bat-smg": "Minsks",
+      "name:sr-Latn": "Minsk",
+      "name:be-tarask": "Менск"
+    }
+  },
+  {
+    "name": "Min Su",
+    "country": "Myanmar",
+    "latitude": 21.510740752397105,
+    "longitude": 96.13162770187934,
+    "other_names": {
+      "name": "Min Su"
+    }
+  },
+  {
+    "name": "Miragoane",
+    "country": "Haiti And Domrep",
+    "latitude": 18.44484250027225,
+    "longitude": -73.0886392,
+    "other_names": {
+      "name": "Miragoâne",
+      "name:en": "Miragoane",
+      "name:fr": "Miragoâne",
+      "name:ht": "Miragwàn"
+    }
+  },
+  {
+    "name": "Miramar",
+    "country": "United States Of America",
+    "latitude": 25.987313700165526,
+    "longitude": -80.23227059999999,
+    "other_names": {
+      "name": "Miramar"
+    }
+  },
+  {
+    "name": "Miramichi",
+    "country": "Canada",
+    "latitude": 47.032695000154526,
+    "longitude": -65.494995,
+    "other_names": {
+      "name": "Miramichi"
+    }
+  },
+  {
+    "name": "Miranda do Douro",
+    "country": "Portugal",
+    "latitude": 41.50008160044389,
+    "longitude": -6.271330999999999,
+    "other_names": {
+      "name": "Miranda do Douro",
+      "name:lt": "Miranda do Doras",
+      "name:pt": "Miranda do Douro",
+      "name:uk": "Міранда-ду-Дору",
+      "name:mwl": "Miranda de l Douro"
+    }
+  },
+  {
+    "name": "Mirandela",
+    "country": "Portugal",
+    "latitude": 41.48961500044292,
+    "longitude": -7.177479199999999,
+    "other_names": {
+      "name": "Mirandela",
+      "name:ru": "Мирандела",
+      "name:uk": "Мірандела"
+    }
+  },
+  {
+    "name": "Miri",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 4.391317299553903,
+    "longitude": 113.9870128,
+    "other_names": {
+      "name": "Miri",
+      "name:en": "Miri",
+      "name:zh": "美里"
+    }
+  },
+  {
+    "name": "Mirpur",
+    "country": "Pakistan",
+    "latitude": 33.14863509958747,
+    "longitude": 73.7482102,
+    "other_names": {
+      "name": "میرپور",
+      "name:ar": "مير بور",
+      "name:de": "Mirpur",
+      "name:en": "Mirpur",
+      "name:es": "Mirpur",
+      "name:fr": "Mirpur",
+      "name:hi": "मीरपुर",
+      "name:ja": "ミルプル",
+      "name:ru": "Мирпур",
+      "name:ur": "میرپور",
+      "alt_name": "New Mirpur City"
+    }
+  },
+  {
+    "name": "Mirpur Khas",
+    "country": "Pakistan",
+    "latitude": 25.526281700210635,
+    "longitude": 69.01106169999998,
+    "other_names": {
+      "name": "ميرپورخاص",
+      "name:ar": "ميربور خاص",
+      "name:de": "Mirpur Khas",
+      "name:en": "Mirpur Khas",
+      "name:es": "Mirpur Khas",
+      "name:et": "Mīrpur Khās",
+      "name:fr": "Mirpur Khas",
+      "name:hi": "मीरपुर खास",
+      "name:ja": "ミールプル・ハース",
+      "name:kn": "ಮಿರ್ಪುರ್ ಖಾಸ್",
+      "name:ru": "Мирпур-Хас",
+      "name:sd": "میرپور خاص",
+      "name:sr": "Мирпур Хас",
+      "name:ur": "میرپور خاص",
+      "alt_name": "Mirpurkhas"
+    }
+  },
+  {
+    "name": "Mirpur Mathelo",
+    "country": "Pakistan",
+    "latitude": 28.02246849994374,
+    "longitude": 69.55215530000001,
+    "other_names": {
+      "name": "میرپور ماتھیلو",
+      "name:en": "Mirpur Mathelo",
+      "name:ru": "Мирпурматхело"
+    }
+  }
+]

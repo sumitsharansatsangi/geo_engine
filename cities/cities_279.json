@@ -1,0 +1,418 @@
+[
+  {
+    "name": "Ludian",
+    "country": "China",
+    "latitude": 27.190610800036758,
+    "longitude": 103.5538604,
+    "other_names": {
+      "name": "鲁甸县",
+      "name:en": "Ludian",
+      "name:zh": "鲁甸县",
+      "alt_name": "鲁甸;Ludian County",
+      "name:zh-Hant": "魯甸縣"
+    }
+  },
+  {
+    "name": "Luding",
+    "country": "China",
+    "latitude": 29.91389139974752,
+    "longitude": 102.2323512,
+    "other_names": {
+      "name": "泸定县",
+      "name:en": "Luding",
+      "name:vi": "Lô Định",
+      "name:zh": "泸定县",
+      "alt_name": "泸定;Jagsamka Xian;Luding Xian;Lu-ting Hsien",
+      "name:zh-Hant": "瀘定縣",
+      "name:zh_pinyin": "Lúdìng Xiàn"
+    }
+  },
+  {
+    "name": "Ludwigshafen am Rhein",
+    "country": "Germany",
+    "latitude": 49.47041129957688,
+    "longitude": 8.438156799999998,
+    "other_names": {
+      "name": "Ludwigshafen am Rhein",
+      "name:de": "Ludwigshafen am Rhein",
+      "name:la": "Ludovici Portus Rhenanus",
+      "name:ru": "Людвигсхафен-на-Рейне",
+      "name:sr": "Лудвигсхафен на Рајни",
+      "name:zh": "路德维希港",
+      "alt_name": "Ludwigshafen",
+      "name:pfl": "Ludwichshafe",
+      "name:zh-Hans": "路德维希港",
+      "name:zh-Hant": "路德維希港"
+    }
+  },
+  {
+    "name": "Luena",
+    "country": "Angola",
+    "latitude": -11.779035500089847,
+    "longitude": 19.9122676,
+    "other_names": {
+      "name": "Luena",
+      "name:de": "Luena",
+      "name:el": "Λουένα",
+      "name:en": "Luena",
+      "name:es": "Luena",
+      "name:fr": "Luena",
+      "name:it": "Luena",
+      "name:ko": "루에나",
+      "name:nl": "Luena",
+      "name:pl": "Luena",
+      "name:pt": "Luena",
+      "name:ru": "Луена",
+      "name:uk": "Луена",
+      "old_name": "Luso",
+      "old_name:de": "Luso",
+      "old_name:en": "Luso",
+      "old_name:es": "Luso",
+      "old_name:fr": "Luso",
+      "old_name:it": "Luso",
+      "old_name:nl": "Luso",
+      "old_name:pl": "Luso",
+      "old_name:pt": "Luso",
+      "old_name:ru": "Лузо"
+    }
+  },
+  {
+    "name": "Lüeyang",
+    "country": "China",
+    "latitude": 33.330371699588326,
+    "longitude": 106.1489807,
+    "other_names": {
+      "name": "略阳县",
+      "name:en": "Lüeyang",
+      "name:ja": "略陽県",
+      "name:zh": "略阳县",
+      "alt_name": "Lueyang",
+      "name:zh-Hant": "略陽縣",
+      "name:zh_pinyin": "Lüèyáng Xiàn"
+    }
+  },
+  {
+    "name": "Lufeng",
+    "country": "China",
+    "latitude": 25.152434600244774,
+    "longitude": 102.0772106,
+    "other_names": {
+      "name": "禄丰市",
+      "name:en": "Lufeng",
+      "name:vi": "Lộc Phong",
+      "name:zh": "禄丰市",
+      "alt_name": "禄丰县;Lu-feng Hsien;Lufeng County",
+      "name:zh-Hant": "祿豐市",
+      "name:zh_pinyin": "Lufeng Xian"
+    }
+  },
+  {
+    "name": "Lufeng",
+    "country": "China",
+    "latitude": 22.945588100386054,
+    "longitude": 115.6407142,
+    "other_names": {
+      "name": "陆丰市",
+      "name:ar": "لوفانغ",
+      "name:cs": "Lu-feng",
+      "name:de": "Lufeng",
+      "name:en": "Lufeng",
+      "name:es": "Lufeng",
+      "name:fa": "لوفنگ، گوانگ‌دونگ",
+      "name:fr": "Lufeng",
+      "name:it": "Lufeng",
+      "name:ja": "陸豊市",
+      "name:ki": "Lufeng",
+      "name:ko": "루펑시",
+      "name:no": "Lufeng",
+      "name:ru": "Дунхай",
+      "name:sv": "Lufeng, Shanwei",
+      "name:ur": "لوفینگ، گوانگڈونگ",
+      "name:vi": "Lục Phong",
+      "name:zh": "陆丰市",
+      "alt_name": "陆丰;Lufeng City",
+      "int_name": "Lùfēng",
+      "name:hak": "Liu̍k-fûng-sṳ",
+      "name:mwl": "Lufeng",
+      "name:nan": "Lio̍k-hong-chhī",
+      "name:pam": "Lufeng",
+      "name:pnb": "لوفینگ",
+      "name:yue": "陸豐",
+      "name:zh-Hant": "陸豐市",
+      "name:zh_pinyin": "Lùfēng Shì"
+    }
+  },
+  {
+    "name": "Lufkin",
+    "country": "United States Of America",
+    "latitude": 31.338624199640105,
+    "longitude": -94.72885579999999,
+    "other_names": {
+      "name": "Lufkin",
+      "name:ru": "Лафкин"
+    }
+  },
+  {
+    "name": "Luganville",
+    "country": "Vanuatu",
+    "latitude": -15.512110700411824,
+    "longitude": 167.17844139999997,
+    "other_names": {
+      "name": "Luganville",
+      "name:lt": "Luganvilis",
+      "name:ru": "Люганвиль"
+    }
+  },
+  {
+    "name": "Lugo",
+    "country": "Spain",
+    "latitude": 43.01184370053685,
+    "longitude": -7.5565749,
+    "other_names": {
+      "name": "Lugo",
+      "name:ar": "لوغو",
+      "name:be": "Луга",
+      "name:ca": "Lugo",
+      "name:el": "Λούγο",
+      "name:gl": "Lugo",
+      "name:lt": "Lugas",
+      "name:ru": "Луго",
+      "alt_name:ar": "لوجو",
+      "name:zh-Hans": "卢戈",
+      "name:zh-Hant": "盧戈"
+    }
+  },
+  {
+    "name": "Lugoj",
+    "country": "Romania",
+    "latitude": 45.68625420038835,
+    "longitude": 21.9063162,
+    "other_names": {
+      "name": "Lugoj",
+      "name:de": "Lugosch",
+      "name:hu": "Lugos",
+      "name:ru": "Лугож",
+      "name:sr": "Лугож",
+      "name:uk": "Лугож"
+    }
+  },
+  {
+    "name": "Luhansk",
+    "country": "Ukraine",
+    "latitude": 48.571708399798474,
+    "longitude": 39.2973153,
+    "other_names": {
+      "name": "Луганськ",
+      "name:az": "Luqansk",
+      "name:be": "Луганск",
+      "name:bg": "Луганск",
+      "name:ca": "Luhansk",
+      "name:cs": "Luhansk",
+      "name:da": "Luhansk",
+      "name:de": "Luhansk",
+      "name:en": "Luhansk",
+      "name:eo": "Luhansko",
+      "name:es": "Luhansk",
+      "name:et": "Lugansk",
+      "name:eu": "Lugansk",
+      "name:fa": "لوهانسک",
+      "name:fi": "Luhansk",
+      "name:fr": "Louhansk",
+      "name:gl": "Lugansk",
+      "name:he": "לוהנסק",
+      "name:hr": "Lugansk",
+      "name:hu": "Luhanszk",
+      "name:hy": "Լուգանսկ",
+      "name:id": "Luhansk",
+      "name:it": "Luhans'k",
+      "name:ja": "ルハーンシク",
+      "name:ka": "ლუგანსკი",
+      "name:kl": "Luhansk",
+      "name:ko": "루한시크",
+      "name:lt": "Luganskas",
+      "name:lv": "Luganska",
+      "name:mk": "Луганск",
+      "name:mn": "Луганск",
+      "name:nl": "Loehansk",
+      "name:nn": "Luhansk",
+      "name:no": "Luhansk",
+      "name:os": "Луганск",
+      "name:pl": "Ługańsk",
+      "name:pt": "Luhansk",
+      "name:ro": "Luhansk",
+      "name:ru": "Луганск",
+      "name:sk": "Luhansk",
+      "name:sr": "Луганск",
+      "name:sv": "Luhansk",
+      "name:tr": "Lugansk",
+      "name:uk": "Луганськ",
+      "name:vi": "Luhansk",
+      "name:vo": "Luhansk",
+      "name:zh": "卢甘斯克",
+      "name:crh": "Lugansk",
+      "name:hsb": "Lugansk",
+      "name:pnb": "لوہانسک",
+      "name:rue": "Луганьск",
+      "name:sco": "Luhansk",
+      "name:szl": "Łuhańsk",
+      "name:war": "Luhansk",
+      "nat_name": "Луганськ",
+      "old_name": "Ворошиловград",
+      "alt_name:eo": "Lugansko",
+      "old_name:uk": "Ворошиловград",
+      "name:fiu-vro": "Lugansk",
+      "name:be-tarask": "Луганскае"
+    }
+  },
+  {
+    "name": "Luhe",
+    "country": "China",
+    "latitude": 32.35198249959739,
+    "longitude": 118.84013600000002,
+    "other_names": {
+      "name": "六合区",
+      "name:de": "Luhe",
+      "name:en": "Luhe",
+      "name:eu": "Luhe",
+      "name:fr": "Luhe",
+      "name:id": "Luhe",
+      "name:it": "Luhe",
+      "name:ja": "六合区",
+      "name:ko": "루허구",
+      "name:no": "Luhe",
+      "name:ru": "Лухэ",
+      "name:sv": "Luhe",
+      "name:ur": "لوہے ضلع",
+      "name:vi": "Lục Hợp",
+      "name:zh": "六合区",
+      "name:nan": "Lio̍k-ha̍p-khu",
+      "name:yue": "六合區",
+      "name:zh-Hant": "六合區",
+      "name:zh_pinyin": "Luhe Qu"
+    }
+  },
+  {
+    "name": "Luhe",
+    "country": "China",
+    "latitude": 23.30449520037117,
+    "longitude": 115.65531570000002,
+    "other_names": {
+      "name": "陆河县",
+      "name:en": "Luhe",
+      "name:vi": "Lục Hà",
+      "name:zh": "陆河县",
+      "alt_name": "陆河;Luhe County",
+      "name:zh-Hant": "陸河縣",
+      "name:zh_pinyin": "Lùhé Xiàn"
+    }
+  },
+  {
+    "name": "Luhuo",
+    "country": "China",
+    "latitude": 31.395970199636853,
+    "longitude": 100.67516549999999,
+    "other_names": {
+      "name": "炉霍县",
+      "name:en": "Luhuo",
+      "name:zh": "炉霍县",
+      "alt_name": "炉霍;Luhuo County;Drango",
+      "name:zh-Hant": "爐霍縣"
+    }
+  },
+  {
+    "name": "Luján",
+    "country": "Argentina",
+    "latitude": -34.566173399798956,
+    "longitude": -59.11525979999999,
+    "other_names": {
+      "name": "Luján"
+    }
+  },
+  {
+    "name": "Lujiang",
+    "country": "China",
+    "latitude": 31.25809889964482,
+    "longitude": 117.28174590000002,
+    "other_names": {
+      "name": "庐江县",
+      "name:ar": "لو جيانغ مقاطعة",
+      "name:de": "Lujiang",
+      "name:en": "Lujiang",
+      "name:eo": "Lujiang",
+      "name:es": "Lujiang",
+      "name:fr": "Lujiang",
+      "name:it": "Lujiang",
+      "name:ja": "廬江県",
+      "name:ko": "루장 현",
+      "name:pt": "Lujiang",
+      "name:sv": "Lujiang",
+      "name:vi": "Lư Giang",
+      "name:zh": "庐江县",
+      "alt_name": "庐江;Lujiang County",
+      "name:lzh": "廬江縣",
+      "old_name": "舒县;庐江郡;潜县;庐城;舒王国",
+      "name:zh-Hant": "廬江縣",
+      "name:zh_pinyin": "Lú Jiāng Xiàn"
+    }
+  },
+  {
+    "name": "Lukou",
+    "country": "China",
+    "latitude": 27.700979399979705,
+    "longitude": 113.1380117,
+    "other_names": {
+      "name": "渌口区",
+      "name:de": "Lukou",
+      "name:en": "Lukou",
+      "name:es": "Lukou",
+      "name:fr": "Xian de Zhuzhou",
+      "name:it": "Distretto di Lukou",
+      "name:ja": "ロク口区",
+      "name:ko": "루커우구",
+      "name:no": "Zhuzhou",
+      "name:ru": "Лукоу",
+      "name:sv": "Zhuzhou",
+      "name:vi": "Lục Khẩu",
+      "name:zh": "渌口区",
+      "alt_name": "渌口;Lukou District",
+      "name:ceb": "Zhuzhou Xian",
+      "name:hak": "Chu-chû-yen",
+      "name:nan": "Chu-chiu-koān",
+      "name:yue": "淥口",
+      "old_name": "株洲县;Zhuzhou;Zhuzhou County",
+      "name:zh-Hant": "淥口區",
+      "name:zh_pinyin": "Lùkǒu Qū"
+    }
+  },
+  {
+    "name": "Luleå",
+    "country": "Sweden",
+    "latitude": 65.58311869822428,
+    "longitude": 22.1459535,
+    "other_names": {
+      "name": "Luleå",
+      "name:fi": "Luulaja",
+      "name:lt": "Liuleo",
+      "name:ru": "Лулео",
+      "name:sr": "Лулео",
+      "name:sv": "Luleå"
+    }
+  },
+  {
+    "name": "Luliang",
+    "country": "China",
+    "latitude": 25.0314329002553,
+    "longitude": 103.66227749999999,
+    "other_names": {
+      "name": "陆良县",
+      "name:en": "Luliang",
+      "name:ru": "Чжуншу",
+      "name:vi": "Lục Lương",
+      "name:zh": "陆良县",
+      "alt_name": "陆良县;陆良;中枢镇",
+      "int_name": "Luliang",
+      "name:zh-Hant": "陸良縣",
+      "name:zh_pinyin": "Lìuliáng Xiàn"
+    }
+  }
+]

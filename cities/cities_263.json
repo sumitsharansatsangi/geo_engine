@@ -1,0 +1,360 @@
+[
+  {
+    "name": "Lhasa",
+    "country": "China",
+    "latitude": 29.655389499771644,
+    "longitude": 91.1704736,
+    "other_names": {
+      "name": "拉萨市",
+      "name:ar": "لاس",
+      "name:bo": "ལྷ་ས",
+      "name:ca": "Lhasa",
+      "name:cs": "Lhasa",
+      "name:da": "Lhasa",
+      "name:de": "Lhasa",
+      "name:en": "Lhasa",
+      "name:eo": "Lasao",
+      "name:et": "Lhasa",
+      "name:fa": "لهاسا",
+      "name:fr": "Lhassa",
+      "name:hi": "ल्हासा",
+      "name:ja": "拉薩(ラサ)",
+      "name:kn": "ಲಾಸ",
+      "name:ko": "라싸 시",
+      "name:ml": "ലാസാ",
+      "name:pt": "Lassa",
+      "name:ru": "Лхаса",
+      "name:si": "ལྷ་ས",
+      "name:sk": "Lhasa",
+      "name:sv": "Lhasa",
+      "name:vi": "Lhasa",
+      "name:zh": "拉萨市",
+      "alt_name": "拉萨;Lhasa City",
+      "int_name": "Lhasa",
+      "alt_name:vi": "Lạp Tát",
+      "name:zh-Hant": "拉薩市",
+      "name:zh_pinyin": "Lāsà Shì"
+    }
+  },
+  {
+    "name": "Lhatse",
+    "country": "China",
+    "latitude": 29.093192099827732,
+    "longitude": 87.6373827,
+    "other_names": {
+      "name": "拉孜县",
+      "name:bo": "ལྷ་རྩེ་རྫོང་",
+      "name:de": "Lhaze",
+      "name:en": "Lhatse",
+      "name:vi": "Lhazê",
+      "name:zh": "拉孜县",
+      "alt_name": "Lazi;拉孜;La-tzu Hsien;Lazi County;Lhazê",
+      "int_name": "Lhazê",
+      "alt_name:vi": "Lạp Tư",
+      "name:zh-Hant": "拉孜縣",
+      "name:zh_pinyin": "lāzī xiàn"
+    }
+  },
+  {
+    "name": "Lhokseumawe",
+    "country": "Indonesia",
+    "latitude": 5.178965899494172,
+    "longitude": 97.1480544,
+    "other_names": {
+      "name": "Lhokseumawe",
+      "name:en": "Lhokseumawe",
+      "name:ja": "ロークスマウェ",
+      "name:lt": "Lhokseumavė",
+      "name:ru": "Лхоксёмаве",
+      "name:zh": "司马威"
+    }
+  },
+  {
+    "name": "Lhorong",
+    "country": "China",
+    "latitude": 30.744286699679012,
+    "longitude": 95.82389319999999,
+    "other_names": {
+      "name": "洛隆县",
+      "name:bo": "ལྷོ་རོང་",
+      "name:en": "Lhorong",
+      "name:ja": "ロロン県",
+      "name:ru": "Лхоронг",
+      "name:uk": "Лхоронг",
+      "name:vi": "Lhorong",
+      "name:zh": "洛隆县",
+      "alt_name": "Luolong;洛隆;Lhorong Xian;Lo-lung Hsien;Luolong Xian",
+      "alt_name:vi": "Lạc Long",
+      "name:zh-Hant": "洛隆縣",
+      "name:zh_pinyin": "Luòlóng Xiàn"
+    }
+  },
+  {
+    "name": "l'Hospitalet de Llobregat",
+    "country": "Spain",
+    "latitude": 41.35986010043029,
+    "longitude": 2.0997926999999996,
+    "other_names": {
+      "name": "l'Hospitalet de Llobregat",
+      "name:ca": "l'Hospitalet de Llobregat",
+      "name:el": "Οσπιταλέτ ντε Λιοβρεγάτ",
+      "name:ru": "Оспиталет-де-Льобрегат",
+      "name:sr": "Лоспиталет де Љобрегат",
+      "old_name:es": "Hospitalet de Llobregat"
+    }
+  },
+  {
+    "name": "Lhozhag",
+    "country": "China",
+    "latitude": 28.38930959990309,
+    "longitude": 90.8587825,
+    "other_names": {
+      "name": "洛扎县",
+      "name:bo": "ལྷོ་བྲག་རྫོང་",
+      "name:en": "Lhozhag",
+      "name:zh": "洛扎县",
+      "alt_name": "洛扎镇;嘎波;洛扎县;洛扎;Gabo;Towa Dzong;To-wa-ch'eng;To-tsung;Ka-po;To-hua;Garbo;Lo-jo;Luozha;To;Lo-cha;Lhodrak",
+      "name:zh-Hant": "洛扎縣",
+      "name:zh_pinyin": "Luòzhā Xiàn"
+    }
+  },
+  {
+    "name": "Lhünzê",
+    "country": "China",
+    "latitude": 28.41236649990055,
+    "longitude": 92.4637663,
+    "other_names": {
+      "name": "隆子县",
+      "name:bo": "ལྷུན་རྩེ",
+      "name:en": "Lhünzê",
+      "name:ru": "Гьитанг",
+      "name:zh": "隆子县",
+      "alt_name": "隆子县;隆子;Lhunze",
+      "int_name": "Lhunze",
+      "alt_name:en": "Lhontse Dzong",
+      "name:zh-Hant": "隆子縣",
+      "name:zh_pinyin": "Lóngzǐ Xiàn"
+    }
+  },
+  {
+    "name": "Lhünzhub",
+    "country": "China",
+    "latitude": 29.896550599749094,
+    "longitude": 91.2616216,
+    "other_names": {
+      "name": "林周县",
+      "name:bo": "ལྷུན་གྲུབ",
+      "name:en": "Lhünzhub",
+      "name:zh": "林周县",
+      "alt_name": "林周;Lhunzhub County;Lin-chou Hsien;Linzhou County;Lhündrup",
+      "name:zh-Hant": "林周縣",
+      "name:zh_pinyin": "Línzhōu Xiàn"
+    }
+  },
+  {
+    "name": "Li",
+    "country": "China",
+    "latitude": 31.438423999634523,
+    "longitude": 103.16579309999999,
+    "other_names": {
+      "name": "理县",
+      "name:en": "Li",
+      "name:zh": "理县",
+      "alt_name": "理;Lixian;Li Xian;Li Hsien;Li County",
+      "name:zh-Hant": "理縣"
+    }
+  },
+  {
+    "name": "Li",
+    "country": "China",
+    "latitude": 38.48644550005147,
+    "longitude": 115.57752719999998,
+    "other_names": {
+      "name": "蠡县",
+      "name:en": "Li",
+      "name:vi": "Lễ",
+      "name:zh": "蠡县",
+      "alt_name": "蠡;Li;Lixian;Li County",
+      "name:zh-Hant": "蠡縣",
+      "name:zh_pinyin": "Li Xian"
+    }
+  },
+  {
+    "name": "Liancheng",
+    "country": "China",
+    "latitude": 25.71255730019278,
+    "longitude": 116.74956,
+    "other_names": {
+      "name": "连城县",
+      "name:de": "Liancheng",
+      "name:en": "Liancheng",
+      "name:es": "Liánchéng",
+      "name:fa": "شهرستان لیانچنگ",
+      "name:fr": "Liancheng",
+      "name:it": "Liancheng",
+      "name:ja": "連城県",
+      "name:ko": "롄청현",
+      "name:no": "Liancheng",
+      "name:sv": "Liancheng",
+      "name:vi": "Liên Thành",
+      "name:zh": "连城县",
+      "alt_name": "连城;Liancheng County",
+      "name:cdo": "Lièng-siàng",
+      "name:ceb": "Liancheng",
+      "name:hak": "Lièn-sàng-yen",
+      "name:mwl": "Liancheng",
+      "name:nan": "Liân-siâⁿ-koān",
+      "name:yue": "連城",
+      "name:zh-Hant": "連城縣",
+      "name:zh_pinyin": "Liánchéng Xiàn"
+    }
+  },
+  {
+    "name": "Liandu District",
+    "country": "China",
+    "latitude": 28.44959409989647,
+    "longitude": 119.90796029999998,
+    "other_names": {
+      "name": "莲都区",
+      "name:de": "Liandu",
+      "name:en": "Liandu District",
+      "name:fr": "District de Liandu",
+      "name:it": "Distretto di Liandu",
+      "name:ja": "蓮都区",
+      "name:ko": "롄두구",
+      "name:no": "Liandu",
+      "name:ru": "Ляньду",
+      "name:sv": "Liandu",
+      "name:ur": "لیاندو ضلع",
+      "name:vi": "Liên Đô",
+      "name:zh": "莲都区",
+      "name:ceb": "Liandu Qu",
+      "name:nan": "Liân-to͘-khu",
+      "name:wuu": "莲都区",
+      "name:yue": "蓮都區",
+      "name:zh-Hant": "蓮都區",
+      "name:zh_pinyin": "Liándū Qū"
+    }
+  },
+  {
+    "name": "Liangcheng",
+    "country": "China",
+    "latitude": 40.532634900336774,
+    "longitude": 112.4913908,
+    "other_names": {
+      "name": "凉城县",
+      "name:en": "Liangcheng",
+      "name:ja": "涼城県",
+      "name:ru": "Лянчэн",
+      "name:zh": "凉城县",
+      "name:zh-Hant": "涼城縣"
+    }
+  },
+  {
+    "name": "Liangdang",
+    "country": "China",
+    "latitude": 33.90997319959897,
+    "longitude": 106.30199469999998,
+    "other_names": {
+      "name": "两当县",
+      "name:en": "Liangdang",
+      "name:ja": "両当県",
+      "name:zh": "两当",
+      "alt_name": "两当县;Liangdang County",
+      "name:zh-Hant": "兩當縣",
+      "name:zh_pinyin": "liǎngdāng xiàn"
+    }
+  },
+  {
+    "name": "Lianghe",
+    "country": "China",
+    "latitude": 24.808948600273922,
+    "longitude": 98.29516810000001,
+    "other_names": {
+      "name": "梁河县",
+      "name:en": "Lianghe",
+      "name:vi": "Lương Hà",
+      "name:zh": "梁河县",
+      "alt_name": "梁河县;梁河;遮岛镇",
+      "name:kac": "Lengho Ginwang",
+      "name:zh-Hant": "梁河縣",
+      "name:tai_tainua": "ᥔᥦᥢᥱ ᥛᥫᥒᥰ ᥖᥤᥰ"
+    }
+  },
+  {
+    "name": "Liangjiang New Area",
+    "country": "China",
+    "latitude": 29.64523349977262,
+    "longitude": 106.56247939999999,
+    "other_names": {
+      "name": "两江新区",
+      "name:en": "Liangjiang New Area",
+      "name:zh": "两江新区",
+      "alt_name": "两江;Liangjiang",
+      "name:zh-Hant": "兩江新區"
+    }
+  },
+  {
+    "name": "Liangping",
+    "country": "China",
+    "latitude": 30.655109199685622,
+    "longitude": 107.76517589999999,
+    "other_names": {
+      "name": "梁平区",
+      "name:en": "Liangping",
+      "name:vi": "Lương Bình",
+      "name:zh": "梁平区",
+      "name:zh-Hant": "梁平區",
+      "name:zh_pinyin": "Liangping Qu"
+    }
+  },
+  {
+    "name": "Liangqing",
+    "country": "China",
+    "latitude": 22.738888300393054,
+    "longitude": 108.34371259999999,
+    "other_names": {
+      "name": "良庆区",
+      "name:en": "Liangqing",
+      "name:zh": "良庆区",
+      "alt_name": "良庆;Liangqing District",
+      "name:yue": "良庆区",
+      "name:zh-Hant": "良慶區",
+      "name:yue-Latn": "Loenghing-kyu"
+    }
+  },
+  {
+    "name": "Liangshan",
+    "country": "China",
+    "latitude": 27.884981399959088,
+    "longitude": 102.26573949999998,
+    "other_names": {
+      "name": "凉山州",
+      "name:en": "Liangshan",
+      "name:uk": "Ляншань-Їйська автономна область",
+      "name:vi": "Lương Sơn",
+      "name:zh": "凉山州",
+      "alt_name": "凉山;Liangshan Yi Autonomous Chou;Liang-shan I Autonomous Chou;Liang-shan-i-tsu Tzu-chih-chou;Liang-shan Yi Autonomous District;Liangshan Yizu Zizhizhou",
+      "short_name": "凉山州",
+      "name:zh-Hant": "涼山州",
+      "official_name": "凉山彝族自治州",
+      "name:zh_pinyin": "Liangshan Yizu Zizhizhou"
+    }
+  },
+  {
+    "name": "Liangshan",
+    "country": "China",
+    "latitude": 35.76608569971309,
+    "longitude": 116.1258857,
+    "other_names": {
+      "name": "梁山县",
+      "name:en": "Liangshan",
+      "name:ko": "량산현",
+      "name:uk": "Ляньшань повіт",
+      "name:vi": "Lương Sơn",
+      "name:zh": "梁山县",
+      "name:zh-Hant": "梁山縣",
+      "name:zh_pinyin": "Liangshan Xian"
+    }
+  }
+]

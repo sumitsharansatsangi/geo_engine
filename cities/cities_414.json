@@ -1,0 +1,313 @@
+[
+  {
+    "name": "San Jose",
+    "country": "United States Of America",
+    "latitude": 37.3361904998914,
+    "longitude": -121.89058299999999,
+    "other_names": {
+      "name": "San Jose",
+      "name:am": "ሳን ሆዜ",
+      "name:ar": "سان خوسيه",
+      "name:en": "San Jose",
+      "name:eo": "San-Joseo",
+      "name:es": "San José",
+      "name:gl": "San Xosé",
+      "name:oc": "San José",
+      "name:pt": "San José",
+      "name:ru": "Сан-Хосе",
+      "name:uk": "Сан-Хосе",
+      "name:zh": "聖荷西",
+      "alt_name": "San José",
+      "old_name": "San José de Guadalupe",
+      "name:zh-CN": "圣何塞",
+      "alt_name:en": "San José",
+      "old_name:es": "San José de Guadalupe",
+      "name:zh-Hans": "圣何塞",
+      "name:zh-Hant": "聖荷西",
+      "official_name": "City of San José",
+      "name:pronunciation": "ˌseən hoʊˈzeɪ",
+      "name:en:pronunciation": "ˌseən hoʊˈzeɪ",
+      "name:es:pronunciation": "saŋ xoˈse"
+    }
+  },
+  {
+    "name": "San José",
+    "country": "Uruguay",
+    "latitude": -34.339676499754226,
+    "longitude": -56.7138662,
+    "other_names": {
+      "name": "San José",
+      "name:ru": "Сан-Хосе-де-Майо",
+      "official_name": "San José de Mayo"
+    }
+  },
+  {
+    "name": "San José",
+    "country": "Argentina",
+    "latitude": -34.754025199837265,
+    "longitude": -58.3540105,
+    "other_names": {
+      "name": "San José"
+    }
+  },
+  {
+    "name": "San José",
+    "country": "Costa Rica",
+    "latitude": 9.932542699434755,
+    "longitude": -84.0795782,
+    "other_names": {
+      "name": "San José",
+      "name:am": "ሳን ሆዜ",
+      "name:ar": "سان خوسيه، كوستاريكا",
+      "name:az": "San-Xose",
+      "name:be": "Сан-Хасэ",
+      "name:bg": "Сан Хосе",
+      "name:bn": "স্যান হোসে, কোস্টা রিকা",
+      "name:bo": "སན་ཇོ་སེ།",
+      "name:bs": "San Jose, Kostarika",
+      "name:de": "San José",
+      "name:el": "Σαν Χοσέ",
+      "name:en": "San José",
+      "name:eo": "San-Joseo",
+      "name:fa": "سان خوزه",
+      "name:fr": "San José",
+      "name:gl": "San Xosé, Costa Rica",
+      "name:he": "סן חוסה",
+      "name:hi": "सान होज़े",
+      "name:ht": "San Jozé",
+      "name:hu": "San José",
+      "name:hy": "Սան Խոսե",
+      "name:io": "San Jose",
+      "name:is": "San José",
+      "name:ja": "サンホセ",
+      "name:ka": "სან-ხოსე",
+      "name:ko": "산호세",
+      "name:lt": "San Chosė",
+      "name:lv": "Sanhosē",
+      "name:mk": "Сан Хозе",
+      "name:mr": "सान होजे, कोस्टा रिका",
+      "name:nl": "San José",
+      "name:nn": "San José i Costa Rica",
+      "name:os": "Сан-Хосе",
+      "name:pl": "San José",
+      "name:ru": "Сан-Хосе",
+      "name:sr": "Сан Хосе",
+      "name:sv": "San José, Costa Rica",
+      "name:sw": "San Jose",
+      "name:ta": "சான் ஹொசே, கோஸ்ட்டா ரிக்கா",
+      "name:th": "ซันโฮเซ",
+      "name:ug": "سان خوسې",
+      "name:uk": "Сан-Хосе",
+      "name:ur": "سان ہوزے",
+      "name:zh": "聖荷西",
+      "name:pap": "San Jose",
+      "name:sah": "Сан Хосе",
+      "name:be-tarask": "Сан-Хасэ"
+    }
+  },
+  {
+    "name": "San José de Barlovento",
+    "country": "Venezuela",
+    "latitude": 10.299800899453762,
+    "longitude": -65.99722699999998,
+    "other_names": {
+      "name": "San José de Barlovento"
+    }
+  },
+  {
+    "name": "San José de Chiquitos",
+    "country": "Bolivia",
+    "latitude": -17.845433800474677,
+    "longitude": -60.742190300000004,
+    "other_names": {
+      "name": "San José de Chiquitos",
+      "name:ru": "Сан-Хосе-де-Чикитос",
+      "name:uk": "Сан-Хосе-де-Чікітос",
+      "loc_name": "San José"
+    }
+  },
+  {
+    "name": "San José de Guanipa",
+    "country": "Venezuela",
+    "latitude": 8.889553999398922,
+    "longitude": -64.1700752,
+    "other_names": {
+      "name": "San José de Guanipa",
+      "alt_name": "El Tigrito"
+    }
+  },
+  {
+    "name": "San José de las Lajas",
+    "country": "Cuba",
+    "latitude": 22.961356200385474,
+    "longitude": -82.15180119999998,
+    "other_names": {
+      "name": "San José de las Lajas",
+      "name:ru": "Сан-Хосе-де-лас-Лахас"
+    }
+  },
+  {
+    "name": "San José del Cabo",
+    "country": "Mexico",
+    "latitude": 23.059836400381688,
+    "longitude": -109.70251479999999,
+    "other_names": {
+      "name": "San José del Cabo",
+      "name:ru": "Сан-Хосе-дель-Кабо"
+    }
+  },
+  {
+    "name": "San José del Guaviare",
+    "country": "Colombia",
+    "latitude": 2.5716140997263492,
+    "longitude": -72.6426515,
+    "other_names": {
+      "name": "San José del Guaviare",
+      "name:ru": "Сан-Хосе-дель-Гуавьяре"
+    }
+  },
+  {
+    "name": "San Jose del Monte",
+    "country": "Philippines",
+    "latitude": 14.811043199884951,
+    "longitude": 121.0491569,
+    "other_names": {
+      "name": "San Jose del Monte",
+      "name:es": "San José del Monte",
+      "name:ja": "サン・ホセ・デル・モンティ",
+      "name:ru": "Сан-Хосе-дель-Монте"
+    }
+  },
+  {
+    "name": "San José de Ocoa",
+    "country": "Haiti And Domrep",
+    "latitude": 18.54640500028046,
+    "longitude": -70.5056703,
+    "other_names": {
+      "name": "San José de Ocoa",
+      "name:hu": "San José de Ocoa"
+    }
+  },
+  {
+    "name": "San Juan",
+    "country": "Philippines",
+    "latitude": 14.604739999860616,
+    "longitude": 121.0300488,
+    "other_names": {
+      "name": "San Juan",
+      "name:ja": "サンフアン",
+      "old_name": "San Juan del Monte"
+    }
+  },
+  {
+    "name": "San Juan",
+    "country": "Argentina",
+    "latitude": -31.53709089937165,
+    "longitude": -68.5251802,
+    "other_names": {
+      "name": "San Juan",
+      "name:ar": "سان خوان",
+      "name:el": "Σαν Χουάν",
+      "name:en": "San Juan",
+      "name:he": "סן חואן",
+      "name:pt": "São João",
+      "name:ru": "Сан-Хуан"
+    }
+  },
+  {
+    "name": "San Juan",
+    "country": "United States Of America",
+    "latitude": 18.465299000273927,
+    "longitude": -66.116666,
+    "other_names": {
+      "name": "San Juan",
+      "name:ar": "سان خوان، بورتوريكو",
+      "name:az": "San Xuan",
+      "name:be": "Сан-Хуан",
+      "name:bg": "Сан Хуан",
+      "name:el": "Σαν Χουάν",
+      "name:en": "San Juan",
+      "name:eo": "San-Juano",
+      "name:fa": "سان خوآن",
+      "name:fr": "San Juan",
+      "name:gl": "San Xoán, Porto Rico",
+      "name:he": "סן חואן",
+      "name:hr": "San Juan",
+      "name:hu": "San Juan",
+      "name:hy": "Սան Խուան",
+      "name:ja": "サンフアン",
+      "name:ka": "სან-ხუანი",
+      "name:ko": "산후안",
+      "name:lt": "San Chuanas",
+      "name:lv": "Sanhuana",
+      "name:mk": "Сан Хуан",
+      "name:mr": "सान हुआन, पोर्तो रिको",
+      "name:ms": "San Juan, Puerto Rico",
+      "name:os": "Сан-Хуан",
+      "name:pl": "San Juan",
+      "name:ru": "Сан-Хуан",
+      "name:sr": "Сан Хуан",
+      "name:sv": "San Juan",
+      "name:ta": "சான் வான்",
+      "name:th": "ซานฮวน",
+      "name:uk": "Сан-Хуан",
+      "name:ur": "سان جوآن",
+      "name:zh": "聖胡安",
+      "name:bpy": "সান হুৱান, পুয়ের্তো রিকো",
+      "name:sr-Latn": "San Huan",
+      "name:be-tarask": "Сан-Хуан"
+    }
+  },
+  {
+    "name": "San Juan de Colón",
+    "country": "Venezuela",
+    "latitude": 8.036972238377128,
+    "longitude": -72.2536400918195,
+    "other_names": {
+      "name": "San Juan de Colón"
+    }
+  },
+  {
+    "name": "San Juan de Colón",
+    "country": "Venezuela",
+    "latitude": 8.03384899939037,
+    "longitude": -72.2589746,
+    "other_names": {
+      "name": "San Juan de Colón"
+    }
+  },
+  {
+    "name": "San Juan de la Maguana",
+    "country": "Haiti And Domrep",
+    "latitude": 18.80681290030052,
+    "longitude": -71.2276951,
+    "other_names": {
+      "name": "San Juan de la Maguana",
+      "name:hu": "San Juan de la Maguana"
+    }
+  },
+  {
+    "name": "San Juan de Los Morros",
+    "country": "Venezuela",
+    "latitude": 9.915230599433938,
+    "longitude": -67.35691410000001,
+    "other_names": {
+      "name": "San Juan de Los Morros",
+      "name:en": "San Juan de Los Morros",
+      "name:hu": "San Juan de Los Morros",
+      "name:lt": "San Chuan de Los Morosas",
+      "name:ru": "Сан-Хуан-де-лос-Моррос",
+      "name:th": "ซันฮวนเดโลสมอร์โรส",
+      "name:uk": "Сан-Хуан-де-лос-Моррос"
+    }
+  },
+  {
+    "name": "San Juan del Río",
+    "country": "Mexico",
+    "latitude": 20.386754700387986,
+    "longitude": -99.9931982,
+    "other_names": {
+      "name": "San Juan del Río"
+    }
+  }
+]

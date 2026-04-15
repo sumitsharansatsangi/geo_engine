@@ -1,0 +1,414 @@
+[
+  {
+    "name": "Huarong District",
+    "country": "China",
+    "latitude": 30.5367766996947,
+    "longitude": 114.72465669999998,
+    "other_names": {
+      "name": "华容区",
+      "name:de": "Huarong",
+      "name:en": "Huarong District",
+      "name:es": "Huarong",
+      "name:fr": "District de Huarong",
+      "name:it": "Distretto di Huarong",
+      "name:ja": "華容区",
+      "name:ko": "화룽구",
+      "name:no": "Huarong",
+      "name:ru": "Хуажун",
+      "name:sv": "Huarong",
+      "name:vi": "Hoa Dung",
+      "name:zh": "华容区",
+      "name:ceb": "Huarong Qu",
+      "name:nan": "Hoâ-iông-khu",
+      "name:yue": "華容區",
+      "name:zh-Hant": "華容區",
+      "name:zh_pinyin": "Huarong Qu"
+    }
+  },
+  {
+    "name": "Huashan",
+    "country": "China",
+    "latitude": 31.702019299621156,
+    "longitude": 118.50587330000002,
+    "other_names": {
+      "name": "花山区",
+      "name:de": "Huashan",
+      "name:en": "Huashan",
+      "name:eo": "Huashan",
+      "name:es": "Huashan",
+      "name:fr": "Huashan",
+      "name:ja": "花山区",
+      "name:ko": "화산 구",
+      "name:pt": "Huashan",
+      "name:sv": "Huashan",
+      "name:vi": "Hoa Sơn",
+      "name:zh": "花山区",
+      "name:zh-Hant": "花山區"
+    }
+  },
+  {
+    "name": "Huating",
+    "country": "China",
+    "latitude": 35.21828689966721,
+    "longitude": 106.6492871,
+    "other_names": {
+      "name": "华亭市",
+      "name:en": "Huating",
+      "name:ja": "華亭県",
+      "name:zh": "华亭市",
+      "alt_name": "华亭县;东华镇;Donghua;Huating City",
+      "old_name": "华亭县;Huating County",
+      "name:zh-Hant": "華亭市",
+      "name:zh_pinyin": "huátíng shì"
+    }
+  },
+  {
+    "name": "Huaxi",
+    "country": "China",
+    "latitude": 26.4143943001213,
+    "longitude": 106.6666173,
+    "other_names": {
+      "name": "花溪区",
+      "name:en": "Huaxi",
+      "name:zh": "花溪区",
+      "alt_name": "花溪区;Huaxi Buyizu Miaozu Xiang;Kuei-chu;Kweichu;Huaxi;Hua-ch'i",
+      "name:zh-Hant": "花溪區"
+    }
+  },
+  {
+    "name": "Huaxian",
+    "country": "China",
+    "latitude": 35.57650289969614,
+    "longitude": 114.5184726,
+    "other_names": {
+      "name": "滑县",
+      "name:en": "Huaxian",
+      "name:vi": "Hoạt",
+      "name:zh": "滑县",
+      "alt_name": "滑;Huaxian;Hua County",
+      "name:zh-Hant": "滑縣",
+      "name:zh_pinyin": "Hua Xian"
+    }
+  },
+  {
+    "name": "Huayin",
+    "country": "China",
+    "latitude": 34.56751629962571,
+    "longitude": 110.0920915,
+    "other_names": {
+      "name": "华阴市",
+      "name:de": "Huayin",
+      "name:en": "Huayin",
+      "name:fr": "Huayin",
+      "name:ja": "華陰市",
+      "name:vi": "Hoa Âm",
+      "name:zh": "华阴市",
+      "name:zh-Hant": "華陰市",
+      "name:zh_pinyin": "Huàyīn Shì"
+    }
+  },
+  {
+    "name": "Huaying",
+    "country": "China",
+    "latitude": 30.384307799706864,
+    "longitude": 106.775599,
+    "other_names": {
+      "name": "华蓥市",
+      "name:de": "Huaying",
+      "name:en": "Huaying",
+      "name:fr": "Huaying",
+      "name:ja": "華エイ市",
+      "name:ru": "Хуаин",
+      "name:vi": "Hoa Dinh",
+      "name:zh": "华蓥市",
+      "alt_name": "华蓥;Huaying City",
+      "int_name": "Huaying",
+      "name:zh-Hant": "華鎣市",
+      "name:zh_pinyin": "Huáyíng Shì"
+    }
+  },
+  {
+    "name": "Huayuan",
+    "country": "China",
+    "latitude": 28.575567199882734,
+    "longitude": 109.47697959999999,
+    "other_names": {
+      "name": "花垣县",
+      "name:en": "Huayuan",
+      "name:vi": "Hoa Viên",
+      "name:zh": "花垣县",
+      "alt_name": "花垣;Huayuan County",
+      "name:zh-Hant": "花垣縣",
+      "name:zh_pinyin": "Huāyuán Xiàn"
+    }
+  },
+  {
+    "name": "Huazhou",
+    "country": "China",
+    "latitude": 21.666932400410168,
+    "longitude": 110.63528709999999,
+    "other_names": {
+      "name": "化州市",
+      "name:ar": "هوازو",
+      "name:ca": "Huazhou",
+      "name:de": "Huazhou",
+      "name:en": "Huazhou",
+      "name:fa": "هواژو، گوانگ‌دونگ",
+      "name:fr": "Huazhou",
+      "name:it": "Huazhou",
+      "name:ja": "化州市",
+      "name:ki": "Huazhou",
+      "name:ko": "화저우시",
+      "name:no": "Huazhou",
+      "name:sv": "Huazhou",
+      "name:ur": "ہواژوو، گوانگڈونگ",
+      "name:vi": "Hóa Châu, Mậu Danh",
+      "name:zh": "化州市",
+      "alt_name": "化州;Huazhou City",
+      "int_name": "Huazhou",
+      "name:ceb": "Huazhou Shi",
+      "name:hak": "Fa-chû-sṳ",
+      "name:mwl": "Huazhou",
+      "name:nan": "Hòa-chiu-chhī",
+      "name:pam": "Huazhou",
+      "name:pnb": "ہوآژوؤ",
+      "name:yue": "化州市",
+      "alt_name:vi": "Hoá Châu",
+      "name:zh-Hant": "化州市",
+      "name:yue-Latn": "Faazau-si",
+      "name:zh_pinyin": "Huàzhōu Shì"
+    }
+  },
+  {
+    "name": "Hub",
+    "country": "Pakistan",
+    "latitude": 25.025542800255803,
+    "longitude": 66.8840285,
+    "other_names": {
+      "name": "حب",
+      "name:ar": "حب",
+      "name:en": "Hub",
+      "name:ur": "حب"
+    }
+  },
+  {
+    "name": "Hubballi",
+    "country": "India",
+    "latitude": 15.351837799948845,
+    "longitude": 75.1379848,
+    "other_names": {
+      "name": "Hubballi",
+      "name:ar": "هوبلي",
+      "name:en": "Hubballi",
+      "name:he": "הובלי",
+      "name:hi": "हुबली",
+      "name:ja": "フッバッリ",
+      "name:kn": "ಹುಬ್ಬಳ್ಳಿ",
+      "name:ml": "ഹുബ്ലി",
+      "name:ru": "Хубли-Дхарва",
+      "name:ta": "ஹூப்பள்ளி",
+      "alt_name": "Hubli",
+      "int_name": "Hubli",
+      "name:kn:iso15919": "Hubbaḷḷi"
+    }
+  },
+  {
+    "name": "Hubin",
+    "country": "China",
+    "latitude": 34.779344999637615,
+    "longitude": 111.2035124,
+    "other_names": {
+      "name": "湖滨区",
+      "name:en": "Hubin",
+      "name:vi": "Hồ Tân",
+      "name:zh": "湖滨区",
+      "alt_name": "湖滨;Hubin District",
+      "name:zh-Hant": "湖濱區",
+      "name:zh_pinyin": "Hubin Qu"
+    }
+  },
+  {
+    "name": "Hudur",
+    "country": "Somalia",
+    "latitude": 4.123704199576599,
+    "longitude": 43.89155629999999,
+    "other_names": {
+      "name": "Xudur حودور",
+      "name:ar": "حودور",
+      "name:de": "Huddur",
+      "name:en": "Hudur",
+      "name:es": "Xudur",
+      "name:fr": "Xuddur",
+      "name:ko": "후두르",
+      "name:ru": "Худдур"
+    }
+  },
+  {
+    "name": "Hue",
+    "country": "Vietnam",
+    "latitude": 16.463801300077098,
+    "longitude": 107.58219110000002,
+    "other_names": {
+      "name": "Huế",
+      "name:bg": "Хюе",
+      "name:cs": "Hue",
+      "name:da": "Hué",
+      "name:de": "Hue",
+      "name:el": "Χουέ",
+      "name:en": "Hue",
+      "name:eo": "Hue",
+      "name:es": "Hué",
+      "name:eu": "Hue",
+      "name:fa": "هوئه",
+      "name:fr": "Hué",
+      "name:ga": "Hué",
+      "name:he": "הואה",
+      "name:ja": "フエ",
+      "name:ka": "ჰუე",
+      "name:kl": "Hue",
+      "name:ko": "후에",
+      "name:lt": "Hujė",
+      "name:mk": "Хуе",
+      "name:mn": "Хюэ",
+      "name:ru": "Хюэ",
+      "name:sr": "Хуе",
+      "name:th": "เว้",
+      "name:uk": "Хюе",
+      "name:ur": "ہوائے",
+      "name:uz": "Xyue",
+      "name:vi": "Huế",
+      "name:zh": "顺化市",
+      "name:vi-Hani": "化",
+      "name:zh-Hant": "順化市",
+      "official_name": "Thành phố Huế",
+      "official_name:en": "Hue City",
+      "official_name:vi": "Thành phố Huế"
+    }
+  },
+  {
+    "name": "Huehuetenango",
+    "country": "Guatemala",
+    "latitude": 15.318430099944907,
+    "longitude": -91.47232949999999,
+    "other_names": {
+      "name": "Huehuetenango"
+    }
+  },
+  {
+    "name": "Huelva",
+    "country": "Spain",
+    "latitude": 37.257587399881125,
+    "longitude": -6.948494499999999,
+    "other_names": {
+      "name": "Huelva",
+      "name:ar": "ولبة",
+      "name:be": "Уэльва",
+      "name:el": "Ουέλβα",
+      "name:es": "Huelva",
+      "name:ja": "ウエルバ",
+      "name:lt": "Huelva",
+      "name:ru": "Уэльва",
+      "name:sr": "Уелва",
+      "alt_name:ar": "هيوليفا;ولفا"
+    }
+  },
+  {
+    "name": "Huesca",
+    "country": "Spain",
+    "latitude": 42.138253900496075,
+    "longitude": -0.40809009999999996,
+    "other_names": {
+      "name": "Huesca",
+      "name:an": "Uesca",
+      "name:ar": "وشقة",
+      "name:be": "Уэска",
+      "name:bg": "Уеска",
+      "name:ca": "Osca",
+      "name:el": "Ουέσκα",
+      "name:en": "Huesca",
+      "name:es": "Huesca",
+      "name:eu": "Ozka",
+      "name:fa": "هوئسکا",
+      "name:fr": "Huesca",
+      "name:he": "אואסקה",
+      "name:hu": "Huesca",
+      "name:ja": "ウエスカ",
+      "name:la": "Osca",
+      "name:lt": "Hueska",
+      "name:oc": "Òsca",
+      "name:ru": "Уэска",
+      "name:sr": "Уеска",
+      "name:zh": "韦斯卡"
+    }
+  },
+  {
+    "name": "Huguan",
+    "country": "China",
+    "latitude": 36.11013319974666,
+    "longitude": 113.20263159999999,
+    "other_names": {
+      "name": "壶关县",
+      "name:en": "Huguan",
+      "name:ja": "壷関県",
+      "name:zh": "壶关县",
+      "alt_name": "壶关;Hu-kuan Hsien;Huguan Xian;Huguan County",
+      "name:zh-Hant": "壺關縣"
+    }
+  },
+  {
+    "name": "Hui'an",
+    "country": "China",
+    "latitude": 25.03405070025507,
+    "longitude": 118.79195140000002,
+    "other_names": {
+      "name": "惠安县",
+      "name:de": "Hui’an",
+      "name:en": "Hui'an",
+      "name:es": "Huì'ān",
+      "name:fr": "Hui'an",
+      "name:it": "Hui'an",
+      "name:ja": "恵安県",
+      "name:ko": "후이안현",
+      "name:ru": "Хуэйань",
+      "name:vi": "Huệ An",
+      "name:zh": "惠安县",
+      "alt_name": "惠安;Hui'an County",
+      "name:cdo": "Hiê-ăng",
+      "name:hak": "Fi-ôn-yen",
+      "name:nan": "Hūi-oaⁿ-koān",
+      "name:wuu": "惠安县",
+      "name:yue": "惠安",
+      "name:zh-Hant": "惠安縣",
+      "name:zh_pinyin": "huì'ān xiàn"
+    }
+  },
+  {
+    "name": "Huichang",
+    "country": "China",
+    "latitude": 25.58901370020468,
+    "longitude": 115.80429919999999,
+    "other_names": {
+      "name": "会昌县",
+      "name:de": "Huichang",
+      "name:en": "Huichang",
+      "name:fa": "شهرستان هویچانگ",
+      "name:fr": "Xian de Huichang",
+      "name:it": "Contea di Huichang",
+      "name:ja": "会昌県",
+      "name:ko": "후이창현",
+      "name:no": "Huichang",
+      "name:ru": "Хуэйчан",
+      "name:sv": "Huichang",
+      "name:tl": "Huichang",
+      "name:vi": "Hội Xương",
+      "name:zh": "会昌县",
+      "alt_name": "会昌;Huichang County",
+      "name:ceb": "Huichang Xian",
+      "name:gan": "會昌",
+      "name:nan": "Hoē-chhiong-koān",
+      "name:yue": "會昌",
+      "name:zh-Hant": "會昌縣",
+      "name:zh_pinyin": "huìchāng xiàn"
+    }
+  }
+]

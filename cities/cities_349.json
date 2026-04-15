@@ -1,0 +1,369 @@
+[
+  {
+    "name": "Orsk",
+    "country": "Russia",
+    "latitude": 51.23050149921154,
+    "longitude": 58.47380150000001,
+    "other_names": {
+      "name": "Орск",
+      "name:ca": "Orsk",
+      "name:de": "Orsk",
+      "name:en": "Orsk",
+      "name:es": "Orsk",
+      "name:et": "Orsk",
+      "name:fr": "Orsk",
+      "name:ja": "オルスク",
+      "name:ko": "오르스크",
+      "name:lt": "Orskas",
+      "name:pl": "Orsk",
+      "name:ru": "Орск",
+      "name:uk": "Орськ"
+    }
+  },
+  {
+    "name": "Orsk",
+    "country": "Russia",
+    "latitude": 51.185781841195336,
+    "longitude": 58.55190674849502,
+    "other_names": {
+      "name": "Орск",
+      "name:de": "Orsk",
+      "name:en": "Orsk",
+      "name:fr": "Orsk",
+      "name:ja": "オルスク",
+      "name:pl": "Orsk"
+    }
+  },
+  {
+    "name": "Orsk",
+    "country": "Kazakhstan",
+    "latitude": 51.185781841195336,
+    "longitude": 58.55190674849502,
+    "other_names": {
+      "name": "Орск",
+      "name:de": "Orsk",
+      "name:en": "Orsk",
+      "name:fr": "Orsk",
+      "name:ja": "オルスク",
+      "name:pl": "Orsk"
+    }
+  },
+  {
+    "name": "Oruro",
+    "country": "Bolivia",
+    "latitude": -17.96983630047369,
+    "longitude": -67.1148341,
+    "other_names": {
+      "name": "Oruro",
+      "name:ru": "Оруро",
+      "name:zh": "奥鲁罗",
+      "name:zh-Hans": "奥鲁罗",
+      "old_name:1606": "Villa de San Felipe de Austria"
+    }
+  },
+  {
+    "name": "Oryol",
+    "country": "Russia",
+    "latitude": 52.96854329908697,
+    "longitude": 36.0692477,
+    "other_names": {
+      "name": "Орёл",
+      "name:ar": "أوريول",
+      "name:az": "Oryol",
+      "name:be": "Арол",
+      "name:de": "Orjol",
+      "name:el": "Οριόλ",
+      "name:en": "Oryol",
+      "name:et": "Orjol",
+      "name:fa": "اریول",
+      "name:fr": "Orel",
+      "name:hu": "Orjol",
+      "name:hy": "Օրյոլ",
+      "name:ja": "オリョール",
+      "name:ka": "ორიოლი",
+      "name:ko": "오룔",
+      "name:lt": "Oriolas",
+      "name:pl": "Orzeł",
+      "name:ru": "Орёл",
+      "name:sk": "Oriol",
+      "name:sr": "Орел",
+      "name:uk": "Орел",
+      "name:zh": "奧廖爾",
+      "alt_name": "Орел",
+      "int_name": "Orel",
+      "name:hsb": "Orjol"
+    }
+  },
+  {
+    "name": "Oryol",
+    "country": "Russia",
+    "latitude": 52.960891891728366,
+    "longitude": 36.08960570769249,
+    "other_names": {
+      "name": "Орёл",
+      "name:be": "Арол",
+      "name:cs": "Orjol",
+      "name:de": "Orjol",
+      "name:en": "Oryol",
+      "name:sr": "Орел"
+    }
+  },
+  {
+    "name": "Osaka",
+    "country": "Japan",
+    "latitude": 34.69375689963261,
+    "longitude": 135.50145389999997,
+    "other_names": {
+      "name": "大阪市",
+      "name:ar": "أوساكا",
+      "name:be": "Осака",
+      "name:ca": "Osaka",
+      "name:cs": "Ósaka",
+      "name:de": "Osaka",
+      "name:en": "Osaka",
+      "name:et": "Ōsaka",
+      "name:fi": "Osaka",
+      "name:fr": "Ōsaka",
+      "name:hi": "ओसक",
+      "name:it": "Osaka",
+      "name:ja": "大阪市",
+      "name:kn": "ಓಸಕ",
+      "name:ko": "오사카시",
+      "name:lt": "Osaka",
+      "name:nl": "Osaka",
+      "name:oc": "Osaka",
+      "name:pl": "Osaka",
+      "name:ru": "Осака",
+      "name:sl": "Osaka",
+      "name:sr": "Осака",
+      "name:sv": "Osaka",
+      "name:uk": "Осака",
+      "name:zh": "大阪市",
+      "alt_name": "大阪",
+      "name:ckb": "ئۆساکا",
+      "name:jbo": ".osakas.",
+      "alt_name:en": "Osaka City",
+      "alt_name:zh": "大阪",
+      "name:ja-Hira": "おおさかし",
+      "name:ja-Latn": "Ōsaka"
+    }
+  },
+  {
+    "name": "Osakasayama",
+    "country": "Japan",
+    "latitude": 34.50387899962245,
+    "longitude": 135.549966,
+    "other_names": {
+      "name": "大阪狭山市",
+      "name:ar": "أوساكاساياما، أوساكا",
+      "name:de": "Ōsakasayama",
+      "name:en": "Osakasayama",
+      "name:es": "Ōsakasayama",
+      "name:fr": "Ōsakasayama",
+      "name:ja": "大阪狭山市",
+      "name:ko": "오사카사야마시",
+      "name:pl": "Osakasayama",
+      "name:ru": "Осакасаяма",
+      "name:uk": "Осака-Саяма",
+      "name:ja_rm": "Ōsakasayama-shi"
+    }
+  },
+  {
+    "name": "Osaki",
+    "country": "Japan",
+    "latitude": 38.57708890006457,
+    "longitude": 140.955454,
+    "other_names": {
+      "name": "大崎市",
+      "name:ar": "أوساكي، مياغي",
+      "name:de": "Ōsaki",
+      "name:en": "Osaki",
+      "name:es": "Ōsaki",
+      "name:fr": "Ōsaki",
+      "name:ja": "大崎市",
+      "name:ko": "오사키시",
+      "name:pl": "Ōsaki",
+      "name:ru": "Осаки",
+      "name:uk": "Осакі",
+      "int_name": "Ōsaki",
+      "name:ja_rm": "Osaki-shi",
+      "name:ja_kana": "おおさきし"
+    }
+  },
+  {
+    "name": "Osan",
+    "country": "South Korea",
+    "latitude": 37.14993759986725,
+    "longitude": 127.07746249999998,
+    "other_names": {
+      "name": "오산시",
+      "name:de": "Osan",
+      "name:en": "Osan",
+      "name:es": "Osan",
+      "name:et": "Osan",
+      "name:fr": "Osan",
+      "name:ja": "烏山市",
+      "name:ko": "오산시",
+      "name:ru": "Осан",
+      "name:zh": "乌山市",
+      "alt_name:en": "Osan-si",
+      "name:ko-Hani": "烏山市",
+      "name:zh-Hant": "烏山市"
+    }
+  },
+  {
+    "name": "Osasco",
+    "country": "Brazil",
+    "latitude": -23.532485899992558,
+    "longitude": -46.791680099999994,
+    "other_names": {
+      "name": "Osasco"
+    }
+  },
+  {
+    "name": "Osh",
+    "country": "Kyrgyzstan",
+    "latitude": 40.53618990033721,
+    "longitude": 72.8033618,
+    "other_names": {
+      "name": "Ош",
+      "name:de": "Osch",
+      "name:en": "Osh",
+      "name:et": "Oš",
+      "name:fr": "Och",
+      "name:ky": "Ош",
+      "name:ru": "Ош",
+      "int_name": "Osh"
+    }
+  },
+  {
+    "name": "Oshakati",
+    "country": "Namibia",
+    "latitude": -17.782651800474998,
+    "longitude": 15.6986,
+    "other_names": {
+      "name": "Oshakati",
+      "name:ar": "أوشاكاتي",
+      "name:lt": "Ošakatis",
+      "name:ru": "Ошакати",
+      "name:ur": "اوشاکاتی"
+    }
+  },
+  {
+    "name": "Oshawa",
+    "country": "Canada",
+    "latitude": 43.89755580053578,
+    "longitude": -78.86353239999998,
+    "other_names": {
+      "name": "Oshawa"
+    }
+  },
+  {
+    "name": "Oshkosh",
+    "country": "United States Of America",
+    "latitude": 44.020691900531965,
+    "longitude": -88.54085739999998,
+    "other_names": {
+      "name": "Oshkosh"
+    }
+  },
+  {
+    "name": "Oshu",
+    "country": "Japan",
+    "latitude": 39.144275000146784,
+    "longitude": 141.13923819999997,
+    "other_names": {
+      "name": "奥州市",
+      "name:ar": "أوشو، إيواته",
+      "name:de": "Ōshū",
+      "name:en": "Oshu",
+      "name:es": "Ōshū",
+      "name:fr": "Ōshū",
+      "name:ja": "奥州市",
+      "name:ko": "오슈시",
+      "name:lt": "Ošiū",
+      "name:pl": "Ōshū",
+      "name:ru": "Осю",
+      "name:uk": "Осю",
+      "int_name": "Ōshū",
+      "name:ja_rm": "Ōshū-shi",
+      "name:ja_kana": "おうしゅうし"
+    }
+  },
+  {
+    "name": "Osicala",
+    "country": "El Salvador",
+    "latitude": 13.805714799767896,
+    "longitude": -88.15349119999999,
+    "other_names": {
+      "name": "Osicala"
+    }
+  },
+  {
+    "name": "Osijek",
+    "country": "Croatia",
+    "latitude": 45.55487190040585,
+    "longitude": 18.695371899999998,
+    "other_names": {
+      "name": "Osijek",
+      "name:ar": "أوسييك",
+      "name:de": "Osijek",
+      "name:en": "Osijek",
+      "name:es": "Osijek",
+      "name:fr": "Osijek",
+      "name:hr": "Osijek",
+      "name:hu": "Eszék",
+      "name:it": "Essecio",
+      "name:la": "Mursa",
+      "name:lt": "Osijekas",
+      "name:ru": "Осиек",
+      "name:sr": "Осијек",
+      "old_name:de": "Essegg",
+      "name:sr-Latn": "Osijek"
+    }
+  },
+  {
+    "name": "Oskemen",
+    "country": "Kazakhstan",
+    "latitude": 49.956489999462214,
+    "longitude": 82.61192299999999,
+    "other_names": {
+      "name": "Усть-Каменогорск",
+      "name:de": "Öskemen",
+      "name:en": "Oskemen",
+      "name:es": "Öskemen",
+      "name:et": "Öskemen",
+      "name:fr": "Öskemen",
+      "name:ja": "オスケメン",
+      "name:kk": "Өскемен",
+      "name:ko": "외스케멘",
+      "name:lt": "Oskemenas",
+      "name:ru": "Усть-Каменогорск",
+      "name:sv": "Öskemen",
+      "name:uk": "Усть-Каменогорськ",
+      "int_name": "Ust-Kamenogorsk"
+    }
+  },
+  {
+    "name": "Oskemen",
+    "country": "Kazakhstan",
+    "latitude": 49.955247876715596,
+    "longitude": 82.6053074935403,
+    "other_names": {
+      "name": "Усть-Каменогорск",
+      "name:de": "Öskemen",
+      "name:en": "Oskemen",
+      "name:es": "Öskemen",
+      "name:et": "Öskemen",
+      "name:fr": "Öskemen",
+      "name:ja": "オスケメン",
+      "name:kk": "Өскемен",
+      "name:ko": "외스케멘",
+      "name:lt": "Oskemenas",
+      "name:ru": "Усть-Каменогорск",
+      "name:sv": "Öskemen",
+      "name:uk": "Усть-Каменогорськ",
+      "int_name": "Ust-Kamenogorsk"
+    }
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Uxin Banner",
+    "country": "China",
+    "latitude": 38.603194800068344,
+    "longitude": 108.83021309999998,
+    "other_names": {
+      "name": "乌审旗",
+      "name:en": "Uxin Banner",
+      "name:ja": "ウーシン旗",
+      "name:mn": "Үүсин қосиу",
+      "name:zh": "乌审旗",
+      "alt_name:mn": "ᠦᠦᠰᠢᠨ ᠬᠣᠰᠢᠭᠤ;Üüsin qosiɣu",
+      "name:zh-Hant": "烏審旗"
+    }
+  },
+  {
+    "name": "Uyo",
+    "country": "Nigeria",
+    "latitude": 5.032244699504437,
+    "longitude": 7.924791000000001,
+    "other_names": {
+      "name": "Uyo",
+      "name:ar": "أويو",
+      "name:ko": "우요",
+      "name:ru": "Уйо",
+      "name:uk": "Уйо"
+    }
+  },
+  {
+    "name": "Uyuni",
+    "country": "Bolivia",
+    "latitude": -20.462840600355335,
+    "longitude": -66.82390719999998,
+    "other_names": {
+      "name": "Uyuni"
+    }
+  },
+  {
+    "name": "Uzhhorod",
+    "country": "Ukraine",
+    "latitude": 48.62237319978595,
+    "longitude": 22.3022569,
+    "other_names": {
+      "name": "Ужгород",
+      "name:be": "Ужгарад",
+      "name:cs": "Užhorod",
+      "name:de": "Uschhorod",
+      "name:en": "Uzhhorod",
+      "name:eo": "Uĵhorodo",
+      "name:es": "Úzhgorod",
+      "name:et": "Užgorod",
+      "name:fr": "Oujhorod",
+      "name:hr": "Užohrod",
+      "name:hu": "Ungvár",
+      "name:it": "Užhorod",
+      "name:ko": "우즈호로드",
+      "name:la": "Uzhorodum",
+      "name:nl": "Oezjhorod",
+      "name:pl": "Użhorod",
+      "name:pt": "Uzhhorod",
+      "name:ro": "Ujhorod",
+      "name:ru": "Ужгород",
+      "name:sk": "Užhorod",
+      "name:sr": "Ужгород",
+      "name:sv": "Uzjhorod",
+      "name:uk": "Ужгород",
+      "name:zh": "乌日格罗德",
+      "alt_name:de": "Ungwar"
+    }
+  },
+  {
+    "name": "Uzice",
+    "country": "Serbia",
+    "latitude": 43.856495700536854,
+    "longitude": 19.840272999999996,
+    "other_names": {
+      "name": "Ужице",
+      "name:am": "ኡዚዝ",
+      "name:ar": "أوزيتسه",
+      "name:be": "Ужыцкае",
+      "name:bn": "উজিস",
+      "name:de": "Užice",
+      "name:el": "Ούζιτσε",
+      "name:en": "Uzice",
+      "name:es": "Užice",
+      "name:fr": "Užice",
+      "name:lt": "Užicė",
+      "name:ru": "Ужице",
+      "name:sr": "Ужице",
+      "name:zh": "烏齊採",
+      "int_name": "Uzice",
+      "name:sr-Latn": "Užice",
+      "name:zh-Hans": "乌兹采"
+    }
+  },
+  {
+    "name": "Uzlovaya",
+    "country": "Russia",
+    "latitude": 53.978511999181485,
+    "longitude": 38.160255,
+    "other_names": {
+      "name": "Узловая",
+      "name:ar": "أوزلوفايا",
+      "name:az": "Uzlovaya",
+      "name:de": "Uslowaja",
+      "name:en": "Uzlovaya",
+      "name:eo": "Uzlovaja",
+      "name:es": "Uzlovaya",
+      "name:et": "Uzlovaja",
+      "name:fa": "اوزلووایا",
+      "name:fr": "Ouzlovaïa",
+      "name:it": "Uzlovaja",
+      "name:ja": "ウズロヴァヤ",
+      "name:ko": "우즐로바야",
+      "name:nn": "Uzlovaja",
+      "name:no": "Uzlovaja",
+      "name:pl": "Uzłowaja",
+      "name:pt": "Uzlovaia",
+      "name:ro": "Uzlovaya",
+      "name:ru": "Узловая",
+      "name:sr": "Узловаја",
+      "name:tl": "Uzlovaya",
+      "name:zh": "烏茲洛瓦亞",
+      "name:hsb": "Uzlowaja",
+      "name:pnb": "اوزلووایا",
+      "name:war": "Uzlovaya"
+    }
+  },
+  {
+    "name": "Uzlovaya",
+    "country": "Russia",
+    "latitude": 53.98270087787679,
+    "longitude": 38.15070429498823,
+    "other_names": {
+      "name": "Узловая",
+      "name:ar": "أوزلوفايا",
+      "name:az": "Uzlovaya",
+      "name:de": "Uslowaja",
+      "name:en": "Uzlovaya",
+      "name:eo": "Uzlovaja",
+      "name:es": "Uzlovaya",
+      "name:et": "Uzlovaja",
+      "name:fa": "اوزلووایا",
+      "name:fr": "Ouzlovaïa",
+      "name:it": "Uzlovaja",
+      "name:ja": "ウズロヴァヤ",
+      "name:ko": "우즐로바야",
+      "name:nn": "Uzlovaja",
+      "name:no": "Uzlovaja",
+      "name:pl": "Uzłowaja",
+      "name:pt": "Uzlovaia",
+      "name:ro": "Uzlovaya",
+      "name:ru": "Узловая",
+      "name:sr": "Узловаја",
+      "name:tl": "Uzlovaya",
+      "name:zh": "烏茲洛瓦亞",
+      "name:pnb": "اوزلووایا",
+      "name:war": "Uzlovaya"
+    }
+  },
+  {
+    "name": "Vaasa",
+    "country": "Finland",
+    "latitude": 63.09577220091894,
+    "longitude": 21.615918699999998,
+    "other_names": {
+      "name": "Vaasa",
+      "name:be": "Ва́са",
+      "name:fi": "Vaasa",
+      "name:lt": "Vasa",
+      "name:no": "Vasa",
+      "name:ru": "Вааса",
+      "name:sr": "Васа",
+      "name:sv": "Vasa",
+      "name:uk": "Вааса",
+      "name:vep": "Vas"
+    }
+  },
+  {
+    "name": "Vacaville",
+    "country": "United States Of America",
+    "latitude": 38.35657730003276,
+    "longitude": -121.9877444,
+    "other_names": {
+      "name": "Vacaville"
+    }
+  },
+  {
+    "name": "Vacoas-Phoenix",
+    "country": "Mauritius",
+    "latitude": -20.29888020036874,
+    "longitude": 57.49276890000001,
+    "other_names": {
+      "name": "Vacoas-Phoenix",
+      "name:lt": "Vakoasas"
+    }
+  },
+  {
+    "name": "Vadodara",
+    "country": "India",
+    "latitude": 22.297314200404028,
+    "longitude": 73.1942567,
+    "other_names": {
+      "name": "Vadodara",
+      "name:ar": "فادودارا",
+      "name:en": "Vadodara",
+      "name:gu": "વડોદરા",
+      "name:he": "ואדודרה",
+      "name:hi": "वडोदरा",
+      "name:ja": "ヴァドーダラー",
+      "name:kn": "ವಡೋದರಾ",
+      "name:ko": "바도다라",
+      "name:ml": "വഡോദര",
+      "name:mr": "वदोदरा",
+      "name:pa": "ਵਡੋਦਰਾ",
+      "name:ru": "Вадодара",
+      "name:ta": "வடோதரா",
+      "name:uk": "Вадодара",
+      "name:zh": "瓦达达拉",
+      "alt_name": "Baroda"
+    }
+  },
+  {
+    "name": "Valdivia",
+    "country": "Chile",
+    "latitude": -39.81412620090038,
+    "longitude": -73.24598589999998,
+    "other_names": {
+      "name": "Valdivia",
+      "name:en": "Valdivia",
+      "name:ru": "Вальдивия",
+      "name:uk": "Вальдівія"
+    }
+  },
+  {
+    "name": "Val-d'Or",
+    "country": "Canada",
+    "latitude": 48.10233559991317,
+    "longitude": -77.78757149999998,
+    "other_names": {
+      "name": "Val-d'Or"
+    }
+  },
+  {
+    "name": "Valdosta",
+    "country": "United States Of America",
+    "latitude": 30.832702199672635,
+    "longitude": -83.2784851,
+    "other_names": {
+      "name": "Valdosta"
+    }
+  },
+  {
+    "name": "Vale de Cambra",
+    "country": "Portugal",
+    "latitude": 40.84981150037503,
+    "longitude": -8.3939142,
+    "other_names": {
+      "name": "Vale de Cambra"
+    }
+  },
+  {
+    "name": "Valença",
+    "country": "Spain",
+    "latitude": 42.027045500488235,
+    "longitude": -8.6428831,
+    "other_names": {
+      "name": "Valença",
+      "alt_name": "Valença do Minho",
+      "alt_name:gl": "Valença de Aragão"
+    }
+  },
+  {
+    "name": "Valença",
+    "country": "Portugal",
+    "latitude": 42.027045500488235,
+    "longitude": -8.6428831,
+    "other_names": {
+      "name": "Valença",
+      "alt_name": "Valença do Minho",
+      "alt_name:gl": "Valença de Aragão"
+    }
+  },
+  {
+    "name": "Valencia",
+    "country": "Venezuela",
+    "latitude": 10.182803599447361,
+    "longitude": -68.003553,
+    "other_names": {
+      "name": "Valencia",
+      "name:en": "Valencia",
+      "name:mk": "Валенсија",
+      "name:pt": "Valencia",
+      "name:ru": "Валенсия",
+      "name:uk": "Валенсія"
+    }
+  },
+  {
+    "name": "Valencia",
+    "country": "Spain",
+    "latitude": 39.46970650019348,
+    "longitude": -0.3763353,
+    "other_names": {
+      "name": "València",
+      "name:am": "ቫለንሲያ",
+      "name:ar": "فالنسيا",
+      "name:az": "Valensiya",
+      "name:be": "Валенсія",
+      "name:bn": "ভ্যালেন্সিয়া",
+      "name:ca": "Valencia",
+      "name:cs": "Valencie",
+      "name:de": "Valencia",
+      "name:el": "Βαλένθια",
+      "name:en": "Valencia",
+      "name:es": "Valencia",
+      "name:eu": "Valentzia",
+      "name:fr": "Valence",
+      "name:it": "Valencia",
+      "name:ka": "ვალენსია",
+      "name:la": "Valentia",
+      "name:lt": "Valensija",
+      "name:lv": "Valensija",
+      "name:nl": "Valencia",
+      "name:oc": "Valéncia",
+      "name:pl": "Walencja",
+      "name:ru": "Валенсия",
+      "name:sr": "Валенсија",
+      "name:tr": "Valensiya",
+      "name:uk": "Валенсія",
+      "name:zh": "瓦倫西亞",
+      "int_name": "Valencia",
+      "name:azb": "والنسیا",
+      "alt_name:el": "Βαλένσια",
+      "name:zh-Hans": "瓦伦西亚",
+      "name:zh-Hant": "瓦倫西亞",
+      "official_name": "València",
+      "old_name:ca-valencia": "València"
+    }
+  },
+  {
+    "name": "Valencia",
+    "country": "Philippines",
+    "latitude": 7.902884399390737,
+    "longitude": 125.08980329999999,
+    "other_names": {
+      "name": "Valencia",
+      "name:ja": "バレンシア",
+      "name:zh": "巴伦西亚"
+    }
+  }
+]

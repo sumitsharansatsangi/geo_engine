@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Bontang",
+    "country": "Indonesia",
+    "latitude": 0.12365479998726578,
+    "longitude": 117.471708,
+    "other_names": {
+      "name": "Bontang",
+      "name:en": "Bontang",
+      "name:ja": "ボンタン",
+      "name:ru": "Бонтанг",
+      "name:uk": "Бонтанг",
+      "name:zh": "邦唐"
+    }
+  },
+  {
+    "name": "Boone",
+    "country": "United States Of America",
+    "latitude": 36.21679499975775,
+    "longitude": -81.6745517,
+    "other_names": {
+      "name": "Boone"
+    }
+  },
+  {
+    "name": "Bor",
+    "country": "Serbia",
+    "latitude": 44.077869600529866,
+    "longitude": 22.0991721,
+    "other_names": {
+      "name": "Бор",
+      "name:de": "Bor",
+      "name:en": "Bor",
+      "name:ru": "Бор",
+      "name:sr": "Бор",
+      "name:sr-Latn": "Bor"
+    }
+  },
+  {
+    "name": "Bor",
+    "country": "South Sudan",
+    "latitude": 6.203992699434865,
+    "longitude": 31.558728499999994,
+    "other_names": {
+      "name": "Bor",
+      "name:ar": "بور",
+      "name:de": "Bor",
+      "name:en": "Bor",
+      "name:es": "Bor",
+      "name:fr": "Bor",
+      "name:ko": "보르",
+      "name:ru": "Бор",
+      "name:uk": "Бор"
+    }
+  },
+  {
+    "name": "Borama",
+    "country": "Somalia",
+    "latitude": 9.938669099435048,
+    "longitude": 43.184118999999995,
+    "other_names": {
+      "name": "بوراما Borama",
+      "pcode": "NC-3809-B27-002",
+      "name:ar": "بوراما",
+      "name:de": "Boorama",
+      "name:en": "Borama",
+      "name:es": "Boorama",
+      "name:fr": "Boorama",
+      "name:ko": "보라마",
+      "name:ru": "Борама",
+      "alt_name": "Borama"
+    }
+  },
+  {
+    "name": "Bordeaux",
+    "country": "France",
+    "latitude": 44.84122500048263,
+    "longitude": -0.5800364,
+    "other_names": {
+      "name": "Bordeaux",
+      "name:am": "ቦርዶ",
+      "name:ar": "بوردو",
+      "name:az": "Bordo",
+      "name:be": "Бардо",
+      "name:bg": "Бордо",
+      "name:br": "Bourdel",
+      "name:ca": "Bordeus",
+      "name:ce": "Бордо",
+      "name:el": "Μπορντώ",
+      "name:eo": "Bordozo",
+      "name:es": "Burdeos",
+      "name:eu": "Bordele",
+      "name:fa": "بوردو",
+      "name:fr": "Bordeaux",
+      "name:gl": "Bordeos",
+      "name:he": "בורדו",
+      "name:hi": "बोर्दो",
+      "name:hy": "Բորդո",
+      "name:ja": "ボルドー",
+      "name:ka": "ბორდო",
+      "name:kg": "Bordo",
+      "name:kk": "Бордо",
+      "name:kn": "ಬೊರ್ಡೋ",
+      "name:ko": "보르도",
+      "name:la": "Burdigala",
+      "name:lo": "ບອກໂດ",
+      "name:lt": "Bordo",
+      "name:lv": "Bordo",
+      "name:mk": "Бордо",
+      "name:mr": "बोर्दू",
+      "name:oc": "Bordèu",
+      "name:os": "Бордо",
+      "name:pa": "ਬੋਰਦੋ",
+      "name:pt": "Bordéus",
+      "name:ru": "Бордо",
+      "name:sr": "Бордо",
+      "name:ta": "பொர்தோ",
+      "name:th": "บอร์โด",
+      "name:tl": "Burdeos",
+      "name:uk": "Бордо",
+      "name:ur": "بورڈو",
+      "name:yi": "בארדא",
+      "name:zh": "波尔多",
+      "name:ast": "Bordeos",
+      "name:ext": "Burdeus",
+      "name:frp": "Bordôx",
+      "name:mzn": "بوردو",
+      "name:pms": "Bordò",
+      "name:pnb": "بورڈو",
+      "name:stq": "Bordèu",
+      "name:vec": "Bordò"
+    }
+  },
+  {
+    "name": "Bordj Bou Arreridjj",
+    "country": "Algeria",
+    "latitude": 36.07411209974298,
+    "longitude": 4.761347599999999,
+    "other_names": {
+      "name": "Bordj Bou Arreridj ⴱⵓⵔⴵ ⴱⵓ ⵄⵔⵉⵔⵉⴵ برج بوعريريج",
+      "name:ar": "برج بوعريريج",
+      "name:el": "Μπορντζ Μπου Αρερίτζ",
+      "name:en": "Bordj Bou Arreridjj",
+      "name:fr": "Bordj Bou Arreridj",
+      "name:lt": "Bordž Bu Areridžas",
+      "name:ru": "Бордж-Бу-Арреридж",
+      "name:zh": "布阿拉里季堡",
+      "name:ber": "ⴱⵓⵔⴵ ⴱⵓ ⵄⵔⵉⵔⵉⴵ",
+      "name:kab": "Burǧ Bu Aɛririǧ",
+      "short_name": "BBA"
+    }
+  },
+  {
+    "name": "Borg El Arab Industrial Zone",
+    "country": "Egypt",
+    "latitude": 30.83758874937037,
+    "longitude": 29.58345104657295,
+    "other_names": {
+      "name": "المنطقة الصناعية ببرج العرب",
+      "name:ar": "المنطقة الصناعية ببرج العرب",
+      "name:en": "Borg El Arab Industrial Zone",
+      "name:fr": "Zone Industriel Burj-al-Arab"
+    }
+  },
+  {
+    "name": "Borongan",
+    "country": "Philippines",
+    "latitude": 11.6085787995461,
+    "longitude": 125.43532799999998,
+    "other_names": {
+      "name": "Borongan",
+      "name:ja": "ボロンガン",
+      "name:tl": "Borongan",
+      "name:war": "Borongan"
+    }
+  },
+  {
+    "name": "Bortala",
+    "country": "China",
+    "latitude": 44.90398810047713,
+    "longitude": 82.0630389,
+    "other_names": {
+      "name": "博尔塔拉州",
+      "name:en": "Bortala",
+      "name:mn": "ᠪᠣᠷᠢᠲᠠᠯ᠎ᠠ ᠮᠣᠩᠭᠣᠯ ᠥᠪᠡᠷᠲᠡᠭᠡᠨ ᠵᠠᠰᠠᠬᠤ ᠵᠧᠦ (Боротал-а-ыин Монгол өбэртэгэн жасақу жеү)",
+      "name:ug": "بۆرتالا موڭغۇل ئاپتونوم ئوبلاستى‎",
+      "name:uk": "Боро-Тала-Монгольська автономна область",
+      "name:vi": "Bortala",
+      "name:zh": "博尔塔拉蒙古族自治州",
+      "alt_name": "博尔塔拉;بورتالا;Бортала;Po-lo-ch'eng;Po-lo;Ta-ying-p'an;K'o-la-mu-tun;Bortala;Bulak;Po-lo-hsien;Dzhimpan';Po-le;Jimpan;Bole;Boertala",
+      "short_name": "博州",
+      "alt_name:uk": "Боро-Тала",
+      "alt_name:vi": "Bác Nhĩ Tháp Lạp",
+      "name:zh-Hant": "博爾塔拉州",
+      "official_name": "博尔塔拉蒙古自治州",
+      "name:zh_pinyin": "Bortala Mongol Zizhizhou"
+    }
+  },
+  {
+    "name": "Bortala",
+    "country": "China",
+    "latitude": 44.852888000481634,
+    "longitude": 82.0520916,
+    "other_names": {
+      "name": "博乐市",
+      "name:de": "Börtala",
+      "name:en": "Bortala",
+      "name:es": "Bole",
+      "name:et": "Bortala",
+      "name:fr": "Bole",
+      "name:ja": "ボルタラ市",
+      "name:lt": "Boro Tala",
+      "name:mn": "ᠪᠣᠷᠣᠲᠠᠯ᠎ᠠ ᠬᠣᠲᠠ",
+      "name:ru": "Боро-Тала",
+      "name:ug": "بۆرتالا شەھىرى;بۆرتالا‎",
+      "name:uk": "Бортала / Боле",
+      "name:vi": "Bác Lặc",
+      "name:zh": "博乐市",
+      "alt_name": "博乐市;Bole;Bortala",
+      "alt_name:de": "Bole",
+      "alt_name:en": "Bole",
+      "alt_name:fr": "Bole",
+      "alt_name:ru": "Болэ",
+      "alt_name:uk": "Боро-Тала",
+      "alt_name:vi": "Bác Lạc;Bortala",
+      "name:zh-Hant": "博樂市",
+      "name:zh_pinyin": "Bólè Shì"
+    }
+  },
+  {
+    "name": "Borujerd",
+    "country": "Iran",
+    "latitude": 33.894328099598525,
+    "longitude": 48.75609359999999,
+    "other_names": {
+      "ref": "BJD",
+      "name": "بروجرد",
+      "name:de": "Borudscherd",
+      "name:en": "Borujerd",
+      "name:es": "Borujerd",
+      "name:fa": "بروجرد",
+      "name:fr": "Borujerd",
+      "name:hi": "बोरुजर्द",
+      "name:ja": "ボルージェルド",
+      "name:ru": "Боруджерд",
+      "name:ur": "بورواجڈ",
+      "loc_name": "وروگرد",
+      "old_name": "اُردکَرد - بَروگرد"
+    }
+  },
+  {
+    "name": "Boryeong-si",
+    "country": "South Korea",
+    "latitude": 36.33400999977032,
+    "longitude": 126.61316499999998,
+    "other_names": {
+      "name": "보령시",
+      "name:de": "Boryeong",
+      "name:en": "Boryeong-si",
+      "name:es": "Boryeong",
+      "name:et": "Boryeong",
+      "name:fr": "Boryeong",
+      "name:ja": "保寧市",
+      "name:ko": "보령시",
+      "name:zh": "保宁市",
+      "int_name": "Boryeong",
+      "name:ja_kana": "ぼりょん",
+      "name:ko-Hani": "保寧市",
+      "name:ko-Latn": "Boryeong-si",
+      "name:zh-Hant": "保寧市"
+    }
+  },
+  {
+    "name": "Bosaso",
+    "country": "Somalia",
+    "latitude": 11.278479999519421,
+    "longitude": 49.17995199999999,
+    "other_names": {
+      "name": "Boosaaso بوصاصو",
+      "name:ar": "بوصاصو",
+      "name:de": "Bosasso",
+      "name:en": "Bosaso",
+      "name:es": "Bosaso",
+      "name:fr": "Bosaso",
+      "name:ko": "보사소",
+      "name:ru": "Босасо",
+      "name:uk": "Босасо",
+      "alt_name": "Bandar Qassim",
+      "alt_name:de": "Bandar Kassim",
+      "alt_name:en": "Bender Qassim"
+    }
+  },
+  {
+    "name": "Boshan",
+    "country": "China",
+    "latitude": 36.49471599978814,
+    "longitude": 117.85670230000001,
+    "other_names": {
+      "name": "博山区",
+      "name:en": "Boshan",
+      "name:zh": "博山区",
+      "alt_name": "博山",
+      "name:zh-Hant": "博山區"
+    }
+  },
+  {
+    "name": "Bossangoa",
+    "country": "Central African Republic",
+    "latitude": 6.492444099422391,
+    "longitude": 17.4463162,
+    "other_names": {
+      "name": "Bossangoa",
+      "name:ko": "보상고아",
+      "name:ru": "Босангоа",
+      "name:uk": "Босанґоа"
+    }
+  },
+  {
+    "name": "Bossier City",
+    "country": "United States Of America",
+    "latitude": 32.53693559959316,
+    "longitude": -93.6952689,
+    "other_names": {
+      "name": "Bossier City"
+    }
+  },
+  {
+    "name": "Boston",
+    "country": "United States Of America",
+    "latitude": 42.36025340051003,
+    "longitude": -71.0582912,
+    "other_names": {
+      "name": "Boston",
+      "name:ar": "بوسطن",
+      "name:en": "Boston",
+      "name:eo": "Bostono",
+      "name:ja": "ボストン",
+      "name:mk": "Бостон",
+      "name:oc": "Boston",
+      "name:pl": "Boston",
+      "name:ru": "Бостон",
+      "name:ta": "பாஸ்டன்",
+      "name:uk": "Бостон",
+      "name:zh": "波士顿 / 波士頓",
+      "name:hak": "Boston",
+      "name:nan": "Boston",
+      "name:zh-Hans": "波士顿",
+      "name:zh-Hant": "波士頓"
+    }
+  },
+  {
+    "name": "Botad",
+    "country": "India",
+    "latitude": 22.1686000004062,
+    "longitude": 71.6685,
+    "other_names": {
+      "name": "Botad",
+      "name:ta": "போடாட்"
+    }
+  },
+  {
+    "name": "Botoșani",
+    "country": "Romania",
+    "latitude": 47.745070599997696,
+    "longitude": 26.659985799999998,
+    "other_names": {
+      "name": "Botoșani",
+      "name:de": "Botoschan",
+      "name:hu": "Botosány",
+      "name:pl": "Botoszany",
+      "name:ru": "Ботошаны",
+      "name:sr": "Ботошани",
+      "name:uk": "Ботошані",
+      "alt_name:pl": "Botoszań"
+    }
+  }
+]

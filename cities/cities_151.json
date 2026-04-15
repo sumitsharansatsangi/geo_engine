@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Ghazipur",
+    "country": "India",
+    "latitude": 25.587416200204835,
+    "longitude": 83.5903956,
+    "other_names": {
+      "name": "Ghazipur",
+      "name:hi": "गाजीपुर",
+      "name:ja": "ガーズィープル"
+    }
+  },
+  {
+    "name": "Ghazni",
+    "country": "Afghanistan",
+    "latitude": 33.54489679959085,
+    "longitude": 68.41321079999999,
+    "other_names": {
+      "name": "غزنی",
+      "name:ar": "غزني",
+      "name:cs": "Ghazní",
+      "name:da": "Ghazni",
+      "name:el": "Γκαζνί",
+      "name:en": "Ghazni",
+      "name:et": "Ghaznī",
+      "name:fa": "غزنی (Ğaznī)",
+      "name:fr": "Ghazni",
+      "name:hi": "ग़ज़नी",
+      "name:ja": "ガズニー",
+      "name:ru": "Газни",
+      "name:uk": "Газні",
+      "name:zh": "加茲尼",
+      "alt_name": "غزنین",
+      "name:ast": "Gazni",
+      "old_name": "Ghazna;Ghaznīn"
+    }
+  },
+  {
+    "name": "Ghent",
+    "country": "Belgium",
+    "latitude": 51.05382859924023,
+    "longitude": 3.7250121,
+    "other_names": {
+      "name": "Gent",
+      "name:ar": "غنت",
+      "name:be": "Гент",
+      "name:bg": "Гент",
+      "name:ca": "Gant",
+      "name:de": "Gent",
+      "name:el": "Γάνδη",
+      "name:en": "Ghent",
+      "name:eo": "Gento",
+      "name:es": "Gante",
+      "name:eu": "Gante",
+      "name:fa": "گنت",
+      "name:fr": "Gand",
+      "name:fy": "Gint",
+      "name:gl": "Gante - Gent",
+      "name:he": "גנט",
+      "name:hi": "खेंट",
+      "name:it": "Gand",
+      "name:ja": "ヘント",
+      "name:ka": "გენტი",
+      "name:ko": "헨트",
+      "name:la": "Gandavum",
+      "name:lt": "Gentas",
+      "name:lv": "Ģente",
+      "name:mk": "Гент",
+      "name:mn": "Гент",
+      "name:mr": "गेंट",
+      "name:my": "ဂင့်မြို့",
+      "name:na": "Ghent",
+      "name:nl": "Gent",
+      "name:oc": "Gant",
+      "name:os": "Гент",
+      "name:pl": "Gandawa",
+      "name:pt": "Gante",
+      "name:ru": "Гент",
+      "name:sr": "Гент",
+      "name:th": "เกนต์",
+      "name:tl": "Gante",
+      "name:ug": "Gant",
+      "name:uk": "Гент",
+      "name:vo": "Ghent",
+      "name:wa": "Gant",
+      "name:zh": "根特",
+      "name:ast": "Gante",
+      "name:pcd": "Gand",
+      "name:zh-Hans": "根特",
+      "name:zh-Hant": "根特"
+    }
+  },
+  {
+    "name": "Gherla",
+    "country": "Romania",
+    "latitude": 47.03024434217439,
+    "longitude": 23.90635307456238,
+    "other_names": {
+      "name": "Gherla",
+      "name:hu": "Szamosújvár"
+    }
+  },
+  {
+    "name": "Ghorahi",
+    "country": "Nepal",
+    "latitude": 28.039725399941815,
+    "longitude": 82.4853955,
+    "other_names": {
+      "name": "घोराही",
+      "name:en": "Ghorahi",
+      "name:ne": "घोराही"
+    }
+  },
+  {
+    "name": "Ghotki",
+    "country": "Pakistan",
+    "latitude": 28.006656599945497,
+    "longitude": 69.31510429999999,
+    "other_names": {
+      "name": "گھوٹکی",
+      "name:ar": "كهوتكي",
+      "name:de": "Ghotki",
+      "name:en": "Ghotki",
+      "name:fa": "گهوتکی",
+      "name:fr": "Ghotki",
+      "name:ks": "گھوٹکی",
+      "name:sd": "گهوٽڪي",
+      "name:ur": "گھوٹکی",
+      "name:azb": "گهوتکی",
+      "name:pnb": "گھوٹکی",
+      "name:skr": "گھوٹکی"
+    }
+  },
+  {
+    "name": "Ghurayfah",
+    "country": "Libya",
+    "latitude": 26.52588670010943,
+    "longitude": 13.009949099999998,
+    "other_names": {
+      "name": "الغريفة",
+      "name:ar": "الغريفة",
+      "name:de": "Al Ghurayfah",
+      "name:en": "Ghurayfah",
+      "name:fr": "Ghurayfah",
+      "name:it": "Al-Gurayfah",
+      "alt_name": "الغريفه",
+      "alt_name:ar": "الغريفه"
+    }
+  },
+  {
+    "name": "Gia Nghĩa",
+    "country": "Vietnam",
+    "latitude": 12.000598599580437,
+    "longitude": 107.69602589999998,
+    "other_names": {
+      "name": "Gia Nghĩa",
+      "name:ko": "자응이어",
+      "name:zh": "嘉义市",
+      "name:zh-Hant": "嘉義市",
+      "official_name": "Thành phố Gia Nghĩa",
+      "official_name:en": "Gia Nghia City",
+      "official_name:vi": "Thành phố Gia Nghĩa"
+    }
+  },
+  {
+    "name": "Gifu",
+    "country": "Japan",
+    "latitude": 35.42309489968324,
+    "longitude": 136.76275259999997,
+    "other_names": {
+      "name": "岐阜市",
+      "name:cs": "Gifu",
+      "name:en": "Gifu",
+      "name:et": "Gifu",
+      "name:fr": "Gifu",
+      "name:ja": "岐阜市",
+      "name:ko": "기후시",
+      "name:sr": "Гифу",
+      "int_name": "Gifu",
+      "name:ja_kana": "ぎふし"
+    }
+  },
+  {
+    "name": "Gijón",
+    "country": "Spain",
+    "latitude": 43.54503940054168,
+    "longitude": -5.662644299999999,
+    "other_names": {
+      "name": "Gijón/Xixón",
+      "name:ar": "خيخون",
+      "name:ca": "Gijón",
+      "name:el": "Χιχόν",
+      "name:en": "Gijón",
+      "name:es": "Gijón",
+      "name:et": "Gijón",
+      "name:eu": "Kixoi",
+      "name:fi": "Gijón",
+      "name:fr": "Gijon",
+      "name:gl": "Xixón",
+      "name:ru": "Хихон",
+      "name:sr": "Хихон",
+      "alt_name": "Xixón",
+      "int_name": "Gijón/Xixón",
+      "name:ast": "Xixón",
+      "old_name": "Gijón",
+      "name:zh-Hans": "希洪",
+      "name:zh-Hant": "希洪",
+      "official_name": "Gijón/Xixón"
+    }
+  },
+  {
+    "name": "Gilbert",
+    "country": "United States Of America",
+    "latitude": 33.3527631995885,
+    "longitude": -111.78903729999999,
+    "other_names": {
+      "name": "Gilbert",
+      "name:ru": "Гилберт",
+      "name:uk": "Гілберт"
+    }
+  },
+  {
+    "name": "Gilgit",
+    "country": "Pakistan",
+    "latitude": 35.920810199727754,
+    "longitude": 74.314044,
+    "other_names": {
+      "name": "گلگت",
+      "name:ar": "كلكت",
+      "name:cs": "Gilgit",
+      "name:de": "Gilgit",
+      "name:en": "Gilgit",
+      "name:es": "Gilgit",
+      "name:et": "Gilgit",
+      "name:fa": "گلگت",
+      "name:fr": "Gilgit",
+      "name:hi": "गिलगित",
+      "name:ja": "ギルギット",
+      "name:kn": "ಗಿಲ್ಗಿಟ್",
+      "name:pl": "Gilgit",
+      "name:ru": "Гилгит",
+      "name:uk": "Гілгіт",
+      "name:ur": "گلگت",
+      "name:zh": "吉爾吉特",
+      "name:bsk": "Geelt",
+      "name:scl": "گلیت",
+      "old_name": "Sargin",
+      "alt_name:ar": "كلكيت;غلغيت;غيلغيت;غلغت"
+    }
+  },
+  {
+    "name": "Gillette",
+    "country": "United States Of America",
+    "latitude": 44.29063500052034,
+    "longitude": -105.501876,
+    "other_names": {
+      "name": "Gillette",
+      "name:ru": "Джиллет"
+    }
+  },
+  {
+    "name": "Gilroy",
+    "country": "United States Of America",
+    "latitude": 37.00650779984912,
+    "longitude": -121.56317230000002,
+    "other_names": {
+      "name": "Gilroy"
+    }
+  },
+  {
+    "name": "Gimcheon-si",
+    "country": "South Korea",
+    "latitude": 36.07782999974336,
+    "longitude": 128.09022,
+    "other_names": {
+      "name": "김천시",
+      "name:de": "Gimcheon",
+      "name:en": "Gimcheon-si",
+      "name:es": "Gimcheon",
+      "name:et": "Gimcheon",
+      "name:fr": "Gimcheon",
+      "name:ja": "金泉市",
+      "name:ko": "김천시",
+      "name:zh": "金泉市",
+      "int_name": "Gimcheon",
+      "name:ko-Hani": "金泉市",
+      "name:ko-Latn": "Gimcheon-si"
+    }
+  },
+  {
+    "name": "Gimhae",
+    "country": "South Korea",
+    "latitude": 35.23109469966816,
+    "longitude": 128.8908228,
+    "other_names": {
+      "name": "김해시",
+      "name:de": "Gimhae",
+      "name:en": "Gimhae",
+      "name:es": "Gimhae",
+      "name:et": "Gimhae",
+      "name:fr": "Gimhae",
+      "name:ja": "金海市",
+      "name:ru": "Кимхэ",
+      "name:zh": "金海市",
+      "int_name": "Gimhae",
+      "name:ko-Hani": "金海市",
+      "name:ko-Latn": "Gimhae"
+    }
+  },
+  {
+    "name": "Gimje",
+    "country": "South Korea",
+    "latitude": 35.8038149997166,
+    "longitude": 126.88055700000001,
+    "other_names": {
+      "name": "김제시",
+      "name:de": "Gimje",
+      "name:en": "Gimje",
+      "name:es": "Gimje",
+      "name:fr": "Gimje",
+      "name:ja": "金堤市",
+      "name:ko": "김제시",
+      "name:zh": "金堤市",
+      "int_name": "Gimje",
+      "name:ja-Hira": "きむじぇ",
+      "name:ko-Hani": "金堤市",
+      "name:ko-Latn": "Gimje-si"
+    }
+  },
+  {
+    "name": "Gimpo-si",
+    "country": "South Korea",
+    "latitude": 37.61546099992874,
+    "longitude": 126.7157891,
+    "other_names": {
+      "name": "김포시",
+      "name:de": "Gimpo",
+      "name:en": "Gimpo-si",
+      "name:es": "Gimpo",
+      "name:et": "Gimpo",
+      "name:fr": "Gimpo",
+      "name:ja": "金浦市",
+      "name:ko": "김포시",
+      "name:zh": "金浦市",
+      "int_name": "Gimpo",
+      "name:ko-Hani": "金浦市"
+    }
+  },
+  {
+    "name": "Gingoog",
+    "country": "Philippines",
+    "latitude": 8.8242681993976,
+    "longitude": 125.1041806,
+    "other_names": {
+      "name": "Gingoog",
+      "name:ja": "ヒンゴオグ",
+      "name:ru": "Гингоог"
+    }
+  },
+  {
+    "name": "Ginowan",
+    "country": "Japan",
+    "latitude": 26.281583900135267,
+    "longitude": 127.7785754,
+    "other_names": {
+      "name": "宜野湾市",
+      "name:ar": "غينوان، أوكيناوا",
+      "name:de": "Ginowan",
+      "name:en": "Ginowan",
+      "name:es": "Ginowan",
+      "name:fr": "Ginowan",
+      "name:ja": "宜野湾市",
+      "name:ko": "기노완시",
+      "name:pl": "Ginowan",
+      "name:ru": "Гинован",
+      "name:uk": "Ґінован",
+      "name:zh": "宜野湾市",
+      "name:ja_rm": "Ginowan-shi",
+      "name:ja_kana": "ぎのわんし",
+      "name:zh-Hans": "宜野湾市",
+      "name:zh-Hant": "宜野灣市"
+    }
+  }
+]

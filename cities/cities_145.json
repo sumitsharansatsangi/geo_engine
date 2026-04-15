@@ -1,0 +1,359 @@
+[
+  {
+    "name": "Galway",
+    "country": "Ireland And Northern Ireland",
+    "latitude": 53.274412199101135,
+    "longitude": -9.0490601,
+    "other_names": {
+      "name": "Galway",
+      "name:da": "Galway",
+      "name:en": "Galway",
+      "name:ga": "Gaillimh",
+      "name:he": "גולווי",
+      "name:ko": "골웨이",
+      "name:la": "Galvia",
+      "name:mk": "Голвеј",
+      "name:ru": "Голуэй",
+      "name:sr": "Голвеј"
+    }
+  },
+  {
+    "name": "Gama",
+    "country": "Brazil",
+    "latitude": -16.017085700437615,
+    "longitude": -48.0653054,
+    "other_names": {
+      "name": "Gama",
+      "alt_name": "RA II",
+      "loc_name": "RA 2",
+      "reg_name": "Região Administrativa Dois"
+    }
+  },
+  {
+    "name": "Gamagori",
+    "country": "Japan",
+    "latitude": 34.83392899964093,
+    "longitude": 137.225163,
+    "other_names": {
+      "name": "蒲郡市",
+      "name:ar": "غاماغوري، آيتشي",
+      "name:de": "Gamagōri",
+      "name:en": "Gamagori",
+      "name:es": "Gamagōri",
+      "name:fr": "Gamagōri",
+      "name:ja": "蒲郡市",
+      "name:ko": "가마고리시",
+      "name:pl": "Gamagōri",
+      "name:ru": "Гамагори",
+      "name:uk": "Ґамаґорі",
+      "name:ja_rm": "Gamagori-shi"
+    }
+  },
+  {
+    "name": "Gamba",
+    "country": "China",
+    "latitude": 28.27341629991586,
+    "longitude": 88.51152250000001,
+    "other_names": {
+      "name": "岗巴县",
+      "name:bo": "གམ་པ།",
+      "name:en": "Gamba",
+      "name:it": "Gamba",
+      "name:vi": "Gamba",
+      "name:zh": "岗巴县",
+      "alt_name": "岗巴;Kang-pa Hsien;Gamba County;Kamba County;Kamba;Gangba County",
+      "alt_name:vi": "Cương Ba",
+      "name:zh-Hant": "崗巴縣",
+      "name:zh_pinyin": "Gǎngbā Xiàn"
+    }
+  },
+  {
+    "name": "Gambela",
+    "country": "Ethiopia",
+    "latitude": 8.250365599390737,
+    "longitude": 34.5877344,
+    "other_names": {
+      "name": "ጋምቤላ / Gambela",
+      "name:am": "ጋምቤላ",
+      "name:ar": "غامبلا",
+      "name:de": "Gambela",
+      "name:en": "Gambela",
+      "name:es": "Gambela",
+      "name:fr": "Gambela",
+      "name:it": "Gambella",
+      "name:ko": "감벨라",
+      "name:ru": "Гамбела",
+      "name:uk": "Гамбела"
+    }
+  },
+  {
+    "name": "Gampaha",
+    "country": "Sri Lanka",
+    "latitude": 7.092559499402837,
+    "longitude": 79.9951396,
+    "other_names": {
+      "name": "ගම්පහ",
+      "name:en": "Gampaha",
+      "name:ja": "ガンパハ",
+      "name:kn": "ಗಂಪಹ",
+      "name:ru": "Гампаха",
+      "name:si": "ගම්පහ"
+    }
+  },
+  {
+    "name": "Gandhinagar",
+    "country": "India",
+    "latitude": 23.22328770037484,
+    "longitude": 72.6492267,
+    "other_names": {
+      "name": "Gandhinagar",
+      "name:ar": "غاندي نغر",
+      "name:cs": "Gándhínagar",
+      "name:gu": "ગાંધીનગર",
+      "name:he": "גנדינאגאר",
+      "name:hi": "गाँधीनगर",
+      "name:ja": "ガンディーナガル",
+      "name:kn": "ಗಾಂಧಿನಗರ",
+      "name:pa": "ਗਾਂਧੀਨਗਰ",
+      "name:ru": "Гандинагар",
+      "name:sr": "Гандинагар",
+      "name:ta": "காந்திநகர்",
+      "name:uk": "Ґандінаґар",
+      "name:ur": "گاندھی نگر",
+      "alt_name:hi": "गांधीनगर"
+    }
+  },
+  {
+    "name": "Ganganagar",
+    "country": "India",
+    "latitude": 29.909260210203612,
+    "longitude": 73.8746725705563,
+    "other_names": {
+      "name": "Ganganagar",
+      "name:hi": "गंगानगर",
+      "name:pa": "ਗੰਗਾਨਗਰ"
+    }
+  },
+  {
+    "name": "Gangapur",
+    "country": "India",
+    "latitude": 26.477689400114574,
+    "longitude": 76.72280279999998,
+    "other_names": {
+      "name": "Gangapur",
+      "name:hi": "गंगापुर"
+    }
+  },
+  {
+    "name": "Gangawati",
+    "country": "India",
+    "latitude": 15.431506199958227,
+    "longitude": 76.5327743,
+    "other_names": {
+      "name": "Gangawati",
+      "name:kn": "ಗಂಗಾವತಿ"
+    }
+  },
+  {
+    "name": "Gangbei",
+    "country": "China",
+    "latitude": 23.114383800379485,
+    "longitude": 109.56825269999999,
+    "other_names": {
+      "name": "港北区",
+      "name:en": "Gangbei",
+      "name:vi": "Cảng Bắc",
+      "name:zh": "港北区",
+      "alt_name": "港北;Gangbei District",
+      "name:yue": "港北区",
+      "name:zh-Hant": "港北區",
+      "name:yue-Latn": "Gongbak-keoi",
+      "name:zh_pinyin": "gǎngběi qū"
+    }
+  },
+  {
+    "name": "Gangcheng",
+    "country": "China",
+    "latitude": 36.05978369974152,
+    "longitude": 117.80536349999997,
+    "other_names": {
+      "name": "钢城区",
+      "name:en": "Gangcheng",
+      "name:vi": "Cương Thành",
+      "name:zh": "钢城区",
+      "name:zh-Hant": "鋼城區",
+      "name:zh_pinyin": "Gangcheng Qu"
+    }
+  },
+  {
+    "name": "Gangkou District",
+    "country": "China",
+    "latitude": 21.63093260041018,
+    "longitude": 108.35144949999999,
+    "other_names": {
+      "name": "港口区",
+      "name:de": "Gangkou",
+      "name:en": "Gangkou District",
+      "name:fr": "District de Gangkou",
+      "name:it": "Distretto di Gangkou",
+      "name:ja": "港口区",
+      "name:ko": "강커우구",
+      "name:no": "Gangkou",
+      "name:ru": "Ганкоу",
+      "name:sv": "Gangkou",
+      "name:vi": "Cảng Khẩu",
+      "name:zh": "港口区",
+      "alt_name": "港口;Gangkou District",
+      "name:ceb": "Gangkou Qu",
+      "name:hak": "Kóng-héu-khî",
+      "name:nan": "Káng-kháu-khu",
+      "name:yue": "港口区",
+      "name:zh-Hant": "港口區",
+      "name:yue-Latn": "Gonghau-ki",
+      "name:zh_pinyin": "gǎngkǒu qū"
+    }
+  },
+  {
+    "name": "Gangnan",
+    "country": "China",
+    "latitude": 23.077837000380974,
+    "longitude": 109.59926569999999,
+    "other_names": {
+      "name": "港南区",
+      "name:en": "Gangnan",
+      "name:zh": "港南区",
+      "alt_name": "港南;Gangnan District",
+      "name:yue": "港南区",
+      "name:zh-Hant": "港南區",
+      "name:yue-Latn": "Gongnom-keoi",
+      "name:zh_pinyin": "gǎngnán qū"
+    }
+  },
+  {
+    "name": "Gangneung-si",
+    "country": "South Korea",
+    "latitude": 37.75253129994749,
+    "longitude": 128.87595229999997,
+    "other_names": {
+      "name": "강릉시",
+      "name:de": "Gangneung",
+      "name:el": "Γκάνγκνουνγκ",
+      "name:en": "Gangneung-si",
+      "name:es": "Gangneung",
+      "name:et": "Gangneung",
+      "name:fr": "Gangneung",
+      "name:ja": "江陵市",
+      "name:ko": "강릉시",
+      "name:ru": "Каннын",
+      "name:uk": "Каннин",
+      "name:vi": "Gangneung",
+      "name:zh": "江陵市",
+      "int_name": "Gangneung",
+      "alt_name:vi": "Giang Lăng",
+      "name:ja-Hira": "かんぬんし",
+      "name:ko-Hani": "江陵市",
+      "name:ko-Latn": "Gangneung-si"
+    }
+  },
+  {
+    "name": "Gangtok",
+    "country": "India",
+    "latitude": 27.329046000021332,
+    "longitude": 88.61226729999998,
+    "other_names": {
+      "name": "Gangtok",
+      "name:ar": "غانتوك",
+      "name:bn": "গাংটক",
+      "name:bo": "སྒང་ཐོག",
+      "name:cs": "Gangtok",
+      "name:en": "Gangtok",
+      "name:et": "Gangtok",
+      "name:fa": "گنگتوک",
+      "name:he": "גנגטוק",
+      "name:hi": "गंगटोक",
+      "name:ja": "ガントク",
+      "name:kn": "ಗಂಗ್ಟೋಕ್",
+      "name:ne": "गान्तोक",
+      "name:nl": "Gangtok",
+      "name:pa": "ਗੰਗਟੋਕ",
+      "name:ru": "Гангток",
+      "name:ta": "கேங்டாக்",
+      "name:ur": "گینگٹاک"
+    }
+  },
+  {
+    "name": "Gangu",
+    "country": "China",
+    "latitude": 34.73395349963493,
+    "longitude": 105.33177169999999,
+    "other_names": {
+      "name": "甘谷县",
+      "name:en": "Gangu",
+      "name:ja": "甘谷県",
+      "name:ru": "Ганьгу",
+      "name:vi": "Cam Cốc",
+      "name:zh": "甘谷县",
+      "alt_name": "甘谷县;大像山镇;Daxiangshan",
+      "name:zh-Hant": "甘谷縣"
+    }
+  },
+  {
+    "name": "Ganja",
+    "country": "Azerbaijan",
+    "latitude": 40.67980830035486,
+    "longitude": 46.3597178,
+    "other_names": {
+      "name": "Gəncə",
+      "name:ar": "كنجه",
+      "name:az": "Gəncə",
+      "name:de": "Gandscha",
+      "name:en": "Ganja",
+      "name:es": "Ganyá",
+      "name:fr": "Gəncə",
+      "name:hi": "गांजा",
+      "name:hy": "Գանձակ",
+      "name:ja": "ギャンジャ",
+      "name:lt": "Gendžė",
+      "name:pl": "Gandża",
+      "name:ru": "Гянджа",
+      "name:tr": "Gence",
+      "int_name": "Ganja",
+      "old_name:de": "Kirowabad"
+    }
+  },
+  {
+    "name": "Ganja",
+    "country": "Azerbaijan",
+    "latitude": 40.68127076088428,
+    "longitude": 46.35020467141995,
+    "other_names": {
+      "name": "Gəncə",
+      "name:ar": "كنجه",
+      "name:az": "Gəncə",
+      "name:de": "Gandscha",
+      "name:en": "Ganja",
+      "name:es": "Ganyá",
+      "name:fa": "گنجه",
+      "name:hi": "गांजा",
+      "name:ru": "Гянджа",
+      "name:tr": "Gence",
+      "int_name": "Ganja",
+      "old_name:de": "Kirowabad"
+    }
+  },
+  {
+    "name": "Ganjingzi",
+    "country": "China",
+    "latitude": 38.95033170011871,
+    "longitude": 121.52423820000001,
+    "other_names": {
+      "name": "甘井子区",
+      "name:en": "Ganjingzi",
+      "name:ja": "甘井子区",
+      "name:ko": "간징쯔구",
+      "name:zh": "甘井子区",
+      "alt_name": "甘井子;Ganjingzi City",
+      "name:zh-Hant": "甘井子區"
+    }
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "name": "Pescara",
+    "country": "Italy",
+    "latitude": 42.469613000516034,
+    "longitude": 14.205926899999998,
+    "other_names": {
+      "name": "Pescara",
+      "name:el": "Πεσκάρα",
+      "name:en": "Pescara",
+      "name:eo": "Peskaro",
+      "name:ru": "Пескара",
+      "name:uk": "Пескара",
+      "name:zh": "佩斯卡拉",
+      "name:zh-Hant": "佩斯卡拉"
+    }
+  },
+  {
+    "name": "Peshawar",
+    "country": "Pakistan",
+    "latitude": 34.01238459960209,
+    "longitude": 71.57874579999998,
+    "other_names": {
+      "name": "پشاور‎",
+      "name:ar": "بيشاور",
+      "name:cs": "Pešávar",
+      "name:de": "Peschawar",
+      "name:en": "Peshawar",
+      "name:eo": "Peŝavaro",
+      "name:es": "Peshawar",
+      "name:et": "Peshāwar",
+      "name:fa": "پيشور",
+      "name:fi": "Peshāwar",
+      "name:fr": "Peshawar",
+      "name:he": "פשוואר",
+      "name:hi": "पेशावर",
+      "name:it": "Peshawar",
+      "name:ja": "ペシャーワル",
+      "name:kn": "ಪೇಶಾವರ್",
+      "name:ml": "പെഷവാർ",
+      "name:nl": "Pesjawar",
+      "name:pl": "Peszawar",
+      "name:ps": "پېښور",
+      "name:pt": "Peshawar",
+      "name:ru": "Пешавар",
+      "name:ta": "பெஷாவர்",
+      "name:uk": "Пешавар",
+      "name:ur": "پشاور‎",
+      "name:zh": "白沙瓦"
+    }
+  },
+  {
+    "name": "Peso da Régua",
+    "country": "Portugal",
+    "latitude": 41.16370430041004,
+    "longitude": -7.7875821,
+    "other_names": {
+      "name": "Peso da Régua",
+      "alt_name": "Régua"
+    }
+  },
+  {
+    "name": "Petah Tikva",
+    "country": "Israel And Palestine",
+    "latitude": 32.088602935795805,
+    "longitude": 34.88221198812549,
+    "other_names": {
+      "name": "פתח תקווה",
+      "name:ar": "بتاح تكفا",
+      "name:cs": "Petach Tikva",
+      "name:de": "Petah Tikwa",
+      "name:en": "Petah Tikva",
+      "name:fr": "Petah Tikva",
+      "name:he": "פתח תקווה",
+      "name:hi": "पेटा टिक्वा",
+      "name:pl": "Petach Tikwa",
+      "name:ru": "Петах-Тиква",
+      "int_name": "Petah Tiqwa",
+      "alt_name:en": "Petah Tiqwa;Petah Tikwa"
+    }
+  },
+  {
+    "name": "Petah Tikva",
+    "country": "Israel And Palestine",
+    "latitude": 32.087763899605434,
+    "longitude": 34.88599849999999,
+    "other_names": {
+      "name": "פתח תקווה",
+      "name:am": "ፔታህ ቲቅቫ",
+      "name:ar": "بتاح تكفا",
+      "name:cs": "Petach Tikva",
+      "name:de": "Petah Tikwa",
+      "name:en": "Petah Tikva",
+      "name:es": "Petaj Tikva",
+      "name:et": "Petaẖ-Tikva",
+      "name:fi": "Petah Tikva",
+      "name:fr": "Petah Tikva",
+      "name:he": "פתח תקווה",
+      "name:hi": "पेटा टिक्वा",
+      "name:ja": "ペタク・チクヴァ",
+      "name:ml": "പേറ്റ തിക്വ",
+      "name:ru": "Петах-Тиква",
+      "name:he1": "פֶּתַח תִּקְוָה",
+      "alt_name:cs": "Brána k Naději",
+      "name:zh-Hans": "佩塔·提卡",
+      "name:zh-Hant": "佩塔·提卡"
+    }
+  },
+  {
+    "name": "Petaling Jaya",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 3.099175199672582,
+    "longitude": 101.64502319999998,
+    "other_names": {
+      "name": "Petaling Jaya",
+      "name:ar": "بيتالينغ جايا",
+      "name:ja": "プタリン・ジャヤ",
+      "name:my": "ပီတလင်း ဂျာယားမြို့",
+      "name:ta": "பெடாலிங் ஜெயா",
+      "name:zh": "八打灵再也"
+    }
+  },
+  {
+    "name": "Petaluma",
+    "country": "United States Of America",
+    "latitude": 38.232582900014975,
+    "longitude": -122.636465,
+    "other_names": {
+      "name": "Petaluma"
+    }
+  },
+  {
+    "name": "Peterborough",
+    "country": "England",
+    "latitude": 52.572576899086194,
+    "longitude": -0.24273360000000002,
+    "other_names": {
+      "name": "Peterborough",
+      "name:cy": "Trebedr",
+      "name:en": "Peterborough",
+      "name:hu": "Peterborough",
+      "name:ko": "피터버러",
+      "name:lt": "Piterboras",
+      "name:mk": "Питерборо",
+      "name:ru": "Питерборо",
+      "name:sr": "Питерборо",
+      "name:uk": "Пітерборо"
+    }
+  },
+  {
+    "name": "Peterborough",
+    "country": "Canada",
+    "latitude": 44.30480090051959,
+    "longitude": -78.3199496,
+    "other_names": {
+      "name": "Peterborough",
+      "name:en": "Peterborough",
+      "name:ru": "Питерборо",
+      "name:uk": "Пітерборо"
+    }
+  },
+  {
+    "name": "Petersburg",
+    "country": "United States Of America",
+    "latitude": 37.22792799987729,
+    "longitude": -77.4019268,
+    "other_names": {
+      "name": "Petersburg"
+    }
+  },
+  {
+    "name": "Pétion-Ville",
+    "country": "Haiti And Domrep",
+    "latitude": 18.5132181002778,
+    "longitude": -72.2860209,
+    "other_names": {
+      "name": "Pétion-Ville",
+      "pcode": "114",
+      "name:en": "Pétion-Ville",
+      "name:fr": "Pétionville",
+      "name:ht": "Petyonvil",
+      "name:hu": "Pétionville",
+      "name:alt": "Pétionville"
+    }
+  },
+  {
+    "name": "Petrolina",
+    "country": "Brazil",
+    "latitude": -9.381733399861075,
+    "longitude": -40.49688749999999,
+    "other_names": {
+      "name": "Petrolina",
+      "name:en": "Petrolina",
+      "name:ru": "Петролина",
+      "name:uk": "Петроліна"
+    }
+  },
+  {
+    "name": "Petropavl",
+    "country": "Kazakhstan",
+    "latitude": 54.88445032486387,
+    "longitude": 69.1624431054745,
+    "other_names": {
+      "name": "Петропавловск",
+      "name:be": "Петрапаўлаўск",
+      "name:de": "Petropawl",
+      "name:en": "Petropavl",
+      "name:et": "Petropavl",
+      "name:fr": "Petropavl",
+      "name:ja": "ペトロパブル",
+      "name:kk": "Петропавл",
+      "name:ko": "페트로파블",
+      "name:lt": "Petropavlas",
+      "name:pl": "Petropawł",
+      "name:ru": "Петропавловск",
+      "int_name": "Petropavlovsk",
+      "alt_name:pl": "Pietropawłowsk"
+    }
+  },
+  {
+    "name": "Petropavl",
+    "country": "Kazakhstan",
+    "latitude": 54.86681039938123,
+    "longitude": 69.1334984,
+    "other_names": {
+      "name": "Петропавловск",
+      "name:be": "Петрапаўлаўск",
+      "name:de": "Petropawl",
+      "name:en": "Petropavl",
+      "name:et": "Petropavl",
+      "name:fr": "Petropavl",
+      "name:ja": "ペトロパブル",
+      "name:kk": "Петропавл",
+      "name:ko": "페트로파블",
+      "name:lt": "Petropavlas",
+      "name:pl": "Petropawł",
+      "name:ru": "Петропавловск",
+      "int_name": "Petropavlovsk",
+      "alt_name:pl": "Pietropawłowsk"
+    }
+  },
+  {
+    "name": "Petropavlovsk-Kamchatsky",
+    "country": "Russia",
+    "latitude": 53.01998379908849,
+    "longitude": 158.64713559999998,
+    "other_names": {
+      "name": "Петропавловск-Камчатский",
+      "name:ar": "بيتروبافلوفسك-كامتشاتسكي",
+      "name:cs": "Petropavlovsk-Kamčatskij",
+      "name:da": "Petropavlovsk-Kamtjatskij",
+      "name:de": "Petropawlowsk-Kamtschatski",
+      "name:en": "Petropavlovsk-Kamchatsky",
+      "name:es": "Petropávlovsk-Kamchatski",
+      "name:et": "Petropavlovsk-Kamtšatski",
+      "name:fa": "پتروپاولوفسک-کامچاتسکیی",
+      "name:fi": "Petropavlovsk-Kamtšatski",
+      "name:fr": "Petropavlovsk-Kamtchatski",
+      "name:hr": "Petropavlovsk-Kamcatski",
+      "name:hu": "Petropavlovszk-Kamcsatszkij",
+      "name:hy": "Կամչատկայի Պետրոպավլովսկ",
+      "name:ja": "ペトロパブロフスク=カムチャツキー",
+      "name:ko": "페트로파블롭스크캄차츠키",
+      "name:lt": "Kamčiatkos Petropavlovskas",
+      "name:nl": "Petropavlovsk-Kamtsjatski",
+      "name:pl": "Pietropawłowsk Kamczacki",
+      "name:pt": "Petropavlovsk-Kamchatskiy",
+      "name:ru": "Петропавловск-Камчатский",
+      "name:sk": "Petropavlovsk-Kamčatskij",
+      "name:sl": "Petropavlovsk-Kamcatski",
+      "name:sv": "Petropavlovsk-Kamtjatskij",
+      "name:uk": "Петропавловськ-Камчатський",
+      "name:ur": "پٹروپاولوسک-کامچاٹسکی",
+      "name:zh": "彼得巴甫洛夫斯克"
+    }
+  },
+  {
+    "name": "Petropavlovsk-Kamchatsky",
+    "country": "Russia",
+    "latitude": 53.03308590408057,
+    "longitude": 158.7613846598756,
+    "other_names": {
+      "name": "Петропавловск-Камчатский",
+      "name:ar": "بيتروبافلوفسك-كامتشاتسكي",
+      "name:cs": "Petropavlovsk-Kamčatskij",
+      "name:da": "Petropavlovsk-Kamtjatskij",
+      "name:de": "Petropawlowsk-Kamtschatski",
+      "name:en": "Petropavlovsk-Kamchatsky",
+      "name:es": "Petropávlovsk-Kamchatski",
+      "name:fa": "پتروپاولوفسک-کامچاتسکیی",
+      "name:fi": "Petropavlovsk-Kamtšatski",
+      "name:fr": "Petropavlovsk-Kamtchatski",
+      "name:hr": "Petropavlovsk-Kamcatski",
+      "name:hu": "Petropavlovszk-Kamcsatszkij",
+      "name:hy": "Կամչատկայի Պետրոպավլովսկ",
+      "name:ja": "ペトロパブロフスク=カムチャツキー",
+      "name:ko": "페트로파블롭스크 캄차츠키",
+      "name:lt": "Kamčiatkos Petropavlovskas",
+      "name:nl": "Petropavlovsk-Kamtsjatski",
+      "name:pl": "Pietropawłowsk Kamczacki",
+      "name:pt": "Petropavlovsk-Kamchatskiy",
+      "name:ru": "Петропавловск-Камчатский",
+      "name:sl": "Petropavlovsk-Kamcatski",
+      "name:sv": "Petropavlovsk-Kamtjatskij",
+      "name:uk": "Петропавловськ-Камчатський",
+      "name:ur": "پٹروپاولوسک-کامچاٹسکی",
+      "name:zh": "堪察加彼得巴甫洛夫斯克"
+    }
+  },
+  {
+    "name": "Petrópolis",
+    "country": "Brazil",
+    "latitude": -22.50757430013286,
+    "longitude": -43.17853559999999,
+    "other_names": {
+      "name": "Petrópolis"
+    }
+  },
+  {
+    "name": "Petroșani",
+    "country": "Romania",
+    "latitude": 45.41439070042341,
+    "longitude": 23.374090399999996,
+    "other_names": {
+      "name": "Petroșani",
+      "name:de": "Petroschen",
+      "name:hu": "Petrozsény",
+      "name:lt": "Petrošanis",
+      "name:pl": "Petroszany",
+      "name:ru": "Петрошани",
+      "name:uk": "Петрошань",
+      "old_name:de": "Steinthal",
+      "old_name:pl": "Piotroszany"
+    }
+  },
+  {
+    "name": "Petroșani",
+    "country": "Romania",
+    "latitude": 45.4111614554781,
+    "longitude": 23.373393022733744,
+    "other_names": {
+      "name": "Petroșani"
+    }
+  },
+  {
+    "name": "Petrozavodsk",
+    "country": "Russia",
+    "latitude": 61.79003900162738,
+    "longitude": 34.390007,
+    "other_names": {
+      "name": "Петрозаводск",
+      "name:ca": "Petrozavodsk",
+      "name:cs": "Petrozavodsk",
+      "name:de": "Petrosawodsk",
+      "name:en": "Petrozavodsk",
+      "name:es": "Petrozavodsk",
+      "name:et": "Petroskoi",
+      "name:fi": "Petroskoi",
+      "name:fr": "Petrozavodsk",
+      "name:hu": "Petrozavodsk",
+      "name:ko": "페트로자보츠크",
+      "name:lt": "Petrozavodskas",
+      "name:pl": "Pietrozawodsk",
+      "name:ru": "Петрозаводск",
+      "name:sk": "Petrozavodsk",
+      "name:sr": "Петрозаводск",
+      "name:sv": "Petrozavodsk",
+      "name:uk": "Петрозаводськ",
+      "int_name": "Petrozavodsk",
+      "name:krl": "Petroskoi"
+    }
+  }
+]

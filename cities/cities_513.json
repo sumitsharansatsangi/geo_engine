@@ -1,0 +1,295 @@
+[
+  {
+    "name": "Whitby",
+    "country": "Canada",
+    "latitude": 43.879820000536256,
+    "longitude": -78.9421751,
+    "other_names": {
+      "name": "Whitby"
+    }
+  },
+  {
+    "name": "Whitehorse",
+    "country": "Canada",
+    "latitude": 60.72157100174331,
+    "longitude": -135.054932,
+    "other_names": {
+      "name": "Whitehorse",
+      "name:en": "Whitehorse",
+      "name:pl": "Whitehorse",
+      "name:ru": "Уайтхорс",
+      "name:uk": "Вайтхорс",
+      "name:ckb": "وایت هۆرس"
+    }
+  },
+  {
+    "name": "Whyalla",
+    "country": "Australia",
+    "latitude": -33.03820849953352,
+    "longitude": 137.58435720000003,
+    "other_names": {
+      "name": "Whyalla",
+      "name:en": "Whyalla",
+      "name:ja": "ワイアラ",
+      "name:ru": "Уайалла",
+      "name:uk": "Вайалла"
+    }
+  },
+  {
+    "name": "Whydah",
+    "country": "Benin",
+    "latitude": 6.366614699427594,
+    "longitude": 2.0853599,
+    "other_names": {
+      "name": "Ouidah",
+      "name:ar": "أويدا",
+      "name:de": "Ouidah",
+      "name:en": "Whydah",
+      "name:fr": "Ouidah",
+      "name:ko": "우이다",
+      "name:ru": "Вида",
+      "name:uk": "Віда",
+      "name:yo": "Xwéda",
+      "alt_name": "Hweda"
+    }
+  },
+  {
+    "name": "Wichita",
+    "country": "United States Of America",
+    "latitude": 37.692236099939215,
+    "longitude": -97.33754479999999,
+    "other_names": {
+      "name": "Wichita",
+      "name:ru": "Уичито"
+    }
+  },
+  {
+    "name": "Wichita Falls",
+    "country": "United States Of America",
+    "latitude": 33.913708499599075,
+    "longitude": -98.4933873,
+    "other_names": {
+      "name": "Wichita Falls",
+      "name:ru": "Уичито-Фолс"
+    }
+  },
+  {
+    "name": "Wiesbaden",
+    "country": "Germany",
+    "latitude": 50.08203839943382,
+    "longitude": 8.2416556,
+    "other_names": {
+      "name": "Wiesbaden",
+      "name:ar": "فيسبادن",
+      "name:de": "Wiesbaden",
+      "name:ja": "ヴィースバーデン",
+      "name:la": "Aquae Mattiacae",
+      "name:lt": "Vysbadenas",
+      "name:ru": "Висбаден",
+      "name:sr": "Висбаден",
+      "name:uk": "Вісбаден",
+      "name:zh": "威斯巴登",
+      "name:nds": "Wiesbaden",
+      "alt_name:la": "Aquae Mattiacorum",
+      "name:zh-Hans": "威斯巴登",
+      "name:zh-Hant": "威斯巴登"
+    }
+  },
+  {
+    "name": "Wilkes-Barre",
+    "country": "United States Of America",
+    "latitude": 41.246482400418714,
+    "longitude": -75.88173159999998,
+    "other_names": {
+      "name": "Wilkes-Barre",
+      "name:en": "Wilkes-Barre",
+      "name:ru": "Уилкс-Барре"
+    }
+  },
+  {
+    "name": "Williams Lake",
+    "country": "Canada",
+    "latitude": 52.12926569910728,
+    "longitude": -122.1397259,
+    "other_names": {
+      "name": "Williams Lake",
+      "name:en": "Williams Lake",
+      "name:ru": "Уильямс-Лейк"
+    }
+  },
+  {
+    "name": "Williamsport",
+    "country": "United States Of America",
+    "latitude": 41.249329200419034,
+    "longitude": -77.00276709999999,
+    "other_names": {
+      "name": "Williamsport",
+      "name:ru": "Уильямспорт"
+    }
+  },
+  {
+    "name": "Williston",
+    "country": "United States Of America",
+    "latitude": 48.14654569990251,
+    "longitude": -103.621814,
+    "other_names": {
+      "name": "Williston",
+      "name:zh": "威利斯顿"
+    }
+  },
+  {
+    "name": "Wilmington",
+    "country": "United States Of America",
+    "latitude": 39.74594680023239,
+    "longitude": -75.546589,
+    "other_names": {
+      "name": "Wilmington",
+      "name:ru": "Уилмингтон",
+      "name:zh": "威尔明顿"
+    }
+  },
+  {
+    "name": "Wilmington",
+    "country": "United States Of America",
+    "latitude": 34.22572819960988,
+    "longitude": -77.9447107,
+    "other_names": {
+      "name": "Wilmington",
+      "name:en": "Wilmington",
+      "name:ru": "Уилмингтон",
+      "name:uk": "Вілмінгтон"
+    }
+  },
+  {
+    "name": "Winchester",
+    "country": "England",
+    "latitude": 51.061276599238965,
+    "longitude": -1.3131692,
+    "other_names": {
+      "name": "Winchester",
+      "name:cy": "Caerwynt",
+      "name:mk": "Винчестер",
+      "name:ru": "Винчестер",
+      "name:sr": "Винчестер",
+      "name:uk": "Вінчестер"
+    }
+  },
+  {
+    "name": "Winchester",
+    "country": "United States Of America",
+    "latitude": 39.1852184001527,
+    "longitude": -78.16524040000002,
+    "other_names": {
+      "name": "Winchester",
+      "name:en": "Winchester",
+      "name:ru": "Уинчестер",
+      "name:uk": "Вінчестер"
+    }
+  },
+  {
+    "name": "Windhoek",
+    "country": "Namibia",
+    "latitude": -22.57439220012415,
+    "longitude": 17.0790688,
+    "other_names": {
+      "name": "Windhoek",
+      "name:am": "ዊንድሁክ",
+      "name:ar": "ويندهوك",
+      "name:az": "Vindhuk",
+      "name:be": "Віндхук",
+      "name:bg": "Виндхук",
+      "name:bo": "ཝིན་ཌི་ཧོཡིཀ།",
+      "name:cs": "Windhoek",
+      "name:de": "Windhuk",
+      "name:el": "Βίντχουκ",
+      "name:en": "Windhoek",
+      "name:eo": "Vindhuko",
+      "name:es": "Windhoek",
+      "name:fa": "ویندهوک",
+      "name:fr": "Windhoek",
+      "name:fy": "Wynhoeke",
+      "name:he": "וינדהוק",
+      "name:ht": "Windoèk",
+      "name:hu": "Windhoek",
+      "name:hy": "Վինդհուկ",
+      "name:is": "Windhoek",
+      "name:ja": "ウィントフック",
+      "name:ka": "ვინდჰუკი",
+      "name:ko": "빈트후크",
+      "name:lt": "Vindhukas",
+      "name:lv": "Vindhuka",
+      "name:mk": "Виндхук",
+      "name:mr": "विंडहोक",
+      "name:oc": "Windhoek",
+      "name:os": "Виндхук",
+      "name:pa": "ਵਿੰਟਹੁਕ",
+      "name:pl": "Windhuk",
+      "name:pt": "Vinduque",
+      "name:ru": "Виндхук",
+      "name:sr": "Виндхук",
+      "name:sv": "Windhoek",
+      "name:ta": "விந்தோக்",
+      "name:tg": "Виндхук",
+      "name:th": "วินด์ฮุก",
+      "name:uk": "Віндгук",
+      "name:ur": "ونڈہوک",
+      "name:zh": "温得和克",
+      "name:bxr": "Виндхук",
+      "name:ckb": "ویندھۆک",
+      "name:khi": "Ai-Gams",
+      "name:mrj": "Виндхук",
+      "name:nds": "Windhuk",
+      "name:nov": "Windhuk",
+      "name:pnb": "ونڈہوک",
+      "name:udm": "Виндхук",
+      "name:be-tarask": "Ўіндгук"
+    }
+  },
+  {
+    "name": "Windsor",
+    "country": "Canada",
+    "latitude": 42.3170990005075,
+    "longitude": -83.03534339999999,
+    "other_names": {
+      "name": "Windsor",
+      "name:he": "וינדזור",
+      "name:ru": "Виндзор"
+    }
+  },
+  {
+    "name": "Winkler",
+    "country": "Canada",
+    "latitude": 49.187088999646114,
+    "longitude": -97.937622,
+    "other_names": {
+      "name": "Winkler",
+      "name:uk": "Вінклер"
+    }
+  },
+  {
+    "name": "Winnipeg",
+    "country": "Canada",
+    "latitude": 49.8955366994762,
+    "longitude": -97.13845839999999,
+    "other_names": {
+      "name": "Winnipeg",
+      "name:ar": "وينيبج",
+      "name:de": "Winnipeg",
+      "name:en": "Winnipeg",
+      "name:ru": "Виннипег",
+      "name:uk": "Вінніпег",
+      "name:ckb": "وینیپێگ",
+      "alt_name:uk": "Вінніпеґ"
+    }
+  },
+  {
+    "name": "Winsted",
+    "country": "United States Of America",
+    "latitude": 41.92676948980552,
+    "longitude": -73.06742781376798,
+    "other_names": {
+      "name": "Winsted",
+      "name:uk": "Вінстед"
+    }
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "name": "Cartaxo",
+    "country": "Portugal",
+    "latitude": 39.161919200149335,
+    "longitude": -8.7862444,
+    "other_names": {
+      "name": "Cartaxo"
+    }
+  },
+  {
+    "name": "Carthage",
+    "country": "Tunisia",
+    "latitude": 36.854808299830424,
+    "longitude": 10.3309924,
+    "other_names": {
+      "name": "قرطاج",
+      "name:ar": "قرطاج",
+      "name:de": "Karthago",
+      "name:en": "Carthage",
+      "name:es": "Cartago",
+      "name:fr": "Carthage",
+      "name:it": "Cartagine",
+      "name:la": "Karthago",
+      "name:ru": "Карфаген",
+      "name:tr": "Kartaca",
+      "name:vi": "Cathago",
+      "name:kab": "Qarṭaj"
+    }
+  },
+  {
+    "name": "Caruaru",
+    "country": "Brazil",
+    "latitude": -8.282970199778466,
+    "longitude": -35.9722852,
+    "other_names": {
+      "name": "Caruaru",
+      "name:bg": "Каруару",
+      "name:en": "Caruaru",
+      "name:ja": "カルアル",
+      "name:kk": "Каруару",
+      "name:lt": "Karuaru",
+      "name:pt": "Caruaru",
+      "name:ru": "Каруару",
+      "name:sr": "Каруару",
+      "name:zh": "卡魯阿魯",
+      "alt_name": "Base TR"
+    }
+  },
+  {
+    "name": "Carúpano",
+    "country": "Venezuela",
+    "latitude": 10.648832499474755,
+    "longitude": -63.2551988,
+    "other_names": {
+      "name": "Carúpano"
+    }
+  },
+  {
+    "name": "Cary",
+    "country": "United States Of America",
+    "latitude": 35.78828929971516,
+    "longitude": -78.7812081,
+    "other_names": {
+      "name": "Cary"
+    }
+  },
+  {
+    "name": "Casablanca",
+    "country": "Morocco",
+    "latitude": 33.59506269959168,
+    "longitude": -7.618776799999998,
+    "other_names": {
+      "name": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+      "name:ar": "الدار البيضاء",
+      "name:cs": "Casablanca",
+      "name:de": "Casablanca",
+      "name:el": "Καζαμπλάνκα",
+      "name:en": "Casablanca",
+      "name:eo": "Kazablanko",
+      "name:es": "Casablanca",
+      "name:et": "Casablanca",
+      "name:fa": "دارالبیضا",
+      "name:fr": "Casablanca",
+      "name:gl": "Casabranca",
+      "name:he": "קזבלנקה",
+      "name:hi": "कैसाब्लांका",
+      "name:hu": "Casablanca",
+      "name:ja": "カサブランカ",
+      "name:kn": "ಕಾಸಾಬ್ಲಾಂಕಾ",
+      "name:lv": "Kasablanka",
+      "name:mk": "Казабланка",
+      "name:nl": "Casablanca",
+      "name:oc": "Casablanca",
+      "name:ru": "Касабланка",
+      "name:tr": "Kazablanka",
+      "name:ur": "دار البیضاء",
+      "name:zh": "卡薩布蘭加",
+      "alt_name": "Casablanca ⴰⵏⴼⴰ الدار البيضاء",
+      "int_name": "Casablanca",
+      "name:ber": "ⵜⵉⴳⵎⵉ ⵜⵓⵎⵍⵉⵍⵜ",
+      "name:zgh": "ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ",
+      "alt_name:ar": "کازابلانکاکازا;کازا",
+      "alt_name:gl": "Casablanca",
+      "alt_name:ber": "ⴰⵏⴼⴰ",
+      "alt_name:zgh": "ⴰⵏⴼⴰ",
+      "name:zh-Hans": "卡萨布兰卡"
+    }
+  },
+  {
+    "name": "Cascavel",
+    "country": "Brazil",
+    "latitude": -24.955499599785643,
+    "longitude": -53.45605439999999,
+    "other_names": {
+      "name": "Cascavel",
+      "name:lt": "Kaskavelas",
+      "name:pt": "Cascavel"
+    }
+  },
+  {
+    "name": "Casco Urbano, San Juan Comalapa",
+    "country": "Guatemala",
+    "latitude": 14.740780059420342,
+    "longitude": -90.88847918641703,
+    "other_names": {
+      "name": "Casco Urbano, San Juan Comalapa"
+    }
+  },
+  {
+    "name": "Caserta",
+    "country": "Italy",
+    "latitude": 41.08208270040122,
+    "longitude": 14.334708,
+    "other_names": {
+      "name": "Caserta",
+      "name:el": "Καζέρτα",
+      "name:en": "Caserta",
+      "name:fr": "Caserte",
+      "name:it": "Caserta",
+      "name:lt": "Kazerta",
+      "name:ru": "Казерта",
+      "name:uk": "Казерта",
+      "name:zh": "卡塞塔"
+    }
+  },
+  {
+    "name": "Casper",
+    "country": "United States Of America",
+    "latitude": 42.850119100532254,
+    "longitude": -106.32513799999998,
+    "other_names": {
+      "name": "Casper",
+      "name:ru": "Каспер"
+    }
+  },
+  {
+    "name": "Castanhal",
+    "country": "Brazil",
+    "latitude": -1.2927030998759994,
+    "longitude": -47.9223903,
+    "other_names": {
+      "name": "Castanhal",
+      "name:ru": "Кастаньял"
+    }
+  },
+  {
+    "name": "Castelar",
+    "country": "Argentina",
+    "latitude": -34.65556379981707,
+    "longitude": -58.6425128,
+    "other_names": {
+      "name": "Castelar"
+    }
+  },
+  {
+    "name": "Castelló de la Plana",
+    "country": "Spain",
+    "latitude": 39.9860347002654,
+    "longitude": -0.037735399999999995,
+    "other_names": {
+      "name": "Castelló de la Plana",
+      "name:be": "Кастэльён-дэ-ла-Плана",
+      "name:ca": "Castelló de la Plana",
+      "name:el": "Καστεγιόν δε λα Πλάνα",
+      "name:en": "Castelló de la Plana",
+      "name:gl": "Castellón da Prana",
+      "name:it": "Castelló de la Plana",
+      "name:ja": "カステリョン・デ・ラ・プラナ",
+      "name:ru": "Кастельон-де-ла-Плана",
+      "name:sr": "Кастељон де ла Плана",
+      "official_name": "Castelló de la Plana"
+    }
+  },
+  {
+    "name": "Castelo Branco",
+    "country": "Portugal",
+    "latitude": 39.826632200243594,
+    "longitude": -7.491931799999999,
+    "other_names": {
+      "name": "Castelo Branco",
+      "name:ar": "كاستيلو برانكو"
+    }
+  },
+  {
+    "name": "Castlegar",
+    "country": "Canada",
+    "latitude": 49.316170999614435,
+    "longitude": -117.66357399999997,
+    "other_names": {
+      "name": "Castlegar"
+    }
+  },
+  {
+    "name": "Castle Pines",
+    "country": "United States Of America",
+    "latitude": 39.453552058995164,
+    "longitude": -104.848404115723,
+    "other_names": {
+      "name": "Castle Pines"
+    }
+  },
+  {
+    "name": "Castro",
+    "country": "Chile",
+    "latitude": -42.48237500099774,
+    "longitude": -73.7642918,
+    "other_names": {
+      "name": "Castro",
+      "name:ru": "Кастру"
+    }
+  },
+  {
+    "name": "Catacamas",
+    "country": "Honduras",
+    "latitude": 14.848382899889364,
+    "longitude": -85.89356189999998,
+    "other_names": {
+      "name": "Catacamas"
+    }
+  },
+  {
+    "name": "Catalão",
+    "country": "Brazil",
+    "latitude": -18.170254600471125,
+    "longitude": -47.944708199999994,
+    "other_names": {
+      "name": "Catalão"
+    }
+  },
+  {
+    "name": "Catanduva",
+    "country": "Brazil",
+    "latitude": -21.133103500293107,
+    "longitude": -48.9712817,
+    "other_names": {
+      "name": "Catanduva"
+    }
+  }
+]

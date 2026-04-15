@@ -1,0 +1,393 @@
+[
+  {
+    "name": "Takamatsu",
+    "country": "Japan",
+    "latitude": 34.34255919961481,
+    "longitude": 134.0465338,
+    "other_names": {
+      "name": "高松市",
+      "name:cs": "Takamacu",
+      "name:en": "Takamatsu",
+      "name:es": "Takamatsu",
+      "name:et": "Takamatsu",
+      "name:fr": "Takamatsu",
+      "name:ja": "高松市",
+      "name:ko": "다카마쓰시",
+      "name:pl": "Takamatsu",
+      "name:ru": "Такамацу",
+      "name:sr": "Такамацу",
+      "name:uk": "Такамацу",
+      "name:zh": "高松市",
+      "name:ja_rm": "Takamatsu-shi",
+      "name:ja_kana": "たかまつし",
+      "name:zh-Hans": "高松市",
+      "name:zh-Hant": "高松市"
+    }
+  },
+  {
+    "name": "Takaoka",
+    "country": "Japan",
+    "latitude": 36.73621469981616,
+    "longitude": 137.01873059999997,
+    "other_names": {
+      "name": "高岡市",
+      "name:en": "Takaoka",
+      "name:fr": "Takaoka",
+      "name:ja": "高岡市",
+      "name:ko": "다카오카시",
+      "name:pl": "Takaoka",
+      "name:ru": "Такаока",
+      "name:uk": "Такаока",
+      "int_name": "Takaoka",
+      "name:ja_rm": "Takaoka-shi",
+      "name:ja_kana": "たかおかし"
+    }
+  },
+  {
+    "name": "Takarazuka",
+    "country": "Japan",
+    "latitude": 34.86590569964292,
+    "longitude": 135.32577339999997,
+    "other_names": {
+      "name": "宝塚市",
+      "name:ar": "تاكارازوكا، هيوغو",
+      "name:de": "Takarazuka",
+      "name:en": "Takarazuka",
+      "name:es": "Takarazuka",
+      "name:fr": "Takarazuka",
+      "name:ja": "宝塚市",
+      "name:ko": "다카라즈카시",
+      "name:lt": "Takaradzuka",
+      "name:pl": "Takarazuka",
+      "name:ru": "Такарадзука",
+      "name:uk": "Такарадзука",
+      "name:ja_rm": "Takarazuka-shi"
+    }
+  },
+  {
+    "name": "Takasago",
+    "country": "Japan",
+    "latitude": 34.77398539963729,
+    "longitude": 134.7880412,
+    "other_names": {
+      "name": "高砂市",
+      "name:ar": "تاكاساغو، هيوغو",
+      "name:de": "Takasago",
+      "name:en": "Takasago",
+      "name:es": "Takasago",
+      "name:fr": "Takasago",
+      "name:ja": "高砂市",
+      "name:ko": "다카사고시",
+      "name:pl": "Takasago",
+      "name:ru": "Такасаго",
+      "name:uk": "Такасаґо",
+      "name:ja_rm": "Takasago-shi"
+    }
+  },
+  {
+    "name": "Takasaki",
+    "country": "Japan",
+    "latitude": 36.32209839976903,
+    "longitude": 139.0032758,
+    "other_names": {
+      "name": "高崎市",
+      "name:ar": "تاكاساكي",
+      "name:de": "Takasaki",
+      "name:en": "Takasaki",
+      "name:es": "Takasaki",
+      "name:fr": "Takasaki",
+      "name:ja": "高崎市",
+      "name:ko": "다카사키시",
+      "name:pl": "Takasaki",
+      "name:ru": "Такасаки",
+      "name:uk": "Такасакі",
+      "name:ja_rm": "Takasaki-shi"
+    }
+  },
+  {
+    "name": "Takashima",
+    "country": "Japan",
+    "latitude": 35.351922299677504,
+    "longitude": 136.04233589999998,
+    "other_names": {
+      "name": "高島市",
+      "name:ar": "تاكاشيما، شيغا",
+      "name:de": "Takashima",
+      "name:en": "Takashima",
+      "name:es": "Takashima",
+      "name:fr": "Takashima",
+      "name:ja": "高島市",
+      "name:ko": "다카시마시",
+      "name:pl": "Takashima",
+      "name:ru": "Такасима",
+      "name:uk": "Такасіма",
+      "name:ja_rm": "Takashima-shi",
+      "name:ja_kana": "たかしまし"
+    }
+  },
+  {
+    "name": "Takatsuki",
+    "country": "Japan",
+    "latitude": 34.88129049964389,
+    "longitude": 135.6012398,
+    "other_names": {
+      "name": "高槻市",
+      "name:ar": "تاكاتسوكي، أوساكا",
+      "name:de": "Takatsuki",
+      "name:en": "Takatsuki",
+      "name:es": "Takatsuki",
+      "name:fr": "Takatsuki",
+      "name:ja": "高槻市",
+      "name:ko": "다카쓰키시",
+      "name:pl": "Takatsuki",
+      "name:ru": "Такацуки",
+      "name:uk": "Такацукі",
+      "name:ja_rm": "Takatsuki-shi"
+    }
+  },
+  {
+    "name": "Takayama",
+    "country": "Japan",
+    "latitude": 36.139624599749695,
+    "longitude": 137.2510322,
+    "other_names": {
+      "name": "高山市",
+      "name:en": "Takayama",
+      "name:es": "Takayama",
+      "name:fr": "Takayama",
+      "name:ja": "高山市",
+      "name:ko": "다카야마시",
+      "name:kr": "다카야마",
+      "name:pl": "Takayama",
+      "name:ru": "Такаяма",
+      "name:uk": "Такаяма",
+      "name:ja_rm": "Takayama-shi",
+      "name:ja_kana": "たかやまし"
+    }
+  },
+  {
+    "name": "Takehara",
+    "country": "Japan",
+    "latitude": 34.341837699614786,
+    "longitude": 132.9070476,
+    "other_names": {
+      "name": "竹原市",
+      "name:ar": "تاكيهارا، هيروشيما",
+      "name:de": "Takehara",
+      "name:en": "Takehara",
+      "name:es": "Takehara",
+      "name:eu": "Takehara",
+      "name:fr": "Takehara",
+      "name:ja": "竹原市",
+      "name:ko": "다케하라시",
+      "name:pl": "Takehara",
+      "name:ru": "Такехара",
+      "name:uk": "Такехара",
+      "int_name": "Takehara",
+      "name:ja_rm": "Takehara"
+    }
+  },
+  {
+    "name": "Takeo",
+    "country": "Japan",
+    "latitude": 33.193551799587574,
+    "longitude": 130.0194484,
+    "other_names": {
+      "name": "武雄市",
+      "name:en": "Takeo",
+      "name:ja": "武雄市",
+      "name:ko": "다케오시",
+      "name:zh": "武雄市",
+      "name:zh-Hans": "武雄市",
+      "name:zh-Hant": "武雄市"
+    }
+  },
+  {
+    "name": "Taketa",
+    "country": "Japan",
+    "latitude": 32.973682099587755,
+    "longitude": 131.3979534,
+    "other_names": {
+      "name": "竹田市",
+      "name:ar": "تاكيتا، أويتا",
+      "name:de": "Taketa",
+      "name:en": "Taketa",
+      "name:es": "Taketa",
+      "name:fr": "Taketa",
+      "name:ja": "竹田市",
+      "name:ko": "다케타시",
+      "name:pl": "Taketa",
+      "name:ru": "Такета",
+      "name:uk": "Такета",
+      "name:zh": "竹田市",
+      "int_name": "Taketa",
+      "name:ja_rm": "Taketa-shi",
+      "name:ja_kana": "たけたし",
+      "name:zh-Hans": "竹田市",
+      "name:zh-Hant": "竹田市"
+    }
+  },
+  {
+    "name": "Ta Khmao",
+    "country": "Cambodia",
+    "latitude": 11.468739499534538,
+    "longitude": 104.9451162,
+    "other_names": {
+      "name": "ក្រុងតាខ្មៅ",
+      "name:en": "Ta Khmao",
+      "name:fr": "Ta Khmau",
+      "name:ja": "タクマウ",
+      "name:ru": "Такмау",
+      "name:vi": "Ta Khmao",
+      "alt_name:en": "Ta Khmau"
+    }
+  },
+  {
+    "name": "Takikawa",
+    "country": "Japan",
+    "latitude": 43.55779560054158,
+    "longitude": 141.9103697,
+    "other_names": {
+      "name": "滝川市",
+      "name:ar": "تاكيكاوا، هوكايدو",
+      "name:de": "Takikawa",
+      "name:en": "Takikawa",
+      "name:es": "Takikawa",
+      "name:fr": "Takikawa",
+      "name:hu": "Takikava",
+      "name:ja": "滝川市",
+      "name:ko": "다키카와시",
+      "name:pl": "Takikawa",
+      "name:ru": "Такикава",
+      "name:uk": "Такікава",
+      "int_name": "Takikawa",
+      "name:ja_rm": "Takikawa-shi",
+      "name:ja_kana": "たきかわし"
+    }
+  },
+  {
+    "name": "Takizawa",
+    "country": "Japan",
+    "latitude": 39.73477000023083,
+    "longitude": 141.0770901,
+    "other_names": {
+      "name": "滝沢市",
+      "name:ar": "تاكيزاوا",
+      "name:de": "Takizawa",
+      "name:en": "Takizawa",
+      "name:es": "Takizawa",
+      "name:fr": "Takizawa",
+      "name:ja": "滝沢市",
+      "name:ko": "다키자와시",
+      "name:ru": "Такидзава",
+      "name:uk": "Такідзава",
+      "int_name": "Takizawa",
+      "name:ja_rm": "Takizawa-shi",
+      "name:ja_kana": "たきざわし"
+    }
+  },
+  {
+    "name": "Takoradi",
+    "country": "Ghana",
+    "latitude": 4.887400999514972,
+    "longitude": -1.7519316,
+    "other_names": {
+      "name": "Takoradi",
+      "name:ar": "تاكورادي",
+      "name:en": "Takoradi",
+      "name:ru": "Такоради",
+      "name:uk": "Такораді"
+    }
+  },
+  {
+    "name": "Taku",
+    "country": "Japan",
+    "latitude": 33.288572499588014,
+    "longitude": 130.1100243,
+    "other_names": {
+      "name": "多久市",
+      "name:ar": "تاكو، ساغا",
+      "name:de": "Taku",
+      "name:en": "Taku",
+      "name:es": "Taku",
+      "name:fr": "Taku",
+      "name:ja": "多久市",
+      "name:ko": "다쿠시",
+      "name:ru": "Таку",
+      "name:uk": "Таку",
+      "name:zh": "多久市",
+      "int_name": "Taku",
+      "name:zh-Hans": "多久市",
+      "name:zh-Hant": "多久市"
+    }
+  },
+  {
+    "name": "Tal Afar",
+    "country": "Iraq",
+    "latitude": 36.37960087324097,
+    "longitude": 42.455731945573255,
+    "other_names": {
+      "name": "تلعفر",
+      "name:ar": "تلعفر",
+      "name:de": "Tal Afar",
+      "name:en": "Tal Afar",
+      "name:fa": "تل‌عفر",
+      "name:fr": "Tal Afar",
+      "name:hi": "ताल अफ़ार",
+      "name:ru": "Талль-Афар",
+      "name:tr": "Telafer",
+      "name:ur": "تلعفر",
+      "alt_name": "تل عفر",
+      "int_name": "Tal Afar, Tal Afar, Talaafar, Tall Afar, Tel Afar, تلعفر, Tal Afar, Tal Afar, Talaafar, Tall Afar, Tel Afar, تلعفر",
+      "name:azb": "تلعفر",
+      "name:ckb": "تەلەعفەر",
+      "name:mzn": "تلعفر",
+      "name:pnb": "تلعفر",
+      "alt_name:ar": "تل عفر"
+    }
+  },
+  {
+    "name": "Tal Afar",
+    "country": "Iraq",
+    "latitude": 36.3740433997747,
+    "longitude": 42.4434793,
+    "other_names": {
+      "name": "تلعفر",
+      "name:ar": "تلعفر",
+      "name:de": "Tal Afar",
+      "name:en": "Tal Afar",
+      "name:fa": "تل‌عفر",
+      "name:fr": "Tal Afar",
+      "name:ru": "Талль-Афар",
+      "name:tr": "Telafer",
+      "name:ur": "تلعفر",
+      "alt_name": "تل عفر",
+      "int_name": "Tal Afar, Tal Afar, Talaafar, Tall Afar, Tel Afar, تلعفر, Tal Afar, Tal Afar, Talaafar, Tall Afar, Tel Afar, تلعفر",
+      "name:azb": "تلعفر",
+      "name:ckb": "تەلەعفەر",
+      "name:mzn": "تلعفر",
+      "name:pnb": "تلعفر",
+      "alt_name:ar": "تل عفر"
+    }
+  },
+  {
+    "name": "Talagang",
+    "country": "Pakistan",
+    "latitude": 32.92351079958805,
+    "longitude": 72.4139769,
+    "other_names": {
+      "name": "تلہ گنگ",
+      "name:en": "Talagang",
+      "name:ru": "Талаганг"
+    }
+  },
+  {
+    "name": "talary ava",
+    "country": "Iraq",
+    "latitude": 35.53898517039716,
+    "longitude": 45.41440353656839,
+    "other_names": {
+      "name": "talary ava"
+    }
+  }
+]

@@ -35,13 +35,31 @@ pub struct City {
     pub country_code: String,
     pub name: String,
     pub ascii: String,
-    pub alternates: Vec<String>,
     pub admin1_code: Option<String>,
     pub admin1_name: Option<String>,
     pub admin2_code: Option<String>,
     pub admin2_name: Option<String>,
     pub lat: f32,
     pub lon: f32,
+}
+
+#[derive(rkyv::Archive, rkyv::Serialize, rkyv::Deserialize, Debug)]
+pub struct CityCore {
+    pub geoname_id: u32,
+    pub country_code_id: u32,
+    pub name_id: u32,
+    pub ascii_id: u32,
+    pub admin1_code_id: Option<u32>,
+    pub admin1_name_id: Option<u32>,
+    pub admin2_code_id: Option<u32>,
+    pub admin2_name_id: Option<u32>,
+    pub lat: f32,
+    pub lon: f32,
+}
+
+#[derive(rkyv::Archive, rkyv::Serialize, rkyv::Deserialize, Debug)]
+pub struct CityMeta {
+    pub strings: Vec<String>,
 }
 
 // ── Normalization Core ────────────────────────────────────────────────────────

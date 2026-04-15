@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Urziceni",
+    "country": "Romania",
+    "latitude": 44.71830939159524,
+    "longitude": 26.64575384397728,
+    "other_names": {
+      "name": "Urziceni",
+      "name:ru": "Урзичени"
+    }
+  },
+  {
+    "name": "Urziceni",
+    "country": "Romania",
+    "latitude": 44.71862851201533,
+    "longitude": 26.643873357007806,
+    "other_names": {
+      "name": "Urziceni",
+      "name:ru": "Урзичени"
+    }
+  },
+  {
+    "name": "Usa",
+    "country": "Japan",
+    "latitude": 33.53200499959065,
+    "longitude": 131.3496745,
+    "other_names": {
+      "name": "宇佐市",
+      "name:ar": "يوسا، أويتا",
+      "name:de": "Usa",
+      "name:en": "Usa",
+      "name:es": "Usa",
+      "name:fr": "Usa",
+      "name:ja": "宇佐市",
+      "name:ko": "우사시",
+      "name:pl": "Usa",
+      "name:ru": "Уса",
+      "name:uk": "Уса",
+      "name:zh": "宇佐市",
+      "int_name": "Usa",
+      "name:zh-Hans": "宇佐市",
+      "name:zh-Hant": "宇佐市"
+    }
+  },
+  {
+    "name": "Uşak",
+    "country": "Turkey",
+    "latitude": 38.67951380007941,
+    "longitude": 29.4054312,
+    "other_names": {
+      "name": "Uşak",
+      "name:ar": "أوشاك",
+      "name:hu": "Uşak",
+      "name:ru": "Ушак",
+      "name:tr": "Uşak"
+    }
+  },
+  {
+    "name": "Ushiku",
+    "country": "Japan",
+    "latitude": 35.9794246997335,
+    "longitude": 140.14940339999998,
+    "other_names": {
+      "name": "牛久市",
+      "name:en": "Ushiku",
+      "name:ja": "牛久市",
+      "name:ja-Hira": "うしくし"
+    }
+  },
+  {
+    "name": "Ushuaia",
+    "country": "Chile",
+    "latitude": -54.806933199206,
+    "longitude": -68.30732459999999,
+    "other_names": {
+      "name": "Ushuaia",
+      "name:el": "Ουσουάια",
+      "name:fr": "Ushuaïa",
+      "name:he": "אושואיה",
+      "name:lt": "Ušuaja",
+      "name:mk": "Ушуаја",
+      "name:ru": "Ушуая",
+      "name:uk": "Ушуая"
+    }
+  },
+  {
+    "name": "Ushuaia",
+    "country": "Argentina",
+    "latitude": -54.806933199206,
+    "longitude": -68.30732459999999,
+    "other_names": {
+      "name": "Ushuaia",
+      "name:el": "Ουσουάια",
+      "name:fr": "Ushuaïa",
+      "name:he": "אושואיה",
+      "name:lt": "Ušuaja",
+      "name:mk": "Ушуаја",
+      "name:ru": "Ушуая",
+      "name:uk": "Ушуая"
+    }
+  },
+  {
+    "name": "Ussurijsk",
+    "country": "Russia",
+    "latitude": 43.79724470053822,
+    "longitude": 131.9520752,
+    "other_names": {
+      "name": "Уссурийск",
+      "name:de": "Ussurijsk",
+      "name:en": "Ussurijsk",
+      "name:et": "Ussuriisk",
+      "name:ja": "ウスリースク",
+      "name:ko": "우수리스크",
+      "name:lt": "Usurijskas",
+      "name:pl": "Ussuryjsk",
+      "name:ru": "Уссурийск",
+      "name:uk": "Уссурійськ",
+      "name:zh": "乌苏里斯克（双城子）",
+      "int_name": "Ussuriysk",
+      "old_name": "Ворошилов",
+      "old_name:en": "Voroshilov"
+    }
+  },
+  {
+    "name": "Ussurijsk",
+    "country": "Russia",
+    "latitude": 43.79518088928517,
+    "longitude": 131.97294312744043,
+    "other_names": {
+      "name": "Уссурийск",
+      "name:de": "Ussurijsk",
+      "name:en": "Ussurijsk",
+      "name:ja": "ウスリースク",
+      "name:ko": "우수리스크",
+      "name:lt": "Usurijskas",
+      "name:pl": "Ussuryjsk",
+      "name:ru": "Уссурийск",
+      "name:uk": "Уссурійськ",
+      "name:zh": "乌苏里斯克",
+      "int_name": "Ussuriysk",
+      "old_name": "Ворошилов",
+      "old_name:en": "Voroshilov",
+      "old_name:ko": "쌍성자",
+      "old_name:zh": "双城子"
+    }
+  },
+  {
+    "name": "Ústí nad Labem",
+    "country": "Czech Republic",
+    "latitude": 50.660332699312086,
+    "longitude": 14.0381357,
+    "other_names": {
+      "name": "Ústí nad Labem",
+      "name:ar": "أوستي ناد لابم",
+      "name:cs": "Ústí nad Labem",
+      "name:de": "Aussig",
+      "name:el": "Ούστι ναντ Λάμπεμ",
+      "name:fa": "اوستی ناد لابم",
+      "name:la": "Ustia apud Albim",
+      "name:pl": "Uście nad Łabą",
+      "name:ru": "Усти-над-Лабем",
+      "name:sr": "Усти над Лабом",
+      "name:ur": "اوستی ناد لاہم",
+      "name:hsb": "Wusće nad Łobjom",
+      "name:zh-Hans": "拉贝河畔乌斯季",
+      "name:zh-Hant": "拉貝河畔烏斯季"
+    }
+  },
+  {
+    "name": "Usuki",
+    "country": "Japan",
+    "latitude": 33.12610319958745,
+    "longitude": 131.8048454,
+    "other_names": {
+      "name": "臼杵市",
+      "name:ar": "أوسوكي، أويتا",
+      "name:de": "Usuki",
+      "name:en": "Usuki",
+      "name:es": "Usuki",
+      "name:fr": "Usuki",
+      "name:ja": "臼杵市",
+      "name:ko": "우스키시",
+      "name:pl": "Usuki",
+      "name:ru": "Усуки",
+      "name:uk": "Усукі",
+      "name:zh": "臼杵市",
+      "int_name": "Usuki",
+      "name:ja-Hira": "うすきし",
+      "name:ja-Latn": "Usuki-shi",
+      "name:zh-Hans": "臼杵市",
+      "name:zh-Hant": "臼杵市"
+    }
+  },
+  {
+    "name": "Usulután",
+    "country": "El Salvador",
+    "latitude": 13.343820399716275,
+    "longitude": -88.4382264,
+    "other_names": {
+      "name": "Usulután"
+    }
+  },
+  {
+    "name": "Utashinai",
+    "country": "Japan",
+    "latitude": 43.52135490054181,
+    "longitude": 142.0345999,
+    "other_names": {
+      "name": "歌志内市",
+      "name:ar": "يوتاشينا، هوكايدو",
+      "name:de": "Utashinai",
+      "name:en": "Utashinai",
+      "name:es": "Utashinai",
+      "name:fr": "Utashinai",
+      "name:hu": "Utasinai",
+      "name:ja": "歌志内市",
+      "name:pl": "Utashinai",
+      "name:ru": "Утасинай",
+      "name:uk": "Утасінай",
+      "int_name": "Utashinai",
+      "name:ja_rm": "Utashinai-shi",
+      "name:ja_kana": "うたしないし"
+    }
+  },
+  {
+    "name": "Utica",
+    "country": "United States Of America",
+    "latitude": 43.10090310053876,
+    "longitude": -75.2326641,
+    "other_names": {
+      "name": "Utica",
+      "name:en": "Utica",
+      "name:ru": "Ютика",
+      "name:uk": "Ютіка"
+    }
+  },
+  {
+    "name": "Uto",
+    "country": "Japan",
+    "latitude": 32.687917699590535,
+    "longitude": 130.6598222,
+    "other_names": {
+      "name": "宇土市",
+      "name:ar": "يوتو، كوماموتو",
+      "name:de": "Uto",
+      "name:en": "Uto",
+      "name:es": "Uto",
+      "name:fr": "Uto",
+      "name:ja": "宇土市",
+      "name:ko": "우토시",
+      "name:pl": "Uto",
+      "name:ru": "Уто",
+      "name:uk": "Уто",
+      "name:zh": "宇土市",
+      "int_name": "Uto",
+      "name:zh-Hans": "宇土市",
+      "name:zh-Hant": "宇土市"
+    }
+  },
+  {
+    "name": "Utqiaġvik",
+    "country": "United States Of America",
+    "latitude": 71.29055560297759,
+    "longitude": -156.78861099999997,
+    "other_names": {
+      "name": "Utqiaġvik",
+      "name:en": "Utqiaġvik",
+      "name:ik": "Utqiaġvik",
+      "name:iu": "ᐅᑦᕿᐊᒡᕕᒃ",
+      "alt_name": "Barrow",
+      "old_name": "Barrow",
+      "alt_name:ik": "Ukpiaġvik",
+      "old_name:ru": "Барроу",
+      "old_name:uk": "Барроу",
+      "reg_name:en": "Utqiagvik"
+    }
+  },
+  {
+    "name": "Utrecht",
+    "country": "Netherlands",
+    "latitude": 52.094975299109805,
+    "longitude": 5.1097079999999995,
+    "other_names": {
+      "name": "Utrecht",
+      "name:ar": "أوترخت",
+      "name:de": "Utrecht",
+      "name:en": "Utrecht",
+      "name:eo": "Utreĥto",
+      "name:es": "Utrecht",
+      "name:fr": "Utrecht",
+      "name:fy": "Utert",
+      "name:he": "אוטרכט",
+      "name:hu": "Utrecht",
+      "name:ja": "ユトレヒト",
+      "name:la": "Traiectum ad Rhenum",
+      "name:lt": "Utrechtas",
+      "name:mk": "Утрехт",
+      "name:nl": "Utrecht",
+      "name:ru": "Утрехт",
+      "name:sr": "Утрехт",
+      "name:uk": "Утрехт",
+      "name:zh": "乌特勒支",
+      "name:nds": "Utrecht",
+      "alt_name:la": "Ultraiectum",
+      "name:zh-Hant": "烏特勒支",
+      "name:carnaval": "Leemput"
+    }
+  },
+  {
+    "name": "Utsunomiya",
+    "country": "Japan",
+    "latitude": 36.554967699794986,
+    "longitude": 139.88287759999997,
+    "other_names": {
+      "name": "宇都宮市",
+      "name:cs": "Ucunomija",
+      "name:en": "Utsunomiya",
+      "name:es": "Utsunomiya",
+      "name:et": "Utsunomiya",
+      "name:fr": "Utsunomiya",
+      "name:ja": "宇都宮市",
+      "name:ko": "우쓰노미야시",
+      "name:lt": "Ucunomija",
+      "name:pl": "Utsunomiya",
+      "name:ru": "Уцуномия",
+      "name:sr": "Уцуномија",
+      "name:uk": "Уцуномія",
+      "name:ja_rm": "Utsunomiya-shi"
+    }
+  },
+  {
+    "name": "Uvira",
+    "country": "Congo Democratic Republic",
+    "latitude": -3.405586599729314,
+    "longitude": 29.1375509,
+    "other_names": {
+      "name": "Uvira",
+      "name:ru": "Увира",
+      "name:uk": "Увіра",
+      "alt_name": "Kimanga"
+    }
+  },
+  {
+    "name": "Uwajima",
+    "country": "Japan",
+    "latitude": 33.22323149958768,
+    "longitude": 132.56065139999998,
+    "other_names": {
+      "name": "宇和島市",
+      "name:ar": "يواجيما، إهيمه",
+      "name:de": "Uwajima",
+      "name:en": "Uwajima",
+      "name:es": "Uwajima",
+      "name:fr": "Uwajima",
+      "name:ja": "宇和島市",
+      "name:ko": "우와지마시",
+      "name:pl": "Uwajima",
+      "name:ru": "Увадзима",
+      "name:uk": "Уваджіма",
+      "name:zh": "宇和岛市",
+      "int_name": "Uwajima",
+      "name:zh-Hans": "宇和岛市",
+      "name:zh-Hant": "宇和島市"
+    }
+  }
+]

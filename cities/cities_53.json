@@ -1,0 +1,396 @@
+[
+  {
+    "name": "Biała Podlaska",
+    "country": "Poland",
+    "latitude": 52.03383989911463,
+    "longitude": 23.1193948,
+    "other_names": {
+      "name": "Biała Podlaska",
+      "name:be": "Бяла Падляска",
+      "name:de": "Biała Podlaska",
+      "name:en": "Biała Podlaska",
+      "name:es": "Biała Podlaska",
+      "name:fr": "Biała Podlaska",
+      "name:ja": "ビャワ・ポドラスカ",
+      "name:lt": "Palenkės Biala",
+      "name:mk": "Бјала Подласка",
+      "name:pl": "Biała Podlaska",
+      "name:ru": "Бяла-Подляска",
+      "name:uk": "Біла Підляська",
+      "old_name:be": "Белая"
+    }
+  },
+  {
+    "name": "Białystok",
+    "country": "Poland",
+    "latitude": 53.13239799909304,
+    "longitude": 23.159167899999996,
+    "other_names": {
+      "name": "Białystok",
+      "name:ba": "Белосток",
+      "name:be": "Беласток",
+      "name:de": "Bialystok",
+      "name:en": "Białystok",
+      "name:eo": "Bjalistoko",
+      "name:es": "Białystok",
+      "name:fr": "Białystok",
+      "name:he": "ביאליסטוק",
+      "name:ja": "ビャウィストク",
+      "name:lt": "Balstogė",
+      "name:lv": "Bjalistoka",
+      "name:mk": "Бјалисток",
+      "name:pl": "Białystok",
+      "name:ru": "Белосток",
+      "name:uk": "Білосток",
+      "name:szl": "Bjołystok‎",
+      "name:zh-Hans": "比亚韦斯托克",
+      "name:zh-Hant": "比亚韦斯托克"
+    }
+  },
+  {
+    "name": "Bibai",
+    "country": "Japan",
+    "latitude": 43.33257630054168,
+    "longitude": 141.8537339,
+    "other_names": {
+      "name": "美唄市",
+      "name:ar": "بيباي، هوكايدو",
+      "name:de": "Bibai",
+      "name:en": "Bibai",
+      "name:es": "Bibai",
+      "name:fr": "Bibai",
+      "name:hu": "Bibai",
+      "name:ja": "美唄市",
+      "name:ko": "비바이시",
+      "name:pl": "Bibai",
+      "name:ru": "Бибаи",
+      "name:uk": "Бібай",
+      "int_name": "Bibai",
+      "name:ja_rm": "Bibai-shi",
+      "name:ja_kana": "びばいし"
+    }
+  },
+  {
+    "name": "Bida",
+    "country": "Nigeria",
+    "latitude": 9.083332999403494,
+    "longitude": 6.016667,
+    "other_names": {
+      "name": "Bida",
+      "name:ru": "Бида"
+    }
+  },
+  {
+    "name": "Bidar",
+    "country": "India",
+    "latitude": 17.9143767002261,
+    "longitude": 77.5263568,
+    "other_names": {
+      "name": "Bidar",
+      "name:ar": "بيدار",
+      "name:en": "Bidar",
+      "name:hi": "बीदर",
+      "name:ja": "ビーダル",
+      "name:kn": "ಬೀದರ",
+      "name:mr": "बीदर",
+      "name:pa": "ਬੀਦਰ",
+      "name:te": "బీదర",
+      "name:kn:iso15919": "Bīdara"
+    }
+  },
+  {
+    "name": "Biddeford",
+    "country": "United States Of America",
+    "latitude": 43.49258430054191,
+    "longitude": -70.4533844,
+    "other_names": {
+      "name": "Biddeford"
+    }
+  },
+  {
+    "name": "Bielefeld",
+    "country": "Germany",
+    "latitude": 52.01910049911585,
+    "longitude": 8.531007,
+    "other_names": {
+      "name": "Bielefeld",
+      "name:ar": "بيلفلد",
+      "name:ja": "ビーレフェルト",
+      "name:la": "Bilivelda",
+      "name:ru": "Билефельд",
+      "name:sr": "Билефелд",
+      "name:uk": "Білефельд",
+      "name:nds": "Builefeld"
+    }
+  },
+  {
+    "name": "Biella",
+    "country": "Italy",
+    "latitude": 45.56641090040435,
+    "longitude": 8.0542758,
+    "other_names": {
+      "name": "Biella",
+      "name:el": "Μπιέλλα",
+      "name:en": "Biella",
+      "name:fr": "Bielle",
+      "name:he": "ביאלה",
+      "name:ru": "Бьелла",
+      "name:zh": "比耶拉",
+      "name:pms": "Biela"
+    }
+  },
+  {
+    "name": "Bielsko-Biała",
+    "country": "Poland",
+    "latitude": 49.822117999493244,
+    "longitude": 19.0448936,
+    "other_names": {
+      "name": "Bielsko-Biała",
+      "name:be": "Бельска-Бяла",
+      "name:bg": "Белско-Бяла",
+      "name:cs": "Bílsko-Bělá",
+      "name:de": "Bielitz-Biala",
+      "name:fa": "بیلسکو بیاوا",
+      "name:he": "ביילסקו-ביאלה",
+      "name:ja": "ビェルスコ＝ビャワ",
+      "name:lt": "Belsko-Biala",
+      "name:mk": "Бјелско-Бјала",
+      "name:pl": "Bielsko-Biała",
+      "name:ru": "Бельско-Бяла",
+      "name:uk": "Бельсько-Бяла",
+      "name:zh": "别尔斯科-比亚瓦",
+      "name:szl": "Bjylsko-Bjoło"
+    }
+  },
+  {
+    "name": "Bien Hoa",
+    "country": "Vietnam",
+    "latitude": 10.956945399495552,
+    "longitude": 106.85364919999999,
+    "other_names": {
+      "name": "Biên Hòa",
+      "name:bg": "Биен Хоа",
+      "name:en": "Bien Hoa",
+      "name:fa": "بین هوا",
+      "name:fr": "Ville de Biên Hòa",
+      "name:ja": "ビエンホア",
+      "name:ko": "비엔호아",
+      "name:lt": "Bienhoa",
+      "name:lv": "Bjenhoa",
+      "name:ru": "Бьенхоа",
+      "name:sr": "Бијен Хоа",
+      "name:th": "เบียนฮหว่า",
+      "name:uk": "Б'єнхоа",
+      "name:ur": "بیئن ہوا شہر",
+      "name:vi": "Biên Hòa",
+      "name:zh": "边和市",
+      "official_name": "Thành phố Biên Hòa",
+      "official_name:en": "Bien Hoa City",
+      "official_name:vi": "Thành phố Biên Hòa"
+    }
+  },
+  {
+    "name": "Bihać",
+    "country": "Bosnia Herzegovina",
+    "latitude": 44.81464090048488,
+    "longitude": 15.869086299999998,
+    "other_names": {
+      "name": "Bihać",
+      "name:bs": "Bihać",
+      "name:en": "Bihać",
+      "name:hr": "Bihać",
+      "name:hu": "Bihács",
+      "name:ru": "Бихач",
+      "name:sr": "Бихаћ",
+      "name:sr-Latn": "Bihać"
+    }
+  },
+  {
+    "name": "Bihar Sharif",
+    "country": "India",
+    "latitude": 25.19385900024111,
+    "longitude": 85.5208617,
+    "other_names": {
+      "name": "Bihar Sharif",
+      "name:bn": "বিহার শরীফ",
+      "name:en": "Bihar Sharif",
+      "name:he": "ביהר שריף",
+      "name:hi": "बिहारशरीफ़",
+      "name:ja": "ビハール・シャリーフ",
+      "name:kn": "ಬಿಹಾರ್ ಶರೀಫ್",
+      "name:pa": "ਬਿਹਾਰਸ਼ਰੀਫ਼"
+    }
+  },
+  {
+    "name": "Bijeljina",
+    "country": "Bosnia Herzegovina",
+    "latitude": 44.75684640048963,
+    "longitude": 19.2156628,
+    "other_names": {
+      "name": "Bijeljina",
+      "name:bs": "Bijeljina",
+      "name:en": "Bijeljina",
+      "name:hr": "Bijeljina",
+      "name:ru": "Биелина",
+      "name:sr": "Бијељина",
+      "old_name:de": "Bieglin",
+      "name:sr-Latn": "Bijeljina"
+    }
+  },
+  {
+    "name": "Bijelo Polje",
+    "country": "Montenegro",
+    "latitude": 43.03415950053736,
+    "longitude": 19.747355899999995,
+    "other_names": {
+      "name": "Bijelo Polje",
+      "name:ru": "Биело-Поле",
+      "name:sr": "Бијело Поље",
+      "name:uk": "Бієло-Полє",
+      "name:sr-Latn": "Bijelo Polje"
+    }
+  },
+  {
+    "name": "Bijiang",
+    "country": "China",
+    "latitude": 27.818264299966565,
+    "longitude": 109.2609112,
+    "other_names": {
+      "name": "碧江区",
+      "name:en": "Bijiang",
+      "name:zh": "碧江区",
+      "alt_name": "碧江",
+      "name:zh-Hant": "碧江區"
+    }
+  },
+  {
+    "name": "Bijie",
+    "country": "China",
+    "latitude": 27.28586330002615,
+    "longitude": 105.28659969999998,
+    "other_names": {
+      "name": "毕节市",
+      "name:ar": "بيجاي",
+      "name:cs": "Pi-ťie",
+      "name:en": "Bijie",
+      "name:et": "Bijie",
+      "name:fi": "Bijie",
+      "name:fr": "Bijie",
+      "name:ja": "畢節市",
+      "name:ko": "비제 시",
+      "name:ru": "Бицзе",
+      "name:ur": "بیجئی",
+      "name:vi": "Tất Tiết",
+      "name:zh": "毕节市",
+      "name:nan": "Pit-chiat-chhī",
+      "name:yue": "畢節",
+      "name:zh-Hant": "畢節市"
+    }
+  },
+  {
+    "name": "Bikaner",
+    "country": "India",
+    "latitude": 28.01592859994446,
+    "longitude": 73.31713669999999,
+    "other_names": {
+      "name": "Bikaner",
+      "name:ar": "بيكانر",
+      "name:en": "Bikaner",
+      "name:hi": "बीकानेर",
+      "name:ja": "ビーカーネール",
+      "name:kn": "ಬಿಕಾನೆರ್",
+      "name:pa": "ਬੀਕਾਨੇਰ",
+      "name:ru": "Биканер",
+      "name:ta": "பிகானேர்",
+      "name:ur": "بیکانیر"
+    }
+  },
+  {
+    "name": "Bilaspur",
+    "country": "India",
+    "latitude": 22.078562700407435,
+    "longitude": 82.14764749999999,
+    "other_names": {
+      "name": "Bilaspur",
+      "name:en": "Bilaspur",
+      "name:he": "בילאספור",
+      "name:hi": "बिलासपुर",
+      "name:ja": "ビラースプル",
+      "name:kn": "ಬಿಲಾಸ್ಪುರ್",
+      "name:pa": "ਬਿਲਾਸਪੁਰ"
+    }
+  },
+  {
+    "name": "Bila Tserkva",
+    "country": "Ukraine",
+    "latitude": 49.803819099497524,
+    "longitude": 30.111692399999992,
+    "other_names": {
+      "name": "Біла Церква",
+      "name:be": "Белая Царква",
+      "name:cs": "Bila Cerkva",
+      "name:de": "Bila Zerkwa",
+      "name:en": "Bila Tserkva",
+      "name:eo": "Bila-Cerkva",
+      "name:et": "Bila Tserkva",
+      "name:fr": "Bila Tserkva",
+      "name:hu": "Bila Cerkva",
+      "name:ko": "빌라 체르크바",
+      "name:lt": "Bila Cerkva",
+      "name:nl": "Bila Tserkva",
+      "name:pl": "Biała Cerkiew",
+      "name:ro": "Bila Țerkva",
+      "name:ru": "Белая Церковь",
+      "name:sr": "Била Церква",
+      "name:uk": "Біла Церква"
+    }
+  },
+  {
+    "name": "Bilbao",
+    "country": "Spain",
+    "latitude": 43.25354215375925,
+    "longitude": -2.936928857124823,
+    "other_names": {
+      "name": "Bilbao",
+      "name:an": "Bilbau",
+      "name:ar": "بلباو",
+      "name:be": "Більбаа",
+      "name:bg": "Билбао",
+      "name:br": "Bilbo",
+      "name:ca": "Bilbao",
+      "name:ce": "Билбао",
+      "name:cy": "Bilbo",
+      "name:el": "Μπιλμπάο",
+      "name:eo": "Bilbao",
+      "name:es": "Bilbao",
+      "name:eu": "Bilbo",
+      "name:fa": "بیلبائو",
+      "name:fr": "Bilbao",
+      "name:he": "בילבאו",
+      "name:hu": "Bilbao",
+      "name:hy": "Բիլբաո",
+      "name:ja": "ビルバオ",
+      "name:ka": "ბილბაო",
+      "name:kk": "Бильбао",
+      "name:ko": "빌바오",
+      "name:la": "Bilbaum",
+      "name:lt": "Bilbao",
+      "name:mn": "Бильбао",
+      "name:mr": "बिल्बाओ",
+      "name:os": "Бильбао",
+      "name:pt": "Bilbau",
+      "name:ru": "Бильбао",
+      "name:sr": "Билбао",
+      "name:th": "บิลบาโอ",
+      "name:uk": "Більбао",
+      "name:zh": "毕尔巴鄂",
+      "name:ckb": "بیلباو",
+      "name:ext": "Bilbau",
+      "name:mhr": "Бильбао",
+      "name:pms": "Bilbo",
+      "name:xmf": "ბილბაო",
+      "name:zh-Hans": "毕尔巴鄂",
+      "name:zh-Hant": "畢爾巴鄂"
+    }
+  }
+]

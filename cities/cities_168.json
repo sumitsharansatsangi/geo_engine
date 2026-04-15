@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Hainan",
+    "country": "China",
+    "latitude": 39.44124910018942,
+    "longitude": 106.8858336,
+    "other_names": {
+      "name": "海南区",
+      "name:en": "Hainan",
+      "name:vi": "Hải Nam",
+      "name:zh": "海南区",
+      "alt_name": "海南;Hainan District;Хайнань",
+      "name:zh-Hant": "海南區",
+      "name:zh_pinyin": "Hainan Qu"
+    }
+  },
+  {
+    "name": "Hainan",
+    "country": "China",
+    "latitude": 36.296928399766315,
+    "longitude": 100.6213495,
+    "other_names": {
+      "name": "海南州",
+      "name:bo": "མཚོ་ལྷོ་བོད་རིགས་རང་སྐྱོང་ཁུལ",
+      "name:en": "Hainan",
+      "name:vi": "Hải Nam",
+      "name:zh": "海南州",
+      "name:zh-Hant": "海南州",
+      "official_name:zh": "海南藏族自治州",
+      "official_name:zh_pinyin": "Hainan Zangzu Zizhizhou"
+    }
+  },
+  {
+    "name": "Haining",
+    "country": "China",
+    "latitude": 30.514225599696474,
+    "longitude": 120.6759733,
+    "other_names": {
+      "name": "海宁市",
+      "name:de": "Haining",
+      "name:en": "Haining",
+      "name:fr": "Haining",
+      "name:it": "Haining",
+      "name:ja": "海寧市",
+      "name:ki": "Haining City",
+      "name:ko": "하이닝시",
+      "name:mg": "Haining City",
+      "name:nl": "Haining",
+      "name:no": "Haining",
+      "name:pl": "Haining",
+      "name:ru": "Хайнин",
+      "name:sv": "Haining",
+      "name:tl": "Haining",
+      "name:ur": "ہائنینگ",
+      "name:vi": "Hải Ninh",
+      "name:zh": "海宁市",
+      "name:nan": "Hái-lêng-chhī",
+      "name:war": "Haining",
+      "name:wuu": "海宁市",
+      "name:yue": "海寧",
+      "name:zh-Hant": "海寧市",
+      "name:zh_pinyin": "Hǎiníng Shì"
+    }
+  },
+  {
+    "name": "Haiphong",
+    "country": "Vietnam",
+    "latitude": 20.858864000401514,
+    "longitude": 106.6749591,
+    "other_names": {
+      "name": "Hải Phòng",
+      "name:de": "Haiphong",
+      "name:en": "Haiphong",
+      "name:fr": "Haïphong",
+      "name:ja": "ハイフォン",
+      "name:kn": "ಹಾಯ್ ಫೋಂಗ್",
+      "name:ko": "하이퐁",
+      "name:lt": "Haifongas",
+      "name:oc": "Hai-Phong",
+      "name:ru": "Хайфон",
+      "name:uk": "Хайфонг",
+      "name:vi": "Hải Phòng",
+      "name:zh": "海防市",
+      "alt_name:en": "Hai Phong",
+      "alt_name:vi": "Đất Cảng",
+      "name:vi-Hani": "海防",
+      "official_name": "Thành phố Hải Phòng",
+      "official_name:en": "Hai Phong City",
+      "official_name:vi": "Thành phố Hải Phòng"
+    }
+  },
+  {
+    "name": "Hairatan",
+    "country": "Afghanistan",
+    "latitude": 37.222132099876546,
+    "longitude": 67.42486079999999,
+    "other_names": {
+      "name": "حیرتان",
+      "name:ar": "هيرتان",
+      "name:de": "Hairatan",
+      "name:en": "Hairatan",
+      "name:es": "Hairatan",
+      "name:fa": "حیرتان",
+      "name:fr": "Hairatan",
+      "name:he": "گمرک بندر حیرتان",
+      "name:ja": "ハイラタン",
+      "name:ru": "Хайратан",
+      "name:uz": "Hayraton"
+    }
+  },
+  {
+    "name": "Hairatan",
+    "country": "Uzbekistan",
+    "latitude": 37.222132099876546,
+    "longitude": 67.42486079999999,
+    "other_names": {
+      "name": "حیرتان",
+      "name:ar": "هيرتان",
+      "name:de": "Hairatan",
+      "name:en": "Hairatan",
+      "name:es": "Hairatan",
+      "name:fa": "حیرتان",
+      "name:fr": "Hairatan",
+      "name:he": "گمرک بندر حیرتان",
+      "name:ja": "ハイラタン",
+      "name:ru": "Хайратан",
+      "name:uz": "Hayraton"
+    }
+  },
+  {
+    "name": "Haishu District",
+    "country": "China",
+    "latitude": 29.87748759975084,
+    "longitude": 121.546636,
+    "other_names": {
+      "name": "海曙区",
+      "name:de": "Haishu",
+      "name:en": "Haishu District",
+      "name:es": "Distrito de Haishu",
+      "name:fr": "District de Haishu",
+      "name:it": "Distretto di Haishu",
+      "name:ja": "海曙区",
+      "name:ko": "하이수구",
+      "name:no": "Haishu",
+      "name:ru": "Хайшу",
+      "name:sv": "Haishu",
+      "name:ur": "ہائشو ضلع",
+      "name:vi": "Hải Thự",
+      "name:zh": "海曙区",
+      "name:ceb": "Haishu Qu",
+      "name:hai": "sugu",
+      "name:hak": "Hói-su-khî",
+      "name:nan": "Hái-sū-khu",
+      "name:wuu": "海曙区",
+      "name:yue": "海曙區",
+      "name:zh-Hant": "海曙區",
+      "name:zh_pinyin": "Hǎishǔ Qū"
+    }
+  },
+  {
+    "name": "Haitang District",
+    "country": "China",
+    "latitude": 18.402025400268727,
+    "longitude": 109.74835839999999,
+    "other_names": {
+      "name": "海棠区",
+      "name:de": "Haitang",
+      "name:en": "Haitang District",
+      "name:ja": "海棠区",
+      "name:ko": "하이탕구",
+      "name:sv": "Haitang",
+      "name:vi": "Hải Đường, Tam Á",
+      "name:zh": "海棠区",
+      "name:ceb": "Haitangwan",
+      "name:nan": "Hái-tông-khu",
+      "name:yue": "海棠區",
+      "name:zh-Hant": "海棠區"
+    }
+  },
+  {
+    "name": "Haixi",
+    "country": "China",
+    "latitude": 37.3802790998972,
+    "longitude": 97.3826696,
+    "other_names": {
+      "name": "海西州",
+      "name:bo": "མཚོ་ནུབ་སོག་རིགས་དང་བོད་རིགས་རང་སྐྱོང་ཁུལ་",
+      "name:en": "Haixi",
+      "name:ja": "海西モンゴル族チベット族自治州",
+      "name:mn": "Хайши",
+      "name:vi": "Hải Tây",
+      "name:zh": "海西州",
+      "alt_name": "海西蒙古族藏族自治州;Qaidam;Haixi Mongol and Tibetan Autonomous Prefecture",
+      "short_name": "海西州",
+      "name:zh-Hant": "海西州",
+      "official_name": "海西州",
+      "official_name:vi": "Châu tự trị dân tộc Tạng Hải Tây"
+    }
+  },
+  {
+    "name": "Haixing",
+    "country": "China",
+    "latitude": 38.14066620000189,
+    "longitude": 117.49085009999999,
+    "other_names": {
+      "name": "海兴县",
+      "name:en": "Haixing",
+      "name:vi": "Hải Hưng",
+      "name:zh": "海兴县",
+      "alt_name": "海兴;Haixing County",
+      "name:zh-Hant": "海興縣",
+      "name:zh_pinyin": "Haixing Xian"
+    }
+  },
+  {
+    "name": "Haiyan County",
+    "country": "China",
+    "latitude": 30.52766759969542,
+    "longitude": 120.9420572,
+    "other_names": {
+      "name": "海盐县",
+      "name:de": "Haiyan",
+      "name:en": "Haiyan County",
+      "name:fa": "شهرستان های‌یان (چجیانگ)",
+      "name:fr": "Xian de Haiyan",
+      "name:it": "Contea di Haiyan",
+      "name:ja": "海塩県",
+      "name:ko": "하이옌현",
+      "name:no": "Haiyan",
+      "name:ru": "Хайянь",
+      "name:sv": "Haiyan",
+      "name:vi": "Hải Diêm",
+      "name:zh": "海盐县",
+      "name:ceb": "Haiyan Xian",
+      "name:nan": "Hái-iâm-koān",
+      "name:wuu": "海鹽縣",
+      "name:yue": "海鹽",
+      "name:zh-Hant": "海鹽縣",
+      "name:zh_pinyin": "Hǎiyán Xiàn"
+    }
+  },
+  {
+    "name": "Haiyang",
+    "country": "China",
+    "latitude": 36.68834839981049,
+    "longitude": 121.1686893,
+    "other_names": {
+      "name": "海阳市",
+      "name:de": "Haiyang",
+      "name:en": "Haiyang",
+      "name:fr": "Haiyang",
+      "name:ja": "海陽市",
+      "name:vi": "Hải Dương",
+      "name:zh": "海阳市",
+      "int_name": "Haiyang",
+      "name:zh-Hant": "海陽市",
+      "name:zh_pinyin": "Hǎiyáng Shì"
+    }
+  },
+  {
+    "name": "Haiyuan",
+    "country": "China",
+    "latitude": 36.561478399795746,
+    "longitude": 105.64335559999999,
+    "other_names": {
+      "name": "海原县",
+      "name:en": "Haiyuan",
+      "name:ja": "海原県",
+      "name:ru": "Хайюань",
+      "name:sd": "هَیْیُوًا ﺷِﯿًﺎ‎",
+      "name:zh": "海原县",
+      "name:zh-Hant": "海原縣",
+      "name:zh_pinyin": "Hǎiyuán Xiàn"
+    }
+  },
+  {
+    "name": "Haizhou District",
+    "country": "China",
+    "latitude": 34.57335049962602,
+    "longitude": 119.1577061,
+    "other_names": {
+      "name": "海州区",
+      "name:en": "Haizhou District",
+      "name:vi": "Hải Châu",
+      "name:zh": "海州区",
+      "name:zh-Hant": "海州區",
+      "name:zh_pinyin": "Haizhou Qu"
+    }
+  },
+  {
+    "name": "Haizhu District",
+    "country": "China",
+    "latitude": 23.08599580038064,
+    "longitude": 113.3119935,
+    "other_names": {
+      "name": "海珠区",
+      "name:de": "Haizhu",
+      "name:en": "Haizhu District",
+      "name:es": "Haizhu",
+      "name:eu": "Haizhu Barrutia",
+      "name:fa": "هایژو",
+      "name:fr": "District de Haizhu",
+      "name:it": "Distretto di Haizhu",
+      "name:ja": "海珠区",
+      "name:ko": "하이주구",
+      "name:no": "Haizhu",
+      "name:pl": "Haizhu",
+      "name:pt": "Haizhu",
+      "name:ru": "Хайчжу",
+      "name:sv": "Haizhu",
+      "name:vi": "Hải Châu",
+      "name:zh": "海珠区",
+      "name:hak": "Hói-chû-khî",
+      "name:mwl": "Haizhu",
+      "name:nan": "Hái-chu-khu",
+      "name:yue": "海珠區",
+      "name:zh-Hant": "海珠區",
+      "name:zh_pinyin": "Hǎizhū Qū",
+      "official_name:vi": "Quận Hải Châu"
+    }
+  },
+  {
+    "name": "Hajiawa",
+    "country": "Iraq",
+    "latitude": 36.240432628523486,
+    "longitude": 44.787549961936556,
+    "other_names": {
+      "name": "Hajiawa",
+      "name:en": "Hajiawa",
+      "name:ckb": "حاجیاوا"
+    }
+  },
+  {
+    "name": "Hajipur",
+    "country": "India",
+    "latitude": 25.690556800194916,
+    "longitude": 85.20900939999999,
+    "other_names": {
+      "name": "Hajipur",
+      "name:bn": "হাজিপুর",
+      "name:hi": "हाजीपुर",
+      "name:pa": "ਹਾਜੀਪੁਰ",
+      "name:ta": "ஹாஜிப்பூர்"
+    }
+  },
+  {
+    "name": "Hakha",
+    "country": "Myanmar",
+    "latitude": 22.6427551003959,
+    "longitude": 93.6096217,
+    "other_names": {
+      "name": "ဟားခါး",
+      "pcode": "MMR004002701",
+      "name:da": "Hakha",
+      "name:de": "Hakha",
+      "name:en": "Hakha",
+      "name:fr": "Hakha",
+      "name:hi": "हाखा",
+      "name:it": "Hakha",
+      "name:ja": "ハッカ",
+      "name:ko": "하카",
+      "name:lt": "Hakha",
+      "name:my": "ဟားခါး",
+      "name:nl": "Hakha",
+      "name:no": "Hakha",
+      "name:pl": "Haka",
+      "name:pt": "Hakha",
+      "name:ru": "Хакха",
+      "name:sv": "Hakha",
+      "name:uk": "Хакха",
+      "name:ur": "ہاکہا",
+      "name:vi": "Hakha",
+      "name:zh": "哈卡",
+      "alt_name": "ဟားခါးမြို့"
+    }
+  },
+  {
+    "name": "Hakkari",
+    "country": "Turkey",
+    "latitude": 37.57669959992348,
+    "longitude": 43.7377693,
+    "other_names": {
+      "name": "Hakkari",
+      "name:ar": "هكاري",
+      "name:hu": "Hakkari",
+      "name:hy": "Ջլմար",
+      "name:ku": "Colemêrg",
+      "name:ru": "Хаккяри",
+      "alt_name": "Hakkâri",
+      "old_name": "Çölemerik"
+    }
+  },
+  {
+    "name": "Hakodate",
+    "country": "Japan",
+    "latitude": 41.76879300046793,
+    "longitude": 140.72900799999996,
+    "other_names": {
+      "name": "函館市",
+      "name:ar": "هاكوداته، هوكايدو",
+      "name:cs": "Hakodate",
+      "name:de": "Hakodate",
+      "name:en": "Hakodate",
+      "name:es": "Hakodate",
+      "name:et": "Hakodate",
+      "name:fr": "Hakodate",
+      "name:hu": "Hakodate",
+      "name:ja": "函館市",
+      "name:ko": "하코다테시",
+      "name:pl": "Hakodate",
+      "name:ru": "Хакодате",
+      "name:uk": "Хакодате",
+      "name:zh": "函馆市",
+      "int_name": "Hakodate",
+      "name:ja_rm": "Hakodate-shi",
+      "name:ja_kana": "はこだてし"
+    }
+  }
+]

@@ -1,0 +1,385 @@
+[
+  {
+    "name": "Yilong",
+    "country": "China",
+    "latitude": 31.27217649964399,
+    "longitude": 106.2993039,
+    "other_names": {
+      "name": "仪陇县",
+      "name:en": "Yilong",
+      "name:zh": "仪陇县",
+      "alt_name": "仪陇;I-lung-hsien;I-lung;Yilong County",
+      "name:zh-Hant": "儀隴縣"
+    }
+  },
+  {
+    "name": "Yima",
+    "country": "China",
+    "latitude": 34.74549239963561,
+    "longitude": 111.86619159999998,
+    "other_names": {
+      "name": "义马市",
+      "name:de": "Yima",
+      "name:en": "Yima",
+      "name:fr": "Yima",
+      "name:ja": "義馬市",
+      "name:vi": "Nghĩa Mã",
+      "name:zh": "义马市",
+      "name:zh-Hant": "義馬市",
+      "name:zh_pinyin": "Yìmǎ Shì"
+    }
+  },
+  {
+    "name": "Yimei",
+    "country": "China",
+    "latitude": 47.7260315000021,
+    "longitude": 128.89953,
+    "other_names": {
+      "name": "伊美区",
+      "name:en": "Yimei",
+      "name:ja": "伊美区",
+      "name:ko": "이메이구",
+      "name:ru": "Ичунь",
+      "name:vi": "Y Xuân",
+      "name:zh": "伊美区",
+      "alt_name": "伊春;Yichun District",
+      "name:zh-Hant": "伊美區",
+      "name:zh_pinyin": "Yīměi Qū"
+    }
+  },
+  {
+    "name": "Yimen",
+    "country": "China",
+    "latitude": 24.67570920028459,
+    "longitude": 102.16017129999999,
+    "other_names": {
+      "name": "易门县",
+      "name:en": "Yimen",
+      "name:zh": "易门县",
+      "alt_name": "易门;I-men Hsien;Yimen County",
+      "name:zh-Hant": "易門縣"
+    }
+  },
+  {
+    "name": "Yinan",
+    "country": "China",
+    "latitude": 35.55001439969385,
+    "longitude": 118.45914720000002,
+    "other_names": {
+      "name": "沂南县",
+      "name:en": "Yinan",
+      "name:zh": "沂南县",
+      "name:zh-Hant": "沂南縣"
+    }
+  },
+  {
+    "name": "Yinchuan",
+    "country": "China",
+    "latitude": 38.48520370005129,
+    "longitude": 106.22619259999999,
+    "other_names": {
+      "name": "银川市",
+      "name:cs": "Jin-čchuan",
+      "name:de": "Yinchuan",
+      "name:en": "Yinchuan",
+      "name:es": "Yinchuan",
+      "name:et": "Yinchuan",
+      "name:fr": "Yinchuan",
+      "name:hi": "यिंगचुआन",
+      "name:ja": "銀川市",
+      "name:nl": "Yinchuan",
+      "name:pt": "Yinchuan",
+      "name:ru": "Иньчуань",
+      "name:sd": "ىٍﭼُﻮًا شِ",
+      "name:sr": "Јинчуан",
+      "name:ug": "يىنچۈئەن شەھىرى",
+      "name:uk": "Їньчуань",
+      "name:vi": "Ngân Xuyên",
+      "name:zh": "银川市",
+      "name:zh-Hant": "銀川市",
+      "name:zh_pinyin": "Yínchuān Shì"
+    }
+  },
+  {
+    "name": "Yindu",
+    "country": "China",
+    "latitude": 36.111807799746835,
+    "longitude": 114.29763729999999,
+    "other_names": {
+      "name": "殷都区",
+      "name:en": "Yindu",
+      "name:zh": "殷都区",
+      "alt_name": "殷都;Yindu District",
+      "name:zh-Hant": "殷都區"
+    }
+  },
+  {
+    "name": "Yingcheng",
+    "country": "China",
+    "latitude": 30.933364199665615,
+    "longitude": 113.56648119999998,
+    "other_names": {
+      "name": "应城市",
+      "name:de": "Yingcheng",
+      "name:en": "Yingcheng",
+      "name:fr": "Yingcheng",
+      "name:ja": "応城市",
+      "name:ru": "Инчэн",
+      "name:vi": "Ứng Thành",
+      "name:zh": "应城市",
+      "name:zh-Hant": "應城市",
+      "name:zh_pinyin": "Yìngchéng Shì"
+    }
+  },
+  {
+    "name": "Yingde",
+    "country": "China",
+    "latitude": 24.207988600319094,
+    "longitude": 113.39628319999998,
+    "other_names": {
+      "name": "英德市",
+      "name:ar": "يينغدا",
+      "name:de": "Yingde",
+      "name:en": "Yingde",
+      "name:fa": "یینگدی",
+      "name:fr": "Yingde",
+      "name:it": "Yingde",
+      "name:ja": "英徳市",
+      "name:ki": "Yingde",
+      "name:ko": "잉더시",
+      "name:mg": "Yingde",
+      "name:nl": "Yingde",
+      "name:no": "Yingde",
+      "name:ru": "Индэ",
+      "name:sv": "Yingde",
+      "name:uk": "Їнде",
+      "name:ur": "ینگدے",
+      "name:vi": "Anh Đức",
+      "name:zh": "英德市",
+      "alt_name": "英德;Yingde City",
+      "name:hak": "Yîn-tet-sṳ",
+      "name:mwl": "Yingde",
+      "name:nan": "Eng-tek-chhī",
+      "name:pam": "Yingde",
+      "name:pnb": "ينگدے",
+      "name:yue": "英德",
+      "name:zh-Hant": "英德市",
+      "name:zh_pinyin": "Yīngdé Shì"
+    }
+  },
+  {
+    "name": "Yingdong",
+    "country": "China",
+    "latitude": 32.9142538995881,
+    "longitude": 115.85145910000001,
+    "other_names": {
+      "name": "颍东区",
+      "name:en": "Yingdong",
+      "name:ja": "潁東区",
+      "name:vi": "Dĩnh Đông",
+      "name:zh": "颍东区",
+      "name:zh-Hant": "潁東區",
+      "name:zh_pinyin": "Yingdong Qu"
+    }
+  },
+  {
+    "name": "Yingjiang",
+    "country": "China",
+    "latitude": 30.507717099696972,
+    "longitude": 117.0571678,
+    "other_names": {
+      "name": "迎江区",
+      "name:en": "Yingjiang",
+      "name:ja": "迎江区",
+      "name:zh": "迎江区",
+      "alt_name": "迎江;Yingjiang District",
+      "name:zh-Hant": "迎江區",
+      "name:zh_pinyin": "Yíngjiāng Qū"
+    }
+  },
+  {
+    "name": "Yingjiang",
+    "country": "China",
+    "latitude": 24.708438700282006,
+    "longitude": 97.93172149999998,
+    "other_names": {
+      "name": "盈江县",
+      "name:en": "Yingjiang",
+      "name:vi": "Doanh Giang",
+      "name:zh": "盈江县",
+      "alt_name": "盈江;Ying-chiang Hsien;Yingjiang County",
+      "name:kac": "Yinkyang Ginwang",
+      "name:zh-Hant": "盈江縣",
+      "name:zh_pinyin": "Yíngjiāngxiàn",
+      "name:tai_tainua": "ᥔᥦᥢᥱ ᥛᥫᥒᥰ ᥘᥣᥲ"
+    }
+  },
+  {
+    "name": "Yingjing",
+    "country": "China",
+    "latitude": 29.79555389975842,
+    "longitude": 102.84516329999998,
+    "other_names": {
+      "name": "荥经县",
+      "name:en": "Yingjing",
+      "name:zh": "荥经县",
+      "alt_name": "荥经;Yingjing County",
+      "name:zh-Hant": "滎經縣"
+    }
+  },
+  {
+    "name": "Yingkou",
+    "country": "China",
+    "latitude": 40.674715500354225,
+    "longitude": 122.2357736,
+    "other_names": {
+      "name": "营口市",
+      "name:cs": "Jing-kchou",
+      "name:de": "Yingkou",
+      "name:en": "Yingkou",
+      "name:et": "Yingkou",
+      "name:fr": "Yingkou",
+      "name:ja": "営口市",
+      "name:ko": "잉커우시",
+      "name:ru": "Инкоу",
+      "name:vi": "Dinh Khẩu",
+      "name:zh": "营口市",
+      "name:zh-Hant": "營口市",
+      "name:zh_pinyin": "Yíngkǒu Shì"
+    }
+  },
+  {
+    "name": "Yingquan",
+    "country": "China",
+    "latitude": 32.92712039958802,
+    "longitude": 115.80187610000002,
+    "other_names": {
+      "name": "颍泉区",
+      "name:en": "Yingquan",
+      "name:ja": "潁泉区",
+      "name:vi": "Dĩnh Tuyền",
+      "name:zh": "颍泉区",
+      "name:zh-Hant": "潁泉區",
+      "name:zh_pinyin": "Yingquan Qu"
+    }
+  },
+  {
+    "name": "Yingshan",
+    "country": "China",
+    "latitude": 32.65523409959105,
+    "longitude": 116.251507,
+    "other_names": {
+      "name": "颍上县",
+      "name:en": "Yingshan",
+      "name:ja": "潁上県",
+      "name:vi": "Dĩnh Thượng",
+      "name:zh": "颍上县",
+      "name:zh-Hant": "潁上縣",
+      "name:zh_pinyin": "Yingshang Xian"
+    }
+  },
+  {
+    "name": "Yingshan",
+    "country": "China",
+    "latitude": 31.07909429965594,
+    "longitude": 106.57517939999998,
+    "other_names": {
+      "name": "营山县",
+      "name:en": "Yingshan",
+      "name:vi": "Doanh Sơn",
+      "name:zh": "营山县",
+      "alt_name": "营山;Ying-shan-hsien;Chengshou;Inshan';Yingshan",
+      "name:zh-Hant": "營山縣",
+      "name:zh_pinyin": "Yingshan Xian"
+    }
+  },
+  {
+    "name": "Yingshan County",
+    "country": "China",
+    "latitude": 30.737799499679486,
+    "longitude": 115.6760185,
+    "other_names": {
+      "name": "英山县",
+      "name:de": "Yingshan",
+      "name:en": "Yingshan County",
+      "name:es": "Yingshan",
+      "name:fa": "شهرستان یینگشان (هوبئی)",
+      "name:fr": "Xian de Yingshan",
+      "name:it": "Contea di Yingshan",
+      "name:ja": "英山県",
+      "name:ko": "잉산현",
+      "name:no": "Yingshan",
+      "name:ru": "Иншань",
+      "name:sv": "Yingshan",
+      "name:ur": "ینگشن کاؤنٹی، ہبی",
+      "name:vi": "Anh Sơn",
+      "name:zh": "英山县",
+      "alt_name": "英山;Yingshan County",
+      "name:ceb": "Yingshan Xian",
+      "name:nan": "Eng-san-koān",
+      "name:yue": "英山",
+      "name:zh-Hant": "英山縣",
+      "name:zh_pinyin": "Yingshan Xian"
+    }
+  },
+  {
+    "name": "Yingshouyingzi Mining District",
+    "country": "China",
+    "latitude": 40.54599500033843,
+    "longitude": 117.6570759,
+    "other_names": {
+      "name": "鹰手营子矿区",
+      "name:en": "Yingshouyingzi Mining District",
+      "name:vi": "Ưng Thủ Doanh Tử",
+      "name:zh": "鹰手营子矿区",
+      "alt_name": "鹰手营子",
+      "name:zh-Hant": "鷹手營子礦區"
+    }
+  },
+  {
+    "name": "Yingtan",
+    "country": "China",
+    "latitude": 28.274117599915787,
+    "longitude": 117.034423,
+    "other_names": {
+      "name": "鹰潭市",
+      "name:ar": "ينغتان",
+      "name:cs": "Jing-tchan",
+      "name:da": "Yingtan",
+      "name:de": "Yingtan",
+      "name:en": "Yingtan",
+      "name:es": "Yingtan",
+      "name:et": "Yingtan",
+      "name:eu": "Yingtan",
+      "name:fa": "یینگتان",
+      "name:fi": "Yingtan",
+      "name:fr": "Yingtan",
+      "name:it": "Yingtan",
+      "name:ja": "鷹潭市",
+      "name:ki": "Yingtan",
+      "name:ko": "잉탄시",
+      "name:mg": "Yingtan",
+      "name:nl": "Yingtan",
+      "name:nn": "Yingtan",
+      "name:no": "Yingtan",
+      "name:pl": "Yingtan",
+      "name:pt": "Yingtan",
+      "name:ru": "Интань",
+      "name:sv": "Yingtan",
+      "name:tr": "Yingtan",
+      "name:ur": "ینگتان",
+      "name:vi": "Ưng Đàm",
+      "name:zh": "鹰潭市",
+      "name:cdo": "Ĭng-tàng",
+      "name:ceb": "Yingtan",
+      "name:gan": "鷹潭",
+      "name:hak": "Yîn-thàm-sṳ",
+      "name:nan": "Eng-thâm-chhī",
+      "name:war": "Yingtan",
+      "name:wuu": "鹰潭市",
+      "name:yue": "鷹潭",
+      "name:zh-Hant": "鷹潭市",
+      "name:zh_pinyin": "Yīngtán Shì"
+    }
+  }
+]

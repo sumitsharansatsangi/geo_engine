@@ -1,0 +1,408 @@
+[
+  {
+    "name": "Ogden",
+    "country": "United States Of America",
+    "latitude": 41.22300480041627,
+    "longitude": -111.9738429,
+    "other_names": {
+      "name": "Ogden",
+      "name:ru": "Огден"
+    }
+  },
+  {
+    "name": "Ogi",
+    "country": "Japan",
+    "latitude": 33.273807599587926,
+    "longitude": 130.21710429999996,
+    "other_names": {
+      "name": "小城市",
+      "name:ar": "أوغي، ساغا",
+      "name:de": "Ogi",
+      "name:en": "Ogi",
+      "name:es": "Ogi",
+      "name:fa": "اوگی",
+      "name:fr": "Ogi",
+      "name:gl": "Ogi",
+      "name:it": "Ogi",
+      "name:ja": "小城市",
+      "name:ko": "오기시",
+      "name:pl": "Ogi",
+      "name:ro": "Ogi, Saga",
+      "name:ru": "Оги",
+      "name:tl": "Ogi",
+      "name:uk": "Оґі",
+      "name:vi": "Ogi, Saga",
+      "name:zh": "小城市",
+      "int_name": "Ogi",
+      "name:mzn": "اوگی، ساگا",
+      "name:war": "Ogi",
+      "name:ja-Hira": "おぎし",
+      "name:ja-Latn": "Ogi-shi",
+      "name:zh-Hans": "小城市"
+    }
+  },
+  {
+    "name": "Ogori",
+    "country": "Japan",
+    "latitude": 33.39639459958892,
+    "longitude": 130.5554371,
+    "other_names": {
+      "name": "小郡市",
+      "name:ar": "أوغوري، فوكوكا",
+      "name:de": "Ogōri",
+      "name:en": "Ogori",
+      "name:es": "Ogōri",
+      "name:fr": "Ogōri",
+      "name:ja": "小郡市",
+      "name:ko": "오고리시",
+      "name:pl": "Ogōri",
+      "name:ru": "Огори",
+      "name:uk": "Оґорі",
+      "name:zh": "小郡市",
+      "int_name": "Ogōri",
+      "name:ja_rm": "Ogōri-shi",
+      "name:ja_kana": "おごおりし",
+      "name:zh-Hans": "小郡市",
+      "name:zh-Hant": "小郡市"
+    }
+  },
+  {
+    "name": "Ohrid",
+    "country": "Macedonia",
+    "latitude": 41.11702030040502,
+    "longitude": 20.801738699999998,
+    "other_names": {
+      "name": "Охрид",
+      "name:bg": "Охрид",
+      "name:de": "Ohrid",
+      "name:el": "Οχρίδα",
+      "name:en": "Ohrid",
+      "name:et": "Ohrid",
+      "name:fr": "Ohrid",
+      "name:hr": "Ohrid",
+      "name:hu": "Ohrid",
+      "name:it": "Ocrida",
+      "name:lt": "Ochridas",
+      "name:pl": "Ochryda",
+      "name:ro": "Ohrida",
+      "name:ru": "Охрид",
+      "name:sh": "Ohër",
+      "name:sr": "Охрид",
+      "int_name": "Ohrid",
+      "alt_name:sh": "Ohri;Ohra",
+      "name:sr-Latn": "Ohrid"
+    }
+  },
+  {
+    "name": "Ohtawara",
+    "country": "Japan",
+    "latitude": 36.871029999832395,
+    "longitude": 140.0154048,
+    "other_names": {
+      "name": "大田原市",
+      "name:ar": "أوتاوارا، توتشيغي",
+      "name:de": "Ōtawara",
+      "name:en": "Ohtawara",
+      "name:es": "Ōtawara",
+      "name:fr": "Ōtawara",
+      "name:ja": "大田原市",
+      "name:ko": "오타와라시",
+      "name:pl": "Ōtawara",
+      "name:ru": "Отавара",
+      "name:uk": "Отавара",
+      "int_name": "Ōtawara",
+      "name:ja_rm": "Ōtawara",
+      "name:ja_kana": "おおたわらし"
+    }
+  },
+  {
+    "name": "Oita",
+    "country": "Japan",
+    "latitude": 33.239386399587744,
+    "longitude": 131.6096524,
+    "other_names": {
+      "name": "大分市",
+      "name:ar": "أويتا، أويتا",
+      "name:cs": "Óita",
+      "name:de": "Ōita",
+      "name:en": "Oita",
+      "name:es": "Ōita",
+      "name:et": "Ōita",
+      "name:fr": "Ōita",
+      "name:hu": "Óita",
+      "name:ja": "大分市",
+      "name:ko": "오이타시",
+      "name:lt": "Oita",
+      "name:pl": "Ōita",
+      "name:ru": "Оита",
+      "name:sr": "Оита",
+      "name:uk": "Ойта",
+      "name:zh": "大分市",
+      "int_name": "Ooita",
+      "name:ja_rm": "Ōita",
+      "name:ja_kana": "おおいたし",
+      "name:zh-Hans": "大分市",
+      "name:zh-Hant": "大分市"
+    }
+  },
+  {
+    "name": "Ojinaga",
+    "country": "Mexico",
+    "latitude": 29.549862199781817,
+    "longitude": -104.41393619999998,
+    "other_names": {
+      "name": "Ojinaga",
+      "name:ru": "Охинага",
+      "alt_name": "Manuel Ojinaga"
+    }
+  },
+  {
+    "name": "Ojiya",
+    "country": "Japan",
+    "latitude": 37.31427149988852,
+    "longitude": 138.7951327,
+    "other_names": {
+      "name": "小千谷市",
+      "name:de": "Ojiya",
+      "name:en": "Ojiya",
+      "name:es": "Ojiya",
+      "name:fr": "Ojiya",
+      "name:ja": "أوجيا، نييغاتا",
+      "name:ko": "오지야시",
+      "name:pl": "Ojiya",
+      "name:ru": "Одзия",
+      "name:uk": "Одзія",
+      "int_name": "Ojiya",
+      "name:ja_rm": "Ojiya-shi",
+      "name:ja_kana": "おぢやし"
+    }
+  },
+  {
+    "name": "Oka-Akoko",
+    "country": "Nigeria",
+    "latitude": 7.458638899395298,
+    "longitude": 5.803077699999999,
+    "other_names": {
+      "name": "Oka-Akoko"
+    }
+  },
+  {
+    "name": "Okahandja",
+    "country": "Namibia",
+    "latitude": -21.979231000199025,
+    "longitude": 16.9128172,
+    "other_names": {
+      "name": "Okahandja",
+      "name:ar": "أوكاهانديا",
+      "name:ru": "Окаханджа"
+    }
+  },
+  {
+    "name": "Okara",
+    "country": "Pakistan",
+    "latitude": 30.809128099674314,
+    "longitude": 73.4493301,
+    "other_names": {
+      "name": "اوکاڑہ",
+      "name:ar": "أوكارا",
+      "name:de": "Okara",
+      "name:en": "Okara",
+      "name:es": "Okara",
+      "name:et": "Okāra",
+      "name:fr": "Okara",
+      "name:hi": "ओकरा",
+      "name:ja": "オーカーラー",
+      "name:kn": "ಓಕರಾ",
+      "name:ru": "Окара"
+    }
+  },
+  {
+    "name": "Okawa",
+    "country": "Japan",
+    "latitude": 33.206185699587614,
+    "longitude": 130.3835746,
+    "other_names": {
+      "name": "大川市",
+      "name:ar": "أوكاوا، فوكوكا",
+      "name:de": "Ōkawa",
+      "name:en": "Okawa",
+      "name:es": "Ōkawa",
+      "name:fr": "Ōkawa",
+      "name:ja": "大川市",
+      "name:ko": "오카와시",
+      "name:ru": "Окава",
+      "name:uk": "Окава",
+      "name:zh": "大川市",
+      "int_name": "Yanagawa",
+      "name:ja-Hira": "おおかわし",
+      "name:zh-Hans": "大川市",
+      "name:zh-Hant": "大川市"
+    }
+  },
+  {
+    "name": "Okaya",
+    "country": "Japan",
+    "latitude": 36.07852999974343,
+    "longitude": 138.049549,
+    "other_names": {
+      "name": "岡谷市",
+      "name:en": "Okaya",
+      "name:fr": "Okaya",
+      "name:ja": "岡谷市",
+      "name:ko": "오카야시",
+      "name:pl": "Okaya",
+      "name:ru": "Окая",
+      "name:uk": "Окая",
+      "name:ja_rm": "Okaya-shi",
+      "name:ja_kana": "おかやし"
+    }
+  },
+  {
+    "name": "Okayama",
+    "country": "Japan",
+    "latitude": 34.65539439963045,
+    "longitude": 133.91945949999996,
+    "other_names": {
+      "name": "岡山市",
+      "name:cs": "Okajama",
+      "name:en": "Okayama",
+      "name:et": "Okayama",
+      "name:eu": "Okayama",
+      "name:fr": "Okayama",
+      "name:ja": "岡山市",
+      "name:ko": "오카야마시",
+      "name:lt": "Okajama",
+      "name:pl": "Okayama",
+      "name:ru": "Окаяма",
+      "name:sl": "Okayama",
+      "name:sr": "Окајама",
+      "name:uk": "Окаяма",
+      "name:zh": "冈山市",
+      "name:ja-Hira": "おかやまし",
+      "name:ja-Latn": "Okayama"
+    }
+  },
+  {
+    "name": "Okazaki",
+    "country": "Japan",
+    "latitude": 34.9509739996484,
+    "longitude": 137.260842,
+    "other_names": {
+      "name": "岡崎市",
+      "name:ar": "أوكازاكي، آيتشي",
+      "name:de": "Okazaki",
+      "name:en": "Okazaki",
+      "name:es": "Okazaki",
+      "name:et": "Okazaki",
+      "name:fr": "Okazaki",
+      "name:ja": "岡崎市",
+      "name:ko": "오카자키시",
+      "name:pl": "Okazaki",
+      "name:ru": "Окадзаки",
+      "name:uk": "Окадзакі",
+      "name:ja_rm": "Okazaki-shi"
+    }
+  },
+  {
+    "name": "Okegawa",
+    "country": "Japan",
+    "latitude": 36.00215199973575,
+    "longitude": 139.541356,
+    "other_names": {
+      "name": "桶川市",
+      "name:ar": "أوكيغاوا، سايتاما",
+      "name:de": "Okegawa",
+      "name:en": "Okegawa",
+      "name:es": "Okegawa",
+      "name:fr": "Okegawa",
+      "name:ja": "桶川市",
+      "name:ko": "오케가와시",
+      "name:pl": "Okegawa",
+      "name:ru": "Окегава",
+      "name:uk": "Океґава",
+      "int_name": "Okegawa"
+    }
+  },
+  {
+    "name": "Okinawa",
+    "country": "Japan",
+    "latitude": 26.334373800129736,
+    "longitude": 127.8056597,
+    "other_names": {
+      "name": "沖縄市",
+      "name:ar": "مدينة أوكيناوا",
+      "name:de": "Okinawa",
+      "name:en": "Okinawa",
+      "name:es": "Okinawa",
+      "name:et": "Okinawa",
+      "name:fr": "Okinawa",
+      "name:hu": "Okinava",
+      "name:ja": "沖縄市",
+      "name:ko": "오키나와시",
+      "name:pl": "Okinawa",
+      "name:ru": "Окинава",
+      "name:uk": "Окінава",
+      "name:zh": "冲绳市",
+      "int_name": "Okinawa",
+      "name:ja_rm": "Okinawa-shi",
+      "name:ja_kana": "おきなわし",
+      "name:zh-Hans": "冲绳市",
+      "name:zh-Hant": "沖繩市"
+    }
+  },
+  {
+    "name": "Oklahoma City",
+    "country": "United States Of America",
+    "latitude": 35.47298859968735,
+    "longitude": -97.5170536,
+    "other_names": {
+      "name": "Oklahoma City",
+      "name:ar": "أوكلاهوما سيتي",
+      "name:en": "Oklahoma City",
+      "name:eo": "Oklahomurbo",
+      "name:ja": "オクラホマシティー",
+      "name:pl": "Oklahoma City",
+      "name:pt": "Oklahoma City",
+      "name:ru": "Оклахома-Сити",
+      "name:ta": "ஓக்லஹோமா நகரம்",
+      "name:uk": "Оклахома-Сіті",
+      "name:zh": "俄克拉何马城 / 奧克拉荷馬市 / 奧克拉荷馬城",
+      "name:zh-hk": "奧克拉荷馬城",
+      "name:zh-Hans": "俄克拉何马城",
+      "name:zh-Hant": "奧克拉荷馬市 / 奧克拉荷馬城"
+    }
+  },
+  {
+    "name": "Olathe",
+    "country": "United States Of America",
+    "latitude": 38.883885600109075,
+    "longitude": -94.81886999999999,
+    "other_names": {
+      "name": "Olathe"
+    }
+  },
+  {
+    "name": "Oldenburg",
+    "country": "Germany",
+    "latitude": 53.138975299093374,
+    "longitude": 8.214601700000001,
+    "other_names": {
+      "name": "Oldenburg",
+      "name:ar": "أولدنبورغ",
+      "name:de": "Oldenburg",
+      "name:fr": "Oldenbourg",
+      "name:fy": "Aldenboarch",
+      "name:is": "Aldinborg",
+      "name:ja": "オルデンブルク",
+      "name:la": "Oldenburgum",
+      "name:pt": "Oldemburgo",
+      "name:ru": "Ольденбург",
+      "name:sr": "Олденбург",
+      "name:zh": "奥尔登堡",
+      "alt_name": "Oldenburg (Oldenburg)",
+      "loc_name": "Oldenburg",
+      "name:nds": "Ollnborg",
+      "official_name": "Oldenburg (Oldb)"
+    }
+  }
+]

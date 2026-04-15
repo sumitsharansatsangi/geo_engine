@@ -1,0 +1,331 @@
+[
+  {
+    "name": "Bhandara",
+    "country": "India",
+    "latitude": 21.17066980040704,
+    "longitude": 79.65658,
+    "other_names": {
+      "name": "Bhandara",
+      "name:ja": "バンダーラー",
+      "name:mr": "भंडारा",
+      "name:ta": "பண்டாரா"
+    }
+  },
+  {
+    "name": "Bharatpur",
+    "country": "Nepal",
+    "latitude": 27.680616699981986,
+    "longitude": 84.4308773,
+    "other_names": {
+      "name": "Bharatpur",
+      "name:en": "Bharatpur",
+      "name:fr": "Bhâratpur",
+      "name:hi": "भरतपुर",
+      "name:ja": "バラトプル",
+      "name:ne": "भरतपुर",
+      "name:pl": "Bharatpur",
+      "name:ru": "Бхаратпур",
+      "name:ta": "பரத்பூர்"
+    }
+  },
+  {
+    "name": "Bharatpur",
+    "country": "India",
+    "latitude": 27.215444700034,
+    "longitude": 77.49869619999998,
+    "other_names": {
+      "name": "Bharatpur",
+      "name:en": "Bharatpur",
+      "name:gu": "ભરતપુર",
+      "name:hi": "भरतपुर",
+      "name:ja": "バラトプル",
+      "name:kn": "ಭರತ್‌ಪುರ್",
+      "name:pa": "ਭਰਤਪੁਰ",
+      "name:ta": "பரத்பூர்"
+    }
+  },
+  {
+    "name": "Bharuch",
+    "country": "India",
+    "latitude": 21.711363696483236,
+    "longitude": 72.99863977674941,
+    "other_names": {
+      "name": "Bharuch",
+      "name:ja": "バルーチ",
+      "name:ta": "பரூச்"
+    }
+  },
+  {
+    "name": "Bharuch",
+    "country": "India",
+    "latitude": 21.708042700410115,
+    "longitude": 72.9956936,
+    "other_names": {
+      "name": "Bharuch",
+      "name:en": "Bharuch",
+      "name:gu": "ભરૂચ",
+      "name:hi": "भरूच",
+      "name:ja": "バルーチ",
+      "name:kn": "ಭರೂಚ್",
+      "name:mr": "भरूच"
+    }
+  },
+  {
+    "name": "Bhavnagar",
+    "country": "India",
+    "latitude": 21.77188360040992,
+    "longitude": 72.1416449,
+    "other_names": {
+      "name": "Bhavnagar",
+      "name:ar": "بهافناغار",
+      "name:en": "Bhavnagar",
+      "name:gu": "ભાવનગર",
+      "name:hi": "भावनगर",
+      "name:ja": "バーヴナガル",
+      "name:kn": "ಭಾವನಗರ",
+      "name:ml": "ഭാവ്നഗർ",
+      "name:mr": "भावनगर",
+      "name:pa": "ਭਾਵਨਗਰ",
+      "name:ru": "Бхавнагар",
+      "name:ta": "பவநகர்",
+      "name:zh": "巴夫那加"
+    }
+  },
+  {
+    "name": "Bhilai",
+    "country": "India",
+    "latitude": 21.21206770040757,
+    "longitude": 81.37328489999999,
+    "other_names": {
+      "name": "Bhilai",
+      "name:ar": "بيلائي",
+      "name:en": "Bhilai",
+      "name:he": "בהילאי",
+      "name:hi": "भिलाई",
+      "name:ja": "ビラーイー",
+      "name:kn": "ಭಿಲಾಯಿ",
+      "name:ml": "ഭിലായ്",
+      "name:or": "ଭିଲାଇ",
+      "name:ru": "Бхилаи",
+      "name:ta": "பிலாய்",
+      "name:uk": "Бхілаі",
+      "name:ur": "بھلائی",
+      "alt_name:ar": "بهيلاي;بهيلاي نجر",
+      "alt_name:hi": "भिलाई नगर"
+    }
+  },
+  {
+    "name": "Bhilwara",
+    "country": "India",
+    "latitude": 25.348000000227216,
+    "longitude": 74.636,
+    "other_names": {
+      "name": "Bhilwara",
+      "name:en": "Bhilwara",
+      "name:gu": "ભિલવાડા",
+      "name:hi": "भीलवाड़ा",
+      "name:ja": "ビルワラ",
+      "name:kn": "ಭಿಲ್ವಾರ",
+      "name:pa": "ਭੀਲਵਾੜਾ",
+      "name:ru": "Бхилвара"
+    }
+  },
+  {
+    "name": "Bhimavaram",
+    "country": "India",
+    "latitude": 16.542768900085875,
+    "longitude": 81.52734399999999,
+    "other_names": {
+      "name": "Bhimavaram",
+      "name:hi": "भीमावरम",
+      "name:ja": "バヒマバラム",
+      "name:kn": "ಭೀಮವರಂ",
+      "name:pa": "ਭੀਮਾਵਰਮ",
+      "name:te": "భీమవరం"
+    }
+  },
+  {
+    "name": "Bhimdatta",
+    "country": "Nepal",
+    "latitude": 28.972251999840346,
+    "longitude": 80.18456299999998,
+    "other_names": {
+      "name": "Bhimdatta",
+      "name:de": "Bhimdatta",
+      "name:en": "Bhimdatta",
+      "name:es": "Bhimdatta",
+      "name:fr": "Bhimdatta",
+      "name:hi": "भिम् डत्ता",
+      "name:ja": "マヘンドラナガル",
+      "name:kn": "ಭೀಮದತ್ತ",
+      "name:ne": "भिमदत्त",
+      "name:pl": "Bhimdatta",
+      "old_name": "Mahendranagar"
+    }
+  },
+  {
+    "name": "Bhind",
+    "country": "India",
+    "latitude": 26.56126229171552,
+    "longitude": 78.78783851610567,
+    "other_names": {
+      "name": "Bhind",
+      "name:hi": "भिंड",
+      "name:pa": "ਭਿੰਡ"
+    }
+  },
+  {
+    "name": "Bhind",
+    "country": "India",
+    "latitude": 26.56523550010522,
+    "longitude": 78.78898639999998,
+    "other_names": {
+      "name": "Bhind",
+      "name:hi": "भिंड",
+      "name:kn": "ಬಿಂದ್"
+    }
+  },
+  {
+    "name": "Bhiwadi",
+    "country": "India",
+    "latitude": 28.203941299923557,
+    "longitude": 76.837441,
+    "other_names": {
+      "name": "Bhiwadi",
+      "name:en": "Bhiwadi",
+      "name:hi": "भिवाड़ी",
+      "name:kn": "ಭಿವಾಡಿ"
+    }
+  },
+  {
+    "name": "Bhiwandi",
+    "country": "India",
+    "latitude": 19.298847910744577,
+    "longitude": 73.0601057998746,
+    "other_names": {
+      "name": "Bhiwandi",
+      "name:hi": "भिवंडी",
+      "name:ja": "ビワンディー",
+      "name:mr": "भिवंडी",
+      "name:pa": "ਭਿਵੰਡੀ",
+      "name:ru": "Бхиванди",
+      "name:ta": "பிவான்டி"
+    }
+  },
+  {
+    "name": "Bhiwandi",
+    "country": "India",
+    "latitude": 19.302556200334553,
+    "longitude": 73.05880719999999,
+    "other_names": {
+      "name": "Bhiwandi",
+      "name:en": "Bhiwandi",
+      "name:ja": "ビワンディー",
+      "name:kn": "ಭಿವಂಡೀ",
+      "name:mr": "भिवंडी",
+      "name:ru": "Бхиванди",
+      "name:ta": "பிவான்டி"
+    }
+  },
+  {
+    "name": "Bhiwani",
+    "country": "India",
+    "latitude": 28.793170299859305,
+    "longitude": 76.1391283,
+    "other_names": {
+      "name": "Bhiwani",
+      "name:de": "Bhiwani",
+      "name:en": "Bhiwani",
+      "name:es": "Bhiwani",
+      "name:fr": "Bhiwani",
+      "name:hi": "भिवानी",
+      "name:ja": "ビワーニー",
+      "name:kn": "ಭಿವಾನಿ",
+      "name:pa": "ਭਿਵਾਨੀ",
+      "name:ru": "Вхивани"
+    }
+  },
+  {
+    "name": "Bhopal",
+    "country": "India",
+    "latitude": 23.258485700373274,
+    "longitude": 77.401989,
+    "other_names": {
+      "name": "Bhopal",
+      "name:ar": "بوبال",
+      "name:bn": "ভোপাল",
+      "name:cs": "Bhópál",
+      "name:en": "Bhopal",
+      "name:he": "בופאל",
+      "name:hi": "भोपाल",
+      "name:ja": "ボーパール",
+      "name:kn": "ಭೋಪಾಲ್",
+      "name:ml": "ഭോപ്പാൽ",
+      "name:pa": "ਭੋਪਾਲ",
+      "name:pt": "Bhopal",
+      "name:ru": "Бхопал",
+      "name:ta": "போபால்",
+      "name:uk": "Бхопал",
+      "name:ur": "بھوپال",
+      "name:zh": "博帕尔"
+    }
+  },
+  {
+    "name": "Bhubaneshwar",
+    "country": "India",
+    "latitude": 20.260296400383332,
+    "longitude": 85.8394521,
+    "other_names": {
+      "name": "Bhubaneshwar",
+      "name:ar": "بونسور",
+      "name:bn": "ভুবনেশ্বর",
+      "name:cs": "Bhuvanéšvar",
+      "name:en": "Bhubaneshwar",
+      "name:he": "בובאנשוואר",
+      "name:hi": "भुवनेश्वर",
+      "name:ja": "ブバネーシュワル",
+      "name:kn": "ಭುವನೇಶ್ವರ",
+      "name:ml": "ഭുവനേശ്വർ",
+      "name:or": "ଭୁବନେଶ୍ୱର",
+      "name:pa": "ਭੁਵਨੇਸ਼ਵਰ",
+      "name:ru": "Бхубанешвар",
+      "name:sr": "Бубанешвар",
+      "name:ta": "புவனேசுவர்",
+      "name:te": "భుబనేశ్వర్",
+      "name:uk": "Бхубанешвар",
+      "name:ur": "بھونسور",
+      "alt_name:ar": "بوبانسوار"
+    }
+  },
+  {
+    "name": "Bhuj",
+    "country": "India",
+    "latitude": 23.24724460037377,
+    "longitude": 69.668339,
+    "other_names": {
+      "name": "Bhuj",
+      "name:ar": "بوج",
+      "name:en": "Bhuj",
+      "name:he": "'בהוג",
+      "name:hi": "भुज",
+      "name:ja": "ブジュ",
+      "name:kn": "ಭುಜ್",
+      "name:ml": "ഭുജ്",
+      "name:ru": "Бхудж",
+      "name:zh": "普杰"
+    }
+  },
+  {
+    "name": "Bhusawal",
+    "country": "India",
+    "latitude": 21.045720000405154,
+    "longitude": 75.7808079,
+    "other_names": {
+      "name": "Bhusawal",
+      "name:hi": "भुसावल",
+      "name:mr": "भुसावळ",
+      "name:pa": "ਭੁਸਾਵਲ਼",
+      "name:ru": "Бхусавал"
+    }
+  }
+]

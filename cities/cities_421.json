@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Sanyuan",
+    "country": "China",
+    "latitude": 26.237432700139877,
+    "longitude": 117.60311099999997,
+    "other_names": {
+      "name": "三元区",
+      "name:de": "Sanyuan",
+      "name:en": "Sanyuan",
+      "name:es": "Sānyuán",
+      "name:fr": "Sanyuan",
+      "name:it": "Sanyuan",
+      "name:ja": "三元区",
+      "name:ko": "싼위안구",
+      "name:vi": "Tam Nguyên",
+      "name:zh": "三元区",
+      "alt_name": "三元;Sanyuan District",
+      "name:cdo": "Săng-nguòng",
+      "name:ceb": "Sanyuan Qu",
+      "name:hak": "Sâm-ngièn-khî",
+      "name:nan": "Sam-goân-khu",
+      "name:yue": "三元",
+      "name:zh-Hant": "三元區",
+      "name:zh_pinyin": "Sānyuán Qū"
+    }
+  },
+  {
+    "name": "São Bernardo do Campo",
+    "country": "Brazil",
+    "latitude": -23.708034499967415,
+    "longitude": -46.5506747,
+    "other_names": {
+      "name": "São Bernardo do Campo",
+      "int_name": "Sao Bernardo do Campo"
+    }
+  },
+  {
+    "name": "São Caetano do Sul",
+    "country": "Brazil",
+    "latitude": -23.619592299980116,
+    "longitude": -46.56883229999999,
+    "other_names": {
+      "name": "São Caetano do Sul"
+    }
+  },
+  {
+    "name": "São Carlos",
+    "country": "Brazil",
+    "latitude": -22.018039500194345,
+    "longitude": -47.891154,
+    "other_names": {
+      "name": "São Carlos",
+      "loc_name": "Sanca",
+      "old_name": "São Carlos do Pinhal"
+    }
+  },
+  {
+    "name": "São Félix do Xingu",
+    "country": "Brazil",
+    "latitude": -6.638697399698779,
+    "longitude": -51.978758199999994,
+    "other_names": {
+      "name": "São Félix do Xingu"
+    }
+  },
+  {
+    "name": "São Filipe",
+    "country": "Cape Verde",
+    "latitude": 14.895296299894907,
+    "longitude": -24.4969361,
+    "other_names": {
+      "name": "São Filipe"
+    }
+  },
+  {
+    "name": "São Gonçalo",
+    "country": "Brazil",
+    "latitude": -22.82190140009128,
+    "longitude": -43.03092519999999,
+    "other_names": {
+      "name": "São Gonçalo",
+      "name:bg": "Сао Гонсало",
+      "name:ja": "サン・ゴンサーロ",
+      "name:ka": "სან-გონსალუ",
+      "name:kk": "Сан-Гонсалу",
+      "name:ko": "상곤살루",
+      "name:lt": "San Gonsalas",
+      "name:lv": "Sangonsalu",
+      "name:pt": "São Gonçalo",
+      "name:ru": "Сан-Гонсалу",
+      "name:sr": "Сао Гонсало",
+      "name:zh": "聖貢薩洛",
+      "int_name": "Sao Goncalo"
+    }
+  },
+  {
+    "name": "São Gonçalo do Amarante",
+    "country": "Brazil",
+    "latitude": -5.793233099682001,
+    "longitude": -35.3286312,
+    "other_names": {
+      "name": "São Gonçalo do Amarante"
+    }
+  },
+  {
+    "name": "São João da Madeira",
+    "country": "Portugal",
+    "latitude": 40.902081300381056,
+    "longitude": -8.489635799999999,
+    "other_names": {
+      "name": "São João da Madeira"
+    }
+  },
+  {
+    "name": "São João de Meriti",
+    "country": "Brazil",
+    "latitude": -22.804374400093632,
+    "longitude": -43.372412499999996,
+    "other_names": {
+      "name": "São João de Meriti",
+      "int_name": "Sao Joao de Meriti"
+    }
+  },
+  {
+    "name": "São José",
+    "country": "Brazil",
+    "latitude": -27.61577329944759,
+    "longitude": -48.6276491,
+    "other_names": {
+      "name": "São José"
+    }
+  },
+  {
+    "name": "São José de Ribamar",
+    "country": "Brazil",
+    "latitude": -2.5609114997776947,
+    "longitude": -44.0559509,
+    "other_names": {
+      "name": "São José de Ribamar",
+      "name:kk": "Сан-Жозе-ди-Рибамар",
+      "name:lt": "San Žoze de Ribamaras",
+      "name:pt": "São José de Ribamar",
+      "name:ru": "Сан-Жозе-ди-Рибамар",
+      "name:zh": "圣若泽-迪里巴马尔"
+    }
+  },
+  {
+    "name": "São José do Rio Preto",
+    "country": "Brazil",
+    "latitude": -20.812585100324323,
+    "longitude": -49.3804212,
+    "other_names": {
+      "name": "São José do Rio Preto",
+      "short_name": "Rio Preto"
+    }
+  },
+  {
+    "name": "São José dos Campos",
+    "country": "Brazil",
+    "latitude": -23.18603830004139,
+    "longitude": -45.8866816,
+    "other_names": {
+      "name": "São José dos Campos",
+      "int_name": "Sao Jose dos Campos"
+    }
+  },
+  {
+    "name": "São José dos Pinhais",
+    "country": "Brazil",
+    "latitude": -25.53381599970283,
+    "longitude": -49.2072163,
+    "other_names": {
+      "name": "São José dos Pinhais",
+      "name:uk": "Сан-Жозе-дус-Піньяйс"
+    }
+  },
+  {
+    "name": "São Leopoldo",
+    "country": "Brazil",
+    "latitude": -29.75444049932192,
+    "longitude": -51.1516497,
+    "other_names": {
+      "name": "São Leopoldo"
+    }
+  },
+  {
+    "name": "São Lourenço da Mata",
+    "country": "Brazil",
+    "latitude": -7.9959606997604356,
+    "longitude": -35.039334999999994,
+    "other_names": {
+      "name": "São Lourenço da Mata"
+    }
+  },
+  {
+    "name": "São Luís",
+    "country": "Brazil",
+    "latitude": -2.5634604997775257,
+    "longitude": -44.2448718,
+    "other_names": {
+      "name": "São Luís",
+      "name:ar": "ساو لويز",
+      "name:be": "Сан-Луіс",
+      "name:bg": "Сао Луис",
+      "name:de": "São Luís",
+      "name:en": "São Luís",
+      "name:eo": "San-Luiso",
+      "name:es": "San Luis",
+      "name:fa": "سائو لوئیس",
+      "name:gl": "San Luís",
+      "name:he": "סאו לואיס",
+      "name:hy": "Սան Լուիս",
+      "name:ja": "サン・ルイス",
+      "name:ka": "სან-ლუისი",
+      "name:kk": "Сан-Луис",
+      "name:ko": "상루이스",
+      "name:lt": "San Luisas",
+      "name:lv": "Sanluisa",
+      "name:mk": "Сао Луиш",
+      "name:mr": "साओ लुईस",
+      "name:pl": "São Luís",
+      "name:pt": "São Luís",
+      "name:ru": "Сан-Луис",
+      "name:sh": "Sao Luis",
+      "name:sr": "Сао Луис",
+      "name:tg": "Сан-Луис",
+      "name:uk": "Сан-Луїс",
+      "name:uz": "San-Luis",
+      "name:zh": "圣路易斯",
+      "int_name": "Sao Luis"
+    }
+  },
+  {
+    "name": "São Mateus",
+    "country": "Brazil",
+    "latitude": -18.71563420045794,
+    "longitude": -39.84825549999999,
+    "other_names": {
+      "name": "São Mateus",
+      "name:ja": "サンマテウス",
+      "name:kk": "Сан-Матеус",
+      "name:lt": "San Mateušas",
+      "name:mk": "Сао Матеуш",
+      "name:pt": "São Mateus",
+      "name:ru": "Сан-Матеус"
+    }
+  },
+  {
+    "name": "Saoner",
+    "country": "India",
+    "latitude": 21.386066432462048,
+    "longitude": 78.92075801705768,
+    "other_names": {
+      "name": "Saoner",
+      "name:ar": "ساؤنير",
+      "name:mr": "सावनेर",
+      "name:ta": "ஷொனேர்",
+      "name:ur": "ساؤنیر"
+    }
+  }
+]

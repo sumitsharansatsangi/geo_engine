@@ -1,0 +1,390 @@
+[
+  {
+    "name": "Baita",
+    "country": "China",
+    "latitude": 41.26573930042072,
+    "longitude": 123.1752151,
+    "other_names": {
+      "name": "白塔区",
+      "name:en": "Baita",
+      "name:ja": "白塔区",
+      "name:ko": "바이타구",
+      "name:vi": "Bạch Tháp",
+      "name:zh": "白塔区",
+      "alt_name": "白塔;Baita District",
+      "name:zh-Hant": "白塔區",
+      "name:zh_pinyin": "Baita Qu"
+    }
+  },
+  {
+    "name": "Baixiang",
+    "country": "China",
+    "latitude": 37.49150239991201,
+    "longitude": 114.6894394,
+    "other_names": {
+      "name": "柏乡县",
+      "name:en": "Baixiang",
+      "name:vi": "Bách Hương",
+      "name:zh": "柏乡县",
+      "alt_name": "柏乡;Baixiang County",
+      "name:zh-Hant": "柏鄉縣",
+      "official_name": "柏乡镇",
+      "name:zh_pinyin": "Baixiang Xian"
+    }
+  },
+  {
+    "name": "Baiyin",
+    "country": "China",
+    "latitude": 36.534084199792616,
+    "longitude": 104.14710959999998,
+    "other_names": {
+      "name": "白银区",
+      "name:de": "Baiyin",
+      "name:en": "Baiyin",
+      "name:et": "Baiyin",
+      "name:fr": "Bayin",
+      "name:ja": "白銀市",
+      "name:pt": "Baiyin",
+      "name:ru": "Байинь",
+      "name:vi": "Bạch Ngân",
+      "name:zh": "白银区",
+      "alt_name": "白银;Baiyin District;Pai-yin Shih",
+      "int_name": "Baiyin",
+      "name:zh-Hant": "白銀區",
+      "name:zh_pinyin": "Báiyín Qū"
+    }
+  },
+  {
+    "name": "Baiyin",
+    "country": "China",
+    "latitude": 36.54515629979388,
+    "longitude": 104.13554189999999,
+    "other_names": {
+      "name": "白银市",
+      "name:en": "Baiyin",
+      "name:sr": "Бајјин",
+      "name:zh": "白银市",
+      "alt_name": "白银;Baiyin City;Pai-yin Shih",
+      "name:zh-Hant": "白銀市",
+      "name:zh_pinyin": "báiyín shì"
+    }
+  },
+  {
+    "name": "Baiyu",
+    "country": "China",
+    "latitude": 31.21284689964755,
+    "longitude": 98.82253329999999,
+    "other_names": {
+      "name": "白玉县",
+      "name:bo": "དཔལ་ཡུལ་རྫོང",
+      "name:en": "Baiyu",
+      "name:vi": "Bạch Ngọc",
+      "name:zh": "白玉县",
+      "alt_name": "白玉;Baiyü;Palyul;Pelyul;དཔལ་ཡོཨུ།",
+      "name:zh-Hant": "白玉縣",
+      "name:zh_pinyin": "Baiyü Xian"
+    }
+  },
+  {
+    "name": "Baiyun",
+    "country": "China",
+    "latitude": 26.682435200092588,
+    "longitude": 106.6178509,
+    "other_names": {
+      "name": "白云区",
+      "name:en": "Baiyun",
+      "name:zh": "白云区",
+      "name:zh-Hant": "白雲區"
+    }
+  },
+  {
+    "name": "Baiyun District",
+    "country": "China",
+    "latitude": 23.16063240037755,
+    "longitude": 113.26789499999998,
+    "other_names": {
+      "name": "白云区",
+      "name:de": "Baiyun",
+      "name:en": "Baiyun District",
+      "name:es": "Baiyun",
+      "name:eu": "Baiyun barrutia",
+      "name:fa": "ناحیه باییون، گوانگ‌ژو",
+      "name:fr": "District de Baiyun",
+      "name:it": "Distretto di Baiyun",
+      "name:ja": "白雲区",
+      "name:ko": "바이윈구",
+      "name:nl": "Baiyun",
+      "name:no": "Baiyun",
+      "name:pl": "Baiyun",
+      "name:sv": "Baiyun",
+      "name:ur": "بائیون ضلع، گوانگژو",
+      "name:vi": "Bạch Vân",
+      "name:zh": "白云区",
+      "name:ast": "Baiyun",
+      "name:ceb": "Baiyun Qu",
+      "name:hak": "Pha̍k-yùn-khî",
+      "name:mwl": "Baiyun",
+      "name:nan": "Pe̍h-hûn-khu",
+      "name:yue": "白雲區",
+      "name:zh-Hant": "白雲區",
+      "name:zh_pinyin": "báiyún Qū"
+    }
+  },
+  {
+    "name": "Bakersfield",
+    "country": "United States Of America",
+    "latitude": 35.37387119967926,
+    "longitude": -119.01946389999999,
+    "other_names": {
+      "name": "Bakersfield",
+      "name:en": "Bakersfield",
+      "name:ru": "Бейкерсфилд",
+      "name:uk": "Бейкерсфілд"
+    }
+  },
+  {
+    "name": "Baku",
+    "country": "Azerbaijan",
+    "latitude": 40.37544340031689,
+    "longitude": 49.83267479999999,
+    "other_names": {
+      "name": "Bakı",
+      "name:ar": "باكو",
+      "name:av": "Баку",
+      "name:az": "Bakı",
+      "name:bg": "Баку",
+      "name:de": "Baku",
+      "name:el": "Μπακού",
+      "name:en": "Baku",
+      "name:es": "Bakú",
+      "name:et": "Bakuu",
+      "name:fa": "باکو",
+      "name:fi": "Baku",
+      "name:fr": "Bakou",
+      "name:hi": "बाकू",
+      "name:hu": "Baku",
+      "name:hy": "Բաքու",
+      "name:it": "Baku",
+      "name:ja": "バクー",
+      "name:ka": "ბაქო",
+      "name:ko": "바쿠",
+      "name:ku": "Bakû",
+      "name:lt": "Baku",
+      "name:ml": "ബാക്കു",
+      "name:nl": "Bakoe",
+      "name:oc": "Baki",
+      "name:pl": "Baku",
+      "name:pt": "Baku",
+      "name:ru": "Баку",
+      "name:sk": "Baku",
+      "name:sv": "Baku",
+      "name:ta": "பாகு",
+      "name:tg": "Боку",
+      "name:tr": "Bakü",
+      "name:uk": "Баку",
+      "name:zh": "巴库",
+      "name:azb": "باکی",
+      "name:ckb": "باکوو",
+      "name:lez": "Баку",
+      "name:yue": "巴庫",
+      "name:az-cyr": "Бакы"
+    }
+  },
+  {
+    "name": "Baku",
+    "country": "Azerbaijan",
+    "latitude": 40.38073641448022,
+    "longitude": 49.878537474858675,
+    "other_names": {
+      "name": "Bakı",
+      "name:ar": "باكو",
+      "name:av": "Баку",
+      "name:az": "Bakı",
+      "name:de": "Baku",
+      "name:el": "Μπακού",
+      "name:en": "Baku",
+      "name:es": "Bakú",
+      "name:fa": "باکو",
+      "name:fr": "Bakou",
+      "name:hu": "Baku",
+      "name:hy": "Բաքու",
+      "name:ja": "バクー",
+      "name:ka": "ბაქო",
+      "name:ku": "Bakû",
+      "name:lt": "Baku",
+      "name:lv": "Baku",
+      "name:nl": "Bakoe",
+      "name:pl": "Baku",
+      "name:ru": "Баку",
+      "name:sk": "Baku",
+      "name:ta": "பாகு",
+      "name:tg": "Боку",
+      "name:tr": "Bakü",
+      "name:uk": "Баку",
+      "name:zh": "巴库",
+      "int_name": "Baku",
+      "name:lez": "Баку",
+      "name:yue": "巴庫",
+      "name:az-cyr": "Бакы"
+    }
+  },
+  {
+    "name": "Balad",
+    "country": "Iraq",
+    "latitude": 34.00668629881453,
+    "longitude": 44.149641219252324,
+    "other_names": {
+      "name": "بلد",
+      "name:ar": "بلد",
+      "name:de": "Balad",
+      "name:en": "Balad",
+      "name:fr": "Balad",
+      "name:hi": "बलड",
+      "alt_name": "Balad, Belad, Beled, بلد, Balad, Belad, Beled, بلد",
+      "int_name": "Balad - بلد"
+    }
+  },
+  {
+    "name": "Balakovo",
+    "country": "Russia",
+    "latitude": 52.00860247059808,
+    "longitude": 47.795201110649984,
+    "other_names": {
+      "name": "Балаково",
+      "name:de": "Balakowo",
+      "name:en": "Balakovo",
+      "name:ja": "バラコヴォ",
+      "name:ru": "Балаково"
+    }
+  },
+  {
+    "name": "Balakovo",
+    "country": "Russia",
+    "latitude": 52.01811999911592,
+    "longitude": 47.819140999999995,
+    "other_names": {
+      "name": "Балаково",
+      "name:de": "Balakowo",
+      "name:en": "Balakovo",
+      "name:es": "Balakovo",
+      "name:et": "Balakovo",
+      "name:fr": "Balakovo",
+      "name:ja": "バラコヴォ",
+      "name:ko": "발라코보",
+      "name:lt": "Balakovas",
+      "name:pl": "Bałakowo",
+      "name:ru": "Балаково",
+      "name:uk": "Балаково"
+    }
+  },
+  {
+    "name": "Balanga",
+    "country": "Philippines",
+    "latitude": 14.679566899869434,
+    "longitude": 120.54096929999999,
+    "other_names": {
+      "name": "Balanga",
+      "name:en": "Balanga",
+      "name:ja": "バランガ",
+      "name:tl": "Balanga",
+      "official_name:en": "City of Balanga",
+      "official_name:tl": "Lungsod ng Balanga"
+    }
+  },
+  {
+    "name": "Balangoda",
+    "country": "Sri Lanka",
+    "latitude": 6.647925599416483,
+    "longitude": 80.7014023,
+    "other_names": {
+      "name": "Balangoda",
+      "name:ru": "Балангода",
+      "name:ta": "பலாங்கொடை"
+    }
+  },
+  {
+    "name": "Balashikha",
+    "country": "Russia",
+    "latitude": 55.803622499706485,
+    "longitude": 37.9646488,
+    "other_names": {
+      "name": "Балашиха",
+      "name:cs": "Balašicha",
+      "name:de": "Balaschicha",
+      "name:en": "Balashikha",
+      "name:eo": "Balaŝiĥa",
+      "name:et": "Balašihha",
+      "name:fr": "Balachikha",
+      "name:hu": "Balasiha",
+      "name:it": "Balašicha",
+      "name:ko": "발라시하",
+      "name:lt": "Balašicha",
+      "name:pl": "Bałaszycha",
+      "name:ru": "Балашиха",
+      "name:sr": "Балашиха",
+      "name:uk": "Балашиха"
+    }
+  },
+  {
+    "name": "Baliadangi",
+    "country": "Bangladesh",
+    "latitude": 26.085614300155534,
+    "longitude": 88.27640129999999,
+    "other_names": {
+      "name": "বালিয়াডাঙ্গী",
+      "name:bn": "বালিয়াডাঙ্গী",
+      "name:en": "Baliadangi"
+    }
+  },
+  {
+    "name": "Balikpapan",
+    "country": "Indonesia",
+    "latitude": -1.2398710998806644,
+    "longitude": 116.85933790000001,
+    "other_names": {
+      "name": "Balikpapan",
+      "name:en": "Balikpapan",
+      "name:ja": "バリクパパン",
+      "name:ru": "Баликпапан",
+      "name:uk": "Балікпапан",
+      "name:zh": "巴厘巴板"
+    }
+  },
+  {
+    "name": "Balıkesir",
+    "country": "Turkey",
+    "latitude": 39.647391700218606,
+    "longitude": 27.887978699999998,
+    "other_names": {
+      "name": "Balıkesir",
+      "name:ar": "بالق أسير",
+      "name:el": "Μπαλικεσίρ",
+      "name:hi": "बालिकेसिर",
+      "name:hu": "Balıkesir",
+      "name:mk": "Баликесир",
+      "name:pt": "Balıkesir",
+      "name:ru": "Балыкесир",
+      "name:tr": "Balıkesir"
+    }
+  },
+  {
+    "name": "Balkanabat",
+    "country": "Turkmenistan",
+    "latitude": 39.511627300199436,
+    "longitude": 54.3539921,
+    "other_names": {
+      "name": "Balkanabat",
+      "name:ar": "بالكانبات",
+      "name:de": "Balkanabat",
+      "name:en": "Balkanabat",
+      "name:es": "Balkanabat",
+      "name:fr": "Balkanabat",
+      "name:ja": "バルカナバート",
+      "name:ru": "Балканабад",
+      "name:tk": "Balkanabat",
+      "name:uk": "Балканабад",
+      "old_name": "Nebit Dag",
+      "old_name:1933-1946": "Neftedag"
+    }
+  }
+]

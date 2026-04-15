@@ -1,0 +1,368 @@
+[
+  {
+    "name": "Kira",
+    "country": "Uganda",
+    "latitude": 0.4003407999583882,
+    "longitude": 32.6391845,
+    "other_names": {
+      "name": "Kira",
+      "name:ko": "키라",
+      "alt_name": "Kiira"
+    }
+  },
+  {
+    "name": "KIRIKILAN",
+    "country": "Guinea",
+    "latitude": 9.711298999424878,
+    "longitude": -13.5197497,
+    "other_names": {
+      "name": "KIRIKILAN"
+    }
+  },
+  {
+    "name": "Kirishima",
+    "country": "Japan",
+    "latitude": 31.741014799619354,
+    "longitude": 130.76324059999996,
+    "other_names": {
+      "name": "霧島市",
+      "name:ar": "كيريشيما، كاغوشيما",
+      "name:de": "Kirishima",
+      "name:en": "Kirishima",
+      "name:es": "Kirishima",
+      "name:fr": "Kirishima",
+      "name:hu": "Kirisima",
+      "name:ja": "霧島市",
+      "name:ko": "기리시마시",
+      "name:lt": "Kagošima",
+      "name:ru": "Кирисима",
+      "name:uk": "Кірісіма",
+      "name:zh": "雾岛市",
+      "int_name": "Kirishima",
+      "name:ja_rm": "Kirishima-shi",
+      "name:ja_kana": "きりしまし",
+      "name:zh-Hans": "雾岛市",
+      "name:zh-Hant": "霧島市"
+    }
+  },
+  {
+    "name": "Kirkuk",
+    "country": "Iraq",
+    "latitude": 35.47034149968712,
+    "longitude": 44.395723,
+    "other_names": {
+      "name": "كركوك / کەرکووک",
+      "name:ar": "كركوك",
+      "name:cs": "Kirkúk",
+      "name:da": "Kirkuk",
+      "name:de": "Kirkuk",
+      "name:el": "Κιρκούκ",
+      "name:en": "Kirkuk",
+      "name:et": "Kirkūk",
+      "name:fa": "کرکوک",
+      "name:fi": "Kirkuk",
+      "name:fr": "Kirkouk",
+      "name:hi": "अत तमीम (किरकुक)",
+      "name:hy": "Քիրքուք",
+      "name:ja": "キルクーク",
+      "name:kn": "ಕಿರ್ಕುಕ್",
+      "name:ks": "کرکوک",
+      "name:pl": "Kirkuk",
+      "name:ru": "Кркук",
+      "name:sv": "Kirkuk",
+      "name:tr": "Kerkük",
+      "name:uk": "Кіркук",
+      "name:ur": "کرکوک",
+      "name:arc": "ܟܪܟ ܣܠܘܟ",
+      "name:arz": "كركوك",
+      "name:azb": "کرکوک",
+      "name:ckb": "کەرکووک",
+      "name:hyw": "Քերքուք",
+      "name:kmr": "کەرکووک",
+      "name:mzn": "کرکوک",
+      "name:ota": "کرکوک",
+      "name:pnb": "کرکوک",
+      "name:syc": "ܟܪܟ ܣܠܘܟ",
+      "alt_name:arc": "ܟܪܟܘܟ",
+      "alt_name:syc": "ܟܪܟܘܟ",
+      "name:az-Arab": "کرکوک",
+      "name:kk-Arab": "كىيركۋك",
+      "name:ku-Arab": "کەرکووک",
+      "name:pa-Arab": "کرکوک"
+    }
+  },
+  {
+    "name": "Kirov",
+    "country": "Russia",
+    "latitude": 58.59283935568025,
+    "longitude": 49.65428694062877,
+    "other_names": {
+      "name": "Киров",
+      "name:ca": "Kírov",
+      "name:cv": "Ветке",
+      "name:de": "Kirow",
+      "name:en": "Kirov",
+      "name:es": "Kírov",
+      "name:et": "Kirov",
+      "name:fr": "Kirov",
+      "name:ja": "キーロフ州",
+      "name:ko": "키로프",
+      "name:lt": "Kirovas",
+      "name:pl": "Kirow",
+      "name:ro": "Kirov",
+      "name:ru": "Киров",
+      "name:sk": "Kirov",
+      "name:uk": "Кіров",
+      "alt_name": "Вятка",
+      "old_name": "Вятка",
+      "old_name:en": "Vjatka",
+      "old_name:tt": "Колын",
+      "old_name:chm": "Ильна-Ола",
+      "old_name:udm": "Кылно"
+    }
+  },
+  {
+    "name": "Kirov",
+    "country": "Russia",
+    "latitude": 58.6035257010797,
+    "longitude": 49.6639029,
+    "other_names": {
+      "name": "Киров",
+      "name:ca": "Kírov",
+      "name:cv": "Ветке",
+      "name:de": "Kirow",
+      "name:en": "Kirov",
+      "name:es": "Kírov",
+      "name:et": "Kirov",
+      "name:fr": "Kirov",
+      "name:ja": "キーロフ州",
+      "name:ko": "키로프",
+      "name:lt": "Kirovas",
+      "name:pl": "Kirow",
+      "name:ro": "Kirov",
+      "name:ru": "Киров",
+      "name:sk": "Kirov",
+      "name:uk": "Кіров",
+      "alt_name": "Вятка",
+      "old_name": "Вятка",
+      "old_name:en": "Vjatka",
+      "old_name:tt": "Колын",
+      "old_name:chm": "Ильна-Ола",
+      "old_name:udm": "Кылно"
+    }
+  },
+  {
+    "name": "Kirovo-Chepetsk",
+    "country": "Russia",
+    "latitude": 58.542196301049934,
+    "longitude": 50.03408889999999,
+    "other_names": {
+      "name": "Кирово-Чепецк",
+      "name:ar": "كيروفو-تشيبيتسك",
+      "name:de": "Kirowo-Tschepezk",
+      "name:en": "Kirovo-Chepetsk",
+      "name:es": "Kirovo-Chepetsk",
+      "name:et": "Kirovo-Tšepetsk",
+      "name:fr": "Kirovo-Tchepetsk",
+      "name:ja": "キロヴォ=チェペツク",
+      "name:ko": "키로보체페츠크",
+      "name:pl": "Kirowo-Czepieck",
+      "name:ru": "Кирово-Чепецк",
+      "old_name": "Усть Чепца"
+    }
+  },
+  {
+    "name": "Kirovo-Chepetsk",
+    "country": "Russia",
+    "latitude": 58.54059581608927,
+    "longitude": 50.02520348753693,
+    "other_names": {
+      "name": "Кирово-Чепецк",
+      "name:en": "Kirovo-Chepetsk",
+      "name:ja": "キロヴォ=チェペツク"
+    }
+  },
+  {
+    "name": "Kirumba",
+    "country": "Congo Democratic Republic",
+    "latitude": -0.5597065999440205,
+    "longitude": 29.1885684,
+    "other_names": {
+      "name": "Kirumba"
+    }
+  },
+  {
+    "name": "Kirundo",
+    "country": "Burundi",
+    "latitude": -2.585387199776084,
+    "longitude": 30.093344899999995,
+    "other_names": {
+      "name": "Kirundo"
+    }
+  },
+  {
+    "name": "Kiryat Gat",
+    "country": "Israel And Palestine",
+    "latitude": 31.609399799625614,
+    "longitude": 34.771198299999995,
+    "other_names": {
+      "name": "קרית גת",
+      "name:ar": "كريات جات",
+      "name:cs": "Kirjat Gat",
+      "name:en": "Kiryat Gat",
+      "name:fa": "کریات گت",
+      "name:fr": "Kiryat Gat",
+      "name:he": "קרית גת",
+      "name:hi": "किर्यात गात",
+      "name:lt": "Kirjat Gatas",
+      "name:ru": "Кирьят-Гат",
+      "name:ur": "کریات جات",
+      "alt_name:ar": "كريات غات",
+      "official_name:en": "Qiryat Gat"
+    }
+  },
+  {
+    "name": "Kiryu",
+    "country": "Japan",
+    "latitude": 36.40552959977818,
+    "longitude": 139.3310209,
+    "other_names": {
+      "name": "桐生市",
+      "name:ar": "كيريو",
+      "name:de": "Kiryū",
+      "name:en": "Kiryu",
+      "name:es": "Kiryū",
+      "name:fa": "کیریو",
+      "name:fr": "Kiryū",
+      "name:ja": "桐生市",
+      "name:ko": "기류시",
+      "name:lt": "Kiriu",
+      "name:pl": "Kiryū",
+      "name:ru": "Кирю",
+      "name:uk": "Кірю",
+      "name:azb": "کیریو",
+      "name:ja_rm": "Kiryu-shi",
+      "name:ja-Hira": "きりゅうし"
+    }
+  },
+  {
+    "name": "Kisangani",
+    "country": "Congo Democratic Republic",
+    "latitude": 0.5184020999459272,
+    "longitude": 25.205729199999997,
+    "other_names": {
+      "name": "Kisangani",
+      "name:fr": "Kisangani",
+      "name:ko": "키상가니",
+      "name:lt": "Kisanganis",
+      "name:ru": "Кисангани",
+      "name:uk": "Кісангані",
+      "old_name": "Stanleyville",
+      "old_name:fr": "Stanleyville"
+    }
+  },
+  {
+    "name": "Kisarazu",
+    "country": "Japan",
+    "latitude": 35.375973399679424,
+    "longitude": 139.91667969999997,
+    "other_names": {
+      "name": "木更津市",
+      "name:ar": "كيسارازو، تشيبا",
+      "name:de": "Kisarazu",
+      "name:en": "Kisarazu",
+      "name:es": "Kisarazu",
+      "name:fr": "Kisarazu",
+      "name:ja": "木更津市",
+      "name:ko": "기사라즈시",
+      "name:pl": "Kisarazu",
+      "name:ru": "Кисарадзу",
+      "name:uk": "Кісарадзу",
+      "int_name": "Kisarazu",
+      "name:ja_rm": "Kisarazu-shi",
+      "name:ja_kana": "きさらづし"
+    }
+  },
+  {
+    "name": "Kishanganj",
+    "country": "India",
+    "latitude": 26.10141940015391,
+    "longitude": 87.9507791,
+    "other_names": {
+      "name": "Kishanganj",
+      "name:bn": "কিশানগঞ্জ",
+      "name:hi": "किशनगंज",
+      "name:pa": "ਕਿਸ਼ਨਗੰਜ"
+    }
+  },
+  {
+    "name": "Kishangarh",
+    "country": "India",
+    "latitude": 26.588558500102717,
+    "longitude": 74.861097,
+    "other_names": {
+      "name": "Kishangarh",
+      "name:en": "Kishangarh",
+      "name:hi": "किशनगढ़",
+      "name:kn": "ಕಿಶಾನಗಢ್",
+      "name:ru": "Кишангарх"
+    }
+  },
+  {
+    "name": "Kishiwada",
+    "country": "Japan",
+    "latitude": 34.4643999996205,
+    "longitude": 135.385237,
+    "other_names": {
+      "name": "岸和田市",
+      "name:ar": "كيشيوادا، أوساكا",
+      "name:de": "Kishiwada",
+      "name:en": "Kishiwada",
+      "name:es": "Kishiwada",
+      "name:fr": "Kishiwada",
+      "name:ja": "岸和田市",
+      "name:ko": "기시와다시",
+      "name:pl": "Kishiwada",
+      "name:ru": "Кисивада",
+      "name:uk": "Кішівада",
+      "name:zh": "岸和田市",
+      "name:ja_rm": "Kishiwada-shi"
+    }
+  },
+  {
+    "name": "Kisii",
+    "country": "Kenya",
+    "latitude": -0.6694118999334189,
+    "longitude": 34.7677944,
+    "other_names": {
+      "name": "Kisii",
+      "name:ru": "Кисии"
+    }
+  },
+  {
+    "name": "Kisii",
+    "country": "Kenya",
+    "latitude": -0.6748706166039244,
+    "longitude": 34.762732901654076,
+    "other_names": {
+      "name": "Kisii"
+    }
+  },
+  {
+    "name": "Kislovodsk",
+    "country": "Russia",
+    "latitude": 43.900411486700804,
+    "longitude": 42.72539749904077,
+    "other_names": {
+      "name": "Кисловодск",
+      "name:de": "Kislowodsk",
+      "name:en": "Kislovodsk",
+      "name:pl": "Kisłowodzk",
+      "name:ru": "Кисловодск",
+      "name:sr": "Кисловодск",
+      "name:uk": "Кисловодськ",
+      "int_name": "Kislovodsk",
+      "old_name": "слобода Кисловодская, станица Кисловодская"
+    }
+  }
+]

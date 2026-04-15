@@ -1,0 +1,302 @@
+[
+  {
+    "name": "M'Sila",
+    "country": "Algeria",
+    "latitude": 35.70875529970785,
+    "longitude": 4.5371552,
+    "other_names": {
+      "name": "M'Sila ⵎⵙⵉⵍⴰ المسيلة",
+      "name:ar": "المسيلة",
+      "name:de": "M'Sila",
+      "name:el": "Μ'Σιλά",
+      "name:en": "M'Sila",
+      "name:es": "M'Sila",
+      "name:fa": "المسیله",
+      "name:fr": "M'Sila",
+      "name:it": "M'Sila",
+      "name:lt": "Msila",
+      "name:ru": "Мсила",
+      "name:uk": "Мсіла",
+      "name:ur": "مسیلہ",
+      "name:zh": "姆西拉",
+      "name:azb": "المسیله",
+      "name:ber": "ⵝⴰⵎⵙⵉⵍⵜ",
+      "name:kab": "Thamsilt",
+      "name:pnb": "مسیلہ"
+    }
+  },
+  {
+    "name": "Mthatha",
+    "country": "South Africa",
+    "latitude": -31.589074999375434,
+    "longitude": 28.789145,
+    "other_names": {
+      "name": "Mthatha",
+      "name:ru": "Умтата",
+      "name:old": "Umtata",
+      "old_name": "Umtata"
+    }
+  },
+  {
+    "name": "Mthatha",
+    "country": "South Africa And Lesotho",
+    "latitude": -31.589074999375434,
+    "longitude": 28.789145,
+    "other_names": {
+      "name": "Mthatha",
+      "name:ru": "Умтата",
+      "name:old": "Umtata",
+      "old_name": "Umtata"
+    }
+  },
+  {
+    "name": "Mtwara",
+    "country": "Tanzania",
+    "latitude": -10.281119999941556,
+    "longitude": 40.181340999999996,
+    "other_names": {
+      "name": "Mtwara",
+      "name:ko": "므트와라",
+      "name:lt": "Mtvara",
+      "name:ru": "Мтвара",
+      "name:uk": "Мтвара"
+    }
+  },
+  {
+    "name": "Muang Xay",
+    "country": "Laos",
+    "latitude": 20.69301340039746,
+    "longitude": 101.9853678,
+    "other_names": {
+      "name": "ເມືອງໄຊ",
+      "name:en": "Muang Xay",
+      "name:es": "Muang Xay",
+      "name:ja": "ウドムサイ",
+      "name:lo": "ເມືອງໄຊ",
+      "name:ru": "Сай",
+      "name:uk": "Удомсай",
+      "name:zh": "孟赛",
+      "alt_name": "ອຸດົມໄຊ;Muang Xai;Oudomxai",
+      "int_name": "Oudomxay"
+    }
+  },
+  {
+    "name": "Muar",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 2.042504599782177,
+    "longitude": 102.5658852,
+    "other_names": {
+      "name": "Muar",
+      "name:ar": "موار",
+      "name:fa": "موار",
+      "name:hi": "मुआर",
+      "name:ja": "ムアル",
+      "name:ko": "무아르",
+      "name:ms": "Bandar Maharani",
+      "name:ta": "மூவார்",
+      "name:zh": "麻坡",
+      "alt_name": "Bandar Maharani",
+      "alt_name:zh": "香妃城"
+    }
+  },
+  {
+    "name": "Mubi",
+    "country": "Nigeria",
+    "latitude": 10.26760699945197,
+    "longitude": 13.264359,
+    "other_names": {
+      "name": "Mubi",
+      "name:ar": "موبي",
+      "name:fa": "موبی",
+      "name:ru": "Муби"
+    }
+  },
+  {
+    "name": "Muchuan",
+    "country": "China",
+    "latitude": 28.959835199841645,
+    "longitude": 103.90051599999998,
+    "other_names": {
+      "name": "沐川县",
+      "name:en": "Muchuan",
+      "name:ja": "沐川県",
+      "name:zh": "沐川县",
+      "alt_name": "沐川;沐溪镇;Muchuan County",
+      "name:zh-Hant": "沐川縣",
+      "name:zh_pinyin": "Mùchuān Xiàn"
+    }
+  },
+  {
+    "name": "Mudan",
+    "country": "China",
+    "latitude": 35.251086199669686,
+    "longitude": 115.41072980000001,
+    "other_names": {
+      "name": "牡丹区",
+      "name:en": "Mudan",
+      "name:vi": "Mẫu Đan",
+      "name:zh": "牡丹区",
+      "name:zh-Hant": "牡丹區",
+      "name:zh_pinyin": "Mudan Qu"
+    }
+  },
+  {
+    "name": "Mudanjiang",
+    "country": "China",
+    "latitude": 44.54984060050494,
+    "longitude": 129.62595579999999,
+    "other_names": {
+      "name": "牡丹江市",
+      "name:ar": "مودانجيانغ",
+      "name:en": "Mudanjiang",
+      "name:et": "Mudanjiang",
+      "name:fr": "Mudanjiang",
+      "name:ja": "牡丹江市",
+      "name:ko": "무단장시",
+      "name:ru": "Муданьцзян",
+      "name:zh": "牡丹江市",
+      "alt_name": "牡丹江;Mudanjiang City",
+      "name:zh-Hant": "牡丹江市"
+    }
+  },
+  {
+    "name": "Mughal Sarai",
+    "country": "India",
+    "latitude": 25.280732700233333,
+    "longitude": 83.1251282,
+    "other_names": {
+      "name": "Mughal Sarai",
+      "name:hi": "मुग़लसराय"
+    }
+  },
+  {
+    "name": "Mughayyir Assrhan",
+    "country": "Jordan",
+    "latitude": 32.45885639959481,
+    "longitude": 36.1943785,
+    "other_names": {
+      "name": "مغير السرحان",
+      "name:en": "Mughayyir Assrhan",
+      "name:fr": "Mugayyir as-Sirhan"
+    }
+  },
+  {
+    "name": "Muğla",
+    "country": "Turkey",
+    "latitude": 37.215153999875625,
+    "longitude": 28.3637726,
+    "other_names": {
+      "name": "Muğla",
+      "name:ar": "موغلا",
+      "name:el": "Μουγλά",
+      "name:hi": "म्यूग्ला",
+      "name:ru": "Мугла",
+      "name:tr": "Muğla"
+    }
+  },
+  {
+    "name": "Muglad",
+    "country": "Sudan",
+    "latitude": 11.03236989950096,
+    "longitude": 27.754517599999996,
+    "other_names": {
+      "name": "المجلد",
+      "name:de": "Muglad",
+      "name:en": "Muglad",
+      "name:es": "Muglad",
+      "name:fr": "Muglad"
+    }
+  },
+  {
+    "name": "Muhammadiyah",
+    "country": "Sudan",
+    "latitude": 21.812726600409754,
+    "longitude": 33.720523,
+    "other_names": {
+      "name": "المحمدية",
+      "name:en": "Muhammadiyah",
+      "name:es": "Muhammadiyah",
+      "name:fr": "Mohammedia"
+    }
+  },
+  {
+    "name": "Muhanga",
+    "country": "Rwanda",
+    "latitude": -2.0845196998113185,
+    "longitude": 29.7526948,
+    "other_names": {
+      "name": "Muhanga",
+      "alt_name": "Gitarama"
+    }
+  },
+  {
+    "name": "Mukah",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 2.8929773996933186,
+    "longitude": 112.09133179999999,
+    "other_names": {
+      "name": "Mukah",
+      "name:en": "Mukah",
+      "name:ru": "Муках",
+      "name:uk": "Муках",
+      "name:zh": "沐胶"
+    }
+  },
+  {
+    "name": "Mukalla",
+    "country": "Yemen",
+    "latitude": 14.542462399853289,
+    "longitude": 49.12313449999999,
+    "other_names": {
+      "name": "المكلا",
+      "name:ar": "المكلا",
+      "name:cs": "Mukallá",
+      "name:en": "Mukalla",
+      "name:es": "Al Mukalla",
+      "name:et": "Al-Mukallā",
+      "name:fi": "Al-Mukalla",
+      "name:fr": "Al Moukalla",
+      "name:hi": "मुकल्ला",
+      "name:ko": "무칼라"
+    }
+  },
+  {
+    "name": "Muko",
+    "country": "Japan",
+    "latitude": 34.94927949964829,
+    "longitude": 135.700666,
+    "other_names": {
+      "name": "向日市",
+      "name:ar": "موكو، كيوتو",
+      "name:de": "Mukō",
+      "name:en": "Muko",
+      "name:es": "Mukō",
+      "name:fr": "Mukō",
+      "name:ja": "向日市",
+      "name:ko": "무코시",
+      "name:lt": "Mukas",
+      "name:pl": "Mukō",
+      "name:ru": "Муко",
+      "name:uk": "Муко",
+      "name:ja_rm": "Mukō-shi",
+      "name:ja_kana": "むこうし"
+    }
+  },
+  {
+    "name": "Mulan",
+    "country": "China",
+    "latitude": 45.94903040035033,
+    "longitude": 128.03774679999998,
+    "other_names": {
+      "name": "木兰县",
+      "name:en": "Mulan",
+      "name:ru": "Мулань",
+      "name:vi": "Mộc Lan",
+      "name:zh": "木兰县",
+      "alt_name": "木兰;木蘭鎮;木蘭;Mulan",
+      "int_name": "Mulan",
+      "name:zh-Hant": "木蘭縣",
+      "official_name": "木兰镇"
+    }
+  }
+]

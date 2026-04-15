@@ -1,0 +1,225 @@
+[
+  {
+    "name": "Puerto Barrios",
+    "country": "Guatemala",
+    "latitude": 15.727515399992917,
+    "longitude": -88.5952506,
+    "other_names": {
+      "name": "Puerto Barrios",
+      "name:hu": "Puerto Barrios",
+      "name:ru": "Пуэрто-Барриос"
+    }
+  },
+  {
+    "name": "Puerto Cabello",
+    "country": "Venezuela",
+    "latitude": 10.468062499463533,
+    "longitude": -68.0098561,
+    "other_names": {
+      "name": "Puerto Cabello",
+      "name:fr": "Puerto Cabello",
+      "name:ka": "პუერტო-კაბელიო",
+      "name:ko": "푸에르토카베요",
+      "name:lt": "Puerto Kabeljas",
+      "name:ru": "Пуэрто-Кабельо",
+      "name:uk": "Пуерто-Кабельйо",
+      "name:zh": "卡貝略港"
+    }
+  },
+  {
+    "name": "Puerto Cortés",
+    "country": "Honduras",
+    "latitude": 15.851465000007328,
+    "longitude": -87.9426681,
+    "other_names": {
+      "name": "Puerto Cortés",
+      "name:fr": "Puerto Cortes",
+      "name:hu": "Puerto Cortés",
+      "name:lt": "Puerto Kortesas",
+      "name:ru": "Пуэрто-Кортес"
+    }
+  },
+  {
+    "name": "Puerto Cumarebo",
+    "country": "Venezuela",
+    "latitude": 11.486442199535981,
+    "longitude": -69.35035359999999,
+    "other_names": {
+      "name": "Puerto Cumarebo"
+    }
+  },
+  {
+    "name": "Puerto La Cruz",
+    "country": "Venezuela",
+    "latitude": 10.205416999448573,
+    "longitude": -64.632211,
+    "other_names": {
+      "name": "Puerto La Cruz"
+    }
+  },
+  {
+    "name": "Puerto Lempira",
+    "country": "Honduras",
+    "latitude": 15.265627499938677,
+    "longitude": -83.77406350000001,
+    "other_names": {
+      "name": "Puerto Lempira",
+      "name:hu": "Puerto Lempira",
+      "name:ru": "Пуэрто-Лемпира"
+    }
+  },
+  {
+    "name": "Puerto Madryn",
+    "country": "Argentina",
+    "latitude": -42.772967400971126,
+    "longitude": -65.0366104,
+    "other_names": {
+      "name": "Puerto Madryn",
+      "name:cy": "Porth Madryn",
+      "name:ru": "Пуэрто-Мадрин"
+    }
+  },
+  {
+    "name": "Puerto Maldonado",
+    "country": "Peru",
+    "latitude": -12.593863300171787,
+    "longitude": -69.1866773,
+    "other_names": {
+      "name": "Puerto Maldonado",
+      "name:de": "Puerto Maldonado",
+      "name:en": "Puerto Maldonado",
+      "name:es": "Puerto Maldonado",
+      "name:pl": "Puerto Maldonado",
+      "name:ru": "Пуэрто-Мальдонадо",
+      "name:uk": "Пуерто-Малдонадо"
+    }
+  },
+  {
+    "name": "Puerto Montt",
+    "country": "Chile",
+    "latitude": -41.471812101029776,
+    "longitude": -72.93962099999999,
+    "other_names": {
+      "name": "Puerto Montt",
+      "name:en": "Puerto Montt",
+      "name:ru": "Пуэрто-Монт",
+      "name:uk": "Пуерто-Монтт"
+    }
+  },
+  {
+    "name": "Puerto Natales",
+    "country": "Chile",
+    "latitude": -51.72620029832405,
+    "longitude": -72.5059982,
+    "other_names": {
+      "name": "Puerto Natales",
+      "name:en": "Puerto Natales",
+      "name:ko": "푸에르토나탈레스",
+      "name:ru": "Пуэрто-Наталес"
+    }
+  },
+  {
+    "name": "Puerto Ordaz",
+    "country": "Venezuela",
+    "latitude": 8.275035099390857,
+    "longitude": -62.7558263,
+    "other_names": {
+      "name": "Puerto Ordaz",
+      "name:ja": "プエルトオルダス"
+    }
+  },
+  {
+    "name": "Puerto Padre",
+    "country": "Cuba",
+    "latitude": 21.197451200407393,
+    "longitude": -76.6018786,
+    "other_names": {
+      "name": "Puerto Padre",
+      "name:ru": "Пуерто Падре"
+    }
+  },
+  {
+    "name": "Puerto Píritu",
+    "country": "Venezuela",
+    "latitude": 10.057594299440867,
+    "longitude": -65.0354144,
+    "other_names": {
+      "name": "Puerto Píritu"
+    }
+  },
+  {
+    "name": "Puerto Plata",
+    "country": "Haiti And Domrep",
+    "latitude": 19.78939770036227,
+    "longitude": -70.6940515,
+    "other_names": {
+      "name": "Puerto Plata",
+      "name:hu": "Puerto Plata",
+      "name:ru": "Пуэрто-Плата",
+      "official_name": "San Felipe de Puerto Plata"
+    }
+  },
+  {
+    "name": "Puerto Princesa",
+    "country": "Philippines",
+    "latitude": 9.737602499425991,
+    "longitude": 118.7350414,
+    "other_names": {
+      "ref": "175316000",
+      "name": "Puerto Princesa",
+      "name:en": "Puerto Princesa",
+      "name:ja": "プエルト・プリンセサ",
+      "name:ru": "Пуэрто-Принсеса",
+      "name:uk": "Пуерто-Принцеса",
+      "name:zh": "普林塞萨港"
+    }
+  },
+  {
+    "name": "Puerto Quijarro",
+    "country": "Brazil",
+    "latitude": -19.004408800447273,
+    "longitude": -57.7157091,
+    "other_names": {
+      "name": "Puerto Quijarro",
+      "old_name:1940": "Estación Quijarro"
+    }
+  },
+  {
+    "name": "Puerto Quijarro",
+    "country": "Bolivia",
+    "latitude": -19.004408800447273,
+    "longitude": -57.7157091,
+    "other_names": {
+      "name": "Puerto Quijarro",
+      "old_name:1940": "Estación Quijarro"
+    }
+  },
+  {
+    "name": "Puerto Suárez",
+    "country": "Brazil",
+    "latitude": -18.963179100448958,
+    "longitude": -57.79745519999999,
+    "other_names": {
+      "name": "Puerto Suárez"
+    }
+  },
+  {
+    "name": "Puerto Suárez",
+    "country": "Bolivia",
+    "latitude": -18.963179100448958,
+    "longitude": -57.79745519999999,
+    "other_names": {
+      "name": "Puerto Suárez"
+    }
+  },
+  {
+    "name": "Puerto Vallarta",
+    "country": "Mexico",
+    "latitude": 20.640717600396023,
+    "longitude": -105.22030599999998,
+    "other_names": {
+      "name": "Puerto Vallarta",
+      "name:ru": "Пуэрто-Вальярта"
+    }
+  }
+]

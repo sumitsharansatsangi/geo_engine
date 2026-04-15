@@ -1,0 +1,375 @@
+[
+  {
+    "name": "Iranshahr",
+    "country": "Iran",
+    "latitude": 27.20699030003495,
+    "longitude": 60.688251499999986,
+    "other_names": {
+      "name": "ایرانشهر",
+      "name:ar": "إيران شهر",
+      "name:de": "Iranschahr",
+      "name:en": "Iranshahr",
+      "name:es": "Iran Shahr",
+      "name:fr": "Iran Shahr",
+      "name:hi": "ईरानशहर",
+      "name:ja": "イーラーンシャフル",
+      "name:lt": "Iranšehras",
+      "name:ml": "ഇറാൻഷഹർ",
+      "name:ru": "Ираншехр",
+      "old_name": "پهره",
+      "old_name:en": "Pahra"
+    }
+  },
+  {
+    "name": "Irapuato",
+    "country": "Mexico",
+    "latitude": 20.675876100397,
+    "longitude": -101.35210520000001,
+    "other_names": {
+      "name": "Irapuato"
+    }
+  },
+  {
+    "name": "Irbid",
+    "country": "Jordan",
+    "latitude": 32.55560909959277,
+    "longitude": 35.8493023,
+    "other_names": {
+      "name": "إربد‎",
+      "name:ar": "إربد",
+      "name:de": "Irbid",
+      "name:en": "Irbid",
+      "name:es": "Irbid",
+      "name:et": "Irbid",
+      "name:fr": "Irbid",
+      "name:he": "אירביד",
+      "name:hi": "इर्बिद",
+      "name:ru": "Ирбид",
+      "int_name": "Irbid",
+      "old_name": "Arabella"
+    }
+  },
+  {
+    "name": "Iriba",
+    "country": "Chad",
+    "latitude": 15.126820199922278,
+    "longitude": 22.2462653,
+    "other_names": {
+      "name": "Iriba إريبا",
+      "name:ar": "إريبا",
+      "name:de": "Iriba",
+      "name:en": "Iriba",
+      "name:fr": "Iriba",
+      "alt_name": "Iriba"
+    }
+  },
+  {
+    "name": "Iriga",
+    "country": "Philippines",
+    "latitude": 13.422262599724908,
+    "longitude": 123.41294059999997,
+    "other_names": {
+      "name": "Iriga",
+      "name:en": "Iriga",
+      "name:ja": "イリガ"
+    }
+  },
+  {
+    "name": "Iringa",
+    "country": "Tanzania",
+    "latitude": -7.779097299747902,
+    "longitude": 35.6970528,
+    "other_names": {
+      "name": "Iringa"
+    }
+  },
+  {
+    "name": "Irkutsk",
+    "country": "Russia",
+    "latitude": 52.31351214035129,
+    "longitude": 104.27269380735102,
+    "other_names": {
+      "name": "Иркутск",
+      "name:en": "Irkutsk",
+      "name:es": "Irkutsk",
+      "name:fr": "Irkoutsk",
+      "name:ja": "イルクーツク",
+      "name:ko": "이르쿠츠크",
+      "name:mn": "Эрхүү хот",
+      "name:nl": "Irkoetsk",
+      "name:pl": "Irkuck",
+      "name:ru": "Иркутск",
+      "name:bxr": "Эрхүү хото"
+    }
+  },
+  {
+    "name": "Irkutsk",
+    "country": "Russia",
+    "latitude": 52.28959699909711,
+    "longitude": 104.280586,
+    "other_names": {
+      "name": "Иркутск",
+      "name:ar": "إركوتسك",
+      "name:be": "Іркуцк",
+      "name:ca": "Irkutsk",
+      "name:cs": "Irkutsk",
+      "name:de": "Irkutsk",
+      "name:en": "Irkutsk",
+      "name:et": "Irkutsk",
+      "name:fi": "Irkutsk",
+      "name:fr": "Irkoutsk",
+      "name:hr": "Irkutsk",
+      "name:hu": "Irkutszk",
+      "name:ja": "イルクーツク",
+      "name:ko": "이르쿠츠크",
+      "name:lt": "Irkutskas",
+      "name:mn": "Эрх??",
+      "name:nl": "Irkoetsk",
+      "name:pl": "Irkuck",
+      "name:ro": "Irkutsk",
+      "name:ru": "Иркутск",
+      "name:sk": "Irkutsk",
+      "name:sl": "Irkutsk",
+      "name:uk": "Іркутськ",
+      "name:zh": "伊爾庫次克",
+      "int_name": "Irkutsk"
+    }
+  },
+  {
+    "name": "Iruma",
+    "country": "Japan",
+    "latitude": 35.83581419971961,
+    "longitude": 139.39092929999998,
+    "other_names": {
+      "name": "入間市",
+      "name:ar": "إروما، سايتاما",
+      "name:de": "Iruma",
+      "name:en": "Iruma",
+      "name:es": "Iruma",
+      "name:fr": "Iruma",
+      "name:ja": "入間市",
+      "name:ko": "이루마시",
+      "name:pl": "Iruma",
+      "name:ru": "Ирума",
+      "name:uk": "Ірума",
+      "name:ja_rm": "Iruma-shi",
+      "name:ja_kana": "いるまし"
+    }
+  },
+  {
+    "name": "Irvine",
+    "country": "United States Of America",
+    "latitude": 33.68569689959341,
+    "longitude": -117.82598189999999,
+    "other_names": {
+      "name": "Irvine"
+    }
+  },
+  {
+    "name": "Irving",
+    "country": "United States Of America",
+    "latitude": 32.8295182995888,
+    "longitude": -96.94421769999998,
+    "other_names": {
+      "name": "Irving"
+    }
+  },
+  {
+    "name": "Isa",
+    "country": "Japan",
+    "latitude": 32.05698769960651,
+    "longitude": 130.6130906,
+    "other_names": {
+      "name": "伊佐市",
+      "name:ar": "إيسا",
+      "name:de": "Isa",
+      "name:en": "Isa",
+      "name:es": "Isa",
+      "name:fr": "Isa",
+      "name:ja": "伊佐市",
+      "name:ko": "이사시",
+      "name:ru": "Иса",
+      "name:uk": "Іса",
+      "name:zh": "伊佐市",
+      "int_name": "Isa",
+      "name:zh-Hans": "伊佐市",
+      "name:zh-Hant": "伊佐市"
+    }
+  },
+  {
+    "name": "Isabela",
+    "country": "Philippines",
+    "latitude": 6.705523599414442,
+    "longitude": 121.9726402,
+    "other_names": {
+      "name": "Isabela",
+      "name:en": "Isabela",
+      "name:et": "Isabela",
+      "name:ja": "イサベラ",
+      "name:ru": "Исабела",
+      "name:uk": "Ісабела"
+    }
+  },
+  {
+    "name": "Isahaya",
+    "country": "Japan",
+    "latitude": 32.84342599958868,
+    "longitude": 130.0530537,
+    "other_names": {
+      "name": "諫早市",
+      "name:ar": "إساهايا، ناغاساكي",
+      "name:de": "Isahaya",
+      "name:en": "Isahaya",
+      "name:es": "Isahaya",
+      "name:et": "Isahaya",
+      "name:fr": "Isahaya",
+      "name:hu": "Iszahaja",
+      "name:ja": "諫早市",
+      "name:ko": "이사하야시",
+      "name:pl": "Isahaya",
+      "name:ru": "Исахая",
+      "name:uk": "Ісахая",
+      "name:zh": "谏早市",
+      "int_name": "Isahaya",
+      "name:zh-Hans": "谏早市",
+      "name:zh-Hant": "諫早市"
+    }
+  },
+  {
+    "name": "Ise",
+    "country": "Japan",
+    "latitude": 34.49961149962224,
+    "longitude": 136.72717739999996,
+    "other_names": {
+      "name": "伊勢市",
+      "name:ar": "إيسه",
+      "name:de": "Ise",
+      "name:en": "Ise",
+      "name:es": "Ise",
+      "name:fr": "Ise",
+      "name:ja": "伊勢市",
+      "name:ko": "이세시",
+      "name:pl": "Ise",
+      "name:ru": "Исе",
+      "name:uk": "Ісе",
+      "name:ja_rm": "Ise si"
+    }
+  },
+  {
+    "name": "Isehara",
+    "country": "Japan",
+    "latitude": 35.40239679968154,
+    "longitude": 139.2996106,
+    "other_names": {
+      "name": "伊勢原市",
+      "name:en": "Isehara",
+      "name:ja": "伊勢原市",
+      "name:ja-Hira": "いせはらし"
+    }
+  },
+  {
+    "name": "Isesaki",
+    "country": "Japan",
+    "latitude": 36.311173399767846,
+    "longitude": 139.1968083,
+    "other_names": {
+      "name": "伊勢崎市",
+      "name:ar": "إسيساكي، غونما",
+      "name:de": "Isesaki",
+      "name:en": "Isesaki",
+      "name:es": "Isesaki",
+      "name:fr": "Isesaki",
+      "name:ja": "伊勢崎市",
+      "name:ko": "이세사키시",
+      "name:ru": "Исэсаки",
+      "name:uk": "Ісесакі",
+      "int_name": "Isesaki",
+      "name:ja_rm": "Isesaki-shi",
+      "name:ja_kana": "いせさきし"
+    }
+  },
+  {
+    "name": "Isfahan",
+    "country": "Iran",
+    "latitude": 32.6707876995908,
+    "longitude": 51.665000199999994,
+    "other_names": {
+      "name": "اصفهان",
+      "name:ar": "أصفهان",
+      "name:ca": "Isfahan",
+      "name:cs": "Isfahán",
+      "name:da": "Isfahan",
+      "name:de": "Isfahan",
+      "name:en": "Isfahan",
+      "name:es": "Ispahán",
+      "name:et": "Eşfahān",
+      "name:fi": "Esfahan",
+      "name:fr": "Ispahan",
+      "name:he": "איספהאן",
+      "name:it": "Esfahan",
+      "name:ja": "エスファハーン",
+      "name:kn": "ಇಸ್ಫಹಾನ್",
+      "name:ko": "이스파한",
+      "name:ku": "Îsfehan",
+      "name:lt": "Isfahanas",
+      "name:ml": "ഇസ്ഫഹാൻ",
+      "name:nl": "Isfahan",
+      "name:pl": "Isfahan",
+      "name:pt": "Isfahan",
+      "name:ru": "Исфахан",
+      "name:tr": "İsfahan",
+      "name:uk": "Ісфахан",
+      "alt_name": "اِسپهان",
+      "old_name": "اِسپادنا",
+      "alt_name:ar": "أصبهان"
+    }
+  },
+  {
+    "name": "Ishigaki",
+    "country": "Japan",
+    "latitude": 24.338283100309972,
+    "longitude": 124.1577569,
+    "other_names": {
+      "name": "石垣市",
+      "name:ar": "إشيغاكا، أوكيناوا",
+      "name:de": "Ishigaki",
+      "name:en": "Ishigaki",
+      "name:es": "Ishigaki",
+      "name:fr": "Ishigaki",
+      "name:ja": "石垣市",
+      "name:ko": "이시가키시",
+      "name:lt": "Išigakis",
+      "name:pl": "Ishigaki",
+      "name:ru": "Исигаки",
+      "name:uk": "Ішіґакі",
+      "name:zh": "石垣市",
+      "name:ja_rm": "Ishigaki-shi",
+      "name:ja_kana": "いしがきし",
+      "name:zh-Hans": "石垣市",
+      "name:zh-Hant": "石垣市"
+    }
+  },
+  {
+    "name": "Ishikari",
+    "country": "Japan",
+    "latitude": 43.17167700053998,
+    "longitude": 141.3159605,
+    "other_names": {
+      "name": "石狩市",
+      "name:ar": "إشيكاري، هوكايدو",
+      "name:de": "Ishikari",
+      "name:en": "Ishikari",
+      "name:es": "Ishikari",
+      "name:fr": "Ishikari",
+      "name:hu": "Isikari",
+      "name:ja": "石狩市",
+      "name:ko": "이시카리시",
+      "name:pl": "Ishikari",
+      "name:ru": "Ишикари",
+      "name:uk": "Ісікарі",
+      "int_name": "Ishikari",
+      "name:ja_rm": "Ishikari-shi",
+      "name:ja_kana": "いしかりし"
+    }
+  }
+]

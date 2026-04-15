@@ -1,0 +1,315 @@
+[
+  {
+    "name": "Araxá",
+    "country": "Brazil",
+    "latitude": -19.592853600417715,
+    "longitude": -46.940241,
+    "other_names": {
+      "name": "Araxá",
+      "name:ru": "Араша"
+    }
+  },
+  {
+    "name": "Arayampathy",
+    "country": "Sri Lanka",
+    "latitude": 7.657856053198485,
+    "longitude": 81.73998044569689,
+    "other_names": {
+      "name": "Arayampathy"
+    }
+  },
+  {
+    "name": "Arba Minch",
+    "country": "Ethiopia",
+    "latitude": 6.021514199443749,
+    "longitude": 37.55398089999999,
+    "other_names": {
+      "name": "አርባ ምንጭ / Arba Minch",
+      "name:am": "አርባ ምንጭ",
+      "name:ar": "آربا مينش",
+      "name:en": "Arba Minch",
+      "name:et": "Arba Minch’",
+      "name:fr": "Arba Minch",
+      "name:hu": "Arba Minch",
+      "name:ru": "Арба-Мынч",
+      "int_name": "Arba Minch"
+    }
+  },
+  {
+    "name": "Ardabil",
+    "country": "Iran",
+    "latitude": 38.25142330001769,
+    "longitude": 48.297487,
+    "other_names": {
+      "name": "اردبیل",
+      "name:cs": "Ardabíl",
+      "name:de": "Ardabil",
+      "name:en": "Ardabil",
+      "name:es": "Ardebil",
+      "name:et": "Ardabīl",
+      "name:fr": "Ardabil",
+      "name:hi": "आर्दबील",
+      "name:ja": "アルダビール",
+      "name:ku": "Erdebîl",
+      "name:pl": "Ardabil",
+      "name:ru": "Ардебиль",
+      "name:tr": "Erdebil",
+      "name:uk": "Ардебіль",
+      "int_name": "Ardabil"
+    }
+  },
+  {
+    "name": "Ardahan",
+    "country": "Turkey",
+    "latitude": 41.11029660040429,
+    "longitude": 42.7035585,
+    "other_names": {
+      "name": "Ardahan",
+      "name:ar": "أرداهان",
+      "name:de": "Ardahan",
+      "name:el": "Αρνταχάν",
+      "name:en": "Ardahan",
+      "name:es": "Ardahan",
+      "name:fr": "Ardahan",
+      "name:hy": "Արդահան",
+      "name:ka": "არტაანი",
+      "name:ku": "Erdêxan",
+      "name:ru": "Ардахан",
+      "alt_name": "Ardahan ilçesi;Ardahan merkez",
+      "alt_name:ku": "Erdêhan"
+    }
+  },
+  {
+    "name": "Arecibo",
+    "country": "United States Of America",
+    "latitude": 18.470298500274325,
+    "longitude": -66.7190726,
+    "other_names": {
+      "name": "Arecibo",
+      "name:hu": "Arecibo",
+      "name:ru": "Аресибо",
+      "name:uk": "Аресібо"
+    }
+  },
+  {
+    "name": "Areguá",
+    "country": "Paraguay",
+    "latitude": -25.312944899734145,
+    "longitude": -57.3852339,
+    "other_names": {
+      "name": "Areguá",
+      "name:lt": "Aregva",
+      "old_name:gn": "Tapaicuá",
+      "official_name:es": "Areguá"
+    }
+  },
+  {
+    "name": "Arequipa",
+    "country": "Peru",
+    "latitude": -16.39886670045294,
+    "longitude": -71.5369607,
+    "other_names": {
+      "name": "Arequipa",
+      "name:de": "Arequipa",
+      "name:en": "Arequipa",
+      "name:es": "Arequipa",
+      "name:pl": "Arequipa",
+      "name:ru": "Арекипа",
+      "name:uk": "Арекіпа",
+      "alt_name": "aqp",
+      "reg_name": "Blanca Ciudad"
+    }
+  },
+  {
+    "name": "Arese",
+    "country": "Italy",
+    "latitude": 45.54991290040649,
+    "longitude": 9.0782756,
+    "other_names": {
+      "name": "Arese"
+    }
+  },
+  {
+    "name": "Arezzo",
+    "country": "Italy",
+    "latitude": 43.462895700541985,
+    "longitude": 11.878167499999998,
+    "other_names": {
+      "name": "Arezzo",
+      "name:be": "Арэцца",
+      "name:el": "Αρέτσο",
+      "name:en": "Arezzo",
+      "name:ru": "Ареццо",
+      "name:zh": "阿雷佐"
+    }
+  },
+  {
+    "name": "Argenteuil",
+    "country": "France",
+    "latitude": 48.94790689970525,
+    "longitude": 2.2481797,
+    "other_names": {
+      "name": "Argenteuil",
+      "name:el": "Αρζαντέιγ",
+      "name:ja": "アルジャントゥイユ",
+      "name:ru": "Аржантёй"
+    }
+  },
+  {
+    "name": "Argos",
+    "country": "Greece",
+    "latitude": 37.63498249993139,
+    "longitude": 22.7285119,
+    "other_names": {
+      "name": "Άργος",
+      "name:de": "Argos",
+      "name:el": "Άργος",
+      "name:en": "Argos",
+      "name:et": "Árgos",
+      "name:fr": "Argos",
+      "name:hu": "Argosz",
+      "name:lt": "Argas",
+      "name:mk": "Аргос",
+      "name:nl": "Argos",
+      "name:ru": "Аргос"
+    }
+  },
+  {
+    "name": "Ar Horqin Banner",
+    "country": "China",
+    "latitude": 43.870730500536496,
+    "longitude": 120.067991,
+    "other_names": {
+      "name": "阿鲁科尔沁旗",
+      "name:en": "Ar Horqin Banner",
+      "name:zh": "阿鲁科尔沁旗",
+      "alt_name": "阿鲁科尔沁;Ar Khorchin;Ar Khorchin Banner;Ар Хорчин",
+      "name:zh-Hant": "阿魯科爾沁旗"
+    }
+  },
+  {
+    "name": "Ariana",
+    "country": "Tunisia",
+    "latitude": 36.85873509983088,
+    "longitude": 10.188232,
+    "other_names": {
+      "name": "أريانة",
+      "name:ar": "أريانة",
+      "name:ca": "Ariana",
+      "name:de": "Ariana",
+      "name:en": "Ariana",
+      "name:eo": "Arjana",
+      "name:et": "Ariana",
+      "name:fa": "اریانه",
+      "name:fr": "Ariana",
+      "name:lt": "Ariana",
+      "name:pl": "Arjana",
+      "name:ru": "Арьяна",
+      "name:ur": "آریانہ",
+      "name:azb": "اریانه",
+      "name:pnb": "آریانہ"
+    }
+  },
+  {
+    "name": "Arica",
+    "country": "Chile",
+    "latitude": -18.47852880046479,
+    "longitude": -70.32113939999999,
+    "other_names": {
+      "name": "Arica",
+      "name:ckb": "ئاریکا",
+      "old_name": "San Márcos de Arica"
+    }
+  },
+  {
+    "name": "Arida",
+    "country": "Japan",
+    "latitude": 34.0832763996045,
+    "longitude": 135.1278229,
+    "other_names": {
+      "name": "有田市",
+      "name:ar": "أريدا، واكاياما",
+      "name:de": "Arida",
+      "name:en": "Arida",
+      "name:es": "Arida",
+      "name:fr": "Arida",
+      "name:ja": "有田市",
+      "name:ko": "아리다시",
+      "name:pl": "Arida",
+      "name:ru": "Арита",
+      "name:uk": "Аріда",
+      "int_name": "Arida",
+      "name:ja_rm": "Arida-shi",
+      "name:ja_kana": "ありだし"
+    }
+  },
+  {
+    "name": "Arifwala",
+    "country": "Pakistan",
+    "latitude": 30.294450399714275,
+    "longitude": 73.0589418,
+    "other_names": {
+      "name": "عارِف والا",
+      "name:ar": "عارف والا",
+      "name:de": "Arifwala",
+      "name:en": "Arifwala",
+      "name:es": "Arifwala",
+      "name:fr": "Arifwala",
+      "name:ja": "アーリフワラー",
+      "name:ru": "Арифвала",
+      "name:ur": "عارِف والا"
+    }
+  },
+  {
+    "name": "Arihah",
+    "country": "Syria",
+    "latitude": 35.813062899717465,
+    "longitude": 36.6103721,
+    "other_names": {
+      "name": "أريحا",
+      "name:ar": "أريحا",
+      "name:de": "Ariha",
+      "name:el": "Αριά",
+      "name:en": "Arihah",
+      "name:es": "Arihah",
+      "name:fr": "Ariha",
+      "name:hu": "Aríha",
+      "name:ku": "Erîha",
+      "name:lt": "Ariha",
+      "name:ru": "Эриха",
+      "int_name": "Ariha"
+    }
+  },
+  {
+    "name": "Ariquemes",
+    "country": "Brazil",
+    "latitude": -9.907652199907004,
+    "longitude": -63.033069,
+    "other_names": {
+      "name": "Ariquemes",
+      "name:bg": "Арикемис",
+      "name:kk": "Арикемис",
+      "name:lt": "Arikemesas",
+      "name:pt": "Ariquemes",
+      "name:ru": "Арикемис"
+    }
+  },
+  {
+    "name": "Arixang",
+    "country": "China",
+    "latitude": 44.969424300471125,
+    "longitude": 81.02558769999999,
+    "other_names": {
+      "name": "温泉县",
+      "name:de": "Arixang",
+      "name:en": "Arixang",
+      "name:es": "Wenquan",
+      "name:fr": "Wenquan",
+      "name:ug": "ئارشاڭ ناھىيىسى",
+      "name:zh": "温泉县",
+      "alt_name": "温泉县",
+      "name:zh-Hant": "溫泉縣",
+      "name:zh_pinyin": "bógédáěr zhèn"
+    }
+  }
+]

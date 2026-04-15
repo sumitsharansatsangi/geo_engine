@@ -19,14 +19,18 @@ impl WasmGeoEngine {
     pub fn new(
         country_db: &[u8],
         subdistrict_db: &[u8],
+        subdistrict_meta: &[u8],
         city_fst: &[u8],
-        city_rkyv: &[u8],
+        city_core: &[u8],
+        city_meta: &[u8],
     ) -> Result<WasmGeoEngine, JsValue> {
         let inner = InitializedGeoEngine::open_from_bytes(
             country_db,
             Some(subdistrict_db),
+            Some(subdistrict_meta),
             Some(city_fst),
-            Some(city_rkyv),
+            Some(city_core),
+            Some(city_meta),
         )
         .map_err(to_js_error)?;
 

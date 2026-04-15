@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Sumoto",
+    "country": "Japan",
+    "latitude": 34.33899089961466,
+    "longitude": 134.85998499999997,
+    "other_names": {
+      "name": "洲本市",
+      "name:ar": "ساموتو، هيوغو",
+      "name:de": "Sumoto",
+      "name:en": "Sumoto",
+      "name:es": "Sumoto",
+      "name:fr": "Sumoto",
+      "name:ja": "洲本市",
+      "name:ko": "스모토시",
+      "name:pl": "Sumoto",
+      "name:ru": "Сумото",
+      "name:uk": "Сумото",
+      "name:ja_rm": "Sumoto-shi"
+    }
+  },
+  {
+    "name": "Sumy",
+    "country": "Ukraine",
+    "latitude": 50.903211772764465,
+    "longitude": 34.811172332093065,
+    "other_names": {
+      "name": "Суми",
+      "name:de": "Sumy",
+      "name:en": "Sumy",
+      "name:eo": "Sumio",
+      "name:fr": "Soumy",
+      "name:hu": "Szumi",
+      "name:ko": "수미",
+      "name:pl": "Sumy",
+      "name:ro": "Sumî",
+      "name:ru": "Сумы",
+      "name:sr": "Суми",
+      "name:uk": "Суми"
+    }
+  },
+  {
+    "name": "Sumy",
+    "country": "Ukraine",
+    "latitude": 50.90700069926584,
+    "longitude": 34.798386,
+    "other_names": {
+      "name": "Суми",
+      "name:be": "Сумы",
+      "name:de": "Sumy",
+      "name:en": "Sumy",
+      "name:eo": "Sumio",
+      "name:et": "Sumõ",
+      "name:fr": "Soumy",
+      "name:hu": "Szumi",
+      "name:ko": "수미",
+      "name:nl": "Soemy",
+      "name:pl": "Sumy",
+      "name:ro": "Sumî",
+      "name:ru": "Сумы",
+      "name:sr": "Суми",
+      "name:uk": "Суми"
+    }
+  },
+  {
+    "name": "Sunagawa",
+    "country": "Japan",
+    "latitude": 43.49492800054192,
+    "longitude": 141.9034816,
+    "other_names": {
+      "name": "砂川市",
+      "name:ar": "سوناغاوا، هوكايدو",
+      "name:de": "Sunagawa",
+      "name:en": "Sunagawa",
+      "name:es": "Sunagawa",
+      "name:fr": "Sunagawa",
+      "name:hu": "Szunagava",
+      "name:ja": "砂川市",
+      "name:ko": "스나가와시",
+      "name:pl": "Sunagawa",
+      "name:ru": "Сунагава",
+      "name:uk": "Сунаґава",
+      "int_name": "Sunagawa",
+      "name:ja_rm": "Sunagawa-shi",
+      "name:ja_kana": "すながわし"
+    }
+  },
+  {
+    "name": "Sunan",
+    "country": "China",
+    "latitude": 38.83382480010181,
+    "longitude": 99.6082299,
+    "other_names": {
+      "name": "肃南县",
+      "name:en": "Sunan",
+      "name:zh": "肃南裕固族自治县",
+      "alt_name": "肃南;South Kansu Yuku Autonomous Hsien;Sunnan;Su-nan-yu-ku-tsu Tzu-chih-hsien",
+      "short_name": "肃南县",
+      "name:zh-Hant": "肅南縣",
+      "official_name": "肃南裕固族自治县",
+      "name:zh_pinyin": "sùnán yùgùzú zìzhìxiàn"
+    }
+  },
+  {
+    "name": "Sunchales",
+    "country": "Argentina",
+    "latitude": -30.94508909933797,
+    "longitude": -61.56080719999999,
+    "other_names": {
+      "name": "Sunchales",
+      "name:en": "Sunchales",
+      "name:ru": "Сунчалес"
+    }
+  },
+  {
+    "name": "Suncheon-si",
+    "country": "South Korea",
+    "latitude": 34.95054569964836,
+    "longitude": 127.48729919999997,
+    "other_names": {
+      "name": "순천시",
+      "name:de": "Suncheon",
+      "name:en": "Suncheon-si",
+      "name:es": "Suncheon",
+      "name:et": "Suncheon",
+      "name:fr": "Suncheon",
+      "name:ja": "順天市",
+      "name:ko": "순천시",
+      "name:ru": "Сунчхон",
+      "name:uk": "Сунчхон",
+      "name:zh": "顺天市",
+      "int_name": "Suncheon",
+      "name:ja_kana": "スンチョンし",
+      "name:ko-Hani": "順天市",
+      "name:ko-Latn": "Suncheon-si",
+      "name:zh-Hant": "順天市"
+    }
+  },
+  {
+    "name": "Sunderland",
+    "country": "England",
+    "latitude": 54.9058511993925,
+    "longitude": -1.3828727,
+    "other_names": {
+      "name": "Sunderland",
+      "name:en": "Sunderland",
+      "name:hu": "Sunderland",
+      "name:ko": "선덜랜드",
+      "name:lt": "Sanderlandas",
+      "name:mk": "Сандерленд",
+      "name:ru": "Сандерленд",
+      "name:sr": "Садерленд",
+      "name:uk": "Сандерленд"
+    }
+  },
+  {
+    "name": "Sundsvall",
+    "country": "Sweden",
+    "latitude": 62.390755201381445,
+    "longitude": 17.3071024,
+    "other_names": {
+      "name": "Sundsvall",
+      "name:he": "סונדרסוואל",
+      "name:ru": "Сундсвалль",
+      "name:sv": "Sundsvall",
+      "name:sma": "Sjädtavaellie"
+    }
+  },
+  {
+    "name": "Sungai Penuh",
+    "country": "Indonesia",
+    "latitude": -2.0637827998128775,
+    "longitude": 101.3950143,
+    "other_names": {
+      "name": "Sungai Penuh"
+    }
+  },
+  {
+    "name": "Sungai Petani",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 5.643519499464512,
+    "longitude": 100.4869513,
+    "other_names": {
+      "name": "Sungai Petani",
+      "name:en": "Sungai Petani",
+      "name:ja": "スンガイ プタニ",
+      "name:ru": "Сунгай Петани",
+      "name:ta": "சுங்கை பட்டாணி",
+      "name:uk": "Сунгай Петані",
+      "name:zh": "双溪大年",
+      "short_name": "SP;S Petani;Sg Petani"
+    }
+  },
+  {
+    "name": "Suning",
+    "country": "China",
+    "latitude": 38.4264187000428,
+    "longitude": 115.82653219999999,
+    "other_names": {
+      "name": "肃宁县",
+      "name:en": "Suning",
+      "name:ja": "粛寧県",
+      "name:ko": "쑤닝 현",
+      "name:ru": "Сунин",
+      "name:vi": "Túc Ninh",
+      "name:zh": "肃宁县",
+      "alt_name": "肃宁;Suning County",
+      "name:zh-Hant": "肅寧縣",
+      "official_name": "肃宁县"
+    }
+  },
+  {
+    "name": "Sunnyvale",
+    "country": "United States Of America",
+    "latitude": 37.36883009989569,
+    "longitude": -122.036349,
+    "other_names": {
+      "name": "Sunnyvale",
+      "name:ar": "سانيفال",
+      "name:zh": "桑尼维尔/桑尼維爾"
+    }
+  },
+  {
+    "name": "Sunwu",
+    "country": "China",
+    "latitude": 49.421270299588805,
+    "longitude": 127.32381280000001,
+    "other_names": {
+      "name": "孙吴县",
+      "name:en": "Sunwu",
+      "name:ja": "孫呉県",
+      "name:ru": "Суньу",
+      "name:vi": "Tôn Ngô",
+      "name:zh": "孙吴县",
+      "alt_name": "孙吴",
+      "name:zh-Hant": "孫吳縣",
+      "official_name": "孙吴镇",
+      "name:zh_pinyin": "Sūnwú zhen"
+    }
+  },
+  {
+    "name": "Sunyani",
+    "country": "Ghana",
+    "latitude": 7.338438899397399,
+    "longitude": -2.3309226,
+    "other_names": {
+      "name": "Sunyani",
+      "name:ar": "سونياتي",
+      "name:en": "Sunyani",
+      "name:fr": "Sunyani",
+      "name:ko": "수니아니",
+      "name:ru": "Суньяни",
+      "name:uk": "Суньяні"
+    }
+  },
+  {
+    "name": "Suo",
+    "country": "China",
+    "latitude": 31.888981799612953,
+    "longitude": 93.78421439999998,
+    "other_names": {
+      "name": "索县",
+      "name:bo": "སོག་རྫོང་",
+      "name:en": "Suo",
+      "name:vi": "Sog",
+      "name:zh": "索县",
+      "alt_name": "索;Sog;Sok;Suo County",
+      "alt_name:vi": "Tác",
+      "name:zh-Hant": "索縣",
+      "name:zh_pinyin": "Suǒ Xiàn"
+    }
+  },
+  {
+    "name": "Suqian",
+    "country": "China",
+    "latitude": 33.96467799960059,
+    "longitude": 118.2698069,
+    "other_names": {
+      "name": "宿迁市",
+      "name:de": "Suqian",
+      "name:en": "Suqian",
+      "name:et": "Suqian",
+      "name:fr": "Suqian",
+      "name:ja": "宿遷市",
+      "name:ru": "Суцянь",
+      "name:vi": "Tú Thiên",
+      "name:zh": "宿迁市",
+      "name:zh-Hant": "宿遷市",
+      "name:zh_pinyin": "Sùqiān Shì"
+    }
+  },
+  {
+    "name": "Surabaya",
+    "country": "Indonesia",
+    "latitude": -7.245971699721313,
+    "longitude": 112.7378266,
+    "other_names": {
+      "name": "Surabaya",
+      "name:en": "Surabaya",
+      "name:ja": "スラバヤ",
+      "name:jv": "Suroboyo",
+      "name:kn": "ಸುರಬಯ",
+      "name:mk": "Сурабаја",
+      "name:oc": "Surabaya",
+      "name:ru": "Сурабая",
+      "name:uk": "Сурабая",
+      "name:zh": "泗水"
+    }
+  },
+  {
+    "name": "Surakarta",
+    "country": "Indonesia",
+    "latitude": -7.569246199736705,
+    "longitude": 110.828448,
+    "other_names": {
+      "name": "Surakarta",
+      "name:en": "Surakarta",
+      "name:ja": "スラカルタ",
+      "name:mk": "Суракарта",
+      "name:nl": "Surakarta",
+      "name:ru": "Суракарта",
+      "name:uk": "Суракарта",
+      "name:zh": "梭罗",
+      "alt_name": "Solo",
+      "alt_name:jv": "Sala"
+    }
+  },
+  {
+    "name": "Surat",
+    "country": "India",
+    "latitude": 21.186460700407252,
+    "longitude": 72.8081281,
+    "other_names": {
+      "name": "Surat",
+      "name:ar": "سورات",
+      "name:en": "Surat",
+      "name:gu": "સુરત",
+      "name:he": "סוראט",
+      "name:hi": "सूरत",
+      "name:ja": "スーラト",
+      "name:kn": "ಸುರತ್",
+      "name:ko": "수라트",
+      "name:mr": "सुरत",
+      "name:ms": "Surat",
+      "name:oc": "Surat",
+      "name:pa": "ਸੂਰਤ",
+      "name:th": "สุรัต",
+      "name:uk": "Сурат",
+      "name:zh": "苏拉特",
+      "name:ckb": "سورات"
+    }
+  }
+]

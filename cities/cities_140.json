@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Fresnillo",
+    "country": "Mexico",
+    "latitude": 23.181127800376675,
+    "longitude": -102.8729073,
+    "other_names": {
+      "name": "Fresnillo",
+      "name:ru": "Фреснильо"
+    }
+  },
+  {
+    "name": "Fresno",
+    "country": "United States Of America",
+    "latitude": 36.739442099816536,
+    "longitude": -119.7848307,
+    "other_names": {
+      "name": "Fresno",
+      "name:ar": "فريسنو",
+      "name:he": "פרזנו",
+      "name:lt": "Fresnas",
+      "name:ru": "Фресно",
+      "name:uk": "Фресно"
+    }
+  },
+  {
+    "name": "Fria",
+    "country": "Guinea",
+    "latitude": 10.363035999457356,
+    "longitude": -13.581184999999998,
+    "other_names": {
+      "name": "Fria",
+      "name:ar": "فريا",
+      "name:ru": "Фрия"
+    }
+  },
+  {
+    "name": "Frisco",
+    "country": "United States Of America",
+    "latitude": 33.150674399587466,
+    "longitude": -96.82361159999999,
+    "other_names": {
+      "name": "Frisco"
+    }
+  },
+  {
+    "name": "Frosinone",
+    "country": "Italy",
+    "latitude": 41.64198070045695,
+    "longitude": 13.3469287,
+    "other_names": {
+      "name": "Frosinone",
+      "name:ru": "Фрозиноне",
+      "name:zh": "弗罗西诺内"
+    }
+  },
+  {
+    "name": "Fu'an",
+    "country": "China",
+    "latitude": 27.090999500047808,
+    "longitude": 119.64336209999999,
+    "other_names": {
+      "name": "福安市",
+      "name:ar": "فوان",
+      "name:de": "Fu’an",
+      "name:en": "Fu'an",
+      "name:es": "Fu'an",
+      "name:fa": "فوان",
+      "name:fr": "Fu'an",
+      "name:it": "Fu'an",
+      "name:ja": "福安市",
+      "name:ki": "Fu'an",
+      "name:ko": "푸안시",
+      "name:no": "Fu'an",
+      "name:ru": "Фуань",
+      "name:sv": "Fu'an",
+      "name:ur": "فوآن",
+      "name:vi": "Phúc An",
+      "name:zh": "福安市",
+      "alt_name": "福安;Fu'an City",
+      "int_name": "Fu'an",
+      "name:cdo": "Hók-ăng",
+      "name:hak": "Fuk-ôn-sṳ",
+      "name:mwl": "Fu'an",
+      "name:nan": "Hok-an-chhī",
+      "name:pam": "Fu'an",
+      "name:pnb": "فوآن",
+      "name:war": "Fu'an",
+      "name:yue": "福安",
+      "name:zh-Hant": "福安市",
+      "name:zh_pinyin": "Fú'ān Shì"
+    }
+  },
+  {
+    "name": "Fucheng",
+    "country": "China",
+    "latitude": 37.86763249996344,
+    "longitude": 116.1679917,
+    "other_names": {
+      "name": "阜城县",
+      "name:en": "Fucheng",
+      "name:vi": "Phụ Thành",
+      "name:zh": "阜城县",
+      "alt_name": "阜城;Fucheng County",
+      "name:zh-Hant": "阜城縣",
+      "official_name": "阜城镇",
+      "name:zh_pinyin": "Fucheng Xian"
+    }
+  },
+  {
+    "name": "Fucheng",
+    "country": "China",
+    "latitude": 31.456752599633532,
+    "longitude": 104.7547784,
+    "other_names": {
+      "name": "涪城区",
+      "name:en": "Fucheng",
+      "name:zh": "涪城区",
+      "alt_name": "涪城;Fucheng District",
+      "name:zh-Hant": "涪城區"
+    }
+  },
+  {
+    "name": "Fuchu",
+    "country": "Japan",
+    "latitude": 35.66111189970356,
+    "longitude": 139.4734451,
+    "other_names": {
+      "name": "府中市",
+      "name:ar": "فوتشو، طوكيو",
+      "name:bg": "Фучу",
+      "name:de": "Fuchū",
+      "name:en": "Fuchu",
+      "name:eo": "Fuĉu",
+      "name:es": "Fuchū",
+      "name:et": "Fuchū",
+      "name:fa": "فوچو، توکیو",
+      "name:fi": "Fuchū",
+      "name:fr": "Fuchū",
+      "name:gl": "Fuchū, Tōkyō",
+      "name:it": "Fuchū",
+      "name:ja": "府中市",
+      "name:ko": "후추시",
+      "name:lt": "Fučiū",
+      "name:ms": "Fuchu",
+      "name:nl": "Fuchu",
+      "name:pl": "Fuchū",
+      "name:pt": "Fuchū",
+      "name:ro": "Fuchu, Tokyo",
+      "name:ru": "Футю",
+      "name:sr": "Фучу",
+      "name:sv": "Fuchu",
+      "name:tg": "Фучу, Токио",
+      "name:th": "ฟุชู",
+      "name:uk": "Футю",
+      "name:zh": "府中市",
+      "name:mzn": "فوچو، توکیو",
+      "name:yue": "府中市",
+      "name:ja_rm": "Fuchū-shi",
+      "name:ja_kana": "ふちゅうし",
+      "name:roa-rup": "Fuchū"
+    }
+  },
+  {
+    "name": "Fuchu",
+    "country": "Japan",
+    "latitude": 34.56831409962575,
+    "longitude": 133.23663269999997,
+    "other_names": {
+      "name": "府中市",
+      "name:ar": "فوجو، هيروشيما",
+      "name:de": "Fuchū",
+      "name:en": "Fuchu",
+      "name:es": "Fuchū",
+      "name:eu": "Fuchu",
+      "name:fr": "Fuchū",
+      "name:ja": "府中市",
+      "name:ko": "후추시",
+      "name:pl": "Fuchū",
+      "name:ru": "Футю",
+      "name:uk": "Футю",
+      "int_name": "Fuchū",
+      "name:ja_rm": "Fuchū-shi",
+      "name:ja_kana": "ふちゅうし"
+    }
+  },
+  {
+    "name": "Fuchuan",
+    "country": "China",
+    "latitude": 24.82161800027288,
+    "longitude": 111.2693007,
+    "other_names": {
+      "name": "富川瑶族自治县",
+      "name:en": "Fuchuan",
+      "name:vi": "Phú Xuyên",
+      "name:zh": "富川瑶族自治县",
+      "alt_name": "富川;Fuchuan Xian;Fu-ch'uan Hsien",
+      "short_name": "富川县",
+      "name:zh-Hant": "富川瑤族自治縣",
+      "official_name": "富川瑶族自治县",
+      "name:zh_pinyin": "Fùchuān Yáozú Zìzhìxiàn"
+    }
+  },
+  {
+    "name": "Fuding",
+    "country": "China",
+    "latitude": 27.32742160002152,
+    "longitude": 120.2126329,
+    "other_names": {
+      "name": "福鼎市",
+      "name:ar": "فودينغ",
+      "name:cy": "Fuding",
+      "name:de": "Fuding",
+      "name:en": "Fuding",
+      "name:es": "Fuding",
+      "name:fr": "Fuding",
+      "name:it": "Fuding",
+      "name:ja": "福鼎市",
+      "name:ki": "Fuding",
+      "name:ko": "푸딩시",
+      "name:mg": "Fuding",
+      "name:nl": "Fuding",
+      "name:no": "Fuding",
+      "name:pl": "Fuding",
+      "name:ru": "Фудин",
+      "name:sv": "Fuding",
+      "name:ur": "فودنگ",
+      "name:vi": "Phúc Đỉnh",
+      "name:zh": "福鼎市",
+      "alt_name": "福鼎;Fuding City",
+      "int_name": "Fuding",
+      "name:cdo": "Hók-tīng",
+      "name:ceb": "Fuding Shi",
+      "name:hak": "Fuk-tín-sṳ",
+      "name:lzh": "福鼎市",
+      "name:mwl": "Fuding",
+      "name:nan": "Hok-téng-chhī",
+      "name:pam": "Fuding",
+      "name:pnb": "فودینگ",
+      "name:yue": "福鼎",
+      "name:zh-Hant": "福鼎市",
+      "name:zh_pinyin": "Fúdǐng Shì"
+    }
+  },
+  {
+    "name": "Fuefuki",
+    "country": "Japan",
+    "latitude": 35.648547399702444,
+    "longitude": 138.6393992,
+    "other_names": {
+      "name": "笛吹市",
+      "name:ar": "فويفوكي، ياماناشي",
+      "name:de": "Fuefuki",
+      "name:en": "Fuefuki",
+      "name:es": "Fuefuki",
+      "name:fr": "Fuefuki",
+      "name:ja": "笛吹市",
+      "name:ko": "후에후키시",
+      "name:pl": "Fuefuki",
+      "name:ru": "Фуэфуки",
+      "name:uk": "Фуефукі",
+      "name:ja_rm": "Fuefuki-shi",
+      "name:ja_kana": "ふえふきし"
+    }
+  },
+  {
+    "name": "Fuenlabrada",
+    "country": "Spain",
+    "latitude": 40.28247600030488,
+    "longitude": -3.7923422,
+    "other_names": {
+      "name": "Fuenlabrada",
+      "name:en": "Fuenlabrada",
+      "name:hu": "Fuenlabrada",
+      "name:ja": "フエンラブラダ",
+      "name:ru": "Фуэнлабрада",
+      "name:sr": "Фуенлабрада",
+      "name:uk": "Фуенлабрада",
+      "name:zh": "丰拉夫拉达"
+    }
+  },
+  {
+    "name": "Fufeng",
+    "country": "China",
+    "latitude": 34.37843659961644,
+    "longitude": 107.89218559999999,
+    "other_names": {
+      "name": "扶风县",
+      "name:en": "Fufeng",
+      "name:ja": "扶風県",
+      "name:vi": "Phù Phong",
+      "name:zh": "扶风县",
+      "alt_name": "城关街道;城关;Chengguan",
+      "int_name": "Fufeng",
+      "old_name": "城关镇",
+      "name:zh-Hant": "扶風縣",
+      "name:zh_pinyin": "fúfēng xiàn"
+    }
+  },
+  {
+    "name": "Fugong",
+    "country": "China",
+    "latitude": 26.90576820006824,
+    "longitude": 98.86785489999998,
+    "other_names": {
+      "name": "福贡县",
+      "name:en": "Fugong",
+      "name:ru": "Шанпа",
+      "name:vi": "Phúc Cống",
+      "name:zh": "福贡县",
+      "alt_name": "福贡县;福贡;上帕;Fugong County",
+      "name:lisu": "ꓩꓴꓽ-ꓗꓳꓹ ꓫꓯꓹ",
+      "name:zh-Hant": "福貢縣"
+    }
+  },
+  {
+    "name": "Fugou",
+    "country": "China",
+    "latitude": 34.056055599603575,
+    "longitude": 114.38900509999999,
+    "other_names": {
+      "name": "扶沟县",
+      "name:en": "Fugou",
+      "name:vi": "Phù Câu",
+      "name:zh": "扶沟县",
+      "name:zh-Hant": "扶溝縣",
+      "name:zh_pinyin": "Fugou Xian"
+    }
+  },
+  {
+    "name": "Fugu",
+    "country": "China",
+    "latitude": 39.031227000130436,
+    "longitude": 111.0581068,
+    "other_names": {
+      "name": "府谷县",
+      "name:en": "Fugu",
+      "name:ja": "府谷県",
+      "name:zh": "府谷县",
+      "alt_name": "府谷县;府谷镇;Fu-ku-hsien;Fu-ku;Fu Kuh;Fugu;Fu-ku-hsien-ch'eng",
+      "name:zh-Hant": "府谷縣"
+    }
+  },
+  {
+    "name": "Fuhai",
+    "country": "China",
+    "latitude": 47.11149060013812,
+    "longitude": 87.48374919999999,
+    "other_names": {
+      "name": "福海县",
+      "name:en": "Fuhai",
+      "name:kk": "Бурылтоғай",
+      "name:ru": "Фухай",
+      "name:ug": "كۆكتوقاي ناھىيىسى",
+      "name:vi": "Phú Hải",
+      "name:zh": "福海县",
+      "alt_name": "福海县;Burultokay",
+      "alt_name:ru": "Бурултокай",
+      "name:kk-Arab": "بۋرىلتوعاي اۋدانى",
+      "name:zh-Hant": "福海縣",
+      "name:zh_pinyin": "fúhǎi zhèn"
+    }
+  },
+  {
+    "name": "Fuji",
+    "country": "Japan",
+    "latitude": 35.16185199966304,
+    "longitude": 138.6763863,
+    "other_names": {
+      "name": "富士市",
+      "name:ar": "فوجي، شيزوكا",
+      "name:bg": "Фуджи (град)",
+      "name:de": "Fuji",
+      "name:en": "Fuji",
+      "name:es": "Fuji",
+      "name:et": "Fuji",
+      "name:fr": "Fuji",
+      "name:ja": "富士市",
+      "name:ko": "후지시",
+      "name:lt": "Fudžis",
+      "name:pl": "Fuji",
+      "name:ru": "Фудзи",
+      "name:uk": "Фудзі",
+      "int_name": "Fuji",
+      "name:ja_rm": "Fuji-shi",
+      "name:ja_kana": "ふじし"
+    }
+  }
+]

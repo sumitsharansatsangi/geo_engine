@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Syzran",
+    "country": "Russia",
+    "latitude": 53.155379999094166,
+    "longitude": 48.474121,
+    "other_names": {
+      "name": "Сызрань",
+      "name:de": "Sysran",
+      "name:en": "Syzran",
+      "name:es": "Syzran",
+      "name:et": "Sõzran",
+      "name:fr": "Syzran",
+      "name:it": "Syzran'",
+      "name:ja": "シズラニ",
+      "name:ko": "시즈란",
+      "name:ru": "Сызрань",
+      "name:uk": "Сизрань"
+    }
+  },
+  {
+    "name": "Syzran",
+    "country": "Russia",
+    "latitude": 53.123893124353806,
+    "longitude": 48.42185453339436,
+    "other_names": {
+      "name": "Сызрань",
+      "name:de": "Sysran",
+      "name:en": "Syzran",
+      "name:es": "Syzran",
+      "name:fr": "Syzran",
+      "name:it": "Syzran'",
+      "name:ja": "シズラニ",
+      "name:ru": "Сызрань",
+      "name:uk": "Сизрань"
+    }
+  },
+  {
+    "name": "Szczecin",
+    "country": "Poland",
+    "latitude": 53.43018179911308,
+    "longitude": 14.550962300000002,
+    "other_names": {
+      "name": "Szczecin",
+      "name:ar": "شتتين",
+      "name:az": "Şetsin",
+      "name:be": "Шчэцін",
+      "name:bg": "Шчечин",
+      "name:cs": "Štětín",
+      "name:da": "Stettin",
+      "name:de": "Stettin",
+      "name:el": "Στσέτσιν",
+      "name:eo": "Ŝĉecino",
+      "name:fa": "شچچین",
+      "name:fo": "Stettin",
+      "name:he": "שצ'צ'ין",
+      "name:it": "Stettino",
+      "name:ja": "シュチェチン",
+      "name:ka": "შჩეცინი",
+      "name:kn": "ಶ್ಚೆಟ್ಸಿನ್",
+      "name:ko": "슈체친",
+      "name:la": "Stettinum",
+      "name:lt": "Ščecinas",
+      "name:lv": "Ščecina",
+      "name:mk": "Шчеќин",
+      "name:pt": "Estetino",
+      "name:ru": "Щецин",
+      "name:sk": "Štetín",
+      "name:uk": "Щецин",
+      "name:hsb": "Šćećin",
+      "name:nds": "Stettin",
+      "name:szl": "Sztetin",
+      "old_name:fr": "Stettin"
+    }
+  },
+  {
+    "name": "Szeged",
+    "country": "Hungary",
+    "latitude": 46.25463120030121,
+    "longitude": 20.148601599999996,
+    "other_names": {
+      "name": "Szeged",
+      "name:ar": "سيجد",
+      "name:az": "Seqed",
+      "name:be": "Сегед",
+      "name:bg": "Сегед",
+      "name:ce": "Сегед",
+      "name:de": "Szegedin",
+      "name:el": "Σέγκεντ",
+      "name:fa": "سگد",
+      "name:he": "סגד",
+      "name:hr": "Segedin",
+      "name:hy": "Սեգեդ",
+      "name:it": "Seghedino",
+      "name:ja": "セゲド",
+      "name:ka": "სეგედი",
+      "name:ko": "세게드",
+      "name:la": "Partiscum",
+      "name:lt": "Segedas",
+      "name:lv": "Segeda",
+      "name:mk": "Сегедин",
+      "name:mr": "सेगेड",
+      "name:pl": "Segedyn",
+      "name:ro": "Seghedin",
+      "name:ru": "Сегед",
+      "name:sk": "Segedín",
+      "name:sr": "Сегедин",
+      "name:th": "แซแก็ด",
+      "name:tt": "Сегед",
+      "name:uk": "Сегед",
+      "name:yi": "סעגעד",
+      "name:zh": "塞格德",
+      "alt_name:de": "Segedin",
+      "name:sr-Latn": "Segedin"
+    }
+  },
+  {
+    "name": "Székesfehérvár",
+    "country": "Hungary",
+    "latitude": 47.19101690012129,
+    "longitude": 18.410811,
+    "other_names": {
+      "name": "Székesfehérvár",
+      "name:de": "Stuhlweißenburg",
+      "name:la": "Alba Regia Regina",
+      "name:ro": "Alba Regală",
+      "name:ru": "Секешфехервар",
+      "name:sk": "Stoličný Belehrad",
+      "name:sr": "Секешфехервар",
+      "name:uk": "Секешфегервар",
+      "old_name:hr": "Stolni Biograd",
+      "old_name:sr": "Столни Београд"
+    }
+  },
+  {
+    "name": "Szekszárd",
+    "country": "Hungary",
+    "latitude": 46.348488400285135,
+    "longitude": 18.701662999999996,
+    "other_names": {
+      "name": "Szekszárd",
+      "name:de": "Sechshard",
+      "name:hu": "Szekszárd",
+      "name:ru": "Сексард",
+      "alt_name:de": "Sechsard"
+    }
+  },
+  {
+    "name": "Szolnok",
+    "country": "Hungary",
+    "latitude": 47.17545550012461,
+    "longitude": 20.1946818,
+    "other_names": {
+      "name": "Szolnok",
+      "name:de": "Sollnock",
+      "name:ka": "სოლნოკი",
+      "name:ru": "Сольнок",
+      "name:sk": "Solník",
+      "name:sr": "Солнок",
+      "name:uk": "Солнок"
+    }
+  },
+  {
+    "name": "Szombathely",
+    "country": "Hungary",
+    "latitude": 47.22911840011315,
+    "longitude": 16.6187625,
+    "other_names": {
+      "name": "Szombathely",
+      "name:de": "Steinamanger",
+      "name:hr": "Sambotel",
+      "name:hu": "Szombathely",
+      "name:ru": "Сомбатхей",
+      "name:sk": "Kamenec",
+      "name:sr": "Сомбатхељ",
+      "old_name:de": "Stein am Anger",
+      "old_name:la": "Savaria"
+    }
+  },
+  {
+    "name": "Tabaco",
+    "country": "Philippines",
+    "latitude": 13.359307699717975,
+    "longitude": 123.7302007,
+    "other_names": {
+      "name": "Tabaco"
+    }
+  },
+  {
+    "name": "Tabarre",
+    "country": "Haiti And Domrep",
+    "latitude": 18.5619986002817,
+    "longitude": -72.2507176,
+    "other_names": {
+      "name": "Tabarre"
+    }
+  },
+  {
+    "name": "Taboão da Serra",
+    "country": "Brazil",
+    "latitude": -23.612191199981172,
+    "longitude": -46.7790539,
+    "other_names": {
+      "name": "Taboão da Serra"
+    }
+  },
+  {
+    "name": "Tabora",
+    "country": "Tanzania",
+    "latitude": -5.02024309968207,
+    "longitude": 32.8097724,
+    "other_names": {
+      "name": "Tabora",
+      "name:ko": "타보라",
+      "name:lt": "Tabora",
+      "name:ru": "Табора",
+      "name:uk": "Табора",
+      "old_name": "Kazeh"
+    }
+  },
+  {
+    "name": "Tabriz",
+    "country": "Iran",
+    "latitude": 38.07399639999243,
+    "longitude": 46.2961952,
+    "other_names": {
+      "name": "تبریز",
+      "name:az": "Təbriz",
+      "name:cs": "Tabríz",
+      "name:de": "Täbris",
+      "name:en": "Tabriz",
+      "name:es": "Tabriz",
+      "name:et": "Tabrīz",
+      "name:fi": "Tabriz",
+      "name:fr": "Tabriz",
+      "name:hi": "तबरेज़",
+      "name:ja": "タブリーズ",
+      "name:ku": "Tewrêz",
+      "name:la": "Tauris",
+      "name:lt": "Tebrizas",
+      "name:ml": "തബ്രീസ്",
+      "name:pl": "Tebriz",
+      "name:pt": "Tabriz",
+      "name:ru": "Тебриз",
+      "name:tr": "Tebriz",
+      "name:uk": "Тебриз",
+      "int_name": "Tabriz"
+    }
+  },
+  {
+    "name": "Tabuk",
+    "country": "Philippines",
+    "latitude": 17.413619500177983,
+    "longitude": 121.4440137,
+    "other_names": {
+      "name": "Tabuk",
+      "name:ja": "タブク"
+    }
+  },
+  {
+    "name": "Tacarigua de Mamporal",
+    "country": "Venezuela",
+    "latitude": 10.401230799459578,
+    "longitude": -66.1511118,
+    "other_names": {
+      "name": "Tacarigua de Mamporal"
+    }
+  },
+  {
+    "name": "Tacheng",
+    "country": "China",
+    "latitude": 46.74426860021229,
+    "longitude": 82.9775557,
+    "other_names": {
+      "name": "塔城地区",
+      "name:en": "Tacheng",
+      "name:et": "Tacheng",
+      "name:zh": "塔城地区",
+      "alt_name": "塔城;Qoqek City;Tarbaghatay;Tacheng City;T'a-ch'eng Chuan-ch'u;T'a-ch'eng Ti-ch'u;Tacheng Diqu",
+      "name:zh-Hant": "塔城地區"
+    }
+  },
+  {
+    "name": "Tacheng/Sawesek",
+    "country": "China",
+    "latitude": 46.751028200210996,
+    "longitude": 82.98383089999999,
+    "other_names": {
+      "name": "塔城市",
+      "name:de": "Tacheng",
+      "name:en": "Tacheng/Sawesek",
+      "name:es": "Tacheng",
+      "name:et": "Qoqek",
+      "name:fr": "Tacheng",
+      "name:ja": "チョチェク市",
+      "name:kk": "Шәуешек",
+      "name:lt": "Čugučakas",
+      "name:ru": "Тачэн",
+      "name:ug": "چۆچەك شەھىرى",
+      "name:uk": "Тачен",
+      "name:vi": "Tháp Thành",
+      "name:zh": "塔城市",
+      "alt_name": "塔城市;Qöqäk Xäĥri",
+      "old_name": "Чугучак",
+      "alt_name:en": "Qoqek",
+      "alt_name:ru": "Тачэн",
+      "old_name:ru": "Чугучак",
+      "name:kk-Arab": "شاۋەشەك قالاسى",
+      "name:ug-Latn": "Chöchek",
+      "name:zh-Hant": "塔城市",
+      "name:zh_pinyin": "Tǎchéng Shì"
+    }
+  },
+  {
+    "name": "Tachikawa",
+    "country": "Japan",
+    "latitude": 35.724462999709274,
+    "longitude": 139.40476599999997,
+    "other_names": {
+      "name": "立川市",
+      "name:ar": "تاتشيكاوا، طوكيو",
+      "name:de": "Tachikawa",
+      "name:en": "Tachikawa",
+      "name:es": "Tachikawa",
+      "name:fr": "Tachikawa",
+      "name:ja": "立川市",
+      "name:ko": "다치카와시",
+      "name:pl": "Tachikawa",
+      "name:ru": "Татикава",
+      "name:uk": "Татікава",
+      "name:ja_rm": "Tachikawa-shi",
+      "name:ja_kana": "たちかわし"
+    }
+  },
+  {
+    "name": "Tachileik",
+    "country": "Myanmar",
+    "latitude": 20.449078900390123,
+    "longitude": 99.88421429999998,
+    "other_names": {
+      "name": "တာချီလိတ်",
+      "pcode": "MMR016009701",
+      "name:de": "Tachilek",
+      "name:en": "Tachileik",
+      "name:fr": "Tachileik",
+      "name:id": "Tachileik",
+      "name:it": "Tachileik",
+      "name:ja": "タチレク",
+      "name:my": "တာချီလိတ်",
+      "name:pl": "Tachileik",
+      "name:sv": "Tachileik",
+      "name:th": "ท่าขี้เหล็ก",
+      "name:zh": "大其力",
+      "name:shn": "တႃႈၶီႈလဵၵ်း"
+    }
+  },
+  {
+    "name": "Tacloban",
+    "country": "Philippines",
+    "latitude": 11.243027399516684,
+    "longitude": 125.0081402,
+    "other_names": {
+      "name": "Tacloban",
+      "name:en": "Tacloban",
+      "name:es": "Tacloban",
+      "name:ja": "タクロバン",
+      "name:ru": "Таклобан",
+      "name:sr": "Таклобан",
+      "name:tl": "Tacloban",
+      "name:zh": "独鲁万",
+      "name:war": "Tacloban",
+      "official_name:en": "City of Tacloban",
+      "official_name:es": "Ciudad de Tacloban",
+      "official_name:tl": "Lungsod ng Tacloban",
+      "official_name:war": "Siyudad han Tacloban"
+    }
+  }
+]

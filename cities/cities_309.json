@@ -1,0 +1,414 @@
+[
+  {
+    "name": "Mobara",
+    "country": "Japan",
+    "latitude": 35.42850939968368,
+    "longitude": 140.2880753,
+    "other_names": {
+      "name": "茂原市",
+      "name:ar": "موبارا، تشيبا",
+      "name:de": "Mobara",
+      "name:en": "Mobara",
+      "name:es": "Mobara",
+      "name:fr": "Mobara",
+      "name:ja": "茂原市",
+      "name:ko": "모바라시",
+      "name:pl": "Mobara",
+      "name:ru": "Мобара",
+      "name:uk": "Мобара",
+      "name:zh": "茂原市",
+      "name:ja_rm": "Mobara-shi",
+      "name:ja_kana": "もばらし"
+    }
+  },
+  {
+    "name": "Mobaye",
+    "country": "Central African Republic",
+    "latitude": 4.3254366995593845,
+    "longitude": 21.1778122,
+    "other_names": {
+      "name": "Mobaye",
+      "name:en": "Mobaye",
+      "name:ru": "Мобае",
+      "name:uk": "Мобає"
+    }
+  },
+  {
+    "name": "Mobile",
+    "country": "United States Of America",
+    "latitude": 30.694356599682692,
+    "longitude": -88.04305409999999,
+    "other_names": {
+      "name": "Mobile",
+      "name:en": "Mobile",
+      "name:ru": "Мобил",
+      "name:uk": "Мобіл"
+    }
+  },
+  {
+    "name": "Moca",
+    "country": "Haiti And Domrep",
+    "latitude": 19.39464700034024,
+    "longitude": -70.5261566,
+    "other_names": {
+      "name": "Moca"
+    }
+  },
+  {
+    "name": "Moçâmedes",
+    "country": "Angola",
+    "latitude": -15.195064000392653,
+    "longitude": 12.145808500000001,
+    "other_names": {
+      "name": "Moçâmedes",
+      "name:de": "Moçâmedes",
+      "name:en": "Moçâmedes",
+      "name:es": "Moçâmedes",
+      "name:fr": "Moçâmedes",
+      "name:it": "Moçâmedes",
+      "name:ja": "モザメデス",
+      "name:ko": "모자 메데스",
+      "name:nl": "Moçâmedes",
+      "name:pl": "Moçâmedes",
+      "name:pt": "Moçâmedes",
+      "name:ru": "Мосамедиш",
+      "name:uk": "Мозамэдес",
+      "old_name": "Namibe",
+      "old_name:de": "Namibe",
+      "old_name:el": "Ναμίμπε",
+      "old_name:en": "Namibe",
+      "old_name:es": "Namibe",
+      "old_name:fr": "Namibe",
+      "old_name:it": "Namibe",
+      "old_name:ja": "ナミベ",
+      "old_name:ko": "나미브",
+      "old_name:lt": "Namibė",
+      "old_name:nl": "Namibe",
+      "old_name:pl": "Namibe",
+      "old_name:pt": "Namibe",
+      "old_name:ru": "Намиб",
+      "old_name:uk": "Намібе",
+      "name:zh-Hans": "木萨米迪什",
+      "name:zh-Hant": "木薩米迪什",
+      "old_name:zh-Hans": "纳米贝",
+      "old_name:zh-Hant": "納米貝"
+    }
+  },
+  {
+    "name": "Mochudi",
+    "country": "Botswana",
+    "latitude": -24.382860499869256,
+    "longitude": 26.1489495,
+    "other_names": {
+      "name": "Mochudi",
+      "name:en": "Mochudi",
+      "name:ko": "모추디",
+      "name:ru": "Мочуди"
+    }
+  },
+  {
+    "name": "Mocímboa da Praia",
+    "country": "Mozambique",
+    "latitude": -11.343895600045842,
+    "longitude": 40.3576715,
+    "other_names": {
+      "name": "Mocímboa da Praia"
+    }
+  },
+  {
+    "name": "Modena",
+    "country": "Italy",
+    "latitude": 44.64588850049816,
+    "longitude": 10.9255707,
+    "other_names": {
+      "name": "Modena",
+      "name:be": "Мадэна",
+      "name:ca": "Mòdena",
+      "name:el": "Μόντενα",
+      "name:en": "Modena",
+      "name:es": "Módena",
+      "name:fr": "Modène",
+      "name:it": "Modena",
+      "name:pt": "Módena",
+      "name:ru": "Модена",
+      "name:uk": "Модена",
+      "name:zh": "摩德納",
+      "name:egl": "Mòdna",
+      "name:zh-Hans": "摩德纳",
+      "old_name:ett": "Mutna",
+      "old_name:lat": "Mutina"
+    }
+  },
+  {
+    "name": "Modesto",
+    "country": "United States Of America",
+    "latitude": 37.63909719993196,
+    "longitude": -120.99687819999997,
+    "other_names": {
+      "name": "Modesto",
+      "name:ru": "Модесто"
+    }
+  },
+  {
+    "name": "Modiin-Maccabim-Reut",
+    "country": "Israel And Palestine",
+    "latitude": 31.89764305679119,
+    "longitude": 35.007840924296694,
+    "other_names": {
+      "name": "מודיעין-מכבים-רעות",
+      "name:ar": "موديعين مكابيم ريعوت",
+      "name:en": "Modiin-Maccabim-Reut",
+      "name:fr": "Modiin-Maccabim-Reout",
+      "name:he": "מודיעין-מכבים-רעות",
+      "name:hi": "मोदीन मक्कबिम रियुट",
+      "name:ru": "Модиин-Маккабим-Реут",
+      "name:en1": "Modiin",
+      "name:he1": "מודיעין"
+    }
+  },
+  {
+    "name": "Modinagar",
+    "country": "India",
+    "latitude": 28.832071299855155,
+    "longitude": 77.57708729999999,
+    "other_names": {
+      "name": "Modinagar",
+      "name:hi": "मोदीनगर",
+      "name:ja": "モディナガー",
+      "old_name": "Begumabad"
+    }
+  },
+  {
+    "name": "Moers",
+    "country": "Germany",
+    "latitude": 51.45128299917911,
+    "longitude": 6.628429999999999,
+    "other_names": {
+      "name": "Moers",
+      "name:de": "Moers",
+      "name:hu": "Moers",
+      "name:nl": "Meurs",
+      "name:ru": "Мёрс",
+      "name:sr": "Морс",
+      "name:uk": "Мерс"
+    }
+  },
+  {
+    "name": "Moga",
+    "country": "India",
+    "latitude": 30.822340799673366,
+    "longitude": 75.17309669999999,
+    "other_names": {
+      "name": "Moga",
+      "name:en": "Moga",
+      "name:he": "מוגה",
+      "name:hi": "मोगा",
+      "name:ja": "モーガー",
+      "name:kn": "ಮೋಗಾ",
+      "name:ml": "മോഗ",
+      "name:pa": "ਮੋਗਾ"
+    }
+  },
+  {
+    "name": "Mogadishu",
+    "country": "Somalia",
+    "latitude": 2.0349311997829864,
+    "longitude": 45.3419183,
+    "other_names": {
+      "name": "Muqdisho مقديشو",
+      "name:af": "Mogadisjoe",
+      "name:am": "ሞቃዲሾ",
+      "name:an": "Mogadixo",
+      "name:ar": "مقديشو",
+      "name:az": "Moqadişo",
+      "name:be": "Магадыша",
+      "name:bg": "Могадишу",
+      "name:bn": "মোগাদিশু",
+      "name:bo": "མོ་ག་དི་ཤུ།",
+      "name:br": "Muqdisho",
+      "name:bs": "Mogadiš",
+      "name:ca": "Mogadixo",
+      "name:cs": "Mogadišu",
+      "name:cy": "Mogadishu",
+      "name:da": "Mogadishu",
+      "name:de": "Mogadischu",
+      "name:el": "Μογκαντίσου",
+      "name:en": "Mogadishu",
+      "name:eo": "Mogadiŝo",
+      "name:es": "Mogadiscio",
+      "name:et": "Muqdisho",
+      "name:eu": "Muqdisho",
+      "name:fa": "موگادیشو",
+      "name:fi": "Mogadishu",
+      "name:fo": "Mogadishu",
+      "name:fr": "Mogadiscio",
+      "name:fy": "Mogadisjû",
+      "name:ga": "Mogaidisiú",
+      "name:gd": "Mogadishu",
+      "name:gl": "Mogadixo",
+      "name:he": "מוגדישו",
+      "name:hi": "मोगादीशू",
+      "name:hr": "Mogadišu",
+      "name:ht": "Moukdicho",
+      "name:hu": "Mogadishu",
+      "name:hy": "Մոգադիշո",
+      "name:id": "Mogadishu",
+      "name:ie": "Mogadishu",
+      "name:io": "Mogadishu",
+      "name:is": "Mógadisjú",
+      "name:it": "Mogadiscio",
+      "name:ja": "モガディシュ",
+      "name:jv": "Mogadishu",
+      "name:ka": "მოგადიშო",
+      "name:kk": "Могадишо қаласы",
+      "name:kn": "ಮೊಗದಿಶು",
+      "name:ko": "모가디슈",
+      "name:ku": "Mogadîşu",
+      "name:ky": "Могадишо",
+      "name:la": "Mogadiscio",
+      "name:lt": "Mogadišas",
+      "name:lv": "Mogadīšo",
+      "name:mk": "Могадишу",
+      "name:mr": "मोगादिशू",
+      "name:ms": "Mogadishu",
+      "name:nl": "Mogadishu",
+      "name:nn": "Mogadishu",
+      "name:no": "Mogadishu",
+      "name:oc": "Mogadisho",
+      "name:pl": "Mogadiszu",
+      "name:pt": "Mogadíscio",
+      "name:ro": "Mogadishu",
+      "name:ru": "Могадишо",
+      "name:rw": "Mogadishu",
+      "name:sh": "Mogadishu",
+      "name:sk": "Mogadišo",
+      "name:sl": "Mogadiš",
+      "name:so": "Muqdisho",
+      "name:sr": "Могадишу",
+      "name:sv": "Mogadishu",
+      "name:sw": "Mogadishu",
+      "name:ta": "மொகடிசு",
+      "name:tg": "Могадишо",
+      "name:th": "โมกาดิชู",
+      "name:tl": "Mogadishu",
+      "name:tr": "Mogadişu",
+      "name:uk": "Моґадішо",
+      "name:ur": "موغادیشو",
+      "name:vi": "Mogadishu",
+      "name:wo": "Mogadisu",
+      "name:yo": "Mogadishu",
+      "name:zh": "摩加迪沙",
+      "alt_name": "Xamar",
+      "name:ace": "Mogadishu",
+      "name:bcl": "Mogadishu",
+      "name:ckb": "مۆگادیشو",
+      "name:hif": "Mogadishu",
+      "name:lij": "Mogadiscio",
+      "name:lmo": "Mugadiss",
+      "name:nan": "Mogadishu",
+      "name:nov": "Mogadishu",
+      "name:pap": "Mogadishu",
+      "name:pms": "Mogadiss",
+      "name:pnb": "موگادیشو",
+      "name:sco": "Mogadishu",
+      "name:udm": "Могадишо",
+      "name:vec": "Mogadiscio",
+      "name:war": "Mogadishu",
+      "alt_name:ar": "مقدشو;مَقْدَشُو",
+      "name:simple": "Mogadishu",
+      "name:be-tarask": "Магадзішу"
+    }
+  },
+  {
+    "name": "Mogi das Cruzes",
+    "country": "Brazil",
+    "latitude": -23.52342839999385,
+    "longitude": -46.1926671,
+    "other_names": {
+      "name": "Mogi das Cruzes"
+    }
+  },
+  {
+    "name": "Mogi Guaçu",
+    "country": "Brazil",
+    "latitude": -22.372222000150288,
+    "longitude": -46.9425,
+    "other_names": {
+      "name": "Mogi Guaçu"
+    }
+  },
+  {
+    "name": "Mogok",
+    "country": "Myanmar",
+    "latitude": 22.92281760038688,
+    "longitude": 96.50548269999999,
+    "other_names": {
+      "name": "Mogok",
+      "name:de": "Mogok",
+      "name:en": "Mogok",
+      "name:fr": "Mogok",
+      "name:it": "Mogok",
+      "name:my": "မိုးကုတ်",
+      "name:ru": "Могоу",
+      "name:sh": "မိူင်းၵုတ်ႈ",
+      "name:th": "โม่โกะ",
+      "name:zh": "抹谷"
+    }
+  },
+  {
+    "name": "Mohammedia",
+    "country": "Morocco",
+    "latitude": 33.69583829959362,
+    "longitude": -7.389329199999998,
+    "other_names": {
+      "name": "Mohammédia ⵎⵓⵃⴰⵎⴰⴷⵉⵢⴰ المحمدية",
+      "name:ar": "المحمدية",
+      "name:en": "Mohammedia",
+      "name:et": "Mohammadia",
+      "name:fa": "محمدیه",
+      "name:fr": "Mohammédia",
+      "name:he": "מוחמדיה",
+      "name:hi": "मोहम्मदिया",
+      "name:ur": "محمدیہ",
+      "int_name": "Mohammédia",
+      "name:ber": "ⵎⵓⵃⴰⵎⴰⴷⵉⵢⴰ",
+      "name:zgh": "ⵎⵓⵃⴰⵎⴰⴷⵉⵢⴰ",
+      "old_name": "Fédala"
+    }
+  },
+  {
+    "name": "Mohe",
+    "country": "China",
+    "latitude": 52.96970939908699,
+    "longitude": 122.53390409999997,
+    "other_names": {
+      "name": "漠河市",
+      "name:en": "Mohe",
+      "name:ja": "漠河県",
+      "name:ru": "Мохэ",
+      "name:vi": "Tây Lâm Cát",
+      "name:zh": "漠河市",
+      "alt_name": "漠河",
+      "old_name": "漠河县",
+      "alt_name:en": "Xilinji",
+      "name:zh-Hant": "漠河市"
+    }
+  },
+  {
+    "name": "Moissala",
+    "country": "Chad",
+    "latitude": 8.33801539939123,
+    "longitude": 17.7652816,
+    "other_names": {
+      "name": "Moïssala",
+      "name:ar": "مويسالا",
+      "name:en": "Moissala",
+      "name:fa": "مویسالا",
+      "name:fr": "Moïssala",
+      "name:ks": "مویسالا",
+      "name:ur": "مویسالا",
+      "alt_name": "Moissala",
+      "alt_name:ar": "مواسالا"
+    }
+  }
+]

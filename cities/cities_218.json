@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Juan Lacaze",
+    "country": "Uruguay",
+    "latitude": -34.434265999772705,
+    "longitude": -57.43804320000001,
+    "other_names": {
+      "name": "Juan Lacaze"
+    }
+  },
+  {
+    "name": "Juazeiro",
+    "country": "Brazil",
+    "latitude": -9.433695899865453,
+    "longitude": -40.5068201,
+    "other_names": {
+      "name": "Juazeiro",
+      "name:en": "Juazeiro",
+      "name:ru": "Жуазейру",
+      "name:uk": "Жуазейру"
+    }
+  },
+  {
+    "name": "Juazeiro do Norte",
+    "country": "Brazil",
+    "latitude": -7.215345299719975,
+    "longitude": -39.3153336,
+    "other_names": {
+      "name": "Juazeiro do Norte",
+      "name:ka": "ჟუაზეირუ დუ ნორტე",
+      "name:kk": "Жуазейру-ду-Норти",
+      "name:ko": "주아세이로 도 노르테",
+      "name:lt": "Žuazeiro do Nortė",
+      "name:lv": "Žuazeira du Norti",
+      "name:pt": "Juazeiro do Norte",
+      "name:ru": "Жуазейру-ду-Норти",
+      "name:sr": "Жуазеиро до Норте",
+      "name:zh": "北茹阿澤魯"
+    }
+  },
+  {
+    "name": "Juba",
+    "country": "South Sudan",
+    "latitude": 4.8472016995179645,
+    "longitude": 31.595165499999993,
+    "other_names": {
+      "name": "Juba",
+      "name:af": "Joeba",
+      "name:ar": "جوبا",
+      "name:av": "Джуба",
+      "name:az": "Cuba",
+      "name:be": "Джуба",
+      "name:bg": "Джуба",
+      "name:cs": "Džuba",
+      "name:cy": "Juba",
+      "name:de": "Dschuba",
+      "name:el": "Τζούμπα",
+      "name:en": "Juba",
+      "name:eo": "Ĵubo",
+      "name:es": "Yuba",
+      "name:fa": "جوبا",
+      "name:fr": "Djouba",
+      "name:fy": "Jûba",
+      "name:he": "ג'ובה",
+      "name:hr": "Juba",
+      "name:hu": "Juba",
+      "name:id": "Juba",
+      "name:is": "Júba",
+      "name:it": "Giuba",
+      "name:ja": "ジュバ",
+      "name:ka": "ჯუბა",
+      "name:ko": "주바",
+      "name:ku": "Cuba",
+      "name:la": "Iuba",
+      "name:lt": "Džuba",
+      "name:lv": "Džūba",
+      "name:mk": "Џуба",
+      "name:ml": "ജൂബ",
+      "name:mr": "जुबा",
+      "name:nl": "Djoeba",
+      "name:pl": "Dżuba",
+      "name:ru": "Джуба",
+      "name:sh": "Džuba",
+      "name:sk": "Džúbá",
+      "name:sr": "Џуба",
+      "name:sw": "Juba",
+      "name:ta": "யூபா",
+      "name:th": "จูบา",
+      "name:tl": "Juba",
+      "name:tr": "Cuba",
+      "name:uk": "Джуба",
+      "name:ur": "جوبا",
+      "name:vi": "Juba",
+      "name:yi": "דזשובא",
+      "name:zh": "朱巴",
+      "name:ckb": "جووبا",
+      "name:koi": "Джуба",
+      "name:mdf": "Джуба",
+      "name:mrj": "Джуба",
+      "name:nah": "Yuba",
+      "name:udm": "Джуба"
+    }
+  },
+  {
+    "name": "Jubayt",
+    "country": "Sudan",
+    "latitude": 18.952248000311084,
+    "longitude": 36.83448099999999,
+    "other_names": {
+      "name": "جبيت",
+      "name:ar": "جبيت",
+      "name:en": "Jubayt",
+      "name:fr": "Jubayt",
+      "alt_name": "Gabet;Gebeit",
+      "int_name": "Jubayt",
+      "alt_name:en": "Gabet"
+    }
+  },
+  {
+    "name": "Juchitán",
+    "country": "Mexico",
+    "latitude": 16.4333347000737,
+    "longitude": -95.01944399999998,
+    "other_names": {
+      "name": "Juchitán",
+      "name:ru": "Хучитан",
+      "alt_name": "Heróica Ciudad de Juchitán de Zaragoza"
+    }
+  },
+  {
+    "name": "Jucuapa",
+    "country": "El Salvador",
+    "latitude": 13.513933099735063,
+    "longitude": -88.3846805,
+    "other_names": {
+      "name": "Jucuapa"
+    }
+  },
+  {
+    "name": "Jucuarán",
+    "country": "El Salvador",
+    "latitude": 13.254344099706515,
+    "longitude": -88.2476718,
+    "other_names": {
+      "name": "Jucuarán",
+      "name:hu": "Jucuarán"
+    }
+  },
+  {
+    "name": "Juigalpa",
+    "country": "Nicaragua",
+    "latitude": 12.108598699590377,
+    "longitude": -85.3689381,
+    "other_names": {
+      "name": "Juigalpa",
+      "name:be": "Горад Хуігальпа",
+      "name:hu": "Juigalpa",
+      "name:ko": "후이갈파",
+      "name:lt": "Chuigalpa",
+      "name:ru": "Хуигальпа",
+      "old_name": "Juigalpan"
+    }
+  },
+  {
+    "name": "Juiz de Fora",
+    "country": "Brazil",
+    "latitude": -21.7609533002248,
+    "longitude": -43.35011289999999,
+    "other_names": {
+      "name": "Juiz de Fora",
+      "name:ru": "Жуис-ди-Фора",
+      "name:uk": "Жуїз-ді-Фора"
+    }
+  },
+  {
+    "name": "Juliaca",
+    "country": "Peru",
+    "latitude": -15.491594500410653,
+    "longitude": -70.13221599999999,
+    "other_names": {
+      "name": "Juliaca",
+      "name:en": "Juliaca",
+      "name:es": "Juliaca",
+      "name:fr": "Juliaca",
+      "name:pt": "Juliaca",
+      "name:qu": "Hullaqa",
+      "name:ru": "Хульяка",
+      "name:uk": "Хульяка"
+    }
+  },
+  {
+    "name": "Julián Augusto Saldívar",
+    "country": "Paraguay",
+    "latitude": -25.443899999715523,
+    "longitude": -57.44304609999998,
+    "other_names": {
+      "name": "Julián Augusto Saldívar",
+      "alt_name:es": "J A Saldívar",
+      "official_name:es": "Julián Augusto Saldívar"
+    }
+  },
+  {
+    "name": "Julu",
+    "country": "China",
+    "latitude": 37.217045499875866,
+    "longitude": 115.03377360000002,
+    "other_names": {
+      "name": "巨鹿县",
+      "name:en": "Julu",
+      "name:vi": "Cự Lộc",
+      "name:zh": "巨鹿县",
+      "alt_name": "巨鹿;Julu County",
+      "name:zh-Hant": "鉅鹿縣",
+      "official_name": "巨鹿镇",
+      "name:zh_pinyin": "Julu Xian"
+    }
+  },
+  {
+    "name": "Junagadh",
+    "country": "India",
+    "latitude": 21.517410400409965,
+    "longitude": 70.4642754,
+    "other_names": {
+      "name": "Junagadh",
+      "name:gu": "જુનાગઢ",
+      "name:hi": "जूनागढ़",
+      "name:ja": "ジュナーガド",
+      "name:kn": "ಜುನಗದ್",
+      "name:ml": "ജുനാഗഡ്",
+      "name:ta": "ஜூனாகத்",
+      "alt_name": "Sorath"
+    }
+  },
+  {
+    "name": "Junagadh",
+    "country": "India",
+    "latitude": 21.519013784519025,
+    "longitude": 70.45864521944418,
+    "other_names": {
+      "name": "Junagadh",
+      "name:en": "Junagadh",
+      "name:gu": "જુનાગઢ",
+      "name:hi": "जूनागढ़",
+      "name:ja": "ジューナーガド",
+      "name:ml": "ജുനാഗഡ്",
+      "name:pa": "ਜੂਨਾਗੜ੍ਹ",
+      "name:ta": "ஜூனாகத்"
+    }
+  },
+  {
+    "name": "Junan",
+    "country": "China",
+    "latitude": 35.176053899664076,
+    "longitude": 118.8315575,
+    "other_names": {
+      "name": "莒南县",
+      "name:en": "Junan",
+      "name:zh": "莒南县",
+      "name:zh-Hant": "莒南縣"
+    }
+  },
+  {
+    "name": "Juncalito",
+    "country": "Haiti And Domrep",
+    "latitude": 19.21936652271783,
+    "longitude": -70.81913890804339,
+    "other_names": {
+      "name": "Juncalito"
+    }
+  },
+  {
+    "name": "Jundiaí",
+    "country": "Brazil",
+    "latitude": -23.188766800041016,
+    "longitude": -46.884506,
+    "other_names": {
+      "name": "Jundiaí",
+      "name:ru": "Жундиаи"
+    }
+  },
+  {
+    "name": "Juneau",
+    "country": "United States Of America",
+    "latitude": 58.3019496009306,
+    "longitude": -134.419734,
+    "other_names": {
+      "name": "Juneau",
+      "name:en": "Juneau",
+      "name:fa": "جونو",
+      "name:lt": "Džunas",
+      "name:pl": "Juneau",
+      "name:ru": "Джуно",
+      "name:ta": "ஜூனோ",
+      "name:uk": "Джуно",
+      "name:zh": "朱诺 / 朱諾",
+      "name:hak": "Juneau",
+      "name:nan": "Juneau",
+      "name:tli": "Dzánti K'ihéeni",
+      "name:zh-Hans": "朱诺",
+      "name:zh-Hant": "朱諾"
+    }
+  },
+  {
+    "name": "Jungar",
+    "country": "China",
+    "latitude": 39.86263240024856,
+    "longitude": 111.24071559999999,
+    "other_names": {
+      "name": "准格尔旗",
+      "name:en": "Jungar",
+      "name:ja": "ジュンガル旗",
+      "name:mn": "Жэгүнар қосиу",
+      "name:zh": "准格尔旗",
+      "alt_name": "准格尔;沙圪堵;Jungar Banner",
+      "alt_name:mn": "ᠵᠡᠭᠦᠨᠭᠠᠷ ᠬᠣᠰᠢᠭᠤ;Jegünɣar qosiɣu",
+      "name:zh-Hant": "準格爾旗",
+      "name:zh_pinyin": "Zhǔngé'ěr Qí"
+    }
+  }
+]

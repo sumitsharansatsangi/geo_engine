@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Valenzuela",
+    "country": "Philippines",
+    "latitude": 14.691690299870862,
+    "longitude": 120.96945339999999,
+    "other_names": {
+      "name": "Valenzuela",
+      "name:en": "Valenzuela",
+      "name:es": "Valenzuela",
+      "name:ja": "ヴァレンズエラ",
+      "name:ru": "Валенсуэла"
+    }
+  },
+  {
+    "name": "Valenzuela",
+    "country": "Paraguay",
+    "latitude": -25.594705299694287,
+    "longitude": -56.8707045,
+    "other_names": {
+      "name": "Valenzuela",
+      "name:es": "Valenzuela",
+      "old_name": "Ybyra i ãtãndy",
+      "official_name:es": "Antonio Fernández de Valenzuela"
+    }
+  },
+  {
+    "name": "Valera",
+    "country": "Venezuela",
+    "latitude": 9.314817299410217,
+    "longitude": -70.60816549999998,
+    "other_names": {
+      "name": "Valera"
+    }
+  },
+  {
+    "name": "Valinhos",
+    "country": "Brazil",
+    "latitude": -22.97056000007111,
+    "longitude": -46.99583,
+    "other_names": {
+      "name": "Valinhos"
+    }
+  },
+  {
+    "name": "Valjevo",
+    "country": "Serbia",
+    "latitude": 44.27087190052134,
+    "longitude": 19.8863297,
+    "other_names": {
+      "name": "Ваљево",
+      "name:ar": "فاليفو",
+      "name:de": "Valjevo",
+      "name:el": "Βάλιεβο",
+      "name:en": "Valjevo",
+      "name:es": "Valjevo",
+      "name:et": "Valjevo",
+      "name:fr": "Valjevo",
+      "name:hr": "Valjevo",
+      "name:lt": "Valjevas",
+      "name:ru": "Валево",
+      "name:sl": "Valjevo",
+      "name:sr": "Ваљево",
+      "name:sr-Latn": "Valjevo",
+      "name:zh-Hans": "瓦列沃",
+      "name:zh-Hant": "瓦列沃"
+    }
+  },
+  {
+    "name": "Valladolid",
+    "country": "Mexico",
+    "latitude": 20.69025050039739,
+    "longitude": -88.20169989999998,
+    "other_names": {
+      "name": "Valladolid",
+      "alt_name": "Zací"
+    }
+  },
+  {
+    "name": "Valladolid",
+    "country": "Spain",
+    "latitude": 41.65213280045784,
+    "longitude": -4.728562,
+    "other_names": {
+      "name": "Valladolid",
+      "name:ar": "بلد الوليد",
+      "name:be": "Вальядалід",
+      "name:ca": "Valladolid",
+      "name:el": "Βαγιαδολίδ",
+      "name:es": "Valladolid",
+      "name:ru": "Вальядолид",
+      "name:sr": "Ваљадолид",
+      "name:zh-Hans": "巴利亚多利德",
+      "name:zh-Hant": "華拉杜列"
+    }
+  },
+  {
+    "name": "Valle de Guanape",
+    "country": "Venezuela",
+    "latitude": 9.910947058837667,
+    "longitude": -65.68003577526811,
+    "other_names": {
+      "name": "Valle de Guanape"
+    }
+  },
+  {
+    "name": "Valle de La Pascua",
+    "country": "Venezuela",
+    "latitude": 9.213908299407116,
+    "longitude": -66.0065129,
+    "other_names": {
+      "name": "Valle de La Pascua"
+    }
+  },
+  {
+    "name": "Valledupar",
+    "country": "Colombia",
+    "latitude": 10.4774734994641,
+    "longitude": -73.24443639999998,
+    "other_names": {
+      "name": "Valledupar"
+    }
+  },
+  {
+    "name": "Valledupar",
+    "country": "Colombia",
+    "latitude": 10.465173299463363,
+    "longitude": -73.25295119999998,
+    "other_names": {
+      "name": "Valledupar"
+    }
+  },
+  {
+    "name": "Vallegrande",
+    "country": "Bolivia",
+    "latitude": -18.489400100464515,
+    "longitude": -64.1081091,
+    "other_names": {
+      "name": "Vallegrande",
+      "official_name": "Jesús y Montes Claros de los Caballeros del Vallegrande"
+    }
+  },
+  {
+    "name": "Valle Hermoso",
+    "country": "Mexico",
+    "latitude": 25.669697200196932,
+    "longitude": -97.813557,
+    "other_names": {
+      "name": "Valle Hermoso"
+    }
+  },
+  {
+    "name": "Vallejo",
+    "country": "United States Of America",
+    "latitude": 38.104086399996696,
+    "longitude": -122.25663669999999,
+    "other_names": {
+      "name": "Vallejo"
+    }
+  },
+  {
+    "name": "Vallenar",
+    "country": "Chile",
+    "latitude": -28.575043799369315,
+    "longitude": -70.7616398,
+    "other_names": {
+      "name": "Vallenar",
+      "name:ru": "Вальенар",
+      "old_name": "San Ambrosio de Ballenary"
+    }
+  },
+  {
+    "name": "Valletta",
+    "country": "Malta",
+    "latitude": 35.898981799725654,
+    "longitude": 14.513675899999999,
+    "other_names": {
+      "name": "Valletta",
+      "name:am": "ቫሌታ",
+      "name:ar": "فاليتا",
+      "name:be": "Валета",
+      "name:bg": "Валета",
+      "name:bn": "ভাল্লেত্তা",
+      "name:bo": "ཝ་ལེ་ཐ།",
+      "name:ca": "La Valletta",
+      "name:cv": "Валлетта",
+      "name:de": "Valletta",
+      "name:el": "Βαλέτα",
+      "name:en": "Valletta",
+      "name:eo": "La-Valeto",
+      "name:es": "La Valeta",
+      "name:eu": "Valleta",
+      "name:fa": "والتا",
+      "name:fr": "La Valette",
+      "name:ga": "Vaileite",
+      "name:gl": "A Valeta",
+      "name:he": "ולטה",
+      "name:ht": "La Valèt",
+      "name:hu": "Valetta",
+      "name:hy": "Վալետա",
+      "name:is": "Valletta",
+      "name:it": "La Valletta",
+      "name:ja": "バレッタ",
+      "name:ka": "ვალეტა",
+      "name:kn": "ವಲೆಟ್ಟ",
+      "name:ko": "발레타",
+      "name:lt": "Valeta",
+      "name:lv": "Valleta",
+      "name:mk": "Валета",
+      "name:mr": "व्हॅलेटा",
+      "name:no": "Valletta",
+      "name:oc": "La Valeta",
+      "name:os": "Валлеттæ",
+      "name:pl": "Valletta",
+      "name:pt": "Valeta",
+      "name:ru": "Валлетта",
+      "name:sk": "Valletta",
+      "name:sq": "Valeta",
+      "name:sr": "Валета",
+      "name:sv": "Valletta",
+      "name:ta": "வல்லெட்டா",
+      "name:tg": "Валлетта",
+      "name:th": "วัลเลตตา",
+      "name:tt": "Валлетта",
+      "name:uk": "Валлетта",
+      "name:wo": "Waleta",
+      "name:zh": "瓦萊塔",
+      "alt_name": "Il-Belt",
+      "name:arz": "فاليتا",
+      "name:ckb": "واڵێتا",
+      "name:gag": "Valetta",
+      "name:lij": "A Valletta",
+      "name:lmo": "La Valeta",
+      "name:pms": "La Valëtta",
+      "name:pnb": "ولیٹا",
+      "name:udm": "Валлетта",
+      "name:vep": "Vallett",
+      "name:yue": "華列他",
+      "old_name": "Humilissima Civitas Valletta",
+      "alt_name:ar": "فالتة;لا فاليتا",
+      "old_name:it": "Città Umilissima",
+      "name:sr-Latn": "Valeta",
+      "name:zh-Hans": "瓦莱塔",
+      "name:be-tarask": "Валета"
+    }
+  },
+  {
+    "name": "Valmiera",
+    "country": "Latvia",
+    "latitude": 57.53891480053579,
+    "longitude": 25.4261688,
+    "other_names": {
+      "name": "Valmiera",
+      "name:be": "Валміера",
+      "name:de": "Wolmar",
+      "name:ee": "Volmari",
+      "name:fi": "Valmiera",
+      "name:he": "ולמירה",
+      "name:hu": "Valmiera",
+      "name:lt": "Valmiera",
+      "name:pl": "Valmiera",
+      "name:ru": "Валмиера",
+      "name:uk": "Валмієра",
+      "old_name:pl": "Wolmar",
+      "old_name:ru": "Вольмар"
+    }
+  },
+  {
+    "name": "Valpaços",
+    "country": "Portugal",
+    "latitude": 41.60678830045378,
+    "longitude": -7.310852500000001,
+    "other_names": {
+      "name": "Valpaços",
+      "name:ru": "Валпасуш"
+    }
+  },
+  {
+    "name": "Valparaíso",
+    "country": "Chile",
+    "latitude": -33.0458455995346,
+    "longitude": -71.6196749,
+    "other_names": {
+      "name": "Valparaíso",
+      "name:ru": "Вальпараисо"
+    }
+  },
+  {
+    "name": "Valparaíso de Goiás",
+    "country": "Brazil",
+    "latitude": -16.068639400439896,
+    "longitude": -47.9764907,
+    "other_names": {
+      "name": "Valparaíso de Goiás"
+    }
+  }
+]

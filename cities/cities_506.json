@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Vršac",
+    "country": "Serbia",
+    "latitude": 45.12112630045623,
+    "longitude": 21.2960485,
+    "other_names": {
+      "name": "Вршац",
+      "name:en": "Vršac",
+      "name:he": "ורשאץ",
+      "name:hu": "Versec",
+      "name:ro": "Vârșeț",
+      "name:ru": "Вршац",
+      "name:sr": "Вршац",
+      "old_name:de": "Werschetz",
+      "name:sr-Latn": "Vršac"
+    }
+  },
+  {
+    "name": "Vung Tau",
+    "country": "Vietnam",
+    "latitude": 10.348648499456534,
+    "longitude": 107.0765028,
+    "other_names": {
+      "ref": "VT",
+      "name": "Vũng Tàu",
+      "name:ar": "نج تاو",
+      "name:en": "Vung Tau",
+      "name:ja": "ブンタウ",
+      "name:km": "វ៉ុងថោ",
+      "name:ko": "붕따우",
+      "name:ru": "Вунгтау",
+      "name:uk": "Вунгтау",
+      "name:vi": "Vũng Tàu",
+      "name:zh": "头顿市",
+      "old_name": "Cap Saint-Jacques",
+      "old_name:fr": "Cap Saint-Jacques",
+      "old_name:ru": "Мыс Сен-Жака",
+      "name:vi-Hani": "淎艚",
+      "official_name": "Thành phố Vũng Tàu",
+      "official_name:en": "Vung Tau City",
+      "official_name:ru": "Город Вунгтау",
+      "official_name:vi": "Thành phố Vũng Tàu",
+      "name:pronunciation": "vʊwŋ͡m˦ˀ˥␣taw˧˧"
+    }
+  },
+  {
+    "name": "Wa",
+    "country": "Ghana",
+    "latitude": 10.062326099441107,
+    "longitude": -2.5054273,
+    "other_names": {
+      "name": "Wa",
+      "name:ar": "وا",
+      "name:en": "Wa",
+      "name:ko": "와",
+      "name:ru": "Ва",
+      "name:uk": "Ва"
+    }
+  },
+  {
+    "name": "Waat",
+    "country": "South Sudan",
+    "latitude": 8.178370199390478,
+    "longitude": 32.151843199999995,
+    "other_names": {
+      "name": "Waat",
+      "name:ar": "وات"
+    }
+  },
+  {
+    "name": "Waco",
+    "country": "United States Of America",
+    "latitude": 31.549332999628643,
+    "longitude": -97.14666949999999,
+    "other_names": {
+      "name": "Waco",
+      "name:ru": "Уэйко"
+    }
+  },
+  {
+    "name": "Wad an Nail",
+    "country": "Sudan",
+    "latitude": 12.513908999629345,
+    "longitude": 34.1123314,
+    "other_names": {
+      "name": "ود النيل",
+      "name:ar": "ود النيل",
+      "name:en": "Wad an Nail",
+      "name:fr": "Wad en Nail",
+      "alt_name": "Wad an Nayal;Wad an Nail;Wad en Nail;Wad an Nayāl;ود النيّل",
+      "alt_name:ar": "ود النيال;ود النإل;ود النيّل",
+      "alt_name:en": "Wad an Nayyal"
+    }
+  },
+  {
+    "name": "Wad Banda",
+    "country": "Sudan",
+    "latitude": 13.093146799689134,
+    "longitude": 27.9432003,
+    "other_names": {
+      "name": "ود بندة",
+      "name:ar": "ود بندة",
+      "name:de": "Wad Banda",
+      "name:en": "Wad Banda",
+      "name:es": "Wad Banda",
+      "name:fr": "Wad Banda",
+      "alt_name": "Wad Banda;Wad Bandah",
+      "alt_name:ar": "ود بند",
+      "alt_name:en": "Wad Bandah"
+    }
+  },
+  {
+    "name": "Waddan",
+    "country": "Libya",
+    "latitude": 29.161382599820705,
+    "longitude": 16.141311,
+    "other_names": {
+      "name": "ودان",
+      "name:ar": "ودان",
+      "name:de": "Waddan",
+      "name:en": "Waddan",
+      "name:es": "Waddan",
+      "name:fa": "ودان",
+      "name:fr": "Waddan",
+      "name:ks": "ودان",
+      "name:ps": "ودان",
+      "name:ur": "ودان",
+      "name:azb": "ودان",
+      "name:ota": "ودان",
+      "name:pnb": "ودان"
+    }
+  },
+  {
+    "name": "Wadi an-Naqa",
+    "country": "Mauritania",
+    "latitude": 17.965946200230817,
+    "longitude": -15.518789700000001,
+    "other_names": {
+      "name": "وادي الناقة",
+      "name:ar": "وادي الناقة",
+      "name:de": "Wadi an-Naqa",
+      "name:en": "Wadi an-Naqa",
+      "name:fr": "Ouad Naga",
+      "alt_name:ar": "واد الناقة"
+    }
+  },
+  {
+    "name": "Wadi Halfa",
+    "country": "Sudan",
+    "latitude": 21.800500000409816,
+    "longitude": 31.350737,
+    "other_names": {
+      "name": "وادي حلفا",
+      "name:ar": "وادي حلفا",
+      "name:de": "Wadi Halfa",
+      "name:en": "Wadi Halfa",
+      "name:fa": "وادی حلفا",
+      "name:fr": "Wadi Halfa",
+      "name:ko": "와디할파",
+      "name:ru": "Вади-Хальфа",
+      "alt_name": "وادي حلفاء",
+      "name:azb": "وادی حلفا",
+      "alt_name:ar": "وادي حلفاء",
+      "alt_name:en": "Wadi Halfa';Wadi Halfa';Wādī Ḩalfā’"
+    }
+  },
+  {
+    "name": "Wadi Musa",
+    "country": "Jordan",
+    "latitude": 30.322493897173707,
+    "longitude": 35.48133779554914,
+    "other_names": {
+      "name": "وادي موسى",
+      "name:en": "Wadi Musa",
+      "name:fr": "Wadi Musa",
+      "name:hu": "Mózes völgye"
+    }
+  },
+  {
+    "name": "Wadi Musa",
+    "country": "Jordan",
+    "latitude": 30.32165679971201,
+    "longitude": 35.4800889,
+    "other_names": {
+      "name": "وادي موسى",
+      "name:ar": "وادي موسى",
+      "name:de": "Wadi Musa",
+      "name:en": "Wadi Musa",
+      "name:es": "Wadi Musa",
+      "name:fr": "Wadi Musa",
+      "name:he": "ואדי מוסא",
+      "name:hi": "वादी मूसा",
+      "name:pl": "Wadi Musa",
+      "int_name": "Wadi Musa"
+    }
+  },
+  {
+    "name": "Wad Madanī",
+    "country": "Sudan",
+    "latitude": 14.396578099836171,
+    "longitude": 33.5309561,
+    "other_names": {
+      "name": "ود مدني",
+      "name:ar": "ود مدني",
+      "name:en": "Wad Madanī",
+      "name:et": "Wad Madanī",
+      "name:fr": "Wad Madani",
+      "name:ko": "와드마다니",
+      "name:ru": "Вад-Медани",
+      "alt_name": "Medani;Wad Madani",
+      "alt_name:ar": "مدني;ود مدن",
+      "alt_name:en": "Wad Medani"
+    }
+  },
+  {
+    "name": "Wafangdian",
+    "country": "China",
+    "latitude": 39.63047110021623,
+    "longitude": 121.99997499999999,
+    "other_names": {
+      "name": "瓦房店市",
+      "name:de": "Wanfangdian",
+      "name:en": "Wafangdian",
+      "name:fr": "Wanfangdian",
+      "name:ja": "瓦房店市",
+      "name:ko": "와팡뎬시",
+      "name:ru": "Вафандянь",
+      "name:uk": "Вафандянь",
+      "name:vi": "Ngõa Phòng Điếm",
+      "name:zh": "瓦房店市",
+      "int_name": "Wafangdian",
+      "name:zh-Hant": "瓦房店市",
+      "name:zh_pinyin": "Wǎfángdiàn Shì"
+    }
+  },
+  {
+    "name": "Wagga Wagga",
+    "country": "Australia",
+    "latitude": -35.114999999913586,
+    "longitude": 147.3677778,
+    "other_names": {
+      "name": "Wagga Wagga",
+      "name:ja": "ウォガウォガ",
+      "name:ru": "Уогга-Уогга",
+      "name:zh": "沃加沃加"
+    }
+  },
+  {
+    "name": "Wah Cantonment",
+    "country": "Pakistan",
+    "latitude": 33.787537899595705,
+    "longitude": 72.7264725,
+    "other_names": {
+      "name": "واہ",
+      "name:ar": "واه كينت",
+      "name:de": "Wah Cantonment",
+      "name:en": "Wah Cantonment",
+      "name:es": "Wah Cantonment",
+      "name:fr": "Wah Cantonment",
+      "alt_name": "Wah"
+    }
+  },
+  {
+    "name": "Waipahu",
+    "country": "United States Of America",
+    "latitude": 21.386666700409265,
+    "longitude": -158.009166,
+    "other_names": {
+      "name": "Waipahu"
+    }
+  },
+  {
+    "name": "Wajima",
+    "country": "Japan",
+    "latitude": 37.39056439989857,
+    "longitude": 136.89942810000002,
+    "other_names": {
+      "name": "輪島市",
+      "name:en": "Wajima",
+      "name:fr": "Wajima",
+      "name:ja": "輪島市",
+      "name:ko": "와지마시",
+      "name:pl": "Wajima",
+      "name:ru": "Вадзима",
+      "name:uk": "Вадзіма",
+      "name:ja_rm": "Wajima-shi",
+      "name:ja_kana": "わじまし"
+    }
+  },
+  {
+    "name": "Wakayama",
+    "country": "Japan",
+    "latitude": 34.234616999610225,
+    "longitude": 135.1782181,
+    "other_names": {
+      "name": "和歌山市",
+      "name:ar": "واكاياما",
+      "name:ca": "Wakayama",
+      "name:cs": "Wakajama",
+      "name:en": "Wakayama",
+      "name:et": "Wakayama",
+      "name:fa": "واکایاما",
+      "name:fr": "Wakayama",
+      "name:ja": "和歌山市",
+      "name:ko": "와카야마시",
+      "name:ks": "واکایاما",
+      "name:lt": "Vakajama",
+      "name:pl": "Wakayama",
+      "name:ps": "واکایاما",
+      "name:ru": "Вакаяма",
+      "name:sr": "Вакајама",
+      "name:uk": "Вакаяма",
+      "name:ur": "واکایاما",
+      "name:zh": "和歌山市",
+      "name:azb": "واکایاما",
+      "name:ckb": "واکایاما",
+      "name:mzn": "واکایاما",
+      "name:pnb": "واکایاما",
+      "name:ja_rm": "Wakayama-shi",
+      "name:ja_kana": "わかやまし"
+    }
+  },
+  {
+    "name": "Wakefield",
+    "country": "England",
+    "latitude": 53.682954099139465,
+    "longitude": -1.4967285999999997,
+    "other_names": {
+      "name": "Wakefield",
+      "name:ar": "ويكفيلد",
+      "name:en": "Wakefield",
+      "name:fa": "ویکفیلد",
+      "name:hu": "Wakefield",
+      "name:ko": "웨이크필드",
+      "name:lt": "Veikfildas",
+      "name:mk": "Вејкфилд",
+      "name:ru": "Уэйкфилд",
+      "name:sr": "Вејкфилд",
+      "name:uk": "Вейкфілд",
+      "name:ur": "ویکفیلڈ"
+    }
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "name": "Ikorodu",
+    "country": "Nigeria",
+    "latitude": 6.619123299417536,
+    "longitude": 3.5041271,
+    "other_names": {
+      "name": "Ikorodu",
+      "name:ar": "إكورودو",
+      "name:ru": "Икороду"
+    }
+  },
+  {
+    "name": "Ikot Ekpene",
+    "country": "Nigeria",
+    "latitude": 5.181974999493967,
+    "longitude": 7.7132176999999995,
+    "other_names": {
+      "name": "Ikot Ekpene"
+    }
+  },
+  {
+    "name": "Iksan-si",
+    "country": "South Korea",
+    "latitude": 35.9479290997304,
+    "longitude": 126.95780249999999,
+    "other_names": {
+      "name": "익산시",
+      "name:de": "Iksan",
+      "name:en": "Iksan-si",
+      "name:es": "Iksan",
+      "name:et": "Iksan",
+      "name:fr": "Iksan",
+      "name:ja": "益山市",
+      "name:ko": "익산시",
+      "name:zh": "益山市",
+      "int_name": "Iksan",
+      "name:ko-Hani": "益山市",
+      "name:ko-Latn": "Iksan-si"
+    }
+  },
+  {
+    "name": "Ilagan",
+    "country": "Philippines",
+    "latitude": 17.148634100150975,
+    "longitude": 121.8886466,
+    "other_names": {
+      "ref": "023114000",
+      "name": "Ilagan",
+      "name:en": "Ilagan",
+      "name:ja": "イラガン",
+      "name:ru": "Илаган",
+      "name:uk": "Ілаган"
+    }
+  },
+  {
+    "name": "Ilam",
+    "country": "Iran",
+    "latitude": 33.637936499592456,
+    "longitude": 46.420274299999996,
+    "other_names": {
+      "name": "ایلام",
+      "name:ar": "إيلام",
+      "name:cs": "Ílám",
+      "name:de": "Ilam",
+      "name:en": "Ilam",
+      "name:es": "Ilam",
+      "name:et": "Īlām",
+      "name:fr": "Ilam",
+      "name:hi": "ईलाम",
+      "name:ja": "イーラーム",
+      "name:ku": "Îlam",
+      "name:pl": "Ilam",
+      "name:ru": "Илам",
+      "name:uk": "Ілам",
+      "name:ckb": "ئیلام",
+      "alt_name:en": "Īlām"
+    }
+  },
+  {
+    "name": "Ilebo",
+    "country": "Congo Democratic Republic",
+    "latitude": -4.331644599694575,
+    "longitude": 20.5882508,
+    "other_names": {
+      "name": "Ilebo",
+      "name:ko": "일레보",
+      "name:ru": "Илебо",
+      "name:uk": "Ілебо",
+      "old_name": "Port-Francqui"
+    }
+  },
+  {
+    "name": "Ilesa",
+    "country": "Nigeria",
+    "latitude": 7.624589399393002,
+    "longitude": 4.7414654999999994,
+    "other_names": {
+      "name": "Ilesa",
+      "name:ar": "إليشا",
+      "name:de": "Ilesha",
+      "name:en": "Ilesa",
+      "name:fr": "Ilesha"
+    }
+  },
+  {
+    "name": "Ílhavo",
+    "country": "Portugal",
+    "latitude": 40.600110800345135,
+    "longitude": -8.666666699999999,
+    "other_names": {
+      "name": "Ílhavo",
+      "alt_name": "Ílhavo de São Salvador",
+      "loc_name": "São Salvador de Ílhavo",
+      "official_name": "Ílhavo (São Salvador)"
+    }
+  },
+  {
+    "name": "Ilhéus",
+    "country": "Brazil",
+    "latitude": -14.792599000365286,
+    "longitude": -39.0453843,
+    "other_names": {
+      "name": "Ilhéus",
+      "name:ru": "Ильеус"
+    }
+  },
+  {
+    "name": "Ili",
+    "country": "China",
+    "latitude": 43.913814000535325,
+    "longitude": 81.3271885,
+    "other_names": {
+      "name": "伊犁州",
+      "name:en": "Ili",
+      "name:kk": "Іле Қазақ аутономиялық облысы",
+      "name:ug": "ئىلى قازاق ئاپتونوم ئوبلاستى",
+      "name:uk": "Ілі-Казахська автономна область",
+      "name:vi": "Ili",
+      "name:zh": "伊犁哈萨克自治州",
+      "alt_name": "伊犁哈萨克自治州;伊犁州;Ili Kazakh Autonomous Prefecture",
+      "short_name": "伊犁州",
+      "alt_name:vi": "Y Lê;I Lê",
+      "name:kk-Arab": "ىله قازاق اۆتونوميالى وبلىسى",
+      "name:zh-Hant": "伊犁州",
+      "official_name": "伊犁哈萨克自治州",
+      "name:zh_pinyin": "Ili Kazak Zizhizhou"
+    }
+  },
+  {
+    "name": "Iligan",
+    "country": "Philippines",
+    "latitude": 8.228155599390638,
+    "longitude": 124.24115079999999,
+    "other_names": {
+      "name": "Iligan",
+      "name:zh": "伊利甘"
+    }
+  },
+  {
+    "name": "Illapel",
+    "country": "Chile",
+    "latitude": -31.63270149937871,
+    "longitude": -71.1683498,
+    "other_names": {
+      "name": "Illapel"
+    }
+  },
+  {
+    "name": "Illéla",
+    "country": "Niger",
+    "latitude": 14.459036799843489,
+    "longitude": 5.2455312,
+    "other_names": {
+      "name": "Illéla"
+    }
+  },
+  {
+    "name": "Ilobasco",
+    "country": "El Salvador",
+    "latitude": 13.843011599772144,
+    "longitude": -88.84891659999998,
+    "other_names": {
+      "name": "Ilobasco",
+      "name:hu": "Ilobasco"
+    }
+  },
+  {
+    "name": "Iloilo City",
+    "country": "Philippines",
+    "latitude": 10.702671799478237,
+    "longitude": 122.5686136,
+    "other_names": {
+      "name": "Iloilo City",
+      "name:en": "Iloilo City",
+      "name:es": "Iloílo",
+      "name:et": "Iloilo",
+      "name:fr": "Iloilo",
+      "name:ja": "イロイロ",
+      "name:tl": "Iloilo",
+      "name:hil": "Iloilo",
+      "name:krj": "Iloilo",
+      "alt_name:hil": "Syudad sang Iloilo",
+      "official_name:en": "City of Iloilo",
+      "official_name:es": "Ciudad de Iloílo",
+      "official_name:tl": "Lungsod ng Iloilo",
+      "official_name:hil": "Dakbanwa sang Iloilo",
+      "official_name:krj": "Syudad kang Iloilo"
+    }
+  },
+  {
+    "name": "Ilorin",
+    "country": "Nigeria",
+    "latitude": 8.496365699392628,
+    "longitude": 4.5480484,
+    "other_names": {
+      "name": "Ilorin",
+      "name:ar": "إلورين",
+      "name:ko": "일로린",
+      "name:ru": "Илорин",
+      "name:uk": "Ілорін"
+    }
+  },
+  {
+    "name": "Ilulissat",
+    "country": "Greenland",
+    "latitude": 69.21971269797032,
+    "longitude": -51.0986385,
+    "other_names": {
+      "name": "Ilulissat",
+      "name:ar": "إيلوليسات",
+      "name:lt": "Ilulisatas",
+      "name:ru": "Илулиссат",
+      "name:uk": "Ілуліссат",
+      "old_name": "Jakobshavn"
+    }
+  },
+  {
+    "name": "Imabari",
+    "country": "Japan",
+    "latitude": 34.06581819960391,
+    "longitude": 132.9976758,
+    "other_names": {
+      "name": "今治市",
+      "name:ar": "إيمباري، إهيمه",
+      "name:de": "Imabari",
+      "name:en": "Imabari",
+      "name:es": "Imabari",
+      "name:fr": "Imabari",
+      "name:ja": "今治市",
+      "name:ko": "이마바리시",
+      "name:pl": "Imabari",
+      "name:ru": "Имабари",
+      "name:uk": "Імабарі",
+      "name:zh": "今治市",
+      "int_name": "Imabari",
+      "name:ja_kana": "いまばりし",
+      "name:zh-Hans": "今治市",
+      "name:zh-Hant": "今治市"
+    }
+  },
+  {
+    "name": "Imari",
+    "country": "Japan",
+    "latitude": 33.26445569958788,
+    "longitude": 129.8808439,
+    "other_names": {
+      "name": "伊万里市",
+      "name:ar": "إماري، ساغا",
+      "name:de": "Imari",
+      "name:en": "Imari",
+      "name:es": "Imari",
+      "name:fr": "Imari",
+      "name:ja": "伊万里市",
+      "name:ko": "이마리시",
+      "name:pl": "Imari",
+      "name:ru": "Имари",
+      "name:uk": "Імарі",
+      "name:zh": "伊万里市",
+      "int_name": "Imari",
+      "name:zh-Hans": "伊万里市",
+      "name:zh-Hant": "伊万里市"
+    }
+  },
+  {
+    "name": "Imishli",
+    "country": "Azerbaijan",
+    "latitude": 39.871796158475775,
+    "longitude": 48.06900078614356,
+    "other_names": {
+      "name": "İmişli",
+      "name:ar": "إيميشلي",
+      "name:en": "Imishli",
+      "name:fa": "ایمیشلی",
+      "name:ru": "Имишли",
+      "name:ur": "ایمیشلی",
+      "name:azb": "ایمیش‌لی"
+    }
+  }
+]

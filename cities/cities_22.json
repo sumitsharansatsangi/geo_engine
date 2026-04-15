@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Araçatuba",
+    "country": "Brazil",
+    "latitude": -21.20799200028544,
+    "longitude": -50.43902249999999,
+    "other_names": {
+      "name": "Araçatuba",
+      "loc_name": "ATA",
+      "reg_name": "Cidade do Boi Gordo"
+    }
+  },
+  {
+    "name": "Aracruz",
+    "country": "Brazil",
+    "latitude": -19.824521800403236,
+    "longitude": -40.2735025,
+    "other_names": {
+      "name": "Aracruz"
+    }
+  },
+  {
+    "name": "Arad",
+    "country": "Romania",
+    "latitude": 46.17772979276993,
+    "longitude": 21.3144643995062,
+    "other_names": {
+      "name": "Arad",
+      "name:el": "Αράντ",
+      "name:he": "ארד",
+      "name:hi": "अरद",
+      "name:ru": "Арад",
+      "name:sr": "Арад",
+      "name:uk": "Арад"
+    }
+  },
+  {
+    "name": "Arad",
+    "country": "Romania",
+    "latitude": 46.17537930031446,
+    "longitude": 21.3196342,
+    "other_names": {
+      "name": "Arad",
+      "name:ar": "أراد",
+      "name:bg": "Арад",
+      "name:de": "Arad",
+      "name:en": "Arad",
+      "name:es": "Arad",
+      "name:fr": "Arad",
+      "name:hu": "Arad",
+      "name:la": "Aradinum",
+      "name:ru": "Арад",
+      "name:sr": "Арад",
+      "name:uk": "Арад"
+    }
+  },
+  {
+    "name": "Arad",
+    "country": "Israel And Palestine",
+    "latitude": 31.261219899644637,
+    "longitude": 35.214581,
+    "other_names": {
+      "name": "ערד",
+      "name:ar": "عراد",
+      "name:cs": "Arad",
+      "name:de": "Arad",
+      "name:en": "Arad",
+      "name:es": "Arad",
+      "name:fr": "Arad",
+      "name:he": "ערד",
+      "name:ru": "Арад"
+    }
+  },
+  {
+    "name": "Araguaína",
+    "country": "Brazil",
+    "latitude": -7.193240999719023,
+    "longitude": -48.20185969999999,
+    "other_names": {
+      "name": "Araguaína",
+      "name:ka": "არაგუაინა",
+      "name:kk": "Арагуаина",
+      "name:ko": "아라구아이나",
+      "name:lt": "Araguaina",
+      "name:lv": "Aragvaina",
+      "name:pt": "Araguaína",
+      "name:ru": "Арагуаина",
+      "name:zh": "阿拉瓜伊纳"
+    }
+  },
+  {
+    "name": "Araguari",
+    "country": "Brazil",
+    "latitude": -18.651125600459974,
+    "longitude": -48.1933764,
+    "other_names": {
+      "name": "Araguari",
+      "name:ru": "Арагуари"
+    }
+  },
+  {
+    "name": "Arak",
+    "country": "Iran",
+    "latitude": 34.08652029960462,
+    "longitude": 49.68884150000001,
+    "other_names": {
+      "name": "اراک",
+      "name:ar": "آراك",
+      "name:cs": "Arák",
+      "name:de": "Arak",
+      "name:en": "Arak",
+      "name:es": "Arak",
+      "name:et": "Arāk",
+      "name:fi": "Arak",
+      "name:fr": "Arak",
+      "name:hi": "अराक",
+      "name:ku": "Arak",
+      "name:ml": "അറാക്",
+      "name:ru": "Эрак"
+    }
+  },
+  {
+    "name": "Arakawa",
+    "country": "Japan",
+    "latitude": 35.73752899971046,
+    "longitude": 139.78131,
+    "other_names": {
+      "name": "荒川区",
+      "name:ar": "أراكاوا، طوكيو",
+      "name:de": "Arakawa",
+      "name:en": "Arakawa",
+      "name:es": "Arakawa",
+      "name:fr": "Arakawa",
+      "name:it": "Arakawa",
+      "name:ja": "荒川区",
+      "name:ko": "아라카와구",
+      "name:lt": "Arakava",
+      "name:pl": "Arakawa",
+      "name:ru": "Аракава",
+      "name:uk": "Аракава",
+      "name:ja-Hira": "あらかわく",
+      "name:ja-Latn": "Arakawa-ku"
+    }
+  },
+  {
+    "name": "Aral",
+    "country": "China",
+    "latitude": 40.54218650033797,
+    "longitude": 81.2770789,
+    "other_names": {
+      "name": "阿拉尔市",
+      "name:de": "Aral",
+      "name:en": "Aral",
+      "name:es": "Aral",
+      "name:et": "Aral",
+      "name:fr": "Aral",
+      "name:ja": "アラル市",
+      "name:ru": "Арал",
+      "name:ug": "ئارال",
+      "name:uk": "Арал",
+      "name:zh": "阿拉尔市",
+      "alt_name": "阿拉尔市;Ala'er",
+      "alt_name:en": "Ala'er;Alar",
+      "name:zh-Hant": "阿拉爾市"
+    }
+  },
+  {
+    "name": "Arao",
+    "country": "Japan",
+    "latitude": 32.9867583995877,
+    "longitude": 130.43340269999996,
+    "other_names": {
+      "name": "荒尾市",
+      "name:ar": "آراو، كوماموتو",
+      "name:de": "Arao",
+      "name:en": "Arao",
+      "name:es": "Arao",
+      "name:fr": "Arao",
+      "name:ja": "荒尾市",
+      "name:ko": "아라오시",
+      "name:pl": "Arao",
+      "name:ru": "Арао",
+      "name:uk": "Арао",
+      "name:zh": "荒尾市",
+      "int_name": "Arao",
+      "name:zh-Hans": "荒尾市",
+      "name:zh-Hant": "荒尾市"
+    }
+  },
+  {
+    "name": "Arapiraca",
+    "country": "Brazil",
+    "latitude": -9.754865999893305,
+    "longitude": -36.661471,
+    "other_names": {
+      "name": "Arapiraca",
+      "name:bg": "Арапирака",
+      "name:ja": "アラピラカ",
+      "name:ka": "არაპირაკა",
+      "name:kk": "Арапирака",
+      "name:lt": "Arapiraka",
+      "name:lv": "Arapirasa",
+      "name:pt": "Arapiraca",
+      "name:ru": "Арапирака",
+      "name:sr": "Арапирака",
+      "name:zh": "阿拉皮拉卡"
+    }
+  },
+  {
+    "name": "Arapongas",
+    "country": "Brazil",
+    "latitude": -23.41528620000921,
+    "longitude": -51.429396100000005,
+    "other_names": {
+      "name": "Arapongas"
+    }
+  },
+  {
+    "name": "Araraquara",
+    "country": "Brazil",
+    "latitude": -21.78867130022158,
+    "longitude": -48.177309599999994,
+    "other_names": {
+      "name": "Araraquara",
+      "loc_name": "Morada do Sol"
+    }
+  },
+  {
+    "name": "Araras",
+    "country": "Brazil",
+    "latitude": -22.356947700152233,
+    "longitude": -47.383888899999995,
+    "other_names": {
+      "name": "Araras"
+    }
+  },
+  {
+    "name": "Araruama",
+    "country": "Brazil",
+    "latitude": -22.873320300084337,
+    "longitude": -42.34288969999999,
+    "other_names": {
+      "name": "Araruama"
+    }
+  },
+  {
+    "name": "Arauca",
+    "country": "Venezuela",
+    "latitude": 7.08245959940309,
+    "longitude": -70.75702439999999,
+    "other_names": {
+      "name": "Arauca"
+    }
+  },
+  {
+    "name": "Arauca",
+    "country": "Colombia",
+    "latitude": 7.08245959940309,
+    "longitude": -70.75702439999999,
+    "other_names": {
+      "name": "Arauca"
+    }
+  },
+  {
+    "name": "Araucária",
+    "country": "Brazil",
+    "latitude": -25.58611069969548,
+    "longitude": -49.4051209,
+    "other_names": {
+      "name": "Araucária"
+    }
+  },
+  {
+    "name": "Araure",
+    "country": "Venezuela",
+    "latitude": 9.583231099419711,
+    "longitude": -69.2239795,
+    "other_names": {
+      "name": "Araure"
+    }
+  }
+]

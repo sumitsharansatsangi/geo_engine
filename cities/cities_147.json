@@ -1,0 +1,349 @@
+[
+  {
+    "name": "Gaoping",
+    "country": "China",
+    "latitude": 35.798431399716094,
+    "longitude": 112.9229854,
+    "other_names": {
+      "name": "高平市",
+      "name:de": "Gaoping",
+      "name:en": "Gaoping",
+      "name:fr": "Gaoping",
+      "name:ja": "高平市",
+      "name:ru": "Гаопин",
+      "name:vi": "Cao Bình",
+      "name:zh": "高平市",
+      "alt_name": "高平;Kao-p'ing Hsien;Gaoping Xian;Gaoping Shi;Gaoping",
+      "name:zh-Hant": "高平市",
+      "name:zh_pinyin": "Gāopíng Shì"
+    }
+  },
+  {
+    "name": "Gaoping",
+    "country": "China",
+    "latitude": 30.77438899967682,
+    "longitude": 106.126166,
+    "other_names": {
+      "name": "高坪区",
+      "name:en": "Gaoping",
+      "name:zh": "高坪区",
+      "alt_name": "高坪;Gaoping District",
+      "name:zh-Hant": "高坪區",
+      "name:zh_pinyin": "Gāopíng Qū"
+    }
+  },
+  {
+    "name": "Gaoqing",
+    "country": "China",
+    "latitude": 37.17072639986991,
+    "longitude": 117.8204107,
+    "other_names": {
+      "name": "高青县",
+      "name:en": "Gaoqing",
+      "name:vi": "Cao Thanh",
+      "name:zh": "高青县",
+      "name:zh-Hant": "高青縣",
+      "name:zh_pinyin": "Gaoqing Xian"
+    }
+  },
+  {
+    "name": "Gaotai",
+    "country": "China",
+    "latitude": 39.37676130018023,
+    "longitude": 99.8195112,
+    "other_names": {
+      "name": "高台县",
+      "name:en": "Gaotai",
+      "name:ja": "高台県",
+      "name:ko": "가오타이 현",
+      "name:ru": "Гаотай",
+      "name:zh": "高台县",
+      "alt_name": "高台;Gaotai County",
+      "name:zh-Hant": "高臺縣"
+    }
+  },
+  {
+    "name": "Gaotang",
+    "country": "China",
+    "latitude": 36.85671699983065,
+    "longitude": 116.2221056,
+    "other_names": {
+      "name": "高唐县",
+      "name:en": "Gaotang",
+      "name:zh": "高唐县",
+      "name:zh-Hant": "高唐縣"
+    }
+  },
+  {
+    "name": "Gaoxin",
+    "country": "China",
+    "latitude": 36.68035959980955,
+    "longitude": 117.12058860000002,
+    "other_names": {
+      "name": "高新区",
+      "name:en": "Gaoxin",
+      "name:zh": "高新区",
+      "name:zh-Hant": "高新區"
+    }
+  },
+  {
+    "name": "Gaoxin",
+    "country": "China",
+    "latitude": 29.323807499804186,
+    "longitude": 104.7594426,
+    "other_names": {
+      "name": "高新区",
+      "name:en": "Gaoxin",
+      "name:zh": "高新区",
+      "name:zh-Hant": "高新區"
+    }
+  },
+  {
+    "name": "Gaoxin",
+    "country": "China",
+    "latitude": 34.61559849962827,
+    "longitude": 112.3809011,
+    "other_names": {
+      "name": "高新区",
+      "name:en": "Gaoxin",
+      "name:zh": "高新区",
+      "name:zh-Hant": "高新區"
+    }
+  },
+  {
+    "name": "Gaoyang",
+    "country": "China",
+    "latitude": 38.690680700081025,
+    "longitude": 115.77194840000001,
+    "other_names": {
+      "name": "高阳县",
+      "name:de": "Gaoyang",
+      "name:en": "Gaoyang",
+      "name:ru": "Гаоян",
+      "name:vi": "Cao Dương",
+      "name:zh": "高阳县",
+      "alt_name": "高阳;Gaoyang County",
+      "name:zh-Hant": "高陽縣",
+      "name:zh_pinyin": "Gaoyang Xian"
+    }
+  },
+  {
+    "name": "Gaoyao",
+    "country": "China",
+    "latitude": 23.027978300382934,
+    "longitude": 112.452589,
+    "other_names": {
+      "name": "高要区",
+      "name:de": "Gaoyao",
+      "name:en": "Gaoyao",
+      "name:fa": "گاویاو",
+      "name:fr": "Gaoyao",
+      "name:it": "Gaoyao",
+      "name:ja": "高要区",
+      "name:ko": "가오야오구",
+      "name:mk": "Гаојао",
+      "name:nl": "Gaoyao",
+      "name:no": "Gaoyao",
+      "name:sv": "Gaoyao",
+      "name:ur": "گاویاو",
+      "name:vi": "Cao Yếu",
+      "name:zh": "高要区",
+      "alt_name": "高要;Gaoyao District",
+      "int_name": "Gaoyao",
+      "name:hak": "Kô-yeu-khî",
+      "name:mwl": "Gaoyao",
+      "name:nan": "Ko-iàu-khu",
+      "name:pam": "Gaoyao",
+      "name:pnb": "گاؤیاؤ",
+      "name:yue": "高要",
+      "old_name": "高要市;Gaoyao City",
+      "name:zh-Hant": "高要區",
+      "name:zh_pinyin": "Gāoyào Qū"
+    }
+  },
+  {
+    "name": "Gaoyi",
+    "country": "China",
+    "latitude": 37.605790599927424,
+    "longitude": 114.6030319,
+    "other_names": {
+      "name": "高邑县",
+      "name:en": "Gaoyi",
+      "name:ja": "高邑県",
+      "name:ru": "Гаои",
+      "name:vi": "Cao Ấp",
+      "name:zh": "高邑县",
+      "alt_name": "高邑;Gaoyi County",
+      "name:zh-Hant": "高邑縣",
+      "official_name": "高邑镇",
+      "name:zh_pinyin": "Gaoyi Xian"
+    }
+  },
+  {
+    "name": "Gaoyou",
+    "country": "China",
+    "latitude": 32.78754249958925,
+    "longitude": 119.4326277,
+    "other_names": {
+      "name": "高邮市",
+      "name:cs": "Kao-jou",
+      "name:de": "Gaoyou",
+      "name:en": "Gaoyou",
+      "name:es": "Gaoyou",
+      "name:fa": "جاویاو",
+      "name:fr": "Gaoyou",
+      "name:it": "Gaoyou",
+      "name:ja": "高郵市",
+      "name:ki": "Gaoyou",
+      "name:ko": "가오유시",
+      "name:ku": "Gaoyou",
+      "name:mg": "Gaoyou",
+      "name:no": "Gaoyou",
+      "name:ru": "Гаою",
+      "name:sv": "Gaoyou",
+      "name:tl": "Gaoyou",
+      "name:ur": "گاویؤ",
+      "name:vi": "Cao Bưu",
+      "name:zh": "高邮市",
+      "name:ceb": "Gaoyou",
+      "name:nan": "Ko-iû-chhī",
+      "name:pam": "Gaoyou",
+      "name:wuu": "高邮市",
+      "name:yue": "高郵",
+      "alt_name:en": "Gaoyou",
+      "name:zh-Hant": "高郵市",
+      "name:zh_pinyin": "Gāoyóu Shì"
+    }
+  },
+  {
+    "name": "Gaozhou",
+    "country": "China",
+    "latitude": 21.92131100040905,
+    "longitude": 110.8489267,
+    "other_names": {
+      "name": "高州市",
+      "name:ar": "غاوزو",
+      "name:de": "Gaozhou",
+      "name:en": "Gaozhou",
+      "name:fa": "گاوژو",
+      "name:fr": "Gaozhou",
+      "name:it": "Gaozhou",
+      "name:ja": "高州市",
+      "name:ki": "Gaozhou",
+      "name:ko": "가오저우시",
+      "name:mg": "Gaozhou",
+      "name:nl": "Gaozhou",
+      "name:no": "Gaozhou",
+      "name:sv": "Gaozhou",
+      "name:ur": "گاوژوو",
+      "name:vi": "Cao Châu",
+      "name:zh": "高州市",
+      "alt_name": "高州;Gaozhou City",
+      "name:ceb": "Gaozhou",
+      "name:hak": "Kô-chû-sṳ",
+      "name:mwl": "Gaozhou",
+      "name:nan": "Ko-chiu-chhī",
+      "name:pam": "Gaozhou",
+      "name:pnb": "گاؤژوؤ",
+      "name:yue": "高州市",
+      "old_name": "茂名县",
+      "old_name:en": "Maoming County",
+      "name:zh-Hant": "高州市",
+      "name:yue-Latn": "Gouzau-si",
+      "name:zh_pinyin": "Gāozhōu Shì",
+      "old_name:yue-Latn": "Mauming-jin"
+    }
+  },
+  {
+    "name": "Gapan",
+    "country": "Philippines",
+    "latitude": 15.312280599944184,
+    "longitude": 120.9479433,
+    "other_names": {
+      "name": "Gapan",
+      "name:ja": "ガパン"
+    }
+  },
+  {
+    "name": "Gar",
+    "country": "China",
+    "latitude": 32.49451679959402,
+    "longitude": 80.09412219999999,
+    "other_names": {
+      "name": "噶尔县",
+      "name:en": "Gar",
+      "name:vi": "Gar",
+      "name:zh": "噶尔县",
+      "alt_name": "噶尔;Gar County",
+      "alt_name:vi": "Cát Nhĩ",
+      "name:zh-Hant": "噶爾縣",
+      "name:zh_pinyin": "Gá'ěr Xiàn"
+    }
+  },
+  {
+    "name": "Garabekewül",
+    "country": "Turkmenistan",
+    "latitude": 38.48441170005118,
+    "longitude": 64.1488534,
+    "other_names": {
+      "name": "Garabekewül",
+      "name:ru": "Гарабекевюл",
+      "name:tk": "Garabekewül",
+      "old_name": "Karabekaul",
+      "old_name:ru": "Карабекаул"
+    }
+  },
+  {
+    "name": "Garabin",
+    "country": "Sudan",
+    "latitude": 12.115981499591063,
+    "longitude": 33.8163017,
+    "other_names": {
+      "name": "القرابين",
+      "name:ar": "القرابين",
+      "name:en": "Garabin",
+      "name:fr": "Garabin",
+      "alt_name:en": "Al Qarabin"
+    }
+  },
+  {
+    "name": "Garabogaz",
+    "country": "Turkmenistan",
+    "latitude": 41.53872410044753,
+    "longitude": 52.57219839999999,
+    "other_names": {
+      "name": "Garabogaz",
+      "name:en": "Garabogaz",
+      "name:ru": "Карабогаз",
+      "name:tk": "Garabogaz",
+      "old_name": "Bekdaş",
+      "old_name:ru": "Бекдаш"
+    }
+  },
+  {
+    "name": "Garanhuns",
+    "country": "Brazil",
+    "latitude": -8.890588899821678,
+    "longitude": -36.49308959999999,
+    "other_names": {
+      "name": "Garanhuns"
+    }
+  },
+  {
+    "name": "Garbahaareey",
+    "country": "Somalia",
+    "latitude": 3.3279999996500567,
+    "longitude": 42.219879,
+    "other_names": {
+      "name": "Garbahaarey غاربهاارآي",
+      "pcode": "NA-3801-S05-001",
+      "name:ar": "غاربهاارآي",
+      "name:de": "Garbahaareey",
+      "name:en": "Garbahaareey",
+      "name:es": "Garbahaareey",
+      "name:fr": "Garbahaareey",
+      "name:ru": "Гарбахаррей",
+      "alt_name": "Garboharey"
+    }
+  }
+]

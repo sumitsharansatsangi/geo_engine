@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Shinshiro",
+    "country": "Japan",
+    "latitude": 34.946783999648126,
+    "longitude": 137.533234,
+    "other_names": {
+      "name": "新城市",
+      "name:ar": "شينشيرو، آيتشي",
+      "name:de": "Shinshiro",
+      "name:en": "Shinshiro",
+      "name:es": "Shinshiro",
+      "name:fr": "Shinshiro",
+      "name:ja": "新城市",
+      "name:ko": "신시로시",
+      "name:pl": "Shinshiro",
+      "name:ru": "Синсиро",
+      "name:uk": "Сінсіро",
+      "name:ja-Hira": "しんしろし",
+      "name:ja-Latn": "Shinshiro-shi"
+    }
+  },
+  {
+    "name": "Shinyanga",
+    "country": "Tanzania",
+    "latitude": -3.6562048997179493,
+    "longitude": 33.42711529999999,
+    "other_names": {
+      "name": "Shinyanga",
+      "name:ko": "시니앙가",
+      "name:lt": "Šinjanga",
+      "name:ru": "Шиньянга",
+      "name:uk": "Шиньянґа"
+    }
+  },
+  {
+    "name": "Shiogama",
+    "country": "Japan",
+    "latitude": 38.31433840002669,
+    "longitude": 141.0218221,
+    "other_names": {
+      "name": "塩竃市",
+      "name:ar": "شيوغاما، مياغي",
+      "name:de": "Shiogama",
+      "name:en": "Shiogama",
+      "name:es": "Shiogama",
+      "name:fr": "Shiogama",
+      "name:ja": "塩竃市",
+      "name:ko": "시오가마시",
+      "name:pl": "Shiogama",
+      "name:ru": "Сиогама",
+      "name:uk": "Сіоґама",
+      "int_name": "Shiogama",
+      "name:ja_rm": "Shigoama-shi",
+      "name:ja_kana": "しおがまし"
+    }
+  },
+  {
+    "name": "Shiojiri",
+    "country": "Japan",
+    "latitude": 36.124956999748186,
+    "longitude": 137.95280099999997,
+    "other_names": {
+      "name": "塩尻市",
+      "name:ar": "شيوجيري، ناغانو",
+      "name:de": "Shiojiri",
+      "name:en": "Shiojiri",
+      "name:es": "Shiojiri",
+      "name:fr": "Shiojiri",
+      "name:ja": "塩尻市",
+      "name:ko": "시오지리시",
+      "name:pl": "Shiojiri",
+      "name:ru": "Сиодзири",
+      "name:uk": "Сіодзірі",
+      "name:ja_rm": "Shiojiri-shi",
+      "name:ja_kana": "しおじりし"
+    }
+  },
+  {
+    "name": "Shiping",
+    "country": "China",
+    "latitude": 23.707669700350433,
+    "longitude": 102.4942389,
+    "other_names": {
+      "name": "石屏县",
+      "name:en": "Shiping",
+      "name:vi": "Thạch Bình",
+      "name:zh": "石屏县",
+      "alt_name": "石屏;Shih-p'ing Hsien;Shiping Xian",
+      "name:zh-Hant": "石屏縣",
+      "name:zh_pinyin": "Shiping Xian"
+    }
+  },
+  {
+    "name": "Shiqian",
+    "country": "China",
+    "latitude": 27.509651300001146,
+    "longitude": 108.2148546,
+    "other_names": {
+      "name": "石阡县",
+      "name:en": "Shiqian",
+      "name:vi": "Thạch Thiên",
+      "name:zh": "石阡县",
+      "alt_name": "石阡;Shih-ch'ien Hsien;Shiqian Xian",
+      "name:zh-Hant": "石阡縣",
+      "name:zh_pinyin": "Shiqian Xian"
+    }
+  },
+  {
+    "name": "Shiquan",
+    "country": "China",
+    "latitude": 33.039766699587524,
+    "longitude": 108.2488124,
+    "other_names": {
+      "name": "石泉县",
+      "name:en": "Shiquan",
+      "name:ja": "石泉県",
+      "name:ru": "Шицюань",
+      "name:vi": "Thạch Tuyền",
+      "name:zh": "石泉县",
+      "alt_name": "石泉;城关镇;城关;Chengguan",
+      "int_name": "Shiquan",
+      "name:zh-Hant": "石泉縣",
+      "name:zh_pinyin": "Shiquan Xian"
+    }
+  },
+  {
+    "name": "Shiquanhe",
+    "country": "China",
+    "latitude": 32.50243299959385,
+    "longitude": 80.1056099,
+    "other_names": {
+      "name": "阿里地区",
+      "name:bo": "མངའ་རིས་ས་ཁུལ།",
+      "name:en": "Shiquanhe",
+      "name:hi": "न्गारी",
+      "name:zh": "阿里地区",
+      "alt_name": "阿里;Ngari Prefecture;Ngari Sakü",
+      "alt_name:en": "Ali;Ngari",
+      "name:zh-Hant": "阿里地區",
+      "name:zh_pinyin": "Ālǐ Dìqū"
+    }
+  },
+  {
+    "name": "Shirakawa",
+    "country": "Japan",
+    "latitude": 37.126339699864246,
+    "longitude": 140.2107192,
+    "other_names": {
+      "name": "白河市",
+      "name:ar": "شيراكاوا، فوكوشيما",
+      "name:de": "Shirakawa",
+      "name:en": "Shirakawa",
+      "name:es": "Shirakawa",
+      "name:fr": "Shirakawa",
+      "name:ja": "白河市",
+      "name:ko": "시라카와시",
+      "name:pl": "Shirakawa",
+      "name:ru": "Сиракава",
+      "name:uk": "Сіракава",
+      "int_name": "Shirakawa",
+      "name:ja_rm": "Shirakawa-shi",
+      "name:ja_kana": "しらかわし"
+    }
+  },
+  {
+    "name": "Shiraoka",
+    "country": "Japan",
+    "latitude": 36.01861809973738,
+    "longitude": 139.67709899999997,
+    "other_names": {
+      "name": "白岡市",
+      "name:ar": "شيراوكا",
+      "name:de": "Shiraoka",
+      "name:en": "Shiraoka",
+      "name:es": "Shiraoka",
+      "name:fr": "Shiraoka",
+      "name:ja": "白岡市",
+      "name:ko": "시라오카시",
+      "name:ru": "Сираока",
+      "name:uk": "Сіраока",
+      "int_name": "Shiraoka"
+    }
+  },
+  {
+    "name": "Shiraz",
+    "country": "Iran",
+    "latitude": 29.606021799776386,
+    "longitude": 52.5378041,
+    "other_names": {
+      "name": "شیراز",
+      "name:ar": "شيراز",
+      "name:ca": "Xiraz",
+      "name:cs": "Šíráz",
+      "name:da": "Shiraz",
+      "name:de": "Schiras",
+      "name:en": "Shiraz",
+      "name:es": "Shiraz",
+      "name:et": "Shīrāz",
+      "name:fi": "Šīrāz",
+      "name:fr": "Chiraz",
+      "name:he": "שיראז",
+      "name:hi": "शीराझ्",
+      "name:ja": "シーラーズ",
+      "name:kn": "ಶೀರಾಝ್",
+      "name:ko": "시라즈",
+      "name:ku": "Şîraz",
+      "name:lt": "Širazas",
+      "name:ml": "ശിരാസ്",
+      "name:nl": "Shiraz",
+      "name:pl": "Sziraz",
+      "name:pt": "Xiraz",
+      "name:ru": "Шираз",
+      "name:tr": "Şiraz",
+      "name:uk": "Шираз"
+    }
+  },
+  {
+    "name": "Shiroi",
+    "country": "Japan",
+    "latitude": 35.79145379971545,
+    "longitude": 140.0560632,
+    "other_names": {
+      "name": "白井市",
+      "name:ar": "شيروي، تشيبا",
+      "name:de": "Shiroi",
+      "name:en": "Shiroi",
+      "name:es": "Shiroi",
+      "name:fr": "Shiroi",
+      "name:ja": "白井市",
+      "name:ko": "시로이시",
+      "name:pl": "Shiroi",
+      "name:ru": "Сирои",
+      "name:uk": "Сірой",
+      "name:ja_rm": "Shiroi-shi",
+      "name:ja_kana": "しろいし"
+    }
+  },
+  {
+    "name": "Shiroishi",
+    "country": "Japan",
+    "latitude": 38.002367099982315,
+    "longitude": 140.6200214,
+    "other_names": {
+      "name": "白石市",
+      "name:ar": "شيرويشي، مياغي",
+      "name:de": "Shiroishi",
+      "name:en": "Shiroishi",
+      "name:es": "Shiroishi",
+      "name:fr": "Shiroishi",
+      "name:ja": "白石市",
+      "name:ko": "시로이시시",
+      "name:pl": "Shiroishi",
+      "name:ru": "Сироиси",
+      "name:uk": "Сіроїсі",
+      "int_name": "Shiroishi",
+      "name:ja_rm": "Shiroishi-shi",
+      "name:ja_kana": "しろいしし"
+    }
+  },
+  {
+    "name": "Shishi",
+    "country": "China",
+    "latitude": 24.733763900279985,
+    "longitude": 118.64393509999996,
+    "other_names": {
+      "name": "石狮市",
+      "name:de": "Shishi",
+      "name:en": "Shishi",
+      "name:es": "Shíshī",
+      "name:fr": "Shishi",
+      "name:it": "Shishi",
+      "name:ja": "石獅市",
+      "name:ko": "스스시",
+      "name:ru": "Шиши",
+      "name:vi": "Thạch Sư",
+      "name:zh": "石狮市",
+      "alt_name": "石狮;Shishi City",
+      "name:cdo": "Siŏh-săi",
+      "name:hak": "Sa̍k-sṳ̂-sṳ",
+      "name:nan": "Chio̍h-sai-chhī",
+      "name:yue": "石獅",
+      "name:zh-Hant": "石獅市",
+      "name:zh_pinyin": "shíshī shì"
+    }
+  },
+  {
+    "name": "Shishou",
+    "country": "China",
+    "latitude": 29.72284269976525,
+    "longitude": 112.4189037,
+    "other_names": {
+      "name": "石首市",
+      "name:de": "Shishou",
+      "name:en": "Shishou",
+      "name:fr": "Shishou",
+      "name:ja": "石首市",
+      "name:ru": "Шишоу",
+      "name:vi": "Thạch Thủ",
+      "name:zh": "石首市",
+      "name:zh-Hant": "石首市",
+      "name:zh_pinyin": "Shíshǒu Shì"
+    }
+  },
+  {
+    "name": "Shiso",
+    "country": "Japan",
+    "latitude": 35.00435149965196,
+    "longitude": 134.5495517,
+    "other_names": {
+      "name": "宍粟市",
+      "name:ar": "شيسو، هيوغو",
+      "name:de": "Shisō",
+      "name:en": "Shiso",
+      "name:es": "Shisō",
+      "name:fr": "Shisō",
+      "name:ja": "宍粟市",
+      "name:ko": "시소시",
+      "name:pl": "Shisō",
+      "name:ru": "Сисо",
+      "name:uk": "Сісо",
+      "name:ja_rm": "Shisō-shi",
+      "name:ja-Hira": "しそうし"
+    }
+  },
+  {
+    "name": "Shitai",
+    "country": "China",
+    "latitude": 30.21265449972118,
+    "longitude": 117.48056139999998,
+    "other_names": {
+      "name": "石台县",
+      "name:de": "Shitai",
+      "name:en": "Shitai",
+      "name:es": "Shítái Xiàn",
+      "name:fa": "شهرستان شیتای",
+      "name:fr": "Xian de Shitai",
+      "name:it": "Contea di Shitai",
+      "name:ja": "石台県",
+      "name:ko": "스타이현",
+      "name:no": "Shitai",
+      "name:pl": "Shitai",
+      "name:ru": "Шитай",
+      "name:sv": "Shitai",
+      "name:vi": "Thạch Đài",
+      "name:zh": "石台县",
+      "alt_name": "石台;Shitai County",
+      "name:ceb": "Shitai Xian",
+      "name:gan": "石台",
+      "name:mwl": "Shitai",
+      "name:nan": "Chio̍h-tâi-koān",
+      "name:yue": "石埭",
+      "name:zh-Hant": "石台縣",
+      "name:zh_pinyin": "Shítái Xiàn"
+    }
+  },
+  {
+    "name": "Shivamogga",
+    "country": "India",
+    "latitude": 13.932609299782385,
+    "longitude": 75.574978,
+    "other_names": {
+      "name": "Shivamogga",
+      "name:en": "Shivamogga",
+      "name:hi": "शिवमोगा",
+      "name:ja": "シヴァモッガ",
+      "name:kn": "ಶಿವಮೊಗ್ಗ",
+      "name:ml": "ഷിമോഗ",
+      "name:mr": "शिवमोगा",
+      "name:pa": "ਸ਼ਿਵਮੋਗਾ",
+      "name:ta": "ஷிமோகா",
+      "name:te": "శివమొగ్గ",
+      "alt_name": "Shivamogga",
+      "old_name": "Shimoga",
+      "name:kn:iso15919": "Śivamogga"
+    }
+  },
+  {
+    "name": "Shivpuri",
+    "country": "India",
+    "latitude": 25.423525600220255,
+    "longitude": 77.6551422,
+    "other_names": {
+      "name": "Shivpuri",
+      "name:en": "Shivpuri",
+      "name:gu": "શિવપુરી",
+      "name:he": "שיבפורי",
+      "name:hi": "शिवपुरी",
+      "name:ja": "シブプリ",
+      "name:kn": "ಶಿವಪುರಿ",
+      "name:pa": "ਸ਼ਿਵਪੁਰੀ"
+    }
+  },
+  {
+    "name": "Shixing",
+    "country": "China",
+    "latitude": 24.956355200261694,
+    "longitude": 114.0566468,
+    "other_names": {
+      "name": "始兴县",
+      "name:de": "Shixing",
+      "name:en": "Shixing",
+      "name:fa": "شینشینگ",
+      "name:fr": "Xian de Shixing",
+      "name:it": "Contea di Shixing",
+      "name:ja": "始興県",
+      "name:ko": "스싱현",
+      "name:no": "Shixing",
+      "name:sv": "Shixing Xian",
+      "name:vi": "Thủy Hưng",
+      "name:zh": "始兴县",
+      "alt_name": "始兴;Shixing County",
+      "name:ceb": "Shixing Xian",
+      "name:hak": "Sṳ́-hîn-yen",
+      "name:mwl": "Shixing",
+      "name:nan": "Sí-heng-koān",
+      "name:yue": "始興縣",
+      "name:zh-Hant": "始興縣",
+      "name:zh_pinyin": "Shǐxīng Xiàn"
+    }
+  }
+]

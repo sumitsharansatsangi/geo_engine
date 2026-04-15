@@ -15,6 +15,8 @@ const GITHUB_REPO: &str = "sumitsharansatsangi/geo_engine";
 const GITHUB_API_URL: &str =
     "https://api.github.com/repos/sumitsharansatsangi/geo_engine/releases/latest";
 const RELEASE_MANIFEST_ASSET_NAME: &str = "assets-manifest.json";
+const RELEASE_MANIFEST_PATH_ENV: &str = "GEO_ENGINE_RELEASE_MANIFEST_PATH";
+const RELEASE_MANIFEST_URL_ENV: &str = "GEO_ENGINE_RELEASE_MANIFEST_URL";
 
 #[derive(Debug, Clone)]
 struct AssetInfo {
@@ -36,9 +38,12 @@ struct GitHubAsset {
 
 struct ReleaseAssets {
     pub geo_db: Option<AssetInfo>,
+    pub geo_meta: Option<AssetInfo>,
     pub subdistrict_db: Option<AssetInfo>,
+    pub subdistrict_meta: Option<AssetInfo>,
     pub city_fst: AssetInfo,
-    pub city_rkyv: AssetInfo,
+    pub city_core: AssetInfo,
+    pub city_meta: AssetInfo,
     pub city_points: AssetInfo,
 }
 
@@ -57,21 +62,30 @@ struct ReleaseManifest {
 #[derive(Debug, Deserialize)]
 struct ManifestGeoGroup {
     db: ManifestAsset,
+    #[serde(default)]
+    meta: Option<ManifestAsset>,
 }
 
 #[derive(Debug, Deserialize)]
 struct ManifestSubdistrictGroup {
     db: ManifestAsset,
+    #[serde(default)]
+    meta: Option<ManifestAsset>,
 }
 
 #[derive(Debug, Deserialize)]
 struct ManifestCityGroup {
     fst: ManifestAsset,
-    rkyv: ManifestAsset,
+    #[serde(default)]
+    core: Option<ManifestAsset>,
+    #[serde(default)]
+    meta: Option<ManifestAsset>,
+    #[serde(default, alias = "rkyv")]
+    rkyv: Option<ManifestAsset>,
     points: ManifestAsset,
 }
 
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Clone, Deserialize)]
 struct ManifestAsset {
     name: String,
     url: String,
@@ -89,15 +103,19 @@ pub struct InitConfig {
 
 pub struct CityAssetPaths {
     pub fst_path: PathBuf,
-    pub rkyv_path: PathBuf,
+    pub core_path: PathBuf,
+    pub meta_path: PathBuf,
     pub points_path: PathBuf,
 }
 
 pub struct AllAssetPaths {
     pub geo_db_path: PathBuf,
+    pub geo_meta_path: PathBuf,
     pub subdistrict_db_path: PathBuf,
+    pub subdistrict_meta_path: PathBuf,
     pub city_fst_path: PathBuf,
-    pub city_rkyv_path: PathBuf,
+    pub city_core_path: PathBuf,
+    pub city_meta_path: PathBuf,
     pub city_points_path: PathBuf,
 }
 
@@ -129,12 +147,25 @@ pub fn init_all_assets_with_config(config: &InitConfig) -> Result<AllAssetPaths,
             repo: GITHUB_REPO.to_string(),
             asset: "geo.db".to_string(),
         })?;
+    let geo_meta_asset = assets
+        .geo_meta
+        .ok_or_else(|| GeoEngineError::ReleaseAssetMissing {
+            repo: GITHUB_REPO.to_string(),
+            asset: "geo.meta".to_string(),
+        })?;
     let subdistrict_asset =
         assets
             .subdistrict_db
             .ok_or_else(|| GeoEngineError::ReleaseAssetMissing {
                 repo: GITHUB_REPO.to_string(),
                 asset: "subdistrict.db".to_string(),
+            })?;
+    let subdistrict_meta_asset =
+        assets
+            .subdistrict_meta
+            .ok_or_else(|| GeoEngineError::ReleaseAssetMissing {
+                repo: GITHUB_REPO.to_string(),
+                asset: "subdistrict.meta".to_string(),
             })?;
 
     let geo_db_path = ensure_asset(
@@ -144,11 +175,25 @@ pub fn init_all_assets_with_config(config: &InitConfig) -> Result<AllAssetPaths,
         &geo_asset.checksum,
         config.verify_checksum,
     )?;
+    let geo_meta_path = ensure_asset(
+        &config.asset_dir,
+        &geo_meta_asset.name,
+        &geo_meta_asset.url,
+        &geo_meta_asset.checksum,
+        config.verify_checksum,
+    )?;
     let subdistrict_db_path = ensure_asset(
         &config.asset_dir,
         &subdistrict_asset.name,
         &subdistrict_asset.url,
         &subdistrict_asset.checksum,
+        config.verify_checksum,
+    )?;
+    let subdistrict_meta_path = ensure_asset(
+        &config.asset_dir,
+        &subdistrict_meta_asset.name,
+        &subdistrict_meta_asset.url,
+        &subdistrict_meta_asset.checksum,
         config.verify_checksum,
     )?;
     let city_fst_path = ensure_asset(
@@ -158,11 +203,18 @@ pub fn init_all_assets_with_config(config: &InitConfig) -> Result<AllAssetPaths,
         &assets.city_fst.checksum,
         config.verify_checksum,
     )?;
-    let city_rkyv_path = ensure_asset(
+    let city_core_path = ensure_asset(
         &config.asset_dir,
-        &assets.city_rkyv.name,
-        &assets.city_rkyv.url,
-        &assets.city_rkyv.checksum,
+        &assets.city_core.name,
+        &assets.city_core.url,
+        &assets.city_core.checksum,
+        config.verify_checksum,
+    )?;
+    let city_meta_path = ensure_asset(
+        &config.asset_dir,
+        &assets.city_meta.name,
+        &assets.city_meta.url,
+        &assets.city_meta.checksum,
         config.verify_checksum,
     )?;
     let city_points_path = ensure_asset(
@@ -175,9 +227,12 @@ pub fn init_all_assets_with_config(config: &InitConfig) -> Result<AllAssetPaths,
 
     Ok(AllAssetPaths {
         geo_db_path,
+        geo_meta_path,
         subdistrict_db_path,
+        subdistrict_meta_path,
         city_fst_path,
-        city_rkyv_path,
+        city_core_path,
+        city_meta_path,
         city_points_path,
     })
 }
@@ -322,8 +377,10 @@ where
             InitializedGeoEngine::open(
                 &paths.geo_db_path,
                 &paths.subdistrict_db_path,
+                &paths.subdistrict_meta_path,
                 &paths.city_fst_path,
-                &paths.city_rkyv_path,
+                &paths.city_core_path,
+                &paths.city_meta_path,
             )
         });
         on_complete(result);
@@ -357,8 +414,10 @@ pub fn init_geo_engine_with_config(
     InitializedGeoEngine::open(
         &paths.geo_db_path,
         &paths.subdistrict_db_path,
+        &paths.subdistrict_meta_path,
         &paths.city_fst_path,
-        &paths.city_rkyv_path,
+        &paths.city_core_path,
+        &paths.city_meta_path,
     )
 }
 
@@ -390,11 +449,18 @@ pub fn init_city_assets_with_config(config: &InitConfig) -> Result<CityAssetPath
         &assets.city_fst.checksum,
         config.verify_checksum,
     )?;
-    let rkyv_path = ensure_asset(
+    let core_path = ensure_asset(
         &config.asset_dir,
-        &assets.city_rkyv.name,
-        &assets.city_rkyv.url,
-        &assets.city_rkyv.checksum,
+        &assets.city_core.name,
+        &assets.city_core.url,
+        &assets.city_core.checksum,
+        config.verify_checksum,
+    )?;
+    let meta_path = ensure_asset(
+        &config.asset_dir,
+        &assets.city_meta.name,
+        &assets.city_meta.url,
+        &assets.city_meta.checksum,
         config.verify_checksum,
     )?;
     let points_path = ensure_asset(
@@ -407,7 +473,8 @@ pub fn init_city_assets_with_config(config: &InitConfig) -> Result<CityAssetPath
 
     Ok(CityAssetPaths {
         fst_path,
-        rkyv_path,
+        core_path,
+        meta_path,
         points_path,
     })
 }
@@ -572,9 +639,11 @@ fn cache_dir() -> Result<PathBuf, GeoEngineError> {
 }
 
 fn fetch_release_assets(required: RequiredAssetGroup) -> Result<ReleaseAssets, GeoEngineError> {
-    let release = fetch_latest_release()?;
-    let manifest_url = release_manifest_url(&release)?;
-    let manifest = download_release_manifest(&manifest_url)?;
+    let manifest = load_release_manifest_from_override()?.unwrap_or({
+        let release = fetch_latest_release()?;
+        let manifest_url = release_manifest_url(&release)?;
+        download_release_manifest(&manifest_url)?
+    });
 
     let city = manifest
         .city
@@ -583,16 +652,23 @@ fn fetch_release_assets(required: RequiredAssetGroup) -> Result<ReleaseAssets, G
             asset: "manifest.city".to_string(),
         })?;
 
-    let city_fst = manifest_asset_to_info(city.fst, "manifest.city.fst")?;
-    let city_rkyv = manifest_asset_to_info(city.rkyv, "manifest.city.rkyv")?;
-    let city_points = manifest_asset_to_info(city.points, "manifest.city.points")?;
+    let city_fst = manifest_asset_to_info(Some(city.fst), "manifest.city.fst")?;
+    let city_core = manifest_asset_to_info(
+        city.core.or_else(|| city.rkyv.clone()),
+        "manifest.city.core",
+    )?;
+    let city_meta = manifest_asset_to_info(city.meta.or_else(|| city.rkyv), "manifest.city.meta")?;
+    let city_points = manifest_asset_to_info(Some(city.points), "manifest.city.points")?;
 
     match required {
         RequiredAssetGroup::City => Ok(ReleaseAssets {
             geo_db: None,
+            geo_meta: None,
             subdistrict_db: None,
+            subdistrict_meta: None,
             city_fst,
-            city_rkyv,
+            city_core,
+            city_meta,
             city_points,
         }),
         RequiredAssetGroup::All => {
@@ -610,18 +686,54 @@ fn fetch_release_assets(required: RequiredAssetGroup) -> Result<ReleaseAssets, G
                         asset: "manifest.subdistrict".to_string(),
                     })?;
 
-            let geo_db = manifest_asset_to_info(geo.db, "manifest.geo.db")?;
-            let subdistrict_db = manifest_asset_to_info(subdistrict.db, "manifest.subdistrict.db")?;
+            let geo_db = manifest_asset_to_info(Some(geo.db), "manifest.geo.db")?;
+            let geo_meta = manifest_asset_to_info(geo.meta, "manifest.geo.meta")?;
+            let subdistrict_db =
+                manifest_asset_to_info(Some(subdistrict.db), "manifest.subdistrict.db")?;
+            let subdistrict_meta =
+                manifest_asset_to_info(subdistrict.meta, "manifest.subdistrict.meta")?;
 
             Ok(ReleaseAssets {
                 geo_db: Some(geo_db),
+                geo_meta: Some(geo_meta),
                 subdistrict_db: Some(subdistrict_db),
+                subdistrict_meta: Some(subdistrict_meta),
                 city_fst,
-                city_rkyv,
+                city_core,
+                city_meta,
                 city_points,
             })
         }
     }
+}
+
+fn load_release_manifest_from_override() -> Result<Option<ReleaseManifest>, GeoEngineError> {
+    if let Ok(manifest_path) = env::var(RELEASE_MANIFEST_PATH_ENV) {
+        let trimmed = manifest_path.trim();
+        if !trimmed.is_empty() {
+            let path = PathBuf::from(trimmed);
+            let bytes = fs::read(&path).map_err(|source| GeoEngineError::DatabaseOpen {
+                path: path.clone(),
+                source,
+            })?;
+            let manifest = serde_json::from_slice(&bytes).map_err(|source| {
+                GeoEngineError::ReleaseManifestParse {
+                    repo: GITHUB_REPO.to_string(),
+                    source,
+                }
+            })?;
+            return Ok(Some(manifest));
+        }
+    }
+
+    if let Ok(manifest_url) = env::var(RELEASE_MANIFEST_URL_ENV) {
+        let trimmed = manifest_url.trim();
+        if !trimmed.is_empty() {
+            return download_release_manifest(trimmed).map(Some);
+        }
+    }
+
+    Ok(None)
 }
 
 fn fetch_latest_release() -> Result<GitHubRelease, GeoEngineError> {
@@ -671,9 +783,14 @@ fn download_release_manifest(manifest_url: &str) -> Result<ReleaseManifest, GeoE
 }
 
 fn manifest_asset_to_info(
-    asset: ManifestAsset,
+    asset: Option<ManifestAsset>,
     field_path: &str,
 ) -> Result<AssetInfo, GeoEngineError> {
+    let asset = asset.ok_or_else(|| GeoEngineError::ReleaseAssetMissing {
+        repo: GITHUB_REPO.to_string(),
+        asset: field_path.to_string(),
+    })?;
+
     let name = asset.name.trim().to_string();
     let url = asset.url.trim().to_string();
     let checksum = asset.sha256.trim().to_ascii_lowercase();

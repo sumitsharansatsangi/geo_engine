@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Pingquan",
+    "country": "China",
+    "latitude": 41.00581550039281,
+    "longitude": 118.68929009999997,
+    "other_names": {
+      "name": "平泉市",
+      "name:en": "Pingquan",
+      "name:ru": "Пинцюань",
+      "name:zh": "平泉市",
+      "alt_name": "平泉;Pingquan City",
+      "old_name": "平泉县;Pingquan County",
+      "name:zh-Hant": "平泉市"
+    }
+  },
+  {
+    "name": "Pingshan",
+    "country": "China",
+    "latitude": 41.284958000422705,
+    "longitude": 123.7608485,
+    "other_names": {
+      "name": "平山区",
+      "name:en": "Pingshan",
+      "name:ja": "平山区",
+      "name:ko": "핑산구",
+      "name:zh": "平山区",
+      "alt_name": "平山;Pingshan City",
+      "name:zh-Hant": "平山區"
+    }
+  },
+  {
+    "name": "Pingshan",
+    "country": "China",
+    "latitude": 38.25334700001795,
+    "longitude": 114.19549939999999,
+    "other_names": {
+      "name": "平山县",
+      "name:en": "Pingshan",
+      "name:ja": "平山県",
+      "name:vi": "Bình Sơn",
+      "name:zh": "平山县",
+      "alt_name": "平山",
+      "name:zh-Hant": "平山縣",
+      "official_name": "平山镇",
+      "name:zh_pinyin": "Pingshan Xian"
+    }
+  },
+  {
+    "name": "Pingshan",
+    "country": "China",
+    "latitude": 28.8316659998552,
+    "longitude": 104.34381449999998,
+    "other_names": {
+      "name": "屏山县",
+      "name:en": "Pingshan",
+      "name:ja": "屏山県",
+      "name:zh": "屏山县",
+      "alt_name": "屏山;P'ing-shan Hsien;Pingshan County",
+      "int_name": "Pingshan",
+      "name:zh-Hant": "屏山縣",
+      "name:zh_pinyin": "Píngshān Xiàn"
+    }
+  },
+  {
+    "name": "Pingshan District",
+    "country": "China",
+    "latitude": 22.711382700393894,
+    "longitude": 114.34618819999999,
+    "other_names": {
+      "name": "坪山区",
+      "name:de": "Pingshan",
+      "name:en": "Pingshan District",
+      "name:es": "Pingshan",
+      "name:fa": "منطقه جدید پینگشان",
+      "name:fr": "Nouveau district de Pingshan",
+      "name:it": "Distretto di Pingshan",
+      "name:ja": "坪山区",
+      "name:ko": "핑산구",
+      "name:vi": "Bình Sơn",
+      "name:zh": "坪山区",
+      "name:ast": "Pingshan",
+      "name:hak": "Phiàng-sân-sîn-khî",
+      "name:mwl": "Pingshan",
+      "name:nan": "Phêng-san-khu",
+      "name:yue": "坪山區",
+      "old_name": "坪山新区",
+      "old_name:en": "Pingshan New District",
+      "old_name:zh": "坪山新区",
+      "name:zh-Hant": "坪山區",
+      "name:zh_pinyin": "Píngshān Xīn Qū"
+    }
+  },
+  {
+    "name": "Pingshun",
+    "country": "China",
+    "latitude": 36.20239909975624,
+    "longitude": 113.43773139999999,
+    "other_names": {
+      "name": "平顺县",
+      "name:en": "Pingshun",
+      "name:ja": "平順県",
+      "name:ru": "Пиншунь",
+      "name:vi": "Bình Thuận",
+      "name:zh": "平顺县",
+      "alt_name": "平顺;Pingshun Xian;Pinshun';P'ing-shun-hsien",
+      "name:zh-Hant": "平順縣",
+      "name:zh_pinyin": "Pingshun Xian"
+    }
+  },
+  {
+    "name": "Pingtan",
+    "country": "China",
+    "latitude": 25.501379900212974,
+    "longitude": 119.7864303,
+    "other_names": {
+      "name": "平潭县",
+      "name:de": "Pingtan",
+      "name:en": "Pingtan",
+      "name:es": "Píngtán",
+      "name:fr": "Pingtan",
+      "name:ja": "平潭県",
+      "name:ko": "핑탄현",
+      "name:uk": "Пінтань",
+      "name:zh": "平潭县",
+      "alt_name": "平潭;Pingtan County",
+      "name:cdo": "Bìng-tàng",
+      "name:hak": "Phìn-thàm-yen",
+      "name:nan": "Pêng-thâm-koān",
+      "name:yue": "平潭",
+      "name:zh-Hant": "平潭縣",
+      "name:zh_pinyin": "píngtán xiàn"
+    }
+  },
+  {
+    "name": "Pingtang",
+    "country": "China",
+    "latitude": 25.83500480018077,
+    "longitude": 107.3185885,
+    "other_names": {
+      "name": "平塘县",
+      "name:en": "Pingtang",
+      "name:zh": "平塘县",
+      "name:zh-Hant": "平塘縣"
+    }
+  },
+  {
+    "name": "Pingwu",
+    "country": "China",
+    "latitude": 32.41011649959593,
+    "longitude": 104.5291564,
+    "other_names": {
+      "name": "平武县",
+      "name:en": "Pingwu",
+      "name:ru": "Лунъань",
+      "name:zh": "平武县",
+      "alt_name": "平武;Pingwu County",
+      "int_name": "Pingwu",
+      "name:zh-Hant": "平武縣"
+    }
+  },
+  {
+    "name": "Pingxiang",
+    "country": "China",
+    "latitude": 37.06343549985626,
+    "longitude": 115.02548939999998,
+    "other_names": {
+      "name": "平乡县",
+      "name:en": "Pingxiang",
+      "name:vi": "Bình Hương",
+      "name:zh": "平乡县",
+      "alt_name": "平乡;Pingxiang County",
+      "name:zh-Hant": "平鄉縣",
+      "name:zh_pinyin": "Pingxiang Xian"
+    }
+  },
+  {
+    "name": "Pingxiang",
+    "country": "China",
+    "latitude": 22.097299700407202,
+    "longitude": 106.7633247,
+    "other_names": {
+      "name": "凭祥市",
+      "name:en": "Pingxiang",
+      "name:ja": "憑祥鎮",
+      "name:ru": "Пинсян",
+      "name:vi": "Bằng Tường",
+      "name:zh": "凭祥市",
+      "alt_name": "凭祥;Pingxiang City",
+      "name:yue": "凭祥市",
+      "alt_name:vi": "Bằng Tường Trấn",
+      "name:zh-Hant": "憑祥市",
+      "name:yue-Latn": "Pangcoeng-si"
+    }
+  },
+  {
+    "name": "Pingxiang",
+    "country": "China",
+    "latitude": 27.660320599984253,
+    "longitude": 113.8830806,
+    "other_names": {
+      "name": "萍乡市",
+      "name:ar": "بينغشيانغ",
+      "name:cs": "Pching-siang",
+      "name:cy": "Pingxiang",
+      "name:da": "Pingxiang",
+      "name:de": "Pingxiang",
+      "name:en": "Pingxiang",
+      "name:es": "Pingxiang",
+      "name:et": "Pingxiang",
+      "name:eu": "Pingxiang",
+      "name:fa": "پینگشیانگ",
+      "name:fi": "Pingxiang",
+      "name:fr": "Pingxiang",
+      "name:it": "Pingxiang",
+      "name:ja": "萍郷市",
+      "name:ki": "Pingxiang",
+      "name:ko": "핑샹시",
+      "name:mg": "Pingxiang",
+      "name:nl": "Pingxiang",
+      "name:nn": "Pingxiang",
+      "name:no": "Pingxiang",
+      "name:oc": "Pingxiang",
+      "name:pl": "Pingxiang",
+      "name:pt": "Pingxiang",
+      "name:ru": "Пинсян",
+      "name:sr": "Пингсјанг",
+      "name:sv": "Pingxiang",
+      "name:tr": "Pingxiang",
+      "name:ur": "پنگشیانگ",
+      "name:vi": "Bình Hương",
+      "name:zh": "萍乡市",
+      "alt_name": "萍乡",
+      "int_name": "Pingxiang",
+      "name:cdo": "Bìng-hiŏng",
+      "name:ceb": "Pingxiang",
+      "name:gan": "萍鄉",
+      "name:hak": "Phìn-hiông-sṳ",
+      "name:nan": "Phêng-hiong-chhī",
+      "name:war": "Pingxiang",
+      "name:wuu": "萍乡市",
+      "name:yue": "萍鄉",
+      "name:zh-Hant": "萍鄉市",
+      "name:zh_pinyin": "Píngxiāng Shì"
+    }
+  },
+  {
+    "name": "Pingyang",
+    "country": "China",
+    "latitude": 27.6652860999837,
+    "longitude": 120.56237120000002,
+    "other_names": {
+      "name": "平阳县",
+      "name:de": "Pingyang",
+      "name:en": "Pingyang",
+      "name:fa": "شهرستان پینگیانگ",
+      "name:fr": "Pingyang",
+      "name:it": "Contea di Pingyang",
+      "name:ja": "平陽県",
+      "name:ko": "핑양현",
+      "name:no": "Pingyang",
+      "name:sv": "Pingyang",
+      "name:vi": "Bình Dương",
+      "name:zh": "平阳县",
+      "name:ceb": "Pingyang Xian",
+      "name:hak": "Phìn-yòng-yen",
+      "name:nan": "Pêng-iông-koān",
+      "name:wuu": "平阳县",
+      "name:yue": "平陽縣",
+      "name:zh-Hant": "平陽縣",
+      "name:zh_pinyin": "Píngyáng Xiàn"
+    }
+  },
+  {
+    "name": "Pingyao",
+    "country": "China",
+    "latitude": 37.203790399874165,
+    "longitude": 112.1771043,
+    "other_names": {
+      "name": "平遥县",
+      "name:en": "Pingyao",
+      "name:ja": "平遥県",
+      "name:zh": "平遥县",
+      "alt_name": "平遥;Pingyao",
+      "name:zh-Hant": "平遙縣"
+    }
+  },
+  {
+    "name": "Pingyi",
+    "country": "China",
+    "latitude": 35.505401199690056,
+    "longitude": 117.63885360000002,
+    "other_names": {
+      "name": "平邑县",
+      "name:en": "Pingyi",
+      "name:zh": "平邑县",
+      "name:zh-Hant": "平邑縣"
+    }
+  },
+  {
+    "name": "Pingyin",
+    "country": "China",
+    "latitude": 36.289438399765515,
+    "longitude": 116.45032059999998,
+    "other_names": {
+      "name": "平阴县",
+      "name:en": "Pingyin",
+      "name:uk": "Пін'їнь",
+      "name:vi": "Bình Âm",
+      "name:zh": "平阴县",
+      "name:zh-Hant": "平陰縣",
+      "name:zh_pinyin": "Pingyin Xian"
+    }
+  },
+  {
+    "name": "Pingyu",
+    "country": "China",
+    "latitude": 32.958376999587834,
+    "longitude": 114.63030730000001,
+    "other_names": {
+      "name": "平舆县",
+      "name:en": "Pingyu",
+      "name:ja": "平輿県",
+      "name:vi": "Bình Dư",
+      "name:zh": "平舆县",
+      "name:zh-Hant": "平輿縣"
+    }
+  },
+  {
+    "name": "Pingyuan",
+    "country": "China",
+    "latitude": 37.16583299986928,
+    "longitude": 116.435,
+    "other_names": {
+      "name": "平原县",
+      "name:en": "Pingyuan",
+      "name:vi": "Bình Nguyên",
+      "name:zh": "平原县",
+      "name:zh-Hant": "平原縣",
+      "name:zh_pinyin": "Pingyuan Xian"
+    }
+  },
+  {
+    "name": "Pingyuan",
+    "country": "China",
+    "latitude": 24.57029170029279,
+    "longitude": 115.8852615,
+    "other_names": {
+      "name": "平远县",
+      "name:de": "Pingyuan",
+      "name:en": "Pingyuan",
+      "name:fa": "شهرستان پینگیوان، گوانگ‌دونگ",
+      "name:fr": "Xian de Pingyuan",
+      "name:it": "Contea di Pingyuan",
+      "name:ja": "平遠県",
+      "name:ko": "핑위안현",
+      "name:no": "Pingyuan",
+      "name:ru": "Пинъюань",
+      "name:sv": "Pingyuan",
+      "name:vi": "Bình Viễn",
+      "name:zh": "平远县",
+      "alt_name": "P'ing-yuan Hsien;平远;Pingyuan County",
+      "name:ceb": "Pingyuan Xian",
+      "name:hak": "Phìn-yén-yen",
+      "name:mwl": "Pingyuan",
+      "name:nan": "Pêng-oán-koān",
+      "name:yue": "平遠",
+      "name:zh-Hant": "平遠縣",
+      "name:zh_pinyin": "Píngyuǎn Xiàn"
+    }
+  },
+  {
+    "name": "Pinhais",
+    "country": "Brazil",
+    "latitude": -25.444348799715456,
+    "longitude": -49.1900307,
+    "other_names": {
+      "name": "Pinhais"
+    }
+  }
+]

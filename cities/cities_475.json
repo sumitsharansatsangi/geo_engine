@@ -1,0 +1,391 @@
+[
+  {
+    "name": "Tianjun",
+    "country": "China",
+    "latitude": 37.3003934998867,
+    "longitude": 99.0227804,
+    "other_names": {
+      "name": "天峻县",
+      "name:en": "Tianjun",
+      "name:ja": "天峻県",
+      "name:vi": "Thiên Tuấn",
+      "name:zh": "天峻县",
+      "alt_name": "天峻",
+      "alt_name:en": "T'ien-chun;Tianjun;T'ien-hsun;Tianjun Xian",
+      "name:zh-Hant": "天峻縣"
+    }
+  },
+  {
+    "name": "Tianlin",
+    "country": "China",
+    "latitude": 24.297481100312865,
+    "longitude": 106.2256982,
+    "other_names": {
+      "name": "田林县",
+      "name:en": "Tianlin",
+      "name:zh": "田林县",
+      "alt_name": "田林;T'ien-lin Hsien;Tianlin County",
+      "name:zh-Hant": "田林縣"
+    }
+  },
+  {
+    "name": "Tianmen",
+    "country": "China",
+    "latitude": 30.663551599684993,
+    "longitude": 113.1616191,
+    "other_names": {
+      "name": "天门市",
+      "name:de": "Tianmen",
+      "name:en": "Tianmen",
+      "name:fa": "تیانمن",
+      "name:fi": "Tianmen",
+      "name:fr": "Tianmen",
+      "name:it": "Tianmen",
+      "name:ja": "天門市",
+      "name:ki": "Tianmen",
+      "name:ko": "톈먼시",
+      "name:mg": "Tianmen",
+      "name:nl": "Tianmen",
+      "name:nn": "Tianmen",
+      "name:no": "Tianmen",
+      "name:pl": "Tianmen",
+      "name:pt": "Tianmen",
+      "name:ru": "Тяньмэнь",
+      "name:sr": "Тјенмен",
+      "name:sv": "Tianmen",
+      "name:tr": "Tianmen",
+      "name:uk": "Тяньмень",
+      "name:ur": "تیانمین",
+      "name:vi": "Thiên Môn",
+      "name:zh": "天门市",
+      "name:nan": "Thian-bûn-chhī",
+      "name:pam": "Tianmen",
+      "name:war": "Tianmen",
+      "name:wuu": "天门市",
+      "name:yue": "天門市",
+      "name:zh-Hant": "天門市",
+      "name:zh_pinyin": "Tiānmén Shì"
+    }
+  },
+  {
+    "name": "Tianning",
+    "country": "China",
+    "latitude": 31.79392419961699,
+    "longitude": 119.99495380000002,
+    "other_names": {
+      "name": "天宁区",
+      "name:en": "Tianning",
+      "name:vi": "Thiên Ninh",
+      "name:zh": "天宁区",
+      "name:zh-Hant": "天寧區"
+    }
+  },
+  {
+    "name": "Tianqiao",
+    "country": "China",
+    "latitude": 36.677774499809246,
+    "longitude": 116.98136350000001,
+    "other_names": {
+      "name": "天桥区",
+      "name:en": "Tianqiao",
+      "name:uk": "Тяньцяо",
+      "name:vi": "Thiên Kiều",
+      "name:zh": "天桥区",
+      "name:zh-Hant": "天橋區"
+    }
+  },
+  {
+    "name": "Tianquan",
+    "country": "China",
+    "latitude": 30.064340199734037,
+    "longitude": 102.7605339,
+    "other_names": {
+      "name": "天全县",
+      "name:en": "Tianquan",
+      "name:fr": "Xian de Tiānquán",
+      "name:vi": "Thiên Toàn",
+      "name:zh": "天全县",
+      "alt_name": "天全;T'ien-ch'uan Hsien;Tianquan County",
+      "name:zh-Hant": "天全縣",
+      "name:zh_pinyin": "Tiānquán Xiàn"
+    }
+  },
+  {
+    "name": "Tianshan",
+    "country": "China",
+    "latitude": 43.79246310053831,
+    "longitude": 87.6301682,
+    "other_names": {
+      "name": "天山区",
+      "name:en": "Tianshan",
+      "name:ug": "تەڭرىتاغ رايونى",
+      "name:uk": "Тянь-Шаньський округ",
+      "name:zh": "天山区",
+      "alt_name": "天山;Tengritag;Tengritag District;Tianshan District",
+      "name:zh-Hant": "天山區"
+    }
+  },
+  {
+    "name": "Tianshan",
+    "country": "China",
+    "latitude": 43.793154400538285,
+    "longitude": 87.62935619999999,
+    "other_names": {
+      "name": "天山区",
+      "name:en": "Tianshan",
+      "name:zh": "天山区",
+      "name:zh-Hant": "天山區"
+    }
+  },
+  {
+    "name": "Tianshui",
+    "country": "China",
+    "latitude": 34.57975309962635,
+    "longitude": 105.7062921,
+    "other_names": {
+      "name": "天水市",
+      "name:de": "Tianshui",
+      "name:en": "Tianshui",
+      "name:et": "Tianshui",
+      "name:fr": "Tianshui",
+      "name:ja": "天水市",
+      "name:ru": "Тяньшуй",
+      "name:sr": "Тјеншуеј",
+      "name:uk": "Тяньшуй",
+      "name:vi": "Thiên Thủy",
+      "name:zh": "天水市",
+      "alt_name": "天水;秦州区;Qinzhou;Tianshui City",
+      "int_name": "Tianshui",
+      "alt_name:vi": "Thiên Thuỷ",
+      "name:zh-Hant": "天水市",
+      "name:zh_pinyin": "Tiānshuǐ Shì"
+    }
+  },
+  {
+    "name": "Tiantai County",
+    "country": "China",
+    "latitude": 29.14626659982226,
+    "longitude": 121.00249809999998,
+    "other_names": {
+      "name": "天台县",
+      "name:de": "Tiantai",
+      "name:en": "Tiantai County",
+      "name:fa": "شهرستان تیانتای",
+      "name:fr": "Xian de Tiantai",
+      "name:it": "Contea di Tiantai",
+      "name:ja": "天台県",
+      "name:ko": "톈타이현",
+      "name:no": "Tiantai",
+      "name:ru": "Таньтай",
+      "name:sv": "Tiantai",
+      "name:vi": "Thiên Thai",
+      "name:zh": "天台县",
+      "name:ceb": "Tiantai Xian",
+      "name:lzh": "天台",
+      "name:nan": "Thian-tâi-koān",
+      "name:wuu": "天台县",
+      "name:yue": "天台縣",
+      "name:zh-Hans": "天台",
+      "name:zh-Hant": "天台縣",
+      "name:zh_pinyin": "Tiāntāi Xiàn"
+    }
+  },
+  {
+    "name": "Tianxin",
+    "country": "China",
+    "latitude": 28.117986799933096,
+    "longitude": 112.98369279999999,
+    "other_names": {
+      "name": "天心区",
+      "name:en": "Tianxin",
+      "name:vi": "Thiên Tâm",
+      "name:zh": "天心区",
+      "alt_name": "天心;Tianxin Qu",
+      "name:zh-Hant": "天心區",
+      "name:zh_pinyin": "tiānxīn qū"
+    }
+  },
+  {
+    "name": "Tianya District",
+    "country": "China",
+    "latitude": 18.301132500260284,
+    "longitude": 109.4481593,
+    "other_names": {
+      "name": "天涯区",
+      "name:de": "Tianya",
+      "name:en": "Tianya District",
+      "name:ja": "天涯区",
+      "name:ko": "톈야구",
+      "name:sv": "Tianya",
+      "name:vi": "Thiên Nhai",
+      "name:zh": "天涯区",
+      "name:nan": "Thian-gâi-khu",
+      "name:yue": "天涯區",
+      "name:zh-Hant": "天涯區"
+    }
+  },
+  {
+    "name": "Tianyang",
+    "country": "China",
+    "latitude": 23.7380833003487,
+    "longitude": 106.91253939999999,
+    "other_names": {
+      "name": "田阳区",
+      "name:en": "Tianyang",
+      "name:vi": "Điền Dương",
+      "name:zh": "田阳区",
+      "alt_name": "田阳;Tianyang District",
+      "name:yue": "田阳区",
+      "name:zh-Hant": "田陽區",
+      "name:yue-Latn": "Tinjoeng-kyu",
+      "name:zh_pinyin": "Tianyang Qu"
+    }
+  },
+  {
+    "name": "Tianyuan",
+    "country": "China",
+    "latitude": 27.831057399965133,
+    "longitude": 113.0758021,
+    "other_names": {
+      "name": "天元区",
+      "name:de": "Tianyuan",
+      "name:en": "Tianyuan",
+      "name:es": "Tianyuan",
+      "name:fr": "District de Tianyuan",
+      "name:it": "Distretto di Tianyuan",
+      "name:ja": "天元区",
+      "name:ko": "톈위안구",
+      "name:no": "Tianyuan",
+      "name:ru": "Тяньюань",
+      "name:sv": "Tianyuan",
+      "name:vi": "Thiên Nguyên",
+      "name:zh": "天元区",
+      "alt_name": "天元;Tianyuan District",
+      "name:ceb": "Tianyuan District",
+      "name:hak": "Thiên-ngièn-khî",
+      "name:nan": "Thian-goân-khu",
+      "name:yue": "天元區",
+      "name:zh-Hant": "天元區",
+      "name:zh_pinyin": "Tiānyuán Qū"
+    }
+  },
+  {
+    "name": "Tianzhen",
+    "country": "China",
+    "latitude": 40.41591980032206,
+    "longitude": 114.0767583,
+    "other_names": {
+      "name": "天镇县",
+      "name:en": "Tianzhen",
+      "name:ja": "天鎮県",
+      "name:vi": "Thiên Trấn",
+      "name:zh": "天镇县",
+      "alt_name": "天镇;Tianzhen County",
+      "name:zh-Hant": "天鎮縣"
+    }
+  },
+  {
+    "name": "Tianzhu",
+    "country": "China",
+    "latitude": 26.91300120006745,
+    "longitude": 109.2034226,
+    "other_names": {
+      "name": "天柱县",
+      "name:en": "Tianzhu",
+      "name:vi": "Thiên Trụ",
+      "name:zh": "天柱县",
+      "name:zh-Hant": "天柱縣",
+      "name:zh_pinyin": "Tianzhu Xian"
+    }
+  },
+  {
+    "name": "Tianzhu / Bairi",
+    "country": "China",
+    "latitude": 36.971547499844775,
+    "longitude": 103.1397181,
+    "other_names": {
+      "name": "天祝县",
+      "name:bo": "དཔའ་རིས",
+      "name:en": "Tianzhu / Bairi",
+      "name:ja": "天祝チベット族自治県",
+      "name:zh": "天祝藏族自治县",
+      "alt_name": "天祝藏族自治县;天祝;天祝县;华藏寺镇;Tianzhu;Bairi;Huazangsi;Tenzhu",
+      "short_name": "天祝县",
+      "alt_name:bo": "དཔའ་རིས་བོད་རིགས་རང་སྐྱོང་རྫོང༌།",
+      "name:zh-Hant": "天祝縣",
+      "official_name": "天祝藏族自治县"
+    }
+  },
+  {
+    "name": "Tiaret",
+    "country": "Algeria",
+    "latitude": 35.366144799678636,
+    "longitude": 1.3194687,
+    "other_names": {
+      "name": "Tiaret",
+      "name:ar": "تيارت",
+      "name:de": "Tiaret",
+      "name:el": "Τιαρέτ",
+      "name:en": "Tiaret",
+      "name:es": "Tiaret",
+      "name:fa": "تیارت",
+      "name:fr": "Tiaret",
+      "name:ks": "تیارت",
+      "name:lt": "Tiaretas",
+      "name:ru": "Тиарет",
+      "name:ur": "تیارت",
+      "name:zh": "提亚雷特",
+      "name:azb": "تیارت",
+      "name:kab": "Tihert",
+      "name:pnb": "تیارت",
+      "alt_name:ar": "تيهرت;تاهرت",
+      "name:kab-Arab": "تيارت"
+    }
+  },
+  {
+    "name": "Tibati",
+    "country": "Cameroon",
+    "latitude": 6.46580329942346,
+    "longitude": 12.625320300000002,
+    "other_names": {
+      "name": "Tibati"
+    }
+  },
+  {
+    "name": "Tichit",
+    "country": "Mauritania",
+    "latitude": 18.44406200027219,
+    "longitude": -9.493115,
+    "other_names": {
+      "name": "تيشيت",
+      "name:ar": "تيشيت",
+      "name:ca": "Tichit",
+      "name:da": "Tichitt",
+      "name:de": "Tichitt",
+      "name:en": "Tichit",
+      "name:es": "Tichit",
+      "name:eu": "Tichit",
+      "name:fa": "تیشیت",
+      "name:fi": "Tichitt",
+      "name:fr": "Tichitt",
+      "name:he": "תישית",
+      "name:hi": "तिशित",
+      "name:it": "Tichitt",
+      "name:ja": "ティシット",
+      "name:ka": "ტიშიტი",
+      "name:lt": "Tišitas",
+      "name:ms": "Tichit",
+      "name:ne": "तिचित",
+      "name:nl": "Tichitt",
+      "name:no": "Tichitt",
+      "name:pl": "Tiszit",
+      "name:ro": "Tichitt",
+      "name:ur": "تیشیت",
+      "alt_name": "Tichit;Tichitt;Tishit;Tîchît",
+      "name:ast": "Tichit",
+      "name:avk": "Tichitt",
+      "name:kab": "Ticcit",
+      "alt_name:ar": "تشت"
+    }
+  }
+]

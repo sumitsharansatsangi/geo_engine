@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Nobeoka",
+    "country": "Japan",
+    "latitude": 32.58230629959229,
+    "longitude": 131.66490339999996,
+    "other_names": {
+      "name": "延岡市",
+      "name:ar": "نوبيوكا، ميازاكي",
+      "name:de": "Nobeoka",
+      "name:en": "Nobeoka",
+      "name:es": "Nobeoka",
+      "name:et": "Nobeoka",
+      "name:fr": "Nobeoka",
+      "name:hu": "Nobeoka",
+      "name:ja": "延岡市",
+      "name:ko": "노베오카시",
+      "name:pl": "Nobeoka",
+      "name:ru": "Нобеока",
+      "name:uk": "Нобеока",
+      "name:zh": "延冈市",
+      "int_name": "Nobeoka",
+      "name:zh-Hans": "延冈市",
+      "name:zh-Hant": "延岡市"
+    }
+  },
+  {
+    "name": "Noboribetsu",
+    "country": "Japan",
+    "latitude": 42.412754700512984,
+    "longitude": 141.1064964,
+    "other_names": {
+      "name": "登別市",
+      "name:ar": "نوبوريبيتسو، هوكايدو",
+      "name:de": "Noboribetsu",
+      "name:en": "Noboribetsu",
+      "name:es": "Noboribetsu",
+      "name:fr": "Noboribetsu",
+      "name:hu": "Noboribecu",
+      "name:ja": "登別市",
+      "name:ko": "노보리베쓰시",
+      "name:pl": "Noboribetsu",
+      "name:ru": "Ноборибецу",
+      "name:uk": "Ноборібецу",
+      "int_name": "Noboribetsu",
+      "name:ja_rm": "Noboribetsu-shi",
+      "name:ja_kana": "のぼりべつし"
+    }
+  },
+  {
+    "name": "Nogata",
+    "country": "Japan",
+    "latitude": 33.743935999594676,
+    "longitude": 130.72974619999997,
+    "other_names": {
+      "name": "直方市",
+      "name:ar": "نوغاتا، فوكوكا",
+      "name:de": "Nōgata",
+      "name:en": "Nogata",
+      "name:es": "Nōgata",
+      "name:fr": "Nōgata",
+      "name:ja": "直方市",
+      "name:ko": "노가타시",
+      "name:pl": "Nōgata",
+      "name:ru": "Ногата",
+      "name:uk": "Ноґата",
+      "name:zh": "直方市",
+      "int_name": "Nōgata",
+      "name:ja-Hira": "のおがたし",
+      "name:zh-Hans": "直方市",
+      "name:zh-Hant": "直方市"
+    }
+  },
+  {
+    "name": "Noginsk",
+    "country": "Russia",
+    "latitude": 55.865611118684846,
+    "longitude": 38.460451980643704,
+    "other_names": {
+      "name": "Ногинск",
+      "name:ar": "نوجينسك",
+      "name:az": "Noqinsk",
+      "name:be": "Нагінск",
+      "name:cs": "Noginsk",
+      "name:de": "Noginsk",
+      "name:en": "Noginsk",
+      "name:eo": "Noginsk",
+      "name:es": "Noguinsk",
+      "name:et": "Noginsk",
+      "name:fa": "نوگینسک",
+      "name:fi": "Noginsk",
+      "name:fr": "Noguinsk",
+      "name:hr": "Noginsk",
+      "name:it": "Noginsk",
+      "name:ja": "ノギヌスク",
+      "name:ko": "노긴스크",
+      "name:lt": "Noginskas",
+      "name:lv": "Noginska",
+      "name:nl": "Noginsk",
+      "name:nn": "Noginsk",
+      "name:no": "Noginsk",
+      "name:pl": "Nogińsk",
+      "name:pt": "Noguinsk",
+      "name:ro": "Noghinsk",
+      "name:ru": "Ногинск",
+      "name:sr": "Ногинск",
+      "name:sv": "Noginsk",
+      "name:tl": "Noginsk",
+      "name:tr": "Noginsk",
+      "name:uk": "Ногінськ",
+      "name:vi": "Noginsk",
+      "name:zh": "諾金斯克",
+      "old_name": "Богородск;Старый Рогожский Ям;Рогожа"
+    }
+  },
+  {
+    "name": "Noginsk",
+    "country": "Russia",
+    "latitude": 55.85535109972758,
+    "longitude": 38.4411898,
+    "other_names": {
+      "name": "Ногинск",
+      "name:ar": "نوجينسك",
+      "name:az": "Noqinsk",
+      "name:be": "Нагінск",
+      "name:cs": "Noginsk",
+      "name:de": "Noginsk",
+      "name:en": "Noginsk",
+      "name:eo": "Noginsk",
+      "name:es": "Noguinsk",
+      "name:et": "Noginsk",
+      "name:fa": "نوگینسک",
+      "name:fi": "Noginsk",
+      "name:fr": "Noguinsk",
+      "name:hr": "Noginsk",
+      "name:hu": "Noginszk",
+      "name:it": "Noginsk",
+      "name:ja": "ノギヌスク",
+      "name:ko": "노긴스크",
+      "name:lt": "Noginskas",
+      "name:lv": "Noginska",
+      "name:nl": "Noginsk",
+      "name:nn": "Noginsk",
+      "name:no": "Noginsk",
+      "name:pl": "Nogińsk",
+      "name:pt": "Noguinsk",
+      "name:ro": "Noghinsk",
+      "name:ru": "Ногинск",
+      "name:sr": "Ногинск",
+      "name:sv": "Noginsk",
+      "name:tl": "Noginsk",
+      "name:tr": "Noginsk",
+      "name:uk": "Ногінськ",
+      "name:vi": "Noginsk",
+      "name:zh": "諾金斯克",
+      "old_name": "Богородск;Старый Рогожский Ям;Рогожа"
+    }
+  },
+  {
+    "name": "Noida",
+    "country": "India",
+    "latitude": 28.570784099883262,
+    "longitude": 77.3271074,
+    "other_names": {
+      "name": "Noida",
+      "name:ar": "نويدا",
+      "name:en": "Noida",
+      "name:he": "נואידה",
+      "name:hi": "नोएडा",
+      "name:ja": "ノイダ",
+      "name:kn": "ನೊಯ್ಡ",
+      "name:ml": "നോയ്ഡ",
+      "name:pa": "ਨੋਇਡਾ",
+      "name:ru": "Нойда",
+      "name:ta": "நொய்டா",
+      "name:ur": "نوئیڈا",
+      "alt_name": "New Okhla Industrial Development Authority"
+    }
+  },
+  {
+    "name": "Nokou",
+    "country": "Chad",
+    "latitude": 14.58265509985802,
+    "longitude": 14.780856800000002,
+    "other_names": {
+      "name": "نكو Nokou",
+      "name:ar": "نكو",
+      "name:en": "Nokou",
+      "name:fr": "Nokou"
+    }
+  },
+  {
+    "name": "Nola",
+    "country": "Central African Republic",
+    "latitude": 3.522420099631368,
+    "longitude": 16.0535833,
+    "other_names": {
+      "name": "Nola",
+      "name:ko": "놀라",
+      "name:ru": "Нола",
+      "name:uk": "Нола"
+    }
+  },
+  {
+    "name": "Nome",
+    "country": "United States Of America",
+    "latitude": 64.50111109951513,
+    "longitude": -165.40638889999997,
+    "other_names": {
+      "name": "Nome",
+      "name:en": "Nome",
+      "name:ik": "Sitŋasuaq",
+      "name:ru": "Ном",
+      "name:uk": "Ном",
+      "name:ckb": "نۆم"
+    }
+  },
+  {
+    "name": "Nomi",
+    "country": "Japan",
+    "latitude": 36.43922619978192,
+    "longitude": 136.5424414,
+    "other_names": {
+      "name": "能美市",
+      "name:en": "Nomi",
+      "name:fr": "Nomi",
+      "name:ja": "能美市",
+      "name:ko": "노미시",
+      "name:ja_rm": "Nomi-Shi",
+      "name:ja_kana": "のみし"
+    }
+  },
+  {
+    "name": "Nong'an",
+    "country": "China",
+    "latitude": 44.431058700512516,
+    "longitude": 125.1662116,
+    "other_names": {
+      "name": "农安县",
+      "name:en": "Nong'an",
+      "name:ja": "農安県",
+      "name:ru": "Нунъань",
+      "name:uk": "Нун'ань",
+      "name:zh": "农安县",
+      "alt_name": "农安;Nong'an County;Nong'an Town;Nong'an City",
+      "name:zh-Hant": "農安縣",
+      "official_name": "农安镇"
+    }
+  },
+  {
+    "name": "Nonoichi",
+    "country": "Japan",
+    "latitude": 36.51972059979098,
+    "longitude": 136.6098107,
+    "other_names": {
+      "name": "野々市市",
+      "name:en": "Nonoichi",
+      "name:fr": "Nonoichi",
+      "name:ja": "野々市市",
+      "name:ko": "노노이치시",
+      "name:ru": "Ноноити",
+      "name:uk": "Ноноїті",
+      "name:ja_rm": "Nonoichi-shi"
+    }
+  },
+  {
+    "name": "Nonsan-si",
+    "country": "South Korea",
+    "latitude": 36.18686229975462,
+    "longitude": 127.09878569999997,
+    "other_names": {
+      "name": "논산시",
+      "name:cs": "Nonsan",
+      "name:de": "Nonsan",
+      "name:en": "Nonsan-si",
+      "name:es": "Nonsan",
+      "name:et": "Nonsan",
+      "name:fr": "Nonsan",
+      "name:ja": "論山市",
+      "name:ko": "논산시",
+      "name:ru": "Нонсан",
+      "name:zh": "论山市",
+      "int_name": "Nonsan",
+      "name:ja_kana": "のんさん",
+      "name:ko-Hani": "論山市",
+      "name:ko-Latn": "Nonsan",
+      "name:zh-Hant": "論山市"
+    }
+  },
+  {
+    "name": "Nonthaburi",
+    "country": "Thailand",
+    "latitude": 13.84289329977213,
+    "longitude": 100.49377739999998,
+    "other_names": {
+      "name": "นนทบุรี",
+      "name:en": "Nonthaburi",
+      "name:et": "Nonthaburi",
+      "name:ja": "ノンタブリー",
+      "name:ru": "Нонтабури",
+      "name:th": "นนทบุรี",
+      "name:zh": "暖武里市",
+      "official_name": "เทศบาลนครนนทบุรี"
+    }
+  },
+  {
+    "name": "Norfolk",
+    "country": "United States Of America",
+    "latitude": 42.028337900488324,
+    "longitude": -97.4169964,
+    "other_names": {
+      "name": "Norfolk",
+      "name:ru": "Норфолк"
+    }
+  },
+  {
+    "name": "Norfolk",
+    "country": "United States Of America",
+    "latitude": 36.89680519983556,
+    "longitude": -76.26023359999999,
+    "other_names": {
+      "name": "Norfolk",
+      "name:zh-Hans": "诺福克",
+      "name:zh-Hant": "諾福克"
+    }
+  },
+  {
+    "name": "Norilsk",
+    "country": "Russia",
+    "latitude": 69.34983939819595,
+    "longitude": 88.20051699999999,
+    "other_names": {
+      "name": "Норильск",
+      "name:de": "Norilsk",
+      "name:en": "Norilsk",
+      "name:et": "Norilsk",
+      "name:ja": "ノリリスク",
+      "name:ko": "노릴스크",
+      "name:lt": "Norilskas",
+      "name:pl": "Norylsk",
+      "name:ru": "Норильск",
+      "name:uk": "Норильськ",
+      "int_name": "Noril'sk"
+    }
+  },
+  {
+    "name": "Norilsk",
+    "country": "Russia",
+    "latitude": 69.28656889326963,
+    "longitude": 87.95734970372149,
+    "other_names": {
+      "name": "Норильск",
+      "name:de": "Norilsk",
+      "name:en": "Norilsk",
+      "name:ja": "ノリリスク",
+      "name:ru": "Норильск",
+      "name:uk": "Норильськ",
+      "int_name": "Noril'sk"
+    }
+  },
+  {
+    "name": "Norman",
+    "country": "United States Of America",
+    "latitude": 35.22257169966753,
+    "longitude": -97.43948159999998,
+    "other_names": {
+      "name": "Norman",
+      "name:ar": "نورمان"
+    }
+  },
+  {
+    "name": "Norris",
+    "country": "United States Of America",
+    "latitude": 36.19563429975554,
+    "longitude": -84.06797399999999,
+    "other_names": {
+      "name": "Norris"
+    }
+  }
+]

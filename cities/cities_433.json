@@ -1,0 +1,355 @@
+[
+  {
+    "name": "She",
+    "country": "China",
+    "latitude": 36.569484599796674,
+    "longitude": 113.66960099999999,
+    "other_names": {
+      "name": "涉县",
+      "name:en": "She",
+      "name:ja": "渉県",
+      "name:vi": "Thiệp",
+      "name:zh": "涉县",
+      "alt_name": "涉;Shexian;She County",
+      "name:zh-Hant": "涉縣",
+      "name:zh_pinyin": "She Xian"
+    }
+  },
+  {
+    "name": "Sheberghan",
+    "country": "Afghanistan",
+    "latitude": 36.662131299807406,
+    "longitude": 65.76116699999999,
+    "other_names": {
+      "name": "شبرغان",
+      "name:ar": "شبرغان",
+      "name:cs": "Šeberghán",
+      "name:de": "Scheberghan",
+      "name:el": "Σιμπαργκάν",
+      "name:en": "Sheberghan",
+      "name:es": "Sibargán",
+      "name:et": "Sheberghān",
+      "name:fa": "شبرغان",
+      "name:fr": "Chéberghân",
+      "name:hi": "शबरग़ान",
+      "name:ja": "シェベルガーン",
+      "name:ps": "شبرغان",
+      "name:ru": "Шибирган",
+      "name:tr": "Şibirgan",
+      "name:uk": "Шибарган",
+      "name:uz": "Shibirgʻon",
+      "alt_name": "Sheberghān;Shaburghān;Shebirghan;Shibarghan",
+      "int_name": "Sheberghan",
+      "name:ast": "Sibargán"
+    }
+  },
+  {
+    "name": "Sheboygan",
+    "country": "United States Of America",
+    "latitude": 43.75082840053913,
+    "longitude": -87.71453,
+    "other_names": {
+      "name": "Sheboygan"
+    }
+  },
+  {
+    "name": "Sheffield",
+    "country": "England",
+    "latitude": 53.38066259910893,
+    "longitude": -1.4702278,
+    "other_names": {
+      "name": "Sheffield",
+      "name:ar": "شفيلد",
+      "name:be": "Шэфілд",
+      "name:bg": "Шефилд",
+      "name:el": "Σέφιλντ",
+      "name:fa": "شفیلد",
+      "name:he": "שפילד",
+      "name:hi": "शेफ़ील्ड",
+      "name:ja": "シェフィールド",
+      "name:ko": "셰필드",
+      "name:lt": "Šefildas",
+      "name:lv": "Šefīlda",
+      "name:mk": "Шефилд",
+      "name:mr": "शेफील्ड",
+      "name:os": "Шеффилд",
+      "name:ru": "Шеффилд",
+      "name:sr": "Шефилд",
+      "name:te": "షెఫీల్డ్",
+      "name:th": "เชฟฟีลด์",
+      "name:uk": "Шеффілд",
+      "name:zh": "谢菲尔德",
+      "name:pnb": "شیفیلڈ"
+    }
+  },
+  {
+    "name": "Shehong",
+    "country": "China",
+    "latitude": 30.87935419966936,
+    "longitude": 105.37968840000002,
+    "other_names": {
+      "name": "射洪市",
+      "name:en": "Shehong",
+      "name:vi": "Xạ Hồng",
+      "name:zh": "射洪市",
+      "alt_name": "射洪;Shehong City",
+      "old_name": "射洪县;Shehong County",
+      "name:zh-Hant": "射洪市",
+      "name:zh_pinyin": "Shehong Shi"
+    }
+  },
+  {
+    "name": "Shehr Sultan",
+    "country": "Pakistan",
+    "latitude": 29.574805199779398,
+    "longitude": 71.0222905,
+    "other_names": {
+      "name": "شہر صلطان",
+      "name:en": "Shehr Sultan",
+      "name:ru": "Шахарсултан",
+      "alt_name": "Shahr Sultan"
+    }
+  },
+  {
+    "name": "Sheikhupura",
+    "country": "Pakistan",
+    "latitude": 31.70852849962086,
+    "longitude": 73.98640140000002,
+    "other_names": {
+      "name": "شیخوپورہ",
+      "name:ar": "شيخوبورا",
+      "name:de": "Sheikhupura",
+      "name:en": "Sheikhupura",
+      "name:es": "Sheikhupura",
+      "name:et": "Shekhūpura",
+      "name:fa": "شیخوپوره",
+      "name:fr": "Sheikhupura",
+      "name:hi": "शेखपुरा",
+      "name:ja": "シークープラ",
+      "name:pa": "ਸ਼ੇਖ਼ੂਪੁਰਾ",
+      "name:ps": "شيخوپوره",
+      "name:ru": "Шекхупура",
+      "name:sd": "شيخوپوره",
+      "name:ur": "شیخوپورہ",
+      "name:pnb": "شیخوپورا",
+      "alt_name:ur": "شیخو پورہ"
+    }
+  },
+  {
+    "name": "Sheikhupura",
+    "country": "Pakistan",
+    "latitude": 31.710836080775863,
+    "longitude": 73.98608468183423,
+    "other_names": {
+      "name": "شیخوپورہ",
+      "name:ar": "شيخوبورا",
+      "name:en": "Sheikhupura",
+      "name:fa": "شیخوپوره",
+      "name:pa": "ਸ਼ੇਖ਼ੂਪੁਰਾ",
+      "name:ps": "شيخوپوره",
+      "name:sd": "شيخوپوره",
+      "name:ur": "شیخوپورہ",
+      "name:pnb": "شیخوپورا",
+      "alt_name:ur": "شیخو پورہ"
+    }
+  },
+  {
+    "name": "Sheikh Zayed City",
+    "country": "Egypt",
+    "latitude": 30.048346999735447,
+    "longitude": 30.983223499999998,
+    "other_names": {
+      "name": "مدينة الشيخ زايد",
+      "name:ar": "مدينة الشيخ زايد",
+      "name:en": "Sheikh Zayed City",
+      "name:fr": "Sheikh Zayed City",
+      "alt_name": "مدينة الشيخ زايد"
+    }
+  },
+  {
+    "name": "Sheki",
+    "country": "Azerbaijan",
+    "latitude": 41.20336090041422,
+    "longitude": 47.180262299999995,
+    "other_names": {
+      "name": "Şəki",
+      "name:ar": "شكي",
+      "name:az": "Şəki",
+      "name:de": "Şəki",
+      "name:en": "Sheki",
+      "name:es": "Şəki",
+      "name:fr": "Şəki",
+      "name:hi": "शेकी",
+      "name:ja": "シャキ",
+      "name:ka": "შაქი",
+      "name:ks": "شکی",
+      "name:ru": "Шеки",
+      "name:ur": "شکی",
+      "int_name": "Shaki",
+      "name:azb": "شکی",
+      "name:pnb": "شکی",
+      "old_name": "Nukha"
+    }
+  },
+  {
+    "name": "Shelby",
+    "country": "United States Of America",
+    "latitude": 35.29194889967282,
+    "longitude": -81.5402112,
+    "other_names": {
+      "name": "Shelby",
+      "alt_name": "City of Pleasant Living"
+    }
+  },
+  {
+    "name": "Shenbei",
+    "country": "China",
+    "latitude": 41.91583190047985,
+    "longitude": 123.58368099999997,
+    "other_names": {
+      "name": "沈北新区",
+      "name:en": "Shenbei",
+      "name:ja": "瀋北新区",
+      "name:ko": "선베이신구",
+      "name:zh": "沈北新区",
+      "alt_name": "沈北新;Shenbei;Shenbei New Area;Shenbei New District",
+      "name:zh-Hant": "沈北新區"
+    }
+  },
+  {
+    "name": "Shenchi",
+    "country": "China",
+    "latitude": 39.08668380013846,
+    "longitude": 112.192819,
+    "other_names": {
+      "name": "神池县",
+      "name:en": "Shenchi",
+      "name:ja": "神池県",
+      "name:zh": "神池县",
+      "alt_name": "神池;Shen-ch'ih-hsien-ch'eng;Shen-ch'ih-hsien;Shen-ch'ih;Shenchi Xian",
+      "name:zh-Hant": "神池縣"
+    }
+  },
+  {
+    "name": "Shendi",
+    "country": "Sudan",
+    "latitude": 16.68849630010191,
+    "longitude": 33.43228599999999,
+    "other_names": {
+      "name": "شندي",
+      "name:ar": "شندي",
+      "name:de": "Schandi",
+      "name:en": "Shendi",
+      "name:fa": "شندی",
+      "name:fr": "Chendi",
+      "name:ks": "شندی",
+      "name:ur": "شندی",
+      "alt_name": "Shendi;Shindî;Shindi;Shandi",
+      "int_name": "Shendi",
+      "name:azb": "شندی",
+      "name:ota": "شندی",
+      "alt_name:ar": "شند"
+    }
+  },
+  {
+    "name": "Shengsi",
+    "country": "China",
+    "latitude": 30.727851599680218,
+    "longitude": 122.44692869999999,
+    "other_names": {
+      "name": "嵊泗县",
+      "name:en": "Shengsi",
+      "name:zh": "嵊泗县",
+      "name:zh-Hant": "嵊泗縣"
+    }
+  },
+  {
+    "name": "Shengzhou",
+    "country": "China",
+    "latitude": 29.563368699780497,
+    "longitude": 120.82720610000001,
+    "other_names": {
+      "name": "嵊州市",
+      "name:de": "Shengzhou",
+      "name:en": "Shengzhou",
+      "name:fr": "Shengzhou",
+      "name:ja": "ジョウ州市",
+      "name:vi": "Thặng Châu",
+      "name:zh": "嵊州市",
+      "name:zh-Hant": "嵊州市",
+      "name:zh_pinyin": "Shèngzhōu Shi"
+    }
+  },
+  {
+    "name": "Shengzhou City",
+    "country": "China",
+    "latitude": 37.99950849998191,
+    "longitude": 115.55552340000001,
+    "other_names": {
+      "name": "深州市",
+      "name:de": "Shenzhou",
+      "name:en": "Shengzhou City",
+      "name:fr": "Shenzhou",
+      "name:ja": "深州市",
+      "name:vi": "Thâm Châu",
+      "name:zh": "深州市",
+      "alt_name": "深州",
+      "alt_name:en": "Shenzhou City",
+      "alt_name:zh": "深州",
+      "name:zh-Hant": "深州市",
+      "official_name": "深州镇",
+      "name:zh_pinyin": "Shēnzhōu Shì"
+    }
+  },
+  {
+    "name": "Shenhe",
+    "country": "China",
+    "latitude": 41.79332860046999,
+    "longitude": 123.4521673,
+    "other_names": {
+      "name": "沈河区",
+      "name:en": "Shenhe",
+      "name:ja": "瀋河区",
+      "name:ko": "선허구",
+      "name:zh": "沈河区",
+      "alt_name": "沈河;Shenhe District",
+      "name:zh-Hant": "瀋河區"
+    }
+  },
+  {
+    "name": "Shenmu",
+    "country": "China",
+    "latitude": 38.82297270010024,
+    "longitude": 110.49468639999999,
+    "other_names": {
+      "name": "神木市",
+      "name:en": "Shenmu",
+      "name:ja": "神木市",
+      "name:ru": "Шеньму",
+      "name:tr": "Shenmu",
+      "name:vi": "Thần Mộc",
+      "name:zh": "神木市",
+      "alt_name": "神木镇;Shing-mu;Shen-mu-hsien;Shen-shui;Shenmu",
+      "int_name": "Shenmu",
+      "old_name": "神木县",
+      "name:zh-Hant": "神木市"
+    }
+  },
+  {
+    "name": "Shennongjia",
+    "country": "China",
+    "latitude": 31.742622799619287,
+    "longitude": 110.68130699999999,
+    "other_names": {
+      "name": "神农架林区",
+      "name:en": "Shennongjia",
+      "name:ja": "神農架林区",
+      "name:vi": "Thần Nông Giá",
+      "name:zh": "神农架林区",
+      "alt_name": "神农架;松柏镇;松柏;Songbai",
+      "int_name": "shen nong jia",
+      "name:zh-Hant": "神農架林區",
+      "name:zh_pinyin": "Shénnóngjià lín qū"
+    }
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Oslo",
+    "country": "Norway",
+    "latitude": 59.91333010159881,
+    "longitude": 10.7389701,
+    "other_names": {
+      "name": "Oslo",
+      "name:am": "ኦስሎ",
+      "name:ar": "أوسلو",
+      "name:be": "Осла",
+      "name:bg": "Осло",
+      "name:bo": "ཨོ་སི་ལོ།",
+      "name:ca": "Oslo",
+      "name:co": "Oslu",
+      "name:cv": "Осло",
+      "name:de": "Oslo",
+      "name:el": "Όσλο",
+      "name:en": "Oslo",
+      "name:eo": "Oslo",
+      "name:es": "Oslo",
+      "name:fa": "اسلو",
+      "name:fr": "Oslo",
+      "name:ga": "Osló",
+      "name:he": "אוסלו",
+      "name:hi": "ओस्लो",
+      "name:hu": "Oslo",
+      "name:hy": "Օսլո",
+      "name:is": "Ósló",
+      "name:it": "Oslo",
+      "name:ja": "オスロ",
+      "name:ka": "ოსლო",
+      "name:kk": "Осло",
+      "name:ko": "오슬로",
+      "name:ku": "Oslo",
+      "name:kv": "Осло",
+      "name:ky": "Осло",
+      "name:la": "Asloa",
+      "name:lt": "Oslas",
+      "name:mi": "Ōhoro",
+      "name:mk": "Осло",
+      "name:ml": "ഓസ്ലൊ",
+      "name:mr": "ओस्लो",
+      "name:my": "အော့စလိုမြို့",
+      "name:ne": "ओस्लो",
+      "name:nn": "Oslo",
+      "name:no": "Oslo",
+      "name:oc": "Òslo",
+      "name:os": "Осло",
+      "name:pl": "Oslo",
+      "name:ps": "اوسلو",
+      "name:pt": "Oslo",
+      "name:ru": "Осло",
+      "name:sr": "Осло",
+      "name:sv": "Oslo",
+      "name:ta": "ஒஸ்லோ",
+      "name:tg": "Осло",
+      "name:th": "ออสโล",
+      "name:tt": "Осло",
+      "name:ug": "ئوسلو",
+      "name:uk": "Осло",
+      "name:ur": "اوسلو",
+      "name:zh": "奧斯陸",
+      "name:arc": "ܐܘܣܠܘ",
+      "name:ast": "Oslo",
+      "name:bpy": "ওসলো",
+      "name:ckb": "ئۆسلۆ",
+      "name:lez": "Осло",
+      "name:lzh": "奧斯陸",
+      "name:mrj": "Осло",
+      "name:myv": "Осло ош",
+      "name:mzn": "اسلو",
+      "name:nds": "Oslo",
+      "name:pms": "Òslo",
+      "name:pnb": "اوسلو",
+      "name:sah": "Осло",
+      "name:scn": "Oslu",
+      "name:udm": "Осло",
+      "name:yue": "奧斯陸",
+      "old_name:cs": "Kristiania",
+      "old_name:en": "Christiania",
+      "name:bat-smg": "Uoslos",
+      "name:zh-Hans": "奥斯陆",
+      "name:be-tarask": "Осьлё",
+      "old_name:1624-1924": "Christiania"
+    }
+  },
+  {
+    "name": "Osmanabad",
+    "country": "India",
+    "latitude": 18.185356700250342,
+    "longitude": 76.04202529999999,
+    "other_names": {
+      "name": "Osmanabad",
+      "name:ar": "عثمان آباد",
+      "name:hi": "उस्मानाबाद",
+      "name:kn": "ಉಸ್ಮಾನಾಬಾದ್",
+      "name:mr": "उस्मानाबाद",
+      "name:ur": "عثمان آباد"
+    }
+  },
+  {
+    "name": "Osmaniye",
+    "country": "Turkey",
+    "latitude": 37.07367099985755,
+    "longitude": 36.255941,
+    "other_names": {
+      "name": "Osmaniye",
+      "name:ar": "عثمانية",
+      "name:el": "Επαρχία Οσμανίγιε",
+      "name:hi": "उस्मानिया",
+      "name:hu": "Osmaniye",
+      "name:hy": "Օսմանիեի մարզ",
+      "name:ka": "ოსმანიე",
+      "name:ku": "Kinikan",
+      "name:ru": "Османие",
+      "old_name": "Cebel-i Bereket"
+    }
+  },
+  {
+    "name": "Osnabrück",
+    "country": "Germany",
+    "latitude": 52.27195949909808,
+    "longitude": 8.047634999999998,
+    "other_names": {
+      "name": "Osnabrück",
+      "name:ar": "أسنابروك",
+      "name:bg": "Оснабрюк",
+      "name:de": "Osnabrück",
+      "name:he": "אוסנבריק",
+      "name:ja": "オスナブリュック",
+      "name:la": "Osnabruga",
+      "name:nl": "Osnabrück",
+      "name:ru": "Оснабрюк",
+      "name:sr": "Оснабрик",
+      "name:uk": "Оснабрюк",
+      "name:zh": "奥斯纳布吕克",
+      "name:nds": "Ossenbrügge"
+    }
+  },
+  {
+    "name": "Osogbo",
+    "country": "Nigeria",
+    "latitude": 7.779166599391498,
+    "longitude": 4.553889099999999,
+    "other_names": {
+      "name": "Osogbo",
+      "name:ar": "أوسوغبو",
+      "name:ko": "오쇼그보",
+      "name:pl": "Oshogbo",
+      "name:ru": "Ошогбо",
+      "name:uk": "Ошогбо"
+    }
+  },
+  {
+    "name": "Osorno",
+    "country": "Chile",
+    "latitude": -40.57332230098493,
+    "longitude": -73.13590109999998,
+    "other_names": {
+      "name": "Osorno",
+      "name:en": "Osorno",
+      "name:ru": "Осорно",
+      "name:uk": "Осорно"
+    }
+  },
+  {
+    "name": "Ospino",
+    "country": "Venezuela",
+    "latitude": 9.300346499409757,
+    "longitude": -69.4556825,
+    "other_names": {
+      "name": "Ospino",
+      "alt_name": "Villa de San Fernando de Ospino"
+    }
+  },
+  {
+    "name": "Ostend",
+    "country": "Belgium",
+    "latitude": 51.22585649921225,
+    "longitude": 2.9194959999999996,
+    "other_names": {
+      "name": "Oostende",
+      "name:de": "Ostende",
+      "name:en": "Ostend",
+      "name:es": "Ostende",
+      "name:fr": "Ostende",
+      "name:he": "אוסטנדה",
+      "name:it": "Ostenda",
+      "name:la": "Ostenda",
+      "name:lt": "Ostendė",
+      "name:nl": "Oostende",
+      "name:pl": "Ostenda",
+      "name:ru": "Остенде",
+      "name:uk": "Остенде",
+      "name:wa": "Ostinde",
+      "name:vls": "Ostende",
+      "name:zh-Hans": "奥斯坦德",
+      "name:zh-Hant": "奧斯坦德"
+    }
+  },
+  {
+    "name": "Östersund",
+    "country": "Sweden",
+    "latitude": 63.17936550085207,
+    "longitude": 14.6357061,
+    "other_names": {
+      "name": "Östersund",
+      "name:lt": "Estešundas",
+      "name:ru": "Эстерсунд",
+      "name:sr": "Естерсунд",
+      "name:sv": "Östersund",
+      "name:sma": "Staare"
+    }
+  },
+  {
+    "name": "Ostrava",
+    "country": "Czech Republic",
+    "latitude": 49.83491389949026,
+    "longitude": 18.2820084,
+    "other_names": {
+      "name": "Ostrava",
+      "name:ar": "أوسترافا",
+      "name:cs": "Ostrava",
+      "name:de": "Ostrau",
+      "name:el": "Οστράβα",
+      "name:fa": "استراوا",
+      "name:la": "Ostravia",
+      "name:pl": "Ostrawa",
+      "name:ru": "Острава",
+      "name:sr": "Острава",
+      "name:uk": "Острава",
+      "name:ur": "اوستراوا"
+    }
+  },
+  {
+    "name": "Ostrołęka",
+    "country": "Poland",
+    "latitude": 53.08431349909088,
+    "longitude": 21.5668607,
+    "other_names": {
+      "name": "Ostrołęka",
+      "name:de": "Ostrolenka",
+      "name:lt": "Ostrolenka",
+      "name:mk": "Остроленка",
+      "name:pl": "Ostrołęka",
+      "name:ru": "Остроленка"
+    }
+  },
+  {
+    "name": "Ota",
+    "country": "Japan",
+    "latitude": 36.29115609976569,
+    "longitude": 139.3754233,
+    "other_names": {
+      "name": "太田市",
+      "name:ar": "أوتا، غونما",
+      "name:de": "Ōta",
+      "name:en": "Ota",
+      "name:es": "Ōta",
+      "name:fr": "Ōta",
+      "name:ja": "太田市",
+      "name:ko": "오타시",
+      "name:pl": "Ōta",
+      "name:ru": "Ота",
+      "name:uk": "Ота",
+      "name:ja_rm": "Ota-shi",
+      "name:ja-Hira": "おおたし"
+    }
+  },
+  {
+    "name": "Ota",
+    "country": "Japan",
+    "latitude": 35.56120599969481,
+    "longitude": 139.715843,
+    "other_names": {
+      "name": "大田区",
+      "name:ar": "أوتا، طوكيو",
+      "name:de": "Ōta-ku",
+      "name:en": "Ota",
+      "name:es": "Ōta-ku",
+      "name:fr": "Ōta-ku",
+      "name:it": "Ota",
+      "name:ja": "大田区",
+      "name:ko": "오타구",
+      "name:lt": "Ota",
+      "name:pl": "Ōta",
+      "name:ru": "Ота",
+      "name:uk": "Ота",
+      "int_name": "Ōta-ku",
+      "name:ja-Hira": "おおたく",
+      "name:ja-Latn": "Ōta"
+    }
+  },
+  {
+    "name": "Otake",
+    "country": "Japan",
+    "latitude": 34.23787419961036,
+    "longitude": 132.2223092,
+    "other_names": {
+      "name": "大竹市",
+      "name:ar": "أوتاكي، هیروشیما",
+      "name:de": "Ōtake",
+      "name:en": "Otake",
+      "name:es": "Ōtake",
+      "name:eu": "Otake",
+      "name:fr": "Ōtake",
+      "name:ja": "大竹市",
+      "name:ko": "오타케시",
+      "name:pl": "Ōtake",
+      "name:ru": "Отаке",
+      "name:uk": "Отаке",
+      "int_name": "Ōtake",
+      "name:ja-Hira": "おおたけし",
+      "name:ja-Latn": "Otake-shi"
+    }
+  },
+  {
+    "name": "Otaru",
+    "country": "Japan",
+    "latitude": 43.190680600540254,
+    "longitude": 140.9946021,
+    "other_names": {
+      "name": "小樽市",
+      "name:ar": "أوتارو، هوكايدو",
+      "name:de": "Otaru",
+      "name:en": "Otaru",
+      "name:es": "Otaru",
+      "name:fr": "Otaru",
+      "name:hu": "Otaru",
+      "name:ja": "小樽市",
+      "name:ko": "오타루시",
+      "name:pl": "Otaru",
+      "name:ru": "Отару",
+      "name:uk": "Отару",
+      "int_name": "Otaru",
+      "name:ja_rm": "Otaru-shi",
+      "name:ja_kana": "おたるし"
+    }
+  },
+  {
+    "name": "Otjiwarongo",
+    "country": "Namibia",
+    "latitude": -20.463582900355277,
+    "longitude": 16.6490992,
+    "other_names": {
+      "name": "Otjiwarongo",
+      "name:lt": "Očivarongas",
+      "name:ru": "Очиваронго"
+    }
+  },
+  {
+    "name": "Otog",
+    "country": "China",
+    "latitude": 39.09264040013934,
+    "longitude": 107.9775674,
+    "other_names": {
+      "name": "鄂托克旗",
+      "name:en": "Otog",
+      "name:ja": "オトク旗",
+      "name:zh": "鄂托克旗",
+      "name:zh-Hant": "鄂托克旗"
+    }
+  },
+  {
+    "name": "Otog Front Banner",
+    "country": "China",
+    "latitude": 38.18437370000811,
+    "longitude": 107.47390809999999,
+    "other_names": {
+      "name": "鄂托克前旗",
+      "name:en": "Otog Front Banner",
+      "name:ja": "オトク前旗",
+      "name:zh": "鄂托克前旗",
+      "alt_name": "鄂托克前;Etuoke Qianqi;O-t'o-k'o Ch'ien-ch'i;Etuoke;Otog;Otog Qianqi",
+      "name:zh-Hant": "鄂托克前旗"
+    }
+  },
+  {
+    "name": "Otsu",
+    "country": "Japan",
+    "latitude": 35.004709599651974,
+    "longitude": 135.8686739,
+    "other_names": {
+      "name": "大津市",
+      "name:cs": "Ócu",
+      "name:en": "Otsu",
+      "name:et": "Ōtsu",
+      "name:fr": "Ōtsu",
+      "name:ja": "大津市",
+      "name:ko": "오쓰시",
+      "name:lt": "Ocu",
+      "name:pl": "Ōtsu",
+      "name:ru": "Оцу",
+      "name:uk": "Оцу",
+      "name:ja_rm": "Ōtsu-shi",
+      "name:ja_kana": "おおつし"
+    }
+  },
+  {
+    "name": "Otsuki",
+    "country": "Japan",
+    "latitude": 35.643041999701964,
+    "longitude": 138.916862,
+    "other_names": {
+      "name": "大月市",
+      "name:ar": "أوتسوكي، ياماناشي",
+      "name:de": "Ōtsuki",
+      "name:en": "Otsuki",
+      "name:es": "Ōtsuki",
+      "name:fr": "Otsuki",
+      "name:ja": "大月市",
+      "name:ko": "오쓰키시",
+      "name:pl": "Ōtsuki",
+      "name:ru": "Оцуки",
+      "name:uk": "Оцукі",
+      "int_name": "Ōtsuki",
+      "name:ja_rm": "Otsuki-shi",
+      "name:ja_kana": "おおつきし"
+    }
+  }
+]

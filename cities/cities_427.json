@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Serang",
+    "country": "Indonesia",
+    "latitude": -6.116966199686371,
+    "longitude": 106.1518079,
+    "other_names": {
+      "name": "Serang",
+      "name:ja": "セラン",
+      "name:ko": "세랑",
+      "name:ms": "Serang",
+      "name:ru": "Серанг",
+      "name:zh": "西冷"
+    }
+  },
+  {
+    "name": "Serdar",
+    "country": "Turkmenistan",
+    "latitude": 38.97484480012226,
+    "longitude": 56.2765852,
+    "other_names": {
+      "name": "Serdar",
+      "name:en": "Serdar",
+      "name:ja": "セルダル",
+      "name:ru": "Сердар",
+      "name:tk": "Serdar",
+      "alt_name": "Kyzyl Arbat",
+      "old_name": "Gyzylarbat",
+      "alt_name:tk": "Gyzyl Arvat",
+      "old_name:ru": "Кызыл Арбат"
+    }
+  },
+  {
+    "name": "Seremban",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 2.72475619971051,
+    "longitude": 101.9344913,
+    "other_names": {
+      "name": "Seremban",
+      "name:en": "Seremban",
+      "name:ja": "スレンバン",
+      "name:ru": "Серембан",
+      "name:uk": "Серембан",
+      "name:zh": "芙蓉"
+    }
+  },
+  {
+    "name": "Sergiyev Posad",
+    "country": "Russia",
+    "latitude": 56.30822765537338,
+    "longitude": 38.134504500751106,
+    "other_names": {
+      "name": "Сергиев Посад",
+      "name:be": "Сергіеў Пасад",
+      "name:de": "Sergijew Possad",
+      "name:en": "Sergiyev Posad",
+      "name:et": "Sergijev Possad",
+      "name:fr": "Serguiev Possad",
+      "name:hr": "Sergiyev Posad",
+      "name:lt": "Sergijev Posadas",
+      "name:pl": "Siergijew Posad",
+      "name:ru": "Сергиев Посад",
+      "name:sr": "Сергијев Посад",
+      "name:uk": "Сергієв Посад",
+      "int_name": "Sergiyev Posad",
+      "old_name": "Сергиевдо;Загорск",
+      "old_name:de": "Sagorsk"
+    }
+  },
+  {
+    "name": "Sergiyev Posad",
+    "country": "Russia",
+    "latitude": 56.31535289992728,
+    "longitude": 38.1358208,
+    "other_names": {
+      "name": "Сергиев Посад",
+      "name:be": "Сергіеў Пасад",
+      "name:de": "Sergijew Possad",
+      "name:en": "Sergiyev Posad",
+      "name:et": "Sergijev Possad",
+      "name:fr": "Serguiev Possad",
+      "name:hr": "Sergiyev Posad",
+      "name:hu": "Szergijev Poszad",
+      "name:ko": "세르기예프포사트",
+      "name:lt": "Sergijev Posadas",
+      "name:pl": "Siergijew Posad",
+      "name:ru": "Сергиев Посад",
+      "name:sr": "Сергијев Посад",
+      "name:uk": "Сергієв Посад",
+      "int_name": "Sergiyev Posad",
+      "old_name": "Сергиевдо;Загорск",
+      "old_name:de": "Sagorsk"
+    }
+  },
+  {
+    "name": "Serhetabat",
+    "country": "Turkmenistan",
+    "latitude": 35.27400619967143,
+    "longitude": 62.3253672,
+    "other_names": {
+      "name": "Serhetabat",
+      "name:ar": "سرحد آباد",
+      "name:fa": "سرحدآباد",
+      "name:ru": "Серхетабад",
+      "name:tk": "Serhetabat",
+      "name:ur": "سرحدآباد",
+      "alt_name": "Serhetabad",
+      "name:pnb": "سرحدآباد",
+      "old_name": "Kushka",
+      "old_name:ar": "كوشكا",
+      "old_name:ru": "Кушка"
+    }
+  },
+  {
+    "name": "Serian",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 1.1692687998762334,
+    "longitude": 110.56897989999999,
+    "other_names": {
+      "name": "Serian",
+      "name:zh": "西连"
+    }
+  },
+  {
+    "name": "Serov",
+    "country": "Russia",
+    "latitude": 59.60807903725209,
+    "longitude": 60.581994421652404,
+    "other_names": {
+      "name": "Серов",
+      "name:de": "Serow",
+      "name:en": "Serov",
+      "name:ja": "セローフ",
+      "name:ru": "Серов",
+      "int_name": "Serov",
+      "old_name": "Надеждинск",
+      "old_name:2": "Кабаковск"
+    }
+  },
+  {
+    "name": "Serov",
+    "country": "Russia",
+    "latitude": 59.6051267015024,
+    "longitude": 60.5733483,
+    "other_names": {
+      "name": "Серов",
+      "name:ar": "سيروف",
+      "name:de": "Serow",
+      "name:en": "Serov",
+      "name:es": "Serov",
+      "name:et": "Serov",
+      "name:fr": "Serov",
+      "name:hu": "Szerov",
+      "name:ja": "セローフ",
+      "name:ko": "세로프",
+      "name:lt": "Serovas",
+      "name:pl": "Sierow",
+      "name:ru": "Серов",
+      "name:uk": "Сєров",
+      "int_name": "Serov",
+      "old_name": "Надеждинск",
+      "old_name:2": "Кабаковск",
+      "name:ru:word_stress": "Серо́в"
+    }
+  },
+  {
+    "name": "Serowe",
+    "country": "Botswana",
+    "latitude": -22.405087535614232,
+    "longitude": 26.71943690176781,
+    "other_names": {
+      "name": "Serowe"
+    }
+  },
+  {
+    "name": "Serowe",
+    "country": "Botswana",
+    "latitude": -22.39776000014702,
+    "longitude": 26.703288999999998,
+    "other_names": {
+      "name": "Serowe",
+      "name:en": "Serowe",
+      "name:ko": "세로웨",
+      "name:ru": "Серове",
+      "name:uk": "Серове"
+    }
+  },
+  {
+    "name": "Serpukhov",
+    "country": "Russia",
+    "latitude": 54.915524699395334,
+    "longitude": 37.4195533,
+    "other_names": {
+      "name": "Серпухов",
+      "name:ar": "سربوخوف",
+      "name:az": "Serpuxov",
+      "name:be": "Серпухаў",
+      "name:ca": "Sérpukhov",
+      "name:cs": "Serpuchov",
+      "name:cv": "Серпухов",
+      "name:de": "Serpuchow",
+      "name:en": "Serpukhov",
+      "name:eo": "Serpuĥov",
+      "name:es": "Sérpujov",
+      "name:et": "Serpuhhov",
+      "name:fa": "سرپوخوف",
+      "name:fi": "Serpuhov",
+      "name:fr": "Serpoukhov",
+      "name:hu": "Szerpuhov",
+      "name:it": "Serpuchov",
+      "name:ja": "セルプホフ",
+      "name:ko": "세르푸호프",
+      "name:la": "Serpuchovia",
+      "name:lt": "Serpuchovas",
+      "name:lv": "Serpuhova",
+      "name:nl": "Serpoechov",
+      "name:nn": "Serpukhov",
+      "name:no": "Serpukhov",
+      "name:pl": "Sierpuchow",
+      "name:pt": "Serpukhov",
+      "name:ro": "Serpuhov",
+      "name:ru": "Серпухов",
+      "name:sr": "Серпухов",
+      "name:sv": "Serpuchov",
+      "name:tl": "Serpukhov",
+      "name:uk": "Серпухов",
+      "name:uz": "Serpuxov",
+      "name:vi": "Serpukhov",
+      "name:zh": "謝爾普霍夫",
+      "int_name": "Serpukhov"
+    }
+  },
+  {
+    "name": "Serpukhov",
+    "country": "Russia",
+    "latitude": 54.919667728680935,
+    "longitude": 37.410072201480396,
+    "other_names": {
+      "name": "Серпухов",
+      "name:ar": "سربوخوف",
+      "name:az": "Serpuxov",
+      "name:be": "Серпухаў",
+      "name:ca": "Sérpukhov",
+      "name:cs": "Serpuchov",
+      "name:cv": "Серпухов",
+      "name:de": "Serpuchow",
+      "name:en": "Serpukhov",
+      "name:eo": "Serpuĥov",
+      "name:es": "Sérpujov",
+      "name:et": "Serpuhhov",
+      "name:fa": "سرپوخوف",
+      "name:fi": "Serpuhov",
+      "name:fr": "Serpoukhov",
+      "name:it": "Serpuchov",
+      "name:ja": "セルプホフ",
+      "name:ko": "세르푸호프",
+      "name:la": "Serpuchovia",
+      "name:lt": "Serpuchovas",
+      "name:lv": "Serpuhova",
+      "name:nl": "Serpoechov",
+      "name:nn": "Serpukhov",
+      "name:no": "Serpukhov",
+      "name:pl": "Sierpuchow",
+      "name:pt": "Serpukhov",
+      "name:ro": "Serpuhov",
+      "name:ru": "Серпухов",
+      "name:sr": "Серпухов",
+      "name:sv": "Serpuchov",
+      "name:tl": "Serpukhov",
+      "name:uk": "Серпухов",
+      "name:uz": "Serpuxov",
+      "name:vi": "Serpukhov",
+      "name:zh": "謝爾普霍夫",
+      "int_name": "Serpukhov"
+    }
+  },
+  {
+    "name": "Serra",
+    "country": "Brazil",
+    "latitude": -20.125296100382116,
+    "longitude": -40.3064477,
+    "other_names": {
+      "name": "Serra",
+      "name:bg": "Сера",
+      "name:ja": "セラ",
+      "name:ka": "სერა",
+      "name:kk": "Серра",
+      "name:lt": "Sera",
+      "name:lv": "Sera",
+      "name:mk": "Сера",
+      "name:pt": "Serra",
+      "name:ru": "Серра",
+      "name:sr": "Сера",
+      "name:zh": "塞拉"
+    }
+  },
+  {
+    "name": "Serrekunda",
+    "country": "Senegal And Gambia",
+    "latitude": 13.43876199972673,
+    "longitude": -16.674807,
+    "other_names": {
+      "name": "Serrekunda",
+      "name:ar": "سيريكوندا",
+      "name:ko": "세레쿤다",
+      "name:uk": "Серекунда"
+    }
+  },
+  {
+    "name": "Serres",
+    "country": "Greece",
+    "latitude": 41.0910711004022,
+    "longitude": 23.5498031,
+    "other_names": {
+      "name": "Σέρρες",
+      "name:bg": "Сяр",
+      "name:ca": "Serres",
+      "name:de": "Serres",
+      "name:el": "Σέρρες",
+      "name:en": "Serres",
+      "name:et": "Sérres",
+      "name:fr": "Serrès",
+      "name:hu": "Széresz",
+      "name:lt": "Serės",
+      "name:mk": "Сер",
+      "name:ro": "Serres",
+      "name:ru": "Сере",
+      "name:sr": "Сер",
+      "name:sv": "Serrai",
+      "name:tr": "Serez",
+      "int_name": "Serres",
+      "old_name": "Serez"
+    }
+  },
+  {
+    "name": "Sertãozinho",
+    "country": "Brazil",
+    "latitude": -21.137578200292644,
+    "longitude": -47.9913741,
+    "other_names": {
+      "name": "Sertãozinho"
+    }
+  },
+  {
+    "name": "Sêrtar",
+    "country": "China",
+    "latitude": 32.27320469959955,
+    "longitude": 100.3326361,
+    "other_names": {
+      "name": "色达县",
+      "name:en": "Sêrtar",
+      "name:zh": "色达县",
+      "alt_name": "色达;Serthar County;Sedar County",
+      "name:zh-Hant": "色達縣",
+      "name:zh_pinyin": "Sèdá Xiàn"
+    }
+  },
+  {
+    "name": "Serxu",
+    "country": "China",
+    "latitude": 32.97691569958775,
+    "longitude": 98.1013116,
+    "other_names": {
+      "name": "石渠县",
+      "name:en": "Serxu",
+      "name:vi": "Thạch Cừ",
+      "name:zh": "石渠县",
+      "alt_name": "Shiqu;Serxu Xian;Shih-ch'u Hsien;石渠",
+      "name:zh-Hant": "石渠縣",
+      "name:zh_pinyin": "Shíqú Xiàn"
+    }
+  },
+  {
+    "name": "Setagaya",
+    "country": "Japan",
+    "latitude": 35.646095999702226,
+    "longitude": 139.65626999999998,
+    "other_names": {
+      "name": "世田谷区",
+      "name:ar": "سيتاغايا، طوكيو",
+      "name:ca": "Setagaya",
+      "name:de": "Setagaya",
+      "name:en": "Setagaya",
+      "name:et": "Setagaya",
+      "name:fa": "ستاگایا، توکیو",
+      "name:fi": "Setagaya",
+      "name:fr": "Setagaya",
+      "name:gl": "Setagaya",
+      "name:ht": "Setagaya",
+      "name:it": "Setagaya",
+      "name:ja": "世田谷区",
+      "name:ko": "세타가야구",
+      "name:lt": "Setagaja",
+      "name:ms": "Setagaya",
+      "name:nl": "Setagaya",
+      "name:no": "Setagaya",
+      "name:pl": "Setagaya",
+      "name:pt": "Setagaya",
+      "name:ru": "Сэтагая",
+      "name:sv": "Setagaya",
+      "name:uk": "Сетаґая",
+      "name:zh": "世田谷區",
+      "name:ja-Hira": "せたがやく",
+      "name:ja-Latn": "Setagaya-ku"
+    }
+  }
+]

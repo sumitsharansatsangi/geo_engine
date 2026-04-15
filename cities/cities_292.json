@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Maracay",
+    "country": "Venezuela",
+    "latitude": 10.251366199451072,
+    "longitude": -67.60172449999999,
+    "other_names": {
+      "name": "Maracay",
+      "name:en": "Maracay",
+      "name:hu": "Maracay",
+      "name:pt": "Maracay",
+      "name:ru": "Маракай",
+      "name:uk": "Маракай"
+    }
+  },
+  {
+    "name": "Maradi",
+    "country": "Niger",
+    "latitude": 13.50120599973365,
+    "longitude": 7.1025339999999995,
+    "other_names": {
+      "name": "Maradi",
+      "name:ar": "مرادي",
+      "name:fa": "مرادی",
+      "name:ko": "마라디",
+      "name:ks": "مرادی",
+      "name:ru": "Маради",
+      "name:ur": "مرادی",
+      "name:azb": "مرادی",
+      "name:pnb": "مرادی",
+      "alt_name:ar": "مارادي"
+    }
+  },
+  {
+    "name": "Marakuru",
+    "country": "Solomon Islands",
+    "latitude": -9.91689509990784,
+    "longitude": 160.5758025,
+    "other_names": {
+      "name": "Marakuru",
+      "name:ja": "マラクル"
+    }
+  },
+  {
+    "name": "Maranguape",
+    "country": "Brazil",
+    "latitude": -3.8922966997085564,
+    "longitude": -38.6835427,
+    "other_names": {
+      "name": "Maranguape"
+    }
+  },
+  {
+    "name": "Marassi resort",
+    "country": "Egypt",
+    "latitude": 30.972695595919326,
+    "longitude": 28.750142643988063,
+    "other_names": {
+      "name": "Marassi مراسى",
+      "name:ar": "مراسى",
+      "name:en": "Marassi resort",
+      "name:fr": "Marassi"
+    }
+  },
+  {
+    "name": "Marawi",
+    "country": "Philippines",
+    "latitude": 8.004726199390413,
+    "longitude": 124.28543509999999,
+    "other_names": {
+      "ref": "153617000",
+      "name": "Marawi",
+      "name:ja": "マラウィ",
+      "old_name": "Dansalan"
+    }
+  },
+  {
+    "name": "Marbella",
+    "country": "Spain",
+    "latitude": 36.50897599978975,
+    "longitude": -4.88562,
+    "other_names": {
+      "name": "Marbella",
+      "name:ar": "مربلة",
+      "name:el": "Μαρβέγια",
+      "name:es": "Marbella",
+      "name:lt": "Marbelja",
+      "name:ru": "Марбелья",
+      "name:sr": "Марбеља",
+      "alt_name:ar": "ماربيا"
+    }
+  },
+  {
+    "name": "Marcory",
+    "country": "Ivory Coast",
+    "latitude": 5.303611999485784,
+    "longitude": -3.9853950000000005,
+    "other_names": {
+      "name": "Marcory"
+    }
+  },
+  {
+    "name": "Mardan",
+    "country": "Pakistan",
+    "latitude": 34.193796899608614,
+    "longitude": 72.04514669999999,
+    "other_names": {
+      "name": "مردان",
+      "name:ar": "مردان",
+      "name:de": "Mardan",
+      "name:en": "Mardan",
+      "name:es": "Mardan",
+      "name:fr": "Mardan",
+      "name:hi": "मर्दान",
+      "name:ja": "マルダーン",
+      "name:ru": "Мардан",
+      "name:ur": "مردان"
+    }
+  },
+  {
+    "name": "Mar del Plata",
+    "country": "Argentina",
+    "latitude": -37.99772250057097,
+    "longitude": -57.548270300000006,
+    "other_names": {
+      "name": "Mar del Plata",
+      "name:ar": "مار ديل بلاتا",
+      "name:en": "Mar del Plata",
+      "name:ru": "Мар-дель-Плата",
+      "name:uk": "Мар-дель-Плата",
+      "alt_name:ar": "مار دل بلاتا;ماريه ديل بلاتا"
+    }
+  },
+  {
+    "name": "Mardin",
+    "country": "Turkey",
+    "latitude": 37.31321439988838,
+    "longitude": 40.73793379999999,
+    "other_names": {
+      "name": "Mardin",
+      "name:ar": "ماردين",
+      "name:hi": "मार्डिन",
+      "name:hy": "Մարդին",
+      "name:ku": "Mêrdîn",
+      "name:ru": "Мардин",
+      "name:ckb": "مێردین"
+    }
+  },
+  {
+    "name": "Margilan",
+    "country": "Uzbekistan",
+    "latitude": 40.469625500328874,
+    "longitude": 71.7205162,
+    "other_names": {
+      "name": "Margilon",
+      "name:de": "Margʻilon",
+      "name:en": "Margilan",
+      "name:es": "Marg‘ilon",
+      "name:fr": "Marguilan",
+      "name:ja": "マルギラン",
+      "name:pl": "Margʻilon",
+      "name:ru": "Маргилан",
+      "name:uk": "Маргилан"
+    }
+  },
+  {
+    "name": "Margilon",
+    "country": "Uzbekistan",
+    "latitude": 40.47533015741221,
+    "longitude": 71.72562853125454,
+    "other_names": {
+      "name": "Margilon",
+      "name:ja": "マルギラン",
+      "name:ru": "Маргилан"
+    }
+  },
+  {
+    "name": "Mariano Escobedo",
+    "country": "Mexico",
+    "latitude": 18.93298122845661,
+    "longitude": -97.18385196767214,
+    "other_names": {
+      "name": "Mariano Escobedo"
+    }
+  },
+  {
+    "name": "Mariano Roque Alonso",
+    "country": "Paraguay",
+    "latitude": -25.21086699974876,
+    "longitude": -57.532030999999996,
+    "other_names": {
+      "name": "Mariano Roque Alonso"
+    }
+  },
+  {
+    "name": "Mariara",
+    "country": "Venezuela",
+    "latitude": 10.289104499453167,
+    "longitude": -67.70893269999999,
+    "other_names": {
+      "name": "Mariara"
+    }
+  },
+  {
+    "name": "Marib",
+    "country": "Yemen",
+    "latitude": 15.457878799961328,
+    "longitude": 45.32302419999999,
+    "other_names": {
+      "name": "مأرب",
+      "name:ar": "مأرب",
+      "name:cs": "Marib",
+      "name:de": "Marib",
+      "name:en": "Marib",
+      "name:fr": "Marib",
+      "name:ru": "Мариб",
+      "name:uk": "Маріб",
+      "alt_name": "Mar`rib; Magreb; Mar‘rib",
+      "int_name": "Ma’rib"
+    }
+  },
+  {
+    "name": "Maribor",
+    "country": "Slovenia",
+    "latitude": 46.557643900247605,
+    "longitude": 15.645585399999996,
+    "other_names": {
+      "name": "Maribor",
+      "name:de": "Marburg an der Drau",
+      "name:it": "Marburgo",
+      "name:ja": "マリボル",
+      "name:la": "Marburgum",
+      "name:lt": "Mariboras",
+      "name:lv": "Maribora",
+      "name:mk": "Марибор",
+      "name:ru": "Марибор",
+      "name:sl": "Maribor",
+      "name:sr": "Марибор",
+      "name:uk": "Марибор",
+      "name:zh": "马里博尔",
+      "old_name": "Marburg an der Drau"
+    }
+  },
+  {
+    "name": "Maricá",
+    "country": "Brazil",
+    "latitude": -22.91967720007805,
+    "longitude": -42.818437499999995,
+    "other_names": {
+      "name": "Maricá"
+    }
+  },
+  {
+    "name": "Marietta",
+    "country": "United States Of America",
+    "latitude": 33.952847199600235,
+    "longitude": -84.54961479999999,
+    "other_names": {
+      "name": "Marietta"
+    }
+  }
+]

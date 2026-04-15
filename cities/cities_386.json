@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Qom",
+    "country": "Iran",
+    "latitude": 34.64231169962974,
+    "longitude": 50.88009689999999,
+    "other_names": {
+      "name": "قم",
+      "name:ar": "قم",
+      "name:cs": "Qom",
+      "name:de": "Ghom",
+      "name:en": "Qom",
+      "name:es": "Qom",
+      "name:et": "Qom",
+      "name:fi": "Qom",
+      "name:fr": "Qom",
+      "name:he": "קום",
+      "name:hi": "कोम",
+      "name:ja": "ゴム",
+      "name:ko": "쿰",
+      "name:ku": "Qum",
+      "name:ml": "ക്വോം",
+      "name:pt": "Qom",
+      "name:ru": "Кум",
+      "alt_name:cs": "Kom"
+    }
+  },
+  {
+    "name": "Qonggyai",
+    "country": "China",
+    "latitude": 29.03503069983378,
+    "longitude": 91.6894948,
+    "other_names": {
+      "name": "琼结县",
+      "name:bo": "སྣེ་གདོང་རྫོང་",
+      "name:en": "Qonggyai",
+      "name:vi": "Qonggyai",
+      "name:zh": "琼结县",
+      "alt_name": "穷结;Chonggyé;Ch'iung-chieh Hsien;Qonggyai Xian;Qiongjie;Chonggyä",
+      "alt_name:bo": "འཕྱོངས་རྒྱས",
+      "alt_name:vi": "Quỳnh Kết",
+      "name:zh-Hant": "瓊結縣",
+      "name:zh_pinyin": "Qióngjié Xiàn"
+    }
+  },
+  {
+    "name": "Qoryooley",
+    "country": "Somalia",
+    "latitude": 1.7896629998092828,
+    "longitude": 44.530629,
+    "other_names": {
+      "name": "Qoryooley قوريولي",
+      "name:ar": "قوريولي",
+      "name:de": "Qoryooley",
+      "name:en": "Qoryooley",
+      "name:es": "Qoryooley",
+      "name:fr": "Qoryooley",
+      "alt_name": "Qoryoley"
+    }
+  },
+  {
+    "name": "Qu",
+    "country": "China",
+    "latitude": 30.840175499672114,
+    "longitude": 106.96926179999998,
+    "other_names": {
+      "name": "渠县",
+      "name:en": "Qu",
+      "name:zh": "渠县",
+      "alt_name": "渠县;渠江;Quxian;Qu",
+      "name:zh-Hant": "渠縣"
+    }
+  },
+  {
+    "name": "Quangang",
+    "country": "China",
+    "latitude": 25.13639830024618,
+    "longitude": 118.911768,
+    "other_names": {
+      "name": "泉港区",
+      "name:de": "Quangang",
+      "name:en": "Quangang",
+      "name:es": "Quángăng Qū",
+      "name:fr": "District de Quangang",
+      "name:it": "Distretto di Quangang",
+      "name:ja": "泉港区",
+      "name:ko": "취안강구",
+      "name:no": "Quangang",
+      "name:sv": "Quangang",
+      "name:vi": "Tuyền Cảng",
+      "name:zh": "泉港区",
+      "alt_name": "泉港;Quangang District",
+      "name:cdo": "Ciòng-gē̤ng",
+      "name:ceb": "Quangang Qu",
+      "name:hak": "Chhièn-kóng-khî",
+      "name:mwl": "Quangang",
+      "name:nan": "Choân-káng-khu",
+      "name:yue": "泉港",
+      "name:zh-Hant": "泉港區",
+      "name:zh_pinyin": "Quangang Qu"
+    }
+  },
+  {
+    "name": "Quảng Ngãi",
+    "country": "Vietnam",
+    "latitude": 15.119003699921358,
+    "longitude": 108.8095598,
+    "other_names": {
+      "name": "Quảng Ngãi",
+      "name:en": "Quảng Ngãi",
+      "name:fa": "کوانگ نگای",
+      "name:ja": "クアンガイ",
+      "name:ko": "꽝응아이",
+      "name:nl": "Quảng Ngãi",
+      "name:ru": "Куангнгай",
+      "name:sr": "Кванг Нгај",
+      "name:tg": "Вилояти Куанг Нгай",
+      "name:uk": "Куангнгай",
+      "name:zh": "廣義市",
+      "name:zh-Hans": "广义市",
+      "name:zh-Hant": "廣義市"
+    }
+  },
+  {
+    "name": "Quanjiao",
+    "country": "China",
+    "latitude": 32.08819369960541,
+    "longitude": 118.2687495,
+    "other_names": {
+      "name": "全椒县",
+      "name:en": "Quanjiao",
+      "name:ja": "全椒県",
+      "name:vi": "Toàn Tiêu",
+      "name:zh": "全椒县",
+      "alt_name": "全椒县;全椒;Quanjiao;Chuantsiao-hsien;Chuantsiao;Ch'uan-chiao-hsien;Ch'uan-chiao;Quanjiao Xian",
+      "name:zh-Hant": "全椒縣"
+    }
+  },
+  {
+    "name": "Quannan",
+    "country": "China",
+    "latitude": 24.745348700279067,
+    "longitude": 114.52542499999998,
+    "other_names": {
+      "name": "全南县",
+      "name:de": "Quannan",
+      "name:en": "Quannan",
+      "name:fa": "شهرستان چواننان",
+      "name:fr": "Xian de Quannan",
+      "name:it": "Contea di Quannan",
+      "name:ja": "全南県",
+      "name:ko": "취안난현",
+      "name:no": "Quannan",
+      "name:ru": "Цюаньнань",
+      "name:sv": "Quannan",
+      "name:vi": "Toàn Nam",
+      "name:zh": "全南县",
+      "alt_name": "虔南;全南县;城厢镇;Quannan Xian;Kiennan-hsien;Ch'ien-nan-hsien;Ch'eng-hsiang-chen;Kien-nan;Ch'uan-nan;Chengxiang Zhen",
+      "name:ceb": "Quannan Xian",
+      "name:gan": "虔南",
+      "name:nan": "Choân-lâm-koān",
+      "name:yue": "虔南",
+      "old_name": "虔南縣;虔南县",
+      "name:zh-Hant": "虔南縣",
+      "name:zh_pinyin": "quánnán xiàn"
+    }
+  },
+  {
+    "name": "Quanshan",
+    "country": "China",
+    "latitude": 34.24075719961048,
+    "longitude": 117.18635489999998,
+    "other_names": {
+      "name": "泉山区",
+      "name:en": "Quanshan",
+      "name:zh": "泉山区",
+      "name:zh-Hant": "泉山區"
+    }
+  },
+  {
+    "name": "Quanzhou",
+    "country": "China",
+    "latitude": 24.87554920026844,
+    "longitude": 118.67236050000001,
+    "other_names": {
+      "name": "泉州市",
+      "name:ar": "تشوانتشو",
+      "name:ca": "Quanzhou",
+      "name:cs": "Čchüan-čou",
+      "name:da": "Quanzhou",
+      "name:de": "Quanzhou",
+      "name:en": "Quanzhou",
+      "name:es": "Quanzhou",
+      "name:et": "Quanzhou",
+      "name:fr": "Quanzhou",
+      "name:hi": "च्वानजो",
+      "name:id": "Quanzhou",
+      "name:it": "Quanzhou",
+      "name:ja": "泉州市",
+      "name:ko": "취안저우시",
+      "name:nn": "Quanzhou",
+      "name:pl": "Quanzhou",
+      "name:ru": "Цюаньчжоу",
+      "name:th": "เฉวียนโจว",
+      "name:tl": "Quanzhou",
+      "name:uk": "Цюаньчжоу",
+      "name:vi": "Tuyền Châu",
+      "name:zh": "泉州市",
+      "alt_name": "泉州;Quanzhou City",
+      "int_name": "Quanzhou",
+      "name:cdo": "Ciòng-ciŭ",
+      "name:hak": "Chhièn-chû-sṳ",
+      "name:nan": "Choân-chiu-chhī",
+      "name:sco": "Quanzhou",
+      "name:war": "Quanzhou",
+      "name:wuu": "泉州",
+      "name:yue": "泉州",
+      "name:zh-Hant": "泉州市",
+      "name:zh_pinyin": "Quánzhōu Shì"
+    }
+  },
+  {
+    "name": "Quanzhou",
+    "country": "China",
+    "latitude": 25.931515600171146,
+    "longitude": 111.06705379999998,
+    "other_names": {
+      "name": "全州县",
+      "name:en": "Quanzhou",
+      "name:ru": "Цюаньчжоу",
+      "name:vi": "Toàn Châu",
+      "name:zh": "全州县",
+      "alt_name": "全州;Quanzhou County",
+      "name:zh-Hant": "全州縣",
+      "name:zh_pinyin": "Quánzhōu Xiàn"
+    }
+  },
+  {
+    "name": "Queanbeyan",
+    "country": "Australia",
+    "latitude": -35.3524662999655,
+    "longitude": 149.23372449999997,
+    "other_names": {
+      "name": "Queanbeyan",
+      "name:en": "Queanbeyan",
+      "name:ja": "クイーンビーアン",
+      "name:ru": "Куинбеян"
+    }
+  },
+  {
+    "name": "Quebec",
+    "country": "Canada",
+    "latitude": 46.82596010019631,
+    "longitude": -71.2352226,
+    "other_names": {
+      "name": "Québec",
+      "name:ar": "كويبك سيتي",
+      "name:ca": "Quebec",
+      "name:de": "Quebec",
+      "name:en": "Quebec",
+      "name:fr": "Québec",
+      "name:fy": "Kebek",
+      "name:ko": "퀘벡",
+      "name:nl": "Quebec",
+      "name:ru": "Квебек",
+      "name:uk": "Квебек",
+      "name:zh": "魁北克",
+      "name:tzl": "Quebec"
+    }
+  },
+  {
+    "name": "Queimados",
+    "country": "Brazil",
+    "latitude": -22.7156978001055,
+    "longitude": -43.555754,
+    "other_names": {
+      "name": "Queimados"
+    }
+  },
+  {
+    "name": "Quelimane",
+    "country": "Mozambique",
+    "latitude": -17.877510000474473,
+    "longitude": 36.890215999999995,
+    "other_names": {
+      "name": "Quelimane",
+      "name:ko": "켈리마느",
+      "name:pt": "Quelimane",
+      "name:ru": "Келимане",
+      "name:uk": "Келімане"
+    }
+  },
+  {
+    "name": "Querétaro",
+    "country": "Mexico",
+    "latitude": 20.59547080039473,
+    "longitude": -100.3970593,
+    "other_names": {
+      "name": "Querétaro",
+      "name:es": "Santiago de Querétaro",
+      "name:pl": "Querétaro",
+      "name:pt": "Querétaro",
+      "name:ru": "Сантьяго-де-Керетаро",
+      "alt_name": "Santiago de Querétaro",
+      "alt_name:ar": "مدينة كيريتارو;سانتياغو دي كويريتارو",
+      "short_name:ar": "كيريتارو"
+    }
+  },
+  {
+    "name": "Queshan",
+    "country": "China",
+    "latitude": 32.80531999958905,
+    "longitude": 114.0102203,
+    "other_names": {
+      "name": "确山县",
+      "name:en": "Queshan",
+      "name:ru": "Паньлун",
+      "name:zh": "确山县",
+      "alt_name": "确山;Queshan County",
+      "name:zh-Hant": "確山縣"
+    }
+  },
+  {
+    "name": "Quesnel",
+    "country": "Canada",
+    "latitude": 52.97942789908726,
+    "longitude": -122.4936273,
+    "other_names": {
+      "name": "Quesnel"
+    }
+  },
+  {
+    "name": "Quetta",
+    "country": "Pakistan",
+    "latitude": 30.195767699722623,
+    "longitude": 67.0172447,
+    "other_names": {
+      "name": "کوئٹہ",
+      "name:ar": "كويته",
+      "name:cs": "Kvéta",
+      "name:da": "Quetta",
+      "name:de": "Quetta",
+      "name:en": "Quetta",
+      "name:et": "Quetta",
+      "name:fa": "کویته",
+      "name:fr": "Quetta",
+      "name:he": "כוויתה",
+      "name:hi": "क्वॆट्ट",
+      "name:ja": "クエッタ",
+      "name:kn": "ಕ್ವೆಟ್ಟ",
+      "name:ml": "ക്വെട്ട",
+      "name:pl": "Kweta",
+      "name:ps": "کوټه",
+      "name:ru": "Кветта",
+      "name:tr": "Ketta",
+      "name:uk": "Кветта",
+      "name:ur": "کوئٹہ",
+      "name:zh": "奎达",
+      "int_name": "Quetta",
+      "alt_name:ar": "كويتا",
+      "alt_name:ps": "کوټه"
+    }
+  },
+  {
+    "name": "Quetzaltenango",
+    "country": "Guatemala",
+    "latitude": 14.84646119988913,
+    "longitude": -91.5194208,
+    "other_names": {
+      "name": "Quetzaltenango",
+      "name:hu": "Quetzaltenango",
+      "name:ru": "Кецальтенанго",
+      "alt_name": "Xela",
+      "old_name": "Xelajú"
+    }
+  }
+]

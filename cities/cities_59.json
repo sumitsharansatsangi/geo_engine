@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Bokaro",
+    "country": "India",
+    "latitude": 23.65443380035341,
+    "longitude": 86.1456444,
+    "other_names": {
+      "name": "Bokaro",
+      "name:bn": "বোকারো",
+      "name:en": "Bokaro",
+      "name:he": "בוקארו",
+      "name:hi": "बोकारो",
+      "name:ja": "ボーカーロー",
+      "name:kn": "ಬೊಕಾರೊ",
+      "name:pa": "ਬੋਕਾਰੋ",
+      "name:sat": "ᱵᱚᱠᱟᱨᱚ"
+    }
+  },
+  {
+    "name": "Boké",
+    "country": "Guinea",
+    "latitude": 10.95224199949522,
+    "longitude": -14.276063499999998,
+    "other_names": {
+      "name": "Boké",
+      "name:ko": "보케",
+      "name:ru": "Боке"
+    }
+  },
+  {
+    "name": "Bokhtar",
+    "country": "Tajikistan",
+    "latitude": 37.83826218460074,
+    "longitude": 68.78000207699601,
+    "other_names": {
+      "name": "Бохтар",
+      "name:en": "Bokhtar",
+      "name:fa": "باختر‎",
+      "name:ru": "Бохтар",
+      "alt_name": "Kurgan Tyube",
+      "int_name": "Bokhtar",
+      "old_name": "Қурғонтеппа",
+      "old_name:en": "Qurghonteppa",
+      "old_name:fr": "Qurghonteppa",
+      "old_name:ja": "クルガンテッパ",
+      "old_name:ru": "Курган-Тюбе"
+    }
+  },
+  {
+    "name": "Bokhtar",
+    "country": "Tajikistan",
+    "latitude": 37.835721699959024,
+    "longitude": 68.7820957,
+    "other_names": {
+      "name": "Бохтар",
+      "name:en": "Bokhtar",
+      "name:et": "Bohtar",
+      "name:fa": "باختر‎",
+      "name:ru": "Бохтар",
+      "name:tr": "Kurganteppa",
+      "name:uz": "Boxtar",
+      "alt_name": "Kurganteppa",
+      "int_name": "Bokhtar",
+      "old_name": "Курган-Тюбе",
+      "old_name:de": "Qurghonteppa",
+      "old_name:en": "Kurgan Tyube",
+      "old_name:fa": "قرغان‌تپه",
+      "old_name:fr": "Qurghonteppa",
+      "old_name:ja": "クルガンテッパ",
+      "old_name:ru": "Курган-Тюбе",
+      "old_name:tg": "Қурғонтеппа",
+      "old_name:en_1": "Qurghonteppa"
+    }
+  },
+  {
+    "name": "Bokoro",
+    "country": "Chad",
+    "latitude": 12.376327999615832,
+    "longitude": 17.056765999999996,
+    "other_names": {
+      "name": "Bokoro بوكورو",
+      "name:ar": "بوكورو",
+      "name:de": "Bokoro",
+      "name:en": "Bokoro",
+      "name:fr": "Bokoro",
+      "alt_name": "Bokoro"
+    }
+  },
+  {
+    "name": "Bol",
+    "country": "Chad",
+    "latitude": 13.467649099729929,
+    "longitude": 14.714411999999998,
+    "other_names": {
+      "name": "Bol بول",
+      "name:ar": "بول",
+      "name:en": "Bol",
+      "name:es": "Bol",
+      "name:et": "Bol",
+      "name:fr": "Bol",
+      "name:ru": "Бол",
+      "name:uk": "Бол",
+      "alt_name": "Bol I;Bol"
+    }
+  },
+  {
+    "name": "Boldumsaz",
+    "country": "Turkmenistan",
+    "latitude": 42.127628500495355,
+    "longitude": 59.6722912,
+    "other_names": {
+      "name": "Boldumsaz",
+      "name:ru": "Болдумсаз",
+      "name:tk": "Boldumsaz"
+    }
+  },
+  {
+    "name": "Boli",
+    "country": "China",
+    "latitude": 45.751237500379325,
+    "longitude": 130.5678432,
+    "other_names": {
+      "name": "勃利县",
+      "name:en": "Boli",
+      "name:ru": "Боли",
+      "name:vi": "Bột Lợi",
+      "name:zh": "勃利县",
+      "alt_name": "勃利",
+      "name:zh-Hant": "勃利縣",
+      "name:zh_pinyin": "Bólì Xiàn"
+    }
+  },
+  {
+    "name": "Bolobo",
+    "country": "Congo Democratic Republic",
+    "latitude": -2.166681999805217,
+    "longitude": 16.23333,
+    "other_names": {
+      "name": "Bolobo"
+    }
+  },
+  {
+    "name": "Bologna",
+    "country": "Italy",
+    "latitude": 44.49375770050863,
+    "longitude": 11.3430308,
+    "other_names": {
+      "name": "Bologna",
+      "name:ar": "بولونيا",
+      "name:be": "Балонья",
+      "name:br": "Bolun",
+      "name:ca": "Bolonya",
+      "name:cs": "Boloñ",
+      "name:el": "Μπολόνια",
+      "name:en": "Bologna",
+      "name:eo": "Bolonjo",
+      "name:es": "Bolonia",
+      "name:fa": "بولونیا",
+      "name:fr": "Bologne",
+      "name:ja": "ボローニャ",
+      "name:la": "Bononia",
+      "name:pl": "Bolonia",
+      "name:ru": "Болонья",
+      "name:sr": "Болоња",
+      "name:uk": "Болонья",
+      "name:zh": "博洛尼亚",
+      "name:egl": "Bulåggna",
+      "alt_name:cs": "Boloňa"
+    }
+  },
+  {
+    "name": "Bolu",
+    "country": "Turkey",
+    "latitude": 40.73329530036129,
+    "longitude": 31.6110479,
+    "other_names": {
+      "name": "Bolu",
+      "name:ar": "بولو"
+    }
+  },
+  {
+    "name": "Boluo",
+    "country": "China",
+    "latitude": 23.175536300376915,
+    "longitude": 114.2848921,
+    "other_names": {
+      "name": "博罗县",
+      "name:en": "Boluo",
+      "name:zh": "博罗县",
+      "alt_name": "博罗;Boluo County",
+      "name:zh-Hant": "博羅縣",
+      "name:zh_pinyin": "Bóluó Xiàn"
+    }
+  },
+  {
+    "name": "Bolzano - Bozen",
+    "country": "Italy",
+    "latitude": 46.49811250025852,
+    "longitude": 11.3547801,
+    "other_names": {
+      "name": "Bolzano - Bozen",
+      "name:ca": "Bozen",
+      "name:de": "Bozen",
+      "name:el": "Μπολτσάνο",
+      "name:eo": "Bolcano",
+      "name:es": "Bolzano",
+      "name:hr": "Bocen",
+      "name:it": "Bolzano",
+      "name:ja": "ボルツァーノ",
+      "name:la": "Bauzanum",
+      "name:lb": "Bozen",
+      "name:lt": "Bolcāno",
+      "name:nl": "Bozen",
+      "name:pt": "Bolzano",
+      "name:rm": "Bulsaun",
+      "name:ru": "Больцано",
+      "name:sc": "Bolzanu",
+      "name:sh": "Боцен",
+      "name:sl": "Bocen",
+      "name:uk": "Больцано",
+      "name:zh": "波尔查诺",
+      "name:fur": "Bolçan",
+      "name:lld": "Bulsan",
+      "name:lmo": "Bulsan",
+      "name:mhn": "Poazn",
+      "name:pms": "Bolsan",
+      "name:scn": "Buzzanu",
+      "name:vec": "Bolxan",
+      "alt_name:eo": "Boceno",
+      "alt_name:rm": "Bulsan",
+      "alt_name:lld": "Balsan"
+    }
+  },
+  {
+    "name": "Boma",
+    "country": "Congo Democratic Republic",
+    "latitude": -5.8499999996825816,
+    "longitude": 13.05,
+    "other_names": {
+      "name": "Boma",
+      "name:en": "Boma",
+      "name:ko": "보마",
+      "name:ru": "Бома",
+      "name:uk": "Бома"
+    }
+  },
+  {
+    "name": "Boma",
+    "country": "Angola",
+    "latitude": -5.8499999996825816,
+    "longitude": 13.05,
+    "other_names": {
+      "name": "Boma",
+      "name:en": "Boma",
+      "name:ko": "보마",
+      "name:ru": "Бома",
+      "name:uk": "Бома"
+    }
+  },
+  {
+    "name": "Bonao",
+    "country": "Haiti And Domrep",
+    "latitude": 18.938350400310096,
+    "longitude": -70.405431,
+    "other_names": {
+      "name": "Bonao",
+      "name:ru": "Бонао"
+    }
+  },
+  {
+    "name": "BONDABON",
+    "country": "Guinea",
+    "latitude": 9.790518299428278,
+    "longitude": -13.475933199999998,
+    "other_names": {
+      "name": "BONDABON"
+    }
+  },
+  {
+    "name": "Bongaigaon",
+    "country": "India",
+    "latitude": 26.480012600114325,
+    "longitude": 90.5580387,
+    "other_names": {
+      "name": "Bongaigaon",
+      "name:ja": "ボーンガーイーガーオン",
+      "name:zh-CN": "邦盖加翁"
+    }
+  },
+  {
+    "name": "Bongor",
+    "country": "Chad",
+    "latitude": 10.281634099452749,
+    "longitude": 15.371313900000002,
+    "other_names": {
+      "name": "Bongor",
+      "name:ar": "بونقور",
+      "name:en": "Bongor",
+      "name:es": "Bongor",
+      "name:fr": "Bongor",
+      "name:ru": "Бонгор",
+      "name:uk": "Бонгор",
+      "alt_name": "Bongor"
+    }
+  },
+  {
+    "name": "Bonn",
+    "country": "Germany",
+    "latitude": 50.735850999297526,
+    "longitude": 7.1006599999999995,
+    "other_names": {
+      "name": "Bonn",
+      "name:ar": "بون",
+      "name:br": "Bonn",
+      "name:de": "Bonn",
+      "name:el": "Βόννη",
+      "name:hu": "Bonn",
+      "name:ja": "ボン",
+      "name:la": "Bonna",
+      "name:oc": "Bonn",
+      "name:ru": "Бонн",
+      "name:sr": "Бон",
+      "name:uk": "Бонн",
+      "name:zh": "波恩"
+    }
+  }
+]

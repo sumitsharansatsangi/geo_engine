@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Omsk",
+    "country": "Russia",
+    "latitude": 54.97812626739751,
+    "longitude": 73.36948531647852,
+    "other_names": {
+      "name": "Омск",
+      "name:en": "Omsk",
+      "name:eo": "Omsko",
+      "name:ku": "Omsk"
+    }
+  },
+  {
+    "name": "Omura",
+    "country": "Japan",
+    "latitude": 32.900228099588205,
+    "longitude": 129.9585055,
+    "other_names": {
+      "name": "大村市",
+      "name:ar": "أومورا، ناغاساكي",
+      "name:de": "Ōmura",
+      "name:en": "Omura",
+      "name:es": "Ōmura",
+      "name:fr": "Ōmura",
+      "name:ja": "大村市",
+      "name:ko": "오무라시",
+      "name:pl": "Ōmura",
+      "name:ru": "Омура",
+      "name:uk": "Омура",
+      "name:zh": "大村市",
+      "int_name": "Ōmura",
+      "name:ja-Hira": "おおむらし",
+      "name:ja-Latn": "Ōmura-shi",
+      "name:zh-Hans": "大村市",
+      "name:zh-Hant": "大村市"
+    }
+  },
+  {
+    "name": "Omuta",
+    "country": "Japan",
+    "latitude": 33.0470129995875,
+    "longitude": 130.464155,
+    "other_names": {
+      "name": "大牟田市",
+      "name:ar": "أوموتا، فوكوكا",
+      "name:de": "Ōmuta",
+      "name:en": "Omuta",
+      "name:es": "Ōmuta",
+      "name:et": "Ōmuta",
+      "name:fr": "Ōmuta",
+      "name:hu": "Ómuta",
+      "name:ja": "大牟田市",
+      "name:ko": "오무타시",
+      "name:pl": "Ōmuta",
+      "name:ru": "Омута",
+      "name:uk": "Омута",
+      "name:zh": "大牟田市",
+      "int_name": "Ōmuta",
+      "name:ja-Hira": "おおむたし",
+      "name:zh-Hans": "大牟田市",
+      "name:zh-Hant": "大牟田市"
+    }
+  },
+  {
+    "name": "Ondjiva",
+    "country": "Angola",
+    "latitude": -17.070523400470453,
+    "longitude": 15.728011499999997,
+    "other_names": {
+      "name": "Ondjiva",
+      "name:de": "Ondjiva",
+      "name:el": "Οντζίβα",
+      "name:en": "Ondjiva",
+      "name:es": "Ondjiva",
+      "name:fr": "Ondjiva",
+      "name:it": "Ondjiva",
+      "name:nl": "Ondjiva",
+      "name:pl": "Ondjiva",
+      "name:pt": "Ondjiva",
+      "name:ru": "Онджива",
+      "name:uk": "Онджива",
+      "old_name": "Vila Pereira d'Eça",
+      "old_name:de": "Vila Pereira d'Eça",
+      "old_name:en": "Vila Pereira d'Eça",
+      "old_name:es": "Vila Pereira d'Eça",
+      "old_name:fr": "Vila Pereira d'Eça",
+      "old_name:it": "Vila Pereira d'Eça",
+      "old_name:nl": "Vila Pereira d'Eça",
+      "old_name:pl": "Vila Pereira d'Eça",
+      "old_name:pt": "Vila Pereira d'Eça",
+      "old_name:ru": "Перейра де Эса"
+    }
+  },
+  {
+    "name": "Onești",
+    "country": "Romania",
+    "latitude": 46.25202690030166,
+    "longitude": 26.770212999999995,
+    "other_names": {
+      "name": "Onești",
+      "name:hu": "Ónfalva",
+      "name:ru": "Онешты",
+      "name:uk": "Онешті"
+    }
+  },
+  {
+    "name": "Ongniud",
+    "country": "China",
+    "latitude": 42.93308660053479,
+    "longitude": 118.9999435,
+    "other_names": {
+      "name": "翁牛特旗",
+      "name:en": "Ongniud",
+      "name:zh": "翁牛特旗",
+      "alt_name": "翁牛;翁牛特;Ongniud Qi;Онниуд;Wengniu Teqi;Weng-niu-t'e Ch'i;Wengniute Qi;Ongniod Banner",
+      "name:zh-Hant": "翁牛特旗"
+    }
+  },
+  {
+    "name": "Ongole",
+    "country": "India",
+    "latitude": 15.505871399966972,
+    "longitude": 80.04994539999998,
+    "other_names": {
+      "name": "Ongole",
+      "name:en": "Ongole",
+      "name:hi": "ओंगोल",
+      "name:ja": "オンゴール",
+      "name:kn": "ಒಂಗೊಲೆ",
+      "name:pa": "ਓਂਗੋਲ",
+      "name:ru": "Онгол",
+      "name:ta": "ஒங்கோல்",
+      "name:te": "ఒంగోలు"
+    }
+  },
+  {
+    "name": "Onitsha",
+    "country": "Nigeria",
+    "latitude": 6.133233999438221,
+    "longitude": 6.792318,
+    "other_names": {
+      "name": "Onitsha",
+      "name:ko": "오니차"
+    }
+  },
+  {
+    "name": "Ono",
+    "country": "Japan",
+    "latitude": 35.97971009973352,
+    "longitude": 136.4874356,
+    "other_names": {
+      "name": "大野市",
+      "name:en": "Ono",
+      "name:fr": "Ōno",
+      "name:ja": "大野市",
+      "name:ko": "오노시",
+      "name:pl": "Ōno",
+      "name:ru": "Оно",
+      "name:uk": "Оно",
+      "name:ja_rm": "Ōno",
+      "name:ja_kana": "おおのし"
+    }
+  },
+  {
+    "name": "Ono",
+    "country": "Japan",
+    "latitude": 34.86136499964264,
+    "longitude": 134.9547785,
+    "other_names": {
+      "name": "小野市",
+      "name:ar": "أونو، هيوغو",
+      "name:de": "Ono",
+      "name:en": "Ono",
+      "name:es": "Ono",
+      "name:fr": "Ono",
+      "name:ja": "小野市",
+      "name:ko": "오노시",
+      "name:pl": "Ono",
+      "name:ru": "Оно",
+      "name:uk": "Оно",
+      "name:ja_rm": "Ono-shi"
+    }
+  },
+  {
+    "name": "Onojo",
+    "country": "Japan",
+    "latitude": 33.54739899959088,
+    "longitude": 130.488786,
+    "other_names": {
+      "name": "大野城市",
+      "name:ar": "أونجو، فوكوكا",
+      "name:de": "Ōnojō",
+      "name:en": "Onojo",
+      "name:es": "Ōnojō",
+      "name:fr": "Ōnojō",
+      "name:hu": "Ónodzsó",
+      "name:ja": "大野城市",
+      "name:ko": "오노조시",
+      "name:pl": "Ōnojō",
+      "name:ru": "Онодзё",
+      "name:uk": "Оноджьо",
+      "name:zh": "大野城市",
+      "int_name": "Ōnojō",
+      "name:ja_rm": "Ōnojō-shi",
+      "name:ja_kana": "おおのじょうし",
+      "name:zh-Hans": "大野城市",
+      "name:zh-Hant": "大野城市"
+    }
+  },
+  {
+    "name": "Onomichi",
+    "country": "Japan",
+    "latitude": 34.40885189961784,
+    "longitude": 133.2051549,
+    "other_names": {
+      "name": "尾道市",
+      "name:ar": "أونومیجي، هیروشیما",
+      "name:de": "Onomichi",
+      "name:en": "Onomichi",
+      "name:es": "Onomichi",
+      "name:eu": "Onomichi",
+      "name:fr": "Onomichi",
+      "name:ja": "尾道市",
+      "name:ko": "오노미치시",
+      "name:pl": "Onomichi",
+      "name:ru": "Ономити",
+      "name:uk": "Ономіті",
+      "int_name": "Onomichi",
+      "name:ja-Hira": "おのみちし",
+      "name:ja-Latn": "Onomichi-shi",
+      "name:ja_kana": "オノミチシ"
+    }
+  },
+  {
+    "name": "Onsu",
+    "country": "China",
+    "latitude": 41.262680300420406,
+    "longitude": 80.2434639,
+    "other_names": {
+      "name": "温宿县",
+      "name:en": "Onsu",
+      "name:ug": "ئونسۇ بازىرى",
+      "name:zh": "温宿县",
+      "alt_name": "Wensu",
+      "name:zh-Hant": "溫宿縣"
+    }
+  },
+  {
+    "name": "Ontario",
+    "country": "United States Of America",
+    "latitude": 34.06584599960391,
+    "longitude": -117.64843039999998,
+    "other_names": {
+      "name": "Ontario"
+    }
+  },
+  {
+    "name": "Opole",
+    "country": "Poland",
+    "latitude": 50.666818399310806,
+    "longitude": 17.9236408,
+    "other_names": {
+      "name": "Opole",
+      "name:be": "Аполе",
+      "name:cs": "Opolí",
+      "name:de": "Oppeln",
+      "name:ja": "オポーレ",
+      "name:lt": "Opolė",
+      "name:mk": "Ополе",
+      "name:pl": "Opole",
+      "name:ru": "Ополе",
+      "name:uk": "Ополе",
+      "name:hsb": "Opole",
+      "name:szl": "Ôpole"
+    }
+  },
+  {
+    "name": "Oradea",
+    "country": "Romania",
+    "latitude": 47.05591809536601,
+    "longitude": 21.93810828777368,
+    "other_names": {
+      "name": "Oradea",
+      "name:de": "Großwardein",
+      "name:hu": "Nagyvárad",
+      "name:ro": "Oradea",
+      "name:ru": "Орадя"
+    }
+  },
+  {
+    "name": "Oradea",
+    "country": "Romania",
+    "latitude": 47.054916300149934,
+    "longitude": 21.9285231,
+    "other_names": {
+      "name": "Oradea",
+      "name:bg": "Орадя",
+      "name:de": "Großwardein",
+      "name:hu": "Nagyvárad",
+      "name:ru": "Орадя",
+      "name:sk": "Veľký Varadín",
+      "name:sr": "Велики Варадин",
+      "name:uk": "Орадя"
+    }
+  },
+  {
+    "name": "Orai",
+    "country": "India",
+    "latitude": 25.98639180016562,
+    "longitude": 79.4534538,
+    "other_names": {
+      "name": "Orai",
+      "name:hi": "उरई",
+      "name:pa": "ਉਰਈ"
+    }
+  },
+  {
+    "name": "Oral",
+    "country": "Kazakhstan",
+    "latitude": 51.22238199921279,
+    "longitude": 51.373421,
+    "other_names": {
+      "name": "Уральск",
+      "name:de": "Oral",
+      "name:en": "Oral",
+      "name:et": "Oral",
+      "name:fr": "Oural",
+      "name:ja": "オラル",
+      "name:kk": "Орал",
+      "name:ko": "오랄",
+      "name:lt": "Oralas",
+      "name:ru": "Уральск",
+      "name:uk": "Уральськ",
+      "alt_name": "Орал",
+      "int_name": "Uralsk",
+      "old_name": "Яик;Яицкий городок"
+    }
+  },
+  {
+    "name": "Oran",
+    "country": "Algeria",
+    "latitude": 35.70327509970735,
+    "longitude": -0.6492976000000001,
+    "other_names": {
+      "name": "Oran ⵡⴰⵀⵔⴻⵏ وهران",
+      "name:ar": "وهران",
+      "name:de": "Oran",
+      "name:el": "Οράν",
+      "name:en": "Oran",
+      "name:es": "Orán",
+      "name:fa": "وهران",
+      "name:fr": "Oran",
+      "name:he": "אוראן",
+      "name:hu": "Orán",
+      "name:it": "Orano",
+      "name:ja": "オラン",
+      "name:ko": "오랑",
+      "name:lt": "Oranas",
+      "name:pt": "Orã",
+      "name:ru": "Оран",
+      "name:ur": "وہران",
+      "name:zh": "瓦赫蘭",
+      "name:azb": "وهران",
+      "name:ber": "ⵡⴰⵀⵔⴻⵏ",
+      "name:ckb": "وەھران",
+      "name:kab": "Wehran",
+      "name:pnb": "وہران",
+      "name:zh-Hans": "瓦赫兰"
+    }
+  }
+]

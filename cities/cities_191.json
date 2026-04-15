@@ -1,0 +1,406 @@
+[
+  {
+    "name": "Huocheng/Korgas",
+    "country": "China",
+    "latitude": 44.05404910053076,
+    "longitude": 80.8766921,
+    "other_names": {
+      "name": "霍城县",
+      "name:de": "Huocheng",
+      "name:en": "Huocheng/Korgas",
+      "name:es": "Huocheng",
+      "name:fr": "Huocheng",
+      "name:ko": "훠청",
+      "name:ru": "Шуйдин",
+      "name:ug": "سۈيدۈڭ",
+      "name:vi": "Hoắc Thành",
+      "name:zh": "霍城",
+      "alt_name": "霍城县;Korgas;Qorghas;Shuiding;Suydung",
+      "name:kk-Arab": "قورعاس اۋدانى",
+      "name:zh-Hant": "霍城縣",
+      "official_name": "霍城县",
+      "name:zh_pinyin": "Shuǐdìng Zhèn"
+    }
+  },
+  {
+    "name": "Huojia",
+    "country": "China",
+    "latitude": 35.25799999967021,
+    "longitude": 113.64332689999999,
+    "other_names": {
+      "name": "获嘉县",
+      "name:en": "Huojia",
+      "name:ja": "獲嘉県",
+      "name:vi": "Hoạch Gia",
+      "name:zh": "获嘉县",
+      "alt_name": "获嘉;Huojia County",
+      "name:zh-Hant": "獲嘉縣",
+      "name:zh_pinyin": "Huojia Xian"
+    }
+  },
+  {
+    "name": "Huoqiu",
+    "country": "China",
+    "latitude": 32.339448099597725,
+    "longitude": 116.26943399999999,
+    "other_names": {
+      "name": "霍邱县",
+      "name:en": "Huoqiu",
+      "name:fr": "Huoqiu",
+      "name:ja": "霍邱県",
+      "name:ru": "Хоцю",
+      "name:vi": "Hoắc Khâu",
+      "name:zh": "霍邱县",
+      "alt_name": "霍邱;霍邱县;城关镇;霍邱城关镇;Huòqiū Xiàn",
+      "old_name": "安风县;义城县;蓼州;安丰州;决口县",
+      "name:zh-Hant": "霍邱縣",
+      "name:zh_pinyin": "huòqiū xiàn"
+    }
+  },
+  {
+    "name": "Huoshan",
+    "country": "China",
+    "latitude": 31.41128139963601,
+    "longitude": 116.34227669999999,
+    "other_names": {
+      "name": "霍山县",
+      "name:en": "Huoshan",
+      "name:ja": "霍山県",
+      "name:ru": "Хошань",
+      "name:vi": "Hoắc Sơn",
+      "name:zh": "霍山县",
+      "old_name": "灊邑;灊县;岳安县;安城县;霍州;岳安郡;武昌县;盛唐县",
+      "name:zh-Hant": "霍山縣"
+    }
+  },
+  {
+    "name": "Huozhou",
+    "country": "China",
+    "latitude": 36.57193889979694,
+    "longitude": 111.73092059999999,
+    "other_names": {
+      "name": "霍州市",
+      "name:de": "Huozhou",
+      "name:en": "Huozhou",
+      "name:fr": "Huozhou",
+      "name:ja": "霍州市",
+      "name:ru": "Хочжоу",
+      "name:vi": "Hoắc Châu",
+      "name:zh": "霍州市",
+      "alt_name": "霍州;Hwochow;Khechzhou;Ho-fen;Huoxian;Huo-hsien;Huo-fen;Khesyan;Huozhou Shi;Ho-hsien-ch'eng;Ho;Ho-hsien",
+      "name:zh-Hant": "霍州市",
+      "name:zh_pinyin": "Huòzhōu Shì"
+    }
+  },
+  {
+    "name": "Huqiu District",
+    "country": "China",
+    "latitude": 31.330766299640565,
+    "longitude": 120.4318276,
+    "other_names": {
+      "name": "虎丘区",
+      "name:de": "Huqiu",
+      "name:en": "Huqiu District",
+      "name:fr": "District de Huqiu",
+      "name:it": "Distretto di Huqiu",
+      "name:ja": "虎丘区",
+      "name:ko": "후추구",
+      "name:no": "Huqiu",
+      "name:ru": "Хуцю",
+      "name:sv": "Huqiu",
+      "name:vi": "Hổ Khâu",
+      "name:zh": "虎丘区",
+      "name:nan": "Hó͘-khiu-khu",
+      "name:yue": "虎丘區",
+      "name:zh-Hant": "虎丘區"
+    }
+  },
+  {
+    "name": "Hure",
+    "country": "China",
+    "latitude": 42.73347310052809,
+    "longitude": 121.7937621,
+    "other_names": {
+      "name": "库伦旗",
+      "name:en": "Hure",
+      "name:ja": "フレー旗",
+      "name:ru": "Хурэ",
+      "name:vi": "Hure",
+      "name:zh": "库伦旗",
+      "alt_name": "库伦;Hure;Хүрээ",
+      "alt_name:vi": "Khố Luân",
+      "name:mn-Mong": "ᠬᠦᠷᠢᠶ᠎ᠡ ᠬᠣᠰᠢᠭᠤ",
+      "name:zh-Hant": "庫倫旗"
+    }
+  },
+  {
+    "name": "Hurghada",
+    "country": "Egypt",
+    "latitude": 27.22255600003321,
+    "longitude": 33.8307062,
+    "other_names": {
+      "name": "الغردقة",
+      "name:ar": "الغردقة",
+      "name:cs": "Hurghada",
+      "name:de": "Hurghada",
+      "name:en": "Hurghada",
+      "name:eo": "Hurghada",
+      "name:es": "Hurgada",
+      "name:et": "Hurghada",
+      "name:fi": "Hurghada",
+      "name:fr": "Hurghada",
+      "name:hi": "हुरघादा",
+      "name:hu": "Gurdaka",
+      "name:ko": "후르가다",
+      "name:lt": "Hurgada",
+      "name:nl": "Hurghada",
+      "name:pl": "Hurghada",
+      "name:ru": "Хургада",
+      "name:zh": "古尔代盖/洪加達",
+      "name:yue": "洪加達",
+      "alt_name:ar": "غردقة",
+      "name:zh-Hans": "古尔代盖",
+      "name:zh-Hant": "洪加達"
+    }
+  },
+  {
+    "name": "Huron",
+    "country": "United States Of America",
+    "latitude": 44.36308000051645,
+    "longitude": -98.21438800000001,
+    "other_names": {
+      "name": "Huron",
+      "name:ru": "Гурон"
+    }
+  },
+  {
+    "name": "Hutchinson",
+    "country": "United States Of America",
+    "latitude": 38.06084439999057,
+    "longitude": -97.92977429999999,
+    "other_names": {
+      "name": "Hutchinson"
+    }
+  },
+  {
+    "name": "Hutubi",
+    "country": "China",
+    "latitude": 44.18371000052547,
+    "longitude": 86.8849721,
+    "other_names": {
+      "name": "呼图壁县",
+      "name:de": "Hutubi",
+      "name:en": "Hutubi",
+      "name:es": "Hutubi",
+      "name:fr": "Hutubi",
+      "name:ru": "Хутуби",
+      "name:sd": "خُوتُوبِ ﺷِﯿًﺎ",
+      "name:ug": "قۇتۇبى",
+      "name:zh": "呼图壁县",
+      "alt_name": "呼图;Қутуби;呼图壁;Ching-hua-i;Ching-hua;Hu-t'u-pi;Kutubi;Qutubi;Hu-t'u-pi-hsien;Khotubi;Khutubi;Hu-t'u-pi-chen;قۇتۇبى",
+      "name:zh-Hant": "呼圖壁縣"
+    }
+  },
+  {
+    "name": "Huyanghe",
+    "country": "China",
+    "latitude": 44.69361350049459,
+    "longitude": 84.8250908,
+    "other_names": {
+      "name": "胡杨河市",
+      "name:en": "Huyanghe",
+      "name:zh": "胡杨河市",
+      "alt_name": "第七师胡杨河市",
+      "name:zh-Hant": "胡楊河市"
+    }
+  },
+  {
+    "name": "Huye",
+    "country": "Rwanda",
+    "latitude": -2.6053425997747803,
+    "longitude": 29.740154700000005,
+    "other_names": {
+      "name": "Huye",
+      "name:ko": "부타레",
+      "name:ru": "Бутаре",
+      "alt_name": "Butare"
+    }
+  },
+  {
+    "name": "Huyi",
+    "country": "China",
+    "latitude": 34.10967659960544,
+    "longitude": 108.5989237,
+    "other_names": {
+      "name": "鄠邑区",
+      "name:en": "Huyi",
+      "name:ja": "戸県",
+      "name:zh": "鄠邑区",
+      "alt_name": "甘亭街道;甘亭;Ganting",
+      "old_name": "鄠县;户县;Hu Xian;Hu County;甘亭镇",
+      "name:zh-Hant": "鄠邑區"
+    }
+  },
+  {
+    "name": "Huzhou",
+    "country": "China",
+    "latitude": 30.89429949966831,
+    "longitude": 120.08511139999999,
+    "other_names": {
+      "name": "湖州市",
+      "name:cs": "Chu-čou",
+      "name:da": "Huzhou",
+      "name:de": "Huzhou",
+      "name:en": "Huzhou",
+      "name:es": "Huzhou",
+      "name:et": "Huzhou",
+      "name:eu": "Huzhou",
+      "name:fa": "هوجا",
+      "name:fi": "Huzhou",
+      "name:fr": "Huzhou",
+      "name:id": "Huzhou",
+      "name:it": "Huzhou",
+      "name:ja": "湖州市",
+      "name:ki": "Huzhou",
+      "name:ko": "후저우시",
+      "name:lt": "Hudžou",
+      "name:mg": "Huzhou",
+      "name:nl": "Huzhou",
+      "name:nn": "Huzhou",
+      "name:no": "Huzhou",
+      "name:pl": "Huzhou",
+      "name:pt": "Huzhou",
+      "name:ru": "Хучжоу",
+      "name:sv": "Huzhou",
+      "name:tl": "Huzhou",
+      "name:tr": "Huzhou",
+      "name:uk": "Хучжоу",
+      "name:ur": "ہوثوو",
+      "name:vi": "Hồ Châu",
+      "name:zh": "湖州市",
+      "name:cdo": "Hù-ciŭ",
+      "name:ceb": "Huzhou",
+      "name:hak": "Fù-chû-sṳ",
+      "name:lzh": "湖州市",
+      "name:nan": "Ô͘-chiu-chhī",
+      "name:war": "Huzhou",
+      "name:wuu": "湖州市",
+      "name:yue": "湖州",
+      "name:zh-Hant": "湖州市"
+    }
+  },
+  {
+    "name": "Huzhu",
+    "country": "China",
+    "latitude": 36.83592009982813,
+    "longitude": 101.9521476,
+    "other_names": {
+      "name": "互助县",
+      "name:bo": "དགོན་ལུང་",
+      "name:en": "Huzhu",
+      "name:ja": "互助トゥ族自治県",
+      "name:ru": "Хучжу",
+      "name:zh": "互助县",
+      "alt_name": "互助土族自治县;互助县;威远;Weiyuan",
+      "name:zh-Hant": "互助縣",
+      "official_name": "威远镇"
+    }
+  },
+  {
+    "name": "Hwaseong-si",
+    "country": "South Korea",
+    "latitude": 37.1994652998736,
+    "longitude": 126.8312632,
+    "other_names": {
+      "name": "화성시",
+      "name:de": "Hwaseong",
+      "name:en": "Hwaseong-si",
+      "name:es": "Hwaseong",
+      "name:et": "Hwaseong",
+      "name:fr": "Hwaseong",
+      "name:ja": "華城市",
+      "name:ko": "화성시",
+      "name:zh": "华城市",
+      "int_name": "Hwaseong",
+      "name:ko-Hani": "華城市",
+      "name:zh-Hant": "華城市"
+    }
+  },
+  {
+    "name": "Hyderabad",
+    "country": "Pakistan",
+    "latitude": 25.380101700224266,
+    "longitude": 68.3750376,
+    "other_names": {
+      "name": "حیدرآباد",
+      "name:ar": "حيدر آباد",
+      "name:de": "Hyderabad",
+      "name:en": "Hyderabad",
+      "name:eo": "Hajderabado",
+      "name:es": "Hyderabad",
+      "name:et": "Hyderābād",
+      "name:fr": "Hyderâbâd",
+      "name:gu": "હૈદરાબાદ",
+      "name:hi": "हैदराबाद",
+      "name:ja": "ハイデラバード",
+      "name:kn": "ಹೈದರಾಬಾದ್‌",
+      "name:pt": "Hyderabad",
+      "name:ru": "Хайдарабад",
+      "name:sd": "حيدرآباد",
+      "name:ta": "ஹைதராபாத்",
+      "name:tr": "Haydarabad",
+      "name:uk": "Хайдарабад",
+      "name:ur": "حیدرآباد",
+      "name:zh": "海得拉巴",
+      "name:pnb": "حیدرآباد"
+    }
+  },
+  {
+    "name": "Hyderabad",
+    "country": "India",
+    "latitude": 17.36058900017266,
+    "longitude": 78.4740613,
+    "other_names": {
+      "name": "Hyderabad",
+      "name:ar": "حيدر آباد",
+      "name:cs": "Hajdarábád",
+      "name:en": "Hyderabad",
+      "name:he": "היידראבאד",
+      "name:hi": "हैदराबाद",
+      "name:ja": "ハイデラバード",
+      "name:kn": "ಹೈದರಾಬಾದ್‌",
+      "name:ml": "ഹൈദരാബാദ്",
+      "name:oc": "Haidarabad",
+      "name:ru": "Хайдарабад",
+      "name:ta": "ஹைதராபாத்",
+      "name:te": "హైదరాబాదు",
+      "name:ur": "حیدرآباد",
+      "name:zh": "海得拉巴"
+    }
+  },
+  {
+    "name": "Hyesan",
+    "country": "North Korea",
+    "latitude": 41.40294480043454,
+    "longitude": 128.17783709999998,
+    "other_names": {
+      "name": "혜산시",
+      "name:cs": "Hjesan",
+      "name:de": "Hyesan",
+      "name:el": "Χιέσαν",
+      "name:en": "Hyesan",
+      "name:es": "Hyesan",
+      "name:et": "Hyesan",
+      "name:fr": "Hyesan",
+      "name:ja": "恵山市",
+      "name:ko": "혜산시",
+      "name:lt": "Hesanas",
+      "name:ru": "Хесан",
+      "name:uk": "Хесан",
+      "name:zh": "惠山市",
+      "int_name": "Hyesan",
+      "name:ja_kana": "へさん",
+      "name:ko-Hani": "惠山市"
+    }
+  }
+]

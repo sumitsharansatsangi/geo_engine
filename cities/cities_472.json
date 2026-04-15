@@ -1,0 +1,309 @@
+[
+  {
+    "name": "Teresópolis",
+    "country": "Brazil",
+    "latitude": -22.416457800144624,
+    "longitude": -42.975194,
+    "other_names": {
+      "name": "Teresópolis",
+      "old_name": "Therezopolis"
+    }
+  },
+  {
+    "name": "Termez",
+    "country": "Uzbekistan",
+    "latitude": 37.22907329987744,
+    "longitude": 67.2761489,
+    "other_names": {
+      "name": "Termiz",
+      "name:en": "Termez",
+      "name:fa": "تِرمِذ",
+      "name:fr": "Termez",
+      "name:hi": "टर्मेज़",
+      "name:ja": "テルメズ",
+      "name:ko": "테르메스",
+      "name:ru": "Термез",
+      "name:uk": "Термез"
+    }
+  },
+  {
+    "name": "Termez",
+    "country": "Afghanistan",
+    "latitude": 37.229946780719374,
+    "longitude": 67.28245085330633,
+    "other_names": {
+      "name": "Termiz",
+      "name:en": "Termez",
+      "name:fr": "Termez",
+      "name:ja": "テルメズ",
+      "name:ko": "테르메스",
+      "name:ru": "Термез",
+      "name:uk": "Термез"
+    }
+  },
+  {
+    "name": "Termez",
+    "country": "Uzbekistan",
+    "latitude": 37.229946780719374,
+    "longitude": 67.28245085330633,
+    "other_names": {
+      "name": "Termiz",
+      "name:en": "Termez",
+      "name:fr": "Termez",
+      "name:ja": "テルメズ",
+      "name:ko": "테르메스",
+      "name:ru": "Термез",
+      "name:uk": "Термез"
+    }
+  },
+  {
+    "name": "Ternate",
+    "country": "Indonesia",
+    "latitude": 0.7852330999175219,
+    "longitude": 127.3831973,
+    "other_names": {
+      "name": "Ternate",
+      "name:en": "Ternate",
+      "name:ja": "テルナテ",
+      "name:ru": "Тернате",
+      "name:uk": "Тернате",
+      "name:zh": "特爾納特"
+    }
+  },
+  {
+    "name": "Terni",
+    "country": "Italy",
+    "latitude": 42.56414170052075,
+    "longitude": 12.6405466,
+    "other_names": {
+      "name": "Terni",
+      "name:el": "Τέρνι",
+      "name:ru": "Терни",
+      "name:zh": "特爾尼"
+    }
+  },
+  {
+    "name": "Ternopil",
+    "country": "Ukraine",
+    "latitude": 49.55577159955631,
+    "longitude": 25.591886,
+    "other_names": {
+      "name": "Тернопіль",
+      "name:be": "Цярнопаль",
+      "name:de": "Tarnopol",
+      "name:en": "Ternopil",
+      "name:eo": "Ternopilo",
+      "name:et": "Ternopil",
+      "name:fr": "Ternopil",
+      "name:hu": "Ternopil",
+      "name:io": "Ternopil",
+      "name:ko": "테르노필",
+      "name:lt": "Ternopilis",
+      "name:nl": "Ternopil",
+      "name:pl": "Tarnopol",
+      "name:ro": "Ternopil",
+      "name:ru": "Тернополь",
+      "name:sr": "Тернопољ",
+      "name:uk": "Тернопіль",
+      "name:uk:word_stress": "Терно́піль"
+    }
+  },
+  {
+    "name": "Terrassa",
+    "country": "Spain",
+    "latitude": 41.56296230044979,
+    "longitude": 2.0100492,
+    "other_names": {
+      "name": "Terrassa",
+      "name:ar": "تاراسا",
+      "name:ca": "Terrassa",
+      "name:el": "Τεράσα",
+      "name:lt": "Terasa",
+      "name:ru": "Террасса",
+      "name:sr": "Тараса",
+      "old_name:es": "Tarrasa",
+      "official_name:es": "Terrassa"
+    }
+  },
+  {
+    "name": "Terre Haute",
+    "country": "United States Of America",
+    "latitude": 39.466702500193044,
+    "longitude": -87.4139119,
+    "other_names": {
+      "name": "Terre Haute"
+    }
+  },
+  {
+    "name": "TERSET",
+    "country": "Guinea",
+    "latitude": 9.835089399430254,
+    "longitude": -13.5051157,
+    "other_names": {
+      "name": "TERSET"
+    }
+  },
+  {
+    "name": "Teruel",
+    "country": "Spain",
+    "latitude": 40.3436719003128,
+    "longitude": -1.1081938999999998,
+    "other_names": {
+      "name": "Teruel",
+      "name:an": "Teruel",
+      "name:ar": "طرويل",
+      "name:be": "Тэруэль",
+      "name:bg": "Теруел",
+      "name:ca": "Terol",
+      "name:el": "Τερουέλ",
+      "name:en": "Teruel",
+      "name:eo": "Teruelo",
+      "name:es": "Teruel",
+      "name:eu": "Teruel",
+      "name:fa": "تروئل",
+      "name:fr": "Teruel",
+      "name:gl": "Teruel",
+      "name:he": "טרואל",
+      "name:ja": "テルエル",
+      "name:ka": "ტერუელი",
+      "name:kk": "Теруэль",
+      "name:ko": "테루엘",
+      "name:la": "Terulium",
+      "name:lt": "Teruelis",
+      "name:oc": "Teròl",
+      "name:pt": "Teruel",
+      "name:ru": "Теруэль",
+      "name:sr": "Теруел",
+      "name:uk": "Теруель",
+      "name:ur": "تیرویل",
+      "name:zh": "特魯埃爾",
+      "name:wuu": "特鲁艾",
+      "name:yue": "特魯埃爾",
+      "alt_name:ar": "تيرويل",
+      "name:zh-Hans": "特鲁埃尔"
+    }
+  },
+  {
+    "name": "Tessaoua",
+    "country": "Niger",
+    "latitude": 13.755512999762201,
+    "longitude": 7.990455999999999,
+    "other_names": {
+      "name": "Tessaoua",
+      "name:ar": "تيساوا",
+      "name:ru": "Тесава"
+    }
+  },
+  {
+    "name": "Tete",
+    "country": "Mozambique",
+    "latitude": -16.16051100044381,
+    "longitude": 33.587096,
+    "other_names": {
+      "name": "Tete",
+      "name:ko": "테트",
+      "name:ru": "Тете"
+    }
+  },
+  {
+    "name": "Tétouan",
+    "country": "Morocco",
+    "latitude": 35.57017499969559,
+    "longitude": -5.3742776,
+    "other_names": {
+      "name": "Tétouan ⵜⵉⵟⵟⴰⵡⵉⵏ تطوان",
+      "name:ar": "تطوان",
+      "name:el": "Τετουάν",
+      "name:en": "Tétouan",
+      "name:es": "Tetuán",
+      "name:et": "Tétouan",
+      "name:fa": "تطوان",
+      "name:fr": "Tétouan",
+      "name:he": "תטואן",
+      "name:hi": "टेटुआन",
+      "name:ja": "テトゥアン",
+      "name:ko": "테투안",
+      "name:la": "Tamuda",
+      "name:lt": "Tetuanas",
+      "name:pl": "Tetuan",
+      "name:ru": "Тетуан",
+      "name:ur": "تطوان",
+      "name:zh": "得土安",
+      "int_name": "Tetouan",
+      "name:ber": "ⵜⵉⵟⵟⴰⵡⵉⵏ",
+      "name:zgh": "ⵜⵉⵟⵟⴰⵡⵉⵏ"
+    }
+  },
+  {
+    "name": "Tetovo",
+    "country": "Macedonia",
+    "latitude": 42.00682970048675,
+    "longitude": 20.972855599999995,
+    "other_names": {
+      "name": "Тетово",
+      "name:ar": "تيتوفو",
+      "name:bg": "Тетово",
+      "name:de": "Tetovo",
+      "name:el": "Τέτοβο",
+      "name:en": "Tetovo",
+      "name:es": "Tetovo",
+      "name:et": "Tetovo",
+      "name:fr": "Tetovo",
+      "name:sq": "Tetovë",
+      "name:sr": "Тетово",
+      "name:tr": "Kalkandelen",
+      "int_name": "Tetovo",
+      "name:sr-Latn": "Tetovo"
+    }
+  },
+  {
+    "name": "Tewo",
+    "country": "China",
+    "latitude": 34.06053469960371,
+    "longitude": 103.2157261,
+    "other_names": {
+      "name": "迭部县",
+      "name:bo": "ཐེ་བོ",
+      "name:en": "Tewo",
+      "name:zh": "迭部县",
+      "name:zh-Hant": "迭部縣",
+      "name:zh_pinyin": "diébù xiàn"
+    }
+  },
+  {
+    "name": "Texarkana",
+    "country": "United States Of America",
+    "latitude": 33.425425899589236,
+    "longitude": -94.0430937,
+    "other_names": {
+      "name": "Texarkana"
+    }
+  },
+  {
+    "name": "Texarkana",
+    "country": "United States Of America",
+    "latitude": 33.425425899589236,
+    "longitude": -94.0430937,
+    "other_names": {
+      "name": "Texarkana"
+    }
+  },
+  {
+    "name": "Texistepeque",
+    "country": "El Salvador",
+    "latitude": 14.124358299804477,
+    "longitude": -89.4956101,
+    "other_names": {
+      "name": "Texistepeque"
+    }
+  },
+  {
+    "name": "Thaba Nchu",
+    "country": "South Africa",
+    "latitude": -29.197874999336953,
+    "longitude": 26.832217,
+    "other_names": {
+      "name": "Thaba Nchu"
+    }
+  }
+]

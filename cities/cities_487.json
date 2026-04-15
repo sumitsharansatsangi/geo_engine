@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Trondheim",
+    "country": "Norway",
+    "latitude": 63.43056580063662,
+    "longitude": 10.395192899999998,
+    "other_names": {
+      "name": "Trondheim",
+      "name:ar": "تروندهايم",
+      "name:is": "Þrándheimur",
+      "name:lt": "Trondheimas",
+      "name:lv": "Trondheima",
+      "name:ru": "Тронхейм",
+      "name:se": "Troandin",
+      "name:sr": "Трондхејм",
+      "name:sv": "Trondheim",
+      "name:zh": "特隆赫姆",
+      "name:bpy": "ট্রোনডেহিম",
+      "name:sma": "Tråante",
+      "name:smj": "Tråante",
+      "old_name": "Kaupangen;Nidaros;Throndhjem;Trondhjem",
+      "alt_name:ar": "ترونديم",
+      "old_name:de": "Drontheim"
+    }
+  },
+  {
+    "name": "Troy",
+    "country": "United States Of America",
+    "latitude": 42.72841170052788,
+    "longitude": -73.69178779999999,
+    "other_names": {
+      "name": "Troy"
+    }
+  },
+  {
+    "name": "Troyes",
+    "country": "France",
+    "latitude": 48.29716259986593,
+    "longitude": 4.0746257,
+    "other_names": {
+      "name": "Troyes",
+      "name:ar": "تروا",
+      "name:el": "Τρουά",
+      "name:fa": "تروا",
+      "name:fr": "Troyes",
+      "name:he": "טרואה",
+      "name:hu": "Troyes",
+      "name:ja": "トロワ",
+      "name:ko": "트루아",
+      "name:la": "Trecae",
+      "name:lt": "Trua",
+      "name:oc": "Tròias",
+      "name:ru": "Труа",
+      "name:sr": "Троа",
+      "name:th": "ทรัว",
+      "name:uk": "Труа",
+      "name:ur": "تروئے",
+      "name:zh": "特鲁瓦"
+    }
+  },
+  {
+    "name": "Trujillo",
+    "country": "Peru",
+    "latitude": -8.111677799767511,
+    "longitude": -79.0287742,
+    "other_names": {
+      "name": "Trujillo",
+      "name:de": "Trujillo",
+      "name:en": "Trujillo",
+      "name:es": "Trujillo",
+      "name:pl": "Trujillo",
+      "name:ru": "Трухильо",
+      "name:uk": "Трухійо"
+    }
+  },
+  {
+    "name": "Trujui",
+    "country": "Argentina",
+    "latitude": -34.598596499805495,
+    "longitude": -58.751607899999996,
+    "other_names": {
+      "name": "Trujui"
+    }
+  },
+  {
+    "name": "Truro",
+    "country": "England",
+    "latitude": 50.26275149939403,
+    "longitude": -5.0520467,
+    "other_names": {
+      "name": "Truro",
+      "name:ar": "ترورو",
+      "name:br": "Truru",
+      "name:el": "Τρούρο",
+      "name:en": "Truro",
+      "name:hu": "Truro",
+      "name:kw": "Truru",
+      "name:mk": "Труро",
+      "name:ru": "Труро",
+      "name:sr": "Труро",
+      "name:uk": "Труро"
+    }
+  },
+  {
+    "name": "Tsabong",
+    "country": "Botswana",
+    "latitude": -26.021745999635627,
+    "longitude": 22.401005999999995,
+    "other_names": {
+      "name": "Tsabong",
+      "name:ko": "차봉"
+    }
+  },
+  {
+    "name": "Tsetserleg",
+    "country": "Mongolia",
+    "latitude": 47.4766020000589,
+    "longitude": 101.45328870000002,
+    "other_names": {
+      "name": "Цэцэрлэг",
+      "name:ar": "تستسرليغ",
+      "name:de": "Tsetserleg",
+      "name:en": "Tsetserleg",
+      "name:es": "Tsetserleg",
+      "name:fr": "Tsetserleg",
+      "name:hu": "Cecerleg",
+      "name:ja": "ツェツェルレグ",
+      "name:lt": "Cecerlegas",
+      "name:mn": "Цэцэрлэг",
+      "name:ru": "Цэцэрлэг",
+      "int_name": "Tsetserleg"
+    }
+  },
+  {
+    "name": "Tsévié",
+    "country": "Togo",
+    "latitude": 6.423114999425211,
+    "longitude": 1.2104691999999997,
+    "other_names": {
+      "name": "Tsévié",
+      "name:ar": "سيفييه",
+      "name:is": "Tsévié",
+      "name:ko": "체비에",
+      "name:ru": "Цевие",
+      "name:uk": "Цевіє"
+    }
+  },
+  {
+    "name": "Tshela",
+    "country": "Congo Democratic Republic",
+    "latitude": -4.989849999682375,
+    "longitude": 12.93935,
+    "other_names": {
+      "name": "Tshela"
+    }
+  },
+  {
+    "name": "Tshikapa",
+    "country": "Congo Democratic Republic",
+    "latitude": -6.423049499692857,
+    "longitude": 20.7887691,
+    "other_names": {
+      "name": "Tshikapa",
+      "name:en": "Tshikapa",
+      "name:fr": "Tshikapa",
+      "name:ru": "Чикапа",
+      "name:uk": "Чікапа"
+    }
+  },
+  {
+    "name": "Tskhinvali",
+    "country": "Georgia",
+    "latitude": 42.22512220050181,
+    "longitude": 43.9708477,
+    "other_names": {
+      "name": "Цхинвал",
+      "name:af": "Zchinwali",
+      "name:ar": "تسخينفالي",
+      "name:az": "Tsxinvali",
+      "name:be": "Цхінвалі",
+      "name:bg": "Цхинвали",
+      "name:bs": "Chinvali",
+      "name:ca": "Tskhinvali",
+      "name:ce": "Цхинвали",
+      "name:cs": "Cchinvali",
+      "name:cy": "Tskhinvali",
+      "name:da": "Tskhinvali",
+      "name:de": "Zchinwali",
+      "name:el": "Τσχινβάλι",
+      "name:en": "Tskhinvali",
+      "name:eo": "Cĥinval",
+      "name:es": "Tsjinvali",
+      "name:et": "Tshinvali",
+      "name:eu": "Tskhinvali",
+      "name:fa": "تسخینوالی",
+      "name:fi": "Tskhinvali",
+      "name:fr": "Tskhinvali",
+      "name:gl": "Tskhinvali",
+      "name:he": "צחינוואלי",
+      "name:hi": "तस्किनवाली",
+      "name:hr": "Chinvali",
+      "name:hu": "Chinvali",
+      "name:hy": "Ցխինվալ",
+      "name:id": "Tskhinvali",
+      "name:it": "Tskhinvali",
+      "name:ja": "ツヒンヴァリ",
+      "name:ka": "ცხინვალი",
+      "name:ko": "츠힌발리",
+      "name:ku": "Çînwali",
+      "name:kv": "Чреба",
+      "name:lt": "Cchinvalis",
+      "name:lv": "Chinvala",
+      "name:ml": "തിസ്ക്കിൻവാലി",
+      "name:ms": "Tskhinvali",
+      "name:nl": "Tschinvali",
+      "name:nn": "Tskhinvali",
+      "name:no": "Tskhinvali",
+      "name:os": "Цхинвал",
+      "name:pa": "ਸਖ਼ਿਨਵਾਲੀ",
+      "name:pl": "Cchinwali",
+      "name:ps": "تسخینوالی",
+      "name:pt": "Tskhinvali",
+      "name:ro": "Țhinvali",
+      "name:ru": "Цхинвал",
+      "name:sc": "Tskhinvali",
+      "name:sk": "Cchinvali",
+      "name:sq": "Chinvali",
+      "name:sr": "Цхинвали",
+      "name:sv": "Tschinvali",
+      "name:ta": "திஸ்கின்வாலி",
+      "name:tg": "Схинволи",
+      "name:th": "ซคินวาลี",
+      "name:tr": "Tshinvali",
+      "name:uk": "Цхінвалі",
+      "name:ur": "تسخینوالی",
+      "name:uz": "Sxinvali",
+      "name:vi": "Tskhinvali",
+      "name:vo": "Zkinval",
+      "name:zh": "茨欣瓦利",
+      "name:gag": "Tshinvali",
+      "old_name:ru": "Крцхинвали;Сталинири"
+    }
+  },
+  {
+    "name": "Tsu",
+    "country": "Japan",
+    "latitude": 34.734197299634936,
+    "longitude": 136.5153283,
+    "other_names": {
+      "name": "津市",
+      "name:cs": "Cu",
+      "name:en": "Tsu",
+      "name:es": "Tsu",
+      "name:et": "Tsu",
+      "name:fr": "Tsu",
+      "name:ja": "津市",
+      "name:ko": "쓰시",
+      "name:lt": "Cu",
+      "name:pl": "Tsu",
+      "name:ru": "Цу",
+      "name:sr": "Цу",
+      "name:uk": "Цу",
+      "name:ja_rm": "Tu si"
+    }
+  },
+  {
+    "name": "Tsubame",
+    "country": "Japan",
+    "latitude": 37.673075099936575,
+    "longitude": 138.88253889999996,
+    "other_names": {
+      "name": "燕市",
+      "name:ar": "تسوبامي، نييغاتا",
+      "name:de": "Tsubame",
+      "name:en": "Tsubame",
+      "name:es": "Tsubame",
+      "name:fr": "Tsubame",
+      "name:ja": "燕市",
+      "name:ko": "쓰바메시",
+      "name:pl": "Tsubame",
+      "name:ru": "Цубаме",
+      "name:uk": "Цубаме",
+      "int_name": "Tsubame",
+      "name:ja_rm": "Tsubame-shi",
+      "name:ja_kana": "つばめし"
+    }
+  },
+  {
+    "name": "Tsuchiura",
+    "country": "Japan",
+    "latitude": 36.078629699743445,
+    "longitude": 140.2045934,
+    "other_names": {
+      "name": "土浦市",
+      "name:ar": "تسوتشي-أورا، إيباراكي",
+      "name:de": "Tsuchiura",
+      "name:en": "Tsuchiura",
+      "name:es": "Tsuchiura",
+      "name:fr": "Tsuchiura",
+      "name:ja": "土浦市",
+      "name:ko": "쓰치우라시",
+      "name:pl": "Tsuchiura",
+      "name:ru": "Цутиура",
+      "name:uk": "Цутіура",
+      "name:ja_rm": "Tsuchiura-shi",
+      "name:ja_kana": "つちうらし"
+    }
+  },
+  {
+    "name": "Tsugaru",
+    "country": "Japan",
+    "latitude": 40.80876050037022,
+    "longitude": 140.38033109999998,
+    "other_names": {
+      "name": "つがる市",
+      "name:ar": "تسوغارو، آوموري",
+      "name:de": "Tsugaru",
+      "name:en": "Tsugaru",
+      "name:es": "Tsugaru",
+      "name:fr": "Tsugaru",
+      "name:ja": "つがる市",
+      "name:ko": "쓰가루시",
+      "name:pl": "Tsugaru",
+      "name:ru": "Цугару",
+      "name:uk": "Цуґару",
+      "int_name": "Tsugaru",
+      "name:ja_rm": "Tsugaru-shi",
+      "name:ja_kana": "つがるし"
+    }
+  },
+  {
+    "name": "Tsukuba",
+    "country": "Japan",
+    "latitude": 36.08338769974392,
+    "longitude": 140.0765098,
+    "other_names": {
+      "name": "つくば市",
+      "name:ar": "تسوكوبا",
+      "name:de": "Tsukuba",
+      "name:en": "Tsukuba",
+      "name:es": "Tsukuba",
+      "name:fr": "Tsukuba",
+      "name:ja": "つくば市",
+      "name:ko": "쓰쿠바시",
+      "name:pl": "Tsukuba",
+      "name:ru": "Цукуба",
+      "name:uk": "Цукуба",
+      "name:zh": "筑波市",
+      "int_name": "Tsukuba",
+      "name:ja_rm": "Truskuba-shi",
+      "name:ja_kana": "つくばし"
+    }
+  },
+  {
+    "name": "Tsukubamirai",
+    "country": "Japan",
+    "latitude": 35.96301369973188,
+    "longitude": 140.0369949,
+    "other_names": {
+      "name": "つくばみらい市",
+      "name:ar": "تسوكوبا-ميراي، إيباراكي",
+      "name:de": "Tsukubamirai",
+      "name:en": "Tsukubamirai",
+      "name:es": "Tsukubamirai",
+      "name:fr": "Tsukubamirai",
+      "name:ja": "つくばみらい市",
+      "name:ko": "쓰쿠바미라이시",
+      "name:ru": "Цукубамирай",
+      "name:uk": "Цукуба-Мірай",
+      "name:zh": "筑波未來市",
+      "name:ja_rm": "Tsukubamirai-shi",
+      "name:ja_kana": "つくばみらいし"
+    }
+  },
+  {
+    "name": "Tsukumi",
+    "country": "Japan",
+    "latitude": 33.07229419958746,
+    "longitude": 131.861347,
+    "other_names": {
+      "name": "津久見市",
+      "name:ar": "تسوكومي، أويتا",
+      "name:de": "Tsukumi",
+      "name:en": "Tsukumi",
+      "name:es": "Tsukumi",
+      "name:fr": "Tsukumi",
+      "name:ja": "津久見市",
+      "name:ko": "쓰쿠미시",
+      "name:pl": "Tsukumi",
+      "name:ru": "Цукуми",
+      "name:uk": "Цукумі",
+      "name:zh": "津久见市",
+      "int_name": "Tsukumi",
+      "name:ja_rm": "Tsukumi-shi",
+      "name:ja_kana": "つくみし",
+      "name:zh-Hans": "津久见市",
+      "name:zh-Hant": "津久見市"
+    }
+  },
+  {
+    "name": "Tsuru",
+    "country": "Japan",
+    "latitude": 35.551618399693986,
+    "longitude": 138.9054872,
+    "other_names": {
+      "name": "都留市",
+      "name:ar": "تسورو، ياماناشي",
+      "name:de": "Tsuru",
+      "name:en": "Tsuru",
+      "name:es": "Tsuru",
+      "name:fr": "Tsuru",
+      "name:ja": "都留市",
+      "name:ko": "쓰루시",
+      "name:pl": "Tsuruoka",
+      "name:ru": "Цуру",
+      "name:uk": "Цуруока",
+      "int_name": "Tsuru",
+      "name:ja_rm": "Tsuru-shi",
+      "name:ja_kana": "つるし"
+    }
+  }
+]

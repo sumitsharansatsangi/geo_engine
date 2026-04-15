@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Jamnagar",
+    "country": "India",
+    "latitude": 22.47324150040031,
+    "longitude": 70.0552102,
+    "other_names": {
+      "name": "Jamnagar",
+      "name:ar": "جام نجر",
+      "name:gu": "જામનગર",
+      "name:hi": "जामनगर",
+      "name:ja": "ジャームナガル",
+      "name:kn": "ಜಮ್ನಗರ್",
+      "name:ru": "Джамнагар",
+      "name:ta": "ஜாம்நகர்"
+    }
+  },
+  {
+    "name": "Jamnagar",
+    "country": "India",
+    "latitude": 22.45972250393638,
+    "longitude": 70.0629193413933,
+    "other_names": {
+      "name": "Jamnagar",
+      "name:en": "Jamnagar",
+      "name:gu": "જામનગર",
+      "name:hi": "जामनगर",
+      "name:ml": "ജാംനഗർ",
+      "name:pa": "ਜਾਮਨਗਰ",
+      "name:zh": "賈姆讷格爾"
+    }
+  },
+  {
+    "name": "Jampur",
+    "country": "Pakistan",
+    "latitude": 29.64028259977309,
+    "longitude": 70.59514669999999,
+    "other_names": {
+      "name": "جام پور",
+      "name:en": "Jampur",
+      "name:ru": "Джампур"
+    }
+  },
+  {
+    "name": "Jamshedpur",
+    "country": "India",
+    "latitude": 22.801519400391047,
+    "longitude": 86.20295789999999,
+    "other_names": {
+      "name": "Jamshedpur",
+      "name:bn": "জামশেদপুর",
+      "name:en": "Jamshedpur",
+      "name:he": "ג'מדשפור",
+      "name:hi": "जमशेदपुर",
+      "name:ja": "ジャムシェードプル",
+      "name:kn": "ಜಾಮಶೇದ್ಪುರ್",
+      "name:pa": "ਜਮਸ਼ੇਦਪੁਰ",
+      "name:ru": "Джамшедпур",
+      "name:ta": "ஜம்சேத்பூர்",
+      "name:uk": "Джамшедпур",
+      "alt_name": "Tatanagar"
+    }
+  },
+  {
+    "name": "Jamuria",
+    "country": "India",
+    "latitude": 23.710231700350285,
+    "longitude": 87.0770495,
+    "other_names": {
+      "name": "Jamuria",
+      "name:bn": "জামুড়িয়া"
+    }
+  },
+  {
+    "name": "Janakpur",
+    "country": "Nepal",
+    "latitude": 26.728454100087596,
+    "longitude": 85.92490049999999,
+    "other_names": {
+      "name": "जनकपुर",
+      "name:be": "Джанакпур",
+      "name:bn": "জনকপুর",
+      "name:en": "Janakpur",
+      "name:fr": "Janakpur",
+      "name:hi": "जनकपुर",
+      "name:ja": "ジャナクプル",
+      "name:kn": "ಜನಕಪುರ",
+      "name:ne": "जनकपुर",
+      "name:pl": "Janakpur",
+      "name:ru": "Джанакпур",
+      "name:ta": "ஜனக்பூர்"
+    }
+  },
+  {
+    "name": "Jandira",
+    "country": "Brazil",
+    "latitude": -23.528262699993157,
+    "longitude": -46.9020647,
+    "other_names": {
+      "name": "Jandira"
+    }
+  },
+  {
+    "name": "Janesville",
+    "country": "United States Of America",
+    "latitude": 42.68297650052607,
+    "longitude": -89.0226793,
+    "other_names": {
+      "name": "Janesville",
+      "name:ru": "Джейнсвилл"
+    }
+  },
+  {
+    "name": "Jangamo",
+    "country": "Mozambique",
+    "latitude": -24.114219499908522,
+    "longitude": 35.31584139999999,
+    "other_names": {
+      "name": "Jangamo"
+    }
+  },
+  {
+    "name": "Janzur",
+    "country": "Libya",
+    "latitude": 32.82544619958885,
+    "longitude": 13.026252599999998,
+    "other_names": {
+      "name": "جنزور",
+      "name:ar": "جنزور",
+      "name:de": "Dschansur",
+      "name:en": "Janzur",
+      "name:fr": "Janzour",
+      "name:it": "Gianzur",
+      "name:pt": "Janzur",
+      "name:tr": "Cenzur"
+    }
+  },
+  {
+    "name": "Jaora",
+    "country": "India",
+    "latitude": 23.63761336446996,
+    "longitude": 75.12759563380087,
+    "other_names": {
+      "name": "Jaora",
+      "name:ta": "ஜயரா"
+    }
+  },
+  {
+    "name": "Japeri",
+    "country": "Brazil",
+    "latitude": -22.642764200115163,
+    "longitude": -43.6533831,
+    "other_names": {
+      "name": "Japeri"
+    }
+  },
+  {
+    "name": "Jaraguá do Sul",
+    "country": "Brazil",
+    "latitude": -26.489743199574594,
+    "longitude": -49.0778063,
+    "other_names": {
+      "name": "Jaraguá do Sul"
+    }
+  },
+  {
+    "name": "Jaranwala",
+    "country": "Pakistan",
+    "latitude": 31.333018099640434,
+    "longitude": 73.4183387,
+    "other_names": {
+      "name": "جڑانوالہ",
+      "name:ar": "جرانوالا",
+      "name:en": "Jaranwala",
+      "name:et": "Jarānwāla",
+      "name:ja": "ジャランワラ",
+      "name:ru": "Джаранвала",
+      "name:ur": "جڑانوالہ",
+      "name:pnb": "جڑانوالہ"
+    }
+  },
+  {
+    "name": "Jarati",
+    "country": "Ethiopia",
+    "latitude": 5.3372699994835715,
+    "longitude": 41.88000029999999,
+    "other_names": {
+      "name": "Cherati",
+      "name:en": "Jarati",
+      "name:so": "Jarati"
+    }
+  },
+  {
+    "name": "Jarud",
+    "country": "China",
+    "latitude": 44.55238710050475,
+    "longitude": 120.89617019999997,
+    "other_names": {
+      "name": "扎鲁特旗",
+      "name:en": "Jarud",
+      "name:zh": "扎鲁特旗",
+      "alt_name": "扎鲁特;Jarud Banner",
+      "name:zh-Hant": "扎魯特旗"
+    }
+  },
+  {
+    "name": "Jasin",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 2.308194599753957,
+    "longitude": 102.4303382,
+    "other_names": {
+      "name": "Jasin",
+      "name:zh": "野新"
+    }
+  },
+  {
+    "name": "Jastrzębie-Zdrój",
+    "country": "Poland",
+    "latitude": 49.95190849946325,
+    "longitude": 18.602361399999996,
+    "other_names": {
+      "name": "Jastrzębie-Zdrój",
+      "name:de": "Bad Königsdorff-Jastrzemb",
+      "name:hu": "Jastrzębie-Zdrój",
+      "name:ja": "ヤストシェンビェ＝ズドルイ",
+      "name:lt": "Jastšembas Zdrujus",
+      "name:mk": "Јастшембје-Здруј",
+      "name:pl": "Jastrzębie-Zdrój",
+      "name:ru": "Ястшембе-Здруй",
+      "name:uk": "Ястшембе-Здруй",
+      "name:szl": "Jaščymbje-Zdrŭj"
+    }
+  },
+  {
+    "name": "Jataí",
+    "country": "Brazil",
+    "latitude": -17.87838290047446,
+    "longitude": -51.720424099999995,
+    "other_names": {
+      "name": "Jataí"
+    }
+  },
+  {
+    "name": "Jaú",
+    "country": "Brazil",
+    "latitude": -22.29358500016027,
+    "longitude": -48.559193,
+    "other_names": {
+      "name": "Jaú"
+    }
+  }
+]

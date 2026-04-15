@@ -1,0 +1,358 @@
+[
+  {
+    "name": "Indio",
+    "country": "United States Of America",
+    "latitude": 33.719280799594124,
+    "longitude": -116.21880539999997,
+    "other_names": {
+      "name": "Indio"
+    }
+  },
+  {
+    "name": "Indore",
+    "country": "India",
+    "latitude": 22.720361600393623,
+    "longitude": 75.8681996,
+    "other_names": {
+      "name": "Indore",
+      "name:ar": "إندور",
+      "name:en": "Indore",
+      "name:gu": "ઈંદોર",
+      "name:he": "אינדור",
+      "name:hi": "इन्दौर",
+      "name:ja": "インドール",
+      "name:kn": "ಇಂದೋರ್",
+      "name:ml": "ഇൻ‌ഡോർ",
+      "name:mr": "इंदूर",
+      "name:ms": "Indore",
+      "name:pa": "ਇੰਦੌਰ",
+      "name:ru": "Индаур",
+      "name:uk": "Індаур",
+      "name:zh": "印多尔",
+      "alt_name": "इंदौर"
+    }
+  },
+  {
+    "name": "Inglewood",
+    "country": "United States Of America",
+    "latitude": 33.95620029960034,
+    "longitude": -118.35313200000002,
+    "other_names": {
+      "name": "Inglewood",
+      "name:ar": "إنغلوود",
+      "alt_name:ar": "إنغليووود"
+    }
+  },
+  {
+    "name": "Ingolstadt",
+    "country": "Germany",
+    "latitude": 48.76301649975112,
+    "longitude": 11.4250395,
+    "other_names": {
+      "name": "Ingolstadt",
+      "name:ar": "إنغولشتات",
+      "name:el": "Ίνγκολστατ",
+      "name:he": "אינגולשטאט",
+      "name:hu": "Ingolstadt",
+      "name:ja": "インゴルシュタット",
+      "name:la": "Ingolstadium",
+      "name:ru": "Ингольштадт",
+      "name:sr": "Инголштат",
+      "name:bar": "Inglstood"
+    }
+  },
+  {
+    "name": "Inhambane",
+    "country": "Mozambique",
+    "latitude": -23.865960999944615,
+    "longitude": 35.384363,
+    "other_names": {
+      "name": "Inhambane",
+      "name:en": "Inhambane",
+      "name:ko": "이냠바느",
+      "name:ru": "Иньямбане"
+    }
+  },
+  {
+    "name": "Inírida",
+    "country": "Colombia",
+    "latitude": 3.865036799599558,
+    "longitude": -67.92598479999998,
+    "other_names": {
+      "name": "Inírida",
+      "old_name": "Puerto Obando"
+    }
+  },
+  {
+    "name": "Innsbruck",
+    "country": "Austria",
+    "latitude": 47.26542960010533,
+    "longitude": 11.3927685,
+    "other_names": {
+      "name": "Innsbruck",
+      "name:ar": "إنسبروك",
+      "name:az": "İnsbruk",
+      "name:be": "Інсбрук",
+      "name:bg": "Инсбрук",
+      "name:bn": "ইন্সব্রুক",
+      "name:cs": "Innsbruck",
+      "name:cv": "Инсбрук",
+      "name:de": "Innsbruck",
+      "name:el": "Ίνσμπρουκ",
+      "name:en": "Innsbruck",
+      "name:fa": "اینسبروک",
+      "name:fr": "Innsbruck",
+      "name:he": "אינסברוק",
+      "name:hu": "Innsbruck",
+      "name:it": "Innsbruck",
+      "name:ja": "インスブルック",
+      "name:ka": "ინსბრუკი",
+      "name:kk": "Инсбрук",
+      "name:ko": "인스브루크",
+      "name:la": "Pons Aeni",
+      "name:lt": "Insbrukas",
+      "name:lv": "Insbruka",
+      "name:mk": "Инсбрук",
+      "name:mr": "इन्सब्रुक",
+      "name:os": "Инсбрук",
+      "name:rm": "Puntina",
+      "name:ru": "Инсбрук",
+      "name:sr": "Инзбрук",
+      "name:th": "อินส์บรุค",
+      "name:tr": "İnnsbruck",
+      "name:uk": "Інсбрук",
+      "name:zh": "因斯布鲁克",
+      "name:lld": "Dispruch",
+      "alt_name:cs": "Inomostí",
+      "old_name:it": "Ponte sull'Eno",
+      "name:zh-Hant": "因斯布魯克",
+      "name:be-tarask": "Інсбрук"
+    }
+  },
+  {
+    "name": "International Falls",
+    "country": "United States Of America",
+    "latitude": 48.60103299979123,
+    "longitude": -93.41059039999999,
+    "other_names": {
+      "name": "International Falls",
+      "name:ru": "Интернешнл-Фоллс"
+    }
+  },
+  {
+    "name": "Inuyama",
+    "country": "Japan",
+    "latitude": 35.36097339967822,
+    "longitude": 136.9845491,
+    "other_names": {
+      "name": "犬山市",
+      "name:ar": "إنوياما، آيتشي",
+      "name:de": "Inuyama",
+      "name:en": "Inuyama",
+      "name:es": "Inuyama",
+      "name:fr": "Inuyama",
+      "name:ja": "犬山市",
+      "name:ko": "이누야마시",
+      "name:pl": "Inuyama",
+      "name:ru": "Инуяма",
+      "name:uk": "Інуяма",
+      "name:ja_rm": "Inuyama-shi",
+      "name:ja_kana": "いぬやまし"
+    }
+  },
+  {
+    "name": "Invercargill",
+    "country": "New Zealand",
+    "latitude": -46.41212290000661,
+    "longitude": 168.3483269,
+    "other_names": {
+      "name": "Invercargill",
+      "name:gd": "Inbhir Chargaill",
+      "name:ja": "インバーカーギル",
+      "name:mi": "Waihōpai",
+      "name:mk": "Инверкаргил",
+      "name:ru": "Инверкаргилл"
+    }
+  },
+  {
+    "name": "Inverness",
+    "country": "Scotland",
+    "latitude": 57.479012400504566,
+    "longitude": -4.225739,
+    "other_names": {
+      "name": "Inverness",
+      "name:ar": "إنفرنيس",
+      "name:en": "Inverness",
+      "name:gd": "Inbhir Nis",
+      "name:hu": "Inverness",
+      "name:ja": "インヴァネス",
+      "name:ko": "인버네스",
+      "name:lt": "Invernesas",
+      "name:mk": "Инвернес",
+      "name:ru": "Инвернесс",
+      "name:sr": "Инвернес",
+      "name:uk": "Інвернесс"
+    }
+  },
+  {
+    "name": "Inzai",
+    "country": "Japan",
+    "latitude": 35.83225819971928,
+    "longitude": 140.1452981,
+    "other_names": {
+      "name": "印西市",
+      "name:ar": "إنزاي، تشيبا",
+      "name:de": "Inzai",
+      "name:en": "Inzai",
+      "name:es": "Inzai",
+      "name:fr": "Inzai",
+      "name:ja": "印西市",
+      "name:ko": "인자이시",
+      "name:pl": "Inzai",
+      "name:ru": "Индзай",
+      "name:uk": "Індзай",
+      "name:ja_rm": "Inzai-shi",
+      "name:ja_kana": "いんざいし"
+    }
+  },
+  {
+    "name": "Ioannina",
+    "country": "Greece",
+    "latitude": 39.66398180022094,
+    "longitude": 20.852278399999996,
+    "other_names": {
+      "name": "Ιωάννινα",
+      "name:ar": "يانينة",
+      "name:be": "Яніна",
+      "name:bg": "Янина",
+      "name:ca": "Ioànnina",
+      "name:de": "Ioannina",
+      "name:el": "Ιωάννινα",
+      "name:en": "Ioannina",
+      "name:es": "Ioánina",
+      "name:et": "Ioánnina",
+      "name:fr": "Ioannina",
+      "name:he": "יואנינה",
+      "name:hr": "Janjina",
+      "name:hu": "Joánina",
+      "name:it": "Giannina",
+      "name:ja": "ヨアニナ",
+      "name:ka": "იანინა",
+      "name:ko": "요안니나",
+      "name:lt": "Janina",
+      "name:mk": "Јанина",
+      "name:pl": "Janina",
+      "name:pt": "Janina",
+      "name:ro": "Ianina",
+      "name:ru": "Янина",
+      "name:sq": "Janinë",
+      "name:sr": "Јањина",
+      "name:tr": "Yanya",
+      "name:uk": "Яніна",
+      "int_name": "Ioannina",
+      "loc_name": "Γιάννενα",
+      "old_name": "Janina",
+      "reg_name": "Γιάννινα"
+    }
+  },
+  {
+    "name": "Iowa City",
+    "country": "United States Of America",
+    "latitude": 41.66125610045866,
+    "longitude": -91.52991059999998,
+    "other_names": {
+      "name": "Iowa City",
+      "name:ru": "Айова-Сити"
+    }
+  },
+  {
+    "name": "Ipatinga",
+    "country": "Brazil",
+    "latitude": -19.477780700424315,
+    "longitude": -42.52708019999999,
+    "other_names": {
+      "name": "Ipatinga"
+    }
+  },
+  {
+    "name": "Ipoh",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 4.598681699537111,
+    "longitude": 101.0900236,
+    "other_names": {
+      "name": "Ipoh",
+      "name:ar": "إيبوه",
+      "name:en": "Ipoh",
+      "name:es": "Ipoh",
+      "name:fa": "ایپوه",
+      "name:he": "איפוה",
+      "name:hi": "इपोह",
+      "name:ja": "イポー",
+      "name:ko": "이포",
+      "name:ml": "ഇപ്പോഹ്",
+      "name:my": "အီပိုးမြို့",
+      "name:ru": "Ипох",
+      "name:ta": "ஈப்போ",
+      "name:th": "อีโปะฮ์",
+      "name:ur": "ایپو",
+      "name:zh": "怡保",
+      "name:ko-Hani": "怡保"
+    }
+  },
+  {
+    "name": "Ipswich",
+    "country": "Australia",
+    "latitude": -27.61601349944756,
+    "longitude": 152.7608702,
+    "other_names": {
+      "name": "Ipswich",
+      "name:ja": "イプスウィッチ",
+      "name:zh": "伊普斯威奇"
+    }
+  },
+  {
+    "name": "Iqaluit",
+    "country": "Canada",
+    "latitude": 63.74944000033396,
+    "longitude": -68.52185699999998,
+    "other_names": {
+      "name": "ᐃᖃᓗᐃᑦ",
+      "name:ar": "إقالويت",
+      "name:en": "Iqaluit",
+      "name:fr": "Iqaluit",
+      "name:he": "איקאלואיט",
+      "name:iu": "ᐃᖃᓗᐃᑦ",
+      "name:lt": "Ikaluitas",
+      "name:ru": "Икалуит",
+      "name:uk": "Ікалуїт",
+      "old_name": "Frobisher Bay"
+    }
+  },
+  {
+    "name": "Iquique",
+    "country": "Chile",
+    "latitude": -20.21406570037538,
+    "longitude": -70.1524646,
+    "other_names": {
+      "name": "Iquique",
+      "name:en": "Iquique",
+      "name:ru": "Икике",
+      "name:uk": "Ікіке"
+    }
+  },
+  {
+    "name": "Iquitos",
+    "country": "Peru",
+    "latitude": -3.7493649997140888,
+    "longitude": -73.2444145,
+    "other_names": {
+      "name": "Iquitos",
+      "name:de": "Iquitos",
+      "name:en": "Iquitos",
+      "name:es": "Iquitos",
+      "name:pl": "Iquitos",
+      "name:ru": "Икитос",
+      "name:uk": "Ікітос"
+    }
+  }
+]

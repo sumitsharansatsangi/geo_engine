@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Miryalaguda",
+    "country": "India",
+    "latitude": 16.870988200121676,
+    "longitude": 79.5613977,
+    "other_names": {
+      "name": "Miryalaguda",
+      "name:en": "Miryalaguda",
+      "name:hi": "मिरयालगुड़ा",
+      "name:kn": "ಮಿರ್ಯಾಲಗೂಡ",
+      "name:pa": "ਮਿਰਯਾਲਗੁੜਾ",
+      "name:ta": "மிரியலகுடா",
+      "name:te": "మిర్యాలగూడ"
+    }
+  },
+  {
+    "name": "Miryang",
+    "country": "South Korea",
+    "latitude": 35.503838999689926,
+    "longitude": 128.7466992,
+    "other_names": {
+      "name": "밀양시",
+      "name:de": "Miryang",
+      "name:en": "Miryang",
+      "name:es": "Miryang",
+      "name:et": "Miryang",
+      "name:fr": "Miryang",
+      "name:ja": "密陽市",
+      "name:ko": "밀양시",
+      "name:ru": "Мирян",
+      "name:zh": "密阳市",
+      "int_name": "Miryang",
+      "alt_name:en": "Milyang",
+      "name:ja_kana": "みりゃん",
+      "name:ko-Hani": "密陽市",
+      "name:ko-Latn": "Miryang",
+      "name:zh-Hant": "密陽市",
+      "alt_name:ko-Latn": "Milyang"
+    }
+  },
+  {
+    "name": "Mirzapur",
+    "country": "India",
+    "latitude": 25.14613460024533,
+    "longitude": 82.56899519999999,
+    "other_names": {
+      "name": "Mirzapur",
+      "name:en": "Mirzapur",
+      "name:hi": "मिर्ज़ापुर",
+      "name:ja": "ミールザープル",
+      "name:pa": "ਮਿਰਜ਼ਾਪੁਰ",
+      "name:sr": "Мирзапур-Виндхјачал"
+    }
+  },
+  {
+    "name": "Misato",
+    "country": "Japan",
+    "latitude": 35.83009099971907,
+    "longitude": 139.8722251,
+    "other_names": {
+      "name": "三郷市",
+      "name:ar": "ميساتو",
+      "name:de": "Misato",
+      "name:en": "Misato",
+      "name:es": "Misato",
+      "name:fr": "Misato",
+      "name:ja": "三郷市",
+      "name:ko": "미사토시",
+      "name:ru": "Мисато",
+      "name:uk": "Місато",
+      "name:ja_rm": "Misato-shi"
+    }
+  },
+  {
+    "name": "Misawa",
+    "country": "Japan",
+    "latitude": 40.682937700355225,
+    "longitude": 141.36921129999996,
+    "other_names": {
+      "name": "三沢市",
+      "name:ar": "ميساوا، آوموري",
+      "name:de": "Misawa",
+      "name:en": "Misawa",
+      "name:es": "Misawa",
+      "name:fr": "Misawa",
+      "name:ja": "三沢市",
+      "name:ko": "미사와시",
+      "name:pl": "Misawa",
+      "name:ru": "Мисава",
+      "name:uk": "Місава",
+      "int_name": "Misawa",
+      "name:ja_rm": "Misawa-shi",
+      "name:ja_kana": "みさわし"
+    }
+  },
+  {
+    "name": "Mishan",
+    "country": "China",
+    "latitude": 45.54537890040707,
+    "longitude": 131.8707682,
+    "other_names": {
+      "name": "密山市",
+      "name:en": "Mishan",
+      "name:ru": "Мишань",
+      "name:vi": "Mật Sơn",
+      "name:zh": "密山市",
+      "name:zh-Hant": "密山市",
+      "official_name": "密山镇",
+      "name:zh_pinyin": "Mìshān Zhen"
+    }
+  },
+  {
+    "name": "Mishima",
+    "country": "Japan",
+    "latitude": 35.147360999661984,
+    "longitude": 138.948903,
+    "other_names": {
+      "name": "三島市",
+      "name:ar": "ميشيما، شيزوكا",
+      "name:de": "Mishima",
+      "name:en": "Mishima",
+      "name:es": "Mishima",
+      "name:fr": "Mishima",
+      "name:ja": "三島市",
+      "name:ko": "미시마시",
+      "name:pl": "Mishima",
+      "name:ru": "Мисима",
+      "name:uk": "Місіма",
+      "int_name": "Mishima",
+      "name:ja_rm": "Mishima-shi",
+      "name:ja_kana": "みしまし"
+    }
+  },
+  {
+    "name": "Miskolc",
+    "country": "Hungary",
+    "latitude": 48.103064299913,
+    "longitude": 20.790042899999996,
+    "other_names": {
+      "name": "Miskolc",
+      "name:ar": "ميشكولتس",
+      "name:bg": "Мишколц",
+      "name:cs": "Miskolc",
+      "name:de": "Mischkolz",
+      "name:fa": "میشکولتس",
+      "name:he": "מישקולץ",
+      "name:hr": "Miškolc",
+      "name:ja": "ミシュコルツ",
+      "name:ka": "მიშკოლცი",
+      "name:ko": "미슈콜츠",
+      "name:lt": "Miškolcas",
+      "name:lv": "Miškolca",
+      "name:mk": "Мишколц",
+      "name:pl": "Miszkolc",
+      "name:ro": "Mișcolț",
+      "name:ru": "Мишкольц",
+      "name:sk": "Miškovec",
+      "name:sr": "Мишколц",
+      "name:uk": "Мішкольц",
+      "name:zh": "米什科尔茨",
+      "old_name:de": "Mischkolz"
+    }
+  },
+  {
+    "name": "Misrata",
+    "country": "Libya",
+    "latitude": 32.374531799596824,
+    "longitude": 15.090488600000002,
+    "other_names": {
+      "name": "مصراتة",
+      "name:ar": "مصراتة",
+      "name:cs": "Misuráta",
+      "name:de": "Misrata",
+      "name:en": "Misrata",
+      "name:es": "Misurata",
+      "name:et": "Mişrātah",
+      "name:fi": "Al Misratah",
+      "name:fr": "Misrata",
+      "name:it": "Misurata",
+      "name:ru": "Мисурата",
+      "name:sk": "Misuráta",
+      "alt_name:cs": "Misráta",
+      "alt_name:de": "Misurata;Misratah",
+      "alt_name:en": "Misurata;Misratah",
+      "alt_name:sk": "Misráta"
+    }
+  },
+  {
+    "name": "Mission Viejo",
+    "country": "United States Of America",
+    "latitude": 33.596568499591704,
+    "longitude": -117.65940499999999,
+    "other_names": {
+      "name": "Mission Viejo"
+    }
+  },
+  {
+    "name": "Mississauga",
+    "country": "Canada",
+    "latitude": 43.58962310054133,
+    "longitude": -79.6443879,
+    "other_names": {
+      "name": "Mississauga",
+      "name:ckb": "میسیساگا",
+      "short_name": "Ont."
+    }
+  },
+  {
+    "name": "Missoula",
+    "country": "United States Of America",
+    "latitude": 46.870104900187556,
+    "longitude": -113.99526699999998,
+    "other_names": {
+      "name": "Missoula",
+      "name:en": "Missoula",
+      "name:ru": "Миссула",
+      "name:uk": "Міссула"
+    }
+  },
+  {
+    "name": "Mitaka",
+    "country": "Japan",
+    "latitude": 35.68522699970572,
+    "longitude": 139.572916,
+    "other_names": {
+      "name": "三鷹市",
+      "name:ar": "ميتاكا، طوكيو",
+      "name:bg": "Митака",
+      "name:de": "Mitaka",
+      "name:en": "Mitaka",
+      "name:es": "Mitaka",
+      "name:fa": "میتاکا، توکیو",
+      "name:fi": "Mitaka",
+      "name:fr": "Mitaka",
+      "name:gl": "Mitaka",
+      "name:it": "Mitaka",
+      "name:ja": "三鷹市",
+      "name:ko": "미타카시",
+      "name:lt": "Mitaka",
+      "name:ms": "Mitaka",
+      "name:nl": "Mitaka",
+      "name:pl": "Mitaka",
+      "name:pt": "Mitaka",
+      "name:ru": "Митака",
+      "name:sh": "Mitaka",
+      "name:sr": "Митака",
+      "name:tg": "Митака",
+      "name:th": "มิตะกะ",
+      "name:uk": "Мітака",
+      "name:zh": "三鷹市",
+      "name:mzn": "میتاکا، توکیو",
+      "name:yue": "三鷹市",
+      "name:ja_rm": "Mitaka-shi",
+      "name:ja_kana": "みたかし",
+      "name:roa-rup": "Mitaka"
+    }
+  },
+  {
+    "name": "Mitchell",
+    "country": "United States Of America",
+    "latitude": 43.70953000053984,
+    "longitude": -98.025379,
+    "other_names": {
+      "name": "Mitchell",
+      "name:ru": "Митчелл"
+    }
+  },
+  {
+    "name": "Mithi",
+    "country": "Pakistan",
+    "latitude": 24.736412000279778,
+    "longitude": 69.79734189999999,
+    "other_names": {
+      "name": "مِٹّھی‎",
+      "name:en": "Mithi",
+      "name:ru": "Митхи"
+    }
+  },
+  {
+    "name": "Mito",
+    "country": "Japan",
+    "latitude": 36.3657791997738,
+    "longitude": 140.4713933,
+    "other_names": {
+      "name": "水戸市",
+      "name:ar": "ميتو، إيباراكي",
+      "name:cs": "Mito",
+      "name:de": "Mito",
+      "name:en": "Mito",
+      "name:es": "Mito",
+      "name:et": "Mito",
+      "name:fr": "Mito",
+      "name:ja": "水戸市",
+      "name:ko": "미토시",
+      "name:pl": "Mito",
+      "name:ru": "Мито",
+      "name:sr": "Мито",
+      "name:uk": "Міто",
+      "name:ja_rm": "Mito-shi",
+      "name:ja_kana": "みとし"
+    }
+  },
+  {
+    "name": "Mitoyo",
+    "country": "Japan",
+    "latitude": 34.1986855996088,
+    "longitude": 133.7179334,
+    "other_names": {
+      "name": "三豊市",
+      "name:ar": "ميتويو، كاغاوا",
+      "name:de": "Mitoyo",
+      "name:en": "Mitoyo",
+      "name:es": "Mitoyo",
+      "name:fr": "Mitoyo",
+      "name:ja": "三豊市",
+      "name:ko": "미토요시",
+      "name:pl": "Mitoyo",
+      "name:ru": "Митоё",
+      "name:uk": "Мітойо",
+      "name:zh": "三丰市",
+      "name:zh-Hans": "三丰市",
+      "name:zh-Hant": "三豐市"
+    }
+  },
+  {
+    "name": "Mitspe Ramon",
+    "country": "Israel And Palestine",
+    "latitude": 30.6119686996889,
+    "longitude": 34.8012169,
+    "other_names": {
+      "name": "מצפה רמון",
+      "name:ar": "متسبي رمون",
+      "name:cs": "Micpe Ramon",
+      "name:en": "Mitspe Ramon",
+      "name:fr": "Mitzpe Ramon",
+      "name:he": "מצפה רמון",
+      "name:hi": "मित्ज़पे रमोन",
+      "name:lv": "Micpe Ramona",
+      "alt_name:cs": "Vyhlídka na Ramon",
+      "alt_name:en": "Mahane Ramon;Mizpe Ramon;Mitzpe Ramon"
+    }
+  },
+  {
+    "name": "Mitsuke",
+    "country": "Japan",
+    "latitude": 37.53144999991736,
+    "longitude": 138.9126572,
+    "other_names": {
+      "name": "見附市",
+      "name:ar": "ميتسوكا، نييغاتا",
+      "name:de": "Mitsuke",
+      "name:en": "Mitsuke",
+      "name:es": "Mitsuke",
+      "name:fr": "Mitsuke",
+      "name:ja": "見附市",
+      "name:ko": "미쓰케시",
+      "name:pl": "Mitsuke",
+      "name:ru": "Мицуке",
+      "name:uk": "Міцуке",
+      "int_name": "Mitsuke",
+      "name:ja_rm": "Mitsuke-shi",
+      "name:ja_kana": "みつけし"
+    }
+  },
+  {
+    "name": "Mitú",
+    "country": "Colombia",
+    "latitude": 1.2523267998672682,
+    "longitude": -70.2308883,
+    "other_names": {
+      "name": "Mitú",
+      "name:en": "Mitú",
+      "name:ru": "Миту"
+    }
+  }
+]

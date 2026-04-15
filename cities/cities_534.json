@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Yanshou",
+    "country": "China",
+    "latitude": 45.45396440041858,
+    "longitude": 128.3237484,
+    "other_names": {
+      "name": "延寿县",
+      "name:en": "Yanshou",
+      "name:ru": "Яньшоу",
+      "name:vi": "Diên Thọ",
+      "name:zh": "延寿县",
+      "alt_name": "延寿",
+      "name:zh-Hant": "延壽縣",
+      "official_name": "延寿镇"
+    }
+  },
+  {
+    "name": "Yanta",
+    "country": "China",
+    "latitude": 34.222590599609745,
+    "longitude": 108.94077269999998,
+    "other_names": {
+      "name": "雁塔区",
+      "name:en": "Yanta",
+      "name:zh": "雁塔区",
+      "name:zh-Hant": "雁塔區"
+    }
+  },
+  {
+    "name": "Yantai",
+    "country": "China",
+    "latitude": 37.46192799990804,
+    "longitude": 121.4425255,
+    "other_names": {
+      "name": "烟台市",
+      "name:ar": "يانتاى",
+      "name:de": "Yantai",
+      "name:en": "Yantai",
+      "name:et": "Yantai",
+      "name:fr": "Yantai",
+      "name:ja": "煙台市",
+      "name:ko": "옌타이시",
+      "name:pt": "Yantai",
+      "name:ru": "Яньтай",
+      "name:sr": "Јентај",
+      "name:vi": "Yên Đài",
+      "name:zh": "烟台市",
+      "int_name": "Yantai",
+      "name:zh-Hant": "煙臺市",
+      "name:zh_pinyin": "Yāntái Shì"
+    }
+  },
+  {
+    "name": "Yantan",
+    "country": "China",
+    "latitude": 29.27560709980905,
+    "longitude": 104.8713399,
+    "other_names": {
+      "name": "沿滩区",
+      "name:en": "Yantan",
+      "name:zh": "沿滩区",
+      "alt_name": "沿滩;Yantan District",
+      "name:zh-Hant": "沿灘區",
+      "name:zh_pinyin": "Yántān Qū"
+    }
+  },
+  {
+    "name": "Yantian District",
+    "country": "China",
+    "latitude": 22.559050300398173,
+    "longitude": 114.23244069999998,
+    "other_names": {
+      "name": "盐田区",
+      "name:de": "Yantian",
+      "name:en": "Yantian District",
+      "name:es": "Yantián",
+      "name:eu": "Yantian Barrutia",
+      "name:fa": "یانتیان",
+      "name:fr": "District de Yantian",
+      "name:it": "Distretto di Yantian",
+      "name:ja": "塩田区",
+      "name:ko": "옌톈구",
+      "name:nl": "Yantian",
+      "name:no": "Yantian",
+      "name:pl": "Yantian",
+      "name:pt": "Distrito de Yantian",
+      "name:ru": "Яньтянь",
+      "name:sv": "Yantian",
+      "name:vi": "Diêm Điền",
+      "name:zh": "盐田区",
+      "name:ceb": "Yantian Qu",
+      "name:hak": "Yàm-thièn-khî",
+      "name:mwl": "Yantian",
+      "name:nan": "Iâm-tiân-khu",
+      "name:yue": "鹽田區",
+      "name:zh-Hant": "鹽田區",
+      "name:zh_pinyin": "Yántián Qū"
+    }
+  },
+  {
+    "name": "Yanting",
+    "country": "China",
+    "latitude": 31.22558249964678,
+    "longitude": 105.38731789999999,
+    "other_names": {
+      "name": "盐亭县",
+      "name:en": "Yanting",
+      "name:zh": "盐亭县",
+      "alt_name": "盐亭;Yanting County",
+      "name:zh-Hant": "鹽亭縣"
+    }
+  },
+  {
+    "name": "Yanyuan",
+    "country": "China",
+    "latitude": 27.426137800010487,
+    "longitude": 101.50753489999998,
+    "other_names": {
+      "name": "盐源县",
+      "name:en": "Yanyuan",
+      "name:uk": "Яньцзін",
+      "name:zh": "盐源县",
+      "alt_name": "盐源;盐井镇;盐井;Yanyuan County",
+      "name:zh-Hant": "鹽源縣",
+      "name:zh_pinyin": "Yányuán Xiàn"
+    }
+  },
+  {
+    "name": "Yanzhou",
+    "country": "China",
+    "latitude": 35.553458299694135,
+    "longitude": 116.7750536,
+    "other_names": {
+      "name": "兖州区",
+      "name:en": "Yanzhou",
+      "name:zh": "兖州区",
+      "name:zh-Hant": "兗州區"
+    }
+  },
+  {
+    "name": "Yao",
+    "country": "Japan",
+    "latitude": 34.62627499962886,
+    "longitude": 135.605845,
+    "other_names": {
+      "name": "八尾市",
+      "name:ar": "ياو، أوساكا",
+      "name:de": "Yao",
+      "name:en": "Yao",
+      "name:es": "Yao",
+      "name:fr": "Yao",
+      "name:ja": "八尾市",
+      "name:ko": "야오시",
+      "name:pl": "Yao",
+      "name:ru": "Яо",
+      "name:uk": "Яо",
+      "name:ja_rm": "Yao-shi"
+    }
+  },
+  {
+    "name": "Yao",
+    "country": "Chad",
+    "latitude": 12.851008999663605,
+    "longitude": 17.559304,
+    "other_names": {
+      "name": "Yao ياؤ",
+      "name:ar": "ياؤ",
+      "name:en": "Yao",
+      "name:fr": "Yao",
+      "alt_name": "Yao"
+    }
+  },
+  {
+    "name": "Yao'an",
+    "country": "China",
+    "latitude": 25.50729410021243,
+    "longitude": 101.2404753,
+    "other_names": {
+      "name": "姚安县",
+      "name:en": "Yao'an",
+      "name:uk": "Яоань повіт",
+      "name:vi": "Diêu An",
+      "name:zh": "姚安县",
+      "alt_name": "姚安;Yao'an County",
+      "name:zh-Hant": "姚安縣",
+      "name:zh_pinyin": "Yao'an Xian"
+    }
+  },
+  {
+    "name": "Yaodu",
+    "country": "China",
+    "latitude": 36.08003829974358,
+    "longitude": 111.5734529,
+    "other_names": {
+      "name": "尧都区",
+      "name:en": "Yaodu",
+      "name:vi": "Nghiêu Đô",
+      "name:zh": "尧都区",
+      "alt_name": "尧都;平阳府;平阳;Saratsi;Lin-fen-hsien;Linfen Shi;Yaodu Qu;Pingyangfu;Pingyang;Linfen",
+      "old_name": "临汾市",
+      "name:zh-Hant": "堯都區",
+      "name:zh_pinyin": "Yaodu Qu"
+    }
+  },
+  {
+    "name": "Yaohai",
+    "country": "China",
+    "latitude": 31.86016119961414,
+    "longitude": 117.3037396,
+    "other_names": {
+      "name": "瑶海区",
+      "name:de": "Yaohai",
+      "name:en": "Yaohai",
+      "name:eo": "Yaohai",
+      "name:es": "Yaohai",
+      "name:fr": "Yaohai",
+      "name:ja": "瑶海区",
+      "name:ko": "야오하이 구",
+      "name:pt": "Yaohai",
+      "name:sv": "Yaohai",
+      "name:vi": "Dao Hải",
+      "name:zh": "瑶海区",
+      "name:zh-Hant": "瑤海區"
+    }
+  },
+  {
+    "name": "Yaounde",
+    "country": "Cameroon",
+    "latitude": 3.868986699599199,
+    "longitude": 11.5213344,
+    "other_names": {
+      "name": "Yaoundé",
+      "name:am": "ያዉንዴ",
+      "name:ar": "ياوندي",
+      "name:az": "Yaunde",
+      "name:be": "Яундэ",
+      "name:bg": "Яунде",
+      "name:bo": "ཡོན་དྷི།",
+      "name:cs": "Yaoundé",
+      "name:de": "Jaunde",
+      "name:el": "Γιαουντέ",
+      "name:en": "Yaounde",
+      "name:eo": "Jaundeo",
+      "name:es": "Yaundé",
+      "name:eu": "Jaunde",
+      "name:fa": "یائونده",
+      "name:fr": "Yaoundé",
+      "name:he": "יאונדה",
+      "name:ht": "Yaounde",
+      "name:hu": "Yaoundé",
+      "name:hy": "Յաունդե",
+      "name:io": "Yaounde",
+      "name:is": "Jánde",
+      "name:ja": "ヤウンデ",
+      "name:ka": "იაუნდე",
+      "name:ko": "야운데",
+      "name:ky": "Яунде",
+      "name:la": "Yaunde",
+      "name:lt": "Jaundė",
+      "name:lv": "Jaunde",
+      "name:mk": "Јаунде",
+      "name:mr": "याउंदे",
+      "name:oc": "Yaoundé",
+      "name:pl": "Jaunde",
+      "name:pt": "Yaoundé",
+      "name:ru": "Яунде",
+      "name:sk": "Yaoundé",
+      "name:so": "Yawunde",
+      "name:sr": "Јаунде",
+      "name:sv": "Yaoundé",
+      "name:sw": "Yaounde",
+      "name:ta": "யாவுண்டே",
+      "name:tg": "Яунде",
+      "name:th": "ยาอุนเด",
+      "name:uk": "Яунде",
+      "name:ur": "یاؤندے",
+      "name:wo": "Yaunde",
+      "name:yi": "יאונדע",
+      "name:zh": "雅温得",
+      "name:ckb": "یائوندێ",
+      "name:mrj": "Яунде",
+      "name:nah": "Yaundé",
+      "name:nov": "Yaunde",
+      "name:pnb": "یاونڈی",
+      "name:udm": "Яунде",
+      "name:be-tarask": "Яундэ"
+    }
+  },
+  {
+    "name": "Yaozhou",
+    "country": "China",
+    "latitude": 34.913268999645936,
+    "longitude": 108.97146999999998,
+    "other_names": {
+      "name": "耀州区",
+      "name:en": "Yaozhou",
+      "name:vi": "Diệu Châu",
+      "name:zh": "耀州区",
+      "alt_name": "耀州;永安路街道;永安路;Yong'anlu",
+      "name:zh-Hant": "耀州區",
+      "name:zh_pinyin": "yàozhōu qū"
+    }
+  },
+  {
+    "name": "Yapacaní",
+    "country": "Bolivia",
+    "latitude": -17.40206230047442,
+    "longitude": -63.8813514,
+    "other_names": {
+      "name": "Yapacaní",
+      "official_name": "Villa Yapacaní"
+    }
+  },
+  {
+    "name": "Yardimli",
+    "country": "Azerbaijan",
+    "latitude": 38.90744870011249,
+    "longitude": 48.24230359999999,
+    "other_names": {
+      "name": "Yardımlı",
+      "name:ar": "يارديملي",
+      "name:az": "Yardımlı",
+      "name:de": "Yardimli",
+      "name:en": "Yardimli",
+      "name:es": "Yardımlı",
+      "name:fa": "یاردیملی",
+      "name:fr": "Yardımlı",
+      "name:ja": "ヤルディムリ",
+      "name:ru": "Ярдымлы",
+      "name:uk": "Ярдимли",
+      "name:ur": "یاردیملی",
+      "name:azb": "یاردیملی"
+    }
+  },
+  {
+    "name": "Yardimli",
+    "country": "Azerbaijan",
+    "latitude": 38.907609869561405,
+    "longitude": 48.247960062976205,
+    "other_names": {
+      "name": "Yardımlı",
+      "name:ar": "يارديملي",
+      "name:en": "Yardimli",
+      "name:fa": "یاردیملی",
+      "name:ru": "Ярдымлы",
+      "name:ur": "یاردیملی",
+      "name:azb": "یاردیملی"
+    }
+  },
+  {
+    "name": "Yaritagua",
+    "country": "Venezuela",
+    "latitude": 10.079570799441978,
+    "longitude": -69.1247785,
+    "other_names": {
+      "name": "Yaritagua"
+    }
+  },
+  {
+    "name": "Yaroslavl",
+    "country": "Russia",
+    "latitude": 57.62638770058147,
+    "longitude": 39.8933705,
+    "other_names": {
+      "name": "Ярославль",
+      "name:ar": "ياروسلافل",
+      "name:cs": "Jaroslavl",
+      "name:de": "Jaroslawl",
+      "name:en": "Yaroslavl",
+      "name:et": "Jaroslavl",
+      "name:fi": "Jaroslavl",
+      "name:fr": "Iaroslavl",
+      "name:hr": "Jaroslavlj",
+      "name:hu": "Jaroszlavl",
+      "name:ko": "야로슬라블",
+      "name:lt": "Jaroslavlis",
+      "name:pl": "Jarosław",
+      "name:ro": "Iaroslavl",
+      "name:ru": "Ярославль",
+      "name:sk": "Jaroslavľ",
+      "name:sr": "Јарослављ",
+      "name:uk": "Ярославль",
+      "int_name": "Yaroslavl",
+      "loc_name": "Ярик"
+    }
+  }
+]

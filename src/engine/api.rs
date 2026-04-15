@@ -10,9 +10,10 @@ use rayon::prelude::*;
 use rkyv::{Archived, string::ArchivedString};
 use serde::Serialize;
 
-use crate::engine::city::{City, normalize};
+use crate::engine::city::{City, CityCore, CityMeta, normalize};
 use crate::engine::error::GeoEngineError;
 use crate::engine::model::Country;
+use crate::engine::subdistrict_meta::SubdistrictMeta;
 use crate::engine::{
     bootstrap::init_all_assets,
     index::SpatialIndex,
@@ -122,6 +123,7 @@ struct EngineBundle {
     subdistrict: Option<GeoEngine>,
     subdistrict_index: Option<SpatialIndex>,
     subdistrict_db_path: PathBuf,
+    subdistrict_meta: Option<Vec<SubdistrictMetadata>>,
     city_index: Option<CityIndex>,
 }
 
@@ -134,15 +136,17 @@ struct CountryShard {
 struct CityIndex {
     fst: Option<Map<Vec<u8>>>,
     cities_by_id: HashMap<u32, City>,
-    city_rkyv_path: PathBuf,
+    city_core_path: PathBuf,
 }
 
 struct InitializedPaths {
     asset_dir: PathBuf,
     country_db_path: PathBuf,
     subdistrict_db_path: PathBuf,
+    subdistrict_meta_path: PathBuf,
     city_fst_path: PathBuf,
-    city_rkyv_path: PathBuf,
+    city_core_path: PathBuf,
+    city_meta_path: PathBuf,
 }
 
 static PATHS: OnceLock<InitializedPaths> = OnceLock::new();
@@ -174,8 +178,10 @@ pub fn init_path(asset_dir: &Path) -> Result<bool, GeoEngineError> {
         asset_dir: asset_dir.to_path_buf(),
         country_db_path: asset_paths.geo_db_path,
         subdistrict_db_path: asset_paths.subdistrict_db_path,
+        subdistrict_meta_path: asset_paths.subdistrict_meta_path,
         city_fst_path: asset_paths.city_fst_path,
-        city_rkyv_path: asset_paths.city_rkyv_path,
+        city_core_path: asset_paths.city_core_path,
+        city_meta_path: asset_paths.city_meta_path,
     };
 
     let initialized_paths = PATHS.get_or_init(|| candidate_paths);
@@ -200,8 +206,10 @@ fn get_initialized_engine() -> Result<&'static InitializedGeoEngine, GeoEngineEr
         InitializedGeoEngine::open(
             &paths.country_db_path,
             paths.subdistrict_db_path.as_path(),
+            paths.subdistrict_meta_path.as_path(),
             paths.city_fst_path.as_path(),
-            paths.city_rkyv_path.as_path(),
+            paths.city_core_path.as_path(),
+            paths.city_meta_path.as_path(),
         )
         .map_err(|err| err.to_string())
     });
@@ -265,8 +273,10 @@ impl InitializedGeoEngine {
     pub fn open(
         country_db_path: &Path,
         subdistrict_db_path: &Path,
+        subdistrict_meta_path: &Path,
         city_fst_path: &Path,
-        city_rkyv_path: &Path,
+        city_core_path: &Path,
+        city_meta_path: &Path,
     ) -> Result<Self, GeoEngineError> {
         let country_shards = load_country_shards(country_db_path)?;
         let country_names = load_country_names(&country_shards);
@@ -275,7 +285,12 @@ impl InitializedGeoEngine {
         let subdistrict_index = subdistrict_engine
             .as_ref()
             .map(|engine| SpatialIndex::build(engine.countries()));
-        let city_index = load_city_index(Some(city_fst_path), Some(city_rkyv_path))?;
+        let subdistrict_meta = Some(load_subdistrict_meta(subdistrict_meta_path)?);
+        let city_index = load_city_index(
+            Some(city_fst_path),
+            Some(city_core_path),
+            Some(city_meta_path),
+        )?;
 
         Ok(Self {
             engine: EngineBundle {
@@ -284,6 +299,7 @@ impl InitializedGeoEngine {
                 subdistrict: subdistrict_engine,
                 subdistrict_index,
                 subdistrict_db_path: subdistrict_db_path.to_path_buf(),
+                subdistrict_meta,
                 city_index,
             },
         })
@@ -293,8 +309,10 @@ impl InitializedGeoEngine {
     pub fn open_from_bytes(
         country_db_bytes: &[u8],
         subdistrict_db_bytes: Option<&[u8]>,
+        subdistrict_meta_bytes: Option<&[u8]>,
         city_fst_bytes: Option<&[u8]>,
-        city_rkyv_bytes: Option<&[u8]>,
+        city_core_bytes: Option<&[u8]>,
+        city_meta_bytes: Option<&[u8]>,
     ) -> Result<Self, GeoEngineError> {
         let country_engine = GeoEngine::from_bytes(country_db_bytes, "country.db")?;
         let country_shards = vec![CountryShard {
@@ -313,8 +331,14 @@ impl InitializedGeoEngine {
         let subdistrict_index = subdistrict_engine
             .as_ref()
             .map(|engine| SpatialIndex::build(engine.countries()));
+        let subdistrict_meta = if let Some(bytes) = subdistrict_meta_bytes {
+            Some(load_subdistrict_meta_from_bytes(bytes)?)
+        } else {
+            None
+        };
 
-        let city_index = load_city_index_from_bytes(city_fst_bytes, city_rkyv_bytes)?;
+        let city_index =
+            load_city_index_from_bytes(city_fst_bytes, city_core_bytes, city_meta_bytes)?;
 
         Ok(Self {
             engine: EngineBundle {
@@ -323,6 +347,7 @@ impl InitializedGeoEngine {
                 subdistrict: subdistrict_engine,
                 subdistrict_index,
                 subdistrict_db_path: PathBuf::from("subdistrict.db"),
+                subdistrict_meta,
                 city_index,
             },
         })
@@ -376,7 +401,10 @@ impl InitializedGeoEngine {
 
         if let Some((subdistrict_match, (center_lat, center_lon))) =
             subdistrict_match_with_center.as_ref()
-            && let Some(metadata) = parse_subdistrict_payload(&subdistrict_match.name)
+            && let Some(metadata) = resolve_subdistrict_metadata(
+                &subdistrict_match.name,
+                self.engine.subdistrict_meta.as_deref(),
+            )
         {
             return Ok(LookupResult {
                 country: country.region,
@@ -478,7 +506,10 @@ impl InitializedGeoEngine {
         let mut matches = Vec::new();
 
         for feature in engine.countries().iter() {
-            let Some(metadata) = parse_subdistrict_payload(feature.name.as_str()) else {
+            let Some(metadata) = resolve_subdistrict_metadata(
+                feature.name.as_str(),
+                self.engine.subdistrict_meta.as_deref(),
+            ) else {
                 continue;
             };
 
@@ -594,7 +625,7 @@ impl InitializedGeoEngine {
     fn nearest_city(&self, lat: f32, lon: f32) -> Result<CityMatch, GeoEngineError> {
         let Some(city_index) = self.engine.city_index.as_ref() else {
             return Err(GeoEngineError::DatabaseMap {
-                path: PathBuf::from("city.rkyv"),
+                path: PathBuf::from("city.core"),
                 source: std::io::Error::new(
                     std::io::ErrorKind::NotFound,
                     "city dataset not initialized",
@@ -606,7 +637,7 @@ impl InitializedGeoEngine {
             lat,
             lon,
             &city_index.cities_by_id,
-            &city_index.city_rkyv_path,
+            &city_index.city_core_path,
             &self.engine.country_names,
         )
     }
@@ -616,7 +647,7 @@ fn nearest_city_from_map(
     lat: f32,
     lon: f32,
     cities_by_id: &HashMap<u32, City>,
-    city_rkyv_path: &Path,
+    city_core_path: &Path,
     country_names: &HashMap<String, String>,
 ) -> Result<CityMatch, GeoEngineError> {
     let nearest = cities_by_id
@@ -629,7 +660,7 @@ fn nearest_city_from_map(
                 .unwrap_or(std::cmp::Ordering::Equal)
         })
         .ok_or_else(|| GeoEngineError::DatabaseMap {
-            path: city_rkyv_path.to_path_buf(),
+            path: city_core_path.to_path_buf(),
             source: std::io::Error::new(
                 std::io::ErrorKind::InvalidData,
                 "no cities found in city dataset",
@@ -653,13 +684,17 @@ fn nearest_city_from_map(
 
 fn load_city_index(
     city_fst_path: Option<&Path>,
-    city_rkyv_path: Option<&Path>,
+    city_core_path: Option<&Path>,
+    city_meta_path: Option<&Path>,
 ) -> Result<Option<CityIndex>, GeoEngineError> {
-    let Some(city_rkyv_path) = city_rkyv_path else {
+    let Some(city_core_path) = city_core_path else {
+        return Ok(None);
+    };
+    let Some(city_meta_path) = city_meta_path else {
         return Ok(None);
     };
 
-    let cities_by_id = load_cities_by_id(city_rkyv_path)?;
+    let cities_by_id = load_cities_by_id(city_core_path, city_meta_path)?;
     let fst = if let Some(city_fst_path) = city_fst_path {
         let fst_bytes = fs::read(city_fst_path).map_err(|source| GeoEngineError::DatabaseOpen {
             path: city_fst_path.to_path_buf(),
@@ -678,20 +713,24 @@ fn load_city_index(
     Ok(Some(CityIndex {
         fst,
         cities_by_id,
-        city_rkyv_path: city_rkyv_path.to_path_buf(),
+        city_core_path: city_core_path.to_path_buf(),
     }))
 }
 
 #[cfg_attr(not(all(feature = "wasm", target_arch = "wasm32")), allow(dead_code))]
 fn load_city_index_from_bytes(
     city_fst_bytes: Option<&[u8]>,
-    city_rkyv_bytes: Option<&[u8]>,
+    city_core_bytes: Option<&[u8]>,
+    city_meta_bytes: Option<&[u8]>,
 ) -> Result<Option<CityIndex>, GeoEngineError> {
-    let Some(city_rkyv_bytes) = city_rkyv_bytes else {
+    let Some(city_core_bytes) = city_core_bytes else {
+        return Ok(None);
+    };
+    let Some(city_meta_bytes) = city_meta_bytes else {
         return Ok(None);
     };
 
-    let cities_by_id = load_cities_by_id_from_bytes(city_rkyv_bytes)?;
+    let cities_by_id = load_cities_by_id_from_bytes(city_core_bytes, city_meta_bytes)?;
     let fst = if let Some(city_fst_bytes) = city_fst_bytes {
         Some(
             Map::new(city_fst_bytes.to_vec()).map_err(|err| GeoEngineError::DatabaseMap {
@@ -706,7 +745,7 @@ fn load_city_index_from_bytes(
     Ok(Some(CityIndex {
         fst,
         cities_by_id,
-        city_rkyv_path: PathBuf::from("cities.rkyv"),
+        city_core_path: PathBuf::from("cities.core"),
     }))
 }
 
@@ -951,6 +990,7 @@ fn is_india(country: &Archived<Country>) -> bool {
         || country.name.as_str().eq_ignore_ascii_case("india")
 }
 
+#[derive(Clone)]
 struct SubdistrictMetadata {
     subdistrict_name: String,
     district_name: String,
@@ -959,6 +999,133 @@ struct SubdistrictMetadata {
     district_code: String,
     state_code: String,
     demographics: Option<DistrictDemographics>,
+}
+
+fn load_subdistrict_meta(path: &Path) -> Result<Vec<SubdistrictMetadata>, GeoEngineError> {
+    let bytes = fs::read(path).map_err(|source| GeoEngineError::DatabaseOpen {
+        path: path.to_path_buf(),
+        source,
+    })?;
+    load_subdistrict_meta_from_bytes(&bytes)
+}
+
+fn load_subdistrict_meta_from_bytes(
+    bytes: &[u8],
+) -> Result<Vec<SubdistrictMetadata>, GeoEngineError> {
+    let decoded = if is_zstd_blob(bytes) {
+        zstd::stream::decode_all(bytes).map_err(|source| GeoEngineError::DatabaseMap {
+            path: PathBuf::from("subdistrict.meta"),
+            source,
+        })?
+    } else {
+        bytes.to_vec()
+    };
+
+    let archived_meta: &Archived<SubdistrictMeta> =
+        rkyv::access::<Archived<SubdistrictMeta>, rkyv::rancor::Error>(&decoded)
+            .unwrap_or_else(|_| unsafe { rkyv::access_unchecked(&decoded) });
+
+    let mut metadata = Vec::with_capacity(archived_meta.entries.len());
+    for entry in archived_meta.entries.iter() {
+        let languages = entry
+            .languages_blob_id
+            .as_ref()
+            .map(|id| subdistrict_meta_string(archived_meta, u32::from(*id) as usize))
+            .transpose()?
+            .unwrap_or_default();
+
+        let demographics = if entry.district_uni_code_id.is_none()
+            && entry.major_religion_id.is_none()
+            && languages.is_empty()
+        {
+            None
+        } else {
+            Some(DistrictDemographics {
+                district_uni_code: entry
+                    .district_uni_code_id
+                    .as_ref()
+                    .map(|id| subdistrict_meta_string(archived_meta, u32::from(*id) as usize))
+                    .transpose()?
+                    .unwrap_or_default(),
+                major_religion: entry
+                    .major_religion_id
+                    .as_ref()
+                    .map(|id| subdistrict_meta_string(archived_meta, u32::from(*id) as usize))
+                    .transpose()?
+                    .unwrap_or_default(),
+                languages: parse_embedded_languages(&languages),
+            })
+        };
+
+        metadata.push(SubdistrictMetadata {
+            subdistrict_name: normalize_name(&subdistrict_meta_string(
+                archived_meta,
+                u32::from(entry.subdistrict_name_id) as usize,
+            )?),
+            district_name: normalize_name(&subdistrict_meta_string(
+                archived_meta,
+                u32::from(entry.district_name_id) as usize,
+            )?),
+            state_name: normalize_name(&subdistrict_meta_string(
+                archived_meta,
+                u32::from(entry.state_name_id) as usize,
+            )?),
+            subdistrict_code: subdistrict_meta_string(
+                archived_meta,
+                u32::from(entry.subdistrict_code_id) as usize,
+            )?,
+            district_code: subdistrict_meta_string(
+                archived_meta,
+                u32::from(entry.district_code_id) as usize,
+            )?,
+            state_code: subdistrict_meta_string(
+                archived_meta,
+                u32::from(entry.state_code_id) as usize,
+            )?,
+            demographics,
+        });
+    }
+
+    Ok(metadata)
+}
+
+fn subdistrict_meta_string(
+    meta: &Archived<SubdistrictMeta>,
+    id: usize,
+) -> Result<String, GeoEngineError> {
+    meta.strings
+        .get(id)
+        .map(|value| value.as_str().to_string())
+        .ok_or_else(|| GeoEngineError::DatabaseMap {
+            path: PathBuf::from("subdistrict.meta"),
+            source: std::io::Error::new(
+                std::io::ErrorKind::InvalidData,
+                format!("invalid subdistrict metadata string id: {id}"),
+            ),
+        })
+}
+
+fn resolve_subdistrict_metadata(
+    feature_name: &str,
+    metadata: Option<&[SubdistrictMetadata]>,
+) -> Option<SubdistrictMetadata> {
+    if let Some(index) = parse_subdistrict_meta_key(feature_name)
+        && let Some(metadata) = metadata
+    {
+        return metadata.get(index).cloned();
+    }
+
+    parse_subdistrict_payload(feature_name)
+}
+
+fn parse_subdistrict_meta_key(value: &str) -> Option<usize> {
+    value
+        .strip_prefix("sdm:")
+        .and_then(|id| id.parse::<usize>().ok())
+}
+
+fn is_zstd_blob(bytes: &[u8]) -> bool {
+    bytes.len() >= 4 && bytes[0..4] == [0x28, 0xB5, 0x2F, 0xFD]
 }
 
 fn parse_subdistrict_payload(payload: &str) -> Option<SubdistrictMetadata> {
@@ -1030,52 +1197,81 @@ fn parse_embedded_languages(raw: &str) -> Vec<GeoLanguage> {
     sort_languages_by_relevance(&langs)
 }
 
-fn load_cities_by_id(path: &Path) -> Result<HashMap<u32, City>, GeoEngineError> {
-    let bytes = fs::read(path).map_err(|source| GeoEngineError::DatabaseOpen {
-        path: path.to_path_buf(),
+fn load_cities_by_id(
+    core_path: &Path,
+    meta_path: &Path,
+) -> Result<HashMap<u32, City>, GeoEngineError> {
+    let core_bytes = fs::read(core_path).map_err(|source| GeoEngineError::DatabaseOpen {
+        path: core_path.to_path_buf(),
         source,
     })?;
-    load_cities_by_id_from_bytes(&bytes)
+    let meta_bytes = fs::read(meta_path).map_err(|source| GeoEngineError::DatabaseOpen {
+        path: meta_path.to_path_buf(),
+        source,
+    })?;
+    load_cities_by_id_from_bytes(&core_bytes, &meta_bytes)
 }
 
-fn load_cities_by_id_from_bytes(bytes: &[u8]) -> Result<HashMap<u32, City>, GeoEngineError> {
-    let archived: &Archived<Vec<City>> = rkyv::access::<Archived<Vec<City>>, rkyv::rancor::Error>(
-        bytes,
-    )
-    .unwrap_or_else(|_| unsafe {
-        // SAFETY: rkyv data layout is guaranteed valid even if validation fails.
-        // Using unchecked access as fallback after failed validated check.
-        rkyv::access_unchecked(bytes)
-    });
+fn load_cities_by_id_from_bytes(
+    core_bytes: &[u8],
+    meta_bytes: &[u8],
+) -> Result<HashMap<u32, City>, GeoEngineError> {
+    let archived_core: &Archived<Vec<CityCore>> =
+        rkyv::access::<Archived<Vec<CityCore>>, rkyv::rancor::Error>(core_bytes).unwrap_or_else(
+            |_| unsafe {
+                // SAFETY: rkyv data layout is guaranteed valid even if validation fails.
+                // Using unchecked access as fallback after failed validated check.
+                rkyv::access_unchecked(core_bytes)
+            },
+        );
 
-    let mut cities = HashMap::with_capacity(archived.len());
-    for archived_city in archived.iter() {
+    let archived_meta: &Archived<CityMeta> =
+        rkyv::access::<Archived<CityMeta>, rkyv::rancor::Error>(meta_bytes).unwrap_or_else(|_| {
+            unsafe {
+                // SAFETY: rkyv data layout is guaranteed valid even if validation fails.
+                // Using unchecked access as fallback after failed validated check.
+                rkyv::access_unchecked(meta_bytes)
+            }
+        });
+
+    let mut cities = HashMap::with_capacity(archived_core.len());
+    for archived_city in archived_core.iter() {
         let city = City {
             geoname_id: archived_city.geoname_id.into(),
-            country_code: archived_city.country_code.as_str().to_string(),
-            name: archived_city.name.as_str().to_string(),
-            ascii: archived_city.ascii.as_str().to_string(),
-            alternates: archived_city
-                .alternates
-                .iter()
-                .map(|value| value.as_str().to_string())
-                .collect(),
-            admin1_code: archived_city
-                .admin1_code
-                .as_ref()
-                .map(|v| v.as_str().to_string()),
-            admin1_name: archived_city
-                .admin1_name
-                .as_ref()
-                .map(|v| v.as_str().to_string()),
-            admin2_code: archived_city
-                .admin2_code
-                .as_ref()
-                .map(|v| v.as_str().to_string()),
-            admin2_name: archived_city
-                .admin2_name
-                .as_ref()
-                .map(|v| v.as_str().to_string()),
+            country_code: city_string(
+                archived_meta,
+                u32::from(archived_city.country_code_id) as usize,
+            )?,
+            name: city_string(archived_meta, u32::from(archived_city.name_id) as usize)?,
+            ascii: city_string(archived_meta, u32::from(archived_city.ascii_id) as usize)?,
+            admin1_code: city_optional_string(
+                archived_meta,
+                archived_city
+                    .admin1_code_id
+                    .as_ref()
+                    .map(|value| u32::from(*value)),
+            )?,
+            admin1_name: city_optional_string(
+                archived_meta,
+                archived_city
+                    .admin1_name_id
+                    .as_ref()
+                    .map(|value| u32::from(*value)),
+            )?,
+            admin2_code: city_optional_string(
+                archived_meta,
+                archived_city
+                    .admin2_code_id
+                    .as_ref()
+                    .map(|value| u32::from(*value)),
+            )?,
+            admin2_name: city_optional_string(
+                archived_meta,
+                archived_city
+                    .admin2_name_id
+                    .as_ref()
+                    .map(|value| u32::from(*value)),
+            )?,
             lat: archived_city.lat.into(),
             lon: archived_city.lon.into(),
         };
@@ -1084,6 +1280,29 @@ fn load_cities_by_id_from_bytes(bytes: &[u8]) -> Result<HashMap<u32, City>, GeoE
     }
 
     Ok(cities)
+}
+
+fn city_string(meta: &Archived<CityMeta>, id: usize) -> Result<String, GeoEngineError> {
+    meta.strings
+        .get(id)
+        .map(|value| value.as_str().to_string())
+        .ok_or_else(|| GeoEngineError::DatabaseMap {
+            path: PathBuf::from("cities.meta"),
+            source: std::io::Error::new(
+                std::io::ErrorKind::InvalidData,
+                format!("invalid city string id: {id}"),
+            ),
+        })
+}
+
+fn city_optional_string(
+    meta: &Archived<CityMeta>,
+    id: Option<u32>,
+) -> Result<Option<String>, GeoEngineError> {
+    match id {
+        Some(inner) => Ok(Some(city_string(meta, inner as usize)?)),
+        None => Ok(None),
+    }
 }
 
 fn calculate_polygon_center(polygons: &Archived<Vec<Vec<(f32, f32)>>>) -> (f32, f32) {

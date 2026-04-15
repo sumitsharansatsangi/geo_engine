@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Fargo",
+    "country": "United States Of America",
+    "latitude": 46.87722900018611,
+    "longitude": -96.78982099999999,
+    "other_names": {
+      "name": "Fargo",
+      "name:lt": "Fargas",
+      "name:ru": "Фарго",
+      "name:uk": "Фарґо"
+    }
+  },
+  {
+    "name": "Faridabad",
+    "country": "India",
+    "latitude": 28.40297859990159,
+    "longitude": 77.3103837,
+    "other_names": {
+      "name": "Faridabad",
+      "name:ar": "فريد آباد",
+      "name:cs": "Faridabád",
+      "name:de": "Faridabad",
+      "name:en": "Faridabad",
+      "name:es": "Faridabad",
+      "name:fr": "Faridabad",
+      "name:he": "פארידבאד",
+      "name:hi": "फ़रीदाबाद",
+      "name:ja": "ファリーダーバード",
+      "name:kn": "ಫರೀದಬಾದ್",
+      "name:ml": "ഫരീദാബാദ്",
+      "name:pa": "ਫ਼ਰੀਦਾਬਾਦ",
+      "name:ru": "Фаридабад",
+      "name:ta": "பரிதாபாது",
+      "name:uk": "Фарідабад",
+      "name:ur": "فریدآباد"
+    }
+  },
+  {
+    "name": "Faridkot",
+    "country": "India",
+    "latitude": 30.672977199684286,
+    "longitude": 74.7517033,
+    "other_names": {
+      "name": "Faridkot",
+      "name:en": "Faridkot",
+      "name:he": "פרידקוט",
+      "name:hi": "फरीदकोट",
+      "name:ja": "ファリードコート",
+      "name:kn": "ಫರೀದಕೋಟ್",
+      "name:pa": "ਫ਼ਰੀਦਕੋਟ",
+      "name:ta": "பரித்கோட்"
+    }
+  },
+  {
+    "name": "Faridpur",
+    "country": "Bangladesh",
+    "latitude": 23.60401820035616,
+    "longitude": 89.84155419999999,
+    "other_names": {
+      "name": "ফরিদপুর",
+      "name:bn": "ফরিদপুর",
+      "name:en": "Faridpur",
+      "name:ja": "ファリドプル"
+    }
+  },
+  {
+    "name": "Faro",
+    "country": "Portugal",
+    "latitude": 37.01627269985035,
+    "longitude": -7.935177099999999,
+    "other_names": {
+      "name": "Faro",
+      "name:ar": "فارو",
+      "name:en": "Faro",
+      "name:fa": "فارو",
+      "name:hu": "Faro",
+      "name:ru": "Фару",
+      "name:uk": "Фару",
+      "name:ur": "فارو",
+      "name:zh": "法魯",
+      "old_name:ar": "شنتمرية الغرب",
+      "reg_name:ar": "شنتمرية الغرب",
+      "name:zh-Hans": "法鲁",
+      "name:zh-Hant": "法魯"
+    }
+  },
+  {
+    "name": "Farooqabad",
+    "country": "Pakistan",
+    "latitude": 31.7421402996193,
+    "longitude": 73.8317857,
+    "other_names": {
+      "name": "فارُوق آباد‎",
+      "name:en": "Farooqabad",
+      "alt_name:en": "Choorkana",
+      "alt_name:ur": "چوڑ کانا"
+    }
+  },
+  {
+    "name": "Fatehpur",
+    "country": "India",
+    "latitude": 25.92564635450294,
+    "longitude": 80.80683346423353,
+    "other_names": {
+      "name": "Fatehpur"
+    }
+  },
+  {
+    "name": "Fatehpur",
+    "country": "India",
+    "latitude": 25.932800000171014,
+    "longitude": 80.8091,
+    "other_names": {
+      "name": "Fatehpur",
+      "name:en": "Fatehpur",
+      "name:hi": "फतेहपूर"
+    }
+  },
+  {
+    "name": "Fatick",
+    "country": "Senegal And Gambia",
+    "latitude": 14.33396499982885,
+    "longitude": -16.404219,
+    "other_names": {
+      "name": "Fatick",
+      "name:ar": "فتيك",
+      "name:ko": "파티크"
+    }
+  },
+  {
+    "name": "Fátima",
+    "country": "Portugal",
+    "latitude": 39.62550070021554,
+    "longitude": -8.6658028,
+    "other_names": {
+      "name": "Fátima"
+    }
+  },
+  {
+    "name": "Faya-Largeau",
+    "country": "Chad",
+    "latitude": 17.9209323002267,
+    "longitude": 19.0953202,
+    "other_names": {
+      "name": "Faya-Largeau فايا لارجو",
+      "name:ar": "فايا لارجو",
+      "name:de": "Faya-Largeau",
+      "name:en": "Faya-Largeau",
+      "name:fr": "Faya-Largeau",
+      "name:ru": "Файя-Ларжо",
+      "name:uk": "Файя-Ларжо",
+      "alt_name": "Faya-Largeau;Faya",
+      "alt_name:ar": "فايا",
+      "alt_name:fr": "Faya;Largeau",
+      "old_name:ar": "لارجو",
+      "old_name:fr": "Largeau"
+    }
+  },
+  {
+    "name": "Fayetteville",
+    "country": "United States Of America",
+    "latitude": 36.062584299741815,
+    "longitude": -94.1574328,
+    "other_names": {
+      "name": "Fayetteville"
+    }
+  },
+  {
+    "name": "Fayetteville",
+    "country": "United States Of America",
+    "latitude": 35.05257589965526,
+    "longitude": -78.878292,
+    "other_names": {
+      "name": "Fayetteville",
+      "name:en": "Fayetteville",
+      "name:ru": "Фейетвилл",
+      "name:uk": "Феєтвіль"
+    }
+  },
+  {
+    "name": "Fayzabad",
+    "country": "Afghanistan",
+    "latitude": 37.118751199863276,
+    "longitude": 70.5784966,
+    "other_names": {
+      "name": "فیض‌آباد",
+      "name:cs": "Fajzábád",
+      "name:el": "Φεϊζαμπάντ",
+      "name:en": "Fayzabad",
+      "name:et": "Feyẕābād",
+      "name:fa": "فيض آباد",
+      "name:fr": "Fayzabad",
+      "name:hi": "फैजाबाद",
+      "name:ja": "ファイザーバード",
+      "name:ps": "فيض آباد",
+      "name:ru": "Файзабад",
+      "name:uk": "Файзабад",
+      "alt_name": "Feyzabad;Fazelabad;Faizabad;Jauz Gun;Faydz Abad",
+      "name:ast": "Feyzabad"
+    }
+  },
+  {
+    "name": "Fazenda Rio Grande",
+    "country": "Brazil",
+    "latitude": -25.64584099968714,
+    "longitude": -49.3126653,
+    "other_names": {
+      "name": "Fazenda Rio Grande"
+    }
+  },
+  {
+    "name": "Fazilka",
+    "country": "India",
+    "latitude": 30.40194376609861,
+    "longitude": 74.03187258869738,
+    "other_names": {
+      "name": "Fazilka",
+      "name:hi": "फाज़िल्का"
+    }
+  },
+  {
+    "name": "Feicheng",
+    "country": "China",
+    "latitude": 36.18388819975429,
+    "longitude": 116.7688744,
+    "other_names": {
+      "name": "肥城市",
+      "name:en": "Feicheng",
+      "name:zh": "肥城市",
+      "name:zh-Hant": "肥城市"
+    }
+  },
+  {
+    "name": "Feidong",
+    "country": "China",
+    "latitude": 31.88026409961331,
+    "longitude": 117.47262420000001,
+    "other_names": {
+      "name": "肥东县",
+      "name:de": "Feidong",
+      "name:en": "Feidong",
+      "name:eo": "Feidong",
+      "name:es": "Feidong",
+      "name:fr": "Feidong",
+      "name:ja": "肥東県",
+      "name:ko": "페이둥 현",
+      "name:pt": "Feidong",
+      "name:sv": "Feidong",
+      "name:vi": "Phì Đông",
+      "name:zh": "肥东县",
+      "old_name": "合肥东乡;梁县;逡遒县",
+      "name:zh-Hant": "肥東縣"
+    }
+  },
+  {
+    "name": "Feira de Santana",
+    "country": "Brazil",
+    "latitude": -12.257893400138233,
+    "longitude": -38.95980469999999,
+    "other_names": {
+      "name": "Feira de Santana",
+      "name:bg": "Фейра ди Сантана",
+      "name:ja": "フェイラ・デ・サンタナ",
+      "name:ka": "ფეირა-დი-სანტანა",
+      "name:kk": "Фейра-ди-Сантана",
+      "name:ko": "페이라지산타나",
+      "name:pt": "Feira de Santana",
+      "name:ru": "Фейра-ди-Сантана",
+      "name:sr": "Феира де Сантана",
+      "name:zh": "費拉迪聖安娜",
+      "loc_name": "Feira"
+    }
+  },
+  {
+    "name": "Feixi",
+    "country": "China",
+    "latitude": 31.709034899620836,
+    "longitude": 117.15253299999998,
+    "other_names": {
+      "name": "肥西县",
+      "name:de": "Feixi",
+      "name:en": "Feixi",
+      "name:eo": "Feixi",
+      "name:es": "Feixi",
+      "name:fr": "Feixi",
+      "name:ja": "肥西県",
+      "name:ko": "페이시 현",
+      "name:pt": "Feixi",
+      "name:sv": "Feixi",
+      "name:vi": "Phì Tây",
+      "name:zh": "肥西县",
+      "old_name": "合肥西乡;成德县",
+      "name:zh-Hant": "肥西縣"
+    }
+  }
+]

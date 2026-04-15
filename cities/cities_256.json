@@ -1,0 +1,351 @@
+[
+  {
+    "name": "Lantian",
+    "country": "China",
+    "latitude": 34.15768969960722,
+    "longitude": 109.31248649999999,
+    "other_names": {
+      "name": "蓝田县",
+      "name:en": "Lantian",
+      "name:ja": "藍田県",
+      "name:vi": "Lam Điền",
+      "name:zh": "蓝田县",
+      "alt_name": "蓝田;蓝关街道;蓝关;Languan",
+      "old_name": "蓝关镇",
+      "name:zh-Hant": "藍田縣",
+      "name:zh_pinyin": "Lantian Xian"
+    }
+  },
+  {
+    "name": "Lanús Este",
+    "country": "Argentina",
+    "latitude": -34.710913699828374,
+    "longitude": -58.37421030000001,
+    "other_names": {
+      "name": "Lanús Este"
+    }
+  },
+  {
+    "name": "Lanús Oeste",
+    "country": "Argentina",
+    "latitude": -34.703541699826864,
+    "longitude": -58.40051199999999,
+    "other_names": {
+      "name": "Lanús Oeste"
+    }
+  },
+  {
+    "name": "Lanxi",
+    "country": "China",
+    "latitude": 29.210274399815695,
+    "longitude": 119.4553921,
+    "other_names": {
+      "name": "兰溪市",
+      "name:de": "Lanxi",
+      "name:en": "Lanxi",
+      "name:fr": "Lanxi",
+      "name:it": "Lanxi",
+      "name:ja": "蘭谿市",
+      "name:ki": "Lanxi",
+      "name:ko": "란시시",
+      "name:nl": "Lanxi",
+      "name:no": "Lanxi",
+      "name:ru": "Ланьси",
+      "name:sv": "Lanxi",
+      "name:tl": "Lanxi",
+      "name:vi": "Lan Khê",
+      "name:zh": "兰溪市",
+      "name:ceb": "Lanxi",
+      "name:nan": "Lân-khe-chhī",
+      "name:war": "Lanxi",
+      "name:wuu": "兰溪市",
+      "name:yue": "蘭谿",
+      "name:zh-Hant": "蘭西縣",
+      "name:zh_pinyin": "Lánxī Shì"
+    }
+  },
+  {
+    "name": "Lanxi",
+    "country": "China",
+    "latitude": 46.25346030030143,
+    "longitude": 126.2821065,
+    "other_names": {
+      "name": "兰西县",
+      "name:en": "Lanxi",
+      "name:ru": "Ланьси",
+      "name:vi": "Lan Tây",
+      "name:zh": "兰西县",
+      "alt_name": "兰西;Lanxi County",
+      "name:zh-Hant": "蘭西縣",
+      "official_name": "兰西镇",
+      "name:zh_pinyin": "Lanxi Xian"
+    }
+  },
+  {
+    "name": "Lanzhou",
+    "country": "China",
+    "latitude": 36.06207809974177,
+    "longitude": 103.8318566,
+    "other_names": {
+      "name": "兰州市",
+      "name:ar": "لانشو",
+      "name:cs": "Lan-čou",
+      "name:de": "Lanzhou",
+      "name:en": "Lanzhou",
+      "name:eo": "Lanĝoŭo",
+      "name:et": "Lanzhou",
+      "name:fa": "لانژو",
+      "name:fr": "Lanzhou",
+      "name:hi": "लान्झोउ",
+      "name:ko": "란저우 시",
+      "name:ks": "لانژو",
+      "name:nl": "Lanzhou",
+      "name:oc": "Lanzhou",
+      "name:ru": "Ланьчжоу",
+      "name:sr": "Ланџоу",
+      "name:ug": "لەنجۇ",
+      "name:ur": "لانژو",
+      "name:vi": "Lan Châu",
+      "name:zh": "兰州市",
+      "name:azb": "لانژو",
+      "name:pnb": "لانژو",
+      "old_name": "金城",
+      "name:zh-Hant": "蘭州市",
+      "name:zh_pinyin": "Lánzhōu"
+    }
+  },
+  {
+    "name": "Lanzhou New Area",
+    "country": "China",
+    "latitude": 36.47999299978648,
+    "longitude": 103.66468679999998,
+    "other_names": {
+      "name": "兰州新区",
+      "name:en": "Lanzhou New Area",
+      "name:zh": "兰州新区"
+    }
+  },
+  {
+    "name": "Laoag",
+    "country": "Philippines",
+    "latitude": 18.197323500251382,
+    "longitude": 120.5935433,
+    "other_names": {
+      "name": "Laoag",
+      "name:en": "Laoag",
+      "name:ja": "ラオアグ",
+      "name:ru": "Лаоаг",
+      "name:uk": "Лаоаг"
+    }
+  },
+  {
+    "name": "Laobian",
+    "country": "China",
+    "latitude": 40.67959680035482,
+    "longitude": 122.37224540000001,
+    "other_names": {
+      "name": "老边区",
+      "name:en": "Laobian",
+      "name:ja": "老辺区",
+      "name:ko": "라오볜구",
+      "name:zh": "老边区",
+      "alt_name": "老边;Laobian City",
+      "name:zh-Hant": "老邊區"
+    }
+  },
+  {
+    "name": "Lào Cai",
+    "country": "China",
+    "latitude": 22.499745200399666,
+    "longitude": 103.9656924,
+    "other_names": {
+      "name": "Lào Cai",
+      "name:en": "Lào Cai",
+      "name:ja": "ラオカイ",
+      "name:ko": "라오까이",
+      "name:lt": "Laokajus",
+      "name:ru": "Лаокай",
+      "name:uk": "Лаокай",
+      "name:zh": "老街市"
+    }
+  },
+  {
+    "name": "Lào Cai",
+    "country": "Vietnam",
+    "latitude": 22.499745200399666,
+    "longitude": 103.9656924,
+    "other_names": {
+      "name": "Lào Cai",
+      "name:en": "Lào Cai",
+      "name:ja": "ラオカイ",
+      "name:ko": "라오까이",
+      "name:lt": "Laokajus",
+      "name:ru": "Лаокай",
+      "name:uk": "Лаокай",
+      "name:zh": "老街市"
+    }
+  },
+  {
+    "name": "Laocheng",
+    "country": "China",
+    "latitude": 34.68570179963216,
+    "longitude": 112.47284999999998,
+    "other_names": {
+      "name": "老城区",
+      "name:en": "Laocheng",
+      "name:vi": "Lão Thành",
+      "name:zh": "老城区",
+      "alt_name": "老城;Laocheng Qu;Laocheng District",
+      "name:zh-Hant": "老城區",
+      "name:zh_pinyin": "Laocheng Qu"
+    }
+  },
+  {
+    "name": "Laohekou",
+    "country": "China",
+    "latitude": 32.361560899597144,
+    "longitude": 111.6791987,
+    "other_names": {
+      "name": "老河口市",
+      "name:de": "Laohekou",
+      "name:en": "Laohekou",
+      "name:fr": "Laohekou",
+      "name:ja": "老河口市",
+      "name:ru": "Лаохэкоу",
+      "name:vi": "Lão Hà Khẩu",
+      "name:zh": "老河口市",
+      "int_name": "Laohekou",
+      "name:zh-Hant": "老河口市",
+      "name:zh_pinyin": "Lǎohékǒu Shì"
+    }
+  },
+  {
+    "name": "Laoling",
+    "country": "China",
+    "latitude": 37.72897329994425,
+    "longitude": 117.21357289999999,
+    "other_names": {
+      "name": "乐陵市",
+      "name:de": "Laoling",
+      "name:en": "Laoling",
+      "name:fr": "Laoling",
+      "name:ja": "楽陵市",
+      "name:vi": "Lạc Lăng",
+      "name:zh": "乐陵市",
+      "name:zh-Hant": "樂陵市",
+      "name:zh_pinyin": "Làolíng Shì"
+    }
+  },
+  {
+    "name": "Laoshan",
+    "country": "China",
+    "latitude": 36.10596949974623,
+    "longitude": 120.46457820000002,
+    "other_names": {
+      "name": "崂山区",
+      "name:en": "Laoshan",
+      "name:fr": "District de Láoshān",
+      "name:vi": "Lao Sơn",
+      "name:zh": "崂山区",
+      "name:zh-Hant": "嶗山區",
+      "name:zh_pinyin": "Láoshān qū",
+      "official_name:en": "Laoshan District"
+    }
+  },
+  {
+    "name": "Laoting",
+    "country": "China",
+    "latitude": 39.42414150018699,
+    "longitude": 118.90551460000002,
+    "other_names": {
+      "name": "乐亭县",
+      "name:en": "Laoting",
+      "name:ru": "Лэтин",
+      "name:zh": "乐亭县",
+      "alt_name": "乐亭;Laoting County",
+      "name:zh-Hant": "樂亭縣"
+    }
+  },
+  {
+    "name": "La Paz",
+    "country": "Mexico",
+    "latitude": 24.142284100323547,
+    "longitude": -110.31261619999998,
+    "other_names": {
+      "name": "La Paz",
+      "name:en": "La Paz",
+      "name:es": "La Paz",
+      "name:pl": "La Paz",
+      "name:ru": "Ла-Пас",
+      "name:uk": "Ла-Пас"
+    }
+  },
+  {
+    "name": "La Paz",
+    "country": "Uruguay",
+    "latitude": -34.763283499839176,
+    "longitude": -56.22326999999999,
+    "other_names": {
+      "name": "La Paz"
+    }
+  },
+  {
+    "name": "La Paz",
+    "country": "Honduras",
+    "latitude": 14.323390199827621,
+    "longitude": -87.68319899999999,
+    "other_names": {
+      "name": "La Paz"
+    }
+  },
+  {
+    "name": "La Paz",
+    "country": "Bolivia",
+    "latitude": -16.495545500456213,
+    "longitude": -68.1336229,
+    "other_names": {
+      "name": "La Paz",
+      "name:am": "ላፓዝ",
+      "name:ar": "لاباز",
+      "name:ay": "Chuquiago Marka",
+      "name:az": "La Pas",
+      "name:be": "Ла-Пас",
+      "name:bg": "Ла Пас",
+      "name:de": "La Paz",
+      "name:el": "Λα Παζ",
+      "name:en": "La Paz",
+      "name:eo": "La-Pazo",
+      "name:fa": "لاپاز",
+      "name:fr": "La Paz",
+      "name:gl": "La Paz",
+      "name:he": "לה פאס",
+      "name:hi": "ला पास",
+      "name:hy": "Լա Պաս",
+      "name:id": "La Paz",
+      "name:is": "La Paz",
+      "name:ja": "ラパス",
+      "name:ka": "ლა-პასი",
+      "name:ko": "라파스",
+      "name:la": "Paxia",
+      "name:lt": "La Pasas",
+      "name:lv": "Lapasa",
+      "name:mi": "La Paz",
+      "name:mk": "Ла Паз",
+      "name:mr": "ला पाझ",
+      "name:oc": "La Paz",
+      "name:os": "Ла-Пас",
+      "name:qu": "Chuqiyapu",
+      "name:ru": "Ла-Пас",
+      "name:sr": "Ла Паз",
+      "name:sv": "La Paz",
+      "name:ta": "லா பாஸ்",
+      "name:th": "ลาปาซ",
+      "name:uk": "Ла-Пас",
+      "name:ur": "لا پاز",
+      "name:yi": "לא פאז",
+      "name:zh": "拉巴斯",
+      "name:ckb": "لاپاز",
+      "official_name": "Nuestra Señora de La Paz"
+    }
+  }
+]

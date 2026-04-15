@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Caltanissetta",
+    "country": "Italy",
+    "latitude": 37.48994119991179,
+    "longitude": 14.0631618,
+    "other_names": {
+      "name": "Caltanissetta",
+      "name:ar": "قلعة النساء",
+      "name:el": "Καλτανισέττα",
+      "name:en": "Caltanissetta",
+      "name:ru": "Кальтаниссетта",
+      "name:zh": "卡爾塔尼塞塔",
+      "name:scn": "Nissa",
+      "alt_name:ar": "كالتانيسيتا",
+      "alt_name:scn": "Cartanisetta",
+      "name:zh-Hans": "卡尔塔尼塞塔"
+    }
+  },
+  {
+    "name": "Camaçari",
+    "country": "Brazil",
+    "latitude": -12.699818800182248,
+    "longitude": -38.326076199999996,
+    "other_names": {
+      "name": "Camaçari",
+      "old_name": "Camassary;Montenegro;Vila de Nova Abrantes do Espírito Santo;Aldeia do Divino Espírito Santo"
+    }
+  },
+  {
+    "name": "Camaguán",
+    "country": "Venezuela",
+    "latitude": 8.10826139939036,
+    "longitude": -67.60592339999998,
+    "other_names": {
+      "name": "Camaguán"
+    }
+  },
+  {
+    "name": "Camagüey",
+    "country": "Cuba",
+    "latitude": 21.379176500409212,
+    "longitude": -77.91836809999998,
+    "other_names": {
+      "name": "Camagüey",
+      "name:en": "Camagüey",
+      "name:hu": "Camagüey",
+      "name:ru": "Камагуэй",
+      "name:uk": "Камагуей"
+    }
+  },
+  {
+    "name": "Camaragibe",
+    "country": "Brazil",
+    "latitude": -8.021383199761969,
+    "longitude": -34.981076800000004,
+    "other_names": {
+      "name": "Camaragibe"
+    }
+  },
+  {
+    "name": "Camargo",
+    "country": "Mexico",
+    "latitude": 27.678428499982232,
+    "longitude": -105.1714979,
+    "other_names": {
+      "name": "Camargo",
+      "name:ru": "Сьюдад-Камарго",
+      "alt_name": "Ciudad Camargo",
+      "official_name": "Santa Rosalía de Camargo"
+    }
+  },
+  {
+    "name": "Camatagua",
+    "country": "Venezuela",
+    "latitude": 9.789921939806819,
+    "longitude": -66.90490238962914,
+    "other_names": {
+      "name": "Camatagua"
+    }
+  },
+  {
+    "name": "Camatagua",
+    "country": "Venezuela",
+    "latitude": 9.791301699428313,
+    "longitude": -66.9051186,
+    "other_names": {
+      "name": "Camatagua",
+      "name:zh": "卡马塔瓜"
+    }
+  },
+  {
+    "name": "Ca Mau",
+    "country": "Vietnam",
+    "latitude": 9.179221499406111,
+    "longitude": 105.14579089999998,
+    "other_names": {
+      "name": "Cà Mau",
+      "name:en": "Ca Mau",
+      "name:ko": "까마우시",
+      "name:ru": "Камау",
+      "name:vi": "Cà Mau",
+      "name:zh": "金瓯市",
+      "old_name": "Quản Long",
+      "official_name": "Thành phố Cà Mau"
+    }
+  },
+  {
+    "name": "Cambé",
+    "country": "Brazil",
+    "latitude": -23.278203500028514,
+    "longitude": -51.277958299999995,
+    "other_names": {
+      "name": "Cambé"
+    }
+  },
+  {
+    "name": "Cambridge",
+    "country": "England",
+    "latitude": 52.20296077184812,
+    "longitude": 0.13820065844270102,
+    "other_names": {
+      "name": "Cambridge",
+      "name:ru": "Кембридж",
+      "name:zh": "劍橋",
+      "name:zh-Hans": "剑桥",
+      "name:zh-Hant": "劍橋"
+    }
+  },
+  {
+    "name": "Cambridge",
+    "country": "England",
+    "latitude": 52.20348229910222,
+    "longitude": 0.1235817,
+    "other_names": {
+      "name": "Cambridge",
+      "name:be": "Кембрыдж",
+      "name:cy": "Caergrawnt",
+      "name:en": "Cambridge",
+      "name:eo": "Kembriĝo",
+      "name:hu": "Cambridge",
+      "name:ko": "케임브리지",
+      "name:lt": "Kembridžas",
+      "name:mk": "Кембриџ",
+      "name:ru": "Кембридж",
+      "name:sr": "Кембриџ",
+      "name:uk": "Кембридж",
+      "name:ckb": "کامبریج",
+      "name:zh-Hans": "剑桥",
+      "name:zh-Hant": "劍橋"
+    }
+  },
+  {
+    "name": "Cambridge",
+    "country": "United States Of America",
+    "latitude": 42.375099700510866,
+    "longitude": -71.1056157,
+    "other_names": {
+      "name": "Cambridge",
+      "name:be": "Кембрыдж",
+      "name:bg": "Кеймбридж",
+      "name:de": "Cambridge",
+      "name:en": "Cambridge",
+      "name:ja": "ケンブリッジ",
+      "name:ko": "케임브리지",
+      "name:lv": "Keimbridža",
+      "name:mk": "Кембриџ",
+      "name:ru": "Кембридж",
+      "name:uk": "Кембридж"
+    }
+  },
+  {
+    "name": "Cambridge",
+    "country": "Canada",
+    "latitude": 43.36005360054183,
+    "longitude": -80.3123023,
+    "other_names": {
+      "name": "Cambridge",
+      "name:ru": "Кеймбридж"
+    }
+  },
+  {
+    "name": "Camden",
+    "country": "United States Of America",
+    "latitude": 39.94484020025981,
+    "longitude": -75.1198911,
+    "other_names": {
+      "name": "Camden"
+    }
+  },
+  {
+    "name": "Cametá",
+    "country": "Brazil",
+    "latitude": -2.2429489997996632,
+    "longitude": -49.497885,
+    "other_names": {
+      "name": "Cametá",
+      "name:ru": "Камета"
+    }
+  },
+  {
+    "name": "Camiri",
+    "country": "Bolivia",
+    "latitude": -20.039068200388428,
+    "longitude": -63.52035069999999,
+    "other_names": {
+      "name": "Camiri",
+      "name:ru": "Камири"
+    }
+  },
+  {
+    "name": "Campbell River",
+    "country": "Canada",
+    "latitude": 50.023070999447086,
+    "longitude": -125.24415379999999,
+    "other_names": {
+      "name": "Campbell River",
+      "name:en": "Campbell River",
+      "name:ru": "Кэмпбелл-Ривер",
+      "name:uk": "Кембелл-Ривер"
+    }
+  },
+  {
+    "name": "Campbellton",
+    "country": "Canada",
+    "latitude": 48.004699299936554,
+    "longitude": -66.6768648,
+    "other_names": {
+      "name": "Campbellton"
+    }
+  },
+  {
+    "name": "Cẩm Phả",
+    "country": "Vietnam",
+    "latitude": 21.00443200040443,
+    "longitude": 107.278029,
+    "other_names": {
+      "name": "Cẩm Phả",
+      "name:en": "Cẩm Phả",
+      "name:ja": "カムファ",
+      "name:ko": "껌파시",
+      "name:ru": "Камфа",
+      "name:uk": "Камфа",
+      "name:vi": "Cẩm Phả",
+      "name:zh": "锦普市",
+      "alt_name:en": "Campha",
+      "name:vi-Hani": "錦普",
+      "name:zh-Hans": "锦普市",
+      "name:zh-Hant": "錦普市"
+    }
+  }
+]

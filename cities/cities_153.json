@@ -1,0 +1,364 @@
+[
+  {
+    "name": "Gliwice",
+    "country": "Poland",
+    "latitude": 50.294112999387266,
+    "longitude": 18.6657306,
+    "other_names": {
+      "name": "Gliwice",
+      "name:ar": "غليفيتسه",
+      "name:be": "Глівіцы",
+      "name:bg": "Гливице",
+      "name:cs": "Hlivice",
+      "name:de": "Gleiwitz",
+      "name:fa": "گلیویتسه",
+      "name:ja": "グリヴィツェ",
+      "name:ko": "글리비체",
+      "name:lt": "Glivicės",
+      "name:lv": "Glivice",
+      "name:mk": "Гливице",
+      "name:pl": "Gliwice",
+      "name:ru": "Гливице",
+      "name:sr": "Гљивице",
+      "name:uk": "Глівіце",
+      "name:zh": "格利维采",
+      "name:szl": "Glywicy",
+      "old_name:de": "Gleiwitz"
+    }
+  },
+  {
+    "name": "Gloucester",
+    "country": "England",
+    "latitude": 51.86537049912992,
+    "longitude": -2.2458191999999997,
+    "other_names": {
+      "name": "Gloucester",
+      "name:cy": "Caerloyw",
+      "name:en": "Gloucester",
+      "name:hu": "Gloucester",
+      "name:ko": "글로스터",
+      "name:lt": "Glosteris",
+      "name:mk": "Глостер",
+      "name:ru": "Глостер",
+      "name:sr": "Глостер",
+      "name:uk": "Глостер"
+    }
+  },
+  {
+    "name": "Gloucester",
+    "country": "United States Of America",
+    "latitude": 42.61592860052314,
+    "longitude": -70.66198879999999,
+    "other_names": {
+      "name": "Gloucester",
+      "name:be": "Глостэр",
+      "name:ru": "Глостер"
+    }
+  },
+  {
+    "name": "Gloversville",
+    "country": "United States Of America",
+    "latitude": 43.05050880053775,
+    "longitude": -74.34572399999999,
+    "other_names": {
+      "name": "Gloversville",
+      "old_name": "Stump City"
+    }
+  },
+  {
+    "name": "Gobabis",
+    "country": "Namibia",
+    "latitude": -22.44952830014037,
+    "longitude": 18.9724666,
+    "other_names": {
+      "name": "Gobabis",
+      "name:ar": "غوبابوس",
+      "name:lt": "Gobabis",
+      "name:ru": "Гобабис"
+    }
+  },
+  {
+    "name": "Gobo",
+    "country": "Japan",
+    "latitude": 33.891381899598436,
+    "longitude": 135.152572,
+    "other_names": {
+      "name": "御坊市",
+      "name:ar": "غوبو، واكاياما",
+      "name:de": "Gobō",
+      "name:en": "Gobo",
+      "name:es": "Gobō",
+      "name:fr": "Gobō",
+      "name:ja": "御坊市",
+      "name:ko": "고보시",
+      "name:pl": "Gobō",
+      "name:ru": "Гобо",
+      "name:uk": "Ґобо",
+      "int_name": "Gobō",
+      "name:ja_rm": "Gobō",
+      "name:ja_kana": "ごぼうし"
+    }
+  },
+  {
+    "name": "Gode",
+    "country": "Ethiopia",
+    "latitude": 5.952697499447295,
+    "longitude": 43.5522312,
+    "other_names": {
+      "name": "ጎዴ / Gode",
+      "name:am": "ጎዴ",
+      "name:ar": "غودي",
+      "name:en": "Gode",
+      "name:fr": "Gode",
+      "name:ru": "Годе",
+      "name:so": "Godey",
+      "alt_name": "Gode"
+    }
+  },
+  {
+    "name": "Godhra",
+    "country": "India",
+    "latitude": 22.778500100391796,
+    "longitude": 73.6245157,
+    "other_names": {
+      "name": "Godhra",
+      "name:hi": "गोधरा",
+      "name:ja": "ゴードラー",
+      "name:kn": "ಗೋಧ್ರಾ"
+    }
+  },
+  {
+    "name": "Goiânia",
+    "country": "Brazil",
+    "latitude": -16.6808820004618,
+    "longitude": -49.2532691,
+    "other_names": {
+      "name": "Goiânia",
+      "name:ar": "غويانيا",
+      "name:be": "Гаянія",
+      "name:bg": "Гояния",
+      "name:ce": "Гояни",
+      "name:de": "Goiânia",
+      "name:el": "Γκοϊάνια",
+      "name:en": "Goiânia",
+      "name:fa": "گویانیا",
+      "name:he": "גואיאניה",
+      "name:hy": "Գոյանիա",
+      "name:ja": "ゴイアニア",
+      "name:ka": "გოიანია",
+      "name:kk": "Гояния",
+      "name:ko": "고이아니아",
+      "name:lt": "Gojanija",
+      "name:lv": "Gojanija",
+      "name:mk": "Гојанија",
+      "name:mn": "Гояния",
+      "name:mr": "गोयानिया",
+      "name:oc": "Goiânia",
+      "name:pl": "Goiânia",
+      "name:pt": "Goiânia",
+      "name:ru": "Гояния",
+      "name:sh": "Gojanija",
+      "name:sr": "Гојанија",
+      "name:tg": "Гояния",
+      "name:th": "โกยาเนีย",
+      "name:uk": "Гоянія",
+      "name:uz": "Goyaniya",
+      "name:zh": "戈亚尼亚",
+      "int_name": "Goiania"
+    }
+  },
+  {
+    "name": "Gojo",
+    "country": "Japan",
+    "latitude": 34.35193899961523,
+    "longitude": 135.69359600000004,
+    "other_names": {
+      "name": "五條市",
+      "name:en": "Gojo",
+      "name:fr": "Gojō",
+      "name:ja": "五條市",
+      "name:ko": "고조시",
+      "name:pl": "Gojō",
+      "name:ru": "Годзё",
+      "name:uk": "Ґодзьо",
+      "name:ja_rm": "Gojō-shi",
+      "name:ja_kana": "ごじょうし"
+    }
+  },
+  {
+    "name": "Gojra",
+    "country": "Pakistan",
+    "latitude": 31.14823709965154,
+    "longitude": 72.6859082,
+    "other_names": {
+      "name": "گوجرہ",
+      "name:ar": "غوجرا",
+      "name:de": "Gojra",
+      "name:en": "Gojra",
+      "name:es": "Gojra",
+      "name:et": "Gojra",
+      "name:fr": "Gojra",
+      "name:ja": "ゴジュラ",
+      "name:ru": "Годжра"
+    }
+  },
+  {
+    "name": "Gokdepe",
+    "country": "Turkmenistan",
+    "latitude": 38.15539650000399,
+    "longitude": 57.9619789,
+    "other_names": {
+      "name": "Gökdepe",
+      "name:en": "Gokdepe",
+      "name:ru": "Геок-Тепе",
+      "name:tk": "Gökdepe"
+    }
+  },
+  {
+    "name": "Golaghat",
+    "country": "India",
+    "latitude": 26.51107940584248,
+    "longitude": 93.96942635699888,
+    "other_names": {
+      "name": "Golaghat",
+      "name:as": "গোলাঘাট",
+      "name:gu": "ગોલાઘાટ",
+      "name:hi": "गोलाघाट",
+      "name:mr": "गोलाघाट",
+      "name:ta": "கோலாகாட்"
+    }
+  },
+  {
+    "name": "Golbahar",
+    "country": "Afghanistan",
+    "latitude": 35.12940879966069,
+    "longitude": 69.2988247,
+    "other_names": {
+      "name": "گلبهار",
+      "name:ar": "غلبهار",
+      "name:en": "Golbahar",
+      "name:hi": "गोलबहार",
+      "name:ru": "Гульбахар"
+    }
+  },
+  {
+    "name": "Gold Coast",
+    "country": "Australia",
+    "latitude": -28.002373099412242,
+    "longitude": 153.41459869999997,
+    "other_names": {
+      "name": "Gold Coast",
+      "name:en": "Gold Coast",
+      "name:ja": "ゴールドコースト",
+      "name:mk": "Голд Коуст",
+      "name:ru": "Голд-Кост",
+      "name:uk": "Голд-Кост",
+      "name:zh": "黄金海岸"
+    }
+  },
+  {
+    "name": "Golden",
+    "country": "United States Of America",
+    "latitude": 39.75554300023372,
+    "longitude": -105.221099,
+    "other_names": {
+      "name": "Golden"
+    }
+  },
+  {
+    "name": "Golmud",
+    "country": "China",
+    "latitude": 36.395617399777066,
+    "longitude": 94.910245,
+    "other_names": {
+      "name": "格尔木市",
+      "name:bo": "ན་གོར་མོ",
+      "name:de": "Golmud",
+      "name:en": "Golmud",
+      "name:et": "Golmud",
+      "name:fr": "Golmud",
+      "name:hi": "गोलमुड",
+      "name:ja": "ゴルムド市",
+      "name:mn": "ᠭᠣᠯᠮᠣᠣᠠ",
+      "name:ru": "Голмуд",
+      "name:vi": "Golmud",
+      "name:zh": "格尔木市",
+      "int_name": "Golmud",
+      "alt_name:vi": "Cách Nhĩ Mộc",
+      "name:zh-Hant": "格爾木市",
+      "name:zh_pinyin": "Gé'ěrmù Shì"
+    }
+  },
+  {
+    "name": "Golog Tibetan Autonomous Prefecture",
+    "country": "China",
+    "latitude": 34.473187299620925,
+    "longitude": 100.24393839999999,
+    "other_names": {
+      "name": "果洛州",
+      "name:bo": "མགོ་ལོག་བོད་རིགས་རང་སྐྱོང་ཁུལ་",
+      "name:cs": "Golog",
+      "name:da": "Golog",
+      "name:de": "Golog",
+      "name:en": "Golog Tibetan Autonomous Prefecture",
+      "name:es": "Prefectura autónoma tibetana de Golog",
+      "name:eu": "Guoluo Tibetar Prefektura autonomoa",
+      "name:fa": "ولایت خودمختار گولوگ تبتی",
+      "name:fi": "Gologin tiibetiläisten autonominen prefektuuri",
+      "name:fr": "Préfecture autonome tibétaine golog",
+      "name:it": "Prefettura autonoma tibetana di Golog",
+      "name:ja": "ゴロク・チベット族自治州",
+      "name:ko": "궈뤄 티베트족 자치주",
+      "name:mn": "Гөлөг тойрог",
+      "name:nl": "Golog",
+      "name:no": "Golog",
+      "name:pl": "Golog",
+      "name:ru": "Голог-Тибетский автономный округ",
+      "name:sv": "Golog",
+      "name:tr": "Golog Tibet Özerk İli",
+      "name:ur": "گولوگ تبتی خود مختار پریفیکچر",
+      "name:vi": "Golog",
+      "name:zh": "果洛州",
+      "name:cdo": "Golog",
+      "name:ceb": "Golog Zangzu Zizhizhou",
+      "name:nan": "Golog Chōng-cho̍k Chū-tī-chiu",
+      "name:wuu": "果洛藏族自治州",
+      "name:yue": "果洛",
+      "short_name": "果洛州",
+      "name:zh-Hans": "果洛州",
+      "name:zh-Hant": "果洛州",
+      "official_name": "果洛藏族自治州"
+    }
+  },
+  {
+    "name": "Goma",
+    "country": "Congo Democratic Republic",
+    "latitude": -1.666568499844188,
+    "longitude": 29.225652000000004,
+    "other_names": {
+      "name": "Goma",
+      "name:en": "Goma",
+      "name:ko": "고마",
+      "name:ru": "Гома",
+      "name:uk": "Гома"
+    }
+  },
+  {
+    "name": "Gombe",
+    "country": "Nigeria",
+    "latitude": 10.284066699452886,
+    "longitude": 11.1652683,
+    "other_names": {
+      "name": "Gombe",
+      "name:ar": "غومبي",
+      "name:fa": "گومبه",
+      "name:ko": "곰베",
+      "name:ru": "Гомбе",
+      "name:uk": "Гомбе",
+      "name:ur": "گومبے",
+      "name:yo": "Gòmbè",
+      "name:zh": "貢貝",
+      "name:azb": "قومبه"
+    }
+  }
+]

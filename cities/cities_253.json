@@ -1,0 +1,329 @@
+[
+  {
+    "name": "Lagos de Moreno",
+    "country": "Mexico",
+    "latitude": 21.35672860040904,
+    "longitude": -101.9352943,
+    "other_names": {
+      "name": "Lagos de Moreno",
+      "name:ru": "Лагос-де-Морено",
+      "alt_name": "Atenas de Jalisco"
+    }
+  },
+  {
+    "name": "La Grita",
+    "country": "Venezuela",
+    "latitude": 8.137042399390396,
+    "longitude": -71.9857412,
+    "other_names": {
+      "name": "La Grita"
+    }
+  },
+  {
+    "name": "La Guardia",
+    "country": "Bolivia",
+    "latitude": -17.89193530047437,
+    "longitude": -63.331080899999996,
+    "other_names": {
+      "name": "La Guardia"
+    }
+  },
+  {
+    "name": "Laguna Beach",
+    "country": "United States Of America",
+    "latitude": 33.54269749959082,
+    "longitude": -117.78536599999997,
+    "other_names": {
+      "name": "Laguna Beach"
+    }
+  },
+  {
+    "name": "Lagunillas",
+    "country": "Venezuela",
+    "latitude": 10.126863499444413,
+    "longitude": -71.2535644,
+    "other_names": {
+      "name": "Lagunillas"
+    }
+  },
+  {
+    "name": "Lahore",
+    "country": "Pakistan",
+    "latitude": 31.56568219962781,
+    "longitude": 74.3141829,
+    "other_names": {
+      "name": "لاہور",
+      "name:ar": "لاهور",
+      "name:cs": "Láhaur",
+      "name:de": "Lahore",
+      "name:en": "Lahore",
+      "name:eo": "Lahoro",
+      "name:es": "Lahore",
+      "name:et": "Lahore",
+      "name:fr": "Lahore",
+      "name:he": "להורה",
+      "name:hi": "लाहौर",
+      "name:it": "Lahore",
+      "name:ja": "ラホール",
+      "name:kn": "ಲಾಹೋರ್",
+      "name:ml": "ലാഹോർ",
+      "name:oc": "Lahaur",
+      "name:pl": "Lahaur",
+      "name:ru": "Лахор",
+      "name:ta": "லாகூர்",
+      "name:uk": "Лахор",
+      "name:ur": "لاہور",
+      "name:zh": "拉合尔",
+      "name:pnb": "لہور"
+    }
+  },
+  {
+    "name": "Lahti",
+    "country": "Finland",
+    "latitude": 60.9826014017503,
+    "longitude": 25.6613764,
+    "other_names": {
+      "name": "Lahti",
+      "name:fi": "Lahti",
+      "name:lt": "Lahtis",
+      "name:ru": "Лахти",
+      "name:sv": "Lahtis"
+    }
+  },
+  {
+    "name": "Laï",
+    "country": "Chad",
+    "latitude": 9.395656599412884,
+    "longitude": 16.301882199999998,
+    "other_names": {
+      "name": "Laï لادي",
+      "name:ar": "لادي",
+      "name:en": "Laï",
+      "name:fr": "Laï",
+      "name:ru": "Лаи",
+      "name:uk": "Лаї",
+      "alt_name": "Lai;Behagle;Behagie;Laï"
+    }
+  },
+  {
+    "name": "Lai'an",
+    "country": "China",
+    "latitude": 32.41800439959575,
+    "longitude": 118.4268809,
+    "other_names": {
+      "name": "来安县",
+      "name:en": "Lai'an",
+      "name:ja": "来安県",
+      "name:vi": "Lai An",
+      "name:zh": "来安县",
+      "name:zh-Hant": "來安縣"
+    }
+  },
+  {
+    "name": "Laibin",
+    "country": "China",
+    "latitude": 23.75326480034783,
+    "longitude": 109.2169807,
+    "other_names": {
+      "name": "来宾市",
+      "name:ar": "لايبين",
+      "name:cs": "Laj-pin",
+      "name:da": "Laibin",
+      "name:de": "Laibin",
+      "name:en": "Laibin",
+      "name:es": "Laibín",
+      "name:et": "Laibin",
+      "name:eu": "Laibin",
+      "name:fa": "لایبین",
+      "name:fi": "Laibin",
+      "name:fr": "Laibin",
+      "name:it": "Laibin",
+      "name:ja": "来賓市",
+      "name:ki": "Laibin",
+      "name:ko": "라이빈시",
+      "name:mg": "Laibin",
+      "name:nl": "Laibin",
+      "name:nn": "Laibin",
+      "name:no": "Laibin",
+      "name:pl": "Laibin",
+      "name:pt": "Laibin",
+      "name:ru": "Лайбинь",
+      "name:sv": "Laibin",
+      "name:tr": "Laibin",
+      "name:ur": "لائبن",
+      "name:vi": "Lai Tân",
+      "name:za": "Leizbingz",
+      "name:zh": "来宾市",
+      "alt_name": "来宾;Laibin City",
+      "name:cdo": "Lài-bĭng",
+      "name:hak": "Lòi-pîn-sṳ",
+      "name:nan": "Lâi-pin-chhī",
+      "name:pnb": "لائیبن",
+      "name:wuu": "来宾市",
+      "name:yue": "来宾市",
+      "old_name": "來賓縣",
+      "old_name:en": "Laibin County",
+      "name:zh-Hant": "來賓市",
+      "name:yue-Latn": "Laibern-si",
+      "name:zh_pinyin": "Láibīn Shì"
+    }
+  },
+  {
+    "name": "Lai Chau",
+    "country": "Vietnam",
+    "latitude": 22.39966120040197,
+    "longitude": 103.45168819999999,
+    "other_names": {
+      "name": "Lai Châu",
+      "name:en": "Lai Chau",
+      "name:ja": "ライチャウ",
+      "name:ko": "라이쩌우",
+      "name:ru": "Лайтяу",
+      "name:uk": "Лайтяу",
+      "name:vi": "Lai Châu",
+      "name:zh": "莱州市",
+      "official_name": "Thành phố Lai Châu",
+      "official_name:en": "Lai Chau City",
+      "official_name:vi": "Thành phố Lai Châu"
+    }
+  },
+  {
+    "name": "Laifeng",
+    "country": "China",
+    "latitude": 29.495754999787106,
+    "longitude": 109.4032717,
+    "other_names": {
+      "name": "来凤县",
+      "name:en": "Laifeng",
+      "name:vi": "Lai Phượng",
+      "name:zh": "来凤县",
+      "alt_name": "来凤;Laifeng Tujiazu Zizhixian;Lai-feng Hsien",
+      "name:zh-Hant": "來鳳縣",
+      "name:zh_pinyin": "Laifeng Xian"
+    }
+  },
+  {
+    "name": "Laishan",
+    "country": "China",
+    "latitude": 37.51054309991456,
+    "longitude": 121.4370343,
+    "other_names": {
+      "name": "莱山区",
+      "name:en": "Laishan",
+      "name:zh": "莱山区",
+      "name:zh-Hant": "萊山區"
+    }
+  },
+  {
+    "name": "Laishui",
+    "country": "China",
+    "latitude": 39.3956102001829,
+    "longitude": 115.70804069999997,
+    "other_names": {
+      "name": "涞水县",
+      "name:en": "Laishui",
+      "name:vi": "Lai Thủy",
+      "name:zh": "涞水县",
+      "alt_name": "涞水;Laishui County",
+      "alt_name:vi": "Lai Thuỷ",
+      "name:zh-Hant": "淶水縣",
+      "official_name": "涞水镇"
+    }
+  },
+  {
+    "name": "Laiwu",
+    "country": "China",
+    "latitude": 36.20307889975631,
+    "longitude": 117.654083,
+    "other_names": {
+      "name": "莱芜区",
+      "name:en": "Laiwu",
+      "name:zh": "莱芜区",
+      "name:zh-Hant": "萊蕪區",
+      "name:zh_pinyin": "Laiwu Qu"
+    }
+  },
+  {
+    "name": "Laixi",
+    "country": "China",
+    "latitude": 36.861827899831276,
+    "longitude": 120.51584919999998,
+    "other_names": {
+      "name": "莱西市",
+      "name:de": "Laixi",
+      "name:en": "Laixi",
+      "name:fr": "Laixi",
+      "name:ja": "莱西市",
+      "name:vi": "Lai Tây",
+      "name:zh": "莱西市",
+      "int_name": "Láixī",
+      "name:zh-Hant": "萊西市",
+      "name:zh_pinyin": "Láixī Shì"
+    }
+  },
+  {
+    "name": "Laiyang",
+    "country": "China",
+    "latitude": 36.979473299845765,
+    "longitude": 120.70137119999997,
+    "other_names": {
+      "name": "莱阳市",
+      "name:de": "Laiyang",
+      "name:en": "Laiyang",
+      "name:fr": "Laiyang",
+      "name:ja": "莱陽市",
+      "name:ru": "Лайян",
+      "name:uk": "Лайян",
+      "name:vi": "Lai Dương",
+      "name:zh": "莱阳市",
+      "int_name": "Láiyáng",
+      "name:zh-Hant": "萊陽市",
+      "name:zh_pinyin": "Láiyáng Shì"
+    }
+  },
+  {
+    "name": "Laiyuan",
+    "country": "China",
+    "latitude": 39.35808620017755,
+    "longitude": 114.687235,
+    "other_names": {
+      "name": "涞源县",
+      "name:cs": "Laj-jüan",
+      "name:de": "Laiyuan",
+      "name:en": "Laiyuan",
+      "name:ru": "Лайюань",
+      "name:zh": "涞源县",
+      "alt_name": "涞源;涞源镇;涞源;Lai-yuan-hsien;Lai-yuan-ch'eng-kuan;Layyuan",
+      "name:zh-Hant": "淶源縣",
+      "official_name": "涞源镇"
+    }
+  },
+  {
+    "name": "Laizhou",
+    "country": "China",
+    "latitude": 37.1823042998714,
+    "longitude": 119.9325123,
+    "other_names": {
+      "name": "莱州市",
+      "name:de": "Laizhou",
+      "name:en": "Laizhou",
+      "name:fr": "Laizhou",
+      "name:ja": "莱州市",
+      "name:ru": "Лайчжоу",
+      "name:vi": "Lai Châu",
+      "name:zh": "莱州市",
+      "int_name": "Láizhōu",
+      "name:zh-Hant": "萊州市",
+      "name:zh_pinyin": "Láizhōu Shì"
+    }
+  },
+  {
+    "name": "Lake Charles",
+    "country": "United States Of America",
+    "latitude": 30.22659489971999,
+    "longitude": -93.2173759,
+    "other_names": {
+      "name": "Lake Charles"
+    }
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "name": "Quevedo",
+    "country": "Ecuador",
+    "latitude": -1.024350799900098,
+    "longitude": -79.4663323,
+    "other_names": {
+      "name": "Quevedo"
+    }
+  },
+  {
+    "name": "Quezon City",
+    "country": "Philippines",
+    "latitude": 14.650990499866067,
+    "longitude": 121.04861550000001,
+    "other_names": {
+      "name": "Quezon City",
+      "name:af": "Quezon Stad",
+      "name:ar": "مدينة كيزون",
+      "name:ca": "Ciutat Quezon",
+      "name:en": "Quezon City",
+      "name:eo": "Kesonurbo",
+      "name:es": "Ciudad Quezón",
+      "name:fa": "کزون سیتی",
+      "name:it": "Città Quezon",
+      "name:ja": "ケソン",
+      "name:kn": "ಕೇಜೊನ್",
+      "name:ko": "케손시티",
+      "name:pt": "Cidade Quezon",
+      "name:ru": "Кесон-Сити",
+      "name:tl": "Lungsod Quezon",
+      "name:uk": "Кесон-Сіті",
+      "name:ur": "کیزون سٹی",
+      "name:zh": "计顺市",
+      "name:ceb": "Dakbayang Quezon",
+      "name:ilo": "Siudad Quezon",
+      "name:pam": "Lakanbaleng Quezon",
+      "short_name:ar": "كيزون",
+      "short_name:fa": "کزون",
+      "short_name:ur": "کیزون"
+    }
+  },
+  {
+    "name": "Qufu",
+    "country": "China",
+    "latitude": 35.5956914996978,
+    "longitude": 116.987543,
+    "other_names": {
+      "name": "曲阜市",
+      "name:de": "Qufu",
+      "name:en": "Qufu",
+      "name:fr": "Qufu",
+      "name:hi": "कुफू",
+      "name:ja": "曲阜市",
+      "name:ru": "Цюйфу",
+      "name:vi": "Khúc Phụ",
+      "name:zh": "曲阜市",
+      "int_name": "Qufu",
+      "name:zh-Hant": "曲阜市",
+      "name:zh_pinyin": "Qūfù Shì"
+    }
+  },
+  {
+    "name": "Quibdó",
+    "country": "Colombia",
+    "latitude": 5.692340699461654,
+    "longitude": -76.65838009999999,
+    "other_names": {
+      "name": "Quibdó",
+      "official_name": "San Francisco de Quibdó"
+    }
+  },
+  {
+    "name": "Quíbor",
+    "country": "Venezuela",
+    "latitude": 9.929981399434638,
+    "longitude": -69.6195814,
+    "other_names": {
+      "name": "Quíbor"
+    }
+  },
+  {
+    "name": "Quillacollo",
+    "country": "Bolivia",
+    "latitude": -17.397661700474384,
+    "longitude": -66.2814763,
+    "other_names": {
+      "name": "Quillacollo",
+      "name:ay": "Qella-kollu",
+      "name:qu": "Quilla Collu",
+      "name:ru": "Кильякольо"
+    }
+  },
+  {
+    "name": "Quillota",
+    "country": "Chile",
+    "latitude": -32.87999699951148,
+    "longitude": -71.2473555,
+    "other_names": {
+      "name": "Quillota",
+      "name:ru": "Кильота"
+    }
+  },
+  {
+    "name": "Quilmes",
+    "country": "Argentina",
+    "latitude": -34.730302499832376,
+    "longitude": -58.26886799999999,
+    "other_names": {
+      "name": "Quilmes",
+      "name:en": "Quilmes"
+    }
+  },
+  {
+    "name": "Quilpué",
+    "country": "Chile",
+    "latitude": -33.04981349953517,
+    "longitude": -71.44152819999998,
+    "other_names": {
+      "name": "Quilpué"
+    }
+  },
+  {
+    "name": "Quincy",
+    "country": "United States Of America",
+    "latitude": 39.93560160025854,
+    "longitude": -91.40987270000001,
+    "other_names": {
+      "name": "Quincy"
+    }
+  },
+  {
+    "name": "Quincy",
+    "country": "United States Of America",
+    "latitude": 42.250991400503445,
+    "longitude": -71.00373739999999,
+    "other_names": {
+      "name": "Quincy"
+    }
+  },
+  {
+    "name": "Quinte West",
+    "country": "Canada",
+    "latitude": 44.09882460052905,
+    "longitude": -77.5748551,
+    "other_names": {
+      "name": "Quinte West",
+      "official_name": "City of Quinte West"
+    }
+  },
+  {
+    "name": "Quito",
+    "country": "Ecuador",
+    "latitude": -0.22016409997763245,
+    "longitude": -78.51232739999999,
+    "other_names": {
+      "name": "Quito",
+      "name:am": "ኪቶ",
+      "name:ar": "كيتو",
+      "name:ay": "Kitu",
+      "name:az": "Kito",
+      "name:be": "Кіта",
+      "name:bg": "Кито",
+      "name:bo": "ཁེ་ཐོ།",
+      "name:de": "Quito",
+      "name:el": "Κίτο",
+      "name:en": "Quito",
+      "name:eo": "Kito",
+      "name:fa": "کیتو",
+      "name:fr": "Quito",
+      "name:fy": "Kito",
+      "name:he": "קיטו",
+      "name:hi": "क्वीटो",
+      "name:ht": "Kito",
+      "name:hu": "Quito",
+      "name:hy": "Կիտո",
+      "name:is": "Quito",
+      "name:ja": "キト",
+      "name:ka": "კიტო",
+      "name:kk": "Кито",
+      "name:ko": "키토",
+      "name:la": "Quitum",
+      "name:lt": "Kitas",
+      "name:lv": "Kito",
+      "name:mk": "Кито",
+      "name:mr": "क्वितो",
+      "name:oc": "Quito",
+      "name:os": "Кито",
+      "name:pa": "ਕੀਤੋ",
+      "name:pl": "Quito",
+      "name:qu": "Kitu",
+      "name:ru": "Кито",
+      "name:sq": "Kuito",
+      "name:sr": "Кито",
+      "name:sv": "Quito",
+      "name:th": "กีโต",
+      "name:ug": "كىتو",
+      "name:uk": "Кіто",
+      "name:ur": "کیٹو",
+      "name:yi": "קיטא",
+      "name:zh": "基多",
+      "name:ext": "Quitu",
+      "name:nov": "Kito",
+      "name:pnb": "کوئتو",
+      "official_name": "San Francisco de Quito",
+      "name:be-tarask": "Кіта"
+    }
+  },
+  {
+    "name": "Qujiang District",
+    "country": "China",
+    "latitude": 28.983909799839115,
+    "longitude": 118.95401899999999,
+    "other_names": {
+      "name": "衢江区",
+      "name:de": "Qujiang",
+      "name:en": "Qujiang District",
+      "name:es": "Qujiang",
+      "name:fr": "District de Qujiang",
+      "name:it": "Distretto di Qujiang",
+      "name:ja": "衢江区",
+      "name:ko": "취장구",
+      "name:no": "Qujiang",
+      "name:ru": "Цюйцзян",
+      "name:sv": "Qujiang",
+      "name:ur": "چوجیانگ ضلع، چیوژوو",
+      "name:vi": "Cù Giang",
+      "name:zh": "衢江区",
+      "name:nan": "Kû-kang-khu",
+      "name:wuu": "衢江区",
+      "name:yue": "衢江區",
+      "name:zh-Hans": "衢江区",
+      "name:zh-Hant": "衢江區",
+      "name:zh_pinyin": "Qújiāng Qū"
+    }
+  },
+  {
+    "name": "Qujing",
+    "country": "China",
+    "latitude": 25.493641800213705,
+    "longitude": 103.7943084,
+    "other_names": {
+      "name": "曲靖市",
+      "name:de": "Qujing",
+      "name:en": "Qujing",
+      "name:et": "Qujing",
+      "name:fi": "Qujing",
+      "name:fr": "Qujing",
+      "name:ja": "曲靖市",
+      "name:ru": "Цюйцзин",
+      "name:vi": "Khúc Tĩnh",
+      "name:zh": "曲靖市",
+      "int_name": "Qujing",
+      "name:zh-Hant": "曲靖市",
+      "name:zh_pinyin": "Qūjìng Shì"
+    }
+  },
+  {
+    "name": "Qusong",
+    "country": "China",
+    "latitude": 29.065835399830576,
+    "longitude": 92.2013717,
+    "other_names": {
+      "name": "曲松县",
+      "name:bo": "ཆུ་གསུམ་",
+      "name:en": "Qusong",
+      "name:zh": "曲松",
+      "alt_name": "曲松;曲松村;La-yeh-li-tsung;Ch'u-sung;Lhagyari;La-chia-li;Rigosho;Qusum;Qusong;Lhagyario Dzong;Lhagyari Dzong",
+      "name:zh-Hant": "曲松縣",
+      "name:zh_pinyin": "Qūsōng Xiàn"
+    }
+  },
+  {
+    "name": "Quwo",
+    "country": "China",
+    "latitude": 35.64180389970185,
+    "longitude": 111.46953979999999,
+    "other_names": {
+      "name": "曲沃县",
+      "name:en": "Quwo",
+      "name:ja": "曲沃県",
+      "name:zh": "曲沃县",
+      "alt_name": "曲沃;Quwo County",
+      "name:zh-Hant": "曲沃縣",
+      "name:zh_pinyin": "qūwò xiàn"
+    }
+  },
+  {
+    "name": "Qüxü",
+    "country": "China",
+    "latitude": 29.356084099800945,
+    "longitude": 90.74236469999998,
+    "other_names": {
+      "name": "曲水县",
+      "name:bo": "ཆུ་ཤུར",
+      "name:en": "Qüxü",
+      "name:ru": "Шё",
+      "name:zh": "曲水县",
+      "alt_name": "曲水i;Xoi;Qushu;Chushul Dzong;Chu-shul;Ch'u-shui;Chhushu;Chushur",
+      "int_name": "Chushul",
+      "name:zh-Hant": "曲水縣",
+      "name:zh_pinyin": "Qūshuǐ Xiàn"
+    }
+  },
+  {
+    "name": "Quyang",
+    "country": "China",
+    "latitude": 38.62187490007107,
+    "longitude": 114.72544689999998,
+    "other_names": {
+      "name": "曲阳县",
+      "name:en": "Quyang",
+      "name:vi": "Khúc Dương",
+      "name:zh": "曲阳县",
+      "alt_name": "曲阳;Quyang County",
+      "name:zh-Hant": "曲陽縣",
+      "name:zh_pinyin": "Quyang Xian"
+    }
+  },
+  {
+    "name": "Quy Nhơn",
+    "country": "Vietnam",
+    "latitude": 13.770408999763893,
+    "longitude": 109.23266699999999,
+    "other_names": {
+      "name": "Quy Nhơn",
+      "name:cs": "Quy Nhon",
+      "name:da": "Quy Nhon",
+      "name:en": "Quy Nhơn",
+      "name:eo": "Qui Nhơn",
+      "name:fa": "کوی نون",
+      "name:gl": "Quy Nhon",
+      "name:id": "Qui Nhơn",
+      "name:it": "Qui Nhon",
+      "name:ja": "クイニョン",
+      "name:kl": "Qui Nhon",
+      "name:ko": "꾸이년",
+      "name:lt": "Kuinionas",
+      "name:no": "Quy Nhon",
+      "name:ru": "Куинён",
+      "name:sv": "Qui Nhon",
+      "name:th": "กวีเญิน",
+      "name:uk": "Куїнон",
+      "name:ur": "قوئی نھون",
+      "name:zh": "歸仁市"
+    }
+  }
+]

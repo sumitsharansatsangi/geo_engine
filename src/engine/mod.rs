@@ -4,6 +4,7 @@ mod city;
 pub(crate) mod error;
 mod model;
 mod spatial;
+mod subdistrict_meta;
 
 mod index;
 mod lookup;

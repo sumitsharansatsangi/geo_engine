@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Chilliwack",
+    "country": "Canada",
+    "latitude": 49.15767699965336,
+    "longitude": -121.95143069999999,
+    "other_names": {
+      "name": "Chilliwack",
+      "name:ru": "Чилливак"
+    }
+  },
+  {
+    "name": "Chilpancingo",
+    "country": "Mexico",
+    "latitude": 17.554214900191905,
+    "longitude": -99.5048416,
+    "other_names": {
+      "name": "Chilpancingo",
+      "name:en": "Chilpancingo",
+      "name:es": "Chilpancingo de los Bravo",
+      "name:pl": "Chilpancingo de los Bravo",
+      "name:ru": "Чильпансинго-де-лос-Браво",
+      "name:uk": "Чільпансінґо",
+      "official_name": "Chilpancingo de los Bravo"
+    }
+  },
+  {
+    "name": "Chimalhuacán",
+    "country": "Mexico",
+    "latitude": 19.433929300342605,
+    "longitude": -98.9580149,
+    "other_names": {
+      "name": "Chimalhuacán"
+    }
+  },
+  {
+    "name": "Chimbote",
+    "country": "Peru",
+    "latitude": -9.074496599835998,
+    "longitude": -78.593609,
+    "other_names": {
+      "name": "Chimbote",
+      "name:en": "Chimbote",
+      "name:ru": "Чимботе",
+      "name:uk": "Чімботе"
+    }
+  },
+  {
+    "name": "Chimoio",
+    "country": "Mozambique",
+    "latitude": -19.1109210004427,
+    "longitude": 33.476659,
+    "other_names": {
+      "name": "Chimoio",
+      "name:ko": "시모이우",
+      "name:ru": "Шимойо"
+    }
+  },
+  {
+    "name": "Chinameca",
+    "country": "El Salvador",
+    "latitude": 13.512244199734878,
+    "longitude": -88.3479665,
+    "other_names": {
+      "name": "Chinameca"
+    }
+  },
+  {
+    "name": "Chinandega",
+    "country": "Nicaragua",
+    "latitude": 12.629796599640946,
+    "longitude": -87.12780859999998,
+    "other_names": {
+      "name": "Chinandega",
+      "name:hu": "Chinandega",
+      "name:ru": "Чинандега"
+    }
+  },
+  {
+    "name": "Chinandega",
+    "country": "Nicaragua",
+    "latitude": 12.626871787253727,
+    "longitude": -87.12955373604186,
+    "other_names": {
+      "name": "Chinandega"
+    }
+  },
+  {
+    "name": "Chinguil",
+    "country": "Chad",
+    "latitude": 10.56392839946939,
+    "longitude": 18.9639687,
+    "other_names": {
+      "name": "Chinguil شنقيل",
+      "name:ar": "شنقيل",
+      "name:en": "Chinguil",
+      "name:fr": "Chingil"
+    }
+  },
+  {
+    "name": "Chiniot",
+    "country": "Pakistan",
+    "latitude": 31.721994199620234,
+    "longitude": 72.9800348,
+    "other_names": {
+      "name": "چنیوٹ",
+      "name:ar": "جنيوت",
+      "name:de": "Chiniot",
+      "name:en": "Chiniot",
+      "name:es": "Chiniot",
+      "name:et": "Chiniot",
+      "name:fr": "Chiniot",
+      "name:hi": "चिनियट",
+      "name:ja": "シニョット",
+      "name:kn": "ಚನಿಓಟ್",
+      "name:ru": "Чиниот",
+      "name:sr": "Чиниот"
+    }
+  },
+  {
+    "name": "Chino",
+    "country": "Japan",
+    "latitude": 35.98561999973411,
+    "longitude": 138.157854,
+    "other_names": {
+      "name": "茅野市",
+      "name:ar": "تشينو، ناغانو",
+      "name:de": "Chino",
+      "name:en": "Chino",
+      "name:es": "Chino",
+      "name:fr": "Chino",
+      "name:ja": "茅野市",
+      "name:ko": "지노시",
+      "name:pl": "Chino",
+      "name:ru": "Тино",
+      "name:uk": "Тіно",
+      "name:ja_rm": "Chino-shi",
+      "name:ja_kana": "ちのし"
+    }
+  },
+  {
+    "name": "Chipata",
+    "country": "Zambia",
+    "latitude": -13.639131400271175,
+    "longitude": 32.6458437,
+    "other_names": {
+      "name": "Chipata",
+      "old_name": "Fort Jameson"
+    }
+  },
+  {
+    "name": "Chiping",
+    "country": "China",
+    "latitude": 36.58415649979835,
+    "longitude": 116.2446315,
+    "other_names": {
+      "name": "茌平县",
+      "name:en": "Chiping",
+      "name:vi": "Trì Bình",
+      "name:zh": "茌平县",
+      "name:zh-Hant": "茌平縣",
+      "name:zh_pinyin": "Chiping Xian"
+    }
+  },
+  {
+    "name": "Chiquimula",
+    "country": "Guatemala",
+    "latitude": 14.80056049988371,
+    "longitude": -89.54713499999998,
+    "other_names": {
+      "name": "Chiquimula",
+      "name:hu": "Chiquimula"
+    }
+  },
+  {
+    "name": "Chira",
+    "country": "China",
+    "latitude": 36.99978639984828,
+    "longitude": 80.8015287,
+    "other_names": {
+      "name": "策勒县",
+      "name:de": "Qira",
+      "name:en": "Chira",
+      "name:es": "Qira",
+      "name:fr": "Chira",
+      "name:ru": "Чира",
+      "name:ug": "چىرا ناھىيىسى",
+      "name:zh": "策勒县",
+      "alt_name": "策勒县;Qira",
+      "name:zh-Hant": "策勒縣"
+    }
+  },
+  {
+    "name": "Chirchiq",
+    "country": "Uzbekistan",
+    "latitude": 41.4725655004413,
+    "longitude": 69.58142489999999,
+    "other_names": {
+      "name": "Chirchiq",
+      "name:de": "Chirchiq",
+      "name:en": "Chirchiq",
+      "name:eo": "Chirchiq",
+      "name:es": "Chirchiq",
+      "name:fr": "Tchirtchik",
+      "name:ja": "チルチク",
+      "name:ru": "Чирчик",
+      "int_name": "Chirchiq",
+      "alt_name:de": "Chirchik, Tschirtschik",
+      "alt_name:en": "Chirchik"
+    }
+  },
+  {
+    "name": "Chirilagua",
+    "country": "El Salvador",
+    "latitude": 13.220533999702843,
+    "longitude": -88.1389151,
+    "other_names": {
+      "name": "Chirilagua",
+      "name:hu": "Chirilagua"
+    }
+  },
+  {
+    "name": "Chiryu",
+    "country": "Japan",
+    "latitude": 35.00155299965177,
+    "longitude": 137.05557,
+    "other_names": {
+      "name": "知立市",
+      "name:ar": "تشيريو، آيتشي",
+      "name:de": "Chiryū",
+      "name:en": "Chiryu",
+      "name:es": "Chiryū",
+      "name:fr": "Chiryū",
+      "name:ja": "知立市",
+      "name:ko": "지류시",
+      "name:pl": "Chiryū",
+      "name:ru": "Тирю",
+      "name:uk": "Тірю",
+      "name:ja_rm": "Chiryu-shi"
+    }
+  },
+  {
+    "name": "Chishtian",
+    "country": "Pakistan",
+    "latitude": 29.79320960158173,
+    "longitude": 72.85597347409647,
+    "other_names": {
+      "name": "چشتیاں‎",
+      "name:en": "Chishtian",
+      "name:ja": "チスティアン"
+    }
+  },
+  {
+    "name": "Chishui",
+    "country": "China",
+    "latitude": 28.59143819988101,
+    "longitude": 105.6956747,
+    "other_names": {
+      "name": "赤水市",
+      "name:de": "Chishui",
+      "name:en": "Chishui",
+      "name:fr": "Chishui",
+      "name:ru": "Чишуй",
+      "name:vi": "Xích Thủy",
+      "name:zh": "赤水市",
+      "int_name": "Chishui",
+      "alt_name:vi": "Xích Thuỷ",
+      "name:zh-Hant": "赤水市",
+      "name:zh_pinyin": "Chìshuǐ Shì"
+    }
+  }
+]

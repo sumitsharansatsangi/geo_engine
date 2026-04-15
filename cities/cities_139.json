@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Foz do Iguaçu",
+    "country": "Brazil",
+    "latitude": -25.54014789970194,
+    "longitude": -54.5858139,
+    "other_names": {
+      "name": "Foz do Iguaçu",
+      "name:ja": "フォス ド イグアス"
+    }
+  },
+  {
+    "name": "Framingham",
+    "country": "United States Of America",
+    "latitude": 42.30957040050704,
+    "longitude": -71.4413097,
+    "other_names": {
+      "name": "Framingham"
+    }
+  },
+  {
+    "name": "Franca",
+    "country": "Brazil",
+    "latitude": -20.53817680034893,
+    "longitude": -47.4009795,
+    "other_names": {
+      "name": "Franca"
+    }
+  },
+  {
+    "name": "Franceville",
+    "country": "Gabon",
+    "latitude": -1.6343629998468432,
+    "longitude": 13.589513,
+    "other_names": {
+      "name": "Franceville",
+      "name:ar": "فرانسفيل",
+      "name:ja": "フランスヴィル",
+      "name:ko": "프랑스빌",
+      "name:lt": "Fransvilis",
+      "name:ru": "Франсвиль",
+      "name:uk": "Франсвіль",
+      "name:zh": "弗朗斯维尔"
+    }
+  },
+  {
+    "name": "Francisco Morato",
+    "country": "Brazil",
+    "latitude": -23.281730800028015,
+    "longitude": -46.74489959999999,
+    "other_names": {
+      "name": "Francisco Morato"
+    }
+  },
+  {
+    "name": "Francistown",
+    "country": "Botswana",
+    "latitude": -21.166360000289718,
+    "longitude": 27.502514999999995,
+    "other_names": {
+      "name": "Francistown",
+      "name:en": "Francistown",
+      "name:ko": "프랜시스타운",
+      "name:ru": "Франсистаун",
+      "name:uk": "Франсістаун"
+    }
+  },
+  {
+    "name": "Franco da Rocha",
+    "country": "Brazil",
+    "latitude": -23.332803800020844,
+    "longitude": -46.72444599999999,
+    "other_names": {
+      "name": "Franco da Rocha"
+    }
+  },
+  {
+    "name": "Frankfort",
+    "country": "United States Of America",
+    "latitude": 38.20090550001046,
+    "longitude": -84.87328359999998,
+    "other_names": {
+      "name": "Frankfort",
+      "name:en": "Frankfort",
+      "name:lt": "Frankfortas",
+      "name:pl": "Frankfort",
+      "name:ru": "Франкфорт",
+      "name:uk": "Франкфорт",
+      "name:pronunciation": "ˈfɹæŋkfɔːɹt",
+      "name:en:pronunciation": "ˈfɹæŋkfɔːɹt"
+    }
+  },
+  {
+    "name": "Frankfurt",
+    "country": "Germany",
+    "latitude": 50.11064439942741,
+    "longitude": 8.6820917,
+    "other_names": {
+      "name": "Frankfurt am Main",
+      "name:an": "Frankfurt d'o Main",
+      "name:ar": "فرانكفورت",
+      "name:ca": "Frankfurt del Main",
+      "name:cs": "Frankfurt nad Mohanem",
+      "name:de": "Frankfurt am Main",
+      "name:el": "Φρανκφούρτη",
+      "name:en": "Frankfurt",
+      "name:eo": "Frankfurto",
+      "name:es": "Fráncfort del Meno",
+      "name:fr": "Francfort-sur-le-Main",
+      "name:he": "פרנקפורט",
+      "name:hr": "Frankfurt na Majni",
+      "name:hu": "Frankfurt am Main",
+      "name:it": "Francoforte sul Meno",
+      "name:ja": "フランクフルト・アム・マイン",
+      "name:ko": "프랑크푸르트",
+      "name:la": "Francofurtum ad Moenum",
+      "name:lt": "Frankfurtas prie Maino",
+      "name:lv": "Frankfurte pie Mainas",
+      "name:mk": "Франкфурт на Мајна",
+      "name:ms": "Frankfurt",
+      "name:pl": "Frankfurt nad Menem",
+      "name:ro": "Frankfurt pe Main",
+      "name:ru": "Франкфурт-на-Майне",
+      "name:sk": "Frankfurt nad Mohanom",
+      "name:sl": "Frankfurt na Majni",
+      "name:sr": "Франкфурт на Мајни",
+      "name:uk": "Франкфурт-на-Майні",
+      "name:zh": "",
+      "alt_name": "Mainhattan;FFM;Frankfurt a. M.",
+      "name:hsb": "Frankobrod nad Mohanom",
+      "name:nds": "Frankfort an’n Main",
+      "reg_name": "Frankfurt",
+      "short_name": "Frankfurt",
+      "alt_name:en": "Frankfort",
+      "name:zh-Hans": "美因河畔法兰克福",
+      "name:zh-Hant": "美茵河畔法蘭克福",
+      "official_name": "Frankfurt am Main"
+    }
+  },
+  {
+    "name": "Franklin",
+    "country": "United States Of America",
+    "latitude": 43.44424320054202,
+    "longitude": -71.6472988,
+    "other_names": {
+      "name": "Franklin"
+    }
+  },
+  {
+    "name": "Franklin",
+    "country": "United States Of America",
+    "latitude": 35.92520599972819,
+    "longitude": -86.86894189999998,
+    "other_names": {
+      "name": "Franklin"
+    }
+  },
+  {
+    "name": "Fray Bentos",
+    "country": "Uruguay",
+    "latitude": -33.11651669954483,
+    "longitude": -58.3130977,
+    "other_names": {
+      "name": "Fray Bentos",
+      "old_name": "Independencia"
+    }
+  },
+  {
+    "name": "Frederick",
+    "country": "United States Of America",
+    "latitude": 39.41421860018558,
+    "longitude": -77.4109269,
+    "other_names": {
+      "name": "Frederick"
+    }
+  },
+  {
+    "name": "Fredericton",
+    "country": "Canada",
+    "latitude": 45.96642500034769,
+    "longitude": -66.645813,
+    "other_names": {
+      "name": "Fredericton",
+      "name:ar": "فريدريكتون",
+      "name:de": "Fredericton",
+      "name:el": "Φρέντρικτον",
+      "name:en": "Fredericton",
+      "name:fa": "فردریکتون",
+      "name:pl": "Fredericton",
+      "name:ru": "Фредериктон",
+      "name:uk": "Фредеріктон",
+      "name:ur": "فریڈریکٹن",
+      "name:azb": "فردریکتون",
+      "name:ckb": "فرێدریکتۆن",
+      "name:pnb": "فریڈرکٹن",
+      "name:az-Arab": "فردریکتون"
+    }
+  },
+  {
+    "name": "Fredrikstad",
+    "country": "Norway",
+    "latitude": 59.21336140135407,
+    "longitude": 10.936160399999999,
+    "other_names": {
+      "name": "Fredrikstad",
+      "name:ru": "Фредрикстад"
+    }
+  },
+  {
+    "name": "Freeport",
+    "country": "Bahamas",
+    "latitude": 26.53568100010839,
+    "longitude": -78.69536229999999,
+    "other_names": {
+      "name": "Freeport",
+      "name:en": "Freeport",
+      "name:hu": "Freeport",
+      "name:ru": "Фрипорт",
+      "name:uk": "Фріпорт"
+    }
+  },
+  {
+    "name": "Freetown",
+    "country": "Sierra Leone",
+    "latitude": 8.479003999392443,
+    "longitude": -13.26795,
+    "other_names": {
+      "name": "Freetown",
+      "name:af": "Freetown, Sierra Leone",
+      "name:am": "ፍሪታውን",
+      "name:ar": "فريتون",
+      "name:az": "Fritaun",
+      "name:be": "Фрытаўн",
+      "name:bg": "Фрийтаун",
+      "name:bo": "ཕིརི་ཊའུན།",
+      "name:de": "Freetown",
+      "name:el": "Φρίταουν",
+      "name:en": "Freetown",
+      "name:eo": "Fritaŭno",
+      "name:es": "Freetown",
+      "name:fa": "فری‌تاون",
+      "name:fr": "Freetown",
+      "name:he": "פריטאון",
+      "name:ht": "Fritonn",
+      "name:hu": "Freetown",
+      "name:hy": "Ֆրիթաուն",
+      "name:is": "Freetown",
+      "name:ja": "フリータウン",
+      "name:ka": "ფრიტაუნი",
+      "name:ko": "프리타운",
+      "name:ky": "Фритаун",
+      "name:la": "Libera Urbs",
+      "name:lt": "Fritaunas",
+      "name:lv": "Frītauna",
+      "name:mk": "Фритаун",
+      "name:mr": "फ्रीटाउन",
+      "name:oc": "Freetown",
+      "name:pl": "Freetown",
+      "name:ru": "Фритаун",
+      "name:sr": "Фритаун",
+      "name:sv": "Freetown",
+      "name:ta": "பிரீடவுன்",
+      "name:tg": "Фритаун",
+      "name:th": "ฟรีทาวน์",
+      "name:uk": "Фрітаун",
+      "name:ur": "فری ٹاؤن",
+      "name:zh": "弗里敦",
+      "alt_name": "Saint George",
+      "name:mrj": "Фритаун",
+      "name:pnb": "فری ٹاؤن",
+      "name:udm": "Фритаун",
+      "alt_name:ar": "فريتاون"
+    }
+  },
+  {
+    "name": "Freiburg im Breisgau",
+    "country": "Germany",
+    "latitude": 47.996090099938634,
+    "longitude": 7.849400500000001,
+    "other_names": {
+      "name": "Freiburg im Breisgau",
+      "name:af": "Freiburg im Breisgau",
+      "name:ar": "فرايبورغ",
+      "name:bg": "Фрайбург",
+      "name:ca": "Friburg de Brisgòvia",
+      "name:cs": "Freiburg im Breisgau",
+      "name:da": "Freiburg im Breisgau",
+      "name:de": "Freiburg im Breisgau",
+      "name:el": "Φρειβούργο",
+      "name:en": "Freiburg im Breisgau",
+      "name:eo": "Frajburgo en Breisgaŭ",
+      "name:es": "Friburgo de Brisgovia",
+      "name:et": "Freiburg",
+      "name:fa": "فرایبورگ",
+      "name:fi": "Freiburg im Breisgau",
+      "name:fr": "Fribourg-en-Brisgau",
+      "name:he": "פרייבורג בברייסגאו",
+      "name:hr": "Freiburg",
+      "name:hu": "Freiburg im Breisgau",
+      "name:id": "Freiburg im Breisgau",
+      "name:io": "Freiburg im Breisgau",
+      "name:it": "Friburgo in Brisgovia",
+      "name:ja": "フライブルク",
+      "name:ka": "ფრაიბურგი",
+      "name:ko": "프라이부르크",
+      "name:la": "Friburgum Brisgoviae",
+      "name:lb": "Freiburg im Breisgau",
+      "name:lv": "Freiburga",
+      "name:mk": "Фрајбург на Брајзгау",
+      "name:mr": "फ्रायबुर्ग",
+      "name:nl": "Freiburg im Breisgau",
+      "name:nn": "Freiburg im Breisgau",
+      "name:no": "Freiburg im Breisgau",
+      "name:oc": "Friborg de Brisgòvia",
+      "name:pl": "Fryburg Bryzgowijski",
+      "name:pt": "Freiburg im Breisgau",
+      "name:ro": "Freiburg",
+      "name:ru": "Фрайбург-в-Брайсгау",
+      "name:sh": "Freiburg",
+      "name:sk": "Freiburg",
+      "name:sq": "Freiburg im Breisgau",
+      "name:sr": "Фрајбург",
+      "name:sv": "Freiburg im Breisgau",
+      "name:tr": "Freiburg im Breisgau",
+      "name:ur": "فری برگ",
+      "name:vi": "Freiburg im Breisgau",
+      "name:vo": "Freiburg (Badän)",
+      "name:zh": "弗莱堡",
+      "alt_name": "Freiburg i. Br.",
+      "name:gsw": "Friburg im Brisgau",
+      "name:jbo": "Freiburg",
+      "name:scn": "Friburgu",
+      "name:vec": "Friburgo en Brisgovia",
+      "short_name": "Freiburg"
+    }
+  },
+  {
+    "name": "Fremont",
+    "country": "United States Of America",
+    "latitude": 41.43383630043757,
+    "longitude": -96.4960449,
+    "other_names": {
+      "name": "Fremont",
+      "name:ru": "Фримонт"
+    }
+  },
+  {
+    "name": "Fremont",
+    "country": "United States Of America",
+    "latitude": 37.548269699919636,
+    "longitude": -121.98857099999996,
+    "other_names": {
+      "name": "Fremont",
+      "name:zh": "弗里蒙特/佛利蒙"
+    }
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "name": "Trabzon",
+    "country": "Turkey",
+    "latitude": 41.00622020039285,
+    "longitude": 39.725754699999996,
+    "other_names": {
+      "name": "Trabzon",
+      "name:ar": "طرابزون",
+      "name:ca": "Trebisonda",
+      "name:el": "Τραπεζούντα",
+      "name:es": "Trebisonda",
+      "name:fa": "طربزون",
+      "name:hi": "ट्राब्ज़न",
+      "name:hy": "Տրապիզոն",
+      "name:it": "Trebisonda",
+      "name:ka": "ტამტრა",
+      "name:lt": "Trabzonas",
+      "name:ml": "ട്രാബ്‌സൺ",
+      "name:ru": "Трабзон",
+      "name:uk": "Трабзон"
+    }
+  },
+  {
+    "name": "Tracy",
+    "country": "United States Of America",
+    "latitude": 37.73855069994557,
+    "longitude": -121.4201395,
+    "other_names": {
+      "name": "Tracy"
+    }
+  },
+  {
+    "name": "Trail",
+    "country": "Canada",
+    "latitude": 49.09445079966897,
+    "longitude": -117.7095371,
+    "other_names": {
+      "name": "Trail"
+    }
+  },
+  {
+    "name": "Trancoso",
+    "country": "Portugal",
+    "latitude": 40.77847000036666,
+    "longitude": -7.34908,
+    "other_names": {
+      "name": "Trancoso",
+      "alt_name": "Núcleo urbano da cidade de Trancoso"
+    }
+  },
+  {
+    "name": "Trang",
+    "country": "Thailand",
+    "latitude": 7.560738899393801,
+    "longitude": 99.61149439999998,
+    "other_names": {
+      "name": "ตรัง",
+      "name:de": "Trang",
+      "name:en": "Trang",
+      "name:ja": "トラン",
+      "name:ru": "Транг",
+      "name:th": "ตรัง",
+      "name:zh": "董里市",
+      "official_name": "เทศบาลนครตรัง"
+    }
+  },
+  {
+    "name": "Trani",
+    "country": "Italy",
+    "latitude": 41.27508800042168,
+    "longitude": 16.4162585,
+    "other_names": {
+      "name": "Trani",
+      "name:ar": "تراني",
+      "name:el": "Τράνι",
+      "name:fa": "ترانی",
+      "name:ru": "Трани",
+      "name:zh": "特拉尼",
+      "name:zh-Hant": "特拉尼"
+    }
+  },
+  {
+    "name": "Trapani",
+    "country": "Italy",
+    "latitude": 38.017432099984454,
+    "longitude": 12.515992,
+    "other_names": {
+      "name": "Trapani",
+      "name:an": "Tràpani",
+      "name:ar": "تراباني",
+      "name:bg": "Трапани",
+      "name:el": "Δρέπανον",
+      "name:en": "Trapani",
+      "name:fa": "تراپانی",
+      "name:he": "טרפאני",
+      "name:ja": "トラーパニ",
+      "name:la": "Drepanum",
+      "name:pt": "Trápani",
+      "name:ru": "Трапани",
+      "name:sr": "Трапани",
+      "name:uk": "Трапані",
+      "name:zh": "特拉帕尼",
+      "name:pms": "Tràpani",
+      "name:scn": "Tràpani",
+      "name:roa-tara": "Trapane"
+    }
+  },
+  {
+    "name": "Traralgon",
+    "country": "Australia",
+    "latitude": -38.19464410061297,
+    "longitude": 146.53823269999998,
+    "other_names": {
+      "name": "Traralgon",
+      "name:en": "Traralgon",
+      "name:ja": "トララルゴン",
+      "name:ru": "Траралгон"
+    }
+  },
+  {
+    "name": "Traverse City",
+    "country": "United States Of America",
+    "latitude": 44.7606441004893,
+    "longitude": -85.61653009999999,
+    "other_names": {
+      "name": "Traverse City",
+      "name:en": "Traverse City"
+    }
+  },
+  {
+    "name": "Tra Vinh",
+    "country": "Vietnam",
+    "latitude": 9.9355828994349,
+    "longitude": 106.33978490000001,
+    "other_names": {
+      "name": "Trà Vinh",
+      "name:en": "Tra Vinh",
+      "name:ko": "짜빈",
+      "name:ru": "Чавинь",
+      "name:zh": "茶荣市",
+      "old_name": "Phú Vinh",
+      "name:vi-Hani": "茶榮",
+      "name:zh-Hans": "茶荣市",
+      "name:zh-Hant": "茶榮市"
+    }
+  },
+  {
+    "name": "Trece Martires",
+    "country": "Philippines",
+    "latitude": 14.281166799822694,
+    "longitude": 120.87023670000002,
+    "other_names": {
+      "name": "Trece Martires"
+    }
+  },
+  {
+    "name": "Treichville",
+    "country": "Ivory Coast",
+    "latitude": 5.306005899485625,
+    "longitude": -4.0081093,
+    "other_names": {
+      "name": "Treichville",
+      "name:ar": "تريشفيل"
+    }
+  },
+  {
+    "name": "Treinta y Tres",
+    "country": "Uruguay",
+    "latitude": -33.231571299561956,
+    "longitude": -54.386259499999994,
+    "other_names": {
+      "name": "Treinta y Tres",
+      "name:lt": "Treinta i Tresas",
+      "name:ru": "Трейнта-и-Трес",
+      "name:uk": "Трейнта-і-Трес",
+      "name:zh": "三十三人城"
+    }
+  },
+  {
+    "name": "Trelew",
+    "country": "Argentina",
+    "latitude": -43.25312420090967,
+    "longitude": -65.3094407,
+    "other_names": {
+      "name": "Trelew",
+      "name:cy": "Trelew",
+      "name:ru": "Трелью"
+    }
+  },
+  {
+    "name": "Trenčín",
+    "country": "Slovakia",
+    "latitude": 48.892358299719035,
+    "longitude": 18.0393715,
+    "other_names": {
+      "name": "Trenčín",
+      "name:ar": "ترنتشين",
+      "name:de": "Trentschin",
+      "name:en": "Trenčín",
+      "name:es": "Trenčín",
+      "name:fr": "Trenčín",
+      "name:hu": "Trencsén",
+      "name:la": "Trentsinium;Laugaricio",
+      "name:pl": "Trenczyn",
+      "name:ru": "Тренчин",
+      "name:sr": "Тренчин",
+      "name:uk": "Тренчин",
+      "loc_name": "Trencin,Trencsen,Trencsén,Trenczyn,Trentschin,Trentsen,Trenčin,Trenčín",
+      "old_name:de": "Trencsin"
+    }
+  },
+  {
+    "name": "Trento",
+    "country": "Italy",
+    "latitude": 46.06642280033208,
+    "longitude": 11.1257601,
+    "other_names": {
+      "name": "Trento",
+      "name:ca": "Trento",
+      "name:cs": "Trident",
+      "name:de": "Trient",
+      "name:el": "Τρέντο",
+      "name:fr": "Trente",
+      "name:lt": "Trentas",
+      "name:pl": "Trydent",
+      "name:ru": "Тренто",
+      "name:uk": "Тренто",
+      "name:zh": "特伦托",
+      "loc_name": "Trènt",
+      "name:cim": "Tria",
+      "name:fur": "Trent",
+      "name:lld": "Trent",
+      "name:mhn": "Trea't"
+    }
+  },
+  {
+    "name": "Trenton",
+    "country": "United States Of America",
+    "latitude": 40.21705750029631,
+    "longitude": -74.7429463,
+    "other_names": {
+      "name": "Trenton",
+      "name:en": "Trenton",
+      "name:pl": "Trenton",
+      "name:ru": "Трентон",
+      "name:ta": "இட்ரென்டன்",
+      "name:uk": "Трентон",
+      "name:zh": "特伦顿 / 翠登 / 特倫頓",
+      "name:zh-hk": "特倫頓",
+      "name:zh-tw": "翠登",
+      "name:zh-Hans": "特伦顿",
+      "name:zh-Hant": "翠登 / 特倫頓"
+    }
+  },
+  {
+    "name": "Três Lagoas",
+    "country": "Brazil",
+    "latitude": -20.786679900326735,
+    "longitude": -51.7061247,
+    "other_names": {
+      "name": "Três Lagoas",
+      "name:ar": "تريس لاغواس",
+      "name:kk": "Трес-Лагоас",
+      "name:ko": "트레스라고아스",
+      "name:lt": "Tres Lagoasas",
+      "name:pt": "Três Lagoas",
+      "name:ru": "Трес-Лагоас",
+      "alt_name": "Tres Lagoas",
+      "short_name": "3 Lagoas"
+    }
+  },
+  {
+    "name": "Treviso",
+    "country": "Italy",
+    "latitude": 45.66585050039113,
+    "longitude": 12.2455414,
+    "other_names": {
+      "name": "Treviso",
+      "name:ca": "Treviso",
+      "name:el": "Τρεβίζο",
+      "name:en": "Treviso",
+      "name:fr": "Trévise",
+      "name:he": "טרוויזו",
+      "name:lt": "Trevizas",
+      "name:ru": "Тревизо",
+      "name:uk": "Тревізо",
+      "name:zh": "特雷維索",
+      "name:fur": "Trevîs",
+      "name:vec": "Trevixo"
+    }
+  },
+  {
+    "name": "Trier",
+    "country": "Germany",
+    "latitude": 49.759620799507864,
+    "longitude": 6.644187800000001,
+    "other_names": {
+      "name": "Trier",
+      "name:ar": "ترير",
+      "name:ca": "Trèveris",
+      "name:cs": "Trevír",
+      "name:de": "Trier",
+      "name:en": "Trier",
+      "name:eo": "Treviro",
+      "name:es": "Tréveris",
+      "name:fr": "Trèves",
+      "name:it": "Treviri",
+      "name:ja": "トリーア",
+      "name:la": "Augusta Treverorum",
+      "name:lb": "Tréier",
+      "name:pl": "Trewir",
+      "name:pt": "Tréveris",
+      "name:ru": "Трир",
+      "name:sr": "Трир",
+      "name:uk": "Трір",
+      "name:zh": "特里尔",
+      "old_name": "Augusta Treverorum"
+    }
+  }
+]

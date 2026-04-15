@@ -1,0 +1,303 @@
+[
+  {
+    "name": "Pinhel",
+    "country": "Portugal",
+    "latitude": 40.77476120036621,
+    "longitude": -7.0650244,
+    "other_names": {
+      "name": "Pinhel"
+    }
+  },
+  {
+    "name": "Pinsk",
+    "country": "Belarus",
+    "latitude": 52.111386199108566,
+    "longitude": 26.1025274,
+    "other_names": {
+      "name": "Пинск",
+      "name:be": "Пінск",
+      "name:de": "Pinsk",
+      "name:en": "Pinsk",
+      "name:eo": "Pinsk",
+      "name:es": "Pinsk",
+      "name:et": "Pinsk",
+      "name:fr": "Pinsk",
+      "name:hu": "Pinszk",
+      "name:la": "Pinscum",
+      "name:lt": "Pinskas",
+      "name:nl": "Pinsk",
+      "name:pl": "Pińsk",
+      "name:ru": "Пинск",
+      "name:sr": "Пинск",
+      "name:uk": "Пінськ",
+      "int_name": "Pinsk",
+      "name:szl": "Pińsk",
+      "name:be-tarask": "Пінск"
+    }
+  },
+  {
+    "name": "Piotrków Trybunalski",
+    "country": "Poland",
+    "latitude": 51.408262499185106,
+    "longitude": 19.696166999999996,
+    "other_names": {
+      "name": "Piotrków Trybunalski",
+      "name:be": "Пётркаў Трыбунальскі",
+      "name:bg": "Пьотърков Трибуналски",
+      "name:de": "Petrikau",
+      "name:fa": "پیوترکوف تربونالسکی",
+      "name:he": "פיוטרקוב טריבונלסקי",
+      "name:ja": "ピョートルクフ・トルィブナルスキ",
+      "name:ko": "피오트르쿠프트리부날스키",
+      "name:lt": "Petrakavas",
+      "name:lv": "Pjotrkova Tribunalska",
+      "name:mk": "Пјотркув Трибуналски",
+      "name:ms": "Piotrkow Trybunalski",
+      "name:pl": "Piotrków Trybunalski",
+      "name:ru": "Пётркув-Трыбунальски",
+      "name:sr": "Пјотрков Трибуналски",
+      "name:th": "ปียอตร์กุฟตรือบูนัลสกี",
+      "name:tt": "Пётркув-Трыбунальски",
+      "name:uk": "Пйотркув-Трибунальський",
+      "name:yi": "פיעטרקאוו",
+      "name:zh": "彼得庫夫特雷布納爾斯基"
+    }
+  },
+  {
+    "name": "Piparia",
+    "country": "India",
+    "latitude": 22.76198644088566,
+    "longitude": 78.35148229972083,
+    "other_names": {
+      "name": "Piparia"
+    }
+  },
+  {
+    "name": "Piracicaba",
+    "country": "Brazil",
+    "latitude": -22.725280000104217,
+    "longitude": -47.64917,
+    "other_names": {
+      "name": "Piracicaba",
+      "name:ru": "Пирасикаба"
+    }
+  },
+  {
+    "name": "Piraeus",
+    "country": "Greece",
+    "latitude": 37.943159399974,
+    "longitude": 23.6470593,
+    "other_names": {
+      "name": "Πειραιάς",
+      "name:bg": "Пирея",
+      "name:ca": "el Pireu",
+      "name:cs": "Pireus",
+      "name:da": "Piræus",
+      "name:de": "Piräus",
+      "name:el": "Πειραιάς",
+      "name:en": "Piraeus",
+      "name:es": "El Pireo",
+      "name:et": "Pireus",
+      "name:fr": "Le Pirée",
+      "name:he": "פיראוס",
+      "name:hr": "Pireus",
+      "name:hu": "Pireusz",
+      "name:it": "Pireo",
+      "name:lb": "Piräus",
+      "name:lt": "Pirėjas",
+      "name:mk": "Пиреј",
+      "name:nl": "Piraeus",
+      "name:pl": "Pireus",
+      "name:ru": "Пирей",
+      "name:sl": "Pirej",
+      "name:sq": "Pire",
+      "name:sv": "Pireus",
+      "name:tr": "Pire",
+      "name:uk": "Пірей",
+      "int_name": "Piraeus",
+      "old_name": "Πειραιεύς",
+      "official_name": "Πειραιεύς"
+    }
+  },
+  {
+    "name": "Piraquara",
+    "country": "Brazil",
+    "latitude": -25.44232729971574,
+    "longitude": -49.0604473,
+    "other_names": {
+      "name": "Piraquara"
+    }
+  },
+  {
+    "name": "Piribebuy",
+    "country": "Paraguay",
+    "latitude": -25.46504321211062,
+    "longitude": -57.043220492086405,
+    "other_names": {
+      "name": "Piribebuy"
+    }
+  },
+  {
+    "name": "Píritu",
+    "country": "Venezuela",
+    "latitude": 9.369474499412002,
+    "longitude": -69.2099656,
+    "other_names": {
+      "name": "Píritu"
+    }
+  },
+  {
+    "name": "Pirot",
+    "country": "Serbia",
+    "latitude": 43.154734200539714,
+    "longitude": 22.586503899999997,
+    "other_names": {
+      "name": "Пирот",
+      "name:de": "Pirot",
+      "name:en": "Pirot",
+      "name:la": "Turres",
+      "name:nl": "Pirot",
+      "name:ru": "Пирот",
+      "name:sr": "Пирот",
+      "name:sr-Latn": "Pirot"
+    }
+  },
+  {
+    "name": "Pisa",
+    "country": "Italy",
+    "latitude": 43.71593950053975,
+    "longitude": 10.4018624,
+    "other_names": {
+      "name": "Pisa",
+      "name:be": "Піза",
+      "name:el": "Πίζα",
+      "name:en": "Pisa",
+      "name:fr": "Pise",
+      "name:he": "פיזה",
+      "name:pl": "Piza",
+      "name:ru": "Пиза",
+      "name:sl": "Piza",
+      "name:tt": "Пиза",
+      "name:zh": "比萨",
+      "int_name": "Pisa",
+      "name:zh-Hant": "比薩"
+    }
+  },
+  {
+    "name": "Pisco",
+    "country": "Peru",
+    "latitude": -13.70998130027752,
+    "longitude": -76.20297929999998,
+    "other_names": {
+      "name": "Pisco",
+      "name:en": "Pisco",
+      "name:ru": "Писко",
+      "name:uk": "Піско"
+    }
+  },
+  {
+    "name": "Pistoia",
+    "country": "Italy",
+    "latitude": 43.93362130053477,
+    "longitude": 10.9174238,
+    "other_names": {
+      "name": "Pistoia",
+      "name:el": "Πιστόια",
+      "name:en": "Pistoia",
+      "name:ru": "Пистойя",
+      "name:zh": "皮斯托亞"
+    }
+  },
+  {
+    "name": "Pita",
+    "country": "Guinea",
+    "latitude": 11.056463799502712,
+    "longitude": -12.3950499,
+    "other_names": {
+      "name": "Pita",
+      "name:ar": "بيتا",
+      "name:ru": "Пита"
+    }
+  },
+  {
+    "name": "Pitalito",
+    "country": "Colombia",
+    "latitude": 1.8507031246351338,
+    "longitude": -76.06140116333198,
+    "other_names": {
+      "name": "Pitalito"
+    }
+  },
+  {
+    "name": "Pitești",
+    "country": "Romania",
+    "latitude": 44.85723430048125,
+    "longitude": 24.8719422,
+    "other_names": {
+      "name": "Pitești",
+      "name:ar": "بيتيشت",
+      "name:de": "Pitești",
+      "name:el": "Πιτέστι",
+      "name:en": "Pitești",
+      "name:es": "Pitești",
+      "name:fr": "Pitești",
+      "name:he": "פיטשט",
+      "name:lt": "Piteštis",
+      "name:pl": "Piteszti",
+      "name:ru": "Питешты",
+      "name:sr": "Питешти",
+      "name:uk": "Пітешть",
+      "old_name:de": "Pitesk"
+    }
+  },
+  {
+    "name": "Pitești",
+    "country": "Romania",
+    "latitude": 44.85414176302753,
+    "longitude": 24.868935375677978,
+    "other_names": {
+      "name": "Pitești",
+      "name:ru": "Питешти"
+    }
+  },
+  {
+    "name": "Pithampur",
+    "country": "India",
+    "latitude": 22.610557600396795,
+    "longitude": 75.6790283,
+    "other_names": {
+      "name": "Pithampur",
+      "name:hi": "पीथमपुर"
+    }
+  },
+  {
+    "name": "Pittsburgh",
+    "country": "United States Of America",
+    "latitude": 40.44169410032534,
+    "longitude": -79.9900861,
+    "other_names": {
+      "name": "Pittsburgh",
+      "name:he": "פיטסבורג",
+      "name:oc": "Pittsburgh",
+      "name:ru": "Питтсбург",
+      "name:pdc": "Pittsbarig",
+      "short_name": "PGH"
+    }
+  },
+  {
+    "name": "Piura",
+    "country": "Peru",
+    "latitude": -5.194901799680757,
+    "longitude": -80.6323,
+    "other_names": {
+      "name": "Piura",
+      "name:de": "Piura",
+      "name:en": "Piura",
+      "name:es": "Piura",
+      "name:pl": "Piura",
+      "name:ru": "Пьюра",
+      "name:uk": "Піура",
+      "old_name": "San Miguel de Piura"
+    }
+  }
+]

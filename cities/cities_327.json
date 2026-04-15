@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Naperville",
+    "country": "United States Of America",
+    "latitude": 41.77286990046829,
+    "longitude": -88.14792779999999,
+    "other_names": {
+      "name": "Naperville",
+      "name:ru": "Нейпервилл"
+    }
+  },
+  {
+    "name": "Napier",
+    "country": "New Zealand",
+    "latitude": -39.49020990085318,
+    "longitude": 176.917839,
+    "other_names": {
+      "name": "Napier",
+      "name:en": "Napier",
+      "name:ja": "ネーピア",
+      "name:mi": "Ahuriri",
+      "name:mk": "Нејпиер",
+      "name:ru": "Нейпир",
+      "name:uk": "Нейпір",
+      "name:etymology": "General Sir Charles James Napier"
+    }
+  },
+  {
+    "name": "Naples",
+    "country": "Italy",
+    "latitude": 40.8359336003734,
+    "longitude": 14.248782599999998,
+    "other_names": {
+      "name": "Napoli",
+      "name:af": "Napels",
+      "name:ar": "نابولي",
+      "name:be": "Неапаль",
+      "name:ca": "Nàpols",
+      "name:cs": "Neapol",
+      "name:de": "Neapel",
+      "name:el": "Νάπολη",
+      "name:en": "Naples",
+      "name:eo": "Napolo",
+      "name:es": "Nápoles",
+      "name:fa": "ناپل",
+      "name:fr": "Naples",
+      "name:he": "נפולי",
+      "name:hr": "Napulj",
+      "name:hu": "Nápoly",
+      "name:it": "Napoli",
+      "name:kn": "ನಪೋಲಿ",
+      "name:la": "Neapolis",
+      "name:lt": "Neapolis",
+      "name:mk": "Неапол",
+      "name:nl": "Napels",
+      "name:oc": "Nàpols",
+      "name:pl": "Neapol",
+      "name:pt": "Nápoles",
+      "name:ru": "Неаполь",
+      "name:sk": "Neapol",
+      "name:sl": "Neapelj",
+      "name:sv": "Neapel",
+      "name:uk": "Неаполь",
+      "name:zh": "那不勒斯",
+      "name:ast": "Nápoles",
+      "name:ckb": "ناپۆلی",
+      "name:nap": "Napule",
+      "name:zh-Hans": "那不勒斯",
+      "name:zh-Hant": "拿坡里"
+    }
+  },
+  {
+    "name": "Napo",
+    "country": "China",
+    "latitude": 23.390766500367086,
+    "longitude": 105.82903409999999,
+    "other_names": {
+      "name": "那坡县",
+      "name:en": "Napo",
+      "name:vi": "Huyện Na Pha",
+      "name:zh": "那坡县",
+      "alt_name": "那坡;Mu-pien Hsien;Na-p'o Hsien;Napo County",
+      "name:zh-Hant": "那坡縣",
+      "name:zh_pinyin": "nàpō xiàn"
+    }
+  },
+  {
+    "name": "Naqadeh",
+    "country": "Iran",
+    "latitude": 36.95559669984279,
+    "longitude": 45.3878933,
+    "other_names": {
+      "name": "نقده",
+      "name:az": "Nəqədə",
+      "name:de": "Naghadeh",
+      "name:en": "Naqadeh",
+      "name:es": "Naqadeh",
+      "name:et": "Naqadeh",
+      "name:fr": "Naghadeh",
+      "name:ja": "ナガデ",
+      "name:ru": "Негеде"
+    }
+  },
+  {
+    "name": "Nara",
+    "country": "Japan",
+    "latitude": 34.6845444996321,
+    "longitude": 135.80483590000003,
+    "other_names": {
+      "name": "奈良市",
+      "name:cs": "Nara",
+      "name:en": "Nara",
+      "name:es": "Nara",
+      "name:et": "Nara",
+      "name:fr": "Nara",
+      "name:it": "Nara",
+      "name:ja": "奈良市",
+      "name:ko": "나라시",
+      "name:nl": "Nara",
+      "name:pl": "Nara",
+      "name:ru": "Нара",
+      "name:sr": "Нара",
+      "name:uk": "Нара",
+      "name:ja-Hira": "ならし",
+      "name:ja-Latn": "Nara-shi"
+    }
+  },
+  {
+    "name": "Narasaraopet",
+    "country": "India",
+    "latitude": 16.2389242000518,
+    "longitude": 80.04728789999999,
+    "other_names": {
+      "name": "Narasaraopet",
+      "name:en": "Narasaraopet",
+      "name:hi": "नरसरावपेट",
+      "name:ja": "ナラサラオペット",
+      "name:kn": "ನರಸರಾವಪೇಟ",
+      "name:pa": "ਨਰਸਰਾਓਪੇਟ",
+      "name:te": "నరసరావుపేట"
+    }
+  },
+  {
+    "name": "Narashino",
+    "country": "Japan",
+    "latitude": 35.67057199970441,
+    "longitude": 140.018956,
+    "other_names": {
+      "name": "習志野市",
+      "name:ar": "ناراشينو، تشيبا",
+      "name:de": "Narashino",
+      "name:en": "Narashino",
+      "name:es": "Narashino",
+      "name:fr": "Narashino",
+      "name:ja": "習志野市",
+      "name:ko": "나라시노시",
+      "name:pl": "Narashino",
+      "name:ru": "Нарасино",
+      "name:uk": "Нарасіно",
+      "int_name": "Narashino",
+      "name:ja_rm": "Narashino-shi",
+      "name:ja_kana": "ならしのし"
+    }
+  },
+  {
+    "name": "Narayanganj",
+    "country": "Bangladesh",
+    "latitude": 23.623810800355088,
+    "longitude": 90.49996619999999,
+    "other_names": {
+      "name": "নারায়ণগঞ্জ",
+      "name:bn": "নারায়ণগঞ্জ",
+      "name:en": "Narayanganj",
+      "name:kn": "ನಾರಾಯಣಗಂಜ್"
+    }
+  },
+  {
+    "name": "Narita",
+    "country": "Japan",
+    "latitude": 35.776768299714085,
+    "longitude": 140.3183376,
+    "other_names": {
+      "name": "成田市",
+      "name:en": "Narita",
+      "name:fr": "Narita",
+      "name:ja": "成田市",
+      "name:ko": "나리타시",
+      "name:pl": "Narita",
+      "name:ru": "Нарита",
+      "name:uk": "Наріта",
+      "name:ja_rm": "Narita-shi",
+      "name:ja_kana": "なりたし"
+    }
+  },
+  {
+    "name": "Narnaul",
+    "country": "India",
+    "latitude": 28.04384559994135,
+    "longitude": 76.1062015,
+    "other_names": {
+      "name": "Narnaul",
+      "name:hi": "नारनौल"
+    }
+  },
+  {
+    "name": "Narowal",
+    "country": "Pakistan",
+    "latitude": 32.10097519960498,
+    "longitude": 74.872238,
+    "other_names": {
+      "name": "نارووال",
+      "name:en": "Narowal",
+      "name:hi": "नारोवाल",
+      "name:ja": "ナーローアル",
+      "name:ru": "Наровал"
+    }
+  },
+  {
+    "name": "Naruto",
+    "country": "Japan",
+    "latitude": 34.17257839960779,
+    "longitude": 134.608408,
+    "other_names": {
+      "name": "鳴門市",
+      "name:ar": "ناروتو، توكوشيما",
+      "name:de": "Naruto",
+      "name:en": "Naruto",
+      "name:es": "Naruto",
+      "name:et": "Naruto",
+      "name:fr": "Naruto",
+      "name:ja": "鳴門市",
+      "name:ko": "나루토시",
+      "name:pl": "Naruto",
+      "name:ru": "Наруто",
+      "name:uk": "Наруто",
+      "name:zh": "鸣门市",
+      "int_name": "Naruto",
+      "name:ja_rm": "Naruto-shi",
+      "name:ja_kana": "なるとし",
+      "name:zh-Hans": "鸣门市",
+      "name:zh-Hant": "鳴門市"
+    }
+  },
+  {
+    "name": "Nar'yan-Mar",
+    "country": "Russia",
+    "latitude": 67.6364564184702,
+    "longitude": 53.0292675289751,
+    "other_names": {
+      "name": "Нарьян-Мар",
+      "name:de": "Narjan-Mar",
+      "name:en": "Nar'yan-Mar",
+      "name:es": "Narian-Mar",
+      "name:fr": "Narian-Mar",
+      "name:ja": "ナリヤン=マル",
+      "name:lt": "Narjan Maras",
+      "name:pl": "Narjan-Mar",
+      "name:ru": "Нарьян-Мар",
+      "name:uk": "Нар'ян-Мар"
+    }
+  },
+  {
+    "name": "Nar'yan-Mar",
+    "country": "Russia",
+    "latitude": 67.63801749671678,
+    "longitude": 53.007104399999996,
+    "other_names": {
+      "name": "Нарьян-Мар",
+      "name:de": "Narjan-Mar",
+      "name:en": "Nar'yan-Mar",
+      "name:es": "Narian-Mar",
+      "name:fr": "Narian-Mar",
+      "name:ja": "ナリヤン=マル",
+      "name:lt": "Narjan Maras",
+      "name:pl": "Narjan-Mar",
+      "name:ru": "Нарьян-Мар",
+      "name:sk": "Narjan-Mar",
+      "name:uk": "Нар'ян-Мар"
+    }
+  },
+  {
+    "name": "Naryn",
+    "country": "Kyrgyzstan",
+    "latitude": 41.42763063726478,
+    "longitude": 75.9877384051448,
+    "other_names": {
+      "name": "Нарын",
+      "name:de": "Naryn",
+      "name:en": "Naryn",
+      "name:eo": "Narin",
+      "name:ky": "Нарын",
+      "name:ru": "Нарын",
+      "name:tr": "Narın",
+      "int_name": "Naryn"
+    }
+  },
+  {
+    "name": "Nashik",
+    "country": "India",
+    "latitude": 20.011247500372914,
+    "longitude": 73.7902364,
+    "other_names": {
+      "name": "Nashik",
+      "name:ar": "ناشيك",
+      "name:en": "Nashik",
+      "name:gu": "નાસિક",
+      "name:he": "נאשיק",
+      "name:hi": "नासिक",
+      "name:ja": "ナーシク",
+      "name:kn": "ನಾಸಿಕ್",
+      "name:ml": "നാസിക്",
+      "name:mr": "नाशिक",
+      "name:pa": "ਨਾਸਿਕ",
+      "name:pt": "Nashik",
+      "name:ru": "Нашик",
+      "name:ta": "நாசிக்",
+      "name:uk": "Нашік",
+      "name:zh": "纳西克"
+    }
+  },
+  {
+    "name": "Nashua",
+    "country": "United States Of America",
+    "latitude": 42.765625100529306,
+    "longitude": -71.4677032,
+    "other_names": {
+      "name": "Nashua"
+    }
+  },
+  {
+    "name": "Nashville",
+    "country": "United States Of America",
+    "latitude": 36.16227669975204,
+    "longitude": -86.7742984,
+    "other_names": {
+      "name": "Nashville",
+      "name:ar": "ناشفيل",
+      "name:en": "Nashville",
+      "name:eo": "Naŝvilo",
+      "name:ja": "ナッシュビル",
+      "name:lt": "Nešvilis",
+      "name:pl": "Nashville",
+      "name:ru": "Нашвилл",
+      "name:ta": "நாஷ்வில்",
+      "name:uk": "Нашвілл",
+      "name:zh": "纳什维尔 / 納許維爾 / 納士維",
+      "name:hak": "Nashville",
+      "name:nan": "Nashville",
+      "name:yue": "納殊維爾",
+      "name:zh-cn": "纳什维尔",
+      "name:zh-hk": "納士維",
+      "name:zh-tw": "納許維爾",
+      "name:zh-Hans": "纳什维尔",
+      "name:zh-Hant": "納許維爾 / 納士維"
+    }
+  },
+  {
+    "name": "Nasiriyah",
+    "country": "Iraq",
+    "latitude": 31.044006799658224,
+    "longitude": 46.2575523,
+    "other_names": {
+      "name": "الناصرية",
+      "name:ar": "الناصرية",
+      "name:cs": "Násiríja",
+      "name:de": "Nasiriya",
+      "name:en": "Nasiriyah",
+      "name:es": "Nasiriya",
+      "name:et": "An-Nāşirīyah",
+      "name:fa": "ناصریه",
+      "name:fi": "Nasiriyya",
+      "name:fr": "Nasiriyah",
+      "name:hi": "नासीरिया",
+      "name:it": "Nassiria",
+      "name:ja": "ナーシリーヤ",
+      "name:ku": "Nasiriye",
+      "name:pl": "Nasirijja",
+      "name:pt": "Nassíria",
+      "name:ro": "Nassiriya",
+      "name:ru": "Насирия",
+      "name:uk": "Насирія",
+      "name:ur": "ناصریہ",
+      "name:azb": "ناصریه",
+      "name:ckb": "ناسریە",
+      "name:mzn": "ناصریه",
+      "name:pnb": "ناصرہ"
+    }
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "name": "Botou",
+    "country": "China",
+    "latitude": 38.07642169999278,
+    "longitude": 116.56963930000002,
+    "other_names": {
+      "name": "泊头市",
+      "name:de": "Botou",
+      "name:en": "Botou",
+      "name:fr": "Botou",
+      "name:ru": "Ботоу",
+      "name:vi": "Bạc Đầu",
+      "name:zh": "泊头市",
+      "alt_name": "泊头;Botou City",
+      "name:zh-Hant": "泊頭市",
+      "name:zh_pinyin": "Bótóu Shì"
+    }
+  },
+  {
+    "name": "Botshabelo",
+    "country": "South Africa And Lesotho",
+    "latitude": -29.23241199933563,
+    "longitude": 26.733254999999996,
+    "other_names": {
+      "name": "Botshabelo"
+    }
+  },
+  {
+    "name": "Botshabelo",
+    "country": "South Africa",
+    "latitude": -29.23241199933563,
+    "longitude": 26.733254999999996,
+    "other_names": {
+      "name": "Botshabelo"
+    }
+  },
+  {
+    "name": "Bottrop",
+    "country": "Germany",
+    "latitude": 51.52158099916966,
+    "longitude": 6.929204,
+    "other_names": {
+      "name": "Bottrop",
+      "name:ar": "بوتروب",
+      "name:la": "Botropium",
+      "name:ru": "Ботроп",
+      "name:sr": "Ботроп",
+      "name:nds": "Bottrop"
+    }
+  },
+  {
+    "name": "Botucatu",
+    "country": "Brazil",
+    "latitude": -22.887962800082352,
+    "longitude": -48.4410712,
+    "other_names": {
+      "name": "Botucatu",
+      "name:ru": "Ботукату"
+    }
+  },
+  {
+    "name": "Bouaké",
+    "country": "Ivory Coast",
+    "latitude": 7.690605799392286,
+    "longitude": -5.029840799999999,
+    "other_names": {
+      "name": "Bouaké",
+      "name:ar": "بواكي",
+      "name:en": "Bouaké",
+      "name:fa": "بوآکه",
+      "name:ko": "부아케",
+      "name:lt": "Bvakė",
+      "name:ru": "Буаке",
+      "name:ur": "بؤاکے",
+      "int_name": "Bouake",
+      "old_name": "Gbêkêkro"
+    }
+  },
+  {
+    "name": "Bouar",
+    "country": "Central African Republic",
+    "latitude": 5.9354017994482025,
+    "longitude": 15.592189400000002,
+    "other_names": {
+      "name": "Bouar",
+      "name:ru": "Буар",
+      "name:uk": "Буар"
+    }
+  },
+  {
+    "name": "Bouarfa",
+    "country": "Morocco",
+    "latitude": 32.53290299959322,
+    "longitude": -1.963231,
+    "other_names": {
+      "name": "Bouarfa ⴱⵓⵄⴰⵔⴼⴰ بوعرفة",
+      "name:ar": "بوعرفة",
+      "name:en": "Bouarfa",
+      "name:fr": "Bouarfa",
+      "name:ber": "ⴱⵓⵄⴰⵔⴼⴰ",
+      "name:zgh": "ⴱⵓⵄⴰⵔⴼⴰ"
+    }
+  },
+  {
+    "name": "Boujdour",
+    "country": "Morocco",
+    "latitude": 26.126337800151354,
+    "longitude": -14.483653700000001,
+    "other_names": {
+      "name": "Boujdour ⴱⵓⵊⴷⵓⵔ بوجدور",
+      "name:ar": "بوجدور",
+      "name:de": "Boujdour",
+      "name:en": "Boujdour",
+      "name:es": "Cabo Bojador",
+      "name:fr": "Boujdour",
+      "name:tr": "Boujdour",
+      "alt_name": "Cap Boujdour",
+      "int_name": "Boujdour",
+      "name:ber": "ⴱⵓⵊⴷⵓⵔ",
+      "name:zgh": "ⴱⵓⵊⴷⵓⵔ",
+      "old_name": "Cabo Bojador"
+    }
+  },
+  {
+    "name": "Boulder",
+    "country": "United States Of America",
+    "latitude": 40.01498560026934,
+    "longitude": -105.270545,
+    "other_names": {
+      "name": "Boulder",
+      "name:ja": "ボールダー",
+      "name:zh": "博尔德/波德"
+    }
+  },
+  {
+    "name": "Boulder City",
+    "country": "United States Of America",
+    "latitude": 35.978763799733436,
+    "longitude": -114.8337739,
+    "other_names": {
+      "name": "Boulder City",
+      "name:ru": "Боулдер-Сити"
+    }
+  },
+  {
+    "name": "Boulogne-Billancourt",
+    "country": "France",
+    "latitude": 48.83566489973308,
+    "longitude": 2.240206,
+    "other_names": {
+      "name": "Boulogne-Billancourt",
+      "name:ar": "بولون-بيانكور",
+      "name:el": "Μπουλόν-Μπιγιανκούρ",
+      "name:fa": "بولونی-بیانکور",
+      "name:fr": "Boulogne-Billancourt",
+      "name:ja": "ブローニュ＝ビヤンクール",
+      "name:lt": "Bulonė-Bijankūras",
+      "name:ru": "Булонь-Бийанкур",
+      "name:uk": "Булонь-Біянкур",
+      "name:azb": "بولونی-بیانکور",
+      "name:mzn": "بولونی بیانکور",
+      "name:pnb": "بولون-بلانکور"
+    }
+  },
+  {
+    "name": "Boumerdes",
+    "country": "Algeria",
+    "latitude": 36.75888199981885,
+    "longitude": 3.470596,
+    "other_names": {
+      "name": "Boumerdès",
+      "name:ar": "بومرداس",
+      "name:el": "Μπουμέρντ",
+      "name:en": "Boumerdes",
+      "name:fr": "Boumerdès",
+      "name:ru": "Бумердес",
+      "name:ber": "ⴱⵓⵎⴻⵔⴷⴰⵙ",
+      "name:kab": "Bumerdas",
+      "old_name:fr": "Rocher Noir"
+    }
+  },
+  {
+    "name": "Bou Saada",
+    "country": "Algeria",
+    "latitude": 35.21331229966683,
+    "longitude": 4.180970199999999,
+    "other_names": {
+      "name": "Bou Saâda ⴱⵓⵙⵄⴰⴷⴰ بوسعادة",
+      "name:ar": "بوسعادة",
+      "name:de": "Bou Saada",
+      "name:el": "Μπου Σαάντα",
+      "name:en": "Bou Saada",
+      "name:es": "Bou Saada",
+      "name:fr": "Bou Saâda",
+      "name:it": "Bou Saada",
+      "name:ro": "Bou Saada",
+      "name:ru": "Бу-Саада",
+      "name:zh": "布萨达",
+      "alt_name": "Bousaada",
+      "name:ber": "ⴱⵓⵙⵄⴰⴷⴰ",
+      "name:kab": "Busɛada",
+      "alt_name:fr": "Bousaada"
+    }
+  },
+  {
+    "name": "Bousso",
+    "country": "Chad",
+    "latitude": 10.485787699464602,
+    "longitude": 16.7112708,
+    "other_names": {
+      "name": "Bousso بوسو",
+      "name:ar": "بوسو",
+      "name:en": "Bousso",
+      "name:fr": "Bousso",
+      "old_name:ar": "فور بريتنه",
+      "old_name:fr": "Fort Bretonnet"
+    }
+  },
+  {
+    "name": "Bouza",
+    "country": "Niger",
+    "latitude": 14.423488999839329,
+    "longitude": 6.0436559999999995,
+    "other_names": {
+      "name": "Bouza"
+    }
+  },
+  {
+    "name": "Bowang",
+    "country": "China",
+    "latitude": 31.56488769962785,
+    "longitude": 118.84358959999999,
+    "other_names": {
+      "name": "博望区",
+      "name:de": "Bowang",
+      "name:en": "Bowang",
+      "name:eo": "Bowang",
+      "name:es": "Bowang",
+      "name:fr": "Bowang",
+      "name:ja": "博望区",
+      "name:ko": "보왕 구",
+      "name:pt": "Bowang",
+      "name:sv": "Bowang",
+      "name:vi": "Bác Vọng",
+      "name:zh": "博望区",
+      "name:zh-Hant": "博望區"
+    }
+  },
+  {
+    "name": "Bowie",
+    "country": "United States Of America",
+    "latitude": 38.94244640011757,
+    "longitude": -76.7301718,
+    "other_names": {
+      "name": "Bowie"
+    }
+  },
+  {
+    "name": "Bowling Green",
+    "country": "United States Of America",
+    "latitude": 36.9903198998471,
+    "longitude": -86.4436018,
+    "other_names": {
+      "name": "Bowling Green"
+    }
+  },
+  {
+    "name": "Box Elder",
+    "country": "United States Of America",
+    "latitude": 44.13336540052766,
+    "longitude": -103.064514,
+    "other_names": {
+      "name": "Box Elder",
+      "name:en": "Box Elder",
+      "name:lkt": "čhaŋšúška"
+    }
+  }
+]

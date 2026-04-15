@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Shiyan",
+    "country": "China",
+    "latitude": 32.631487699591425,
+    "longitude": 110.79275199999998,
+    "other_names": {
+      "name": "十堰市",
+      "name:de": "Shiyan",
+      "name:en": "Shiyan",
+      "name:et": "Shiyan",
+      "name:fr": "Shiyan",
+      "name:ja": "十堰市",
+      "name:ru": "Шиянь",
+      "name:vi": "Thập Yển",
+      "name:zh": "十堰市",
+      "name:zh-Hant": "十堰市",
+      "name:zh_pinyin": "Shíyàn Shì"
+    }
+  },
+  {
+    "name": "Shizhong",
+    "country": "China",
+    "latitude": 29.558824999780953,
+    "longitude": 103.7583159,
+    "other_names": {
+      "name": "市中区",
+      "name:en": "Shizhong",
+      "name:zh": "市中区",
+      "alt_name": "市中;Shizhong District",
+      "name:zh-Hant": "市中區"
+    }
+  },
+  {
+    "name": "Shizhong",
+    "country": "China",
+    "latitude": 36.65106529980612,
+    "longitude": 116.99201380000001,
+    "other_names": {
+      "name": "市中区",
+      "name:en": "Shizhong",
+      "name:zh": "市中区",
+      "name:zh-Hant": "市中區",
+      "name:zh_pinyin": "Shizhong Qu"
+    }
+  },
+  {
+    "name": "Shizhong",
+    "country": "China",
+    "latitude": 29.589765199777958,
+    "longitude": 105.0643426,
+    "other_names": {
+      "name": "市中区",
+      "name:en": "Shizhong",
+      "name:vi": "Thị Trung",
+      "name:zh": "市中区",
+      "alt_name": "市中;Shizhong District",
+      "name:zh-Hant": "市中區",
+      "name:zh_pinyin": "Shìzhōng Qū"
+    }
+  },
+  {
+    "name": "Shizhu",
+    "country": "China",
+    "latitude": 30.001937599739573,
+    "longitude": 108.10911549999999,
+    "other_names": {
+      "name": "石柱县",
+      "name:en": "Shizhu",
+      "name:zh": "石柱县",
+      "old_name": "石砫縣",
+      "name:zh-Hant": "石砫縣",
+      "official_name": "石柱土家族自治县",
+      "official_name:en": "Shizhu Tujia Autonomous County"
+    }
+  },
+  {
+    "name": "Shizong",
+    "country": "China",
+    "latitude": 24.832330100272006,
+    "longitude": 103.99204949999998,
+    "other_names": {
+      "name": "师宗县",
+      "name:en": "Shizong",
+      "name:vi": "Sư Tông",
+      "name:zh": "师宗县",
+      "alt_name": "师宗;Shizong County",
+      "int_name": "Shizong",
+      "name:zh-Hant": "師宗縣",
+      "name:zh_pinyin": "Shīzōngxiàn"
+    }
+  },
+  {
+    "name": "Shizuishan",
+    "country": "China",
+    "latitude": 38.98685310012401,
+    "longitude": 106.37719739999999,
+    "other_names": {
+      "name": "石嘴山市",
+      "name:de": "Shizuishan",
+      "name:en": "Shizuishan",
+      "name:et": "Shizuishan",
+      "name:fr": "Shizuishan",
+      "name:ja": "石嘴山市",
+      "name:ru": "Шицзуйшань",
+      "name:sr": "Шицуејшан",
+      "name:vi": "Thạch Chủy Sơn",
+      "name:zh": "石嘴山市",
+      "int_name": "Shizuishan",
+      "name:zh-Hant": "石嘴山市",
+      "name:zh_pinyin": "Shízuǐshān Shì"
+    }
+  },
+  {
+    "name": "Shizuoka",
+    "country": "Japan",
+    "latitude": 34.97914899965027,
+    "longitude": 138.38299,
+    "other_names": {
+      "name": "静岡市",
+      "name:cs": "Šizuoka",
+      "name:en": "Shizuoka",
+      "name:et": "Shizuoka",
+      "name:fr": "Shizuoka",
+      "name:it": "Shizuoka",
+      "name:ja": "静岡市",
+      "name:ko": "시즈오카시",
+      "name:lt": "Šidzuoka",
+      "name:pl": "Shizuoka",
+      "name:ru": "Сидзуока",
+      "name:sr": "Шизуока",
+      "name:uk": "Шідзуока",
+      "name:ja-Hira": "しずおかし",
+      "name:ja-Latn": "Shizuoka-shi"
+    }
+  },
+  {
+    "name": "Shkoder",
+    "country": "Albania",
+    "latitude": 42.0681371004912,
+    "longitude": 19.512143699999996,
+    "other_names": {
+      "name": "Shkodër",
+      "name:ar": "شقودرة",
+      "name:az": "Şkoder",
+      "name:bg": "Шкодра",
+      "name:bs": "Skadar",
+      "name:cs": "Skadar",
+      "name:de": "Skutari",
+      "name:el": "Σκόδρα",
+      "name:en": "Shkoder",
+      "name:es": "Shkodër",
+      "name:fr": "Shkodër",
+      "name:he": "שקודר",
+      "name:hr": "Skadar",
+      "name:hu": "Skadar",
+      "name:it": "Scutari",
+      "name:ja": "シュコドラ",
+      "name:la": "Scodra",
+      "name:lt": "Škoderis",
+      "name:lv": "Škodra",
+      "name:mk": "Скадар",
+      "name:nl": "Shkodër",
+      "name:pl": "Szkodra",
+      "name:ru": "Шкодер",
+      "name:sh": "Skadar",
+      "name:sl": "Skader",
+      "name:sq": "Shkodër",
+      "name:sr": "Скадар",
+      "name:tr": "İşkodra",
+      "name:ur": "شکودر",
+      "name:zh": "斯库台",
+      "alt_name": "Shkodra",
+      "name:sr-Latn": "Skadar"
+    }
+  },
+  {
+    "name": "Shobara",
+    "country": "Japan",
+    "latitude": 34.8578346996424,
+    "longitude": 133.0166674,
+    "other_names": {
+      "name": "庄原市",
+      "name:ar": "شوبارا، هیروشیما",
+      "name:de": "Shōbara",
+      "name:en": "Shobara",
+      "name:es": "Shōbara",
+      "name:fr": "Shōbara",
+      "name:ja": "庄原市",
+      "name:ko": "쇼바라시",
+      "name:pl": "Shōbara",
+      "name:ru": "Сёбара",
+      "name:uk": "Сьобара",
+      "int_name": "Shōbara"
+    }
+  },
+  {
+    "name": "Shorkot",
+    "country": "Pakistan",
+    "latitude": 30.834906699672477,
+    "longitude": 72.0764093,
+    "other_names": {
+      "name": "شورکوٹ‎",
+      "name:en": "Shorkot",
+      "name:ru": "Шоркот"
+    }
+  },
+  {
+    "name": "Shouguang",
+    "country": "China",
+    "latitude": 36.876235599833024,
+    "longitude": 118.73225489999999,
+    "other_names": {
+      "name": "寿光市",
+      "name:de": "Shouguang",
+      "name:en": "Shouguang",
+      "name:fr": "Shouguang",
+      "name:ja": "寿光市",
+      "name:vi": "Thọ Quang",
+      "name:zh": "寿光市",
+      "int_name": "Shouguang",
+      "name:zh-Hant": "壽光市",
+      "name:zh_pinyin": "Shòuguāng Shì"
+    }
+  },
+  {
+    "name": "Shouning",
+    "country": "China",
+    "latitude": 27.45698390000704,
+    "longitude": 119.5101439,
+    "other_names": {
+      "name": "寿宁县",
+      "name:de": "Shouning",
+      "name:en": "Shouning",
+      "name:es": "Shòuníng",
+      "name:fa": "شهرستان شوونینگ",
+      "name:fr": "Shouning",
+      "name:it": "Shouning",
+      "name:ja": "寿寧県",
+      "name:ko": "서우닝현",
+      "name:no": "Shouning",
+      "name:ru": "Аоян",
+      "name:sv": "Shouning",
+      "name:vi": "Thọ Ninh",
+      "name:zh": "寿宁县",
+      "alt_name": "寿宁;Shouning County",
+      "name:cdo": "Sêu-nìng",
+      "name:hak": "Su-nèn-yen",
+      "name:mwl": "Shouning",
+      "name:nan": "Siū-lêng-koān",
+      "name:yue": "壽寧",
+      "name:zh-Hant": "壽寧縣",
+      "name:zh_pinyin": "Shòuníng Xiàn"
+    }
+  },
+  {
+    "name": "Shouxian",
+    "country": "China",
+    "latitude": 32.547512099592936,
+    "longitude": 116.79290429999999,
+    "other_names": {
+      "name": "寿县",
+      "name:en": "Shouxian",
+      "name:ja": "寿県",
+      "name:vi": "Thọ",
+      "name:zh": "寿县",
+      "old_name": "寿春;寿郢;九江郡;寿春县;淮南郡;寿阳县;淮南行台;寿州;忠正军;清淮军;南寿春县;寿春府;安丰军;安丰路",
+      "name:zh-Hant": "壽縣",
+      "name:zh_pinyin": "Shou Xian"
+    }
+  },
+  {
+    "name": "Shouyang",
+    "country": "China",
+    "latitude": 37.89032769996661,
+    "longitude": 113.1718084,
+    "other_names": {
+      "name": "寿阳县",
+      "name:en": "Shouyang",
+      "name:ja": "寿陽県",
+      "name:vi": "Triều Dương",
+      "name:zh": "寿阳县",
+      "alt_name": "寿阳;Shouyang;Showyang;Shou-yang-hsien;Shouyang Xian;Shouyang County",
+      "name:zh-Hant": "壽陽縣",
+      "name:zh_pinyin": "Shouyang Xian"
+    }
+  },
+  {
+    "name": "Shreveport",
+    "country": "United States Of America",
+    "latitude": 32.52218279959346,
+    "longitude": -93.76519439999998,
+    "other_names": {
+      "name": "Shreveport",
+      "name:en": "Shreveport",
+      "name:ru": "Шривпорт",
+      "name:uk": "Шривпорт"
+    }
+  },
+  {
+    "name": "Shtip",
+    "country": "Macedonia",
+    "latitude": 41.73747240046529,
+    "longitude": 22.1935856,
+    "other_names": {
+      "name": "Штип",
+      "name:bg": "Щип",
+      "name:de": "Štip",
+      "name:en": "Shtip",
+      "name:es": "Štip",
+      "name:et": "Štip",
+      "name:fr": "Chtip",
+      "name:pl": "Sztip",
+      "name:ro": "Štip",
+      "name:ru": "Штип",
+      "name:sl": "Štip",
+      "name:sq": "Shtipi",
+      "name:sr": "Штип",
+      "int_name": "Štip",
+      "name:sr-Latn": "Štip"
+    }
+  },
+  {
+    "name": "Shuangbai",
+    "country": "China",
+    "latitude": 24.692033100283304,
+    "longitude": 101.64086359999999,
+    "other_names": {
+      "name": "双柏县",
+      "name:en": "Shuangbai",
+      "name:vi": "Song Bách",
+      "name:zh": "双柏县",
+      "alt_name": "双柏;妥甸镇;Shuangbai County",
+      "name:zh-Hant": "雙柏縣",
+      "name:zh_pinyin": "Shuangbai Xian"
+    }
+  },
+  {
+    "name": "Shuangcheng",
+    "country": "China",
+    "latitude": 45.366251900429155,
+    "longitude": 126.30468460000002,
+    "other_names": {
+      "name": "双城区",
+      "name:en": "Shuangcheng",
+      "name:ru": "Шуанчэн",
+      "name:vi": "Song Thành",
+      "name:zh": "双城区",
+      "alt_name": "双城;Shuangcheng District;Shuang-ch'eng Hsien;Shuangcheng Xian;Shuangcheng Shi",
+      "old_name": "双城市",
+      "name:zh-Hant": "雙城區"
+    }
+  },
+  {
+    "name": "Shuangfeng",
+    "country": "China",
+    "latitude": 27.45838200000688,
+    "longitude": 112.1703472,
+    "other_names": {
+      "name": "双峰县",
+      "name:de": "Shuangfeng",
+      "name:en": "Shuangfeng",
+      "name:es": "Shuangfeng",
+      "name:fa": "شهرستان شوانگفنگ",
+      "name:fr": "Xian de Shuangfeng",
+      "name:it": "Contea di Shuangfeng",
+      "name:ja": "双峰県",
+      "name:ko": "솽펑현",
+      "name:no": "Shuangfeng",
+      "name:ru": "Шуанфэн",
+      "name:sv": "Shuangfeng",
+      "name:vi": "Song Phong",
+      "name:zh": "双峰县",
+      "alt_name": "双峰;Shuangfeng County",
+      "name:ceb": "Shuangfeng Xian",
+      "name:hak": "Sûng-fûng-yen",
+      "name:nan": "Siang-hong-koān",
+      "name:yue": "雙峰",
+      "name:zh-Hant": "雙峯縣",
+      "name:zh_pinyin": "Shuāngfēng Xiàn"
+    }
+  }
+]

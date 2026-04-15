@@ -1,0 +1,359 @@
+[
+  {
+    "name": "Qianjiang",
+    "country": "China",
+    "latitude": 29.53614799978316,
+    "longitude": 108.76735279999998,
+    "other_names": {
+      "name": "黔江区",
+      "name:cs": "Čchien-ťiang",
+      "name:en": "Qianjiang",
+      "name:vi": "Kiềm Giang",
+      "name:zh": "黔江区",
+      "name:zh-Hant": "黔江區",
+      "name:zh_pinyin": "Qianjiang Qu"
+    }
+  },
+  {
+    "name": "Qiannan",
+    "country": "China",
+    "latitude": 26.25701100013783,
+    "longitude": 107.5180339,
+    "other_names": {
+      "name": "黔南州",
+      "name:en": "Qiannan",
+      "name:fr": "Qiannan",
+      "name:ja": "黔南",
+      "name:ko": "첸난",
+      "name:ru": "Цяньнань",
+      "name:vi": "Kiềm Nam",
+      "name:zh": "黔南州",
+      "alt_name": "黔南布依族苗族自治州;Ch'ien-nan Pu-i and Miao Autonomous Chou;South Kweichow Pu-i and Miao Autonomous Chou;Ch'ien-nan-pu-i-tsu-miao-o-tsu Tzu-chih-chou;South Kweichow Puyi-Miao Autonomous District;Qiannan Bouyeizu Miaozu Zizhizhou",
+      "short_name": "黔南州",
+      "name:zh-Hant": "黔南州",
+      "official_name": "黔南布依族苗族自治州",
+      "name:zh_pinyin": "Qiánnán Bùyīzú Miáozú Zìzhìzhōu",
+      "official_name:de": "Autonomer Bezirk Qiannan der Bouyei und Miao",
+      "official_name:fr": "Préfecture autonome buyei et miao de Qiannan",
+      "official_name:ja": "黔南プイ族ミャオ族自治州",
+      "official_name:ko": "첸난 부이족 먀오족 자치주",
+      "official_name:nl": "Autonome Buyei & Miao prefectuur Qiannan",
+      "official_name:ru": "Цяньнань-Буи-Мяоский автономный округ"
+    }
+  },
+  {
+    "name": "Qianshan",
+    "country": "China",
+    "latitude": 30.639729499686787,
+    "longitude": 116.57671969999998,
+    "other_names": {
+      "name": "潜山市",
+      "name:de": "Qianshan",
+      "name:en": "Qianshan",
+      "name:fr": "Qianshan",
+      "name:ja": "潜山県",
+      "name:ko": "첸산 현",
+      "name:no": "Qianshan",
+      "name:sv": "Qianshan",
+      "name:vi": "Tiềm Sơn",
+      "name:zh": "潜山市",
+      "alt_name": "潜山;Qianshan City",
+      "old_name": "皖县;皖方国;皖公国;皖侯国;樊山王国;荆王国;潜珊县;潜山县",
+      "name:zh-Hant": "潛山市",
+      "name:zh_pinyin": "Qiánshān Shì"
+    }
+  },
+  {
+    "name": "Qianshan",
+    "country": "China",
+    "latitude": 41.05129470039785,
+    "longitude": 122.93295379999999,
+    "other_names": {
+      "name": "千山区",
+      "name:en": "Qianshan",
+      "name:ja": "千山区",
+      "name:ko": "첸산구",
+      "name:zh": "千山区",
+      "alt_name": "千山;Qianshan District;Qianshan Qu",
+      "name:zh-Hant": "千山區"
+    }
+  },
+  {
+    "name": "Qiantang District",
+    "country": "China",
+    "latitude": 30.32534599971171,
+    "longitude": 120.48959160000001,
+    "other_names": {
+      "name": "钱塘区",
+      "name:en": "Qiantang District",
+      "name:zh": "钱塘区",
+      "name:zh-Hant": "錢塘區"
+    }
+  },
+  {
+    "name": "Qianwei",
+    "country": "China",
+    "latitude": 29.211313499815585,
+    "longitude": 103.94367129999999,
+    "other_names": {
+      "name": "犍为县",
+      "name:en": "Qianwei",
+      "name:ja": "ケン為県",
+      "name:ru": "Цяньвэй",
+      "name:vi": "Kiền Vi",
+      "name:zh": "犍为县",
+      "alt_name": "犍为;Qianwei County",
+      "int_name": "Qian Wei",
+      "name:zh-Hant": "犍爲縣",
+      "name:zh_pinyin": "Qiánwéi Xiàn"
+    }
+  },
+  {
+    "name": "Qianxi",
+    "country": "China",
+    "latitude": 27.0123382000565,
+    "longitude": 106.02856359999998,
+    "other_names": {
+      "name": "黔西市",
+      "name:en": "Qianxi",
+      "name:ru": "Цяньси",
+      "name:zh": "黔西市",
+      "alt_name": "黔西县；水西市",
+      "name:zh-Hant": "黔西市"
+    }
+  },
+  {
+    "name": "Qianxi",
+    "country": "China",
+    "latitude": 27.08807400004814,
+    "longitude": 106.10515799999999,
+    "other_names": {
+      "name": "黔西市",
+      "name:en": "Qianxi",
+      "name:vi": "Kiềm Tây",
+      "name:zh": "黔西市",
+      "alt_name": "黔西;Ch'ien-hsi Hsien;Qianxi Xian",
+      "name:zh-Hant": "黔西市",
+      "name:zh_pinyin": "Qiánxī shì"
+    }
+  },
+  {
+    "name": "Qianxi",
+    "country": "China",
+    "latitude": 40.14044040028617,
+    "longitude": 118.3084757,
+    "other_names": {
+      "name": "迁西县",
+      "name:en": "Qianxi",
+      "name:vi": "Thiên Tây",
+      "name:zh": "迁西县",
+      "alt_name": "迁西;Qianxi County",
+      "name:zh-Hant": "遷西縣",
+      "name:zh_pinyin": "Qianxi Xian"
+    }
+  },
+  {
+    "name": "Qianxian",
+    "country": "China",
+    "latitude": 34.53082519962381,
+    "longitude": 108.23989029999998,
+    "other_names": {
+      "name": "乾县",
+      "name:en": "Qianxian",
+      "name:ja": "乾県",
+      "name:ru": "Цяньсянь",
+      "name:vi": "Càn",
+      "name:zh": "乾县",
+      "name:yue": "乾縣",
+      "alt_name:en": "Qian County;Qian Xian",
+      "alt_name:vi": "Kiền",
+      "name:zh-Hant": "乾縣"
+    }
+  },
+  {
+    "name": "Qianxinan",
+    "country": "China",
+    "latitude": 25.092538100250017,
+    "longitude": 104.90192049999999,
+    "other_names": {
+      "name": "黔西南州",
+      "name:en": "Qianxinan",
+      "name:vi": "Kiềm Tây Nam",
+      "name:zh": "黔西南州",
+      "short_name": "黔西南州",
+      "name:zh-Hant": "黔西南州",
+      "official_name": "黔西南布依族苗族自治州",
+      "name:zh_pinyin": "Qianxinan Bouyeizu Miaozu Zizhizhou",
+      "official_name:en": "Qianxinan Buyei and Miao Autonomous Prefecture",
+      "official_name:zh": "黔西南布依族苗族自治州"
+    }
+  },
+  {
+    "name": "Qianyang",
+    "country": "China",
+    "latitude": 34.644449299629855,
+    "longitude": 107.1248711,
+    "other_names": {
+      "name": "千阳县",
+      "name:en": "Qianyang",
+      "name:ja": "千陽県",
+      "name:zh": "千阳县",
+      "alt_name": "汧阳;千阳;城关镇;城关镇;Chengguan",
+      "old_name": "汧陽縣;汧阳县",
+      "name:zh-Hant": "汧陽縣"
+    }
+  },
+  {
+    "name": "Qiaodong",
+    "country": "China",
+    "latitude": 40.78678090036763,
+    "longitude": 114.88815239999997,
+    "other_names": {
+      "name": "桥东区",
+      "name:en": "Qiaodong",
+      "name:zh": "桥东区",
+      "alt_name": "桥东;Qiaodong District",
+      "name:zh-Hant": "橋東區"
+    }
+  },
+  {
+    "name": "Qiaojia",
+    "country": "China",
+    "latitude": 26.920699800066604,
+    "longitude": 102.92450699999999,
+    "other_names": {
+      "name": "巧家县",
+      "name:en": "Qiaojia",
+      "name:vi": "Xảo Gia",
+      "name:zh": "巧家县",
+      "alt_name": "巧家;Qiaojia County",
+      "name:zh-Hant": "巧家縣"
+    }
+  },
+  {
+    "name": "Qiaokou District",
+    "country": "China",
+    "latitude": 30.584808899690973,
+    "longitude": 114.20937179999999,
+    "other_names": {
+      "name": "硚口区",
+      "name:de": "Qiaokou",
+      "name:en": "Qiaokou District",
+      "name:es": "Qiaokou",
+      "name:eu": "Qiaokou Barrutia",
+      "name:fr": "District de Qiaokou",
+      "name:it": "Distretto di Qiaokou",
+      "name:ja": "キョウ口区",
+      "name:ko": "차오커우구",
+      "name:no": "Qiaokou",
+      "name:ru": "Цяокоу",
+      "name:sv": "Qiaokou",
+      "name:vi": "Kiều Khẩu",
+      "name:zh": "硚口区",
+      "name:ceb": "Qiaokou Qu",
+      "name:nan": "Kiâu-kháu-khu",
+      "name:yue": "礄口區",
+      "name:zh-Hant": "礄口區",
+      "name:zh_pinyin": "Qiáokǒu Qū"
+    }
+  },
+  {
+    "name": "Qiaoxi",
+    "country": "China",
+    "latitude": 40.81809660037132,
+    "longitude": 114.8636053,
+    "other_names": {
+      "name": "桥西区",
+      "name:en": "Qiaoxi",
+      "name:zh": "桥西区",
+      "alt_name": "桥西;Qiaoxi District",
+      "name:zh-Hant": "橋西區"
+    }
+  },
+  {
+    "name": "Qiaoxi",
+    "country": "China",
+    "latitude": 38.02415649998538,
+    "longitude": 114.46336919999999,
+    "other_names": {
+      "name": "桥西区",
+      "name:en": "Qiaoxi",
+      "name:zh": "桥西区",
+      "alt_name": "桥西;Qiaoxi District",
+      "name:zh-Hant": "橋西區"
+    }
+  },
+  {
+    "name": "Qichun County",
+    "country": "China",
+    "latitude": 30.22864759971982,
+    "longitude": 115.4309173,
+    "other_names": {
+      "name": "蕲春县",
+      "name:de": "Qichun",
+      "name:en": "Qichun County",
+      "name:fa": "شهرستان چیچون",
+      "name:fr": "Xian de Qichun",
+      "name:it": "Contea di Qichun",
+      "name:ja": "キ春県",
+      "name:ko": "치춘현",
+      "name:no": "Qichun",
+      "name:ru": "Цичунь",
+      "name:sv": "Qichun",
+      "name:vi": "Kỳ Xuân",
+      "name:zh": "蕲春县",
+      "alt_name": "蕲春;Qichun City",
+      "name:ceb": "Qichun Xian",
+      "name:nan": "Kî-chhun-koān",
+      "name:yue": "蘄春",
+      "name:zh-Hant": "蘄春縣",
+      "name:zh_pinyin": "Qichun Xian"
+    }
+  },
+  {
+    "name": "Qidong",
+    "country": "China",
+    "latitude": 31.81279329961617,
+    "longitude": 121.65613800000001,
+    "other_names": {
+      "name": "启东市",
+      "name:de": "Qidong",
+      "name:en": "Qidong",
+      "name:fr": "Qidong",
+      "name:ja": "啓東市",
+      "name:ru": "Цидун",
+      "name:vi": "Khải Đông",
+      "name:zh": "启东市",
+      "int_name": "Qidong",
+      "name:zh-Hant": "啟東市",
+      "name:zh_pinyin": "Qǐdōng Shì"
+    }
+  },
+  {
+    "name": "Qidong",
+    "country": "China",
+    "latitude": 26.80070690007974,
+    "longitude": 112.0847511,
+    "other_names": {
+      "name": "祁东县",
+      "name:de": "Qidong",
+      "name:en": "Qidong",
+      "name:fa": "شهرستان چیدونگ",
+      "name:fr": "Xian de Qidong",
+      "name:it": "Contea di Qidong",
+      "name:ja": "祁東県",
+      "name:ko": "치둥현",
+      "name:no": "Qidong",
+      "name:ru": "Цидун",
+      "name:sv": "Qidong",
+      "name:vi": "Kỳ Đông",
+      "name:zh": "祁东县",
+      "alt_name": "祁东;Qidong County",
+      "name:ceb": "Qidong Xian",
+      "name:hak": "Khî-tûng-yen",
+      "name:nan": "Kî-tang-koān",
+      "name:yue": "祁東",
+      "name:zh-Hant": "祁東縣"
+    }
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "name": "Batam City",
+    "country": "Indonesia",
+    "latitude": 1.1061033998830458,
+    "longitude": 104.0378246,
+    "other_names": {
+      "name": "Batam",
+      "name:en": "Batam City",
+      "name:ja": "バタム",
+      "name:ko": "바탐",
+      "name:nl": "Batam",
+      "name:zh": "巴淡"
+    }
+  },
+  {
+    "name": "Batang",
+    "country": "China",
+    "latitude": 30.010119699738844,
+    "longitude": 99.1123731,
+    "other_names": {
+      "name": "巴塘县",
+      "name:en": "Batang",
+      "name:zh": "巴塘县",
+      "alt_name": "巴塘;Batang;Bathang",
+      "name:zh-Hant": "巴塘縣",
+      "name:zh_pinyin": "Bātáng Xiàn"
+    }
+  },
+  {
+    "name": "Batangas City",
+    "country": "Philippines",
+    "latitude": 13.755871799762241,
+    "longitude": 121.05847549999999,
+    "other_names": {
+      "ref": "041005000",
+      "name": "Batangas City",
+      "name:en": "Batangas City",
+      "name:et": "Batangas",
+      "name:ja": "バタンガス",
+      "name:ru": "Батангас",
+      "name:uk": "Батангас",
+      "name:zh": "八打雁",
+      "alt_name": "City of Batangas"
+    }
+  },
+  {
+    "name": "Bataysk",
+    "country": "Russia",
+    "latitude": 47.138527000132434,
+    "longitude": 39.74234799999999,
+    "other_names": {
+      "name": "Батайск",
+      "name:ar": "باتايسك",
+      "name:az": "Bataysk",
+      "name:cs": "Batajsk",
+      "name:de": "Bataisk",
+      "name:en": "Bataysk",
+      "name:eo": "Batajsk",
+      "name:es": "Batáisk",
+      "name:et": "Bataisk",
+      "name:fa": "باتایسک",
+      "name:fr": "Bataïsk",
+      "name:hy": "Բատայսկ",
+      "name:it": "Batajsk",
+      "name:lt": "Bataiskas",
+      "name:lv": "Bataiska",
+      "name:pl": "Batajsk",
+      "name:ro": "Bataisk",
+      "name:ru": "Батайск",
+      "name:sr": "Батајск",
+      "name:uk": "Батайськ",
+      "name:vi": "Bataysk",
+      "name:zh": "巴泰斯克",
+      "name:hsb": "Batajsk",
+      "old_name": "село Батайское, слобода Батайская"
+    }
+  },
+  {
+    "name": "Bataysk",
+    "country": "Russia",
+    "latitude": 47.11834799457555,
+    "longitude": 39.75533102137705,
+    "other_names": {
+      "name": "Батайск",
+      "name:en": "Bataysk",
+      "name:ru": "Батайск"
+    }
+  },
+  {
+    "name": "Bath",
+    "country": "England",
+    "latitude": 51.38138639918891,
+    "longitude": -2.3596963,
+    "other_names": {
+      "name": "Bath",
+      "name:cy": "Caerfaddon",
+      "name:hu": "Bath",
+      "name:ko": "바스",
+      "name:lt": "Batas",
+      "name:mk": "Бат",
+      "name:ru": "Бат",
+      "name:sr": "Бат",
+      "name:uk": "Бат",
+      "name:zh": "巴斯",
+      "name:roman": "Aquae Sulis"
+    }
+  },
+  {
+    "name": "Bath",
+    "country": "England",
+    "latitude": 51.38024679787586,
+    "longitude": -2.366740577150653,
+    "other_names": {
+      "name": "Bath",
+      "name:zh": "巴斯"
+    }
+  },
+  {
+    "name": "Bathinda",
+    "country": "India",
+    "latitude": 30.20810759972157,
+    "longitude": 74.94853709999998,
+    "other_names": {
+      "name": "Bathinda",
+      "name:ar": "بتندا",
+      "name:de": "Bathinda",
+      "name:en": "Bathinda",
+      "name:es": "Bathinda",
+      "name:fa": "باتیندا",
+      "name:fr": "Bathinda",
+      "name:hi": "बठिण्डा",
+      "name:ja": "バシンダ",
+      "name:kn": "ಬಟಿಂಡ",
+      "name:pa": "ਬਠਿੰਡਾ",
+      "name:ur": "بھٹنڈہ",
+      "alt_name:ar": "باثيندا",
+      "alt_name:hi": "बठिंडा"
+    }
+  },
+  {
+    "name": "Bathurst",
+    "country": "Canada",
+    "latitude": 47.62652900002498,
+    "longitude": -65.654297,
+    "other_names": {
+      "name": "Bathurst",
+      "name:en": "Bathurst",
+      "name:ru": "Батерст",
+      "name:uk": "Батерст"
+    }
+  },
+  {
+    "name": "Bathurst",
+    "country": "Australia",
+    "latitude": -33.416637799590674,
+    "longitude": 149.5804943,
+    "other_names": {
+      "name": "Bathurst",
+      "name:ja": "バサースト"
+    }
+  },
+  {
+    "name": "Batkhela",
+    "country": "Pakistan",
+    "latitude": 34.61254756413542,
+    "longitude": 71.96459309828325,
+    "other_names": {
+      "name": "Batkhela",
+      "name:ps": "بټ خيله",
+      "name:ur": "بٹ خیلہ"
+    }
+  },
+  {
+    "name": "Batman",
+    "country": "Turkey",
+    "latitude": 37.883585899965674,
+    "longitude": 41.127748,
+    "other_names": {
+      "name": "Batman",
+      "name:ar": "بطمان",
+      "name:el": "Μπατμάν",
+      "name:hi": "बैटमैन",
+      "name:hy": "Բաթման",
+      "name:ka": "ბათმანი",
+      "name:ku": "Êlih",
+      "name:ru": "Батман",
+      "name:ckb": "ئێلح"
+    }
+  },
+  {
+    "name": "Batna",
+    "country": "Algeria",
+    "latitude": 35.554185499694206,
+    "longitude": 6.1767261,
+    "other_names": {
+      "name": "Batna ⵜⴱⴰⵜⴻⵏⵜ باتنة",
+      "name:ar": "باتنة",
+      "name:el": "Μπάτνα",
+      "name:en": "Batna",
+      "name:eo": "Batna",
+      "name:es": "Batna",
+      "name:fa": "باتنه",
+      "name:fr": "Batna",
+      "name:ja": "バトナ",
+      "name:ko": "바트나",
+      "name:lt": "Batna",
+      "name:ru": "Батна",
+      "name:uk": "Батна",
+      "name:ur": "باتنہ",
+      "name:zh": "巴特纳",
+      "name:azb": "باتنه",
+      "name:ber": "ⵜⴱⴰⵜⴻⵏⵜ",
+      "name:kab": "Batna",
+      "name:pnb": "باتنہ"
+    }
+  },
+  {
+    "name": "Baton Rouge",
+    "country": "United States Of America",
+    "latitude": 30.445959599701876,
+    "longitude": -91.18738,
+    "other_names": {
+      "name": "Baton Rouge",
+      "name:en": "Baton Rouge",
+      "name:pl": "Baton Rouge",
+      "name:ru": "Батон-Руж",
+      "name:ta": "பாடன் ரூஜ்",
+      "name:uk": "Батон-Руж",
+      "name:zh-Hans": "巴吞鲁日",
+      "name:zh-Hant": "巴吞魯日",
+      "name:pronunciation": "ˌbætən ˈruːʒ",
+      "name:en:pronunciation": "ˌbætən ˈruːʒ"
+    }
+  },
+  {
+    "name": "Batouri",
+    "country": "Cameroon",
+    "latitude": 4.435810399550239,
+    "longitude": 14.3645181,
+    "other_names": {
+      "name": "Batouri"
+    }
+  },
+  {
+    "name": "Battambang",
+    "country": "Cambodia",
+    "latitude": 13.09985259968985,
+    "longitude": 103.1966659,
+    "other_names": {
+      "name": "ក្រុងបាត់ដំបង",
+      "name:bg": "Батамбанг",
+      "name:bn": "ব্যাটামবং",
+      "name:el": "Μπατταμπάνγκ",
+      "name:en": "Battambang",
+      "name:es": "Ciudad de Battambang",
+      "name:et": "Bătdâmbâng",
+      "name:fi": "Băt Dâmbâng",
+      "name:fr": "Battambang",
+      "name:ja": "バタンバン",
+      "name:km": "ក្រុងបាត់ដំបង",
+      "name:ko": "바탐방",
+      "name:lt": "Batambangas",
+      "name:ru": "Баттамбанг",
+      "name:sr": "Батамбанг",
+      "name:vi": "Bát-tam-bang",
+      "name:zh": "馬德望",
+      "int_name": "Battambang",
+      "alt_name:vi": "Bát-đom-boong"
+    }
+  },
+  {
+    "name": "Batticaloa",
+    "country": "Sri Lanka",
+    "latitude": 7.73560269939186,
+    "longitude": 81.6941956,
+    "other_names": {
+      "name": "Batticaloa",
+      "name:hi": "बट्टिकलोआ",
+      "name:ja": "バッティカロア",
+      "name:kn": "ಬಟ್ಟಿಕಲೊ",
+      "name:ml": "ബത്തികോള",
+      "name:ru": "Баттикалоа",
+      "name:ta": "மட்டக்களப்பு"
+    }
+  },
+  {
+    "name": "Battle Creek",
+    "country": "United States Of America",
+    "latitude": 42.319254800507636,
+    "longitude": -85.1824269,
+    "other_names": {
+      "name": "Battle Creek",
+      "name:ru": "Батл-Крик"
+    }
+  },
+  {
+    "name": "Batu",
+    "country": "Indonesia",
+    "latitude": -7.871166699753106,
+    "longitude": 112.52694819999999,
+    "other_names": {
+      "name": "Batu"
+    }
+  },
+  {
+    "name": "Batumi",
+    "country": "Georgia",
+    "latitude": 41.61817781931239,
+    "longitude": 41.63171508133427,
+    "other_names": {
+      "name": "ბათუმი",
+      "name:ab": "Баҭым",
+      "name:ar": "باطومي",
+      "name:az": "Batumi",
+      "name:bg": "Батуми",
+      "name:ca": "Batumi",
+      "name:de": "Batumi",
+      "name:en": "Batumi",
+      "name:es": "Batumi",
+      "name:fa": "باتومی",
+      "name:fr": "Batoumi",
+      "name:he": "בתומי",
+      "name:hr": "Batumi",
+      "name:hu": "Batumi",
+      "name:hy": "Բաթում",
+      "name:ja": "バトゥミ",
+      "name:ka": "ბათუმი",
+      "name:ku": "Batûmî",
+      "name:lt": "Batumis",
+      "name:nl": "Batoemi",
+      "name:os": "Батуми",
+      "name:pl": "Batumi",
+      "name:ru": "Батуми",
+      "name:sr": "Батуми",
+      "name:tr": "Batum",
+      "name:uk": "Батумі",
+      "name:zh": "巴統",
+      "int_name": "Batumi",
+      "name:xmf": "ბათუმი"
+    }
+  }
+]

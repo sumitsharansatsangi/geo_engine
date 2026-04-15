@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Xingbin",
+    "country": "China",
+    "latitude": 23.729648000349183,
+    "longitude": 109.2307732,
+    "other_names": {
+      "name": "兴宾区",
+      "name:en": "Xingbin",
+      "name:zh": "兴宾区",
+      "alt_name": "兴宾;Xingbin District",
+      "name:zh-Hant": "興賓區"
+    }
+  },
+  {
+    "name": "Xingcheng",
+    "country": "China",
+    "latitude": 40.62033630034762,
+    "longitude": 120.7112158,
+    "other_names": {
+      "name": "兴城市",
+      "name:de": "Xingcheng",
+      "name:en": "Xingcheng",
+      "name:fr": "Xingcheng",
+      "name:ja": "興城市",
+      "name:ko": "싱청시",
+      "name:ru": "Синчэн",
+      "name:uk": "Сінчен",
+      "name:vi": "Hưng Thành",
+      "name:zh": "兴城市",
+      "old_name": "宁远",
+      "old_name:en": "Ningyuan",
+      "name:zh-Hant": "興城市",
+      "name:zh_pinyin": "Xīngchéng Shì"
+    }
+  },
+  {
+    "name": "Xingguo",
+    "country": "China",
+    "latitude": 26.341221200129013,
+    "longitude": 115.3579845,
+    "other_names": {
+      "name": "兴国县",
+      "name:de": "Xingguo",
+      "name:en": "Xingguo",
+      "name:fa": "شهرستان شینگوو",
+      "name:fr": "Xian de Xingguo",
+      "name:it": "Contea di Xingguo",
+      "name:ja": "興国県",
+      "name:ko": "싱궈현",
+      "name:no": "Xingguo",
+      "name:ru": "Синго",
+      "name:sv": "Xingguo",
+      "name:vi": "Hưng Quốc",
+      "name:zh": "兴国县",
+      "alt_name": "兴国;Xingguo County",
+      "name:ceb": "Xingguo Xian",
+      "name:gan": "興國",
+      "name:nan": "Heng-kok-koān",
+      "name:yue": "興國",
+      "name:zh-Hant": "興國縣",
+      "name:zh_pinyin": "xīngguó xiàn"
+    }
+  },
+  {
+    "name": "Xinghai",
+    "country": "China",
+    "latitude": 35.58676769969702,
+    "longitude": 99.9883962,
+    "other_names": {
+      "name": "兴海县",
+      "name:bo": "རྩི་གོར་ཐང་",
+      "name:en": "Xinghai",
+      "name:ru": "Цзыкэтань",
+      "name:zh": "兴海",
+      "alt_name": "兴海县;子科滩;Ziketan",
+      "alt_name:en": "Xinghai;Hsing-hai;Tzu-k'o-t'an;Zeketan Zhen;Xinghai Xian",
+      "name:zh-Hant": "興海縣",
+      "official_name": "子科滩镇"
+    }
+  },
+  {
+    "name": "Xinghe",
+    "country": "China",
+    "latitude": 40.871277900377514,
+    "longitude": 113.8331357,
+    "other_names": {
+      "name": "兴和县",
+      "name:en": "Xinghe",
+      "name:zh": "兴和县",
+      "name:zh-Hant": "興和縣"
+    }
+  },
+  {
+    "name": "Xinghua",
+    "country": "China",
+    "latitude": 32.9139150995881,
+    "longitude": 119.8476035,
+    "other_names": {
+      "name": "兴化市",
+      "name:de": "Xinghua",
+      "name:en": "Xinghua",
+      "name:fr": "Xinghua",
+      "name:ja": "興化市",
+      "name:ru": "Синхуа",
+      "name:vi": "Hưng Hóa",
+      "name:zh": "兴化市",
+      "int_name": "Xinghua",
+      "alt_name:vi": "Hưng Hoá",
+      "name:zh-Hant": "興化市",
+      "name:zh_pinyin": "Xīnghuà Shì"
+    }
+  },
+  {
+    "name": "Xinghualing",
+    "country": "China",
+    "latitude": 37.893008599967,
+    "longitude": 112.5693509,
+    "other_names": {
+      "name": "杏花岭区",
+      "name:en": "Xinghualing",
+      "name:zh": "杏花岭区",
+      "alt_name": "杏花岭;Xinghualing District",
+      "name:zh-Hant": "杏花嶺區"
+    }
+  },
+  {
+    "name": "Xinglong",
+    "country": "China",
+    "latitude": 40.41678640032217,
+    "longitude": 117.48900850000001,
+    "other_names": {
+      "name": "兴隆县",
+      "name:en": "Xinglong",
+      "name:vi": "Hưng Long",
+      "name:zh": "兴隆县",
+      "alt_name": "兴隆",
+      "name:zh-Hant": "興隆縣",
+      "official_name": "兴隆镇"
+    }
+  },
+  {
+    "name": "Xinglongtai",
+    "country": "China",
+    "latitude": 41.13884800040738,
+    "longitude": 122.1006768,
+    "other_names": {
+      "name": "兴隆台区",
+      "name:en": "Xinglongtai",
+      "name:ja": "興隆台区",
+      "name:ko": "싱룽타이구",
+      "name:vi": "Hưng Long Đài",
+      "name:zh": "兴隆台区",
+      "alt_name": "兴隆台;Xinglongtai District",
+      "name:zh-Hant": "興隆臺區",
+      "name:zh_pinyin": "Xinglongtai Qu"
+    }
+  },
+  {
+    "name": "Xingning",
+    "country": "China",
+    "latitude": 24.139519700323735,
+    "longitude": 115.7258,
+    "other_names": {
+      "name": "兴宁市",
+      "name:ar": "شينغنينغ",
+      "name:de": "Xingning",
+      "name:en": "Xingning",
+      "name:fa": "شینگنینگ",
+      "name:fr": "Xingning",
+      "name:id": "Xingning",
+      "name:it": "Xingning",
+      "name:ja": "興寧市",
+      "name:ki": "Xingning",
+      "name:ko": "싱닝시",
+      "name:nl": "Xingning",
+      "name:no": "Xingning",
+      "name:ru": "Синнин",
+      "name:sv": "Xingning",
+      "name:tl": "Xingning",
+      "name:ur": "شنگنینگ، گوانگڈونگ",
+      "name:vi": "Hưng Ninh, Mai Châu",
+      "name:zh": "兴宁市",
+      "alt_name": "兴宁;Xingning City",
+      "int_name": "Xingning",
+      "name:hak": "Hîn-nèn-sṳ",
+      "name:mwl": "Xingning",
+      "name:nan": "Heng-lêng-chhī",
+      "name:pam": "Xingning",
+      "name:pnb": "سنگنینگ",
+      "name:yue": "興寧市",
+      "name:zh-Hant": "興寧市",
+      "name:zh_pinyin": "Xīngníng Shì"
+    }
+  },
+  {
+    "name": "Xingning",
+    "country": "China",
+    "latitude": 22.856354900389217,
+    "longitude": 108.3638828,
+    "other_names": {
+      "name": "兴宁区",
+      "name:de": "Xingning",
+      "name:en": "Xingning",
+      "name:eu": "Xingning Barrutia",
+      "name:fr": "District de Xingning",
+      "name:it": "Distretto di Xingning",
+      "name:ja": "興寧区",
+      "name:ko": "싱닝구",
+      "name:no": "Xingning",
+      "name:ru": "Синнин",
+      "name:sv": "Xingning",
+      "name:vi": "Hưng Ninh",
+      "name:zh": "兴宁区",
+      "alt_name": "兴宁;Xingning District",
+      "name:ceb": "Xingning Qu",
+      "name:hak": "Hîn-nèn-khî",
+      "name:mwl": "Xingning",
+      "name:nan": "Heng-lêng-khu",
+      "name:yue": "兴宁区",
+      "name:zh-Hant": "興寧區",
+      "name:yue-Latn": "Hingning-kyu",
+      "name:zh_pinyin": "xīngníng qū"
+    }
+  },
+  {
+    "name": "Xingping",
+    "country": "China",
+    "latitude": 34.299373599612935,
+    "longitude": 108.48305559999999,
+    "other_names": {
+      "name": "兴平市",
+      "name:de": "Xingping",
+      "name:en": "Xingping",
+      "name:fr": "Xingping",
+      "name:ja": "興平市",
+      "name:vi": "Hưng Bình",
+      "name:zh": "兴平市",
+      "alt_name": "兴平",
+      "name:zh-Hant": "興平市",
+      "name:zh_pinyin": "Xīngpíng Shì"
+    }
+  },
+  {
+    "name": "Xingqing",
+    "country": "China",
+    "latitude": 38.47330290004957,
+    "longitude": 106.28417169999999,
+    "other_names": {
+      "name": "兴庆区",
+      "name:en": "Xingqing",
+      "name:sd": "سٍشٍ ﺛُﻮْ",
+      "name:vi": "Hưng Khánh",
+      "name:zh": "兴庆区",
+      "alt_name": "兴庆;Xingqing Qu;Xingqing District",
+      "name:zh-Hant": "興慶區",
+      "name:zh_pinyin": "Xingqing Qu"
+    }
+  },
+  {
+    "name": "Xingren",
+    "country": "China",
+    "latitude": 25.43514080021918,
+    "longitude": 105.18395269999999,
+    "other_names": {
+      "name": "兴仁市",
+      "name:en": "Xingren",
+      "name:ru": "Синжень",
+      "name:vi": "Hưng Nhân",
+      "name:zh": "兴仁市",
+      "name:zh-Hant": "興仁市",
+      "name:zh_pinyin": "Xingren Shi"
+    }
+  },
+  {
+    "name": "Xingshan County",
+    "country": "China",
+    "latitude": 31.350077799639458,
+    "longitude": 110.7425077,
+    "other_names": {
+      "name": "兴山县",
+      "name:de": "Xingshan",
+      "name:en": "Xingshan County",
+      "name:es": "Xingshan",
+      "name:fa": "شهرستان شینگشان",
+      "name:fr": "Xian de Xingshan",
+      "name:it": "Contea di Xingshan",
+      "name:ja": "興山県",
+      "name:ko": "싱산현",
+      "name:no": "Xingshan",
+      "name:sv": "Xingshan",
+      "name:vi": "Hưng Sơn",
+      "name:zh": "兴山县",
+      "name:ceb": "Xingshan Xian",
+      "name:nan": "Heng-san-koān",
+      "name:yue": "興山",
+      "name:zh-Hant": "興山縣",
+      "name:zh_pinyin": "Xīngshān Xiàn"
+    }
+  },
+  {
+    "name": "Xingtai",
+    "country": "China",
+    "latitude": 37.061651899856045,
+    "longitude": 114.499746,
+    "other_names": {
+      "name": "邢台市",
+      "name:de": "Xingtai",
+      "name:en": "Xingtai",
+      "name:et": "Xingtai",
+      "name:fr": "Xingtai",
+      "name:ja": "ケイ台市",
+      "name:ru": "Синтай",
+      "name:vi": "Hình Đài",
+      "name:zh": "邢台市",
+      "name:zh-Hant": "邢臺市",
+      "name:zh_pinyin": "Xíngtái Shì"
+    }
+  },
+  {
+    "name": "Xingtang",
+    "country": "China",
+    "latitude": 38.43910850004463,
+    "longitude": 114.54762229999999,
+    "other_names": {
+      "name": "行唐县",
+      "name:en": "Xingtang",
+      "name:ja": "行唐県",
+      "name:vi": "Hành Đường",
+      "name:zh": "行唐县",
+      "alt_name": "行唐;Xingtang County",
+      "int_name": "Xingtang",
+      "name:zh-Hant": "行唐縣",
+      "name:zh_pinyin": "Xíngtáng Xiàn"
+    }
+  },
+  {
+    "name": "Xingwen",
+    "country": "China",
+    "latitude": 28.30715309991213,
+    "longitude": 105.23306969999999,
+    "other_names": {
+      "name": "兴文县",
+      "name:en": "Xingwen",
+      "name:ja": "興文県",
+      "name:zh": "兴文县",
+      "alt_name": "兴文;Xingwen",
+      "name:zh-Hant": "興文縣",
+      "name:zh_pinyin": "Xīngwén Xiàn"
+    }
+  },
+  {
+    "name": "Xingxian",
+    "country": "China",
+    "latitude": 38.463400600048146,
+    "longitude": 111.1186276,
+    "other_names": {
+      "name": "兴县",
+      "name:en": "Xingxian",
+      "name:ja": "興県",
+      "name:ru": "Синсянь",
+      "name:zh": "兴县",
+      "alt_name": "蔚汾镇;蔚汾;兴;Xingxian;Sinsyan';Hsing-hsien;Hsing;Hinghsien;Weifen Zhen;Xing Xian;Weifen",
+      "name:zh-Hant": "興縣"
+    }
+  },
+  {
+    "name": "Xingyang",
+    "country": "China",
+    "latitude": 34.7891273996382,
+    "longitude": 113.3724566,
+    "other_names": {
+      "name": "荥阳市",
+      "name:de": "Xingyang",
+      "name:en": "Xingyang",
+      "name:es": "Xingyang",
+      "name:eu": "Xingyang",
+      "name:fr": "Xingyang",
+      "name:it": "Xingyang",
+      "name:ja": "ケイ陽市",
+      "name:ki": "Xingyang",
+      "name:ko": "싱양시",
+      "name:no": "Xingyang",
+      "name:ru": "Синъян",
+      "name:sv": "Xingyang",
+      "name:ur": "شنگیانگ",
+      "name:vi": "Huỳnh Dương",
+      "name:zh": "荥阳市",
+      "alt_name": "荥阳;Xingyang City",
+      "name:nan": "Êng-iông-chhī",
+      "name:pam": "Xingyang",
+      "name:yue": "滎陽",
+      "name:zh-Hant": "滎陽市",
+      "name:zh_pinyin": "Xíngyáng Shì"
+    }
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Nagaon",
+    "country": "India",
+    "latitude": 26.348223800128277,
+    "longitude": 92.6858215,
+    "other_names": {
+      "name": "Nagaon",
+      "name:as": "নগাঁও",
+      "name:hi": "नगाँव",
+      "name:kn": "ನಗಾಂವ",
+      "name:zh-CN": "瑙贡",
+      "name:zh_pinyin": "nao gong"
+    }
+  },
+  {
+    "name": "Nagareyama",
+    "country": "Japan",
+    "latitude": 35.85623139972155,
+    "longitude": 139.9026259,
+    "other_names": {
+      "name": "流山市",
+      "name:ar": "ناغاره ياما، تشيبا",
+      "name:de": "Nagareyama",
+      "name:en": "Nagareyama",
+      "name:es": "Nagareyama",
+      "name:fr": "Nagareyama",
+      "name:ja": "流山市",
+      "name:ko": "나가레야마시",
+      "name:pl": "Nagareyama",
+      "name:ru": "Нагареяма",
+      "name:uk": "Наґареяма",
+      "name:ja_rm": "Nagareyama-shi",
+      "name:ja_kana": "ながれやまし"
+    }
+  },
+  {
+    "name": "Nagarzê",
+    "country": "China",
+    "latitude": 28.966697299840924,
+    "longitude": 90.39636589999999,
+    "other_names": {
+      "name": "浪卡子县",
+      "name:bo": "སྣ་དཀར་རྩེ་རྫོང་",
+      "name:en": "Nagarzê",
+      "name:zh": "浪卡子县",
+      "alt_name": "浪卡子;Nagarzê County;Nakartsé;Langkazi",
+      "name:zh-Hant": "浪卡子縣",
+      "name:zh_pinyin": "Làngkǎzǐ Xiàn"
+    }
+  },
+  {
+    "name": "Nagasaki",
+    "country": "Japan",
+    "latitude": 32.7501610995897,
+    "longitude": 129.8781002,
+    "other_names": {
+      "name": "長崎市",
+      "name:ar": "ناغاساكي، ناغاساكي",
+      "name:ca": "Nagasaki",
+      "name:cs": "Nagasaki",
+      "name:da": "Nagasaki",
+      "name:de": "Nagasaki",
+      "name:en": "Nagasaki",
+      "name:es": "Nagasaki",
+      "name:et": "Nagasaki",
+      "name:fr": "Nagasaki",
+      "name:he": "נגסאקי",
+      "name:hu": "Nagaszaki",
+      "name:ja": "長崎市",
+      "name:ko": "나가사키시",
+      "name:lt": "Nagasakis",
+      "name:nl": "Nagasaki",
+      "name:pl": "Nagasaki",
+      "name:ru": "Нагасаки",
+      "name:sv": "Nagasaki",
+      "name:uk": "Нагасакі",
+      "name:zh": "长崎市",
+      "int_name": "Nagasaki",
+      "name:ja_rm": "Nagasaki-shi",
+      "name:ja_kana": "ながさきし",
+      "name:zh-Hans": "长崎市",
+      "name:zh-Hant": "長崎市"
+    }
+  },
+  {
+    "name": "Nagato",
+    "country": "Japan",
+    "latitude": 34.37089409961609,
+    "longitude": 131.18215869999997,
+    "other_names": {
+      "name": "長門市",
+      "name:ar": "ناغوتو، ياماغوتشي",
+      "name:de": "Nagato",
+      "name:en": "Nagato",
+      "name:es": "Nagato",
+      "name:fr": "Nagato",
+      "name:ja": "長門市",
+      "name:ko": "나가토시",
+      "name:pl": "Nagato",
+      "name:ru": "Нагато",
+      "name:uk": "Наґато",
+      "name:zh": "长门市",
+      "int_name": "Nagato",
+      "name:ja_rm": "Nagato-Shi",
+      "name:ja_kana": "ながとし",
+      "name:zh-Hans": "长门市",
+      "name:zh-Hant": "長門市"
+    }
+  },
+  {
+    "name": "Nagaur",
+    "country": "India",
+    "latitude": 27.2000843000357,
+    "longitude": 73.7377453,
+    "other_names": {
+      "name": "Nagaur",
+      "name:ar": "ناغور",
+      "name:hi": "नागौर",
+      "name:ja": "ナーガウル",
+      "name:kn": "ನಾಗೌರ್",
+      "name:ur": "ناگور",
+      "alt_name:ar": "ناجور"
+    }
+  },
+  {
+    "name": "Nagda",
+    "country": "India",
+    "latitude": 23.45789570036378,
+    "longitude": 75.4191114,
+    "other_names": {
+      "name": "Nagda",
+      "name:hi": "नागदा"
+    }
+  },
+  {
+    "name": "Nagercoil",
+    "country": "India",
+    "latitude": 8.188047099390504,
+    "longitude": 77.4290492,
+    "other_names": {
+      "name": "Nagercoil",
+      "name:ar": "ناغركويل",
+      "name:en": "Nagercoil",
+      "name:he": "נגרכויל",
+      "name:hi": "नागरकोइल",
+      "name:ja": "ナーガルコーイル",
+      "name:kn": "ನಾಗರಕೋವಿಲ್",
+      "name:ml": "നാഗർകോവിൽ",
+      "name:pa": "ਨਾਗਰਕੋਇਲ",
+      "name:ru": "Нагеркойл",
+      "name:ta": "நாகர்கோவில்",
+      "name:ur": "ناگرکوئل",
+      "name:zh": "纳盖科伊尔",
+      "alt_name:hi": "नागरकोविल"
+    }
+  },
+  {
+    "name": "Nago",
+    "country": "Japan",
+    "latitude": 26.5914524001024,
+    "longitude": 127.97730620000002,
+    "other_names": {
+      "name": "名護市",
+      "name:ar": "ناغو، أوكيناوا",
+      "name:cs": "Nago",
+      "name:de": "Nago",
+      "name:en": "Nago",
+      "name:es": "Nago",
+      "name:fr": "Nago",
+      "name:ja": "名護市",
+      "name:ko": "나고시",
+      "name:lt": "Nago",
+      "name:pl": "Nago",
+      "name:ru": "Наго",
+      "name:uk": "Наґо",
+      "name:zh": "名护市",
+      "int_name": "Nago",
+      "name:ja_rm": "Nago-shi",
+      "name:ja_kana": "なごし",
+      "name:zh-Hans": "名护市",
+      "name:zh-Hant": "名護市"
+    }
+  },
+  {
+    "name": "Nagod",
+    "country": "India",
+    "latitude": 24.57232314826671,
+    "longitude": 80.58188426008265,
+    "other_names": {
+      "name": "Nagod",
+      "name:ta": "நகோட்"
+    }
+  },
+  {
+    "name": "Nagoya",
+    "country": "Japan",
+    "latitude": 35.18510449966474,
+    "longitude": 136.8998438,
+    "other_names": {
+      "name": "名古屋市",
+      "name:ca": "Nagoya",
+      "name:cs": "Nagoja",
+      "name:de": "Nagoya",
+      "name:en": "Nagoya",
+      "name:et": "Nagoya",
+      "name:fr": "Nagoya",
+      "name:ja": "名古屋市",
+      "name:kn": "ನಗೋಯ",
+      "name:ko": "나고야시",
+      "name:lt": "Nagoja",
+      "name:nl": "Nagoya",
+      "name:oc": "Nagoya",
+      "name:pl": "Nagoja",
+      "name:pt": "Nagoia",
+      "name:ru": "Нагоя",
+      "name:sl": "Nagoja",
+      "name:sr": "Нагоја",
+      "name:sv": "Nagoya",
+      "name:uk": "Наґоя",
+      "name:zh": "名古屋市",
+      "name:ja_rm": "Nagoya-shi",
+      "name:zh-CN": "名古屋市",
+      "name:zh-TW": "名古屋市",
+      "name:ja_kana": "なごやし",
+      "name:zh-Hans": "名古屋市",
+      "name:zh-Hant": "名古屋市"
+    }
+  },
+  {
+    "name": "Nagpur",
+    "country": "India",
+    "latitude": 21.149813400406753,
+    "longitude": 79.08205559999999,
+    "other_names": {
+      "name": "Nagpur",
+      "name:ar": "ناغبور",
+      "name:bn": "নাগপুর",
+      "name:en": "Nagpur",
+      "name:gu": "નાગપુર",
+      "name:he": "נגפור",
+      "name:hi": "नागपुर",
+      "name:ja": "ナーグプル",
+      "name:kn": "ನಾಗಪುರ",
+      "name:ko": "나그푸르",
+      "name:ml": "നാഗ്‌പൂർ",
+      "name:mr": "नागपूर",
+      "name:oc": "Nagpur",
+      "name:or": "ନାଗପୁର",
+      "name:pa": "ਨਾਗਪੁਰ",
+      "name:ru": "Нагпур",
+      "name:ta": "நாக்பூர்",
+      "name:te": "నాగపూర్",
+      "name:uk": "Наґпур",
+      "name:zh": "那格浦尔"
+    }
+  },
+  {
+    "name": "Nagqu",
+    "country": "China",
+    "latitude": 31.47862329963235,
+    "longitude": 92.04980639999998,
+    "other_names": {
+      "name": "那曲市",
+      "name:en": "Nagqu",
+      "name:et": "Nagqu",
+      "name:hi": "नगचु",
+      "name:zh": "那曲市",
+      "alt_name": "那曲;Nagqu City",
+      "old_name": "那曲地区",
+      "name:zh-Hant": "那曲市"
+    }
+  },
+  {
+    "name": "Nagua",
+    "country": "Haiti And Domrep",
+    "latitude": 19.37479400033903,
+    "longitude": -69.8530503,
+    "other_names": {
+      "name": "Nagua"
+    }
+  },
+  {
+    "name": "Naguanagua",
+    "country": "Venezuela",
+    "latitude": 10.253374599451185,
+    "longitude": -68.0131183,
+    "other_names": {
+      "name": "Naguanagua"
+    }
+  },
+  {
+    "name": "Naha",
+    "country": "Japan",
+    "latitude": 26.21223450014248,
+    "longitude": 127.67914519999997,
+    "other_names": {
+      "name": "那覇市",
+      "name:ar": "ناها، أوكيناوا",
+      "name:cs": "Naha",
+      "name:de": "Naha",
+      "name:en": "Naha",
+      "name:es": "Naha",
+      "name:et": "Naha",
+      "name:fr": "Naha",
+      "name:he": "נהה",
+      "name:hu": "Naha",
+      "name:ja": "那覇市",
+      "name:ko": "나하시",
+      "name:lt": "Naha",
+      "name:pl": "Naha",
+      "name:ru": "Наха",
+      "name:th": "นะฮะ",
+      "name:uk": "Наха",
+      "name:zh": "那霸市",
+      "int_name": "Naha",
+      "name:ja_rm": "Naha-shi",
+      "name:ja_kana": "なはし",
+      "name:zh-Hans": "那霸市",
+      "name:zh-Hant": "那霸市"
+    }
+  },
+  {
+    "name": "Nahariyya",
+    "country": "Israel And Palestine",
+    "latitude": 33.00630599958763,
+    "longitude": 35.0945579,
+    "other_names": {
+      "name": "נהריה",
+      "name:ar": "نهاريّا",
+      "name:de": "Nahariya",
+      "name:en": "Nahariyya",
+      "name:es": "Nahariya",
+      "name:fr": "Nahariya",
+      "name:he": "נהריה",
+      "name:hi": "नहरीया",
+      "name:ru": "Нагария",
+      "name:en1": "Nahariya",
+      "name:en2": "Naharija",
+      "name:en3": "Naariya"
+    }
+  },
+  {
+    "name": "Nahodka",
+    "country": "Russia",
+    "latitude": 42.8246489005314,
+    "longitude": 132.8926,
+    "other_names": {
+      "name": "Находка",
+      "name:de": "Nachodka",
+      "name:en": "Nahodka",
+      "name:et": "Nahhodka",
+      "name:ja": "ナホトカ",
+      "name:ko": "나홋카",
+      "name:lt": "Nachodka",
+      "name:pl": "Nachodka",
+      "name:ru": "Находка",
+      "name:uk": "Находка",
+      "name:zh": "納霍德卡",
+      "int_name": "Nakhodka"
+    }
+  },
+  {
+    "name": "Naiman Banner",
+    "country": "China",
+    "latitude": 42.8487380005322,
+    "longitude": 120.6462261,
+    "other_names": {
+      "name": "奈曼旗",
+      "name:en": "Naiman Banner",
+      "name:ja": "ナイマン旗",
+      "name:mn": "Наиман қосиу",
+      "name:zh": "奈曼旗",
+      "alt_name:mn": "ᠨᠠᠢᠮᠠᠨ ᠬᠣᠰᠢᠭᠤ;Naiman qosiɣu",
+      "name:zh-Hant": "奈曼旗",
+      "name:zh_pinyin": "Nàimàn Qí"
+    }
+  },
+  {
+    "name": "Nairobi",
+    "country": "Kenya",
+    "latitude": -1.2980631900249822,
+    "longitude": 36.85962929852112,
+    "other_names": {
+      "name": "Nairobi"
+    }
+  }
+]

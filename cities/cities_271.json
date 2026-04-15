@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Lisburn",
+    "country": "Ireland And Northern Ireland",
+    "latitude": 54.51129129928808,
+    "longitude": -6.0466736,
+    "other_names": {
+      "name": "Lisburn",
+      "name:ga": "Lios na gCearrbhach",
+      "name:ko": "리즈번구",
+      "name:lt": "Lisbernas",
+      "name:mk": "Лизберн",
+      "name:ru": "Лисберн",
+      "name:uk": "Лісберн"
+    }
+  },
+  {
+    "name": "Lishan",
+    "country": "China",
+    "latitude": 41.14527060040805,
+    "longitude": 123.0206182,
+    "other_names": {
+      "name": "立山区",
+      "name:en": "Lishan",
+      "name:ja": "立山区",
+      "name:ko": "리산구",
+      "name:vi": "Lập Sơn",
+      "name:zh": "立山区",
+      "alt_name": "立山;Lishan District",
+      "name:zh-Hant": "立山區",
+      "name:zh_pinyin": "Lishan Qu"
+    }
+  },
+  {
+    "name": "Lishi",
+    "country": "China",
+    "latitude": 37.52022799991585,
+    "longitude": 111.1319777,
+    "other_names": {
+      "name": "离石区",
+      "name:en": "Lishi",
+      "name:vi": "Ly Thạch",
+      "name:zh": "离石区",
+      "alt_name": "离石;Li-shih Hsien;Lishi Xian;Lishi Qu",
+      "alt_name:vi": "Li Thạch",
+      "name:zh-Hant": "離石區",
+      "name:zh_pinyin": "Lishi Qu"
+    }
+  },
+  {
+    "name": "Lishu",
+    "country": "China",
+    "latitude": 43.3054887005415,
+    "longitude": 124.32493509999999,
+    "other_names": {
+      "name": "梨树县",
+      "name:en": "Lishu",
+      "name:ja": "梨樹県",
+      "name:zh": "梨树县",
+      "alt_name": "梨树;Lishu County",
+      "name:zh-Hant": "梨樹縣",
+      "official_name": "梨树镇",
+      "name:zh_pinyin": "Líshù xiàn"
+    }
+  },
+  {
+    "name": "Lishu",
+    "country": "China",
+    "latitude": 45.09000790045941,
+    "longitude": 130.6898801,
+    "other_names": {
+      "name": "梨树区",
+      "name:en": "Lishu",
+      "name:ru": "Лишу",
+      "name:vi": "Lê Thụ",
+      "name:zh": "梨树区",
+      "alt_name": "梨树;Lishu District",
+      "name:zh-Hant": "梨樹區",
+      "name:zh_pinyin": "Líshù qū"
+    }
+  },
+  {
+    "name": "Lishui",
+    "country": "China",
+    "latitude": 28.47040639989421,
+    "longitude": 119.9184297,
+    "other_names": {
+      "name": "丽水市",
+      "name:af": "Lishui",
+      "name:ar": "ليشوي",
+      "name:ca": "Lishui",
+      "name:cs": "Li-šuej",
+      "name:da": "Lishui",
+      "name:de": "Lishui",
+      "name:en": "Lishui",
+      "name:es": "Lishui",
+      "name:et": "Lishui Shi",
+      "name:eu": "Lishui",
+      "name:fa": "لیشای",
+      "name:fi": "Lishui",
+      "name:fr": "Lishui",
+      "name:it": "Lishui",
+      "name:ja": "麗水市",
+      "name:ki": "Lishui",
+      "name:kk": "Лишуй",
+      "name:ko": "리수이시",
+      "name:mg": "Lishui",
+      "name:nl": "Lishui",
+      "name:nn": "Lishui i Zhejiang",
+      "name:no": "Lishui",
+      "name:pl": "Lishui",
+      "name:pt": "Lishui",
+      "name:ru": "Лишуй",
+      "name:sv": "Lishui",
+      "name:tl": "Lishui",
+      "name:tr": "Lishui",
+      "name:ur": "لیشوئی",
+      "name:vi": "Lệ Thủy",
+      "name:zh": "丽水市",
+      "name:cdo": "Lâ̤-cūi",
+      "name:ceb": "Lishui",
+      "name:nan": "Lē-chúi-chhī",
+      "name:war": "Lishui, Zhejiang",
+      "name:wuu": "麗水市",
+      "name:yue": "麗水市",
+      "alt_name:vi": "Lệ Thuỷ",
+      "name:zh-Hant": "麗水市",
+      "name:zh_pinyin": "Líshuǐ shì"
+    }
+  },
+  {
+    "name": "Lishui",
+    "country": "China",
+    "latitude": 31.6506881996236,
+    "longitude": 119.02623989999996,
+    "other_names": {
+      "name": "溧水区",
+      "name:de": "Lishui",
+      "name:en": "Lishui",
+      "name:eu": "Lishui",
+      "name:fr": "Lishui",
+      "name:id": "Lishui",
+      "name:it": "Lishui",
+      "name:ja": "リツ水区",
+      "name:ko": "리수이구",
+      "name:no": "Lishui",
+      "name:ru": "Лишуй",
+      "name:sv": "Lishui",
+      "name:ur": "لیشوئی ضلع",
+      "name:vi": "Lật Thủy",
+      "name:zh": "溧水区",
+      "name:ceb": "Lishui",
+      "name:nan": "Le̍k-súi-khu",
+      "name:wuu": "溧水",
+      "name:yue": "溧水區",
+      "alt_name:vi": "Lật Thuỷ",
+      "name:zh-Hant": "溧水區"
+    }
+  },
+  {
+    "name": "Lismore",
+    "country": "Australia",
+    "latitude": -28.8077607993554,
+    "longitude": 153.2791883,
+    "other_names": {
+      "name": "Lismore",
+      "name:en": "Lismore",
+      "name:ja": "リズモー",
+      "name:ru": "Лисмор",
+      "name:uk": "Лісмор"
+    }
+  },
+  {
+    "name": "Litang",
+    "country": "China",
+    "latitude": 29.993005099740365,
+    "longitude": 100.27175819999998,
+    "other_names": {
+      "name": "理塘县",
+      "name:en": "Litang",
+      "name:zh": "理塘县",
+      "alt_name": "理塘;Litang County",
+      "name:zh-Hant": "理塘縣"
+    }
+  },
+  {
+    "name": "Litong",
+    "country": "China",
+    "latitude": 37.984085399979755,
+    "longitude": 106.2081075,
+    "other_names": {
+      "name": "利通区",
+      "name:en": "Litong",
+      "name:sd": "لِتْﻮ ﺛُﻮْ",
+      "name:vi": "Lợi Thông",
+      "name:zh": "利通区",
+      "alt_name": "利通;Wu-chung Hsien;Wuzhong;Litong District",
+      "name:zh-Hant": "利通區",
+      "name:zh_pinyin": "Lìtōng Qū"
+    }
+  },
+  {
+    "name": "Little Rock",
+    "country": "United States Of America",
+    "latitude": 34.74648089963566,
+    "longitude": -92.2895948,
+    "other_names": {
+      "name": "Little Rock",
+      "name:en": "Little Rock",
+      "name:lt": "Litl Rokas",
+      "name:pl": "Little Rock",
+      "name:ru": "Литл-Рок",
+      "name:ta": "லிட்டில் ராக்",
+      "name:uk": "Літл-Рок"
+    }
+  },
+  {
+    "name": "Liuba",
+    "country": "China",
+    "latitude": 33.61545849959205,
+    "longitude": 106.9214137,
+    "other_names": {
+      "name": "留坝县",
+      "name:en": "Liuba",
+      "name:ja": "留ハ県",
+      "name:ru": "Люба",
+      "name:vi": "Lưu Bá",
+      "name:zh": "留坝县",
+      "alt_name": "紫柏街道;紫柏;Zibai",
+      "old_name": "城关镇;城关;Chengguan",
+      "name:zh-Hant": "留壩縣"
+    }
+  },
+  {
+    "name": "Liubei",
+    "country": "China",
+    "latitude": 24.36515860030804,
+    "longitude": 109.39747069999999,
+    "other_names": {
+      "name": "柳北区",
+      "name:en": "Liubei",
+      "name:zh": "柳北区",
+      "alt_name": "Liubei District;柳北",
+      "name:zh-Hant": "柳北區"
+    }
+  },
+  {
+    "name": "Liucheng",
+    "country": "China",
+    "latitude": 24.653041200286378,
+    "longitude": 109.2403085,
+    "other_names": {
+      "name": "柳城县",
+      "name:en": "Liucheng",
+      "name:vi": "Liễu Thành",
+      "name:zh": "柳城县",
+      "alt_name": "柳城;Liucheng County",
+      "name:zh-Hant": "柳城縣",
+      "name:zh_pinyin": "liǔchéng xiàn"
+    }
+  },
+  {
+    "name": "Liuhe",
+    "country": "China",
+    "latitude": 42.27794390050513,
+    "longitude": 125.7349239,
+    "other_names": {
+      "name": "柳河县",
+      "name:en": "Liuhe",
+      "name:ja": "柳河県",
+      "name:ko": "류허현",
+      "name:ru": "Люхэ",
+      "name:uk": "Люхе",
+      "name:vi": "Liễu Hà",
+      "name:zh": "柳河县",
+      "alt_name": "柳河;Liuhe County",
+      "name:zh-Hant": "柳河縣",
+      "official_name": "柳河镇",
+      "name:zh_pinyin": "Liuhe Xian"
+    }
+  },
+  {
+    "name": "Liujiang",
+    "country": "China",
+    "latitude": 24.25768570031566,
+    "longitude": 109.32198989999999,
+    "other_names": {
+      "name": "柳江区",
+      "name:en": "Liujiang",
+      "name:vi": "Liễu Giang",
+      "name:zh": "柳江区",
+      "alt_name": "柳江;拉堡镇;Liujiang District",
+      "old_name": "柳江县",
+      "name:zh-Hant": "柳江區",
+      "name:zh_pinyin": "liǔjiāng qū"
+    }
+  },
+  {
+    "name": "Liulin",
+    "country": "China",
+    "latitude": 37.434571699904396,
+    "longitude": 110.89633089999998,
+    "other_names": {
+      "name": "柳林县",
+      "name:en": "Liulin",
+      "name:ja": "柳林県",
+      "name:zh": "柳林县",
+      "alt_name": "柳林;Liulin County",
+      "name:zh-Hant": "柳林縣"
+    }
+  },
+  {
+    "name": "Liunan",
+    "country": "China",
+    "latitude": 24.339433200309887,
+    "longitude": 109.380226,
+    "other_names": {
+      "name": "柳南区",
+      "name:en": "Liunan",
+      "name:zh": "柳南区",
+      "alt_name": "柳南;Liunan District",
+      "name:zh-Hant": "柳南區"
+    }
+  },
+  {
+    "name": "Liupanshui",
+    "country": "China",
+    "latitude": 26.596377800101873,
+    "longitude": 104.8279652,
+    "other_names": {
+      "name": "六盘水市",
+      "name:de": "Liupanshui",
+      "name:en": "Liupanshui",
+      "name:et": "Liupanshui",
+      "name:fr": "Liupanshui",
+      "name:ja": "六盤水市",
+      "name:ru": "Лупаньшуй",
+      "name:vi": "Lục Bàn Thủy",
+      "name:zh": "六盘水市",
+      "alt_name": "Liupanshui",
+      "name:zh-Hant": "六盤水市",
+      "name:zh_pinyin": "Liùpánshuǐ Shì"
+    }
+  },
+  {
+    "name": "Liuyang",
+    "country": "China",
+    "latitude": 28.166415999927718,
+    "longitude": 113.63757779999999,
+    "other_names": {
+      "name": "浏阳市",
+      "name:de": "Liuyang",
+      "name:en": "Liuyang",
+      "name:es": "Liuyang",
+      "name:eu": "Liuyang",
+      "name:fr": "Liuyang",
+      "name:it": "Liuyang",
+      "name:ja": "瀏陽市",
+      "name:ki": "Liuyang",
+      "name:ko": "류양시",
+      "name:mg": "Liuyang",
+      "name:nl": "Liuyang",
+      "name:no": "Liuyang",
+      "name:ru": "Люян",
+      "name:sv": "Liuyang",
+      "name:vi": "Lưu Dương",
+      "name:zh": "浏阳市",
+      "alt_name": "浏阳;Liuyang City;Liuyang Xian;Liu-yang Hsien",
+      "name:ceb": "Liuyang Shi",
+      "name:gan": "瀏陽",
+      "name:hak": "Liù-yòng-sṳ",
+      "name:nan": "Liû-iông-chhī",
+      "name:pam": "Liuyang",
+      "name:wuu": "浏阳市",
+      "name:yue": "瀏陽",
+      "old_name": "浏阳县",
+      "name:zh-Hant": "瀏陽市",
+      "official_name": "浏阳市",
+      "name:zh_pinyin": "liúyáng shì"
+    }
+  }
+]

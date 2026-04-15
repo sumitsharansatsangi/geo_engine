@@ -1,0 +1,395 @@
+[
+  {
+    "name": "Fürth",
+    "country": "Germany",
+    "latitude": 49.477262999575245,
+    "longitude": 10.989616,
+    "other_names": {
+      "name": "Fürth",
+      "name:ar": "فورت",
+      "name:de": "Fürth",
+      "name:fa": "فورت",
+      "name:ru": "Фюрт",
+      "name:sr": "Фирт",
+      "name:uk": "Фюрт",
+      "name:ur": "فورت",
+      "reg_name": "Färdd",
+      "name:zh-Hans": "菲尔特",
+      "name:zh-Hant": "菲爾特"
+    }
+  },
+  {
+    "name": "Fushan",
+    "country": "China",
+    "latitude": 37.49622439991264,
+    "longitude": 121.26291659999998,
+    "other_names": {
+      "name": "福山区",
+      "name:en": "Fushan",
+      "name:vi": "Phúc Sơn",
+      "name:zh": "福山区",
+      "name:zh-Hant": "福山區",
+      "name:zh_pinyin": "Fúshān qū"
+    }
+  },
+  {
+    "name": "Fushan",
+    "country": "China",
+    "latitude": 35.97403949973297,
+    "longitude": 111.8456198,
+    "other_names": {
+      "name": "浮山县",
+      "name:en": "Fushan",
+      "name:ja": "浮山県",
+      "name:zh": "浮山县",
+      "alt_name": "浮山;Fushan Xian;Fou-shan-hsien;Fou-shan",
+      "name:zh-Hant": "浮山縣"
+    }
+  },
+  {
+    "name": "Fushun",
+    "country": "China",
+    "latitude": 29.18437719981834,
+    "longitude": 104.971911,
+    "other_names": {
+      "name": "富顺县",
+      "name:en": "Fushun",
+      "name:zh": "富顺县",
+      "alt_name": "富顺;Fushun County",
+      "name:zh-Hant": "富順縣"
+    }
+  },
+  {
+    "name": "Fushun",
+    "country": "China",
+    "latitude": 41.86929720047617,
+    "longitude": 123.92415700000001,
+    "other_names": {
+      "name": "抚顺市",
+      "name:de": "Fushun",
+      "name:en": "Fushun",
+      "name:et": "Fushun",
+      "name:fr": "Fushun",
+      "name:ja": "撫順市",
+      "name:ko": "푸순시",
+      "name:oc": "Fushun",
+      "name:pt": "Fushun",
+      "name:ru": "Фушунь",
+      "name:vi": "Phủ Thuận",
+      "name:zh": "抚顺市",
+      "name:zh-Hant": "撫順市",
+      "name:zh_pinyin": "Fǔshùn Shì"
+    }
+  },
+  {
+    "name": "Fushun",
+    "country": "China",
+    "latitude": 41.87850860047692,
+    "longitude": 123.91307800000001,
+    "other_names": {
+      "name": "抚顺县",
+      "name:en": "Fushun",
+      "name:zh": "抚顺县",
+      "name:zh-Hant": "撫順縣"
+    }
+  },
+  {
+    "name": "Fusong",
+    "country": "China",
+    "latitude": 42.218174800501366,
+    "longitude": 127.44272869999999,
+    "other_names": {
+      "name": "抚松县",
+      "name:en": "Fusong",
+      "name:zh": "抚松县",
+      "alt_name": "抚松;Fusong City",
+      "name:zh-Hant": "撫松縣",
+      "official_name": "抚松镇"
+    }
+  },
+  {
+    "name": "Fussa",
+    "country": "Japan",
+    "latitude": 35.73718799971044,
+    "longitude": 139.334682,
+    "other_names": {
+      "name": "福生市",
+      "name:ar": "فوسا، طوكيو",
+      "name:de": "Fussa",
+      "name:en": "Fussa",
+      "name:eo": "Fussa",
+      "name:es": "Fussa",
+      "name:fa": "فوسا، توکیو",
+      "name:fi": "Fussa",
+      "name:fr": "Fussa",
+      "name:gl": "Fussa",
+      "name:it": "Fussa",
+      "name:ja": "福生市",
+      "name:ko": "훗사시",
+      "name:lt": "Fusa",
+      "name:ms": "Fussa",
+      "name:nl": "Fussa",
+      "name:pl": "Fussa",
+      "name:pt": "Fussa",
+      "name:ru": "Фусса",
+      "name:tg": "Фусса",
+      "name:th": "ฟุสซะ",
+      "name:uk": "Фусса",
+      "name:zh": "福生市",
+      "name:mzn": "فوسا، توکیو",
+      "name:yue": "福生市",
+      "name:ja_rm": "Fussa-shi",
+      "name:roa-rup": "Fussa"
+    }
+  },
+  {
+    "name": "Fusui",
+    "country": "China",
+    "latitude": 22.638648200396016,
+    "longitude": 107.90010359999998,
+    "other_names": {
+      "name": "扶绥县",
+      "name:en": "Fusui",
+      "name:ja": "扶綏県",
+      "name:vi": "Phù Tuy",
+      "name:zh": "扶绥县",
+      "alt_name": "扶绥;Fusui County",
+      "name:yue": "扶绥县",
+      "name:zh-Hant": "扶綏縣",
+      "name:yue-Latn": "Fouslu-hyun",
+      "name:zh_pinyin": "fúsuí xiàn"
+    }
+  },
+  {
+    "name": "Futian District",
+    "country": "China",
+    "latitude": 22.524020200399068,
+    "longitude": 114.04993919999998,
+    "other_names": {
+      "name": "福田区",
+      "name:cs": "Fu-tchien",
+      "name:de": "Futian",
+      "name:en": "Futian District",
+      "name:es": "Futian",
+      "name:eu": "Futian Barrutia",
+      "name:fa": "فوتیان",
+      "name:fr": "District de Futian",
+      "name:it": "Distretto di Futian",
+      "name:ja": "福田区",
+      "name:ko": "푸톈구",
+      "name:nl": "Futian",
+      "name:no": "Futian",
+      "name:pl": "Futian",
+      "name:pt": "Distrito de Futian",
+      "name:ru": "Футянь",
+      "name:sv": "Futian",
+      "name:vi": "Phúc Điền",
+      "name:zh": "福田区",
+      "name:ceb": "Futian Qu",
+      "name:hak": "Fuk-thièn-khî",
+      "name:mwl": "Futian",
+      "name:nan": "Hok-tiân-khu",
+      "name:yue": "福田區",
+      "name:zh-Hant": "福田區",
+      "name:zh_pinyin": "Fútián Qū"
+    }
+  },
+  {
+    "name": "Futtsu",
+    "country": "Japan",
+    "latitude": 35.30391459967373,
+    "longitude": 139.8570499,
+    "other_names": {
+      "name": "富津市",
+      "name:ar": "فوتسو، تشيبا",
+      "name:de": "Futtsu",
+      "name:en": "Futtsu",
+      "name:es": "Futtsu",
+      "name:fr": "Futtsu",
+      "name:ja": "富津市",
+      "name:ko": "훗쓰시",
+      "name:pl": "Futtsu",
+      "name:ru": "Фуццу",
+      "name:uk": "Фуццу",
+      "name:ja_rm": "Futtsu-shi",
+      "name:ja_kana": "ふっつし"
+    }
+  },
+  {
+    "name": "Fuxian",
+    "country": "China",
+    "latitude": 36.004531599735984,
+    "longitude": 109.38043389999999,
+    "other_names": {
+      "name": "富县",
+      "name:en": "Fuxian",
+      "name:ja": "富県",
+      "name:ru": "Фусянь",
+      "name:vi": "Phú Thành",
+      "name:zh": "富县",
+      "alt_name": "鄜;富;富城镇;茶坊街道;茶坊;Chafang",
+      "int_name": "Fucheng",
+      "old_name": "鄜县;鄜縣;鄜城;富城;鄜州",
+      "name:zh-Hant": "鄜縣"
+    }
+  },
+  {
+    "name": "Fuxin",
+    "country": "China",
+    "latitude": 42.060349300490635,
+    "longitude": 121.74182889999999,
+    "other_names": {
+      "name": "阜新蒙古族自治县",
+      "name:en": "Fuxin",
+      "name:ja": "阜新モンゴル族自治県",
+      "name:ko": "푸신몽골족자치현",
+      "name:mn": "ᠹᠦᠰᠢᠨ ᠦ ᠰᠢᠶᠠᠨ",
+      "name:zh": "阜新蒙古族自治县",
+      "alt_name": "阜新;Fuxin City",
+      "short_name": "阜新县",
+      "name:zh-Hant": "阜新蒙古族自治縣"
+    }
+  },
+  {
+    "name": "Fuxin",
+    "country": "China",
+    "latitude": 42.01517330048736,
+    "longitude": 121.64528679999997,
+    "other_names": {
+      "name": "阜新市",
+      "name:de": "Fuxin",
+      "name:en": "Fuxin",
+      "name:et": "Fuxin",
+      "name:fr": "Fuxing",
+      "name:ja": "阜新市",
+      "name:ko": "푸신시",
+      "name:pt": "Fuxin",
+      "name:ru": "Фусинь",
+      "name:vi": "Phụ Tân",
+      "name:zh": "阜新市",
+      "name:zh-Hant": "阜新市",
+      "name:zh_pinyin": "Fùxīn Shì"
+    }
+  },
+  {
+    "name": "Fuxing",
+    "country": "China",
+    "latitude": 36.61666699980211,
+    "longitude": 114.448333,
+    "other_names": {
+      "name": "复兴区",
+      "name:en": "Fuxing",
+      "name:vi": "Phục Hưng",
+      "name:zh": "复兴区",
+      "alt_name": "复兴;Fuxing District",
+      "name:zh-Hant": "復興區",
+      "name:zh_pinyin": "fùxīng qū"
+    }
+  },
+  {
+    "name": "Fuyang",
+    "country": "China",
+    "latitude": 32.89267629958826,
+    "longitude": 115.8090001,
+    "other_names": {
+      "name": "阜阳市",
+      "name:de": "Fuyang",
+      "name:en": "Fuyang",
+      "name:et": "Fuyang",
+      "name:fr": "Fuyang",
+      "name:hi": "फ़ूयांग",
+      "name:ja": "阜陽市",
+      "name:ru": "Фуян",
+      "name:vi": "Phụ Dương",
+      "name:zh": "阜阳市",
+      "int_name": "Fuyang",
+      "old_name": "颍州",
+      "name:zh-Hant": "阜陽市",
+      "name:zh_pinyin": "Fǔyáng Shì"
+    }
+  },
+  {
+    "name": "Fuyang",
+    "country": "China",
+    "latitude": 30.05169729973515,
+    "longitude": 119.9557005,
+    "other_names": {
+      "name": "富阳区",
+      "name:da": "Fuyang",
+      "name:de": "Fuyang",
+      "name:en": "Fuyang",
+      "name:es": "Distrito de Fuyang",
+      "name:eu": "Fuyang Hiria",
+      "name:fr": "Fuyang",
+      "name:it": "Fuyang",
+      "name:ja": "富陽区",
+      "name:ko": "푸양구",
+      "name:no": "Fuyang",
+      "name:ru": "Фуян",
+      "name:sv": "Fuyang",
+      "name:tl": "Fuyang",
+      "name:uk": "Фуян",
+      "name:vi": "Phú Dương",
+      "name:zh": "富阳区",
+      "int_name": "Fuyang",
+      "name:ceb": "Fuyang",
+      "name:hak": "Fu-yòng-sṳ",
+      "name:nan": "Hù-iông-khu",
+      "name:war": "Fuyang",
+      "name:wuu": "富阳区",
+      "name:yue": "富陽",
+      "name:zh-Hant": "富陽區",
+      "name:zh_pinyin": "Fùyáng Qu"
+    }
+  },
+  {
+    "name": "Fuyu",
+    "country": "China",
+    "latitude": 47.792857599986576,
+    "longitude": 124.464693,
+    "other_names": {
+      "name": "富裕县",
+      "name:en": "Fuyu",
+      "name:ja": "富裕県",
+      "name:ru": "Фуюй",
+      "name:vi": "Phú Dụ",
+      "name:zh": "富裕县",
+      "alt_name": "富裕;Ta-lai-k'o-t'un;Ta-lai-k'o;Fuyuychzhen';Fu-yu;Fu-yu-hsien;Fuyui;Dalayke;Fu-yu-chen",
+      "name:zh-Hant": "富裕縣",
+      "official_name": "富裕镇",
+      "name:zh_pinyin": "Fùyù Xiàn"
+    }
+  },
+  {
+    "name": "Fuyuan",
+    "country": "Russia",
+    "latitude": 48.35602829985156,
+    "longitude": 134.2891391,
+    "other_names": {
+      "name": "抚远市",
+      "name:en": "Fuyuan",
+      "name:ru": "Фуюань",
+      "name:vi": "Phủ Viễn",
+      "name:zh": "抚远市",
+      "name:zh-Hant": "撫遠市",
+      "official_name": "抚远市",
+      "name:zh_pinyin": "Fǔyuǎn Zhen"
+    }
+  },
+  {
+    "name": "Fuyuan",
+    "country": "China",
+    "latitude": 48.35602829985156,
+    "longitude": 134.2891391,
+    "other_names": {
+      "name": "抚远市",
+      "name:en": "Fuyuan",
+      "name:ru": "Фуюань",
+      "name:vi": "Phủ Viễn",
+      "name:zh": "抚远市",
+      "name:zh-Hant": "撫遠市",
+      "official_name": "抚远市",
+      "name:zh_pinyin": "Fǔyuǎn Zhen"
+    }
+  }
+]

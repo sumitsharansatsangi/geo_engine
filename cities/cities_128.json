@@ -1,0 +1,374 @@
+[
+  {
+    "name": "Encarnacion",
+    "country": "Paraguay",
+    "latitude": -27.33761139947586,
+    "longitude": -55.8669492,
+    "other_names": {
+      "name": "Encarnación",
+      "name:en": "Encarnacion",
+      "name:fr": "Encarnacion",
+      "name:lt": "Enkarnasjonas",
+      "name:ru": "Энкарнасьон",
+      "name:uk": "Енкарнасьйон"
+    }
+  },
+  {
+    "name": "Encontrados",
+    "country": "Venezuela",
+    "latitude": 9.059729181120765,
+    "longitude": -72.2352536358396,
+    "other_names": {
+      "name": "Encontrados"
+    }
+  },
+  {
+    "name": "Encontrados",
+    "country": "Venezuela",
+    "latitude": 9.060282799402898,
+    "longitude": -72.23442649999998,
+    "other_names": {
+      "name": "Encontrados"
+    }
+  },
+  {
+    "name": "Enderkhaan",
+    "country": "Mongolia",
+    "latitude": 47.32537005933893,
+    "longitude": 110.66280507340858,
+    "other_names": {
+      "name": "Өндөрхаан",
+      "name:en": "Enderkhaan",
+      "name:ja": "ウンドゥルハーン",
+      "name:mn": "Өндөрхаан",
+      "name:ru": "Ундэрхаан"
+    }
+  },
+  {
+    "name": "Engels",
+    "country": "Russia",
+    "latitude": 51.501377499172335,
+    "longitude": 46.1233093,
+    "other_names": {
+      "name": "Энгельс",
+      "name:az": "Engels",
+      "name:de": "Engels",
+      "name:en": "Engels",
+      "name:es": "Enguels",
+      "name:et": "Engels",
+      "name:fr": "Engels",
+      "name:ja": "エンゲリス",
+      "name:ko": "옌겔스",
+      "name:lt": "Engelsas",
+      "name:pl": "Engels",
+      "name:ru": "Энгельс",
+      "name:tt": "Энгельс",
+      "name:uk": "Енгельс",
+      "int_name": "Engels",
+      "name:hsb": "Engels",
+      "old_name": "Покровская слобода",
+      "old_name:de": "Pokrowsk",
+      "official_name": "город Энгельс"
+    }
+  },
+  {
+    "name": "Engels",
+    "country": "Russia",
+    "latitude": 51.47651853640856,
+    "longitude": 46.09992124168987,
+    "other_names": {
+      "name": "Энгельс",
+      "name:de": "Engels",
+      "name:en": "Engels",
+      "name:ja": "エンゲリス",
+      "name:ru": "Энгельс",
+      "name:uk": "Енгельс",
+      "int_name": "Engels",
+      "old_name": "Покровская слобода",
+      "old_name:de": "Pokrowsk",
+      "official_name": "город Энгельс"
+    }
+  },
+  {
+    "name": "Enid",
+    "country": "United States Of America",
+    "latitude": 36.39676229977721,
+    "longitude": -97.8791341,
+    "other_names": {
+      "name": "Enid"
+    }
+  },
+  {
+    "name": "Eniwa",
+    "country": "Japan",
+    "latitude": 42.88273860053329,
+    "longitude": 141.57757309999997,
+    "other_names": {
+      "name": "恵庭市",
+      "name:ar": "إينيوا، هوكايدو",
+      "name:de": "Eniwa",
+      "name:en": "Eniwa",
+      "name:es": "Eniwa",
+      "name:fr": "Eniwa",
+      "name:hu": "Eniva",
+      "name:ja": "恵庭市",
+      "name:ko": "에니와시",
+      "name:pl": "Eniwa",
+      "name:ru": "Энива",
+      "name:uk": "Еніва",
+      "int_name": "Eniwa",
+      "name:ja_rm": "Eniwa-shi",
+      "name:ja_kana": "えにわし"
+    }
+  },
+  {
+    "name": "En Nahud",
+    "country": "Sudan",
+    "latitude": 12.692158999647267,
+    "longitude": 28.422103,
+    "other_names": {
+      "name": "النهود",
+      "name:ar": "النهود",
+      "name:de": "An-Nahud",
+      "name:en": "En Nahud",
+      "name:es": "En Nahud",
+      "name:fr": "En Nahud",
+      "name:ru": "Эн-Нахуд",
+      "alt_name": "An Nuhud;An Nahūd;An Nahud;Nahad;En Nahūd;En Nahud;An Nuhūd",
+      "alt_name:ar": "نهد",
+      "alt_name:en": "An Nuhud"
+    }
+  },
+  {
+    "name": "Enping",
+    "country": "China",
+    "latitude": 22.18617310040593,
+    "longitude": 112.30001449999999,
+    "other_names": {
+      "name": "恩平市",
+      "name:ar": "إنبينغ",
+      "name:de": "Enping",
+      "name:en": "Enping",
+      "name:fa": "انپینگ",
+      "name:fr": "Enping",
+      "name:it": "Enping",
+      "name:ja": "恩平市",
+      "name:ki": "Enping",
+      "name:ko": "언핑시",
+      "name:mg": "Enping",
+      "name:nl": "Enping",
+      "name:no": "Enping",
+      "name:sv": "Enping",
+      "name:ur": "اینپینگ",
+      "name:vi": "Ân Bình",
+      "name:zh": "恩平市",
+      "alt_name": "恩平;Enping City",
+      "name:mwl": "Enping",
+      "name:nan": "Un-pêng-chhī",
+      "name:pam": "Enping",
+      "name:pnb": "اینپینگ",
+      "name:wuu": "恩平市",
+      "name:yue": "恩平市",
+      "name:zh-Hant": "恩平市",
+      "name:yue-Latn": "Jinping-si",
+      "name:zh_pinyin": "Ēnpíng Shì"
+    }
+  },
+  {
+    "name": "Enschede",
+    "country": "Netherlands",
+    "latitude": 52.22098549910111,
+    "longitude": 6.894053699999999,
+    "other_names": {
+      "name": "Enschede",
+      "name:ar": "أنسخديه",
+      "name:de": "Enschede",
+      "name:fa": "انسخده",
+      "name:fy": "Ynskedee",
+      "name:la": "Enscheda",
+      "name:nl": "Enschede",
+      "name:ru": "Энсхеде",
+      "name:sr": "Енсхеде",
+      "name:ur": "انسخدئے",
+      "name:nds": "Eanske",
+      "name:pnb": "انشیدے",
+      "alt_name:de": "Enscheid",
+      "name:zh-Hans": "恩斯赫德",
+      "name:zh-Hant": "恩斯赫德",
+      "name:carnaval": "Krekkelstad"
+    }
+  },
+  {
+    "name": "Ensenada",
+    "country": "Mexico",
+    "latitude": 31.865888699613905,
+    "longitude": -116.60298350000001,
+    "other_names": {
+      "name": "Ensenada",
+      "name:ar": "إنسناذا",
+      "name:en": "Ensenada",
+      "name:fa": "انسنادا",
+      "name:ru": "Энсенада",
+      "name:ur": "اینسینادا",
+      "alt_name:ar": "إنسينادا"
+    }
+  },
+  {
+    "name": "Enshi",
+    "country": "China",
+    "latitude": 30.274548299715946,
+    "longitude": 109.48330789999999,
+    "other_names": {
+      "name": "恩施州",
+      "name:da": "Enshi",
+      "name:de": "Enshi",
+      "name:en": "Enshi",
+      "name:es": "Prefectura autónoma tujia y miao de Enshi",
+      "name:eu": "Enshi Tujia eta Miao Prefektura autonomoa",
+      "name:fa": "ولایت خودمختار انشی توجیا و میائو",
+      "name:fi": "Enshin tujioiden ja miaojen autonominen prefektuuri",
+      "name:fr": "Préfecture autonome tujia et miao d'Enshi",
+      "name:it": "Prefettura autonoma tujia e miao di Enshi",
+      "name:ja": "恩施トゥチャ族ミャオ族自治州",
+      "name:ko": "언스 투자족 먀오족 자치주",
+      "name:lt": "Enši tudzi ir miao autonominė prefektūra",
+      "name:nl": "Autonome Tujia & Miao prefectuur Enshi",
+      "name:no": "Enshi",
+      "name:pl": "Enshi",
+      "name:ru": "Эньши-Туцзя-Мяоский автономный округ",
+      "name:sv": "Enshi",
+      "name:tr": "Enshi Tujia ve Miao Özerk İli",
+      "name:ur": "اینسہی توجیا اور میاو خود مختار پریفیکچر",
+      "name:vi": "Ân Thi",
+      "name:zh": "恩施州",
+      "alt_name": "恩施;Enshi Tujia and Miao Autonomous Prefecture",
+      "name:cdo": "Ŏng-siĕ",
+      "name:ceb": "Enshi Tujiazu Miaozu Zizhizhou",
+      "name:nan": "Un-si Thó͘-ka-cho̍k Biâu-cho̍k Chū-tī-chiu",
+      "name:wuu": "恩施土家族苗族自治州",
+      "name:yue": "恩施",
+      "name:zh-Hant": "恩施州",
+      "official_name": "恩施土家族苗族自治州",
+      "name:zh_pinyin": "Enshi Tujiazu Miaozu Zizhizhou"
+    }
+  },
+  {
+    "name": "Enshi",
+    "country": "China",
+    "latitude": 30.297485399714024,
+    "longitude": 109.4746431,
+    "other_names": {
+      "name": "恩施市",
+      "name:cs": "En-š'",
+      "name:de": "Enshi",
+      "name:en": "Enshi",
+      "name:fr": "Enshi",
+      "name:ja": "恩施市",
+      "name:ru": "Эньши",
+      "name:vi": "Ân Thi",
+      "name:zh": "恩施市",
+      "name:zh-Hant": "恩施市",
+      "name:zh_pinyin": "Ēnshī Shì"
+    }
+  },
+  {
+    "name": "Entebbe",
+    "country": "Uganda",
+    "latitude": 0.061171499993714844,
+    "longitude": 32.46985639999999,
+    "other_names": {
+      "name": "Entebbe",
+      "name:ko": "엔테베"
+    }
+  },
+  {
+    "name": "Entroncamento",
+    "country": "Portugal",
+    "latitude": 39.46521960019284,
+    "longitude": -8.4682137,
+    "other_names": {
+      "name": "Entroncamento"
+    }
+  },
+  {
+    "name": "Enugu",
+    "country": "Nigeria",
+    "latitude": 6.4499832994241055,
+    "longitude": 7.5000007,
+    "other_names": {
+      "name": "Enugu",
+      "name:ar": "إنوغو",
+      "name:ko": "에누구",
+      "name:ru": "Энугу",
+      "name:uk": "Енугу"
+    }
+  },
+  {
+    "name": "Enyang",
+    "country": "China",
+    "latitude": 31.792329699617063,
+    "longitude": 106.63382569999999,
+    "other_names": {
+      "name": "恩阳区",
+      "name:en": "Enyang",
+      "name:zh": "恩阳区",
+      "alt_name": "恩阳镇;恩阳;En'yankhe;Enyangzhen;En-yang-ho",
+      "name:zh-Hant": "恩陽區"
+    }
+  },
+  {
+    "name": "Erbil",
+    "country": "Iraq",
+    "latitude": 36.19116239975508,
+    "longitude": 44.009465199999994,
+    "other_names": {
+      "name": "هەولێر",
+      "name:ar": "إربل",
+      "name:cs": "Hawlêr",
+      "name:de": "Irbil",
+      "name:en": "Erbil",
+      "name:es": "Erbil",
+      "name:et": "Erbil",
+      "name:fa": "اربیل",
+      "name:fi": "Erbil",
+      "name:fr": "Erbil",
+      "name:hi": "अरबील",
+      "name:ks": "اربل",
+      "name:ku": "هەولێر",
+      "name:lt": "Erbil",
+      "name:ps": "اربل",
+      "name:ru": "Хаулэрь",
+      "name:tr": "Hawlêr",
+      "name:uk": "Ербіль",
+      "name:ur": "اربل",
+      "alt_name": "أربيل;هولير;اربيل",
+      "name:arc": "ܐܪܒܝܠ",
+      "name:azb": "هەولێر",
+      "name:ckb": "هەولێر",
+      "name:kmr": "هەولێر",
+      "name:mzn": "اربل",
+      "name:pnb": "اربل",
+      "name:syc": "ܐܪܒܝܠ",
+      "alt_name:ar": "أربيل;هولير;اربيل",
+      "alt_name:cs": "Arbíl;Erbíl",
+      "alt_name:de": "Erbil",
+      "alt_name:en": "Irbil",
+      "alt_name:ku": "Hewlêr",
+      "alt_name:arc": "ܡܕܝܢܬܐ ܕܐܪܒܝܠ",
+      "alt_name:syc": "ܡܕܝܢܬܐ ܕܐܪܒܝܠ"
+    }
+  },
+  {
+    "name": "Erdao",
+    "country": "China",
+    "latitude": 43.863000400536684,
+    "longitude": 125.36979639999998,
+    "other_names": {
+      "name": "二道区",
+      "name:en": "Erdao",
+      "name:zh": "二道区",
+      "alt_name": "二道;Erdao Qu;Erdao District",
+      "name:zh-Hant": "二道區"
+    }
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Karur",
+    "country": "India",
+    "latitude": 10.9604045994958,
+    "longitude": 78.07756099999999,
+    "other_names": {
+      "name": "Karur",
+      "name:en": "Karur",
+      "name:hi": "करूर",
+      "name:ja": "カルール",
+      "name:kn": "ಕರೂರು",
+      "name:ml": "കരൂർ",
+      "name:ta": "கரூர்"
+    }
+  },
+  {
+    "name": "Karuzi",
+    "country": "Burundi",
+    "latitude": -3.1011686997450028,
+    "longitude": 30.164752400000005,
+    "other_names": {
+      "name": "Karuzi",
+      "name:ru": "Карузи"
+    }
+  },
+  {
+    "name": "Kasai",
+    "country": "Japan",
+    "latitude": 34.92910899964697,
+    "longitude": 134.86005049999997,
+    "other_names": {
+      "name": "加西市",
+      "name:ar": "كاساي، هيوغو",
+      "name:de": "Kasai",
+      "name:en": "Kasai",
+      "name:es": "Kasai",
+      "name:fr": "Kasai",
+      "name:ja": "加西市",
+      "name:ko": "가사이시",
+      "name:pl": "Kasai",
+      "name:ru": "Касай",
+      "name:uk": "Кайсай",
+      "name:ja_rm": "Kasai-shi"
+    }
+  },
+  {
+    "name": "Kasama",
+    "country": "Japan",
+    "latitude": 36.34522439977155,
+    "longitude": 140.3042261,
+    "other_names": {
+      "name": "笠間市",
+      "name:ar": "كاساما، إيباراكي",
+      "name:de": "Kasama",
+      "name:en": "Kasama",
+      "name:es": "Kasama",
+      "name:fr": "Kasama",
+      "name:ja": "笠間市",
+      "name:ko": "가사마시",
+      "name:pl": "Kasama",
+      "name:ru": "Касама",
+      "name:uk": "Касама",
+      "name:ja_rm": "Kasama-shi",
+      "name:ja_kana": "かさまし"
+    }
+  },
+  {
+    "name": "Kasaoka",
+    "country": "Japan",
+    "latitude": 34.5071460996226,
+    "longitude": 133.5074654,
+    "other_names": {
+      "name": "笠岡市",
+      "name:ar": "كاساوكا، أوكاياما",
+      "name:de": "Kasaoka",
+      "name:en": "Kasaoka",
+      "name:es": "Kasaoka",
+      "name:eu": "Kasaoka",
+      "name:fr": "Kasaoka",
+      "name:ja": "笠岡市",
+      "name:ko": "가사오카시",
+      "name:pl": "Kasaoka",
+      "name:ru": "Касаока",
+      "name:uk": "Касаока",
+      "name:ja_rm": "Kasaoka"
+    }
+  },
+  {
+    "name": "Kasese",
+    "country": "Uganda",
+    "latitude": 0.17238279998221676,
+    "longitude": 30.085694999999998,
+    "other_names": {
+      "name": "Kasese",
+      "name:ru": "Касесе"
+    }
+  },
+  {
+    "name": "Kasganj",
+    "country": "India",
+    "latitude": 27.80770339996775,
+    "longitude": 78.6456226,
+    "other_names": {
+      "name": "Kasganj",
+      "name:hi": "कासगंज"
+    }
+  },
+  {
+    "name": "Kashan",
+    "country": "Iran",
+    "latitude": 33.98765329960131,
+    "longitude": 51.4428856,
+    "other_names": {
+      "name": "کاشان",
+      "name:de": "Kaschan",
+      "name:en": "Kashan",
+      "name:es": "Kashan",
+      "name:et": "Kāshān",
+      "name:fr": "Kashan",
+      "name:hi": "काशान",
+      "name:ko": "카샨",
+      "name:ku": "Qashan"
+    }
+  },
+  {
+    "name": "Kashgar",
+    "country": "China",
+    "latitude": 39.46659810019304,
+    "longitude": 75.99001349999999,
+    "other_names": {
+      "name": "喀什市",
+      "name:de": "Kaschgar",
+      "name:en": "Kashgar",
+      "name:es": "Kasgar",
+      "name:et": "Kaxgar",
+      "name:fr": "Kachgar",
+      "name:ja": "カシュガル市",
+      "name:pl": "Kaszgar",
+      "name:ru": "Кашгар",
+      "name:ug": "قەشقەر‎",
+      "name:uk": "Кашгар",
+      "name:vi": "Kashgar",
+      "name:zh": "喀什市",
+      "alt_name": "喀什地区",
+      "int_name": "Kashgar",
+      "alt_name:en": "Shule;Kashi",
+      "alt_name:vi": "Khách Thập",
+      "name:zh-Hant": "喀什市",
+      "name:zh_pinyin": "kāshí shì"
+    }
+  },
+  {
+    "name": "Kashgar",
+    "country": "China",
+    "latitude": 39.47021770019355,
+    "longitude": 75.9872411,
+    "other_names": {
+      "name": "喀什地区",
+      "name:ar": "كاشغر",
+      "name:de": "Kaschgar",
+      "name:en": "Kashgar",
+      "name:eo": "Kaŝgaro",
+      "name:es": "Kasgar",
+      "name:et": "Kaxgar",
+      "name:fr": "Kachgar",
+      "name:he": "קאשגאר",
+      "name:hi": "काश्गर",
+      "name:ja": "カシュガル地区",
+      "name:pl": "Kaszgar",
+      "name:ru": "Кашгар",
+      "name:ug": "قەشقەر ۋىلايىتى",
+      "name:uk": "Кашґар округ",
+      "name:vi": "Kashgar",
+      "name:zh": "喀什地区",
+      "int_name": "Kashgar Prefecture",
+      "alt_name:en": "Shule;Kashi",
+      "alt_name:vi": "Khách Thập",
+      "name:zh-Hant": "喀什地區",
+      "name:zh_pinyin": "Kāshí Dìqū"
+    }
+  },
+  {
+    "name": "Kashiba",
+    "country": "Japan",
+    "latitude": 34.541517499624355,
+    "longitude": 135.69883279999996,
+    "other_names": {
+      "name": "香芝市",
+      "name:en": "Kashiba",
+      "name:fr": "Kashiba",
+      "name:ja": "香芝市",
+      "name:ko": "가시바시",
+      "name:pl": "Kashiba",
+      "name:ru": "Касиба",
+      "name:uk": "Касіба",
+      "name:ja_rm": "Kashiba-shi",
+      "name:ja_kana": "かしばし"
+    }
+  },
+  {
+    "name": "Kashihara",
+    "country": "Japan",
+    "latitude": 34.50940669962272,
+    "longitude": 135.792955,
+    "other_names": {
+      "name": "橿原市",
+      "name:en": "Kashihara",
+      "name:fr": "Kashihara",
+      "name:ja": "橿原市",
+      "name:ko": "가시하라시",
+      "name:pl": "Kashihara",
+      "name:ru": "Касихара",
+      "name:uk": "Касіхара",
+      "name:ja_rm": "Kashihara-shi",
+      "name:ja_kana": "かしはらし"
+    }
+  },
+  {
+    "name": "Kashima",
+    "country": "Japan",
+    "latitude": 35.966116399732186,
+    "longitude": 140.6450292,
+    "other_names": {
+      "name": "鹿嶋市",
+      "name:ar": "كاشيما، إيباراكي",
+      "name:de": "Kashima",
+      "name:en": "Kashima",
+      "name:es": "Kashima",
+      "name:fr": "Kashima",
+      "name:ja": "鹿嶋市",
+      "name:ko": "가시마시",
+      "name:pl": "Kashima",
+      "name:ru": "Касима",
+      "name:uk": "Касіма",
+      "int_name": "Kashima",
+      "name:ja_rm": "Kashima-shi",
+      "name:ja_kana": "かしまし"
+    }
+  },
+  {
+    "name": "Kashima",
+    "country": "Japan",
+    "latitude": 33.10395289958744,
+    "longitude": 130.0985169,
+    "other_names": {
+      "name": "鹿島市",
+      "name:ar": "كاشيما، ساغا",
+      "name:de": "Kashima",
+      "name:en": "Kashima",
+      "name:es": "Kashima",
+      "name:fr": "Kashima",
+      "name:ja": "鹿島市",
+      "name:ko": "가시마시",
+      "name:ru": "Касима",
+      "name:uk": "Кашіма",
+      "name:zh": "鹿岛市",
+      "int_name": "Kashima",
+      "name:ja_rm": "Kashima-shi",
+      "name:ja_kana": "かしまし",
+      "name:zh-Hans": "鹿岛市",
+      "name:zh-Hant": "鹿島市"
+    }
+  },
+  {
+    "name": "Kashiwa",
+    "country": "Japan",
+    "latitude": 35.867621799722635,
+    "longitude": 139.9756876,
+    "other_names": {
+      "name": "柏市",
+      "name:ar": "كاشيوا، تشيبا",
+      "name:de": "Kashiwa",
+      "name:en": "Kashiwa",
+      "name:es": "Kashiwa",
+      "name:fr": "Kashiwa",
+      "name:ja": "柏市",
+      "name:ko": "가시와시",
+      "name:pl": "Kashiwa",
+      "name:ru": "Касива",
+      "name:uk": "Касіва",
+      "name:ja_rm": "Kashiwa-shi",
+      "name:ja_kana": "かしわし"
+    }
+  },
+  {
+    "name": "Kashiwara",
+    "country": "Japan",
+    "latitude": 34.59076999962695,
+    "longitude": 135.635035,
+    "other_names": {
+      "name": "柏原市",
+      "name:ar": "كاشيوارا، أوساكا",
+      "name:de": "Kashiwara",
+      "name:en": "Kashiwara",
+      "name:es": "Kashiwara",
+      "name:fr": "Kashiwara",
+      "name:ja": "柏原市",
+      "name:ko": "가시와라시",
+      "name:pl": "Kashiwara",
+      "name:ru": "Касивара",
+      "name:uk": "Кашівара",
+      "name:ja_rm": "Kashiwara-shi"
+    }
+  },
+  {
+    "name": "Kashiwazaki",
+    "country": "Japan",
+    "latitude": 37.371909499896105,
+    "longitude": 138.5591406,
+    "other_names": {
+      "name": "柏崎市",
+      "name:en": "Kashiwazaki",
+      "name:fr": "Kashiwazaki",
+      "name:ja": "柏崎市",
+      "name:ko": "가시와자키시",
+      "name:pl": "Kashiwazaki",
+      "name:ru": "Касивадзаки",
+      "name:uk": "Касівадзакі",
+      "name:ja_rm": "Kashiwazaki-shi",
+      "name:ja_kana": "かしわざきし"
+    }
+  },
+  {
+    "name": "Kaspiysk",
+    "country": "Russia",
+    "latitude": 42.88163489462246,
+    "longitude": 47.621745545570136,
+    "other_names": {
+      "name": "Каспийск",
+      "name:de": "Kaspijsk",
+      "name:en": "Kaspiysk"
+    }
+  },
+  {
+    "name": "Kaspiysk",
+    "country": "Russia",
+    "latitude": 42.88814140053347,
+    "longitude": 47.6424676,
+    "other_names": {
+      "name": "Каспийск",
+      "name:ar": "كاسبييسك",
+      "name:av": "Каспиялъухъ",
+      "name:az": "Kaspiysk",
+      "name:ca": "Kaspiïsk",
+      "name:ce": "Каспийск",
+      "name:de": "Kaspijsk",
+      "name:en": "Kaspiysk",
+      "name:eo": "Kaspijsk",
+      "name:es": "Kaspisk",
+      "name:et": "Kaspiisk",
+      "name:fa": "کاسپییسک",
+      "name:fr": "Kaspiisk",
+      "name:ko": "카스피스크",
+      "name:os": "Каспийск",
+      "name:pl": "Kaspijsk",
+      "name:ro": "Kaspisk",
+      "name:ru": "Каспийск",
+      "name:sr": "Каспијск",
+      "name:tt": "Каспийск",
+      "name:uk": "Каспійськ",
+      "name:vi": "Kaspiysk",
+      "name:zh": "卡斯皮斯克",
+      "int_name": "Kaspiysk",
+      "name:hsb": "Kaspijsk",
+      "name:lez": "Каспийск",
+      "name:pnb": "کاسپیسک"
+    }
+  },
+  {
+    "name": "Kassala",
+    "country": "Sudan",
+    "latitude": 15.452116299960652,
+    "longitude": 36.3771099,
+    "other_names": {
+      "name": "كسلا",
+      "name:ar": "كسلا",
+      "name:de": "Kassala",
+      "name:en": "Kassala",
+      "name:es": "Kasala",
+      "name:et": "Kassalā",
+      "name:fa": "کسلا",
+      "name:fr": "Kassala",
+      "name:ko": "카살라",
+      "name:ks": "کسلا",
+      "name:ru": "Кассала",
+      "name:uk": "Кассала",
+      "name:ur": "کسلا",
+      "alt_name": "Cassala;Kasala",
+      "name:azb": "کسلا",
+      "alt_name:ar": "كسّلا;كسل"
+    }
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Sabirabad",
+    "country": "Azerbaijan",
+    "latitude": 40.00013564235402,
+    "longitude": 48.47266950096951,
+    "other_names": {
+      "name": "Sabirabad",
+      "name:ar": "صابر آباد",
+      "name:en": "Sabirabad",
+      "name:ru": "Сабирабад",
+      "int_name": "Sabirabad",
+      "alt_name:ar": "صابرآباد"
+    }
+  },
+  {
+    "name": "Şabran",
+    "country": "Azerbaijan",
+    "latitude": 41.20843700041477,
+    "longitude": 48.99470279999999,
+    "other_names": {
+      "name": "Şabran",
+      "name:ar": "شابران",
+      "name:az": "Şabran",
+      "name:de": "Şabran",
+      "name:en": "Şabran",
+      "name:es": "Şabran",
+      "name:fr": "Şabran",
+      "name:hi": "शब्रन",
+      "name:ja": "シャブラン",
+      "name:ru": "Шабран"
+    }
+  },
+  {
+    "name": "Şabran",
+    "country": "Azerbaijan",
+    "latitude": 41.20866989444233,
+    "longitude": 48.99508012051935,
+    "other_names": {
+      "name": "Şabran",
+      "name:ar": "شابران",
+      "name:ru": "Шабран"
+    }
+  },
+  {
+    "name": "Sabratha",
+    "country": "Libya",
+    "latitude": 32.79062109958922,
+    "longitude": 12.482674599999998,
+    "other_names": {
+      "name": "صبراتة",
+      "name:ar": "صبراتة",
+      "name:cs": "Sabráta",
+      "name:de": "Siburata",
+      "name:en": "Sabratha",
+      "name:es": "Sabratha",
+      "name:fa": "صبراته",
+      "name:fr": "Sabratha",
+      "name:it": "Sabrata",
+      "name:ru": "Сабрафа",
+      "name:sk": "Sabráta",
+      "name:ur": "صبراتہ",
+      "name:azb": "صبراته"
+    }
+  },
+  {
+    "name": "Sabugal",
+    "country": "Portugal",
+    "latitude": 40.35183210031387,
+    "longitude": -7.0896479,
+    "other_names": {
+      "name": "Sabugal"
+    }
+  },
+  {
+    "name": "Sabzevar",
+    "country": "Iran",
+    "latitude": 36.21340529975741,
+    "longitude": 57.68087989999998,
+    "other_names": {
+      "name": "سبزوار",
+      "name:ar": "سبزوار",
+      "name:de": "Sabsevar",
+      "name:en": "Sabzevar",
+      "name:es": "Sabzevar",
+      "name:et": "Sabzevār",
+      "name:fr": "Sabzevar",
+      "name:hi": "सब्ज़ेवार",
+      "name:ja": "サブゼヴァール",
+      "name:ku": "Sebzevar",
+      "name:ru": "Себзевар",
+      "name:tr": "Sebzevar"
+    }
+  },
+  {
+    "name": "Sacaba",
+    "country": "Bolivia",
+    "latitude": -17.403834000474433,
+    "longitude": -66.04029279999999,
+    "other_names": {
+      "name": "Sacaba",
+      "old_name:1761": "Villa de San Pedro de Sacaba"
+    }
+  },
+  {
+    "name": "Sacheon-si",
+    "country": "South Korea",
+    "latitude": 35.00346799965189,
+    "longitude": 128.06456199999997,
+    "other_names": {
+      "name": "사천시",
+      "name:de": "Sacheon",
+      "name:en": "Sacheon-si",
+      "name:es": "Sacheon",
+      "name:et": "Sacheon",
+      "name:fr": "Sacheon",
+      "name:ja": "泗川市",
+      "name:ko": "사천시",
+      "name:zh": "泗川市",
+      "int_name": "Sacheon",
+      "name:ja_kana": "さちょん",
+      "name:ko-Hani": "泗川市",
+      "name:ko-Latn": "Sacheon-si"
+    }
+  },
+  {
+    "name": "Sachin",
+    "country": "India",
+    "latitude": 21.085330100405802,
+    "longitude": 72.8804684,
+    "other_names": {
+      "name": "Sachin",
+      "name:uk": "Сачін"
+    }
+  },
+  {
+    "name": "Saco",
+    "country": "United States Of America",
+    "latitude": 43.50091760054188,
+    "longitude": -70.4428286,
+    "other_names": {
+      "name": "Saco"
+    }
+  },
+  {
+    "name": "Sacramento",
+    "country": "United States Of America",
+    "latitude": 38.58106060006516,
+    "longitude": -121.49389499999998,
+    "other_names": {
+      "name": "Sacramento",
+      "name:ar": "ساكرامنتو",
+      "name:ja": "サクラメント",
+      "name:lt": "Sakramentas",
+      "name:pl": "Sacramento",
+      "name:ru": "Сакраменто",
+      "name:ta": "சேக்ரமெண்டோ",
+      "name:uk": "Сакраменто",
+      "name:zh": "沙加緬度/萨克拉门托",
+      "name:ang": "Sacramento",
+      "alt_name:ar": "ساكرمينتو",
+      "name:zh-Hans": "萨克拉门托",
+      "name:zh-Hant": "沙加緬度"
+    }
+  },
+  {
+    "name": "Sa`dah",
+    "country": "Yemen",
+    "latitude": 16.940932400129142,
+    "longitude": 43.7630261,
+    "other_names": {
+      "name": "صعدة",
+      "name:ar": "صعدة",
+      "name:cs": "Sa'da",
+      "name:de": "Sa'da",
+      "name:en": "Sa`dah",
+      "name:fr": "Saada",
+      "name:ru": "Саада",
+      "name:uk": "Саада",
+      "alt_name": "Sa‘da; Sa`da; Saada",
+      "int_name": "Şa‘dah",
+      "old_name": "Kama"
+    }
+  },
+  {
+    "name": "Sadat City",
+    "country": "Egypt",
+    "latitude": 30.43230056639849,
+    "longitude": 30.513608052843697,
+    "other_names": {
+      "name": "مدينة السادات",
+      "name:ar": "مدينة السادات",
+      "name:en": "Sadat City",
+      "name:fr": "Sadat City",
+      "name:hi": "सादात शहर",
+      "name:ru": "Мадинат-эс-Садат",
+      "int_name": "Sadat City"
+    }
+  },
+  {
+    "name": "Sadat City",
+    "country": "Egypt",
+    "latitude": 30.37200939970787,
+    "longitude": 30.521480600000004,
+    "other_names": {
+      "name": "مدينة السادات",
+      "name:ar": "مدينة السادات",
+      "name:de": "Sadat City",
+      "name:en": "Sadat City",
+      "name:es": "Sadat",
+      "name:fr": "Sadat City",
+      "name:ru": "Мадинат-эс-Садат"
+    }
+  },
+  {
+    "name": "Saddat al Hindiyah",
+    "country": "Iraq",
+    "latitude": 32.71513549959015,
+    "longitude": 44.279276,
+    "other_names": {
+      "name": "سدة الهندية",
+      "name:ar": "سدة الهندية",
+      "name:de": "Saddat al Hindiyah",
+      "name:en": "Saddat al Hindiyah",
+      "name:fr": "Saddat al Hindiyah",
+      "alt_name": "Nāḩiyat Saddat al Hindīyah, Nāḩīyat Saddat al Hindīyah, ناحية سدة الهندية, Nahiyat Saddat al Hindiyah, Nahiyat Saddat al Hindiyah, ناحية سدة الهندية",
+      "int_name": "Saddat al Hindīyah - سدة الهندية"
+    }
+  },
+  {
+    "name": "Sadec",
+    "country": "Vietnam",
+    "latitude": 10.294371599453461,
+    "longitude": 105.7588147,
+    "other_names": {
+      "name": "Sa Đéc",
+      "name:de": "Sa Dez",
+      "name:en": "Sadec",
+      "name:fr": "Sadek",
+      "name:ja": "サデーク",
+      "name:kh": "ផ្សារដែក",
+      "name:ko": "사덱시",
+      "name:uk": "Шадек",
+      "name:zh": "沙沥市",
+      "old_name": "Tân Vĩnh Hòa",
+      "name:vi-Hani": "沙的",
+      "name:zh-Hans": "沙沥市",
+      "name:zh-Hant": "沙瀝市",
+      "official_name": "Sa Đéc",
+      "official_name:en": "Sadec"
+    }
+  },
+  {
+    "name": "Sadiqabad",
+    "country": "Pakistan",
+    "latitude": 28.308666399911967,
+    "longitude": 70.1283004,
+    "other_names": {
+      "name": "صادق آباد",
+      "name:en": "Sadiqabad",
+      "name:ja": "サディカバード",
+      "name:kn": "ಸಾದಿಕಾಬಾದ್",
+      "name:ru": "Садикабад",
+      "name:sr": "Садикабад"
+    }
+  },
+  {
+    "name": "Sado",
+    "country": "Japan",
+    "latitude": 38.01825779998456,
+    "longitude": 138.3683995,
+    "other_names": {
+      "name": "佐渡市",
+      "name:en": "Sado",
+      "name:fr": "Sado",
+      "name:ja": "佐渡市",
+      "name:ko": "사도시",
+      "name:pl": "Sado",
+      "name:ru": "Садо",
+      "name:uk": "Садо",
+      "name:ja_rm": "Sado-shi",
+      "name:ja_kana": "さどし"
+    }
+  },
+  {
+    "name": "Saertu",
+    "country": "China",
+    "latitude": 46.59166460024131,
+    "longitude": 125.0762555,
+    "other_names": {
+      "name": "萨尔图区",
+      "name:en": "Saertu",
+      "name:zh": "萨尔图区",
+      "name:zh-Hant": "薩爾圖區"
+    }
+  },
+  {
+    "name": "Safaga",
+    "country": "Egypt",
+    "latitude": 26.763332500083813,
+    "longitude": 33.9383817,
+    "other_names": {
+      "name": "سفاجا",
+      "name:ar": "سفاجا",
+      "name:cs": "Safaga",
+      "name:de": "Safaga",
+      "name:en": "Safaga",
+      "name:es": "Safaga",
+      "name:fr": "Port Safaga",
+      "name:hu": "Szafaga",
+      "name:ru": "Сафага",
+      "alt_name": "بور سفاجة",
+      "name:int": "Safaga",
+      "alt_name:en": "Port Safaga"
+    }
+  }
+]

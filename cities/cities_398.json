@@ -1,0 +1,308 @@
+[
+  {
+    "name": "Rondonópolis",
+    "country": "Brazil",
+    "latitude": -16.46035330045505,
+    "longitude": -54.6397099,
+    "other_names": {
+      "name": "Rondonópolis",
+      "name:en": "Rondonópolis",
+      "name:ja": "ホンドノーポリス",
+      "name:kk": "Рондонополис",
+      "name:ko": "혼도노폴리스",
+      "name:lt": "Rondonopolis",
+      "name:pt": "Rondonópolis",
+      "name:ru": "Рондонополис",
+      "name:zh": "龙多诺波利斯",
+      "old_name": "Rio Vermelho",
+      "alt_name:en": "Rondonopolis"
+    }
+  },
+  {
+    "name": "Rong",
+    "country": "China",
+    "latitude": 22.861496300389035,
+    "longitude": 110.55370649999999,
+    "other_names": {
+      "name": "容县",
+      "name:de": "Rong",
+      "name:en": "Rong",
+      "name:fa": "شهرستان رونگ",
+      "name:fr": "Xian de Rong",
+      "name:it": "Contea di Rong",
+      "name:ja": "容県",
+      "name:ko": "룽현",
+      "name:no": "Rong",
+      "name:sv": "Rong",
+      "name:vi": "Dung",
+      "name:zh": "容县",
+      "alt_name": "容;Rong County",
+      "name:ceb": "Rong Xian",
+      "name:hak": "Yùng-yen",
+      "name:nan": "Iông-koān",
+      "name:yue": "容县",
+      "name:zh-Hant": "容縣",
+      "name:yue-Latn": "Jungjyun",
+      "name:zh_pinyin": "róng xiàn"
+    }
+  },
+  {
+    "name": "Rong",
+    "country": "China",
+    "latitude": 29.44555659979204,
+    "longitude": 104.41465129999999,
+    "other_names": {
+      "name": "荣县",
+      "name:en": "Rong",
+      "name:ja": "栄県",
+      "name:vi": "Vinh",
+      "name:zh": "荣县",
+      "alt_name": "荣;Rong County",
+      "int_name": "Rong Xian",
+      "name:zh-Hant": "榮縣",
+      "name:zh_pinyin": "Rong Xian"
+    }
+  },
+  {
+    "name": "Rong'an",
+    "country": "China",
+    "latitude": 25.227557100238105,
+    "longitude": 109.3928237,
+    "other_names": {
+      "name": "融安县",
+      "name:en": "Rong'an",
+      "name:zh": "融安县",
+      "alt_name": "融安;Rong'an County",
+      "name:zh-Hant": "融安縣",
+      "name:zh_pinyin": "róngān xiàn"
+    }
+  },
+  {
+    "name": "Rongchang",
+    "country": "China",
+    "latitude": 29.41856589979472,
+    "longitude": 105.6085344,
+    "other_names": {
+      "name": "荣昌区",
+      "name:en": "Rongchang",
+      "name:vi": "Vinh Xương",
+      "name:zh": "荣昌区",
+      "alt_name": "荣昌;Rongchang District",
+      "name:zh-Hant": "榮昌區"
+    }
+  },
+  {
+    "name": "Rongcheng",
+    "country": "China",
+    "latitude": 37.164946699869176,
+    "longitude": 122.482296,
+    "other_names": {
+      "name": "荣成市",
+      "name:de": "Rongcheng",
+      "name:en": "Rongcheng",
+      "name:fr": "Rongcheng",
+      "name:ja": "栄成市",
+      "name:ru": "Жунчэн",
+      "name:vi": "Vinh Thành",
+      "name:zh": "荣成市",
+      "int_name": "Rongcheng",
+      "name:zh-Hant": "榮成市",
+      "name:zh_pinyin": "Róngchéng Shì"
+    }
+  },
+  {
+    "name": "Rongcheng",
+    "country": "China",
+    "latitude": 23.5278913003602,
+    "longitude": 116.36233729999996,
+    "other_names": {
+      "name": "榕城区",
+      "name:de": "Rongcheng",
+      "name:en": "Rongcheng",
+      "name:fa": "ناحیه رانگچنگ",
+      "name:fr": "District de Rongcheng",
+      "name:it": "Distretto di Rongcheng",
+      "name:ja": "榕城区",
+      "name:ko": "룽청구",
+      "name:no": "Rongcheng",
+      "name:sv": "Rongcheng",
+      "name:vi": "Dong Thành",
+      "name:zh": "榕城区",
+      "alt_name": "榕城;Rongcheng District",
+      "name:mwl": "Rongcheng",
+      "name:nan": "Iông-siâⁿ-khu",
+      "name:yue": "榕城區",
+      "name:zh-Hant": "榕城區",
+      "name:zh_pinyin": "Róngchéng Qū"
+    }
+  },
+  {
+    "name": "Rongcheng",
+    "country": "China",
+    "latitude": 39.04518730013246,
+    "longitude": 115.85727629999998,
+    "other_names": {
+      "name": "容城县",
+      "name:en": "Rongcheng",
+      "name:zh": "容城县",
+      "alt_name": "容城;Rongcheng County",
+      "name:zh-Hant": "容城縣"
+    }
+  },
+  {
+    "name": "Rongjiang",
+    "country": "China",
+    "latitude": 25.937301900170564,
+    "longitude": 108.5203314,
+    "other_names": {
+      "name": "榕江县",
+      "name:en": "Rongjiang",
+      "name:ru": "Гучжоу",
+      "name:zh": "榕江县",
+      "alt_name": "古州镇;古州;榕江县;Guzhou",
+      "name:zh-Hant": "榕江縣",
+      "name:zh_pinyin": "gǔzhōu zhèn"
+    }
+  },
+  {
+    "name": "Rongshui",
+    "country": "China",
+    "latitude": 25.072221800251782,
+    "longitude": 109.2489315,
+    "other_names": {
+      "name": "融水县",
+      "name:en": "Rongshui",
+      "name:vi": "Dung Thủy",
+      "name:zh": "融水苗族自治县",
+      "alt_name": "融水;Rongshui Miao Autonomous County",
+      "short_name": "融水县",
+      "alt_name:vi": "Dung Thuỷ",
+      "name:zh-Hant": "融水縣",
+      "official_name": "融水苗族自治县"
+    }
+  },
+  {
+    "name": "Roodepoort",
+    "country": "South Africa And Lesotho",
+    "latitude": -26.156388899617678,
+    "longitude": 27.885833299999998,
+    "other_names": {
+      "name": "Roodepoort"
+    }
+  },
+  {
+    "name": "Roodepoort",
+    "country": "South Africa",
+    "latitude": -26.156388899617678,
+    "longitude": 27.885833299999998,
+    "other_names": {
+      "name": "Roodepoort"
+    }
+  },
+  {
+    "name": "Roodepoort",
+    "country": "South Africa And Lesotho",
+    "latitude": -26.11439188861933,
+    "longitude": 27.890990062358966,
+    "other_names": {
+      "name": "Roodepoort"
+    }
+  },
+  {
+    "name": "Roodepoort",
+    "country": "South Africa",
+    "latitude": -26.11439188861933,
+    "longitude": 27.890990062358966,
+    "other_names": {
+      "name": "Roodepoort"
+    }
+  },
+  {
+    "name": "Roorkee",
+    "country": "India",
+    "latitude": 29.86934959975158,
+    "longitude": 77.89021239999998,
+    "other_names": {
+      "name": "Roorkee",
+      "name:ar": "روركي",
+      "name:de": "Roorkee",
+      "name:en": "Roorkee",
+      "name:es": "Roorkee",
+      "name:fr": "Roorkee",
+      "name:he": "רורקי",
+      "name:hi": "रुड़की",
+      "name:ja": "ルールキー",
+      "name:kn": "ರೂರ್ಕಿ",
+      "name:ta": "ரூர்க்கி",
+      "name:te": "రూర్కీ",
+      "name:ur": "روڑکی",
+      "name:alt": "Rurki"
+    }
+  },
+  {
+    "name": "Rosario",
+    "country": "Uruguay",
+    "latitude": -34.311558799748795,
+    "longitude": -57.351291799999984,
+    "other_names": {
+      "name": "Rosario"
+    }
+  },
+  {
+    "name": "Rosario",
+    "country": "Argentina",
+    "latitude": -32.959500399522405,
+    "longitude": -60.66154149999999,
+    "other_names": {
+      "name": "Rosario",
+      "name:ar": "روزاريو",
+      "name:el": "Ροζάριο",
+      "name:es": "Rosario",
+      "name:he": "רוסאריו",
+      "name:ja": "ロサリオ",
+      "name:kn": "ರೊಸಾರ್ಯೋ",
+      "name:oc": "Rosario",
+      "name:ru": "Росарио",
+      "name:zh": "罗萨里奥"
+    }
+  },
+  {
+    "name": "Rosarito",
+    "country": "Mexico",
+    "latitude": 32.364812599597066,
+    "longitude": -117.05562599999998,
+    "other_names": {
+      "name": "Rosarito"
+    }
+  },
+  {
+    "name": "Roseville",
+    "country": "United States Of America",
+    "latitude": 38.752123500089944,
+    "longitude": -121.28800589999999,
+    "other_names": {
+      "name": "Roseville"
+    }
+  },
+  {
+    "name": "Roskilde",
+    "country": "Denmark",
+    "latitude": 55.64334779964319,
+    "longitude": 12.081924699999998,
+    "other_names": {
+      "name": "Roskilde",
+      "name:cv": "Роскильде",
+      "name:is": "Hróarskelda",
+      "name:ja": "ロスキレ",
+      "name:ka": "როსკილე",
+      "name:ko": "로스킬레",
+      "name:lt": "Roskildė",
+      "name:mk": "Роскилде",
+      "name:ru": "Роскилле",
+      "name:sr": "Роскилде",
+      "name:th": "รอสกิลด์",
+      "name:uk": "Роскілле",
+      "name:zh": "罗斯基勒"
+    }
+  }
+]

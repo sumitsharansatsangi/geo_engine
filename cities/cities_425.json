@@ -1,0 +1,316 @@
+[
+  {
+    "name": "Scranton",
+    "country": "United States Of America",
+    "latitude": 41.4086874004351,
+    "longitude": -75.6621294,
+    "other_names": {
+      "name": "Scranton"
+    }
+  },
+  {
+    "name": "Seattle",
+    "country": "United States Of America",
+    "latitude": 47.603832100030175,
+    "longitude": -122.3300624,
+    "other_names": {
+      "name": "Seattle",
+      "name:af": "Seattle",
+      "name:am": "ስያትል",
+      "name:ar": "سياتيل، واشنطن",
+      "name:be": "Сіэтл",
+      "name:bg": "Сиатъл",
+      "name:bs": "Seattle",
+      "name:eo": "Seatlo",
+      "name:fr": "Seattle",
+      "name:ja": "シアトル",
+      "name:kn": "ಸಿಯಾಟಲ್",
+      "name:ko": "시애틀",
+      "name:la": "Seattlum",
+      "name:lt": "Sietlas",
+      "name:lv": "Sietla",
+      "name:oc": "Seattle",
+      "name:ru": "Сиэтл",
+      "name:tt": "Сиэтл",
+      "name:ug": "Séatl",
+      "name:uk": "Сієтл",
+      "name:uz": "Sietl",
+      "name:zh": "西雅圖",
+      "name:nan": "Seattle",
+      "name:zh-Hans": "西雅图",
+      "name:zh-Hant": "西雅圖"
+    }
+  },
+  {
+    "name": "Sebt Gzoula",
+    "country": "Morocco",
+    "latitude": 32.108296999604725,
+    "longitude": -9.084263,
+    "other_names": {
+      "name": "Sebt Gzoula ⵙⴰⴱⵜ ⴳⴰⵣⵓⵍⴰ سبت گزولة",
+      "name:ar": "سبت گزولة",
+      "name:en": "Sebt Gzoula",
+      "name:fr": "Sebt Gzoula",
+      "name:ber": "ⵙⴰⴱⵜ ⴳⴰⵣⵓⵍⴰ",
+      "name:zgh": "ⵙⴰⴱⵜ ⴳⴰⵣⵓⵍⴰ"
+    }
+  },
+  {
+    "name": "Secunda",
+    "country": "South Africa",
+    "latitude": -26.516110999571275,
+    "longitude": 29.202778000000002,
+    "other_names": {
+      "name": "Secunda",
+      "name:ru": "Секунда"
+    }
+  },
+  {
+    "name": "Secunda",
+    "country": "South Africa And Lesotho",
+    "latitude": -26.516110999571275,
+    "longitude": 29.202778000000002,
+    "other_names": {
+      "name": "Secunda",
+      "name:ru": "Секунда"
+    }
+  },
+  {
+    "name": "Secunderabad",
+    "country": "India",
+    "latitude": 17.43372460018,
+    "longitude": 78.5006827,
+    "other_names": {
+      "name": "Secunderabad",
+      "name:ar": "سيكوندرأباد",
+      "name:hi": "सिकंदराबाद",
+      "name:kn": "ಸಿಕಂದರಾಬಾದ್",
+      "name:pa": "ਸਿਕੰਦਰਾਬਾਦ",
+      "name:ta": "சிக்கந்தராபாத்",
+      "name:te": "సికింద్రాబాద్",
+      "alt_name": "Sikandarabad",
+      "int_name": "Sikandarabad"
+    }
+  },
+  {
+    "name": "Sedalia",
+    "country": "United States Of America",
+    "latitude": 38.7098314000838,
+    "longitude": -93.2295515,
+    "other_names": {
+      "name": "Sedalia"
+    }
+  },
+  {
+    "name": "Segamat",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 2.512403599732517,
+    "longitude": 102.8137391,
+    "other_names": {
+      "name": "Segamat",
+      "name:fa": "سگامات",
+      "name:ko": "스가맛",
+      "name:ta": "சிகாமட்",
+      "name:zh": "昔加末"
+    }
+  },
+  {
+    "name": "Ségou",
+    "country": "Mali",
+    "latitude": 13.441517999727033,
+    "longitude": -6.268146999999999,
+    "other_names": {
+      "name": "Ségou",
+      "name:ar": "سيغو",
+      "name:bm": "Ségu",
+      "name:fa": "سگو",
+      "name:fr": "Ségou",
+      "name:ko": "세구",
+      "name:ru": "Сегу",
+      "name:ur": "سیگو",
+      "name:azb": "سقو"
+    }
+  },
+  {
+    "name": "Segovia",
+    "country": "Spain",
+    "latitude": 40.950215900386546,
+    "longitude": -4.1241494,
+    "other_names": {
+      "name": "Segovia",
+      "name:ar": "شقوبية",
+      "name:be": "Сеговія",
+      "name:ca": "Segòvia",
+      "name:el": "Σεγόβια",
+      "name:es": "Segovia",
+      "name:fa": "سگوبیا",
+      "name:fr": "Ségovie",
+      "name:lt": "Segovija",
+      "name:ru": "Сеговия",
+      "name:sr": "Сеговија",
+      "name:ur": "شقوبیہ",
+      "name:zh": "塞哥維亞",
+      "alt_name:ar": "شقوبي;شقوبيه;أشقوبيه;سيجوفيا"
+    }
+  },
+  {
+    "name": "Sehore",
+    "country": "India",
+    "latitude": 23.204920100375645,
+    "longitude": 77.0845745,
+    "other_names": {
+      "name": "Sehore",
+      "name:hi": "सीहोर"
+    }
+  },
+  {
+    "name": "Sehwan",
+    "country": "Pakistan",
+    "latitude": 26.425595900120115,
+    "longitude": 67.8625638,
+    "other_names": {
+      "name": "سیہون",
+      "name:ar": "سيهون",
+      "name:en": "Sehwan",
+      "name:fa": "سیهون",
+      "name:ru": "Сехван",
+      "name:sd": "سيوھڻ",
+      "name:ur": "سیہون",
+      "official_name": "سیہون شریف",
+      "official_name:ar": "سيهون شريف",
+      "official_name:fa": "سیهون شریف",
+      "official_name:sd": "سيوھڻ شريف",
+      "official_name:ur": "سیہون شریف"
+    }
+  },
+  {
+    "name": "Seia",
+    "country": "Portugal",
+    "latitude": 40.4200998003226,
+    "longitude": -7.702805399999998,
+    "other_names": {
+      "name": "Seia"
+    }
+  },
+  {
+    "name": "Seinäjoki",
+    "country": "Finland",
+    "latitude": 62.79541040113853,
+    "longitude": 22.8442015,
+    "other_names": {
+      "name": "Seinäjoki",
+      "name:fi": "Seinäjoki",
+      "name:ru": "Сейняйоки",
+      "name:sr": "Сејнејоки",
+      "name:sr-Latn": "Seinajoki"
+    }
+  },
+  {
+    "name": "Seiyo",
+    "country": "Japan",
+    "latitude": 33.3625532995886,
+    "longitude": 132.51093939999998,
+    "other_names": {
+      "name": "西予市",
+      "name:ar": "سييو، إهيمه",
+      "name:de": "Seiyo",
+      "name:en": "Seiyo",
+      "name:es": "Seiyo",
+      "name:fr": "Seiyo",
+      "name:ja": "西予市",
+      "name:ko": "세이요시",
+      "name:pl": "Seiyo",
+      "name:ru": "Сейё",
+      "name:uk": "Сеййо",
+      "name:zh": "西予市",
+      "int_name": "Seiyo",
+      "name:zh-Hans": "西予市",
+      "name:zh-Hant": "西予市"
+    }
+  },
+  {
+    "name": "Sejong",
+    "country": "South Korea",
+    "latitude": 36.47999989978649,
+    "longitude": 127.28899999999999,
+    "other_names": {
+      "name": "세종",
+      "name:cs": "Sedžong",
+      "name:de": "Sejong",
+      "name:el": "Σέτζονγκ",
+      "name:en": "Sejong",
+      "name:es": "Sejong",
+      "name:et": "Sejong",
+      "name:fr": "Sejong",
+      "name:ja": "世宗特別自治市",
+      "name:ko": "세종",
+      "name:lt": "Sedžongas",
+      "name:ru": "Седжон",
+      "name:th": "เมืองเซจง",
+      "name:zh": "世宗特别自治市",
+      "int_name": "Sejong",
+      "short_name": "세종",
+      "alt_name:en": "Sejong Special Autonomous City",
+      "name:ko-Hani": "世宗",
+      "name:zh-Hans": "世宗特别自治市",
+      "name:zh-Hant": "世宗特別自治市",
+      "official_name": "세종특별자치시",
+      "official_name:en": "Sejong Metropolitan Autonomous City",
+      "official_name:ja": "世宗特別自治市",
+      "official_name:ko": "세종특별자치시",
+      "official_name:zh": "世宗特別自治市",
+      "official_name:ko-Hani": "世宗特別自治市"
+    }
+  },
+  {
+    "name": "Seki",
+    "country": "Japan",
+    "latitude": 35.495803099689255,
+    "longitude": 136.9181482,
+    "other_names": {
+      "name": "関市",
+      "name:en": "Seki",
+      "name:fr": "Seki",
+      "name:ja": "関市",
+      "name:ko": "세키시",
+      "name:pl": "Seki",
+      "name:ru": "Секи",
+      "name:uk": "Секі",
+      "name:ja_rm": "Seki-shi",
+      "name:ja_kana": "せきし"
+    }
+  },
+  {
+    "name": "Sekondi-Takoradi",
+    "country": "Ghana",
+    "latitude": 4.927455999512019,
+    "longitude": -1.7490215999999998,
+    "other_names": {
+      "name": "Sekondi-Takoradi",
+      "name:en": "Sekondi-Takoradi",
+      "name:ru": "Секонди-Такоради",
+      "name:uk": "Секонді-Такораді"
+    }
+  },
+  {
+    "name": "Selayang",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 3.25371209965731,
+    "longitude": 101.6539012,
+    "other_names": {
+      "name": "Selayang",
+      "name:ja": "スラヤン",
+      "name:zh": "士拉央"
+    }
+  },
+  {
+    "name": "Selkirk",
+    "country": "Canada",
+    "latitude": 50.14698599941934,
+    "longitude": -96.880188,
+    "other_names": {
+      "name": "Selkirk",
+      "name:uk": "Селкірк"
+    }
+  }
+]

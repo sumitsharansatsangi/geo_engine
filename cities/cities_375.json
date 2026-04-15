@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Prokuplje",
+    "country": "Serbia",
+    "latitude": 43.234348400540824,
+    "longitude": 21.5884422,
+    "other_names": {
+      "name": "Прокупље",
+      "name:de": "Prokuplje",
+      "name:el": "Προκούπλιε",
+      "name:en": "Prokuplje",
+      "name:hr": "Prokuplje",
+      "name:ru": "Прокупле",
+      "name:sl": "Prokuplje",
+      "name:sr": "Прокупље",
+      "name:old": "Prokuplje",
+      "name:sr-Latn": "Prokuplje"
+    }
+  },
+  {
+    "name": "Providence",
+    "country": "United States Of America",
+    "latitude": 41.8239891004725,
+    "longitude": -71.41283429999999,
+    "other_names": {
+      "name": "Providence",
+      "name:en": "Providence",
+      "name:pl": "Providence",
+      "name:ru": "Провиденс",
+      "name:ta": "பிராவிடென்ஸ்",
+      "name:uk": "Провіденс"
+    }
+  },
+  {
+    "name": "Provo",
+    "country": "United States Of America",
+    "latitude": 40.23384380029851,
+    "longitude": -111.65853369999999,
+    "other_names": {
+      "name": "Provo",
+      "name:en": "Provo",
+      "name:ru": "Прово",
+      "name:uk": "Прово"
+    }
+  },
+  {
+    "name": "Przemyśl",
+    "country": "Poland",
+    "latitude": 49.78215619950258,
+    "longitude": 22.7692634,
+    "other_names": {
+      "name": "Przemyśl",
+      "name:be": "Пшэмысль",
+      "name:cs": "Přemyšl",
+      "name:de": "Premissel",
+      "name:ja": "プシェムィシル",
+      "name:lt": "Peremyšlis",
+      "name:mk": "Пшемишл",
+      "name:pl": "Przemyśl",
+      "name:ru": "Пшемысль",
+      "name:uk": "Перемишль",
+      "alt_name:de": "Prömsel"
+    }
+  },
+  {
+    "name": "Pskov",
+    "country": "Russia",
+    "latitude": 57.80811695139618,
+    "longitude": 28.36499159277651,
+    "other_names": {
+      "name": "Псков",
+      "name:de": "Pskow",
+      "name:en": "Pskov",
+      "name:et": "Pihkva",
+      "name:fi": "Pihkova",
+      "name:lv": "Pleskava",
+      "name:pl": "Psków",
+      "name:ru": "Псков",
+      "alt_name": "Город Псков"
+    }
+  },
+  {
+    "name": "Pskov",
+    "country": "Russia",
+    "latitude": 57.81739800068121,
+    "longitude": 28.334367999999998,
+    "other_names": {
+      "name": "Псков",
+      "name:ar": "بسكوف",
+      "name:be": "Пскоў",
+      "name:da": "Pskov",
+      "name:de": "Pleskau",
+      "name:en": "Pskov",
+      "name:es": "Pskov",
+      "name:et": "Pihkva",
+      "name:fi": "Pihkova",
+      "name:fr": "Pskov",
+      "name:hu": "Pszkov",
+      "name:hy": "Պսկով",
+      "name:ka": "ფსკოვი",
+      "name:la": "Pscovia",
+      "name:lt": "Pskovas",
+      "name:lv": "Pleskava",
+      "name:nl": "Pskov",
+      "name:pl": "Psków",
+      "name:ru": "Псков",
+      "name:sk": "Pskov",
+      "name:sr": "Псков",
+      "name:uk": "Псков",
+      "int_name": "Pskov",
+      "name:hsb": "Pskow",
+      "old_name": "Пльсковъ",
+      "name:full": "город Псков",
+      "alt_name:de": "Pleskau",
+      "old_name:de": "Pleskow"
+    }
+  },
+  {
+    "name": "Pu'an",
+    "country": "China",
+    "latitude": 25.790619600185142,
+    "longitude": 104.95246539999998,
+    "other_names": {
+      "name": "普安县",
+      "name:en": "Pu'an",
+      "name:zh": "普安县",
+      "name:zh-Hant": "普安縣"
+    }
+  },
+  {
+    "name": "Pubei",
+    "country": "China",
+    "latitude": 22.272958000404472,
+    "longitude": 109.551843,
+    "other_names": {
+      "name": "浦北县",
+      "name:en": "Pubei",
+      "name:vi": "Huyện Phố Bắc",
+      "name:zh": "浦北县",
+      "alt_name": "浦北;P'u-pei",
+      "name:yue": "浦北县",
+      "name:zh-Hant": "浦北縣",
+      "name:yue-Latn": "Poubak-jin",
+      "name:zh_pinyin": "Pǔběi Xiàn"
+    }
+  },
+  {
+    "name": "Pucallpa",
+    "country": "Peru",
+    "latitude": -8.38207369978506,
+    "longitude": -74.53875069999998,
+    "other_names": {
+      "name": "Pucallpa",
+      "name:de": "Pucallpa",
+      "name:en": "Pucallpa",
+      "name:es": "Pucallpa",
+      "name:pl": "Pucallpa",
+      "name:qu": "Pukallpa",
+      "name:ru": "Пукальпа",
+      "name:uk": "Пукальпа"
+    }
+  },
+  {
+    "name": "Pucheng",
+    "country": "China",
+    "latitude": 27.920664999955104,
+    "longitude": 118.5364676,
+    "other_names": {
+      "name": "浦城县",
+      "name:de": "Pucheng",
+      "name:en": "Pucheng",
+      "name:es": "Pŭchéng",
+      "name:fa": "شهرستان پوشنگ",
+      "name:fr": "Pucheng",
+      "name:it": "Pucheng",
+      "name:ja": "浦城県",
+      "name:ko": "푸청현 (난핑시)",
+      "name:no": "Pucheng",
+      "name:ru": "Наньпу",
+      "name:sv": "Pucheng",
+      "name:vi": "Phố Thành",
+      "name:zh": "浦城县",
+      "alt_name": "浦城;Pucheng County",
+      "name:cdo": "Puō-siàng",
+      "name:ceb": "Pucheng",
+      "name:hak": "Phú-sàng-yen",
+      "name:mwl": "Pucheng",
+      "name:nan": "Phó͘-siâⁿ-koān",
+      "name:wuu": "浦城",
+      "name:yue": "浦城",
+      "name:zh-Hant": "浦城縣",
+      "name:zh_pinyin": "pǔchéng xiàn"
+    }
+  },
+  {
+    "name": "Pucheng",
+    "country": "China",
+    "latitude": 34.958740599648905,
+    "longitude": 109.5862048,
+    "other_names": {
+      "name": "蒲城县",
+      "name:en": "Pucheng",
+      "name:vi": "Bồ Thành",
+      "name:zh": "蒲城县",
+      "name:zh-Hant": "蒲城縣",
+      "name:zh_pinyin": "Pucheng Xian"
+    }
+  },
+  {
+    "name": "Puding",
+    "country": "China",
+    "latitude": 26.305299900132788,
+    "longitude": 105.73970499999999,
+    "other_names": {
+      "name": "普定县",
+      "name:en": "Puding",
+      "name:zh": "普定县",
+      "alt_name": "普定县",
+      "name:zh-Hant": "普定縣"
+    }
+  },
+  {
+    "name": "Pudong",
+    "country": "China",
+    "latitude": 31.221782599647,
+    "longitude": 121.53874009999997,
+    "other_names": {
+      "name": "浦东新区",
+      "name:ar": "بودونغ",
+      "name:az": "Pudun",
+      "name:cs": "Pchu-tung",
+      "name:da": "Pudong",
+      "name:de": "Pudong",
+      "name:en": "Pudong",
+      "name:es": "Pudong",
+      "name:eu": "Pudong barrutia",
+      "name:fa": "پودانگ",
+      "name:fi": "Pudong",
+      "name:fr": "District de Pudong",
+      "name:gl": "Pudong",
+      "name:he": "פודונג",
+      "name:hu": "Putung",
+      "name:id": "Pudong",
+      "name:it": "Pudong",
+      "name:ja": "浦東新区",
+      "name:ko": "푸둥 신구",
+      "name:lt": "Pudongas",
+      "name:nl": "Pudong",
+      "name:nn": "Pudong",
+      "name:no": "Pudong",
+      "name:pl": "Pudong",
+      "name:pt": "Pudong",
+      "name:ro": "Pudong",
+      "name:ru": "Пудун",
+      "name:sk": "Pchu-tung",
+      "name:sv": "Pudong",
+      "name:tl": "Pudong",
+      "name:tr": "Pudong",
+      "name:uk": "Пудун",
+      "name:ur": "پودانگ",
+      "name:vi": "Phố Đông",
+      "name:zh": "浦东新区",
+      "alt_name": "浦东",
+      "name:ast": "Pudong",
+      "name:ceb": "Pudong Xinqu",
+      "name:nan": "Phó͘-tong Sin-khu",
+      "name:wuu": "浦东新区",
+      "name:yue": "浦東新區",
+      "name:zh-Hant": "浦東新區",
+      "name:zh_pinyin": "Pǔdōng Xīn Qū"
+    }
+  },
+  {
+    "name": "Puducherry",
+    "country": "India",
+    "latitude": 11.934056799574416,
+    "longitude": 79.83064469999998,
+    "other_names": {
+      "name": "Puducherry",
+      "name:ar": "بودوتشيري",
+      "name:cs": "Puttuččéri",
+      "name:en": "Puducherry",
+      "name:fa": "پودوچری",
+      "name:fr": "Pondichéry",
+      "name:he": "פודוצ'רי",
+      "name:hi": "पुदुच्चेरी",
+      "name:ja": "ポンディシェリ",
+      "name:kn": "ಪುದುಚ್ಚೇರೀ",
+      "name:ku": "Puduçerî",
+      "name:ml": "പുതുച്ചേരി",
+      "name:ru": "Пондичерри",
+      "name:sr": "Пондишери",
+      "name:ta": "புதுச்சேரி",
+      "name:te": "పుదుచ్చేరి",
+      "name:uk": "Пудучеррі",
+      "name:ur": "پدوچیری",
+      "name:zh": "本地治里",
+      "alt_name": "Pondicherry",
+      "int_name": "Pondicherry",
+      "old_name": "Pondicherry"
+    }
+  },
+  {
+    "name": "Puebla",
+    "country": "Mexico",
+    "latitude": 19.043719600317484,
+    "longitude": -98.1981486,
+    "other_names": {
+      "name": "Puebla",
+      "name:en": "Puebla",
+      "name:es": "Puebla de Zaragoza",
+      "name:pl": "Puebla",
+      "name:pt": "Puebla",
+      "alt_name": "Heróica Puebla de Zaragoza",
+      "int_name": "Puebla",
+      "old_name": "Puebla de los Ángeles"
+    }
+  },
+  {
+    "name": "Pueblo",
+    "country": "United States Of America",
+    "latitude": 38.25444720001811,
+    "longitude": -104.609141,
+    "other_names": {
+      "name": "Pueblo",
+      "name:en": "Pueblo",
+      "name:ru": "Пуэбло",
+      "name:uk": "Пуебло"
+    }
+  },
+  {
+    "name": "Pu'er",
+    "country": "China",
+    "latitude": 22.827247100390203,
+    "longitude": 100.96501459999999,
+    "other_names": {
+      "name": "普洱市",
+      "name:de": "Pu'er",
+      "name:en": "Pu'er",
+      "name:et": "Pu'er",
+      "name:fi": "Puer",
+      "name:fr": "Pu'er",
+      "name:ja": "普ジ市",
+      "name:ru": "Нинъэр",
+      "name:vi": "Phổ Nhĩ",
+      "name:zh": "普洱市",
+      "int_name": "Pu'er",
+      "old_name": "思茅市",
+      "old_name:en": "Simao",
+      "name:zh-Hant": "普洱市",
+      "name:zh_pinyin": "Pǔěr Shì"
+    }
+  },
+  {
+    "name": "Puerto Ayacucho",
+    "country": "Colombia",
+    "latitude": 5.6590425994636,
+    "longitude": -67.60862999999999,
+    "other_names": {
+      "name": "Puerto Ayacucho",
+      "name:en": "Puerto Ayacucho",
+      "name:hu": "Puerto Ayacucho",
+      "name:ru": "Пуэрто-Аякучо"
+    }
+  },
+  {
+    "name": "Puerto Ayacucho",
+    "country": "Venezuela",
+    "latitude": 5.6590425994636,
+    "longitude": -67.60862999999999,
+    "other_names": {
+      "name": "Puerto Ayacucho",
+      "name:en": "Puerto Ayacucho",
+      "name:hu": "Puerto Ayacucho",
+      "name:ru": "Пуэрто-Аякучо"
+    }
+  },
+  {
+    "name": "Puerto Aysén",
+    "country": "Chile",
+    "latitude": -45.40681670037582,
+    "longitude": -72.6976787,
+    "other_names": {
+      "name": "Puerto Aysén",
+      "name:ru": "Пуэрто-Айсен"
+    }
+  }
+]

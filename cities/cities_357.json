@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Pariaman",
+    "country": "Indonesia",
+    "latitude": -0.6263888999375606,
+    "longitude": 100.11777779999998,
+    "other_names": {
+      "name": "Pariaman",
+      "name:id": "Pariaman"
+    }
+  },
+  {
+    "name": "Parintins",
+    "country": "Brazil",
+    "latitude": -2.6344566997728927,
+    "longitude": -56.73193239999999,
+    "other_names": {
+      "name": "Parintins",
+      "name:ka": "პარინტინსი",
+      "name:kk": "Паринтинс",
+      "name:lt": "Parintinšas",
+      "name:mk": "Паринтинш",
+      "name:pt": "Parintins",
+      "name:ru": "Паринтинс"
+    }
+  },
+  {
+    "name": "Paris",
+    "country": "France",
+    "latitude": 48.85669689972787,
+    "longitude": 2.3514616,
+    "other_names": {
+      "name": "Paris",
+      "name:af": "Parys",
+      "name:am": "ፓሪስ",
+      "name:an": "París",
+      "name:ar": "باريس",
+      "name:ba": "Париж",
+      "name:be": "Парыж",
+      "name:bg": "Париж",
+      "name:bn": "প্যারিস",
+      "name:bo": "ཕ་རི།",
+      "name:br": "Pariz",
+      "name:bs": "Pariz",
+      "name:ca": "París",
+      "name:co": "Parighji",
+      "name:cs": "Paříž",
+      "name:cu": "Парижь",
+      "name:cv": "Парис",
+      "name:de": "Paris",
+      "name:el": "Παρίσι",
+      "name:en": "Paris",
+      "name:eo": "Parizo",
+      "name:es": "París",
+      "name:et": "Pariis",
+      "name:eu": "Paris",
+      "name:fa": "پاریس",
+      "name:fi": "Pariisi",
+      "name:fr": "Paris",
+      "name:fy": "Parys",
+      "name:ga": "Páras",
+      "name:gl": "París",
+      "name:gn": "Parĩ",
+      "name:gu": "પૅરિસ",
+      "name:gv": "Paarys",
+      "name:ha": "Pariis",
+      "name:he": "פריז",
+      "name:hi": "पैरिस",
+      "name:hr": "Pariz",
+      "name:ht": "Pari",
+      "name:hu": "Párizs",
+      "name:hy": "Փարիզ",
+      "name:is": "París",
+      "name:it": "Parigi",
+      "name:ja": "パリ",
+      "name:ka": "პარიზი",
+      "name:kk": "Париж",
+      "name:km": "ប៉ារីស",
+      "name:kn": "ಪ್ಯಾರಿಸ್",
+      "name:ko": "파리",
+      "name:ku": "Parîs",
+      "name:kv": "Париж",
+      "name:ky": "Париж",
+      "name:la": "Lutetia",
+      "name:lb": "Paräis",
+      "name:li": "Paries",
+      "name:ln": "Pari",
+      "name:lt": "Paryžius",
+      "name:lv": "Parīze",
+      "name:mi": "Parī",
+      "name:mk": "Париз",
+      "name:ml": "പാരിസ്",
+      "name:mn": "Парис",
+      "name:mr": "पॅरिस",
+      "name:my": "ပါရီမြို့",
+      "name:ne": "पेरिस",
+      "name:nl": "Parijs",
+      "name:no": "Paris",
+      "name:oc": "París",
+      "name:or": "ପ୍ୟାରିସ",
+      "name:os": "Париж",
+      "name:pa": "ਪੈਰਿਸ",
+      "name:pl": "Paryż",
+      "name:ps": "پاريس",
+      "name:pt": "Paris",
+      "name:ru": "Париж",
+      "name:sc": "Parigi",
+      "name:sh": "Pariz",
+      "name:sk": "Paríž",
+      "name:sl": "Pariz",
+      "name:so": "Baariis",
+      "name:sq": "Parisi",
+      "name:sr": "Париз",
+      "name:sv": "Paris",
+      "name:ta": "பாரிஸ்",
+      "name:te": "పారిస్",
+      "name:tg": "Париж",
+      "name:th": "ปารีส",
+      "name:tk": "Pariž",
+      "name:tl": "Paris",
+      "name:tt": "Париж",
+      "name:ug": "پارىژ",
+      "name:uk": "Париж",
+      "name:ur": "پیرس",
+      "name:uz": "Parij",
+      "name:vi": "Paris",
+      "name:wo": "Pari",
+      "name:yi": "פאריז",
+      "name:yo": "Parisi",
+      "name:za": "Bahliz",
+      "name:zh": "巴黎",
+      "name:zu": "IParisi",
+      "loc_name": "Paname",
+      "name:arc": "ܦܐܪܝܣ",
+      "name:arz": "باريس",
+      "name:ast": "París",
+      "name:cdo": "Bă-là̤",
+      "name:ckb": "پاریس",
+      "name:csb": "Pariz",
+      "name:eml": "Parì",
+      "name:ext": "París",
+      "name:fur": "Parîs",
+      "name:gan": "巴黎",
+      "name:hak": "Pâ-lì-sṳ",
+      "name:haw": "Palika",
+      "name:jbo": "paris",
+      "name:koi": "Париж",
+      "name:krc": "Париж",
+      "name:lez": "Париж",
+      "name:lij": "Pariggi",
+      "name:lzh": "巴黎",
+      "name:mhr": "Париж",
+      "name:mrj": "Париж",
+      "name:myv": "Париж ош",
+      "name:mzn": "پاریس",
+      "name:nan": "Pa-lí",
+      "name:nap": "Parigge",
+      "name:nds": "Paris",
+      "name:pnb": "پیرس",
+      "name:rue": "Паріж",
+      "name:sah": "Париж",
+      "name:scn": "Pariggi",
+      "name:szl": "Paryż",
+      "name:tet": "París",
+      "name:tzl": "Parighi",
+      "name:udm": "Париж",
+      "name:vec": "Parixe",
+      "name:vep": "Pariž",
+      "name:vls": "Parys",
+      "name:xmf": "პარიზი",
+      "name:yue": "巴黎",
+      "old_name": "Lutèce",
+      "alt_name:vi": "Ba Lê",
+      "loc_name:fr": "Paname",
+      "name:nds-nl": "Paries",
+      "old_name:fr": "Lutèce",
+      "old_name:vi": "Ba Lê",
+      "name:bat-smg": "Parīžios",
+      "name:fiu-vro": "Pariis",
+      "name:roa-rup": "Parij",
+      "name:roa-tara": "Parigge",
+      "name:be-tarask": "Парыж",
+      "name:zh_pinyin": "Bālí",
+      "name:pronunciation": "paʁi",
+      "name:en:pronunciation": "ˈpæɹ.ɪs",
+      "name:fr:pronunciation": "paʁi"
+    }
+  },
+  {
+    "name": "Parkersburg",
+    "country": "United States Of America",
+    "latitude": 39.269956500164895,
+    "longitude": -81.5506916,
+    "other_names": {
+      "name": "Parkersburg"
+    }
+  },
+  {
+    "name": "Parkersburg",
+    "country": "United States Of America",
+    "latitude": 39.269956500164895,
+    "longitude": -81.5506916,
+    "other_names": {
+      "name": "Parkersburg"
+    }
+  },
+  {
+    "name": "Parksville",
+    "country": "Canada",
+    "latitude": 49.31795139961399,
+    "longitude": -124.31173969999996,
+    "other_names": {
+      "name": "Parksville"
+    }
+  },
+  {
+    "name": "Parla",
+    "country": "Spain",
+    "latitude": 40.237395200298984,
+    "longitude": -3.771890199999999,
+    "other_names": {
+      "name": "Parla",
+      "name:ar": "بارلا",
+      "name:el": "Πάρλα",
+      "name:fa": "پارلا",
+      "name:hu": "Parla",
+      "name:ja": "パルラ",
+      "name:ru": "Парла",
+      "name:sr": "Парла",
+      "name:uk": "Парла",
+      "name:ur": "پرلا",
+      "name:zh": "帕尔拉"
+    }
+  },
+  {
+    "name": "Parma",
+    "country": "Italy",
+    "latitude": 44.80136780048599,
+    "longitude": 10.3280833,
+    "other_names": {
+      "name": "Parma",
+      "name:el": "Πάρμα",
+      "name:en": "Parma",
+      "name:fr": "Parme",
+      "name:he": "פארמה",
+      "name:ru": "Парма",
+      "name:sr": "Парма",
+      "name:uk": "Парма",
+      "name:zh": "帕爾馬",
+      "name:egl": "Pärma",
+      "name:zh-Hans": "帕尔马",
+      "old_name:lat": "Parma"
+    }
+  },
+  {
+    "name": "Parma",
+    "country": "United States Of America",
+    "latitude": 41.382239800432494,
+    "longitude": -81.7355692,
+    "other_names": {
+      "name": "Parma"
+    }
+  },
+  {
+    "name": "Parnaíba",
+    "country": "Brazil",
+    "latitude": -2.914751499755599,
+    "longitude": -41.7661953,
+    "other_names": {
+      "name": "Parnaíba",
+      "name:el": "Παρναΐμπα",
+      "name:ka": "პარნაიბა",
+      "name:kk": "Парнаиба",
+      "name:lt": "Parnaiba",
+      "name:lv": "Parnaiba",
+      "name:pt": "Parnaíba",
+      "name:ru": "Парнаиба",
+      "name:zh": "巴纳伊巴"
+    }
+  },
+  {
+    "name": "Parnamirim",
+    "country": "Brazil",
+    "latitude": -5.915333399683348,
+    "longitude": -35.2679913,
+    "other_names": {
+      "name": "Parnamirim",
+      "name:kk": "Парнамирин",
+      "name:lt": "Parnamirinas",
+      "name:lv": "Parnamirima",
+      "name:pt": "Parnamirim",
+      "name:ru": "Парнамирин"
+    }
+  },
+  {
+    "name": "Paro",
+    "country": "Bhutan",
+    "latitude": 27.430767400009966,
+    "longitude": 89.412987,
+    "other_names": {
+      "name": "སྤ་རོ",
+      "name:cs": "Paro",
+      "name:de": "Paro",
+      "name:en": "Paro",
+      "name:es": "Paro",
+      "name:hi": "परो",
+      "name:hu": "Paro",
+      "name:ja": "パロ",
+      "name:zh": "帕罗"
+    }
+  },
+  {
+    "name": "Pars Abad",
+    "country": "Iran",
+    "latitude": 39.646173500218445,
+    "longitude": 47.91855100000001,
+    "other_names": {
+      "name": "پارس آباد",
+      "name:en": "Pars Abad",
+      "name:hi": "पारसाबाद",
+      "name:ja": "パールサバード",
+      "name:ru": "Парсабад",
+      "int_name": "Parsabad",
+      "old_name": "مغان"
+    }
+  },
+  {
+    "name": "Pasadena",
+    "country": "United States Of America",
+    "latitude": 34.14764519960684,
+    "longitude": -118.14447789999998,
+    "other_names": {
+      "name": "Pasadena",
+      "name:en": "Pasadena"
+    }
+  },
+  {
+    "name": "Pasadena",
+    "country": "United States Of America",
+    "latitude": 29.691062499768254,
+    "longitude": -95.2091006,
+    "other_names": {
+      "name": "Pasadena"
+    }
+  },
+  {
+    "name": "Pasaquina",
+    "country": "El Salvador",
+    "latitude": 13.583865899742868,
+    "longitude": -87.83894339999999,
+    "other_names": {
+      "name": "Pasaquina"
+    }
+  },
+  {
+    "name": "Pasay",
+    "country": "Philippines",
+    "latitude": 14.543699499853433,
+    "longitude": 120.99465030000002,
+    "other_names": {
+      "ref": "137605000",
+      "name": "Pasay",
+      "name:ja": "パサイ"
+    }
+  },
+  {
+    "name": "Pașcani",
+    "country": "Romania",
+    "latitude": 47.24807650010908,
+    "longitude": 26.725642299999997,
+    "other_names": {
+      "name": "Pașcani",
+      "name:he": "פשקאן",
+      "name:hu": "Páskán",
+      "name:lt": "Paškanis",
+      "name:ru": "Пашканы",
+      "name:uk": "Пашкань"
+    }
+  },
+  {
+    "name": "Pașcani",
+    "country": "Romania",
+    "latitude": 47.25111727603306,
+    "longitude": 26.72742776166675,
+    "other_names": {
+      "name": "Pașcani"
+    }
+  },
+  {
+    "name": "Pasco",
+    "country": "United States Of America",
+    "latitude": 46.23067390030525,
+    "longitude": -119.09210059999997,
+    "other_names": {
+      "name": "Pasco"
+    }
+  }
+]

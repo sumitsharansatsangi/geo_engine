@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Bo'ai",
+    "country": "China",
+    "latitude": 35.170495599663674,
+    "longitude": 113.06685389999998,
+    "other_names": {
+      "name": "博爱县",
+      "name:en": "Bo'ai",
+      "name:vi": "Bác Ái",
+      "name:zh": "博爱县",
+      "alt_name": "博爱;Bo'ai County",
+      "name:zh-Hant": "博愛縣",
+      "name:zh_pinyin": "Bo'ai Xian"
+    }
+  },
+  {
+    "name": "Boat Harbour",
+    "country": "Canada",
+    "latitude": 47.430853816875796,
+    "longitude": -54.85727747606457,
+    "other_names": {
+      "name": "Boat Harbour"
+    }
+  },
+  {
+    "name": "Boa Vista",
+    "country": "Brazil",
+    "latitude": 2.8208477997006614,
+    "longitude": -60.671958199999985,
+    "other_names": {
+      "name": "Boa Vista",
+      "name:ar": "بوا فيستا",
+      "name:be": "Боа-Віста",
+      "name:bg": "Боа Виста",
+      "name:de": "Boa Vista",
+      "name:en": "Boa Vista",
+      "name:fa": "بوا ویستا",
+      "name:he": "בואה ויסטה",
+      "name:hy": "Բոա Վիստա",
+      "name:ja": "ボア・ヴィスタ",
+      "name:ka": "ბოა-ვისტა",
+      "name:kk": "Боа-Виста",
+      "name:ko": "보아비스타",
+      "name:lt": "Boa Višta",
+      "name:lv": "Boavista",
+      "name:mk": "Боа Вишта",
+      "name:mr": "बोआ व्हिस्ता",
+      "name:pl": "Boa Vista",
+      "name:pt": "Boa Vista",
+      "name:ru": "Боа-Виста",
+      "name:sr": "Боа Виста",
+      "name:tg": "Боа-Виста",
+      "name:uk": "Боа-Віста",
+      "name:uz": "BoaVista",
+      "name:zh": "博阿维斯塔"
+    }
+  },
+  {
+    "name": "Bobai",
+    "country": "China",
+    "latitude": 22.276035900404416,
+    "longitude": 109.97150919999999,
+    "other_names": {
+      "name": "博白县",
+      "name:de": "Bobai",
+      "name:en": "Bobai",
+      "name:fa": "شهرستان بوبای",
+      "name:fr": "Xian de Bobai",
+      "name:it": "Contea di Bobai",
+      "name:ja": "博白県",
+      "name:ko": "보바이현",
+      "name:no": "Bobai",
+      "name:sv": "Bobai",
+      "name:vi": "Bác Bạch",
+      "name:zh": "博白县",
+      "alt_name": "博白;Bobai County",
+      "name:ceb": "Bobai Xian",
+      "name:hak": "Pok-pha̍k-yen",
+      "name:nan": "Phok-pe̍k-koān",
+      "name:yue": "博白县",
+      "name:zh-Hant": "博白縣",
+      "name:yue-Latn": "Bbokbak-jyun",
+      "name:zh_pinyin": "bóbái xiàn"
+    }
+  },
+  {
+    "name": "Bobo-Dioulasso",
+    "country": "Burkina Faso",
+    "latitude": 11.175778299511563,
+    "longitude": -4.2957591,
+    "other_names": {
+      "name": "Bobo-Dioulasso",
+      "name:ar": "بوبو ديولاسو",
+      "name:bm": "Bobojulaso",
+      "name:fr": "Bobo-Dioulasso",
+      "name:ko": "보보디울라소",
+      "name:ru": "Бобо-Диуласо"
+    }
+  },
+  {
+    "name": "Bocaranga",
+    "country": "Central African Republic",
+    "latitude": 6.995896999405388,
+    "longitude": 15.638834999999997,
+    "other_names": {
+      "name": "Bocaranga"
+    }
+  },
+  {
+    "name": "Boca Raton",
+    "country": "United States Of America",
+    "latitude": 26.358688500127176,
+    "longitude": -80.08309839999998,
+    "other_names": {
+      "name": "Boca Raton"
+    }
+  },
+  {
+    "name": "Bochum",
+    "country": "Germany",
+    "latitude": 51.481811099174955,
+    "longitude": 7.2196635,
+    "other_names": {
+      "name": "Bochum",
+      "name:ar": "بوخوم",
+      "name:fr": "Bochum",
+      "name:la": "Baucum",
+      "name:ru": "Бохум",
+      "name:sr": "Бохум",
+      "name:uk": "Бохум",
+      "name:zh": "波鸿",
+      "name:nds": "Baukem",
+      "name:zh-TW": "波洪"
+    }
+  },
+  {
+    "name": "Boconó",
+    "country": "Venezuela",
+    "latitude": 9.243958199408013,
+    "longitude": -70.2703929,
+    "other_names": {
+      "name": "Boconó"
+    }
+  },
+  {
+    "name": "Bodø",
+    "country": "Norway",
+    "latitude": 67.28394759678483,
+    "longitude": 14.382583399999998,
+    "other_names": {
+      "name": "Bodø",
+      "name:be": "Будзё",
+      "name:bg": "Будьо",
+      "name:ja": "ボードー",
+      "name:ko": "보되",
+      "name:lt": "Budė",
+      "name:mk": "Боде",
+      "name:os": "Будё",
+      "name:ru": "Будё",
+      "name:se": "Budejju",
+      "name:sr": "Боде",
+      "name:uk": "Буде",
+      "name:zh": "博德",
+      "int_name": "Bodø",
+      "name:bpy": "বোডা",
+      "name:pnb": "بوڈو",
+      "name:sje": "Buvdda",
+      "name:smj": "Bådåddjo",
+      "old_name": "Hundholmen",
+      "name:bat-smg": "Bodė",
+      "name:be-tarask": "Будэ"
+    }
+  },
+  {
+    "name": "Bodo Centre",
+    "country": "Chad",
+    "latitude": 8.28579859939091,
+    "longitude": 17.1371466,
+    "other_names": {
+      "name": "Bodo Centre"
+    }
+  },
+  {
+    "name": "Boende",
+    "country": "Congo Democratic Republic",
+    "latitude": -0.2836633999712606,
+    "longitude": 20.8826368,
+    "other_names": {
+      "name": "Boende"
+    }
+  },
+  {
+    "name": "Bogo",
+    "country": "Philippines",
+    "latitude": 11.05305359950246,
+    "longitude": 124.01103540000001,
+    "other_names": {
+      "name": "Bogo",
+      "name:ja": "ボゴ"
+    }
+  },
+  {
+    "name": "Bogo",
+    "country": "Cameroon",
+    "latitude": 10.735109999480368,
+    "longitude": 14.609943999999999,
+    "other_names": {
+      "name": "Bogo",
+      "name:ar": "بوقو",
+      "alt_name:ar": "بوغو"
+    }
+  },
+  {
+    "name": "Bogor",
+    "country": "Indonesia",
+    "latitude": -6.596298599697524,
+    "longitude": 106.79724209999999,
+    "other_names": {
+      "name": "Bogor",
+      "name:id": "Богор",
+      "name:su": "茂物"
+    }
+  },
+  {
+    "name": "Bogota",
+    "country": "Colombia",
+    "latitude": 4.653332599532806,
+    "longitude": -74.083652,
+    "other_names": {
+      "name": "Bogotá",
+      "name:am": "ቦጎታ",
+      "name:ar": "بوغوتا",
+      "name:ay": "Wukuta",
+      "name:az": "Boqota",
+      "name:ba": "Богота",
+      "name:be": "Багата",
+      "name:bg": "Богота",
+      "name:bn": "বোগোতা",
+      "name:bo": "པོ་གོ་ཏ",
+      "name:ca": "Bogotà",
+      "name:de": "Bogotá",
+      "name:el": "Μπογκοτά",
+      "name:en": "Bogota",
+      "name:eo": "Bogoto",
+      "name:es": "Bogotá",
+      "name:fa": "بوگوتا",
+      "name:fr": "Bogota",
+      "name:he": "בוגוטה",
+      "name:hi": "बोगोटा",
+      "name:ht": "Bogota",
+      "name:hu": "Bogotá",
+      "name:hy": "Բոգոտա",
+      "name:io": "Bogota",
+      "name:is": "Bógóta",
+      "name:ja": "ボゴタ",
+      "name:ka": "ბოგოტა",
+      "name:kk": "Богота",
+      "name:km": "ទីក្រុងបូកូតា",
+      "name:kn": "ಬೊಗೋಟ",
+      "name:ko": "보고타",
+      "name:la": "Bogota",
+      "name:ln": "Bogota",
+      "name:lt": "Bogota",
+      "name:lv": "Bogota",
+      "name:mk": "Богота",
+      "name:ml": "ബൊഗോട്ട",
+      "name:mr": "बोगोता",
+      "name:my": "ဘိုဂိုတာမြို့",
+      "name:nl": "Bogota",
+      "name:oc": "Bogotà",
+      "name:os": "Богота",
+      "name:pl": "Bogota",
+      "name:ru": "Богота",
+      "name:rw": "Bogota",
+      "name:sh": "Bogota",
+      "name:sk": "Bogota",
+      "name:sl": "Bogota",
+      "name:so": "Bogota",
+      "name:sr": "Богота",
+      "name:sv": "Bogotá",
+      "name:sw": "Bogota",
+      "name:ta": "பொகோட்டா",
+      "name:th": "โบโกตา",
+      "name:tk": "Bogota",
+      "name:tl": "Bogota",
+      "name:ug": "Bogota",
+      "name:uk": "Богота",
+      "name:ur": "بوگوتا",
+      "name:uz": "Bogota",
+      "name:yi": "באגאטא",
+      "name:zh": "波哥大",
+      "alt_name": "Bogotá D.C.",
+      "name:arz": "بوجوتا",
+      "name:ckb": "بۆگۆتا",
+      "name:diq": "Bogota",
+      "name:hsb": "Bogota",
+      "name:lad": "Bogota",
+      "name:lmo": "Bogotà",
+      "name:mhr": "Богота",
+      "name:nov": "Bogota",
+      "name:pap": "Bogota",
+      "name:pms": "Bogotà",
+      "name:pnb": "بگوٹا",
+      "name:rue": "Боґота",
+      "name:scn": "Bogotà",
+      "name:szl": "Bogota",
+      "name:yue": "波哥大",
+      "official_name": "Bogotá Distrito Capital"
+    }
+  },
+  {
+    "name": "Bogura",
+    "country": "Bangladesh",
+    "latitude": 24.85006620027055,
+    "longitude": 89.3728431,
+    "other_names": {
+      "name": "বগুড়া",
+      "name:ar": "بوغرا",
+      "name:bn": "বগুড়া",
+      "name:de": "Bogra",
+      "name:en": "Bogura",
+      "name:es": "Bogra",
+      "name:et": "Bogra",
+      "name:fr": "Bogra",
+      "name:ja": "ボーグラ",
+      "name:kn": "ಬೊಗ್ರ",
+      "name:ur": "بوگرا",
+      "alt_name": "Bogra"
+    }
+  },
+  {
+    "name": "Bohicon",
+    "country": "Benin",
+    "latitude": 7.18163309940069,
+    "longitude": 2.0695683,
+    "other_names": {
+      "name": "Bohicon",
+      "name:ar": "بوهيكون",
+      "name:ru": "Бохикон"
+    }
+  },
+  {
+    "name": "Boise",
+    "country": "United States Of America",
+    "latitude": 43.61661630054106,
+    "longitude": -116.20088599999997,
+    "other_names": {
+      "name": "Boise",
+      "name:en": "Boise",
+      "name:ja": "ボイシ",
+      "name:lt": "Boizis",
+      "name:pl": "Boise",
+      "name:ru": "Бойсе",
+      "name:ta": "பொய்சி",
+      "name:uk": "Бойсе"
+    }
+  },
+  {
+    "name": "Bojnurd",
+    "country": "Iran",
+    "latitude": 37.47597519990994,
+    "longitude": 57.33198809999999,
+    "other_names": {
+      "name": "بجنورد",
+      "name:ar": "بجنورد",
+      "name:cs": "Bodžnúrd",
+      "name:de": "Bodschnurd",
+      "name:en": "Bojnurd",
+      "name:es": "Bojnord",
+      "name:et": "Bojnūrd",
+      "name:fr": "Bojnourd",
+      "name:hi": "बोजनुर्द",
+      "name:ja": "ボジュヌールド",
+      "name:ku": "Bujnûrt",
+      "name:ru": "Боджнурд",
+      "name:uk": "Боджнурд",
+      "old_name": "بیژن گرد",
+      "alt_name:ku": "Bocnûrd"
+    }
+  }
+]

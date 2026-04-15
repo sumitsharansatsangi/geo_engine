@@ -1,0 +1,412 @@
+[
+  {
+    "name": "Ganluo",
+    "country": "China",
+    "latitude": 28.975998199839943,
+    "longitude": 102.77454309999999,
+    "other_names": {
+      "name": "甘洛县",
+      "name:en": "Ganluo",
+      "name:ja": "甘洛県",
+      "name:zh": "甘洛县",
+      "alt_name": "甘洛;Ganluo County",
+      "old_name": "呷洛",
+      "name:zh-Hant": "甘洛縣",
+      "name:zh_pinyin": "Gānluò Xiàn"
+    }
+  },
+  {
+    "name": "Gannan",
+    "country": "China",
+    "latitude": 34.98452849965064,
+    "longitude": 102.9105878,
+    "other_names": {
+      "name": "甘南州",
+      "name:bo": "ཀན་ལྷོ་བོད་རིགས་རང་སྐྱོང་ཁུལ་",
+      "name:en": "Gannan",
+      "name:hu": "Tibeti Autonóm Tartomány",
+      "name:vi": "Cam Nam",
+      "name:zh": "甘南州",
+      "alt_name": "甘南;Gannan Tibetan Autonomous Prefecture",
+      "short_name": "甘南州",
+      "alt_name:bo": "ཀན་ལྷོ་བོད་རིགས་རང་སྐྱོང་ཁུལ་ལམ་ས་ཁུལ",
+      "name:zh-Hant": "甘南州",
+      "official_name": "甘南藏族自治州",
+      "official_name:zh_pinyin": "gānnán zàngzú zìzhìzhōu"
+    }
+  },
+  {
+    "name": "Gannan",
+    "country": "China",
+    "latitude": 47.917438899957304,
+    "longitude": 123.49260690000001,
+    "other_names": {
+      "name": "甘南县",
+      "name:en": "Gannan",
+      "name:ja": "甘南県",
+      "name:ru": "Ганьнань",
+      "name:vi": "Cam Nam",
+      "name:zh": "甘南县",
+      "alt_name": "甘南",
+      "name:zh-Hant": "甘南縣",
+      "official_name": "甘南镇",
+      "name:zh_pinyin": "Gānnán Xiàn"
+    }
+  },
+  {
+    "name": "Ganquan",
+    "country": "China",
+    "latitude": 36.28171139976467,
+    "longitude": 109.345578,
+    "other_names": {
+      "name": "甘泉县",
+      "name:en": "Ganquan",
+      "name:ja": "甘泉県",
+      "name:ru": "Ганьцюань",
+      "name:zh": "甘泉县",
+      "alt_name": "甘泉;美水街道;美水",
+      "old_name": "城关镇;甘泉城关镇;Chengguan",
+      "name:zh-Hant": "甘泉縣"
+    }
+  },
+  {
+    "name": "Ganxian",
+    "country": "China",
+    "latitude": 25.856780200178605,
+    "longitude": 115.01661159999999,
+    "other_names": {
+      "name": "赣县区",
+      "name:de": "Gan",
+      "name:en": "Ganxian",
+      "name:fr": "District de Ganxian",
+      "name:it": "Distretto di Ganxian",
+      "name:ja": "贛県区",
+      "name:ko": "간셴 구",
+      "name:no": "Gan",
+      "name:ru": "Ганьсянь",
+      "name:sv": "Gan",
+      "name:vi": "Cám Huyện",
+      "name:zh": "赣县区",
+      "alt_name": "Ganxian District",
+      "name:ceb": "Gan Xian",
+      "name:gan": "贛縣",
+      "name:nan": "Kòng-koān-khu",
+      "name:yue": "贛縣",
+      "old_name": "赣县;Gan County",
+      "name:zh-Hant": "贛縣區",
+      "name:zh_pinyin": "Gànxiàn Qū"
+    }
+  },
+  {
+    "name": "Ganyu",
+    "country": "China",
+    "latitude": 34.84247439964146,
+    "longitude": 119.1676605,
+    "other_names": {
+      "name": "赣榆区",
+      "name:en": "Ganyu",
+      "name:vi": "Cám Du",
+      "name:zh": "赣榆区",
+      "name:zh-Hant": "贛榆區"
+    }
+  },
+  {
+    "name": "Ganzhou",
+    "country": "China",
+    "latitude": 25.83321030018094,
+    "longitude": 114.92873619999999,
+    "other_names": {
+      "name": "赣州市",
+      "name:af": "Ganzhou",
+      "name:ar": "غانتشو",
+      "name:cs": "Kan-čou",
+      "name:da": "Ganzhou",
+      "name:de": "Ganzhou",
+      "name:en": "Ganzhou",
+      "name:es": "Ganzhou",
+      "name:et": "Ganzhou",
+      "name:eu": "Ganzhou",
+      "name:fa": "گانژوو",
+      "name:fi": "Ganzhou",
+      "name:fr": "Ganzhou",
+      "name:gd": "Ganzhou",
+      "name:he": "גאנג'ואו",
+      "name:hi": "गांझोउ",
+      "name:hy": "Գանչժոու",
+      "name:it": "Ganzhou",
+      "name:ja": "カン州市",
+      "name:ki": "Ganzhou",
+      "name:kk": "Ганьчжоу",
+      "name:ko": "간저우시",
+      "name:nl": "Ganzhou",
+      "name:nn": "Ganzhou",
+      "name:no": "Ganzhou",
+      "name:pl": "Ganzhou",
+      "name:pt": "Ganzhou",
+      "name:ru": "Ганьчжоу",
+      "name:sh": "Ganzhou",
+      "name:sr": "Ганџоу",
+      "name:sv": "Ganzhou",
+      "name:ta": "கன்சோவு",
+      "name:tl": "Ganzhou",
+      "name:tr": "Ganzhou",
+      "name:uk": "Ганьчжоу",
+      "name:ur": "گانژوو",
+      "name:vi": "Cám Châu",
+      "name:zh": "赣州市",
+      "int_name": "Ganzhou",
+      "name:cdo": "Gáng-ciŭ",
+      "name:ceb": "Ganzhou",
+      "name:gan": "贛州",
+      "name:hak": "Kam-chû-sṳ",
+      "name:nan": "Kòng-chiu-chhī",
+      "name:war": "Ganzhou",
+      "name:wuu": "赣州市",
+      "name:yue": "贛州",
+      "old_name:en": "Kanchou",
+      "name:zh-Hant": "贛州市",
+      "name:zh_pinyin": "Gànzhōu Shì"
+    }
+  },
+  {
+    "name": "Ganzhou",
+    "country": "China",
+    "latitude": 38.92843440011555,
+    "longitude": 100.4771801,
+    "other_names": {
+      "name": "甘州区",
+      "name:en": "Ganzhou",
+      "name:zh": "甘州区",
+      "alt_name": "甘州;Ganzhou District",
+      "name:zh-Hant": "甘州區"
+    }
+  },
+  {
+    "name": "Gao",
+    "country": "Mali",
+    "latitude": 16.278812900056312,
+    "longitude": -0.0412392,
+    "other_names": {
+      "name": "Gao",
+      "name:ar": "غاو",
+      "name:bm": "Gàwó",
+      "name:en": "Gao",
+      "name:fr": "Gao",
+      "name:ko": "가오",
+      "name:ru": "Гао",
+      "name:uk": "Гао"
+    }
+  },
+  {
+    "name": "Gao",
+    "country": "China",
+    "latitude": 28.43988839989754,
+    "longitude": 104.51413709999999,
+    "other_names": {
+      "name": "高县",
+      "name:en": "Gao",
+      "name:zh": "高县",
+      "alt_name": "高;Gao County",
+      "name:zh-Hant": "高縣"
+    }
+  },
+  {
+    "name": "Gao'an",
+    "country": "China",
+    "latitude": 28.449165399896522,
+    "longitude": 115.3622449,
+    "other_names": {
+      "name": "高安市",
+      "name:cs": "Kao-an",
+      "name:cy": "Gao'an",
+      "name:de": "Gao’an",
+      "name:en": "Gao'an",
+      "name:fr": "Gao'an",
+      "name:it": "Gao'an",
+      "name:ja": "高安市",
+      "name:ki": "Gao'an",
+      "name:ko": "가오안시",
+      "name:mg": "Gao'an",
+      "name:nl": "Gao'an",
+      "name:no": "Gao'an",
+      "name:ru": "Гаоань",
+      "name:sv": "Gao'an",
+      "name:vi": "Cao An",
+      "name:zh": "高安市",
+      "alt_name": "高安;Gao'an City",
+      "name:gan": "高安",
+      "name:nan": "Ko-an-chhī",
+      "name:yue": "高安",
+      "name:zh-Hant": "高安市",
+      "name:zh_pinyin": "Gāo’ān Shì"
+    }
+  },
+  {
+    "name": "Gaobeidian",
+    "country": "China",
+    "latitude": 39.32616280017297,
+    "longitude": 115.86615760000001,
+    "other_names": {
+      "name": "高碑店市",
+      "name:de": "Gaobeidian",
+      "name:en": "Gaobeidian",
+      "name:fr": "Gaobeidian",
+      "name:ja": "高碑店市",
+      "name:vi": "Cao Bi Điếm",
+      "name:zh": "高碑店市",
+      "alt_name": "高碑店;Gaobeidian City",
+      "name:zh-Hant": "高碑店市",
+      "name:zh_pinyin": "Gāobēidiàn Shì"
+    }
+  },
+  {
+    "name": "Gaochang",
+    "country": "China",
+    "latitude": 42.940839700534994,
+    "longitude": 89.18304899999998,
+    "other_names": {
+      "name": "高昌区",
+      "name:en": "Gaochang",
+      "name:tr": "Karahoca",
+      "name:ug": "قاراھوجا رايونى",
+      "name:zh": "高昌区",
+      "alt_name": "高昌;Gaochang District;Qarahoja District",
+      "name:zh-Hant": "高昌區"
+    }
+  },
+  {
+    "name": "Gaocheng",
+    "country": "China",
+    "latitude": 38.023571199985305,
+    "longitude": 114.84060590000001,
+    "other_names": {
+      "name": "藁城县",
+      "name:en": "Gaocheng",
+      "name:ja": "藁城区",
+      "name:vi": "Cảo Thành",
+      "name:zh": "藁城区",
+      "alt_name": "藁城;Gaocheng City",
+      "name:zh-Hant": "藁城縣",
+      "name:zh_pinyin": "Gaocheng"
+    }
+  },
+  {
+    "name": "Gaochun",
+    "country": "China",
+    "latitude": 31.33096909964055,
+    "longitude": 118.88718070000002,
+    "other_names": {
+      "name": "高淳区",
+      "name:de": "Gaochun",
+      "name:en": "Gaochun",
+      "name:eu": "Gaochun",
+      "name:fr": "Gaochun",
+      "name:id": "Gaochun",
+      "name:it": "Gaochun",
+      "name:ja": "高淳区",
+      "name:ko": "가오춘구",
+      "name:no": "Gaochun",
+      "name:ru": "Гаочунь",
+      "name:sv": "Gaochun",
+      "name:ur": "گاوچون ضلع",
+      "name:vi": "Cao Thuần",
+      "name:zh": "高淳区",
+      "name:nan": "Ko-sûn-khu",
+      "name:wuu": "高淳",
+      "name:yue": "高淳",
+      "name:zh-Hant": "高淳區",
+      "name:zh_pinyin": "Gaochun Qu"
+    }
+  },
+  {
+    "name": "Gaogang",
+    "country": "China",
+    "latitude": 32.31040339959851,
+    "longitude": 119.8774794,
+    "other_names": {
+      "name": "高港区",
+      "name:en": "Gaogang",
+      "name:vi": "Cao Cảng",
+      "name:zh": "高港区",
+      "name:zh-Hant": "高港區",
+      "name:zh_pinyin": "Gaogang Qu"
+    }
+  },
+  {
+    "name": "Gaolan",
+    "country": "China",
+    "latitude": 36.32950579976984,
+    "longitude": 103.9494406,
+    "other_names": {
+      "name": "皋兰县",
+      "name:en": "Gaolan",
+      "name:ja": "皐蘭県",
+      "name:zh": "皋兰县",
+      "name:zh-Hant": "皋蘭縣"
+    }
+  },
+  {
+    "name": "Gaoling",
+    "country": "China",
+    "latitude": 34.537269999624144,
+    "longitude": 109.08618930000002,
+    "other_names": {
+      "name": "高陵区",
+      "name:en": "Gaoling",
+      "name:ja": "高陵区",
+      "name:zh": "高陵区",
+      "alt_name": "高陵;鹿苑街道;鹿苑;Luyuan",
+      "name:zh-Hant": "高陵區"
+    }
+  },
+  {
+    "name": "Gaomi",
+    "country": "China",
+    "latitude": 36.365406499773755,
+    "longitude": 119.80053849999999,
+    "other_names": {
+      "name": "高密市",
+      "name:de": "Gaomi",
+      "name:en": "Gaomi",
+      "name:fr": "Gaomi",
+      "name:ja": "高密市",
+      "name:ru": "Гаоми",
+      "name:vi": "Cao Mật",
+      "name:zh": "高密市",
+      "int_name": "Gaomi",
+      "name:zh-Hant": "高密市",
+      "name:zh_pinyin": "Gāomì Shì"
+    }
+  },
+  {
+    "name": "Gaoming",
+    "country": "China",
+    "latitude": 22.903286700387582,
+    "longitude": 112.88668829999999,
+    "other_names": {
+      "name": "高明区",
+      "name:de": "Gaoming",
+      "name:en": "Gaoming",
+      "name:es": "Gaoming",
+      "name:fa": "گاومینگ",
+      "name:fr": "District de Gaoming",
+      "name:is": "Gaoming",
+      "name:it": "Distretto di Gaoming",
+      "name:ja": "高明区",
+      "name:ko": "가오밍구",
+      "name:no": "Gaoming",
+      "name:ru": "Гаомин",
+      "name:sv": "Hecheng",
+      "name:vi": "Cao Minh",
+      "name:zh": "高明区",
+      "alt_name": "高明;Gaoming District",
+      "name:ceb": "Hecheng",
+      "name:hak": "Kô-mìn-khî",
+      "name:mwl": "Gaoming",
+      "name:nan": "Ko-bêng-khu",
+      "name:yue": "高明",
+      "name:zh-Hant": "高明區",
+      "name:zh_pinyin": "Gāomíng Qū"
+    }
+  }
+]

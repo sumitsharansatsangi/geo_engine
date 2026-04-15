@@ -1,0 +1,224 @@
+[
+  {
+    "name": "Rio Grande",
+    "country": "Brazil",
+    "latitude": -32.033425199413216,
+    "longitude": -52.0991297,
+    "other_names": {
+      "name": "Rio Grande",
+      "name:ru": "Риу-Гранди"
+    }
+  },
+  {
+    "name": "Riohacha",
+    "country": "Colombia",
+    "latitude": 11.544633999540766,
+    "longitude": -72.9069784,
+    "other_names": {
+      "name": "Riohacha",
+      "name:lt": "Rioača",
+      "name:ru": "Риоача"
+    }
+  },
+  {
+    "name": "Rio Maior",
+    "country": "Portugal",
+    "latitude": 39.33653870017445,
+    "longitude": -8.936409799999998,
+    "other_names": {
+      "name": "Rio Maior"
+    }
+  },
+  {
+    "name": "Rionegro",
+    "country": "Colombia",
+    "latitude": 6.153616599437242,
+    "longitude": -75.37416909999999,
+    "other_names": {
+      "name": "Rionegro"
+    }
+  },
+  {
+    "name": "Río Piedras",
+    "country": "United States Of America",
+    "latitude": 18.3980541002684,
+    "longitude": -66.05239619999999,
+    "other_names": {
+      "name": "Río Piedras",
+      "name:hu": "Río Piedras"
+    }
+  },
+  {
+    "name": "Rio Rancho",
+    "country": "United States Of America",
+    "latitude": 35.269380999671085,
+    "longitude": -106.632819,
+    "other_names": {
+      "name": "Rio Rancho",
+      "name:ru": "Рио-Ранчо",
+      "official_name": "City of Rio Rancho"
+    }
+  },
+  {
+    "name": "Rio Verde",
+    "country": "Brazil",
+    "latitude": -17.792125500474956,
+    "longitude": -50.91912190000001,
+    "other_names": {
+      "name": "Rio Verde"
+    }
+  },
+  {
+    "name": "Ripon",
+    "country": "England",
+    "latitude": 54.13687879920901,
+    "longitude": -1.5213194,
+    "other_names": {
+      "name": "Ripon",
+      "name:hu": "Ripon",
+      "name:ko": "리펀",
+      "name:mk": "Рипон",
+      "name:ru": "Рипон"
+    }
+  },
+  {
+    "name": "Riqdalin",
+    "country": "Libya",
+    "latitude": 32.886386399588304,
+    "longitude": 11.9870728,
+    "other_names": {
+      "name": "رقدالين",
+      "name:ar": "رقدالين",
+      "name:en": "Riqdalin",
+      "name:fr": "Regdalin",
+      "name:it": "Regdalin"
+    }
+  },
+  {
+    "name": "Rishon LeZion",
+    "country": "Israel And Palestine",
+    "latitude": 31.963571199609984,
+    "longitude": 34.8101149,
+    "other_names": {
+      "name": "ראשון לציון",
+      "name:ar": "ريشون لتسيون",
+      "name:cs": "Rišon le-Cijon",
+      "name:de": "Rischon LeZion",
+      "name:en": "Rishon LeZion",
+      "name:es": "Rishon LeZion",
+      "name:et": "Rishon-Letsiyyon",
+      "name:fr": "Rishon LeZion",
+      "name:he": "ראשון לציון",
+      "name:hi": "रीशोन लेट्सीयोन",
+      "name:lt": "Rišon Lezionas",
+      "name:pl": "Riszon le-Cijjon",
+      "name:ru": "Ришон-ле-Цион",
+      "name:en1": "Rishon LeTsiyon",
+      "name:en2": "Rishon LeZiyyon",
+      "name:he1": "רִאשׁוֹן לְצִיּוֹן",
+      "alt_name:cs": "První k Sijónu"
+    }
+  },
+  {
+    "name": "Rishon LeZion",
+    "country": "Israel And Palestine",
+    "latitude": 31.969412399626645,
+    "longitude": 34.79829365674856,
+    "other_names": {
+      "name": "ראשון לציון",
+      "name:cs": "Rišon le-Cijon",
+      "name:en": "Rishon LeZion",
+      "name:fr": "Rishon LeZion",
+      "name:he": "ראשון לציון",
+      "name:ru": "Ришон-ле-Цион",
+      "int_name": "Rishon LeZiyyon",
+      "alt_name:en": "Rishon LeTsiyon;Rishon LeTsiyon;Rishon LeZiyyon"
+    }
+  },
+  {
+    "name": "Ritto",
+    "country": "Japan",
+    "latitude": 35.02576689965342,
+    "longitude": 135.98367069999998,
+    "other_names": {
+      "name": "栗東市",
+      "name:en": "Ritto",
+      "name:ja": "栗東市",
+      "name:ja-Hira": "りっとうし"
+    }
+  },
+  {
+    "name": "Rivadavia",
+    "country": "Argentina",
+    "latitude": -31.530470699371183,
+    "longitude": -68.5945111,
+    "other_names": {
+      "name": "Rivadavia"
+    }
+  },
+  {
+    "name": "Rivas",
+    "country": "Nicaragua",
+    "latitude": 11.438084599532056,
+    "longitude": -85.8285237,
+    "other_names": {
+      "name": "Rivas",
+      "name:hu": "Rivas"
+    }
+  },
+  {
+    "name": "Rivera",
+    "country": "Uruguay",
+    "latitude": -30.900057999336116,
+    "longitude": -55.540815099999996,
+    "other_names": {
+      "name": "Rivera"
+    }
+  },
+  {
+    "name": "Rivera",
+    "country": "Brazil",
+    "latitude": -30.900057999336116,
+    "longitude": -55.540815099999996,
+    "other_names": {
+      "name": "Rivera"
+    }
+  },
+  {
+    "name": "Riverside",
+    "country": "United States Of America",
+    "latitude": 33.95335459960025,
+    "longitude": -117.39616230000001,
+    "other_names": {
+      "name": "Riverside",
+      "name:ru": "Риверсайд"
+    }
+  },
+  {
+    "name": "Riverton",
+    "country": "United States Of America",
+    "latitude": 43.024724500537154,
+    "longitude": -108.380727,
+    "other_names": {
+      "name": "Riverton"
+    }
+  },
+  {
+    "name": "Riviera Beach",
+    "country": "United States Of America",
+    "latitude": 26.78434300008152,
+    "longitude": -80.06502930000002,
+    "other_names": {
+      "name": "Riviera Beach"
+    }
+  },
+  {
+    "name": "Rivière-du-Loup",
+    "country": "Canada",
+    "latitude": 47.83581639997652,
+    "longitude": -69.53680249999998,
+    "other_names": {
+      "name": "Rivière-du-Loup"
+    }
+  }
+]

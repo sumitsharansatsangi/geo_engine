@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Huicheng",
+    "country": "China",
+    "latitude": 23.087086300380605,
+    "longitude": 114.3775971,
+    "other_names": {
+      "name": "惠城区",
+      "name:de": "Huicheng",
+      "name:en": "Huicheng",
+      "name:fa": "هویچنگ",
+      "name:fr": "District de Huicheng",
+      "name:it": "Distretto di Huicheng",
+      "name:ja": "恵城区",
+      "name:ko": "후이청구",
+      "name:no": "Huicheng",
+      "name:sr": "Хуејченг",
+      "name:sv": "Huicheng",
+      "name:vi": "Huệ Thành",
+      "name:zh": "惠城区",
+      "alt_name": "惠城;Huicheng District",
+      "name:ceb": "Huicheng Qu",
+      "name:hak": "Fi-sàng-khî",
+      "name:mwl": "Huicheng",
+      "name:nan": "Hūi-siâⁿ-khu",
+      "name:yue": "惠城",
+      "name:zh-Hant": "惠城區",
+      "name:zh_pinyin": "Huìchéng Qū"
+    }
+  },
+  {
+    "name": "Huichon",
+    "country": "North Korea",
+    "latitude": 40.17127900029026,
+    "longitude": 126.2760271,
+    "other_names": {
+      "name": "희천시",
+      "name:de": "Huichon",
+      "name:en": "Huichon",
+      "name:es": "Huichon",
+      "name:et": "Hŭich'ŏn",
+      "name:fr": "Huichon",
+      "name:ja": "熙川市",
+      "name:ko": "희천시",
+      "name:ru": "Хичхон",
+      "name:vi": "Hy Xuyên",
+      "name:zh": "熙川市",
+      "int_name": "Huichon",
+      "alt_name:vi": "Hi Xuyên;Huichon",
+      "old_name:de": "Hitschon",
+      "name:ko-Hani": "熙川市"
+    }
+  },
+  {
+    "name": "Huichuan",
+    "country": "China",
+    "latitude": 27.75586189997355,
+    "longitude": 106.939544,
+    "other_names": {
+      "name": "汇川区",
+      "name:en": "Huichuan",
+      "name:zh": "汇川区",
+      "name:zh-Hant": "匯川區"
+    }
+  },
+  {
+    "name": "Huidong",
+    "country": "China",
+    "latitude": 26.63843860009735,
+    "longitude": 102.5768454,
+    "other_names": {
+      "name": "会东县",
+      "name:en": "Huidong",
+      "name:zh": "会东县",
+      "alt_name": "会东镇;会东;Huidong County",
+      "name:zh-Hant": "會東縣"
+    }
+  },
+  {
+    "name": "Huidong",
+    "country": "China",
+    "latitude": 22.984420900384613,
+    "longitude": 114.71641749999998,
+    "other_names": {
+      "name": "惠东县",
+      "name:de": "Huidong",
+      "name:en": "Huidong",
+      "name:fa": "شهرستان هویدونگ، گوانگ‌دونگ",
+      "name:fr": "Xian de Huidong",
+      "name:it": "Contea di Huidong",
+      "name:ja": "恵東県",
+      "name:ko": "후이둥현",
+      "name:no": "Huidong",
+      "name:sv": "Huidong",
+      "name:vi": "Huệ Đông",
+      "name:zh": "惠东县",
+      "alt_name": "惠东;Hui-tung Hsien;Huidong County",
+      "name:ceb": "Huidong Xian",
+      "name:hak": "Fi-tûng-yen",
+      "name:mwl": "Huidong",
+      "name:nan": "Hūi-tāng-koān",
+      "name:yue": "惠東",
+      "name:zh-Hant": "惠東縣",
+      "name:zh_pinyin": "Huìdōng Xiàn"
+    }
+  },
+  {
+    "name": "Huiji",
+    "country": "China",
+    "latitude": 34.86830729964308,
+    "longitude": 113.6100072,
+    "other_names": {
+      "name": "惠济区",
+      "name:en": "Huiji",
+      "name:vi": "Huệ Tế",
+      "name:zh": "惠济区",
+      "alt_name": "惠济;Huiji District",
+      "name:zh-Hant": "惠濟區",
+      "name:zh_pinyin": "Huiji Qu"
+    }
+  },
+  {
+    "name": "Huilai",
+    "country": "China",
+    "latitude": 23.036257100382624,
+    "longitude": 116.29047599999997,
+    "other_names": {
+      "name": "惠来县",
+      "name:en": "Huilai",
+      "name:zh": "惠来县",
+      "alt_name": "惠来;Huilai County",
+      "name:zh-Hant": "惠來縣",
+      "official_name": "惠来县",
+      "name:zh_pinyin": "Huìlái xiàn"
+    }
+  },
+  {
+    "name": "Huili",
+    "country": "China",
+    "latitude": 26.658426300095186,
+    "longitude": 102.24329859999999,
+    "other_names": {
+      "name": "会理市",
+      "name:en": "Huili",
+      "name:vi": "Hội Lý",
+      "name:zh": "会理市",
+      "alt_name": "会理;Huili City",
+      "old_name": "会理县;Huili County",
+      "alt_name:vi": "Hội Lí",
+      "name:zh-Hant": "會理市",
+      "name:zh_pinyin": "Huili Shi"
+    }
+  },
+  {
+    "name": "Huimin",
+    "country": "China",
+    "latitude": 37.48928749991172,
+    "longitude": 117.50344989999999,
+    "other_names": {
+      "name": "惠民县",
+      "name:en": "Huimin",
+      "name:vi": "Huệ Dân",
+      "name:zh": "惠民县",
+      "name:zh-Hant": "惠民縣",
+      "name:zh_pinyin": "Huimin Xian"
+    }
+  },
+  {
+    "name": "Huimin",
+    "country": "China",
+    "latitude": 40.80797200037012,
+    "longitude": 111.6163124,
+    "other_names": {
+      "name": "回民区",
+      "name:en": "Huimin",
+      "name:vi": "Hồi Dân",
+      "name:zh": "回民区",
+      "alt_name": "回民;Huimin District;Huimin Qu;Хотон",
+      "name:zh-Hant": "回民區",
+      "name:zh_pinyin": "Huimin Qu"
+    }
+  },
+  {
+    "name": "Huinan",
+    "country": "China",
+    "latitude": 42.68122110052597,
+    "longitude": 126.03863489999998,
+    "other_names": {
+      "name": "辉南县",
+      "name:en": "Huinan",
+      "name:ja": "輝南県",
+      "name:ko": "후이난현",
+      "name:ru": "Чаоян",
+      "name:vi": "Huy Nam",
+      "name:zh": "辉南县",
+      "alt_name": "辉南;Zhaoyang",
+      "name:zh-Hant": "輝南縣",
+      "official_name": "朝阳镇"
+    }
+  },
+  {
+    "name": "Huining",
+    "country": "China",
+    "latitude": 35.68901499970606,
+    "longitude": 105.05624619999999,
+    "other_names": {
+      "name": "会宁县",
+      "name:en": "Huining",
+      "name:ja": "会寧県",
+      "name:ko": "후이닝 현",
+      "name:ru": "Хойши",
+      "name:zh": "会宁县",
+      "alt_name": "会师;Huishi;会宁县",
+      "name:zh-Hant": "會寧縣",
+      "name:zh_pinyin": "huìníng xiàn"
+    }
+  },
+  {
+    "name": "Huinong",
+    "country": "China",
+    "latitude": 39.238572300160385,
+    "longitude": 106.7768115,
+    "other_names": {
+      "name": "惠农区",
+      "name:en": "Huinong",
+      "name:ja": "恵農区",
+      "name:sd": "ﺧُﻮِﻧْﻮ ٿُو",
+      "name:zh": "惠农区",
+      "alt_name": "惠农;Huinong District",
+      "name:zh-Hant": "惠農區",
+      "name:zh_pinyin": "Hùinóng Qū"
+    }
+  },
+  {
+    "name": "Huishan",
+    "country": "China",
+    "latitude": 31.67909639962223,
+    "longitude": 120.29273920000001,
+    "other_names": {
+      "name": "惠山区",
+      "name:en": "Huishan",
+      "name:vi": "Huệ Sơn",
+      "name:zh": "惠山区",
+      "name:zh-Hant": "惠山區",
+      "name:zh_pinyin": "Huishan Qu"
+    }
+  },
+  {
+    "name": "Huishui",
+    "country": "China",
+    "latitude": 26.134072500150562,
+    "longitude": 106.6526874,
+    "other_names": {
+      "name": "惠水县",
+      "name:en": "Huishui",
+      "name:ru": "Хэпин",
+      "name:vi": "Huệ Thủy",
+      "name:zh": "惠水县",
+      "alt_name:vi": "Huệ Thuỷ",
+      "name:zh-Hant": "惠水縣"
+    }
+  },
+  {
+    "name": "Huitong",
+    "country": "China",
+    "latitude": 26.89072340006989,
+    "longitude": 109.7309308,
+    "other_names": {
+      "name": "会同县",
+      "name:de": "Huitong",
+      "name:en": "Huitong",
+      "name:es": "Huitong",
+      "name:fa": "شهرستان هویتونگ",
+      "name:fr": "Xian de Huitong",
+      "name:it": "Contea di Huitong",
+      "name:ja": "会同県",
+      "name:ko": "후이퉁현",
+      "name:no": "Huitong",
+      "name:ru": "Хуэйтун",
+      "name:sv": "Huitong",
+      "name:vi": "Hội Đồng",
+      "name:zh": "会同县",
+      "alt_name": "Hui-t'ung Hsien;会同;Huitong County",
+      "name:ceb": "Huitong Xian",
+      "name:nan": "Hoē-tông-koān",
+      "name:yue": "會同",
+      "name:zh-Hant": "會同縣",
+      "name:zh_pinyin": "huìtóng xiàn"
+    }
+  },
+  {
+    "name": "Huixian",
+    "country": "China",
+    "latitude": 35.46251409968648,
+    "longitude": 113.7976228,
+    "other_names": {
+      "name": "辉县市",
+      "name:de": "Huixian",
+      "name:en": "Huixian",
+      "name:fr": "Huixian",
+      "name:ja": "輝県市",
+      "name:vi": "Huy Huyện",
+      "name:zh": "辉县市",
+      "alt_name": "辉县;Huixian City",
+      "name:zh-Hant": "輝縣市",
+      "name:zh_pinyin": "Huīxiàn Shì"
+    }
+  },
+  {
+    "name": "Huixian",
+    "country": "China",
+    "latitude": 33.76754249959523,
+    "longitude": 106.0800168,
+    "other_names": {
+      "name": "徽县",
+      "name:en": "Huixian",
+      "name:ja": "徽県",
+      "name:ru": "Хойсянь",
+      "name:vi": "Huy",
+      "name:zh": "徽县",
+      "alt_name": "徽;Hui County;Huixian;城关镇;徽县城关镇;Hui",
+      "name:zh-Hant": "徽縣",
+      "name:zh_pinyin": "huī xiàn"
+    }
+  },
+  {
+    "name": "Huiyang",
+    "country": "China",
+    "latitude": 22.79208770039136,
+    "longitude": 114.45170369999998,
+    "other_names": {
+      "name": "惠阳区",
+      "name:de": "Huiyang",
+      "name:en": "Huiyang",
+      "name:fr": "District de Huiyang",
+      "name:it": "Distretto di Huiyang",
+      "name:ja": "恵陽区",
+      "name:ko": "후이양구",
+      "name:nl": "Huiyang",
+      "name:no": "Huiyang",
+      "name:sv": "Huiyang",
+      "name:vi": "Huệ Dương",
+      "name:zh": "惠阳区",
+      "alt_name": "惠阳;Huiyang District",
+      "name:hak": "Fi-yòng-khî",
+      "name:mwl": "Huiyang",
+      "name:nan": "Hūi-iông-khu",
+      "name:yue": "惠阳区",
+      "name:zh-Hans": "惠阳区",
+      "name:zh-Hant": "惠陽區",
+      "name:zh_pinyin": "huìyáng qū"
+    }
+  },
+  {
+    "name": "Huize",
+    "country": "China",
+    "latitude": 26.416470200121076,
+    "longitude": 103.29075329999999,
+    "other_names": {
+      "name": "会泽县",
+      "name:en": "Huize",
+      "name:vi": "Hội Trạch",
+      "name:zh": "会泽县",
+      "alt_name": "会泽;Huize County;Hui-tse Hsien",
+      "int_name": "Huize",
+      "name:zh-Hant": "會澤縣",
+      "name:zh_pinyin": "Huìzéxiàn"
+    }
+  }
+]

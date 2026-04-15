@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Kislovodsk",
+    "country": "Russia",
+    "latitude": 43.900411486700804,
+    "longitude": 42.72539749904077,
+    "other_names": {
+      "name": "Кисловодск",
+      "name:de": "Kislowodsk",
+      "name:en": "Kislovodsk",
+      "name:pl": "Kisłowodzk",
+      "name:ru": "Кисловодск",
+      "name:sr": "Кисловодск",
+      "name:uk": "Кисловодськ",
+      "int_name": "Kislovodsk",
+      "old_name": "слобода Кисловодская, станица Кисловодская"
+    }
+  },
+  {
+    "name": "Kismayo",
+    "country": "Somalia",
+    "latitude": -0.36024329996362686,
+    "longitude": 42.540902499999994,
+    "other_names": {
+      "name": "Kismaayo كيسمايو",
+      "name:ar": "كيسمايو",
+      "name:de": "Kismaayo",
+      "name:en": "Kismayo",
+      "name:es": "Kismaayo",
+      "name:fr": "Kismaayo",
+      "name:it": "Chisimaio",
+      "name:ko": "키스마요",
+      "name:lt": "Kismajus",
+      "name:ru": "Кисмайо",
+      "name:uk": "Кісмайо",
+      "name:zh": "基斯马尤"
+    }
+  },
+  {
+    "name": "Kissidougou",
+    "country": "Guinea",
+    "latitude": 9.192388999406491,
+    "longitude": -10.098268999999998,
+    "other_names": {
+      "name": "Kissidougou",
+      "name:ar": "كيسيدوغو",
+      "name:bg": "Кисидугу",
+      "name:de": "Kissidougou",
+      "name:he": "קיסידוגו",
+      "name:ja": "キシドゥグ",
+      "name:ko": "키시두구",
+      "name:ru": "Кисидугу",
+      "alt_name": "Kissedougou",
+      "name:fuf": "Kissidougou",
+      "name:kqs": "Kissidougou",
+      "name:man": "Kissidougou",
+      "name:sus": "Kissidougou"
+    }
+  },
+  {
+    "name": "Kissimmee",
+    "country": "United States Of America",
+    "latitude": 28.291899499913825,
+    "longitude": -81.40758380000001,
+    "other_names": {
+      "name": "Kissimmee",
+      "name:en": "Kissimmee",
+      "name:ru": "Киссимми",
+      "name:uk": "Кіссіммі"
+    }
+  },
+  {
+    "name": "Kisumu",
+    "country": "Kenya",
+    "latitude": -0.10008486488667093,
+    "longitude": 34.76890585634871,
+    "other_names": {
+      "name": "Kisumu"
+    }
+  },
+  {
+    "name": "Kisumu",
+    "country": "Kenya",
+    "latitude": -0.1029108999894936,
+    "longitude": 34.7541761,
+    "other_names": {
+      "name": "Kisumu",
+      "name:ko": "키수무",
+      "name:ru": "Кисуму",
+      "name:uk": "Кісуму"
+    }
+  },
+  {
+    "name": "Kita",
+    "country": "Mali",
+    "latitude": 13.04083239968356,
+    "longitude": -9.4889221,
+    "other_names": {
+      "name": "Kita",
+      "name:ar": "كيتا",
+      "name:ru": "Кита"
+    }
+  },
+  {
+    "name": "Kita",
+    "country": "Japan",
+    "latitude": 35.75583799971214,
+    "longitude": 139.736687,
+    "other_names": {
+      "name": "北区",
+      "name:ar": "كيتا، طوكيو",
+      "name:de": "Kita",
+      "name:en": "Kita",
+      "name:es": "Kita",
+      "name:fr": "Kita",
+      "name:it": "Kita",
+      "name:ja": "北区",
+      "name:ko": "기타구",
+      "name:lt": "Kita",
+      "name:pl": "Kita",
+      "name:ru": "Кита",
+      "name:uk": "Кіта",
+      "name:ja-Hira": "きたく",
+      "name:ja-Latn": "Kita-ku"
+    }
+  },
+  {
+    "name": "Kitaakita",
+    "country": "Japan",
+    "latitude": 40.22594310029748,
+    "longitude": 140.3709149,
+    "other_names": {
+      "name": "北秋田市",
+      "name:ar": "كيتا-أكيتا، أكيتا",
+      "name:de": "Kitaakita",
+      "name:en": "Kitaakita",
+      "name:es": "Kitaakita",
+      "name:fr": "Kitaakita",
+      "name:ja": "北秋田市",
+      "name:ko": "기타아키타시",
+      "name:pl": "Kita-Akita",
+      "name:ru": "Китаакита",
+      "name:uk": "Кіта-Акіта",
+      "int_name": "Kitaakita",
+      "name:ja_rm": "Kitaakita-shi",
+      "name:ja_kana": "きたあきたし"
+    }
+  },
+  {
+    "name": "Kitahiroshima",
+    "country": "Japan",
+    "latitude": 42.98538770053619,
+    "longitude": 141.5629536,
+    "other_names": {
+      "name": "北広島市",
+      "name:ar": "كيتاهيروشيما، هوكايدو",
+      "name:de": "Kitahiroshima",
+      "name:en": "Kitahiroshima",
+      "name:es": "Kitahiroshima",
+      "name:fr": "Kitahiroshima",
+      "name:hu": "Kitahirosima",
+      "name:ja": "北広島市",
+      "name:ko": "기타히로시마시",
+      "name:pl": "Kitahiroshima",
+      "name:ru": "Китахиросима",
+      "name:uk": "Кітахіросіма",
+      "int_name": "Kitahiroshima",
+      "name:ja_rm": "Kitahiroshima-shi",
+      "name:ja_kana": "きたひろしまし"
+    }
+  },
+  {
+    "name": "Kitaibaraki",
+    "country": "Japan",
+    "latitude": 36.801850699824,
+    "longitude": 140.75131879999998,
+    "other_names": {
+      "name": "北茨城市",
+      "name:ar": "كيتا إيباراكي، إيباراكي",
+      "name:de": "Kitaibaraki",
+      "name:en": "Kitaibaraki",
+      "name:es": "Kitaibaraki",
+      "name:fr": "Kitaibaraki",
+      "name:ja": "北茨城市",
+      "name:ko": "기타이바라키시",
+      "name:pl": "Kitaibaraki",
+      "name:ru": "Китаибараки",
+      "name:uk": "Кіта-Ібаракі",
+      "name:ja_rm": "Kitaibaraki-shi",
+      "name:ja_kana": "きたいばらき"
+    }
+  },
+  {
+    "name": "Kitakami",
+    "country": "Japan",
+    "latitude": 39.28668320016731,
+    "longitude": 141.1135121,
+    "other_names": {
+      "name": "北上市",
+      "name:ar": "كيتاكامي، إيواته",
+      "name:de": "Kitakami",
+      "name:en": "Kitakami",
+      "name:es": "Kitakami",
+      "name:fr": "Kitakami",
+      "name:ja": "北上市",
+      "name:ko": "기타카미시",
+      "name:lt": "Kitakamis",
+      "name:pl": "Kitakami",
+      "name:ru": "Китаками",
+      "name:uk": "Кітакамі",
+      "int_name": "Kitakami",
+      "name:ja_rm": "Kitakami-shi",
+      "name:ja_kana": "きたかみし"
+    }
+  },
+  {
+    "name": "Kitakata",
+    "country": "Japan",
+    "latitude": 37.65080569993354,
+    "longitude": 139.87493869999997,
+    "other_names": {
+      "name": "喜多方市",
+      "name:ar": "كيتاكاتا، فوكوشيما",
+      "name:de": "Kitakata",
+      "name:en": "Kitakata",
+      "name:es": "Kitakata",
+      "name:fr": "Kitakata",
+      "name:ja": "喜多方市",
+      "name:ko": "기타카타시",
+      "name:pl": "Kitakata",
+      "name:ru": "Китаката",
+      "name:uk": "Кітаката",
+      "int_name": "Kitakata",
+      "name:ja-Hira": "きたかたし",
+      "name:ja-Latn": "Kitakata-shi"
+    }
+  },
+  {
+    "name": "Kitakyushu",
+    "country": "Japan",
+    "latitude": 33.8829995995982,
+    "longitude": 130.8749015,
+    "other_names": {
+      "name": "北九州市",
+      "name:ar": "كيتاكيوشو",
+      "name:de": "Kitakyūshū",
+      "name:en": "Kitakyushu",
+      "name:es": "Kitakyūshū",
+      "name:et": "Kitakyūshū",
+      "name:fr": "Kitakyūshū",
+      "name:hu": "Kitakjúsú",
+      "name:ja": "北九州市",
+      "name:ko": "기타큐슈시",
+      "name:lt": "Kitakiūšiū",
+      "name:oc": "Kita-Kyushu",
+      "name:pl": "Kitakyūshū",
+      "name:ru": "Китакюсю",
+      "name:sr": "Китакјушу",
+      "name:uk": "Кіта-Кюшю",
+      "name:zh": "北九州市",
+      "int_name": "Kitakyūshū",
+      "name:ja_rm": "Kitakyūshū-shi",
+      "name:ja_kana": "きたきゅうしゅうし",
+      "name:zh-Hans": "北九州市",
+      "name:zh-Hant": "北九州市"
+    }
+  },
+  {
+    "name": "Kitami",
+    "country": "Japan",
+    "latitude": 43.8029391005381,
+    "longitude": 143.89463509999996,
+    "other_names": {
+      "name": "北見市",
+      "name:ar": "كيتامي، هوكايدو",
+      "name:cs": "Kitami",
+      "name:de": "Kitami",
+      "name:en": "Kitami",
+      "name:es": "Kitami",
+      "name:fr": "Kitami",
+      "name:hu": "Kitami",
+      "name:ja": "北見市",
+      "name:ko": "기타미시",
+      "name:lt": "Kitamis",
+      "name:pl": "Kitami",
+      "name:ru": "Китами",
+      "name:uk": "Кітамі",
+      "int_name": "Kitami",
+      "name:ja_rm": "Kitami-shi",
+      "name:ja_kana": "きたみし"
+    }
+  },
+  {
+    "name": "Kitamoto",
+    "country": "Japan",
+    "latitude": 36.02687109973822,
+    "longitude": 139.5301389,
+    "other_names": {
+      "name": "北本市",
+      "name:ar": "كيتاموتو، سايتاما",
+      "name:de": "Kitamoto",
+      "name:en": "Kitamoto",
+      "name:es": "Kitamoto",
+      "name:fr": "Kitamoto",
+      "name:ja": "北本市",
+      "name:ko": "기타모토시",
+      "name:pl": "Kitamoto",
+      "name:ru": "Китамото",
+      "name:uk": "Кітамото",
+      "int_name": "Kitamoto"
+    }
+  },
+  {
+    "name": "Kitanagoya",
+    "country": "Japan",
+    "latitude": 35.24436899966916,
+    "longitude": 136.87903199999997,
+    "other_names": {
+      "name": "北名古屋市",
+      "name:ar": "كيتاناغويا، آيتشي",
+      "name:de": "Kitanagoya",
+      "name:en": "Kitanagoya",
+      "name:es": "Kitanagoya",
+      "name:fr": "Kitanagoya",
+      "name:ja": "北名古屋市",
+      "name:ko": "기타나고야시",
+      "name:pl": "Kita-Nagoya",
+      "name:ru": "Китанагоя",
+      "name:uk": "Кіта-Наґоя",
+      "name:ja_rm": "Kitanagoya-shi",
+      "name:ja_kana": "きたなごやし"
+    }
+  },
+  {
+    "name": "Kitchener",
+    "country": "Canada",
+    "latitude": 43.45129100054199,
+    "longitude": -80.4927815,
+    "other_names": {
+      "name": "Kitchener",
+      "name:de": "Kitchener",
+      "name:en": "Kitchener",
+      "name:fr": "Kitchener",
+      "name:ko": "키치너",
+      "name:ru": "Китченер",
+      "name:uk": "Кіченер",
+      "name:zh": "基秦拿"
+    }
+  },
+  {
+    "name": "Kitimat",
+    "country": "Canada",
+    "latitude": 54.053557699194094,
+    "longitude": -128.6540519,
+    "other_names": {
+      "name": "Kitimat"
+    }
+  },
+  {
+    "name": "Kitsuki",
+    "country": "Japan",
+    "latitude": 33.41684899958914,
+    "longitude": 131.6217599,
+    "other_names": {
+      "name": "杵築市",
+      "name:ar": "كيتسوكي، أويتا",
+      "name:de": "Kitsuki",
+      "name:en": "Kitsuki",
+      "name:es": "Kitsuki",
+      "name:fr": "Kitsuki",
+      "name:ja": "杵築市",
+      "name:ko": "기쓰키시",
+      "name:pl": "Kitsuki",
+      "name:ru": "Кицуки",
+      "name:uk": "Кіцукі",
+      "name:zh": "杵筑市",
+      "int_name": "Kitsuki",
+      "name:zh-Hans": "杵筑市",
+      "name:zh-Hant": "杵築市"
+    }
+  }
+]

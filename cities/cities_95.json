@@ -1,0 +1,300 @@
+[
+  {
+    "name": "Clermont-Ferrand",
+    "country": "France",
+    "latitude": 45.7774551003756,
+    "longitude": 3.0819427,
+    "other_names": {
+      "name": "Clermont-Ferrand",
+      "name:ar": "كليرمون-فيران",
+      "name:az": "Klermon-Feran",
+      "name:be": "Клермон-Феран",
+      "name:bg": "Клермон-Феран",
+      "name:br": "Clarmont d'Auvergn",
+      "name:ca": "Clarmont-d'Alvèrnia",
+      "name:el": "Κλερμόν-Φεράν",
+      "name:eo": "Klermonto-Ferando",
+      "name:fa": "کلرمون-فران",
+      "name:fr": "Clermont-Ferrand",
+      "name:he": "קלרמון-פראן",
+      "name:hi": "क्लेरमाँ-फ़ेराँ",
+      "name:hu": "Clermont-Ferrand",
+      "name:hy": "Կլերմոն-Ֆերան",
+      "name:ja": "クレルモン＝フェラン",
+      "name:ka": "კლერმონ-ფერანი",
+      "name:ko": "클레르몽페랑",
+      "name:la": "Augustonemetum",
+      "name:lt": "Klermonas-Feranas",
+      "name:lv": "Klermonferāna",
+      "name:mk": "Клермон-Феран",
+      "name:mr": "क्लेरमाँ-फेराँ",
+      "name:oc": "Clarmont (e Ferrand / d'Auvèrnhe)",
+      "name:ru": "Клермон-Ферран",
+      "name:sr": "Клермон Феран",
+      "name:th": "แกลร์มง-แฟร็อง",
+      "name:uk": "Клермон-Ферран",
+      "name:zh": "克莱蒙费朗",
+      "name:frp": "Cllârmont-Fèrrand",
+      "name:mzn": "کلرمون-فران",
+      "name:pnb": "کلیمون-فیراند",
+      "alt_name:oc": "Clarmont-d'Auvèrnhe"
+    }
+  },
+  {
+    "name": "Cleveland",
+    "country": "United States Of America",
+    "latitude": 41.505161300444385,
+    "longitude": -81.6934446,
+    "other_names": {
+      "name": "Cleveland",
+      "name:ar": "كليفلاند",
+      "name:oc": "Cleveland",
+      "name:ru": "Кливленд"
+    }
+  },
+  {
+    "name": "Clinton",
+    "country": "United States Of America",
+    "latitude": 36.103412599745965,
+    "longitude": -84.1318632,
+    "other_names": {
+      "name": "Clinton"
+    }
+  },
+  {
+    "name": "Clovis",
+    "country": "United States Of America",
+    "latitude": 34.40547199961769,
+    "longitude": -103.20507089999998,
+    "other_names": {
+      "name": "Clovis"
+    }
+  },
+  {
+    "name": "Cluj-Napoca",
+    "country": "Romania",
+    "latitude": 46.76937900020742,
+    "longitude": 23.5899542,
+    "other_names": {
+      "name": "Cluj-Napoca",
+      "name:bg": "Клуж-Напока",
+      "name:cs": "Kluž",
+      "name:de": "Klausenburg",
+      "name:el": "Κλουζ-Ναπόκα",
+      "name:en": "Cluj-Napoca",
+      "name:he": "קלוז'-נאפוקה",
+      "name:hr": "Koložvar",
+      "name:hu": "Kolozsvár",
+      "name:la": "Claudiopolis",
+      "name:lt": "Klužas",
+      "name:lv": "Kluža-Napoka",
+      "name:pl": "Kluż-Napoka",
+      "name:ru": "Клуж-Напока",
+      "name:sk": "Kluž",
+      "name:sr": "Клуж-Напока",
+      "name:tr": "Kaloşvar",
+      "name:uk": "Клуж-Напока",
+      "alt_name": "Cluj",
+      "old_name:de": "Klausenburg"
+    }
+  },
+  {
+    "name": "Coatepeque",
+    "country": "Guatemala",
+    "latitude": 14.702632699872154,
+    "longitude": -91.8656361,
+    "other_names": {
+      "name": "Coatepeque"
+    }
+  },
+  {
+    "name": "Coatzacoalcos",
+    "country": "Mexico",
+    "latitude": 18.139678700246353,
+    "longitude": -94.45017309999999,
+    "other_names": {
+      "name": "Coatzacoalcos",
+      "name:ru": "Коацакоалькос"
+    }
+  },
+  {
+    "name": "Cobán",
+    "country": "Guatemala",
+    "latitude": 15.47020009996278,
+    "longitude": -90.37350650000002,
+    "other_names": {
+      "name": "Cobán",
+      "name:en": "Cobán",
+      "name:hu": "Cobán",
+      "name:ru": "Кобан",
+      "name:uk": "Кобан"
+    }
+  },
+  {
+    "name": "Cobija",
+    "country": "Brazil",
+    "latitude": -11.018461400013239,
+    "longitude": -68.7538149,
+    "other_names": {
+      "name": "Cobija",
+      "name:ay": "Kuwixa",
+      "name:ja": "コビハ",
+      "name:ka": "კობიხა",
+      "name:lt": "Kobicha",
+      "name:qu": "Kuwiha",
+      "name:ru": "Кобиха",
+      "name:uk": "Кобіха",
+      "name:ur": "کوبیخا",
+      "name:zh": "科維哈",
+      "old_name:1906": "Puerto Bahía"
+    }
+  },
+  {
+    "name": "Cochabamba",
+    "country": "Bolivia",
+    "latitude": -17.393611400474356,
+    "longitude": -66.15689829999998,
+    "other_names": {
+      "name": "Cochabamba",
+      "name:ay": "Quchapampa",
+      "name:de": "Cochabamba",
+      "name:en": "Cochabamba",
+      "name:fr": "Cochabamba",
+      "name:it": "Cochabamba",
+      "name:pt": "Cochabamba",
+      "name:qu": "Quchapampa",
+      "name:ru": "Кочабамба",
+      "old_name:1786": "Villa de Oropesa"
+    }
+  },
+  {
+    "name": "Cocody",
+    "country": "Ivory Coast",
+    "latitude": 5.357366999482261,
+    "longitude": -3.994934,
+    "other_names": {
+      "name": "Cocody"
+    }
+  },
+  {
+    "name": "Cocorote",
+    "country": "Venezuela",
+    "latitude": 10.319482699454873,
+    "longitude": -68.78309319999998,
+    "other_names": {
+      "name": "Cocorote"
+    }
+  },
+  {
+    "name": "Codó",
+    "country": "Brazil",
+    "latitude": -4.455622999691467,
+    "longitude": -43.892354,
+    "other_names": {
+      "name": "Codó"
+    }
+  },
+  {
+    "name": "Cody",
+    "country": "United States Of America",
+    "latitude": 44.52631070050651,
+    "longitude": -109.05639199999999,
+    "other_names": {
+      "name": "Cody",
+      "name:en": "Cody",
+      "name:ru": "Коди",
+      "name:uk": "Коді"
+    }
+  },
+  {
+    "name": "Coeur d'Alene",
+    "country": "United States Of America",
+    "latitude": 47.67429940001405,
+    "longitude": -116.78115309999998,
+    "other_names": {
+      "name": "Coeur d'Alene",
+      "name:fr": "Cœur d'Alêne"
+    }
+  },
+  {
+    "name": "Coffs Harbour",
+    "country": "Australia",
+    "latitude": -30.29624069932082,
+    "longitude": 153.1135293,
+    "other_names": {
+      "name": "Coffs Harbour",
+      "name:ja": "コフスハーバー",
+      "name:ru": "Кофс-Харбор"
+    }
+  },
+  {
+    "name": "Coimbatore",
+    "country": "India",
+    "latitude": 11.001811499498755,
+    "longitude": 76.96284249999998,
+    "other_names": {
+      "name": "Coimbatore",
+      "name:ar": "كويمباتور",
+      "name:en": "Coimbatore",
+      "name:he": "קוימבטור",
+      "name:hi": "कोयंबतूर",
+      "name:ja": "コーヤンブットゥール",
+      "name:kn": "ಕೊಯಂಬತ್ತೂರು",
+      "name:ko": "코임바토르",
+      "name:lt": "Koimbatoras",
+      "name:ml": "കോയമ്പത്തൂർ",
+      "name:oc": "Coimbatore",
+      "name:pa": "ਕੋਇੰਬਟੂਰ",
+      "name:pt": "Coimbatore",
+      "name:ru": "Коимбатур",
+      "name:ta": "கோயம்புத்தூர்",
+      "name:uk": "Коїмбатор",
+      "name:ur": "کویمبٹور",
+      "name:zh": "哥印拜陀",
+      "alt_name": "Kovai",
+      "int_name": "Coimbatore",
+      "old_name": "Kongunadu"
+    }
+  },
+  {
+    "name": "Coimbra",
+    "country": "Portugal",
+    "latitude": 40.21119310029554,
+    "longitude": -8.4294632,
+    "other_names": {
+      "name": "Coimbra",
+      "name:ar": "قلمرية",
+      "name:el": "Κοΐμπρα",
+      "name:es": "Coímbra",
+      "name:fr": "Coïmbre",
+      "name:he": "קוימברה",
+      "name:hu": "Coimbra",
+      "name:lt": "Koimbra",
+      "name:ru": "Коимбра",
+      "name:sr": "Коимбра",
+      "name:uk": "Коїмбра",
+      "int_name": "Coimbra",
+      "alt_name:ar": "قلنبرية;كويمبرا"
+    }
+  },
+  {
+    "name": "Cojutepeque",
+    "country": "El Salvador",
+    "latitude": 13.721739599758376,
+    "longitude": -88.9345406,
+    "other_names": {
+      "name": "Cojutepeque",
+      "name:hu": "Cojutepeque",
+      "name:ru": "Кохутепеке"
+    }
+  },
+  {
+    "name": "Colatina",
+    "country": "Brazil",
+    "latitude": -19.5346732004211,
+    "longitude": -40.6287836,
+    "other_names": {
+      "name": "Colatina"
+    }
+  }
+]

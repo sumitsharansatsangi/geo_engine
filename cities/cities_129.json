@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Erdaojiang",
+    "country": "China",
+    "latitude": 41.77802140046871,
+    "longitude": 126.03855030000001,
+    "other_names": {
+      "name": "二道江区",
+      "name:en": "Erdaojiang",
+      "name:ko": "얼다오장구",
+      "name:vi": "Nhị Đạo Giang",
+      "name:zh": "二道江区",
+      "alt_name": "二道江;Erdaojiang District",
+      "alt_name:vi": "Đông Thông Hoá",
+      "name:zh-Hant": "二道江區",
+      "official_name": "二道江区"
+    }
+  },
+  {
+    "name": "Erdenet",
+    "country": "Mongolia",
+    "latitude": 49.027512799685525,
+    "longitude": 104.0447851,
+    "other_names": {
+      "name": "Эрдэнэт",
+      "name:ar": "إردنيت",
+      "name:de": "Erdenet",
+      "name:en": "Erdenet",
+      "name:es": "Erdenet",
+      "name:fr": "Erdenet",
+      "name:ja": "エルデネト",
+      "name:lt": "Erdenetas",
+      "name:mn": "Эрдэнэт",
+      "name:ru": "Эрдэнэт",
+      "int_name": "Erdenet",
+      "name:ckb": "ئەردەنێت",
+      "name:mn-mong": "ᠡᠷᠳᠡᠨᠢᠲᠦ"
+    }
+  },
+  {
+    "name": "Erdenet",
+    "country": "Mongolia",
+    "latitude": 49.03263717324509,
+    "longitude": 104.06431835388531,
+    "other_names": {
+      "name": "Эрдэнэт",
+      "name:en": "Erdenet",
+      "name:ja": "エルデネト",
+      "name:ru": "Эрдэнэт"
+    }
+  },
+  {
+    "name": "Erechim",
+    "country": "Brazil",
+    "latitude": -27.635070899445704,
+    "longitude": -52.27386539999999,
+    "other_names": {
+      "name": "Erechim",
+      "alt_name": "Erechim",
+      "reg_name": "Capital da Amizade"
+    }
+  },
+  {
+    "name": "Erenhot",
+    "country": "China",
+    "latitude": 43.640781300540795,
+    "longitude": 111.943519,
+    "other_names": {
+      "name": "二连浩特市",
+      "name:de": "Erenhot",
+      "name:en": "Erenhot",
+      "name:fr": "Erenhot",
+      "name:ja": "エレンホト市",
+      "name:mn": "Эрээн хот",
+      "name:ru": "Эрен-Хото",
+      "name:vi": "Erenhot",
+      "name:zh": "二连浩特市",
+      "alt_name": "二连浩特;Erenhot City;Эрээн хот",
+      "int_name": "Erenhot",
+      "alt_name:en": "Erlian",
+      "alt_name:vi": "Nhị Liên Hạo Đặc",
+      "name:zh-Hant": "二連浩特市",
+      "name:zh_pinyin": "Èrliánhàotè Shì"
+    }
+  },
+  {
+    "name": "Erfurt",
+    "country": "Germany",
+    "latitude": 50.9777973992533,
+    "longitude": 11.028736400000001,
+    "other_names": {
+      "name": "Erfurt",
+      "name:ar": "إرفورت",
+      "name:be": "Эрфурт",
+      "name:bg": "Ерфурт",
+      "name:de": "Erfurt",
+      "name:el": "Ερφούρτη",
+      "name:eo": "Erfurto",
+      "name:fa": "ارفورت",
+      "name:fr": "Erfurt",
+      "name:hy": "Էրֆուրտ",
+      "name:ja": "エアフルト",
+      "name:ka": "ერფურტი",
+      "name:ko": "에르푸르트",
+      "name:la": "Erfordia",
+      "name:lt": "Erfurtas",
+      "name:lv": "Erfurte",
+      "name:ru": "Эрфурт",
+      "name:sq": "Erfurti",
+      "name:sr": "Ерфурт",
+      "name:uk": "Ерфурт",
+      "name:ur": "ارفرٹ",
+      "name:zh": "埃尔福特",
+      "name:dsb": "Erfurt",
+      "name:hsb": "Jarobrod"
+    }
+  },
+  {
+    "name": "Ergun",
+    "country": "China",
+    "latitude": 50.24023409939891,
+    "longitude": 120.17267559999999,
+    "other_names": {
+      "name": "额尔古纳市",
+      "name:en": "Ergun",
+      "name:ja": "アルグン",
+      "name:lt": "Argūnė",
+      "name:mn": "Эргүн",
+      "name:ru": "Аргунь",
+      "name:vi": "Ngạch Nhĩ Cổ Nạp",
+      "name:zh": "额尔古纳市",
+      "alt_name": "Ergune;E'erguna",
+      "alt_name:mn": "Ergün",
+      "alt_name:vi": "Ergun",
+      "name:zh-Hant": "額爾古納市",
+      "name:zh_pinyin": "É'ěrgǔnà Shì"
+    }
+  },
+  {
+    "name": "Erie",
+    "country": "United States Of America",
+    "latitude": 42.12947120049548,
+    "longitude": -80.08526950000001,
+    "other_names": {
+      "name": "Erie",
+      "name:ar": "إيري",
+      "name:en": "Erie",
+      "name:ru": "Эри",
+      "name:uk": "Ері"
+    }
+  },
+  {
+    "name": "Erigavo",
+    "country": "Somalia",
+    "latitude": 10.618059999472795,
+    "longitude": 47.37,
+    "other_names": {
+      "name": "Ceerigaabo عيرجابو",
+      "pcode": "NC-3808-K20-001",
+      "name:ar": "عيرجابو",
+      "name:de": "Erigabo",
+      "name:en": "Erigavo",
+      "name:es": "Erigabo",
+      "name:et": "Ceerigaabo",
+      "name:fr": "Erigavo",
+      "name:it": "Erigavo",
+      "name:ko": "에리가보",
+      "name:ru": "Эригабо",
+      "alt_name": "Erigavo"
+    }
+  },
+  {
+    "name": "Erlangen",
+    "country": "Germany",
+    "latitude": 49.59781569954623,
+    "longitude": 11.003806399999998,
+    "other_names": {
+      "name": "Erlangen",
+      "name:ar": "إرلنغن",
+      "name:de": "Erlangen",
+      "name:en": "Erlangen",
+      "name:hu": "Erlangen",
+      "name:la": "Erlanga",
+      "name:lt": "Erlangenas",
+      "name:ru": "Эрланген",
+      "name:sr": "Ерланген",
+      "name:ta": "எர்லங்கன்",
+      "name:zh-Hans": "埃尔朗根",
+      "name:zh-Hant": "愛爾朗根"
+    }
+  },
+  {
+    "name": "Erode",
+    "country": "India",
+    "latitude": 11.330648299523496,
+    "longitude": 77.7276519,
+    "other_names": {
+      "name": "Erode",
+      "name:en": "Erode",
+      "name:hi": "इरोड",
+      "name:ja": "イーロード",
+      "name:kn": "ಈರೋಡು",
+      "name:ml": "ഈറോഡ്",
+      "name:pa": "ਇਰੋਡ",
+      "name:ta": "ஈரோடு",
+      "alt_name:ta": "ஈரோடை"
+    }
+  },
+  {
+    "name": "Erqi",
+    "country": "China",
+    "latitude": 34.73160799963479,
+    "longitude": 113.63342069999999,
+    "other_names": {
+      "name": "二七区",
+      "name:en": "Erqi",
+      "name:zh": "二七区",
+      "alt_name": "二七;Erqi District",
+      "name:zh-Hant": "二七區"
+    }
+  },
+  {
+    "name": "Errachidia",
+    "country": "Morocco",
+    "latitude": 31.929088999611334,
+    "longitude": -4.434080699999999,
+    "other_names": {
+      "name": "Errachidia ⵉⵎⵜⵖⴻⵔⵏ الرشيدية",
+      "name:ar": "الرشيدية",
+      "name:de": "Errachidia",
+      "name:en": "Errachidia",
+      "name:fa": "رشیدیه",
+      "name:fr": "Errachidia",
+      "name:ru": "Эр-Рашидия",
+      "name:ur": "الرشیدیہ",
+      "name:azb": "رشیدیه",
+      "name:ber": "ⵉⵎⵜⵖⴻⵔⵏ",
+      "name:zgh": "ⵉⵎⵜⵖⴻⵔⵏ",
+      "loc_name:ar": "الراشيدية"
+    }
+  },
+  {
+    "name": "Eryuan",
+    "country": "China",
+    "latitude": 26.11451570015257,
+    "longitude": 99.94986499999999,
+    "other_names": {
+      "name": "洱源县",
+      "name:en": "Eryuan",
+      "name:vi": "Nhĩ Nguyên",
+      "name:zh": "洱源县",
+      "alt_name": "洱源;Erh-yuan Hsien;Eryuan County",
+      "name:zh-Hant": "洱源縣"
+    }
+  },
+  {
+    "name": "Erzincan",
+    "country": "Turkey",
+    "latitude": 39.74960520023289,
+    "longitude": 39.494102299999994,
+    "other_names": {
+      "name": "Erzincan",
+      "name:ar": "أرزينجان",
+      "name:hy": "Երզնկա",
+      "name:ku": "Erzingan",
+      "name:ru": "Эрзинджан",
+      "name:tr": "Erzincan",
+      "alt_name:ku": "Ezirgan"
+    }
+  },
+  {
+    "name": "Erzurum",
+    "country": "Turkey",
+    "latitude": 39.90632150025454,
+    "longitude": 41.2727638,
+    "other_names": {
+      "name": "Erzurum",
+      "name:ar": "أرضروم",
+      "name:el": "Θεοδοσιούπολη",
+      "name:hi": "एर्ज़ुरुम",
+      "name:hy": "Կարին",
+      "name:ku": "Erzirom",
+      "name:ru": "Эрзурум"
+    }
+  },
+  {
+    "name": "Esbjerg",
+    "country": "Denmark",
+    "latitude": 55.46648919957679,
+    "longitude": 8.4520751,
+    "other_names": {
+      "name": "Esbjerg",
+      "name:ar": "إسبيرغ",
+      "name:da": "Esbjerg",
+      "name:de": "Esberg",
+      "name:hu": "Esbjerg",
+      "name:lt": "Esbjergas",
+      "name:ru": "Эсбьерг",
+      "name:zh": "埃斯比约"
+    }
+  },
+  {
+    "name": "Escalante",
+    "country": "Philippines",
+    "latitude": 10.841267899487503,
+    "longitude": 123.49926269999999,
+    "other_names": {
+      "name": "Escalante"
+    }
+  },
+  {
+    "name": "Escondido",
+    "country": "United States Of America",
+    "latitude": 33.121675099587435,
+    "longitude": -117.08148490000002,
+    "other_names": {
+      "name": "Escondido"
+    }
+  },
+  {
+    "name": "Escuintla",
+    "country": "Guatemala",
+    "latitude": 14.302285699825159,
+    "longitude": -90.7866243,
+    "other_names": {
+      "name": "Escuintla",
+      "name:hu": "Escuintla"
+    }
+  }
+]

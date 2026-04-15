@@ -1,0 +1,390 @@
+[
+  {
+    "name": "Zhenyuan",
+    "country": "China",
+    "latitude": 35.67765799970504,
+    "longitude": 107.19588989999998,
+    "other_names": {
+      "name": "镇原县",
+      "name:en": "Zhenyuan",
+      "name:ja": "鎮原県",
+      "name:ru": "Чжэньюань",
+      "name:zh": "镇原县",
+      "alt_name": "镇原县;镇原城关镇;Chengguan",
+      "name:zh-Hant": "鎮原縣"
+    }
+  },
+  {
+    "name": "Zhenyuan",
+    "country": "China",
+    "latitude": 24.007310100332383,
+    "longitude": 101.11037029999999,
+    "other_names": {
+      "name": "镇沅县",
+      "name:en": "Zhenyuan",
+      "name:vi": "Trấn Nguyên",
+      "name:zh": "镇沅县",
+      "name:zh-Hant": "鎮沅縣",
+      "official_name": "镇沅彝族哈尼族拉祜族自治县",
+      "name:zh_pinyin": "Zhènyuán Xiàn"
+    }
+  },
+  {
+    "name": "Zhenyuan",
+    "country": "China",
+    "latitude": 27.052245500052113,
+    "longitude": 108.42538519999998,
+    "other_names": {
+      "name": "镇远县",
+      "name:en": "Zhenyuan",
+      "name:ru": "Уян",
+      "name:vi": "Vũ Dương",
+      "name:zh": "镇远县",
+      "alt_name": "镇远;潕阳镇;潕阳;舞阳镇;Wuyang",
+      "name:zh-Hant": "鎮遠縣"
+    }
+  },
+  {
+    "name": "Zherong",
+    "country": "China",
+    "latitude": 27.23776150003151,
+    "longitude": 119.8962904,
+    "other_names": {
+      "name": "柘荣县",
+      "name:de": "Zherong",
+      "name:en": "Zherong",
+      "name:es": "Zhèróng",
+      "name:fa": "شهرستان ژرونگ",
+      "name:fr": "Zherong",
+      "name:it": "Zherong",
+      "name:ja": "柘栄県",
+      "name:ko": "저룽현",
+      "name:no": "Zherong",
+      "name:sv": "Zherong",
+      "name:vi": "Chá Vinh",
+      "name:zh": "柘荣县",
+      "alt_name": "柘荣;Zherong County",
+      "name:cdo": "Ciá-ìng",
+      "name:ceb": "Zherong",
+      "name:hak": "Cha-yùng-yen",
+      "name:mwl": "Zherong",
+      "name:nan": "Chià-êng-koān",
+      "name:yue": "柘榮",
+      "name:zh-Hant": "柘榮縣",
+      "name:zh_pinyin": "Zhèróng Xiàn"
+    }
+  },
+  {
+    "name": "Zhezkazgan",
+    "country": "Kazakhstan",
+    "latitude": 47.80433999998389,
+    "longitude": 67.714401,
+    "other_names": {
+      "name": "Жезказган",
+      "name:de": "Schesqasghan",
+      "name:en": "Zhezkazgan",
+      "name:et": "Žezkazgan",
+      "name:fr": "Djezkazgan",
+      "name:ja": "ジェズカズガン",
+      "name:kk": "Жезқазған",
+      "name:lt": "Žezkazganas",
+      "name:ru": "Жезказган",
+      "name:tr": "Jezkazgan",
+      "alt_name": "Джезказган",
+      "int_name": "Zhezkazgan",
+      "old_name": "Джезказган",
+      "old_name:ru": "Джезказган"
+    }
+  },
+  {
+    "name": "Zhidan",
+    "country": "China",
+    "latitude": 36.824042799826685,
+    "longitude": 108.76160709999999,
+    "other_names": {
+      "name": "志丹县",
+      "name:en": "Zhidan",
+      "name:ja": "志丹県",
+      "name:ru": "Баоань",
+      "name:vi": "Bảo An",
+      "name:zh": "志丹县",
+      "alt_name": "志丹;保安街道;保安镇;保安;Bao'an",
+      "old_name": "保安军;保安州;保安县",
+      "name:zh-Hant": "志丹縣"
+    }
+  },
+  {
+    "name": "Zhiduo",
+    "country": "China",
+    "latitude": 33.855940899597464,
+    "longitude": 95.6180988,
+    "other_names": {
+      "name": "治多县",
+      "name:bo": "རྒྱལ་རྗེ་ཕོ་བྲང་སྐེད།",
+      "name:en": "Zhiduo",
+      "name:zh": "治多县",
+      "alt_name": "加吉博洛格;加吉博洛镇;治多;Jiaji Boluo;Gyaijepozhangge",
+      "int_name": "Gyaijêpozhanggê",
+      "alt_name:en": "Chih-to;Zhidoi;Chia-chi-po-lo-ko;Jiaji Boluo Zhen;Zhiduo;Zhiduo Xian",
+      "name:zh-Hant": "治多縣",
+      "official_name": "加吉博洛镇",
+      "name:zh_pinyin": "jiājíbó luògé zhèn"
+    }
+  },
+  {
+    "name": "Zhifu",
+    "country": "China",
+    "latitude": 37.54043219991858,
+    "longitude": 121.39504980000001,
+    "other_names": {
+      "name": "芝罘区",
+      "name:en": "Zhifu",
+      "name:zh": "芝罘区",
+      "name:zh-Hant": "芝罘區"
+    }
+  },
+  {
+    "name": "Zhifu",
+    "country": "China",
+    "latitude": 37.53831639991829,
+    "longitude": 121.39549219999999,
+    "other_names": {
+      "name": "芝罘区",
+      "name:en": "Zhifu",
+      "name:zh": "芝罘区",
+      "name:zh-Hant": "芝罘區"
+    }
+  },
+  {
+    "name": "Zhijiang",
+    "country": "China",
+    "latitude": 30.428383499703298,
+    "longitude": 111.7546868,
+    "other_names": {
+      "name": "枝江市",
+      "name:de": "Zhijiang",
+      "name:en": "Zhijiang",
+      "name:fa": "جیجانگ",
+      "name:fr": "Zhijiang",
+      "name:it": "Zhijiang",
+      "name:ja": "枝江市",
+      "name:ki": "Zhijiang",
+      "name:ko": "즈장시",
+      "name:nl": "Zhijiang",
+      "name:no": "Zhijiang",
+      "name:sv": "Zhijiang",
+      "name:vi": "Chi Giang",
+      "name:zh": "枝江市",
+      "name:ceb": "Zhijiang",
+      "name:nan": "Chi-kang-chhī",
+      "name:pam": "Zhijiang",
+      "name:yue": "枝江",
+      "name:zh-Hant": "枝江市",
+      "name:zh_pinyin": "Zhījiāng Shì"
+    }
+  },
+  {
+    "name": "Zhijiang",
+    "country": "China",
+    "latitude": 27.447297700008118,
+    "longitude": 109.68048429999999,
+    "other_names": {
+      "name": "芷江侗族自治县",
+      "name:de": "Zhijiang",
+      "name:en": "Zhijiang",
+      "name:es": "Zhijiang",
+      "name:fr": "Xian autonome dong de Zhijiang",
+      "name:it": "Contea autonoma dong di Zhijiang",
+      "name:ja": "芷江トン族自治県",
+      "name:ko": "즈장 둥족 자치현",
+      "name:no": "Zhijiang Dong",
+      "name:ru": "Чжицзян-Дунский автономный уезд",
+      "name:sv": "Zhijiang, Huaihua",
+      "name:ur": "ژیجیانگ ڈونگ خود مختار کاؤنٹی",
+      "name:vi": "Chỉ Giang",
+      "name:zh": "芷江侗族自治县",
+      "alt_name": "Chih-chiang Hsien;Zhijiang Dong Autonomous County",
+      "name:nan": "Chí-kang Tong-cho̍k Chū-tī-koān",
+      "name:yue": "芷江",
+      "short_name": "芷江县",
+      "name:zh-Hant": "芷江侗族自治縣",
+      "official_name": "芷江侗族自治县",
+      "name:zh_pinyin": "zhǐjiāng dòngzú zìzhì xiàn"
+    }
+  },
+  {
+    "name": "Zhijin",
+    "country": "China",
+    "latitude": 26.66725490009423,
+    "longitude": 105.76669599999998,
+    "other_names": {
+      "name": "织金县",
+      "name:en": "Zhijin",
+      "name:ja": "織金県",
+      "name:zh": "织金",
+      "alt_name": "织金县",
+      "name:zh-Hant": "織金縣"
+    }
+  },
+  {
+    "name": "Zhob",
+    "country": "Pakistan",
+    "latitude": 31.339705799640047,
+    "longitude": 69.4476997,
+    "other_names": {
+      "name": "ژوب",
+      "name:ar": "زوب",
+      "name:de": "Zhob",
+      "name:en": "Zhob",
+      "name:es": "Zhob",
+      "name:fr": "Zhob",
+      "name:hi": "झोब",
+      "name:it": "Zhob",
+      "name:ja": "ジョーブ",
+      "name:pt": "Zhob",
+      "name:ru": "Жоб",
+      "name:tr": "Zhob",
+      "name:ur": "اردو",
+      "old_name": "Fort Sandeman"
+    }
+  },
+  {
+    "name": "Zhong",
+    "country": "China",
+    "latitude": 30.30208519971364,
+    "longitude": 108.03524419999998,
+    "other_names": {
+      "name": "忠县",
+      "name:en": "Zhong",
+      "name:vi": "Trung",
+      "name:zh": "忠县",
+      "alt_name": "忠;Zhong County",
+      "name:zh-Hant": "忠縣",
+      "name:zh_pinyin": "zhōng xiàn"
+    }
+  },
+  {
+    "name": "Zhongba",
+    "country": "China",
+    "latitude": 29.772654599760553,
+    "longitude": 84.0291827,
+    "other_names": {
+      "name": "仲巴县",
+      "name:bo": "འབྲོང་པ་རྫོང་།",
+      "name:de": "Zhongba",
+      "name:en": "Zhongba",
+      "name:es": "Zhongba",
+      "name:fr": "Zhongba",
+      "name:ja": "ドンパ県",
+      "name:ko": "중바현",
+      "name:ru": "Джонгба",
+      "name:vi": "Zhongba",
+      "name:zh": "仲巴县",
+      "alt_name": "仲巴;Chung-pa Hsien",
+      "alt_name:vi": "Trọng Ba",
+      "name:zh-Hant": "仲巴縣",
+      "name:zh_pinyin": "Zhongba Xian"
+    }
+  },
+  {
+    "name": "Zhongfang",
+    "country": "China",
+    "latitude": 27.442862100008615,
+    "longitude": 109.9411931,
+    "other_names": {
+      "name": "中方县",
+      "name:de": "Zhongfang",
+      "name:en": "Zhongfang",
+      "name:fa": "شهرستان ژونگفانگ",
+      "name:fr": "Xian de Zhongfang",
+      "name:it": "Contea di Zhongfang",
+      "name:ja": "中方県",
+      "name:ko": "중팡현",
+      "name:no": "Zhongfang",
+      "name:ru": "Чжунфан",
+      "name:sv": "Zhongfang",
+      "name:vi": "Trung Phương",
+      "name:zh": "中方县",
+      "alt_name": "中方;Zhongfang County;Chung-fang",
+      "name:ceb": "Zhongfang Xian",
+      "name:nan": "Tiong-hong-koān",
+      "name:yue": "中方",
+      "name:zh-Hant": "中方縣",
+      "official_name": "中方镇",
+      "name:zh_pinyin": "Zhongfang Xian"
+    }
+  },
+  {
+    "name": "Zhongjiang",
+    "country": "China",
+    "latitude": 31.036741899658693,
+    "longitude": 104.67437829999999,
+    "other_names": {
+      "name": "中江县",
+      "name:en": "Zhongjiang",
+      "name:vi": "Trung Giang",
+      "name:zh": "中江县",
+      "alt_name": "中江;Zhongjiang County",
+      "name:zh-Hant": "中江縣",
+      "name:zh_pinyin": "Zhongjiang Xian"
+    }
+  },
+  {
+    "name": "Zhonglou",
+    "country": "China",
+    "latitude": 31.804265899616546,
+    "longitude": 119.89710419999999,
+    "other_names": {
+      "name": "钟楼区",
+      "name:en": "Zhonglou",
+      "name:vi": "Chung Lâu",
+      "name:zh": "钟楼区",
+      "name:zh-Hant": "鐘樓區"
+    }
+  },
+  {
+    "name": "Zhongmu County",
+    "country": "China",
+    "latitude": 34.72077179963416,
+    "longitude": 113.98183050000002,
+    "other_names": {
+      "name": "中牟县",
+      "name:de": "Zhongmu",
+      "name:en": "Zhongmu County",
+      "name:eu": "Zhongmu konderria",
+      "name:fa": "شهرستان ژونگمو",
+      "name:fr": "Xian de Zhongmu",
+      "name:it": "Contea di Zhongmu",
+      "name:ja": "中牟県",
+      "name:ko": "중무현",
+      "name:no": "Zhongmu",
+      "name:ru": "Чжунму",
+      "name:sv": "Zhongmou",
+      "name:vi": "Trung Mưu",
+      "name:zh": "中牟县",
+      "name:ceb": "Zhongmou Xian",
+      "name:nan": "Tiong-bô͘-koān",
+      "name:yue": "中牟",
+      "alt_name:vi": "Trung Mâu",
+      "name:zh-Hant": "中牟縣",
+      "name:zh_pinyin": "Zhongmou Xian"
+    }
+  },
+  {
+    "name": "Zhongning",
+    "country": "China",
+    "latitude": 37.491524599912005,
+    "longitude": 105.6746355,
+    "other_names": {
+      "name": "中宁县",
+      "name:en": "Zhongning",
+      "name:ja": "中寧県",
+      "name:ru": "Чжуннин",
+      "name:sd": "ﺟْﻮنٍ ﺷِﯿًﺎ‎",
+      "name:zh": "中宁县",
+      "alt_name": "中宁;Zhongning County",
+      "name:zh-Hant": "中寧縣",
+      "name:zh_pinyin": "Zhōngníng Xiàn"
+    }
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "name": "Maasin",
+    "country": "Philippines",
+    "latitude": 10.132506099444704,
+    "longitude": 124.8385147,
+    "other_names": {
+      "name": "Maasin",
+      "name:ja": "マアシン",
+      "name:tl": "Maasin",
+      "name:war": "Maasin",
+      "official_name:en": "City of Maasin",
+      "official_name:tl": "Lungsod ng Maasin",
+      "official_name:war": "Syudad han Maasin"
+    }
+  },
+  {
+    "name": "Maastricht",
+    "country": "Netherlands",
+    "latitude": 50.85124379927594,
+    "longitude": 5.690976799999999,
+    "other_names": {
+      "name": "Maastricht",
+      "name:ar": "ماستريخت",
+      "name:de": "Maastricht",
+      "name:en": "Maastricht",
+      "name:eo": "Mastriĥto",
+      "name:es": "Maastricht",
+      "name:fr": "Maastricht",
+      "name:he": "מאסטריכט",
+      "name:ja": "マーストリヒト",
+      "name:la": "Traiectum Mosae",
+      "name:li": "Mestreech",
+      "name:lt": "Mastrichtas",
+      "name:mk": "Мастрихт",
+      "name:nl": "Maastricht",
+      "name:ru": "Маастрихт",
+      "name:sr": "Мастрихт",
+      "name:uk": "Маастрихт",
+      "name:zh": "马斯特里赫特",
+      "loc_name": "Mestreech",
+      "name:nds": "Maastricht",
+      "alt_name:la": "Traiectum ad Mosam",
+      "old_name:es": "Mastrique",
+      "old_name:fr": "Maestricht",
+      "name:zh-Hans": "马斯特里赫特",
+      "name:zh-Hant": "馬斯特里赫特"
+    }
+  },
+  {
+    "name": "Mabalacat",
+    "country": "Philippines",
+    "latitude": 15.222767999933614,
+    "longitude": 120.5733199,
+    "other_names": {
+      "name": "Mabalacat",
+      "name:ja": "マバラカット"
+    }
+  },
+  {
+    "name": "Mabian",
+    "country": "China",
+    "latitude": 28.834434099854903,
+    "longitude": 103.54566899999999,
+    "other_names": {
+      "name": "马边县",
+      "name:en": "Mabian",
+      "name:zh": "马边县",
+      "alt_name": "马边彝族自治县;马边;民建镇;民建;Minjian",
+      "short_name": "马边县",
+      "name:zh-Hant": "馬邊縣",
+      "name:zh_pinyin": "Mǎbiān Yízú Zìzhìxiàn"
+    }
+  },
+  {
+    "name": "Mabruk",
+    "country": "Sudan",
+    "latitude": 21.79617850040983,
+    "longitude": 33.6520194,
+    "other_names": {
+      "name": "مبروك",
+      "name:en": "Mabruk",
+      "name:es": "Mabruk",
+      "name:fr": "Mabruk"
+    }
+  },
+  {
+    "name": "Macaé",
+    "country": "Brazil",
+    "latitude": -22.371295800150403,
+    "longitude": -41.7866922,
+    "other_names": {
+      "name": "Macaé"
+    }
+  },
+  {
+    "name": "Macapá",
+    "country": "Brazil",
+    "latitude": 0.04015289999587769,
+    "longitude": -51.056958800000004,
+    "other_names": {
+      "name": "Macapá",
+      "name:ar": "ماكابا",
+      "name:be": "Макапа",
+      "name:bg": "Макапа",
+      "name:de": "Macapá",
+      "name:en": "Macapá",
+      "name:eo": "Makapao",
+      "name:fa": "ماکاپا",
+      "name:he": "מקאפה",
+      "name:hy": "Մակապա",
+      "name:ja": "マカパ",
+      "name:ka": "მაკაპა",
+      "name:kk": "Макапа",
+      "name:ko": "마카파",
+      "name:lt": "Makapa",
+      "name:lv": "Makapa",
+      "name:mk": "Макапа",
+      "name:mr": "मकापा",
+      "name:pl": "Macapá",
+      "name:pt": "Macapá",
+      "name:ru": "Макапа",
+      "name:sh": "Makapa",
+      "name:sr": "Макапа",
+      "name:tg": "Макапа",
+      "name:th": "มากาปา",
+      "name:uk": "Макапа",
+      "name:zh": "馬卡帕",
+      "alt_name:en": "Macapa"
+    }
+  },
+  {
+    "name": "Macau",
+    "country": "China",
+    "latitude": 22.189944800405875,
+    "longitude": 113.5380454,
+    "other_names": {
+      "name": "澳門 Macau",
+      "name:ar": "ماكاو",
+      "name:cs": "Macao",
+      "name:de": "Macao",
+      "name:en": "Macau",
+      "name:eo": "Makao",
+      "name:es": "Macao",
+      "name:fa": "ماکائو",
+      "name:fr": "Macao",
+      "name:hi": "मकाउ",
+      "name:hu": "Makaó",
+      "name:ja": "マカオ",
+      "name:nl": "Macau",
+      "name:pl": "Makau",
+      "name:pt": "Macau",
+      "name:ru": "Макао",
+      "name:sk": "Macao",
+      "name:ur": "مکاؤ",
+      "name:vi": "Ma Cao",
+      "name:zh": "澳門",
+      "name:lzh": "澳門市",
+      "name:zh-Hans": "澳门",
+      "name:zh-Hant": "澳門",
+      "name:zh_pinyin": "Àomén-shì"
+    }
+  },
+  {
+    "name": "Macedo de Cavaleiros",
+    "country": "Portugal",
+    "latitude": 41.53621240044729,
+    "longitude": -6.9560267,
+    "other_names": {
+      "name": "Macedo de Cavaleiros",
+      "name:ru": "Маседу-ди-Кавалейруш",
+      "name:uk": "Маседу-ді-Кавалейруш",
+      "name:zh": "馬塞杜-迪卡瓦萊魯什",
+      "name:mwl": "Macedo de Cabalheiros"
+    }
+  },
+  {
+    "name": "Maceió",
+    "country": "Brazil",
+    "latitude": -9.64768429988386,
+    "longitude": -35.7339264,
+    "other_names": {
+      "name": "Maceió",
+      "name:ar": "ماسايو",
+      "name:be": "Масеё",
+      "name:bg": "Масейо",
+      "name:de": "Maceió",
+      "name:en": "Maceió",
+      "name:eo": "Maceioo",
+      "name:fa": "ماسایو",
+      "name:he": "מסייאו",
+      "name:hy": "Մասեյո",
+      "name:ja": "マセイオ",
+      "name:ka": "მასეიო",
+      "name:kk": "Масейо",
+      "name:ko": "마세이오",
+      "name:lt": "Masejas",
+      "name:lv": "Maseio",
+      "name:mk": "Масејо",
+      "name:ml": "मासेईयो",
+      "name:pl": "Maceió",
+      "name:pt": "Maceió",
+      "name:ru": "Масейо",
+      "name:se": "Масејо",
+      "name:sr": "Масејо",
+      "name:tg": "Масейо",
+      "name:th": "มาเซโอ",
+      "name:uk": "Масейо",
+      "name:uz": "Maseyo",
+      "name:zh": "马塞约",
+      "int_name": "Maceio"
+    }
+  },
+  {
+    "name": "Macenta",
+    "country": "Guinea",
+    "latitude": 8.545845999393201,
+    "longitude": -9.46792,
+    "other_names": {
+      "name": "Macenta",
+      "name:ar": "ماسنتا",
+      "name:ko": "마센타",
+      "name:ru": "Масента",
+      "alt_name:ar": "ماكنتا"
+    }
+  },
+  {
+    "name": "Machakos",
+    "country": "Kenya",
+    "latitude": -1.5212476998562972,
+    "longitude": 37.2660878,
+    "other_names": {
+      "name": "Machakos",
+      "name:ko": "마차코스"
+    }
+  },
+  {
+    "name": "Machakos",
+    "country": "Kenya",
+    "latitude": -1.519951625886069,
+    "longitude": 37.26376358606295,
+    "other_names": {
+      "name": "Machakos"
+    }
+  },
+  {
+    "name": "Machala",
+    "country": "Ecuador",
+    "latitude": -3.258856499736623,
+    "longitude": -79.95885179999999,
+    "other_names": {
+      "name": "Machala",
+      "name:en": "Machala",
+      "name:ru": "Мачала",
+      "name:uk": "Мачала"
+    }
+  },
+  {
+    "name": "Macheng",
+    "country": "China",
+    "latitude": 31.17082179965012,
+    "longitude": 115.01592439999997,
+    "other_names": {
+      "name": "麻城市",
+      "name:de": "Macheng",
+      "name:en": "Macheng",
+      "name:fi": "Macheng",
+      "name:fr": "Macheng",
+      "name:it": "Macheng",
+      "name:ja": "麻城市",
+      "name:ki": "Macheng",
+      "name:ko": "마청시",
+      "name:mg": "Macheng",
+      "name:no": "Macheng",
+      "name:pl": "Macheng",
+      "name:ru": "Мачэн",
+      "name:sv": "Macheng",
+      "name:ur": "ماچینگ",
+      "name:vi": "Ma Thành",
+      "name:zh": "麻城市",
+      "name:ceb": "Macheng Shi",
+      "name:nan": "Mâ-siâⁿ-chhī",
+      "name:pam": "Macheng",
+      "name:war": "Macheng",
+      "name:yue": "麻城",
+      "name:zh-Hant": "麻城市",
+      "name:zh_pinyin": "Máchéng Shì"
+    }
+  },
+  {
+    "name": "Machida",
+    "country": "Japan",
+    "latitude": 35.56419299969508,
+    "longitude": 139.442839,
+    "other_names": {
+      "name": "町田市",
+      "name:ar": "ماتشيدا، طوكيو",
+      "name:bg": "Мачида",
+      "name:de": "Machida",
+      "name:en": "Machida",
+      "name:es": "Machida",
+      "name:et": "Machida",
+      "name:fa": "ماچیدا، توکیو",
+      "name:fi": "Machida",
+      "name:fr": "Machida",
+      "name:gl": "Machida",
+      "name:it": "Machida",
+      "name:ja": "町田市",
+      "name:ko": "마치다시",
+      "name:lt": "Mačida",
+      "name:ms": "Machida",
+      "name:nl": "Machida",
+      "name:pl": "Machida",
+      "name:pt": "Machida",
+      "name:ru": "Матида",
+      "name:sh": "Mačida",
+      "name:sr": "Мачида",
+      "name:tg": "Мачида",
+      "name:th": "มะชิดะ",
+      "name:uk": "Матіда",
+      "name:zh": "町田市",
+      "name:mzn": "ماچیدا، توکیو",
+      "name:yue": "町田市",
+      "name:ja_rm": "Machida-shi",
+      "name:roa-rup": "Machida"
+    }
+  },
+  {
+    "name": "Machilipatnam",
+    "country": "India",
+    "latitude": 16.181939300045325,
+    "longitude": 81.1351299,
+    "other_names": {
+      "name": "Machilipatnam",
+      "name:ar": "ماتشيليباتنام",
+      "name:en": "Machilipatnam",
+      "name:hi": "मछलीपट्टनम",
+      "name:ja": "マチリーパトナム",
+      "name:kn": "ಮಚಿಲೀಪಟ್ಟಣಂ",
+      "name:pa": "ਮੱਛਲੀਪਟਨਮ",
+      "name:ru": "Мачилипатнам",
+      "name:te": "మచిలీపట్నం",
+      "alt_name": "Bandar"
+    }
+  },
+  {
+    "name": "Machiques",
+    "country": "Venezuela",
+    "latitude": 10.059040999440938,
+    "longitude": -72.5531811,
+    "other_names": {
+      "name": "Machiques"
+    }
+  },
+  {
+    "name": "Mackay",
+    "country": "Australia",
+    "latitude": -21.141956000292204,
+    "longitude": 149.1865149,
+    "other_names": {
+      "name": "Mackay",
+      "name:ja": "マッカイ",
+      "name:ru": "Маккай",
+      "name:zh": "麦凯"
+    }
+  },
+  {
+    "name": "Macon",
+    "country": "United States Of America",
+    "latitude": 32.8406945995887,
+    "longitude": -83.6324022,
+    "other_names": {
+      "name": "Macon",
+      "name:en": "Macon",
+      "name:ru": "Мейкон",
+      "name:uk": "Мейкон"
+    }
+  }
+]

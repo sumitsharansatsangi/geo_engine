@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Salford",
+    "country": "England",
+    "latitude": 53.48774629911832,
+    "longitude": -2.2891920999999997,
+    "other_names": {
+      "name": "Salford",
+      "name:ko": "솔퍼드",
+      "name:mk": "Солфорд",
+      "name:uk": "Солфорд"
+    }
+  },
+  {
+    "name": "Salgótarján",
+    "country": "Hungary",
+    "latitude": 48.09606759991468,
+    "longitude": 19.8005642,
+    "other_names": {
+      "name": "Salgótarján",
+      "name:de": "Schalgotarjan",
+      "name:ru": "Шальготарьян",
+      "name:sk": "Šalgov-Tarjany"
+    }
+  },
+  {
+    "name": "Salihorsk",
+    "country": "Belarus",
+    "latitude": 52.78930389908421,
+    "longitude": 27.531816799999998,
+    "other_names": {
+      "name": "Солигорск",
+      "name:be": "Салігорск",
+      "name:de": "Soligorsk",
+      "name:en": "Salihorsk",
+      "name:eo": "Salihorsk",
+      "name:es": "Saligorsk",
+      "name:et": "Saligorsk",
+      "name:fr": "Salihorsk",
+      "name:hu": "Szalihorszk",
+      "name:lt": "Salihorskas",
+      "name:nl": "Salihorsk",
+      "name:pl": "Soligorsk",
+      "name:ru": "Солигорск",
+      "name:sr": "Салигорск",
+      "name:uk": "Салігорськ",
+      "int_name": "Salihorsk",
+      "old_name:uk": "Солігорськ",
+      "name:be-tarask": "Салігорск"
+    }
+  },
+  {
+    "name": "Salina",
+    "country": "United States Of America",
+    "latitude": 38.840280500102736,
+    "longitude": -97.61142370000002,
+    "other_names": {
+      "name": "Salina"
+    }
+  },
+  {
+    "name": "Salina Cruz",
+    "country": "Mexico",
+    "latitude": 16.182500000045387,
+    "longitude": -95.195833,
+    "other_names": {
+      "name": "Salina Cruz",
+      "name:ru": "Салина-Крус"
+    }
+  },
+  {
+    "name": "Salinas",
+    "country": "United States Of America",
+    "latitude": 36.67441169980886,
+    "longitude": -121.65503719999998,
+    "other_names": {
+      "name": "Salinas",
+      "name:ru": "Салинас",
+      "name:uk": "Салінас"
+    }
+  },
+  {
+    "name": "Salisbury",
+    "country": "United States Of America",
+    "latitude": 35.670972699704436,
+    "longitude": -80.47422609999998,
+    "other_names": {
+      "name": "Salisbury"
+    }
+  },
+  {
+    "name": "Salisbury",
+    "country": "United States Of America",
+    "latitude": 38.36602700003413,
+    "longitude": -75.60099639999999,
+    "other_names": {
+      "name": "Salisbury"
+    }
+  },
+  {
+    "name": "Salisbury",
+    "country": "England",
+    "latitude": 51.06906129923767,
+    "longitude": -1.7954134,
+    "other_names": {
+      "name": "Salisbury",
+      "name:cy": "Caersallog",
+      "name:el": "Σαλισβερία",
+      "name:mk": "Солсбери",
+      "name:ru": "Солсбери",
+      "name:sr": "Солсбери",
+      "name:uk": "Солсбері",
+      "alt_name:el": "Σώλτσμπερυ"
+    }
+  },
+  {
+    "name": "Sallum",
+    "country": "Egypt",
+    "latitude": 31.551617799628534,
+    "longitude": 25.154212599999997,
+    "other_names": {
+      "name": "السلوم",
+      "name:ar": "السلوم",
+      "name:de": "as-Sallum",
+      "name:en": "Sallum",
+      "name:es": "Sollum",
+      "name:fr": "Sollum",
+      "name:ru": "Саллум",
+      "alt_name": "السلوم",
+      "int_name": "El Sellûm, Al Sellum, Al Sollum, Sellum, Sollum, Salum"
+    }
+  },
+  {
+    "name": "Salmon Arm",
+    "country": "Canada",
+    "latitude": 50.70050589930429,
+    "longitude": -119.27905290000001,
+    "other_names": {
+      "name": "Salmon Arm"
+    }
+  },
+  {
+    "name": "Salo",
+    "country": "Finland",
+    "latitude": 60.38467160170416,
+    "longitude": 23.128637699999995,
+    "other_names": {
+      "name": "Salo",
+      "name:fi": "Salo",
+      "name:ru": "Сало",
+      "name:sr": "Сало",
+      "alt_name": "Salo"
+    }
+  },
+  {
+    "name": "Salta",
+    "country": "Argentina",
+    "latitude": -24.789294599809825,
+    "longitude": -65.4103194,
+    "other_names": {
+      "name": "Salta",
+      "name:el": "Σάλτα",
+      "name:en": "Salta",
+      "name:he": "סלטה",
+      "name:ru": "Сальта",
+      "name:uk": "Сальта"
+    }
+  },
+  {
+    "name": "Saltillo",
+    "country": "Mexico",
+    "latitude": 25.4230425002203,
+    "longitude": -100.9927509,
+    "other_names": {
+      "name": "Saltillo",
+      "name:ar": "سالتيو",
+      "name:en": "Saltillo",
+      "name:es": "Saltillo",
+      "name:pl": "Saltillo",
+      "name:ru": "Сальтильо",
+      "name:uk": "Сальтільйо"
+    }
+  },
+  {
+    "name": "Salt Lake City",
+    "country": "United States Of America",
+    "latitude": 40.75961980036442,
+    "longitude": -111.88679750000001,
+    "other_names": {
+      "name": "Salt Lake City",
+      "name:en": "Salt Lake City",
+      "name:lt": "Solt Leik Sitis",
+      "name:pl": "Salt Lake City",
+      "name:ru": "Солт-Лейк-Сити",
+      "name:ta": "சால்ட் லேக் நகரம்",
+      "name:uk": "Солт-Лейк-Сіті",
+      "name:zh": "鹽湖城/ 盐湖城",
+      "name:zh-Hans": "盐湖城"
+    }
+  },
+  {
+    "name": "Salto",
+    "country": "Uruguay",
+    "latitude": -31.38888999936159,
+    "longitude": -57.96088760000001,
+    "other_names": {
+      "name": "Salto",
+      "name:en": "Salto",
+      "name:ru": "Салту"
+    }
+  },
+  {
+    "name": "Salto",
+    "country": "Brazil",
+    "latitude": -23.19899830003959,
+    "longitude": -47.2913682,
+    "other_names": {
+      "name": "Salto"
+    }
+  },
+  {
+    "name": "Salto del Guaira",
+    "country": "Brazil",
+    "latitude": -24.061463899916212,
+    "longitude": -54.3069971,
+    "other_names": {
+      "name": "Salto del Guairá",
+      "name:en": "Salto del Guaira",
+      "name:lt": "Salto del Gvaira",
+      "name:pt": "Salto do Guairá",
+      "name:ru": "Сальто-дель-Гуайра"
+    }
+  },
+  {
+    "name": "Salto del Guaira",
+    "country": "Paraguay",
+    "latitude": -24.05801157724986,
+    "longitude": -54.34695531685724,
+    "other_names": {
+      "name": "Salto del Guaira"
+    }
+  },
+  {
+    "name": "Salto del Guaira",
+    "country": "Brazil",
+    "latitude": -24.05801157724986,
+    "longitude": -54.34695531685724,
+    "other_names": {
+      "name": "Salto del Guaira"
+    }
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Ajmer",
+    "country": "India",
+    "latitude": 26.46910000011549,
+    "longitude": 74.639,
+    "other_names": {
+      "name": "Ajmer",
+      "name:ar": "أجمير",
+      "name:en": "Ajmer",
+      "name:fa": "اجمیر",
+      "name:gu": "અજમેર",
+      "name:he": "אג'מר",
+      "name:hi": "अजमेर",
+      "name:ja": "アジュメール",
+      "name:kn": "ಅಜ್ಮೇರ್",
+      "name:ru": "Аджмер",
+      "name:ta": "அஜ்மீர்",
+      "name:te": "అజ్మీర్",
+      "name:ur": "اجمير"
+    }
+  },
+  {
+    "name": "Akabira",
+    "country": "Japan",
+    "latitude": 43.55785050054158,
+    "longitude": 142.0440317,
+    "other_names": {
+      "name": "赤平市",
+      "name:ar": "أكابيرا، هوكايدو",
+      "name:de": "Akabira",
+      "name:en": "Akabira",
+      "name:es": "Akabira",
+      "name:fr": "Akabira",
+      "name:hu": "Akabira",
+      "name:ja": "赤平市",
+      "name:ko": "아카비라시",
+      "name:pl": "Akabira",
+      "name:ru": "Акабира",
+      "name:uk": "Акабіра",
+      "int_name": "Akabira",
+      "name:ja_rm": "Akabira-shi",
+      "name:ja_kana": "あかびらし"
+    }
+  },
+  {
+    "name": "Akaiwa",
+    "country": "Japan",
+    "latitude": 34.755341199636185,
+    "longitude": 134.0188207,
+    "other_names": {
+      "name": "赤磐市",
+      "name:ar": "أكايوا، أوكاياما",
+      "name:de": "Akaiwa",
+      "name:en": "Akaiwa",
+      "name:es": "Akaiwa",
+      "name:fr": "Akaiwa",
+      "name:ja": "赤磐市",
+      "name:ko": "아카이와시",
+      "name:pl": "Akaiwa",
+      "name:ru": "Акаива",
+      "name:uk": "Акаїва"
+    }
+  },
+  {
+    "name": "Akashi",
+    "country": "Japan",
+    "latitude": 34.68326349963203,
+    "longitude": 134.9476925,
+    "other_names": {
+      "name": "明石市",
+      "name:ar": "أكاشي، هيوغو",
+      "name:de": "Akashi",
+      "name:en": "Akashi",
+      "name:es": "Akashi",
+      "name:fr": "Akashi",
+      "name:ja": "明石市",
+      "name:ko": "아카시시",
+      "name:lt": "Akašis",
+      "name:pl": "Akashi",
+      "name:ru": "Акаси",
+      "name:uk": "Акаші",
+      "name:ja_rm": "Akashi-shi"
+    }
+  },
+  {
+    "name": "Akbarpur",
+    "country": "India",
+    "latitude": 26.420068700120694,
+    "longitude": 82.5382541,
+    "other_names": {
+      "name": "Akbarpur",
+      "name:en": "Akbarpur",
+      "name:hi": "अकबरपुर"
+    }
+  },
+  {
+    "name": "Akdepe",
+    "country": "Turkmenistan",
+    "latitude": 42.05474880049024,
+    "longitude": 59.37938819999999,
+    "other_names": {
+      "name": "Akdepe",
+      "name:ru": "Акдепе",
+      "name:tk": "Akdepe",
+      "alt_name": "Ak-Tepe",
+      "old_name": "Leninsk",
+      "old_name:ru": "Ленинск"
+    }
+  },
+  {
+    "name": "Aki",
+    "country": "Japan",
+    "latitude": 33.501909499590205,
+    "longitude": 133.90721269999997,
+    "other_names": {
+      "name": "安芸市",
+      "name:ar": "أكي، كوتشي",
+      "name:de": "Aki",
+      "name:en": "Aki",
+      "name:es": "Aki",
+      "name:fr": "Aki",
+      "name:ja": "安芸市",
+      "name:ko": "아키시",
+      "name:pl": "Aki",
+      "name:ru": "Аки",
+      "name:uk": "Акі",
+      "name:zh": "安芸市",
+      "int_name": "Aki",
+      "name:zh-Hans": "安芸市",
+      "name:zh-Hant": "安芸市"
+    }
+  },
+  {
+    "name": "Akiruno",
+    "country": "Japan",
+    "latitude": 35.73104199970988,
+    "longitude": 139.217028,
+    "other_names": {
+      "name": "あきる野市",
+      "name:ar": "أكيرونو، طوكيو",
+      "name:de": "Akiruno",
+      "name:en": "Akiruno",
+      "name:eo": "Akiruno",
+      "name:es": "Akiruno",
+      "name:et": "Akiruno",
+      "name:fa": "آکیرونو، توکیو",
+      "name:fi": "Akiruno",
+      "name:fr": "Akiruno",
+      "name:gl": "Akiruno",
+      "name:it": "Akiruno",
+      "name:ja": "あきる野市",
+      "name:ko": "아키루노시",
+      "name:lt": "Akirunas",
+      "name:ms": "Akiruno",
+      "name:nl": "Akiruno",
+      "name:pl": "Akiruno",
+      "name:pt": "Akiruno",
+      "name:ro": "Akiruno, Tokyo",
+      "name:ru": "Акируно",
+      "name:sv": "Akiruno",
+      "name:tg": "Акируно",
+      "name:th": "อะกิรุโนะ",
+      "name:tl": "Akiruno, Tokyo",
+      "name:uk": "Акіруно",
+      "name:vi": "Akiruno, Tokyo",
+      "name:zh": "秋留野市",
+      "name:mzn": "آکیرونو، توکیو",
+      "name:war": "Akiruno, Tokyo",
+      "name:yue": "秋留野市",
+      "name:ja_rm": "Akiruno-shi",
+      "name:ja_kana": "あきるのし",
+      "name:roa-rup": "Akiruno"
+    }
+  },
+  {
+    "name": "Akishima",
+    "country": "Japan",
+    "latitude": 35.702479999707286,
+    "longitude": 139.350065,
+    "other_names": {
+      "name": "昭島市",
+      "name:ar": "أكيشيما، طوكيو",
+      "name:de": "Akishima",
+      "name:en": "Akishima",
+      "name:eo": "Akiŝima",
+      "name:es": "Akishima",
+      "name:et": "Akishima",
+      "name:fa": "آکیشیما، توکیو",
+      "name:fi": "Akishima",
+      "name:fr": "Akishima",
+      "name:gl": "Akishima",
+      "name:it": "Akishima",
+      "name:ja": "昭島市",
+      "name:ko": "아키시마시",
+      "name:lt": "Akišima",
+      "name:ms": "Akishima",
+      "name:nl": "Akishima",
+      "name:pl": "Akishima",
+      "name:pt": "Akishima",
+      "name:ru": "Акисима",
+      "name:sh": "Akišima",
+      "name:sr": "Акишима",
+      "name:sv": "Akishima",
+      "name:tg": "Акишима",
+      "name:th": "อะกิชิมะ",
+      "name:uk": "Акісіма",
+      "name:zh": "昭島市",
+      "name:mzn": "آکیشیما، توکیو",
+      "name:yue": "昭島市",
+      "name:ja_rm": "Akishima-shi",
+      "name:roa-rup": "Akishima"
+    }
+  },
+  {
+    "name": "Akita",
+    "country": "Japan",
+    "latitude": 39.719762900228744,
+    "longitude": 140.10346689999997,
+    "other_names": {
+      "name": "秋田市",
+      "name:ar": "أكيتا، أكيتا",
+      "name:cs": "Akita",
+      "name:de": "Akita",
+      "name:en": "Akita",
+      "name:es": "Akita",
+      "name:et": "Akita",
+      "name:fr": "Akita",
+      "name:ja": "秋田市",
+      "name:ko": "아키타시",
+      "name:lt": "Akita",
+      "name:pl": "Akita",
+      "name:ru": "Акита",
+      "name:sr": "Акита",
+      "name:uk": "Акіта",
+      "int_name": "Akita",
+      "name:ja_rm": "Akita-shi",
+      "name:ja_kana": "あきたし"
+    }
+  },
+  {
+    "name": "Akitakata",
+    "country": "Japan",
+    "latitude": 34.70295999963313,
+    "longitude": 132.6775,
+    "other_names": {
+      "name": "安芸高田市",
+      "name:ar": "أكيتاكاتا، هيروشيما",
+      "name:de": "Akitakata",
+      "name:en": "Akitakata",
+      "name:es": "Akitakata",
+      "name:fr": "Akitakata",
+      "name:gl": "Akitakata",
+      "name:id": "Akitakata",
+      "name:it": "Akitakata",
+      "name:ja": "安芸高田市",
+      "name:ko": "아키타카타시",
+      "name:pl": "Akitakata",
+      "name:pt": "Akitakata",
+      "name:ro": "Akitakata",
+      "name:ru": "Акитаката",
+      "name:tg": "Акитаката",
+      "name:tl": "Akitakata",
+      "name:uk": "Акі-Таката",
+      "name:vi": "Akitakata",
+      "name:zh": "安藝高田市",
+      "int_name": "Akitakata"
+    }
+  },
+  {
+    "name": "Ako",
+    "country": "Japan",
+    "latitude": 34.78975549963824,
+    "longitude": 134.3773595,
+    "other_names": {
+      "name": "赤穂市",
+      "name:ar": "أكو، هيوغو",
+      "name:de": "Akō",
+      "name:en": "Ako",
+      "name:es": "Akō",
+      "name:fr": "Akō",
+      "name:ja": "赤穂市",
+      "name:ko": "아코시",
+      "name:pl": "Akō",
+      "name:ru": "Ако",
+      "name:uk": "Ако",
+      "name:ja_rm": "Ako-shi"
+    }
+  },
+  {
+    "name": "Akobo",
+    "country": "South Sudan",
+    "latitude": 7.792823799391397,
+    "longitude": 33.0031368,
+    "other_names": {
+      "name": "Akobo",
+      "name:ar": "أكوبو",
+      "name:de": "Akobo",
+      "name:en": "Akobo",
+      "name:es": "Akobo",
+      "name:fr": "Akobo"
+    }
+  },
+  {
+    "name": "Akola",
+    "country": "India",
+    "latitude": 20.711660400397953,
+    "longitude": 77.002632,
+    "other_names": {
+      "name": "Akola",
+      "name:en": "Akola",
+      "name:hi": "अकोला",
+      "name:ja": "アコーラー",
+      "name:kn": "ಅಕೊಲ",
+      "name:mr": "अकोला",
+      "name:pa": "ਅਕੋਲਾ",
+      "name:ru": "Акола",
+      "name:ta": "அகோலா",
+      "name:uk": "Акола"
+    }
+  },
+  {
+    "name": "Akonolinga",
+    "country": "Cameroon",
+    "latitude": 3.773389999607916,
+    "longitude": 12.244917,
+    "other_names": {
+      "name": "Akonolinga"
+    }
+  },
+  {
+    "name": "Akqi",
+    "country": "China",
+    "latitude": 40.93560470038489,
+    "longitude": 78.43511260000001,
+    "other_names": {
+      "name": "阿合奇县",
+      "name:de": "Akqi",
+      "name:en": "Akqi",
+      "name:es": "Akqi",
+      "name:fr": "Akqi",
+      "name:ug": "ئاخچى ناھىيىسى",
+      "name:zh": "阿合奇县",
+      "alt_name": "阿合奇县;Aheqi;ئاقچى",
+      "name:ky-Arab": "اقچئي وودانى",
+      "name:zh-Hant": "阿合奇縣",
+      "official_name": "阿合奇县"
+    }
+  },
+  {
+    "name": "Akron",
+    "country": "United States Of America",
+    "latitude": 41.083064000401336,
+    "longitude": -81.518485,
+    "other_names": {
+      "name": "Akron"
+    }
+  },
+  {
+    "name": "Aksaray",
+    "country": "Turkey",
+    "latitude": 38.37054160003477,
+    "longitude": 34.026907,
+    "other_names": {
+      "name": "Aksaray",
+      "name:ar": "آق سراي",
+      "name:el": "Άκσεράι",
+      "name:hi": "अक्सराय",
+      "name:hu": "Aksaray",
+      "name:ru": "Аксарай",
+      "old_name": "Garsaúra;Garsaura;Gausaura;Arkhelais;Archaleis;Akserai;Taxara"
+    }
+  },
+  {
+    "name": "Aksay",
+    "country": "China",
+    "latitude": 39.632912800216566,
+    "longitude": 94.33894479999998,
+    "other_names": {
+      "name": "阿克塞县",
+      "name:de": "Aksay",
+      "name:en": "Aksay",
+      "name:ja": "アクサイ・カザフ族自治県",
+      "name:zh": "阿克塞县",
+      "alt_name": "阿克塞;A-k'o-sai-ha-sa-k'o-tsu Tzu-chih-hsien;Aksay Kazakh Autonomous County;Aksai",
+      "short_name": "阿克塞县",
+      "name:kk-Arab": "اقساي قازاق اۆتونوميالى اۋدانى",
+      "name:zh-Hant": "阿克塞縣",
+      "official_name": "阿克塞哈萨克族自治县",
+      "name:zh_pinyin": "Ākèsài Hāsàkèzú Zìzhìxiàn",
+      "official_name:en": "Aksay Kazak Autonomous County"
+    }
+  },
+  {
+    "name": "Aksu",
+    "country": "Kazakhstan",
+    "latitude": 52.068396314015985,
+    "longitude": 76.90141913730166,
+    "other_names": {
+      "name": "Аксу",
+      "name:de": "Aqsu",
+      "name:en": "Aksu",
+      "name:es": "Aksu",
+      "name:fr": "Aksou",
+      "name:kk": "Ақсу",
+      "name:ru": "Аксу",
+      "old_name": "Ермак"
+    }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Kamo",
+    "country": "Japan",
+    "latitude": 37.66618509993565,
+    "longitude": 139.04018,
+    "other_names": {
+      "name": "加茂市",
+      "name:ar": "كامو، نييغاتا",
+      "name:de": "Kamo",
+      "name:en": "Kamo",
+      "name:es": "Kamo",
+      "name:fr": "Kamo",
+      "name:ja": "加茂市",
+      "name:ko": "가모시",
+      "name:pl": "Kamo",
+      "name:ru": "Камо",
+      "name:uk": "Камо",
+      "int_name": "Kamo",
+      "name:ja_rm": "Kamo-shi",
+      "name:ja_kana": "かもし"
+    }
+  },
+  {
+    "name": "Kamogawa",
+    "country": "Japan",
+    "latitude": 35.114058399659584,
+    "longitude": 140.098692,
+    "other_names": {
+      "name": "鴨川市",
+      "name:en": "Kamogawa",
+      "name:fr": "Kamogawa",
+      "name:ja": "鴨川市",
+      "name:ko": "가모가와시",
+      "name:pl": "Kamogawa",
+      "name:ru": "Камогава",
+      "name:uk": "Камоґава",
+      "name:ja_rm": "Kamogawa-shi",
+      "name:ja_kana": "かもがわし"
+    }
+  },
+  {
+    "name": "Kamoke",
+    "country": "Pakistan",
+    "latitude": 31.981313999609306,
+    "longitude": 74.2189716,
+    "other_names": {
+      "name": "کامونکی",
+      "name:en": "Kamoke"
+    }
+  },
+  {
+    "name": "Kampala",
+    "country": "Uganda",
+    "latitude": 0.3177136999670628,
+    "longitude": 32.5813539,
+    "other_names": {
+      "name": "Kampala",
+      "name:am": "ካምፓላ",
+      "name:ar": "كمبالا",
+      "name:be": "Кампала",
+      "name:bg": "Кампала",
+      "name:bo": "ཀམ་པ་ལ།",
+      "name:cv": "Кампала",
+      "name:de": "Kampala",
+      "name:el": "Καμπάλα",
+      "name:en": "Kampala",
+      "name:eo": "Kampalo",
+      "name:fa": "کامپالا",
+      "name:fr": "Kampala",
+      "name:he": "קמפלה",
+      "name:hi": "कंपाला",
+      "name:ht": "Kanpala",
+      "name:hu": "Kampala",
+      "name:hy": "Կամպալա",
+      "name:ja": "カンパラ",
+      "name:ka": "კამპალა",
+      "name:kn": "ಕಂಪಾಲಾ",
+      "name:ko": "캄팔라",
+      "name:ku": "Kampala",
+      "name:ky": "Кампала",
+      "name:mk": "Кампала",
+      "name:mr": "कंपाला",
+      "name:oc": "Kampala",
+      "name:pl": "Kampala",
+      "name:ps": "کامپالا",
+      "name:pt": "Kampala",
+      "name:ru": "Кампала",
+      "name:so": "Kambaala",
+      "name:sr": "Кампала",
+      "name:sv": "Kampala",
+      "name:ta": "கம்பாலா",
+      "name:tg": "Кампала",
+      "name:th": "กัมปาลา",
+      "name:ug": "كامپالا",
+      "name:uk": "Кампала",
+      "name:ur": "کمپالا",
+      "name:zh": "坎帕拉",
+      "name:arz": "كمبالا",
+      "name:azb": "کامپالا",
+      "name:ckb": "کامپالا",
+      "name:mrj": "Кампала",
+      "name:pnb": "کمپالا",
+      "name:udm": "Кампала",
+      "alt_name:ar": "كامبالا"
+    }
+  },
+  {
+    "name": "Kampong Cham",
+    "country": "Cambodia",
+    "latitude": 11.992185499579673,
+    "longitude": 105.4628346,
+    "other_names": {
+      "name": "ក្រុងកំពង់ចាម",
+      "name:en": "Kampong Cham",
+      "name:et": "Kâmpóng Cham",
+      "name:fr": "Kompong Cham",
+      "name:ja": "コンポンチャム",
+      "name:ko": "캄퐁참",
+      "name:ru": "Кампонгтям",
+      "name:uk": "Кампонгтям",
+      "name:vi": "Kampong Cham",
+      "name:zh": "磅湛"
+    }
+  },
+  {
+    "name": "Kampong Chhnang",
+    "country": "Cambodia",
+    "latitude": 12.25360259960402,
+    "longitude": 104.6658389,
+    "other_names": {
+      "name": "ក្រុងកំពង់ឆ្នាំង",
+      "name:en": "Kampong Chhnang",
+      "name:fr": "Kompong Chhnang",
+      "name:ja": "コンポンチュナン",
+      "name:ko": "캄퐁치낭",
+      "name:ru": "Кампонгчнанг",
+      "name:uk": "Кампонгчнанг",
+      "name:vi": "Kampong Chhnang",
+      "name:zh": "磅清扬",
+      "alt_name": "Kampong Chnang"
+    }
+  },
+  {
+    "name": "Kampot",
+    "country": "Cambodia",
+    "latitude": 10.618306099472806,
+    "longitude": 104.17973389999999,
+    "other_names": {
+      "name": "ក្រុងកំពត",
+      "name:en": "Kampot",
+      "name:fr": "Kampot",
+      "name:ja": "カンポット",
+      "name:km": "ក្រុងកំពត",
+      "name:ko": "캄포트",
+      "name:ru": "Кампот",
+      "name:th": "กำปอต",
+      "name:uk": "Кампот",
+      "name:vi": "Kampot",
+      "int_name": "Kampot"
+    }
+  },
+  {
+    "name": "Kamsar",
+    "country": "Guinea",
+    "latitude": 10.663975199475725,
+    "longitude": -14.585280799999998,
+    "other_names": {
+      "name": "Kamsar",
+      "name:ar": "كامسار",
+      "name:ru": "Камсар"
+    }
+  },
+  {
+    "name": "Kamutit",
+    "country": "Sudan",
+    "latitude": 21.926982900409005,
+    "longitude": 33.8191077,
+    "other_names": {
+      "name": "كموتيت",
+      "name:en": "Kamutit",
+      "name:es": "kamutit",
+      "name:fr": "Kamutit"
+    }
+  },
+  {
+    "name": "Kamyshin",
+    "country": "Russia",
+    "latitude": 50.08084219943407,
+    "longitude": 45.4048003,
+    "other_names": {
+      "name": "Камышин",
+      "name:ar": "كاميشين",
+      "name:be": "Камышын",
+      "name:bg": "Камишин",
+      "name:ca": "Kamixin",
+      "name:cs": "Kamyšin",
+      "name:de": "Kamyschin",
+      "name:en": "Kamyshin",
+      "name:eo": "Kamiŝin",
+      "name:es": "Kamyshin",
+      "name:et": "Kamõšin",
+      "name:fa": "کامیشین",
+      "name:fr": "Kamychine",
+      "name:hr": "Kamišin",
+      "name:hy": "Կամիշին",
+      "name:it": "Kamyšin",
+      "name:ja": "カムイシン",
+      "name:ko": "카미신",
+      "name:lt": "Kamyšinas",
+      "name:nl": "Kamysjin",
+      "name:pl": "Kamyszyn",
+      "name:ro": "Kamîșin",
+      "name:ru": "Камышин",
+      "name:sr": "Камишин",
+      "name:sv": "Kamysjin",
+      "name:uk": "Камишин",
+      "name:vi": "Kamyshin",
+      "name:zh": "卡梅申",
+      "name:hsb": "Kamyšin"
+    }
+  },
+  {
+    "name": "Kamyshin",
+    "country": "Russia",
+    "latitude": 50.0751328125963,
+    "longitude": 45.394646291150664,
+    "other_names": {
+      "name": "Камышин",
+      "name:en": "Kamyshin"
+    }
+  },
+  {
+    "name": "Kananga",
+    "country": "Congo Democratic Republic",
+    "latitude": -5.8951724996831,
+    "longitude": 22.408588999999996,
+    "other_names": {
+      "name": "Kananga",
+      "name:en": "Kananga",
+      "name:ko": "카낭가",
+      "name:ru": "Кананга",
+      "name:uk": "Кананга"
+    }
+  },
+  {
+    "name": "Kanasín",
+    "country": "Mexico",
+    "latitude": 20.93504660040312,
+    "longitude": -89.5577239,
+    "other_names": {
+      "name": "Kanasín"
+    }
+  },
+  {
+    "name": "Kanazawa",
+    "country": "Japan",
+    "latitude": 36.56162699979576,
+    "longitude": 136.6568822,
+    "other_names": {
+      "name": "金沢市",
+      "name:ar": "كانازاوا، إيشيكاوا",
+      "name:cs": "Kanazawa",
+      "name:en": "Kanazawa",
+      "name:et": "Kanazawa",
+      "name:fr": "Kanazawa",
+      "name:ja": "金沢市",
+      "name:ko": "가나자와시",
+      "name:lt": "Kanadzava",
+      "name:pl": "Kanazawa",
+      "name:ru": "Канадзава",
+      "name:sr": "Каназава",
+      "name:uk": "Канадзава",
+      "name:ja_rm": "Kanazawa-shi",
+      "name:ja_kana": "かなざわし"
+    }
+  },
+  {
+    "name": "Kanchrapara",
+    "country": "India",
+    "latitude": 22.949010800385928,
+    "longitude": 88.43590969999998,
+    "other_names": {
+      "name": "Kanchrapara",
+      "name:bn": "কাঁচড়াপাড়া",
+      "name:hi": "कांचरापाड़ा"
+    }
+  },
+  {
+    "name": "Kandahar",
+    "country": "Afghanistan",
+    "latitude": 31.620573799625067,
+    "longitude": 65.7157573,
+    "other_names": {
+      "name": "کندهار",
+      "name:ar": "قندهار",
+      "name:cs": "Kandahár",
+      "name:da": "Kandahar",
+      "name:de": "Kandahar",
+      "name:el": "Κανταχάρ",
+      "name:en": "Kandahar",
+      "name:et": "Kandahār",
+      "name:fa": "قندهار",
+      "name:fr": "Kandahar",
+      "name:he": "קנדהאר",
+      "name:hi": "कांधार",
+      "name:hu": "Kandahár",
+      "name:ja": "カンダハール",
+      "name:kn": "ಕಾಂದಹಾರ್",
+      "name:lt": "Kandaharas",
+      "name:mr": "कंदहार",
+      "name:pa": "ਕਾਂਦਹਾਰ੍",
+      "name:ps": "کندهار",
+      "name:ru": "Кандагар",
+      "name:tr": "Kandehar",
+      "name:uk": "Кандагар",
+      "name:ur": "قندھار",
+      "name:zh": "坎大哈",
+      "alt_name": "کندهار",
+      "old_name": "Alexandria;Candahar",
+      "alt_name:en": "Qandahār",
+      "alt_name:ps": "کندهار"
+    }
+  },
+  {
+    "name": "Kandhkot",
+    "country": "Pakistan",
+    "latitude": 28.24490179991902,
+    "longitude": 69.18141669999999,
+    "other_names": {
+      "name": "كندھ كوٹ",
+      "name:en": "Kandhkot",
+      "name:ru": "Кандкхкот",
+      "name:ur": "كندھ كوٹ"
+    }
+  },
+  {
+    "name": "Kandi",
+    "country": "Benin",
+    "latitude": 11.131102899508218,
+    "longitude": 2.9322320999999993,
+    "other_names": {
+      "name": "Kandi",
+      "name:ar": "كاندي",
+      "name:ko": "칸디",
+      "name:pl": "Канди",
+      "name:ru": "Канди",
+      "name:uk": "Канді"
+    }
+  },
+  {
+    "name": "Kandy",
+    "country": "Sri Lanka",
+    "latitude": 7.293092199398287,
+    "longitude": 80.6350768,
+    "other_names": {
+      "name": "Kandy",
+      "name:hi": "कैंडी",
+      "name:ja": "キャンディ",
+      "name:kn": "ಕ್ಯಾಂಡಿ",
+      "name:ml": "കണ്ടി",
+      "name:ru": "Канди",
+      "name:si": "මහනුවර",
+      "name:ta": "கண்டி"
+    }
+  },
+  {
+    "name": "Kaneohe",
+    "country": "United States Of America",
+    "latitude": 21.41855500040948,
+    "longitude": -157.80418399999996,
+    "other_names": {
+      "name": "Kāneʻohe",
+      "name:en": "Kaneohe",
+      "name:haw": "Kāneʻohe"
+    }
+  }
+]

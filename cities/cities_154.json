@@ -1,0 +1,335 @@
+[
+  {
+    "name": "Gómez Palacio",
+    "country": "Mexico",
+    "latitude": 25.573247300206187,
+    "longitude": -103.494779,
+    "other_names": {
+      "name": "Gómez Palacio"
+    }
+  },
+  {
+    "name": "Gonaïves",
+    "country": "Haiti And Domrep",
+    "latitude": 19.446059700343326,
+    "longitude": -72.6884336,
+    "other_names": {
+      "name": "Les Gonaïves",
+      "name:en": "Gonaïves",
+      "name:fr": "Les Gonaïves",
+      "name:ht": "Gonayiv",
+      "name:hu": "Les Gonaïves",
+      "name:oc": "Las Gònaivas",
+      "name:ru": "Гонаив",
+      "alt_name:en": "Gonaïves"
+    }
+  },
+  {
+    "name": "Gonda",
+    "country": "India",
+    "latitude": 27.131840400043288,
+    "longitude": 81.96459209999999,
+    "other_names": {
+      "name": "Gonda",
+      "name:ar": "غوندا",
+      "name:ur": "گونڈہ",
+      "alt_name:ar": "جوندا"
+    }
+  },
+  {
+    "name": "Gondal",
+    "country": "India",
+    "latitude": 21.95750960040874,
+    "longitude": 70.80098959999998,
+    "other_names": {
+      "name": "Gondal",
+      "name:gu": "ગોંડલ",
+      "name:hi": "गोंडल",
+      "name:kn": "ಗೋಂಡಲ್"
+    }
+  },
+  {
+    "name": "Gonder",
+    "country": "Ethiopia",
+    "latitude": 12.610367999638987,
+    "longitude": 37.466766,
+    "other_names": {
+      "name": "ጎንደር / Gonder",
+      "name:am": "ጎንደር",
+      "name:ar": "قوندر",
+      "name:de": "Gonder",
+      "name:en": "Gonder",
+      "name:es": "Gondar",
+      "name:et": "Gonder",
+      "name:fr": "Gondar",
+      "name:ko": "곤다르",
+      "name:ru": "Гондэр"
+    }
+  },
+  {
+    "name": "Gondia",
+    "country": "India",
+    "latitude": 21.455228000409694,
+    "longitude": 80.1962729,
+    "other_names": {
+      "name": "Gondia",
+      "name:hi": "गोंदिया",
+      "name:ja": "ゴーンディヤー",
+      "name:kn": "ಗೊಂದಿಯಾ",
+      "name:mr": "गोंदिया",
+      "name:ta": "கொண்டிய"
+    }
+  },
+  {
+    "name": "Gong",
+    "country": "China",
+    "latitude": 28.441990999897303,
+    "longitude": 104.7081801,
+    "other_names": {
+      "name": "珙县",
+      "name:en": "Gong",
+      "name:zh": "珙县",
+      "alt_name": "珙;Gong County",
+      "name:zh-Hant": "珙縣"
+    }
+  },
+  {
+    "name": "Gong'an",
+    "country": "China",
+    "latitude": 30.060939099734338,
+    "longitude": 112.22406449999998,
+    "other_names": {
+      "name": "公安县",
+      "name:en": "Gong'an",
+      "name:vi": "Công An",
+      "name:zh": "公安县",
+      "alt_name": "Kung-an Hsien",
+      "short_name": "公安",
+      "alt_name:en": "Kung-an Hsien",
+      "name:zh-Hant": "公安縣",
+      "name:zh_pinyin": "Gong'an Xian"
+    }
+  },
+  {
+    "name": "Gongbo'gyamda",
+    "country": "China",
+    "latitude": 29.88839249974984,
+    "longitude": 93.2448139,
+    "other_names": {
+      "name": "工布江达县",
+      "name:bo": "ཀོང་པོ་རྒྱ་མདའ",
+      "name:en": "Gongbo'gyamda",
+      "name:ja": "コンボギャムダ県",
+      "name:ru": "Голингка",
+      "name:vi": "Gongbo'gyamda",
+      "name:zh": "工布江达县",
+      "alt_name": "工布江达;Kongpo Gyamda;Gongbujiangda;Kung-pu-chiang-ta Hsien;Gongbo'gyamda County;Gongbujiangda County",
+      "name:zh-Hant": "工布江達縣",
+      "name:zh_pinyin": "Gōngbùjiāngdá Xiàn"
+    }
+  },
+  {
+    "name": "Gongchangling",
+    "country": "China",
+    "latitude": 41.15145140040871,
+    "longitude": 123.43045339999998,
+    "other_names": {
+      "name": "弓长岭区",
+      "name:en": "Gongchangling",
+      "name:ja": "弓長嶺区",
+      "name:ko": "궁창링구",
+      "name:vi": "Cung Trường Lĩnh",
+      "name:zh": "弓长岭区",
+      "alt_name": "弓长岭区",
+      "name:zh-Hant": "弓長嶺區",
+      "name:zh_pinyin": "Gongchangling Qu"
+    }
+  },
+  {
+    "name": "Gongcheng",
+    "country": "China",
+    "latitude": 24.83471760027181,
+    "longitude": 110.8235878,
+    "other_names": {
+      "name": "恭城瑶族自治县",
+      "name:en": "Gongcheng",
+      "name:vi": "Cung Thành",
+      "name:zh": "恭城瑶族自治县",
+      "alt_name": "恭城;Gongcheng County;Gongcheng Yao Autonomous County",
+      "short_name": "恭城县",
+      "name:zh-Hant": "恭城瑤族自治縣",
+      "official_name": "恭城瑶族自治县",
+      "official_name:en": "Gongcheng Yao Autonomous County"
+    }
+  },
+  {
+    "name": "Gongjing",
+    "country": "China",
+    "latitude": 29.33837289980273,
+    "longitude": 104.7130969,
+    "other_names": {
+      "name": "贡井区",
+      "name:en": "Gongjing",
+      "name:zh": "贡井区",
+      "alt_name": "贡井;Gongjing District",
+      "name:zh-Hant": "貢井區"
+    }
+  },
+  {
+    "name": "Gongju-si",
+    "country": "South Korea",
+    "latitude": 36.47256999978565,
+    "longitude": 127.09124,
+    "other_names": {
+      "name": "공주시",
+      "name:de": "Gongju",
+      "name:en": "Gongju-si",
+      "name:es": "Gongju",
+      "name:et": "Gongju",
+      "name:fr": "Gongju",
+      "name:ja": "公州市",
+      "name:ko": "공주시",
+      "name:ru": "Конджу",
+      "name:zh": "公州市",
+      "int_name": "Gongju",
+      "name:ko-Hani": "公州市"
+    }
+  },
+  {
+    "name": "Gongkar",
+    "country": "China",
+    "latitude": 29.294851099807104,
+    "longitude": 90.9777933,
+    "other_names": {
+      "name": "贡嘎县",
+      "name:bo": "སྐྱིད་གཤོངས",
+      "name:en": "Gongkar",
+      "name:vi": "Gonggar",
+      "name:zh": "贡嘎县",
+      "alt_name": "谷卡;贡嘎县;贡嘎;Gongga;Guka;Konggar",
+      "alt_name:bo": "གོང་དཀར་རྫོང",
+      "alt_name:vi": "Cống Dát",
+      "name:zh-Hans": "贡嘎县",
+      "name:zh-Hant": "貢嘎縣",
+      "name:zh_pinyin": "Gònggā Xiàn"
+    }
+  },
+  {
+    "name": "Gongliu",
+    "country": "China",
+    "latitude": 43.48016660054195,
+    "longitude": 82.2289633,
+    "other_names": {
+      "name": "巩留县",
+      "name:de": "Tokkuztara",
+      "name:en": "Gongliu",
+      "name:es": "Tokkuztara",
+      "name:fr": "Gongliu",
+      "name:ug": "توققۇزتارا",
+      "name:zh": "巩留县",
+      "alt_name": "巩留县;Tokkuztara;Toqquztara",
+      "name:kk-Arab": "توعىزتاراۋ اۋدانى",
+      "name:zh-Hant": "鞏留縣"
+    }
+  },
+  {
+    "name": "Gongqingcheng",
+    "country": "China",
+    "latitude": 29.251032299811534,
+    "longitude": 115.8039978,
+    "other_names": {
+      "name": "共青城市",
+      "name:de": "Gongqingcheng",
+      "name:en": "Gongqingcheng",
+      "name:fr": "Gongqingcheng",
+      "name:zh": "共青城市",
+      "alt_name": "共青城;Gongqingcheng City",
+      "name:zh-Hant": "共青城市",
+      "name:zh_pinyin": "Gòngqīngchéng Shì"
+    }
+  },
+  {
+    "name": "Gongshan",
+    "country": "China",
+    "latitude": 27.74435669997484,
+    "longitude": 98.6672235,
+    "other_names": {
+      "name": "贡山县",
+      "name:en": "Gongshan",
+      "name:ja": "貢山県",
+      "name:ru": "Цыкай",
+      "name:vi": "Cống Sơn",
+      "name:zh": "贡山县",
+      "alt_name": "贡山独龙族怒族自治县;茨开镇;茨开;Cikai",
+      "short_name": "贡山县",
+      "name:zh-Hant": "貢山縣",
+      "official_name": "贡山独龙族怒族自治县",
+      "official_name:ja": "貢山トールン族ヌー族自治県",
+      "official_name:vi": "Huyện tự trị dân tộc Độc Long và dân tộc Nộ Cống Sơn",
+      "official_name:zh": "贡山独龙族怒族自治县",
+      "official_name:lisu": "ꓗꓳꓹ-ꓢ ꓔꓴꓽ-ꓡꓳꓽ ꓫꓵꓽ ꓠꓳꓸ ꓫꓵꓽ ꓚꓲꓸ ꓛꓬꓽ ꓗꓪꓼ ꓫꓵꓽ ꓫꓯꓹ",
+      "official_name:zh_pinyin": "Gòngshān dúlóngzú nùzú Zìzhìxiàn"
+    }
+  },
+  {
+    "name": "Gongshu District",
+    "country": "China",
+    "latitude": 30.32134809971204,
+    "longitude": 120.136706,
+    "other_names": {
+      "name": "拱墅区",
+      "name:de": "Gongshu",
+      "name:en": "Gongshu District",
+      "name:eu": "Gongshu Barrutia",
+      "name:fr": "District de Gongshu",
+      "name:it": "Distretto di Gongshu",
+      "name:ja": "拱墅区",
+      "name:ko": "궁수구",
+      "name:no": "Gongshu",
+      "name:sv": "Gongshu",
+      "name:vi": "Củng Thự",
+      "name:zh": "拱墅区",
+      "name:ceb": "Gongshu Qu",
+      "name:hak": "Kiúng-sú-khî",
+      "name:nan": "Gióng-sú-khu",
+      "name:wuu": "拱墅区",
+      "name:yue": "拱墅區",
+      "name:zh-Hant": "拱墅區",
+      "name:zh_pinyin": "Gǒngshù Qū"
+    }
+  },
+  {
+    "name": "Gongyi",
+    "country": "China",
+    "latitude": 34.75462299963614,
+    "longitude": 112.9798562,
+    "other_names": {
+      "name": "巩义市",
+      "name:en": "Gongyi",
+      "name:zh": "巩义市",
+      "old_name": "斟鄩",
+      "old_name:en": "Zhenxun",
+      "name:zh-Hant": "鞏義市"
+    }
+  },
+  {
+    "name": "Gongzhuling",
+    "country": "China",
+    "latitude": 43.50250090054188,
+    "longitude": 124.8127196,
+    "other_names": {
+      "name": "公主岭市",
+      "name:de": "Gongzhuling",
+      "name:en": "Gongzhuling",
+      "name:fr": "Gongzhuling",
+      "name:ja": "公主嶺市",
+      "name:ru": "Гунчжулин",
+      "name:uk": "Гунчжулін",
+      "name:vi": "Công Chủ Lĩnh",
+      "name:zh": "公主岭市",
+      "alt_name:vi": "Công Chúa Lĩnh",
+      "name:zh-Hant": "公主嶺市",
+      "name:zh_pinyin": "Gōngzhǔlǐng Shì"
+    }
+  }
+]

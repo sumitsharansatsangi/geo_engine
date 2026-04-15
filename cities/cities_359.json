@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Pattaya",
+    "country": "Thailand",
+    "latitude": 12.936667399672553,
+    "longitude": 100.8864587,
+    "other_names": {
+      "name": "พัทยา",
+      "name:de": "Pattaya",
+      "name:en": "Pattaya",
+      "name:et": "Pattaya",
+      "name:fa": "پاتایا",
+      "name:ja": "パッタヤー",
+      "name:kn": "ಪಟ್ಟಾಯ",
+      "name:ru": "Паттайя",
+      "name:sr": "Патаја",
+      "name:th": "พัทยา",
+      "official_name": "เมืองพัทยา"
+    }
+  },
+  {
+    "name": "Pau",
+    "country": "France",
+    "latitude": 43.29575470054143,
+    "longitude": -0.36856679999999997,
+    "other_names": {
+      "name": "Pau",
+      "name:ar": "بو",
+      "name:ca": "Pau",
+      "name:el": "Πω",
+      "name:eo": "Paŭo",
+      "name:eu": "Paue",
+      "name:hu": "Pau",
+      "name:ja": "ポー",
+      "name:la": "Palum",
+      "name:lt": "Po",
+      "name:oc": "Pau",
+      "name:ru": "По",
+      "name:sr": "По",
+      "name:uk": "По",
+      "name:zh": "波城"
+    }
+  },
+  {
+    "name": "Paulínia",
+    "country": "Brazil",
+    "latitude": -22.763039100099178,
+    "longitude": -47.1532213,
+    "other_names": {
+      "name": "Paulínia",
+      "alt_name": "Paulinia",
+      "old_name": "José Paulino"
+    }
+  },
+  {
+    "name": "Paulista",
+    "country": "Brazil",
+    "latitude": -7.934006899756756,
+    "longitude": -34.868407,
+    "other_names": {
+      "name": "Paulista"
+    }
+  },
+  {
+    "name": "Paulo Afonso",
+    "country": "Brazil",
+    "latitude": -9.399100599862537,
+    "longitude": -38.226711,
+    "other_names": {
+      "name": "Paulo Afonso"
+    }
+  },
+  {
+    "name": "Paung",
+    "country": "Myanmar",
+    "latitude": 16.61929130009432,
+    "longitude": 97.45624999999998,
+    "other_names": {
+      "name": "ပေါင်",
+      "name:en": "Paung"
+    }
+  },
+  {
+    "name": "Pavia",
+    "country": "Italy",
+    "latitude": 45.18600430044943,
+    "longitude": 9.154637499999998,
+    "other_names": {
+      "name": "Pavia",
+      "name:el": "Παβία",
+      "name:en": "Pavia",
+      "name:es": "Pavía",
+      "name:fr": "Pavie",
+      "name:he": "פאביה",
+      "name:it": "Pavia",
+      "name:pl": "Pawia",
+      "name:ru": "Павия",
+      "name:zh": "帕維亞",
+      "name:ast": "Pavía",
+      "name:egl": "Pavia",
+      "old_name:lat": "Ticinum"
+    }
+  },
+  {
+    "name": "Pavlodar",
+    "country": "Kazakhstan",
+    "latitude": 52.28397739909741,
+    "longitude": 76.9646409,
+    "other_names": {
+      "name": "Павлодар",
+      "name:de": "Pawlodar",
+      "name:en": "Pavlodar",
+      "name:es": "Pavlodar",
+      "name:et": "Pavlodar",
+      "name:fr": "Pavlodar",
+      "name:ja": "パヴロダル",
+      "name:ko": "파블로다르",
+      "name:lt": "Pavlodaras",
+      "name:pl": "Pawłodar",
+      "name:ru": "Павлодар",
+      "name:sv": "Pavlodar",
+      "int_name": "Pavlodar"
+    }
+  },
+  {
+    "name": "Pavlodar",
+    "country": "Kazakhstan",
+    "latitude": 52.31531857328904,
+    "longitude": 76.97880320753806,
+    "other_names": {
+      "name": "Павлодар",
+      "name:de": "Pawlodar",
+      "name:en": "Pavlodar",
+      "name:et": "Pavlodar",
+      "name:ja": "パヴロダル",
+      "name:ru": "Павлодар",
+      "name:sv": "Pavlodar",
+      "int_name": "Pavlodar"
+    }
+  },
+  {
+    "name": "Pavlohrad",
+    "country": "Ukraine",
+    "latitude": 48.534863947016234,
+    "longitude": 35.876476466627,
+    "other_names": {
+      "name": "Павлоград",
+      "name:be": "Паўлаград",
+      "name:de": "Pawlohrad",
+      "name:en": "Pavlohrad",
+      "name:eo": "Pavlohrad",
+      "name:et": "Pavlograd",
+      "name:fr": "Pavlohrad",
+      "name:hu": "Pavlohrad",
+      "name:nl": "Pavlohrad",
+      "name:pl": "Pawłohrad",
+      "name:ru": "Павлоград",
+      "name:sr": "Павлоград",
+      "name:uk": "Павлоград"
+    }
+  },
+  {
+    "name": "Pavlohrad",
+    "country": "Ukraine",
+    "latitude": 48.53172009980835,
+    "longitude": 35.87035349999999,
+    "other_names": {
+      "name": "Павлоград",
+      "name:be": "Паўлаград",
+      "name:de": "Pawlohrad",
+      "name:en": "Pavlohrad",
+      "name:eo": "Pavlohrad",
+      "name:et": "Pavlograd",
+      "name:fr": "Pavlohrad",
+      "name:hu": "Pavlohrad",
+      "name:nl": "Pavlohrad",
+      "name:pl": "Pawłohrad",
+      "name:ru": "Павлоград",
+      "name:sr": "Павлоград",
+      "name:uk": "Павлоград"
+    }
+  },
+  {
+    "name": "Pawtucket",
+    "country": "United States Of America",
+    "latitude": 41.878711000476926,
+    "longitude": -71.3825558,
+    "other_names": {
+      "name": "Pawtucket"
+    }
+  },
+  {
+    "name": "Payakumbuh",
+    "country": "Indonesia",
+    "latitude": -0.22497209997714862,
+    "longitude": 100.6318259,
+    "other_names": {
+      "name": "Payakumbuh",
+      "name:id": "Payakumbuh",
+      "name:ja": "パヤクンブ"
+    }
+  },
+  {
+    "name": "Paysandú",
+    "country": "Uruguay",
+    "latitude": -32.32172569944286,
+    "longitude": -58.08921360000001,
+    "other_names": {
+      "name": "Paysandú",
+      "name:en": "Paysandú",
+      "name:ru": "Пайсанду",
+      "name:uk": "Пайсанду"
+    }
+  },
+  {
+    "name": "Payzawat",
+    "country": "China",
+    "latitude": 39.489339700196275,
+    "longitude": 76.7142718,
+    "other_names": {
+      "name": "伽师县",
+      "name:de": "Peyzawat",
+      "name:en": "Payzawat",
+      "name:es": "Paizawat",
+      "name:fr": "Peyziwat",
+      "name:ug": "پەيزاۋات ناھىيىسى",
+      "name:zh": "伽师县",
+      "name:zh-Hant": "伽師縣",
+      "name:zh_pinyin": "bārén zhèn"
+    }
+  },
+  {
+    "name": "Pazardzhik",
+    "country": "Bulgaria",
+    "latitude": 42.18845490049944,
+    "longitude": 24.331899299999996,
+    "other_names": {
+      "name": "Пазарджик",
+      "name:bg": "Пазарджик",
+      "name:de": "Pasardschik",
+      "name:el": "Πάζαρτζικ",
+      "name:en": "Pazardzhik",
+      "name:es": "Pazardzhik",
+      "name:et": "Pazardžik",
+      "name:fr": "Pazardjik",
+      "name:hr": "Pazardžik",
+      "name:hu": "Pazardzsik",
+      "name:mk": "Пазарџик",
+      "name:nl": "Pazardzjik",
+      "name:pl": "Pazardżik",
+      "name:pt": "Pazardzhik",
+      "name:ro": "Pazargik",
+      "name:ru": "Пазарджик",
+      "name:sr": "Пазарџик",
+      "name:sv": "Pazardzjik",
+      "name:tr": "Pazarcık",
+      "int_name": "Pazardzhik"
+    }
+  },
+  {
+    "name": "Peabody",
+    "country": "United States Of America",
+    "latitude": 42.52787310051901,
+    "longitude": -70.9286609,
+    "other_names": {
+      "name": "Peabody"
+    }
+  },
+  {
+    "name": "Peachtree City",
+    "country": "United States Of America",
+    "latitude": 33.39678289958893,
+    "longitude": -84.59576289999998,
+    "other_names": {
+      "name": "Peachtree City"
+    }
+  },
+  {
+    "name": "Pearl City",
+    "country": "United States Of America",
+    "latitude": 21.40012310040936,
+    "longitude": -157.969428,
+    "other_names": {
+      "name": "Pearl City",
+      "name:ja": "パールシティ"
+    }
+  },
+  {
+    "name": "Pécs",
+    "country": "Hungary",
+    "latitude": 46.07658830033046,
+    "longitude": 18.228039699999997,
+    "other_names": {
+      "name": "Pécs",
+      "name:de": "Fünfkirchen",
+      "name:hr": "Pečuh",
+      "name:hu": "Pécs",
+      "name:pl": "Pecz",
+      "name:ru": "Печ",
+      "name:sr": "Печуј",
+      "name:uk": "Печ",
+      "old_name:la": "Sopianae",
+      "old_name:pl": "Pięciokościoły"
+    }
+  }
+]

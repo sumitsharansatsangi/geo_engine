@@ -1,0 +1,333 @@
+[
+  {
+    "name": "Catania",
+    "country": "Italy",
+    "latitude": 37.50223549991344,
+    "longitude": 15.087379999999996,
+    "other_names": {
+      "name": "Catania",
+      "name:ar": "كاتانيا",
+      "name:be": "Катанія",
+      "name:ca": "Catània",
+      "name:el": "Κατάνια",
+      "name:en": "Catania",
+      "name:eo": "Katanio",
+      "name:es": "Catania",
+      "name:fi": "Catania",
+      "name:fr": "Catane",
+      "name:he": "קטניה",
+      "name:it": "Catania",
+      "name:la": "Catina",
+      "name:pl": "Katania",
+      "name:pt": "Catânia",
+      "name:ru": "Катания",
+      "name:uk": "Катанія",
+      "name:zh": "卡塔尼亞",
+      "alt_name:el": "Κατάνη",
+      "name:zh-Hans": "卡塔纳"
+    }
+  },
+  {
+    "name": "Catanzaro",
+    "country": "Italy",
+    "latitude": 38.907635300112524,
+    "longitude": 16.5960465,
+    "other_names": {
+      "name": "Catanzaro",
+      "name:ar": "قطنصار",
+      "name:el": "Καταντζάρο",
+      "name:fa": "قطنصار",
+      "name:mk": "Катанѕаро",
+      "name:ru": "Катандзаро",
+      "name:uk": "Катандзаро",
+      "name:ur": "قطنصار",
+      "name:zh": "卡坦扎羅",
+      "name:scn": "Catanzaru",
+      "alt_name:ar": "كتنزارو;كاتانزارو",
+      "name:zh-Hans": "卡坦扎罗",
+      "official_name": "Provincia di Catanzaro",
+      "official_name:ar": "مقاطعة قطنصار"
+    }
+  },
+  {
+    "name": "Catbalogan",
+    "country": "Philippines",
+    "latitude": 11.775319899560367,
+    "longitude": 124.88295489999997,
+    "other_names": {
+      "name": "Catbalogan",
+      "name:en": "Catbalogan",
+      "name:ja": "カトバロガン",
+      "name:tl": "Catbalogan",
+      "name:war": "Catbalogan"
+    }
+  },
+  {
+    "name": "Catia La Mar",
+    "country": "Venezuela",
+    "latitude": 10.598871699471578,
+    "longitude": -67.0291921,
+    "other_names": {
+      "name": "Catia La Mar"
+    }
+  },
+  {
+    "name": "Cauayan",
+    "country": "Philippines",
+    "latitude": 16.933503100128352,
+    "longitude": 121.77439049999998,
+    "other_names": {
+      "ref": "023108000",
+      "name": "Cauayan",
+      "name:en": "Cauayan",
+      "name:ja": "カウアヤン"
+    }
+  },
+  {
+    "name": "Caucagua",
+    "country": "Venezuela",
+    "latitude": 10.291949199453324,
+    "longitude": -66.3746529,
+    "other_names": {
+      "name": "Caucagua"
+    }
+  },
+  {
+    "name": "Caucaia",
+    "country": "Brazil",
+    "latitude": -3.730056299714872,
+    "longitude": -38.6593082,
+    "other_names": {
+      "name": "Caucaia",
+      "name:bg": "Каукая",
+      "name:ka": "კაუკაია",
+      "name:kk": "Каукая",
+      "name:ko": "카우카이아",
+      "name:lt": "Kaukaja",
+      "name:lv": "Kaukaja",
+      "name:pt": "Caucaia",
+      "name:ru": "Каукая",
+      "name:sr": "Каукаја",
+      "name:zh": "考卡亞"
+    }
+  },
+  {
+    "name": "Caucasia",
+    "country": "Colombia",
+    "latitude": 7.987757899390449,
+    "longitude": -75.19837449999999,
+    "other_names": {
+      "name": "Caucasia"
+    }
+  },
+  {
+    "name": "Cauquenes",
+    "country": "Chile",
+    "latitude": -35.96712860010465,
+    "longitude": -72.315427,
+    "other_names": {
+      "name": "Cauquenes"
+    }
+  },
+  {
+    "name": "Cavite City",
+    "country": "Philippines",
+    "latitude": 14.483396899846353,
+    "longitude": 120.90883589999999,
+    "other_names": {
+      "name": "Cavite City",
+      "name:ja": "カヴィテ"
+    }
+  },
+  {
+    "name": "Caxias",
+    "country": "Brazil",
+    "latitude": -4.865420099683864,
+    "longitude": -43.353664,
+    "other_names": {
+      "name": "Caxias",
+      "name:en": "Caxias",
+      "name:ru": "Кашиас",
+      "name:uk": "Кашиас"
+    }
+  },
+  {
+    "name": "Caxias do Sul",
+    "country": "Brazil",
+    "latitude": -29.168495099338113,
+    "longitude": -51.1796197,
+    "other_names": {
+      "name": "Caxias do Sul",
+      "name:bg": "Кашиас до Сул",
+      "name:ja": "カシアス・ド・スル",
+      "name:kk": "Кашиас-ду-Сул",
+      "name:ko": "카시아스두술",
+      "name:la": "Caxia Australis",
+      "name:lt": "Kašijas do Sulas",
+      "name:lv": "Kašiasa du Sula",
+      "name:mk": "Каксиас до Сул",
+      "name:pt": "Caxias do Sul",
+      "name:ru": "Кашиас-ду-Сул",
+      "name:sr": "Кашијас до Сул",
+      "name:zh": "南卡希亞斯",
+      "loc_name": "Caxias"
+    }
+  },
+  {
+    "name": "Cayenne",
+    "country": "France",
+    "latitude": 4.937114299511313,
+    "longitude": -52.3258307,
+    "other_names": {
+      "name": "Cayenne",
+      "name:ar": "كايين",
+      "name:be": "Каена",
+      "name:bg": "Кайен",
+      "name:ca": "Caiena",
+      "name:el": "Καγιέν",
+      "name:es": "Cayena",
+      "name:fa": "کاین",
+      "name:fr": "Cayenne",
+      "name:he": "קאיין",
+      "name:it": "Caienna",
+      "name:ja": "カイエンヌ",
+      "name:ka": "კაიენა",
+      "name:kn": "ಕಯೆನ್",
+      "name:ko": "카옌",
+      "name:la": "Caienna",
+      "name:lt": "Kajenas",
+      "name:lv": "Kajenna",
+      "name:mk": "Кајена",
+      "name:mr": "कायेन",
+      "name:os": "Кайеннæ",
+      "name:pl": "Kajenna",
+      "name:pt": "Caiena",
+      "name:ru": "Кайенна",
+      "name:so": "Kayene",
+      "name:sr": "Кајена",
+      "name:sv": "Cayenne",
+      "name:uk": "Каєнна",
+      "name:zh": "卡宴",
+      "name:frp": "Cayene",
+      "name:lmo": "Cajena",
+      "name:mzn": "کاین",
+      "name:nov": "Kayen",
+      "name:pms": "Cajen-a",
+      "name:vec": "Cajena",
+      "name:yue": "開雲",
+      "name:be-tarask": "Каена"
+    }
+  },
+  {
+    "name": "Ceadîr-Lunga",
+    "country": "Moldova",
+    "latitude": 46.05722600033354,
+    "longitude": 28.8249983,
+    "other_names": {
+      "name": "Ceadîr-Lunga",
+      "name:bg": "Чадър Лунга",
+      "name:el": "Τσαντίρ Λούνγκα",
+      "name:pl": "Czadyr-Łunga",
+      "name:ro": "Ceadîr-Lunga",
+      "name:ru": "Чадыр-Лунга",
+      "name:tr": "Çadır Lunga",
+      "name:uk": "Чадир-Лунга",
+      "name:gag": "Çadır Lunga",
+      "alt_name:de": "Tschadyr-Lunga",
+      "alt_name:en": "Chadyr-Lunga",
+      "old_name:de": "Tschadyr-Lunga",
+      "old_name:en": "Chadyr-Lunga"
+    }
+  },
+  {
+    "name": "Cebu City",
+    "country": "Philippines",
+    "latitude": 10.309554899454312,
+    "longitude": 123.8931107,
+    "other_names": {
+      "name": "Cebu City",
+      "name:ar": "مدينة سبو",
+      "name:de": "Cebu-Stadt",
+      "name:en": "Cebu City",
+      "name:es": "Cebú",
+      "name:et": "Cebu",
+      "name:fa": "شهر سبو",
+      "name:fr": "Cebu",
+      "name:ja": "セブ",
+      "name:kn": "ಸೆಬು ನಗರ",
+      "name:ko": "세부시",
+      "name:ru": "Себу",
+      "name:tl": "Cebu",
+      "name:uk": "Себу",
+      "name:ur": "سیبو شہر",
+      "name:zh": "宿霧市",
+      "name:ceb": "Sugbo",
+      "short_name:ar": "سبو",
+      "short_name:fa": "سبو",
+      "short_name:ur": "سیبو",
+      "official_name:ar": "مدينة سبو",
+      "official_name:en": "City of Cebu",
+      "official_name:es": "Ciudad de Cebú",
+      "official_name:fa": "شهر سبو",
+      "official_name:tl": "Lungsod ng Cebu",
+      "official_name:ur": "سیبو شہر",
+      "official_name:ceb": "Dakbayan sa Sugbo"
+    }
+  },
+  {
+    "name": "Cedar City",
+    "country": "United States Of America",
+    "latitude": 37.67742379993719,
+    "longitude": -113.061827,
+    "other_names": {
+      "name": "Cedar City",
+      "name:ru": "Сидар-Сити"
+    }
+  },
+  {
+    "name": "Cedar Hill",
+    "country": "United States Of America",
+    "latitude": 32.58880719959217,
+    "longitude": -96.9553675,
+    "other_names": {
+      "name": "Cedar Hill"
+    }
+  },
+  {
+    "name": "Cedar Rapids",
+    "country": "United States Of America",
+    "latitude": 41.975887200484436,
+    "longitude": -91.67040529999998,
+    "other_names": {
+      "name": "Cedar Rapids",
+      "name:en": "Cedar Rapids",
+      "name:ru": "Сидар-Рапидс",
+      "name:uk": "Сідар-Рапідс"
+    }
+  },
+  {
+    "name": "Ceheng",
+    "country": "China",
+    "latitude": 24.987021500259086,
+    "longitude": 105.8136734,
+    "other_names": {
+      "name": "册亨县",
+      "name:en": "Ceheng",
+      "name:zh": "册亨县",
+      "name:zh-Hant": "冊亨縣"
+    }
+  },
+  {
+    "name": "Ceilândia",
+    "country": "Brazil",
+    "latitude": -15.817339100428143,
+    "longitude": -48.1045766,
+    "other_names": {
+      "name": "Ceilândia",
+      "name:pt": "Ceilândia",
+      "alt_name": "RA IX",
+      "loc_name": "RA 9",
+      "reg_name": "Região Administrativa Nove"
+    }
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Puge",
+    "country": "China",
+    "latitude": 27.379938100015657,
+    "longitude": 102.538941,
+    "other_names": {
+      "name": "普格县",
+      "name:en": "Puge",
+      "name:ii": "ꁌꐭꑤ",
+      "name:vi": "Phổ Cách",
+      "name:zh": "普格县",
+      "int_name": "Puge",
+      "name:zh-Hant": "普格縣"
+    }
+  },
+  {
+    "name": "Pujali",
+    "country": "India",
+    "latitude": 22.467872200400432,
+    "longitude": 88.145241,
+    "other_names": {
+      "name": "Pujali",
+      "name:bn": "পূজালী",
+      "name:hi": "पूजाली"
+    }
+  },
+  {
+    "name": "Pujiang",
+    "country": "China",
+    "latitude": 29.456672699790946,
+    "longitude": 119.88787349999997,
+    "other_names": {
+      "name": "浦江县",
+      "name:en": "Pujiang",
+      "name:zh": "浦江县",
+      "name:zh-Hant": "浦江縣"
+    }
+  },
+  {
+    "name": "Pujiang",
+    "country": "China",
+    "latitude": 30.200783599722186,
+    "longitude": 103.5196032,
+    "other_names": {
+      "name": "蒲江县",
+      "name:en": "Pujiang",
+      "name:zh": "蒲江县",
+      "alt_name": "蒲江;Pujiang Xian;P'u-chiang Hsien",
+      "name:zh-Hant": "蒲江縣"
+    }
+  },
+  {
+    "name": "Pukou",
+    "country": "China",
+    "latitude": 32.064662499606236,
+    "longitude": 118.62676340000002,
+    "other_names": {
+      "name": "浦口区",
+      "name:de": "Pukou",
+      "name:en": "Pukou",
+      "name:eu": "Pukou",
+      "name:fr": "Pukou",
+      "name:id": "Pukou",
+      "name:it": "Pukou",
+      "name:ja": "浦口区",
+      "name:ko": "푸커우구",
+      "name:no": "Pukou",
+      "name:pt": "Pukou",
+      "name:ru": "Пукоу",
+      "name:sv": "Pukou",
+      "name:ur": "پوکؤ ضلع",
+      "name:vi": "Phổ Khẩu",
+      "name:zh": "浦口区",
+      "name:nan": "Phó͘-kháu-khu",
+      "name:yue": "浦口區",
+      "name:zh-Hant": "浦口區",
+      "name:zh_pinyin": "Pukou Qu"
+    }
+  },
+  {
+    "name": "Pula",
+    "country": "Croatia",
+    "latitude": 44.87022810048012,
+    "longitude": 13.845531099999999,
+    "other_names": {
+      "name": "Pula",
+      "name:ar": "بولا",
+      "name:de": "Pula",
+      "name:hr": "Pula",
+      "name:hu": "Póla",
+      "name:it": "Pola",
+      "name:ko": "풀라",
+      "name:la": "Pietas Iulia",
+      "name:lt": "Pola",
+      "name:pl": "Pula",
+      "name:ro": "Pola",
+      "name:ru": "Пула",
+      "name:sl": "Pulj",
+      "name:sr": "Пула",
+      "old_name:de": "Polei",
+      "official_name": "Pula - Pola"
+    }
+  },
+  {
+    "name": "Pulandian",
+    "country": "China",
+    "latitude": 39.40105190018368,
+    "longitude": 121.96426619999998,
+    "other_names": {
+      "name": "普兰店区",
+      "name:de": "Pulandian",
+      "name:en": "Pulandian",
+      "name:fr": "Pulandian",
+      "name:ja": "普蘭店区",
+      "name:ko": "푸란뎬구",
+      "name:ru": "Пуланьдянь",
+      "name:uk": "Пуланьдянь",
+      "name:vi": "Phổ Lan Điếm",
+      "name:zh": "普兰店区",
+      "int_name": "Pulandian",
+      "name:zh-Hant": "普蘭店區",
+      "name:zh_pinyin": "Pǔlándiàn Qū"
+    }
+  },
+  {
+    "name": "Pul-i-Alam",
+    "country": "Afghanistan",
+    "latitude": 34.00577119960189,
+    "longitude": 69.01128059999999,
+    "other_names": {
+      "name": "پل علم ښار",
+      "name:ar": "بولي علم",
+      "name:cs": "Pol-e Alam",
+      "name:de": "Pul-i-Alam",
+      "name:el": "Πουλ-ι-αλάμ",
+      "name:en": "Pul-i-Alam",
+      "name:es": "Pul-i-Alam",
+      "name:et": "Pul-i ‘Alam",
+      "name:fa": "پل علم",
+      "name:fr": "Pol-é 'Alam",
+      "name:hi": "पुल-ए-आलम",
+      "name:ja": "プリアラム",
+      "name:ps": "پل علم",
+      "name:ru": "Пулиалам",
+      "name:uk": "Пуліалам",
+      "alt_name:en": "Pul-e Alam"
+    }
+  },
+  {
+    "name": "Puli Khumri",
+    "country": "Afghanistan",
+    "latitude": 35.94039279972967,
+    "longitude": 68.71663689999998,
+    "other_names": {
+      "name": "پل خمری",
+      "name:ar": "بل خمري",
+      "name:cs": "Pol-e Chumrí",
+      "name:de": "Pol-e Khomri",
+      "name:el": "Πούλι Χουμρί",
+      "name:en": "Puli Khumri",
+      "name:es": "Puli Khumri",
+      "name:et": "Pol-e Khomrī",
+      "name:fa": "پل خمری",
+      "name:fr": "Pol-e Khomri",
+      "name:hi": "पुल-ए-ख़ुमरी",
+      "name:ja": "プレ・フムリー",
+      "name:ru": "Пули-Хумри",
+      "name:uk": "Пулі-Хумрі",
+      "int_name": "Puli Khumri"
+    }
+  },
+  {
+    "name": "Punata",
+    "country": "Bolivia",
+    "latitude": -17.54520920047514,
+    "longitude": -65.83645479999998,
+    "other_names": {
+      "name": "Punata",
+      "name:ru": "Пуната",
+      "loc_name": "La Perla del Valle",
+      "old_name:1781": "Curado de Punata",
+      "old_name:1838": "Villa de Punata"
+    }
+  },
+  {
+    "name": "Pune",
+    "country": "India",
+    "latitude": 18.521428000278465,
+    "longitude": 73.8544541,
+    "other_names": {
+      "name": "Pune",
+      "name:ar": "بونه",
+      "name:en": "Pune",
+      "name:fa": "پونه",
+      "name:he": "פונה",
+      "name:hi": "पुणे",
+      "name:kn": "ಪುಣೆ",
+      "name:ml": "പൂണെ",
+      "name:mr": "पुणे",
+      "name:pa": "ਪੁਣੇ",
+      "name:ps": "پونی",
+      "name:ru": "Пуне",
+      "name:ur": "پونے",
+      "name:zh": "浦那",
+      "name:azb": "پونه",
+      "name:ckb": "پوونە",
+      "name:pnb": "پونا",
+      "old_name:ar": "بونا",
+      "old_name:en": "Poona",
+      "old_name:fa": "پونا",
+      "old_name:pnb": "پونا"
+    }
+  },
+  {
+    "name": "Puning",
+    "country": "China",
+    "latitude": 23.300004600371388,
+    "longitude": 116.16111140000001,
+    "other_names": {
+      "name": "普宁市",
+      "name:ar": "بينينغ",
+      "name:cs": "Pchu-ning",
+      "name:de": "Puning",
+      "name:en": "Puning",
+      "name:fa": "پونینگ",
+      "name:fi": "Puning",
+      "name:fr": "Puning",
+      "name:id": "Puning",
+      "name:it": "Puning",
+      "name:ja": "普寧市",
+      "name:ki": "Puning",
+      "name:ko": "푸닝시",
+      "name:mg": "Puning",
+      "name:no": "Puning",
+      "name:sv": "Puning",
+      "name:ur": "پونینگ",
+      "name:vi": "Phổ Ninh, Yết Dương",
+      "name:zh": "普宁市",
+      "alt_name": "普宁;Puning City",
+      "name:ceb": "Puning",
+      "name:mwl": "Puning",
+      "name:nan": "Phó͘-lêng-chhī",
+      "name:pam": "Puning",
+      "name:pnb": "پونینگ",
+      "name:yue": "普寧",
+      "old_name": "普宁县;普宁;Puning County",
+      "name:zh-Hant": "普寧市",
+      "name:zh_pinyin": "Pǔníng Shì"
+    }
+  },
+  {
+    "name": "Puno",
+    "country": "Peru",
+    "latitude": -15.840758100429305,
+    "longitude": -70.0283907,
+    "other_names": {
+      "name": "Puno",
+      "name:de": "Puno",
+      "name:en": "Puno",
+      "name:es": "Puno",
+      "name:pl": "Puno",
+      "name:ru": "Пуно",
+      "name:uk": "Пуно"
+    }
+  },
+  {
+    "name": "Punta Arenas",
+    "country": "Chile",
+    "latitude": -53.16256879848858,
+    "longitude": -70.90782199999998,
+    "other_names": {
+      "name": "Punta Arenas",
+      "name:en": "Punta Arenas",
+      "name:ru": "Пунта-Аренас",
+      "name:uk": "Пунта-Аренас"
+    }
+  },
+  {
+    "name": "Punta de Mata",
+    "country": "Venezuela",
+    "latitude": 9.685565499423806,
+    "longitude": -63.60953949999998,
+    "other_names": {
+      "name": "Punta de Mata"
+    }
+  },
+  {
+    "name": "Puntarenas",
+    "country": "Costa Rica",
+    "latitude": 9.978081399436938,
+    "longitude": -84.8303637,
+    "other_names": {
+      "name": "Puntarenas",
+      "name:hu": "Puntarenas"
+    }
+  },
+  {
+    "name": "Punto Fijo",
+    "country": "Venezuela",
+    "latitude": 11.692586499553226,
+    "longitude": -70.2015372,
+    "other_names": {
+      "name": "Punto Fijo",
+      "name:en": "Punto Fijo",
+      "loc_name": "Punto Fijo"
+    }
+  },
+  {
+    "name": "Puri",
+    "country": "India",
+    "latitude": 19.80760830036319,
+    "longitude": 85.8252538,
+    "other_names": {
+      "name": "Puri",
+      "name:ar": "بوري",
+      "name:bn": "পুরী",
+      "name:en": "Puri",
+      "name:he": "פורי",
+      "name:hi": "पुरी",
+      "name:ja": "プリー",
+      "name:kn": "ಪುರಿ",
+      "name:ml": "പുരി",
+      "name:or": "ପୁରୀ",
+      "name:ru": "Пу́ри",
+      "name:ta": "புரி",
+      "name:ur": "پوری"
+    }
+  },
+  {
+    "name": "Puri",
+    "country": "India",
+    "latitude": 19.811927091369842,
+    "longitude": 85.8260136326968,
+    "other_names": {
+      "name": "Puri",
+      "name:ar": "بوري",
+      "name:en": "Puri",
+      "name:hi": "पुरी",
+      "name:ja": "プリー",
+      "name:or": "ପୁରୀ",
+      "name:ta": "புரி",
+      "name:ur": "پوری"
+    }
+  },
+  {
+    "name": "Purnia",
+    "country": "India",
+    "latitude": 25.777360100186446,
+    "longitude": 87.4731227,
+    "other_names": {
+      "name": "Purnia",
+      "name:ar": "بورنيا",
+      "name:bn": "পূর্ণিয়া",
+      "name:en": "Purnia",
+      "name:fa": "پورنیا",
+      "name:hi": "पूर्णियाँ",
+      "name:ja": "プールニヤー",
+      "name:kn": "ಪೂರ್ನಿಯ",
+      "name:pa": "ਪੂਰਨਿਆਂ",
+      "name:sr": "Пурнија",
+      "name:ur": "پورنیہ",
+      "alt_name": "Purnea"
+    }
+  }
+]

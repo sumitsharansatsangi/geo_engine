@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Zaragoza",
+    "country": "Spain",
+    "latitude": 41.65213420045786,
+    "longitude": -0.8809428,
+    "other_names": {
+      "name": "Zaragoza",
+      "name:an": "Zaragoza",
+      "name:ar": "سرقسطة",
+      "name:be": "Сарагоса",
+      "name:ca": "Saragossa",
+      "name:de": "Saragossa",
+      "name:el": "Σαραγόσα",
+      "name:eo": "Zaragozo",
+      "name:es": "Zaragoza",
+      "name:fa": "ساراگوسا",
+      "name:fr": "Saragosse",
+      "name:fy": "Saragossa",
+      "name:gl": "Zaragoza",
+      "name:he": "סרגוסה",
+      "name:hy": "Սարագոսա",
+      "name:it": "Saragozza",
+      "name:ja": "サラゴサ",
+      "name:ka": "სარაგოსა",
+      "name:kk": "Сарагоса",
+      "name:ko": "사라고사",
+      "name:la": "Caesaraugusta",
+      "name:lb": "Saragossa",
+      "name:lt": "Saragosa",
+      "name:lv": "Saragosa",
+      "name:mk": "Сарагоса",
+      "name:mr": "सारागोसा",
+      "name:mt": "Żaragoża",
+      "name:oc": "Saragossa",
+      "name:pl": "Saragossa",
+      "name:pt": "Saragoça",
+      "name:ru": "Сарагоса",
+      "name:sr": "Сарагоса",
+      "name:th": "ซาราโกซา",
+      "name:ug": "Saragossa",
+      "name:uk": "Сарагоса",
+      "name:zh": "萨拉戈萨",
+      "name:ckb": "سەرەگۆسا",
+      "name:ext": "Çaragoça",
+      "name:lmo": "Saragoza",
+      "name:pms": "Saragozza",
+      "name:scn": "Saragozza",
+      "name:vec": "Saragosa",
+      "alt_name:el": "Θαραγόθα",
+      "name:zh-Hans": "萨拉戈萨",
+      "name:zh-Hant": "札拉哥沙"
+    }
+  },
+  {
+    "name": "Zárate",
+    "country": "Argentina",
+    "latitude": -34.095471299707896,
+    "longitude": -59.02450970000001,
+    "other_names": {
+      "name": "Zárate"
+    }
+  },
+  {
+    "name": "Zaraza",
+    "country": "Venezuela",
+    "latitude": 9.350254099411368,
+    "longitude": -65.3249956,
+    "other_names": {
+      "name": "Zaraza"
+    }
+  },
+  {
+    "name": "Zarghūn Shahr",
+    "country": "Afghanistan",
+    "latitude": 34.12176628571032,
+    "longitude": 69.13582617101763,
+    "other_names": {
+      "name": "Zarghūn Shahr",
+      "name:fa": "زرغون شهر",
+      "name:ps": "زرغون ښار"
+    }
+  },
+  {
+    "name": "Zaria",
+    "country": "Nigeria",
+    "latitude": 11.113491699506909,
+    "longitude": 7.7188449,
+    "other_names": {
+      "name": "Zaria",
+      "name:ar": "زاريا",
+      "name:ko": "자리아",
+      "name:ru": "Зариа",
+      "name:uk": "Заріа"
+    }
+  },
+  {
+    "name": "Zarqa",
+    "country": "Jordan",
+    "latitude": 32.06684249960615,
+    "longitude": 36.0885771,
+    "other_names": {
+      "name": "الزرقاء‎",
+      "name:ar": "الزرقاء‎",
+      "name:de": "Zarka",
+      "name:en": "Zarqa",
+      "name:es": "Zarqa",
+      "name:et": "Az-Zarqā’",
+      "name:fr": "Zarka",
+      "name:hi": "ज़ार्का",
+      "name:ru": "Эз-Зарка",
+      "int_name": "az-Zarqa;Al Zarqa;ez-Zerga;Zarqa;Zarka;Al Zarka"
+    }
+  },
+  {
+    "name": "Zarqa",
+    "country": "Jordan",
+    "latitude": 32.06579896588582,
+    "longitude": 36.07759463064489,
+    "other_names": {
+      "name": "الزرقاء",
+      "name:ar": "الزرقاء",
+      "name:de": "Zarka",
+      "name:en": "Zarqa",
+      "name:fr": "Zarka",
+      "name:hi": "ज़ार्का",
+      "name:ru": "Эз-Зарка",
+      "int_name": "az-Zarqa;Al Zarqa;ez-Zerga;Zarqa;Zarka;Al Zarka"
+    }
+  },
+  {
+    "name": "Zayü",
+    "country": "China",
+    "latitude": 28.664709999873086,
+    "longitude": 97.466391,
+    "other_names": {
+      "name": "察隅县",
+      "name:bo": "རྫ་ཡུལ།",
+      "name:en": "Zayü",
+      "name:vi": "Zayü",
+      "name:zh": "察隅县",
+      "alt_name": "察隅;Sang-ang-ch'u Hsien;Ch'a-yu Hsien;Zayu Xian;Chayu;Zayü County;Dzayül",
+      "alt_name:vi": "Sát Ngung",
+      "name:zh-Hant": "察隅縣",
+      "name:zh_pinyin": "cháyú xiàn"
+    }
+  },
+  {
+    "name": "Zefat",
+    "country": "Israel And Palestine",
+    "latitude": 32.96409367898419,
+    "longitude": 35.5054061390771,
+    "other_names": {
+      "name": "צפת",
+      "name:ar": "صفد",
+      "name:cs": "Safed",
+      "name:en": "Zefat",
+      "name:fr": "Safed",
+      "name:he": "צפת",
+      "name:ru": "Цфат",
+      "name:en1": "Tzfat",
+      "name:en2": "Tzefat",
+      "name:en3": "Zefat",
+      "name:en4": "Zfat",
+      "name:en5": "Tsfat"
+    }
+  },
+  {
+    "name": "Zêkog",
+    "country": "China",
+    "latitude": 35.03618699965412,
+    "longitude": 101.4682544,
+    "other_names": {
+      "name": "泽库县",
+      "name:bo": "རྩེ་ཁོག་",
+      "name:de": "Zêkog",
+      "name:en": "Zêkog",
+      "name:es": "Zêkog",
+      "name:fr": "Zêkog",
+      "name:zh": "泽库县",
+      "alt_name": "泽库;泽曲镇;Tsekhog",
+      "name:zh-Hant": "澤庫縣"
+    }
+  },
+  {
+    "name": "Zelenograd",
+    "country": "Russia",
+    "latitude": 55.996423299786485,
+    "longitude": 37.198534,
+    "other_names": {
+      "name": "Зеленоград",
+      "name:ar": "زيلينوغراد",
+      "name:be": "Зеленаград",
+      "name:de": "Selenograd",
+      "name:en": "Zelenograd",
+      "name:et": "Zelenograd",
+      "name:fa": "زلنوگراد",
+      "name:fi": "Zelenograd",
+      "name:ja": "ゼレノグラード",
+      "name:ko": "젤레노그라드",
+      "name:lt": "Zelenogradas",
+      "name:pl": "Zielenograd",
+      "name:ru": "Зеленоград",
+      "name:sr": "Зеленград",
+      "name:uk": "Зеленоград",
+      "name:zh": "泽列诺格勒",
+      "int_name": "Zelenograd"
+    }
+  },
+  {
+    "name": "Zelenograd",
+    "country": "Russia",
+    "latitude": 55.98762432214635,
+    "longitude": 37.194502895245066,
+    "other_names": {
+      "name": "Зеленоград",
+      "name:be": "Зеленаград",
+      "name:de": "Selenograd",
+      "name:en": "Zelenograd",
+      "name:et": "Zelenograd",
+      "name:fi": "Zelenograd",
+      "name:ru": "Зеленоград",
+      "name:sr": "Зеленград",
+      "name:uk": "Зеленоград",
+      "int_name": "Zelenograd"
+    }
+  },
+  {
+    "name": "Zengcheng",
+    "country": "China",
+    "latitude": 23.26327450037306,
+    "longitude": 113.80595709999999,
+    "other_names": {
+      "name": "增城区",
+      "name:de": "Zengcheng",
+      "name:en": "Zengcheng",
+      "name:es": "Zengcheng",
+      "name:eu": "Zengcheng",
+      "name:fa": "ناحیه زنگچنگ",
+      "name:fr": "Zengcheng",
+      "name:it": "Zengcheng",
+      "name:ja": "増城区",
+      "name:ko": "쩡청구",
+      "name:nl": "Zengcheng",
+      "name:no": "Zengcheng",
+      "name:sv": "Zengcheng",
+      "name:vi": "Tăng Thành",
+      "name:zh": "增城区",
+      "alt_name": "增城;Zengcheng District",
+      "name:hak": "Chên-sàng-sṳ",
+      "name:mwl": "Zengcheng",
+      "name:nan": "Cheng-siâⁿ-khu",
+      "name:pam": "Zengcheng",
+      "name:pnb": "زینگ چینگ",
+      "name:yue": "增城",
+      "old_name": "增城市;Zengcheng City",
+      "name:zh-Hant": "增城區",
+      "name:zh_pinyin": "Zēngchéng Qū"
+    }
+  },
+  {
+    "name": "Zengdu District",
+    "country": "China",
+    "latitude": 31.718009999620424,
+    "longitude": 113.36515189999999,
+    "other_names": {
+      "name": "曾都区",
+      "name:de": "Zengdu",
+      "name:en": "Zengdu District",
+      "name:fr": "District de Zengdu",
+      "name:it": "Distretto di Zengdu",
+      "name:ja": "曽都区",
+      "name:ko": "쩡두구",
+      "name:no": "Zengdu",
+      "name:ru": "Цзэнду",
+      "name:sv": "Zengdu",
+      "name:vi": "Tăng Đô",
+      "name:zh": "曾都区",
+      "name:ceb": "Zengdu Qu",
+      "name:nan": "Chan-to͘-khu",
+      "name:yue": "曾都區",
+      "name:zh-Hant": "曾都區"
+    }
+  },
+  {
+    "name": "Zenica",
+    "country": "Bosnia Herzegovina",
+    "latitude": 44.20107590052469,
+    "longitude": 17.9055721,
+    "other_names": {
+      "name": "Zenica",
+      "name:ar": "زينيتسا",
+      "name:de": "Zenica",
+      "name:es": "Zenica",
+      "name:fr": "Zenica",
+      "name:hu": "Zenica",
+      "name:ru": "Зеница",
+      "name:sr": "Зеница",
+      "old_name:de": "Senitza"
+    }
+  },
+  {
+    "name": "Zentsuji",
+    "country": "Japan",
+    "latitude": 34.21949129960962,
+    "longitude": 133.7613603,
+    "other_names": {
+      "name": "善通寺市",
+      "name:ar": "زينتسوجي، كاغاوا",
+      "name:de": "Zentsūji",
+      "name:en": "Zentsuji",
+      "name:es": "Zentsūji",
+      "name:fr": "Zentsūji",
+      "name:ja": "善通寺市",
+      "name:ko": "젠쓰지시",
+      "name:pl": "Zentsūji",
+      "name:ru": "Дзенцудзи",
+      "name:uk": "Дзенцуджі",
+      "name:zh": "善通寺市",
+      "name:ja-Hira": "ぜんつうじし",
+      "name:zh-Hans": "善通寺市",
+      "name:zh-Hant": "善通寺市"
+    }
+  },
+  {
+    "name": "Zetongmön",
+    "country": "China",
+    "latitude": 29.43530819979306,
+    "longitude": 88.2595379,
+    "other_names": {
+      "name": "谢通门县",
+      "name:bo": "བཞད་མཐོང་སྨོན་རྫོང",
+      "name:en": "Zetongmön",
+      "name:vi": "Xaitongmoin",
+      "name:zh": "谢通门县",
+      "alt_name": "谢通门;Xaitongmoin;Xietongmen;Shetongmon;Hsieh-t'ung-men Hsien;Xaitongmoin Xian",
+      "alt_name:vi": "Tạ Thông Môn",
+      "name:zh-Hant": "謝通門縣",
+      "official_name": "谢通门县",
+      "name:zh_pinyin": "Xiètōngmén Xiàn"
+    }
+  },
+  {
+    "name": "Zezhou",
+    "country": "China",
+    "latitude": 35.463499999686555,
+    "longitude": 112.79599999999999,
+    "other_names": {
+      "name": "泽州县",
+      "name:en": "Zezhou",
+      "name:zh": "泽州县",
+      "alt_name": "泽州;Zezhou County",
+      "name:zh-Hant": "澤州縣"
+    }
+  },
+  {
+    "name": "Zhag'yab",
+    "country": "China",
+    "latitude": 30.65633969968554,
+    "longitude": 97.56788559999998,
+    "other_names": {
+      "name": "察雅县",
+      "name:bo": "བྲག་གཡབ",
+      "name:en": "Zhag'yab",
+      "name:vi": "Zhag’yab",
+      "name:zh": "察雅县",
+      "alt_name": "察雅县;Chaya;察雅;Chagyab;Drakyap;Zhag'yab Xian;Ch'a-ya Hsien;Chagyab Xian;Chaya Xian",
+      "alt_name:vi": "Sát Nhã",
+      "name:zh-Hant": "察雅縣",
+      "name:zh_pinyin": "Cháyǎ Xiàn"
+    }
+  },
+  {
+    "name": "Zhalainuo'er District",
+    "country": "China",
+    "latitude": 49.457725299579955,
+    "longitude": 117.7122539,
+    "other_names": {
+      "name": "扎赉诺尔区",
+      "name:de": "Jalainur",
+      "name:en": "Zhalainuo'er District",
+      "name:ru": "Чжалайнор",
+      "name:zh": "扎赉诺尔区",
+      "alt_name": "Zhalai Nuer;Zhalainuo'er;Jalai Nur;Zhalainuo'er;Jalainur District;Жалаинаур",
+      "name:zh-Hant": "扎賚諾爾區"
+    }
+  }
+]

@@ -1,0 +1,333 @@
+[
+  {
+    "name": "Etrek",
+    "country": "Turkmenistan",
+    "latitude": 37.66458059993542,
+    "longitude": 54.76788359999999,
+    "other_names": {
+      "name": "Etrek",
+      "name:fa": "گیزیلترک",
+      "name:ru": "Этрек",
+      "name:tk": "Etrek",
+      "old_name": "Gyzyletrek",
+      "old_name:ru": "Гызылэтрек"
+    }
+  },
+  {
+    "name": "Euclid",
+    "country": "United States Of America",
+    "latitude": 41.59310490045254,
+    "longitude": -81.5267873,
+    "other_names": {
+      "name": "Euclid"
+    }
+  },
+  {
+    "name": "Eugene",
+    "country": "United States Of America",
+    "latitude": 44.05050540053089,
+    "longitude": -123.09505059999998,
+    "other_names": {
+      "name": "Eugene",
+      "name:en": "Eugene",
+      "name:ja": "ユージーン",
+      "name:ru": "Юджин",
+      "name:uk": "Юджин"
+    }
+  },
+  {
+    "name": "Eunápolis",
+    "country": "Brazil",
+    "latitude": -16.37224120045199,
+    "longitude": -39.575704,
+    "other_names": {
+      "name": "Eunápolis"
+    }
+  },
+  {
+    "name": "Eureka",
+    "country": "United States Of America",
+    "latitude": 40.80207120036944,
+    "longitude": -124.16367290000001,
+    "other_names": {
+      "name": "Eureka",
+      "name:en": "Eureka",
+      "name:ru": "Юрика",
+      "name:uk": "Еуріка",
+      "name:zh": "尤里卡",
+      "name:hup": "do’-wi-lotl-ding",
+      "name:kyh": "uuth"
+    }
+  },
+  {
+    "name": "Evanston",
+    "country": "United States Of America",
+    "latitude": 41.268246200420975,
+    "longitude": -110.96375800000001,
+    "other_names": {
+      "name": "Evanston"
+    }
+  },
+  {
+    "name": "Evansville",
+    "country": "United States Of America",
+    "latitude": 37.97476449997844,
+    "longitude": -87.5558483,
+    "other_names": {
+      "name": "Evansville",
+      "name:en": "Evansville",
+      "name:lo": "ເອວັນວິລ",
+      "name:ru": "Эвансвилл",
+      "name:th": "เอวันซ์วิล",
+      "name:uk": "Евансвіл"
+    }
+  },
+  {
+    "name": "Everett",
+    "country": "United States Of America",
+    "latitude": 47.96730559994547,
+    "longitude": -122.20139979999998,
+    "other_names": {
+      "name": "Everett",
+      "name:ar": "إيفريت",
+      "name:bg": "Евърет",
+      "name:de": "Everett",
+      "name:es": "Everett",
+      "name:fa": "اورت",
+      "name:fr": "Everett",
+      "name:it": "Everett",
+      "name:ja": "エバレット",
+      "name:ko": "에버렛",
+      "name:pt": "Everett",
+      "name:ru": "Эверетт",
+      "name:uk": "Еверетт",
+      "name:zh": "埃弗里特"
+    }
+  },
+  {
+    "name": "Évora",
+    "country": "Portugal",
+    "latitude": 38.57077420006367,
+    "longitude": -7.909280800000001,
+    "other_names": {
+      "name": "Évora",
+      "name:ar": "يابرة",
+      "name:fa": "اوورا",
+      "name:hu": "Évora",
+      "name:lt": "Evora",
+      "name:ru": "Эвора",
+      "alt_name:ar": "يبورة;إيفورا;ايفورا;يابرا"
+    }
+  },
+  {
+    "name": "Ewenki",
+    "country": "China",
+    "latitude": 49.137994899658224,
+    "longitude": 119.74440190000001,
+    "other_names": {
+      "name": "鄂温克族自治旗",
+      "name:en": "Ewenki",
+      "name:zh": "鄂温克族自治旗",
+      "alt_name": "Ewenki Autonomous Banner",
+      "name:zh-Hant": "鄂溫克族自治旗"
+    }
+  },
+  {
+    "name": "Exeter",
+    "country": "England",
+    "latitude": 50.72556199929949,
+    "longitude": -3.5269108,
+    "other_names": {
+      "name": "Exeter",
+      "name:be": "Эксэтэр",
+      "name:br": "Kêrwisg",
+      "name:cy": "Caerwysg",
+      "name:en": "Exeter",
+      "name:hu": "Exeter",
+      "name:ko": "엑서터",
+      "name:la": "Isca Dumnoniorum",
+      "name:lt": "Ekseteris",
+      "name:mk": "Ексетер",
+      "name:ru": "Эксетер",
+      "name:sr": "Ексетер",
+      "name:uk": "Ексетер",
+      "old_name": "Isca"
+    }
+  },
+  {
+    "name": "Ezbet Abu Wahsh",
+    "country": "Egypt",
+    "latitude": 30.86288807602968,
+    "longitude": 32.00129519814666,
+    "other_names": {
+      "name": "Ezbet Abu Wahsh",
+      "name:ar": "عزبة ابو وحش"
+    }
+  },
+  {
+    "name": "Ezhou",
+    "country": "China",
+    "latitude": 30.3925378997062,
+    "longitude": 114.88989879999998,
+    "other_names": {
+      "name": "鄂州市",
+      "name:ar": "ايتشو",
+      "name:bg": "Ъджоу",
+      "name:cs": "E-čou",
+      "name:da": "Ezhou",
+      "name:de": "Ezhou",
+      "name:en": "Ezhou",
+      "name:es": "Ezhou",
+      "name:et": "Ezhou Shi",
+      "name:eu": "Ezhou",
+      "name:fa": "ایژو",
+      "name:fi": "Ezhou",
+      "name:fr": "Ezhou",
+      "name:hi": "एझोऊ",
+      "name:id": "Ezhou",
+      "name:it": "Ezhou",
+      "name:ja": "鄂州市",
+      "name:ki": "Ezhou",
+      "name:kn": "ಏಝುೌ",
+      "name:ko": "어저우시",
+      "name:mg": "Ezhou",
+      "name:nl": "Ezhou",
+      "name:nn": "Ezhou",
+      "name:no": "Ezhou",
+      "name:pl": "Ezhou",
+      "name:pt": "Ezhou",
+      "name:ru": "Эчжоу",
+      "name:sv": "Ezhou",
+      "name:sw": "Ezhou",
+      "name:tl": "Ezhou",
+      "name:tr": "Ezhou",
+      "name:uk": "Ечжоу",
+      "name:ur": "ایژؤ",
+      "name:vi": "Ngạc Châu",
+      "name:zh": "鄂州市",
+      "name:cdo": "Ngáuk-ciŭ",
+      "name:ceb": "Ezhou Shi",
+      "name:nan": "Go̍k-chiu-chhī",
+      "name:pam": "Ezhou",
+      "name:sco": "Ezhou",
+      "name:war": "Ezhou",
+      "name:wuu": "鄂州市",
+      "name:yue": "鄂州",
+      "name:zh-Hant": "鄂州市",
+      "name:zh_pinyin": "Èzhōu Shì"
+    }
+  },
+  {
+    "name": "Fada",
+    "country": "Chad",
+    "latitude": 17.19305770015557,
+    "longitude": 21.581325899999996,
+    "other_names": {
+      "name": "Fada فادا",
+      "name:ar": "فادا",
+      "name:en": "Fada",
+      "name:es": "Fada",
+      "name:fr": "Fada",
+      "name:ru": "Фада",
+      "name:uk": "Фада",
+      "alt_name": "Fada",
+      "alt_name:fr": "Fort de Fada"
+    }
+  },
+  {
+    "name": "Fafe",
+    "country": "Portugal",
+    "latitude": 41.451406000439256,
+    "longitude": -8.170850199999999,
+    "other_names": {
+      "name": "Fafe",
+      "name:lt": "Fafė",
+      "name:uk": "Фафе"
+    }
+  },
+  {
+    "name": "Fairbanks",
+    "country": "United States Of America",
+    "latitude": 64.8378449991163,
+    "longitude": -147.71667499999998,
+    "other_names": {
+      "name": "Fairbanks",
+      "name:ru": "Фэрбанкс",
+      "name:uk": "Фербанкс"
+    }
+  },
+  {
+    "name": "Fairfield",
+    "country": "United States Of America",
+    "latitude": 41.1433506633984,
+    "longitude": -73.25369544026026,
+    "other_names": {
+      "name": "Fairfield"
+    }
+  },
+  {
+    "name": "Fairfield",
+    "country": "United States Of America",
+    "latitude": 38.249358100017396,
+    "longitude": -122.03996599999998,
+    "other_names": {
+      "name": "Fairfield",
+      "name:ru": "Фэрфилд"
+    }
+  },
+  {
+    "name": "Faisalabad",
+    "country": "Pakistan",
+    "latitude": 31.422055799635416,
+    "longitude": 73.09232529999998,
+    "other_names": {
+      "name": "فیصل آباد",
+      "name:ar": "فيصل آباد",
+      "name:cs": "Faisalábád",
+      "name:de": "Faisalabad",
+      "name:en": "Faisalabad",
+      "name:es": "Faisalabad",
+      "name:et": "Faisalabad",
+      "name:fr": "Faisalabad",
+      "name:hi": "फैसलाबाद",
+      "name:it": "Faisalabad",
+      "name:ja": "ファイサラーバード",
+      "name:lt": "Feisalabadas",
+      "name:nl": "Faisalabad",
+      "name:oc": "Faysalabad",
+      "name:ru": "Фейсалабад",
+      "name:uk": "Фейсалабад",
+      "name:ur": "فیصل آباد",
+      "name:zh": "费萨拉巴德",
+      "name:pnb": "فیصل آباد"
+    }
+  },
+  {
+    "name": "Faiyum",
+    "country": "Egypt",
+    "latitude": 29.307384099805844,
+    "longitude": 30.839889600000003,
+    "other_names": {
+      "name": "الفيوم",
+      "name:ar": "الفيوم",
+      "name:cs": "Fajúm",
+      "name:de": "Fayoom",
+      "name:en": "Faiyum",
+      "name:eo": "Fajumo",
+      "name:et": "Al-Fayyūm",
+      "name:fr": "Médinet el-Fayoum",
+      "name:hi": "फयूम",
+      "name:hu": "Fajjúm",
+      "name:ko": "파이윰",
+      "name:pl": "Fajum",
+      "name:ru": "Файюм",
+      "name:uk": "Фаюм",
+      "alt_name": "الفيوم",
+      "int_name": "Fayoom, Fayoom, Fayyum, Fayyoum",
+      "name:cop": "'Ⲫⲓⲟⲙ",
+      "alt_name:cs": "Fajjúm",
+      "old_name:en": "Crocodilopolis",
+      "old_name:eo": "Krokodilopolo"
+    }
+  }
+]

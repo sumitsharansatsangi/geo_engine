@@ -1,0 +1,367 @@
+[
+  {
+    "name": "Pursat",
+    "country": "Cambodia",
+    "latitude": 12.537754699631718,
+    "longitude": 103.91782349999998,
+    "other_names": {
+      "name": "ក្រុងពោធិ៍សាត់",
+      "name:en": "Pursat",
+      "name:fr": "Pursat",
+      "name:ja": "ポーサット",
+      "name:ru": "Поусат",
+      "name:uk": "Поусат",
+      "int_name": "Pursat"
+    }
+  },
+  {
+    "name": "Puruliya",
+    "country": "India",
+    "latitude": 23.32853697269334,
+    "longitude": 86.36373829686612,
+    "other_names": {
+      "name": "Puruliya",
+      "name:bn": "পুরুলিয়া"
+    }
+  },
+  {
+    "name": "Puruliya",
+    "country": "India",
+    "latitude": 23.32918820037002,
+    "longitude": 86.3672378,
+    "other_names": {
+      "name": "Puruliya",
+      "name:bn": "পুরুলিয়া",
+      "name:hi": "पुरुलिया"
+    }
+  },
+  {
+    "name": "Purwakarta",
+    "country": "Indonesia",
+    "latitude": -6.560731299696509,
+    "longitude": 107.44397989999999,
+    "other_names": {
+      "name": "Purwakarta",
+      "name:ja": "プルワカルタ"
+    }
+  },
+  {
+    "name": "Purwokerto",
+    "country": "Indonesia",
+    "latitude": -7.427901099729693,
+    "longitude": 109.2408501,
+    "other_names": {
+      "name": "Purwokerto",
+      "name:ja": "プルウォケルト",
+      "name:mk": "Пурвокетро",
+      "name:zh": "普禾加多"
+    }
+  },
+  {
+    "name": "Pushkin",
+    "country": "Russia",
+    "latitude": 59.72225600154136,
+    "longitude": 30.415731,
+    "other_names": {
+      "name": "Пушкин",
+      "name:be": "Пушкін",
+      "name:cs": "Puškin",
+      "name:de": "Puschkin",
+      "name:en": "Pushkin",
+      "name:et": "Puškino",
+      "name:fa": "پوشکین",
+      "name:fi": "Puškin",
+      "name:fr": "Pouchkine",
+      "name:hu": "Szentpétervár",
+      "name:it": "Puškin",
+      "name:lt": "Puškinas",
+      "name:pl": "Puszkin",
+      "name:ru": "Пушкин",
+      "old_name:1710--1917-10": "Царское Село",
+      "old_name:cs:1710--1917-10": "Carskoje Selo"
+    }
+  },
+  {
+    "name": "Pushkino",
+    "country": "Russia",
+    "latitude": 56.010427399792476,
+    "longitude": 37.8461892,
+    "other_names": {
+      "name": "Пушкино",
+      "name:de": "Puschkino",
+      "name:en": "Pushkino",
+      "name:et": "Puškino",
+      "name:fr": "Pouchkino",
+      "name:hu": "Puskino",
+      "name:pl": "Puszkino",
+      "name:ru": "Пушкино",
+      "name:sr": "Пушкино",
+      "name:uk": "Пушкіно"
+    }
+  },
+  {
+    "name": "Pushkino",
+    "country": "Russia",
+    "latitude": 56.01017628401265,
+    "longitude": 37.8557162994444,
+    "other_names": {
+      "name": "Пушкино",
+      "name:de": "Puschkino",
+      "name:en": "Pushkino",
+      "name:fr": "Pouchkino",
+      "name:pl": "Puszkino",
+      "name:ru": "Пушкино",
+      "name:sr": "Пушкино",
+      "name:uk": "Пушкіно"
+    }
+  },
+  {
+    "name": "Puthanathani",
+    "country": "India",
+    "latitude": 10.936224361101372,
+    "longitude": 76.00535453625325,
+    "other_names": {
+      "name": "Puthanathani"
+    }
+  },
+  {
+    "name": "Putian",
+    "country": "China",
+    "latitude": 25.45573660021726,
+    "longitude": 119.0029034,
+    "other_names": {
+      "name": "莆田市",
+      "name:ar": "بوتيان",
+      "name:de": "Putian",
+      "name:en": "Putian",
+      "name:es": "Putian",
+      "name:et": "Putian",
+      "name:fi": "Putian",
+      "name:fr": "Putian",
+      "name:id": "Putian",
+      "name:it": "Putian",
+      "name:ja": "ホ田市",
+      "name:pl": "Putian",
+      "name:pt": "Putian",
+      "name:ru": "Путянь",
+      "name:tl": "Putian",
+      "name:vi": "Phủ Điền",
+      "name:zh": "莆田市",
+      "alt_name": "莆田;Putian City",
+      "name:cdo": "Buò-dièng",
+      "name:hak": "Phù-thièn-sṳ",
+      "name:nan": "Phô͘-chhân-chhī",
+      "name:wuu": "莆田市",
+      "name:yue": "莆田",
+      "alt_name:vi": "Bồ Điền",
+      "name:zh-Hant": "莆田市",
+      "name:zh_pinyin": "Pútián Shì"
+    }
+  },
+  {
+    "name": "Putrajaya",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 2.914056699691182,
+    "longitude": 101.68385309999998,
+    "other_names": {
+      "name": "Putrajaya",
+      "name:af": "Putrajaya",
+      "name:ar": "بوتراجاي",
+      "name:ca": "Putrajaya",
+      "name:el": "Πουτρατζάγια",
+      "name:en": "Putrajaya",
+      "name:he": "פוטרג'איה",
+      "name:hi": "पुत्रजय",
+      "name:id": "Putrajaya",
+      "name:ja": "プトラジャヤ",
+      "name:ko": "푸트라자야",
+      "name:ms": "Putrajaya",
+      "name:ru": "Путраджая",
+      "name:ta": "புத்ராஜாயா",
+      "name:th": "ปูตราจายา",
+      "name:tr": "Putrajaya",
+      "name:uk": "Путраджая",
+      "name:ur": "پتراجایا",
+      "name:vi": "Putrajaya",
+      "name:zh": "布城"
+    }
+  },
+  {
+    "name": "Puttalam",
+    "country": "Sri Lanka",
+    "latitude": 8.030185599390373,
+    "longitude": 79.82865829999999,
+    "other_names": {
+      "name": "පුත්තලම",
+      "name:en": "Puttalam",
+      "name:ja": "プッタラム",
+      "name:kn": "ಪುತ್ತಲಂ",
+      "name:ru": "Путталам",
+      "name:si": "පුත්තලම",
+      "name:ta": "புத்தளம்"
+    }
+  },
+  {
+    "name": "Putuo",
+    "country": "China",
+    "latitude": 29.973519499742125,
+    "longitude": 122.319433,
+    "other_names": {
+      "name": "普陀区",
+      "name:en": "Putuo",
+      "name:vi": "Phổ Đà",
+      "name:zh": "普陀区",
+      "name:zh-Hant": "普陀區",
+      "name:zh_pinyin": "Putuo Qu"
+    }
+  },
+  {
+    "name": "Putuo District",
+    "country": "China",
+    "latitude": 31.25132629964522,
+    "longitude": 121.39122909999998,
+    "other_names": {
+      "name": "普陀区",
+      "name:cs": "Pchu-tchuo",
+      "name:de": "Putuo",
+      "name:en": "Putuo District",
+      "name:es": "Putuo",
+      "name:eu": "Putuo Barrutia",
+      "name:fr": "District de Putuo",
+      "name:it": "Distretto di Putuo",
+      "name:ja": "普陀区",
+      "name:ko": "푸퉈구",
+      "name:lt": "Putuo",
+      "name:nl": "Putuo",
+      "name:no": "Putuo",
+      "name:ro": "Districtul Putuo",
+      "name:ru": "Путо",
+      "name:sv": "Putuo",
+      "name:tr": "Putuo",
+      "name:uk": "Район Путо",
+      "name:ur": "پوتوو ضلع، شنگھائی",
+      "name:vi": "Phổ Đà",
+      "name:zh": "普陀区",
+      "name:ceb": "Putuo Qu",
+      "name:nan": "Phó͘-tô-khu",
+      "name:wuu": "普陀区",
+      "name:yue": "普陀區",
+      "name:zh-Hant": "普陀區",
+      "name:zh_pinyin": "Pǔtuó Qū"
+    }
+  },
+  {
+    "name": "Puxian",
+    "country": "China",
+    "latitude": 36.412818399778985,
+    "longitude": 111.08805719999998,
+    "other_names": {
+      "name": "蒲县",
+      "name:en": "Puxian",
+      "name:ja": "蒲県",
+      "name:zh": "蒲县",
+      "alt_name": "蒲;Pusyan';P'u-hsien;P'u;Puxian;Pu County",
+      "name:zh-Hant": "蒲縣"
+    }
+  },
+  {
+    "name": "Puyang",
+    "country": "China",
+    "latitude": 35.71353219970828,
+    "longitude": 115.0235943,
+    "other_names": {
+      "name": "濮阳县",
+      "name:en": "Puyang",
+      "name:ja": "濮陽県",
+      "name:zh": "濮阳县",
+      "name:zh-Hant": "濮陽縣"
+    }
+  },
+  {
+    "name": "Puyang",
+    "country": "China",
+    "latitude": 35.76313479971282,
+    "longitude": 115.0234071,
+    "other_names": {
+      "name": "濮阳市",
+      "name:de": "Puyang",
+      "name:en": "Puyang",
+      "name:et": "Puyang",
+      "name:fr": "Puyang",
+      "name:ja": "濮陽市",
+      "name:ru": "Пуян",
+      "name:vi": "Bộc Dương",
+      "name:zh": "濮阳市",
+      "int_name": "Puyang",
+      "name:zh-Hant": "濮陽市",
+      "name:zh_pinyin": "Púyáng Shì"
+    }
+  },
+  {
+    "name": "Pweto",
+    "country": "Congo Democratic Republic",
+    "latitude": -8.474106099791346,
+    "longitude": 28.8987099,
+    "other_names": {
+      "name": "Pweto"
+    }
+  },
+  {
+    "name": "Pyatigorsk",
+    "country": "Russia",
+    "latitude": 44.04848623827795,
+    "longitude": 43.04240348234894,
+    "other_names": {
+      "name": "Пятигорск",
+      "name:de": "Pjatigorsk",
+      "name:en": "Pyatigorsk",
+      "name:ko": "퍄티고르스크"
+    }
+  },
+  {
+    "name": "Pyatigorsk",
+    "country": "Russia",
+    "latitude": 44.03977500053128,
+    "longitude": 43.0706669,
+    "other_names": {
+      "name": "Пятигорск",
+      "name:ar": "بياتيغورسك",
+      "name:az": "Pyatiqorsk",
+      "name:be": "Пяцігорск",
+      "name:ca": "Piatigorsk",
+      "name:cs": "Pjatigorsk",
+      "name:de": "Pjatigorsk",
+      "name:en": "Pyatigorsk",
+      "name:eo": "Pjatigorsk",
+      "name:es": "Piatigorsk",
+      "name:et": "Pjatigorsk",
+      "name:eu": "Piatigorsk",
+      "name:fa": "پیتیگورسک",
+      "name:fr": "Piatigorsk",
+      "name:he": "פיאטיגורסק",
+      "name:hy": "Պյատիգորսկ",
+      "name:ja": "ピャチゴルスク",
+      "name:ka": "პიატიგორსკი",
+      "name:ko": "퍄티고르스크",
+      "name:lt": "Piatigorskas",
+      "name:lv": "Pjatigorska",
+      "name:nl": "Pjatigorsk",
+      "name:pl": "Piatigorsk",
+      "name:ro": "Piatigorsk",
+      "name:ru": "Пятигорск",
+      "name:sk": "Piatigorsk",
+      "name:sr": "Пјатигорск",
+      "name:tr": "Pyatigorsk",
+      "name:tt": "Биштау",
+      "name:uk": "П'ятигорськ",
+      "name:ur": "پیاتیگورسک",
+      "name:zh": "五山城",
+      "int_name": "Pyatigorsk",
+      "name:azb": "پیتیقورسک",
+      "name:hsb": "Pjatigorsk",
+      "name:kbd": "Псыхуабэ",
+      "name:pnb": "پیاتیگورسک",
+      "old_name": "Горячие Воды, Константиногорск"
+    }
+  }
+]

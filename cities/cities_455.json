@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Sujangarh",
+    "country": "India",
+    "latitude": 27.701115399979685,
+    "longitude": 74.46493579999999,
+    "other_names": {
+      "name": "Sujangarh",
+      "name:hi": "सुजानगढ़",
+      "name:ru": "Суджангарх",
+      "name:ta": "ஸுஜான்கர்ஹ்"
+    }
+  },
+  {
+    "name": "Sujiatun",
+    "country": "China",
+    "latitude": 41.66269810045879,
+    "longitude": 123.33793269999997,
+    "other_names": {
+      "name": "苏家屯区",
+      "name:en": "Sujiatun",
+      "name:ja": "蘇家屯区",
+      "name:ko": "쓰자툰구",
+      "name:vi": "Tô Gia Đồn",
+      "name:zh": "苏家屯区",
+      "alt_name": "苏家屯;Sujiatun District",
+      "name:zh-Hant": "甦家屯區",
+      "name:zh_pinyin": "Sujiatun Qu"
+    }
+  },
+  {
+    "name": "Sukabumi",
+    "country": "Indonesia",
+    "latitude": -6.919928899708156,
+    "longitude": 106.92650949999998,
+    "other_names": {
+      "name": "Sukabumi",
+      "name:id": "Sukabumi",
+      "name:ja": "スカブミ",
+      "name:zh": "苏加武眉"
+    }
+  },
+  {
+    "name": "Sukagawa",
+    "country": "Japan",
+    "latitude": 37.28678569988493,
+    "longitude": 140.37293,
+    "other_names": {
+      "name": "須賀川市",
+      "name:ar": "سوكاغاوا، فوكوشيما",
+      "name:de": "Sukagawa",
+      "name:en": "Sukagawa",
+      "name:es": "Sukagawa",
+      "name:fr": "Sukagawa",
+      "name:ja": "須賀川市",
+      "name:ko": "스카가와시",
+      "name:pl": "Sukagawa",
+      "name:ru": "Сукагава",
+      "name:uk": "Сукаґава",
+      "int_name": "Sukagawa",
+      "name:ja_rm": "Sukagawa-shi",
+      "name:ja_kana": "すかがわし"
+    }
+  },
+  {
+    "name": "Sukhbaatar",
+    "country": "Mongolia",
+    "latitude": 50.23589089939984,
+    "longitude": 106.2094944,
+    "other_names": {
+      "name": "Сүхбаатар",
+      "name:de": "Süchbaatar",
+      "name:en": "Sukhbaatar",
+      "name:es": "Sujbaatar",
+      "name:fr": "Sükhbaatar",
+      "name:ja": "スフバータル",
+      "name:ko": "수흐바타르",
+      "name:lt": "Suche Batoras",
+      "name:mn": "Сүхбаатар",
+      "name:ru": "Сухэ-Батор",
+      "name:zh": "蘇赫巴托爾",
+      "int_name": "Сүхбаатар"
+    }
+  },
+  {
+    "name": "Sükhbaatar",
+    "country": "Mongolia",
+    "latitude": 50.23687616952149,
+    "longitude": 106.21179766732342,
+    "other_names": {
+      "name": "Сүхбаатар",
+      "name:en": "Sükhbaatar",
+      "name:ru": "Сухэ-Батор"
+    }
+  },
+  {
+    "name": "Sukhum",
+    "country": "Georgia",
+    "latitude": 43.00680800981268,
+    "longitude": 41.01821582922961,
+    "other_names": {
+      "name": "Аҟəа - Сухум",
+      "name:ab": "Аҟəа",
+      "name:az": "Suxum",
+      "name:ca": "Sukhumi",
+      "name:cs": "Suchumi",
+      "name:de": "Suchum",
+      "name:el": "Σουχούμ",
+      "name:en": "Sukhum",
+      "name:fr": "Soukhoumi",
+      "name:hy": "Սուխում",
+      "name:it": "Suchum",
+      "name:ka": "სოხუმი",
+      "name:nl": "Soechoemi",
+      "name:os": "Сухум",
+      "name:ru": "Сухум",
+      "name:tr": "Sohum",
+      "name:uk": "Сухумі",
+      "int_name": "Sukhumi",
+      "name:kbd": "Согъум",
+      "old_name": "ცხუმი",
+      "alt_name:de": "Suchum",
+      "alt_name:en": "Sukhumi",
+      "old_name:de": "Sochumi",
+      "old_name:ru": "Сухуми",
+      "old_name:tr": "Sohumkale"
+    }
+  },
+  {
+    "name": "Sukkur",
+    "country": "Pakistan",
+    "latitude": 27.696188299980236,
+    "longitude": 68.8588754,
+    "other_names": {
+      "name": "سکھر",
+      "name:ar": "سكر",
+      "name:de": "Sukkur",
+      "name:en": "Sukkur",
+      "name:es": "Sukkur",
+      "name:et": "Sukkur",
+      "name:fr": "Sukkur",
+      "name:hi": "सक्खर",
+      "name:ja": "サッカル",
+      "name:kn": "ಸುಕ್ಕರ್",
+      "name:lt": "Sukuras",
+      "name:ru": "Суккур",
+      "name:sd": "سکر",
+      "name:sr": "Сукур",
+      "name:ur": "سکھر",
+      "name:zh": "蘇庫爾"
+    }
+  },
+  {
+    "name": "Sukumo",
+    "country": "Japan",
+    "latitude": 32.93905949958795,
+    "longitude": 132.72626709999997,
+    "other_names": {
+      "name": "宿毛市",
+      "name:ar": "سوكومو، كوتشي",
+      "name:de": "Sukumo",
+      "name:en": "Sukumo",
+      "name:es": "Sukumo",
+      "name:fr": "Sukumo",
+      "name:ja": "宿毛市",
+      "name:ko": "스쿠모시",
+      "name:pl": "Sukumo",
+      "name:ru": "Сукумо",
+      "name:uk": "Сукумо",
+      "name:zh": "宿毛市",
+      "int_name": "Sukumo",
+      "name:ja-Hira": "すくもし",
+      "name:ja-Latn": "Sukumo-shi",
+      "name:ja_kana": "スクモシ",
+      "name:zh-Hans": "宿毛市",
+      "name:zh-Hant": "宿毛市"
+    }
+  },
+  {
+    "name": "Sullana",
+    "country": "Peru",
+    "latitude": -4.890064299683537,
+    "longitude": -80.6873604,
+    "other_names": {
+      "name": "Sullana"
+    }
+  },
+  {
+    "name": "Sullivan",
+    "country": "United States Of America",
+    "latitude": 39.0952593001397,
+    "longitude": -87.4077845,
+    "other_names": {
+      "name": "Sullivan"
+    }
+  },
+  {
+    "name": "Sultanpur",
+    "country": "India",
+    "latitude": 26.25886020013764,
+    "longitude": 82.07168929999999,
+    "other_names": {
+      "name": "Sultanpur",
+      "name:hi": "सुल्तानपुर"
+    }
+  },
+  {
+    "name": "Sumar",
+    "country": "Iraq",
+    "latitude": 32.151287799603296,
+    "longitude": 44.9991846,
+    "other_names": {
+      "name": "سومر",
+      "name:ar": "سومر",
+      "name:de": "Sumar",
+      "name:en": "Sumar",
+      "name:fr": "Sumar",
+      "alt_name": "Sūmar, ناحية سومر, Nahiyat Sumar, ناحية سومر"
+    }
+  },
+  {
+    "name": "Sumaré",
+    "country": "Brazil",
+    "latitude": -22.821796400091287,
+    "longitude": -47.267104999999994,
+    "other_names": {
+      "name": "Sumaré"
+    }
+  },
+  {
+    "name": "Sumbawanga",
+    "country": "Tanzania",
+    "latitude": -7.952386099757839,
+    "longitude": 31.623189800000002,
+    "other_names": {
+      "name": "Sumbawanga",
+      "name:ko": "숨바왕가",
+      "name:lt": "Sumbavanga",
+      "name:ru": "Сумбаванга",
+      "name:uk": "Сумбаванґа"
+    }
+  },
+  {
+    "name": "Sumbe",
+    "country": "Angola",
+    "latitude": -11.20193650003157,
+    "longitude": 13.839684499999999,
+    "other_names": {
+      "name": "Sumbe",
+      "name:de": "Sumbe",
+      "name:el": "Σούμπε",
+      "name:en": "Sumbe",
+      "name:es": "Sumbe",
+      "name:fr": "Sumbe",
+      "name:it": "Sumbe",
+      "name:nl": "Sumbe",
+      "name:pl": "Sumbe",
+      "name:pt": "Sumbe",
+      "name:ru": "Сумбе",
+      "name:uk": "Сумбе",
+      "old_name": "Novo Redondo",
+      "old_name:de": "Neu Redondo",
+      "old_name:en": "New Redondo",
+      "old_name:es": "Nuevo Redondo",
+      "old_name:fr": "Nouveau Redondo",
+      "old_name:it": "Nuovo Redondo",
+      "old_name:nl": "Nieuw Redondo",
+      "old_name:pl": "Nowy Redondo",
+      "old_name:pt": "Novo Redondo",
+      "old_name:ru": "Нью Редондо"
+    }
+  },
+  {
+    "name": "Sumedang",
+    "country": "Indonesia",
+    "latitude": -6.859243099705975,
+    "longitude": 107.92069820000002,
+    "other_names": {
+      "name": "Sumedang",
+      "name:ja": "スメダン"
+    }
+  },
+  {
+    "name": "Sumgayit",
+    "country": "Azerbaijan",
+    "latitude": 40.59616660034464,
+    "longitude": 49.6695971,
+    "other_names": {
+      "name": "Sumqayıt",
+      "name:ar": "سومقاييت",
+      "name:az": "Sumqayıt",
+      "name:de": "Sumqayit",
+      "name:en": "Sumgayit",
+      "name:es": "Sumqayit",
+      "name:fr": "Sumqayit",
+      "name:hi": "सुमगायित",
+      "name:ja": "スムガイト",
+      "name:ml": "സുംഗായിത്ത്",
+      "name:pl": "Sumgait",
+      "name:ru": "Сумгаит",
+      "alt_name": "Sumgait",
+      "int_name": "Sumqayıt"
+    }
+  },
+  {
+    "name": "Sumida",
+    "country": "Japan",
+    "latitude": 35.700428999707086,
+    "longitude": 139.805017,
+    "other_names": {
+      "name": "墨田区",
+      "name:ar": "سوميدا، طوكيو",
+      "name:de": "Sumida",
+      "name:en": "Sumida",
+      "name:es": "Sumida",
+      "name:fr": "Sumida",
+      "name:it": "Sumida",
+      "name:ja": "墨田区",
+      "name:ko": "스미다구",
+      "name:lt": "Sumida",
+      "name:pl": "Sumida",
+      "name:ru": "Сумида",
+      "name:uk": "Суміда",
+      "int_name": "Sumida",
+      "name:ja-Hira": "すみだく",
+      "name:ja-Latn": "Sumida-ku"
+    }
+  },
+  {
+    "name": "Summerside",
+    "country": "Canada",
+    "latitude": 46.394306000277105,
+    "longitude": -63.789367999999996,
+    "other_names": {
+      "name": "Summerside"
+    }
+  }
+]

@@ -1,0 +1,390 @@
+[
+  {
+    "name": "Arkhangelsk",
+    "country": "Russia",
+    "latitude": 64.54302199946623,
+    "longitude": 40.537121,
+    "other_names": {
+      "name": "Архангельск",
+      "name:ar": "أرخانغلسك",
+      "name:az": "Arxangelsk",
+      "name:ca": "Arkhànguelsk",
+      "name:da": "Arkhangelsk",
+      "name:de": "Archangelsk",
+      "name:el": "Αρχάγγελσκ",
+      "name:en": "Arkhangelsk",
+      "name:es": "Arjángelsk",
+      "name:et": "Arhangelsk",
+      "name:fi": "Arkangeli",
+      "name:fr": "Arkhangelsk",
+      "name:hu": "Arhangelszk",
+      "name:hy": "Արխանգելսկ",
+      "name:it": "Arcangelo",
+      "name:ja": "アルハンゲリスク",
+      "name:ka": "არხანგელსკი",
+      "name:ko": "아르한겔스크",
+      "name:la": "Archangelopolis",
+      "name:lt": "Archangelskas",
+      "name:lv": "Arhangeļska",
+      "name:nl": "Archangelsk",
+      "name:os": "Архангельск",
+      "name:pl": "Archangielsk",
+      "name:pt": "Arcangel",
+      "name:ro": "Arhanghelsk",
+      "name:ru": "Архангельск",
+      "name:sk": "Archangeľsk",
+      "name:sr": "Архангељск",
+      "name:tr": "Arhangelsk",
+      "name:uk": "Архангельськ",
+      "name:vi": "Arkhangelsk",
+      "name:zh": "阿尔汉格尔斯克",
+      "int_name": "Arkhangelsk",
+      "name:mhr": "Архангельск",
+      "alt_name:en": "Archangel"
+    }
+  },
+  {
+    "name": "Arkhangelsk",
+    "country": "Russia",
+    "latitude": 64.59266513881094,
+    "longitude": 40.55157163093592,
+    "other_names": {
+      "name": "Архангельск",
+      "name:ar": "أرخانغلسك",
+      "name:az": "Arxangelsk",
+      "name:ca": "Arkhànguelsk",
+      "name:da": "Arkhangelsk",
+      "name:de": "Archangelsk",
+      "name:el": "Αρχάγγελσκ",
+      "name:en": "Arkhangelsk",
+      "name:es": "Arjángelsk",
+      "name:et": "Arhangelsk",
+      "name:fi": "Arkangeli",
+      "name:fr": "Arkhangelsk",
+      "name:hu": "Arhangelszk",
+      "name:hy": "Արխանգելսկ",
+      "name:it": "Arcangelo",
+      "name:ja": "アルハンゲリスク",
+      "name:ka": "არხანგელსკი",
+      "name:la": "Archangelopolis",
+      "name:lt": "Archangelskas",
+      "name:lv": "Arhangeļska",
+      "name:nl": "Archangelsk",
+      "name:os": "Архангельск",
+      "name:pl": "Archangielsk",
+      "name:pt": "Arcangel",
+      "name:ro": "Arhanghelsk",
+      "name:ru": "Архангельск",
+      "name:sr": "Архангељск",
+      "name:tr": "Arhangelsk",
+      "name:uk": "Архангельськ",
+      "name:vi": "Arkhangelsk",
+      "int_name": "Arkhangelsk",
+      "name:mhr": "Архангельск",
+      "alt_name:en": "Archangel"
+    }
+  },
+  {
+    "name": "Arkoum",
+    "country": "Chad",
+    "latitude": 13.195828399700169,
+    "longitude": 21.707295499999997,
+    "other_names": {
+      "name": "أركوم Arkoum",
+      "name:ar": "أركوم",
+      "name:en": "Arkoum",
+      "name:fr": "Arkoum",
+      "alt_name": "Arkoum"
+    }
+  },
+  {
+    "name": "Arlington",
+    "country": "United States Of America",
+    "latitude": 38.89039610011,
+    "longitude": -77.0841585,
+    "other_names": {
+      "name": "Arlington"
+    }
+  },
+  {
+    "name": "Arlit",
+    "country": "Niger",
+    "latitude": 18.739079000295447,
+    "longitude": 7.393331,
+    "other_names": {
+      "name": "Arlit",
+      "name:ar": "أرليت",
+      "name:de": "Arlit",
+      "name:en": "Arlit",
+      "name:hu": "Arlit",
+      "name:ko": "아를리트",
+      "name:ru": "Арлит"
+    }
+  },
+  {
+    "name": "Armagh",
+    "country": "Ireland And Northern Ireland",
+    "latitude": 54.34819769925123,
+    "longitude": -6.654043199999999,
+    "other_names": {
+      "name": "Armagh",
+      "name:ga": "Ard Mhacha",
+      "name:gv": "Ard Maghey",
+      "name:ko": "아마",
+      "name:la": "Ardmacha",
+      "name:lt": "Arma",
+      "name:mk": "Арма",
+      "name:ru": "Арма",
+      "name:sr": "Арма",
+      "name:uk": "Арма",
+      "name:sco": "Airmagh"
+    }
+  },
+  {
+    "name": "Armavir",
+    "country": "Russia",
+    "latitude": 44.98841285834097,
+    "longitude": 41.10773676749796,
+    "other_names": {
+      "name": "Армавир",
+      "name:de": "Armawir",
+      "name:en": "Armavir",
+      "name:hy": "Արմավիր",
+      "name:lt": "Armaviras",
+      "name:ru": "Армавир",
+      "name:sr": "Армавир",
+      "name:tr": "Armavir",
+      "name:uk": "Армавір",
+      "int_name": "Armavir",
+      "name:ady": "Ермэльхьабл",
+      "old_name": "село Армавир;Армавирский аул;Армянский аул"
+    }
+  },
+  {
+    "name": "Armavir",
+    "country": "Russia",
+    "latitude": 44.999358500468304,
+    "longitude": 41.1294061,
+    "other_names": {
+      "name": "Армавир",
+      "name:ar": "أرمافير",
+      "name:de": "Armawir",
+      "name:en": "Armavir",
+      "name:et": "Armavir",
+      "name:hy": "Արմավիր",
+      "name:ja": "アルマヴィル",
+      "name:ko": "아르마비르",
+      "name:lt": "Armaviras",
+      "name:pl": "Armawir",
+      "name:ru": "Армавир",
+      "name:sr": "Армавир",
+      "name:uk": "Армавір",
+      "name:zh": "阿尔马维尔",
+      "int_name": "Armavir",
+      "name:ady": "Ермэльхьабл",
+      "old_name": "село Армавир;Армавирский аул;Армянский аул"
+    }
+  },
+  {
+    "name": "Armenia",
+    "country": "Colombia",
+    "latitude": 4.536306999542085,
+    "longitude": -75.6723751,
+    "other_names": {
+      "name": "Armenia",
+      "name:ru": "Армения"
+    }
+  },
+  {
+    "name": "Armidale",
+    "country": "Australia",
+    "latitude": -30.51448809932431,
+    "longitude": 151.6656564,
+    "other_names": {
+      "name": "Armidale",
+      "name:en": "Armidale",
+      "name:ja": "アーミデイル",
+      "name:ru": "Армидейл",
+      "name:uk": "Армідейл"
+    }
+  },
+  {
+    "name": "Arnhem",
+    "country": "Netherlands",
+    "latitude": 51.98425699911883,
+    "longitude": 5.910857299999999,
+    "other_names": {
+      "name": "Arnhem",
+      "name:ar": "أرنهيم",
+      "name:de": "Arnheim",
+      "name:en": "Arnhem",
+      "name:es": "Arnhem",
+      "name:fr": "Arnhem",
+      "name:fy": "Arnhim",
+      "name:he": "ארנהם",
+      "name:ja": "アーネム",
+      "name:la": "Arenacum",
+      "name:lt": "Arnhemas",
+      "name:nl": "Arnhem",
+      "name:ru": "Арнем",
+      "name:sr": "Арнем",
+      "name:uk": "Арнем",
+      "name:nds": "Arnem",
+      "name:zh-Hans": "阿纳姆",
+      "name:zh-Hant": "阿納姆"
+    }
+  },
+  {
+    "name": "Arniqueiras",
+    "country": "Brazil",
+    "latitude": -15.858976000430202,
+    "longitude": -48.0122281,
+    "other_names": {
+      "name": "Arniqueiras",
+      "alt_name": "RA XXXIII",
+      "loc_name": "RA 33",
+      "reg_name": "Região Administrativa Trinta e Três"
+    }
+  },
+  {
+    "name": "Aroa",
+    "country": "Venezuela",
+    "latitude": 10.442190799461988,
+    "longitude": -68.8978308,
+    "other_names": {
+      "name": "Aroa"
+    }
+  },
+  {
+    "name": "Aroma",
+    "country": "Sudan",
+    "latitude": 15.809997700002517,
+    "longitude": 36.1365693,
+    "other_names": {
+      "name": "أروما",
+      "name:ar": "أروما",
+      "name:de": "Aroma",
+      "name:en": "Aroma",
+      "name:es": "Aroma",
+      "name:fr": "Aroma",
+      "alt_name": "Aroma",
+      "int_name": "Aroma",
+      "alt_name:ar": "أروم"
+    }
+  },
+  {
+    "name": "Arraba",
+    "country": "Israel And Palestine",
+    "latitude": 32.85180696514973,
+    "longitude": 35.3382517195548,
+    "other_names": {
+      "name": "عرابة",
+      "name:ar": "عرابة",
+      "name:cs": "Arrába",
+      "name:en": "Arraba",
+      "name:fr": "Araba",
+      "name:he": "עראבה",
+      "name:hi": "अराबा"
+    }
+  },
+  {
+    "name": "Arraba",
+    "country": "Israel And Palestine",
+    "latitude": 32.84862589958863,
+    "longitude": 35.3358268,
+    "other_names": {
+      "name": "عرابة",
+      "name:ar": "عرابة",
+      "name:ca": "Arraba",
+      "name:cs": "Arrába",
+      "name:en": "Arraba",
+      "name:es": "Arraba",
+      "name:fi": "Arraba",
+      "name:fr": "Arraba",
+      "name:he": "עראבה",
+      "name:hi": "अराबा",
+      "name:it": "Arraba",
+      "name:nn": "Arraba",
+      "name:pl": "Arraba",
+      "name:ro": "Araba",
+      "name:ru": "Аррабе",
+      "alt_name:en": "Araba;Arabah;Arav;Arrabe"
+    }
+  },
+  {
+    "name": "Arrah",
+    "country": "India",
+    "latitude": 25.560317000207416,
+    "longitude": 84.6632139,
+    "other_names": {
+      "name": "Arrah",
+      "name:en": "Arrah",
+      "name:hi": "आरा",
+      "name:ja": "アーラー",
+      "name:kn": "ಅರ್ರಾಹ್",
+      "name:pa": "ਆਰਾ"
+    }
+  },
+  {
+    "name": "Ar Raqqah",
+    "country": "Syria",
+    "latitude": 35.94967799973057,
+    "longitude": 39.0089212,
+    "other_names": {
+      "name": "الرقة",
+      "name:ar": "الرقة",
+      "name:cs": "Rakka",
+      "name:de": "Raqqa",
+      "name:en": "Ar Raqqah",
+      "name:et": "Ar-Raqqah",
+      "name:fi": "Rakka",
+      "name:fr": "Raqqa",
+      "name:gr": "Καλλινικος",
+      "name:he": "א-רקה",
+      "name:hi": "अल-रक़्क़ा",
+      "name:hu": "Rakka",
+      "name:ku": "Reqa",
+      "name:la": "Callinicum",
+      "name:ml": "അൽ-റക്കാ",
+      "name:nl": "Raqqa",
+      "name:pl": "Ar-Rakka",
+      "name:ru": "Эр-Ракка",
+      "name:tr": "Rakka",
+      "name:zh": "拉卡",
+      "int_name": "Raqqa",
+      "old_name": "Nicephorium",
+      "alt_name:ar": "العكيرشي",
+      "alt_name:en": "al-Raqqah",
+      "alt_name:fr": "Er Raqqah"
+    }
+  },
+  {
+    "name": "Ar Rāshidīyah",
+    "country": "Jordan",
+    "latitude": 29.73121499976445,
+    "longitude": 35.282671,
+    "other_names": {
+      "name": "الراشدية",
+      "name:ar": "الراشدية",
+      "name:en": "Ar Rāshidīyah",
+      "name:fr": "Rashidiyah"
+    }
+  },
+  {
+    "name": "Ar Rutbah",
+    "country": "Iraq",
+    "latitude": 33.03718299958753,
+    "longitude": 40.285862,
+    "other_names": {
+      "name": "رطبة",
+      "name:de": "Al Rutbah",
+      "name:en": "Ar Rutbah",
+      "name:es": "Ar Rutba",
+      "name:fr": "Ar Routbah",
+      "name:ru": "Эр-Рутба",
+      "alt_name": "الرطبة",
+      "int_name": "Al Rutbah - الرطبة",
+      "name:iraqi": "Rutbah"
+    }
+  }
+]

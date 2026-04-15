@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Feixian",
+    "country": "China",
+    "latitude": 35.26629529967084,
+    "longitude": 117.97217879999998,
+    "other_names": {
+      "name": "费县",
+      "name:en": "Feixian",
+      "name:vi": "Phí",
+      "name:zh": "费县",
+      "alt_name": "Fei County",
+      "name:zh-Hant": "費縣",
+      "name:zh_pinyin": "Fèi xiàn"
+    }
+  },
+  {
+    "name": "Feixiang",
+    "country": "China",
+    "latitude": 36.550697199794506,
+    "longitude": 114.7959218,
+    "other_names": {
+      "name": "肥乡区",
+      "name:en": "Feixiang",
+      "name:ja": "肥郷県",
+      "name:vi": "Phì Hương",
+      "name:zh": "肥乡区",
+      "name:zh-Hant": "肥鄉區",
+      "official_name": "肥乡镇",
+      "name:zh_pinyin": "Feixiang Xian"
+    }
+  },
+  {
+    "name": "Felipe Carrillo Puerto",
+    "country": "Mexico",
+    "latitude": 19.577646500350934,
+    "longitude": -88.04630959999999,
+    "other_names": {
+      "name": "Felipe Carrillo Puerto"
+    }
+  },
+  {
+    "name": "Fengcheng",
+    "country": "China",
+    "latitude": 28.16086709992833,
+    "longitude": 115.76607989999997,
+    "other_names": {
+      "name": "丰城市",
+      "name:cs": "Feng-čcheng",
+      "name:de": "Fengcheng",
+      "name:en": "Fengcheng",
+      "name:fr": "Fengcheng",
+      "name:it": "Fengcheng",
+      "name:ja": "豊城市",
+      "name:ki": "Fengcheng",
+      "name:ko": "펑청시",
+      "name:no": "Fengcheng",
+      "name:ru": "Фэнчэн",
+      "name:sv": "Fengcheng",
+      "name:ur": "فینگچینگ، جیانگشی",
+      "name:vi": "Phong Thành",
+      "name:zh": "丰城市",
+      "alt_name": "丰城;Fengcheng City",
+      "name:gan": "豐城",
+      "name:nan": "Hong-siâⁿ-chhī",
+      "name:war": "Fengcheng",
+      "name:yue": "豐城",
+      "name:zh-Hant": "豐城市",
+      "name:zh_pinyin": "Fēngchéng Shì"
+    }
+  },
+  {
+    "name": "Fengcheng",
+    "country": "China",
+    "latitude": 40.4500763003264,
+    "longitude": 124.0637454,
+    "other_names": {
+      "name": "凤城市",
+      "name:de": "Fengcheng",
+      "name:en": "Fengcheng",
+      "name:fr": "Fengcheng",
+      "name:ja": "鳳城市",
+      "name:ko": "펑청시",
+      "name:ru": "Фынчэн",
+      "name:uk": "Фенчен",
+      "name:vi": "Phượng Thành",
+      "name:zh": "凤城",
+      "alt_name": "凤城;Fengcheng City",
+      "int_name": "Fengcheng",
+      "name:zh-Hant": "鳳城市",
+      "name:zh_pinyin": "Fèngchéng Shì"
+    }
+  },
+  {
+    "name": "Fengdu",
+    "country": "China",
+    "latitude": 29.866453799751856,
+    "longitude": 107.72577289999998,
+    "other_names": {
+      "name": "丰都县",
+      "name:en": "Fengdu",
+      "name:zh": "丰都县",
+      "old_name": "酆都縣",
+      "name:zh-Hant": "酆都縣"
+    }
+  },
+  {
+    "name": "Fengfeng",
+    "country": "China",
+    "latitude": 36.42166789977996,
+    "longitude": 114.20712479999999,
+    "other_names": {
+      "name": "峰峰矿区",
+      "name:en": "Fengfeng",
+      "name:ja": "峰峰鉱区",
+      "name:zh": "峰峰矿区",
+      "alt_name": "峰峰;Fengfeng Mining;Fengfeng Mining District",
+      "name:zh-Hant": "峯峯礦區"
+    }
+  },
+  {
+    "name": "Fenggang",
+    "country": "China",
+    "latitude": 27.964083199950256,
+    "longitude": 107.70583969999998,
+    "other_names": {
+      "name": "凤冈县",
+      "name:en": "Fenggang",
+      "name:zh": "凤冈县",
+      "name:zh-Hant": "鳳岡縣"
+    }
+  },
+  {
+    "name": "Fenghua District",
+    "country": "China",
+    "latitude": 29.65759269977143,
+    "longitude": 121.40145079999999,
+    "other_names": {
+      "name": "奉化区",
+      "name:de": "Fenghua",
+      "name:en": "Fenghua District",
+      "name:es": "Fenghua",
+      "name:fr": "District de Fenghua",
+      "name:it": "Fenghua",
+      "name:ja": "奉化区",
+      "name:ki": "Fenghua",
+      "name:ko": "펑화구",
+      "name:nl": "Fenghua",
+      "name:no": "Fenghua",
+      "name:pl": "Fenghua",
+      "name:ru": "Фэнхуа",
+      "name:sv": "Fenghua",
+      "name:tl": "Fenghua",
+      "name:uk": "Фенхуа",
+      "name:ur": "فیوگہوا",
+      "name:vi": "Phụng Hóa",
+      "name:zh": "奉化区",
+      "int_name": "Fenghua",
+      "name:ceb": "Fenghua",
+      "name:hak": "Fung-fa-khî",
+      "name:nan": "Hōng-hoà-khu",
+      "name:war": "Fenghua",
+      "name:wuu": "奉化区",
+      "name:yue": "奉化",
+      "alt_name:vi": "Phụng Hoá",
+      "name:zh-Hant": "奉化區",
+      "name:zh_pinyin": "Fènghuà Qū"
+    }
+  },
+  {
+    "name": "Fenghuang",
+    "country": "China",
+    "latitude": 27.951330499951677,
+    "longitude": 109.5941968,
+    "other_names": {
+      "name": "凤凰县",
+      "name:de": "Fenghuang",
+      "name:en": "Fenghuang",
+      "name:es": "Fenghuang",
+      "name:fa": "شهرستان فنگهوانگ",
+      "name:fr": "Xian de Fenghuang",
+      "name:id": "Kota Fenghuang",
+      "name:it": "Contea di Fenghuang",
+      "name:ja": "鳳凰県",
+      "name:ko": "펑황현",
+      "name:my": "ဖုန့်ဟွမ်ရှေးဟောင်းမြို့",
+      "name:nl": "Fenghuang",
+      "name:no": "Fenghuang",
+      "name:ru": "Фэнхуан",
+      "name:sv": "Fenghuang",
+      "name:th": "เทศมณฑลเฟิ่งหวง",
+      "name:vi": "Phượng Hoàng",
+      "name:zh": "凤凰县",
+      "alt_name": "凤凰;风凰县;风凰;Feng-huang Hsien;Fenghuang County",
+      "name:ceb": "Fenghuang Xian",
+      "name:nan": "Hōng-hông-koān",
+      "name:yue": "鳳凰縣",
+      "alt_name:vi": "Phụng Hoàng",
+      "name:zh-Hant": "鳳凰縣",
+      "official_name": "沱江镇",
+      "name:zh_pinyin": "Fènghuáng Xiàn"
+    }
+  },
+  {
+    "name": "Fengjie",
+    "country": "China",
+    "latitude": 31.02029689965978,
+    "longitude": 109.3956532,
+    "other_names": {
+      "name": "奉节县",
+      "name:en": "Fengjie",
+      "name:ja": "奉節県",
+      "name:zh": "奉节县",
+      "int_name": "feng jie",
+      "name:zh-Hant": "奉節縣"
+    }
+  },
+  {
+    "name": "Fengkai",
+    "country": "China",
+    "latitude": 23.425995200365364,
+    "longitude": 111.50654989999998,
+    "other_names": {
+      "name": "封开县",
+      "name:de": "Fengkai",
+      "name:en": "Fengkai",
+      "name:fa": "شهرستان فنگکای",
+      "name:fr": "Xian de Fengkai",
+      "name:it": "Contea di Fengkai",
+      "name:ja": "封開県",
+      "name:ko": "펑카이현",
+      "name:no": "Fengkai",
+      "name:sv": "Fengkai",
+      "name:vi": "Phong Khai",
+      "name:zh": "封开县",
+      "alt_name": "封开;Fengkai County",
+      "name:ceb": "Fengkai Xian",
+      "name:hak": "Fûng-khôi-yen",
+      "name:mwl": "Fengkai",
+      "name:nan": "Hong-khai-koān",
+      "name:yue": "封開",
+      "name:zh-Hant": "封開縣",
+      "name:zh_pinyin": "Fēngkāi Xiàn"
+    }
+  },
+  {
+    "name": "FengLin County",
+    "country": "China",
+    "latitude": 48.285138899868876,
+    "longitude": 129.5238469,
+    "other_names": {
+      "name": "丰林县",
+      "name:en": "FengLin County",
+      "name:zh": "丰林县",
+      "alt_name": "新青;Xinqing District;Xinqing Qu",
+      "name:zh-Hant": "豐林縣"
+    }
+  },
+  {
+    "name": "Fengman",
+    "country": "China",
+    "latitude": 43.81870080053774,
+    "longitude": 126.5581691,
+    "other_names": {
+      "name": "丰满区",
+      "name:en": "Fengman",
+      "name:zh": "丰满区",
+      "alt_name": "丰满;Fengman District",
+      "name:zh-Hant": "豐滿區"
+    }
+  },
+  {
+    "name": "Fengnan",
+    "country": "China",
+    "latitude": 39.574870500208384,
+    "longitude": 118.0784211,
+    "other_names": {
+      "name": "丰南区",
+      "name:en": "Fengnan",
+      "name:vi": "Phong Nam",
+      "name:zh": "丰南区",
+      "alt_name": "丰南;Fengnan District",
+      "name:zh-Hant": "豐南區",
+      "name:zh_pinyin": "Fengnan Qu"
+    }
+  },
+  {
+    "name": "Fengning",
+    "country": "China",
+    "latitude": 41.21949640041591,
+    "longitude": 116.63407769999999,
+    "other_names": {
+      "name": "丰宁县",
+      "name:en": "Fengning",
+      "name:ru": "Дагэчжень",
+      "name:vi": "Phong Ninh",
+      "name:zh": "丰宁滿族自治县",
+      "alt_name": "丰宁;Fengning Manchu Autonomous County;Fengning County",
+      "name:mnc": "ᡶᡝᠩᠨᡳᠩ ᠮᠠᠨᠵᡠ ᠪᡝᠶᡝ ᡩᠠᠰᠠᠩᡤᠠ ᠰᡳᠶᠠᠨ",
+      "name:zh-Hant": "豐寧縣",
+      "official_name": "丰宁满族自治县",
+      "name:zh_pinyin": "Fēngníng Mǎnzú Zìzhìxiàn"
+    }
+  },
+  {
+    "name": "Fengqing County",
+    "country": "China",
+    "latitude": 24.59727280029071,
+    "longitude": 99.90859519999998,
+    "other_names": {
+      "name": "凤庆县",
+      "name:en": "Fengqing County",
+      "name:ru": "Фыншань",
+      "name:vi": "Phượng Khánh",
+      "name:zh": "凤庆县",
+      "alt_name": "凤庆;Feng-shan-chen;Fengqing;Feng-ch'ing;Shun-ning;凤山;Shunningfu;Shun-ning-ch'eng;Shun-ning-hsien",
+      "name:zh-Hant": "鳳慶縣"
+    }
+  },
+  {
+    "name": "Fengqiu",
+    "country": "China",
+    "latitude": 35.04323079965462,
+    "longitude": 114.42108,
+    "other_names": {
+      "name": "封丘县",
+      "name:en": "Fengqiu",
+      "name:vi": "Phong Khâu",
+      "name:zh": "封丘县",
+      "alt_name": "封丘;Feng-ch'iu Hsien;Fengqiu County",
+      "alt_name:en": "Feng-ch'iu Hsien",
+      "name:zh-Hant": "封丘縣",
+      "name:zh_pinyin": "Fengqiu Xian"
+    }
+  },
+  {
+    "name": "Fengquan",
+    "country": "China",
+    "latitude": 35.38683739968029,
+    "longitude": 113.9074861,
+    "other_names": {
+      "name": "凤泉区",
+      "name:en": "Fengquan",
+      "name:ja": "鳳泉区",
+      "name:vi": "Phượng Toàn",
+      "name:zh": "凤泉区",
+      "name:zh-Hant": "鳳泉區",
+      "name:zh_pinyin": "Fèngquán Qū"
+    }
+  },
+  {
+    "name": "Fengrun",
+    "country": "China",
+    "latitude": 39.831461400244265,
+    "longitude": 118.15558999999999,
+    "other_names": {
+      "name": "丰润区",
+      "name:en": "Fengrun",
+      "name:ja": "豊潤区",
+      "name:vi": "Phong Nhuận",
+      "name:zh": "丰润区",
+      "alt_name": "丰润;Fengrun District",
+      "name:zh-Hant": "豐潤區"
+    }
+  }
+]

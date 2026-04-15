@@ -43,6 +43,14 @@ Search by subdistrict name:
 cargo run --bin lookup_subdistrict_point -- --search sabour subdistrict.db
 ```
 
+Initialize, search, and reverse geocode in one command:
+
+```bash
+cargo run --bin init_search_reverse_geocode -- ./release-assets bihar 25.5941 85.1376
+```
+
+This uses the local release assets folder, searches by place name, and reverse geocodes the provided coordinates.
+
 Build `geo-0.0.1.db` directly from the countries GeoJSON source:
 
 ```bash
@@ -92,6 +100,36 @@ cargo run --bin smoke_release_assets -- ./release-assets bihar 25.5941 85.1376
 ```
 
 This binary initializes the engine from the provided asset folder and exercises the public init, lookup, search, batch, background refresh, and open-from-bytes paths.
+
+The `release-assets/` folder is the local copy of a release bundle. The files inside map to these roles:
+
+- `geo-<version>.db`: country polygons database used for country-level lookup.
+- `geo-<version>.db.sha256`: checksum for the country database.
+- `geo-<version>.spx`: spatial sidecar for faster country polygon filtering.
+- `subdistrict-<version>.db`: India subdistrict polygons database with district/state metadata.
+- `subdistrict-<version>.db.sha256`: checksum for the subdistrict database.
+- `subdistrict-<version>.meta`: serialized subdistrict metadata used for name/code resolution.
+- `subdistrict-<version>.meta.sha256`: checksum for the subdistrict metadata file.
+- `cities-<version>.fst`: prefix-search index for city name lookup.
+- `cities-<version>.fst.sha256`: checksum for the city FST index.
+- `cities-<version>.core`: archived city records with coordinates and codes.
+- `cities-<version>.core.sha256`: checksum for the city core data.
+- `cities-<version>.meta`: archived string table backing the city records.
+- `cities-<version>.meta.sha256`: checksum for the city metadata string table.
+- `cities-<version>.points`: optional city point index used by the release bundle.
+- `cities-<version>.points.sha256`: checksum for the city points file.
+
+The `*.sha256` files are verification sidecars; the engine uses them to confirm that downloaded or copied assets match the published release.
+
+Quick init, search, and reverse geocode example:
+
+```bash
+cargo run --bin init_search_reverse_geocode -- ./release-assets bihar 25.5941 85.1376
+```
+
+This binary initializes the engine, runs a place-name search, and reverse geocodes the provided coordinates.
+
+When `assets-manifest.json` is present in the repo root, the binary uses it directly instead of fetching the latest GitHub release manifest.
 
 For CI/CD releases, push a tag like `v0.0.1` or run the GitHub Actions workflow named `Release Assets`. The workflow checks that the versioned artifacts already exist, regenerates `assets-manifest.json`, and publishes the release assets automatically.
 

@@ -60,8 +60,10 @@ cd "$repo_root"
 
 geo_db="geo-${VERSION}.db"
 subdistrict_db="subdistrict-${VERSION}.db"
+subdistrict_meta="subdistrict-${VERSION}.meta"
 city_fst="cities-${VERSION}.fst"
-city_rkyv="cities-${VERSION}.rkyv"
+city_core="cities-${VERSION}.core"
+city_meta="cities-${VERSION}.meta"
 city_points="cities-${VERSION}.points"
 spatial_sidecar="geo-${VERSION}.spx"
 
@@ -87,16 +89,20 @@ cargo run --bin build_city -- --version "$VERSION"
 
 shasum -a 256 "$geo_db" > "$geo_db.sha256"
 shasum -a 256 "$subdistrict_db" > "$subdistrict_db.sha256"
+shasum -a 256 "$subdistrict_meta" > "$subdistrict_meta.sha256"
 shasum -a 256 "$city_fst" > "$city_fst.sha256"
-shasum -a 256 "$city_rkyv" > "$city_rkyv.sha256"
+shasum -a 256 "$city_core" > "$city_core.sha256"
+shasum -a 256 "$city_meta" > "$city_meta.sha256"
 shasum -a 256 "$city_points" > "$city_points.sha256"
 
 manifest_args=(
   --version "$VERSION"
   --geo "$geo_db"
   --subdistrict "$subdistrict_db"
+  --subdistrict-meta "$subdistrict_meta"
   --city-fst "$city_fst"
-  --city-rkyv "$city_rkyv"
+  --city-core "$city_core"
+  --city-meta "$city_meta"
   --city-points "$city_points"
   --output assets-manifest.json
 )

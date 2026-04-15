@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Fengshan",
+    "country": "China",
+    "latitude": 24.54755150029452,
+    "longitude": 107.04072459999999,
+    "other_names": {
+      "name": "凤山县",
+      "name:en": "Fengshan",
+      "name:vi": "Phượng Sơn",
+      "name:zh": "凤山县",
+      "alt_name": "凤山;Feng-shan Hsien",
+      "name:zh-Hant": "鳳山縣",
+      "name:zh_pinyin": "fèngshān xiàn"
+    }
+  },
+  {
+    "name": "Fengshun",
+    "country": "China",
+    "latitude": 23.747147600348185,
+    "longitude": 116.17907359999998,
+    "other_names": {
+      "name": "丰顺县",
+      "name:de": "Fengshun",
+      "name:en": "Fengshun",
+      "name:fa": "شهرستان فنگشون",
+      "name:fr": "Xian de Fengshun",
+      "name:id": "Fengshun",
+      "name:it": "Contea di Fengshun",
+      "name:ja": "豊順県",
+      "name:ko": "펑순현",
+      "name:no": "Fengshun",
+      "name:sv": "Fengshun",
+      "name:vi": "Phong Thuận",
+      "name:zh": "丰顺县",
+      "alt_name": "丰顺;Fengshun County",
+      "name:ceb": "Fengshun Xian",
+      "name:hak": "Fûng-sun-yen",
+      "name:mwl": "Fengshun",
+      "name:nan": "Hong-sūn-koān",
+      "name:yue": "豐順",
+      "name:zh-Hant": "豐順縣",
+      "name:zh_pinyin": "Fēngshùn Xiàn"
+    }
+  },
+  {
+    "name": "Fengtai",
+    "country": "China",
+    "latitude": 39.85711760024778,
+    "longitude": 116.28041720000002,
+    "other_names": {
+      "name": "丰台区",
+      "name:cs": "Feng-tchai",
+      "name:en": "Fengtai",
+      "name:vi": "Phong Đài",
+      "name:zh": "丰台区",
+      "name:zh-Hant": "豐臺區",
+      "name:zh_pinyin": "Fengtai Qu"
+    }
+  },
+  {
+    "name": "Fengtai",
+    "country": "China",
+    "latitude": 32.70793359959025,
+    "longitude": 116.72542139999999,
+    "other_names": {
+      "name": "凤台县",
+      "name:en": "Fengtai",
+      "name:ja": "鳳台県",
+      "name:zh": "凤台县",
+      "old_name": "州来县;下蔡县;北寿春县;寿春府",
+      "name:zh-Hant": "鳳台縣"
+    }
+  },
+  {
+    "name": "Fengxian",
+    "country": "China",
+    "latitude": 33.91406019959909,
+    "longitude": 106.52391499999999,
+    "other_names": {
+      "name": "凤县",
+      "name:en": "Fengxian",
+      "name:ja": "鳳県",
+      "name:ko": "펑 현 (바오지 시)",
+      "name:ru": "Шуаншипу",
+      "name:zh": "凤县",
+      "alt_name": "双石铺镇;双石铺;凤;Shuangshipu",
+      "name:zh-Hant": "鳳縣"
+    }
+  },
+  {
+    "name": "Fengxian",
+    "country": "China",
+    "latitude": 34.699193599632935,
+    "longitude": 116.58578069999999,
+    "other_names": {
+      "name": "丰县",
+      "name:en": "Fengxian",
+      "name:ja": "豊県",
+      "name:vi": "Phong",
+      "name:zh": "丰县",
+      "name:zh-Hant": "豐縣",
+      "name:zh_pinyin": "Feng Xian"
+    }
+  },
+  {
+    "name": "Fengxian District",
+    "country": "China",
+    "latitude": 30.92044869966651,
+    "longitude": 121.4693834,
+    "other_names": {
+      "name": "奉贤区",
+      "name:cs": "Feng-sien",
+      "name:de": "Fengxian",
+      "name:en": "Fengxian District",
+      "name:es": "Fengxian",
+      "name:eu": "Fengxian Barrutia",
+      "name:fr": "District de Fengxian",
+      "name:it": "Distretto di Fengxian",
+      "name:ja": "奉賢区",
+      "name:ko": "펑셴구",
+      "name:nl": "Fengxian",
+      "name:no": "Fengxian",
+      "name:ru": "Фэнсянь",
+      "name:sv": "Fengxian",
+      "name:tr": "Fengxian",
+      "name:uk": "Район Фенсянь",
+      "name:ur": "فینگسیان ضلع",
+      "name:vi": "Phụng Hiền",
+      "name:zh": "奉贤区",
+      "name:ast": "Fengxian",
+      "name:ceb": "Fengxian Qu",
+      "name:nan": "Hōng-hiân-khu",
+      "name:wuu": "奉贤区",
+      "name:yue": "奉賢區",
+      "name:zh-Hant": "奉賢區",
+      "name:zh_pinyin": "Fèngxián Qū"
+    }
+  },
+  {
+    "name": "Fengxiang",
+    "country": "China",
+    "latitude": 34.52351029962344,
+    "longitude": 107.390669,
+    "other_names": {
+      "name": "凤翔区",
+      "name:en": "Fengxiang",
+      "name:ja": "鳳翔区",
+      "name:ru": "Фынсян",
+      "name:vi": "Phượng Tường",
+      "name:zh": "凤翔区",
+      "alt_name": "凤翔;城关镇;凤翔城关镇;城关;Chengguan",
+      "old_name": "凤翔县",
+      "alt_name:vi": "Phụng Tường",
+      "name:zh-Hant": "鳳翔區"
+    }
+  },
+  {
+    "name": "Fengxin",
+    "country": "China",
+    "latitude": 28.690893099870266,
+    "longitude": 115.39482520000001,
+    "other_names": {
+      "name": "奉新县",
+      "name:cs": "Feng-sin",
+      "name:de": "Fengxin",
+      "name:en": "Fengxin",
+      "name:fa": "شهرستان فنگشین",
+      "name:fr": "Xian de Fengxin",
+      "name:it": "Contea di Fengxin",
+      "name:ja": "奉新県",
+      "name:ko": "펑신현",
+      "name:no": "Fengxin",
+      "name:ru": "Фэнсинь",
+      "name:sv": "Fengxin",
+      "name:vi": "Phụng Tân",
+      "name:zh": "奉新县",
+      "alt_name": "奉新;Fengxin County",
+      "name:ceb": "Fengxin Xian",
+      "name:gan": "奉新",
+      "name:nan": "Hōng-sin-koān",
+      "name:yue": "奉新",
+      "name:zh-Hant": "奉新縣",
+      "name:zh_pinyin": "fèngxīn xiàn"
+    }
+  },
+  {
+    "name": "Fengyang",
+    "country": "China",
+    "latitude": 32.877875899588375,
+    "longitude": 117.5263182,
+    "other_names": {
+      "name": "凤阳县",
+      "name:en": "Fengyang",
+      "name:ja": "鳳陽県",
+      "name:zh": "凤阳县",
+      "alt_name": "凤阳县;凤阳;府城",
+      "old_name": "凤阳府;钟离县;钟离郡;钟离子国;钟离城;中都;临淮县;豪州;濠州;临濠府;中立县;中立府;蚕富县",
+      "name:zh-Hant": "鳳陽縣"
+    }
+  },
+  {
+    "name": "Fengze",
+    "country": "China",
+    "latitude": 24.892854100267,
+    "longitude": 118.6084597,
+    "other_names": {
+      "name": "丰泽区",
+      "name:de": "Fengze",
+      "name:en": "Fengze",
+      "name:es": "Fengze",
+      "name:fr": "Fengze",
+      "name:id": "Fengze",
+      "name:it": "Fengze",
+      "name:ja": "豊沢区",
+      "name:ko": "펑쩌구",
+      "name:vi": "Phong Trạch",
+      "name:zh": "丰泽区",
+      "name:cdo": "Hŭng-dĕk",
+      "name:ceb": "Fengze",
+      "name:hak": "Fûng-chhe̍t-khî",
+      "name:nan": "Hong-te̍k-khu",
+      "name:wuu": "丰泽区",
+      "name:yue": "豐澤",
+      "name:nan-HJ": "丰泽区",
+      "name:nan-TL": "Hong-ti̍k-khu",
+      "name:nan-POJ": "Hong-te̍k-khu",
+      "name:zh-Hant": "豐澤區",
+      "name:zh_pinyin": "Fengze Qu"
+    }
+  },
+  {
+    "name": "Fengzhen",
+    "country": "China",
+    "latitude": 40.435401800324556,
+    "longitude": 113.1044713,
+    "other_names": {
+      "name": "丰镇市",
+      "name:de": "Fengzhen",
+      "name:en": "Fengzhen",
+      "name:fr": "Fengzhen",
+      "name:ja": "豊鎮市",
+      "name:ru": "Фэнчжэнь",
+      "name:vi": "Phong Trấn",
+      "name:zh": "丰镇市",
+      "name:zh-Hant": "豐鎮市",
+      "name:zh_pinyin": "Fēngzhèn Shi"
+    }
+  },
+  {
+    "name": "Fenxi",
+    "country": "China",
+    "latitude": 36.65355179980641,
+    "longitude": 111.55379759999998,
+    "other_names": {
+      "name": "汾西县",
+      "name:en": "Fenxi",
+      "name:ja": "汾西県",
+      "name:zh": "汾西县",
+      "alt_name": "汾西;Fenxi;Fensi;Fen-hsi-hsien-ch'eng;Fen-hsi-hsien;Fen-hsi",
+      "name:zh-Hant": "汾西縣"
+    }
+  },
+  {
+    "name": "Fenyang",
+    "country": "China",
+    "latitude": 37.26830039988252,
+    "longitude": 111.78300289999999,
+    "other_names": {
+      "name": "汾阳市",
+      "name:de": "Fenyang",
+      "name:en": "Fenyang",
+      "name:fr": "Fenyang",
+      "name:ja": "汾陽市",
+      "name:ru": "Фынъян",
+      "name:vi": "Phần Dương",
+      "name:zh": "汾阳市",
+      "alt_name": "汾阳;Fenyang City",
+      "name:zh-Hant": "汾陽市",
+      "name:zh_pinyin": "Fényáng Shì"
+    }
+  },
+  {
+    "name": "Fenyi",
+    "country": "China",
+    "latitude": 27.81807479996658,
+    "longitude": 114.68529820000002,
+    "other_names": {
+      "name": "分宜县",
+      "name:en": "Fenyi",
+      "name:ru": "Фыньи",
+      "name:zh": "分宜县",
+      "alt_name": "分宜;Fenyi County",
+      "name:zh-Hant": "分宜縣",
+      "name:zh_pinyin": "Fēnyí Xiàn"
+    }
+  },
+  {
+    "name": "Fergana",
+    "country": "Uzbekistan",
+    "latitude": 40.399342442688145,
+    "longitude": 71.79003402259994,
+    "other_names": {
+      "name": "Farg'ona",
+      "name:cs": "Fergana",
+      "name:en": "Fergana",
+      "name:eo": "Fergana",
+      "name:fr": "Ferghana",
+      "name:ja": "フェルガナ",
+      "name:ru": "Фергана",
+      "name:tg": "Фарғона",
+      "name:uk": "Фергана",
+      "int_name": "Fergana",
+      "old_name": "Новый Маргилан;Скобелев"
+    }
+  },
+  {
+    "name": "Fergana",
+    "country": "Uzbekistan",
+    "latitude": 40.37708320031709,
+    "longitude": 71.7918491,
+    "other_names": {
+      "name": "Farg'ona",
+      "name:ar": "فرغانة",
+      "name:en": "Fergana",
+      "name:eo": "Fergana",
+      "name:et": "Fergana",
+      "name:fr": "Ferghana",
+      "name:ja": "フェルガナ",
+      "name:pl": "Fergana",
+      "name:ru": "Фергана",
+      "name:tg": "Фарғона",
+      "name:uk": "Фергана",
+      "int_name": "Fergana",
+      "old_name": "Новый Маргилан;Скобелев"
+    }
+  },
+  {
+    "name": "Fernando de la Mora",
+    "country": "Paraguay",
+    "latitude": -25.32816729973197,
+    "longitude": -57.5521492,
+    "other_names": {
+      "name": "Fernando de la Mora"
+    }
+  },
+  {
+    "name": "Fernie",
+    "country": "Canada",
+    "latitude": 49.50417469956873,
+    "longitude": -115.06286699999998,
+    "other_names": {
+      "name": "Fernie"
+    }
+  },
+  {
+    "name": "Ferrara",
+    "country": "Italy",
+    "latitude": 44.83727370048297,
+    "longitude": 11.6186451,
+    "other_names": {
+      "name": "Ferrara",
+      "name:el": "Φερράρα",
+      "name:en": "Ferrara",
+      "name:fr": "Ferrare",
+      "name:he": "פרארה",
+      "name:it": "Ferrara",
+      "name:lt": "Ferara",
+      "name:ru": "Феррара",
+      "name:sr": "Ферара",
+      "name:uk": "Феррара",
+      "name:zh": "费拉拉",
+      "name:egl": "Fràra",
+      "name:vec": "Ferara"
+    }
+  }
+]

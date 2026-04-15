@@ -1,0 +1,414 @@
+[
+  {
+    "name": "Kitui",
+    "country": "Kenya",
+    "latitude": -1.366599999869543,
+    "longitude": 38.0166,
+    "other_names": {
+      "name": "Kitui"
+    }
+  },
+  {
+    "name": "Kitwe",
+    "country": "Zambia",
+    "latitude": -12.810418600193103,
+    "longitude": 28.206836099999997,
+    "other_names": {
+      "name": "Kitwe",
+      "name:ar": "كيتوي",
+      "name:fa": "کیتو",
+      "name:ko": "키트웨",
+      "name:lt": "Kitvė",
+      "name:ru": "Китве-Нкана",
+      "name:ur": "کتوے",
+      "alt_name:ar": "كيتو"
+    }
+  },
+  {
+    "name": "Kiyose",
+    "country": "Japan",
+    "latitude": 35.785482999714894,
+    "longitude": 139.53125299999996,
+    "other_names": {
+      "name": "清瀬市",
+      "name:ar": "كيوسه، طوكيو",
+      "name:de": "Kiyose",
+      "name:en": "Kiyose",
+      "name:eo": "Kijose",
+      "name:es": "Kiyose",
+      "name:fa": "کیوسه، توکیو",
+      "name:fi": "Kiyose",
+      "name:fr": "Kiyose",
+      "name:gl": "Kiyose",
+      "name:it": "Kiyose",
+      "name:ja": "清瀬市",
+      "name:ko": "기요세시",
+      "name:lt": "Kijosė",
+      "name:ms": "Kiyose",
+      "name:pl": "Kiyose",
+      "name:pt": "Kiyose",
+      "name:ru": "Киёсе",
+      "name:tg": "Киёсе",
+      "name:th": "คิโยะเซะ",
+      "name:uk": "Кійосе",
+      "name:zh": "清瀨市",
+      "name:mzn": "کیوسه، توکیو",
+      "name:yue": "清瀨市",
+      "name:ja_rm": "Kiyose-shi",
+      "name:roa-rup": "Kiyose"
+    }
+  },
+  {
+    "name": "Kiyosu",
+    "country": "Japan",
+    "latitude": 35.21594999966703,
+    "longitude": 136.84510700000004,
+    "other_names": {
+      "name": "清須市",
+      "name:ar": "كيوسو، آيتشي",
+      "name:de": "Kiyosu",
+      "name:en": "Kiyosu",
+      "name:es": "Kiyosu",
+      "name:fr": "Kiyosu",
+      "name:ja": "清須市",
+      "name:ko": "기요스시",
+      "name:lt": "Kijosu",
+      "name:pl": "Kiyosu",
+      "name:ru": "Киёсу",
+      "name:uk": "Кійосу",
+      "name:ja_rm": "Kuyosu-shi",
+      "name:ja_kana": "きよすし"
+    }
+  },
+  {
+    "name": "Kizilsu",
+    "country": "China",
+    "latitude": 39.71415760022795,
+    "longitude": 76.1645911,
+    "other_names": {
+      "name": "克州",
+      "name:en": "Kizilsu",
+      "name:et": "Kizilsu",
+      "name:ky": "Кызылсуу Кыргыз аптоном обласы",
+      "name:tr": "Kızılsu",
+      "name:ug": "قىزىلسۇ قىرغىز ئاپتونوم ئوبلاستى",
+      "name:vi": "Kizilsu",
+      "name:zh": "克孜勒苏柯尔克孜自治州",
+      "alt_name": "Kezilesukeerkezi;Kizilsu Kirghiz Autonomous Prefecture",
+      "short_name": "克州",
+      "alt_name:vi": "Khắc Tư Lặc Tô",
+      "name:ky-Arab": "قىزىلسۇۇ قىرعىز اپتونوم وبلاسى",
+      "name:zh-Hant": "克州",
+      "official_name": "克孜勒苏柯尔克孜自治州",
+      "name:zh_pinyin": "Kizilsu Kirgiz Zizhizhou"
+    }
+  },
+  {
+    "name": "Kizugawa",
+    "country": "Japan",
+    "latitude": 34.75454999963613,
+    "longitude": 135.84802599999998,
+    "other_names": {
+      "name": "木津川市",
+      "name:ar": "كيزوغاوا، كيوتو",
+      "name:de": "Kizugawa",
+      "name:en": "Kizugawa",
+      "name:es": "Kizugawa",
+      "name:fr": "Kizugawa",
+      "name:ja": "木津川市",
+      "name:ko": "기즈가와시",
+      "name:lt": "Kidzugava",
+      "name:pl": "Kizugawa",
+      "name:ru": "Кидзугава",
+      "name:uk": "Кідзуґава",
+      "name:ja_rm": "Kizugawa-shi",
+      "name:ja_kana": "きづがわし"
+    }
+  },
+  {
+    "name": "Kırıkkale",
+    "country": "Turkey",
+    "latitude": 39.847360400246444,
+    "longitude": 33.5144853,
+    "other_names": {
+      "name": "Kırıkkale",
+      "name:ar": "كيركالي",
+      "name:el": "Κιρίκαλε",
+      "name:en": "Kırıkkale",
+      "name:hi": "किरिक्कली",
+      "name:hu": "Kırıkkale",
+      "name:hy": "Քըրըքքալեի մարզ",
+      "name:ka": "ქირიქკალე",
+      "name:ku": "Kirikkale",
+      "name:ru": "Кырыккале",
+      "name:tr": "Kırıkkale"
+    }
+  },
+  {
+    "name": "Kırklareli",
+    "country": "Turkey",
+    "latitude": 41.73702230046524,
+    "longitude": 27.223552299999998,
+    "other_names": {
+      "name": "Kırklareli",
+      "name:ar": "قرقلر ايلي",
+      "name:bg": "Лозенград",
+      "name:el": "Σαράντα Εκκλησιές",
+      "name:hu": "Kırklareli",
+      "name:mk": "Лозенград",
+      "name:ru": "Кыркларели",
+      "name:tr": "Kırklareli",
+      "old_name": "Kırkkilise"
+    }
+  },
+  {
+    "name": "Kırşehir",
+    "country": "Turkey",
+    "latitude": 39.146114200147046,
+    "longitude": 34.1605587,
+    "other_names": {
+      "name": "Kırşehir",
+      "name:ar": "قرشهر",
+      "name:el": "Μωκησσός",
+      "name:ku": "Qîrşehir",
+      "name:ru": "Кыршехир",
+      "name:tr": "Kırşehir"
+    }
+  },
+  {
+    "name": "Klagenfurt",
+    "country": "Austria",
+    "latitude": 46.62281620023547,
+    "longitude": 14.3079604,
+    "other_names": {
+      "name": "Klagenfurt",
+      "name:ar": "كلاغنفورت",
+      "name:be": "Клагенфурт",
+      "name:bs": "Celovec",
+      "name:cs": "Celovec",
+      "name:en": "Klagenfurt",
+      "name:es": "Klagenfurt",
+      "name:fr": "Klagenfurt",
+      "name:hu": "Klagenfurt",
+      "name:ka": "კლაგენფურთი;ცელოვწი",
+      "name:la": "Clagenfurtum",
+      "name:lt": "Clanforte",
+      "name:lv": "Klāgenfurte",
+      "name:mk": "Клагенфурт",
+      "name:ru": "Клагенфурт",
+      "name:sl": "Celovec ob Vrbskem jezeru",
+      "name:sr": "Клагенфурт",
+      "name:uk": "Клагенфурт",
+      "alt_name": "Klagenfurt am Wörthersee",
+      "name:fur": "Clanfurt",
+      "name:hsb": "Celowc",
+      "old_name:cs": "Celovec",
+      "name:be-tarask": "Клягенфурт"
+    }
+  },
+  {
+    "name": "Klaipėda",
+    "country": "Lithuania",
+    "latitude": 55.712752899670235,
+    "longitude": 21.1350469,
+    "other_names": {
+      "name": "Klaipėda",
+      "name:ar": "كلايبيدا",
+      "name:ay": "Klaypida",
+      "name:az": "Klаypеdа",
+      "name:be": "Клайпеда",
+      "name:bg": "Клайпеда",
+      "name:cv": "Клайпеда",
+      "name:de": "Memel",
+      "name:el": "Κλαϊπέντα",
+      "name:en": "Klaipėda",
+      "name:fa": "کلایپدا",
+      "name:fy": "Klaipeda",
+      "name:he": "קלייפדה",
+      "name:hu": "Klaipėda",
+      "name:io": "Klaipeda",
+      "name:iu": "ᒃᓚᐊᐱᑕ",
+      "name:ja": "クライペダ",
+      "name:ka": "კლაიპედა",
+      "name:kk": "Клайпеда",
+      "name:ko": "클라이페다",
+      "name:la": "Memela",
+      "name:lt": "Klaipėda",
+      "name:lv": "Klaipēda",
+      "name:mk": "Клаипеда",
+      "name:mn": "Клейпеда",
+      "name:mr": "क्लीपेदा",
+      "name:os": "Клайпедæ",
+      "name:pl": "Kłajpeda",
+      "name:ru": "Клайпеда",
+      "name:sr": "Клајпеда",
+      "name:su": "Klaipéda",
+      "name:th": "ไคลเปดา",
+      "name:tt": "Клайпеда",
+      "name:uk": "Клайпеда",
+      "name:ur": "کلائپیدا",
+      "name:wa": "Klaipeda",
+      "name:zh": "克莱佩达",
+      "name:als": "Klaipeda",
+      "name:bar": "Memel",
+      "name:csb": "Kłajpéda",
+      "name:jbo": "tcadrklaipeda",
+      "name:ltg": "Klaipieda",
+      "name:mhr": "Клайпеде",
+      "name:nds": "Memel",
+      "name:pnb": "کلائیپیدا",
+      "name:pnt": "Κλαϊπέντα",
+      "name:scn": "Klaipeda",
+      "name:bat-smg": "Klaipieda",
+      "name:iu-Latn": "klaipita",
+      "name:be-tarask": "Клайпеда"
+    }
+  },
+  {
+    "name": "Klang",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 3.0448346996780087,
+    "longitude": 101.44473629999999,
+    "other_names": {
+      "name": "Klang",
+      "name:en": "Klang",
+      "name:ja": "クラン",
+      "name:ru": "Кланг",
+      "name:ta": "கிள்ளான்",
+      "name:uk": "Кланг",
+      "name:zh": "巴生"
+    }
+  },
+  {
+    "name": "Klerksdorp",
+    "country": "South Africa And Lesotho",
+    "latitude": -26.86253829952907,
+    "longitude": 26.665681399999997,
+    "other_names": {
+      "name": "Klerksdorp",
+      "name:en": "Klerksdorp",
+      "name:ru": "Клерксдорп"
+    }
+  },
+  {
+    "name": "Klerksdorp",
+    "country": "South Africa",
+    "latitude": -26.86253829952907,
+    "longitude": 26.665681399999997,
+    "other_names": {
+      "name": "Klerksdorp",
+      "name:en": "Klerksdorp",
+      "name:ru": "Клерксдорп"
+    }
+  },
+  {
+    "name": "Kleve",
+    "country": "Germany",
+    "latitude": 51.78955709913772,
+    "longitude": 6.1376008,
+    "other_names": {
+      "name": "Kleve",
+      "name:be": "Клевэ",
+      "name:bg": "Клеве",
+      "name:ca": "Clèveris",
+      "name:de": "Kleve",
+      "name:es": "Cléveris",
+      "name:fa": "کلوه",
+      "name:fr": "Clèves",
+      "name:ja": "クレーフェ",
+      "name:kl": "Kleff",
+      "name:la": "Clivia",
+      "name:nl": "Kleef",
+      "name:pt": "Cleves",
+      "old_name": "Cleve"
+    }
+  },
+  {
+    "name": "Kluang",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 2.0322420997832733,
+    "longitude": 103.31909219999999,
+    "other_names": {
+      "name": "Kluang",
+      "name:fa": "کلانگ",
+      "name:ja": "クルアン",
+      "name:ko": "클루앙",
+      "name:ta": "குளுவாங்",
+      "name:ur": "کلوانگ",
+      "name:zh": "居銮"
+    }
+  },
+  {
+    "name": "Knoxville",
+    "country": "United States Of America",
+    "latitude": 35.96039479973163,
+    "longitude": -83.92102609999999,
+    "other_names": {
+      "name": "Knoxville",
+      "name:en": "Knoxville",
+      "name:ru": "Ноксвилл",
+      "name:uk": "Ноксвілл"
+    }
+  },
+  {
+    "name": "Kobayashi",
+    "country": "Japan",
+    "latitude": 31.996684099608718,
+    "longitude": 130.97314559999998,
+    "other_names": {
+      "name": "小林市",
+      "name:ar": "كوباياشي، ميازاكي",
+      "name:de": "Kobayashi",
+      "name:en": "Kobayashi",
+      "name:es": "Kobayashi",
+      "name:fr": "Kobayashi",
+      "name:ja": "小林市",
+      "name:ko": "고바야시시",
+      "name:pl": "Kobayashi",
+      "name:ru": "Кобаяси",
+      "name:uk": "Кобаяші",
+      "name:zh": "小林市",
+      "int_name": "Kobayashi",
+      "name:zh-Hans": "小林市",
+      "name:zh-Hant": "小林市"
+    }
+  },
+  {
+    "name": "Kobe",
+    "country": "Japan",
+    "latitude": 34.69323789963258,
+    "longitude": 135.1943764,
+    "other_names": {
+      "name": "神戸市",
+      "name:cs": "Kóbe",
+      "name:en": "Kobe",
+      "name:et": "Kōbe",
+      "name:eu": "Kobe",
+      "name:fr": "Kobé",
+      "name:it": "Kobe",
+      "name:ja": "神戸市",
+      "name:kn": "ಕೋಬೆ",
+      "name:ko": "고베시",
+      "name:lt": "Kobė",
+      "name:nl": "Kobe",
+      "name:oc": "Kobe",
+      "name:pl": "Kobe",
+      "name:pt": "Kobe",
+      "name:ru": "Кобе",
+      "name:sr": "Кобе",
+      "name:uk": "Кобе",
+      "name:zh": "神户市",
+      "name:ja-Hira": "こうべし",
+      "name:ja-Latn": "Kōbe-shi"
+    }
+  },
+  {
+    "name": "KOBIAN",
+    "country": "Guinea",
+    "latitude": 9.87297419943198,
+    "longitude": -13.4798815,
+    "other_names": {
+      "name": "KOBIAN"
+    }
+  }
+]

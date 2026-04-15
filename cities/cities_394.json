@@ -1,0 +1,249 @@
+[
+  {
+    "name": "Reykjavik",
+    "country": "Iceland",
+    "latitude": 64.14598099991763,
+    "longitude": -21.942236699999995,
+    "other_names": {
+      "name": "Reykjavík",
+      "name:ar": "ريكيافيك",
+      "name:be": "Рэйк'явік",
+      "name:de": "Reykjavik",
+      "name:en": "Reykjavik",
+      "name:es": "Reikiavik",
+      "name:fr": "Reykjavik",
+      "name:hu": "Reykjavík",
+      "name:is": "Reykjavík",
+      "name:it": "Reykjavík",
+      "name:ja": "レイキャヴィク",
+      "name:lt": "Reikjavikas",
+      "name:no": "Reykjavík",
+      "name:oc": "Reykjavik",
+      "name:pl": "Reykjavík",
+      "name:pt": "Reiquiavique",
+      "name:ru": "Рейкьявик",
+      "name:sk": "Reykjavík",
+      "name:sv": "Reykjavik",
+      "name:ta": "ரெய்க்யவிக்",
+      "name:zh": "雷克雅未克",
+      "name:ckb": "ڕێکیاڤیک"
+    }
+  },
+  {
+    "name": "Reynosa",
+    "country": "Mexico",
+    "latitude": 26.070401800157086,
+    "longitude": -98.29639319999998,
+    "other_names": {
+      "name": "Reynosa",
+      "name:ar": "رينوسا"
+    }
+  },
+  {
+    "name": "Rezekne",
+    "country": "Latvia",
+    "latitude": 56.50628100001603,
+    "longitude": 27.330662299999997,
+    "other_names": {
+      "name": "Rēzekne",
+      "name:be": "Рэзэкнэ",
+      "name:de": "Rositten",
+      "name:en": "Rezekne",
+      "name:fi": "Rēzekne",
+      "name:lt": "Rėzeknė",
+      "name:pl": "Rzeżyca",
+      "name:ru": "Резекне",
+      "name:uk": "Rezekne",
+      "old_name:ru": "Режица;Розиттен"
+    }
+  },
+  {
+    "name": "Rho",
+    "country": "Italy",
+    "latitude": 45.52849790040924,
+    "longitude": 9.0398251,
+    "other_names": {
+      "name": "Rho"
+    }
+  },
+  {
+    "name": "Rhodes",
+    "country": "Greece",
+    "latitude": 36.437987399781775,
+    "longitude": 28.2233083,
+    "other_names": {
+      "name": "Ρόδος",
+      "name:cs": "Rhodos",
+      "name:de": "Rhodos",
+      "name:el": "Ρόδος",
+      "name:en": "Rhodes",
+      "name:es": "Rodas",
+      "name:fi": "Rodos",
+      "name:fr": "Rhodes",
+      "name:hu": "Rodosz",
+      "name:it": "Rodi",
+      "name:ko": "로도스",
+      "name:mk": "Родос",
+      "name:nl": "Rhodos",
+      "name:pl": "Rodos",
+      "name:ro": "Rodos",
+      "name:ru": "Родос",
+      "name:sk": "Rodos",
+      "name:sr": "Родос",
+      "name:sv": "Rhodos",
+      "name:tr": "Rodos",
+      "int_name": "Rodos",
+      "old_name": "Rodi",
+      "name:sr-Latn": "Rodos"
+    }
+  },
+  {
+    "name": "Ribeira Brava",
+    "country": "Cape Verde",
+    "latitude": 16.615682100093924,
+    "longitude": -24.298230999999998,
+    "other_names": {
+      "name": "Ribeira Brava"
+    }
+  },
+  {
+    "name": "Ribeira Grande",
+    "country": "Portugal",
+    "latitude": 37.8216490366557,
+    "longitude": -25.517912515066147,
+    "other_names": {
+      "name": "Ribeira Grande"
+    }
+  },
+  {
+    "name": "Ribeira Grande",
+    "country": "Portugal",
+    "latitude": 37.82252269995718,
+    "longitude": -25.5194914,
+    "other_names": {
+      "name": "Ribeira Grande"
+    }
+  },
+  {
+    "name": "Ribeirão das Neves",
+    "country": "Brazil",
+    "latitude": -19.767289800406967,
+    "longitude": -44.08754359999999,
+    "other_names": {
+      "name": "Ribeirão das Neves"
+    }
+  },
+  {
+    "name": "Ribeirão Pires",
+    "country": "Brazil",
+    "latitude": -23.712938799966707,
+    "longitude": -46.4150871,
+    "other_names": {
+      "name": "Ribeirão Pires"
+    }
+  },
+  {
+    "name": "Ribeirão Preto",
+    "country": "Brazil",
+    "latitude": -21.178333000288486,
+    "longitude": -47.806667100000006,
+    "other_names": {
+      "name": "Ribeirão Preto",
+      "int_name": "Ribeirao Preto"
+    }
+  },
+  {
+    "name": "Riberalta",
+    "country": "Bolivia",
+    "latitude": -11.011044795979203,
+    "longitude": -66.05060245069839,
+    "other_names": {
+      "name": "Riberalta"
+    }
+  },
+  {
+    "name": "Riberalta",
+    "country": "Bolivia",
+    "latitude": -10.997338000011137,
+    "longitude": -66.0751504,
+    "other_names": {
+      "name": "Riberalta",
+      "name:en": "Riberalta",
+      "name:ru": "Риберальта",
+      "old_name:1880": "Barranca Colorada",
+      "old_name:1884": "La Cruz",
+      "old_name:1885": "Ribera Alta",
+      "old_name:1894": "Villa Riberalta"
+    }
+  },
+  {
+    "name": "Richards Bay",
+    "country": "South Africa",
+    "latitude": -28.770785699357464,
+    "longitude": 32.0577775,
+    "other_names": {
+      "name": "Richards Bay",
+      "name:af": "Richardsbaai",
+      "name:ru": "Ричардс-Бей"
+    }
+  },
+  {
+    "name": "Richards Bay",
+    "country": "South Africa And Lesotho",
+    "latitude": -28.770785699357464,
+    "longitude": 32.0577775,
+    "other_names": {
+      "name": "Richards Bay",
+      "name:af": "Richardsbaai",
+      "name:ru": "Ричардс-Бей"
+    }
+  },
+  {
+    "name": "Richardson",
+    "country": "United States Of America",
+    "latitude": 32.94817889958789,
+    "longitude": -96.7297206,
+    "other_names": {
+      "name": "Richardson"
+    }
+  },
+  {
+    "name": "Richland",
+    "country": "United States Of America",
+    "latitude": 46.280429800296844,
+    "longitude": -119.2752055,
+    "other_names": {
+      "name": "Richland"
+    }
+  },
+  {
+    "name": "Richmond",
+    "country": "Canada",
+    "latitude": 49.163167999651996,
+    "longitude": -123.137414,
+    "other_names": {
+      "name": "Richmond"
+    }
+  },
+  {
+    "name": "Richmond",
+    "country": "United States Of America",
+    "latitude": 37.93575759997296,
+    "longitude": -122.34774799999997,
+    "other_names": {
+      "name": "Richmond",
+      "name:zh": "列治文/里士满/里奇蒙",
+      "name:zh-Hans": "列治文/里士满",
+      "name:zh-Hant": "列治文/里奇蒙"
+    }
+  },
+  {
+    "name": "Richmond",
+    "country": "United States Of America",
+    "latitude": 37.74785719994685,
+    "longitude": -84.2946539,
+    "other_names": {
+      "name": "Richmond"
+    }
+  }
+]

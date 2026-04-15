@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Karaman",
+    "country": "Turkey",
+    "latitude": 37.179244699871,
+    "longitude": 33.2224781,
+    "other_names": {
+      "name": "Karaman",
+      "name:ar": "كارامان",
+      "name:el": "Καραμάν",
+      "name:hu": "Karaman",
+      "name:ru": "Караман",
+      "old_name": "Laranda;Larende;Larawanda",
+      "old_name:el": "Λαρέντε"
+    }
+  },
+  {
+    "name": "Karamay",
+    "country": "China",
+    "latitude": 45.600376100399906,
+    "longitude": 84.86613959999998,
+    "other_names": {
+      "name": "克拉玛依区",
+      "name:ar": "منطقة قاراماي",
+      "name:de": "Karamay",
+      "name:en": "Karamay",
+      "name:et": "Karamay",
+      "name:hi": "करामयी",
+      "name:ja": "カラマイ市",
+      "name:lt": "Karamajus",
+      "name:ru": "Карамай",
+      "name:ug": "قاراماي",
+      "name:uk": "Карамай",
+      "name:vi": "Karamay",
+      "name:zh": "克拉玛依区",
+      "alt_name:vi": "Khắc Lạp Mã Y",
+      "name:zh-Hant": "克拉瑪依區",
+      "name:zh_pinyin": "Karamay Qu"
+    }
+  },
+  {
+    "name": "Karamay",
+    "country": "China",
+    "latitude": 45.577799300402866,
+    "longitude": 84.88672519999999,
+    "other_names": {
+      "name": "克拉玛依市",
+      "name:ar": "قاراماي",
+      "name:de": "Karamay",
+      "name:en": "Karamay",
+      "name:es": "Karamay",
+      "name:et": "Karamay",
+      "name:fr": "Karamay",
+      "name:ru": "Карамай",
+      "name:ug": "قاراماي",
+      "name:zh": "克拉玛依市",
+      "alt_name": "克拉玛依;K'o-la-ma-i Shih;Kalama Shi;Kelamayi Shi;Karamay Shi",
+      "name:zh-Hant": "克拉瑪依市"
+    }
+  },
+  {
+    "name": "Karatsu",
+    "country": "Japan",
+    "latitude": 33.450340499589544,
+    "longitude": 129.9679345,
+    "other_names": {
+      "name": "唐津市",
+      "name:ar": "كاراتسو، ساغا",
+      "name:de": "Karatsu",
+      "name:en": "Karatsu",
+      "name:es": "Karatsu",
+      "name:et": "Karatsu",
+      "name:fr": "Karatsu",
+      "name:hu": "Karacu",
+      "name:ja": "唐津市",
+      "name:ko": "가라쓰시",
+      "name:pl": "Karatsu",
+      "name:ru": "Карацу",
+      "name:uk": "Карацу",
+      "name:zh": "唐津市",
+      "int_name": "Karatsu",
+      "name:ja_kana": "からつし",
+      "name:zh-Hans": "唐津市",
+      "name:zh-Hant": "唐津市"
+    }
+  },
+  {
+    "name": "Karawang",
+    "country": "Indonesia",
+    "latitude": -6.304201199690068,
+    "longitude": 107.30789699999998,
+    "other_names": {
+      "name": "Karawang",
+      "name:zh": "加拉璜"
+    }
+  },
+  {
+    "name": "Karbala",
+    "country": "Iraq",
+    "latitude": 32.615642299591684,
+    "longitude": 44.034819399999996,
+    "other_names": {
+      "name": "كربلاء",
+      "name:ar": "كربلاء",
+      "name:az": "Kərbəla",
+      "name:cs": "Karbalá",
+      "name:de": "Karbala",
+      "name:en": "Karbala",
+      "name:et": "Karbalā’",
+      "name:fa": "کربلا",
+      "name:fi": "Karbala",
+      "name:fr": "Karbala",
+      "name:hi": "करबला",
+      "name:hy": "Քերբելա",
+      "name:ja": "カルバラー",
+      "name:ka": "ქარბალა",
+      "name:ko": "카르발라",
+      "name:ku": "Kerbela",
+      "name:pt": "Carbala",
+      "name:ru": "Кербела",
+      "name:ur": "کربلا",
+      "name:zh": "卡爾巴拉",
+      "name:azb": "کربلا",
+      "name:ckb": "کەربەلا",
+      "name:pnb": "کربلا"
+    }
+  },
+  {
+    "name": "Karditsa",
+    "country": "Greece",
+    "latitude": 39.36396890017839,
+    "longitude": 21.9213213,
+    "other_names": {
+      "name": "Καρδίτσα",
+      "name:de": "Karditsa",
+      "name:el": "Καρδίτσα",
+      "name:en": "Karditsa",
+      "name:et": "Kardítsa",
+      "name:fr": "Karditsa",
+      "name:hu": "Kardíca",
+      "name:mk": "Кардица",
+      "name:ro": "Kardița",
+      "name:ru": "Кардица",
+      "name:sq": "Kardicë"
+    }
+  },
+  {
+    "name": "Kardzhali",
+    "country": "Bulgaria",
+    "latitude": 41.64374600045711,
+    "longitude": 25.3722156,
+    "other_names": {
+      "name": "Кърджали",
+      "name:bg": "Кърджали",
+      "name:de": "Kardschali",
+      "name:el": "Κάρτζαλι",
+      "name:en": "Kardzhali",
+      "name:et": "Kǎrdžali",
+      "name:fr": "Kardjali",
+      "name:hr": "Kardžali",
+      "name:mk": "Крџали",
+      "name:nl": "Kardzjali",
+      "name:pl": "Kyrdżali",
+      "name:pt": "Kurdzhali",
+      "name:ro": "Kârgeali",
+      "name:ru": "Кырджали",
+      "name:sr": "Крџали",
+      "name:sv": "Kardzjali",
+      "name:tr": "Kırcaali",
+      "int_name": "Kardzhali",
+      "old_name": "Kırcaali",
+      "name:sr-Latn": "Krdžali"
+    }
+  },
+  {
+    "name": "Kargilik",
+    "country": "China",
+    "latitude": 37.88486979996584,
+    "longitude": 77.41602949999998,
+    "other_names": {
+      "name": "叶城县",
+      "name:de": "Kargilik",
+      "name:en": "Kargilik",
+      "name:es": "Kargilik",
+      "name:fr": "Kargilik",
+      "name:hu": "Kargilik",
+      "name:ja": "カルギリク県",
+      "name:ru": "Каргалык",
+      "name:ug": "قاغىلىق",
+      "name:uk": "Каргалик",
+      "name:vi": "Kargilik",
+      "name:zh": "叶城县",
+      "alt_name": "叶城县;喀格勒克;Karghalik;Qaghiliq;Kageleke;Yecheng",
+      "int_name": "Kargalik",
+      "alt_name:ru": "Ечэн",
+      "alt_name:vi": "Diệp Thành",
+      "name:zh-Hant": "葉城縣"
+    }
+  },
+  {
+    "name": "Karimnagar",
+    "country": "India",
+    "latitude": 18.434643800271413,
+    "longitude": 79.1322648,
+    "other_names": {
+      "name": "Karimnagar",
+      "name:en": "Karimnagar",
+      "name:hi": "करीमनगर",
+      "name:ja": "カリームナガル",
+      "name:kn": "ಕರೀಂನಗರ್",
+      "name:pa": "ਕਰੀਮਨਗਰ",
+      "name:ru": "Каримнагар",
+      "name:sr": "Каримнагар",
+      "name:te": "కరీంనగర్",
+      "name:ur": "کریم نگر"
+    }
+  },
+  {
+    "name": "Kariya",
+    "country": "Japan",
+    "latitude": 34.97467799964997,
+    "longitude": 137.002791,
+    "other_names": {
+      "name": "刈谷市",
+      "name:ar": "كارييا، آيتشي",
+      "name:de": "Kariya",
+      "name:en": "Kariya",
+      "name:es": "Kariya",
+      "name:fr": "Kariya",
+      "name:ja": "刈谷市",
+      "name:ko": "가리야시",
+      "name:lt": "Karija",
+      "name:pl": "Kariya",
+      "name:ru": "Кария",
+      "name:uk": "Карія",
+      "name:ja_rm": "Kariya-shi"
+    }
+  },
+  {
+    "name": "Karlovac",
+    "country": "Croatia",
+    "latitude": 45.489252200414185,
+    "longitude": 15.5486303,
+    "other_names": {
+      "name": "Karlovac",
+      "name:de": "Karlovac",
+      "name:hu": "Károlyváros",
+      "name:it": "Carlovizza",
+      "name:lt": "Karlovacas",
+      "name:ru": "Карловац",
+      "name:sr": "Карловац",
+      "old_name:de": "Karlstadt"
+    }
+  },
+  {
+    "name": "Karlskrona",
+    "country": "Sweden",
+    "latitude": 56.162107299858405,
+    "longitude": 15.5866422,
+    "other_names": {
+      "name": "Karlskrona",
+      "name:he": "קרלסקרונה",
+      "name:is": "Karlskróna",
+      "name:lt": "Karlskruna",
+      "name:ru": "Карлскруна",
+      "name:sv": "Karlskrona"
+    }
+  },
+  {
+    "name": "Karlsruhe",
+    "country": "Germany",
+    "latitude": 49.00687049969062,
+    "longitude": 8.4034195,
+    "other_names": {
+      "name": "Karlsruhe",
+      "name:ar": "كارلسروه",
+      "name:az": "Karlsruye",
+      "name:bg": "Карлсруе",
+      "name:cv": "Карлсруэ",
+      "name:el": "Καρλσρούη",
+      "name:fa": "کارلسروهه",
+      "name:he": "קארלסרוהה",
+      "name:ja": "カールスルーエ",
+      "name:ka": "კარლსრუე",
+      "name:ko": "카를스루에",
+      "name:la": "Carolsruha",
+      "name:lv": "Karlsrūe",
+      "name:mk": "Карлсруе",
+      "name:ru": "Карлсруэ",
+      "name:sr": "Карлсруе",
+      "name:uk": "Карлсруе",
+      "name:zh": "卡尔斯鲁厄",
+      "name:als": "Karlsrueh",
+      "name:pfl": "Kallsruh",
+      "name:zh-Hant": "卡爾斯魯厄"
+    }
+  },
+  {
+    "name": "Karlstad",
+    "country": "Sweden",
+    "latitude": 59.380914601420685,
+    "longitude": 13.502763099999997,
+    "other_names": {
+      "name": "Karlstad",
+      "name:he": "קרלסטד",
+      "name:hu": "Karlstad",
+      "name:la": "Carolostadium Suevicum",
+      "name:lt": "Karlstadas",
+      "name:lv": "Kārlstāde",
+      "name:ru": "Карлстад",
+      "name:sv": "Karlstad",
+      "name:uk": "Карлстад"
+    }
+  },
+  {
+    "name": "Karmiel",
+    "country": "Israel And Palestine",
+    "latitude": 32.910805779942066,
+    "longitude": 35.29017443774313,
+    "other_names": {
+      "name": "כרמיאל",
+      "name:ar": "كرميئيل",
+      "name:cs": "Karmiel",
+      "name:en": "Karmiel",
+      "name:fi": "Karmiel",
+      "name:fr": "Karmiel",
+      "name:he": "כרמיאל",
+      "name:ru": "Кармиэль",
+      "alt_name:en": "Karmiel"
+    }
+  },
+  {
+    "name": "Karnal",
+    "country": "India",
+    "latitude": 29.680326599769266,
+    "longitude": 76.9896254,
+    "other_names": {
+      "name": "Karnal",
+      "name:ar": "كرنال",
+      "name:bn": "কার্নাল",
+      "name:de": "Karnal",
+      "name:en": "Karnal",
+      "name:es": "Karnal",
+      "name:fr": "Karnal",
+      "name:he": "קרנל",
+      "name:hi": "करनाल",
+      "name:ja": "カルナール",
+      "name:kn": "ಕರ್ನಾಲ್",
+      "name:ml": "കർനാൽ",
+      "name:pa": "ਕਰਨਾਲ",
+      "name:ta": "கர்னால்",
+      "name:ur": "کرنال"
+    }
+  },
+  {
+    "name": "Karratha",
+    "country": "Australia",
+    "latitude": -20.737006700331303,
+    "longitude": 116.84785920000002,
+    "other_names": {
+      "name": "Karratha",
+      "name:ja": "カラサ"
+    }
+  },
+  {
+    "name": "Kars",
+    "country": "Turkey",
+    "latitude": 40.60767490034606,
+    "longitude": 43.09484969999999,
+    "other_names": {
+      "name": "Kars",
+      "name:ar": "قارص",
+      "name:el": "Καρς",
+      "name:hy": "Կարս",
+      "name:ku": "Qers",
+      "name:ru": "Карс",
+      "name:zza": "Qers"
+    }
+  },
+  {
+    "name": "Karub",
+    "country": "China",
+    "latitude": 31.140851399652004,
+    "longitude": 97.17895009999998,
+    "other_names": {
+      "name": "卡若区",
+      "name:bo": "མཁར་རོ་ཆུས",
+      "name:en": "Karub",
+      "name:vi": "Qamdo",
+      "name:zh": "卡若区",
+      "alt_name": "卡若;Karub;Kharro;Karuo District,Karuo;Chamdo;Qamdo",
+      "old_name": "昌都县;Qamdo County;Changdu County",
+      "alt_name:vi": "Xương Đô",
+      "name:zh-Hant": "卡若區",
+      "name:zh_pinyin": "Kǎruò Qū"
+    }
+  }
+]

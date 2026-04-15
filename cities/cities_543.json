@@ -1,0 +1,357 @@
+[
+  {
+    "name": "YOROKOGUEYA",
+    "country": "Guinea",
+    "latitude": 9.861304799431442,
+    "longitude": -13.4508707,
+    "other_names": {
+      "name": "YOROKOGUEYA"
+    }
+  },
+  {
+    "name": "Yoshikawa",
+    "country": "Japan",
+    "latitude": 35.89628309972539,
+    "longitude": 139.854504,
+    "other_names": {
+      "name": "吉川市",
+      "name:ar": "يوشيكاوا، سايتاما",
+      "name:de": "Yoshikawa",
+      "name:en": "Yoshikawa",
+      "name:es": "Yoshikawa",
+      "name:fr": "Yoshikawa",
+      "name:ja": "吉川市",
+      "name:ko": "요시카와시",
+      "name:pl": "Yoshikawa",
+      "name:ru": "Йосикава",
+      "name:uk": "Йосікава",
+      "int_name": "Yoshikawa"
+    }
+  },
+  {
+    "name": "Yoshinogawa",
+    "country": "Japan",
+    "latitude": 34.06631579960391,
+    "longitude": 134.3585119,
+    "other_names": {
+      "name": "吉野川市",
+      "name:ar": "يوشينوغاوا، توكوشيما",
+      "name:de": "Yoshinogawa",
+      "name:en": "Yoshinogawa",
+      "name:es": "Yoshinogawa",
+      "name:fr": "Yoshinogawa",
+      "name:ja": "吉野川市",
+      "name:ko": "요시노가와시",
+      "name:ru": "Йосиногава",
+      "name:uk": "Йошіноґава",
+      "name:zh": "吉野川市",
+      "int_name": "Yoshinogawa",
+      "name:zh-Hans": "吉野川市",
+      "name:zh-Hant": "吉野川市"
+    }
+  },
+  {
+    "name": "Yoshkar-Ola",
+    "country": "Russia",
+    "latitude": 56.63282480007647,
+    "longitude": 47.8972462,
+    "other_names": {
+      "name": "Йошкар-Ола",
+      "name:ar": "يوشكار-أولا",
+      "name:be": "Іашкар-Ала",
+      "name:cv": "Йошкар-Ола",
+      "name:de": "Joschkar-Ola",
+      "name:en": "Yoshkar-Ola",
+      "name:es": "Yoshkar-Olá",
+      "name:et": "Joškar-Ola",
+      "name:fr": "Iochkar-Ola",
+      "name:ja": "ヨシュカル=オラ",
+      "name:ko": "요시카르올라",
+      "name:lt": "Joškar Ola",
+      "name:pl": "Joszkar-Oła",
+      "name:ru": "Йошкар-Ола",
+      "name:sk": "Joškar-Ola",
+      "name:uk": "Йошкар-Ола",
+      "int_name": "Yoshkar-Ola",
+      "name:mhr": "Йошкар-Ола",
+      "name:mrj": "Якшар-Хала",
+      "old_name": "Царевококшайск"
+    }
+  },
+  {
+    "name": "Yoshkar-Ola",
+    "country": "Russia",
+    "latitude": 56.64048072141455,
+    "longitude": 47.92724845696442,
+    "other_names": {
+      "name": "Йошкар-Ола",
+      "name:be": "Іашкар-Ала",
+      "name:cv": "Йошкар-Ола",
+      "name:de": "Joschkar-Ola",
+      "name:en": "Yoshkar-Ola",
+      "name:ja": "ヨシュカル=オラ",
+      "name:lt": "Joškar Ola",
+      "name:pl": "Joszkar-Oła",
+      "name:ru": "Йошкар-Ола",
+      "name:uk": "Йошкар-Ола",
+      "int_name": "Yoshkar-Ola",
+      "name:mhr": "Йошкар-Ола",
+      "name:mrj": "Якшар-Хала",
+      "old_name": "Царевококшайск"
+    }
+  },
+  {
+    "name": "Yotsukaido",
+    "country": "Japan",
+    "latitude": 35.66965509970433,
+    "longitude": 140.16794449999998,
+    "other_names": {
+      "name": "四街道市",
+      "name:ar": "يوتسوكيدو، تشيبا",
+      "name:de": "Yotsukaidō",
+      "name:en": "Yotsukaido",
+      "name:es": "Yotsukaidō",
+      "name:fr": "Yotsukaidō",
+      "name:ja": "四街道市",
+      "name:ko": "요쓰카이도시",
+      "name:pl": "Yotsukaidō",
+      "name:ru": "Йоцукайдо",
+      "name:uk": "Йоцукайдо",
+      "int_name": "Yotsukaidō",
+      "name:ja_rm": "Yotsukaido-shi",
+      "name:ja_kana": "よつかいどうし"
+    }
+  },
+  {
+    "name": "You",
+    "country": "China",
+    "latitude": 27.01654320005604,
+    "longitude": 113.3917808,
+    "other_names": {
+      "name": "攸县",
+      "name:de": "You",
+      "name:en": "You",
+      "name:es": "Condado de You",
+      "name:fa": "شهرستان یوو",
+      "name:fr": "Xian de You",
+      "name:it": "Contea di You",
+      "name:ja": "攸県",
+      "name:ko": "유현",
+      "name:no": "You",
+      "name:ru": "Юсянь",
+      "name:sv": "You",
+      "name:ur": "یو کاؤنٹی",
+      "name:vi": "Du",
+      "name:zh": "攸县",
+      "alt_name": "攸;You County",
+      "name:gan": "攸縣",
+      "name:hak": "Yû-yen",
+      "name:nan": "Iu-koān",
+      "name:yue": "攸縣",
+      "name:zh-Hant": "攸縣",
+      "name:zh_pinyin": "Yōu Xiàn"
+    }
+  },
+  {
+    "name": "Youhao",
+    "country": "China",
+    "latitude": 47.855886099971826,
+    "longitude": 128.83966429999998,
+    "other_names": {
+      "name": "友好区",
+      "name:en": "Youhao",
+      "name:ja": "友好区",
+      "name:ko": "유하오구",
+      "name:ru": "Юхао",
+      "name:vi": "Hữu Hảo",
+      "name:zh": "友好区",
+      "alt_name": "友好;Youhao District",
+      "name:zh-Hant": "友好區",
+      "name:zh_pinyin": "Yǒuhǎo Qū"
+    }
+  },
+  {
+    "name": "Youjiang",
+    "country": "China",
+    "latitude": 23.903940500338855,
+    "longitude": 106.6152626,
+    "other_names": {
+      "name": "右江区",
+      "name:en": "Youjiang",
+      "name:zh": "右江区",
+      "alt_name": "右江;Youjiang District",
+      "name:zh-Hant": "右江區"
+    }
+  },
+  {
+    "name": "Young",
+    "country": "Uruguay",
+    "latitude": -32.69953179948771,
+    "longitude": -57.6341992,
+    "other_names": {
+      "name": "Young"
+    }
+  },
+  {
+    "name": "Youngstown",
+    "country": "United States Of America",
+    "latitude": 41.103578600403566,
+    "longitude": -80.6520161,
+    "other_names": {
+      "name": "Youngstown"
+    }
+  },
+  {
+    "name": "Youxi",
+    "country": "China",
+    "latitude": 26.1725168001466,
+    "longitude": 118.1854509,
+    "other_names": {
+      "name": "尤溪县",
+      "name:de": "Youxi",
+      "name:en": "Youxi",
+      "name:eo": "Juksi",
+      "name:es": "Yóuxī",
+      "name:fa": "یواشی",
+      "name:fr": "Youxi",
+      "name:it": "Youxi",
+      "name:ja": "尤渓県",
+      "name:ko": "유시현",
+      "name:no": "Youxi",
+      "name:sv": "Youxi",
+      "name:uk": "Юсі повіт",
+      "name:ur": "یوگزی کاؤنٹی",
+      "name:vi": "Vưu Khê",
+      "name:zh": "尤溪县",
+      "alt_name": "尤溪城关镇;城关镇;Youxi;Yukihsien;Yuki;Yu-hsi;Yu-ch'i;Yu-ch'i-hsien-ch'eng;Yu-ch'i-hsien",
+      "name:cdo": "Iù-kă",
+      "name:ceb": "Youxi",
+      "name:hak": "Yù-hâi-yen",
+      "name:nan": "Iû-khe-koān",
+      "name:yue": "尤溪",
+      "name:zh-Hant": "尤溪縣",
+      "name:zh_pinyin": "Yóuxī Xiàn"
+    }
+  },
+  {
+    "name": "Youxian",
+    "country": "China",
+    "latitude": 31.473429999632636,
+    "longitude": 104.7643597,
+    "other_names": {
+      "name": "游仙区",
+      "name:en": "Youxian",
+      "name:ja": "遊仙区",
+      "name:uk": "Юсянь",
+      "name:vi": "Du Tiên",
+      "name:zh": "游仙区",
+      "alt_name": "游仙",
+      "name:zh-Hant": "遊仙區",
+      "name:zh_pinyin": "Youxian Qu"
+    }
+  },
+  {
+    "name": "Youyang",
+    "country": "China",
+    "latitude": 28.844413999853845,
+    "longitude": 108.76342589999999,
+    "other_names": {
+      "name": "酉阳县",
+      "name:bo": "táohuāyuán zhèn",
+      "name:en": "Youyang",
+      "name:vi": "Dậu Dương",
+      "name:zh": "酉阳县",
+      "alt_name": "酉阳土家族苗族自治县;Taohuayuan",
+      "short_name": "酉阳县",
+      "name:zh-Hant": "酉陽縣",
+      "official_name": "酉阳土家族苗族自治县",
+      "name:zh_pinyin": "Youyang Tujiazu Miaozu Zizhixian"
+    }
+  },
+  {
+    "name": "Youyi",
+    "country": "China",
+    "latitude": 46.77443490020642,
+    "longitude": 131.80624109999997,
+    "other_names": {
+      "name": "友谊县",
+      "name:en": "Youyi",
+      "name:vi": "Hữu Nghị",
+      "name:zh": "友谊县",
+      "alt_name": "友谊",
+      "name:zh-Hant": "友誼縣",
+      "official_name": "友谊镇",
+      "name:zh_pinyin": "Yǒuyì Xiàn"
+    }
+  },
+  {
+    "name": "Youyu",
+    "country": "China",
+    "latitude": 39.988394900265725,
+    "longitude": 112.46088899999998,
+    "other_names": {
+      "name": "右玉县",
+      "name:en": "Youyu",
+      "name:ja": "右玉県",
+      "name:uk": "Ююй",
+      "name:zh": "右玉县",
+      "alt_name": "右玉;Youyu County",
+      "name:zh-Hant": "右玉縣"
+    }
+  },
+  {
+    "name": "Yozgat",
+    "country": "Turkey",
+    "latitude": 39.820557100242745,
+    "longitude": 34.8094917,
+    "other_names": {
+      "name": "Yozgat",
+      "name:ar": "يوزغات",
+      "name:el": "Γιοζγκάτ",
+      "name:en": "Yozgat",
+      "name:hi": "योजगत",
+      "name:hu": "Yozgat",
+      "name:hy": "Յոզգաթի մարզ",
+      "name:ka": "იოზგათი",
+      "name:ru": "Йозгат"
+    }
+  },
+  {
+    "name": "Ypané",
+    "country": "Paraguay",
+    "latitude": -25.45699089971367,
+    "longitude": -57.507594199999986,
+    "other_names": {
+      "name": "Ypané",
+      "alt_name:gn": "Pitum"
+    }
+  },
+  {
+    "name": "Yu",
+    "country": "China",
+    "latitude": 38.08488899999398,
+    "longitude": 113.40729869999998,
+    "other_names": {
+      "name": "盂县",
+      "name:en": "Yu",
+      "name:ja": "盂県",
+      "name:zh": "盂县",
+      "alt_name": "盂;Yuxian;Yuysyan';Yu-hsien;Yuhsie;Yu Xian;Yu County",
+      "name:zh-Hant": "盂縣"
+    }
+  },
+  {
+    "name": "Yu‘an",
+    "country": "China",
+    "latitude": 31.7401712996194,
+    "longitude": 116.47452860000001,
+    "other_names": {
+      "name": "裕安区",
+      "name:en": "Yu‘an",
+      "name:ja": "裕安区",
+      "name:zh": "裕安区",
+      "alt_name": "裕安;Yu'an District",
+      "name:zh-Hant": "裕安區"
+    }
+  }
+]

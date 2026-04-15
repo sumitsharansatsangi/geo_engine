@@ -1,0 +1,349 @@
+[
+  {
+    "name": "Tongnan",
+    "country": "China",
+    "latitude": 30.193004999722856,
+    "longitude": 105.8368833,
+    "other_names": {
+      "name": "潼南区",
+      "name:en": "Tongnan",
+      "name:zh": "潼南区",
+      "alt_name": "潼南;Tongnan District",
+      "name:zh-Hant": "潼南區"
+    }
+  },
+  {
+    "name": "Tongren",
+    "country": "China",
+    "latitude": 27.73473119997591,
+    "longitude": 109.18520809999998,
+    "other_names": {
+      "name": "铜仁市",
+      "name:de": "Tongren",
+      "name:en": "Tongren",
+      "name:et": "Tongren",
+      "name:fr": "Tongren",
+      "name:ja": "銅仁市",
+      "name:ru": "Тунжэнь",
+      "name:vi": "Đồng Nhân",
+      "name:zh": "铜仁市",
+      "alt_name": "铜仁",
+      "name:zh-Hant": "銅仁市",
+      "name:zh_pinyin": "Tóngrén Shì"
+    }
+  },
+  {
+    "name": "Tongren",
+    "country": "China",
+    "latitude": 35.51647099969099,
+    "longitude": 102.0164342,
+    "other_names": {
+      "name": "同仁市",
+      "name:bo": "ཐུང་རེན་",
+      "name:de": "Tongren",
+      "name:en": "Tongren",
+      "name:es": "Tongren",
+      "name:fr": "Tongren",
+      "name:ko": "퉁런시",
+      "name:vi": "Đồng Nhân",
+      "name:zh": "同仁市",
+      "alt_name": "同仁",
+      "old_name": "同仁县",
+      "name:zh-Hant": "同仁市",
+      "name:zh_pinyin": "Tóngrén Shi"
+    }
+  },
+  {
+    "name": "Tongshan",
+    "country": "China",
+    "latitude": 34.17943009960805,
+    "longitude": 117.1602624,
+    "other_names": {
+      "name": "铜山区",
+      "name:en": "Tongshan",
+      "name:zh": "铜山区",
+      "name:zh-Hant": "銅山區"
+    }
+  },
+  {
+    "name": "Tongshan County",
+    "country": "China",
+    "latitude": 29.608198599776173,
+    "longitude": 114.47750619999998,
+    "other_names": {
+      "name": "通山县",
+      "name:de": "Tongshan",
+      "name:en": "Tongshan County",
+      "name:fa": "شهرستان تونگشان",
+      "name:fr": "Xian de Tongshan",
+      "name:it": "Contea di Tongshan",
+      "name:ja": "通山県",
+      "name:ko": "퉁산현",
+      "name:no": "Tongshan",
+      "name:sv": "Tongshan",
+      "name:vi": "Thông Sơn",
+      "name:zh": "通山县",
+      "name:ceb": "Tongshan Xian",
+      "name:gan": "通山",
+      "name:nan": "Thong-san-koān",
+      "name:yue": "通山",
+      "name:zh-Hant": "通山縣",
+      "name:zh_pinyin": "Tongshan Xian"
+    }
+  },
+  {
+    "name": "Tongwei",
+    "country": "China",
+    "latitude": 35.20667289966633,
+    "longitude": 105.24395619999999,
+    "other_names": {
+      "name": "通渭县",
+      "name:en": "Tongwei",
+      "name:ja": "通渭県",
+      "name:ko": "퉁웨이 현",
+      "name:zh": "通渭县",
+      "alt_name": "通渭;Tongwei County;平襄镇;Pingxiang",
+      "name:zh-Hant": "通渭縣"
+    }
+  },
+  {
+    "name": "Tongxiang",
+    "country": "China",
+    "latitude": 30.63169709968739,
+    "longitude": 120.5610365,
+    "other_names": {
+      "name": "桐乡市",
+      "name:de": "Tongxiang",
+      "name:en": "Tongxiang",
+      "name:es": "Tongxiang",
+      "name:fr": "Tongxiang",
+      "name:it": "Tongxiang",
+      "name:ja": "桐郷市",
+      "name:ki": "Tongxiang",
+      "name:ko": "퉁샹시",
+      "name:nl": "Tongxiang",
+      "name:no": "Tongxiang",
+      "name:ru": "Тунсян",
+      "name:sv": "Tongxiang",
+      "name:tl": "Tongxiang",
+      "name:uk": "Тунсян",
+      "name:vi": "Đồng Hương",
+      "name:zh": "桐乡市",
+      "name:nan": "Tông-hiong-chhī",
+      "name:war": "Tongxiang",
+      "name:wuu": "桐乡市",
+      "name:yue": "桐鄉",
+      "name:zh-Hant": "桐鄉市",
+      "name:zh_pinyin": "Tóngxiāng Shì"
+    }
+  },
+  {
+    "name": "Tongxin",
+    "country": "China",
+    "latitude": 36.97794789984555,
+    "longitude": 105.90277679999998,
+    "other_names": {
+      "name": "同心县",
+      "name:en": "Tongxin",
+      "name:ja": "同心県",
+      "name:ru": "Тунсинь",
+      "name:sd": "ﺗْﻮسٍ ﺷِﯿًﺎ",
+      "name:zh": "同心县",
+      "alt_name": "同心;Tongxin County",
+      "name:zh-Hant": "同心縣",
+      "name:zh_pinyin": "Tóngxīn xiàn"
+    }
+  },
+  {
+    "name": "Tongxu",
+    "country": "China",
+    "latitude": 34.48119779962132,
+    "longitude": 114.47684089999998,
+    "other_names": {
+      "name": "通许县",
+      "name:en": "Tongxu",
+      "name:vi": "Thông Hứa",
+      "name:zh": "通许县",
+      "alt_name:vi": "Thông Hử",
+      "name:zh-Hant": "通許縣",
+      "name:zh_pinyin": "Tongxu Xian"
+    }
+  },
+  {
+    "name": "Tongyeong-si",
+    "country": "South Korea",
+    "latitude": 34.85425399964219,
+    "longitude": 128.43320499999996,
+    "other_names": {
+      "name": "통영시",
+      "name:de": "Tongyeong",
+      "name:en": "Tongyeong-si",
+      "name:es": "Tongyeong",
+      "name:et": "Tongyeong",
+      "name:fr": "Tongyeong",
+      "name:ja": "統営市",
+      "name:ko": "통영시",
+      "name:ru": "Чхунму",
+      "name:zh": "统营市",
+      "int_name": "Tongyeong",
+      "name:ja_kana": "とんよん",
+      "name:ko-Hani": "統營市",
+      "name:ko-Latn": "Tongyeong-si"
+    }
+  },
+  {
+    "name": "Tongyu",
+    "country": "China",
+    "latitude": 44.80724920048551,
+    "longitude": 123.08472630000001,
+    "other_names": {
+      "name": "通榆县",
+      "name:en": "Tongyu",
+      "name:zh": "通榆县",
+      "alt_name": "通榆;Tongyu Count;开通;Kaitong",
+      "name:zh-Hant": "通榆縣",
+      "official_name": "开通镇"
+    }
+  },
+  {
+    "name": "Tongzhou",
+    "country": "China",
+    "latitude": 39.908824600254896,
+    "longitude": 116.65116899999998,
+    "other_names": {
+      "name": "通州区",
+      "name:en": "Tongzhou",
+      "name:vi": "Thông Châu",
+      "name:zh": "通州区",
+      "name:zh-Hant": "通州區",
+      "name:zh_pinyin": "tōngzhōu qū"
+    }
+  },
+  {
+    "name": "Tongzhou",
+    "country": "China",
+    "latitude": 32.06797529960612,
+    "longitude": 121.06907479999998,
+    "other_names": {
+      "name": "通州区",
+      "name:en": "Tongzhou",
+      "name:ru": "Тунчжоу",
+      "name:zh": "通州区",
+      "name:zh-Hant": "通州區"
+    }
+  },
+  {
+    "name": "Tongzi",
+    "country": "China",
+    "latitude": 28.136799999931007,
+    "longitude": 106.822,
+    "other_names": {
+      "name": "桐梓县",
+      "name:en": "Tongzi",
+      "name:zh": "桐梓县",
+      "alt_name": "桐梓;娄山关街道;娄山关;T'ung-tzu-hsien;T'ung-tzu;Tungtze-hsien;Tungtze;Loushanguan;T'ung-tzu-ch'eng;Tongzi Xian;娄山关;Loushanguan Zhen",
+      "old_name": "娄山关镇",
+      "name:zh-Hant": "桐梓縣"
+    }
+  },
+  {
+    "name": "Tonj",
+    "country": "South Sudan",
+    "latitude": 7.273716899398681,
+    "longitude": 28.684429900000005,
+    "other_names": {
+      "name": "Tonj",
+      "name:ar": "تونج",
+      "name:ko": "톤즈"
+    }
+  },
+  {
+    "name": "Tonk",
+    "country": "India",
+    "latitude": 26.161243600147763,
+    "longitude": 75.78581029999998,
+    "other_names": {
+      "name": "Tonk",
+      "name:hi": "टोंक",
+      "name:kn": "ಟೋಂಕ್",
+      "name:ru": "Тонк",
+      "name:ta": "டாங்க்"
+    }
+  },
+  {
+    "name": "Tono",
+    "country": "Japan",
+    "latitude": 39.3306091001736,
+    "longitude": 141.5314591,
+    "other_names": {
+      "name": "遠野市",
+      "name:ar": "تونو، إيواته",
+      "name:de": "Tōno",
+      "name:en": "Tono",
+      "name:es": "Tōno",
+      "name:fr": "Tōno",
+      "name:ja": "遠野市",
+      "name:ko": "도노시",
+      "name:lt": "Tonas",
+      "name:pl": "Tōno",
+      "name:ru": "Тоно",
+      "name:uk": "Тоно",
+      "int_name": "Tōno",
+      "name:ja_rm": "Tōno-shi",
+      "name:ja_kana": "とおのし"
+    }
+  },
+  {
+    "name": "Tønsberg",
+    "country": "Norway",
+    "latitude": 59.26773630137619,
+    "longitude": 10.4080715,
+    "other_names": {
+      "name": "Tønsberg",
+      "name:ru": "Тёнсберг"
+    }
+  },
+  {
+    "name": "Toogane",
+    "country": "Japan",
+    "latitude": 35.56003089969471,
+    "longitude": 140.3662589,
+    "other_names": {
+      "name": "東金市",
+      "name:ar": "توغانه، تشيبا",
+      "name:de": "Togane",
+      "name:en": "Toogane",
+      "name:es": "Togane",
+      "name:fr": "Togane",
+      "name:ja": "東金市",
+      "name:ko": "도가네시",
+      "int_name": "Togane",
+      "name:ja_rm": "Toogane-shi",
+      "name:ja_kana": "とおがねし"
+    }
+  },
+  {
+    "name": "Toon",
+    "country": "Japan",
+    "latitude": 33.79088209959578,
+    "longitude": 132.8718965,
+    "other_names": {
+      "name": "東温市",
+      "name:ar": "تواون، إهيمه",
+      "name:de": "Tōon",
+      "name:en": "Toon",
+      "name:es": "Tōon",
+      "name:fr": "Tōon",
+      "name:ja": "東温市",
+      "name:ko": "도온시",
+      "name:pl": "Tōon",
+      "name:ru": "Тоон",
+      "name:uk": "Тоон",
+      "name:zh": "东温市",
+      "int_name": "Tōon",
+      "name:ja-Hira": "とうおんし",
+      "name:zh-Hans": "东温市",
+      "name:zh-Hant": "東温市"
+    }
+  }
+]

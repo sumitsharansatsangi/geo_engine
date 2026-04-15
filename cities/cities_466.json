@@ -1,0 +1,294 @@
+[
+  {
+    "name": "Tando Jam",
+    "country": "Pakistan",
+    "latitude": 25.426784700219958,
+    "longitude": 68.5341492,
+    "other_names": {
+      "name": "ٹنڈو جام",
+      "name:en": "Tando Jam",
+      "name:ru": "Тандоджам"
+    }
+  },
+  {
+    "name": "TANÈNÈ",
+    "country": "Guinea",
+    "latitude": 9.806714999428994,
+    "longitude": -13.4924555,
+    "other_names": {
+      "name": "TANÈNÈ"
+    }
+  },
+  {
+    "name": "Tang",
+    "country": "China",
+    "latitude": 38.74474520008888,
+    "longitude": 114.97305059999997,
+    "other_names": {
+      "name": "唐县",
+      "name:en": "Tang",
+      "name:vi": "Đường",
+      "name:zh": "唐县",
+      "alt_name": "唐;Tangxian;Tang County",
+      "name:zh-Hant": "唐縣",
+      "name:zh_pinyin": "Tang Xian"
+    }
+  },
+  {
+    "name": "Tanga",
+    "country": "Tanzania",
+    "latitude": -5.072197599681598,
+    "longitude": 39.0993457,
+    "other_names": {
+      "name": "Tanga",
+      "name:en": "Tanga",
+      "name:ko": "탕가",
+      "name:lt": "Tanga",
+      "name:ru": "Танга",
+      "name:uk": "Танга"
+    }
+  },
+  {
+    "name": "Tangalle",
+    "country": "Sri Lanka",
+    "latitude": 6.021950899443726,
+    "longitude": 80.79599349999998,
+    "other_names": {
+      "name": "තංගල්ල",
+      "name:en": "Tangalle",
+      "name:ja": "タンガラ",
+      "name:kn": "ತಂಗಲ್ಲೆ",
+      "name:ru": "Тангалле",
+      "name:si": "තංගල්ල",
+      "name:ta": "தங்காலை"
+    }
+  },
+  {
+    "name": "TANGAN",
+    "country": "Guinea",
+    "latitude": 9.679868399423574,
+    "longitude": -13.540263200000002,
+    "other_names": {
+      "name": "TANGAN"
+    }
+  },
+  {
+    "name": "Tangará da Serra",
+    "country": "Brazil",
+    "latitude": -14.621390300352695,
+    "longitude": -57.490726800000004,
+    "other_names": {
+      "name": "Tangará da Serra"
+    }
+  },
+  {
+    "name": "Tangerang",
+    "country": "Indonesia",
+    "latitude": -6.176031099687446,
+    "longitude": 106.6384468,
+    "other_names": {
+      "name": "Tangerang",
+      "name:ja": "タンゲラン市",
+      "name:zh": "坦格朗市"
+    }
+  },
+  {
+    "name": "Tanghe",
+    "country": "China",
+    "latitude": 32.69237149959047,
+    "longitude": 112.83324989999998,
+    "other_names": {
+      "name": "唐河县",
+      "name:en": "Tanghe",
+      "name:ru": "Танхэ",
+      "name:vi": "Đường Hà",
+      "name:zh": "唐河县",
+      "alt_name": "唐河;Tanghe;T'ang-ho Hsien;Tanghe County",
+      "int_name": "Tanghe",
+      "name:zh-Hant": "唐河縣"
+    }
+  },
+  {
+    "name": "Tangier",
+    "country": "Morocco",
+    "latitude": 35.7771029997141,
+    "longitude": -5.803792,
+    "other_names": {
+      "name": "Tanger ⵟⴰⵏⵊⴰ طنجة",
+      "name:ar": "طنجة",
+      "name:ca": "Tànger",
+      "name:de": "Tanger",
+      "name:en": "Tangier",
+      "name:eo": "Tanĝero",
+      "name:es": "Tánger",
+      "name:et": "Tanger",
+      "name:fa": "طنجه",
+      "name:fr": "Tanger",
+      "name:gl": "Tánxer",
+      "name:he": "טנג'יר",
+      "name:hi": "टंगेर",
+      "name:hr": "Tanger",
+      "name:it": "Tangeri",
+      "name:ja": "タンジェ",
+      "name:ko": "탕헤르",
+      "name:la": "Tingis",
+      "name:lt": "Tanžeras",
+      "name:nl": "Tanger",
+      "name:pl": "Tanger",
+      "name:pt": "Tânger",
+      "name:ru": "Танжер",
+      "name:tr": "Tanca",
+      "name:ur": "طنجہ",
+      "name:zh": "丹吉尔",
+      "name:ber": "ⵟⴰⵏⵊⴰ",
+      "name:kab": "Tin Iggi",
+      "name:zgh": "ⵟⴰⵏⵊⴰ"
+    }
+  },
+  {
+    "name": "Tangier",
+    "country": "Morocco",
+    "latitude": 35.76256144632415,
+    "longitude": -5.836694122109171,
+    "other_names": {
+      "name": "Tanger ⵜⵉⵏ ⵉⴳⴳⵉ طنجة",
+      "name:ar": "طنجة",
+      "name:de": "Tanger",
+      "name:en": "Tangier",
+      "name:es": "Tánger",
+      "name:fr": "Tanger",
+      "name:it": "Tangeri",
+      "name:la": "Tingis",
+      "name:pt": "Tânger",
+      "name:ru": "Танжер",
+      "name:tr": "Tanca",
+      "name:ber": "ⵜⵉⵏ ⵉⴳⴳⵉ"
+    }
+  },
+  {
+    "name": "Tangshan",
+    "country": "China",
+    "latitude": 39.62955910021609,
+    "longitude": 118.17386650000002,
+    "other_names": {
+      "name": "唐山市",
+      "name:de": "Tangshan",
+      "name:en": "Tangshan",
+      "name:eo": "Tangŝano",
+      "name:et": "Tangshan",
+      "name:fr": "Tangshan",
+      "name:ja": "唐山市",
+      "name:lt": "Tangšanas",
+      "name:oc": "Tangshan",
+      "name:ru": "Таншань",
+      "name:vi": "Đường Sơn",
+      "name:zh": "唐山市",
+      "alt_name": "唐山",
+      "short_name": "唐",
+      "name:zh-Hant": "唐山市",
+      "name:zh_pinyin": "Tángshān Shi"
+    }
+  },
+  {
+    "name": "Tangub",
+    "country": "Philippines",
+    "latitude": 8.061362699390349,
+    "longitude": 123.7535344,
+    "other_names": {
+      "name": "Tangub",
+      "old_name": "Regidor"
+    }
+  },
+  {
+    "name": "TangWang County",
+    "country": "China",
+    "latitude": 48.45514179982722,
+    "longitude": 129.56255850000002,
+    "other_names": {
+      "name": "汤旺县",
+      "name:en": "TangWang County",
+      "name:ru": "Танванхэ",
+      "name:zh": "汤旺县",
+      "alt_name": "汤旺河;Tangwanghe District",
+      "name:zh-Hant": "湯旺縣"
+    }
+  },
+  {
+    "name": "Tangyin",
+    "country": "China",
+    "latitude": 35.9162634997273,
+    "longitude": 114.36013399999999,
+    "other_names": {
+      "name": "汤阴县",
+      "name:en": "Tangyin",
+      "name:ru": "Танъинь",
+      "name:vi": "Thang Âm",
+      "name:zh": "汤阴县",
+      "alt_name": "汤阴;T'ang-yin Hsien;Tangyin County",
+      "name:zh-Hant": "湯陰縣",
+      "name:zh_pinyin": "Tangyin Xian"
+    }
+  },
+  {
+    "name": "Tangyuan",
+    "country": "China",
+    "latitude": 46.72738010021556,
+    "longitude": 129.90046400000003,
+    "other_names": {
+      "name": "汤原县",
+      "name:en": "Tangyuan",
+      "name:ru": "Танъюань",
+      "name:zh": "汤原县",
+      "alt_name": "汤原;Tangyuan County",
+      "name:zh-Hant": "湯原縣",
+      "official_name": "汤原镇",
+      "name:zh_pinyin": "Tāngyuán xiàn"
+    }
+  },
+  {
+    "name": "Tanjay",
+    "country": "Philippines",
+    "latitude": 9.516450699417181,
+    "longitude": 123.15663530000002,
+    "other_names": {
+      "name": "Tanjay"
+    }
+  },
+  {
+    "name": "Tanjung Balai",
+    "country": "Indonesia",
+    "latitude": 2.970352099685493,
+    "longitude": 99.8020903,
+    "other_names": {
+      "name": "Tanjung Balai",
+      "name:en": "Tanjung Balai",
+      "name:ja": "タンジュン バライ",
+      "name:lt": "Tandžung Balajus"
+    }
+  },
+  {
+    "name": "Tanjung Pinang",
+    "country": "Indonesia",
+    "latitude": 0.9236914999026778,
+    "longitude": 104.44609399999999,
+    "other_names": {
+      "name": "Tanjung Pinang",
+      "name:en": "Tanjung Pinang",
+      "name:ja": "タンジュンピナン",
+      "name:ru": "Танджунг-Пинанг",
+      "name:uk": "Танджунг-Пінанг",
+      "name:zh": "丹戎槟榔",
+      "alt_name": "Tanjungpinang"
+    }
+  },
+  {
+    "name": "Tanout",
+    "country": "Niger",
+    "latitude": 14.971189999903876,
+    "longitude": 8.878363,
+    "other_names": {
+      "name": "Tanout",
+      "name:ar": "تانوت"
+    }
+  }
+]

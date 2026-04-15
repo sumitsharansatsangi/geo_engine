@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Al-Tal",
+    "country": "Syria",
+    "latitude": 33.60862259959192,
+    "longitude": 36.3119984,
+    "other_names": {
+      "name": "التل",
+      "name:ar": "التل",
+      "name:de": "At-Tall",
+      "name:en": "Al-Tal",
+      "name:es": "Al-Tall",
+      "name:fr": "At-Tall",
+      "name:ru": "Эт-Талль",
+      "alt_name": "التل"
+    }
+  },
+  {
+    "name": "Altamira",
+    "country": "Brazil",
+    "latitude": -3.2040649997394732,
+    "longitude": -52.20996099999999,
+    "other_names": {
+      "name": "Altamira"
+    }
+  },
+  {
+    "name": "Altay",
+    "country": "China",
+    "latitude": 47.82575619997887,
+    "longitude": 88.12917009999998,
+    "other_names": {
+      "name": "阿勒泰市",
+      "name:de": "Altay",
+      "name:en": "Altay",
+      "name:es": "Altay",
+      "name:et": "Altay",
+      "name:fr": "Altay",
+      "name:ja": "アルタイ市",
+      "name:kk": "Алтай",
+      "name:lt": "Altajus",
+      "name:ru": "Алтай",
+      "name:tr": "Altay",
+      "name:ug": "ئالتاي شەھىرى",
+      "name:vi": "Altay",
+      "name:zh": "阿勒泰市",
+      "alt_name:en": "Aletai",
+      "alt_name:vi": "Aletai;A Lạp Thái",
+      "name:kk-Arab": "التاي قالاسى",
+      "name:zh-Hant": "阿勒泰市",
+      "name:zh_pinyin": "Altay Shi"
+    }
+  },
+  {
+    "name": "Altay",
+    "country": "China",
+    "latitude": 47.82028159998016,
+    "longitude": 88.1219769,
+    "other_names": {
+      "name": "阿勒泰地区",
+      "name:en": "Altay",
+      "name:et": "Altay",
+      "name:ru": "Алтайский округ",
+      "name:ug": "ئالتاي ۋىلايىتى",
+      "name:uk": "Алтай",
+      "name:vi": "Altay",
+      "name:zh": "阿勒泰地区",
+      "alt_name": "阿勒泰;A-lo-t'ai Chuan-ch'u;A-le-t'ai Ti-ch'u;Altay Diqu;Aletai Diqu",
+      "alt_name:vi": "A Lặc Thái",
+      "name:kk-Arab": "التاي ايماعى",
+      "name:zh-Hant": "阿勒泰地區"
+    }
+  },
+  {
+    "name": "Altoona",
+    "country": "United States Of America",
+    "latitude": 40.518681000335036,
+    "longitude": -78.394736,
+    "other_names": {
+      "name": "Altoona",
+      "name:en": "Altoona",
+      "name:ru": "Алтуна",
+      "name:uk": "Алтуна"
+    }
+  },
+  {
+    "name": "Al Tor",
+    "country": "Egypt",
+    "latitude": 28.241666999919374,
+    "longitude": 33.62361099999999,
+    "other_names": {
+      "name": "الطور",
+      "name:ar": "الطور",
+      "name:de": "At-Tur",
+      "name:en": "Al Tor",
+      "name:eo": "At-Tur",
+      "name:et": "Aţ-Ţūr",
+      "name:fa": "الطور",
+      "name:fr": "Al Tor",
+      "name:ka": "ელ-ტური",
+      "name:kk": "Эт-Тур",
+      "name:ks": "الطور",
+      "name:pl": "At-Tur",
+      "name:ru": "Эль Тур",
+      "name:uk": "Ет-Тур",
+      "name:ur": "الطور",
+      "name:azb": "الطور",
+      "name:ckb": "تور",
+      "alt_name:ar": "طور سيناء",
+      "alt_name:en": "Et Tor;Al Tor;Al Tur;Thur",
+      "alt_name:pl": "Al Tur;El Tur;Tur Sinai",
+      "name:zh-Hans": "托西奈",
+      "name:zh-Hant": "托西奈"
+    }
+  },
+  {
+    "name": "Altyn Asyr",
+    "country": "Turkmenistan",
+    "latitude": 37.280452999884105,
+    "longitude": 60.7047454,
+    "other_names": {
+      "name": "Altyn Asyr",
+      "old_name:ru": "совхоз Теджен",
+      "old_name:tk": "sowhoz Tejen"
+    }
+  },
+  {
+    "name": "Al-Ubayyid",
+    "country": "Sudan",
+    "latitude": 13.183365999698822,
+    "longitude": 30.222559,
+    "other_names": {
+      "name": "الأبيض",
+      "name:ar": "الأبيض",
+      "name:en": "Al-Ubayyid",
+      "name:et": "Al-Ubayyiḑ",
+      "name:fr": "El Obeid",
+      "name:ko": "엘오베이드",
+      "name:ru": "Эль-Обейд",
+      "alt_name": "الأبيّض;الوبيّد;الأبيد;الابيض",
+      "alt_name:ar": "الأبيّض;الوبيّد;الأبيد;الابيض",
+      "alt_name:en": "‘Ubêd;`Ubed;Al Ubayd;Al-‘Obêd;Al-`Obed;El Ubeiyad;Al Obayyid"
+    }
+  },
+  {
+    "name": "Alvorada",
+    "country": "Brazil",
+    "latitude": -29.998118399319733,
+    "longitude": -51.077250899999996,
+    "other_names": {
+      "name": "Alvorada"
+    }
+  },
+  {
+    "name": "Alwar",
+    "country": "India",
+    "latitude": 27.56460359999499,
+    "longitude": 76.6131841,
+    "other_names": {
+      "name": "Alwar",
+      "name:en": "Alwar",
+      "name:hi": "अल्वार",
+      "name:ja": "アルワル",
+      "name:kn": "ಅಲ್ವಾರ್",
+      "name:ru": "Алвар",
+      "name:sr": "Алвар"
+    }
+  },
+  {
+    "name": "Alwar",
+    "country": "India",
+    "latitude": 27.562873687662027,
+    "longitude": 76.60697149647514,
+    "other_names": {
+      "name": "Alwar",
+      "name:en": "Alwar",
+      "name:hi": "अलवर",
+      "name:ja": "アルワル",
+      "name:pa": "ਅਲਵਰ",
+      "name:ta": "அல்வார்"
+    }
+  },
+  {
+    "name": "Alxa",
+    "country": "China",
+    "latitude": 38.85053710010423,
+    "longitude": 105.7247185,
+    "other_names": {
+      "name": "阿拉善盟",
+      "name:en": "Alxa",
+      "name:ja": "アルシャー盟",
+      "name:ru": "Алашань",
+      "name:vi": "A Lạp Thiện",
+      "name:zh": "阿拉善盟",
+      "alt_name": "阿拉善;Alashan Meng;Alxa Meng;Alashan",
+      "name:zh-Hant": "阿拉善盟",
+      "official_name": "阿拉善盟",
+      "name:zh_pinyin": "Ālāshàn Méng"
+    }
+  },
+  {
+    "name": "Alxa Left Banner",
+    "country": "China",
+    "latitude": 38.832365000101596,
+    "longitude": 105.6605393,
+    "other_names": {
+      "name": "阿拉善左旗",
+      "name:de": "Linkes Alxa-Banner",
+      "name:en": "Alxa Left Banner",
+      "name:fr": "Bannière gauche d'Alxa",
+      "name:it": "Bandiera sinistra di Alxa",
+      "name:ja": "アルシャー左旗",
+      "name:mn": "Алшаа зүүн хошуу",
+      "name:ru": "Алашань-Цзоци",
+      "name:vi": "Hữu kỳ Alxa",
+      "name:zh": "阿拉善左旗",
+      "alt_name:vi": "A Lạp Thiện Hữu kỳ",
+      "name:zh-Hant": "阿拉善左旗",
+      "name:zh_pinyin": "Ālāshàn Zuǒ Qí"
+    }
+  },
+  {
+    "name": "Alxa Right Banner",
+    "country": "China",
+    "latitude": 39.21013300015628,
+    "longitude": 101.67072959999999,
+    "other_names": {
+      "name": "阿拉善右旗",
+      "name:en": "Alxa Right Banner",
+      "name:ja": "アルシャー右旗",
+      "name:vi": "A Lạp Thiện Hữu",
+      "name:zh": "阿拉善右旗",
+      "name:zh-Hant": "阿拉善右旗",
+      "name:zh_pinyin": "Ālāshàn Yòu Qí"
+    }
+  },
+  {
+    "name": "Al-Zahra",
+    "country": "Libya",
+    "latitude": 32.67803129959069,
+    "longitude": 12.872510899999998,
+    "other_names": {
+      "name": "الزهراء",
+      "name:ar": "الزهراء",
+      "name:en": "Al-Zahra",
+      "name:fr": "Al-Zahra",
+      "name:it": "Al-Zahra"
+    }
+  },
+  {
+    "name": "Al-Zaqaziq",
+    "country": "Egypt",
+    "latitude": 30.585343099690945,
+    "longitude": 31.503512700000005,
+    "other_names": {
+      "name": "الزقازيق",
+      "name:ar": "الزقازيق",
+      "name:en": "Al-Zaqaziq",
+      "name:eo": "Zagazig",
+      "name:es": "Zaqaziq",
+      "name:et": "Az-Zaqāzīq",
+      "name:fr": "Zagazig",
+      "name:pl": "Az-Zakazik",
+      "name:ru": "Эз-Заказик"
+    }
+  },
+  {
+    "name": "Al Zawiyah",
+    "country": "Libya",
+    "latitude": 32.75966649958958,
+    "longitude": 12.735596699999999,
+    "other_names": {
+      "name": "الزاوية",
+      "pcode": "LY-32-10745",
+      "name:ar": "الزاوية",
+      "name:de": "al-Sawija",
+      "name:en": "Al Zawiyah",
+      "name:et": "Az-Zāwiyah",
+      "name:fa": "زاویه",
+      "name:fr": "Zaouia",
+      "name:it": "Zauia",
+      "name:pl": "Az-Zawija",
+      "name:ru": "Эз-Завия",
+      "name:uk": "Ез-Завія",
+      "name:ur": "زاویہ"
+    }
+  },
+  {
+    "name": "Ama",
+    "country": "Japan",
+    "latitude": 35.19137899966521,
+    "longitude": 136.793513,
+    "other_names": {
+      "name": "あま市",
+      "name:ar": "أما",
+      "name:de": "Ama",
+      "name:en": "Ama",
+      "name:es": "Ama",
+      "name:fr": "Ama",
+      "name:ja": "あま市",
+      "name:ko": "아마시",
+      "name:pl": "Ama",
+      "name:ru": "Ама",
+      "name:uk": "Ама",
+      "name:zh": "海部市",
+      "name:ja_rm": "Ama-shi"
+    }
+  },
+  {
+    "name": "Amagasaki",
+    "country": "Japan",
+    "latitude": 34.72889949963463,
+    "longitude": 135.412989,
+    "other_names": {
+      "name": "尼崎市",
+      "name:ar": "أماغاساكي، هيوغو",
+      "name:de": "Amagasaki",
+      "name:en": "Amagasaki",
+      "name:es": "Amagasaki",
+      "name:fr": "Amagasaki",
+      "name:ja": "尼崎市",
+      "name:ko": "아마가사키시",
+      "name:lt": "Amagasakis",
+      "name:pl": "Amagasaki",
+      "name:ru": "Амагасаки",
+      "name:uk": "Амагасакі",
+      "int_name": "Amagasaki",
+      "name:ja-Hira": "あまがさきし",
+      "name:ja-Latn": "Amagasaki-shi"
+    }
+  },
+  {
+    "name": "Amakusa",
+    "country": "Japan",
+    "latitude": 32.4585126995948,
+    "longitude": 130.1930487,
+    "other_names": {
+      "name": "天草市",
+      "name:ar": "أماكوسا، كوماموتو",
+      "name:de": "Amakusa",
+      "name:en": "Amakusa",
+      "name:es": "Amakusa",
+      "name:fr": "Amakusa",
+      "name:ja": "天草市",
+      "name:ko": "아마쿠사시",
+      "name:ru": "Амакуса",
+      "name:uk": "Амакуса",
+      "name:zh": "天草市",
+      "int_name": "Amakusa",
+      "name:zh-Hans": "天草市",
+      "name:zh-Hant": "天草市"
+    }
+  }
+]

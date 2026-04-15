@@ -1,0 +1,349 @@
+[
+  {
+    "name": "Qiezihe",
+    "country": "China",
+    "latitude": 45.77894320037538,
+    "longitude": 131.0725538,
+    "other_names": {
+      "name": "茄子河区",
+      "name:en": "Qiezihe",
+      "name:ru": "Цецзыхэ",
+      "name:vi": "Gia Tử Hà",
+      "name:zh": "茄子河区",
+      "alt_name": "茄子河;Qiezihe District",
+      "name:zh-Hant": "茄子河區",
+      "name:zh_pinyin": "Qiézihé Qū"
+    }
+  },
+  {
+    "name": "Qihe",
+    "country": "China",
+    "latitude": 36.79944399982372,
+    "longitude": 116.743889,
+    "other_names": {
+      "name": "齐河县",
+      "name:en": "Qihe",
+      "name:vi": "Tề Hà",
+      "name:zh": "齐河县",
+      "name:zh-Hant": "齊河縣",
+      "name:zh_pinyin": "Qihe Xian"
+    }
+  },
+  {
+    "name": "Qijiang",
+    "country": "China",
+    "latitude": 29.030889099834212,
+    "longitude": 106.64774199999998,
+    "other_names": {
+      "name": "綦江区",
+      "name:en": "Qijiang",
+      "name:ja": "キ江区",
+      "name:ru": "Цицзян",
+      "name:vi": "Kỳ Giang",
+      "name:zh": "綦江区",
+      "alt_name": "綦江;Qijiang District",
+      "alt_name:vi": "Kì Giang",
+      "name:zh-Hant": "綦江區"
+    }
+  },
+  {
+    "name": "Qilian",
+    "country": "China",
+    "latitude": 38.177726000007155,
+    "longitude": 100.24770049999998,
+    "other_names": {
+      "name": "祁连县",
+      "name:bo": "བཙུན་མོ་གཤོང་།",
+      "name:en": "Qilian",
+      "name:ja": "祁連県",
+      "name:zh": "祁连县",
+      "alt_name": "祁连县;八宝;Ch'i-lien-she-chih-chu;Pa-pao-ssu;Bayuy;Pa-pao;Babao;Ch'i-lien;བཙུན་མོ་གཞོང་།",
+      "alt_name:en": "Ch'i-lien-she-chih-chu;Pa-pao-ssu;Bayuy;Pa-pao;Qilian;Ch'i-lien;Qilian Xian",
+      "name:zh-Hant": "祁連縣",
+      "official_name": "八宝镇"
+    }
+  },
+  {
+    "name": "Qilihe",
+    "country": "China",
+    "latitude": 36.068448499742416,
+    "longitude": 103.7694669,
+    "other_names": {
+      "name": "七里河区",
+      "name:en": "Qilihe",
+      "name:vi": "Thất Lý Hà",
+      "name:zh": "七里河区",
+      "alt_name": "七里河区",
+      "name:zh-Hant": "七里河區",
+      "name:zh_pinyin": "Qilihe Qu"
+    }
+  },
+  {
+    "name": "Qilin",
+    "country": "China",
+    "latitude": 25.49794580021331,
+    "longitude": 103.80308439999999,
+    "other_names": {
+      "name": "麒麟区",
+      "name:en": "Qilin",
+      "name:vi": "Kỳ Lân",
+      "name:zh": "麒麟区",
+      "alt_name": "麒麟;Qilin District",
+      "alt_name:vi": "Kì Lân",
+      "name:zh-Hant": "麒麟區",
+      "name:zh_pinyin": "Qilin Qu"
+    }
+  },
+  {
+    "name": "Qili New Area",
+    "country": "China",
+    "latitude": 31.55619429962829,
+    "longitude": 106.00285289999998,
+    "other_names": {
+      "name": "七里新区",
+      "name:en": "Qili New Area",
+      "name:zh": "七里新区",
+      "name:zh-Hant": "七里新區"
+    }
+  },
+  {
+    "name": "Qimen",
+    "country": "China",
+    "latitude": 29.8573140997527,
+    "longitude": 117.71024799999999,
+    "other_names": {
+      "name": "祁门县",
+      "name:de": "Qimen",
+      "name:en": "Qimen",
+      "name:es": "Qímén Xiàn",
+      "name:fa": "شهرستان چیمن",
+      "name:fr": "Xian de Qimen",
+      "name:it": "Contea di Qimen",
+      "name:ja": "祁門県",
+      "name:ko": "치먼현",
+      "name:no": "Qimen",
+      "name:pl": "Qimen",
+      "name:ru": "Цимэнь",
+      "name:sv": "Qimen",
+      "name:vi": "Kỳ Môn",
+      "name:zh": "祁门县",
+      "alt_name": "祁门;Qimen County",
+      "name:ceb": "Qimen Xian",
+      "name:mwl": "Qimen",
+      "name:nan": "Kî-mn̂g-koān",
+      "name:wuu": "祁门县",
+      "name:yue": "祁門",
+      "alt_name:vi": "Kì Môn",
+      "name:zh-Hant": "祁門縣",
+      "name:zh_pinyin": "qímén xiàn"
+    }
+  },
+  {
+    "name": "Qin",
+    "country": "China",
+    "latitude": 36.75573399981848,
+    "longitude": 112.69035789999998,
+    "other_names": {
+      "name": "沁县",
+      "name:en": "Qin",
+      "name:ja": "沁県",
+      "name:ru": "Циньсянь",
+      "name:zh": "沁县",
+      "alt_name": "沁;Tsinchow;Ch'in Hsien;Tsin'syan';Ch'in-hsien;Ch'in;Qinxian;Qin County",
+      "name:zh-Hant": "沁縣"
+    }
+  },
+  {
+    "name": "Qin'an",
+    "country": "China",
+    "latitude": 34.859986199642556,
+    "longitude": 105.66575119999999,
+    "other_names": {
+      "name": "秦安县",
+      "name:en": "Qin'an",
+      "name:ja": "秦安県",
+      "name:ko": "친안 현",
+      "name:zh": "秦安县",
+      "alt_name": "秦安;Ch'in-an Hsien;Qin'an County",
+      "name:zh-Hant": "秦安縣",
+      "name:zh_pinyin": "qínān xiàn"
+    }
+  },
+  {
+    "name": "Qinbei",
+    "country": "China",
+    "latitude": 22.005448900408282,
+    "longitude": 108.63555839999998,
+    "other_names": {
+      "name": "钦北区",
+      "name:en": "Qinbei",
+      "name:zh": "钦北区",
+      "alt_name": "钦北;Qinbei District",
+      "name:yue": "钦北区",
+      "name:zh-Hant": "欽北區",
+      "name:yue-Latn": "Hambak-ki",
+      "name:zh_pinyin": "Qīnběi Qū"
+    }
+  },
+  {
+    "name": "Qing",
+    "country": "China",
+    "latitude": 38.57429050006417,
+    "longitude": 116.8121731,
+    "other_names": {
+      "name": "青县",
+      "name:en": "Qing",
+      "name:vi": "Thanh",
+      "name:zh": "青县",
+      "alt_name": "青;Qingxian;Qing County",
+      "name:zh-Hant": "青縣",
+      "name:zh_pinyin": "Qing Xian"
+    }
+  },
+  {
+    "name": "Qingan",
+    "country": "China",
+    "latitude": 46.877586000186064,
+    "longitude": 127.50684820000001,
+    "other_names": {
+      "name": "庆安县",
+      "name:en": "Qingan",
+      "name:ru": "Цинъань",
+      "name:zh": "庆安县",
+      "alt_name": "Qing'an Xian;Qing'an Zhen;庆安;Ch'ing-an-chen;Yu-ching-kai;Yu-ch'ing;Ch'ing-an;Ch'ing-ch'eng;Yuking;Kingcheng;Yu-ch'ing-chieh",
+      "name:zh-Hant": "慶安縣"
+    }
+  },
+  {
+    "name": "Qingbaijiang",
+    "country": "China",
+    "latitude": 30.87419119966972,
+    "longitude": 104.26046809999998,
+    "other_names": {
+      "name": "青白江区",
+      "name:en": "Qingbaijiang",
+      "name:vi": "Thanh Bạch Giang",
+      "name:zh": "青白江区",
+      "alt_name": "青白江;Qingbaijiang District",
+      "name:zh-Hant": "青白江區",
+      "name:zh_pinyin": "Qingbaijiang Qu"
+    }
+  },
+  {
+    "name": "Qingcheng",
+    "country": "China",
+    "latitude": 36.01654049973718,
+    "longitude": 107.87715839999998,
+    "other_names": {
+      "name": "庆城县",
+      "name:en": "Qingcheng",
+      "name:ja": "慶城県",
+      "name:vi": "Khánh Thành",
+      "name:zh": "庆城县",
+      "alt_name": "庆城;Qingcheng County",
+      "name:zh-Hant": "慶城縣",
+      "name:zh_pinyin": "Qìngchéng Xiàn"
+    }
+  },
+  {
+    "name": "Qingcheng",
+    "country": "China",
+    "latitude": 23.699904400350874,
+    "longitude": 113.05719109999998,
+    "other_names": {
+      "name": "清城区",
+      "name:de": "Qingcheng",
+      "name:en": "Qingcheng",
+      "name:fa": "ناحیه کینگچنگ",
+      "name:fr": "District de Qingcheng",
+      "name:it": "Distretto di Qingcheng",
+      "name:ja": "清城区",
+      "name:ko": "칭청구",
+      "name:no": "Qingcheng",
+      "name:sv": "Qingcheng",
+      "name:uk": "Цінчен",
+      "name:vi": "Thanh Thành",
+      "name:zh": "清城区",
+      "alt_name": "清城;Qingcheng District",
+      "name:hak": "Chhîn-sàng-khî",
+      "name:mwl": "Qingcheng",
+      "name:nan": "Chheng-siâⁿ-khu",
+      "name:yue": "清城",
+      "name:zh-Hant": "清城區",
+      "name:zh_pinyin": "Qīngchéng Qū"
+    }
+  },
+  {
+    "name": "Qingchuan",
+    "country": "China",
+    "latitude": 32.587142399592196,
+    "longitude": 105.23557729999999,
+    "other_names": {
+      "name": "青川县",
+      "name:en": "Qingchuan",
+      "name:zh": "青川县",
+      "alt_name": "青川;Qingchuan County",
+      "name:zh-Hant": "青川縣",
+      "name:zh_pinyin": "qīngchuān xiàn"
+    }
+  },
+  {
+    "name": "Qingdao",
+    "country": "China",
+    "latitude": 36.06380339974194,
+    "longitude": 120.3781372,
+    "other_names": {
+      "name": "青岛市",
+      "name:ar": "تشينغداو",
+      "name:bg": "Циндао",
+      "name:ca": "Tsingtao",
+      "name:cs": "Čching-tao",
+      "name:de": "Qingdao",
+      "name:en": "Qingdao",
+      "name:eo": "Cindao",
+      "name:et": "Qingdao",
+      "name:fr": "Qingdao",
+      "name:hi": "चिंगदाओ",
+      "name:ja": "青島市",
+      "name:ko": "칭다오시",
+      "name:oc": "Qingdao",
+      "name:ru": "Циндао",
+      "name:sr": "Ћингдао",
+      "name:vi": "Thanh Đảo",
+      "name:zh": "青岛市",
+      "alt_name:cs": "Zelený Ostrov",
+      "name:zh-Hant": "青島市",
+      "name:zh_pinyin": "Qīngdǎo Shì"
+    }
+  },
+  {
+    "name": "Qingfeng",
+    "country": "China",
+    "latitude": 35.89106809972488,
+    "longitude": 115.0983351,
+    "other_names": {
+      "name": "清丰县",
+      "name:en": "Qingfeng",
+      "name:ja": "清豊県",
+      "name:vi": "Thanh Phong",
+      "name:zh": "清丰县",
+      "name:zh-Hant": "清豐縣",
+      "name:zh_pinyin": "Qingfeng Xian"
+    }
+  },
+  {
+    "name": "Qinggang",
+    "country": "China",
+    "latitude": 46.685422300223614,
+    "longitude": 126.10363150000002,
+    "other_names": {
+      "name": "青冈县",
+      "name:en": "Qinggang",
+      "name:ru": "Цинган",
+      "name:zh": "青冈县",
+      "alt_name": "青冈;Ch'ing-kang Hsien;Qinggang Xian",
+      "name:zh-Hant": "青岡縣",
+      "official_name": "青冈镇"
+    }
+  }
+]

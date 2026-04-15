@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Tuyen Quang",
+    "country": "Vietnam",
+    "latitude": 21.787969500409865,
+    "longitude": 105.21738699999999,
+    "other_names": {
+      "name": "Tuyên Quang",
+      "name:en": "Tuyen Quang",
+      "name:fr": "Tuyên-Quang",
+      "name:ja": "トゥエンクアン",
+      "name:ko": "뚜옌꽝",
+      "name:ru": "Туенкуанг",
+      "name:uk": "Туєнкуанг",
+      "name:zh": "宣光市",
+      "name:vi-Hani": "宣光",
+      "official_name": "Thành phố Tuyên Quang"
+    }
+  },
+  {
+    "name": "Tuy Hòa",
+    "country": "Vietnam",
+    "latitude": 13.087722599688552,
+    "longitude": 109.2993584,
+    "other_names": {
+      "name": "Tuy Hòa",
+      "name:en": "Tuy Hòa",
+      "name:fa": "توی هوئا",
+      "name:it": "Tuy Hoa",
+      "name:ja": "トゥイホア",
+      "name:ko": "뚜이호아",
+      "name:pt": "Tuy Hoa",
+      "name:ru": "Туихоа",
+      "name:sr": "Туи Хоа",
+      "name:sv": "Tuy Hoa",
+      "name:th": "ตวีฮหว่า",
+      "name:uk": "Туїхоа",
+      "name:ur": "توئے ہوا",
+      "name:zh": "綏和市",
+      "alt_name": "Tuy Hoà"
+    }
+  },
+  {
+    "name": "Tuzla",
+    "country": "Bosnia Herzegovina",
+    "latitude": 44.53911050050566,
+    "longitude": 18.675192999999997,
+    "other_names": {
+      "name": "Tuzla",
+      "name:ar": "توزلا",
+      "name:bs": "Tuzla",
+      "name:de": "Tuzla",
+      "name:en": "Tuzla",
+      "name:es": "Tuzla",
+      "name:fr": "Tuzla",
+      "name:hr": "Tuzla",
+      "name:hu": "Tuzla",
+      "name:ru": "Тузла",
+      "name:sq": "Tuzlla",
+      "name:sr": "Тузла",
+      "old_name": "Soli",
+      "old_name:hu": "Só",
+      "name:sr-Latn": "Tuzla"
+    }
+  },
+  {
+    "name": "Tver",
+    "country": "Russia",
+    "latitude": 56.851438577964196,
+    "longitude": 35.89912347179362,
+    "other_names": {
+      "name": "Тверь",
+      "name:ar": "تفير",
+      "name:be": "Цвер",
+      "name:de": "Twer",
+      "name:en": "Tver",
+      "name:et": "Tver",
+      "name:fi": "Tver",
+      "name:fr": "Tver",
+      "name:hr": "Tver",
+      "name:hu": "Tver",
+      "name:hy": "Տվեր",
+      "name:ka": "ტვერი",
+      "name:ko": "트베리",
+      "name:lt": "Tverė",
+      "name:nl": "Tver",
+      "name:pl": "Twer",
+      "name:ro": "Tver",
+      "name:ru": "Тверь",
+      "name:sk": "Tver",
+      "name:sr": "Твер",
+      "name:uk": "Тверь",
+      "name:hsb": "Twer"
+    }
+  },
+  {
+    "name": "Tver",
+    "country": "Russia",
+    "latitude": 56.85867500018721,
+    "longitude": 35.9208284,
+    "other_names": {
+      "name": "Тверь",
+      "name:ar": "تفير",
+      "name:be": "Цвер",
+      "name:de": "Twer",
+      "name:en": "Tver",
+      "name:et": "Tver",
+      "name:fi": "Tver",
+      "name:fr": "Tver",
+      "name:hr": "Tver",
+      "name:hu": "Tver",
+      "name:hy": "Տվեր",
+      "name:ka": "ტვერი",
+      "name:ko": "트베리",
+      "name:lt": "Tverė",
+      "name:nl": "Tver",
+      "name:pl": "Twer",
+      "name:ro": "Tver",
+      "name:ru": "Тверь",
+      "name:sk": "Tver",
+      "name:sr": "Твер",
+      "name:uk": "Тверь",
+      "name:hsb": "Twer",
+      "official_name": "город Тверь",
+      "old_name:1931-11-20--1990-07-16": "Калинин"
+    }
+  },
+  {
+    "name": "Twin Falls",
+    "country": "United States Of America",
+    "latitude": 42.57044560052105,
+    "longitude": -114.46025539999998,
+    "other_names": {
+      "name": "Twin Falls"
+    }
+  },
+  {
+    "name": "Tychy",
+    "country": "Poland",
+    "latitude": 50.11439699942658,
+    "longitude": 18.996593299999997,
+    "other_names": {
+      "name": "Tychy",
+      "name:ar": "تيخي",
+      "name:bg": "Тихи",
+      "name:de": "Tichau",
+      "name:el": "Τίχι",
+      "name:fa": "تیشی",
+      "name:ja": "ティヒ",
+      "name:ko": "티히",
+      "name:lt": "Tychos",
+      "name:lv": "Tihi",
+      "name:mk": "Тихи",
+      "name:pl": "Tychy",
+      "name:ru": "Тыхы",
+      "name:sr": "Тихи",
+      "name:th": "ทิคี",
+      "name:uk": "Тихи",
+      "name:ur": "تیچی",
+      "name:zh": "蒂黑",
+      "name:azb": "تیخی",
+      "name:crh": "Tıhı",
+      "old_name": "Tichau Hbf",
+      "name:az-Arab": "تیخی"
+    }
+  },
+  {
+    "name": "Tyler",
+    "country": "United States Of America",
+    "latitude": 32.35126009959742,
+    "longitude": -95.3010624,
+    "other_names": {
+      "name": "Tyler",
+      "name:ru": "Тайлер"
+    }
+  },
+  {
+    "name": "Tyre",
+    "country": "Lebanon",
+    "latitude": 33.27212109958792,
+    "longitude": 35.1964023,
+    "other_names": {
+      "name": "صور",
+      "name:ar": "صور",
+      "name:cs": "Týr",
+      "name:de": "Tyros",
+      "name:el": "Τύρος",
+      "name:en": "Tyre",
+      "name:es": "Tiro",
+      "name:et": "Şūr",
+      "name:eu": "Tiro",
+      "name:fa": "صور",
+      "name:fr": "Tyr",
+      "name:he": "צור",
+      "name:hi": "सोर",
+      "name:ku": "Teyra",
+      "name:lt": "Tyras",
+      "name:ml": "സോർ",
+      "name:nl": "Tyrus",
+      "name:pl": "Tyr",
+      "name:ru": "Тир",
+      "name:ur": "صور",
+      "name:zh": "泰尔",
+      "alt_name": "Es Sur,Sour,`,Тир,Тір,Тѵръ,צור,צר,الصور,صور,صُور,Ṣur,Ṣurru,Ṣōr,ティルス,泰爾, Tyre",
+      "name:ckb": "تەیرا",
+      "alt_name:en": "Sour"
+    }
+  },
+  {
+    "name": "Tyumen",
+    "country": "Russia",
+    "latitude": 57.1535340003362,
+    "longitude": 65.542274,
+    "other_names": {
+      "name": "Тюмень",
+      "name:ar": "تيومين",
+      "name:ba": "Төмән",
+      "name:cv": "Тӗмен",
+      "name:de": "Tjumen",
+      "name:en": "Tyumen",
+      "name:eo": "Tjumeno",
+      "name:es": "Tiumén",
+      "name:et": "Tjumen",
+      "name:fi": "Tjumen",
+      "name:fr": "Tioumen",
+      "name:hr": "Tjumenj",
+      "name:hu": "Tyumeny",
+      "name:it": "Tjumen'",
+      "name:ja": "チュメニ",
+      "name:ko": "튜멘",
+      "name:lt": "Tiumenė",
+      "name:lv": "Tjumeņa",
+      "name:pl": "Tiumeń",
+      "name:ro": "Tiumen",
+      "name:ru": "Тюмень",
+      "name:sk": "Ťumeň",
+      "name:sl": "Tyumen",
+      "name:tt": "Төмән",
+      "name:uk": "Тюмень",
+      "int_name": "Tyumen",
+      "name:ru:word_stress": "Тюме́нь"
+    }
+  },
+  {
+    "name": "Tyumen",
+    "country": "Russia",
+    "latitude": 57.17111219191144,
+    "longitude": 65.55520707644415,
+    "other_names": {
+      "name": "Тюмень",
+      "name:ba": "Төмән",
+      "name:cv": "Тӗмен",
+      "name:de": "Tjumen",
+      "name:en": "Tyumen",
+      "name:es": "Tiumén",
+      "name:fr": "Tioumen",
+      "name:hr": "Tyumenj",
+      "name:hu": "Tyumeny",
+      "name:it": "Tjumen'",
+      "name:ja": "チュメニ",
+      "name:lt": "Tiumenė",
+      "name:lv": "Tjumeņa",
+      "name:pl": "Tiumeń",
+      "name:ro": "Tiumen",
+      "name:sl": "Tyumen",
+      "name:tt": "Төмән",
+      "name:uk": "Тюмень",
+      "int_name": "Tyumen"
+    }
+  },
+  {
+    "name": "Ubá",
+    "country": "Brazil",
+    "latitude": -21.12000000029443,
+    "longitude": -42.94277699999999,
+    "other_names": {
+      "name": "Ubá"
+    }
+  },
+  {
+    "name": "Ube",
+    "country": "Japan",
+    "latitude": 33.9516457996002,
+    "longitude": 131.2468368,
+    "other_names": {
+      "name": "宇部市",
+      "name:ar": "يوبي، ياماغوتشي",
+      "name:de": "Ube",
+      "name:en": "Ube",
+      "name:es": "Ube",
+      "name:fr": "Ube",
+      "name:ja": "宇部市",
+      "name:ko": "우베시",
+      "name:lt": "Ubė",
+      "name:pl": "Ube",
+      "name:ru": "Убе",
+      "name:uk": "Убе",
+      "name:zh": "宇部市",
+      "int_name": "Ube",
+      "name:ja_rm": "Ube-shi",
+      "name:ja_kana": "うべし",
+      "name:zh-Hans": "宇部市",
+      "name:zh-Hant": "宇部市"
+    }
+  },
+  {
+    "name": "Uberaba",
+    "country": "Brazil",
+    "latitude": -19.750833000408015,
+    "longitude": -47.936666,
+    "other_names": {
+      "name": "Uberaba"
+    }
+  },
+  {
+    "name": "Uberlândia",
+    "country": "Brazil",
+    "latitude": -18.918804100450703,
+    "longitude": -48.276783699999996,
+    "other_names": {
+      "name": "Uberlândia",
+      "name:bg": "Уберландия",
+      "name:en": "Uberlândia",
+      "name:ja": "ウベルランジア",
+      "name:ka": "უბერლანდია",
+      "name:kk": "Уберландия",
+      "name:ko": "우베를란지아",
+      "name:la": "Fertilia",
+      "name:lt": "Uberlandija",
+      "name:mk": "Уберландија",
+      "name:pt": "Uberlândia",
+      "name:ru": "Уберландия",
+      "name:sr": "Уберландија",
+      "name:th": "อูเบร์ลังเดีย",
+      "name:zh": "烏貝蘭迪亞",
+      "int_name": "Uberlandia"
+    }
+  },
+  {
+    "name": "Ubon Ratchathani",
+    "country": "Thailand",
+    "latitude": 15.226427999934046,
+    "longitude": 104.85817109999999,
+    "other_names": {
+      "name": "อุบลราชธานี",
+      "name:en": "Ubon Ratchathani",
+      "name:et": "Ubon Ratchathani",
+      "name:fr": "Ubon Ratchathani",
+      "name:ja": "ウボンラーチャターニー",
+      "name:ru": "Убонратчатхани",
+      "name:th": "อุบลราชธานี",
+      "name:uk": "Убонратчатхані",
+      "official_name": "เทศบาลนครอุบลราชธานี"
+    }
+  },
+  {
+    "name": "Uch Sharif",
+    "country": "Pakistan",
+    "latitude": 29.23895429981278,
+    "longitude": 71.06148,
+    "other_names": {
+      "name": "اوچ شریف‎",
+      "name:en": "Uch Sharif"
+    }
+  },
+  {
+    "name": "Ud",
+    "country": "China",
+    "latitude": 39.50481210019848,
+    "longitude": 106.72129639999999,
+    "other_names": {
+      "name": "乌达区",
+      "name:en": "Ud",
+      "name:mn": "Уд",
+      "name:ru": "Уда",
+      "name:zh": "乌达区",
+      "alt_name": "乌达;Wuda;Wuda District;Ud District;Уд дүүрэг",
+      "name:zh-Hant": "烏達區"
+    }
+  },
+  {
+    "name": "Uda",
+    "country": "Japan",
+    "latitude": 34.52822499962368,
+    "longitude": 135.9526888,
+    "other_names": {
+      "name": "宇陀市",
+      "name:en": "Uda",
+      "name:fr": "Uda",
+      "name:ja": "宇陀市",
+      "name:ko": "우다시",
+      "name:pl": "Uda",
+      "name:ru": "Уда",
+      "name:uk": "Уда",
+      "name:ja_rm": "Uda-shi",
+      "name:ja_kana": "うだし"
+    }
+  },
+  {
+    "name": "Udaipur",
+    "country": "India",
+    "latitude": 24.578721000292138,
+    "longitude": 73.6862571,
+    "other_names": {
+      "name": "Udaipur",
+      "name:en": "Udaipur",
+      "name:gu": "ઉદયપુર",
+      "name:he": "אודאיפור",
+      "name:hi": "उदयपुर",
+      "name:ja": "ウダイプル",
+      "name:kn": "ಉದಯಪುರ",
+      "name:pa": "ਉਦੈਪੁਰ",
+      "name:ru": "Удайпур",
+      "name:ta": "உதயப்பூர்",
+      "name:te": "ఉదయపూర్",
+      "name:uk": "Удайпур"
+    }
+  }
+]

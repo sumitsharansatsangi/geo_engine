@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Gumdag",
+    "country": "Turkmenistan",
+    "latitude": 39.20237170015518,
+    "longitude": 54.587459,
+    "other_names": {
+      "name": "Gumdag",
+      "name:en": "Gumdag",
+      "name:ru": "Кумдаг;Кум!Даг",
+      "name:tk": "Gumdag"
+    }
+  },
+  {
+    "name": "Gumi-si",
+    "country": "South Korea",
+    "latitude": 36.11955129974762,
+    "longitude": 128.34446919999996,
+    "other_names": {
+      "name": "구미시",
+      "name:de": "Gumi",
+      "name:el": "Γκούμι",
+      "name:en": "Gumi-si",
+      "name:es": "Gumi",
+      "name:et": "Gumi",
+      "name:fr": "Gumi",
+      "name:ja": "亀尾市",
+      "name:ko": "구미시",
+      "name:zh": "龟尾市",
+      "int_name": "Gumi",
+      "name:ko-Hani": "龜尾市",
+      "name:ko-Latn": "Gumi-si",
+      "name:zh-Hant": "龜尾市"
+    }
+  },
+  {
+    "name": "Gümüşhane",
+    "country": "Turkey",
+    "latitude": 40.46178440032789,
+    "longitude": 39.475733899999994,
+    "other_names": {
+      "name": "Gümüşhane",
+      "name:ar": "كوموش خانة",
+      "name:az": "Gümüşxanə",
+      "name:el": "Αργυρούπολη",
+      "name:fa": "گوموش‌خانه",
+      "name:hu": "Gümüşhane",
+      "name:hy": "Գյումուշխանե",
+      "name:ja": "ギュミュシュハーネ",
+      "name:ka": "გუმუშჰანე",
+      "name:ko": "귀뮈샤네",
+      "name:ku": "Canca",
+      "name:lt": "Giumiušchanė",
+      "name:ru": "Гюмюшхане",
+      "name:tr": "Gümüşhane",
+      "name:ur": "گوموشخانے",
+      "name:zh": "居米什哈內",
+      "old_name": "Argyroupólis"
+    }
+  },
+  {
+    "name": "Guna",
+    "country": "India",
+    "latitude": 24.6476632002868,
+    "longitude": 77.3161782,
+    "other_names": {
+      "name": "Guna",
+      "name:ar": "غونا",
+      "name:fa": "گونا",
+      "name:hi": "गुना",
+      "name:ja": "グナー",
+      "name:kn": "ಗುನಾ",
+      "name:ks": "گونا",
+      "name:pa": "ਗੁਨਾ",
+      "name:ps": "گونا",
+      "name:ur": "گونا",
+      "name:azb": "گونا",
+      "name:pnb": "گونا"
+    }
+  },
+  {
+    "name": "Gunpo-si",
+    "country": "South Korea",
+    "latitude": 37.36152289989473,
+    "longitude": 126.93490249999998,
+    "other_names": {
+      "name": "군포시",
+      "name:de": "Gunpo",
+      "name:en": "Gunpo-si",
+      "name:es": "Gunpo",
+      "name:et": "Gunpo",
+      "name:fr": "Gunpo",
+      "name:ja": "軍浦市",
+      "name:ko": "군포시",
+      "name:zh": "軍浦市",
+      "int_name": "Gunpo",
+      "name:ko-Hani": "軍浦市"
+    }
+  },
+  {
+    "name": "Gunsan-si",
+    "country": "South Korea",
+    "latitude": 35.96799839973236,
+    "longitude": 126.7369036,
+    "other_names": {
+      "name": "군산시",
+      "name:cs": "Kunsen",
+      "name:de": "Gunsan",
+      "name:en": "Gunsan-si",
+      "name:es": "Gunsan",
+      "name:et": "Gunsan",
+      "name:fr": "Gunsan",
+      "name:ja": "群山市",
+      "name:ko": "군산시",
+      "name:ru": "Кунсан",
+      "name:uk": "Кунсан",
+      "name:zh": "群山市",
+      "int_name": "Gunsan",
+      "name:ja_kana": "くんさん",
+      "name:ko-Hani": "群山市",
+      "name:ko-Latn": "Gunsan-si"
+    }
+  },
+  {
+    "name": "Guntakal",
+    "country": "India",
+    "latitude": 15.161098099926331,
+    "longitude": 77.37689310000002,
+    "other_names": {
+      "name": "Guntakal",
+      "name:en": "Guntakal",
+      "name:hi": "गुंतकल",
+      "name:kn": "ಗುಂತಕಲ್ಲು",
+      "name:pa": "ਗੁੰਤਕਲ",
+      "name:te": "గుంతకల్లు"
+    }
+  },
+  {
+    "name": "Guntur",
+    "country": "India",
+    "latitude": 16.291518900057756,
+    "longitude": 80.4541588,
+    "other_names": {
+      "name": "Guntur",
+      "name:ar": "غنتور",
+      "name:en": "Guntur",
+      "name:fa": "گنتور",
+      "name:hi": "गुंटूर",
+      "name:ja": "グントゥール",
+      "name:kn": "ಗುಂಟೂರು",
+      "name:pa": "ਗੁੰਟੂਰ",
+      "name:ru": "Гунтур",
+      "name:sr": "Гунтур",
+      "name:ta": "குண்டூர்",
+      "name:te": "గుంటూరు",
+      "name:ur": "گنٹور",
+      "name:pnb": "گنٹر"
+    }
+  },
+  {
+    "name": "Gunungsitoli",
+    "country": "Indonesia",
+    "latitude": 1.290056899863193,
+    "longitude": 97.6150768,
+    "other_names": {
+      "name": "Gunungsitoli",
+      "official_name": "Kota Gunungsitoli"
+    }
+  },
+  {
+    "name": "Guoyang",
+    "country": "China",
+    "latitude": 33.49499259959012,
+    "longitude": 116.2106663,
+    "other_names": {
+      "name": "涡阳县",
+      "name:en": "Guoyang",
+      "name:ja": "渦陽県",
+      "name:vi": "Qua Dương",
+      "name:zh": "涡阳县",
+      "name:zh-Hant": "渦陽縣",
+      "name:zh_pinyin": "Guoyang Xian"
+    }
+  },
+  {
+    "name": "Gurbansoltan Eje",
+    "country": "Turkmenistan",
+    "latitude": 41.873451200476495,
+    "longitude": 59.6357379,
+    "other_names": {
+      "name": "Gurbansoltan Eje",
+      "name:ru": "Гурбансолтан-Эдже",
+      "name:tk": "Gurbansoltan Eje",
+      "old_name": "Ýylanly",
+      "old_name:ru": "Йыланлы",
+      "old_name:tk": "Ýylanly"
+    }
+  },
+  {
+    "name": "Guri",
+    "country": "Nigeria",
+    "latitude": 12.728431499650968,
+    "longitude": 10.4197948,
+    "other_names": {
+      "name": "Guri"
+    }
+  },
+  {
+    "name": "Guri-si",
+    "country": "South Korea",
+    "latitude": 37.594131499925844,
+    "longitude": 127.12979169999998,
+    "other_names": {
+      "name": "구리시",
+      "name:de": "Guri",
+      "name:en": "Guri-si",
+      "name:es": "Guri",
+      "name:et": "Guri",
+      "name:fr": "Guri",
+      "name:ja": "九里市",
+      "name:ko": "구리시",
+      "name:zh": "九里市",
+      "int_name": "Guri",
+      "name:ko-Hani": "九里市"
+    }
+  },
+  {
+    "name": "Gurugram",
+    "country": "India",
+    "latitude": 28.464614799894825,
+    "longitude": 77.02991939999998,
+    "other_names": {
+      "name": "Gurugram",
+      "name:ar": "غرو غرام",
+      "name:en": "Gurugram",
+      "name:fa": "گورگان",
+      "name:he": "גורגאון",
+      "name:hi": "गुरुग्राम",
+      "name:ja": "グルガーオン",
+      "name:kn": "ಗುರುಗ್ರಾಮ",
+      "name:ml": "ഗുഡ്‌ഗാവ്",
+      "name:ta": "குர்காவுன்",
+      "name:ur": "گرو گرام",
+      "old_name": "Gurgaon",
+      "alt_name:ar": "غورغاون;جورجاون",
+      "alt_name:ur": "گڑگاؤں"
+    }
+  },
+  {
+    "name": "Gushi",
+    "country": "China",
+    "latitude": 32.171156399602644,
+    "longitude": 115.6488813,
+    "other_names": {
+      "name": "固始县",
+      "name:en": "Gushi",
+      "name:ru": "Гуши",
+      "name:zh": "固始县",
+      "alt_name": "固始;Gushi County",
+      "name:zh-Hant": "固始縣"
+    }
+  },
+  {
+    "name": "Gusu District",
+    "country": "China",
+    "latitude": 31.339510699640055,
+    "longitude": 120.6130077,
+    "other_names": {
+      "name": "姑苏区",
+      "name:de": "Gusu",
+      "name:en": "Gusu District",
+      "name:fr": "District de Gusu",
+      "name:it": "Distretto di Gusu",
+      "name:ja": "姑蘇区",
+      "name:ko": "구쑤구",
+      "name:ru": "Гусу",
+      "name:sv": "Gusu",
+      "name:vi": "Cô Tô, Tô Châu",
+      "name:zh": "姑苏区",
+      "name:nan": "Ko͘-so͘-khu",
+      "name:wuu": "姑蘇區",
+      "name:yue": "姑蘇區",
+      "name:zh-Hant": "姑蘇區",
+      "name:zh_pinyin": "Gūsū Qū"
+    }
+  },
+  {
+    "name": "Guta",
+    "country": "China",
+    "latitude": 41.1158316004049,
+    "longitude": 121.12049069999999,
+    "other_names": {
+      "name": "古塔区",
+      "name:en": "Guta",
+      "name:ja": "古塔区",
+      "name:ko": "구타구",
+      "name:zh": "古塔区",
+      "alt_name": "古塔;Guta District",
+      "name:zh-Hant": "古塔區"
+    }
+  },
+  {
+    "name": "Gütersloh",
+    "country": "Germany",
+    "latitude": 51.90639969912592,
+    "longitude": 8.3782078,
+    "other_names": {
+      "name": "Gütersloh",
+      "name:de": "Gütersloh",
+      "name:ru": "Гютерсло",
+      "name:nds": "Gütsel"
+    }
+  },
+  {
+    "name": "Gutian",
+    "country": "China",
+    "latitude": 26.581454000103477,
+    "longitude": 118.74144219999997,
+    "other_names": {
+      "name": "古田县",
+      "name:de": "Gutian",
+      "name:en": "Gutian",
+      "name:es": "Gŭtián",
+      "name:fa": "شهرستان گوتیان",
+      "name:fr": "Gutian",
+      "name:it": "Gutian",
+      "name:ja": "古田県",
+      "name:ko": "구톈현",
+      "name:no": "Gutian",
+      "name:ru": "Синьчэн",
+      "name:sv": "Gutian",
+      "name:vi": "Cổ Điền",
+      "name:zh": "古田县",
+      "alt_name": "古田;Gutian County",
+      "name:cdo": "Kŭ-chèng",
+      "name:ceb": "Gutian",
+      "name:hak": "Kú-thièn-yen",
+      "name:mwl": "Gutian",
+      "name:nan": "Kó͘-chhân-koān",
+      "name:yue": "古田",
+      "name:zh-Hant": "古田縣",
+      "name:zh_pinyin": "gǔtián xiàn"
+    }
+  },
+  {
+    "name": "Guwahati",
+    "country": "India",
+    "latitude": 26.18059780014577,
+    "longitude": 91.75394299999999,
+    "other_names": {
+      "name": "Guwahati",
+      "name:ar": "غواهاتي",
+      "name:as": "গুৱাহাটী",
+      "name:bn": "গুয়াহাটি",
+      "name:cs": "Guváhátí",
+      "name:de": "Guwahati",
+      "name:en": "Guwahati",
+      "name:es": "Guwahati",
+      "name:fa": "گواتی",
+      "name:fr": "Guwahati",
+      "name:gu": "ગુવાહાટી",
+      "name:he": "גוואתי",
+      "name:hi": "गुवाहाटी",
+      "name:ja": "グワーハーティー",
+      "name:kn": "ಗುವಾಹಾಟಿ",
+      "name:ml": "ഗുവഹാത്തി",
+      "name:ne": "गुहावती",
+      "name:pa": "ਗੁਹਾਟੀ",
+      "name:ru": "Гувахати",
+      "name:ta": "குவஹாத்தி",
+      "name:uk": "Ґувахаті",
+      "name:ur": "گوہاٹی",
+      "name:zh": "古瓦哈提",
+      "alt_name": "গুৱাহাটী",
+      "int_name": "Guwahati",
+      "old_name": "Gauhati",
+      "name:zh-CN": "高哈蒂"
+    }
+  }
+]

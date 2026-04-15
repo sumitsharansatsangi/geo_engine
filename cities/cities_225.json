@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Kang",
+    "country": "China",
+    "latitude": 33.33120639958833,
+    "longitude": 105.60501159999998,
+    "other_names": {
+      "name": "康县",
+      "name:en": "Kang",
+      "name:zh": "康县",
+      "alt_name": "康县城关镇;咀台镇;康;Chengguan;Zuitai Zhen;Kangxian;K'ang-hsien-ku-chih;Tsui-t'ai-tzu;Pai-ma-kuan;K'ang-hsien;Zuitaizi;Chiu-k'ang-hsien;Zuitai",
+      "name:zh-Hant": "康縣",
+      "name:zh_pinyin": "kāng xiàn"
+    }
+  },
+  {
+    "name": "Kangar",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 6.438931199424556,
+    "longitude": 100.1944838,
+    "other_names": {
+      "name": "Kangar",
+      "name:ja": "カンガー",
+      "name:ta": "கங்கார்",
+      "name:zh": "加央"
+    }
+  },
+  {
+    "name": "Kangbao",
+    "country": "China",
+    "latitude": 41.850769000474685,
+    "longitude": 114.59399849999997,
+    "other_names": {
+      "name": "康保县",
+      "name:en": "Kangbao",
+      "name:ru": "Канбао",
+      "name:zh": "康保县",
+      "name:zh-Hant": "康保縣",
+      "official_name": "康保镇"
+    }
+  },
+  {
+    "name": "Kangding",
+    "country": "China",
+    "latitude": 30.001418199739618,
+    "longitude": 101.95482349999999,
+    "other_names": {
+      "name": "康定市",
+      "name:en": "Kangding",
+      "name:ja": "康定市",
+      "name:vi": "Khang Định",
+      "name:zh": "康定市",
+      "alt_name": "康定;Dartsedo;Darzêdo;Dardo",
+      "old_name:zh": "康定县",
+      "name:zh-Hant": "康定市",
+      "name:zh_pinyin": "Kangding Xian"
+    }
+  },
+  {
+    "name": "Kanggye",
+    "country": "North Korea",
+    "latitude": 40.96590040038832,
+    "longitude": 126.59753989999999,
+    "other_names": {
+      "name": "강계시",
+      "name:cs": "Kanggje",
+      "name:de": "Kanggye",
+      "name:en": "Kanggye",
+      "name:et": "Kanggye",
+      "name:fr": "Kanggye",
+      "name:ja": "江界市",
+      "name:ko": "강계시",
+      "name:lt": "Kangė",
+      "name:ru": "Канге",
+      "name:uk": "Канге",
+      "name:vi": "Giang Giới",
+      "name:zh": "江界市",
+      "int_name": "Kanggye",
+      "name:ko-Hani": "江界市"
+    }
+  },
+  {
+    "name": "Kangle",
+    "country": "China",
+    "latitude": 35.37118609967905,
+    "longitude": 103.70611889999999,
+    "other_names": {
+      "name": "康乐县",
+      "name:en": "Kangle",
+      "name:ja": "康楽県",
+      "name:zh": "康乐县",
+      "alt_name": "康乐;附城;Fucheng",
+      "name:zh-Hant": "康樂縣",
+      "name:zh_pinyin": "fùchéng zhèn"
+    }
+  },
+  {
+    "name": "Kangmar",
+    "country": "China",
+    "latitude": 28.559234099884513,
+    "longitude": 89.6797049,
+    "other_names": {
+      "name": "康马县",
+      "name:en": "Kangmar",
+      "name:vi": "Kangmar",
+      "name:zh": "康马县",
+      "alt_name": "康马;Kangmar County;K'ang-ma Hsien;Kangma Xian;Kangma;Khangmar",
+      "alt_name:vi": "Khang Mã",
+      "name:zh-Hant": "康馬縣",
+      "name:zh_pinyin": "Kangma Xian"
+    }
+  },
+  {
+    "name": "Kangping",
+    "country": "China",
+    "latitude": 42.735887600528166,
+    "longitude": 123.3447181,
+    "other_names": {
+      "name": "康平县",
+      "name:en": "Kangping",
+      "name:ja": "康平県",
+      "name:vi": "Khang Bình",
+      "name:zh": "康平县",
+      "name:zh-Hant": "康平縣",
+      "name:zh_pinyin": "Kangping Xian"
+    }
+  },
+  {
+    "name": "Kani",
+    "country": "Japan",
+    "latitude": 35.42610929968349,
+    "longitude": 137.0613166,
+    "other_names": {
+      "name": "可児市",
+      "name:en": "Kani",
+      "name:fr": "Kani",
+      "name:ja": "可児市",
+      "name:ko": "가니시",
+      "name:pl": "Kani",
+      "name:ru": "Кани",
+      "name:uk": "Кані",
+      "name:ja_rm": "Kani",
+      "name:ja_kana": "かにし"
+    }
+  },
+  {
+    "name": "Kankan",
+    "country": "Guinea",
+    "latitude": 10.383516899458542,
+    "longitude": -9.3069354,
+    "other_names": {
+      "name": "Kankan",
+      "name:ar": "كانكان",
+      "name:ur": "کانکان"
+    }
+  },
+  {
+    "name": "Kannapolis",
+    "country": "United States Of America",
+    "latitude": 35.487470799688545,
+    "longitude": -80.621438,
+    "other_names": {
+      "name": "Kannapolis"
+    }
+  },
+  {
+    "name": "Kannur",
+    "country": "India",
+    "latitude": 11.885833113677991,
+    "longitude": 75.3792763267917,
+    "other_names": {
+      "name": "Kannur"
+    }
+  },
+  {
+    "name": "Kannur",
+    "country": "India",
+    "latitude": 11.91473676663599,
+    "longitude": 75.38538185562383,
+    "other_names": {
+      "name": "Kannur"
+    }
+  },
+  {
+    "name": "Kano",
+    "country": "Nigeria",
+    "latitude": 11.991867099579647,
+    "longitude": 8.5303654,
+    "other_names": {
+      "name": "Kano",
+      "name:ar": "كانو",
+      "name:be": "Кано",
+      "name:bg": "Кано",
+      "name:da": "Kano",
+      "name:eo": "Kano",
+      "name:es": "Kano",
+      "name:fr": "Kano",
+      "name:gl": "Kano",
+      "name:he": "קנו",
+      "name:hi": "कऩो",
+      "name:id": "Kano",
+      "name:ja": "カノ",
+      "name:kn": "ಕನೋ",
+      "name:ko": "카노",
+      "name:lt": "Kanas",
+      "name:mk": "Кано",
+      "name:nl": "Kano",
+      "name:nn": "Kano",
+      "name:pl": "Kano",
+      "name:ro": "Kano",
+      "name:ru": "Кано",
+      "name:sr": "Кано",
+      "name:ta": "கனோ",
+      "name:tr": "Kano",
+      "name:uk": "Кано",
+      "name:yo": "Kánò",
+      "name:zh": "卡諾市",
+      "name:ckb": "کانۆ"
+    }
+  },
+  {
+    "name": "Kanoni",
+    "country": "Uganda",
+    "latitude": 0.17264569998218948,
+    "longitude": 31.906474600000003,
+    "other_names": {
+      "name": "Kanoni"
+    }
+  },
+  {
+    "name": "Kan-onji",
+    "country": "Japan",
+    "latitude": 34.128469299606124,
+    "longitude": 133.6628679,
+    "other_names": {
+      "ref": "372056",
+      "name": "観音寺市",
+      "name:ar": "كانونجي، كاغاوا",
+      "name:de": "Kanonji",
+      "name:en": "Kan-onji",
+      "name:es": "Kanonji",
+      "name:fr": "Kanonji",
+      "name:ja": "観音寺市",
+      "name:pl": "Kan’onji",
+      "name:ru": "Канъондзи",
+      "name:uk": "Канонджі",
+      "name:zh": "观音寺市",
+      "int_name": "Kanonji",
+      "name:ja-Hira": "かんおんじし",
+      "name:zh-Hans": "观音寺市",
+      "name:zh-Hant": "觀音寺市"
+    }
+  },
+  {
+    "name": "Kanoya",
+    "country": "Japan",
+    "latitude": 31.37804719963786,
+    "longitude": 130.8525167,
+    "other_names": {
+      "name": "鹿屋市",
+      "name:ar": "كانويا، كاغوشيما",
+      "name:de": "Kanoya",
+      "name:en": "Kanoya",
+      "name:es": "Kanoya",
+      "name:et": "Kanoya",
+      "name:fr": "Kanoya",
+      "name:hu": "Kanoja",
+      "name:ja": "鹿屋市",
+      "name:ko": "가노야시",
+      "name:pl": "Kanoya",
+      "name:ru": "Каноя",
+      "name:uk": "Каноя",
+      "name:zh": "鹿屋市",
+      "int_name": "Kanoya",
+      "name:ja_rm": "Kanoya-shi",
+      "name:ja_kana": "かのやし",
+      "name:zh-Hans": "鹿屋市",
+      "name:zh-Hant": "鹿屋市"
+    }
+  },
+  {
+    "name": "Kanpur",
+    "country": "India",
+    "latitude": 26.460913500116366,
+    "longitude": 80.3217588,
+    "other_names": {
+      "name": "Kanpur",
+      "name:ar": "كانبور",
+      "name:en": "Kanpur",
+      "name:he": "קאנפור",
+      "name:hi": "कानपुर",
+      "name:kn": "ಕಾನ್ಪುರ",
+      "name:ko": "칸푸르",
+      "name:ml": "കാൺപൂർ",
+      "name:oc": "Kanpur",
+      "name:or": "କାନପୁର",
+      "name:pa": "ਕਾਨਪੁਰ",
+      "name:ru": "Канпур",
+      "name:ta": "கான்பூர்",
+      "name:zh": "坎普尔"
+    }
+  },
+  {
+    "name": "Kansas City",
+    "country": "United States Of America",
+    "latitude": 39.1001050001404,
+    "longitude": -94.5781416,
+    "other_names": {
+      "name": "Kansas City",
+      "name:oc": "Kansas City",
+      "name:ru": "Канзас-Сити",
+      "name:ckb": "شاری کانساس",
+      "name:zh-Hans": "堪萨斯城",
+      "name:zh-Hant": "堪薩斯城"
+    }
+  },
+  {
+    "name": "Kansas City",
+    "country": "United States Of America",
+    "latitude": 39.113456200142345,
+    "longitude": -94.62649700000001,
+    "other_names": {
+      "name": "Kansas City"
+    }
+  }
+]

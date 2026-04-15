@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Songjiang",
+    "country": "China",
+    "latitude": 31.03440519965885,
+    "longitude": 121.22320770000002,
+    "other_names": {
+      "name": "松江区",
+      "name:en": "Songjiang",
+      "name:vi": "Tùng Giang",
+      "name:zh": "松江区",
+      "name:zh-Hant": "松江區",
+      "name:zh_pinyin": "Songjiang Qu"
+    }
+  },
+  {
+    "name": "Songkhla",
+    "country": "Thailand",
+    "latitude": 7.1979037994003185,
+    "longitude": 100.5981483,
+    "other_names": {
+      "name": "สงขลา",
+      "name:en": "Songkhla",
+      "name:ja": "ソンクラー",
+      "name:ru": "Сонгкхла",
+      "name:th": "สงขลา",
+      "name:uk": "Сонгкхла",
+      "name:zh": "宋卡市",
+      "old_name": "Singgora;Singora",
+      "official_name": "เทศบาลนครสงขลา"
+    }
+  },
+  {
+    "name": "Songling",
+    "country": "China",
+    "latitude": 50.785210299288195,
+    "longitude": 124.29073319999999,
+    "other_names": {
+      "name": "松岭区",
+      "name:en": "Songling",
+      "name:ru": "Сунлин",
+      "name:zh": "松岭区",
+      "name:zh-Hant": "松嶺區",
+      "name:zh_pinyin": "Sōnglǐng Qū"
+    }
+  },
+  {
+    "name": "Songming",
+    "country": "China",
+    "latitude": 25.334073400228483,
+    "longitude": 103.03620889999999,
+    "other_names": {
+      "name": "嵩明县",
+      "name:en": "Songming",
+      "name:vi": "Tung Minh",
+      "name:zh": "嵩明县",
+      "alt_name": "嵩明;Sung-ming Hsien;Songming;Songming County",
+      "name:zh-Hant": "嵩明縣",
+      "name:zh_pinyin": "Sōngmíngxiàn"
+    }
+  },
+  {
+    "name": "Songpan",
+    "country": "China",
+    "latitude": 32.65722939959101,
+    "longitude": 103.60299119999999,
+    "other_names": {
+      "name": "松潘县",
+      "name:en": "Songpan",
+      "name:zh": "松潘县",
+      "alt_name": "松潘;Songpan County",
+      "name:zh-Hant": "松潘縣"
+    }
+  },
+  {
+    "name": "Songtao",
+    "country": "China",
+    "latitude": 28.158522399928593,
+    "longitude": 109.19818039999998,
+    "other_names": {
+      "name": "松桃县",
+      "name:en": "Songtao",
+      "name:vi": "Tùng Đào",
+      "name:zh": "松桃苗族自治县",
+      "short_name": "松桃县",
+      "name:zh-Hant": "松桃縣",
+      "official_name": "松桃苗族自治县",
+      "name:zh_pinyin": "Songtao Miaozu Zizhixian"
+    }
+  },
+  {
+    "name": "Songxi",
+    "country": "China",
+    "latitude": 27.529729799998883,
+    "longitude": 118.78043710000001,
+    "other_names": {
+      "name": "松溪县",
+      "name:de": "Songxi",
+      "name:en": "Songxi",
+      "name:es": "Sōngxī",
+      "name:fa": "شهرستان سونگشی",
+      "name:fr": "Songxi",
+      "name:it": "Songxi",
+      "name:ja": "松渓県",
+      "name:ko": "쑹시현",
+      "name:no": "Songxi",
+      "name:sv": "Songxi",
+      "name:vi": "Tùng Khê",
+      "name:zh": "松溪县",
+      "alt_name": "松溪;Songxi County",
+      "name:cdo": "Sṳ̀ng-kă̤-gâing",
+      "name:hak": "Chhiùng-hâi-yen",
+      "name:mwl": "Songxi",
+      "name:nan": "Siông-khe-koān",
+      "name:yue": "松溪",
+      "name:zh-Hant": "松溪縣",
+      "name:zh_pinyin": "sōngxī xiàn"
+    }
+  },
+  {
+    "name": "Songyang County",
+    "country": "China",
+    "latitude": 28.45082269989635,
+    "longitude": 119.47648419999999,
+    "other_names": {
+      "name": "松阳县",
+      "name:de": "Songyang",
+      "name:en": "Songyang County",
+      "name:fa": "شهرستان سونگیانگ",
+      "name:fr": "Xian de Songyang",
+      "name:it": "Contea di Songyang",
+      "name:ja": "松陽県",
+      "name:ko": "쑹양현",
+      "name:no": "Songyang",
+      "name:ru": "Сунъян",
+      "name:sv": "Songyang",
+      "name:vi": "Tùng Dương",
+      "name:zh": "松阳县",
+      "name:ceb": "Songyang Xian",
+      "name:nan": "Siông-iông-koān",
+      "name:wuu": "松阳县",
+      "name:yue": "松陽",
+      "name:zh-Hant": "松陽縣",
+      "name:zh_pinyin": "Sōngyáng Xiàn"
+    }
+  },
+  {
+    "name": "Songyuan",
+    "country": "China",
+    "latitude": 45.133502500454945,
+    "longitude": 124.81651519999998,
+    "other_names": {
+      "name": "松原市",
+      "name:ar": "سونغيوان",
+      "name:de": "Songyuan",
+      "name:en": "Songyuan",
+      "name:et": "Songyuan",
+      "name:fi": "Songyuan",
+      "name:fr": "Songyuan",
+      "name:ja": "松原市",
+      "name:lt": "Songjuanas",
+      "name:ru": "Сунъюань",
+      "name:vi": "Tùng Nguyên",
+      "name:zh": "松原市",
+      "alt_name": "松原;Songyuan City",
+      "name:zh-Hant": "松原市",
+      "name:zh_pinyin": "Sōngyuán Shì"
+    }
+  },
+  {
+    "name": "Songzi",
+    "country": "China",
+    "latitude": 30.17509719972439,
+    "longitude": 111.7512714,
+    "other_names": {
+      "name": "松滋市",
+      "name:de": "Songzi",
+      "name:en": "Songzi",
+      "name:fr": "Songzi",
+      "name:ja": "松滋市",
+      "name:vi": "Tùng Tư",
+      "name:zh": "松滋市",
+      "name:zh-Hant": "鬆滋市",
+      "name:zh_pinyin": "Sōngzī Shì"
+    }
+  },
+  {
+    "name": "Sonid Left Banner",
+    "country": "China",
+    "latitude": 43.85418510053691,
+    "longitude": 113.6566597,
+    "other_names": {
+      "name": "苏尼特左旗",
+      "name:de": "Linkes Sonid-Banner",
+      "name:en": "Sonid Left Banner",
+      "name:zh": "苏尼特左旗",
+      "alt_name": "苏尼特左;Sonid Left;Сөнөд зүүн",
+      "name:zh-Hant": "蘇尼特左旗"
+    }
+  },
+  {
+    "name": "Sonid Right Banner",
+    "country": "China",
+    "latitude": 42.740850200528364,
+    "longitude": 112.63513669999999,
+    "other_names": {
+      "name": "苏尼特右旗",
+      "name:de": "Rechtes Sonid-Banner",
+      "name:en": "Sonid Right Banner",
+      "name:mn": "ᠰᠥᠨᠢᠳ ᠪᠠᠷᠠᠭᠤᠨ ᠬᠣᠰᠢᠭᠤ",
+      "name:zh": "苏尼特右旗",
+      "name:zh-Hant": "蘇尼特右旗"
+    }
+  },
+  {
+    "name": "Sơn La",
+    "country": "Vietnam",
+    "latitude": 21.327404800408786,
+    "longitude": 103.91517009999998,
+    "other_names": {
+      "name": "Sơn La",
+      "name:en": "Sơn La",
+      "name:ja": "ソンラ",
+      "name:ko": "선라",
+      "name:ru": "Шонла",
+      "name:uk": "Шонла",
+      "name:vi": "Sơn La",
+      "name:zh": "山罗市",
+      "name:vi-Hani": "山羅",
+      "name:zh-Hant": "山羅市"
+    }
+  },
+  {
+    "name": "Sonsonate",
+    "country": "El Salvador",
+    "latitude": 13.720360899758223,
+    "longitude": -89.72773799999999,
+    "other_names": {
+      "name": "Sonsonate",
+      "name:hu": "Sonsonate",
+      "name:ppl": "Sentzunat"
+    }
+  },
+  {
+    "name": "Soo",
+    "country": "Japan",
+    "latitude": 31.65350679962346,
+    "longitude": 131.01941079999997,
+    "other_names": {
+      "name": "曽於市",
+      "name:ar": "سوو، كاغوشيما",
+      "name:de": "Soo",
+      "name:en": "Soo",
+      "name:es": "Soo",
+      "name:fr": "Soo",
+      "name:ja": "曽於市",
+      "name:ko": "소오시",
+      "name:ru": "Соо",
+      "name:uk": "Соо",
+      "name:zh": "曾於市",
+      "int_name": "Soo",
+      "name:zh-Hans": "曾於市",
+      "name:zh-Hant": "曾於市"
+    }
+  },
+  {
+    "name": "Sopore",
+    "country": "India",
+    "latitude": 34.2869123996124,
+    "longitude": 74.4625673,
+    "other_names": {
+      "name": "Sopore",
+      "name:ar": "سوبور",
+      "name:fa": "سوپور",
+      "name:hi": "सोपोर",
+      "name:ks": "سوپور",
+      "name:ru": "Сопур",
+      "name:ur": "سوپور",
+      "name:pnb": "سوپور"
+    }
+  },
+  {
+    "name": "Sopot",
+    "country": "Poland",
+    "latitude": 54.44479219927261,
+    "longitude": 18.5684902,
+    "other_names": {
+      "name": "Sopot",
+      "name:be": "Сопат",
+      "name:de": "Zoppot",
+      "name:en": "Sopot",
+      "name:ja": "ソポト",
+      "name:lt": "Sopotas",
+      "name:mk": "Сопот",
+      "name:pl": "Sopot",
+      "name:ru": "Сопот",
+      "name:uk": "Сопот",
+      "name:zh-Hans": "索波特",
+      "name:zh-Hant": "索波特"
+    }
+  },
+  {
+    "name": "Soran",
+    "country": "Iraq",
+    "latitude": 36.653242199806364,
+    "longitude": 44.5390147,
+    "other_names": {
+      "name": "سۆران",
+      "name:ar": "سوران",
+      "name:en": "Soran",
+      "name:es": "Soran",
+      "name:fa": "سوران",
+      "name:fr": "Soran",
+      "name:ks": "سوران",
+      "name:ku": "Soran",
+      "name:tr": "Soran",
+      "name:ur": "سوران",
+      "name:azb": "سوران",
+      "name:ckb": "سۆران",
+      "name:kmr": "سۆران",
+      "alt_name:ar": "ديانا",
+      "alt_name:en": "Diana",
+      "alt_name:ckb": "دیانە"
+    }
+  },
+  {
+    "name": "Sorel-Tracy",
+    "country": "Canada",
+    "latitude": 46.04352350033571,
+    "longitude": -73.1165159,
+    "other_names": {
+      "name": "Sorel-Tracy"
+    }
+  },
+  {
+    "name": "Soria",
+    "country": "Spain",
+    "latitude": 41.76338420046748,
+    "longitude": -2.4642040999999995,
+    "other_names": {
+      "name": "Soria",
+      "name:ar": "سريا",
+      "name:be": "Сорыя",
+      "name:ca": "Sòria",
+      "name:el": "Σόρια",
+      "name:fa": "سریا",
+      "name:he": "סוריה",
+      "name:ja": "ソリア",
+      "name:pt": "Sória",
+      "name:ru": "Сория",
+      "name:sr": "Сорија",
+      "name:ur": "سریا",
+      "name:zh": "索里亚",
+      "alt_name:ar": "سرية;سوريا"
+    }
+  }
+]

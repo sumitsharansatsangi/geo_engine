@@ -1,0 +1,305 @@
+[
+  {
+    "name": "Wenshan Prefecture",
+    "country": "China",
+    "latitude": 23.399102000366682,
+    "longitude": 104.2172181,
+    "other_names": {
+      "name": "文山州",
+      "name:en": "Wenshan Prefecture",
+      "name:vi": "Văn Sơn",
+      "name:zh": "文山州",
+      "alt_name": "文山;Wen-shan Chuang-Miao Autonomous District;Wen-shan-chuang-tsu-miao-tsu Tzu-chih-chou;Wenshan Zhuangzu Miaozu Zizhizhou;Wenshan;Wenshan Zhuang and Miao Autonomous Prefecture",
+      "short_name": "文山州",
+      "name:zh-Hant": "文山州",
+      "official_name": "文山壮族苗族自治州",
+      "official_name:za": "Vwnzsanh Bouxcuengh Myauzcuz Swcicouh",
+      "official_name:zh": "文山壮族苗族自治州",
+      "official_name:hmn": "Wenx Shangb Langs Hmongb Zif Zhif Zheub",
+      "official_name:zh_pinyin": "Wenshan Zhuangzu Miaozu Zizhizhou"
+    }
+  },
+  {
+    "name": "Wensheng",
+    "country": "China",
+    "latitude": 41.27112450042129,
+    "longitude": 123.23338399999999,
+    "other_names": {
+      "name": "文圣区",
+      "name:en": "Wensheng",
+      "name:ja": "文聖区",
+      "name:ko": "원성구",
+      "name:vi": "Văn Thánh",
+      "name:zh": "文圣区",
+      "alt_name": "文圣;Wensheng District",
+      "name:zh-Hant": "文聖區",
+      "name:zh_pinyin": "Wensheng Qu"
+    }
+  },
+  {
+    "name": "Wenshui",
+    "country": "China",
+    "latitude": 37.43220999990408,
+    "longitude": 112.03054139999999,
+    "other_names": {
+      "name": "文水县",
+      "name:en": "Wenshui",
+      "name:ja": "文水県",
+      "name:vi": "Văn Thủy",
+      "name:zh": "文水县",
+      "alt_name": "文水;Wenshui County",
+      "alt_name:vi": "Văn Thuỷ",
+      "name:zh-Hant": "文水縣"
+    }
+  },
+  {
+    "name": "Wenxi",
+    "country": "China",
+    "latitude": 35.35253099967756,
+    "longitude": 111.2113197,
+    "other_names": {
+      "name": "闻喜县",
+      "name:en": "Wenxi",
+      "name:ja": "聞喜県",
+      "name:zh": "闻喜县",
+      "alt_name": "闻喜;Wenxi County",
+      "name:zh-Hant": "聞喜縣"
+    }
+  },
+  {
+    "name": "Wenzhou",
+    "country": "China",
+    "latitude": 27.996389899946646,
+    "longitude": 120.69534500000002,
+    "other_names": {
+      "name": "温州市",
+      "name:af": "Wenzhou",
+      "name:ar": "ونجو",
+      "name:bg": "Уънджоу",
+      "name:br": "Wenzhou",
+      "name:ca": "Wenzhou",
+      "name:cs": "Wen-čou",
+      "name:da": "Wenzhou",
+      "name:de": "Wenzhou",
+      "name:en": "Wenzhou",
+      "name:eo": "Venĝou",
+      "name:es": "Wenzhou",
+      "name:et": "Wenzhou Shi",
+      "name:eu": "Wenzhou",
+      "name:fa": "ونژو",
+      "name:fi": "Wenzhou",
+      "name:fr": "Wenzhou",
+      "name:gl": "Wenzhou",
+      "name:hi": "वेंज़्हौ",
+      "name:hu": "Vencsou",
+      "name:id": "Wenzhou",
+      "name:it": "Wenzhou",
+      "name:ja": "温州市",
+      "name:ki": "Wenzhou",
+      "name:ko": "원저우시",
+      "name:la": "Wenzhou",
+      "name:lt": "Vendžou",
+      "name:mg": "Wenzhou",
+      "name:nl": "Wenzhou",
+      "name:nn": "Wenzhou",
+      "name:no": "Wenzhou",
+      "name:oc": "Wenzhou",
+      "name:pl": "Wenzhou",
+      "name:pt": "Wenzhou",
+      "name:ro": "Wenzhou",
+      "name:ru": "Вэньчжоу",
+      "name:sr": "Венџоу",
+      "name:sv": "Wenzhou",
+      "name:tl": "Wenzhou",
+      "name:tr": "Wenzhou",
+      "name:ug": "Wénju shehiri",
+      "name:uk": "Веньчжоу",
+      "name:ur": "ونژو",
+      "name:vi": "Ôn Châu",
+      "name:zh": "温州市",
+      "name:ast": "Wenzhou",
+      "name:cdo": "Ŭng-ciŭ",
+      "name:ceb": "Wenzhou",
+      "name:hak": "Vûn-chû-sṳ",
+      "name:nan": "Un-chiu-chhī",
+      "name:pms": "Wenzhou",
+      "name:sco": "Wenzhou",
+      "name:war": "Wenzhou",
+      "name:wuu": "温州市",
+      "name:yue": "温州",
+      "old_name": "Wenchow",
+      "name:zh-Hant": "溫州市",
+      "name:zh_pinyin": "Wēnzhōu Shì",
+      "name:zh_classical": "溫州市"
+    }
+  },
+  {
+    "name": "Weslaco",
+    "country": "United States Of America",
+    "latitude": 26.159515600147948,
+    "longitude": -97.99084289999999,
+    "other_names": {
+      "name": "Weslaco"
+    }
+  },
+  {
+    "name": "Westbrook",
+    "country": "United States Of America",
+    "latitude": 43.67630360054034,
+    "longitude": -70.3663874,
+    "other_names": {
+      "name": "Westbrook"
+    }
+  },
+  {
+    "name": "West Covina",
+    "country": "United States Of America",
+    "latitude": 34.068620799604,
+    "longitude": -117.93895259999998,
+    "other_names": {
+      "name": "West Covina"
+    }
+  },
+  {
+    "name": "Westfield",
+    "country": "United States Of America",
+    "latitude": 42.13903270049614,
+    "longitude": -72.7584859,
+    "other_names": {
+      "name": "Westfield",
+      "name:ru": "Уэстфилд"
+    }
+  },
+  {
+    "name": "West Kelowna",
+    "country": "Canada",
+    "latitude": 49.858578399484756,
+    "longitude": -119.5828768,
+    "other_names": {
+      "name": "West Kelowna"
+    }
+  },
+  {
+    "name": "Westminster",
+    "country": "United States Of America",
+    "latitude": 39.83665280024497,
+    "longitude": -105.0372046,
+    "other_names": {
+      "name": "Westminster"
+    }
+  },
+  {
+    "name": "Westminster",
+    "country": "England",
+    "latitude": 51.49732059917287,
+    "longitude": -0.137149,
+    "other_names": {
+      "name": "City of Westminster",
+      "name:be": "Вэстмінстэр",
+      "name:cy": "San Steffan",
+      "name:en": "Westminster",
+      "name:fr": "Cité de Westminster",
+      "name:he": "וסטמינסטר",
+      "name:ko": "시티오브웨스트민스터",
+      "name:ru": "Вестминстер",
+      "name:zh-Hans": "威斯敏斯特市",
+      "name:zh-Hant": "西敏市"
+    }
+  },
+  {
+    "name": "West Palm Beach",
+    "country": "United States Of America",
+    "latitude": 26.71536400008903,
+    "longitude": -80.05329419999998,
+    "other_names": {
+      "name": "West Palm Beach",
+      "name:ru": "Уэст-Палм-Бич",
+      "name:uk": "Вест-Палм-Біч"
+    }
+  },
+  {
+    "name": "West Ujimqin Banner",
+    "country": "China",
+    "latitude": 44.581581300502776,
+    "longitude": 117.61344849999999,
+    "other_names": {
+      "name": "西乌珠穆沁旗",
+      "name:en": "West Ujimqin Banner",
+      "name:zh": "西乌珠穆沁旗",
+      "alt_name": "西乌珠穆沁;West Ujimqin;Баруун Үзэмчин",
+      "name:zh-Hant": "西烏珠穆沁旗"
+    }
+  },
+  {
+    "name": "West Valley City",
+    "country": "United States Of America",
+    "latitude": 40.69662900035689,
+    "longitude": -111.9867271,
+    "other_names": {
+      "name": "West Valley City"
+    }
+  },
+  {
+    "name": "West Vancouver",
+    "country": "Canada",
+    "latitude": 49.331120799610765,
+    "longitude": -123.1594791,
+    "other_names": {
+      "name": "West Vancouver",
+      "name:zh-Hans": "南温哥华",
+      "name:zh-Hant": "南溫哥華"
+    }
+  },
+  {
+    "name": "Wetaskiwin",
+    "country": "Canada",
+    "latitude": 52.96849199908696,
+    "longitude": -113.36791999999998,
+    "other_names": {
+      "name": "Wetaskiwin",
+      "name:en": "Wetaskiwin",
+      "name:ru": "Ветаскивин",
+      "name:uk": "Ветасківін"
+    }
+  },
+  {
+    "name": "Weyburn",
+    "country": "Canada",
+    "latitude": 49.66940499952918,
+    "longitude": -103.851013,
+    "other_names": {
+      "name": "Weyburn",
+      "name:ru": "Уэйберн"
+    }
+  },
+  {
+    "name": "Whanganui",
+    "country": "New Zealand",
+    "latitude": -39.93249040091606,
+    "longitude": 175.0519306,
+    "other_names": {
+      "name": "Whanganui",
+      "name:ja": "ワンガヌイ",
+      "name:mi": "Whanganui",
+      "name:mk": "Фангануи",
+      "name:ru": "Уонгануи",
+      "old_name": "Wanganui",
+      "old_name:mk": "Вангануи"
+    }
+  },
+  {
+    "name": "Whangarei",
+    "country": "New Zealand",
+    "latitude": -35.72752680004973,
+    "longitude": 174.31942019999997,
+    "other_names": {
+      "name": "Whangarei",
+      "name:ja": "ファンガレイ",
+      "name:mi": "Whangārei-Terenga-Parāoa",
+      "name:mk": "Фангареи",
+      "name:ru": "Фангареи",
+      "loc_name": "The Rei",
+      "official_name": "Whangārei"
+    }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Ziliujing",
+    "country": "China",
+    "latitude": 29.35793429980076,
+    "longitude": 104.76869879999998,
+    "other_names": {
+      "name": "自流井区",
+      "name:en": "Ziliujing",
+      "name:vi": "Tự Lưu Tỉnh",
+      "name:zh": "自流井区",
+      "alt_name": "自流井;Ziliujin District",
+      "name:zh-Hant": "自流井區",
+      "name:zh_pinyin": "zìliújǐng qū"
+    }
+  },
+  {
+    "name": "Zinder",
+    "country": "Niger",
+    "latitude": 13.806342099767969,
+    "longitude": 8.989165899999998,
+    "other_names": {
+      "name": "Zinder",
+      "name:ar": "زندر",
+      "name:en": "Zinder",
+      "name:fa": "زندر",
+      "name:ko": "진데르",
+      "name:ks": "زندر",
+      "name:ru": "Зиндер",
+      "name:ur": "زندر",
+      "name:azb": "زندر",
+      "name:pnb": "زندر",
+      "old_name": "Sindèr",
+      "short_name": "ZR",
+      "alt_name:ar": "زيندر"
+    }
+  },
+  {
+    "name": "Zitácuaro",
+    "country": "Mexico",
+    "latitude": 19.43440120034263,
+    "longitude": -100.35531399999999,
+    "other_names": {
+      "name": "Zitácuaro",
+      "alt_name": "Heróica Zitácuaro"
+    }
+  },
+  {
+    "name": "Zitong",
+    "country": "China",
+    "latitude": 31.634853599624364,
+    "longitude": 105.1602191,
+    "other_names": {
+      "name": "梓潼县",
+      "name:en": "Zitong",
+      "name:zh": "梓潼县",
+      "alt_name": "梓潼;文昌镇;文昌;Wenchang",
+      "name:zh-Hant": "梓潼縣"
+    }
+  },
+  {
+    "name": "Zixi",
+    "country": "China",
+    "latitude": 27.70935679997876,
+    "longitude": 117.0557929,
+    "other_names": {
+      "name": "资溪县",
+      "name:de": "Zixi",
+      "name:en": "Zixi",
+      "name:fa": "شهرستان زیشی",
+      "name:fr": "Xian de Zixi",
+      "name:it": "Contea di Zixi",
+      "name:ja": "資渓県",
+      "name:ko": "쯔시현",
+      "name:no": "Zixi",
+      "name:sv": "Zixi",
+      "name:vi": "Tư Khê",
+      "name:zh": "资溪县",
+      "alt_name": "资溪;Zixi County",
+      "name:ceb": "Zixi Xian",
+      "name:gan": "資溪",
+      "name:nan": "Chu-khe-koān",
+      "name:yue": "資溪",
+      "name:zh-Hant": "資溪縣",
+      "name:zh_pinyin": "zīxī xiàn"
+    }
+  },
+  {
+    "name": "Zixing",
+    "country": "China",
+    "latitude": 25.980170600166247,
+    "longitude": 113.23055359999998,
+    "other_names": {
+      "name": "资兴市",
+      "name:de": "Zixing",
+      "name:en": "Zixing",
+      "name:fr": "Zixing",
+      "name:it": "Zixing",
+      "name:ja": "資興市",
+      "name:ki": "Zixing",
+      "name:ko": "쯔싱시",
+      "name:mg": "Zixing",
+      "name:nl": "Zixing",
+      "name:no": "Zixing",
+      "name:pl": "Zixing",
+      "name:ru": "Цзысин",
+      "name:sv": "Zixing",
+      "name:vi": "Tư Hưng",
+      "name:zh": "资兴市",
+      "alt_name": "资兴;Zixing Shi;Zixing Xian;Tzu-hsing Hsien",
+      "name:ceb": "Zixing Shi",
+      "name:gan": "資興",
+      "name:hak": "Chṳ̂-hîn-sṳ",
+      "name:nan": "Chu-heng-chhī",
+      "name:pam": "Zixing",
+      "name:war": "Zixing",
+      "name:yue": "資興",
+      "name:zh-Hant": "資興市",
+      "name:zh_pinyin": "Zīxīng Shì"
+    }
+  },
+  {
+    "name": "Ziyang",
+    "country": "China",
+    "latitude": 30.123653499728835,
+    "longitude": 104.64777169999999,
+    "other_names": {
+      "name": "资阳市",
+      "name:de": "Ziyang",
+      "name:en": "Ziyang",
+      "name:et": "Ziyang",
+      "name:fr": "Zīyáng",
+      "name:ja": "資陽市",
+      "name:ru": "Цзыян",
+      "name:vi": "Tư Dương",
+      "name:zh": "资阳市",
+      "alt_name": "资阳;Ziyang City",
+      "int_name": "Ziyang",
+      "name:zh-Hant": "資陽市",
+      "name:zh_pinyin": "Zīyáng Shi"
+    }
+  },
+  {
+    "name": "Ziyang",
+    "country": "China",
+    "latitude": 32.524244499593415,
+    "longitude": 108.53269799999998,
+    "other_names": {
+      "name": "紫阳县",
+      "name:en": "Ziyang",
+      "name:ja": "紫陽県",
+      "name:ru": "Цзыян",
+      "name:vi": "Tử Dương",
+      "name:zh": "紫阳县",
+      "alt_name": "紫阳;城关镇;城关;Chengguan",
+      "name:zh-Hant": "紫陽縣"
+    }
+  },
+  {
+    "name": "Ziyang District",
+    "country": "China",
+    "latitude": 28.633092699876492,
+    "longitude": 112.2885059,
+    "other_names": {
+      "name": "资阳区",
+      "name:de": "Ziyang",
+      "name:en": "Ziyang District",
+      "name:fr": "District de Ziyang",
+      "name:it": "Distretto di Ziyang",
+      "name:ja": "資陽区",
+      "name:ko": "쯔양구",
+      "name:no": "Ziyang",
+      "name:ru": "Цзыян",
+      "name:sv": "Ziyang",
+      "name:vi": "Tư Dương",
+      "name:zh": "资阳区",
+      "name:ceb": "Ziyang Qu",
+      "name:hak": "Chṳ̂-yòng-khî",
+      "name:nan": "Chu-iông-khu",
+      "name:yue": "資陽區",
+      "name:zh-Hant": "資陽區",
+      "name:zh_pinyin": "Zīyáng Qū"
+    }
+  },
+  {
+    "name": "Ziyuan",
+    "country": "China",
+    "latitude": 26.045797400159596,
+    "longitude": 110.64816,
+    "other_names": {
+      "name": "资源县",
+      "name:en": "Ziyuan",
+      "name:zh": "资源县",
+      "alt_name": "资源;Ziyuan County",
+      "name:zh-Hant": "資源縣",
+      "name:zh_pinyin": "Zīyuán Xiàn"
+    }
+  },
+  {
+    "name": "Ziyun",
+    "country": "China",
+    "latitude": 25.754698300188668,
+    "longitude": 106.0815923,
+    "other_names": {
+      "name": "紫云县",
+      "name:en": "Ziyun",
+      "name:vi": "Tử Vân",
+      "name:zh": "紫云县",
+      "old_name": "松山镇",
+      "name:zh-Hant": "紫雲縣",
+      "official_name": "紫云苗族布依族自治县",
+      "name:zh_pinyin": "Ziyun Miaozu Bouyeizu Zizhixian",
+      "official_name:en": "Ziyun Miao and Buyei Autonomous County"
+    }
+  },
+  {
+    "name": "Zizhong",
+    "country": "China",
+    "latitude": 29.767556399761027,
+    "longitude": 104.8494725,
+    "other_names": {
+      "name": "资中县",
+      "name:en": "Zizhong",
+      "name:zh": "资中县",
+      "alt_name": "资中;Zizhong County",
+      "name:zh-Hant": "資中縣",
+      "name:zh_pinyin": "Zīzhōng Xiàn"
+    }
+  },
+  {
+    "name": "Zizhou",
+    "country": "China",
+    "latitude": 37.608997699927855,
+    "longitude": 110.0305673,
+    "other_names": {
+      "name": "子洲县",
+      "name:en": "Zizhou",
+      "name:ja": "子洲県",
+      "name:zh": "子洲县",
+      "alt_name": "双湖峪镇;双湖峪;子洲;Tzu-chou;Shuankhuyuy;Shwanghuyu;Shuanghuyu",
+      "name:zh-Hant": "子洲縣"
+    }
+  },
+  {
+    "name": "Zlatoust",
+    "country": "Russia",
+    "latitude": 55.158628881084006,
+    "longitude": 59.6898437082704,
+    "other_names": {
+      "name": "Златоуст",
+      "name:be": "Златавуст",
+      "name:de": "Slatoust",
+      "name:en": "Zlatoust",
+      "name:es": "Zlatoust",
+      "name:fr": "Zlatooust",
+      "name:it": "Zlatoust",
+      "name:ja": "ズラトウスト",
+      "name:pl": "Zlatoust",
+      "name:ru": "Златоуст",
+      "int_name": "Zlatoust"
+    }
+  },
+  {
+    "name": "Zlatoust",
+    "country": "Russia",
+    "latitude": 55.1674212994734,
+    "longitude": 59.6792625,
+    "other_names": {
+      "name": "Златоуст",
+      "name:ar": "زلاتوست",
+      "name:ba": "Златоуст",
+      "name:be": "Златавуст",
+      "name:de": "Slatoust",
+      "name:en": "Zlatoust",
+      "name:eo": "Zlatoust",
+      "name:es": "Zlatoust",
+      "name:et": "Zlatoust",
+      "name:fi": "Zlatoust",
+      "name:fr": "Zlatooust",
+      "name:it": "Zlatoust",
+      "name:ja": "ズラトウスト",
+      "name:ko": "즐라토우스트",
+      "name:lt": "Zlatoustas",
+      "name:os": "Златоуст",
+      "name:pl": "Złatoust",
+      "name:pt": "Zlatoust",
+      "name:ru": "Златоуст",
+      "name:sr": "Златоуст",
+      "name:tt": "Златоуст",
+      "name:uk": "Златоуст",
+      "int_name": "Zlatoust",
+      "name:mhr": "Златоуст",
+      "name:ru:word_stress": "Златоу́ст"
+    }
+  },
+  {
+    "name": "Zlín",
+    "country": "Czech Republic",
+    "latitude": 49.22676599963635,
+    "longitude": 17.6667415,
+    "other_names": {
+      "name": "Zlín",
+      "name:ar": "زلين",
+      "name:be": "Злін",
+      "name:cs": "Zlín",
+      "name:de": "Zlin",
+      "name:el": "Ζλιν",
+      "name:fa": "زلین",
+      "name:ja": "ズリーン",
+      "name:la": "Zlín",
+      "name:ru": "Злин",
+      "name:uk": "Злін",
+      "name:ur": "زلین",
+      "old_name": "Gottwaldov"
+    }
+  },
+  {
+    "name": "Zliten",
+    "country": "Libya",
+    "latitude": 32.46756199959461,
+    "longitude": 14.56564,
+    "other_names": {
+      "name": "زليتن",
+      "name:ar": "زليتن",
+      "name:de": "Zliten",
+      "name:en": "Zliten",
+      "name:es": "Zliten",
+      "name:et": "Zlīţan",
+      "name:fr": "Zliten",
+      "alt_name": "Zliten"
+    }
+  },
+  {
+    "name": "Zoetermeer",
+    "country": "Netherlands",
+    "latitude": 52.062253099112326,
+    "longitude": 4.4901218,
+    "other_names": {
+      "name": "Zoetermeer",
+      "name:fy": "Soetermar",
+      "name:he": "זוטרמר",
+      "name:lt": "Zutermeras",
+      "name:nl": "Zoetermeer",
+      "name:ru": "Зутермер",
+      "name:sr": "Зутермер",
+      "name:uk": "Зутермер"
+    }
+  },
+  {
+    "name": "Zogang",
+    "country": "China",
+    "latitude": 29.67422849976985,
+    "longitude": 97.8405948,
+    "other_names": {
+      "name": "左贡县",
+      "name:bo": "ཆབ་མདོ།",
+      "name:en": "Zogang",
+      "name:vi": "Zogang",
+      "name:zh": "左贡县",
+      "alt_name": "左贡;Zuogong County;Tso-kung Hsien;Zogang County;Dzogang",
+      "alt_name:vi": "Tả Cống",
+      "name:zh-Hant": "左貢縣",
+      "name:zh_pinyin": "Zuǒgòng Xiàn"
+    }
+  },
+  {
+    "name": "Zoigê",
+    "country": "China",
+    "latitude": 33.575900199591345,
+    "longitude": 102.96402489999998,
+    "other_names": {
+      "name": "若尔盖县",
+      "name:en": "Zoigê",
+      "name:zh": "若尔盖县",
+      "name:zh-Hant": "若爾蓋縣"
+    }
+  }
+]

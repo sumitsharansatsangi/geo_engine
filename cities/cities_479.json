@@ -1,0 +1,417 @@
+[
+  {
+    "name": "Togliatti",
+    "country": "Russia",
+    "latitude": 53.523524869689446,
+    "longitude": 49.40651385002802,
+    "other_names": {
+      "name": "Тольятти",
+      "name:cv": "Ставрополь",
+      "name:de": "Togliatti",
+      "name:en": "Togliatti",
+      "name:fr": "Togliatti",
+      "name:hu": "Togliatti",
+      "name:ja": "トリヤッチ",
+      "name:ru": "Тольятти",
+      "name:uk": "Тольятті",
+      "int_name": "Togliatti"
+    }
+  },
+  {
+    "name": "Togtoh",
+    "country": "China",
+    "latitude": 40.27587740030402,
+    "longitude": 111.1950469,
+    "other_names": {
+      "name": "托克托县",
+      "name:en": "Togtoh",
+      "name:ja": "トクト県",
+      "name:mn": "Тогтох шянь",
+      "name:zh": "托克托县",
+      "alt_name": "托克托;Togtoh County;Тогтох",
+      "alt_name:mn": "ᠲᠣᠭᠲᠠᠬᠤ ᠰᠢᠶᠠᠨ;Toɣtaqu siyan",
+      "name:zh-Hant": "托克托縣",
+      "name:zh_pinyin": "Tuōkètuō Xiàn"
+    }
+  },
+  {
+    "name": "Tokai",
+    "country": "Japan",
+    "latitude": 35.04408199965467,
+    "longitude": 136.90902,
+    "other_names": {
+      "name": "東海市",
+      "name:ar": "توكاي، آيتشي",
+      "name:de": "Tōkai",
+      "name:en": "Tokai",
+      "name:es": "Tōkai",
+      "name:fr": "Tōkai",
+      "name:ja": "東海市",
+      "name:ko": "도카이시",
+      "name:pl": "Tōkai",
+      "name:ru": "Токай",
+      "name:uk": "Токай",
+      "name:ja_rm": "Tokai-shi"
+    }
+  },
+  {
+    "name": "Tokamachi",
+    "country": "Japan",
+    "latitude": 37.127608499864394,
+    "longitude": 138.75550399999997,
+    "other_names": {
+      "name": "十日町市",
+      "name:ar": "توكاماتشي، نييغاتا",
+      "name:de": "Tōkamachi",
+      "name:en": "Tokamachi",
+      "name:es": "Tōkamachi",
+      "name:fr": "Tōkamachi",
+      "name:ja": "十日町市",
+      "name:ko": "도카마치시",
+      "name:pl": "Tōkamachi",
+      "name:ru": "Токамати",
+      "name:uk": "Токаматі",
+      "int_name": "Tōkamachi",
+      "name:ja_rm": "Tōkamachi-shi",
+      "name:ja_kana": "とおかまちし"
+    }
+  },
+  {
+    "name": "Tokat",
+    "country": "Turkey",
+    "latitude": 40.32335340031018,
+    "longitude": 36.552162,
+    "other_names": {
+      "name": "Tokat",
+      "name:ar": "توقاد",
+      "name:el": "Τοκάτη",
+      "name:hi": "टोकाट",
+      "name:hy": "Եվդոկիա",
+      "name:ka": "თოქათი",
+      "name:ru": "Токат"
+    }
+  },
+  {
+    "name": "Tokchon",
+    "country": "North Korea",
+    "latitude": 39.76570750023513,
+    "longitude": 126.31326729999999,
+    "other_names": {
+      "name": "덕천시",
+      "name:de": "Tokchon",
+      "name:en": "Tokchon",
+      "name:es": "Tokchon",
+      "name:et": "Tŏkch'ŏn",
+      "name:fr": "Tokchon",
+      "name:ja": "徳川市",
+      "name:ko": "덕천시",
+      "name:ru": "Токчхон",
+      "name:zh": "德川市",
+      "int_name": "Tokchon",
+      "old_name:de": "Toktschön",
+      "name:ko-Hani": "德川市"
+    }
+  },
+  {
+    "name": "Tokha",
+    "country": "Nepal",
+    "latitude": 27.74999999997421,
+    "longitude": 85.333333,
+    "other_names": {
+      "name": "Tokha",
+      "name:ne": "टोखा",
+      "alt_name_1": "Tokna"
+    }
+  },
+  {
+    "name": "Toki",
+    "country": "Japan",
+    "latitude": 35.35248539967756,
+    "longitude": 137.1834191,
+    "other_names": {
+      "name": "土岐市",
+      "name:en": "Toki",
+      "name:fr": "Toki",
+      "name:ja": "土岐市",
+      "name:ko": "도키시",
+      "name:pl": "Toki",
+      "name:ru": "Токи",
+      "name:uk": "Токі",
+      "name:ja_rm": "Toki-shi",
+      "name:ja_kana": "ときし"
+    }
+  },
+  {
+    "name": "Tokmok",
+    "country": "Kazakhstan",
+    "latitude": 42.83734620053184,
+    "longitude": 75.2953881,
+    "other_names": {
+      "name": "Токмок",
+      "name:en": "Tokmok",
+      "name:ja": "トクマク",
+      "name:ky": "Токмок",
+      "name:pl": "Tokmok",
+      "name:ru": "Токмок",
+      "alt_name": "Токмак",
+      "alt_name:ru": "Токмак"
+    }
+  },
+  {
+    "name": "Tokoname",
+    "country": "Japan",
+    "latitude": 34.89585799964482,
+    "longitude": 136.838323,
+    "other_names": {
+      "name": "常滑市",
+      "name:ar": "توكونامه، آيتشي",
+      "name:de": "Tokoname",
+      "name:en": "Tokoname",
+      "name:es": "Tokoname",
+      "name:fr": "Tokoname",
+      "name:ja": "常滑市",
+      "name:ko": "도코나메시",
+      "name:pl": "Tokoname",
+      "name:ru": "Токонаме",
+      "name:uk": "Токонаме",
+      "name:ja_rm": "Tokoname-shi"
+    }
+  },
+  {
+    "name": "Tokorozawa",
+    "country": "Japan",
+    "latitude": 35.7994270997162,
+    "longitude": 139.4687478,
+    "other_names": {
+      "name": "所沢市",
+      "name:ar": "توكوروزاوا، سايتاما",
+      "name:de": "Tokorozawa",
+      "name:en": "Tokorozawa",
+      "name:es": "Tokorozawa",
+      "name:et": "Tokorozawa",
+      "name:fr": "Tokorozawa",
+      "name:ja": "所沢市",
+      "name:ko": "도코로자와시",
+      "name:pl": "Tokorozawa",
+      "name:ru": "Токородзава",
+      "name:uk": "Токородзава",
+      "name:ja_rm": "Tokorozawa-shi",
+      "name:ja_kana": "ところざわし"
+    }
+  },
+  {
+    "name": "Toksun",
+    "country": "China",
+    "latitude": 42.79071200053021,
+    "longitude": 88.6533009,
+    "other_names": {
+      "name": "托克逊县",
+      "name:de": "Toksun",
+      "name:en": "Toksun",
+      "name:es": "Toksun",
+      "name:fr": "Toksun",
+      "name:ru": "Токсун",
+      "name:ug": "توقسۇن",
+      "name:zh": "托克逊县",
+      "alt_name": "托克逊县;Tuokexun",
+      "name:zh-Hant": "托克遜縣"
+    }
+  },
+  {
+    "name": "Tokushima",
+    "country": "Japan",
+    "latitude": 34.06983069960404,
+    "longitude": 134.55503529999996,
+    "other_names": {
+      "name": "徳島市",
+      "name:ar": "توكوشيما، توكوشيما",
+      "name:cs": "Tokušima",
+      "name:de": "Tokushima",
+      "name:en": "Tokushima",
+      "name:es": "Tokushima",
+      "name:et": "Tokushima",
+      "name:fr": "Tokushima",
+      "name:ja": "徳島市",
+      "name:ko": "도쿠시마시",
+      "name:pl": "Tokushima",
+      "name:ru": "Токусима",
+      "name:sr": "Токушима",
+      "name:uk": "Токушіма",
+      "name:zh": "德岛市",
+      "int_name": "Tokushima",
+      "name:ja_rm": "Tokushima-shi",
+      "name:ja_kana": "とくしまし",
+      "name:zh-Hans": "德岛市",
+      "name:zh-Hant": "德島市"
+    }
+  },
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "latitude": 35.68283869970551,
+    "longitude": 139.75945489999998,
+    "other_names": {
+      "name": "東京都",
+      "name:ar": "طوكيو",
+      "name:be": "Токіа",
+      "name:ca": "Tòquio",
+      "name:cs": "Tokio",
+      "name:cy": "Tokyo",
+      "name:da": "Tokyo",
+      "name:de": "Tokio",
+      "name:el": "Τόκιο",
+      "name:en": "Tokyo",
+      "name:eo": "Tokio",
+      "name:es": "Tokio",
+      "name:et": "Tōkyō",
+      "name:fa": "توکیو",
+      "name:fi": "Tokio",
+      "name:fr": "Tokyo",
+      "name:he": "טוקיו",
+      "name:hr": "Tokio",
+      "name:hu": "Tokió",
+      "name:ia": "Tokyo",
+      "name:io": "Tokyo",
+      "name:is": "Tókýó",
+      "name:it": "Tokyo",
+      "name:ja": "東京都",
+      "name:kn": "ಟೋಕ್ಯೊ",
+      "name:ko": "도쿄도",
+      "name:ku": "Tokyo",
+      "name:la": "Tokium",
+      "name:lb": "Tokio",
+      "name:lt": "Tokijas",
+      "name:lv": "Tokija",
+      "name:nl": "Tokio",
+      "name:oc": "Tòquio",
+      "name:pl": "Tokio",
+      "name:pt": "Tóquio",
+      "name:ru": "Токио",
+      "name:sk": "Tokio",
+      "name:sl": "Tokio",
+      "name:sr": "Токио",
+      "name:sv": "Tokyo",
+      "name:ta": "டோக்கியோ",
+      "name:tg": "Токио",
+      "name:th": "โตเกียว",
+      "name:tr": "Tokyo",
+      "name:uk": "Токіо",
+      "name:vi": "Tokyo",
+      "name:zh": "东京都/東京都",
+      "name:ast": "Tokio",
+      "name:ckb": "تۆکیۆ",
+      "name:jbo": ".tokios.",
+      "name:nan": "Tang-kiaⁿ",
+      "name:pap": "Tokyo",
+      "name:szl": "Tokjo",
+      "name:wuu": "东京都",
+      "name:yue": "東京都",
+      "alt_name:be": "Токіё",
+      "alt_name:la": "Tocium",
+      "old_name:fr": "Tokio",
+      "old_name:ja": "東亰",
+      "old_name:vi": "Đông Kinh",
+      "old_name:zh": "东京",
+      "name:ja-Hira": "とうきょうと",
+      "name:ja-Latn": "Tōkyō-to",
+      "name:zh-Hans": "东京都",
+      "name:zh-Hant": "東京都",
+      "old_name:zh-Hans": "东京",
+      "old_name:zh-Hant": "東京"
+    }
+  },
+  {
+    "name": "Tolanaro",
+    "country": "Madagascar",
+    "latitude": -25.02969429977489,
+    "longitude": 46.9903888,
+    "other_names": {
+      "name": "Tôlan̈aro",
+      "name:en": "Tolanaro",
+      "name:fr": "Fort Dauphin",
+      "name:ko": "톨라나로",
+      "name:mg": "Tôlan̈aro",
+      "alt_name": "Tolagnaro",
+      "old_name": "Fort Dauphin",
+      "alt_name_1": "Fort Dauphin",
+      "alt_name_2": "Taolagnaro"
+    }
+  },
+  {
+    "name": "Toledo",
+    "country": "Brazil",
+    "latitude": -24.722243799819612,
+    "longitude": -53.7402476,
+    "other_names": {
+      "name": "Toledo",
+      "name:ab": "Таледа",
+      "name:ar": "توليدو",
+      "name:ay": "Toledo",
+      "short_name": "Too"
+    }
+  },
+  {
+    "name": "Toledo",
+    "country": "Spain",
+    "latitude": 39.85606790024764,
+    "longitude": -4.0239568,
+    "other_names": {
+      "name": "Toledo",
+      "name:ar": "طليطلة",
+      "name:be": "Таледа",
+      "name:ca": "Toledo",
+      "name:el": "Τολέδο",
+      "name:eu": "Toledo",
+      "name:fr": "Tolède",
+      "name:ko": "톨레도",
+      "name:la": "Toletum",
+      "name:lt": "Toledas",
+      "name:pt": "Toledo",
+      "name:ru": "Толедо",
+      "name:uk": "Толедо"
+    }
+  },
+  {
+    "name": "Toledo",
+    "country": "United States Of America",
+    "latitude": 41.65291430045792,
+    "longitude": -83.5378173,
+    "other_names": {
+      "name": "Toledo",
+      "name:ar": "توليدو",
+      "name:he": "טולדו",
+      "name:ru": "Толидо",
+      "name:uk": "Толідо"
+    }
+  },
+  {
+    "name": "Toledo",
+    "country": "Philippines",
+    "latitude": 10.374938499458048,
+    "longitude": 123.63440689999997,
+    "other_names": {
+      "name": "Toledo",
+      "name:ja": "トレド"
+    }
+  },
+  {
+    "name": "Toli",
+    "country": "China",
+    "latitude": 45.93627860035228,
+    "longitude": 83.6027111,
+    "other_names": {
+      "name": "托里县",
+      "name:de": "Toli",
+      "name:en": "Toli",
+      "name:es": "Toli",
+      "name:fr": "Toli",
+      "name:mn": "Толь",
+      "name:ru": "Толи",
+      "name:ug": "تولى ناھىيىسى",
+      "name:zh": "托里县",
+      "alt_name": "托里县;تولى;Толи;T'o-li-ch'eng;T'o-li-i;Tuoli;Thul;Piket Mopan;Mopan Post;Mapan;Mopan;Tuoli",
+      "name:kk-Arab": "تولى اۋدانى",
+      "name:zh-Hant": "托里縣"
+    }
+  }
+]

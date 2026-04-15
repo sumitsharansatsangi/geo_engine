@@ -1,0 +1,356 @@
+[
+  {
+    "name": "Kuantan",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 3.7985636996056087,
+    "longitude": 103.32199,
+    "other_names": {
+      "name": "Kuantan",
+      "name:en": "Kuantan",
+      "name:ja": "クアンタン",
+      "name:ru": "Куантан",
+      "name:ta": "குவாந்தான்",
+      "name:uk": "Куантан",
+      "name:zh": "关丹"
+    }
+  },
+  {
+    "name": "Kuchaman",
+    "country": "India",
+    "latitude": 27.152355222234338,
+    "longitude": 74.85767741431596,
+    "other_names": {
+      "name": "Kuchaman",
+      "name:hi": "कुचामन"
+    }
+  },
+  {
+    "name": "Kuching",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 1.5574126998343152,
+    "longitude": 110.3439862,
+    "other_names": {
+      "name": "Kuching",
+      "name:de": "Kuching",
+      "name:en": "Kuching",
+      "name:es": "Kuching",
+      "name:fr": "Kuching",
+      "name:hi": "कुचिंग",
+      "name:id": "Kuching",
+      "name:it": "Kuching",
+      "name:ja": "クチン",
+      "name:ko": "쿠칭",
+      "name:ms": "Kuching",
+      "name:my": "ကူချင်းမြို့",
+      "name:ru": "Кучинг",
+      "name:th": "กูชิง",
+      "name:uk": "Кучинґ",
+      "name:vi": "Kuching",
+      "name:zh": "古晋"
+    }
+  },
+  {
+    "name": "Kuçovë",
+    "country": "Albania",
+    "latitude": 40.8044150003697,
+    "longitude": 19.9134448,
+    "other_names": {
+      "name": "Kuçovë",
+      "name:mk": "Кучово",
+      "name:ru": "Кучова"
+    }
+  },
+  {
+    "name": "Kudamatsu",
+    "country": "Japan",
+    "latitude": 34.0149871996022,
+    "longitude": 131.8704567,
+    "other_names": {
+      "name": "下松市",
+      "name:ar": "كوداماتسو، ياماغوتشي",
+      "name:de": "Kudamatsu",
+      "name:en": "Kudamatsu",
+      "name:es": "Kudamatsu",
+      "name:fr": "Kudamatsu",
+      "name:ja": "下松市",
+      "name:ko": "구다마쓰시",
+      "name:pl": "Kudamatsu",
+      "name:ru": "Кудамацу",
+      "name:uk": "Кудамацу",
+      "name:zh": "下松市",
+      "int_name": "Kudamatsu",
+      "name:ja-Hira": "くだまつし",
+      "name:ja-Latn": "Kudamatsu-shi",
+      "name:zh-Hans": "下松市",
+      "name:zh-Hant": "下松市"
+    }
+  },
+  {
+    "name": "Kudat",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 6.882479799408677,
+    "longitude": 116.851085,
+    "other_names": {
+      "name": "Kudat",
+      "name:zh": "古达"
+    }
+  },
+  {
+    "name": "Ku'ertix",
+    "country": "China",
+    "latitude": 46.9929410001627,
+    "longitude": 89.5231219,
+    "other_names": {
+      "name": "富蕴县",
+      "name:en": "Ku'ertix",
+      "name:kk": "Қуертіс",
+      "name:ru": "Куиртыш",
+      "name:zh": "富蕴县",
+      "alt_name": "富蕴县;富蕴镇;库额尔齐斯镇;库额尔齐斯;Fuyun;Koktokay;Koktogay;Ku'e'erqisi",
+      "name:zh-Hant": "富蘊縣",
+      "official_name": "富蕴县",
+      "name:zh_pinyin": "kùéĕrqísī zhèn"
+    }
+  },
+  {
+    "name": "Kuiwen",
+    "country": "China",
+    "latitude": 36.70663059981265,
+    "longitude": 119.1268375,
+    "other_names": {
+      "name": "奎文区",
+      "name:en": "Kuiwen",
+      "name:zh": "奎文区",
+      "name:zh-Hant": "奎文區"
+    }
+  },
+  {
+    "name": "Kuji",
+    "country": "Japan",
+    "latitude": 40.1904323002928,
+    "longitude": 141.77568119999998,
+    "other_names": {
+      "name": "久慈市",
+      "name:ar": "كوجي، إيواته",
+      "name:de": "Kuji",
+      "name:en": "Kuji",
+      "name:es": "Kuji",
+      "name:fr": "Kuji",
+      "name:ja": "久慈市",
+      "name:ko": "구지시",
+      "name:lt": "Kudžis",
+      "name:pl": "Kuji",
+      "name:ru": "Кудзи",
+      "name:uk": "Кудзі",
+      "int_name": "Kuji",
+      "name:ja_rm": "Kuji-shi",
+      "name:ja_kana": "くじし"
+    }
+  },
+  {
+    "name": "Kuki",
+    "country": "Japan",
+    "latitude": 36.061882799741745,
+    "longitude": 139.66670809999997,
+    "other_names": {
+      "name": "久喜市",
+      "name:ar": "كوكي، سايتاما",
+      "name:de": "Kuki",
+      "name:en": "Kuki",
+      "name:es": "Kuki",
+      "name:fr": "Kuki",
+      "name:ja": "久喜市",
+      "name:ko": "구키시",
+      "name:ru": "Куки",
+      "name:uk": "Кукі"
+    }
+  },
+  {
+    "name": "Kulai",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 1.6569369998235777,
+    "longitude": 103.605879,
+    "other_names": {
+      "name": "Kulai",
+      "name:fa": "کولای",
+      "name:ta": "கூலாய்",
+      "name:ur": "کولائی",
+      "name:zh": "古来"
+    }
+  },
+  {
+    "name": "Kulgaon Badlapur",
+    "country": "India",
+    "latitude": 19.16501960032567,
+    "longitude": 73.237532,
+    "other_names": {
+      "name": "Kulgaon Badlapur",
+      "name:hi": "कुळगाव बदलापूर",
+      "name:mr": "कुळगाव बदलापूर"
+    }
+  },
+  {
+    "name": "Kulim",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 5.366376899481677,
+    "longitude": 100.55257049999999,
+    "other_names": {
+      "name": "Kulim",
+      "name:ja": "クリム",
+      "name:ta": "கூலிம்",
+      "name:zh": "居林"
+    }
+  },
+  {
+    "name": "Kulob",
+    "country": "Tajikistan",
+    "latitude": 37.90705231841672,
+    "longitude": 69.78684080242544,
+    "other_names": {
+      "name": "Кӯлоб",
+      "name:de": "Kulob",
+      "name:en": "Kulob",
+      "name:es": "Kulob",
+      "name:et": "Kulob",
+      "name:fa": "کولاب",
+      "name:fr": "Kulob",
+      "name:ja": "クリャーブ",
+      "name:ru": "Куляб",
+      "name:tg": "Кӯлоб",
+      "name:tr": "Kulob",
+      "name:uk": "Куляб",
+      "name:uz": "Ko'lob",
+      "int_name": "Kulob"
+    }
+  },
+  {
+    "name": "Kulob",
+    "country": "Tajikistan",
+    "latitude": 37.916137799970215,
+    "longitude": 69.7815382,
+    "other_names": {
+      "name": "Кӯлоб",
+      "name:de": "Kulob",
+      "name:en": "Kulob",
+      "name:es": "Kulob",
+      "name:et": "Kulob",
+      "name:fa": "کولاب",
+      "name:fr": "Kulob",
+      "name:ja": "クリャーブ",
+      "name:ru": "Куляб",
+      "name:tg": "Кӯлоб",
+      "name:tr": "Kulob",
+      "name:uk": "Куляб",
+      "name:uz": "Ko'lob",
+      "alt_name": "Kulyab;Kuljab",
+      "int_name": "Kulob"
+    }
+  },
+  {
+    "name": "Kumagaya",
+    "country": "Japan",
+    "latitude": 36.14724719975048,
+    "longitude": 139.3886141,
+    "other_names": {
+      "name": "熊谷市",
+      "name:en": "Kumagaya",
+      "name:ja": "熊谷市",
+      "name:pl": "Kumagaya",
+      "name:ru": "Кумагая",
+      "name:uk": "Кумаґая"
+    }
+  },
+  {
+    "name": "Kumamoto",
+    "country": "Japan",
+    "latitude": 32.7833322995893,
+    "longitude": 130.73333609999997,
+    "other_names": {
+      "name": "熊本市",
+      "name:ar": "كوماموتو، كوماموتو",
+      "name:cs": "Kumamoto",
+      "name:de": "Kumamoto",
+      "name:en": "Kumamoto",
+      "name:es": "Kumamoto",
+      "name:et": "Kumamoto",
+      "name:fr": "Kumamoto",
+      "name:hu": "Kumamoto",
+      "name:ja": "熊本市",
+      "name:ko": "구마모토시",
+      "name:lt": "Kumamotas",
+      "name:pl": "Kumamoto",
+      "name:ru": "Кумамото",
+      "name:sr": "Кумамото",
+      "name:uk": "Кумамото",
+      "name:zh": "熊本市",
+      "int_name": "Kumamoto",
+      "name:ja_rm": "Kumamoto-shi",
+      "name:ja_kana": "くまもとし",
+      "name:zh-Hans": "熊本市",
+      "name:zh-Hant": "熊本市"
+    }
+  },
+  {
+    "name": "Kumano",
+    "country": "Japan",
+    "latitude": 33.888540899598354,
+    "longitude": 136.100411,
+    "other_names": {
+      "name": "熊野市",
+      "name:ar": "كومانو، ميه",
+      "name:de": "Kumano",
+      "name:en": "Kumano",
+      "name:es": "Kumano",
+      "name:fr": "Kumano",
+      "name:ja": "熊野市",
+      "name:ko": "구마노시",
+      "name:pl": "Kumano",
+      "name:ru": "Кумано",
+      "name:uk": "Кумано",
+      "int_name": "Kumano",
+      "name:ja_rm": "Kumano-shi",
+      "name:ja_kana": "くまのし"
+    }
+  },
+  {
+    "name": "Kumanovo",
+    "country": "Macedonia",
+    "latitude": 42.135945900495926,
+    "longitude": 21.717763499999997,
+    "other_names": {
+      "name": "Куманово",
+      "name:ar": "كومانوفو",
+      "name:bg": "Куманово",
+      "name:de": "Kumanovo",
+      "name:en": "Kumanovo",
+      "name:es": "Kumanovo",
+      "name:et": "Kumanovo",
+      "name:fr": "Koumanovo",
+      "name:ja": "クマノヴォ",
+      "name:lt": "Kumanovas",
+      "name:lv": "Kumanova",
+      "name:pl": "Kumanowo",
+      "name:ru": "Куманово",
+      "name:sq": "Kumanovë",
+      "name:sr": "Куманово",
+      "name:zh": "库马诺沃",
+      "int_name": "Kumanovo"
+    }
+  },
+  {
+    "name": "Kumasi",
+    "country": "Ghana",
+    "latitude": 6.698080999414702,
+    "longitude": -1.6230404,
+    "other_names": {
+      "name": "Kumasi",
+      "name:ar": "كوماسي",
+      "name:ko": "쿠마시",
+      "name:lt": "Kumasis",
+      "name:pt": "Kumasi",
+      "name:ru": "Кумаси",
+      "name:uk": "Кумасі",
+      "name:zh": "库马西"
+    }
+  }
+]

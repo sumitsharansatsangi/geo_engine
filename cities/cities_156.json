@@ -1,0 +1,273 @@
+[
+  {
+    "name": "Göttingen",
+    "country": "Germany",
+    "latitude": 51.53283279916819,
+    "longitude": 9.9351811,
+    "other_names": {
+      "name": "Göttingen",
+      "name:ar": "غوتينغن",
+      "name:de": "Göttingen",
+      "name:el": "Γοττίγγη",
+      "name:eo": "Gotingeno",
+      "name:es": "Gotinga",
+      "name:fa": "گوتینگن",
+      "name:fr": "Gœttingue",
+      "name:it": "Gottinga",
+      "name:ja": "ゲッティンゲン",
+      "name:la": "Gottinga",
+      "name:lt": "Gėtingenas",
+      "name:pl": "Getynga",
+      "name:ru": "Гёттинген",
+      "name:sr": "Гетинген",
+      "name:nds": "Chöttingen"
+    }
+  },
+  {
+    "name": "Gounou Gaya",
+    "country": "Chad",
+    "latitude": 9.629399999421526,
+    "longitude": 15.5132,
+    "other_names": {
+      "name": "Gounou Gaya قونو قايا",
+      "name:ar": "قونو قايا",
+      "name:en": "Gounou Gaya",
+      "name:fr": "Gounou Gaya",
+      "alt_name": "Gounou;Gounou Foursoum"
+    }
+  },
+  {
+    "name": "Gouveia",
+    "country": "Portugal",
+    "latitude": 40.49400780033194,
+    "longitude": -7.5917813999999995,
+    "other_names": {
+      "name": "Gouveia"
+    }
+  },
+  {
+    "name": "Governador Valadares",
+    "country": "Brazil",
+    "latitude": -18.853949700453157,
+    "longitude": -41.94587529999999,
+    "other_names": {
+      "name": "Governador Valadares",
+      "name:en": "Governador Valadares",
+      "name:ru": "Говернадор-Валадарис",
+      "name:uk": "Говернадор-Валадарес"
+    }
+  },
+  {
+    "name": "Governor's Harbour",
+    "country": "Bahamas",
+    "latitude": 25.193477400241136,
+    "longitude": -76.245336,
+    "other_names": {
+      "name": "Governor's Harbour",
+      "name:hu": "Governor's Harbour"
+    }
+  },
+  {
+    "name": "Goyang",
+    "country": "South Korea",
+    "latitude": 37.65818619993455,
+    "longitude": 126.8319452,
+    "other_names": {
+      "name": "고양시",
+      "name:de": "Goyang",
+      "name:el": "Γκόγιανγκ",
+      "name:en": "Goyang",
+      "name:es": "Goyang",
+      "name:et": "Goyang",
+      "name:fr": "Goyang",
+      "name:ja": "高陽市",
+      "name:ko": "고양시",
+      "name:lt": "Kojangas",
+      "name:pt": "Goyang",
+      "name:ru": "Коян",
+      "name:vi": "Goyang",
+      "name:zh": "高阳市",
+      "int_name": "Goyang",
+      "alt_name:vi": "Cao Dương",
+      "name:ko-Hani": "高陽市",
+      "name:zh-Hant": "高陽市"
+    }
+  },
+  {
+    "name": "Goz Beïda",
+    "country": "Chad",
+    "latitude": 12.225591999601356,
+    "longitude": 21.4101617,
+    "other_names": {
+      "name": "Goz Beïda قوز بيضة",
+      "name:ar": "قوز بيضة",
+      "name:en": "Goz Beïda",
+      "name:es": "Goz Beida",
+      "name:fr": "Goz Beïda",
+      "name:ru": "Гоз-Бейда",
+      "alt_name": "Goz Beida;Goz Beïda"
+    }
+  },
+  {
+    "name": "Gracias",
+    "country": "Honduras",
+    "latitude": 14.588986099858763,
+    "longitude": -88.5813531,
+    "other_names": {
+      "name": "Gracias",
+      "name:hu": "Gracias"
+    }
+  },
+  {
+    "name": "Gradiška",
+    "country": "Bosnia Herzegovina",
+    "latitude": 45.1465631004536,
+    "longitude": 17.255144499999997,
+    "other_names": {
+      "name": "Gradiška",
+      "name:bs": "Gradiška",
+      "name:el": "Γκράντισκα",
+      "name:en": "Gradiška",
+      "name:hr": "Bosanska Gradiška",
+      "name:hu": "Orbászkővár",
+      "name:ru": "Градишка",
+      "name:sr": "Градишка",
+      "int_name": "Gradiška",
+      "old_name": "Bosanska Gradiška"
+    }
+  },
+  {
+    "name": "Grafton",
+    "country": "Australia",
+    "latitude": -29.691249999322935,
+    "longitude": 152.9333435,
+    "other_names": {
+      "name": "Grafton",
+      "name:en": "Grafton",
+      "name:ja": "グラフトン",
+      "name:ru": "Графтон",
+      "name:uk": "Графтон"
+    }
+  },
+  {
+    "name": "Granada",
+    "country": "Nicaragua",
+    "latitude": 11.934729499574477,
+    "longitude": -85.95876859999998,
+    "other_names": {
+      "name": "Granada",
+      "alt_name_2": "Granado"
+    }
+  },
+  {
+    "name": "Granada",
+    "country": "Spain",
+    "latitude": 37.17349949987027,
+    "longitude": -3.5995336999999994,
+    "other_names": {
+      "name": "Granada",
+      "name:ar": "غرناطة",
+      "name:be": "Гранада",
+      "name:el": "Γρανάδα",
+      "name:en": "Granada",
+      "name:fr": "Grenade",
+      "name:he": "גרנדה",
+      "name:ja": "グラナダ",
+      "name:lt": "Granada",
+      "name:oc": "Granada",
+      "name:pl": "Grenada",
+      "name:ru": "Гранада",
+      "name:sr": "Гранада",
+      "name:uk": "Гранада",
+      "name:zh": "格拉纳达"
+    }
+  },
+  {
+    "name": "Granby",
+    "country": "Canada",
+    "latitude": 45.399040900425256,
+    "longitude": -72.721834,
+    "other_names": {
+      "name": "Granby"
+    }
+  },
+  {
+    "name": "Grande Prairie",
+    "country": "Canada",
+    "latitude": 55.17107999947458,
+    "longitude": -118.7949873,
+    "other_names": {
+      "name": "Grande Prairie",
+      "name:en": "Grande Prairie",
+      "name:ru": "Гранд-Прери",
+      "name:uk": "Гранд-Прері"
+    }
+  },
+  {
+    "name": "Grand Forks",
+    "country": "United States Of America",
+    "latitude": 47.90782439995959,
+    "longitude": -97.0592028,
+    "other_names": {
+      "name": "Grand Forks",
+      "name:en": "Grand Forks",
+      "name:ru": "Гранд-Форкс",
+      "name:uk": "Гранд-Форкс",
+      "name:zh": "大福克斯"
+    }
+  },
+  {
+    "name": "Grand Island",
+    "country": "United States Of America",
+    "latitude": 40.9242710003836,
+    "longitude": -98.33868499999998,
+    "other_names": {
+      "name": "Grand Island",
+      "name:ru": "Гранд-Айленд"
+    }
+  },
+  {
+    "name": "Grand Junction",
+    "country": "United States Of America",
+    "latitude": 39.06395600013517,
+    "longitude": -108.55073169999999,
+    "other_names": {
+      "name": "Grand Junction",
+      "name:en": "Grand Junction",
+      "name:ru": "Гранд-Джанкшен",
+      "name:uk": "Ґранд-Джанкшн"
+    }
+  },
+  {
+    "name": "Grand Ledge",
+    "country": "United States Of America",
+    "latitude": 42.753368500528836,
+    "longitude": -84.74637569999999,
+    "other_names": {
+      "name": "Grand Ledge"
+    }
+  },
+  {
+    "name": "Grand Rapids",
+    "country": "United States Of America",
+    "latitude": 42.9632405005356,
+    "longitude": -85.66786389999999,
+    "other_names": {
+      "name": "Grand Rapids",
+      "name:ar": "غراند رابيدز",
+      "name:ja": "グランドラピッズ",
+      "name:ko": "그랜드래피즈",
+      "name:ru": "Гранд-Рапидс",
+      "name:zh": "大急流城"
+    }
+  },
+  {
+    "name": "Grandview",
+    "country": "United States Of America",
+    "latitude": 38.889847800109926,
+    "longitude": -94.53138159999999,
+    "other_names": {
+      "name": "Grandview"
+    }
+  }
+]

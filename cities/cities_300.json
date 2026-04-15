@@ -1,0 +1,316 @@
+[
+  {
+    "name": "Melilla",
+    "country": "Spain",
+    "latitude": 35.2919027996728,
+    "longitude": -2.9407145999999997,
+    "other_names": {
+      "name": "Melilla",
+      "name:ar": "مليلية",
+      "name:fa": "ملیله",
+      "name:fr": "Melilla",
+      "name:lt": "Melilja",
+      "name:ru": "Мелилья",
+      "name:zh": "梅利利亚",
+      "name:ber": "ⵜⴰⵎⵍⵉⵍⵜ",
+      "name:zgh": "ⵜⴰⵎⵍⵉⵍⵜ"
+    }
+  },
+  {
+    "name": "Melilla",
+    "country": "Morocco",
+    "latitude": 35.2919027996728,
+    "longitude": -2.9407145999999997,
+    "other_names": {
+      "name": "Melilla",
+      "name:ar": "مليلية",
+      "name:fa": "ملیله",
+      "name:fr": "Melilla",
+      "name:lt": "Melilja",
+      "name:ru": "Мелилья",
+      "name:zh": "梅利利亚",
+      "name:ber": "ⵜⴰⵎⵍⵉⵍⵜ",
+      "name:zgh": "ⵜⴰⵎⵍⵉⵍⵜ"
+    }
+  },
+  {
+    "name": "Melipilla",
+    "country": "Chile",
+    "latitude": -33.68551339963496,
+    "longitude": -71.2145796,
+    "other_names": {
+      "name": "Melipilla"
+    }
+  },
+  {
+    "name": "Melitopol",
+    "country": "Ukraine",
+    "latitude": 46.84951983943378,
+    "longitude": 35.36614552060502,
+    "other_names": {
+      "name": "Мелітополь",
+      "name:de": "Melitopol",
+      "name:en": "Melitopol",
+      "name:eo": "Melitopolo",
+      "name:es": "Melitopol",
+      "name:et": "Melitopol",
+      "name:fr": "Melitopol",
+      "name:hu": "Melitopol",
+      "name:it": "Melitopol'",
+      "name:lt": "Melitopolis",
+      "name:nl": "Melitopol",
+      "name:pl": "Melitopol",
+      "name:ro": "Melitopol",
+      "name:ru": "Мелитополь",
+      "name:sk": "Melitopoľ",
+      "name:sr": "Мелитопољ",
+      "name:uk": "Мелітополь",
+      "name:ast": "Melitopol"
+    }
+  },
+  {
+    "name": "Melitopol",
+    "country": "Ukraine",
+    "latitude": 46.8487478001918,
+    "longitude": 35.3676448,
+    "other_names": {
+      "name": "Мелітополь",
+      "name:de": "Melitopol",
+      "name:en": "Melitopol",
+      "name:eo": "Melitopolo",
+      "name:es": "Melitopol",
+      "name:et": "Melitopol",
+      "name:fr": "Melitopol",
+      "name:hu": "Melitopol",
+      "name:it": "Melitopol'",
+      "name:lt": "Melitopolis",
+      "name:nl": "Melitopol",
+      "name:pl": "Melitopol",
+      "name:ro": "Melitopol",
+      "name:ru": "Мелитополь",
+      "name:sk": "Melitopoľ",
+      "name:sr": "Мелитопољ",
+      "name:uk": "Мелітополь"
+    }
+  },
+  {
+    "name": "Melo",
+    "country": "Uruguay",
+    "latitude": -32.368111699448,
+    "longitude": -54.17012710000001,
+    "other_names": {
+      "name": "Melo"
+    }
+  },
+  {
+    "name": "Melut",
+    "country": "South Sudan",
+    "latitude": 10.439503599461831,
+    "longitude": 32.2081806,
+    "other_names": {
+      "name": "Melut",
+      "name:ar": "ملوط",
+      "name:de": "Melut",
+      "name:en": "Melut",
+      "name:es": "Melut",
+      "name:fr": "Melut"
+    }
+  },
+  {
+    "name": "Melville",
+    "country": "Canada",
+    "latitude": 50.93072409926159,
+    "longitude": -102.807296,
+    "other_names": {
+      "name": "Melville"
+    }
+  },
+  {
+    "name": "Memphis",
+    "country": "United States Of America",
+    "latitude": 35.14902149966211,
+    "longitude": -90.0516285,
+    "other_names": {
+      "name": "Memphis",
+      "name:ar": "ممفيس",
+      "name:ja": "メンフィス",
+      "name:ru": "Мемфис"
+    }
+  },
+  {
+    "name": "Mendoza",
+    "country": "Argentina",
+    "latitude": -32.88941549951274,
+    "longitude": -68.8446177,
+    "other_names": {
+      "name": "Mendoza",
+      "name:el": "Μεντόζα",
+      "name:en": "Mendoza",
+      "name:he": "מנדוסה",
+      "name:ru": "Мендоса",
+      "name:uk": "Мендоса"
+    }
+  },
+  {
+    "name": "Mendoza",
+    "country": "Peru",
+    "latitude": -6.395941899692188,
+    "longitude": -77.4822379,
+    "other_names": {
+      "name": "Mendoza",
+      "alt_name": "San Nicolás"
+    }
+  },
+  {
+    "name": "Mene Grande",
+    "country": "Venezuela",
+    "latitude": 9.841346499430541,
+    "longitude": -70.92896699999999,
+    "other_names": {
+      "name": "Mene Grande"
+    }
+  },
+  {
+    "name": "Mengcheng",
+    "country": "China",
+    "latitude": 33.25794089958784,
+    "longitude": 116.56551830000001,
+    "other_names": {
+      "name": "蒙城县",
+      "name:en": "Mengcheng",
+      "name:ja": "蒙城県",
+      "name:uk": "Минчен",
+      "name:vi": "Mông Thành",
+      "name:zh": "蒙城县",
+      "alt_name": "蒙城;Mengcheng",
+      "old_name": "山桑縣;漆原城;淝水縣;蒙縣;渦陽縣;南譙郡;譙州",
+      "name:zh-Hant": "蒙城縣"
+    }
+  },
+  {
+    "name": "Mengcun",
+    "country": "China",
+    "latitude": 38.054901199989736,
+    "longitude": 117.0962452,
+    "other_names": {
+      "name": "孟村回族自治县",
+      "name:en": "Mengcun",
+      "name:vi": "Mạnh Thôn",
+      "name:zh": "孟村回族自治县",
+      "short_name": "孟村县",
+      "name:zh-Hant": "孟村回族自治縣",
+      "name:zh_pinyin": "Mèngcūn huízú zìzhìxiàn"
+    }
+  },
+  {
+    "name": "Menghai",
+    "country": "China",
+    "latitude": 21.95988280040872,
+    "longitude": 100.4511886,
+    "other_names": {
+      "name": "勐海县",
+      "name:de": "Menghai",
+      "name:en": "Menghai",
+      "name:es": "Menghai",
+      "name:fr": "Menghai",
+      "name:vi": "Mãnh Hải",
+      "name:zh": "勐海县",
+      "alt_name": "勐海;Menghai County",
+      "name:zh-Hant": "勐海縣",
+      "name:tai_tailu": "ᦵᦙᦲᧂ ᦣᦻ ᦶᦉᧃᧈ",
+      "name:zh_pinyin": "Měnghǎixiàn"
+    }
+  },
+  {
+    "name": "Mengjin",
+    "country": "China",
+    "latitude": 34.82700219964051,
+    "longitude": 112.43834569999999,
+    "other_names": {
+      "name": "孟津区",
+      "name:en": "Mengjin",
+      "name:ja": "孟津県",
+      "name:zh": "孟津区",
+      "alt_name": "孟津;Meng-chin;Meng-ching",
+      "old_name": "孟津县;Mengjin County",
+      "name:zh-Hant": "孟津區"
+    }
+  },
+  {
+    "name": "Mengla",
+    "country": "China",
+    "latitude": 21.461854000409723,
+    "longitude": 101.56503279999998,
+    "other_names": {
+      "name": "勐腊县",
+      "name:en": "Mengla",
+      "name:ru": "Мынла",
+      "name:vi": "Mãnh Lạp",
+      "name:zh": "勐腊县",
+      "int_name": "Mengla",
+      "name:zh-Hant": "勐臘縣",
+      "name:tai_tailu": "ᦵᦙᦲᧂ ᦟᦱᧉ ᦶᦉᧃᧈ",
+      "name:zh_pinyin": "Mengla Xian"
+    }
+  },
+  {
+    "name": "Menglian",
+    "country": "China",
+    "latitude": 22.328776300403423,
+    "longitude": 99.59172069999998,
+    "other_names": {
+      "name": "孟连县",
+      "name:en": "Menglian",
+      "name:vi": "Mạnh Liên",
+      "name:zh": "孟连县",
+      "alt_name": "孟连",
+      "name:zh-Hant": "孟連縣",
+      "official_name": "孟连傣族拉祜族佤族自治县",
+      "name:zh_pinyin": "Mènglián dǎizú lāhùzú wǎzú zìzhì xiàn"
+    }
+  },
+  {
+    "name": "Mengshan",
+    "country": "China",
+    "latitude": 24.196253400319897,
+    "longitude": 110.5202451,
+    "other_names": {
+      "name": "蒙山县",
+      "name:de": "Mengshan",
+      "name:en": "Mengshan",
+      "name:es": "Mengshan",
+      "name:fa": "شهرستان منگشان",
+      "name:fr": "Xian de Mengshan",
+      "name:it": "Contea di Mengshan",
+      "name:ja": "蒙山県",
+      "name:ko": "멍산현",
+      "name:no": "Mengshan",
+      "name:ru": "Мэншань",
+      "name:sv": "Mengshan Xian",
+      "name:vi": "Mông Sơn",
+      "name:zh": "蒙山县",
+      "alt_name": "蒙山;Mengshan County",
+      "name:ceb": "Mengshan Xian",
+      "name:hak": "Mùng-sân-yen",
+      "name:nan": "Bông-san-koān",
+      "name:yue": "蒙山县",
+      "name:zh-Hant": "蒙山縣",
+      "name:yue-Latn": "Mungsaan-jyun",
+      "name:zh_pinyin": "méngshān xiàn"
+    }
+  },
+  {
+    "name": "Mengyin",
+    "country": "China",
+    "latitude": 35.72006639970888,
+    "longitude": 117.9462238,
+    "other_names": {
+      "name": "蒙阴县",
+      "name:en": "Mengyin",
+      "name:vi": "Mông Âm",
+      "name:zh": "蒙阴县",
+      "name:zh-Hant": "蒙陰縣",
+      "name:zh_pinyin": "Mengyin Xian"
+    }
+  }
+]

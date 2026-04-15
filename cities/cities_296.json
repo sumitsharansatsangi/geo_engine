@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Matsudo",
+    "country": "Japan",
+    "latitude": 35.787937099715116,
+    "longitude": 139.903177,
+    "other_names": {
+      "name": "松戸市",
+      "name:en": "Matsudo",
+      "name:es": "Matsudo",
+      "name:fr": "Matsudo",
+      "name:ja": "松戸市",
+      "name:ko": "마쓰도시",
+      "name:pl": "Matsudo",
+      "name:ru": "Мацудо",
+      "name:uk": "Мацудо",
+      "name:ja_rm": "Matsudo-shi",
+      "name:ja_kana": "まつどし"
+    }
+  },
+  {
+    "name": "Matsue",
+    "country": "Japan",
+    "latitude": 35.46811499968693,
+    "longitude": 133.048768,
+    "other_names": {
+      "name": "松江市",
+      "name:ar": "ماتسوا، شيمانه",
+      "name:cs": "Macue",
+      "name:de": "Matsue",
+      "name:en": "Matsue",
+      "name:es": "Matsue",
+      "name:et": "Matsue",
+      "name:eu": "Matsue",
+      "name:fr": "Matsue",
+      "name:ja": "松江市",
+      "name:ko": "마쓰에시",
+      "name:pl": "Matsue",
+      "name:ru": "Мацуэ",
+      "name:sr": "Мацуе",
+      "name:uk": "Мацуе",
+      "int_name": "Matsue",
+      "name:ja_rm": "Matsue-shi",
+      "name:ja_kana": "まつえし"
+    }
+  },
+  {
+    "name": "Matsumoto",
+    "country": "Japan",
+    "latitude": 36.23820469976002,
+    "longitude": 137.9687141,
+    "other_names": {
+      "name": "松本市",
+      "name:da": "Matsumoto",
+      "name:en": "Matsumoto",
+      "name:es": "Matsumoto",
+      "name:fr": "Matsumoto",
+      "name:ja": "松本市",
+      "name:ko": "마쓰모토시",
+      "name:pl": "Matsumoto",
+      "name:ru": "Мацумото",
+      "name:uk": "Мацумото",
+      "name:ja_rm": "Matsumoto-shi",
+      "name:ja_kana": "まつもとし"
+    }
+  },
+  {
+    "name": "Matsusaka",
+    "country": "Japan",
+    "latitude": 34.58684219962674,
+    "longitude": 136.5412491,
+    "other_names": {
+      "name": "松阪市",
+      "name:ar": "ماتسوساكا، ميه",
+      "name:de": "Matsusaka",
+      "name:en": "Matsusaka",
+      "name:es": "Matsusaka",
+      "name:fr": "Matsusaka",
+      "name:ja": "松阪市",
+      "name:ko": "마쓰사카시",
+      "name:pl": "Matsusaka",
+      "name:ru": "Мацусака",
+      "name:uk": "Мацусака",
+      "name:ja_rm": "Matsusaka si"
+    }
+  },
+  {
+    "name": "Matsuura",
+    "country": "Japan",
+    "latitude": 33.34104289958841,
+    "longitude": 129.7088042,
+    "other_names": {
+      "name": "松浦市",
+      "name:ar": "ماتسورا، ناغاساكي",
+      "name:de": "Matsuura",
+      "name:en": "Matsuura",
+      "name:es": "Matsuura",
+      "name:fr": "Matsuura",
+      "name:ja": "松浦市",
+      "name:ko": "마쓰우라시",
+      "name:pl": "Matsuura",
+      "name:ru": "Мацуура",
+      "name:uk": "Мацуура",
+      "name:zh": "松浦市",
+      "int_name": "Matsuura",
+      "name:ja-Hira": "まつうらし",
+      "name:ja-Latn": "Matsuura-Shi",
+      "name:zh-Hans": "松浦市",
+      "name:zh-Hant": "松浦市"
+    }
+  },
+  {
+    "name": "Matsuyama",
+    "country": "Japan",
+    "latitude": 33.83951879959702,
+    "longitude": 132.76535209999997,
+    "other_names": {
+      "name": "松山市",
+      "name:ar": "ماتسوياما، إهيمه",
+      "name:cs": "Macujama",
+      "name:de": "Matsuyama",
+      "name:en": "Matsuyama",
+      "name:es": "Matsuyama",
+      "name:et": "Matsuyama",
+      "name:fr": "Matsuyama",
+      "name:ja": "松山市",
+      "name:ko": "마쓰야마시",
+      "name:lt": "Macujama",
+      "name:pl": "Matsuyama",
+      "name:ru": "Мацуяма",
+      "name:uk": "Мацуяма",
+      "name:zh": "松山市",
+      "int_name": "Matsuyama",
+      "name:ja_rm": "Matsuyama-shi",
+      "name:ja_kana": "まつやまし",
+      "name:zh-Hans": "松山市",
+      "name:zh-Hant": "松山市"
+    }
+  },
+  {
+    "name": "Maturin",
+    "country": "Venezuela",
+    "latitude": 9.745228599426316,
+    "longitude": -63.17998730000001,
+    "other_names": {
+      "name": "Maturín",
+      "name:en": "Maturin",
+      "name:mk": "Матурин",
+      "name:ru": "Матурин",
+      "name:uk": "Матурін",
+      "old_name": "San Judas Tadeo de Maturín"
+    }
+  },
+  {
+    "name": "Mau",
+    "country": "India",
+    "latitude": 25.93910960017038,
+    "longitude": 83.5716125,
+    "other_names": {
+      "name": "Mau",
+      "name:he": "מאו",
+      "name:hi": "मऊ",
+      "name:kn": "ಮಾಹು",
+      "name:pa": "ਮਊ",
+      "alt_name": "Maunath Bhanjan"
+    }
+  },
+  {
+    "name": "Mauá",
+    "country": "Brazil",
+    "latitude": -23.666952699973315,
+    "longitude": -46.4616922,
+    "other_names": {
+      "name": "Mauá"
+    }
+  },
+  {
+    "name": "Maun",
+    "country": "Botswana",
+    "latitude": -19.986095100392212,
+    "longitude": 23.4224352,
+    "other_names": {
+      "name": "Maun",
+      "name:ko": "마운",
+      "name:ru": "Маун",
+      "name:uk": "Маун"
+    }
+  },
+  {
+    "name": "Mawei",
+    "country": "China",
+    "latitude": 26.001612900164087,
+    "longitude": 119.43433800000001,
+    "other_names": {
+      "name": "马尾区",
+      "name:de": "Mawei",
+      "name:en": "Mawei",
+      "name:es": "Măwĕi",
+      "name:fr": "Mawei",
+      "name:it": "Mawei",
+      "name:ja": "馬尾区",
+      "name:ko": "마웨이구",
+      "name:uk": "Мавей",
+      "name:vi": "Mã Vĩ",
+      "name:zh": "马尾区",
+      "alt_name": "马尾;Mawei District",
+      "name:cdo": "Mā-muōi",
+      "name:hak": "Mâ-mî-khî",
+      "name:nan": "Má-boé-khu",
+      "name:yue": "馬尾",
+      "name:zh-Hant": "馬尾區",
+      "name:zh_pinyin": "mǎwěi qū"
+    }
+  },
+  {
+    "name": "Mawlamyine",
+    "country": "Myanmar",
+    "latitude": 16.490802600080105,
+    "longitude": 97.62848249999999,
+    "other_names": {
+      "name": "မော်လမြိုင်",
+      "name:cs": "Moulmein",
+      "name:de": "Mawlamyaing",
+      "name:en": "Mawlamyine",
+      "name:es": "Mawlamyaing",
+      "name:et": "Mawlamyine",
+      "name:fr": "Moulmein",
+      "name:hi": "मौलाम्याइन",
+      "name:ja": "モーラミャイン",
+      "name:ko": "모울메인",
+      "name:sr": "Моуламјин",
+      "name:zh": "毛淡棉",
+      "int_name": "Moulmein",
+      "alt_name:en": "Mawlamyaing"
+    }
+  },
+  {
+    "name": "Maxixe",
+    "country": "Mozambique",
+    "latitude": -23.86156099994525,
+    "longitude": 35.348934,
+    "other_names": {
+      "name": "Maxixe",
+      "name:ko": "마시스",
+      "name:ru": "Машише"
+    }
+  },
+  {
+    "name": "Mayagüez",
+    "country": "United States Of America",
+    "latitude": 18.20111610025171,
+    "longitude": -67.1391124,
+    "other_names": {
+      "name": "Mayagüez",
+      "name:en": "Mayagüez",
+      "name:es": "Mayagüez",
+      "name:hu": "Mayagüez",
+      "name:ru": "Маягуэс",
+      "int_name": "Mayaguez"
+    }
+  },
+  {
+    "name": "Mayahi",
+    "country": "Niger",
+    "latitude": 13.953304999784761,
+    "longitude": 7.672418999999999,
+    "other_names": {
+      "name": "Mayahi",
+      "name:ar": "ماياهي",
+      "name:ru": "Маяхи"
+    }
+  },
+  {
+    "name": "Mayang",
+    "country": "China",
+    "latitude": 27.868866299960903,
+    "longitude": 109.79805529999999,
+    "other_names": {
+      "name": "麻阳苗族自治县",
+      "name:de": "Mayang",
+      "name:en": "Mayang",
+      "name:es": "Mayang",
+      "name:fr": "Xian autonome miao de Mayang",
+      "name:it": "Contea autonoma miao di Mayang",
+      "name:ja": "麻陽ミャオ族自治県",
+      "name:ko": "마양 먀오족 자치현",
+      "name:no": "Mayang Miao",
+      "name:ru": "Маян-Мяоский автономный уезд",
+      "name:sv": "Mayang",
+      "name:ur": "مایانگ میاو خود مختار کاؤنٹی",
+      "name:vi": "Ma Dương",
+      "name:zh": "麻阳苗族自治县",
+      "alt_name": "麻阳县;Mayang Miao Autonomous County",
+      "name:ceb": "Mayang Miaozu Zizhixian",
+      "name:nan": "Mâ-iông Biâu-cho̍k Chū-tī-koān",
+      "name:yue": "麻陽",
+      "short_name": "麻阳县",
+      "name:zh-Hant": "麻陽苗族自治縣",
+      "official_name": "麻阳苗族自治县",
+      "name:zh_pinyin": "máyáng miáozú zìzhì xiàn"
+    }
+  },
+  {
+    "name": "Maykop",
+    "country": "Russia",
+    "latitude": 44.60729375045331,
+    "longitude": 40.10434501528677,
+    "other_names": {
+      "name": "Майкоп",
+      "name:ab": "Маиҟәаҧа",
+      "name:ar": "مايكوب",
+      "name:de": "Maikop",
+      "name:en": "Maykop",
+      "name:eo": "Majkopo",
+      "name:et": "Maikop",
+      "name:fa": "مایکوپ",
+      "name:fr": "Maïkop",
+      "name:ka": "მაიკოპი",
+      "name:ru": "Майкоп",
+      "name:sr": "Мајкоп",
+      "name:tr": "Maykop",
+      "name:uk": "Майкоп",
+      "name:zh": "迈科普",
+      "name:ady": "Mыекъуапэ",
+      "name:kbd": "Мыекъуапэ"
+    }
+  },
+  {
+    "name": "Maykop",
+    "country": "Russia",
+    "latitude": 44.606207900501026,
+    "longitude": 40.10405299999999,
+    "other_names": {
+      "name": "Майкоп",
+      "name:ab": "Маиҟәаҧа",
+      "name:af": "Maikop",
+      "name:ar": "مايكوب",
+      "name:az": "Maykop",
+      "name:ca": "Maikop",
+      "name:ce": "Майкоп",
+      "name:cs": "Majkop",
+      "name:de": "Maikop",
+      "name:el": "Μαϊκόπ",
+      "name:en": "Maykop",
+      "name:eo": "Majkopo",
+      "name:et": "Maikop",
+      "name:eu": "Maikop",
+      "name:fa": "مایکوپ",
+      "name:fr": "Maïkop",
+      "name:he": "מייקופ",
+      "name:hu": "Majkop",
+      "name:hy": "Մայկոպ",
+      "name:ka": "მაიკოპი",
+      "name:ko": "마이코프",
+      "name:lt": "Maikopas",
+      "name:nl": "Majkop",
+      "name:os": "Майкъоп",
+      "name:pl": "Majkop",
+      "name:ro": "Maykop",
+      "name:ru": "Майкоп",
+      "name:sk": "Majkop",
+      "name:sr": "Мајкоп",
+      "name:tr": "Maykop",
+      "name:uk": "Майкоп",
+      "name:zh": "迈科普",
+      "name:ady": "Mыекъуапэ",
+      "name:kbd": "Мыекъуапэ",
+      "name:krc": "Майкоп",
+      "name:pnt": "Μαϊκόπ"
+    }
+  },
+  {
+    "name": "Maymana",
+    "country": "Afghanistan",
+    "latitude": 35.920390299727714,
+    "longitude": 64.7822509,
+    "other_names": {
+      "name": "میمنه",
+      "name:cs": "Majmana",
+      "name:de": "Maimana",
+      "name:el": "Μεϊμάνα",
+      "name:en": "Maymana",
+      "name:es": "Maymanah",
+      "name:et": "Meymaneh",
+      "name:fr": "Maïmana",
+      "name:hi": "मेयमना",
+      "name:ja": "マイーマナ",
+      "name:ru": "Меймене",
+      "name:uk": "Меймене",
+      "alt_name": "Meymaneh;Maimana"
+    }
+  },
+  {
+    "name": "Maynardville",
+    "country": "United States Of America",
+    "latitude": 36.25063639976135,
+    "longitude": -83.7974099,
+    "other_names": {
+      "name": "Maynardville"
+    }
+  }
+]

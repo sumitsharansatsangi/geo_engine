@@ -1,0 +1,417 @@
+[
+  {
+    "name": "Junlian",
+    "country": "China",
+    "latitude": 28.168421499927494,
+    "longitude": 104.5076391,
+    "other_names": {
+      "name": "筠连县",
+      "name:en": "Junlian",
+      "name:vi": "Quân Liên",
+      "name:zh": "筠连县",
+      "alt_name": "筠连;筠连镇;Junlian;Yunlian",
+      "name:zh-Hant": "筠連縣",
+      "name:zh_pinyin": "Yūnlián Xiàn"
+    }
+  },
+  {
+    "name": "Junshan",
+    "country": "China",
+    "latitude": 29.464286599790203,
+    "longitude": 113.00096669999999,
+    "other_names": {
+      "name": "君山区",
+      "name:de": "Junshan",
+      "name:en": "Junshan",
+      "name:eu": "Junshan",
+      "name:fr": "District de Junshan",
+      "name:it": "Distretto di Junshan",
+      "name:ja": "君山区",
+      "name:ko": "쥔산구",
+      "name:no": "Junshan",
+      "name:ru": "Цзюньшань",
+      "name:sv": "Junshan",
+      "name:vi": "Quân Sơn",
+      "name:zh": "君山区",
+      "alt_name": "君山;Junshan District",
+      "name:nan": "Kun-san-khu",
+      "name:yue": "君山區",
+      "name:zh-Hant": "君山區",
+      "name:zh_pinyin": "jūnshān qū"
+    }
+  },
+  {
+    "name": "Jūrmala",
+    "country": "Latvia",
+    "latitude": 56.97271640024433,
+    "longitude": 23.788697899999995,
+    "other_names": {
+      "name": "Jūrmala",
+      "name:de": "Rigaer Strand",
+      "name:fi": "Jūrmala",
+      "name:lt": "Jūrmala",
+      "name:lv": "Jūrmala",
+      "name:pl": "Jurmała",
+      "name:ru": "Юрмала",
+      "name:uk": "Юрмала",
+      "old_name": "Rīgas Jūrmala",
+      "old_name:lv": "Rīgas Jūrmala"
+    }
+  },
+  {
+    "name": "Jurong",
+    "country": "China",
+    "latitude": 31.9478236996106,
+    "longitude": 119.16339709999998,
+    "other_names": {
+      "name": "句容市",
+      "name:cy": "Jurong",
+      "name:de": "Jurong",
+      "name:en": "Jurong",
+      "name:fa": "ژورانگ",
+      "name:fr": "Jurong",
+      "name:id": "Jurong",
+      "name:it": "Jurong",
+      "name:ja": "句容市",
+      "name:ki": "Jurong",
+      "name:ko": "쥐룽시",
+      "name:nl": "Jurong",
+      "name:no": "Jurong",
+      "name:ru": "Цзюйжун",
+      "name:sv": "Jurong",
+      "name:tl": "Jurong",
+      "name:ur": "جورونگ، جیانگسو",
+      "name:vi": "Cú Dung",
+      "name:zh": "句容市",
+      "int_name": "Jurong",
+      "name:nan": "Kù-iông-chhī",
+      "name:pam": "Jurong",
+      "name:wuu": "句容市",
+      "name:yue": "句容",
+      "name:zh-Hant": "句容市",
+      "name:zh_pinyin": "Jùróng Shì"
+    }
+  },
+  {
+    "name": "Juticalpa",
+    "country": "Honduras",
+    "latitude": 14.667202899867977,
+    "longitude": -86.2195829,
+    "other_names": {
+      "name": "Juticalpa",
+      "name:hu": "Juticalpa",
+      "name:ru": "Хутикальпа"
+    }
+  },
+  {
+    "name": "Juxian",
+    "country": "China",
+    "latitude": 35.586742399697016,
+    "longitude": 118.82697529999997,
+    "other_names": {
+      "name": "莒县",
+      "name:en": "Juxian",
+      "name:ko": "쥐현",
+      "name:vi": "Cử",
+      "name:zh": "莒县",
+      "alt_name": "莒;Chu Hsien",
+      "name:zh-Hant": "莒縣",
+      "name:zh_pinyin": "Ju Xian"
+    }
+  },
+  {
+    "name": "Juye",
+    "country": "China",
+    "latitude": 35.39197149968069,
+    "longitude": 116.0858618,
+    "other_names": {
+      "name": "巨野县",
+      "name:en": "Juye",
+      "name:ru": "Цзюйе",
+      "name:zh": "巨野县",
+      "name:zh-Hant": "鉅野縣"
+    }
+  },
+  {
+    "name": "Jyväskylä",
+    "country": "Finland",
+    "latitude": 62.239300201456324,
+    "longitude": 25.745950999999998,
+    "other_names": {
+      "name": "Jyväskylä",
+      "name:fi": "Jyväskylä",
+      "name:la": "Granivicus",
+      "name:lt": "Juveskiulė",
+      "name:lv": "Jiveskile",
+      "name:ru": "Ювяскюля",
+      "name:uk": "Ювяскюля"
+    }
+  },
+  {
+    "name": "Kaba",
+    "country": "China",
+    "latitude": 48.058973099923584,
+    "longitude": 86.41499179999998,
+    "other_names": {
+      "name": "哈巴河县",
+      "name:en": "Kaba",
+      "name:kk": "Ақши",
+      "name:ru": "Акчий",
+      "name:ug": "ئاقچى",
+      "name:zh": "哈巴河县",
+      "alt_name": "哈巴河县;阿克齐;Akqi;Habahe",
+      "name:kk-Arab": "قابا اۋدانى",
+      "name:zh-Hant": "哈巴河縣"
+    }
+  },
+  {
+    "name": "Kabankalan",
+    "country": "Philippines",
+    "latitude": 9.988915299437465,
+    "longitude": 122.81348019999999,
+    "other_names": {
+      "name": "Kabankalan",
+      "name:en": "Kabankalan",
+      "name:ja": "カバンカラン",
+      "name:zh": "卡班卡兰"
+    }
+  },
+  {
+    "name": "Kabarnet",
+    "country": "Kenya",
+    "latitude": 0.4918246030644764,
+    "longitude": 35.74126128886133,
+    "other_names": {
+      "name": "Kabarnet"
+    }
+  },
+  {
+    "name": "Kabul",
+    "country": "Afghanistan",
+    "latitude": 34.52601089962358,
+    "longitude": 69.1776838,
+    "other_names": {
+      "name": "کابل",
+      "name:af": "Kaboel",
+      "name:am": "ካቡል",
+      "name:ar": "كابل",
+      "name:az": "Kabil",
+      "name:be": "Кабул",
+      "name:bg": "Кабул",
+      "name:bn": "কাবুল",
+      "name:bo": "ཁ་པུལ།",
+      "name:br": "Kaboul",
+      "name:ce": "Кабул",
+      "name:cs": "Kábul",
+      "name:cv": "Кабул",
+      "name:da": "Kabul",
+      "name:de": "Kabul",
+      "name:el": "Καμπούλ",
+      "name:en": "Kabul",
+      "name:eo": "Kabulo",
+      "name:es": "Kabul",
+      "name:et": "Kabul",
+      "name:eu": "Kabul",
+      "name:fa": "كابل",
+      "name:fi": "Kabul",
+      "name:fr": "Kaboul",
+      "name:fy": "Kabûl",
+      "name:ga": "Cabúl",
+      "name:gl": "Cabul - کابل",
+      "name:he": "קאבול",
+      "name:hi": "काबुल",
+      "name:hr": "Kabul",
+      "name:ht": "Kaboul",
+      "name:hu": "Kabul",
+      "name:hy": "Քաբուլ",
+      "name:id": "Kabul",
+      "name:is": "Kabúl",
+      "name:it": "Kabul",
+      "name:ja": "カーブル",
+      "name:ka": "ქაბული",
+      "name:km": "ទីក្រុងកាបូល",
+      "name:kn": "ಕಾಬುಲ್",
+      "name:ko": "카불",
+      "name:ks": "کابل",
+      "name:ku": "Kabûl",
+      "name:la": "Cabura",
+      "name:lb": "Kabul",
+      "name:lt": "Kabulas",
+      "name:lv": "Kabula",
+      "name:mi": "Kapūru",
+      "name:mk": "Кабул",
+      "name:ml": "കാബൂൾ",
+      "name:mn": "Кабул",
+      "name:mr": "काबुल",
+      "name:ne": "काबुल",
+      "name:nl": "Kaboel",
+      "name:oc": "Kabol",
+      "name:os": "Кабул",
+      "name:pl": "Kabul",
+      "name:ps": "کابل",
+      "name:pt": "Cabul",
+      "name:ru": "Кабул",
+      "name:sd": "ڪابل",
+      "name:sk": "Kábul",
+      "name:sl": "Kabul",
+      "name:sq": "Kabuli",
+      "name:sr": "Кабул",
+      "name:sv": "Kabul",
+      "name:ta": "காபூல்",
+      "name:tg": "Кобул",
+      "name:th": "คาบูล",
+      "name:tr": "Kâbil",
+      "name:tt": "Кабул",
+      "name:ug": "كابۇل",
+      "name:uk": "Кабул",
+      "name:ur": "کابل",
+      "name:vi": "Kabul",
+      "name:yi": "קאבול",
+      "name:zh": "喀布尔",
+      "name:arc": "ܩܐܒܘܠ",
+      "name:ast": "Kabul",
+      "name:azb": "کابل",
+      "name:ckb": "کابول",
+      "name:diq": "Kabil",
+      "name:frp": "Caboul",
+      "name:lrc": "کابول",
+      "name:mdf": "Кабул",
+      "name:mhr": "Кабул",
+      "name:nah": "Cabul",
+      "name:ota": "کابل",
+      "name:pnb": "کابل",
+      "name:syc": "ܩܐܒܘܠ",
+      "name:yue": "喀布爾"
+    }
+  },
+  {
+    "name": "Kadapa",
+    "country": "India",
+    "latitude": 14.475293599845402,
+    "longitude": 78.8216861,
+    "other_names": {
+      "name": "Kadapa",
+      "name:en": "Kadapa",
+      "name:hi": "कडपा",
+      "name:ja": "カダパ",
+      "name:kn": "ಕಡಪ",
+      "name:ml": "കടപ്പാ",
+      "name:pa": "ਕਡਪਾ",
+      "name:ta": "கடப்பா",
+      "name:te": "కడప"
+    }
+  },
+  {
+    "name": "Kadoma",
+    "country": "Zimbabwe",
+    "latitude": -18.337403300468054,
+    "longitude": 29.9135021,
+    "other_names": {
+      "name": "Kadoma",
+      "name:en": "Kadoma",
+      "name:ru": "Кадома",
+      "name:uk": "Кадома"
+    }
+  },
+  {
+    "name": "Kadoma",
+    "country": "Japan",
+    "latitude": 34.72880099963463,
+    "longitude": 135.59691,
+    "other_names": {
+      "name": "門真市",
+      "name:ar": "كادوما، أوساكا",
+      "name:de": "Kadoma",
+      "name:en": "Kadoma",
+      "name:es": "Kadoma",
+      "name:fr": "Kadoma",
+      "name:ja": "門真市",
+      "name:ko": "가도마시",
+      "name:pl": "Kadoma",
+      "name:ru": "Кадома",
+      "name:uk": "Кадома",
+      "name:ja_rm": "Kadoma-shi"
+    }
+  },
+  {
+    "name": "Kaduna",
+    "country": "Nigeria",
+    "latitude": 10.518289899466575,
+    "longitude": 7.4359863,
+    "other_names": {
+      "name": "Kaduna",
+      "name:ar": "كادونا",
+      "name:ko": "카두나",
+      "name:ru": "Кадуна",
+      "name:uk": "Кадуна"
+    }
+  },
+  {
+    "name": "Kaduqli",
+    "country": "Sudan",
+    "latitude": 11.008593399499244,
+    "longitude": 29.715575099999995,
+    "other_names": {
+      "name": "كادوقلي‎",
+      "name:ar": "كادوقلي‎",
+      "name:de": "Kaduqli",
+      "name:en": "Kaduqli",
+      "name:fr": "Kadougli",
+      "name:ru": "Кадугли",
+      "name:uk": "Кадуглі",
+      "alt_name": "كادقلي",
+      "alt_name:ar": "كادقلي",
+      "alt_name:en": "Kadugli"
+    }
+  },
+  {
+    "name": "Kaechon",
+    "country": "North Korea",
+    "latitude": 39.70347230022647,
+    "longitude": 125.8888149,
+    "other_names": {
+      "name": "개천시",
+      "name:en": "Kaechon",
+      "name:et": "Kaech'ŏn",
+      "name:ja": "价川市",
+      "name:ko": "개천시",
+      "name:ru": "Кэчхон",
+      "name:zh": "价川市",
+      "int_name": "Kaech'ŏn",
+      "name:ko-Hani": "价川市"
+    }
+  },
+  {
+    "name": "Kaele",
+    "country": "Cameroon",
+    "latitude": 10.109573799443515,
+    "longitude": 14.446062,
+    "other_names": {
+      "name": "Kaele",
+      "name:ar": "كايلي"
+    }
+  },
+  {
+    "name": "Kaesong",
+    "country": "North Korea",
+    "latitude": 37.971699099978004,
+    "longitude": 126.55275729999997,
+    "other_names": {
+      "name": "개성시",
+      "name:cs": "Kesong",
+      "name:el": "Γκέσονγκ",
+      "name:en": "Kaesong",
+      "name:eo": "Kesongo",
+      "name:et": "Kaesŏng",
+      "name:ja": "開城市",
+      "name:ko": "개성시",
+      "name:ru": "Кэсон",
+      "name:zh": "开城市",
+      "name:ko-Hani": "開城市",
+      "name:zh-Hant": "開城市",
+      "official_name": "개성특별시",
+      "official_name:ko": "개성특별시",
+      "official_name:ko_hanja": "開城特別市"
+    }
+  }
+]

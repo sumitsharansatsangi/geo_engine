@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Gaza",
+    "country": "Israel And Palestine",
+    "latitude": 31.51286789963054,
+    "longitude": 34.4581358,
+    "other_names": {
+      "name": "غزة",
+      "name:af": "Gasa",
+      "name:ar": "غزة",
+      "name:az": "Qəzza",
+      "name:ba": "Ғәззә",
+      "name:be": "Газа",
+      "name:bg": "Газа",
+      "name:bn": "গাজা",
+      "name:br": "Gaza",
+      "name:bs": "Gaza",
+      "name:ca": "Gaza",
+      "name:ce": "ГӀазат",
+      "name:cs": "Gaza",
+      "name:cy": "Gaza",
+      "name:da": "Gaza",
+      "name:de": "Gaza",
+      "name:el": "Γάζα",
+      "name:en": "Gaza",
+      "name:eo": "Gaza-urbo",
+      "name:es": "Gaza",
+      "name:et": "Gaza",
+      "name:eu": "Gaza",
+      "name:fa": "غزه",
+      "name:fi": "Aaza",
+      "name:fr": "Gaza",
+      "name:gd": "Gàsa",
+      "name:gl": "Gaza",
+      "name:he": "עזה",
+      "name:hi": "ग़ज़ा",
+      "name:hr": "Gaza",
+      "name:hu": "Gáza",
+      "name:hy": "Ղազա",
+      "name:id": "Gaza",
+      "name:it": "Gaza",
+      "name:ja": "ガザ",
+      "name:ka": "ღაზა",
+      "name:kl": "Gaza",
+      "name:kn": "ಗಾಝಾ",
+      "name:ko": "가자",
+      "name:ku": "Xeze",
+      "name:ky": "Газа",
+      "name:la": "Gaza",
+      "name:lt": "Gaza",
+      "name:lv": "Gaza",
+      "name:mk": "Газа",
+      "name:ml": "ഗാസാ നഗരം",
+      "name:mr": "गाझा",
+      "name:ms": "Gaza",
+      "name:nb": "Gaza",
+      "name:ne": "गाजा शहर",
+      "name:nl": "Gaza",
+      "name:nn": "Gaza by",
+      "name:os": "Газæ",
+      "name:pa": "ਗ਼ਜ਼ਾ ਸ਼ਹਿਰ",
+      "name:pl": "Gaza",
+      "name:ps": "غزه",
+      "name:pt": "Gaza",
+      "name:ro": "Gaza",
+      "name:ru": "Газа",
+      "name:sk": "Gaza",
+      "name:sr": "Газа",
+      "name:sv": "Gaza",
+      "name:sw": "Gaza",
+      "name:ta": "காசா",
+      "name:tr": "Gazze",
+      "name:tt": "Газзә",
+      "name:uk": "Газа",
+      "name:ur": "غزہ",
+      "name:uz": "Gʻazza",
+      "name:vi": "Gaza",
+      "name:yi": "עזה",
+      "name:zh": "加沙地区",
+      "name:ckb": "غەززە",
+      "name:kmr": "خەزە",
+      "name:mzn": "غزه",
+      "name:pnb": "غزہ",
+      "name:ku-Arab": "خەزە"
+    }
+  },
+  {
+    "name": "Gaziantep",
+    "country": "Turkey",
+    "latitude": 37.06283169985619,
+    "longitude": 37.3792617,
+    "other_names": {
+      "name": "Gaziantep",
+      "name:ar": "عنتاب",
+      "name:ca": "Gaziantep",
+      "name:de": "Gaziantep",
+      "name:el": "Γκαζιαντέπ",
+      "name:en": "Gaziantep",
+      "name:es": "Gaziantep",
+      "name:fr": "Gaziantep",
+      "name:hi": "गाझियान्तेप",
+      "name:hy": "Այնթապ",
+      "name:ka": "გაზიანთეფი",
+      "name:ku": "Dîlok",
+      "name:pt": "Gaziantep",
+      "name:ru": "Газиантеп",
+      "alt_name": "Antep",
+      "loc_name": "Antep",
+      "name:ckb": "دیلۆک",
+      "name:diq": "Qazianteb"
+    }
+  },
+  {
+    "name": "Gazojak",
+    "country": "Uzbekistan",
+    "latitude": 41.18880300041267,
+    "longitude": 61.4060832,
+    "other_names": {
+      "name": "Gazojak",
+      "name:ru": "Газаджак",
+      "name:tk": "Gazojak"
+    }
+  },
+  {
+    "name": "Gazojak",
+    "country": "Turkmenistan",
+    "latitude": 41.18880300041267,
+    "longitude": 61.4060832,
+    "other_names": {
+      "name": "Gazojak",
+      "name:ru": "Газаджак",
+      "name:tk": "Gazojak"
+    }
+  },
+  {
+    "name": "GBÉRÉYIRÉ",
+    "country": "Guinea",
+    "latitude": 9.823503099429734,
+    "longitude": -13.4915543,
+    "other_names": {
+      "name": "GBÉRÉYIRÉ"
+    }
+  },
+  {
+    "name": "Gdansk",
+    "country": "Poland",
+    "latitude": 54.348290799251224,
+    "longitude": 18.6540231,
+    "other_names": {
+      "name": "Gdańsk",
+      "name:af": "Gdansk",
+      "name:ar": "غدانسك",
+      "name:be": "Гданьск",
+      "name:cs": "Gdaňsk",
+      "name:de": "Danzig",
+      "name:el": "Γκντανσκ",
+      "name:en": "Gdansk",
+      "name:eo": "Gdansko",
+      "name:fa": "گدانسک",
+      "name:he": "גדנסק",
+      "name:hu": "Gdańsk",
+      "name:it": "Danzica",
+      "name:ja": "グダニスク",
+      "name:la": "Gedanum",
+      "name:lt": "Gdanskas",
+      "name:lv": "Gdaņska",
+      "name:mk": "Гдањск",
+      "name:pl": "Gdańsk",
+      "name:pt": "Danzigue",
+      "name:ru": "Гданьск",
+      "name:sk": "Gdaňsk",
+      "name:sl": "Gdansk",
+      "name:uk": "Гданськ",
+      "name:ur": "گدانسک",
+      "name:zh": "格但斯克",
+      "name:ast": "Gdansk",
+      "name:azb": "گدانسک",
+      "name:ckb": "گدانسک",
+      "name:csb": "Gduńsk",
+      "name:nds": "Danzig",
+      "name:pnb": "گدانسک",
+      "old_name:la": "Dantiscum",
+      "name:zh-Hans": "格但斯克",
+      "name:zh-Hant": "格但斯克"
+    }
+  },
+  {
+    "name": "Gdynia",
+    "country": "Poland",
+    "latitude": 54.51649819928932,
+    "longitude": 18.540273799999998,
+    "other_names": {
+      "name": "Gdynia",
+      "name:cs": "Gdyně",
+      "name:de": "Gdingen",
+      "name:el": "Γδύνια",
+      "name:eo": "Gdinio",
+      "name:he": "גדיניה",
+      "name:hu": "Gdynia",
+      "name:ja": "グディニャ",
+      "name:lt": "Gdynė",
+      "name:lv": "Gdiņa",
+      "name:mk": "Гдиња",
+      "name:pl": "Gdynia",
+      "name:ru": "Гдыня",
+      "name:sk": "Gdyňa",
+      "name:uk": "Гдиня",
+      "name:csb": "Gdiniô",
+      "name:szl": "Gdyńa",
+      "old_name": "Gotenhafen"
+    }
+  },
+  {
+    "name": "Geelong",
+    "country": "Australia",
+    "latitude": -38.1492813006034,
+    "longitude": 144.35982689999997,
+    "other_names": {
+      "name": "Geelong",
+      "name:en": "Geelong",
+      "name:ja": "ジーロング",
+      "name:ru": "Джелонг",
+      "name:uk": "Джелонг",
+      "name:zh": "吉朗",
+      "name:pronunciation": "dʒɪˈlɒŋ"
+    }
+  },
+  {
+    "name": "Geelong CBD",
+    "country": "Australia",
+    "latitude": -38.148742382636655,
+    "longitude": 144.36027335102696,
+    "other_names": {
+      "name": "Geelong CBD"
+    }
+  },
+  {
+    "name": "Ge'gyai",
+    "country": "China",
+    "latitude": 32.38916659959646,
+    "longitude": 81.1429703,
+    "other_names": {
+      "name": "革吉县",
+      "name:bo": "དགེ་རྒྱས་རྫོང་།",
+      "name:en": "Ge'gyai",
+      "name:ja": "ゲギェ県",
+      "name:ru": "Гегьэ",
+      "name:vi": "Gê’gyai",
+      "name:zh": "革吉县",
+      "alt_name": "革吉;Ko-chi Hsien;Ge'gyai Xian;Geji",
+      "alt_name:vi": "Cách Cát",
+      "name:zh-Hant": "革吉縣",
+      "name:zh_pinyin": "Gê'gyai Xian"
+    }
+  },
+  {
+    "name": "Geidam",
+    "country": "Nigeria",
+    "latitude": 12.89520429966821,
+    "longitude": 11.9264702,
+    "other_names": {
+      "name": "Geidam"
+    }
+  },
+  {
+    "name": "Gejiu",
+    "country": "China",
+    "latitude": 23.36187380036848,
+    "longitude": 103.15773909999999,
+    "other_names": {
+      "name": "个旧市",
+      "name:de": "Gejiu",
+      "name:en": "Gejiu",
+      "name:fr": "Gejiu",
+      "name:ja": "箇旧市",
+      "name:ru": "Гэцзю",
+      "name:vi": "Cá Cựu",
+      "name:zh": "个旧市",
+      "name:zh-Hant": "箇舊市",
+      "name:zh_pinyin": "Gèjìu Shì"
+    }
+  },
+  {
+    "name": "Gelsenkirchen",
+    "country": "Germany",
+    "latitude": 51.51103209917106,
+    "longitude": 7.0960124,
+    "other_names": {
+      "name": "Gelsenkirchen",
+      "name:ar": "غلزنكيرشن",
+      "name:la": "Gelsenkircha",
+      "name:nds": "Gelsenkiärken"
+    }
+  },
+  {
+    "name": "Gemena",
+    "country": "Congo Democratic Republic",
+    "latitude": 3.254928599657191,
+    "longitude": 19.7750831,
+    "other_names": {
+      "name": "Gemena",
+      "name:en": "Gemena",
+      "name:ru": "Гемена"
+    }
+  },
+  {
+    "name": "Geneina",
+    "country": "Sudan",
+    "latitude": 13.443499999727257,
+    "longitude": 22.445227799999998,
+    "other_names": {
+      "name": "الجنينة",
+      "name:ar": "الجنينة",
+      "name:en": "Geneina",
+      "name:et": "Al-Junaynah",
+      "name:fr": "Al-Genaïna",
+      "name:ru": "Эль-Генейна",
+      "alt_name": "Al-Junaynah;Al Jinēna;Al Jinena;Aj Jinēna;Aj Jinena;Geneina;Al-Jinayna;Al Geneina;Al Jeneina;Geneina Fort",
+      "alt_name:en": "El Geneina"
+    }
+  },
+  {
+    "name": "General Escobedo",
+    "country": "Mexico",
+    "latitude": 25.790768000185125,
+    "longitude": -100.30632409999998,
+    "other_names": {
+      "name": "General Escobedo"
+    }
+  },
+  {
+    "name": "General Liber Seregni",
+    "country": "Uruguay",
+    "latitude": -34.81986769985093,
+    "longitude": -56.007987,
+    "other_names": {
+      "name": "General Liber Seregni"
+    }
+  },
+  {
+    "name": "General Roca",
+    "country": "Argentina",
+    "latitude": -39.026627600775704,
+    "longitude": -67.5754863,
+    "other_names": {
+      "name": "General Roca",
+      "name:ru": "Хенераль-Рока",
+      "alt_name": "Fiske Menuco",
+      "name:arn": "Fiske Menuco",
+      "old_name": "Fuerte General Roca"
+    }
+  },
+  {
+    "name": "General Santos",
+    "country": "Philippines",
+    "latitude": 6.112330999439234,
+    "longitude": 125.1717145,
+    "other_names": {
+      "name": "General Santos",
+      "name:en": "General Santos",
+      "name:ja": "ジェネラル・サントス",
+      "name:ko": "제너널산토스",
+      "name:ru": "Генерал-Сантос",
+      "name:uk": "Генерал-Сантос",
+      "name:zh": "三投斯将军市",
+      "alt_name": "General Santos City;GenSan",
+      "old_name": "Dadiangas",
+      "name:acronym": "GSC",
+      "official_name": "City of General Santos"
+    }
+  },
+  {
+    "name": "General Trias",
+    "country": "Philippines",
+    "latitude": 14.386163699834958,
+    "longitude": 120.88027980000001,
+    "other_names": {
+      "name": "General Trias",
+      "alt_name": "Gentri",
+      "old_name": "San Francisco de Malabon"
+    }
+  }
+]

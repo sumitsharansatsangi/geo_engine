@@ -1,0 +1,359 @@
+[
+  {
+    "name": "Sremska Mitrovica",
+    "country": "Serbia",
+    "latitude": 44.970165400471075,
+    "longitude": 19.612413199999995,
+    "other_names": {
+      "name": "Сремска Митровица",
+      "name:el": "Σρέμσκα Μιτρόβιτσα",
+      "name:en": "Sremska Mitrovica",
+      "name:hr": "Srijemska Mitrovica",
+      "name:hu": "Szávaszentdemeter",
+      "name:la": "Sirmium",
+      "name:lt": "Sremska Mitrovica",
+      "name:pl": "Sremska Mitrovica",
+      "name:ru": "Сремска-Митровица",
+      "name:sr": "Сремска Митровица",
+      "old_name:de": "Syrmisch-Mitrowitz",
+      "name:sr-Latn": "Sremska Mitrovica"
+    }
+  },
+  {
+    "name": "Sri Ganganagar",
+    "country": "India",
+    "latitude": 29.927055599746325,
+    "longitude": 73.87615189999998,
+    "other_names": {
+      "name": "Sri Ganganagar",
+      "name:ar": "سري غانغانغر",
+      "name:de": "Sri Ganganagar",
+      "name:en": "Sri Ganganagar",
+      "name:es": "Sri Ganganagar",
+      "name:fr": "Sri Ganganagar",
+      "name:he": "שרי גאנגה נגר",
+      "name:hi": "श्रीगंगानगर",
+      "name:ja": "ガンガーナガル",
+      "name:kn": "ಶ್ರೀ ಗಂಗಾನಗರ",
+      "name:pa": "ਸ੍ਰੀ ਗੰਗਾਨਗਰ"
+    }
+  },
+  {
+    "name": "Sri Jayawardenepura Kotte",
+    "country": "Sri Lanka",
+    "latitude": 6.888321899408501,
+    "longitude": 79.91874149999998,
+    "other_names": {
+      "name": "ශ්‍රී ජයවර්ධනපුර කෝට්ටේ",
+      "name:ar": "سري جاياواردنابورا كوتي",
+      "name:cs": "Šrí Džajavardanapura Kotte",
+      "name:de": "Sri Jayewardenepura Kotte",
+      "name:en": "Sri Jayawardenepura Kotte",
+      "name:fr": "Sri Jayawardenapura Kotte",
+      "name:he": "סרי ג'איווארדנפורה קוטה",
+      "name:hi": "श्री जयवर्धनेपुरा कोट्टे",
+      "name:hu": "Sri Jayawardenapura Kotte",
+      "name:ja": "スリジャヤワルダナプラコッテ",
+      "name:kn": "ಶ್ರೀ ಜಯವರ್ದೆನಪುರ ಕೊಟ್ಟೆ",
+      "name:ko": "스리자야와르데네푸라코테",
+      "name:ml": "ശ്രീ ജയവർദനെപുരെ കോട്ടെ",
+      "name:pl": "Sri Dźajawardanapura Kotte",
+      "name:si": "ශ්‍රී ජයවර්ධනපුර කෝට්ටේ",
+      "name:sr": "Сри Џајаварденепура Коте",
+      "alt_name": "Kotte"
+    }
+  },
+  {
+    "name": "Srikakulam",
+    "country": "India",
+    "latitude": 18.294930700259755,
+    "longitude": 83.89388439999999,
+    "other_names": {
+      "name": "Srikakulam",
+      "name:en": "Srikakulam",
+      "name:hi": "श्रीकाकुलम",
+      "name:ja": "シュリーカークラム",
+      "name:kn": "ಶ್ರೀಕಾಕುಳಂ",
+      "name:or": "ଶ୍ରୀକାକୁଲମ",
+      "name:pa": "ਸ੍ਰੀਕਾਕੁਲਮ",
+      "name:ta": "ஸ்ரீகாகுளம்",
+      "name:te": "శ్రీకాకుళం"
+    }
+  },
+  {
+    "name": "Sri Muktsar Sahib",
+    "country": "India",
+    "latitude": 30.469199999700027,
+    "longitude": 74.51819999999998,
+    "other_names": {
+      "name": "Sri Muktsar Sahib",
+      "name:en": "Sri Muktsar Sahib",
+      "name:hi": "श्री मुक्तसर साहिब",
+      "name:ja": "ムクトサル",
+      "name:pa": "ਸ੍ਰੀ ਮੁਕਤਸਰ ਸਾਹਿਬ"
+    }
+  },
+  {
+    "name": "Srinagar",
+    "country": "India",
+    "latitude": 34.07474439960421,
+    "longitude": 74.82044429999999,
+    "other_names": {
+      "name": "Srinagar",
+      "name:ar": "سرينغر",
+      "name:cs": "Šrínagar",
+      "name:de": "Srinagar",
+      "name:en": "Srinagar",
+      "name:eo": "Srinagaro",
+      "name:fa": "سرینگر",
+      "name:he": "סרינגאר",
+      "name:hi": "श्रीनगर",
+      "name:ja": "シュリーナガル",
+      "name:kn": "ಶ್ರೀನಗರ",
+      "name:ko": "스리나가르",
+      "name:ks": "سِری نَگَر",
+      "name:lt": "Šrinagaras",
+      "name:ml": "ശ്രീനഗർ",
+      "name:ne": "श्रीनगर",
+      "name:pa": "ਸ੍ਰੀਨਗਰ",
+      "name:pl": "Śrinagar",
+      "name:ps": "سري نگر",
+      "name:ru": "Сринагар",
+      "name:ta": "சிறிநகர்",
+      "name:uk": "Срінаґар",
+      "name:ur": "سرینگر",
+      "name:zh": "斯利那加",
+      "alt_name:ar": "سريناغار;سري نغر",
+      "alt_name:pa": "ਸ਼੍ਰੀਨਗਰ"
+    }
+  },
+  {
+    "name": "St Albans",
+    "country": "England",
+    "latitude": 51.74513422196614,
+    "longitude": -0.31790786593290354,
+    "other_names": {
+      "name": "St Albans",
+      "name:ru": "Сент-Олбанс"
+    }
+  },
+  {
+    "name": "St Albans",
+    "country": "England",
+    "latitude": 51.74929559914207,
+    "longitude": -0.34225259999999996,
+    "other_names": {
+      "name": "St Albans",
+      "name:en": "St Albans",
+      "name:hu": "St Albans",
+      "name:ko": "세인트올번스",
+      "name:mk": "Сент Олбанс",
+      "name:ru": "Сент-Олбанс",
+      "name:sr": "Сент Олбанс",
+      "name:uk": "Сент-Олбанс"
+    }
+  },
+  {
+    "name": "St. Albert",
+    "country": "Canada",
+    "latitude": 53.63323899913358,
+    "longitude": -113.62884500000001,
+    "other_names": {
+      "name": "St. Albert"
+    }
+  },
+  {
+    "name": "Stamford",
+    "country": "United States Of America",
+    "latitude": 41.05343020039807,
+    "longitude": -73.5387341,
+    "other_names": {
+      "name": "Stamford"
+    }
+  },
+  {
+    "name": "Stara Zagora",
+    "country": "Bulgaria",
+    "latitude": 42.42474210051365,
+    "longitude": 25.6257235,
+    "other_names": {
+      "name": "Стара Загора",
+      "name:bg": "Стара Загора",
+      "name:de": "Stara Sagora",
+      "name:el": "Στάρα Ζαγόρα",
+      "name:en": "Stara Zagora",
+      "name:et": "Stara Zagora",
+      "name:fr": "Stara Zagora",
+      "name:hr": "Stara Zagora",
+      "name:nl": "Stara Zagora",
+      "name:ro": "Stara Zagora",
+      "name:ru": "Стара-Загора",
+      "name:sr": "Стара Загора",
+      "name:tr": "Eski Zağra",
+      "int_name": "Stara Zagora",
+      "name:grc": "Βερόη"
+    }
+  },
+  {
+    "name": "Stary Oskol",
+    "country": "Russia",
+    "latitude": 51.298037999201185,
+    "longitude": 37.833202,
+    "other_names": {
+      "name": "Старый Оскол",
+      "name:ar": "ستاري اوسكول",
+      "name:de": "Stary Oskol",
+      "name:en": "Stary Oskol",
+      "name:es": "Stari Oskol",
+      "name:et": "Starõi Oskol",
+      "name:fr": "Stary Oskol",
+      "name:hu": "Sztarij Oszkol",
+      "name:ko": "스타리오스콜",
+      "name:lt": "Senasis Oskolas",
+      "name:pl": "Stary Oskoł",
+      "name:ru": "Старый Оскол",
+      "name:sr": "Стари Оскол",
+      "name:uk": "Старий Оскол",
+      "name:hsb": "Staryj Oskol",
+      "old_name": "Усть-Ублинский острожек;Углы;Оскол"
+    }
+  },
+  {
+    "name": "Stary Oskol",
+    "country": "Russia",
+    "latitude": 51.300808027949465,
+    "longitude": 37.858512564131324,
+    "other_names": {
+      "name": "Старый Оскол",
+      "name:de": "Stary Oskol",
+      "name:en": "Stary Oskol"
+    }
+  },
+  {
+    "name": "St Asaph",
+    "country": "Wales",
+    "latitude": 53.25756139910005,
+    "longitude": -3.4438607,
+    "other_names": {
+      "name": "St Asaph",
+      "name:cy": "Llanelwy",
+      "name:en": "St Asaph",
+      "name:hu": "St Asaph",
+      "name:ko": "세인트애서프",
+      "name:mk": "Сент Асаф",
+      "name:uk": "Сент-Асаф"
+    }
+  },
+  {
+    "name": "State College",
+    "country": "United States Of America",
+    "latitude": 40.79445040036855,
+    "longitude": -77.86163859999999,
+    "other_names": {
+      "name": "State College",
+      "name:en": "State College"
+    }
+  },
+  {
+    "name": "Statesville",
+    "country": "United States Of America",
+    "latitude": 35.78263629971462,
+    "longitude": -80.8872959,
+    "other_names": {
+      "name": "Statesville"
+    }
+  },
+  {
+    "name": "Stavanger",
+    "country": "Norway",
+    "latitude": 58.96995090124993,
+    "longitude": 5.7318061,
+    "other_names": {
+      "name": "Stavanger",
+      "name:ar": "ستافانغر",
+      "name:is": "Stafangur",
+      "name:ps": "ستوانګر",
+      "name:ru": "Ставангер",
+      "name:zh": "斯塔萬格",
+      "alt_name:ar": "ستافانجر"
+    }
+  },
+  {
+    "name": "Stavropol",
+    "country": "Russia",
+    "latitude": 45.04332450046405,
+    "longitude": 41.9690934,
+    "other_names": {
+      "name": "Ставрополь",
+      "name:az": "Stavropol",
+      "name:de": "Stawropol",
+      "name:el": "Σταυρούπολη",
+      "name:en": "Stavropol",
+      "name:et": "Stavropol",
+      "name:fr": "Stavropol",
+      "name:hr": "Stavropol",
+      "name:hu": "Stravlopol",
+      "name:hy": "Ստավրոպոլ",
+      "name:ka": "სტავროპოლი",
+      "name:ko": "스타브로폴",
+      "name:lt": "Stavropolis",
+      "name:nl": "Stavropol",
+      "name:os": "Стъарапол",
+      "name:pl": "Stawropol",
+      "name:ro": "Stavropol",
+      "name:ru": "Ставрополь",
+      "name:sk": "Stavropoľ",
+      "name:sl": "Stavropol",
+      "name:sr": "Ставропољ",
+      "name:tr": "Stavropol",
+      "name:uk": "Ставрополь",
+      "name:zh": "斯塔夫罗波尔市",
+      "int_name": "Stavropol",
+      "name:hsb": "Stawropol",
+      "name:kbd": "Шъэт-Къалэ"
+    }
+  },
+  {
+    "name": "Stavropol",
+    "country": "Russia",
+    "latitude": 45.03976310747603,
+    "longitude": 41.961866781228835,
+    "other_names": {
+      "name": "Ставрополь",
+      "name:az": "Stavropol",
+      "name:de": "Stawropol",
+      "name:el": "Σταυρούπολη",
+      "name:en": "Stavropol",
+      "name:fr": "Stavropol",
+      "name:hr": "Stavropol",
+      "name:hu": "Stravlopol",
+      "name:hy": "Ստավրոպոլ",
+      "name:ka": "სტავროპოლი",
+      "name:ko": "스타브로폴",
+      "name:lt": "Stavropolis",
+      "name:nl": "Stavropol",
+      "name:os": "Стъарапол",
+      "name:pl": "Stawropol",
+      "name:ro": "Stavropol",
+      "name:ru": "Ставрополь",
+      "name:sk": "Stavropoľ",
+      "name:sl": "Stavropol",
+      "name:sr": "Ставропољ",
+      "name:tr": "Stavropol",
+      "name:uk": "Ставрополь",
+      "name:zh": "斯塔夫罗波尔市",
+      "int_name": "Stavropol",
+      "name:hsb": "Stawropol",
+      "name:kbd": "Шъэт-Къалэ"
+    }
+  },
+  {
+    "name": "St. Catharines",
+    "country": "Canada",
+    "latitude": 43.15798120053977,
+    "longitude": -79.2441003,
+    "other_names": {
+      "name": "St. Catharines"
+    }
+  }
+]

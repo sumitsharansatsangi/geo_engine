@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Bermejo",
+    "country": "Bolivia",
+    "latitude": -22.732716300103224,
+    "longitude": -64.34277569999999,
+    "other_names": {
+      "name": "Bermejo",
+      "old_name": "Pozo del Bermejo"
+    }
+  },
+  {
+    "name": "Bern",
+    "country": "Switzerland",
+    "latitude": 46.94827130017181,
+    "longitude": 7.451451199999999,
+    "other_names": {
+      "name": "Bern",
+      "name:am": "ቤርን",
+      "name:an": "Berna",
+      "name:ar": "برن",
+      "name:be": "Берн",
+      "name:bg": "Берн",
+      "name:bn": "বের্ন",
+      "name:bo": "པེར་ནེ།",
+      "name:br": "Bern",
+      "name:ca": "Berna",
+      "name:cs": "Bern",
+      "name:cv": "Берн",
+      "name:de": "Bern",
+      "name:el": "Βέρνη",
+      "name:en": "Bern",
+      "name:eo": "Berno",
+      "name:es": "Berna",
+      "name:eu": "Berna",
+      "name:fa": "برن",
+      "name:fr": "Berne",
+      "name:ga": "Beirn",
+      "name:gd": "Berne",
+      "name:gl": "Berna - Bern",
+      "name:gv": "Berne",
+      "name:he": "ברן",
+      "name:hi": "बर्न",
+      "name:ht": "Bèn",
+      "name:hu": "Bern",
+      "name:hy": "Բեռն",
+      "name:is": "Bern",
+      "name:it": "Berna",
+      "name:ja": "ベルン",
+      "name:ka": "ბერნი",
+      "name:kk": "Берн",
+      "name:kn": "ಬೇರ್ನ್",
+      "name:ko": "베른",
+      "name:ks": "برن",
+      "name:ku": "Bern",
+      "name:la": "Berna",
+      "name:lt": "Bernas",
+      "name:lv": "Berne",
+      "name:mk": "Берн",
+      "name:ml": "ബേൺ",
+      "name:mr": "बर्न",
+      "name:no": "Bern",
+      "name:oc": "Bèrna",
+      "name:os": "Берн",
+      "name:pl": "Berno",
+      "name:ps": "برن",
+      "name:pt": "Berna",
+      "name:rm": "Berna",
+      "name:ro": "Berna",
+      "name:ru": "Берн",
+      "name:sk": "Bern",
+      "name:sl": "Berna",
+      "name:sq": "Berna",
+      "name:sr": "Берн",
+      "name:sv": "Bern",
+      "name:ta": "பேர்ன்",
+      "name:tg": "Берн",
+      "name:th": "เบิร์น",
+      "name:tt": "Берн",
+      "name:ug": "بېرن",
+      "name:uk": "Берн",
+      "name:ur": "برن",
+      "name:yi": "בערן",
+      "name:yo": "Berne",
+      "name:zh": "伯爾尼",
+      "loc_name": "Bärn",
+      "name:arc": "ܒܪܢ",
+      "name:arz": "بيرن",
+      "name:ast": "Berna",
+      "name:azb": "برن",
+      "name:ckb": "بێرن",
+      "name:ext": "Berna",
+      "name:frp": "Bèrna",
+      "name:fur": "Berna",
+      "name:gsw": "Bärn",
+      "name:ilo": "Berna",
+      "name:kmr": "بەرن",
+      "name:lij": "Berna",
+      "name:lmo": "Berna",
+      "name:lrc": "برن",
+      "name:lzh": "伯恩",
+      "name:nah": "Berna",
+      "name:nds": "Bern",
+      "name:ota": "برن",
+      "name:pdc": "Bann, Schweiz",
+      "name:pms": "Berna",
+      "name:pnb": "برن",
+      "name:sah": "Берн",
+      "name:scn": "Berna",
+      "name:tpi": "Berne",
+      "name:udm": "Берн",
+      "name:vec": "Berna",
+      "name:wuu": "办合纳",
+      "name:xmf": "ბერნი",
+      "name:yue": "伯恩",
+      "name:kk-Arab": "بەرن",
+      "name:ku-Arab": "بەرن",
+      "name:zh-Hans": "伯尔尼",
+      "name:zh-Hant": "伯恩",
+      "name:kab-Arab": "بيرن",
+      "name:be-tarask": "Бэрн"
+    }
+  },
+  {
+    "name": "Bernal",
+    "country": "Argentina",
+    "latitude": -34.71657099982954,
+    "longitude": -58.2977925,
+    "other_names": {
+      "name": "Bernal"
+    }
+  },
+  {
+    "name": "Berrechid",
+    "country": "Morocco",
+    "latitude": 33.26767459958789,
+    "longitude": -7.581146499999998,
+    "other_names": {
+      "name": "Berrechid ⴱⵔⵔⵛⵉⴷ برشيد",
+      "name:ar": "برشيد",
+      "name:de": "Berrechid",
+      "name:en": "Berrechid",
+      "name:fa": "برشید",
+      "name:fr": "Berrechid",
+      "name:azb": "برشید",
+      "name:ber": "ⴱⴰⵔⵛⵉⴷ",
+      "name:zgh": "ⴱⴰⵔⵛⵉⴷ"
+    }
+  },
+  {
+    "name": "Bertoua",
+    "country": "Cameroon",
+    "latitude": 4.577726499538774,
+    "longitude": 13.684440899999998,
+    "other_names": {
+      "name": "Bertoua",
+      "name:ko": "베르투아"
+    }
+  },
+  {
+    "name": "Besançon",
+    "country": "France",
+    "latitude": 47.238022200111246,
+    "longitude": 6.0243622,
+    "other_names": {
+      "name": "Besançon",
+      "name:ar": "بيزنسون",
+      "name:be": "Безансон",
+      "name:bg": "Безансон",
+      "name:ce": "Безансон",
+      "name:cv": "Безансон",
+      "name:de": "Besançon",
+      "name:el": "Μπεζανσόν",
+      "name:eo": "Bezansono",
+      "name:es": "Besanzón",
+      "name:fa": "بزانسون",
+      "name:fr": "Besançon",
+      "name:he": "בזאנסון",
+      "name:hu": "Besançon",
+      "name:hy": "Բեզանսոն",
+      "name:ja": "ブザンソン",
+      "name:ka": "ბეზანსონი",
+      "name:ko": "브장송",
+      "name:la": "Vesontio",
+      "name:lt": "Bezansonas",
+      "name:lv": "Bezansona",
+      "name:mk": "Безансон",
+      "name:mr": "बेझाँसों",
+      "name:oc": "Besançon",
+      "name:ru": "Безансон",
+      "name:sr": "Безансон",
+      "name:th": "เบอซ็องซง",
+      "name:uk": "Безансон",
+      "name:ur": "بیزانسون",
+      "name:yi": "בעזאנסאן",
+      "name:zh": "贝桑松",
+      "name:mzn": "بزانسون",
+      "name:pnb": "بیسانکاں",
+      "old_name:de": "Bisanz"
+    }
+  },
+  {
+    "name": "BESHARIQ",
+    "country": "Uzbekistan",
+    "latitude": 40.43658094551203,
+    "longitude": 70.60941525458117,
+    "other_names": {
+      "name": "BESHARIQ",
+      "name:ja": "ベシャリク",
+      "name:ru": "БЕШАРЫК"
+    }
+  },
+  {
+    "name": "Bétera",
+    "country": "Spain",
+    "latitude": 39.59039884784884,
+    "longitude": -0.46024126783611435,
+    "other_names": {
+      "name": "Bétera"
+    }
+  },
+  {
+    "name": "Bethesda",
+    "country": "United States Of America",
+    "latitude": 38.98482650012371,
+    "longitude": -77.09464589999999,
+    "other_names": {
+      "name": "Bethesda"
+    }
+  },
+  {
+    "name": "Bethlehem",
+    "country": "United States Of America",
+    "latitude": 40.61789150034732,
+    "longitude": -75.3786521,
+    "other_names": {
+      "name": "Bethlehem"
+    }
+  },
+  {
+    "name": "Betim",
+    "country": "Brazil",
+    "latitude": -19.968056000393478,
+    "longitude": -44.198333,
+    "other_names": {
+      "name": "Betim"
+    }
+  },
+  {
+    "name": "Betong",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 1.4115917998500644,
+    "longitude": 111.52809619999998,
+    "other_names": {
+      "name": "Betong",
+      "name:zh": "木中"
+    }
+  },
+  {
+    "name": "Bettiah",
+    "country": "India",
+    "latitude": 26.80230000007956,
+    "longitude": 84.50739999999999,
+    "other_names": {
+      "name": "Bettiah",
+      "name:hi": "बेतिया",
+      "name:pa": "ਬੇਤੀਆ"
+    }
+  },
+  {
+    "name": "Betul",
+    "country": "India",
+    "latitude": 21.89981920040922,
+    "longitude": 77.89591489999998,
+    "other_names": {
+      "name": "Betul",
+      "name:hi": "बैतूल",
+      "name:ja": "ベートゥル",
+      "name:kn": "ಬೆಟುಲ್"
+    }
+  },
+  {
+    "name": "Beverly",
+    "country": "United States Of America",
+    "latitude": 42.558428400520484,
+    "longitude": -70.8800491,
+    "other_names": {
+      "name": "Beverly"
+    }
+  },
+  {
+    "name": "Bhadrak",
+    "country": "India",
+    "latitude": 21.063328800405447,
+    "longitude": 86.50537309999999,
+    "other_names": {
+      "name": "Bhadrak",
+      "name:hi": "भद्रक"
+    }
+  },
+  {
+    "name": "Bhadravathi",
+    "country": "India",
+    "latitude": 13.850207499772967,
+    "longitude": 75.7037863,
+    "other_names": {
+      "name": "Bhadravathi",
+      "name:hi": "भद्रावती",
+      "name:kn": "ಭದ್ರಾವತಿ",
+      "name:ta": "பாத்திரவாதி",
+      "name:kn:iso15919": "Bhadrāvati"
+    }
+  },
+  {
+    "name": "Bhagalpur",
+    "country": "India",
+    "latitude": 25.249482900236146,
+    "longitude": 86.98281309999999,
+    "other_names": {
+      "name": "Bhagalpur",
+      "name:ar": "باغلبور",
+      "name:bn": "ভাগলপুর",
+      "name:en": "Bhagalpur",
+      "name:fa": "باگلپور",
+      "name:hi": "भागलपुर",
+      "name:ja": "バーガルプル",
+      "name:kn": "ಭಗಲ್‌ಪುರ್",
+      "name:ml": "ഭാഗൽപൂർ",
+      "name:pa": "ਭਾਗਲਪੁਰ",
+      "name:ru": "Бхагалпур",
+      "name:ta": "பாகல்பூர்",
+      "name:uk": "Бхагалпур",
+      "name:ur": "بھاگلپور"
+    }
+  },
+  {
+    "name": "Bhakkar",
+    "country": "Pakistan",
+    "latitude": 31.63031029962459,
+    "longitude": 71.06769139999999,
+    "other_names": {
+      "name": "بهكّر",
+      "name:ar": "بهكر",
+      "name:de": "Bhakkar",
+      "name:en": "Bhakkar",
+      "name:es": "Bhakkar",
+      "name:fr": "Bhakkar",
+      "name:ja": "バッカル",
+      "name:ru": "Бхаккар"
+    }
+  },
+  {
+    "name": "Bhalwal",
+    "country": "Pakistan",
+    "latitude": 32.27107429959961,
+    "longitude": 72.89656399999998,
+    "other_names": {
+      "name": "بهلوال",
+      "name:ar": "بهلوال",
+      "name:en": "Bhalwal",
+      "name:ja": "ブハルワル",
+      "name:ur": "بهلوال",
+      "name:pnb": "بهلوال"
+    }
+  }
+]

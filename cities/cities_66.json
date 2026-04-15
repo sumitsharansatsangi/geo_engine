@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Budge Budge",
+    "country": "India",
+    "latitude": 22.48275480040008,
+    "longitude": 88.1817594,
+    "other_names": {
+      "name": "Budge Budge",
+      "name:bn": "বজবজ",
+      "name:hi": "बजबज"
+    }
+  },
+  {
+    "name": "Budva",
+    "country": "Montenegro",
+    "latitude": 42.28856560050578,
+    "longitude": 18.8419505,
+    "other_names": {
+      "name": "Budva",
+      "name:be": "Будва",
+      "name:en": "Budva",
+      "name:it": "Budua",
+      "name:ru": "Будва",
+      "name:sr": "Будва",
+      "name:uk": "Будва",
+      "name:sr-Latn": "Budva"
+    }
+  },
+  {
+    "name": "Buea",
+    "country": "Cameroon",
+    "latitude": 4.156799499573731,
+    "longitude": 9.2315519,
+    "other_names": {
+      "name": "Buea",
+      "name:fr": "Buéa",
+      "name:ko": "부에아",
+      "name:lt": "Buėja",
+      "name:ru": "Буэа"
+    }
+  },
+  {
+    "name": "Buenaventura",
+    "country": "Colombia",
+    "latitude": 3.889933499597306,
+    "longitude": -77.07860469999999,
+    "other_names": {
+      "name": "Buenaventura",
+      "official_name": "Distrito Especial, Industrial, Portuario, Biodiverso y Ecoturístico de Buenaventura"
+    }
+  },
+  {
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "latitude": -34.60756819980733,
+    "longitude": -58.4370894,
+    "other_names": {
+      "name": "Buenos Aires",
+      "name:ab": "Буенос-Аирес",
+      "name:am": "ብዌኖስ አይሬስ",
+      "name:ar": "بوينس آيرس",
+      "name:az": "Buenos Ayres",
+      "name:ba": "Буэнос-Айрес",
+      "name:be": "Буэнас-Айрэс",
+      "name:bg": "Буенос Айрес",
+      "name:bn": "বুয়েনোস আইরেস",
+      "name:bo": "པུ་ཨེ་ནོ་སི་ཨས་རི་སི།",
+      "name:ce": "Буэнос-Айрес",
+      "name:de": "Buenos Aires",
+      "name:el": "Μπουένος Άιρες",
+      "name:en": "Buenos Aires",
+      "name:eo": "Bonaero",
+      "name:et": "Buenos Aires",
+      "name:fa": "بوئنوس آیرس",
+      "name:fr": "Buenos Aires",
+      "name:gl": "Bos Aires",
+      "name:he": "בואנוס איירס",
+      "name:hi": "ब्यूनस आयर्स",
+      "name:ht": "Bwènozè",
+      "name:hu": "Buenos Aires",
+      "name:hy": "Բուենոս Այրես",
+      "name:is": "Búenos Aíres",
+      "name:ja": "ブエノスアイレス",
+      "name:ka": "ბუენოს-აირესი",
+      "name:kn": "ಬ್ವೇನೊಸ್ ಐರೇಸ್",
+      "name:ko": "부에노스아이레스",
+      "name:ku": "Buenos Aires",
+      "name:ky": "Буэнос-Айрес",
+      "name:la": "Bonaëropolis",
+      "name:lt": "Buenos Airės",
+      "name:lv": "Buenosairesa",
+      "name:mk": "Буенос Аирес",
+      "name:ml": "ബ്യൂണസ് അയേഴ്സ്",
+      "name:mn": "Буэнос-Айрес",
+      "name:mr": "बुएनोस आइरेस",
+      "name:my": "ဗျူနိုအေးရိစ်မြို့",
+      "name:oc": "Buenos Aires",
+      "name:os": "Буэнос-Айрес",
+      "name:pl": "Buenos Aires",
+      "name:ru": "Буэнос-Айрес",
+      "name:sr": "Буенос Ајрес",
+      "name:sv": "Buenos Aires",
+      "name:ta": "புவெனஸ் ஐரிஸ்",
+      "name:tg": "Буэнос Айрес",
+      "name:th": "บัวโนสไอเรส",
+      "name:tk": "Buenos-Aýres",
+      "name:tl": "Lungsod ng Buenos Aires",
+      "name:ug": "Buénos Ayrés",
+      "name:uk": "Буенос-Айрес",
+      "name:ur": "بیونس آئرس",
+      "name:uz": "Buenos Ayres",
+      "name:yi": "בוענאס איירעס",
+      "name:zh": "布宜諾斯艾利斯",
+      "name:arz": "بوينوس ايريس",
+      "name:bpy": "বুৱেনোস আইরেস",
+      "name:bxr": "Буэнос-Айрес",
+      "name:ckb": "بۆینۆس ئایرێس",
+      "name:crh": "Buenos Ayres",
+      "name:jbo": "buenosaires",
+      "name:kaa": "Buenos-Ayres",
+      "name:lad": "Buenos Ayres",
+      "name:lij": "Bonesaire",
+      "name:lzh": "布宜諾斯艾利斯",
+      "name:myv": "Буэнос-Айрес ош",
+      "name:nrm": "Bouonézâr",
+      "name:pnb": "بیونس آئرس",
+      "name:rue": "Буенос Аірес",
+      "name:sah": "Буэнос Айрес",
+      "name:wuu": "布宜诺斯艾利斯",
+      "name:yue": "布宜諾斯艾利斯",
+      "short_name": "CABA",
+      "alt_name:gl": "Bos Ares",
+      "name:bat-smg": "Buenas Airēs",
+      "name:cbk-zam": "Ciudad de Buenos Aires",
+      "official_name": "Ciudad Autónoma de Buenos Aires",
+      "name:be-tarask": "Буэнас-Айрэс"
+    }
+  },
+  {
+    "name": "Buffalo",
+    "country": "United States Of America",
+    "latitude": 44.348086500517276,
+    "longitude": -106.699287,
+    "other_names": {
+      "name": "Buffalo",
+      "name:ru": "Баффало",
+      "name:uk": "Баффало"
+    }
+  },
+  {
+    "name": "Buffalo",
+    "country": "United States Of America",
+    "latitude": 42.88671660053341,
+    "longitude": -78.8783922,
+    "other_names": {
+      "name": "Buffalo",
+      "name:ar": "بوفالو",
+      "name:en": "Buffalo",
+      "name:oc": "Buffalo",
+      "name:ru": "Буффало",
+      "name:uk": "Баффало",
+      "name:ckb": "بوفالۆ",
+      "alt_name:ru": "Баффало"
+    }
+  },
+  {
+    "name": "Buhoodle",
+    "country": "Somalia",
+    "latitude": 8.231849199390656,
+    "longitude": 46.3248987,
+    "other_names": {
+      "name": "ቦሆትለ بووهودل",
+      "pcode": "NC-3815-T29-001",
+      "name:ar": "بووهودل",
+      "name:ca": "Buuhoodle",
+      "name:de": "Buhoodle",
+      "name:en": "Buhoodle",
+      "name:fr": "Buuhoodle",
+      "name:hr": "Buuhoodle",
+      "name:it": "Buhoodle",
+      "name:ko": "부후들",
+      "name:pl": "Buuhoodle",
+      "name:ru": "Буходле",
+      "name:sv": "Buuhoodle",
+      "name:uk": "Буходле",
+      "name:ur": "بووہودل",
+      "name:zh": "布侯德列",
+      "name:zu": "Buuhoodle"
+    }
+  },
+  {
+    "name": "Buhoodle",
+    "country": "Ethiopia",
+    "latitude": 8.231849199390656,
+    "longitude": 46.3248987,
+    "other_names": {
+      "name": "ቦሆትለ بووهودل",
+      "pcode": "NC-3815-T29-001",
+      "name:ar": "بووهودل",
+      "name:ca": "Buuhoodle",
+      "name:de": "Buhoodle",
+      "name:en": "Buhoodle",
+      "name:fr": "Buuhoodle",
+      "name:hr": "Buuhoodle",
+      "name:it": "Buhoodle",
+      "name:ko": "부후들",
+      "name:pl": "Buuhoodle",
+      "name:ru": "Буходле",
+      "name:sv": "Buuhoodle",
+      "name:uk": "Буходле",
+      "name:ur": "بووہودل",
+      "name:zh": "布侯德列",
+      "name:zu": "Buuhoodle"
+    }
+  },
+  {
+    "name": "Bujumbura",
+    "country": "Burundi",
+    "latitude": -3.3638124997313468,
+    "longitude": 29.367502800000004,
+    "other_names": {
+      "name": "Bujumbura",
+      "name:am": "ቡጁምቡራ",
+      "name:an": "Buyumbura",
+      "name:ar": "بوجومبورا",
+      "name:be": "Бужумбура",
+      "name:bg": "Бужумбура",
+      "name:bo": "བུ་ཇུམ་བུ་ར།",
+      "name:de": "Bujumbura",
+      "name:el": "Μπουζουμπούρα",
+      "name:eo": "Buĵumburo",
+      "name:es": "Buyumbura",
+      "name:fa": "بوجومبورا",
+      "name:fr": "Bujumbura",
+      "name:fy": "Bûjûmbûra",
+      "name:he": "בוג'ומבורה",
+      "name:ht": "Boujoumboura",
+      "name:hu": "Bujumbura",
+      "name:hy": "Բուժումբուրա",
+      "name:is": "Bújúmbúra",
+      "name:ja": "ブジュンブラ",
+      "name:ka": "ბუჟუმბურა",
+      "name:ko": "부줌부라",
+      "name:ky": "Бужумбура",
+      "name:ln": "Bujumbúra",
+      "name:lt": "Bužumbūra",
+      "name:lv": "Bužumbura",
+      "name:mk": "Буџумбура",
+      "name:mn": "Бужумбура",
+      "name:mr": "बुजुंबुरा",
+      "name:oc": "Bujumbura",
+      "name:pl": "Bużumbura",
+      "name:rn": "Bujumbura",
+      "name:ru": "Бужумбура",
+      "name:sr": "Буџумбура",
+      "name:sv": "Bujumbura",
+      "name:ta": "புசும்புரா",
+      "name:tg": "Буҷумбура",
+      "name:th": "บูจุมบูรา",
+      "name:uk": "Бужумбура",
+      "name:ur": "بوجومبرا",
+      "name:zh": "布琼布拉",
+      "name:ckb": "بوجومبورا",
+      "name:frp": "Buj·umbura",
+      "name:mrj": "Бужумбура",
+      "name:nah": "Buyumbura",
+      "name:pnb": "باجمبورا",
+      "name:udm": "Бужумбура"
+    }
+  },
+  {
+    "name": "Bukama",
+    "country": "Congo Democratic Republic",
+    "latitude": -9.202036499846237,
+    "longitude": 25.8525231,
+    "other_names": {
+      "name": "Bukama"
+    }
+  },
+  {
+    "name": "Bukavu",
+    "country": "Congo Democratic Republic",
+    "latitude": -2.505583899781376,
+    "longitude": 28.859488499999994,
+    "other_names": {
+      "name": "Bukavu",
+      "name:ko": "부카부",
+      "name:ru": "Букаву",
+      "name:uk": "Букаву"
+    }
+  },
+  {
+    "name": "Bukhara",
+    "country": "Uzbekistan",
+    "latitude": 39.767552900235394,
+    "longitude": 64.4231326,
+    "other_names": {
+      "name": "Buxoro",
+      "name:ar": "بخارى",
+      "name:da": "Bukhara",
+      "name:de": "Buchara",
+      "name:en": "Bukhara",
+      "name:es": "Bujara",
+      "name:et": "Buhhaara",
+      "name:fa": "بُخارا",
+      "name:fr": "Boukhara",
+      "name:ja": "ブハラ",
+      "name:ko": "부하라",
+      "name:lt": "Buchara",
+      "name:nl": "Buchara",
+      "name:pl": "Buchara",
+      "name:ru": "Бухара",
+      "name:tg": "Бухоро",
+      "name:tk": "Buhara",
+      "name:uk": "Бухара",
+      "name:zh": "布哈拉",
+      "int_name": "Bukhara",
+      "old_name": "Хара"
+    }
+  },
+  {
+    "name": "Bukit Mertajam",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 5.364236099481816,
+    "longitude": 100.46099599999998,
+    "other_names": {
+      "name": "Bukit Mertajam",
+      "name:ar": "بوكيت ميرتاجام",
+      "name:fa": "بوکیت میرتاجم",
+      "name:hi": "बुकिट मेरताजम",
+      "name:ja": "ブキッ・ムルタジャム",
+      "name:ko": "부킷 메르타잠",
+      "name:ta": "புக்கிட் மெர்தாஜாம்",
+      "name:ur": "بوکیت میرتاجام",
+      "name:zh": "大山脚"
+    }
+  },
+  {
+    "name": "Bukittinggi",
+    "country": "Indonesia",
+    "latitude": -0.30519539996910855,
+    "longitude": 100.36949209999999,
+    "other_names": {
+      "name": "Bukittinggi",
+      "name:ja": "ブキティンギ",
+      "name:ru": "Бикиттинги"
+    }
+  },
+  {
+    "name": "Bukoba",
+    "country": "Tanzania",
+    "latitude": -1.3311507998726302,
+    "longitude": 31.812560500000004,
+    "other_names": {
+      "name": "Bukoba",
+      "name:ko": "부코바",
+      "name:lt": "Bukoba",
+      "name:ru": "Букоба",
+      "name:uk": "Букоба"
+    }
+  },
+  {
+    "name": "Bukwo",
+    "country": "Uganda",
+    "latitude": 1.2890214998633052,
+    "longitude": 34.74101480000001,
+    "other_names": {
+      "name": "Bukwo"
+    }
+  },
+  {
+    "name": "Bulandshahr",
+    "country": "India",
+    "latitude": 28.4056514999013,
+    "longitude": 77.8542516,
+    "other_names": {
+      "name": "Bulandshahr",
+      "name:de": "Bulandshahr",
+      "name:en": "Bulandshahr",
+      "name:es": "Bulandshahr",
+      "name:fr": "Bulandshahr",
+      "name:hi": "बुलन्दसहर",
+      "name:ja": "ブランドシャール",
+      "name:kn": "ಬುಲಂದ್‌ಸಹರ್",
+      "name:pa": "ਬੁਲੰਦਸ਼ਹਿਰ",
+      "alt_name:hi": "बुलंदशहर"
+    }
+  },
+  {
+    "name": "Bulawayo",
+    "country": "Zimbabwe",
+    "latitude": -20.156059900379798,
+    "longitude": 28.588706299999995,
+    "other_names": {
+      "name": "Bulawayo",
+      "name:ar": "بولاوايو",
+      "name:ru": "Булавайо"
+    }
+  },
+  {
+    "name": "Bulgan",
+    "country": "Mongolia",
+    "latitude": 48.812920299738735,
+    "longitude": 103.5322785,
+    "other_names": {
+      "name": "Булган",
+      "name:ar": "بولجان",
+      "name:de": "Bulgan",
+      "name:en": "Bulgan",
+      "name:es": "Bulgan",
+      "name:fr": "Bulgan",
+      "name:ja": "ボルガン",
+      "name:lt": "Bulganas",
+      "name:mn": "Булган",
+      "name:ru": "Булган",
+      "int_name": "Bulgan"
+    }
+  }
+]

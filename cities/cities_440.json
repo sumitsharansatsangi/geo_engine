@@ -1,0 +1,408 @@
+[
+  {
+    "name": "Shujaabad",
+    "country": "Pakistan",
+    "latitude": 29.880997199750528,
+    "longitude": 71.2931695,
+    "other_names": {
+      "name": "شُجاع آباد‎",
+      "name:en": "Shujaabad",
+      "name:ru": "Шуджаабад"
+    }
+  },
+  {
+    "name": "Shulan",
+    "country": "China",
+    "latitude": 44.40845810051384,
+    "longitude": 126.9410597,
+    "other_names": {
+      "name": "舒兰市",
+      "name:de": "Shulan",
+      "name:en": "Shulan",
+      "name:fr": "Shulan",
+      "name:ja": "舒蘭市",
+      "name:ru": "Шулань",
+      "name:uk": "Шулань",
+      "name:vi": "Thư Lan",
+      "name:zh": "舒兰市",
+      "alt_name": "舒兰;Shulan City",
+      "name:zh-Hant": "舒蘭市",
+      "name:zh_pinyin": "Shūlán Shì"
+    }
+  },
+  {
+    "name": "Shule",
+    "country": "China",
+    "latitude": 39.40497760018426,
+    "longitude": 76.05105879999999,
+    "other_names": {
+      "name": "疏勒县",
+      "name:en": "Shule",
+      "name:ru": "Шулэ",
+      "name:ug": "يىڭى شەھەر بازىرى",
+      "name:zh": "疏勒县",
+      "alt_name:en": "Yangishahr",
+      "alt_name:ru": "Янгишар",
+      "name:zh-Hant": "疏勒縣"
+    }
+  },
+  {
+    "name": "Shumen",
+    "country": "Bulgaria",
+    "latitude": 43.270379700541206,
+    "longitude": 26.924736199999998,
+    "other_names": {
+      "name": "Шумен",
+      "name:bg": "Шумен",
+      "name:da": "Sjumen",
+      "name:de": "Schumen",
+      "name:el": "Σούμεν",
+      "name:en": "Shumen",
+      "name:eo": "Ŝumen",
+      "name:et": "Šumen",
+      "name:fr": "Choumen",
+      "name:lt": "Šumenas",
+      "name:nl": "Sjoemen",
+      "name:pl": "Szumen",
+      "name:ro": "Șumen",
+      "name:ru": "Шумен",
+      "name:sr": "Шумен",
+      "name:sv": "Sjumen",
+      "name:tr": "Şumnu",
+      "int_name": "Shumen",
+      "old_name:de": "Schumla",
+      "name:sr-Latn": "Šumen",
+      "old_name:bg:1950-1965": "Коларовград"
+    }
+  },
+  {
+    "name": "Shunan",
+    "country": "Japan",
+    "latitude": 34.05505949960352,
+    "longitude": 131.8064092,
+    "other_names": {
+      "name": "周南市",
+      "name:ar": "شونان، ياماغوتشي",
+      "name:de": "Shūnan",
+      "name:en": "Shunan",
+      "name:es": "Shūnan",
+      "name:fr": "Shūnan",
+      "name:ja": "周南市",
+      "name:ko": "슈난시",
+      "name:pl": "Shūnan",
+      "name:ru": "Сюнан",
+      "name:uk": "Сюнан",
+      "name:zh": "周南市",
+      "int_name": "Shūnan",
+      "name:ja_rm": "Shūnan-shi",
+      "name:ja_kana": "しゅうなんし",
+      "name:zh-Hans": "周南市",
+      "name:zh-Hant": "周南市"
+    }
+  },
+  {
+    "name": "Shunchang",
+    "country": "China",
+    "latitude": 26.79666070008018,
+    "longitude": 117.80495639999997,
+    "other_names": {
+      "name": "顺昌县",
+      "name:de": "Shunchang",
+      "name:en": "Shunchang",
+      "name:es": "Shùnchāng",
+      "name:fa": "شهرستان شونچانگ",
+      "name:fr": "Shunchang",
+      "name:it": "Shunchang",
+      "name:ja": "順昌県",
+      "name:ko": "순창현",
+      "name:no": "Shunchang",
+      "name:sv": "Shunchang",
+      "name:vi": "Thuận Xương",
+      "name:zh": "顺昌县",
+      "alt_name": "顺昌;Shunchang County",
+      "name:cdo": "Sông-chiŏng-gâing",
+      "name:ceb": "Shunchang",
+      "name:gan": "順昌",
+      "name:hak": "Sun-chhông-yen",
+      "name:mwl": "Shunchang",
+      "name:nan": "Sūn-chhiong-koān",
+      "name:yue": "順昌",
+      "name:zh-Hant": "順昌縣",
+      "name:zh_pinyin": "shùnchāng xiàn"
+    }
+  },
+  {
+    "name": "Shuncheng",
+    "country": "China",
+    "latitude": 41.88209370047719,
+    "longitude": 123.93923960000001,
+    "other_names": {
+      "name": "顺城区",
+      "name:en": "Shuncheng",
+      "name:ja": "順城区",
+      "name:ko": "순청구",
+      "name:vi": "Thuận Thành",
+      "name:zh": "顺城区",
+      "alt_name": "顺城;Shuncheng City",
+      "name:zh-Hant": "順城區",
+      "name:zh_pinyin": "Shuncheng Qu"
+    }
+  },
+  {
+    "name": "Shunde",
+    "country": "China",
+    "latitude": 22.807391300390858,
+    "longitude": 113.28830849999999,
+    "other_names": {
+      "name": "顺德区",
+      "name:de": "Shunde",
+      "name:en": "Shunde",
+      "name:es": "Shunde",
+      "name:fa": "شاندی",
+      "name:fr": "District de Shunde",
+      "name:it": "Distretto di Shunde",
+      "name:ja": "順徳区",
+      "name:ko": "순더구",
+      "name:ms": "Daerah Shunde",
+      "name:nl": "Shunde",
+      "name:no": "Shunde",
+      "name:ru": "Шуньдэ",
+      "name:sv": "Shunde",
+      "name:vi": "Thuận Đức",
+      "name:zh": "顺德区",
+      "alt_name": "顺德;Shunde District",
+      "name:ceb": "Shunde Qu",
+      "name:hak": "Sun-tet-khî",
+      "name:mwl": "Shunde",
+      "name:nan": "Sūn-tek-khu",
+      "name:yue": "順德",
+      "name:zh-Hans": "顺德区",
+      "name:zh-Hant": "順德區",
+      "name:zh_pinyin": "Shùndé Qū"
+    }
+  },
+  {
+    "name": "Shunhe",
+    "country": "China",
+    "latitude": 34.79553729963858,
+    "longitude": 114.35960049999998,
+    "other_names": {
+      "name": "顺河回族区",
+      "name:en": "Shunhe",
+      "name:vi": "Thuận Hà",
+      "name:zh": "顺河回族区",
+      "alt_name": "顺河;Shunhe Hui District",
+      "short_name": "顺河区",
+      "name:zh-Hant": "順河回族區",
+      "name:zh_pinyin": "shùnhé huízú qū"
+    }
+  },
+  {
+    "name": "Shunping",
+    "country": "China",
+    "latitude": 38.83641790010219,
+    "longitude": 115.1275719,
+    "other_names": {
+      "name": "顺平县",
+      "name:en": "Shunping",
+      "name:vi": "Thuận Bình",
+      "name:zh": "顺平县",
+      "alt_name": "顺平;Shunping County",
+      "name:zh-Hant": "順平縣",
+      "name:zh_pinyin": "Shunping Xian"
+    }
+  },
+  {
+    "name": "Shunqing",
+    "country": "China",
+    "latitude": 30.799632999674998,
+    "longitude": 106.0883984,
+    "other_names": {
+      "name": "顺庆区",
+      "name:en": "Shunqing",
+      "name:zh": "顺庆区",
+      "alt_name": "顺庆;Shunqing District",
+      "name:zh-Hant": "順慶區"
+    }
+  },
+  {
+    "name": "Shunyi",
+    "country": "China",
+    "latitude": 40.12937440028471,
+    "longitude": 116.64873110000002,
+    "other_names": {
+      "name": "顺义区",
+      "name:en": "Shunyi",
+      "name:ja": "順義区",
+      "name:vi": "Thuận Nghĩa",
+      "name:zh": "顺义区",
+      "name:zh-Hant": "順義區",
+      "name:zh_pinyin": "Shùnyì qū"
+    }
+  },
+  {
+    "name": "Shuocheng",
+    "country": "China",
+    "latitude": 39.31703500017166,
+    "longitude": 112.4196621,
+    "other_names": {
+      "name": "朔城区",
+      "name:en": "Shuocheng",
+      "name:zh": "朔城区",
+      "alt_name": "朔城;Shuocheng District",
+      "name:zh-Hant": "朔城區"
+    }
+  },
+  {
+    "name": "Shuozhou",
+    "country": "China",
+    "latitude": 39.33079150017363,
+    "longitude": 112.4235469,
+    "other_names": {
+      "name": "朔州市",
+      "name:de": "Shuozhou",
+      "name:en": "Shuozhou",
+      "name:et": "Shuozhou",
+      "name:fr": "Shuozhou",
+      "name:ja": "朔州市",
+      "name:pt": "Shuozhou",
+      "name:ru": "Шочжоу",
+      "name:uk": "Шочжоу",
+      "name:vi": "Sóc Châu",
+      "name:zh": "朔州市",
+      "name:zh-Hant": "朔州市",
+      "name:zh_pinyin": "Shuòzhōu Shì"
+    }
+  },
+  {
+    "name": "Shusha",
+    "country": "Azerbaijan",
+    "latitude": 39.75907370023421,
+    "longitude": 46.749286999999995,
+    "other_names": {
+      "name": "Şuşa",
+      "name:az": "Şuşa",
+      "name:de": "Schuscha",
+      "name:en": "Shusha",
+      "name:fr": "Choucha",
+      "name:hy": "Շուշա",
+      "name:ia": "Shusha",
+      "name:ja": "シュシャ",
+      "name:ml": "ശൂശ",
+      "name:pl": "Szusza",
+      "name:ru": "Шуша",
+      "name:tr": "Şuşa",
+      "int_name": "Shushi"
+    }
+  },
+  {
+    "name": "Shushan",
+    "country": "China",
+    "latitude": 31.853118699614438,
+    "longitude": 117.25501769999998,
+    "other_names": {
+      "name": "蜀山区",
+      "name:de": "Shushan",
+      "name:en": "Shushan",
+      "name:eo": "Shushan",
+      "name:es": "Shushan",
+      "name:fr": "Shushan",
+      "name:ja": "蜀山区",
+      "name:ko": "수산 구",
+      "name:pt": "Shushan",
+      "name:sv": "Shushan",
+      "name:vi": "Thục Sơn",
+      "name:zh": "蜀山区",
+      "name:zh-Hant": "蜀山區"
+    }
+  },
+  {
+    "name": "Shuyang",
+    "country": "China",
+    "latitude": 34.12976769960618,
+    "longitude": 118.7600886,
+    "other_names": {
+      "name": "沭阳县",
+      "name:de": "Shuyang",
+      "name:en": "Shuyang",
+      "name:fa": "شهرستان شویانگ",
+      "name:fr": "Xian de Shuyang",
+      "name:ja": "沭陽県",
+      "name:ko": "수양현",
+      "name:ru": "Шуя́н",
+      "name:sv": "Shuyang",
+      "name:ur": "شویانگ کاؤنٹی",
+      "name:vi": "Thuật Dương",
+      "name:zh": "沭阳县",
+      "name:nan": "Su̍t-iông-koān",
+      "name:ja-Hira": "じゅつよう-けん",
+      "name:zh-Hant": "沭陽縣"
+    }
+  },
+  {
+    "name": "Shwebo",
+    "country": "Myanmar",
+    "latitude": 22.566661800397974,
+    "longitude": 95.6999989,
+    "other_names": {
+      "name": "ရွှေဘို",
+      "pcode": "MMR005004701",
+      "name:ca": "Shwebo",
+      "name:cs": "Šwebo",
+      "name:en": "Shwebo",
+      "name:es": "Shwebo",
+      "name:fr": "Shwebo",
+      "name:ja": "シュウェボ",
+      "name:my": "ရွှေဘို",
+      "name:pl": "Shwebo",
+      "name:pt": "Shwebo",
+      "name:ru": "Шуэбо",
+      "name:sv": "Shwebo",
+      "name:th": "ชเวโบ",
+      "name:uk": "Шуебо",
+      "name:zh": "瑞波",
+      "alt_name": "ရွှေဘိုမြို့"
+    }
+  },
+  {
+    "name": "Shymkent",
+    "country": "Kazakhstan",
+    "latitude": 42.314696200507356,
+    "longitude": 69.5883282,
+    "other_names": {
+      "name": "Шымкент",
+      "name:ar": "شيمكنت",
+      "name:de": "Schymkent",
+      "name:en": "Shymkent",
+      "name:et": "Šõmkent",
+      "name:fr": "Chimkent",
+      "name:ja": "シムケント",
+      "name:pl": "Szymkent",
+      "name:ru": "Шымкент",
+      "name:tr": "Çimkent",
+      "int_name": "Shymkent",
+      "nat_name": "Шымкент",
+      "old_name": "Черняевка",
+      "old_name:de": "Tschimkent"
+    }
+  },
+  {
+    "name": "Shymkent",
+    "country": "Kazakhstan",
+    "latitude": 42.30553835305281,
+    "longitude": 69.58193244130233,
+    "other_names": {
+      "name": "Шымкент",
+      "name:ar": "شيمكنت",
+      "name:de": "Schymkent",
+      "name:en": "Shymkent",
+      "name:ja": "シムケント",
+      "name:pl": "Szymkent",
+      "name:ru": "Шымкент",
+      "name:tr": "Çimkent",
+      "int_name": "Shymkent",
+      "old_name": "Чикмент",
+      "old_name:ru": "Чикмент"
+    }
+  }
+]

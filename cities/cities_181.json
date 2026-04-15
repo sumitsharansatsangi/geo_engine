@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Hodal",
+    "country": "India",
+    "latitude": 27.897553223617347,
+    "longitude": 77.37189577362258,
+    "other_names": {
+      "name": "Hodal",
+      "name:hi": "होडल"
+    }
+  },
+  {
+    "name": "Hodeidah",
+    "country": "Yemen",
+    "latitude": 14.797867699883396,
+    "longitude": 42.9544872,
+    "other_names": {
+      "name": "الحديدة",
+      "name:ar": "الحديدة",
+      "name:cs": "Hudajdá",
+      "name:de": "Al Hudaydah",
+      "name:en": "Hodeidah",
+      "name:es": "Al Hudayda",
+      "name:et": "Al-Ḩudaydah",
+      "name:fa": "حدیده",
+      "name:fi": "Hodeida",
+      "name:fr": "Al Hudaydah",
+      "name:hi": "हुदैदाह",
+      "name:ko": "호데이다",
+      "name:ru": "Ходейда",
+      "name:uk": "Ходейда",
+      "name:ur": "الحدیدہ",
+      "alt_name": "Hudaydah;El-Ḥodeidah;Hodeida;Ḩudaydah;Hudaida;El-Hodeidah;Hodaidah;Al Hudaydah",
+      "int_name": "Al Ḩudaydah",
+      "name:azb": "حدیده"
+    }
+  },
+  {
+    "name": "Hoeryong",
+    "country": "North Korea",
+    "latitude": 42.43428020051415,
+    "longitude": 129.7542469,
+    "other_names": {
+      "name": "회령시",
+      "name:ar": "هويريونغ",
+      "name:de": "Hoeryong",
+      "name:el": "Χοέριονγκ",
+      "name:en": "Hoeryong",
+      "name:es": "Hoeryong",
+      "name:et": "Hoeryŏng",
+      "name:fr": "Hoeryong",
+      "name:hu": "Hörjong",
+      "name:ja": "会寧市",
+      "name:ko": "회령시",
+      "name:ru": "Хверён",
+      "name:zh": "会宁市",
+      "int_name": "Hoeryong",
+      "name:ja_kana": "ふぇりょん",
+      "name:ko-Hani": "會寧市",
+      "name:zh-Hant": "會寧市"
+    }
+  },
+  {
+    "name": "Hoeryong",
+    "country": "China",
+    "latitude": 42.43428020051415,
+    "longitude": 129.7542469,
+    "other_names": {
+      "name": "회령시",
+      "name:ar": "هويريونغ",
+      "name:de": "Hoeryong",
+      "name:el": "Χοέριονγκ",
+      "name:en": "Hoeryong",
+      "name:es": "Hoeryong",
+      "name:et": "Hoeryŏng",
+      "name:fr": "Hoeryong",
+      "name:hu": "Hörjong",
+      "name:ja": "会寧市",
+      "name:ko": "회령시",
+      "name:ru": "Хверён",
+      "name:zh": "会宁市",
+      "int_name": "Hoeryong",
+      "name:ja_kana": "ふぇりょん",
+      "name:ko-Hani": "會寧市",
+      "name:zh-Hant": "會寧市"
+    }
+  },
+  {
+    "name": "Hofu",
+    "country": "Japan",
+    "latitude": 34.051722599603416,
+    "longitude": 131.5629141,
+    "other_names": {
+      "name": "防府市",
+      "name:ar": "هوفا، ياماغوتشي",
+      "name:de": "Hōfu",
+      "name:en": "Hofu",
+      "name:es": "Hōfu",
+      "name:fr": "Hōfu",
+      "name:ja": "防府市",
+      "name:ko": "호후시",
+      "name:pl": "Hōfu",
+      "name:ru": "Хофу",
+      "name:uk": "Хофу",
+      "name:zh": "防府市",
+      "int_name": "Hōfu",
+      "name:ja-Hira": "ほうふし",
+      "name:zh-Hans": "防府市",
+      "name:zh-Hant": "防府市"
+    }
+  },
+  {
+    "name": "Hohhot",
+    "country": "China",
+    "latitude": 40.83379630037315,
+    "longitude": 111.6730788,
+    "other_names": {
+      "name": "呼和浩特市",
+      "name:cs": "Chöch Chot",
+      "name:da": "Hohhot",
+      "name:de": "Hohhot",
+      "name:en": "Hohhot",
+      "name:eo": "Hoĥoto",
+      "name:es": "Hohhot",
+      "name:et": "Hohhot",
+      "name:fr": "Hohhot",
+      "name:hi": "होहोट",
+      "name:ja": "フフホト",
+      "name:lt": "Hohotas",
+      "name:mn": "ᠬᠥᠬᠡᠬᠣᠲᠠ",
+      "name:nl": "Hohhot",
+      "name:pl": "Hohhot",
+      "name:ru": "Хух-Хото",
+      "name:uk": "Хух-Хото",
+      "name:vi": "Hô Hòa Hạo Đặc",
+      "name:zh": "呼和浩特市",
+      "alt_name:cs": "Chu-che-chao-tche;Modré Město",
+      "old_name:vi": "Quy Tuy",
+      "name:zh-Hant": "呼和浩特市",
+      "name:zh_pinyin": "Hohhot Shi"
+    }
+  },
+  {
+    "name": "Hoi An",
+    "country": "Vietnam",
+    "latitude": 15.879813700010617,
+    "longitude": 108.32739389999999,
+    "other_names": {
+      "name": "Hội An",
+      "name:ar": "هوي أن",
+      "name:cs": "Hoi An",
+      "name:de": "Hoi An",
+      "name:en": "Hoi An",
+      "name:he": "הוי אן",
+      "name:ja": "ホイアン",
+      "name:ka": "ჰოი-ანი",
+      "name:ko": "호이안",
+      "name:lt": "Hojanas",
+      "name:mn": "Хой Ань",
+      "name:ms": "Hoi An",
+      "name:ne": "होइ एन प्राचीन सहर",
+      "name:nl": "Hội An",
+      "name:no": "Hoi An",
+      "name:pt": "Hoi An",
+      "name:ru": "Хойан",
+      "name:sr": "Хој Ан",
+      "name:sv": "Hoi An",
+      "name:th": "ฮอยอัน",
+      "name:uk": "Хоян",
+      "name:ur": "ہؤئی آن",
+      "name:vi": "Hội An",
+      "name:zh": "会安市",
+      "old_name": "Faifo",
+      "official_name": "Thành phố Hội An",
+      "official_name:en": "Hoi An City",
+      "official_name:vi": "Thành phố Hội An"
+    }
+  },
+  {
+    "name": "Hoima",
+    "country": "Uganda",
+    "latitude": 1.43097599984797,
+    "longitude": 31.352512,
+    "other_names": {
+      "name": "Hoima"
+    }
+  },
+  {
+    "name": "Hojambaz",
+    "country": "Turkmenistan",
+    "latitude": 38.11583039999836,
+    "longitude": 65.00130559999998,
+    "other_names": {
+      "name": "Hojambaz",
+      "name:ru": "Ходжамбаз",
+      "name:tk": "Hojambaz"
+    }
+  },
+  {
+    "name": "Hokota",
+    "country": "Japan",
+    "latitude": 36.15856449975166,
+    "longitude": 140.5165158,
+    "other_names": {
+      "name": "鉾田市",
+      "name:ar": "هوكوتا، إيباراكي",
+      "name:de": "Hokota",
+      "name:en": "Hokota",
+      "name:es": "Hokota",
+      "name:fr": "Hokota",
+      "name:ja": "鉾田市",
+      "name:ko": "호코타시",
+      "name:pl": "Hokota",
+      "name:ru": "Хокота",
+      "name:uk": "Хокота",
+      "name:ja_rm": "Hokota-shi",
+      "name:ja_kana": "ほこたし"
+    }
+  },
+  {
+    "name": "Hokuto",
+    "country": "Japan",
+    "latitude": 35.83715599971974,
+    "longitude": 138.392164,
+    "other_names": {
+      "name": "北杜市",
+      "name:ar": "هوكوتو، ياماناشي",
+      "name:de": "Hokuto",
+      "name:en": "Hokuto",
+      "name:es": "Hokuto",
+      "name:fr": "Hokuto",
+      "name:ja": "北杜市",
+      "name:ko": "호쿠토시",
+      "name:pl": "Hokuto",
+      "name:ru": "Хокуто",
+      "name:uk": "Хокуто",
+      "name:ja_rm": "Hokuto-shi",
+      "name:ja_kana": "ほくとし"
+    }
+  },
+  {
+    "name": "Hokuto",
+    "country": "Japan",
+    "latitude": 41.82402280047252,
+    "longitude": 140.6529686,
+    "other_names": {
+      "name": "北斗市",
+      "name:ar": "هوكوتو، هوكايدو",
+      "name:de": "Hokuto",
+      "name:en": "Hokuto",
+      "name:es": "Hokuto",
+      "name:fr": "Hokuto",
+      "name:hu": "Hokuto",
+      "name:ja": "北斗市",
+      "name:ko": "호쿠토시",
+      "name:pl": "Hokuto",
+      "name:ru": "Хокуто",
+      "name:uk": "Хокуто",
+      "int_name": "Hokuto",
+      "name:ja_rm": "Hokuto-shi",
+      "name:ja_kana": "ほくとし"
+    }
+  },
+  {
+    "name": "Holguín",
+    "country": "Cuba",
+    "latitude": 20.887094300402126,
+    "longitude": -76.2592587,
+    "other_names": {
+      "name": "Holguín",
+      "name:en": "Holguín",
+      "name:hu": "Holguín",
+      "name:ru": "Ольгин",
+      "name:uk": "Ольгін"
+    }
+  },
+  {
+    "name": "Holingol",
+    "country": "China",
+    "latitude": 45.528158500409276,
+    "longitude": 119.65227879999999,
+    "other_names": {
+      "name": "霍林郭勒市",
+      "name:de": "Holingol",
+      "name:en": "Holingol",
+      "name:fr": "Holingol",
+      "name:ja": "ホーリンゴル市",
+      "name:mn": "Хоолингол хот",
+      "name:ru": "Хуалиньгол",
+      "name:vi": "Huolin Gol",
+      "name:zh": "霍林郭勒市",
+      "alt_name": "霍林郭勒;Holingol;Хоолингол",
+      "alt_name:en": "Huolin Gol;Huolinguole",
+      "alt_name:vi": "Hoắc Lâm Quách Lặc",
+      "name:zh-Hant": "霍林郭勒市",
+      "name:zh_pinyin": "Huòlínguōlè Shì"
+    }
+  },
+  {
+    "name": "Hollywood",
+    "country": "United States Of America",
+    "latitude": 26.011201400163106,
+    "longitude": -80.1494901,
+    "other_names": {
+      "name": "Hollywood"
+    }
+  },
+  {
+    "name": "Holon",
+    "country": "Israel And Palestine",
+    "latitude": 32.01428865851369,
+    "longitude": 34.78177514400302,
+    "other_names": {
+      "name": "חולון",
+      "name:ar": "حولون",
+      "name:da": "Holon",
+      "name:en": "Holon",
+      "name:fr": "Holon",
+      "name:he": "חולון",
+      "name:lt": "Holonas",
+      "name:ru": "Холон",
+      "name:sr": "Холон",
+      "name:uk": "Холон"
+    }
+  },
+  {
+    "name": "Holon",
+    "country": "Israel And Palestine",
+    "latitude": 32.01931209960788,
+    "longitude": 34.78040759999999,
+    "other_names": {
+      "name": "חולון",
+      "name:ar": "حولون",
+      "name:cs": "Cholon",
+      "name:de": "Holon",
+      "name:en": "Holon",
+      "name:es": "Jolón",
+      "name:et": "H̱olon",
+      "name:fr": "Holon",
+      "name:he": "חולון",
+      "name:hi": "होलोन",
+      "name:lt": "Holonas",
+      "name:ml": "ഹോളോൺ",
+      "name:pl": "Cholon",
+      "name:ru": "Холон",
+      "name:en1": "Cholon"
+    }
+  },
+  {
+    "name": "Holor",
+    "country": "Iran",
+    "latitude": 26.969697182360594,
+    "longitude": 56.095316952175615,
+    "other_names": {
+      "name": "Holor",
+      "name:fa": "هلر"
+    }
+  },
+  {
+    "name": "Holyoke",
+    "country": "United States Of America",
+    "latitude": 42.20714340050065,
+    "longitude": -72.60765,
+    "other_names": {
+      "name": "Holyoke"
+    }
+  },
+  {
+    "name": "Homer",
+    "country": "United States Of America",
+    "latitude": 59.64408760151566,
+    "longitude": -151.54014770000003,
+    "other_names": {
+      "name": "Homer"
+    }
+  }
+]

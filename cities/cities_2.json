@@ -1,0 +1,417 @@
+[
+  {
+    "name": "Aberdeen",
+    "country": "Scotland",
+    "latitude": 57.14824290033351,
+    "longitude": -2.0928095,
+    "other_names": {
+      "name": "Aberdeen",
+      "name:ar": "أبردين",
+      "name:be": "Абердзін",
+      "name:de": "Aberdeen",
+      "name:el": "Αμπερντίν",
+      "name:en": "Aberdeen",
+      "name:fa": "ابردین",
+      "name:gd": "Obar Dheathain",
+      "name:hu": "Aberdeen",
+      "name:ja": "アバディーン",
+      "name:ko": "애버딘",
+      "name:la": "Aberdonia",
+      "name:lt": "Aberdynas",
+      "name:mk": "Абердин",
+      "name:ru": "Абердин",
+      "name:sd": "ايبرڊين",
+      "name:sr": "Абердин",
+      "name:uk": "Абердин",
+      "name:ur": "ابرڈین",
+      "alt_name": "Granite City",
+      "name:azb": "ابردين",
+      "name:nds": "Aberdeen",
+      "name:pnb": "ابردین",
+      "name:sco": "Aiberdeen",
+      "alt_name:gd": "Obaireadhain",
+      "alt_name:la": "Aberdonium",
+      "name:az-Arab": "ابردين"
+    }
+  },
+  {
+    "name": "Aberdeen",
+    "country": "United States Of America",
+    "latitude": 45.46498050041722,
+    "longitude": -98.487813,
+    "other_names": {
+      "name": "Aberdeen"
+    }
+  },
+  {
+    "name": "Aberdeen",
+    "country": "United States Of America",
+    "latitude": 46.9753710001663,
+    "longitude": -123.815722,
+    "other_names": {
+      "name": "Aberdeen",
+      "name:de": "Aberdeen",
+      "name:es": "Aberdeen",
+      "name:fr": "Aberdeen",
+      "name:it": "Aberdeen",
+      "name:ja": "アバディーン",
+      "name:ko": "애버딘",
+      "name:pt": "Aberdeen",
+      "name:zh": "阿伯丁"
+    }
+  },
+  {
+    "name": "Abidjan",
+    "country": "Ivory Coast",
+    "latitude": 5.32035699948468,
+    "longitude": -4.016107,
+    "other_names": {
+      "name": "Abidjan",
+      "name:af": "Abidjan",
+      "name:ar": "أبيدجان",
+      "name:be": "Абіджан",
+      "name:bg": "Абиджан",
+      "name:bm": "Abijan",
+      "name:bn": "আবিজান",
+      "name:br": "Abidjan",
+      "name:bs": "Abidjan",
+      "name:ca": "Abidjan",
+      "name:cs": "Abidžan",
+      "name:cy": "Abidjan",
+      "name:da": "Abidjan",
+      "name:de": "Abidjan",
+      "name:el": "Αμπιτζάν",
+      "name:en": "Abidjan",
+      "name:eo": "Abiĝano",
+      "name:es": "Abiyán",
+      "name:et": "Abidjan",
+      "name:eu": "Abidjan",
+      "name:fa": "آبیجان",
+      "name:fi": "Abidjan",
+      "name:fr": "Abidjan",
+      "name:gd": "Abidjan",
+      "name:gl": "Abidjan",
+      "name:gv": "Abidjan",
+      "name:he": "אבידג'אן",
+      "name:hi": "आबिजान",
+      "name:hr": "Abidjan",
+      "name:hu": "Abidjan",
+      "name:id": "Abidjan",
+      "name:io": "Abidjan",
+      "name:is": "Abidjan",
+      "name:it": "Abidjan",
+      "name:ja": "アビジャン",
+      "name:jv": "Abidjan",
+      "name:kn": "ಆಬಿಜಾನ್",
+      "name:ko": "아비장",
+      "name:la": "Abidjan",
+      "name:ln": "Abidjan",
+      "name:lt": "Abidžanas",
+      "name:lv": "Abidžāna",
+      "name:mg": "Abidjan",
+      "name:mk": "Абиџан",
+      "name:ml": "അബിജാൻ",
+      "name:mr": "आबिजान",
+      "name:ms": "Abidjan",
+      "name:nl": "Abidjan",
+      "name:nn": "Abidjan",
+      "name:no": "Abidjan",
+      "name:oc": "Abidjan",
+      "name:pl": "Abidżan",
+      "name:pt": "Abidjan",
+      "name:ro": "Abidjan",
+      "name:ru": "Абиджан",
+      "name:sc": "Abidjan",
+      "name:sk": "Abidjan",
+      "name:sl": "Abidžan",
+      "name:sq": "Abidjan",
+      "name:sr": "Абиџан",
+      "name:sv": "Abidjan",
+      "name:sw": "Abidjan",
+      "name:th": "อาบีจาน",
+      "name:tk": "Abijan",
+      "name:tr": "Abican",
+      "name:uk": "Абіджан",
+      "name:vi": "Abidjan",
+      "name:vo": "Abidjan",
+      "name:yo": "Abidjan",
+      "name:zh": "阿比讓",
+      "name:als": "Abidjan",
+      "name:kab": "Abidjan",
+      "name:lmo": "Abidjan",
+      "name:nan": "Abidjan",
+      "name:nov": "Abidjan",
+      "name:pms": "Abidjan",
+      "name:war": "Abidjan",
+      "name:bat-smg": "Abidžans",
+      "name:roa-rup": "Abidjan"
+    }
+  },
+  {
+    "name": "Abiko",
+    "country": "Japan",
+    "latitude": 35.863998999722284,
+    "longitude": 140.0280653,
+    "other_names": {
+      "name": "我孫子市",
+      "name:ar": "آبيكو، تشيبا",
+      "name:de": "Abiko",
+      "name:en": "Abiko",
+      "name:es": "Abiko",
+      "name:fr": "Abiko",
+      "name:ja": "我孫子市",
+      "name:ko": "아비코시",
+      "name:pl": "Abiko",
+      "name:ru": "Абико",
+      "name:uk": "Абіко",
+      "name:ja_rm": "Abiko-shi",
+      "name:ja_kana": "あびこし"
+    }
+  },
+  {
+    "name": "Abilene",
+    "country": "United States Of America",
+    "latitude": 32.446449999595075,
+    "longitude": -99.74759049999999,
+    "other_names": {
+      "name": "Abilene",
+      "name:ru": "Абилин",
+      "name:uk": "Абілін"
+    }
+  },
+  {
+    "name": "Abobo",
+    "country": "Ivory Coast",
+    "latitude": 5.435486999477248,
+    "longitude": -4.029007,
+    "other_names": {
+      "name": "Abobo",
+      "name:ar": "أبوبو"
+    }
+  },
+  {
+    "name": "Abohar",
+    "country": "India",
+    "latitude": 30.14505429972698,
+    "longitude": 74.19565969999998,
+    "other_names": {
+      "name": "Abohar",
+      "name:hi": "अबोहर",
+      "name:ja": "アボハール",
+      "name:pa": "ਅਬੋਹਰ"
+    }
+  },
+  {
+    "name": "Abomey",
+    "country": "Benin",
+    "latitude": 7.182001199400681,
+    "longitude": 1.9936320000000003,
+    "other_names": {
+      "name": "Abomey",
+      "name:ar": "أبومية",
+      "name:ko": "아보메",
+      "name:ru": "Абомей",
+      "name:uk": "Абомей"
+    }
+  },
+  {
+    "name": "Abomey-Calavi",
+    "country": "Benin",
+    "latitude": 6.453863699423946,
+    "longitude": 2.354245,
+    "other_names": {
+      "name": "Abomey-Calavi",
+      "name:ar": "عبومي كالاوي",
+      "name:ru": "Абомей-Калави",
+      "short_name": "Calavi",
+      "short_name:ar": "كالاوي"
+    }
+  },
+  {
+    "name": "Abong-Mbang",
+    "country": "Cameroon",
+    "latitude": 3.989629299588378,
+    "longitude": 13.1738695,
+    "other_names": {
+      "name": "Abong-Mbang"
+    }
+  },
+  {
+    "name": "Aboudéïa",
+    "country": "Chad",
+    "latitude": 11.450623499533068,
+    "longitude": 19.277614399999997,
+    "other_names": {
+      "name": "Aboudéïa أبو ضياء",
+      "name:ar": "أبو ضياء",
+      "name:en": "Aboudéïa",
+      "name:fr": "Aboudéïa",
+      "alt_name": "Abou Deïa"
+    }
+  },
+  {
+    "name": "Abrantes",
+    "country": "Portugal",
+    "latitude": 39.46319050019256,
+    "longitude": -8.197361799999998,
+    "other_names": {
+      "name": "Abrantes"
+    }
+  },
+  {
+    "name": "Abreu e Lima",
+    "country": "Brazil",
+    "latitude": -7.900718999754812,
+    "longitude": -34.898389,
+    "other_names": {
+      "name": "Abreu e Lima"
+    }
+  },
+  {
+    "name": "Abri",
+    "country": "Sudan",
+    "latitude": 20.793038400399997,
+    "longitude": 30.3406751,
+    "other_names": {
+      "name": "عبري",
+      "name:ar": "عبري",
+      "name:de": "Abri",
+      "name:en": "Abri",
+      "name:es": "Abri",
+      "name:fr": "Abri",
+      "alt_name": "`Abri;Sukkot;‘Abrī",
+      "alt_name:ar": "سكّوت",
+      "alt_name:en": "`Abri"
+    }
+  },
+  {
+    "name": "Abu Delelq",
+    "country": "Sudan",
+    "latitude": 15.899020600012836,
+    "longitude": 33.8087818,
+    "other_names": {
+      "name": "أبو دليق",
+      "name:ar": "ابو دليق",
+      "name:en": "Abu Delelq",
+      "name:fr": "Abu Deliq",
+      "alt_name": "Abu Dulayq;Abu Deleig;Abu Deleiq;Abū Dulayq",
+      "alt_name:ar": "أبو دليق",
+      "alt_name:en": "Abu Dulayq"
+    }
+  },
+  {
+    "name": "Abu Gharaq",
+    "country": "Iraq",
+    "latitude": 32.52710699959334,
+    "longitude": 44.343966,
+    "other_names": {
+      "name": "أبي غرق",
+      "name:ar": "أبي غرق",
+      "name:de": "Abu Gharaq",
+      "name:en": "Abu Gharaq",
+      "name:fr": "Abu Gharaq",
+      "alt_name": "Abū Gharaq, Nāḩiyat Abī Gharaq, Nāḩīyat Abī Gharaq, ابي غرق, ناحية ابي غرق, Abu Gharaq, Nahiyat Abi Gharaq, Nahiyat Abi Gharaq, ابي غرق, ناحية ابي غرق",
+      "int_name": "Abu Gharaq - أبي غرق"
+    }
+  },
+  {
+    "name": "Abu Hamad",
+    "country": "Sudan",
+    "latitude": 19.537892800348683,
+    "longitude": 33.32484709999999,
+    "other_names": {
+      "name": "أبو حمد",
+      "name:ar": "أبو حمد",
+      "name:de": "Abu Hamad",
+      "name:en": "Abu Hamad",
+      "name:es": "Abu Hamad",
+      "name:fa": "ابو حمد",
+      "name:fr": "Abu Hamad",
+      "name:ur": "ابو حمد",
+      "alt_name": "Abu Hamad;Abu Hamed;Abū Ḩamad",
+      "int_name": "Abu Hamad",
+      "name:azb": "ابو حمد"
+    }
+  },
+  {
+    "name": "Abuja",
+    "country": "Nigeria",
+    "latitude": 9.064330499403003,
+    "longitude": 7.489297399999998,
+    "other_names": {
+      "name": "Abuja",
+      "name:am": "አቡጃ",
+      "name:ar": "أبوجا",
+      "name:az": "Abuca",
+      "name:be": "Абуджа",
+      "name:bg": "Абуджа",
+      "name:bm": "Abuza",
+      "name:bn": "আবুজা",
+      "name:bo": "ཨ་པུ་ཅ།",
+      "name:cv": "Абуджа",
+      "name:de": "Abuja",
+      "name:el": "Αμπούζα",
+      "name:en": "Abuja",
+      "name:eo": "Abuĝo",
+      "name:es": "Abuya",
+      "name:eu": "Abuja",
+      "name:fa": "آبوجا",
+      "name:fr": "Abuja",
+      "name:he": "אבוג'ה",
+      "name:hi": "अबुजा",
+      "name:ht": "Abouja",
+      "name:hu": "Abuja",
+      "name:hy": "Աբուջա",
+      "name:is": "Abútja",
+      "name:ja": "アブジャ",
+      "name:ka": "აბუჯა",
+      "name:kk": "Абуджа",
+      "name:kn": "ಅಬುಜಾ",
+      "name:ko": "아부자",
+      "name:ku": "Ebuca",
+      "name:ky": "Абужа",
+      "name:la": "Abugia",
+      "name:lt": "Abudža",
+      "name:lv": "Abudža",
+      "name:mk": "Абуџа",
+      "name:ml": "അബുജ",
+      "name:mr": "अबुजा",
+      "name:my": "အဘူဂျာမြို့",
+      "name:oc": "Abuja",
+      "name:or": "ଅବୁଜା",
+      "name:os": "Абуджа",
+      "name:pa": "ਅਬੁਜਾ",
+      "name:pl": "Abudża",
+      "name:ru": "Абуджа",
+      "name:sr": "Абуџа",
+      "name:sv": "Abuja",
+      "name:ta": "அபுஜா",
+      "name:tg": "Абуҷа",
+      "name:th": "อาบูจา",
+      "name:uk": "Абуджа",
+      "name:ur": "ابوجا",
+      "name:yi": "אבודזשא",
+      "name:yo": "Abùjá",
+      "name:zh": "阿布贾",
+      "name:ckb": "ئەبوجا",
+      "name:mrj": "Абуджа",
+      "name:pnb": "ابوجا",
+      "name:udm": "Абуджа",
+      "name:bat-smg": "Abodža"
+    }
+  },
+  {
+    "name": "Abu Jibeha",
+    "country": "Sudan",
+    "latitude": 11.464672099534207,
+    "longitude": 31.233983799999997,
+    "other_names": {
+      "name": "أبو جبيهة",
+      "name:ar": "أبو جبيهة",
+      "name:en": "Abu Jibeha",
+      "name:fr": "Abu Jibeha",
+      "name:ru": "Абу-Губейха",
+      "alt_name": "Abu-Gebeiha;Abu Jibeha;Abu Jubayhah;Abu Gibeyah;Abu Gubeiha;Abū Jubayhah"
+    }
+  }
+]

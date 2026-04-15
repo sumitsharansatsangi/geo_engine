@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Tacna",
+    "country": "Peru",
+    "latitude": -18.013852100473237,
+    "longitude": -70.2511614,
+    "other_names": {
+      "name": "Tacna",
+      "name:de": "Tacna",
+      "name:en": "Tacna",
+      "name:es": "Tacna",
+      "name:ko": "타크나",
+      "name:pl": "Tacna",
+      "name:ru": "Такна",
+      "name:uk": "Такна"
+    }
+  },
+  {
+    "name": "Tacoma",
+    "country": "United States Of America",
+    "latitude": 47.249579800108755,
+    "longitude": -122.4398746,
+    "other_names": {
+      "name": "Tacoma",
+      "name:ar": "تاكوما",
+      "name:be": "Такома",
+      "name:bg": "Такоума",
+      "name:de": "Tacoma",
+      "name:en": "Tacoma",
+      "name:es": "Tacoma",
+      "name:fa": "تاکوما",
+      "name:fr": "Tacoma",
+      "name:it": "Tacoma",
+      "name:ja": "タコマ",
+      "name:ko": "터코마",
+      "name:pt": "Tacoma",
+      "name:ru": "Такома",
+      "name:uk": "Такома",
+      "name:vi": "Tacoma",
+      "name:zh": "塔科馬"
+    }
+  },
+  {
+    "name": "Tacuarembó",
+    "country": "Uruguay",
+    "latitude": -31.711018299384833,
+    "longitude": -55.978876199999995,
+    "other_names": {
+      "name": "Tacuarembó"
+    }
+  },
+  {
+    "name": "Tacuba",
+    "country": "El Salvador",
+    "latitude": 13.899242799778563,
+    "longitude": -89.9307228,
+    "other_names": {
+      "name": "Tacuba"
+    }
+  },
+  {
+    "name": "Tacurong",
+    "country": "Philippines",
+    "latitude": 6.68843679941504,
+    "longitude": 124.6786576,
+    "other_names": {
+      "name": "Tacurong",
+      "name:en": "Tacurong",
+      "name:ja": "タキュロン"
+    }
+  },
+  {
+    "name": "Tada-U",
+    "country": "Myanmar",
+    "latitude": 21.814203638751984,
+    "longitude": 95.96977396504042,
+    "other_names": {
+      "name": "Tada-U"
+    }
+  },
+  {
+    "name": "Tadepallegudem",
+    "country": "India",
+    "latitude": 16.81656010011581,
+    "longitude": 81.5296984,
+    "other_names": {
+      "name": "Tadepallegudem",
+      "name:en": "Tadepallegudem",
+      "name:hi": "ताडेपल्लीगुडेम",
+      "name:kn": "ತಾಡೇಪಲ್ಲಿಗೂಡೆಂ",
+      "name:te": "తాడేపల్లిగూడెం"
+    }
+  },
+  {
+    "name": "Tadipatri",
+    "country": "India",
+    "latitude": 14.906955899896282,
+    "longitude": 78.0097071,
+    "other_names": {
+      "name": "Tadipatri",
+      "name:en": "Tadipatri",
+      "name:hi": "ताडिपत्रि",
+      "name:kn": "ತಾಡಿಪತ್ರಿ",
+      "name:pa": "ਤਾਡੀਪਤਰੀ",
+      "name:te": "తాడిపత్రి"
+    }
+  },
+  {
+    "name": "Taebaek",
+    "country": "South Korea",
+    "latitude": 37.163794299869025,
+    "longitude": 128.9857176,
+    "other_names": {
+      "name": "태백시",
+      "name:en": "Taebaek",
+      "name:ja": "太白市",
+      "name:ko": "태백시",
+      "name:zh": "太白市",
+      "name:ko-Hani": "太白市"
+    }
+  },
+  {
+    "name": "Tagajo",
+    "country": "Japan",
+    "latitude": 38.29381320002375,
+    "longitude": 141.00426419999997,
+    "other_names": {
+      "name": "多賀城市",
+      "name:ar": "تاغاجو، مياغي",
+      "name:de": "Tagajō",
+      "name:en": "Tagajo",
+      "name:es": "Tagajō",
+      "name:fr": "Tagajō",
+      "name:ja": "多賀城市",
+      "name:ko": "다가조시",
+      "name:pl": "Tagajō",
+      "name:ru": "Тагадзё",
+      "name:uk": "Таґадзьо",
+      "int_name": "Tagajō",
+      "name:ja_rm": "Tagajō-shi",
+      "name:ja_kana": "たがじょうし"
+    }
+  },
+  {
+    "name": "Taganrog",
+    "country": "Russia",
+    "latitude": 47.2153657001161,
+    "longitude": 38.928521599999996,
+    "other_names": {
+      "name": "Таганрог",
+      "name:ar": "تاغانروغ",
+      "name:az": "Taqanroq",
+      "name:bg": "Таганрог",
+      "name:ca": "Taganrog",
+      "name:de": "Taganrog",
+      "name:el": "Ταγκανρόγκ",
+      "name:en": "Taganrog",
+      "name:es": "Taganrog",
+      "name:et": "Taganrog",
+      "name:fa": "تاگانروگ",
+      "name:fr": "Taganrog",
+      "name:gl": "Taganrog",
+      "name:hy": "Տագանրոգ",
+      "name:it": "Taganrog",
+      "name:ja": "タガンログ",
+      "name:ka": "ტაგანროგი",
+      "name:ko": "타간로크",
+      "name:lt": "Taganrogas",
+      "name:lv": "Taganroga",
+      "name:nl": "Taganrog",
+      "name:pl": "Taganrog",
+      "name:ro": "Taganrog",
+      "name:ru": "Таганрог",
+      "name:sr": "Таганрог",
+      "name:uk": "Таганрог",
+      "name:vi": "Taganrog",
+      "name:zh": "塔甘羅格",
+      "int_name": "Taganrog",
+      "name:ast": "Taganrog",
+      "name:hsb": "Taganrog",
+      "name:pnt": "Ταγκανρόγκ",
+      "alt_name:en": "Tahanrih",
+      "old_name:uk": "Таганріг"
+    }
+  },
+  {
+    "name": "Taganrog",
+    "country": "Russia",
+    "latitude": 47.2392862235341,
+    "longitude": 38.88416596561133,
+    "other_names": {
+      "name": "Таганрог",
+      "name:ar": "تاغانروغ",
+      "name:az": "Taqanroq",
+      "name:bg": "Таганрог",
+      "name:de": "Taganrog",
+      "name:en": "Taganrog",
+      "name:es": "Taganrog",
+      "name:fa": "تاگانروگ",
+      "name:fr": "Taganrog",
+      "name:hy": "Տագանրոգ",
+      "name:it": "Taganrog",
+      "name:ja": "タガンログ",
+      "name:ka": "ტაგანროგი",
+      "name:ko": "타간로크",
+      "name:nl": "Taganrog",
+      "name:ro": "Taganrog",
+      "name:ru": "Таганрог",
+      "name:sr": "Таганрог",
+      "name:uk": "Таганрог",
+      "name:zh": "塔甘羅格",
+      "int_name": "Taganrog",
+      "alt_name:ar": "تاهانروه",
+      "alt_name:ko": "타한로흐",
+      "old_name:uk": "Таганріг"
+    }
+  },
+  {
+    "name": "Tagawa",
+    "country": "Japan",
+    "latitude": 33.63878069959248,
+    "longitude": 130.80633519999998,
+    "other_names": {
+      "name": "田川市",
+      "name:ar": "تاغاوا، فوكوكا",
+      "name:de": "Tagawa",
+      "name:en": "Tagawa",
+      "name:es": "Tagawa",
+      "name:fr": "Tagawa",
+      "name:ja": "田川市",
+      "name:ko": "다가와시",
+      "name:pl": "Tagawa",
+      "name:ru": "Тагава",
+      "name:uk": "Таґава",
+      "name:zh": "田川市",
+      "int_name": "Tagawa",
+      "name:zh-Hans": "田川市",
+      "name:zh-Hant": "田川市"
+    }
+  },
+  {
+    "name": "Tagaytay",
+    "country": "Philippines",
+    "latitude": 14.115259099803419,
+    "longitude": 120.96199270000001,
+    "other_names": {
+      "name": "Tagaytay",
+      "name:ja": "タガイタイ"
+    }
+  },
+  {
+    "name": "Tagbilaran",
+    "country": "Philippines",
+    "latitude": 9.640551999421975,
+    "longitude": 123.8565764,
+    "other_names": {
+      "name": "Tagbilaran",
+      "name:en": "Tagbilaran",
+      "name:ja": "タグビララン",
+      "name:ru": "Тагбиларан"
+    }
+  },
+  {
+    "name": "Taguatinga",
+    "country": "Brazil",
+    "latitude": -15.83352770042895,
+    "longitude": -48.05657159999999,
+    "other_names": {
+      "name": "Taguatinga",
+      "name:ja": "タグアチンガ",
+      "name:pt": "Taguatinga",
+      "alt_name": "RA III",
+      "loc_name": "RA 3",
+      "reg_name": "Região Administrativa Três"
+    }
+  },
+  {
+    "name": "Taguig",
+    "country": "Philippines",
+    "latitude": 14.526625399851431,
+    "longitude": 121.074403,
+    "other_names": {
+      "ref": "137607000",
+      "name": "Taguig",
+      "name:ja": "タギッグ",
+      "name:ru": "Тагиг",
+      "official_name": "City of Taguig"
+    }
+  },
+  {
+    "name": "Tagum",
+    "country": "Philippines",
+    "latitude": 7.447023399395482,
+    "longitude": 125.8111811,
+    "other_names": {
+      "name": "Tagum",
+      "name:en": "Tagum",
+      "name:ja": "タグム",
+      "name:ru": "Тагум",
+      "name:zh": "塔古姆"
+    }
+  },
+  {
+    "name": "Tahara",
+    "country": "Japan",
+    "latitude": 34.63911199962955,
+    "longitude": 137.183207,
+    "other_names": {
+      "name": "田原市",
+      "name:ar": "تاهارا، آيتشي",
+      "name:de": "Tahara",
+      "name:en": "Tahara",
+      "name:es": "Tahara",
+      "name:fr": "Tahara",
+      "name:ja": "田原市",
+      "name:ko": "다하라시",
+      "name:pl": "Tahara",
+      "name:ru": "Тахара",
+      "name:uk": "Тахара",
+      "name:ja_rm": "Tahara-shi",
+      "name:ja_kana": "たはらし"
+    }
+  },
+  {
+    "name": "Tahoua",
+    "country": "Niger",
+    "latitude": 14.889921999894268,
+    "longitude": 5.262148999999999,
+    "other_names": {
+      "name": "Tahoua",
+      "name:ar": "طاوة",
+      "name:en": "Tahoua",
+      "name:ko": "타우아",
+      "name:ru": "Тахуа",
+      "name:uk": "Тахуа"
+    }
+  }
+]

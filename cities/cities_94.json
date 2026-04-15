@@ -1,0 +1,253 @@
+[
+  {
+    "name": "Ciudad del Este",
+    "country": "Brazil",
+    "latitude": -25.516901499705206,
+    "longitude": -54.61686449999999,
+    "other_names": {
+      "name": "Ciudad del Este",
+      "name:en": "Ciudad del Este",
+      "name:pt": "Cidade do Leste",
+      "name:ru": "Сьюдад-дель-Эсте",
+      "name:uk": "Сьюдад-дель-Есте",
+      "old_name": "Puerto Flor de Lis, Puerto Presidente Stroessner"
+    }
+  },
+  {
+    "name": "Ciudad del Plata",
+    "country": "Uruguay",
+    "latitude": -34.75153079983675,
+    "longitude": -56.4205752,
+    "other_names": {
+      "name": "Ciudad del Plata"
+    }
+  },
+  {
+    "name": "Ciudad Guayana",
+    "country": "Venezuela",
+    "latitude": 8.322376299391127,
+    "longitude": -62.6896622,
+    "other_names": {
+      "name": "Ciudad Guayana",
+      "name:en": "Ciudad Guayana",
+      "name:ja": "シウダーグアヤナ",
+      "name:ko": "시우다드과야나",
+      "name:mk": "Гвајана",
+      "name:pt": "Cidade Guayana",
+      "name:uk": "Сьюдад-Гуаяна",
+      "alt_name:mk": "Сјудад Гвајана"
+    }
+  },
+  {
+    "name": "Ciudad Guzmán",
+    "country": "Mexico",
+    "latitude": 19.700163200357625,
+    "longitude": -103.463935,
+    "other_names": {
+      "name": "Ciudad Guzmán"
+    }
+  },
+  {
+    "name": "Ciudad Juárez",
+    "country": "Mexico",
+    "latitude": 31.709796099620792,
+    "longitude": -106.455581,
+    "other_names": {
+      "name": "Ciudad Juárez",
+      "name:ar": "سيوداد خواريز",
+      "name:pt": "Ciudad Juárez",
+      "name:zh": "华雷斯城"
+    }
+  },
+  {
+    "name": "Ciudad Lerdo",
+    "country": "Mexico",
+    "latitude": 25.536641000209663,
+    "longitude": -103.5252472,
+    "other_names": {
+      "name": "Ciudad Lerdo"
+    }
+  },
+  {
+    "name": "Ciudad Madero",
+    "country": "Mexico",
+    "latitude": 22.264670700404615,
+    "longitude": -97.83970910000001,
+    "other_names": {
+      "name": "Ciudad Madero"
+    }
+  },
+  {
+    "name": "Ciudad Mante",
+    "country": "Mexico",
+    "latitude": 22.741127800392984,
+    "longitude": -98.97140929999999,
+    "other_names": {
+      "ref": "280210001",
+      "name": "Ciudad Mante",
+      "name:ru": "Сьюдад-Манте",
+      "alt_name": "El Mante, Tamaulipas"
+    }
+  },
+  {
+    "name": "Ciudad Nueva Santa Cruz",
+    "country": "Bolivia",
+    "latitude": -17.637975834267333,
+    "longitude": -63.06323039701265,
+    "other_names": {
+      "name": "Ciudad Nueva Santa Cruz"
+    }
+  },
+  {
+    "name": "Ciudad Obregón",
+    "country": "Mexico",
+    "latitude": 27.484661900003935,
+    "longitude": -109.9337782,
+    "other_names": {
+      "name": "Ciudad Obregón",
+      "name:en": "Ciudad Obregón"
+    }
+  },
+  {
+    "name": "Ciudad Ojeda",
+    "country": "Venezuela",
+    "latitude": 10.218048599449252,
+    "longitude": -71.32790539999999,
+    "other_names": {
+      "name": "Ciudad Ojeda",
+      "name:ru": "Сьюда́д-Охе́да"
+    }
+  },
+  {
+    "name": "Ciudad Real",
+    "country": "Spain",
+    "latitude": 38.9854201001238,
+    "longitude": -3.9285137999999997,
+    "other_names": {
+      "name": "Ciudad Real",
+      "name:ar": "ثيوداد ريال",
+      "name:be": "Сьюдад-Рэаль",
+      "name:el": "Θιουδάδ Ρεάλ",
+      "name:es": "Ciudad Real",
+      "name:ja": "シウダー・レアル",
+      "name:la": "Civitas Regia",
+      "name:ru": "Сьюдад-Реаль",
+      "name:sr": "Сијудад Реал",
+      "alt_name:ar": "سيوداد ريال"
+    }
+  },
+  {
+    "name": "Ciudad Valles",
+    "country": "Mexico",
+    "latitude": 21.991655100408416,
+    "longitude": -99.0102967,
+    "other_names": {
+      "name": "Ciudad Valles"
+    }
+  },
+  {
+    "name": "Ciudad Victoria",
+    "country": "Mexico",
+    "latitude": 23.73898460034865,
+    "longitude": -99.14413520000001,
+    "other_names": {
+      "name": "Ciudad Victoria",
+      "name:en": "Ciudad Victoria",
+      "name:es": "Ciudad Victoria",
+      "name:pl": "Ciudad Victoria",
+      "name:ru": "Сьюдад-Виктория",
+      "name:uk": "Сьюдад-Вікторія",
+      "alt_name": "Victoria"
+    }
+  },
+  {
+    "name": "Cixi",
+    "country": "China",
+    "latitude": 30.17086749972475,
+    "longitude": 121.261786,
+    "other_names": {
+      "name": "慈溪市",
+      "name:de": "Cixi",
+      "name:en": "Cixi",
+      "name:et": "Cixi",
+      "name:fr": "Cixi",
+      "name:id": "Kota Cixi",
+      "name:it": "Cixi",
+      "name:ja": "慈渓市",
+      "name:ki": "Cixi City",
+      "name:ko": "츠시시",
+      "name:mg": "Cixi City",
+      "name:nl": "Cixi",
+      "name:no": "Cixi",
+      "name:pl": "Cixi",
+      "name:ru": "Цыси",
+      "name:sk": "Cch’-si",
+      "name:sv": "Cixi, Ningbo",
+      "name:tl": "Lungsod ng Cixi",
+      "name:ur": "سیچی شہر",
+      "name:vi": "Từ Khê",
+      "name:zh": "慈溪市",
+      "int_name": "Cixi",
+      "name:hak": "Chhṳ̀-hâi-sṳ",
+      "name:nan": "Chû-khe-chhī",
+      "name:war": "Cixi",
+      "name:wuu": "慈溪市",
+      "name:yue": "慈谿",
+      "name:zh-Hant": "慈溪市",
+      "name:zh_pinyin": "Cíxī Shì"
+    }
+  },
+  {
+    "name": "Cixian",
+    "country": "China",
+    "latitude": 36.367496399773984,
+    "longitude": 114.3717459,
+    "other_names": {
+      "name": "磁县",
+      "name:en": "Cixian",
+      "name:ja": "磁県",
+      "name:ru": "Цычжоу",
+      "name:vi": "Từ",
+      "name:zh": "磁县",
+      "alt_name": "磁;Cixian;Ci County",
+      "name:zh-Hant": "磁縣",
+      "name:zh_pinyin": "Ci Xian"
+    }
+  },
+  {
+    "name": "Claremont",
+    "country": "United States Of America",
+    "latitude": 43.377105000541896,
+    "longitude": -72.347031,
+    "other_names": {
+      "name": "Claremont"
+    }
+  },
+  {
+    "name": "Clarkston",
+    "country": "United States Of America",
+    "latitude": 46.416272400273215,
+    "longitude": -117.04517960000001,
+    "other_names": {
+      "name": "Clarkston"
+    }
+  },
+  {
+    "name": "Clarksville",
+    "country": "United States Of America",
+    "latitude": 36.527760699791884,
+    "longitude": -87.3588703,
+    "other_names": {
+      "name": "Clarksville"
+    }
+  },
+  {
+    "name": "Clearwater",
+    "country": "United States Of America",
+    "latitude": 27.96585329995005,
+    "longitude": -82.80010259999999,
+    "other_names": {
+      "name": "Clearwater"
+    }
+  }
+]

@@ -1,0 +1,294 @@
+[
+  {
+    "name": "Temblador",
+    "country": "Venezuela",
+    "latitude": 9.007078299401579,
+    "longitude": -62.64384690000001,
+    "other_names": {
+      "name": "Temblador"
+    }
+  },
+  {
+    "name": "Temecula",
+    "country": "United States Of America",
+    "latitude": 33.49463529959011,
+    "longitude": -117.1473661,
+    "other_names": {
+      "name": "Temecula"
+    }
+  },
+  {
+    "name": "Temerloh",
+    "country": "Malaysia Singapore Brunei",
+    "latitude": 3.450542299638226,
+    "longitude": 102.41889999999998,
+    "other_names": {
+      "name": "Temerloh",
+      "name:fa": "تمرلوح",
+      "name:ja": "テメルロー",
+      "name:ta": "தெமர்லோ",
+      "name:ur": "تیمیرلوہ",
+      "name:zh": "淡马鲁"
+    }
+  },
+  {
+    "name": "Temiskaming Shores",
+    "country": "Canada",
+    "latitude": 47.51256300005083,
+    "longitude": -79.67559799999998,
+    "other_names": {
+      "name": "Temiskaming Shores"
+    }
+  },
+  {
+    "name": "Tempe",
+    "country": "United States Of America",
+    "latitude": 33.42550559958924,
+    "longitude": -111.9400091,
+    "other_names": {
+      "name": "Tempe",
+      "name:ru": "Темпе",
+      "name:uk": "Темпі"
+    }
+  },
+  {
+    "name": "Temperley",
+    "country": "Argentina",
+    "latitude": -34.77588159984179,
+    "longitude": -58.39711990000001,
+    "other_names": {
+      "name": "Temperley"
+    }
+  },
+  {
+    "name": "TEMPETIN",
+    "country": "Guinea",
+    "latitude": 9.785950899428078,
+    "longitude": -13.510694500000001,
+    "other_names": {
+      "name": "TEMPETIN"
+    }
+  },
+  {
+    "name": "Temuco",
+    "country": "Chile",
+    "latitude": -38.736261100722,
+    "longitude": -72.590546,
+    "other_names": {
+      "name": "Temuco",
+      "name:ar": "تيموكو",
+      "name:en": "Temuco",
+      "name:ru": "Темуко",
+      "name:uk": "Темуко"
+    }
+  },
+  {
+    "name": "Tenali",
+    "country": "India",
+    "latitude": 16.237773500051674,
+    "longitude": 80.6464219,
+    "other_names": {
+      "name": "Tenali",
+      "name:en": "Tenali",
+      "name:hi": "तेनाली",
+      "name:ja": "テーナーリー",
+      "name:kn": "ತೆನಾಲಿ",
+      "name:pa": "ਤੇਨਾਲੀ",
+      "name:te": "తెనాలి"
+    }
+  },
+  {
+    "name": "Tendo",
+    "country": "Japan",
+    "latitude": 38.36217400003356,
+    "longitude": 140.3776345,
+    "other_names": {
+      "name": "天童市",
+      "name:ar": "تيندو، ياماغاتا",
+      "name:de": "Tendō",
+      "name:en": "Tendo",
+      "name:es": "Tendō",
+      "name:fr": "Tendō",
+      "name:ja": "天童市",
+      "name:ko": "덴도시",
+      "name:pl": "Tendō",
+      "name:ru": "Тэндо",
+      "name:uk": "Тендо",
+      "int_name": "Tendō",
+      "name:ja_kana": "てんどうし"
+    }
+  },
+  {
+    "name": "Teng",
+    "country": "China",
+    "latitude": 23.378051600367698,
+    "longitude": 110.910308,
+    "other_names": {
+      "name": "藤县",
+      "name:de": "Teng",
+      "name:en": "Teng",
+      "name:fa": "شهرستان تنگ",
+      "name:fr": "Xian de Teng",
+      "name:it": "Contea di Teng",
+      "name:ja": "藤県",
+      "name:ko": "텅현",
+      "name:no": "Teng",
+      "name:ru": "Тэнсянь",
+      "name:sv": "Teng",
+      "name:vi": "Đằng",
+      "name:zh": "藤县",
+      "alt_name": "藤;Teng County",
+      "name:ceb": "Teng Xian",
+      "name:hak": "Thèn-yen",
+      "name:nan": "Têng-koān",
+      "name:sco": "Teng Coonty",
+      "name:yue": "藤县",
+      "name:zh-Hant": "藤縣",
+      "name:yue-Latn": "Derngjyun",
+      "name:zh_pinyin": "téng xiàn"
+    }
+  },
+  {
+    "name": "Tengchong",
+    "country": "China",
+    "latitude": 25.028398800255555,
+    "longitude": 98.49368389999998,
+    "other_names": {
+      "name": "腾冲市",
+      "name:en": "Tengchong",
+      "name:ru": "Тэнчун",
+      "name:vi": "Đằng Xung",
+      "name:zh": "腾冲市",
+      "alt_name": "腾冲;Tengchong City",
+      "old_name": "腾冲县;Téngchōng Xiàn;Tengchong County",
+      "name:zh-Hant": "騰衝市"
+    }
+  },
+  {
+    "name": "Tengzhou",
+    "country": "China",
+    "latitude": 35.11399699965958,
+    "longitude": 117.15991130000002,
+    "other_names": {
+      "name": "滕州市",
+      "name:de": "Tengzhou",
+      "name:en": "Tengzhou",
+      "name:fr": "Tengzhou",
+      "name:ja": "滕州市",
+      "name:ru": "Тэнчжоу",
+      "name:vi": "Đằng Châu",
+      "name:zh": "滕州市",
+      "name:zh-Hant": "滕州市",
+      "name:zh_pinyin": "Téngzhōu Shì"
+    }
+  },
+  {
+    "name": "Tenri",
+    "country": "Japan",
+    "latitude": 34.59657379962725,
+    "longitude": 135.8373696,
+    "other_names": {
+      "name": "天理市",
+      "name:en": "Tenri",
+      "name:fr": "Tenri",
+      "name:ja": "天理市",
+      "name:ko": "덴리시",
+      "name:pl": "Tenri",
+      "name:ru": "Тэнри",
+      "name:uk": "Тенрі",
+      "name:ja_rm": "Tenri-shi",
+      "name:ja_kana": "てんりし"
+    }
+  },
+  {
+    "name": "Teófilo Otoni",
+    "country": "Brazil",
+    "latitude": -17.8579267004746,
+    "longitude": -41.508153300000004,
+    "other_names": {
+      "name": "Teófilo Otoni"
+    }
+  },
+  {
+    "name": "Tepatitlán",
+    "country": "Mexico",
+    "latitude": 20.81514770040052,
+    "longitude": -102.758809,
+    "other_names": {
+      "name": "Tepatitlán",
+      "alt_name": "Tepatitlán de Morelos"
+    }
+  },
+  {
+    "name": "Tepic",
+    "country": "Mexico",
+    "latitude": 21.504344600409915,
+    "longitude": -104.89467599999999,
+    "other_names": {
+      "name": "Tepic",
+      "name:en": "Tepic",
+      "name:es": "Tepic",
+      "name:pl": "Tepic",
+      "name:ru": "Тепик",
+      "name:uk": "Тепік"
+    }
+  },
+  {
+    "name": "Téra",
+    "country": "Niger",
+    "latitude": 14.007267699790964,
+    "longitude": 0.7569828,
+    "other_names": {
+      "name": "Téra",
+      "name:ar": "تيرا",
+      "name:ru": "Тера"
+    }
+  },
+  {
+    "name": "Teramo",
+    "country": "Italy",
+    "latitude": 42.66128930052514,
+    "longitude": 13.6983524,
+    "other_names": {
+      "name": "Teramo",
+      "name:el": "Τέραμο",
+      "name:ru": "Терамо",
+      "name:zh": "泰拉莫"
+    }
+  },
+  {
+    "name": "Teresina",
+    "country": "Brazil",
+    "latitude": -5.089640299681457,
+    "longitude": -42.809588000000005,
+    "other_names": {
+      "name": "Teresina",
+      "name:ar": "تيريسينا",
+      "name:be": "Тэрэзіна",
+      "name:bg": "Терезина",
+      "name:de": "Teresina",
+      "name:en": "Teresina",
+      "name:fa": "ترسینا",
+      "name:he": "תרזינה",
+      "name:hy": "Տերեզինա",
+      "name:ja": "テレジーナ",
+      "name:ka": "ტერეზინა",
+      "name:kk": "Терезина",
+      "name:ko": "테레지나",
+      "name:lt": "Terezina",
+      "name:lv": "Terezina",
+      "name:mk": "Тересина",
+      "name:mr": "तेरेसिना",
+      "name:pl": "Teresina",
+      "name:pt": "Teresina",
+      "name:ru": "Терезина",
+      "name:sh": "Terezina",
+      "name:sr": "Терезина",
+      "name:tg": "Терезина",
+      "name:th": "เตเรซีนา",
+      "name:uk": "Терезіна",
+      "name:uz": "Terezina",
+      "name:zh": "特雷西纳"
+    }
+  }
+]

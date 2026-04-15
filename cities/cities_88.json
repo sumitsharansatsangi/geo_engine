@@ -1,0 +1,319 @@
+[
+  {
+    "name": "Chichiriviche",
+    "country": "Venezuela",
+    "latitude": 10.932504999493828,
+    "longitude": -68.27756699999999,
+    "other_names": {
+      "name": "Chichiriviche"
+    }
+  },
+  {
+    "name": "Chiclayo",
+    "country": "Peru",
+    "latitude": -6.766416999702806,
+    "longitude": -79.84083079999999,
+    "other_names": {
+      "name": "Chiclayo",
+      "name:de": "Chiclayo",
+      "name:en": "Chiclayo",
+      "name:es": "Chiclayo",
+      "name:pl": "Chiclayo",
+      "name:ru": "Чиклайо",
+      "name:uk": "Чіклайо",
+      "old_name": "Santa María de los Valles de Chiclayo"
+    }
+  },
+  {
+    "name": "Chico",
+    "country": "United States Of America",
+    "latitude": 39.72849450022995,
+    "longitude": -121.8374777,
+    "other_names": {
+      "name": "Chico",
+      "name:en": "Chico",
+      "name:ru": "Чико",
+      "name:uk": "Чіко"
+    }
+  },
+  {
+    "name": "Chicopee",
+    "country": "United States Of America",
+    "latitude": 42.14876910049679,
+    "longitude": -72.60711189999999,
+    "other_names": {
+      "name": "Chicopee"
+    }
+  },
+  {
+    "name": "Chieti",
+    "country": "Italy",
+    "latitude": 42.34465290050912,
+    "longitude": 14.1659738,
+    "other_names": {
+      "name": "Chieti",
+      "name:el": "Κιέτι",
+      "name:en": "Chieti",
+      "name:ru": "Кьети",
+      "name:zh": "基耶蒂"
+    }
+  },
+  {
+    "name": "Chifeng",
+    "country": "China",
+    "latitude": 42.27999290050526,
+    "longitude": 118.9426131,
+    "other_names": {
+      "name": "赤峰市",
+      "name:ar": "تشيفنغ",
+      "name:de": "Chifeng",
+      "name:en": "Chifeng",
+      "name:et": "Chifeng",
+      "name:fi": "Chifeng",
+      "name:fr": "Chifeng",
+      "name:ja": "赤峰市",
+      "name:mn": "Улаанхад",
+      "name:pt": "Chifeng",
+      "name:ru": "Чифэн",
+      "name:uk": "Чіфен",
+      "name:vi": "Xích Phong",
+      "name:zh": "赤峰市",
+      "alt_name": "Ulanhad",
+      "name:mnc": "ᠤᠯᠠᠭᠠᠨᠬᠠᠳᠠ ᠬᠣᠲᠠ",
+      "name:zh-Hant": "赤峯市",
+      "name:zh_pinyin": "Chìfēng Shì"
+    }
+  },
+  {
+    "name": "Chigasaki",
+    "country": "Japan",
+    "latitude": 35.32947899967573,
+    "longitude": 139.405371,
+    "other_names": {
+      "name": "茅ヶ崎市",
+      "name:ar": "تشيغاساكي، كاناغاوا",
+      "name:de": "Chigasaki",
+      "name:en": "Chigasaki",
+      "name:es": "Chigasaki",
+      "name:fr": "Chigasaki",
+      "name:ja": "茅ヶ崎市",
+      "name:ko": "지가사키시",
+      "name:pl": "Chigasaki",
+      "name:ru": "Тигасаки",
+      "name:uk": "Тіґасакі",
+      "int_name": "Chigasaki",
+      "name:ja_rm": "Chigasaki-shi",
+      "name:ja_kana": "ちがさきし"
+    }
+  },
+  {
+    "name": "Chihuahua",
+    "country": "Mexico",
+    "latitude": 28.652380799874415,
+    "longitude": -106.0902046,
+    "other_names": {
+      "name": "Chihuahua",
+      "name:ar": "شيواوا",
+      "name:en": "Chihuahua",
+      "name:es": "Chihuahua",
+      "name:pl": "Chihuahua",
+      "name:ru": "Чиуауа",
+      "name:uk": "Чіуауа",
+      "alt_name:ar": "تشيهواهوا;شيواو"
+    }
+  },
+  {
+    "name": "Chikan",
+    "country": "China",
+    "latitude": 21.26868860040821,
+    "longitude": 110.36211429999999,
+    "other_names": {
+      "name": "赤坎区",
+      "name:de": "Chikan",
+      "name:en": "Chikan",
+      "name:fa": "ناحیه چیکان",
+      "name:fr": "District de Chikan",
+      "name:it": "Distretto di Chikan",
+      "name:ja": "赤坎区",
+      "name:ko": "츠칸구",
+      "name:no": "Chikan",
+      "name:sv": "Chikan",
+      "name:vi": "Xích Khảm",
+      "name:zh": "赤坎区",
+      "alt_name": "赤坎;Chikan District",
+      "name:hak": "Chhak-khám-khî",
+      "name:mwl": "Chikan",
+      "name:nan": "Chhek-khám-khu",
+      "name:yue": "赤坎區",
+      "name:zh-Hant": "赤坎區",
+      "name:zh_pinyin": "Chìkǎn Qū"
+    }
+  },
+  {
+    "name": "Chikkamagaluru",
+    "country": "India",
+    "latitude": 13.318013999713452,
+    "longitude": 75.7738743,
+    "other_names": {
+      "name": "Chikkamagaluru",
+      "name:en": "Chikkamagaluru",
+      "name:hi": "चिक्कमगलुरु",
+      "name:ja": "チクマガルール",
+      "name:kn": "ಚಿಕ್ಕಮಗಳೂರು",
+      "name:ml": "ചിക്കമഗളൂർ",
+      "alt_name": "Chikmagalur"
+    }
+  },
+  {
+    "name": "Chikugo",
+    "country": "Japan",
+    "latitude": 33.212378299587634,
+    "longitude": 130.5017727,
+    "other_names": {
+      "name": "筑後市",
+      "name:ar": "تشيكوغو، فوكوكا",
+      "name:de": "Chikugo",
+      "name:en": "Chikugo",
+      "name:es": "Chikugo",
+      "name:fr": "Chikugo",
+      "name:ja": "筑後市",
+      "name:ko": "지쿠고시",
+      "name:pl": "Chikugo",
+      "name:ru": "Тикуго",
+      "name:uk": "Чікуґо",
+      "name:zh": "筑后市",
+      "int_name": "Chikugo",
+      "name:zh-Hans": "筑后市",
+      "name:zh-Hant": "筑後市"
+    }
+  },
+  {
+    "name": "Chikuma",
+    "country": "Japan",
+    "latitude": 36.533698399792556,
+    "longitude": 138.120123,
+    "other_names": {
+      "name": "千曲市",
+      "name:ar": "تشيكوما، ناغانو",
+      "name:de": "Chikuma",
+      "name:en": "Chikuma",
+      "name:es": "Chikuma",
+      "name:fr": "Chikuma",
+      "name:ja": "千曲市",
+      "name:ko": "지쿠마시",
+      "name:pl": "Chikuma",
+      "name:ru": "Тикума",
+      "name:uk": "Тікума",
+      "int_name": "Chikuma",
+      "name:ja_rm": "Chikuma-shi",
+      "name:ja_kana": "ちくまし"
+    }
+  },
+  {
+    "name": "Chikusei",
+    "country": "Japan",
+    "latitude": 36.30519439976719,
+    "longitude": 139.97909029999997,
+    "other_names": {
+      "name": "筑西市",
+      "name:ar": "تشيكوسه، إيباراكي",
+      "name:de": "Chikusei",
+      "name:en": "Chikusei",
+      "name:es": "Chikusei",
+      "name:fr": "Chikusei",
+      "name:ja": "筑西市",
+      "name:ko": "지쿠세이시",
+      "name:ja_rm": "Chikusei-shi",
+      "name:ja_kana": "ちくせいし"
+    }
+  },
+  {
+    "name": "Chikushino",
+    "country": "Japan",
+    "latitude": 33.49665239959013,
+    "longitude": 130.5156215,
+    "other_names": {
+      "name": "筑紫野市",
+      "name:ar": "تشيكوشينو، فوكوكا",
+      "name:de": "Chikushino",
+      "name:en": "Chikushino",
+      "name:es": "Chikushino",
+      "name:fr": "Chikushino",
+      "name:hu": "Csikusino",
+      "name:ja": "筑紫野市",
+      "name:ko": "지쿠시노시",
+      "name:pl": "Chikushino",
+      "name:ru": "Тикусино",
+      "name:uk": "Чікушіно",
+      "int_name": "Chikushino"
+    }
+  },
+  {
+    "name": "Chilakaluripet",
+    "country": "India",
+    "latitude": 16.094950200035395,
+    "longitude": 80.1658779,
+    "other_names": {
+      "name": "Chilakaluripet",
+      "name:en": "Chilakaluripet",
+      "name:hi": "चिलकलुरिपैटा",
+      "name:te": "చిలకలూరిపేట"
+    }
+  },
+  {
+    "name": "Chilanga",
+    "country": "El Salvador",
+    "latitude": 13.7219155997584,
+    "longitude": -88.1206813,
+    "other_names": {
+      "name": "Chilanga"
+    }
+  },
+  {
+    "name": "Chilaw",
+    "country": "Sri Lanka",
+    "latitude": 7.576507399393594,
+    "longitude": 79.79567549999999,
+    "other_names": {
+      "name": "හලාවත",
+      "name:en": "Chilaw",
+      "name:kn": "ಚಿಲವ್",
+      "name:ru": "Чилав",
+      "name:si": "හලාවත",
+      "name:ta": "சிலாபம்"
+    }
+  },
+  {
+    "name": "Chí Linh",
+    "country": "Vietnam",
+    "latitude": 21.107420900406144,
+    "longitude": 106.38732039999998,
+    "other_names": {
+      "name": "Chí Linh",
+      "name:en": "Chí Linh",
+      "name:ko": "찌린",
+      "name:zh": "城庯至灵",
+      "official_name": "Thành phố Chí Linh"
+    }
+  },
+  {
+    "name": "Chillán",
+    "country": "Chile",
+    "latitude": -36.606661600253666,
+    "longitude": -72.1033194,
+    "other_names": {
+      "name": "Chillán",
+      "name:ru": "Чильян"
+    }
+  },
+  {
+    "name": "Chillicothe",
+    "country": "United States Of America",
+    "latitude": 39.33311970017398,
+    "longitude": -82.98240189999999,
+    "other_names": {
+      "name": "Chillicothe",
+      "name:pronunciation": "ˌʧɪlɪˈkɒθi"
+    }
+  }
+]

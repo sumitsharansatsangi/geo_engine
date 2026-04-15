@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Aksu",
+    "country": "China",
+    "latitude": 41.18436870041223,
+    "longitude": 80.28733559999999,
+    "other_names": {
+      "name": "阿克苏市",
+      "name:de": "Aksu",
+      "name:en": "Aksu",
+      "name:es": "Aksu",
+      "name:et": "Aksu",
+      "name:fr": "Aksou",
+      "name:ja": "アクス市",
+      "name:ru": "Аксу",
+      "name:ug": "ئاقسۇ شەھىرى",
+      "name:uk": "Аксу",
+      "name:vi": "Aksu",
+      "name:zh": "阿克苏市",
+      "alt_name": "Akesu",
+      "int_name": "Aksu",
+      "alt_name:en": "Akshu;Aqsu;Bharuka;Po-lu-chia",
+      "alt_name:vi": "A Khắc Tô",
+      "name:zh-Hant": "阿克蘇市",
+      "name:zh_pinyin": "Ākèsù"
+    }
+  },
+  {
+    "name": "Aksu",
+    "country": "Kazakhstan",
+    "latitude": 52.068396314015985,
+    "longitude": 76.90141913730166,
+    "other_names": {
+      "name": "Аксу",
+      "name:de": "Aqsu",
+      "name:en": "Aksu",
+      "name:es": "Aksu",
+      "name:fr": "Aksou",
+      "name:kk": "Ақсу",
+      "name:ru": "Аксу",
+      "old_name": "Ермак"
+    }
+  },
+  {
+    "name": "Aksu",
+    "country": "Kazakhstan",
+    "latitude": 52.03542439911451,
+    "longitude": 76.9341133,
+    "other_names": {
+      "name": "Аксу",
+      "name:de": "Aqsu",
+      "name:en": "Aksu",
+      "name:es": "Aksu",
+      "name:fr": "Aksou",
+      "name:kk": "Ақсу",
+      "name:ru": "Аксу",
+      "old_name": "Ермак"
+    }
+  },
+  {
+    "name": "Aktau",
+    "country": "Kazakhstan",
+    "latitude": 43.66671151845795,
+    "longitude": 51.18900529239817,
+    "other_names": {
+      "name": "Актау",
+      "name:de": "Aqtau",
+      "name:en": "Aktau",
+      "name:et": "Aktau",
+      "name:fi": "Aqtaw",
+      "name:fr": "Aktaou",
+      "name:it": "Aqtau",
+      "name:ja": "アクタウ",
+      "name:nl": "Aqtau",
+      "name:ru": "Актау",
+      "name:tr": "Aktav",
+      "int_name": "Aktau"
+    }
+  },
+  {
+    "name": "Aktau",
+    "country": "Kazakhstan",
+    "latitude": 43.652058000540656,
+    "longitude": 51.157997,
+    "other_names": {
+      "name": "Актау",
+      "name:de": "Aqtau",
+      "name:en": "Aktau",
+      "name:et": "Aktau",
+      "name:fi": "Aqtaw",
+      "name:fr": "Aktaou",
+      "name:it": "Aqtau",
+      "name:ja": "アクタウ",
+      "name:kk": "Ақтау",
+      "name:nl": "Aqtau",
+      "name:ru": "Актау",
+      "name:tr": "Aktav",
+      "int_name": "Aktau"
+    }
+  },
+  {
+    "name": "Akto",
+    "country": "China",
+    "latitude": 39.145288400146924,
+    "longitude": 75.94462469999999,
+    "other_names": {
+      "name": "阿克陶县",
+      "name:de": "Akto",
+      "name:en": "Akto",
+      "name:es": "Akto",
+      "name:fr": "Akto",
+      "name:tr": "Akto",
+      "name:ug": "ئاقتۇ بازىرى",
+      "name:zh": "阿克陶县",
+      "name:ky-Arab": "ﺍﻗﺘﻮﻭ وودانى",
+      "name:zh-Hant": "阿克陶縣"
+    }
+  },
+  {
+    "name": "Aktobe",
+    "country": "Kazakhstan",
+    "latitude": 50.279644799390375,
+    "longitude": 57.21246060000001,
+    "other_names": {
+      "name": "Актобе",
+      "name:de": "Aqtöbe",
+      "name:en": "Aktobe",
+      "name:et": "Aktöbe",
+      "name:fr": "Aktioubé",
+      "name:ja": "アクトベ",
+      "name:kk": "Ақтөбе",
+      "name:ko": "악퇴베",
+      "name:lt": "Aktobė",
+      "name:pl": "Aktobe",
+      "name:ru": "Актобе",
+      "name:uk": "Актобе",
+      "alt_name": "Актобе",
+      "int_name": "Aktobe",
+      "old_name": "Актюбинск"
+    }
+  },
+  {
+    "name": "Aktobe",
+    "country": "Kazakhstan",
+    "latitude": 50.28515107773342,
+    "longitude": 57.220387959206995,
+    "other_names": {
+      "name": "Актобе",
+      "name:de": "Aqtöbe",
+      "name:en": "Aktobe",
+      "name:et": "Aktöbe",
+      "name:fr": "Aktioubé",
+      "name:ja": "アクトベ",
+      "name:kk": "Ақтөбе",
+      "name:lt": "Aktobė",
+      "name:pl": "Aktobe",
+      "name:ru": "Актобе",
+      "name:uk": "Актобе",
+      "alt_name": "Актобе",
+      "int_name": "Aktobe",
+      "old_name": "Актюбинск"
+    }
+  },
+  {
+    "name": "Akune",
+    "country": "Japan",
+    "latitude": 32.01431389960806,
+    "longitude": 130.19274149999998,
+    "other_names": {
+      "name": "阿久根市",
+      "name:ar": "اكونه، كاغوشيما",
+      "name:de": "Akune",
+      "name:en": "Akune",
+      "name:es": "Akune",
+      "name:fr": "Akune",
+      "name:ja": "阿久根市",
+      "name:ko": "아쿠네시",
+      "name:ru": "Акуне",
+      "name:zh": "阿九根市",
+      "int_name": "Akune",
+      "name:zh-Hans": "阿九根市",
+      "name:zh-Hant": "阿九根市"
+    }
+  },
+  {
+    "name": "Akure",
+    "country": "Nigeria",
+    "latitude": 7.252559499399124,
+    "longitude": 5.1932647,
+    "other_names": {
+      "name": "Akure",
+      "name:ar": "أكوري",
+      "name:ko": "아쿠레",
+      "name:ru": "Акуре",
+      "name:uk": "Акуре"
+    }
+  },
+  {
+    "name": "Al Abyar",
+    "country": "Libya",
+    "latitude": 32.189645299602056,
+    "longitude": 20.5945086,
+    "other_names": {
+      "name": "الأبيار",
+      "pcode": "LY-12-10480",
+      "name:ar": "الأبيار",
+      "name:en": "Al Abyar",
+      "name:es": "Al Abyar",
+      "name:fa": "الابیار",
+      "name:fr": "Al Abyar",
+      "name:it": "Al Abyar",
+      "name:azb": "الابیار"
+    }
+  },
+  {
+    "name": "Alafaya",
+    "country": "United States Of America",
+    "latitude": 28.53372979988729,
+    "longitude": -81.2035518,
+    "other_names": {
+      "name": "Alafaya"
+    }
+  },
+  {
+    "name": "Alagoinhas",
+    "country": "Brazil",
+    "latitude": -12.133526000125707,
+    "longitude": -38.42077199999999,
+    "other_names": {
+      "name": "Alagoinhas",
+      "name:ru": "Алагоиньяс",
+      "name:uk": "Алагоіньяс"
+    }
+  },
+  {
+    "name": "Alajuela",
+    "country": "Costa Rica",
+    "latitude": 10.016516199438817,
+    "longitude": -84.21382339999998,
+    "other_names": {
+      "name": "Alajuela"
+    }
+  },
+  {
+    "name": "Alajuela",
+    "country": "Costa Rica",
+    "latitude": 10.017314799438855,
+    "longitude": -84.2132869,
+    "other_names": {
+      "name": "Alajuela"
+    }
+  },
+  {
+    "name": "Al Ajyaylat",
+    "country": "Libya",
+    "latitude": 32.7577580995896,
+    "longitude": 12.3773801,
+    "other_names": {
+      "name": "العجيلات",
+      "name:ar": "العجيلات",
+      "name:en": "Al Ajyaylat",
+      "name:fr": "Adjelat",
+      "name:it": "El-Agelat"
+    }
+  },
+  {
+    "name": "Alaminos",
+    "country": "Philippines",
+    "latitude": 16.155385700042302,
+    "longitude": 119.9792201,
+    "other_names": {
+      "ref": "015503000",
+      "name": "Alaminos",
+      "name:ja": "アラミノス"
+    }
+  },
+  {
+    "name": "Alamogordo",
+    "country": "United States Of America",
+    "latitude": 32.90464739958817,
+    "longitude": -105.941835,
+    "other_names": {
+      "name": "Alamogordo",
+      "name:en": "Alamogordo",
+      "name:ru": "Аламогордо",
+      "name:uk": "Аламогордо"
+    }
+  },
+  {
+    "name": "Alamosa",
+    "country": "United States Of America",
+    "latitude": 37.469876999909104,
+    "longitude": -105.8696,
+    "other_names": {
+      "name": "Alamosa"
+    }
+  },
+  {
+    "name": "Al Arish",
+    "country": "Egypt",
+    "latitude": 31.127250899652868,
+    "longitude": 33.8045859,
+    "other_names": {
+      "name": "العريش",
+      "name:ar": "العريش",
+      "name:de": "Al-Arisch",
+      "name:el": "Αλ Αρίς",
+      "name:en": "Al Arish",
+      "name:eo": "El Ariŝ",
+      "name:es": "El Arish",
+      "name:et": "Al-‘Arīsh",
+      "name:fa": "عریش",
+      "name:fr": "El-Arich",
+      "name:he": "אל עריש",
+      "name:hi": "अल-अरीश",
+      "name:ks": "عریش",
+      "name:pl": "Al-Arisz",
+      "name:ru": "Эль-Ариш",
+      "name:ur": "عریش",
+      "name:azb": "عریش",
+      "name:cop": "ϩⲣⲓⲛⲟⲕⲟⲣⲟⲩⲣⲁ",
+      "alt_name:ar": "عريش",
+      "alt_name:en": "Al ‘Arīsh;Al Arish"
+    }
+  }
+]

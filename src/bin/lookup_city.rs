@@ -8,10 +8,11 @@ use std::process;
 
 #[path = "../engine/city.rs"]
 mod city;
-use city::{City, normalize};
+use city::{City, CityCore, CityMeta, normalize};
 
 const DEFAULT_FST_PATH: &str = "cities.fst";
-const DEFAULT_RKYV_PATH: &str = "cities.rkyv";
+const DEFAULT_CORE_PATH: &str = "cities.core";
+const DEFAULT_META_PATH: &str = "cities.meta";
 const DEFAULT_LIMIT: usize = 20;
 
 fn main() {
@@ -22,7 +23,8 @@ fn main() {
 
     let mut limit = DEFAULT_LIMIT;
     let mut fst_path = DEFAULT_FST_PATH.to_string();
-    let mut rkyv_path = DEFAULT_RKYV_PATH.to_string();
+    let mut core_path = DEFAULT_CORE_PATH.to_string();
+    let mut meta_path = DEFAULT_META_PATH.to_string();
 
     let mut extra = Vec::new();
     for arg in args {
@@ -36,17 +38,23 @@ fn main() {
                 fst_path = extra[1].clone();
             }
             if extra.len() > 2 {
-                rkyv_path = extra[2].clone();
+                core_path = extra[2].clone();
             }
             if extra.len() > 3 {
+                meta_path = extra[3].clone();
+            }
+            if extra.len() > 4 {
                 print_usage_and_exit("received too many arguments");
             }
         } else {
             fst_path = first.clone();
             if extra.len() > 1 {
-                rkyv_path = extra[1].clone();
+                core_path = extra[1].clone();
             }
             if extra.len() > 2 {
+                meta_path = extra[2].clone();
+            }
+            if extra.len() > 3 {
                 print_usage_and_exit("received too many arguments");
             }
         }
@@ -66,10 +74,14 @@ fn main() {
         process::exit(1);
     });
 
-    let cities_by_id = load_cities_by_id(Path::new(&rkyv_path)).unwrap_or_else(|err| {
-        eprintln!("failed to load '{}': {err}", rkyv_path);
-        process::exit(1);
-    });
+    let cities_by_id = load_cities_by_id(Path::new(&core_path), Path::new(&meta_path))
+        .unwrap_or_else(|err| {
+            eprintln!(
+                "failed to load city assets '{}', '{}': {err}",
+                core_path, meta_path
+            );
+            process::exit(1);
+        });
 
     let prefix = format!("{}|", normalized);
     let upper = format!("{}\u{10FFFF}", prefix);
@@ -118,40 +130,55 @@ fn main() {
     }
 }
 
-fn load_cities_by_id(path: &Path) -> Result<HashMap<u32, City>, String> {
-    let bytes = fs::read(path).map_err(|err| err.to_string())?;
-    let archived: &Archived<Vec<City>> =
-        rkyv::access::<Archived<Vec<City>>, rkyv::rancor::Error>(&bytes)
-            .unwrap_or_else(|_| unsafe { rkyv::access_unchecked(&bytes) });
+fn load_cities_by_id(core_path: &Path, meta_path: &Path) -> Result<HashMap<u32, City>, String> {
+    let core_bytes = fs::read(core_path).map_err(|err| err.to_string())?;
+    let meta_bytes = fs::read(meta_path).map_err(|err| err.to_string())?;
 
-    let mut cities = HashMap::with_capacity(archived.len());
-    for archived_city in archived.iter() {
+    let archived_core: &Archived<Vec<CityCore>> =
+        rkyv::access::<Archived<Vec<CityCore>>, rkyv::rancor::Error>(&core_bytes)
+            .unwrap_or_else(|_| unsafe { rkyv::access_unchecked(&core_bytes) });
+    let archived_meta: &Archived<CityMeta> =
+        rkyv::access::<Archived<CityMeta>, rkyv::rancor::Error>(&meta_bytes)
+            .unwrap_or_else(|_| unsafe { rkyv::access_unchecked(&meta_bytes) });
+
+    let mut cities = HashMap::with_capacity(archived_core.len());
+    for archived_city in archived_core.iter() {
         let city = City {
             geoname_id: archived_city.geoname_id.into(),
-            country_code: archived_city.country_code.as_str().to_string(),
-            name: archived_city.name.as_str().to_string(),
-            ascii: archived_city.ascii.as_str().to_string(),
-            alternates: archived_city
-                .alternates
-                .iter()
-                .map(|value| value.as_str().to_string())
-                .collect(),
-            admin1_code: archived_city
-                .admin1_code
-                .as_ref()
-                .map(|v| v.as_str().to_string()),
-            admin1_name: archived_city
-                .admin1_name
-                .as_ref()
-                .map(|v| v.as_str().to_string()),
-            admin2_code: archived_city
-                .admin2_code
-                .as_ref()
-                .map(|v| v.as_str().to_string()),
-            admin2_name: archived_city
-                .admin2_name
-                .as_ref()
-                .map(|v| v.as_str().to_string()),
+            country_code: resolve_string(
+                archived_meta,
+                u32::from(archived_city.country_code_id) as usize,
+            )?,
+            name: resolve_string(archived_meta, u32::from(archived_city.name_id) as usize)?,
+            ascii: resolve_string(archived_meta, u32::from(archived_city.ascii_id) as usize)?,
+            admin1_code: resolve_optional_string(
+                archived_meta,
+                archived_city
+                    .admin1_code_id
+                    .as_ref()
+                    .map(|value| u32::from(*value)),
+            )?,
+            admin1_name: resolve_optional_string(
+                archived_meta,
+                archived_city
+                    .admin1_name_id
+                    .as_ref()
+                    .map(|value| u32::from(*value)),
+            )?,
+            admin2_code: resolve_optional_string(
+                archived_meta,
+                archived_city
+                    .admin2_code_id
+                    .as_ref()
+                    .map(|value| u32::from(*value)),
+            )?,
+            admin2_name: resolve_optional_string(
+                archived_meta,
+                archived_city
+                    .admin2_name_id
+                    .as_ref()
+                    .map(|value| u32::from(*value)),
+            )?,
             lat: archived_city.lat.into(),
             lon: archived_city.lon.into(),
         };
@@ -166,8 +193,27 @@ fn print_usage_and_exit(message: &str) -> ! {
     eprintln!("{message}");
     eprintln!("Usage:");
     eprintln!(
-        "  cargo run --bin lookup_city -- <query> [limit] [cities.fst path] [cities.rkyv path]"
+        "  cargo run --bin lookup_city -- <query> [limit] [cities.fst path] [cities.core path] [cities.meta path]"
     );
-    eprintln!("  cargo run --bin lookup_city -- <query> [cities.fst path] [cities.rkyv path]");
+    eprintln!(
+        "  cargo run --bin lookup_city -- <query> [cities.fst path] [cities.core path] [cities.meta path]"
+    );
     process::exit(2);
+}
+
+fn resolve_string(meta: &Archived<CityMeta>, index: usize) -> Result<String, String> {
+    meta.strings
+        .get(index)
+        .map(|value| value.as_str().to_string())
+        .ok_or_else(|| format!("invalid city string index: {index}"))
+}
+
+fn resolve_optional_string(
+    meta: &Archived<CityMeta>,
+    value: Option<u32>,
+) -> Result<Option<String>, String> {
+    match value {
+        Some(index) => resolve_string(meta, index as usize).map(Some),
+        None => Ok(None),
+    }
 }

@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Lüliang",
+    "country": "China",
+    "latitude": 37.52009459991584,
+    "longitude": 111.1444891,
+    "other_names": {
+      "name": "吕梁市",
+      "name:de": "Lüliang",
+      "name:en": "Lüliang",
+      "name:et": "Lüliang",
+      "name:fr": "Lüliang",
+      "name:ja": "呂梁市",
+      "name:ru": "Люйлян",
+      "name:uk": "Люйлян",
+      "name:vi": "Lữ Lương",
+      "name:zh": "吕梁市",
+      "alt_name": "吕梁;Lu-liang Ti-ch'u;Luliang Diqu;Luliang Shi;Lyuliang",
+      "name:zh-Hant": "呂梁市",
+      "name:zh_pinyin": "Lǚliáng Shì"
+    }
+  },
+  {
+    "name": "Lulong",
+    "country": "China",
+    "latitude": 39.89121820025247,
+    "longitude": 118.87575,
+    "other_names": {
+      "name": "卢龙县",
+      "name:en": "Lulong",
+      "name:zh": "卢龙县",
+      "alt_name": "卢龙;Lulong County",
+      "name:zh-Hant": "盧龍縣",
+      "official_name": "卢龙镇"
+    }
+  },
+  {
+    "name": "Lunan",
+    "country": "China",
+    "latitude": 39.623670100215264,
+    "longitude": 118.14794279999997,
+    "other_names": {
+      "name": "路南区",
+      "name:en": "Lunan",
+      "name:vi": "Lộ Nam",
+      "name:zh": "路南区",
+      "alt_name": "路南",
+      "name:zh-Hant": "路南區",
+      "name:zh_pinyin": "Lunan Qu"
+    }
+  },
+  {
+    "name": "Luniungu (Secteur)",
+    "country": "Congo Democratic Republic",
+    "latitude": -4.6318850996876915,
+    "longitude": 18.415339,
+    "other_names": {
+      "name": "Luniungu (Secteur)"
+    }
+  },
+  {
+    "name": "Luntai",
+    "country": "China",
+    "latitude": 41.77560070046851,
+    "longitude": 84.2499668,
+    "other_names": {
+      "name": "轮台县",
+      "name:de": "Bügür",
+      "name:en": "Luntai",
+      "name:es": "Luntai",
+      "name:fr": "Luntai",
+      "name:ug": "بۈگۈر بازىرى",
+      "name:zh": "轮台县",
+      "alt_name": "轮台县;Bügür",
+      "name:zh-Hant": "輪臺縣",
+      "official_name": "轮台镇",
+      "name:zh_pinyin": "Lúntái Zhèn"
+    }
+  },
+  {
+    "name": "Luobei",
+    "country": "China",
+    "latitude": 47.5724462000373,
+    "longitude": 130.82455959999996,
+    "other_names": {
+      "name": "萝北县",
+      "name:en": "Luobei",
+      "name:ru": "Фансянь",
+      "name:zh": "萝北县",
+      "alt_name": "凤翔;Fengxiang",
+      "name:zh-Hant": "蘿北縣",
+      "official_name": "凤翔镇",
+      "name:zh_pinyin": "Fèngxiáng zhèn"
+    }
+  },
+  {
+    "name": "Luocheng",
+    "country": "China",
+    "latitude": 24.780984700276186,
+    "longitude": 108.90103599999999,
+    "other_names": {
+      "name": "罗城县",
+      "name:en": "Luocheng",
+      "name:zh": "罗城县",
+      "short_name": "罗城县",
+      "name:zh-Hant": "羅城縣",
+      "official_name": "罗城仫佬族自治县",
+      "name:zh_pinyin": "Luóchéng Mùlǎozú Zìzhì xiàn",
+      "official_name:en": "Luocheng Mulao Autonomous County"
+    }
+  },
+  {
+    "name": "Luochuan",
+    "country": "China",
+    "latitude": 35.76239529971276,
+    "longitude": 109.4269556,
+    "other_names": {
+      "name": "洛川县",
+      "name:en": "Luochuan",
+      "name:ja": "洛川県",
+      "name:zh": "洛川县",
+      "name:zh-Hant": "洛川縣"
+    }
+  },
+  {
+    "name": "Luodian",
+    "country": "China",
+    "latitude": 25.43536210021916,
+    "longitude": 106.75060689999998,
+    "other_names": {
+      "name": "罗甸县",
+      "name:en": "Luodian",
+      "name:zh": "罗甸县",
+      "name:zh-Hant": "羅甸縣"
+    }
+  },
+  {
+    "name": "Luoding",
+    "country": "China",
+    "latitude": 22.771379600392027,
+    "longitude": 111.56481089999998,
+    "other_names": {
+      "name": "罗定市",
+      "name:en": "Luoding",
+      "name:ja": "羅定市",
+      "name:zh": "罗定市",
+      "alt_name": "罗定;Luoding City",
+      "old_name": "罗定州",
+      "old_name:en": "Luoding Zhou",
+      "name:zh-Hant": "羅定市",
+      "name:zh_pinyin": "Luódìng Shì",
+      "old_name:zh-Hans": "罗定州",
+      "old_name:zh-Hant": "羅定州"
+    }
+  },
+  {
+    "name": "Luohe",
+    "country": "China",
+    "latitude": 33.5720553995913,
+    "longitude": 114.0285163,
+    "other_names": {
+      "name": "漯河市",
+      "name:ar": "لوهي",
+      "name:cs": "Luo-che",
+      "name:da": "Luohe",
+      "name:de": "Luohe",
+      "name:en": "Luohe",
+      "name:es": "Luohe",
+      "name:et": "Luohe",
+      "name:eu": "Luohe",
+      "name:fa": "لوهی",
+      "name:fi": "Luohe",
+      "name:fr": "Luohe",
+      "name:hy": "Լուոհե",
+      "name:it": "Luohe",
+      "name:ja": "漯河市",
+      "name:ki": "Luohe",
+      "name:ko": "뤄허시",
+      "name:mg": "Luohe",
+      "name:nl": "Luohe",
+      "name:nn": "Luohe",
+      "name:no": "Luohe",
+      "name:pl": "Luohe",
+      "name:pt": "Luohe",
+      "name:ru": "Лохэ",
+      "name:sr": "Луохе",
+      "name:sv": "Luohe",
+      "name:tr": "Luohe",
+      "name:ur": "لؤہے",
+      "name:vi": "Tháp Hà",
+      "name:zh": "漯河市",
+      "int_name": "Luohe",
+      "name:cdo": "Ták-ò̤",
+      "name:ceb": "Luohe Shi",
+      "name:nan": "Lúi-hô-chhī",
+      "name:pam": "Luohe",
+      "name:war": "Luohe",
+      "name:yue": "漯河",
+      "name:zh-Hant": "漯河市",
+      "name:zh_pinyin": "Luòhé Shì"
+    }
+  },
+  {
+    "name": "Luohu District",
+    "country": "China",
+    "latitude": 22.550639100398396,
+    "longitude": 114.1261389,
+    "other_names": {
+      "name": "罗湖区",
+      "name:de": "Luohu",
+      "name:en": "Luohu District",
+      "name:es": "Luohu",
+      "name:eu": "Luohu Barrutia",
+      "name:fa": "لاوهو",
+      "name:fr": "District de Luohu",
+      "name:he": "לואוהו",
+      "name:it": "Distretto di Luohu",
+      "name:ja": "羅湖区",
+      "name:ko": "뤄후구",
+      "name:nl": "Luohu",
+      "name:no": "Luohu",
+      "name:pl": "Luohu",
+      "name:pt": "Distrito de Luohu",
+      "name:ru": "Лоху",
+      "name:sv": "Luohu",
+      "name:vi": "La Hồ",
+      "name:zh": "罗湖区",
+      "name:ceb": "Luohu Qu",
+      "name:hak": "Lò-fù-khî",
+      "name:mwl": "Luohu",
+      "name:nan": "Lô-ô͘-khu",
+      "name:yue": "羅湖區",
+      "name:zh-Hant": "羅湖區",
+      "name:zh_pinyin": "Luóhú Qū"
+    }
+  },
+  {
+    "name": "Luojang",
+    "country": "China",
+    "latitude": 24.94287670026282,
+    "longitude": 118.66676009999998,
+    "other_names": {
+      "name": "洛江区",
+      "name:en": "Luojang",
+      "name:vi": "Lạc Giang",
+      "name:zh": "洛江区",
+      "alt_name": "洛江;Luojiang District",
+      "name:zh-Hant": "洛江區",
+      "name:zh_pinyin": "luòjiāng qū"
+    }
+  },
+  {
+    "name": "Luojiang",
+    "country": "China",
+    "latitude": 31.307039999641933,
+    "longitude": 104.5035132,
+    "other_names": {
+      "name": "罗江区",
+      "name:en": "Luojiang",
+      "name:vi": "La Giang",
+      "name:zh": "罗江区",
+      "alt_name": "罗江;Luojiang District",
+      "old_name": "罗江县;Luojiang County",
+      "name:zh-Hant": "羅江區",
+      "name:zh_pinyin": "Luójiāng Qū"
+    }
+  },
+  {
+    "name": "Luolong",
+    "country": "China",
+    "latitude": 34.619655899628484,
+    "longitude": 112.45425229999998,
+    "other_names": {
+      "name": "洛龙区",
+      "name:en": "Luolong",
+      "name:zh": "洛龙区",
+      "alt_name": "洛龙;Luolong District",
+      "name:zh-Hant": "洛龍區"
+    }
+  },
+  {
+    "name": "Luonan",
+    "country": "China",
+    "latitude": 34.095003699604916,
+    "longitude": 110.1500492,
+    "other_names": {
+      "name": "洛南县",
+      "name:en": "Luonan",
+      "name:ja": "洛南県",
+      "name:zh": "洛南县",
+      "alt_name": "洛南",
+      "old_name": "洛南縣;雒南縣;雒南县",
+      "name:zh-Hant": "洛南縣"
+    }
+  },
+  {
+    "name": "Luoning",
+    "country": "China",
+    "latitude": 34.39125209961703,
+    "longitude": 111.64510389999998,
+    "other_names": {
+      "name": "洛宁县",
+      "name:en": "Luoning",
+      "name:ja": "洛寧県",
+      "name:vi": "Lạc Ninh",
+      "name:zh": "洛宁县",
+      "alt_name": "洛宁;Lo-ning Hsien;Luoning County",
+      "name:zh-Hant": "洛寧縣",
+      "name:zh_pinyin": "Luoning Xian"
+    }
+  },
+  {
+    "name": "Luoping",
+    "country": "China",
+    "latitude": 24.888755200267347,
+    "longitude": 104.30534499999999,
+    "other_names": {
+      "name": "罗平县",
+      "name:en": "Luoping",
+      "name:ru": "Лосюн",
+      "name:vi": "La Bình",
+      "name:zh": "罗平县",
+      "alt_name": "罗平;Luoping County",
+      "name:zh-Hant": "羅平縣"
+    }
+  },
+  {
+    "name": "Luotian County",
+    "country": "China",
+    "latitude": 30.784930599676052,
+    "longitude": 115.3936315,
+    "other_names": {
+      "name": "罗田县",
+      "name:de": "Luotian",
+      "name:en": "Luotian County",
+      "name:es": "Luotian",
+      "name:fa": "شهرستان لووتیان",
+      "name:fr": "Xian de Luotian",
+      "name:it": "Contea di Luotian",
+      "name:ja": "羅田県",
+      "name:ko": "뤄톈현",
+      "name:no": "Luotian",
+      "name:ru": "Лотянь",
+      "name:sv": "Luotian",
+      "name:vi": "La Điền",
+      "name:zh": "罗田县",
+      "alt_name": "罗田;Luotian County",
+      "name:ceb": "Luotian Xian",
+      "name:nan": "Lô-tiân-koān",
+      "name:yue": "羅田",
+      "name:zh-Hant": "羅田縣",
+      "name:zh_pinyin": "Luotian Xian"
+    }
+  },
+  {
+    "name": "Luoyang",
+    "country": "China",
+    "latitude": 34.65568729963047,
+    "longitude": 112.4209629,
+    "other_names": {
+      "name": "洛阳市",
+      "name:de": "Luoyang",
+      "name:en": "Luoyang",
+      "name:et": "Luoyang",
+      "name:fr": "Luoyang",
+      "name:hi": "लाओयांग",
+      "name:ja": "洛陽市",
+      "name:oc": "Luoyang",
+      "name:pt": "Luoyang",
+      "name:ru": "Лоян",
+      "name:vi": "Lạc Dương",
+      "name:zh": "洛阳市",
+      "name:zh-Hant": "洛陽市",
+      "name:zh_pinyin": "Luòyáng Shì"
+    }
+  }
+]

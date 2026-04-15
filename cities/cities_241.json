@@ -1,0 +1,420 @@
+[
+  {
+    "name": "Koblenz",
+    "country": "Germany",
+    "latitude": 50.35332779937466,
+    "longitude": 7.594395100000001,
+    "other_names": {
+      "name": "Koblenz",
+      "name:ar": "كوبلنتس",
+      "name:br": "Koblenz",
+      "name:ca": "Coblença",
+      "name:cs": "Koblenec",
+      "name:de": "Koblenz",
+      "name:es": "Coblenza",
+      "name:fr": "Coblence",
+      "name:it": "Coblenza",
+      "name:ja": "コブレンツ",
+      "name:la": "Confluentes",
+      "name:lb": "Kueblenz",
+      "name:pl": "Koblencja",
+      "name:pt": "Coblença",
+      "name:ru": "Кобленц",
+      "name:sr": "Кобленц",
+      "name:zh": "科布伦茨",
+      "loc_name": "Kowelenz",
+      "name:nds": "Koblenz",
+      "alt_name:en": "Coblenz"
+    }
+  },
+  {
+    "name": "Kocaeli",
+    "country": "Turkey",
+    "latitude": 40.765382000365115,
+    "longitude": 29.9406983,
+    "other_names": {
+      "name": "Kocaeli"
+    }
+  },
+  {
+    "name": "Kochani",
+    "country": "Macedonia",
+    "latitude": 41.921133200480256,
+    "longitude": 22.4114182,
+    "other_names": {
+      "name": "Кочани",
+      "name:de": "Kočani",
+      "name:en": "Kochani",
+      "name:et": "Kočani",
+      "name:fr": "Kotchani",
+      "name:hu": "Kočani",
+      "name:it": "Kočani",
+      "name:mk": "Кочани",
+      "name:pl": "Koczani",
+      "name:ro": "Kočani",
+      "name:ru": "Кочани",
+      "name:sq": "Koçani",
+      "int_name": "Kočani"
+    }
+  },
+  {
+    "name": "Kochi",
+    "country": "India",
+    "latitude": 9.931307999434695,
+    "longitude": 76.26741359999998,
+    "other_names": {
+      "name": "Kochi",
+      "name:ar": "كوتشي",
+      "name:cs": "Kóčin",
+      "name:en": "Kochi",
+      "name:he": "קוצ'י",
+      "name:hi": "कोच्चि",
+      "name:ja": "コーチ",
+      "name:kn": "ಕೊಚ್ಚಿ",
+      "name:ml": "കൊച്ചി",
+      "name:pa": "ਕੋਚੀ",
+      "name:ru": "Коччи",
+      "name:sr": "Кочин",
+      "name:ta": "கொச்சி",
+      "name:uk": "Кочі",
+      "name:zh": "科钦",
+      "alt_name": "Cochin"
+    }
+  },
+  {
+    "name": "Kochi",
+    "country": "Japan",
+    "latitude": 33.56803839959123,
+    "longitude": 133.5394221,
+    "other_names": {
+      "name": "高知市",
+      "name:ar": "كوتشي، كوتشي",
+      "name:cs": "Kóči",
+      "name:de": "Kōchi",
+      "name:en": "Kochi",
+      "name:es": "Kōchi",
+      "name:et": "Kōchi",
+      "name:fr": "Kōchi",
+      "name:ja": "高知市",
+      "name:ko": "고치시",
+      "name:lt": "Kočis",
+      "name:pl": "Kōchi",
+      "name:ru": "Коти",
+      "name:sr": "Кочи",
+      "name:sv": "Kochi",
+      "name:uk": "Коті",
+      "name:zh": "高知市",
+      "int_name": "Kōchi",
+      "name:ja_rm": "Kōchi-shi",
+      "name:ja_kana": "こうちし",
+      "name:zh-Hans": "高知市",
+      "name:zh-Hant": "高知市"
+    }
+  },
+  {
+    "name": "Kochi",
+    "country": "India",
+    "latitude": 9.931369499434698,
+    "longitude": 76.2673759,
+    "other_names": {
+      "name": "Kochi",
+      "name:cs": "Kóčin",
+      "name:en": "Kochi",
+      "name:hi": "कोच्चि",
+      "name:ja": "コーチ",
+      "name:kn": "ಕೊಚ್ಚಿ",
+      "name:ml": "കൊച്ചി",
+      "name:pa": "ਕੋਚੀ",
+      "name:ru": "Коччи",
+      "name:sr": "Кочин",
+      "name:ta": "கொச்சி",
+      "name:uk": "Кочі",
+      "name:zh": "科钦",
+      "alt_name": "Cochin"
+    }
+  },
+  {
+    "name": "Kodaira",
+    "country": "Japan",
+    "latitude": 35.72521999970934,
+    "longitude": 139.476606,
+    "other_names": {
+      "name": "小平市",
+      "name:ar": "كودايرا، طوكيو",
+      "name:bg": "Кодайра",
+      "name:de": "Kodaira",
+      "name:en": "Kodaira",
+      "name:eo": "Kodaira",
+      "name:es": "Kodaira",
+      "name:fa": "کودائیرا، توکیو",
+      "name:fi": "Kodaira",
+      "name:fr": "Kodaira",
+      "name:gl": "Kodaira",
+      "name:it": "Kodaira",
+      "name:ja": "小平市",
+      "name:ko": "고다이라시",
+      "name:lt": "Kodaira",
+      "name:ms": "Kodaira",
+      "name:pl": "Kodaira",
+      "name:pt": "Kodaira",
+      "name:ro": "Kodaira, Tokyo",
+      "name:ru": "Кодайра",
+      "name:sh": "Kodaira",
+      "name:sr": "Кодаира",
+      "name:tg": "Кодаира",
+      "name:th": "โคะดะอิระ",
+      "name:tl": "Kodaira, Tokyo",
+      "name:uk": "Кодайра",
+      "name:vi": "Kodaira, Tokyo",
+      "name:zh": "小平市",
+      "name:mzn": "کودائیرا، توکیو",
+      "name:war": "Kodaira, Tokyo",
+      "name:yue": "小平市",
+      "name:ja_rm": "Kodaira-shi",
+      "name:ja_kana": "こだいらし",
+      "name:roa-rup": "Kodaira"
+    }
+  },
+  {
+    "name": "Kodinar",
+    "country": "India",
+    "latitude": 20.792468329597185,
+    "longitude": 70.70122136246364,
+    "other_names": {
+      "name": "Kodinar"
+    }
+  },
+  {
+    "name": "Koforidua",
+    "country": "Ghana",
+    "latitude": 6.100333999439819,
+    "longitude": -0.26145719999999995,
+    "other_names": {
+      "name": "Koforidua",
+      "name:ar": "كوفوريدوا",
+      "name:ko": "코포리두아",
+      "name:ru": "Кофоридуа",
+      "name:uk": "Кофорідуа"
+    }
+  },
+  {
+    "name": "Kofu",
+    "country": "Japan",
+    "latitude": 35.66524809970392,
+    "longitude": 138.5710441,
+    "other_names": {
+      "name": "甲府市",
+      "name:cs": "Kófu",
+      "name:en": "Kofu",
+      "name:es": "Kofu",
+      "name:fr": "Kōfu",
+      "name:ja": "甲府市",
+      "name:ko": "고후시",
+      "name:pl": "Kōfu",
+      "name:ru": "Кофу",
+      "name:sr": "Кофу",
+      "name:uk": "Кофу",
+      "name:ja_rm": "Kōfu-shi",
+      "name:ja_kana": "こうふし"
+    }
+  },
+  {
+    "name": "Koga",
+    "country": "Japan",
+    "latitude": 36.17802499975369,
+    "longitude": 139.7553638,
+    "other_names": {
+      "name": "古河市",
+      "name:ar": "كوغا، إيباراكي",
+      "name:de": "Koga",
+      "name:en": "Koga",
+      "name:es": "Koga",
+      "name:fr": "Koga",
+      "name:ja": "古河市",
+      "name:ko": "고가시",
+      "name:ru": "Фурукава",
+      "name:uk": "Коґа",
+      "name:ja_rm": "Koga-shi",
+      "name:ja_kana": "こがし"
+    }
+  },
+  {
+    "name": "Koga",
+    "country": "Japan",
+    "latitude": 33.728577999594336,
+    "longitude": 130.4701731,
+    "other_names": {
+      "name": "古賀市",
+      "name:ar": "كوغا، فوكوكا",
+      "name:de": "Koga",
+      "name:en": "Koga",
+      "name:es": "Koga",
+      "name:fr": "Koga",
+      "name:ja": "古賀市",
+      "name:ko": "고가시",
+      "name:pl": "Koga",
+      "name:ru": "Кога",
+      "name:uk": "Коґа",
+      "name:zh": "古贺市",
+      "int_name": "Koga",
+      "name:ja_rm": "Koga-shi",
+      "name:ja_kana": "こがし",
+      "name:zh-Hans": "古贺市",
+      "name:zh-Hant": "古賀市"
+    }
+  },
+  {
+    "name": "Koganei",
+    "country": "Japan",
+    "latitude": 35.70410829970743,
+    "longitude": 139.51067589999997,
+    "other_names": {
+      "name": "小金井市",
+      "name:ar": "كوغانه، طوكيو",
+      "name:de": "Koganei",
+      "name:en": "Koganei",
+      "name:eo": "Koganei",
+      "name:es": "Koganei",
+      "name:fa": "کوگانی، توکیو",
+      "name:fi": "Koganei",
+      "name:fr": "Koganei",
+      "name:gl": "Koganei",
+      "name:it": "Koganei",
+      "name:ja": "小金井市",
+      "name:ko": "고가네이시",
+      "name:lt": "Koganėjus",
+      "name:ms": "Koganei",
+      "name:pl": "Koganei",
+      "name:pt": "Koganei",
+      "name:ru": "Коганеи",
+      "name:sh": "Koganei",
+      "name:sr": "Коганеј",
+      "name:tg": "Коганеи",
+      "name:th": "โคะงะเน",
+      "name:uk": "Коґаней",
+      "name:zh": "小金井市",
+      "name:mzn": "کوگانه‌ای، توکیو",
+      "name:yue": "小金井市",
+      "name:ja_rm": "Koganei-shi",
+      "name:ja_kana": "こがねいし",
+      "name:roa-rup": "Koganei"
+    }
+  },
+  {
+    "name": "Kohat",
+    "country": "Pakistan",
+    "latitude": 33.59671439959172,
+    "longitude": 71.4399944,
+    "other_names": {
+      "name": "کوہاٹ",
+      "name:ar": "كوهات",
+      "name:de": "Kohat",
+      "name:en": "Kohat",
+      "name:et": "Kohāt",
+      "name:fr": "Kohat",
+      "name:hi": "कोहट",
+      "name:ja": "コハト",
+      "name:pt": "Kohat",
+      "name:ru": "Кохат",
+      "name:tr": "Kohat",
+      "name:ur": "کوہاٹ"
+    }
+  },
+  {
+    "name": "Koidu",
+    "country": "Sierra Leone",
+    "latitude": 8.642280999394497,
+    "longitude": -10.971631,
+    "other_names": {
+      "name": "Koidu",
+      "name:ko": "코이두",
+      "name:lt": "Koidu Taunas",
+      "name:ru": "Сефаду",
+      "int_name": "Koidu Town",
+      "alt_name_1": "Sefadu",
+      "alt_name_2": "Koldu"
+    }
+  },
+  {
+    "name": "Koka",
+    "country": "Japan",
+    "latitude": 34.96259919964917,
+    "longitude": 136.1655415,
+    "other_names": {
+      "name": "甲賀市",
+      "name:en": "Koka",
+      "name:fr": "Koka",
+      "name:ja": "甲賀市",
+      "name:ko": "고카시",
+      "name:pl": "Kōka",
+      "name:ru": "Кока",
+      "name:uk": "Кока",
+      "name:ja-Hira": "こうかし",
+      "name:ja-Latn": "Kōka-shi"
+    }
+  },
+  {
+    "name": "Kokand",
+    "country": "Uzbekistan",
+    "latitude": 40.53613260033721,
+    "longitude": 70.9278983,
+    "other_names": {
+      "name": "Qo‘qon",
+      "name:en": "Kokand",
+      "name:fa": "خوقند",
+      "name:fr": "Kokand",
+      "name:ja": "コーカンド",
+      "name:pl": "Kokand",
+      "name:ru": "Коканд",
+      "name:uk": "Коканд",
+      "name:uz": "Quqon"
+    }
+  },
+  {
+    "name": "Kokand",
+    "country": "Uzbekistan",
+    "latitude": 40.53287495265697,
+    "longitude": 70.93885577464687,
+    "other_names": {
+      "name": "Q‘OQON",
+      "name:en": "Kokand",
+      "name:fa": "خوقند",
+      "name:ja": "コーカンド",
+      "name:ru": "КОКАНД"
+    }
+  },
+  {
+    "name": "Kokdala",
+    "country": "China",
+    "latitude": 43.93138120053481,
+    "longitude": 80.99890880000001,
+    "other_names": {
+      "name": "可克达拉市",
+      "name:de": "Kokdala",
+      "name:en": "Kokdala",
+      "name:es": "Kokdala",
+      "name:fr": "Kokdala",
+      "name:ug": "كۆكدالا شەھىرى",
+      "name:zh": "可克达拉市",
+      "alt_name": "Kekedala",
+      "name:zh-Hant": "可克達拉市"
+    }
+  },
+  {
+    "name": "Kokkola",
+    "country": "Finland",
+    "latitude": 63.8391421002434,
+    "longitude": 23.133684499999998,
+    "other_names": {
+      "name": "Kokkola",
+      "name:da": "Karleby",
+      "name:fi": "Kokkola",
+      "name:lt": "Kokola",
+      "name:ru": "Коккола",
+      "name:sv": "Karleby",
+      "name:uk": "Коккола",
+      "old_name:en": "Gamlekarlebi",
+      "old_name:sv": "Gamlakarleby"
+    }
+  }
+]

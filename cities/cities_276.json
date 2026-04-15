@@ -1,0 +1,358 @@
+[
+  {
+    "name": "Longyan",
+    "country": "China",
+    "latitude": 25.076742500251395,
+    "longitude": 117.01234829999999,
+    "other_names": {
+      "name": "龙岩市",
+      "name:ar": "لونغيان",
+      "name:de": "Longyan",
+      "name:en": "Longyan",
+      "name:es": "Longyan",
+      "name:et": "Longyan",
+      "name:fi": "Longyan",
+      "name:fr": "Longyan",
+      "name:it": "Longyan",
+      "name:ja": "竜岩市",
+      "name:ko": "룽옌시",
+      "name:pl": "Longyan",
+      "name:pt": "Longyan",
+      "name:ru": "Лунъянь",
+      "name:vi": "Long Nham",
+      "name:zh": "龙岩市",
+      "alt_name": "龙岩;Longyan City",
+      "name:cdo": "Lṳ̀ng-ngàng",
+      "name:ceb": "Longyan",
+      "name:hak": "Liùng-ngàm-sṳ",
+      "name:nan": "Lêng-nâ-chhī",
+      "name:wuu": "龙岩市",
+      "name:zh-Hant": "龍岩市",
+      "name:zh_pinyin": "Lóngyán Shì"
+    }
+  },
+  {
+    "name": "Longyang",
+    "country": "China",
+    "latitude": 25.12416860024726,
+    "longitude": 99.16451269999999,
+    "other_names": {
+      "name": "隆阳区",
+      "name:en": "Longyang",
+      "name:zh": "隆阳区",
+      "alt_name": "隆阳;Longyang District",
+      "name:zh-Hant": "隆陽區"
+    }
+  },
+  {
+    "name": "Longyao",
+    "country": "China",
+    "latitude": 37.35277449989358,
+    "longitude": 114.7739376,
+    "other_names": {
+      "name": "隆尧县",
+      "name:en": "Longyao",
+      "name:vi": "Long Nghiêu",
+      "name:zh": "隆尧县",
+      "alt_name": "隆尧;Longyao County",
+      "name:zh-Hant": "隆堯縣",
+      "official_name": "隆尧镇",
+      "name:zh_pinyin": "Longyao Xian"
+    }
+  },
+  {
+    "name": "Longyou County",
+    "country": "China",
+    "latitude": 29.030969099834206,
+    "longitude": 119.16736610000001,
+    "other_names": {
+      "name": "龙游县",
+      "name:de": "Longyou",
+      "name:en": "Longyou County",
+      "name:es": "Longyou",
+      "name:fa": "شهرستان لونگیوو",
+      "name:fr": "Xian de Longyou",
+      "name:it": "Contea di Longyou",
+      "name:ja": "竜游県",
+      "name:ko": "룽유현",
+      "name:no": "Longyou",
+      "name:ru": "Лунъю",
+      "name:sv": "Longyou",
+      "name:ur": "لونگیؤ کاؤنٹی",
+      "name:vi": "Long Du",
+      "name:zh": "龙游县",
+      "name:ceb": "Longyou Xian",
+      "name:nan": "Liông-iû-koān",
+      "name:wuu": "龙游县",
+      "name:yue": "龍游",
+      "name:zh-Hans": "龙游县",
+      "name:zh-Hant": "龍游",
+      "name:zh_pinyin": "Lóngyóu Xiàn"
+    }
+  },
+  {
+    "name": "Longzhou",
+    "country": "China",
+    "latitude": 22.346334700403077,
+    "longitude": 106.8507445,
+    "other_names": {
+      "name": "龙州县",
+      "name:en": "Longzhou",
+      "name:vi": "Long Châu",
+      "name:zh": "龙州县",
+      "alt_name": "龙州;Longzhou County",
+      "name:yue": "龙州县",
+      "name:zh-Hant": "龍州縣",
+      "name:yue-Latn": "Lungzau-hyun",
+      "name:zh_pinyin": "lóngzhōu xiàn",
+      "official_name:vi": "Huyện Long Châu"
+    }
+  },
+  {
+    "name": "Longzihu",
+    "country": "China",
+    "latitude": 32.94486239958791,
+    "longitude": 117.38812819999997,
+    "other_names": {
+      "name": "龙子湖区",
+      "name:de": "Longzihu",
+      "name:en": "Longzihu",
+      "name:eo": "Longzihu",
+      "name:es": "Longzihu",
+      "name:fr": "Longzihu",
+      "name:ja": "竜子湖区",
+      "name:ko": "룽쯔후 구",
+      "name:pt": "Longzihu",
+      "name:sv": "Longzihu",
+      "name:vi": "Long Tử Hồ",
+      "name:zh": "龙子湖区",
+      "name:zh-Hant": "龍子湖區",
+      "name:zh_pinyin": "Longzihu Qu"
+    }
+  },
+  {
+    "name": "Lop",
+    "country": "China",
+    "latitude": 37.06637669985663,
+    "longitude": 80.17790949999998,
+    "other_names": {
+      "name": "洛浦县",
+      "name:de": "Lop",
+      "name:en": "Lop",
+      "name:es": "Lop",
+      "name:fr": "Lop",
+      "name:ru": "Лоп",
+      "name:ug": "لوپ بازىرى",
+      "name:zh": "洛浦县",
+      "alt_name": "洛浦县;Luopu",
+      "name:zh-Hant": "洛浦縣"
+    }
+  },
+  {
+    "name": "Lorain",
+    "country": "United States Of America",
+    "latitude": 41.467323800440795,
+    "longitude": -82.1781904,
+    "other_names": {
+      "name": "Lorain"
+    }
+  },
+  {
+    "name": "Los Andes",
+    "country": "Chile",
+    "latitude": -32.83368669950523,
+    "longitude": -70.5981609,
+    "other_names": {
+      "name": "Los Andes",
+      "old_name": "Villa de Santa Rosa de Los Andes"
+    }
+  },
+  {
+    "name": "Los Angeles",
+    "country": "United States Of America",
+    "latitude": 34.05369089960348,
+    "longitude": -118.24276599999999,
+    "other_names": {
+      "name": "Los Angeles",
+      "name:ar": "لوس أنجلس",
+      "name:ba": "Лос-Анджелес",
+      "name:be": "Лос-Анджэлас",
+      "name:bn": "লোস আংজেলেস",
+      "name:de": "Los Angeles",
+      "name:el": "Λος Άντζελες",
+      "name:eo": "Los-Anĝeleso",
+      "name:es": "Los Ángeles",
+      "name:fa": "لوس آنجلس",
+      "name:fr": "Los Angeles",
+      "name:gl": "Os Ánxeles",
+      "name:he": "לוס אנג'לס",
+      "name:hi": "लॊस आंजॆलॆस",
+      "name:ja": "ロサンゼルス",
+      "name:kn": "ಲೊಸ್ ಆಂಜೆಲೆಸ್",
+      "name:ko": "로스 앤젤레스",
+      "name:lv": "Losandželosa",
+      "name:oc": "Los Angeles",
+      "name:ru": "Лос-Анджелес",
+      "name:sr": "Лос Анђелес",
+      "name:ta": "லொஸ் ஆஞ்ஜெலெஸ்",
+      "name:th": "ลอสแอนเจลิส",
+      "name:tt": "Лос-Анджелес",
+      "name:uk": "Лос-Анджелес",
+      "name:zh": "洛杉矶/洛杉磯",
+      "loc_name": "the City of Angels",
+      "old_name": "El Pueblo de Nuestra Senora la Reina de los Angeles del Rio de Porciuncula",
+      "short_name": "LA",
+      "alt_name:ar": "لوس أنجلوس",
+      "alt_name:gl": "Os Anxos",
+      "name:zh-Hans": "洛杉矶",
+      "name:zh-Hant": "洛杉磯",
+      "official_name": "The City of Los Angeles"
+    }
+  },
+  {
+    "name": "Los Ángeles",
+    "country": "Chile",
+    "latitude": -37.470745500453965,
+    "longitude": -72.351686,
+    "other_names": {
+      "name": "Los Ángeles",
+      "name:en": "Los Ángeles",
+      "name:eo": "Los Anĝeleso",
+      "name:ru": "Лос-Анджелес",
+      "name:uk": "Лос-Анджелес"
+    }
+  },
+  {
+    "name": "Los Guayos",
+    "country": "Venezuela",
+    "latitude": 10.189261799447705,
+    "longitude": -67.9382941,
+    "other_names": {
+      "name": "Los Guayos"
+    }
+  },
+  {
+    "name": "Los Jabillos",
+    "country": "Venezuela",
+    "latitude": 10.43412429946151,
+    "longitude": -66.7422288,
+    "other_names": {
+      "name": "Los Jabillos"
+    }
+  },
+  {
+    "name": "Los Mochis",
+    "country": "Mexico",
+    "latitude": 25.792805800184933,
+    "longitude": -108.99018799999999,
+    "other_names": {
+      "name": "Los Mochis",
+      "name:en": "Los Mochis",
+      "name:ru": "Лос-Мочис",
+      "official_name": "Los Mochis"
+    }
+  },
+  {
+    "name": "Los Puertos de Altagracia",
+    "country": "Venezuela",
+    "latitude": 10.712788999478898,
+    "longitude": -71.52214529999999,
+    "other_names": {
+      "name": "Los Puertos de Altagracia"
+    }
+  },
+  {
+    "name": "Los Teques",
+    "country": "Venezuela",
+    "latitude": 10.34143049945612,
+    "longitude": -67.0413622,
+    "other_names": {
+      "name": "Los Teques"
+    }
+  },
+  {
+    "name": "Los Teques",
+    "country": "Venezuela",
+    "latitude": 10.345471999456352,
+    "longitude": -67.0393172,
+    "other_names": {
+      "name": "Los Teques"
+    }
+  },
+  {
+    "name": "Loudi",
+    "country": "China",
+    "latitude": 27.699521499979863,
+    "longitude": 111.98906579999999,
+    "other_names": {
+      "name": "娄底市",
+      "name:ar": "لودى",
+      "name:cs": "Lou-ti",
+      "name:da": "Loudi",
+      "name:de": "Loudi",
+      "name:en": "Loudi",
+      "name:es": "Loudi",
+      "name:eu": "Loudi",
+      "name:fa": "لوادی",
+      "name:fi": "Loudi",
+      "name:fr": "Loudi",
+      "name:it": "Loudi",
+      "name:ja": "婁底市",
+      "name:ki": "Loudi",
+      "name:ko": "뤄디시",
+      "name:lb": "Loudi",
+      "name:mg": "Loudi",
+      "name:nl": "Loudi",
+      "name:nn": "Loudi",
+      "name:no": "Loudi",
+      "name:pl": "Loudi",
+      "name:pt": "Loudi",
+      "name:ru": "Лоуди",
+      "name:sv": "Loudi",
+      "name:tr": "Loudi",
+      "name:ur": "لؤدی",
+      "name:vi": "Lâu Để",
+      "name:zh": "娄底市",
+      "alt_name": "娄底;Lianyuan Diqu;Loudi Diqu",
+      "name:cdo": "Lèu-dī",
+      "name:nan": "Lô͘-té-chhī",
+      "name:pam": "Loudi",
+      "name:war": "Loudi",
+      "name:wuu": "娄底市",
+      "name:yue": "婁底",
+      "name:zh-Hant": "婁底市",
+      "name:zh_pinyin": "Lóudî Shì"
+    }
+  },
+  {
+    "name": "Loufan",
+    "country": "China",
+    "latitude": 38.069107299991735,
+    "longitude": 111.7981024,
+    "other_names": {
+      "name": "娄烦县",
+      "name:en": "Loufan",
+      "name:vi": "Lâu Phiền",
+      "name:zh": "娄烦县",
+      "alt_name": "娄烦",
+      "name:zh-Hant": "婁煩縣",
+      "official_name": "娄烦镇"
+    }
+  },
+  {
+    "name": "Louga",
+    "country": "Senegal And Gambia",
+    "latitude": 15.611855099979397,
+    "longitude": -16.2233275,
+    "other_names": {
+      "name": "Louga",
+      "name:ar": "لوغا",
+      "name:fa": "لوگا",
+      "name:ko": "루가",
+      "name:lt": "Luga",
+      "name:ur": "لؤگا",
+      "alt_name": "Luga",
+      "alt_name:ar": "لوجا"
+    }
+  }
+]

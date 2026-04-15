@@ -1,0 +1,279 @@
+[
+  {
+    "name": "Bayi",
+    "country": "China",
+    "latitude": 29.638623499773256,
+    "longitude": 94.3599408,
+    "other_names": {
+      "name": "巴宜区",
+      "name:bo": "བྲག་ཡིབ་གྲོང་ཆུས།",
+      "name:en": "Bayi",
+      "name:vi": "Bayi",
+      "name:zh": "巴宜区",
+      "alt_name": "Bayi District",
+      "old_name": "巴宜;林芝县;林芝;林芝县;Linzhi Xian;Lin-chih Hsien;Nyingchi;Nyingchi Xian;Linzhi",
+      "alt_name:vi": "Lâm Tri",
+      "old_name:bo": "ཉིང་ཁྲི།",
+      "name:zh-Hant": "巴宜區"
+    }
+  },
+  {
+    "name": "Baýramaly",
+    "country": "Turkmenistan",
+    "latitude": 37.61240439992832,
+    "longitude": 62.171649999999985,
+    "other_names": {
+      "name": "Baýramaly",
+      "name:ja": "バイラマリ",
+      "name:ru": "Байрамали",
+      "name:tk": "Baýramaly"
+    }
+  },
+  {
+    "name": "Bayugan",
+    "country": "Philippines",
+    "latitude": 8.714564199395626,
+    "longitude": 125.7481892,
+    "other_names": {
+      "name": "Bayugan",
+      "name:ja": "ベイユーガン"
+    }
+  },
+  {
+    "name": "Bayuquan",
+    "country": "China",
+    "latitude": 40.24012020029934,
+    "longitude": 122.13939219999999,
+    "other_names": {
+      "name": "鲅鱼圈区",
+      "name:cs": "Pa-jü-čchüan",
+      "name:en": "Bayuquan",
+      "name:ja": "ハツ魚圏区",
+      "name:ko": "파위취안구",
+      "name:zh": "鲅鱼圈区",
+      "alt_name": "鲅鱼圈;Bayuquan City",
+      "name:zh-Hant": "鮁魚圈區"
+    }
+  },
+  {
+    "name": "Bazarak",
+    "country": "Afghanistan",
+    "latitude": 35.306216999673914,
+    "longitude": 69.5178094,
+    "other_names": {
+      "name": "بازارک",
+      "name:ar": "بازاراك",
+      "name:cs": "Bázárak",
+      "name:de": "Bazarak",
+      "name:en": "Bazarak",
+      "name:es": "Bazarak",
+      "name:fr": "Bazarak",
+      "name:hi": "बाज़ारक"
+    }
+  },
+  {
+    "name": "Bazhong",
+    "country": "China",
+    "latitude": 31.868932199613777,
+    "longitude": 106.7416618,
+    "other_names": {
+      "name": "巴中市",
+      "name:de": "Bazhong",
+      "name:en": "Bazhong",
+      "name:et": "Bazhong",
+      "name:fr": "Bazhong",
+      "name:ja": "巴中市",
+      "name:pt": "Bazhong",
+      "name:vi": "Ba Trung",
+      "name:zh": "巴中市",
+      "int_name": "Bazhong",
+      "name:zh-Hant": "巴中市",
+      "name:zh_pinyin": "Bāzhōng Shì"
+    }
+  },
+  {
+    "name": "Bazhou",
+    "country": "China",
+    "latitude": 39.11208840014214,
+    "longitude": 116.3922323,
+    "other_names": {
+      "name": "霸州市",
+      "name:de": "Bazhou",
+      "name:en": "Bazhou",
+      "name:fr": "Bazhou",
+      "name:ja": "覇州市",
+      "name:ru": "Бачжоу",
+      "name:vi": "Bá Châu",
+      "name:zh": "霸州市",
+      "alt_name": "霸州;Bazhou City",
+      "name:zh-Hant": "霸州市",
+      "name:zh_pinyin": "Bàzhōu Shì"
+    }
+  },
+  {
+    "name": "Bazhou",
+    "country": "China",
+    "latitude": 31.853775699614413,
+    "longitude": 106.764686,
+    "other_names": {
+      "name": "巴州区",
+      "name:en": "Bazhou",
+      "name:vi": "Ba Châu",
+      "name:zh": "巴州区",
+      "alt_name": "巴州;Bazhou District",
+      "name:zh-Hant": "巴州區",
+      "name:zh_pinyin": "Bazhou Qu"
+    }
+  },
+  {
+    "name": "Bazwaya",
+    "country": "Iraq",
+    "latitude": 36.36679668361421,
+    "longitude": 43.294666168417976,
+    "other_names": {
+      "name": "Bazwaya"
+    }
+  },
+  {
+    "name": "Beatrice",
+    "country": "United States Of America",
+    "latitude": 40.266429000302786,
+    "longitude": -96.74736899999999,
+    "other_names": {
+      "name": "Beatrice",
+      "name:ru": "Биатрис"
+    }
+  },
+  {
+    "name": "Beaumont",
+    "country": "United States Of America",
+    "latitude": 30.086045899732117,
+    "longitude": -94.10184609999999,
+    "other_names": {
+      "name": "Beaumont"
+    }
+  },
+  {
+    "name": "Beaumont",
+    "country": "Canada",
+    "latitude": 53.35254959910673,
+    "longitude": -113.4151434,
+    "other_names": {
+      "name": "Beaumont"
+    }
+  },
+  {
+    "name": "Beaverton",
+    "country": "United States Of America",
+    "latitude": 45.48717230041446,
+    "longitude": -122.80378,
+    "other_names": {
+      "name": "Beaverton",
+      "name:ja": "ビーバートン"
+    }
+  },
+  {
+    "name": "Beawar",
+    "country": "India",
+    "latitude": 26.099213700154145,
+    "longitude": 74.3127044,
+    "other_names": {
+      "name": "Beawar",
+      "name:ar": "بيوار",
+      "name:en": "Beawar",
+      "name:hi": "ब्यावर",
+      "name:ja": "ベアワル",
+      "name:kn": "ಬ್ಯಾವರ",
+      "name:ta": "பியாவர்",
+      "name:ur": "بیارو",
+      "alt_name:ar": "بيارو"
+    }
+  },
+  {
+    "name": "Bebedjia",
+    "country": "Chad",
+    "latitude": 8.680490799395075,
+    "longitude": 16.569887099999995,
+    "other_names": {
+      "name": "Bebedjia",
+      "name:ar": "بيبيدخيا",
+      "alt_name": "Bébédjia"
+    }
+  },
+  {
+    "name": "Beboto 1",
+    "country": "Chad",
+    "latitude": 8.26871949939082,
+    "longitude": 16.9379483,
+    "other_names": {
+      "name": "Beboto 1",
+      "name:fr": "Béboto",
+      "alt_name": "Béboto",
+      "alt_name:fr": "Beboto"
+    }
+  },
+  {
+    "name": "Bechar",
+    "country": "Algeria",
+    "latitude": 31.616535499625268,
+    "longitude": -2.2180052999999997,
+    "other_names": {
+      "name": "Béchar ⴱⴻⵛⵛⴰⵔ بشار",
+      "name:ar": "بشار",
+      "name:de": "Baschar",
+      "name:el": "Μπέτσαρ",
+      "name:en": "Bechar",
+      "name:es": "Béchar",
+      "name:fa": "بشار",
+      "name:fr": "Béchar",
+      "name:he": "בכר",
+      "name:it": "Bechar",
+      "name:ja": "ベシャール",
+      "name:ks": "بشار",
+      "name:lt": "Bešaras",
+      "name:pt": "Béchar",
+      "name:ru": "Бешар",
+      "name:uk": "Бешар",
+      "name:ur": "بشار",
+      "name:zh": "贝沙尔",
+      "name:azb": "بشار",
+      "name:ber": "ⴱⴻⵛⵛⴰⵔ",
+      "name:kab": "Beccar",
+      "name:pnb": "بشار",
+      "alt_name:fr": "Colomb-Béchar",
+      "old_name:ar": "كولومب بشار",
+      "old_name:fr": "Colomb-Béchar"
+    }
+  },
+  {
+    "name": "Bedford",
+    "country": "Canada",
+    "latitude": 44.73039010049174,
+    "longitude": -63.65823650000001,
+    "other_names": {
+      "name": "Bedford"
+    }
+  },
+  {
+    "name": "Bédjondo",
+    "country": "Chad",
+    "latitude": 8.63424119939438,
+    "longitude": 17.1866172,
+    "other_names": {
+      "name": "Bédjondo",
+      "name:ar": "بيجوندو",
+      "alt_name": "Bedjomo; Bediondo;Bedjoudo;Bedjondo;Bédiondo"
+    }
+  },
+  {
+    "name": "Beed",
+    "country": "India",
+    "latitude": 18.990405900313778,
+    "longitude": 75.7542291,
+    "other_names": {
+      "name": "Beed",
+      "name:kn": "ಬೀಡ್",
+      "name:mr": "बीड"
+    }
+  }
+]

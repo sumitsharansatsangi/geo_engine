@@ -1,0 +1,368 @@
+[
+  {
+    "name": "Longling",
+    "country": "China",
+    "latitude": 24.596179200290795,
+    "longitude": 98.691252,
+    "other_names": {
+      "name": "龙陵县",
+      "name:de": "Longling",
+      "name:en": "Longling",
+      "name:es": "Longling",
+      "name:fr": "Longling",
+      "name:ru": "Луншань",
+      "name:vi": "Long Lăng",
+      "name:zh": "龙陵县",
+      "alt_name": "龙陵;Lung-ling Hsien;Longling County",
+      "name:zh-Hant": "龍陵縣",
+      "name:zh_pinyin": "Lónglíng xiàn"
+    }
+  },
+  {
+    "name": "Longmatan",
+    "country": "China",
+    "latitude": 28.915937699846275,
+    "longitude": 105.434392,
+    "other_names": {
+      "name": "龙马潭区",
+      "name:en": "Longmatan",
+      "name:vi": "Long Mã Đàm",
+      "name:zh": "龙马潭区",
+      "alt_name": "龙马潭;Longmatan District",
+      "name:zh-Hant": "龍馬潭區",
+      "name:zh_pinyin": "Lóngmǎtán Qū"
+    }
+  },
+  {
+    "name": "Longmen",
+    "country": "China",
+    "latitude": 23.730494800349135,
+    "longitude": 114.25005919999998,
+    "other_names": {
+      "name": "龙门县",
+      "name:de": "Longmen",
+      "name:en": "Longmen",
+      "name:fa": "شهرستان لونگمن",
+      "name:fr": "Xian de Longmen",
+      "name:it": "Contea di Longmen",
+      "name:ja": "竜門県",
+      "name:ko": "룽먼현",
+      "name:no": "Longmen",
+      "name:sv": "Longmen",
+      "name:vi": "Long Môn",
+      "name:zh": "龙门县",
+      "alt_name": "龙门;Longmen County",
+      "name:ceb": "Longmen Xian",
+      "name:hak": "Liùng-mùn-yen",
+      "name:mwl": "Longmen",
+      "name:nan": "Liông-mn̂g-koān",
+      "name:yue": "龍門縣",
+      "name:zh-Hant": "龍門縣",
+      "name:zh_pinyin": "Lóngmén Xiàn"
+    }
+  },
+  {
+    "name": "Longnan",
+    "country": "China",
+    "latitude": 24.904661800266027,
+    "longitude": 114.79977740000001,
+    "other_names": {
+      "name": "龙南市",
+      "name:de": "Longnan",
+      "name:en": "Longnan",
+      "name:fa": "شهرستان لونگنان",
+      "name:fr": "Xian de Longnan",
+      "name:it": "Contea di Longnan",
+      "name:ja": "竜南市",
+      "name:ko": "룽난시",
+      "name:no": "Longnan",
+      "name:ru": "Луннань",
+      "name:sv": "Longnan",
+      "name:vi": "Long Nam",
+      "name:zh": "龙南市",
+      "alt_name": "龙南;Longnan City",
+      "name:ceb": "Longnan Xian",
+      "name:gan": "龍南",
+      "name:nan": "Liông-lâm-koān",
+      "name:yue": "龍南",
+      "old_name": "龙南县",
+      "name:zh-Hant": "龍南市",
+      "name:zh_pinyin": "lóngnán shì"
+    }
+  },
+  {
+    "name": "Longnan",
+    "country": "China",
+    "latitude": 33.372144499588686,
+    "longitude": 104.9572932,
+    "other_names": {
+      "name": "陇南市",
+      "name:de": "Longnan",
+      "name:en": "Longnan",
+      "name:et": "Longnan",
+      "name:fr": "Longnan",
+      "name:ja": "隴南市",
+      "name:ru": "Луннань",
+      "name:sr": "Лунгнан",
+      "name:uk": "Луннань",
+      "name:vi": "Lũng Nam",
+      "name:zh": "陇南市",
+      "alt_name": "陇南;Longnan City",
+      "int_name": "Longnan",
+      "name:zh-Hant": "隴南市",
+      "name:zh_pinyin": "Lǒngnán Shì"
+    }
+  },
+  {
+    "name": "Longquan",
+    "country": "China",
+    "latitude": 28.076097199937756,
+    "longitude": 119.13700060000001,
+    "other_names": {
+      "name": "龙泉市",
+      "name:de": "Longquan",
+      "name:en": "Longquan",
+      "name:fr": "Longquan",
+      "name:it": "Longquan",
+      "name:ja": "竜泉市",
+      "name:ki": "Longquan",
+      "name:ko": "룽취안시",
+      "name:mg": "Longquan",
+      "name:nl": "Longquan",
+      "name:no": "Longquan",
+      "name:ru": "Лунцюань",
+      "name:sv": "Longquan",
+      "name:tl": "Longquan",
+      "name:ur": "لونگشوان",
+      "name:vi": "Long Tuyền",
+      "name:zh": "龙泉市",
+      "name:nan": "Liông-choân-chhī",
+      "name:war": "Longquan",
+      "name:wuu": "龙泉市",
+      "name:yue": "龍泉",
+      "name:zh-Hant": "龍泉市",
+      "name:zh_pinyin": "Lóngquán Shì"
+    }
+  },
+  {
+    "name": "Longquanyi",
+    "country": "China",
+    "latitude": 30.56268459969268,
+    "longitude": 104.26563499999999,
+    "other_names": {
+      "name": "龙泉驿区",
+      "name:en": "Longquanyi",
+      "name:vi": "Long Tuyền Dịch",
+      "name:zh": "龙泉驿区",
+      "alt_name": "龙泉驿;Longquanyi District",
+      "name:zh-Hant": "龍泉驛區",
+      "name:zh_pinyin": "Longquanyi Qu"
+    }
+  },
+  {
+    "name": "Longsha",
+    "country": "China",
+    "latitude": 47.3157849000944,
+    "longitude": 123.95118680000002,
+    "other_names": {
+      "name": "龙沙区",
+      "name:en": "Longsha",
+      "name:zh": "龙沙区",
+      "name:zh-Hant": "龍沙區"
+    }
+  },
+  {
+    "name": "Longshan",
+    "country": "China",
+    "latitude": 29.45998049979062,
+    "longitude": 109.4392944,
+    "other_names": {
+      "name": "龙山县",
+      "name:en": "Longshan",
+      "name:vi": "Long Sơn",
+      "name:zh": "龙山县",
+      "alt_name": "龙山;Lung-shan Hsien;Longshan County",
+      "name:zh-Hant": "龍山縣",
+      "name:zh_pinyin": "Lóngshān Xiàn"
+    }
+  },
+  {
+    "name": "Longshan",
+    "country": "China",
+    "latitude": 42.899216400533795,
+    "longitude": 125.12920299999998,
+    "other_names": {
+      "name": "龙山区",
+      "name:en": "Longshan",
+      "name:vi": "Long Sơn",
+      "name:zh": "龙山区",
+      "alt_name": "龙山;Longshan District",
+      "name:zh-Hant": "龍山區",
+      "name:zh_pinyin": "Longshan Qu"
+    }
+  },
+  {
+    "name": "Longsheng",
+    "country": "China",
+    "latitude": 25.802116800184017,
+    "longitude": 110.00821639999998,
+    "other_names": {
+      "name": "龙胜各族自治县",
+      "name:en": "Longsheng",
+      "name:ko": "룽성각족자치현",
+      "name:ru": "Луншэн",
+      "name:vi": "Long Thắng",
+      "name:zh": "龙胜各族自治县",
+      "alt_name": "龙胜;Longsheng County",
+      "short_name": "龙胜县",
+      "name:zh-Hant": "龍勝各族自治縣",
+      "official_name": "龙胜各族自治县",
+      "name:zh_pinyin": "Longsheng Gezu Zizhixian",
+      "official_name:en": "Longsheng Various Nationalities Autonomous County"
+    }
+  },
+  {
+    "name": "Longtan",
+    "country": "China",
+    "latitude": 43.90951880053545,
+    "longitude": 126.5590664,
+    "other_names": {
+      "name": "龙潭区",
+      "name:en": "Longtan",
+      "name:zh": "龙潭区",
+      "alt_name": "龙潭;Longtan District",
+      "name:zh-Hant": "龍潭區"
+    }
+  },
+  {
+    "name": "Longting",
+    "country": "China",
+    "latitude": 34.80281429963903,
+    "longitude": 114.35119879999999,
+    "other_names": {
+      "name": "龙亭区",
+      "name:en": "Longting",
+      "name:vi": "Long Đình",
+      "name:zh": "龙亭区",
+      "alt_name": "龙亭;Longting District",
+      "name:zh-Hant": "龍亭區",
+      "name:zh_pinyin": "Longting Qu"
+    }
+  },
+  {
+    "name": "Longueuil",
+    "country": "Canada",
+    "latitude": 45.53333870040862,
+    "longitude": -73.4200318,
+    "other_names": {
+      "name": "Longueuil"
+    }
+  },
+  {
+    "name": "Longview",
+    "country": "United States Of America",
+    "latitude": 32.50070309959389,
+    "longitude": -94.74049,
+    "other_names": {
+      "name": "Longview",
+      "name:en": "Longview",
+      "name:ru": "Лонгвью"
+    }
+  },
+  {
+    "name": "Longwen",
+    "country": "China",
+    "latitude": 24.504772800297758,
+    "longitude": 117.70466820000001,
+    "other_names": {
+      "name": "龙文区",
+      "name:de": "Longwen",
+      "name:en": "Longwen",
+      "name:fr": "Longwen",
+      "name:it": "Longwen",
+      "name:ja": "竜文区",
+      "name:ko": "룽원구",
+      "name:vi": "Long Văn",
+      "name:zh": "龙文区",
+      "alt_name": "龙文;Longwen District",
+      "name:cdo": "Lṳ̀ng-ùng",
+      "name:hak": "Liùng-vùn-khî",
+      "name:nan": "Liông-bûn-khu",
+      "name:yue": "龍文",
+      "name:zh-Hant": "龍文區",
+      "name:zh_pinyin": "lóngwén qū"
+    }
+  },
+  {
+    "name": "Longxi",
+    "country": "China",
+    "latitude": 35.0081054996522,
+    "longitude": 104.64276179999999,
+    "other_names": {
+      "name": "陇西县",
+      "name:en": "Longxi",
+      "name:ja": "隴西県",
+      "name:ru": "Лунси",
+      "name:vi": "Củng Xương",
+      "name:zh": "陇西县",
+      "alt_name": "陇西县;巩昌镇;Gongchang",
+      "alt_name:en": "Lungsihsien;Lungsi;Lung-hsi;Longxi;Kung-ch'eng;Kungchangfu;Kung-ch'ang;Gunchan;Lung-hsi-hsien",
+      "name:zh-Hant": "隴西縣",
+      "name:zh_pinyin": "Lǒngxī Xiàn"
+    }
+  },
+  {
+    "name": "Longxian",
+    "country": "China",
+    "latitude": 34.893876299644695,
+    "longitude": 106.85290389999999,
+    "other_names": {
+      "name": "陇县",
+      "name:en": "Longxian",
+      "name:ja": "隴県",
+      "name:zh": "陇县",
+      "alt_name": "陇;城关镇;Chengguan;Long Xian",
+      "name:zh-Hant": "隴縣",
+      "name:zh_pinyin": "chéngguān zhèn"
+    }
+  },
+  {
+    "name": "Longxu",
+    "country": "China",
+    "latitude": 23.415555800365873,
+    "longitude": 111.24256830000002,
+    "other_names": {
+      "name": "龙圩区",
+      "name:de": "Longxu",
+      "name:en": "Longxu",
+      "name:ja": "竜キョ区",
+      "name:ko": "룽쉬구",
+      "name:ru": "Лунсюй",
+      "name:sv": "Longxu",
+      "name:vi": "Long Vu",
+      "name:zh": "龙圩区",
+      "alt_name": "龙圩;Longxu District",
+      "name:nan": "Liông-u-khu",
+      "name:yue": "龙圩区",
+      "name:zh-Hant": "龍圩區",
+      "name:yue-Latn": "Lunghyu-kyu",
+      "name:zh_pinyin": "Lóngxū Qū"
+    }
+  },
+  {
+    "name": "Long Xuyen",
+    "country": "Vietnam",
+    "latitude": 10.390543699458952,
+    "longitude": 105.4337523,
+    "other_names": {
+      "name": "Long Xuyên",
+      "name:en": "Long Xuyen",
+      "name:ja": "ロンスエン",
+      "name:ko": "롱쑤옌",
+      "name:ru": "Лонгсюен",
+      "name:uk": "Лонгсюєн",
+      "name:zh": "龙川市",
+      "official_name": "Thành phố Long Xuyên"
+    }
+  }
+]

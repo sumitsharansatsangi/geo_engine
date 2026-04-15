@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Kaffrine",
+    "country": "Senegal And Gambia",
+    "latitude": 14.101969999801884,
+    "longitude": -15.548432999999996,
+    "other_names": {
+      "name": "Kaffrine"
+    }
+  },
+  {
+    "name": "Kafr Al-Sheikh",
+    "country": "Egypt",
+    "latitude": 31.108938499654027,
+    "longitude": 30.9426981,
+    "other_names": {
+      "name": "كفر الشيخ",
+      "name:ar": "كفر الشيخ",
+      "name:de": "Kafr asch-Scheich",
+      "name:en": "Kafr Al-Sheikh",
+      "name:eo": "Kafr aŝ-Ŝejĥ",
+      "name:fr": "Kafr ash sheikh",
+      "name:hu": "Kafr es-Sajh",
+      "name:pl": "Kafr asz-Szajch",
+      "name:ru": "Кафр-эш-Шэйх"
+    }
+  },
+  {
+    "name": "Kaga",
+    "country": "Japan",
+    "latitude": 36.30276239976694,
+    "longitude": 136.31511589999997,
+    "other_names": {
+      "name": "加賀市",
+      "name:en": "Kaga",
+      "name:fr": "Kaga",
+      "name:ja": "加賀市",
+      "name:ko": "가가시",
+      "name:pl": "Kaga",
+      "name:ru": "Кага",
+      "name:uk": "Каґа",
+      "name:ja_rm": "Kaga",
+      "name:ja_kana": "かがし"
+    }
+  },
+  {
+    "name": "Kaga-Bandoro",
+    "country": "Central African Republic",
+    "latitude": 6.999314499405293,
+    "longitude": 19.182305,
+    "other_names": {
+      "name": "Kaga-Bandoro",
+      "name:ko": "카가방도로",
+      "name:ru": "Кага-Бандоро",
+      "name:uk": "Кага-Бандоро"
+    }
+  },
+  {
+    "name": "KAGBALEN PLATEAU",
+    "country": "Guinea",
+    "latitude": 9.725638599425482,
+    "longitude": -13.5018969,
+    "other_names": {
+      "name": "KAGBALEN PLATEAU"
+    }
+  },
+  {
+    "name": "Kagoshima",
+    "country": "Japan",
+    "latitude": 31.58416889962688,
+    "longitude": 130.543387,
+    "other_names": {
+      "name": "鹿児島市",
+      "name:ar": "كاغوشيما، كاغوشيما",
+      "name:cs": "Kagošima",
+      "name:de": "Kagoshima",
+      "name:en": "Kagoshima",
+      "name:es": "Kagoshima",
+      "name:et": "Kagoshima",
+      "name:fr": "Kagoshima",
+      "name:he": "קגושימה",
+      "name:hu": "Kagosima",
+      "name:ja": "鹿児島市",
+      "name:ko": "가고시마시",
+      "name:lt": "Kagošima",
+      "name:pl": "Kagoshima",
+      "name:ru": "Кагосима",
+      "name:sr": "Кагошима",
+      "name:sv": "Kagoshima",
+      "name:uk": "Каґошіма",
+      "name:zh": "鹿儿岛市",
+      "int_name": "Kagoshima",
+      "name:ja_rm": "Kagoshima-shi",
+      "name:ja_kana": "かごしまし",
+      "name:zh-Hans": "鹿儿岛市",
+      "name:zh-Hant": "鹿兒島市"
+    }
+  },
+  {
+    "name": "Kahoku",
+    "country": "Japan",
+    "latitude": 36.749818799817774,
+    "longitude": 136.7195952,
+    "other_names": {
+      "name": "かほく市",
+      "name:ar": "كاهوكو، إيشيكاوا",
+      "name:de": "Kahoku",
+      "name:en": "Kahoku",
+      "name:es": "Kahoku",
+      "name:fr": "Kahoku",
+      "name:ja": "かほく市",
+      "name:ko": "가호쿠시",
+      "name:zh": "河北市",
+      "int_name": "Kahoku",
+      "name:ja_rm": "Kahoku-Shi",
+      "name:ja_kana": "かほくし"
+    }
+  },
+  {
+    "name": "Kahramanmaraş",
+    "country": "Turkey",
+    "latitude": 37.581274399924084,
+    "longitude": 36.927509,
+    "other_names": {
+      "name": "Kahramanmaraş",
+      "name:ar": "مرعش",
+      "name:hi": "कहरामनमारस",
+      "name:hu": "Kahramanmaraş",
+      "name:hy": "Մարաշ",
+      "name:ku": "Gurgum",
+      "name:pt": "Kahramanmaraş",
+      "name:ru": "Кахраманмараш",
+      "name:tr": "Kahramanmaraş",
+      "alt_name": "Maraş"
+    }
+  },
+  {
+    "name": "Kahului",
+    "country": "United States Of America",
+    "latitude": 20.8731065906733,
+    "longitude": -156.4588278073092,
+    "other_names": {
+      "name": "Kahului"
+    }
+  },
+  {
+    "name": "Kai",
+    "country": "Japan",
+    "latitude": 35.66816699970419,
+    "longitude": 138.51532699999998,
+    "other_names": {
+      "name": "甲斐市",
+      "name:ar": "كاي، ياماناشي",
+      "name:de": "Kai",
+      "name:en": "Kai",
+      "name:es": "Kai",
+      "name:fr": "Kai",
+      "name:ja": "甲斐市",
+      "name:ko": "가이시",
+      "name:pl": "Kai",
+      "name:ru": "Каи",
+      "name:uk": "Кай",
+      "name:ja_rm": "Kai City",
+      "name:ja_kana": "かいし"
+    }
+  },
+  {
+    "name": "Kaifeng",
+    "country": "China",
+    "latitude": 34.79611059963861,
+    "longitude": 114.34720379999999,
+    "other_names": {
+      "name": "开封市",
+      "name:af": "Kaifeng",
+      "name:am": "ካይፈንግ",
+      "name:ar": "كايفنغ",
+      "name:be": "Кайфэн",
+      "name:ca": "Kaifeng",
+      "name:cs": "Kchaj-feng",
+      "name:da": "Kaifeng",
+      "name:de": "Kaifeng",
+      "name:en": "Kaifeng",
+      "name:eo": "Kajfengo",
+      "name:es": "Kaifeng",
+      "name:et": "Kaifeng",
+      "name:eu": "Kaifeng",
+      "name:fa": "کایفنگ",
+      "name:fi": "Kaifeng",
+      "name:fr": "Kaifeng",
+      "name:he": "קאיפנג",
+      "name:hr": "Kaifeng",
+      "name:hy": "Կայֆին",
+      "name:id": "Kaifeng",
+      "name:it": "Kaifeng",
+      "name:ja": "開封市",
+      "name:ka": "კაიფინი",
+      "name:ki": "Kaifeng",
+      "name:ko": "카이펑시",
+      "name:mg": "Kaifeng",
+      "name:mn": "Кайфэн",
+      "name:nl": "Kaifeng",
+      "name:nn": "Kaifeng",
+      "name:no": "Kaifeng",
+      "name:pl": "Kaifeng",
+      "name:pt": "Kaifeng",
+      "name:ro": "Kaifeng",
+      "name:ru": "Кайфын",
+      "name:sh": "Kaifeng",
+      "name:sr": "Кајфенг",
+      "name:sv": "Kaifeng",
+      "name:ta": "கைஃபெங்",
+      "name:th": "ไคเฟิง",
+      "name:tr": "Kaifeng",
+      "name:ug": "Keyféng shehiri",
+      "name:uk": "Кайфен",
+      "name:ur": "کائفینگ",
+      "name:uz": "Kayfin",
+      "name:vi": "Khai Phong",
+      "name:zh": "开封市",
+      "name:arz": "كايفنج",
+      "name:ast": "Kaifeng",
+      "name:cdo": "Kăi-hŭng",
+      "name:ceb": "Kaifeng",
+      "name:nan": "Khai-hong-chhī",
+      "name:pam": "Kaifeng",
+      "name:sco": "Kaifeng",
+      "name:war": "Kaifeng",
+      "name:wuu": "开封市",
+      "name:yue": "開封",
+      "name:simple": "Kaifeng",
+      "name:zh-Hant": "開封市",
+      "name:zh_pinyin": "Kāifēng Shì"
+    }
+  },
+  {
+    "name": "Kaifu",
+    "country": "China",
+    "latitude": 28.259307599917424,
+    "longitude": 112.980669,
+    "other_names": {
+      "name": "开福区",
+      "name:de": "Kaifu",
+      "name:en": "Kaifu",
+      "name:es": "Kaifu",
+      "name:eu": "Kaifu Barrutia",
+      "name:fr": "District de Kaifu",
+      "name:it": "Distretto di Kaifu",
+      "name:ja": "開福区",
+      "name:ko": "카이푸구",
+      "name:no": "Kaifu",
+      "name:ru": "Кайфу",
+      "name:sv": "Kaifu",
+      "name:vi": "Khai Phúc",
+      "name:zh": "开福区",
+      "alt_name": "开福;Kaifu District",
+      "name:ceb": "Kaifu District",
+      "name:hak": "Khôi-fuk-khî",
+      "name:nan": "Khai-hok-khu",
+      "name:yue": "開福區",
+      "name:zh-Hant": "開福區",
+      "name:zh_pinyin": "Kāifú Qū"
+    }
+  },
+  {
+    "name": "Kaihua",
+    "country": "China",
+    "latitude": 29.139908299822906,
+    "longitude": 118.41080289999998,
+    "other_names": {
+      "name": "开化县",
+      "name:en": "Kaihua",
+      "name:zh": "开化县",
+      "alt_name:vi": "Khai Hoá",
+      "name:zh-Hant": "開化縣",
+      "name:zh_pinyin": "Kaihua"
+    }
+  },
+  {
+    "name": "Kaijiang",
+    "country": "China",
+    "latitude": 31.09143489965514,
+    "longitude": 107.85722739999999,
+    "other_names": {
+      "name": "开江县",
+      "name:en": "Kaijiang",
+      "name:ru": "Кайцзян",
+      "name:zh": "开江县",
+      "alt_name": "开江;新宁镇;开江;Kaijiang County",
+      "name:zh-Hant": "開江縣"
+    }
+  },
+  {
+    "name": "Kaili",
+    "country": "China",
+    "latitude": 26.571054200104594,
+    "longitude": 107.9769525,
+    "other_names": {
+      "name": "凯里市",
+      "name:de": "Kaili",
+      "name:en": "Kaili",
+      "name:et": "Kaili",
+      "name:fr": "Kaili",
+      "name:ja": "凱里市",
+      "name:ru": "Кайли",
+      "name:vi": "Khải Lý",
+      "name:zh": "凯里市",
+      "alt_name": "Miao-tsu-tzu-chih-ch'u",
+      "name:zh-Hant": "凱里市",
+      "name:zh_pinyin": "Kǎilǐ Shì"
+    }
+  },
+  {
+    "name": "Kailu",
+    "country": "China",
+    "latitude": 43.58950020054133,
+    "longitude": 121.31595080000001,
+    "other_names": {
+      "name": "开鲁县",
+      "name:en": "Kailu",
+      "name:ru": "Кайлу",
+      "name:zh": "开鲁县",
+      "alt_name": "开鲁县;开鲁;K'ai-lu-hsien;Kailu Xian;Kailun Zhen;Kailun",
+      "name:zh-Hant": "開魯縣",
+      "official_name": "开鲁镇"
+    }
+  },
+  {
+    "name": "Kailua",
+    "country": "United States Of America",
+    "latitude": 21.393623000409313,
+    "longitude": -157.74375899999998,
+    "other_names": {
+      "name": "Kailua",
+      "name:ja": "カイルア"
+    }
+  },
+  {
+    "name": "Kainan",
+    "country": "Japan",
+    "latitude": 34.15486559960711,
+    "longitude": 135.20927909999997,
+    "other_names": {
+      "name": "海南市",
+      "name:ar": "كاينان، واكاياما",
+      "name:de": "Kainan",
+      "name:en": "Kainan",
+      "name:es": "Kainan",
+      "name:fr": "Kainan",
+      "name:ja": "海南市",
+      "name:ko": "가이난시",
+      "name:pl": "Kainan",
+      "name:ru": "Кайнан",
+      "name:uk": "Кайнан",
+      "int_name": "Kainan",
+      "name:ja_rm": "Kainan-shi",
+      "name:ja_kana": "かいなんし"
+    }
+  },
+  {
+    "name": "Kaiping",
+    "country": "China",
+    "latitude": 39.67031590022181,
+    "longitude": 118.2559954,
+    "other_names": {
+      "name": "开平区",
+      "name:en": "Kaiping",
+      "name:ru": "Кайпин",
+      "name:vi": "Khai Bình",
+      "name:zh": "开平区",
+      "alt_name": "开平;Kaiping District",
+      "name:zh-Hant": "開平區",
+      "name:zh_pinyin": "Kaiping Qu"
+    }
+  },
+  {
+    "name": "Kaiping",
+    "country": "China",
+    "latitude": 22.37607300040247,
+    "longitude": 112.69525649999999,
+    "other_names": {
+      "name": "开平市",
+      "name:cs": "Kchaj-pching",
+      "name:de": "Kaiping",
+      "name:en": "Kaiping",
+      "name:es": "Kaiping",
+      "name:fa": "کایپینگ",
+      "name:fr": "Kaiping",
+      "name:hr": "Kaiping",
+      "name:hu": "Kajping",
+      "name:it": "Kaiping",
+      "name:ja": "開平市",
+      "name:ki": "Kaiping",
+      "name:ko": "카이핑시",
+      "name:nl": "Kaiping",
+      "name:no": "Kaiping",
+      "name:pl": "Kaiping",
+      "name:ru": "Саньбу",
+      "name:sh": "Kaiping",
+      "name:sv": "Kaiping",
+      "name:tr": "Kaiping",
+      "name:ur": "کائپنگ",
+      "name:vi": "Khai Bình",
+      "name:zh": "开平市",
+      "alt_name": "开平;Kaiping City",
+      "int_name": "Kāipíng",
+      "name:ceb": "Kaiping Shi",
+      "name:hak": "Khôi-phìn-sṳ",
+      "name:mwl": "Kaiping",
+      "name:nan": "Khai-pêng-chhī",
+      "name:pam": "Kaiping",
+      "name:pnb": "کائیپینگ",
+      "name:yue": "开平市",
+      "name:zh-Hans": "开平市",
+      "name:zh-Hant": "開平市",
+      "name:yue-Latn": "Hoiping-si",
+      "name:zh_pinyin": "Kāipíng Shì"
+    }
+  }
+]
