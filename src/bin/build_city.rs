@@ -29,9 +29,12 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     let core_path = versioned_name(&version, "core");
     let meta_path = versioned_name(&version, "meta");
     let points_path = versioned_name(&version, "points");
-    let geo_db_path = PathBuf::from(format!("geo-{version}.db"));
+    let geo_db_path = PathBuf::from(format!("release-assets/geo-{version}.db"));
 
     // ---- FST ----
+    if let Some(parent) = fst_path.parent() {
+        fs::create_dir_all(parent)?;
+    }
     let fst_file = File::create(&fst_path)?;
     let mut fst = MapBuilder::new(fst_file)?;
     let mut city_keys: Vec<(String, u64)> = Vec::new();
@@ -231,7 +234,7 @@ fn parse_version(
 }
 
 fn versioned_name(version: &str, ext: &str) -> PathBuf {
-    PathBuf::from(format!("cities-{version}.{ext}"))
+    PathBuf::from(format!("release-assets/cities-{version}.{ext}"))
 }
 
 fn print_usage() {

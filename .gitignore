@@ -7,8 +7,11 @@ geo-*.db.sha256
 geo-*.spx
 subdistrict-*.db
 subdistrict-*.db.sha256
+subdistrict-*.meta
 cities-*.fst
 cities-*.fst.sha256
+cities-*.core
+cities-*.meta
 cities-*.rkyv
 cities-*.rkyv.sha256
 cities-*.points

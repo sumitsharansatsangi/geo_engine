@@ -145,6 +145,9 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
         serialized.to_vec()
     };
 
+    if let Some(parent) = output_path.parent() {
+        fs::create_dir_all(parent)?;
+    }
     fs::write(&output_path, &output_bytes)?;
     write_sha256_file(&output_path, &output_bytes)?;
 
@@ -249,7 +252,7 @@ fn print_usage() {
 }
 
 fn default_output_name(version: &str) -> String {
-    format!("geo-{version}.db")
+    format!("release-assets/geo-{version}.db")
 }
 
 fn normalize_geojson_url(url: &str) -> String {

@@ -128,7 +128,7 @@ pub fn run() -> Result<(), Box<dyn Error>> {
     let dbf_path = env::var("SUBDISTRICT_DBF_PATH")
         .unwrap_or_else(|_| "/Users/amitsharan/Downloads/91/SUBDISTRICT_BOUNDARY.dbf".to_string());
     let output_path = env::var("SUBDISTRICT_OUTPUT_PATH")
-        .unwrap_or_else(|_| "/Users/amitsharan/rustProject/geo_engine/subdistrict.db".to_string());
+        .unwrap_or_else(|_| "release-assets/subdistrict.db".to_string());
     let meta_output_path = env::var("SUBDISTRICT_META_OUTPUT_PATH")
         .unwrap_or_else(|_| default_meta_output_path(&output_path));
     let data_csv_path = env::var("DISTRICT_DATA_CSV_PATH")
@@ -302,6 +302,9 @@ pub fn run() -> Result<(), Box<dyn Error>> {
     } else {
         bytes.to_vec()
     };
+    if let Some(parent) = Path::new(&output_path).parent() {
+        fs::create_dir_all(parent)?;
+    }
     fs::write(&output_path, &output_bytes)?;
 
     let metadata = SubdistrictMeta {
@@ -315,6 +318,9 @@ pub fn run() -> Result<(), Box<dyn Error>> {
     } else {
         metadata_bytes.to_vec()
     };
+    if let Some(parent) = Path::new(&meta_output_path).parent() {
+        fs::create_dir_all(parent)?;
+    }
     fs::write(&meta_output_path, &metadata_output_bytes)?;
 
     println!("✅ wrote {output_path}");

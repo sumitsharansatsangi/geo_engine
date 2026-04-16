@@ -24,7 +24,7 @@ fn main() {
     }
 
     println!("initializing engine...");
-    if let Err(err) = geo_engine::init_path(&asset_dir,true) {
+    if let Err(err) = geo_engine::init_path(asset_dir.display().to_string(), true) {
         eprintln!("init failed: {err}");
         process::exit(1);
     }

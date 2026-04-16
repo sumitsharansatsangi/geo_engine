@@ -12,7 +12,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 
     // Route the default-cache wrappers to the provided asset folder.
     unsafe {
-        env::set_var("GEO_ENGINE_CACHE_DIR", &asset_dir);
+        env::set_var("GEO_ENGINE_CACHE_DIR", asset_dir.display().to_string());
         if let Some(manifest_path) = default_manifest_override_path() {
             env::set_var("GEO_ENGINE_RELEASE_MANIFEST_PATH", manifest_path);
         }
@@ -43,7 +43,7 @@ fn main() -> Result<(), Box<dyn Error>> {
     let _wrapper_engine = geo_engine::init_geo_engine()?;
 
     println!("checking init_path...");
-    geo_engine::init_path(&asset_dir, true)?;
+    geo_engine::init_path(asset_dir.display().to_string(), true)?;
 
     println!("checking reverse_geocoding...");
     let reverse = geo_engine::reverse_geocoding(lat, lon)?;

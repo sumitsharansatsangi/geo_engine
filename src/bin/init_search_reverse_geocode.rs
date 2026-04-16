@@ -31,6 +31,22 @@ fn main() -> Result<(), Box<dyn Error>> {
         search_result.subdistricts.len()
     );
 
+    println!("\n  Cities:");
+    for city in &search_result.cities {
+        println!(
+            "    - {} ({}) at {}, {}",
+            city.name, city.country_code, city.latitude, city.longitude
+        );
+    }
+
+    println!("\n  Subdistricts:");
+    for subdistrict in &search_result.subdistricts {
+        println!(
+            "    - {} ({}, {})",
+            subdistrict.subdistrict.name, subdistrict.district.name, subdistrict.state.name
+        );
+    }
+
     if let Some(city) = search_result.cities.first() {
         println!(
             "top city: {} ({}) at {}, {}",
@@ -81,7 +97,7 @@ fn parse_args(
         .next()
         .map(PathBuf::from)
         .unwrap_or_else(|| PathBuf::from("./release-assets"));
-    let query = args.next().unwrap_or_else(|| "bihar".to_string());
+    let query = args.next().unwrap_or_else(|| "bi".to_string());
     let lat = args
         .next()
         .and_then(|value| value.parse::<f32>().ok())

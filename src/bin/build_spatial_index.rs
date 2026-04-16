@@ -27,7 +27,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     let geo_db_path = args
         .next()
         .map(PathBuf::from)
-        .unwrap_or_else(|| PathBuf::from("geo-0.0.1.db"));
+        .unwrap_or_else(|| PathBuf::from("release-assets/geo-0.0.1.db"));
     let output_path = args
         .next()
         .map(PathBuf::from)
@@ -168,6 +168,9 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     };
 
     let serialized = rkyv::to_bytes::<rkyv::rancor::Error>(&payload)?;
+    if let Some(parent) = output_path.parent() {
+        fs::create_dir_all(parent)?;
+    }
     fs::write(&output_path, &serialized)?;
 
     println!(

@@ -168,8 +168,8 @@ static ENGINE: OnceLock<Result<InitializedGeoEngine, String>> = OnceLock::new();
 ///
 /// # Returns
 /// * `Ok(true)` when initialization succeeds
-pub fn init_path(asset_dir: &Path, verify_checksum: bool) -> Result<bool, GeoEngineError> {
-    let asset_dir = normalize_asset_dir(asset_dir);
+pub fn init_path(asset_dir: String, verify_checksum: bool) -> Result<bool, GeoEngineError> {
+    let asset_dir = normalize_asset_dir(Path::new(&asset_dir));
 
     if let Some(initialized_paths) = PATHS.get() {
         if initialized_paths.asset_dir != asset_dir {
@@ -199,7 +199,7 @@ pub fn init_path(asset_dir: &Path, verify_checksum: bool) -> Result<bool, GeoEng
         city_core_path: asset_paths.city_core_path,
         city_meta_path: asset_paths.city_meta_path,
     };
-
+ 
     let initialized_paths = PATHS.get_or_init(|| candidate_paths);
 
     let same_paths = initialized_paths.asset_dir == asset_dir;

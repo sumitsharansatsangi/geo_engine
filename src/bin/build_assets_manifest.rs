@@ -7,7 +7,7 @@ use sha2::{Digest, Sha256};
 
 const DEFAULT_VERSION: &str = "0.0.1";
 const DEFAULT_REPO: &str = "sumitsharansatsangi/geo_engine";
-const DEFAULT_OUTPUT_PATH: &str = "assets-manifest.json";
+const DEFAULT_OUTPUT_PATH: &str = "release-assets/assets-manifest.json";
 
 #[derive(Debug, Serialize)]
 struct AssetsManifest {
@@ -92,6 +92,9 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     };
 
     let json = serde_json::to_vec_pretty(&manifest)?;
+    if let Some(parent) = inputs.output_path.parent() {
+        fs::create_dir_all(parent)?;
+    }
     fs::write(&inputs.output_path, json)?;
 
     println!("✅ wrote {}", inputs.output_path.display());
@@ -278,21 +281,21 @@ fn default_release_base_url(repo: &str, version: &str) -> String {
 }
 
 fn default_geo_name(version: &str) -> String {
-    format!("geo-{version}.db")
+    format!("release-assets/geo-{version}.db")
 }
 
 fn default_geo_meta_name(version: &str) -> String {
-    format!("geo-{version}.spx")
+    format!("release-assets/geo-{version}.spx")
 }
 
 fn default_subdistrict_name(version: &str) -> String {
-    format!("subdistrict-{version}.db")
+    format!("release-assets/subdistrict-{version}.db")
 }
 
 fn default_subdistrict_meta_name(version: &str) -> String {
-    format!("subdistrict-{version}.meta")
+    format!("release-assets/subdistrict-{version}.meta")
 }
 
 fn default_city_name(version: &str, ext: &str) -> String {
-    format!("cities-{version}.{ext}")
+    format!("release-assets/cities-{version}.{ext}")
 }
