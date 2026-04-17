@@ -8,7 +8,7 @@ use std::process;
 
 #[path = "../engine/city.rs"]
 mod city;
-use city::{City, CityCore, CityMeta, normalize};
+use city::{City, CityCore, CityMeta, normalize_keys};
 
 const DEFAULT_FST_PATH: &str = "cities.fst";
 const DEFAULT_CORE_PATH: &str = "cities.core";
@@ -60,8 +60,8 @@ fn main() {
         }
     }
 
-    let normalized = normalize(query.trim());
-    if normalized.is_empty() {
+    let normalized_keys = normalize_keys(query.trim());
+    if normalized_keys.is_empty() {
         print_usage_and_exit("query cannot be empty");
     }
 
@@ -83,17 +83,23 @@ fn main() {
             process::exit(1);
         });
 
-    let prefix = format!("{}|", normalized);
-    let upper = format!("{}\u{10FFFF}", prefix);
-    let mut stream = fst
-        .range()
-        .ge(prefix.as_str())
-        .lt(upper.as_str())
-        .into_stream();
-
     let mut matched_ids: BTreeSet<u32> = BTreeSet::new();
-    while let Some((_key, value)) = stream.next() {
-        matched_ids.insert(value as u32);
+    for normalized in &normalized_keys {
+        let prefix = format!("{}|", normalized);
+        let upper = format!("{}\u{10FFFF}", prefix);
+        let mut stream = fst
+            .range()
+            .ge(prefix.as_str())
+            .lt(upper.as_str())
+            .into_stream();
+
+        while let Some((_key, value)) = stream.next() {
+            matched_ids.insert(value as u32);
+            if matched_ids.len() >= limit {
+                break;
+            }
+        }
+
         if matched_ids.len() >= limit {
             break;
         }
@@ -104,7 +110,10 @@ fn main() {
         return;
     }
 
-    println!("Matches for '{query}' (normalized: '{normalized}'):");
+    println!(
+        "Matches for '{query}' (normalized keys: {:?}):",
+        normalized_keys
+    );
 
     for geoname_id in matched_ids {
         if let Some(city) = cities_by_id.get(&geoname_id) {

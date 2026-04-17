@@ -8,7 +8,6 @@ fn main() {
                 println!("Initialization returned false");
             }
         }
-
         Err(err) => eprintln!("Initialization failed: {err}"),
     };
 
@@ -21,15 +20,12 @@ fn main() {
             for subdistrict in results.subdistricts {
                 println!(
                     "Subdistrict: {}, {}, {}",
-                    subdistrict.subdistrict.name,
-                    subdistrict.district.name,
-                    subdistrict.state.name
+                    subdistrict.subdistrict.name, subdistrict.district.name, subdistrict.state.name
                 );
             }
         }
 
         Err(err) => eprintln!("Search failed: {err}"),
-
     }
 
     match geo_engine::reverse_geocoding(25.25, 87.04) {
@@ -53,5 +49,4 @@ fn main() {
 
         Err(err) => eprintln!("Reverse geocoding failed: {err}"),
     }
-
 }

@@ -132,6 +132,62 @@ pub fn normalize(s: &str) -> String {
     unsafe { String::from_utf8_unchecked(buf) }
 }
 
+#[inline]
+pub fn normalize_ascii(s: &str) -> String {
+    let ascii = normalize(s);
+    if !ascii.is_empty() {
+        return ascii;
+    }
+
+    // Fall back to transliteration so non-ASCII-only names still get an ASCII key.
+    let transliterated = deunicode::deunicode(s);
+    if transliterated.is_empty() {
+        return String::new();
+    }
+
+    normalize(&transliterated)
+}
+
+#[inline]
+pub fn normalize_unicode(s: &str) -> String {
+    let mut normalized = String::with_capacity(s.len());
+    let mut pending_space = false;
+
+    for c in s.nfkc().flat_map(|ch| ch.to_lowercase()) {
+        if c.is_alphanumeric() {
+            if pending_space && !normalized.is_empty() {
+                normalized.push(' ');
+            }
+            pending_space = false;
+            normalized.push(c);
+            continue;
+        }
+
+        if c.is_whitespace() {
+            pending_space = true;
+        }
+    }
+
+    normalized
+}
+
+#[inline]
+pub fn normalize_keys(s: &str) -> Vec<String> {
+    let mut keys = Vec::with_capacity(2);
+
+    let unicode = normalize_unicode(s);
+    if !unicode.is_empty() {
+        keys.push(unicode);
+    }
+
+    let ascii = normalize_ascii(s);
+    if !ascii.is_empty() && !keys.iter().any(|key| key == &ascii) {
+        keys.push(ascii);
+    }
+
+    keys
+}
+
 // ── FST-Ready Insert Helper ───────────────────────────────────────────────────
 
 /// Insert using reusable buffer (zero allocation per call)
@@ -147,4 +203,29 @@ pub fn insert_normalized<K: AsRef<str>>(
     builder
         .insert(&buf, value)
         .map_err(|e| std::io::Error::new(std::io::ErrorKind::Other, e))
+}
+
+#[cfg(test)]
+mod tests {
+    use super::{normalize_ascii, normalize_keys, normalize_unicode};
+
+    #[test]
+    fn normalize_keys_keeps_unicode_and_ascii_forms() {
+        let keys = normalize_keys("München");
+        assert!(keys.iter().any(|key| key == "münchen"));
+        assert!(keys.iter().any(|key| key == "munchen"));
+    }
+
+    #[test]
+    fn normalize_unicode_preserves_non_latin_scripts() {
+        let normalized = normalize_unicode("  मुंबई (Mumbai)  ");
+        assert_eq!(normalized, "मुंबई mumbai");
+    }
+
+    #[test]
+    fn normalize_ascii_transliterates_non_ascii_only_names() {
+        let normalized = normalize_ascii("北京");
+        assert!(!normalized.is_empty());
+        assert!(normalized.is_ascii());
+    }
 }

@@ -1,0 +1,11 @@
+# flutter_rust_bridge codegen example
+# Run this from your Flutter app root and adjust paths.
+
+flutter_rust_bridge_codegen generate \
+  --rust-input ../geo_engine/src/frb_api.rs \
+  --rust-root ../geo_engine \
+  --dart-output lib/src/rust/frb_generated.dart \
+  --dart-format-line-length 100
+
+# Build Rust library for your target (example: Android arm64)
+cargo build --manifest-path ../geo_engine/Cargo.toml --release --target aarch64-linux-android

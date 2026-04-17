@@ -10,7 +10,7 @@ use rayon::prelude::*;
 use rkyv::{Archived, string::ArchivedString};
 use serde::Serialize;
 
-use crate::engine::city::{City, CityCore, CityMeta, normalize};
+use crate::engine::city::{City, CityCore, CityMeta, normalize_keys};
 use crate::engine::error::GeoEngineError;
 use crate::engine::h3::{
     H3RuntimeIndex, default_sidecar_path as default_h3_sidecar_path,
@@ -199,7 +199,7 @@ pub fn init_path(asset_dir: String, verify_checksum: bool) -> Result<bool, GeoEn
         city_core_path: asset_paths.city_core_path,
         city_meta_path: asset_paths.city_meta_path,
     };
- 
+
     let initialized_paths = PATHS.get_or_init(|| candidate_paths);
 
     let same_paths = initialized_paths.asset_dir == asset_dir;
@@ -309,9 +309,8 @@ pub fn reverse_geocoding_batch(
 /// # Arguments
 /// * `query` - Search term (case-insensitive, supports prefix matching)
 pub fn search(query: &str) -> Result<CombinedSearchResult, GeoEngineError> {
-    let engine = get_initialized_engine().map_err(|err| {
-        crate::operation_failed!("api", "search", "load_initialized_engine", err)
-    })?;
+    let engine = get_initialized_engine()
+        .map_err(|err| crate::operation_failed!("api", "search", "load_initialized_engine", err))?;
     engine
         .search_places_by_name(query, None)
         .map_err(|err| crate::operation_failed!("api", "search", "execute", err))
@@ -320,8 +319,9 @@ pub fn search(query: &str) -> Result<CombinedSearchResult, GeoEngineError> {
 pub fn search_batch(
     queries: &[String],
 ) -> Result<Vec<Result<CombinedSearchResult, GeoEngineError>>, GeoEngineError> {
-    let engine = get_initialized_engine()
-        .map_err(|err| crate::operation_failed!("api", "search_batch", "load_initialized_engine", err))?;
+    let engine = get_initialized_engine().map_err(|err| {
+        crate::operation_failed!("api", "search_batch", "load_initialized_engine", err)
+    })?;
     Ok(queries
         .par_iter()
         .map(|query| engine.search_places_by_name(query, None))
@@ -613,8 +613,8 @@ impl InitializedGeoEngine {
         query: &str,
         limit: Option<usize>,
     ) -> Result<Vec<CityMatch>, GeoEngineError> {
-        let normalized = normalize(query.trim());
-        if normalized.is_empty() {
+        let normalized_keys = normalize_keys(query.trim());
+        if normalized_keys.is_empty() {
             return Ok(Vec::new());
         }
 
@@ -626,18 +626,27 @@ impl InitializedGeoEngine {
             return Ok(Vec::new());
         };
 
-        let prefix = format!("{}|", normalized);
-        let upper = format!("{}\u{10FFFF}", prefix);
-        let mut stream = fst
-            .range()
-            .ge(prefix.as_str())
-            .lt(upper.as_str())
-            .into_stream();
-
         let max_results = limit.map(|value| value.max(1));
         let mut matched_ids: BTreeSet<u32> = BTreeSet::new();
-        while let Some((_key, value)) = stream.next() {
-            matched_ids.insert(value as u32);
+
+        for normalized in normalized_keys {
+            let prefix = format!("{}|", normalized);
+            let upper = format!("{}\u{10FFFF}", prefix);
+            let mut stream = fst
+                .range()
+                .ge(prefix.as_str())
+                .lt(upper.as_str())
+                .into_stream();
+
+            while let Some((_key, value)) = stream.next() {
+                matched_ids.insert(value as u32);
+                if let Some(max_results) = max_results
+                    && matched_ids.len() >= max_results
+                {
+                    break;
+                }
+            }
+
             if let Some(max_results) = max_results
                 && matched_ids.len() >= max_results
             {
@@ -1471,4 +1480,3 @@ fn sort_languages_by_relevance(languages: &[GeoLanguage]) -> Vec<GeoLanguage> {
     // Return language codes in order
     langs
 }
-

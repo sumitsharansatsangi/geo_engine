@@ -54,10 +54,9 @@ impl GeoEngine {
                 .map(|value| value == "1" || value.eq_ignore_ascii_case("true"))
                 .unwrap_or(false)
             {
-                let decoded = decode_zstd_to_vec(&mmap[..], &path_buf)
-                    .map_err(|err| {
-                        crate::operation_failed!("runtime", "open", "decode_zstd_to_memory", err)
-                    })?;
+                let decoded = decode_zstd_to_vec(&mmap[..], &path_buf).map_err(|err| {
+                    crate::operation_failed!("runtime", "open", "decode_zstd_to_memory", err)
+                })?;
                 let mut aligned = AlignedVec::with_capacity(decoded.len());
                 aligned.extend_from_slice(&decoded);
                 return Ok(Self {
@@ -65,10 +64,9 @@ impl GeoEngine {
                 });
             }
 
-            let decoded = decode_zstd_to_temp_mmap(&mmap[..], &path_buf)
-                .map_err(|err| {
-                    crate::operation_failed!("runtime", "open", "decode_zstd_to_temp_mmap", err)
-                })?;
+            let decoded = decode_zstd_to_temp_mmap(&mmap[..], &path_buf).map_err(|err| {
+                crate::operation_failed!("runtime", "open", "decode_zstd_to_temp_mmap", err)
+            })?;
             return Ok(Self {
                 storage: Storage::TempMmap(decoded),
             });
@@ -98,10 +96,9 @@ impl GeoEngine {
     pub fn from_bytes(bytes: &[u8], source_label: &str) -> Result<Self, GeoEngineError> {
         let source_path = PathBuf::from(source_label);
         let aligned = if is_zstd(bytes) {
-            let decoded = decode_zstd_to_vec(bytes, &source_path)
-                .map_err(|err| {
-                    crate::operation_failed!("runtime", "from_bytes", "decode_zstd_bytes", err)
-                })?;
+            let decoded = decode_zstd_to_vec(bytes, &source_path).map_err(|err| {
+                crate::operation_failed!("runtime", "from_bytes", "decode_zstd_bytes", err)
+            })?;
             let mut aligned = AlignedVec::with_capacity(decoded.len());
             aligned.extend_from_slice(&decoded);
             aligned
@@ -266,4 +263,3 @@ fn temp_decode_path(db_path: &Path) -> PathBuf {
         nanos
     ))
 }
-

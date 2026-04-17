@@ -7,11 +7,12 @@ use std::fs;
 use std::fs::File;
 use std::io::{BufRead, BufReader, Cursor};
 use std::path::{Path, PathBuf};
+use std::time::Duration;
 use zip::ZipArchive;
 
 #[path = "../engine/city.rs"]
 mod city;
-use city::{CityCore, CityMeta, normalize};
+use city::{CityCore, CityMeta, normalize_keys};
 
 // ── CityPoint: only used for building city index files ──
 #[derive(rkyv::Archive, rkyv::Serialize, rkyv::Deserialize, Debug, Clone, Copy)]
@@ -24,7 +25,8 @@ struct CityPoint {
 // ----------- MAIN -----------
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let version = parse_version(env::args().skip(1))?;
+    let config = parse_args(env::args().skip(1))?;
+    let version = config.version;
     let fst_path = versioned_name(&version, "fst");
     let core_path = versioned_name(&version, "core");
     let meta_path = versioned_name(&version, "meta");
@@ -42,25 +44,17 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     let admin1_lookup = load_admin1_lookup()?;
     let admin2_lookup = load_admin2_lookup()?;
     let country_names = load_country_names(&geo_db_path)?;
-    let city_enrichment_index = load_city_enrichment_index(Path::new("cities"))?;
+    let city_enrichment_index =
+        load_city_enrichment_index(&config.cities_dir, config.worldcities_csv_path.as_deref())?;
 
-    // ---- DOWNLOAD ----
-    let bytes = reqwest::blocking::get("https://download.geonames.org/export/dump/cities500.zip")?
-        .bytes()?;
-
-    // ---- ZIP READ ----
-    let reader = Cursor::new(bytes);
-    let mut zip = ZipArchive::new(reader)?;
-    let file = zip.by_name("cities500.txt")?;
-    let buf = BufReader::new(file);
+    let lines = load_cities500_lines(config.cities500_path.as_deref())?;
 
     let mut string_pool = StringPool::new();
     let mut cities: Vec<CityCore> = Vec::new();
     let mut points: Vec<CityPoint> = Vec::new();
 
     // ---- PARSE ----
-    for line in buf.lines() {
-        let line = line?;
+    for line in lines {
         let mut p = line.split('\t');
 
         let geoname_id: u32 = p.next().unwrap_or("0").parse().unwrap_or(0);
@@ -96,28 +90,24 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
         });
 
         // ---- FST ----
-        collect_key(
-            &mut city_keys,
-            city_key(
-                country_code,
-                admin1_code.as_deref(),
-                admin2_code.as_deref(),
-                geoname_id,
-                name,
-            ),
-            geoname_id as u64,
-        );
-        collect_key(
-            &mut city_keys,
-            city_key(
-                country_code,
-                admin1_code.as_deref(),
-                admin2_code.as_deref(),
-                geoname_id,
-                ascii,
-            ),
-            geoname_id as u64,
-        );
+        for key in city_key_variants(
+            country_code,
+            admin1_code.as_deref(),
+            admin2_code.as_deref(),
+            geoname_id,
+            name,
+        ) {
+            collect_key(&mut city_keys, key, geoname_id as u64);
+        }
+        for key in city_key_variants(
+            country_code,
+            admin1_code.as_deref(),
+            admin2_code.as_deref(),
+            geoname_id,
+            ascii,
+        ) {
+            collect_key(&mut city_keys, key, geoname_id as u64);
+        }
 
         if let Some(country_name) = country_names.get(country_code) {
             add_city_enrichment_keys(
@@ -137,17 +127,15 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
         for a in alt.split(',').filter(|s| !s.is_empty()) {
             if !a.is_empty() {
-                collect_key(
-                    &mut city_keys,
-                    city_key(
-                        country_code,
-                        admin1_code.as_deref(),
-                        admin2_code.as_deref(),
-                        geoname_id,
-                        a,
-                    ),
-                    geoname_id as u64,
-                );
+                for key in city_key_variants(
+                    country_code,
+                    admin1_code.as_deref(),
+                    admin2_code.as_deref(),
+                    geoname_id,
+                    a,
+                ) {
+                    collect_key(&mut city_keys, key, geoname_id as u64);
+                }
             }
         }
 
@@ -207,10 +195,13 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     Ok(())
 }
 
-fn parse_version(
+fn parse_args(
     mut args: impl Iterator<Item = String>,
-) -> Result<String, Box<dyn std::error::Error>> {
+) -> Result<BuildCityConfig, Box<dyn std::error::Error>> {
     let mut version = String::from("0.0.1");
+    let mut cities500_path: Option<PathBuf> = None;
+    let mut worldcities_csv_path: Option<PathBuf> = None;
+    let mut cities_dir = PathBuf::from("cities");
 
     while let Some(arg) = args.next() {
         match arg.as_str() {
@@ -222,6 +213,30 @@ fn parse_version(
                 }
                 version = trimmed.to_string();
             }
+            "--cities500" => {
+                let value = args.next().ok_or("missing value for --cities500")?;
+                let trimmed = value.trim();
+                if trimmed.is_empty() {
+                    return Err("--cities500 cannot be empty".into());
+                }
+                cities500_path = Some(PathBuf::from(trimmed));
+            }
+            "--worldcities-csv" => {
+                let value = args.next().ok_or("missing value for --worldcities-csv")?;
+                let trimmed = value.trim();
+                if trimmed.is_empty() {
+                    return Err("--worldcities-csv cannot be empty".into());
+                }
+                worldcities_csv_path = Some(PathBuf::from(trimmed));
+            }
+            "--cities-dir" => {
+                let value = args.next().ok_or("missing value for --cities-dir")?;
+                let trimmed = value.trim();
+                if trimmed.is_empty() {
+                    return Err("--cities-dir cannot be empty".into());
+                }
+                cities_dir = PathBuf::from(trimmed);
+            }
             "--help" | "-h" => {
                 print_usage();
                 std::process::exit(0);
@@ -230,7 +245,12 @@ fn parse_version(
         }
     }
 
-    Ok(version)
+    Ok(BuildCityConfig {
+        version,
+        cities500_path,
+        worldcities_csv_path,
+        cities_dir,
+    })
 }
 
 fn versioned_name(version: &str, ext: &str) -> PathBuf {
@@ -239,7 +259,32 @@ fn versioned_name(version: &str, ext: &str) -> PathBuf {
 
 fn print_usage() {
     eprintln!("Usage:");
-    eprintln!("  cargo run --bin build_city -- [--version X.Y.Z]");
+    eprintln!(
+        "  cargo run --bin build_city -- [--version X.Y.Z] [--cities500 /path/to/cities500.txt] [--worldcities-csv /path/to/worldcities.csv] [--cities-dir /path/to/cities]"
+    );
+}
+
+fn load_cities500_lines(
+    cities500_path: Option<&Path>,
+) -> Result<Vec<String>, Box<dyn std::error::Error>> {
+    if let Some(path) = cities500_path {
+        let file = File::open(path)?;
+        let reader = BufReader::new(file);
+        return Ok(reader.lines().collect::<Result<Vec<_>, _>>()?);
+    }
+
+    let client = http_client()?;
+    let bytes = client
+        .get("https://download.geonames.org/export/dump/cities500.zip")
+        .send()?
+        .error_for_status()?
+        .bytes()?;
+
+    let reader = Cursor::new(bytes);
+    let mut zip = ZipArchive::new(reader)?;
+    let file = zip.by_name("cities500.txt")?;
+    let reader = BufReader::new(file);
+    Ok(reader.lines().collect::<Result<Vec<_>, _>>()?)
 }
 
 fn add_city_enrichment_keys(
@@ -255,15 +300,26 @@ fn add_city_enrichment_keys(
     lat: f32,
     lon: f32,
 ) {
-    let country_key = normalize(country_name);
+    let country_keys = normalize_keys(country_name);
+    if country_keys.is_empty() {
+        return;
+    }
 
     for lookup_name in [name, ascii] {
-        let name_key = normalize(lookup_name);
-        if name_key.is_empty() {
-            continue;
+        let name_keys = normalize_keys(lookup_name);
+        let mut candidates = None;
+        'lookup: for country_key in &country_keys {
+            for name_key in &name_keys {
+                if let Some(matches) =
+                    enrichment_index.get(&(country_key.clone(), name_key.clone()))
+                {
+                    candidates = Some(matches);
+                    break 'lookup;
+                }
+            }
         }
 
-        let Some(candidates) = enrichment_index.get(&(country_key.clone(), name_key)) else {
+        let Some(candidates) = candidates else {
             continue;
         };
 
@@ -278,11 +334,10 @@ fn add_city_enrichment_keys(
         };
 
         for alias in &best_match.aliases {
-            collect_key(
-                city_keys,
-                city_key(country_code, admin1_code, admin2_code, geoname_id, alias),
-                geoname_id as u64,
-            );
+            for key in city_key_variants(country_code, admin1_code, admin2_code, geoname_id, alias)
+            {
+                collect_key(city_keys, key, geoname_id as u64);
+            }
         }
 
         break;
@@ -292,10 +347,12 @@ fn add_city_enrichment_keys(
 fn load_country_names(
     _geo_db_path: &Path,
 ) -> Result<HashMap<String, String>, Box<dyn std::error::Error>> {
-    let bytes = reqwest::blocking::get(
-        "https://raw.githubusercontent.com/datasets/geo-countries/main/data/countries.geojson",
-    )?
-    .bytes()?;
+    let client = http_client()?;
+    let bytes = client
+        .get("https://raw.githubusercontent.com/datasets/geo-countries/main/data/countries.geojson")
+        .send()?
+        .error_for_status()?
+        .bytes()?;
     let root: Value = serde_json::from_slice(&bytes)?;
     let features = root
         .get("features")
@@ -380,6 +437,7 @@ fn derive_iso2_from_name(name: &str) -> [u8; 2] {
 
 fn load_city_enrichment_index(
     cities_dir: &Path,
+    worldcities_csv_path: Option<&Path>,
 ) -> Result<HashMap<(String, String), Vec<CityEnrichment>>, Box<dyn std::error::Error>> {
     let mut index: HashMap<(String, String), Vec<CityEnrichment>> = HashMap::new();
 
@@ -398,9 +456,9 @@ fn load_city_enrichment_index(
         let records: Vec<CityEnrichmentRecord> = serde_json::from_slice(&bytes)?;
 
         for record in records {
-            let country_key = normalize(&record.country);
-            let name_key = normalize(&record.name);
-            if country_key.is_empty() || name_key.is_empty() {
+            let country_keys = normalize_keys(&record.country);
+            let name_keys = normalize_keys(&record.name);
+            if country_keys.is_empty() || name_keys.is_empty() {
                 continue;
             }
 
@@ -411,8 +469,12 @@ fn load_city_enrichment_index(
                 .chain(record.other_names.into_values())
                 .filter(|value| !value.trim().is_empty())
             {
-                let normalized_alias = normalize(&alias);
-                if normalized_alias.is_empty() || !seen.insert(normalized_alias) {
+                let alias_keys = normalize_keys(&alias);
+                if alias_keys.is_empty() {
+                    continue;
+                }
+
+                if alias_keys.iter().all(|key| !seen.insert(key.clone())) {
                     continue;
                 }
                 aliases.push(alias);
@@ -422,18 +484,86 @@ fn load_city_enrichment_index(
                 continue;
             }
 
-            index
-                .entry((country_key, name_key))
-                .or_default()
-                .push(CityEnrichment {
-                    latitude: record.latitude,
-                    longitude: record.longitude,
-                    aliases,
-                });
+            let enrichment = CityEnrichment {
+                latitude: record.latitude,
+                longitude: record.longitude,
+                aliases,
+            };
+
+            for country_key in &country_keys {
+                for name_key in &name_keys {
+                    index
+                        .entry((country_key.clone(), name_key.clone()))
+                        .or_default()
+                        .push(enrichment.clone());
+                }
+            }
         }
     }
 
+    if let Some(worldcities_csv_path) = worldcities_csv_path {
+        load_worldcities_csv_enrichment(worldcities_csv_path, &mut index)?;
+    }
+
     Ok(index)
+}
+
+fn load_worldcities_csv_enrichment(
+    worldcities_csv_path: &Path,
+    index: &mut HashMap<(String, String), Vec<CityEnrichment>>,
+) -> Result<(), Box<dyn std::error::Error>> {
+    let mut reader = csv::ReaderBuilder::new()
+        .flexible(true)
+        .from_path(worldcities_csv_path)?;
+
+    for row in reader.deserialize::<WorldCitiesRecord>() {
+        let row = row?;
+
+        let country_keys = normalize_keys(&row.country);
+        let name_keys = normalize_keys(&row.city);
+        if country_keys.is_empty() || name_keys.is_empty() {
+            continue;
+        }
+
+        let mut aliases = Vec::new();
+        let mut seen = HashSet::new();
+
+        for alias in [row.city, row.city_ascii]
+            .into_iter()
+            .filter(|value| !value.trim().is_empty())
+        {
+            let alias_keys = normalize_keys(&alias);
+            if alias_keys.is_empty() {
+                continue;
+            }
+
+            if alias_keys.iter().all(|key| !seen.insert(key.clone())) {
+                continue;
+            }
+            aliases.push(alias);
+        }
+
+        if aliases.is_empty() {
+            continue;
+        }
+
+        let enrichment = CityEnrichment {
+            latitude: row.lat,
+            longitude: row.lng,
+            aliases,
+        };
+
+        for country_key in &country_keys {
+            for name_key in &name_keys {
+                index
+                    .entry((country_key.clone(), name_key.clone()))
+                    .or_default()
+                    .push(enrichment.clone());
+            }
+        }
+    }
+
+    Ok(())
 }
 
 fn haversine_km(lat1: f32, lon1: f32, lat2: f32, lon2: f32) -> f32 {
@@ -461,9 +591,8 @@ fn city_key(
     admin1_code: Option<&str>,
     admin2_code: Option<&str>,
     geoname_id: u32,
-    raw_name: &str,
+    normalized_name: &str,
 ) -> String {
-    let normalized_name = normalize(raw_name);
     if normalized_name.is_empty() {
         return String::new();
     }
@@ -478,6 +607,28 @@ fn city_key(
     )
 }
 
+fn city_key_variants(
+    country_code: &str,
+    admin1_code: Option<&str>,
+    admin2_code: Option<&str>,
+    geoname_id: u32,
+    raw_name: &str,
+) -> Vec<String> {
+    normalize_keys(raw_name)
+        .into_iter()
+        .map(|normalized_name| {
+            city_key(
+                country_code,
+                admin1_code,
+                admin2_code,
+                geoname_id,
+                &normalized_name,
+            )
+        })
+        .filter(|key| !key.is_empty())
+        .collect()
+}
+
 fn normalize_optional(value: &str) -> Option<String> {
     let trimmed = value.trim();
     if trimmed.is_empty() {
@@ -488,9 +639,12 @@ fn normalize_optional(value: &str) -> Option<String> {
 }
 
 fn load_admin1_lookup() -> Result<HashMap<String, String>, Box<dyn std::error::Error>> {
-    let bytes =
-        reqwest::blocking::get("https://download.geonames.org/export/dump/admin1CodesASCII.txt")?
-            .bytes()?;
+    let client = http_client()?;
+    let bytes = client
+        .get("https://download.geonames.org/export/dump/admin1CodesASCII.txt")
+        .send()?
+        .error_for_status()?
+        .bytes()?;
     let reader = BufReader::new(Cursor::new(bytes));
     let mut lookup = HashMap::new();
 
@@ -508,9 +662,12 @@ fn load_admin1_lookup() -> Result<HashMap<String, String>, Box<dyn std::error::E
 }
 
 fn load_admin2_lookup() -> Result<HashMap<String, String>, Box<dyn std::error::Error>> {
-    let bytes =
-        reqwest::blocking::get("https://download.geonames.org/export/dump/admin2Codes.txt")?
-            .bytes()?;
+    let client = http_client()?;
+    let bytes = client
+        .get("https://download.geonames.org/export/dump/admin2Codes.txt")
+        .send()?
+        .error_for_status()?
+        .bytes()?;
     let reader = BufReader::new(Cursor::new(bytes));
     let mut lookup = HashMap::new();
 
@@ -535,6 +692,12 @@ fn admin2_lookup_key(country_code: &str, admin1_code: &str, admin2_code: &str) -
     format!("{}.{}.{}", country_code, admin1_code, admin2_code)
 }
 
+fn http_client() -> Result<reqwest::blocking::Client, Box<dyn std::error::Error>> {
+    Ok(reqwest::blocking::Client::builder()
+        .timeout(Duration::from_secs(30 * 60))
+        .build()?)
+}
+
 #[derive(Debug, Deserialize)]
 struct CityEnrichmentRecord {
     name: String,
@@ -550,6 +713,23 @@ struct CityEnrichment {
     latitude: f32,
     longitude: f32,
     aliases: Vec<String>,
+}
+
+#[derive(Debug, Deserialize)]
+struct WorldCitiesRecord {
+    city: String,
+    #[serde(default)]
+    city_ascii: String,
+    lat: f32,
+    lng: f32,
+    country: String,
+}
+
+struct BuildCityConfig {
+    version: String,
+    cities500_path: Option<PathBuf>,
+    worldcities_csv_path: Option<PathBuf>,
+    cities_dir: PathBuf,
 }
 
 struct StringPool {

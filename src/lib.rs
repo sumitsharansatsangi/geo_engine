@@ -1,4 +1,5 @@
 mod engine;
+pub mod frb_api;
 pub mod spatial_sidecar;
 
 #[cfg(all(feature = "wasm", target_arch = "wasm32"))]
